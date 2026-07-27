@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T06:28:09Z",
+  "updatedAt": "2026-07-27T06:53:24Z",
   "items": [
     {
       "id": "nIpKFmPDrZE",
@@ -2156,6 +2156,15 @@
       "shorts": 8,
       "channelsChecked": 33,
       "warnings": 0,
+      "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-07-27T06:53:24Z",
+      "new": 0,
+      "long": 0,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 2,
       "secondaryQuery": "AI agents"
     }
   ]
