@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T17:53:17Z",
+  "updatedAt": "2026-07-27T18:53:25Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -405,7 +405,7 @@
       "likeCount": 124
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-27T17:53:17Z",
+      "checkedAt": "2026-07-27T18:53:25Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -1703,7 +1703,7 @@
       "probeClient": "web_embedded"
     },
     "u8o8OAbLuDo": {
-      "checkedAt": "2026-07-27T17:53:17Z",
+      "checkedAt": "2026-07-27T18:53:25Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -2746,15 +2746,6 @@
       "description": "Your agent loop is one worker. You've been running it like it's the whole team.\n\nThe field just shifted from loop engineering to graph engineering — your loop becomes one node inside an organization of agents that share a goal. And here's the part nobody explains: you're not running one graph, you're running two at the same time. An org graph is your permanent roster — long-lived agents with named roles that always exist. A work graph is what's happening right now — tasks that spawn, split, merge, and disappear based on what the agents discover. The hard part: when one node fails in a graph, three agents downstream are working off stale inputs and none of them know it.\n\n→ A loop is one agent's contract with itself: trigger, act, verify, retry — all in one context\n→ A graph is an organization of agents where each node runs its own loop and edges define how work flows\n→ The org graph is your permanent team roster — long-lived agents with named roles that always exist\n→ The work graph rewrites itself mid-sprint — tasks spawn, split, merge, and disappear as evidence changes\n→ When a node fails in a graph, the entire downstream goes stale — failure surface is way larger than a loop\n→ A loop is one worker doing its job. A graph is the whole team, organized.\n\nComment \"GRAPH\" and I'll send you the breakdown with both graph types mapped out.\nAre you still wiring one loop at a time, or have you started thinking in graphs?\n\n#AI #aiagents #graphengineering #agenticai #multiagent #claudecode #softwareengineering #buildinpublic #automation #devtools\n\n#Shorts",
       "commentCount": 2,
       "likeCount": 9,
-      "probeClient": "web_embedded"
-    },
-    "4lxYutx99gs": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 10,
-      "likeCount": 278,
       "probeClient": "web_embedded"
     },
     "Cubm7VMOvTE": {
@@ -4128,15 +4119,6 @@
       "likeCount": 266,
       "probeClient": "web_embedded"
     },
-    "BcF-RT6I5Vw": {
-      "checkedAt": "2026-07-27T09:53:51Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Welcome everyone, and thanks for joining us.\n\nIn this show we're going to explore something that's changing software development: the impact of AI on open source development, and specifically what that means for Decred.\n\nThis isn't a discussion about replacing developers or having AI write consensus code. Core protocol development still demands deep expertise, rigorous review, and human judgement. That's not changing anytime soon, we’ll be looking at the work these guys don’t enjoy. Mundane design, text copy, and the UI review process.\n\nWhat’s changing is the barrier to building better user experiences.\n\nHistorically, creating polished front-end applications, modern websites, and consistent user interfaces required specialist designers, experienced frontend engineers, and often budgets running into hundreds of thousands of dollars. \n\nMany open source projects simply couldn't justify that investment. Today, the equation is different.\n\nWith modern AI tools, someone with modest technical skills, a clear vision, and plenty of persistence can build things that would have previously required an entire team. It's not magic—it still takes a lot of time, iteration, testing, and learning—but the cost of turning ideas into working software has fallen dramatically.\n\nThat's the opportunity we're going to discuss. So whether you're interested in AI, open source, design, or the future of Decred, we hope you'll enjoy the discussion.",
-      "commentCount": 0,
-      "likeCount": 11,
-      "probeClient": "web_embedded"
-    },
     "2zdWI2SYB9I": {
       "checkedAt": "2026-07-27T10:53:51Z",
       "embedAllowed": true,
@@ -4171,24 +4153,6 @@
       "description": "From the BBC Future of Journalism Festival at the University of Nairobi.\nA big part of everyone’s future is Artificial Intelligence.  But how should journalists use it?\nMwende Mukwanyaga from the AI Salon talks with a group of young journalists about what AI means and it can be used safely.\n\n#AI #journalism #news\n\nSubscribe: http://bit.ly/subscribetoafrica\r\nWebsite: https://www.bbc.com/africa\r\nFacebook: https://www.facebook.com/bbcnewsafrica/\r\nTwitter: https://www.twitter.com/bbcafrica/\r\nInstagram: https://www.instagram.com/bbcafrica/",
       "commentCount": 1,
       "likeCount": 16,
-      "probeClient": "web_embedded"
-    },
-    "PaVJ_rTtriI": {
-      "checkedAt": "2026-07-27T10:53:51Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔒 Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com\n\nEleazer Yudkowsky argues that today's AI systems are already displaying behaviors that should concern anyone thinking about artificial general intelligence, pointing to examples including OpenAI's GPT-4o exhibiting excessive flattery despite instructions to stop and Anthropic's research on alignment faking, where models appeared to comply during training while reverting to previous behavior when unobserved. He explains why reinforcement learning may produce increasingly unpredictable strategies, argues that AI objectives can diverge from human intentions in subtle but catastrophic ways, and warns that competitive pressure between AI companies and nations makes slowing development extremely difficult. The conversation concludes with his proposal for an internationally supervised \"off switch\" built around tracking advanced AI compute, allowing humanity to pause development if dangerous capabilities emerge before they become uncontrollable.\n\n📚 Sources cited in this video:\n\n- Anthropic, Alignment Faking in Large Language Models\nhttps://www.anthropic.com/research/alignment-faking\n\n- OpenAI, GPT-4o System Card\nhttps://openai.com/index/gpt-4o-system-card/\n\n- Future of Life Institute, Pause Giant AI Experiments Letter\nhttps://futureoflife.org/open-letter/pause-giant-ai-experiments/\n\n- Ezra Klein Show Interview with Eleazer Yudkowsky\nhttps://www.nytimes.com/column/ezra-klein-podcast\n\n⚠️ DISCLAIMER: This channel provides AI commentary and analysis for educational and informational purposes only. Views expressed by guests are their own and do not represent the positions of any company or institution. We encourage viewers to consult multiple sources and form their own conclusions.\n\n#ai #agi #artificialintelligence",
-      "commentCount": 60,
-      "likeCount": 280,
-      "probeClient": "web_embedded"
-    },
-    "x8awWAj5fUI": {
-      "checkedAt": "2026-07-27T10:53:51Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Ready to dive into the dark side of AI? This video uncovers jaw-dropping stories of rogue AI, cybercrime, deepfakes, job shakeups, and even how AI might be running up your electric bill! If you've ever wondered what happens when machines get a little too clever, you can't miss this. Hit subscribe for more wild tech tales and let us know in the comments what shocked you most! #AI #technology #future #cybersecurity #jobs\n\n👉 This channel was created in collaboration with https://www.youtube.com/@baladementale\n\n0:06 - AI Emergent Behaviors: The Alibaba Example\n1:36 - Shrinking Human Role in AI Progress\n2:41 - Risks of AI Autonomy and Workarounds\n5:05 - AI in Cybersecurity: Threats and Abuse\n9:41 - AI in Molecular Biology and Biosecurity\n10:36 - AI and the Spread of Synthetic Media\n17:43 - Job Market and Societal Shifts Due to AI\n22:39 - Environmental, Military, and Closing Thoughts on AI\n\nWe’re now available on Spotify! Listen now https://open.spotify.com/show/01UCvkhG8T0VWT3XwHvRHe",
-      "commentCount": 0,
-      "likeCount": 5,
       "probeClient": "web_embedded"
     },
     "jgPYP50IE5I": {
@@ -4231,15 +4195,6 @@
       "description": "Here are my one-person business automation workflows.\n*Check These Out*\n→ Product Prompts: https://learn.themonetizedmom.com/product-prompts-offer?utm_source=youtube&utm_medium=use-these-systems&utm_campaign=product-prompts\n\n→ Passive Sales System: https://learn.themonetizedmom.com/passive-sales-system?utm_source=youtube&utm_medium=use-these-systems&utm_campaign=passive-sales-system\n\n→ Viral Views Toolkit: https://learn.themonetizedmom.com/viral-views?utm_source=youtube&utm_medium=use-these-systems&utm_campaign=viral-views\n\n→ The Monetized Mom Book: https://learn.themonetizedmom.com/ebook?utm_source=youtube&utm_medium=use-these-systems&utm_campaign=the-monetized-mom\n\n*Tools I Use*\n→ VidIQ FREE: https://vidiq.com/mamaandmoney \n\n→ Try Systeme https://systeme.io/?sa=sa0258690597363fec8a0d1ec3e9802fe33aeb20d7\n\n→ Try Kartra: https://try.kartra.com/ikevy3v2y7wg\n\nDisclaimer: I only share what's genuinely worked for me — but your results will depend on your effort, consistency, and unique situation. Nothing here is financial advice. Some links may be affiliate links, meaning I may earn a small commission at no extra cost to you. I appreciate your support!\n\n00:00 Intro\n00:16 What My Business Model Is\n00:40 Content Automations\n01:17 Research Automation\n02:47 Script Generation\n04:04 Editing Automation\n06:11 Email Marketing Automation\n8:51 Customer Service Automation",
       "commentCount": 0,
       "likeCount": 7,
-      "probeClient": "web_embedded"
-    },
-    "OaFmRHiKp68": {
-      "checkedAt": "2026-07-27T11:53:25Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this video, I have explained how to use playwright CLI & Skills.md to work with AI Agents using Claude Code. \nWe will see why Playwright CLI is better than Playwright MCP server in terms of token consumption. \n\nRead the full document here: https://www.shapemyinterview.com/resources/playwright-cli-skills-guide\n\n==============================================\n\n\nSchedule a meeting in case of any queries/guidance/counselling:\nhttps://calendly.com/naveenautomationlabs\n\n~~~Subscribe to this channel, and press bell icon to get some interesting videos on Selenium and Automation:\nhttps://www.youtube.com/c/Naveen%20AutomationLabs?sub_confirmation=1\n\nFollow me on my Facebook Page:\nhttps://www.facebook.com/groups/naveenqtpexpert/\n\nLet's join our Automation community for some amazing knowledge sharing and group discussion on Telegram:\nhttps://t.me/joinchat/9FrG-KzGlvxjNmQ1\n\nNaveen AutomationLabs Paid Courses:\nGIT Hub Course:\nhttps://naveenautomationlabs.com/gitcourse/\n\nJava & Selenium: \nhttps://naveenautomationlabs.com/selenium-java-full-paid-course-recorded-videos/\n\nJava & API +POSTMAN + RestAssured + HttpClient:\nhttps://naveenautomationlabs.com/manual-automation-testing-of-webservices-api/",
-      "commentCount": 8,
-      "likeCount": 95,
       "probeClient": "web_embedded"
     },
     "GtQGFwvxNl0": {
@@ -4545,15 +4500,6 @@
       "likeCount": 519,
       "probeClient": "web_embedded"
     },
-    "1B_8Xdsgbgk": {
-      "checkedAt": "2026-07-27T14:53:48Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "👉 Free 1:1 AI Consultation: https://cal.com/azimk/chat-yt\n✅ Get Full Access to All My Resources: https://resource-hub-inspera.vercel.app/\n\n————————\n\nDeploy your AIOS (AI Operating System) Today:\nhttps://cal.com/azimk/chat-yt\n\nSubscribe for weekly videos on growing your insurance business with AI, Automation, and lead generation strategies: https://www.youtube.com/@azim-inspera?sub_confirmation=1",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "48tCnb_7_-s": {
       "checkedAt": "2026-07-27T15:53:58Z",
       "embedAllowed": true,
@@ -4689,7 +4635,7 @@
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-27T17:53:17Z",
+      "checkedAt": "2026-07-27T18:53:25Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4719,15 +4665,6 @@
       "description": "🟣 Join Corporate Automation OS - https://www.skool.com/augmented-ai-automations/about\n🟣 Free Automation Skool - https://www.skool.com/corporate-automation-hub\n\n🎬 I automated my entire video editing process. Here's the exact system I use to go from 2 hours down to 30 minutes.\n\nAfter 17 years of editing videos, I built my own automated video editor that cuts mistakes, removes silences, adds captions, and places B-roll for me. No more manual clicking through Descript. No more paying per-minute video editors on Fiverr.\n\n🔥 In this video I show you:\n✅ Why tools like Descript still fall short for creators who edit daily\n✅ The system I built to auto-transcribe, auto-cut, and auto-place B-roll\n✅ A full live demo of the Auto Video Editor inside Corporate Automation OS\n✅ How I connect it to Claude via MCP to push videos straight to social media\n\nIf you want the exact system, join Corporate Automation OS. You get a free 7-day trial, and you can cancel anytime before you're billed.\n\n👉 Join Corporate Automation OS: https://www.skool.com/augmented-ai-automations/about\n\n🚀 New to automation? Start with our free 7-Day Business Automation Challenge. It takes you from chatting with AI to building real systems that automate up to 80% of your business.\n\n👉 Join the free challenge: https://www.skool.com/corporate-automation-hub\n\n💼 Want a custom automation system built for your business? Let's work together.\n\n👉 Work with me: www.augmentedaiautomations.com/work-with-me\n\nI've been building AI systems for over 11 years, helping companies like Tshwane University of Technology (TuT), Momentum, and Resolute Robotics get a real return on their automation.\n\n0:00 – I Automated My Entire Video Editing Process\n0:30 – The Old Way: Syncing, Cutting, and Hiring Editors\n3:00 – Where Descript Still Falls Short\n4:52 – Why I Built My Own Video Editor\n6:44 – How to Get This Auto Video Editor\n7:30 – Live Demo: Setting Up a New Project\n8:12 – Auto Cutting, Silence Removal, and Captions\n9:53 – Auto-Placing B-Roll With AI\n11:09 – From 2 Hours to 30 Minutes",
       "commentCount": 0,
       "likeCount": 3,
-      "probeClient": "web_embedded"
-    },
-    "7pqRRxrdr0c": {
-      "checkedAt": "2026-07-27T16:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "How to give an AI agent a real job: start with the customer support problem your team keeps fixing by hand. We closed 51 of 52 support issues, then rebuilt the process so our biggest category stopped happening at all.\n\nHow to find the first problem your agent should solve (guide):  https://natesnewsletter.substack.com/p/first-ai-agent-use-case?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside AI automation for customer support?\n\nThe common story is that AI helps you answer tickets faster — but the real question is whether the ticket had to exist at all.\n\nIn this video, I share the inside scoop on how we used AI to root-cause our support work instead of speeding it up:\n\n- How we took a comparable support week from 52 cases down to 19\n- Why you group cases by root cause, not by subject line\n- What still needs human approval when access or money is involved\n- Where this same repeated pain shows up in sales, finance, and IT\n\nAgents can carry the research and prepare the work, and the cases left over will be the harder ones that still need your judgment.\n\nChapters:\n00:00 Fifty-one of fifty-two support issues, fixed with AI\n01:21 The hidden work behind a single support ticket\n02:09 Rebuilding the access path so the question stops\n05:49 Writing down the process before automating anything\n07:34 Recording the pain: one ticket per problem\n08:51 Keeping human approval on access and money\n09:56 Twenty-six patterns and two upstream failures\n11:31 Gumroad: an agent that shipped a bug fix\n12:18 When the customer became the approver\n14:43 Pull 50 to 100 cases and strip the PII\n16:23 Picking a boring, reversible first problem\n19:02 Keep a scorecard and count again next week\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
-      "commentCount": 76,
-      "likeCount": 415,
       "probeClient": "web_embedded"
     },
     "G2BP1KfK0qQ": {
@@ -4812,6 +4749,72 @@
       "description": "Andrew Ng's team just open sourced a completely free, open-source AI desktop agent called OpenWorker — and it works with ANY large language model. In this video, I give you a full tour, show you how to install it on Windows, and walk through three real demos: generating a document, running terminal commands, and using the browser tool to take screenshots and create a report.\n\nAll opinions are my own and this is not a sponsored video.\n\n---\n\n📌 CHAPTERS\n\n0:00 Introduction\n0:16 What is OpenWorker?\n0:29 Key Differentiators\n1:16 Disclaimer & Beta Notice\n1:32 Website & Architecture Overview\n3:52 Installation & Setup\n5:00 GitHub Repo & Personas\n6:02 Demo: Document Renewal Brief\n7:44 Demo: Terminal & File Manifest\n8:41 Demo: Browser & Screenshots\n11:05 Wrap-Up",
       "commentCount": 25,
       "likeCount": 183,
+      "probeClient": "web_embedded"
+    },
+    "2jsjiwV_1pA": {
+      "checkedAt": "2026-07-27T18:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 9,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-27T18:53:25Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "EmeJbj-XtnQ": {
+      "checkedAt": "2026-07-27T18:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This is an unofficial, independently created AI-assisted recreation of\nChristopher Nolan’s The Odyssey trailer, produced as a filmmaking and\nvisual-effects experiment for the What If World channel.\n\nAll visuals in this video were independently recreated using generative\nAI tools. No footage or music from the official trailer was used.\n\nThis project is not affiliated with, authorized by, or endorsed by\nUniversal Pictures, Syncopy, Christopher Nolan, or the filmmakers of\nThe Odyssey.",
+      "commentCount": 1,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "g3lSvlHYXTg": {
+      "checkedAt": "2026-07-27T18:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥AI Accelerator Program: From Prompts to Agentic Workflows - https://www.simplilearn.com/ai-accelerator-program?utm_campaign=g3lSvlHYXTg&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Professional Certificate Program in Agentic AI & Multi-Agent Systems - https://www.simplilearn.com/agentic-ai-professional-certificate-course?utm_campaign=g3lSvlHYXTg&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Applied Agentic AI: Systems, Design & Impact - https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=g3lSvlHYXTg&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Advanced Executive Program In Applied Generative AI - https://www.simplilearn.com/applied-generative-ai-course?utm_campaign=g3lSvlHYXTg&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Microsoft AI Engineer Program - https://www.simplilearn.com/ai-engineer-course?utm_campaign=g3lSvlHYXTg&utm_medium=DescriptionFirstFold&utm_source=Youtube\n\nArtificial Intelligence is transforming how products, services, and digital experiences are built, but not all AI courses teach the same skills. In this video, we compare five popular AI programs AI Accelerator Program by Simplilearn, Agentic AI & Multi-Agent Systems by IIT Patna, Applied Agentic AI by Microsoft and Simplilearn, Applied Generative AI by IITM Pravartak, and the Microsoft AI Engineer Program to help you understand their unique learning approaches. From beginner-friendly AI application building and prompt engineering to advanced multi-agent systems, enterprise AI deployment, and full-stack AI engineering, each program is designed for different career goals. We explore the tools, technologies, and real-world projects covered in each course so you can decide which path aligns best with your skills and ambitions. Whether you are starting your AI journey or aiming to specialize in cutting-edge systems, this comparison will help you choose the right program for your future in AI.\n\nRelated Videos:\n✅ 1. https://youtu.be/2l7GS4rsrMI\n✅ 2. https://youtu.be/3PvsCRjwPTU\n✅ 3.https://youtu.be/_yUD0T067q4\n✅ 4. https://youtu.be/MSBmNHLlvAg\n✅ 5.https://youtu.be/uzfiaspC-Gc\n\n\n✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More Videos In This Category By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq\n\n#aitrainingcourses #aitrainingforbeginners #top5aitrainingprograms #bestaitrainingforbeginners #bestaitrainingcourses #bestaitrainingsites #topaitrainingcourses #aitrainingonline #aitrainingcoursesonline #topaitrainingcourses #topaitrainingplatforms #bestaitrainingcoursesforbeginners #topaitrainingprogramstogetajob #topaitrainingcoursestogerajob #whichisthebestaitrainingplatform #whichisthebestaitrainingcourse #simplilearn #2026\n\n➡️ About the Microsoft AI Engineer Program\n\nThe Microsoft AI Engineer Program is designed to equip you with the skills to build and deploy AI solutions. Gain a comprehensive understanding of generative AI, machine learning, and cloud-based AI tools through projects that simulate real-world scenarios and industry needs.\n\nKey Features:\n\n✅ Completion Certificate: Earn a joint certificate from Microsoft and Simplilearn\n✅ Microsoft Learn Badge: Unlock official badges on the Microsoft Learn portal\n✅ Beginner-Friendly Learning: Access a comprehensive curriculum with an optional module covering programming fundamentals\n✅ 140+ Hours of Live Training: Learn from industry experts through interactive sessions\n✅ Hands-On AI Development: Work on 25+ projects, guided practices and a capstone to showcase your skills\n✅ AI-900 Exam Preparation: Get in-depth training for the Microsoft Azure AI Fundamentals certification\n✅ Expert-Led Masterclasses: Learn directly from Microsoft experts via live online sessions\n✅ Industry-Leading Tools: Gain expertise in Azure OpenAI, Copilot, PyTorch, and more\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n✅ AI & ML Specialization: Explore machine learning, deep learning, and prompt engineering\n\nSkills Covered\n✅ Python\n✅ Data Science\n✅ Machine Learning\n✅ Deep Learning\n✅ Azure\n✅ Generative AI\n✅ Prompt Engineering\n✅ NLP\n✅ Transformers\n\n👉 Learn More At: https://www.simplilearn.com/ai-engineer-course?utm_campaign=g3lSvlHYXTg&utm_medium=Description&utm_source=Youtube \n\n🔥🔥 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688",
+      "commentCount": 3,
+      "likeCount": 32,
+      "probeClient": "web_embedded"
+    },
+    "Odmgh4Lut44": {
+      "checkedAt": "2026-07-27T18:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥Enroll for Generative AI Course: https://intellipaat.com/generative-ai-course/\n\n🔥𝐁𝐨𝐨𝐤 𝐲𝐨𝐮𝐫 𝐅𝐫𝐞𝐞 𝐌𝐚𝐬𝐭𝐞𝐫𝐜𝐥𝐚𝐬𝐬: https://forms.gle/g5tExa7e54xpYZW97\n\nArtificial Intelligence isn't just changing the way we work—it's creating entirely new careers.\n\nIn this video, we'll explore 10 of the fastest-growing Generative AI jobs that barely existed a few years ago, including AI Agent Engineer, LLM Engineer, RAG Engineer, Context Engineer, AgentOps Engineer, AI Safety Engineer, Synthetic Data Engineer, and more.\n\nIf you're a student, software engineer, data scientist, or working professional wondering which AI career to pursue in 2026 and beyond, this video will help you understand where the industry is heading and the skills companies are looking for.\n\n📚 In this video:\n✅ AI Agent Engineer\n✅ Human-AI Workflow Designer\n✅ LLM Engineer\n✅ AgentOps Engineer\n✅ AI Workflow & Orchestration Engineer\n✅ RAG Engineer\n✅ AI Safety & Red Team Engineer\n✅ AI Evaluation Engineer\n✅ Context Engineer\n✅ Synthetic Data Engineer\n\nWhether you're planning a career in Generative AI, AI Engineering, Machine Learning, or AI Agents, these are the roles shaping the future of work.\n\n👍 If you found this video helpful, don't forget to Like, Subscribe, and turn on notifications for more AI career and GenAI content from IntelliPaat.\n\n\n#generativeai  #aijobs  #aiagents  #futurecareers  #llm \n\n➡️ About the Course\nThe Generative AI Course by Intellipaat is designed to help learners master modern Generative AI concepts such as prompt engineering, large language models (LLMs), transformers, and Retrieval-Augmented Generation (RAG) through hands-on projects and live training sessions. The program includes about 96+ hours of learning with real-world applications like chatbots, AI agents, and content generators, and provides certification from Microsoft and iHUB IIT Roorkee. It also covers tools like OpenAI APIs, Hugging Face, LangChain, and deployment techniques, preparing learners for roles such as Prompt Engineer, AI Developer, and Generative AI Specialist.\n\n📌 Do subscribe to Intellipaat channel & come across more relevant Tech content: https://goo.gl/hhsGWb\n\n📚For more information, please write back to us at sales@intellipaat.com or call us at IND: +91-7022374614 / US : 1-800-216-8930",
+      "commentCount": 0,
+      "likeCount": 34,
+      "probeClient": "web_embedded"
+    },
+    "e5kg59Oe-G4": {
+      "checkedAt": "2026-07-27T18:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥Advanced Executive Program In Applied Generative AI - https://www.simplilearn.com/applied-generative-ai-course?utm_campaign=e5kg59Oe-G4&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Microsoft AI Engineer Program - https://www.simplilearn.com/ai-engineer-course?utm_campaign=e5kg59Oe-G4&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Applied Generative AI and Agentic Specialization - https://www.simplilearn.com/microsoft-applied-ai-course?utm_campaign=e5kg59Oe-G4&utm_medium=DescriptionFirstFold&utm_source=Youtube\n\nArtificial Intelligence is transforming how products, services, and digital experiences are built, but not all AI courses teach the same skills. In this video, we compare five popular AI programs AI Accelerator Program by Simplilearn, Agentic AI & Multi-Agent Systems by IIT Patna, Applied Agentic AI by Microsoft and Simplilearn, Applied Generative AI by IITM Pravartak, and the Microsoft AI Engineer Program to help you understand their unique learning approaches. From beginner-friendly AI application building and prompt engineering to advanced multi-agent systems, enterprise AI deployment, and full-stack AI engineering, each program is designed for different career goals. We explore the tools, technologies, and real-world projects covered in each course so you can decide which path aligns best with your skills and ambitions. Whether you are starting your AI journey or aiming to specialize in cutting-edge systems, this comparison will help you choose the right program for your future in AI.\n\nRelated Videos:\n✅ 1. https://youtu.be/2l7GS4rsrMI\n✅ 2. https://youtu.be/3PvsCRjwPTU\n✅ 3.https://youtu.be/_yUD0T067q4\n✅ 4. https://youtu.be/MSBmNHLlvAg\n✅ 5.https://youtu.be/uzfiaspC-Gc\n\n✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More Videos In This Category By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq\n\n#topaicourses #topaicoursesonline #topaicoursesforbeginners #topaicoursewithjobguarantee #topaicertifications2026 #topaicertificationcourses #topaicertificateprograms #topaicertificationsforbeginners #bestaicoursesonline #bestaicoursesonlinewithcertificate #bestaicoursesonlineforbeginners #bestonlineaicourses #bestonlineaicourseforbeginners #bestonlineaicertificateprograms #bestaicoursesonlinewithplacement #bestaicourses #simplilearn #2026\n\n➡️ About the Microsoft AI Engineer Program\n\nThe Microsoft AI Engineer Program is designed to equip you with the skills to build and deploy AI solutions. Gain a comprehensive understanding of generative AI, machine learning, and cloud-based AI tools through projects that simulate real-world scenarios and industry needs.\n\nKey Features:\n\n✅ Completion Certificate: Earn a joint certificate from Microsoft and Simplilearn\n✅ Microsoft Learn Badge: Unlock official badges on the Microsoft Learn portal\n✅ Beginner-Friendly Learning: Access a comprehensive curriculum with an optional module covering programming fundamentals\n✅ 140+ Hours of Live Training: Learn from industry experts through interactive sessions\n✅ Hands-On AI Development: Work on 25+ projects, guided practices and a capstone to showcase your skills\n✅ AI-900 Exam Preparation: Get in-depth training for the Microsoft Azure AI Fundamentals certification\n✅ Expert-Led Masterclasses: Learn directly from Microsoft experts via live online sessions\n✅ Industry-Leading Tools: Gain expertise in Azure OpenAI, Copilot, PyTorch, and more\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n✅ AI & ML Specialization: Explore machine learning, deep learning, and prompt engineering\n\nSkills Covered\n✅ Python\n✅ Data Science\n✅ Machine Learning\n✅ Deep Learning\n✅ Azure\n✅ Generative AI\n✅ Prompt Engineering\n✅ NLP\n✅ Transformers\n\n👉 Learn More At: https://www.simplilearn.com/ai-engineer-course?utm_campaign=e5kg59Oe-G4&utm_medium=Description&utm_source=Youtube \n\n🔥🔥 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688",
+      "commentCount": 1,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "ISCk7nyDqbc": {
+      "checkedAt": "2026-07-27T18:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "VISIT COLLEGE VIDYA -https://cvadm.com/uLwuQl\n\n🎓 Find Govt. Approved online UG, PG, and other courses easily with College Vidya! Here's why it's the best:\n\n✅ Free expert counselling from admission to placement.\n✅ Compare universities on 30+ factors (fees, ratings, placements, etc.).\n✅ EMI options are available, even if universities don’t offer them.\n✅ AI matches you with the perfect universities.\n✅ Guaranteed authentic university links, no scams!\n✅ FREE Career Booster Program (worth ₹5999).\n✅ Jobs & Internships Portal from day 1.\n✅ Get up to ₹20,000 subsidy on admission!\n\n🌐 Visit the website now and make the smartest choice for your future! 🚀\n\n📌VISIT COLLEGE VIDYA -https://cvadm.com/uLwuQl\n\n📌Apply Link -https://cvadm.com/uLwuQl\n📌Course Link - https://cvadm.com/uLwuQl\n\n---------------------------------------------------------\n\nDon't forget to join 👇\n👉WhatsApp group :https://chat.whatsapp.com/IctJYGI92Hk8rUYkcM4Sxe?s=cl&p=a&ilr=1&amv=0\n\n🚀 Google Generative AI Free Course + Free Certificate\n\nLearn the fundamentals of **Generative AI** with Google's free online course. This beginner-friendly course is designed for students, freshers, professionals, and anyone interested in Artificial Intelligence. You'll explore how Generative AI works, its real-world applications, responsible AI practices, and how Google uses AI technologies.\n\n✅ **What You'll Learn:**\n\n* Introduction to Generative AI\n* How Large Language Models (LLMs) work\n* Prompt engineering basics\n* Real-world AI applications\n* Responsible AI principles\n* AI tools and productivity tips\n\n🎓 **Course Benefits:**\n✔️ 100% Free to enroll\n✔️ Free Certificate (if offered by the course)\n✔️ Self-paced learning\n✔️ Beginner-friendly\n✔️ Complete in about 1 hour\n\n📌 This course is ideal for:\n\n* Students\n* Freshers\n* Job seekers\n* Working professionals\n* Anyone who wants to start learning AI\n\n👍 If you found this video helpful, don't forget to Like, Share, and Subscribe to **Infinity Info** for the latest free courses, internships, jobs, scholarships, and certification opportunities.\n\n📌Google Apply Link - https://www.simplilearn.com/free-generative-ai-course-skillup\n\n📌 VISIT COLLEGE VIDYA -https://cvadm.com/uLwuQl\n\n---------------------------------------------------------\n\n⚠️ IMPORTANT NOTE : All opportunities shared here are 100% FREE. Never pay any fees to anyone. Stay alert & stay safe! \n\n🌟𝗣𝗹𝗲𝗮𝘀𝗲 𝗹𝗲𝗮𝘃𝗲 𝗮 𝗟𝗜𝗞𝗘❤️ 𝗮𝗻𝗱 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 𝗳𝗼𝗿 𝗺𝗼𝗿𝗲 𝗔𝗠𝗔𝗭𝗜𝗡𝗚 𝗮𝗻𝗱 𝗟𝗮𝘁𝗲𝘀𝘁 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗲𝘀 ! 🌟\n\nFor Promotion/Collab - infinityinfo100@gmail.com 📥\n\n📌Join For Any Doubt and Latest Opportunites Updates 👇\n👉WhatsApp Group: https://whatsapp.com/channel/0029Vb7LxwWId7nGmuTTJj2D\n👉Teligram : https://t.me/infinityinfoofficial\n👉Instagram : https://www.instagram.com/infinity_info_official?igsh=a2M2cXNnN3FlOHJq\n\ngoogle free course, google free certificate, google free course with certificate, google certificate, google online course, google skillshop, google career certificate, free certificate course, free online course, google course 2026, google free course 2026, google certification, google learning, google cloud skills, google ai course, google data analytics course, google digital marketing course, google training, free google certificate, online certificate, free certification, students free course, college students, freshers jobs, internship 2026, free courses for students, skill development, career growth, learn online, 1 hour course, complete in 1 hour, online learning, study from home, job ready skills, google india, google courses india, certificate course, infinity info\n\n#Google #GoogleFreeCourse #GoogleCertificate #FreeCertificate #OnlineCourse #FreeCourse #GoogleCourse #GoogleLearning #SkillDevelopment #Students #CareerGrowth #LearnOnline #GoogleAI #GoogleCloud #DataAnalytics #DigitalMarketing #CertificateCourse #Freshers #Internship2026 #InfinityInfo\n\nDisclaimer:-\nCopyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.",
+      "commentCount": 13,
+      "likeCount": 189,
+      "probeClient": "web_embedded"
+    },
+    "H2O0oPN0sLk": {
+      "checkedAt": "2026-07-27T18:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "@lumi.ai_ \n\nOpenCoworker Complete Guide (Telugu) | Claude Code Alternative?\n\nopencoworker : https://www.opencoworker.app/\n\nLearn how to use OpenCoworker from scratch in this complete Telugu tutorial. If you're looking for an AI coding assistant, automation platform, or a powerful workspace for building AI applications, this guide covers everything you need to get started.\n\nIn this video you'll learn:\n\nOpenCoworker setup\nComplete dashboard walkthrough\nFeatures explained\nAI coding workflow\nProductivity tips\nReal-world use cases\n\nWhether you're an AI developer, freelancer, student, or entrepreneur, this tutorial will help you get started with OpenCoworker quickly.\n\nopencoworker\nopencoworker tutorial\nopencoworker telugu\nopencoworker guide\nai coding assistant\nclaude code alternative\nai coding tools\nai developer tools\nvibe coding\ncoding with ai\nai workflow\nai automation\ndeveloper productivity\nai telugu\n\nopencoworker\nopencoworker tutorial\nopencoworker telugu\nai coding\nclaude code\nclaude ai\nai tools\nai telugu\ncoding assistant\ndeveloper tools\nsoftware engineer\nautomation\nvibe coding\ncursor ai\nwindsurf\nopen source ai\nartificial intelligence\nmachine learning\npython\ncoding\nprogramming\nindie hacker\nstartup\nfreelancing\nproductivity\n\nhow to build my own ai assistant, \n\n personal ai assistant free ,\n\n best personal ai assistant ,\n\n ai assistant for daily tasks, \n\n ai assistant for work ,\n\n create your own ai assistant, \n\n ai that can do my work, \n\n ai employee ,\n\n virtual ai assistant ,\n\n ai executive assistant ,",
+      "commentCount": 12,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

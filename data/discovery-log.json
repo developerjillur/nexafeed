@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T17:53:17Z",
+  "updatedAt": "2026-07-27T18:53:25Z",
   "items": [
+    {
+      "id": "2jsjiwV_1pA",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-07-27T18:30:32Z",
+      "firstSeenAt": "2026-07-27T18:53:25Z"
+    },
+    {
+      "id": "EmeJbj-XtnQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": "What If World",
+      "publishedAt": "2026-07-27T18:27:25Z",
+      "firstSeenAt": "2026-07-27T18:53:25Z"
+    },
+    {
+      "id": "g3lSvlHYXTg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-07-27T15:53:25Z",
+      "firstSeenAt": "2026-07-27T18:53:25Z"
+    },
+    {
+      "id": "Odmgh4Lut44",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Intellipaat",
+      "publishedAt": "2026-07-27T13:53:25Z",
+      "firstSeenAt": "2026-07-27T18:53:25Z"
+    },
+    {
+      "id": "e5kg59Oe-G4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-07-27T13:53:25Z",
+      "firstSeenAt": "2026-07-27T18:53:25Z"
+    },
+    {
+      "id": "ISCk7nyDqbc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Infinity info ",
+      "publishedAt": "2026-07-27T11:53:25Z",
+      "firstSeenAt": "2026-07-27T18:53:25Z"
+    },
+    {
+      "id": "H2O0oPN0sLk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "LUMI AI",
+      "publishedAt": "2026-07-27T09:53:25Z",
+      "firstSeenAt": "2026-07-27T18:53:25Z"
+    },
     {
       "id": "G2BP1KfK0qQ",
       "type": "short",
@@ -2946,6 +3002,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-07-27T18:53:25Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
