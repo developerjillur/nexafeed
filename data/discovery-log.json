@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T21:53:04Z",
+  "updatedAt": "2026-07-27T22:53:05Z",
   "items": [
+    {
+      "id": "Mz3jAiOYD-U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GATE Wallah",
+      "publishedAt": "2026-07-27T17:53:05Z",
+      "firstSeenAt": "2026-07-27T22:53:05Z"
+    },
+    {
+      "id": "KMPKOlVq_uE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GReimer Gaming",
+      "publishedAt": "2026-07-27T17:53:05Z",
+      "firstSeenAt": "2026-07-27T22:53:05Z"
+    },
+    {
+      "id": "aT_bG8szrEc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Qojqva",
+      "publishedAt": "2026-07-27T16:53:05Z",
+      "firstSeenAt": "2026-07-27T22:53:05Z"
+    },
+    {
+      "id": "bKbPK6w1wY4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "mojo4industry Media",
+      "publishedAt": "2026-07-27T15:53:05Z",
+      "firstSeenAt": "2026-07-27T22:53:05Z"
+    },
+    {
+      "id": "UhsSgs4ce1g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Accounts Advice",
+      "publishedAt": "2026-07-27T13:53:05Z",
+      "firstSeenAt": "2026-07-27T22:53:05Z"
+    },
+    {
+      "id": "kYsbuTawDvQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Reza Dorrani",
+      "publishedAt": "2026-07-27T11:53:05Z",
+      "firstSeenAt": "2026-07-27T22:53:05Z"
+    },
     {
       "id": "XpmtyjgPTVo",
       "type": "long",
@@ -3182,6 +3230,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-07-27T22:53:05Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
