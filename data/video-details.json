@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T12:53:14Z",
+  "updatedAt": "2026-07-27T13:53:40Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -236,14 +236,6 @@
       "commentCount": 20,
       "likeCount": 71
     },
-    "GeEw_kTk0Cs": {
-      "checkedAt": "2026-07-27T07:24:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Build AI video ads from Claude Code with Renoise — batch creatives from one product image, FacePass identity lock, synced audio, no CapCut or Premiere. Built for founders testing ads at scale.\n\nKey takeaways:\n\n- Install Renoise CLI inside Claude Code\n- Lock presenter identity with FacePass\n- Batch TikTok-style ads with synced audio\n- Remix old shoots into a full test library\n\n🚀 Try Renoise AI and start generating videos right from your workflow: https://tinyurl.com/cb499pv8\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n📌 Mentioned videos:\n\n- Stop Making Ads Manually (Claude Agent Workflow): https://youtu.be/2U-TpZ53b_0\n- Steal My Ultimate AI Video Workflow: https://youtu.be/M83nNHQ-ufQ\n\nTimestamps:\n0:00 Intro\n1:12 Install Renoise\n2:12 Product Image Setup\n2:40 FacePass Identity\n3:40 Batch Ad Generation\n5:00 Review Ad Results\n5:45 Remix Real Shoots\n7:18 Agent Workflow Takeaway\n8:50 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
-      "commentCount": 2,
-      "likeCount": 20
-    },
     "KuXM3mRgRNA": {
       "checkedAt": "2026-07-27T07:24:18Z",
       "embedAllowed": true,
@@ -429,7 +421,7 @@
       "likeCount": 6
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-27T12:53:14Z",
+      "checkedAt": "2026-07-27T13:53:40Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -1780,7 +1772,7 @@
       "probeClient": "web_embedded"
     },
     "u8o8OAbLuDo": {
-      "checkedAt": "2026-07-27T12:53:14Z",
+      "checkedAt": "2026-07-27T13:53:40Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -2716,15 +2708,6 @@
       "likeCount": 9,
       "probeClient": "web_embedded"
     },
-    "VcbYYzmxr8k": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI isn't just making web development faster—it's making premium design accessible to anyone with an idea.\n\nFrom cinematic scroll animations to interactive experiences, the barrier is no longer technical skill. It's creativity and execution.\n\nThe biggest opportunity isn't learning every design tool.\n\nIt's learning how to combine the right AI tools into a workflow that delivers exceptional results.\n\n(ai, ai updates, artificial intelligence, technology, tech, tech updates, editing, designing, graphic designing, tech news, new gadget, gadgets, latest ai, ai tools, ai coding, ai coder, ai latest)\n\n#ai #artificialintelligence #aitools #ainews #aiupdates",
-      "commentCount": 1,
-      "likeCount": 473,
-      "probeClient": "web_embedded"
-    },
     "Joqh7Tui9B8": {
       "checkedAt": "2026-07-27T07:46:18Z",
       "embedAllowed": true,
@@ -2756,15 +2739,6 @@
       "description": "$3,000. That’s the average quote to get a landing page designed and built.\n\nThe whole thing now takes an afternoon. A design.md file gives the AI real direction instead of guesswork. Add a couple of Claude skills for taste and the code comes out ready to ship.\n\nNo purple AI slop either.\n\nThe exact skills and prompts are already packaged, comment “SITE” and they land straight in your DMs ⚡",
       "commentCount": 4,
       "likeCount": 17,
-      "probeClient": "web_embedded"
-    },
-    "L2ATBlPNBO4": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 9,
-      "likeCount": 717,
       "probeClient": "web_embedded"
     },
     "G7nsZZshNHw": {
@@ -2972,15 +2946,6 @@
       "description": "Kimi K3 just landed and Silicon Valley is sweating.\n\n2 to 3 trillion parameters. 1M token context. Early testers say it goes toe to toe with Opus 4.8, the best coding model alive.\n\nSix months ago China trailed by six months. That gap? Gone.\n\nMy take after running revenue systems on these models daily:\n\nBenchmark crowns change every 6 weeks. What compounds is what YOU build on top. Prompts, agents, data, workflows. Those outlive every release.\n\nTeam Claude or team Kimi?",
       "commentCount": 1,
       "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
-    "gw2oSH_pjAA": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Why is the speed of light the universal speed limit? And what actually breaks if you try to go faster?\nFirst, a clarification nobody tells you. The speed of light is not just the speed of light. It is the speed of causality. The maximum speed at which cause and effect can travel through the universe. Light just happens to move at that speed.\nTo understand why this limit exists, we need to talk about space and time. Normally we treat them as separate things. You move through space and time ticks in the background. But Einstein showed us they are not separate. Space and time are stitched together into a single fabric called spacetime. And through spacetime there is one maximum speed at which anything can travel. Information. Energy. Cause and effect. That speed is c. The same c in E=mc².\nNow imagine pushing something with mass faster and faster toward that limit. At first it works normally. Energy in, speed up. But according to Special Relativity, every time you add more energy to make it go faster, you are not just increasing its speed. You are increasing its inertia. Making it harder and harder for the universe to accelerate it any further. The closer you get to c, the worse this problem becomes. To actually reach the speed of light you would need infinite energy. Infinite energy does not exist. So there is literally no physical way to do it.\nBut there is a deeper reason this limit exists.\nIf faster than light travel were possible, you would not just be breaking a speed record. You would be breaking time itself. From certain observers' perspectives, effects would happen before their causes. Messages would arrive before they were sent. Cause and effect would collapse entirely. And the universe is built on exactly one rule. Cause always comes before effect. Always. For everyone. No exceptions. So spacetime itself enforces this limit. Not because someone decided to. Because a universe where that order breaks cannot exist.\nAnd why does light travel at exactly this speed?\nBecause light has no mass.\nThe speed of light is not a rule someone made up. It is not a cosmic speed sign. It is permanently built into the architecture of spacetime itself. And anyone or anything travelling through spacetime must follow it.\nSource: Einstein, A. Special Theory of Relativity (1905). Einstein, A. General Theory of Relativity (1915). LIGO Scientific Collaboration, GW170817 (2017). Physical Review Letters. Stanford Encyclopedia of Philosophy, Special Relativity. NASA Science, Speed of Light.\n#SpeedOfLight #Causality #Spacetime #SpecialRelativity #Einstein",
-      "commentCount": 640,
-      "likeCount": 34858,
       "probeClient": "web_embedded"
     },
     "4c79ymVIXhw": {
@@ -4315,24 +4280,6 @@
       "likeCount": 178,
       "probeClient": "web_embedded"
     },
-    "CG5pDvrFf6M": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "WhatsApp AI Agent বানিয়ে দিন ২৪ ঘণ্টা Auto Sell ঘুমান, তবু Order আসব\nএই ভিডিওতে দেখাবো কীভাবে আপনি আপনার WhatsApp Business কে একটি AI Agent দিয়ে সম্পূর্ণ অটোমেট করতে পারবেন। কোনো এমপ্লয়ি ছাড়াই আপনার বিজনেস চলবে ২৪/৭ আপনি ঘুমালেও কাস্টমার মেসেজের রিপ্লাই যাবে, অর্ডার নেওয়া হবে, আর সেল হতেই থাকবে।\n\nযারা Small Business, E-commerce, Freelancing বা Service Business চালান, তাদের জন্য এই ভিডিও অনেক কাজে আসবে।\n\n#WhatsAppAutomation #AIAgent #BusinessAutomation\n\n► Subscribe Now: https://www.youtube.com/channel/UCEL3TKZZtO-ZJMdViXOZlHg?sub_confirmation=1  🔔 Stay updated! \n\nশত শত ডলার খরচ করেও কি সেলস বাড়ছে না?\n\"ফেসবুক এড স্কেলিং সিক্রেটস\" ই-বুক (পার্ট ১ + ২) সংগ্রহ করুন।\nবেসিক থেকে অ্যাডভান্সড স্কেলিং স্ট্র্যাটেজি একসাথে শিখুন।\nঅর্ডার করুন: https://croexpert.agency/step/money-making/\n\nবিজনেস স্কেল করতে চান? \nBook a FREE CALL for 30:00 Mins - https://shorturl.at/SV9pc\n------------------------------------------------------------------------------------------------------------------------- \nআমার সাথে যুক্ত থাকুন : \n✅ WhatsApp: https://wa.me/+8801893845094 \n✅ FB Groups: https://www.facebook.com/groups/teachguru\n✅ Facebook: https://www.facebook.com/teachgurufb\n\n★☆★★☆★★☆★★☆★★☆★★☆★★☆★★☆★★☆★★☆★★☆★ \nTags: \nwhatsapp automation, whatsapp ai agent, whatsapp business automation, ai agent bangla,  whatsapp bot bangla, business automation bangla, ai automation tutorial, whatsapp chatbot, \nno code automation, whatsapp business api, ai for small business, whatsapp marketing automation, 24/7 business automation, auto reply whatsapp, whatsapp order automation, ai agent tutorial bangla, \ndigital marketing bangla, ecommerce automation, whatsapp bangla tutorial, ai business bangla, whatsapp bot kivabe banabo, ai agent kivabe banabo, whatsapp business tips, automation bangla tutorial, \npassive income automation, whatsapp sales automation, chatgpt automation, make.com whatsapp, n8n whatsapp automation, whatsapp crm automation\n\nDISCLAIMER: This Channel DOES NOT Promote or encourage any illegal activities , all contents provided by This Channel is meant for EDUCATIONAL PURPOSE only . \n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. \n★☆★★☆★★☆★★☆★★☆★★☆★★☆★★☆★★☆★★☆★★☆★",
-      "commentCount": 3,
-      "likeCount": 49,
-      "probeClient": "web_embedded"
-    },
-    "8-m-Inmk5fs": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Most D2C brands need more content.\nMore ad creatives. More concepts. More angles to test.\nBut shoots are expensive, timelines are slow, and\nthe budget just isn't there to test every idea.\n\nFor the last six months we've been quietly solving\nthis at Bread Loaf using a tool most agencies haven't\nheard of yet — and it's changed how we build ad\ncreative for every single client we work with.\n\nIn this video I'm breaking down exactly what it is,\nhow we use it, and the real results it drove for two\nof our clients — including a brand relaunch that\nwould have cost six figures to shoot the traditional\nway.\n\nWhat we cover:\n— The AI ad creative tool we've been using for 6\n  months across all our D2C clients\n— How we recreated 1970s Venice Beach for a nostalgic\n  brand relaunch without a single shoot\n— How we solved a creative problem for a medical\n  skincare brand using AI-generated imagery\n— Why I refused to run AI creative 9 months ago\n  and what completely changed my mind\n— How AI agents are now running in our clients'\n  accounts generating new concepts every single day\n\nIf you're running a D2C brand or agency and ad\ncreative is your bottleneck right now — this is\nthe video to watch.\n\n✅ Elevate your brand's Email & SMS marketing: https://breadloaf.typeform.com/to/rotiGDm7?typeform-source=www.youtube.com\n🚀 Discuss your growth strategy: https://calendly.com/markmilutin/retention-audit-kick-off?month=2025-02",
-      "commentCount": 1,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "gpsH3hhRKrA": {
       "checkedAt": "2026-07-27T08:53:42Z",
       "embedAllowed": true,
@@ -4378,15 +4325,6 @@
       "availability": "public",
       "description": "Anton Voroniuk - Google Academy Trainer, Udemy Instructor Partner, 1000K+ students worldwide\nLinkedIn: https://www.linkedin.com/in/voronyukanton/\n\nEmpower your digital marketing skills to the next level! \n👉https://skillsbooster.net/\n\nAnton Voroniuk\nGenAI Expert, trusted by 1,000,000+ Students\n👉https://www.udemy.com/user/woronyuk/\n\n🔥SUBSCRIBE to our YouTube-channel!\nhttps://www.youtube.com/channel/UC1kdhXKdtkrL5uNDRtUt9Uw?sub_confirmation=1\n\n#n8n #AITools #AIAutomation #AIWorkflows #AIAgents #Automation #NoCode #LowCode #WorkflowAutomation #OpenAI #ChatGPT #Productivity #Tech #ArtificialIntelligence #BeginnerTutorial",
       "commentCount": 1,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "jch2U6d5tzk": {
-      "checkedAt": "2026-07-27T08:53:42Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "You don't need to code to build a real AI automation this weekend. This is the\nhonest, no-hype breakdown of Zapier, Make.com, and n8n in 2026 — what their\nfree tiers actually give you, five beginner-buildable automations (form → AI\nreply, email → AI Slack summary, sheet row → AI social post, and more), and\nthe five mistakes that waste most beginners' entire first week. Real template\ngalleries shown live, real pricing, zero fabricated \"success story\" anecdotes.\n\n⏱ Chapters\n00:00 You don't need to code\n00:40 Zapier vs Make vs n8n, honestly\n02:00 5 automations you can build this weekend\n03:15 5 mistakes that waste your first week\n04:15 My own stack + your weekend plan\n\nFacts, verified against each tool's own pricing page (Jul 2026): Zapier free\n= 100 tasks/mo, 2-step Zaps only, paid from $19.99/mo. Make.com free =\n1,000 credits/mo, max 2 active scenarios, paid from $9/mo. n8n Community\nEdition is free/self-hosted/unlimited; Cloud Starter from €20/mo. \"AI\nautomation for beginners\" gets ~98K monthly searches.\n\nI'm Dex 🤓 Next up: can you genuinely make money with AI, zero tech skills?\nSubscribe.\n\n#aiautomation #nocode #zapier",
-      "commentCount": 0,
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
@@ -4498,15 +4436,6 @@
       "likeCount": 421,
       "probeClient": "web_embedded"
     },
-    "36OMMx1uHA8": {
-      "checkedAt": "2026-07-27T10:53:51Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Artificial intelligence is changing the way we interact with technology—and your smartphone could be next.\n\nFor nearly two decades, smartphones have been the center of our digital lives. We use them for communication, navigation, entertainment, shopping, work, and almost everything in between.\n\nBut what happens when AI can do all of those things without requiring you to open a single app?\n\nIn this documentary, we explore how AI assistants, smart glasses, wearable devices, and ambient computing could transform personal technology over the next decade. Could the smartphone become just another device of the past?\n\nIn this video:\n\nWhy smartphones may be reaching their limits\nHow AI assistants are changing everyday life\nAI glasses and wearable technology\nThe future of personal computing\nPrivacy and security risks\nWill smartphones disappear?\nPredictions for the next generation of technology\n\nIf you enjoy documentaries about artificial intelligence, future technology, and emerging innovations, subscribe to FutureLens and join us as we explore the world that's arriving faster than most people realize.\n\n👍 Like the video if you enjoyed it.\n\n💬 Question for you:\nWhat do you think will replace the smartphone first—AI glasses, AI earbuds, or something we haven't even imagined yet?\n\n🔔 Subscribe for more documentaries about AI, robotics, future technology, and the future of humanity.\n\n#AI\n#ArtificialIntelligence\n#FutureTechnology\n#Technology\n#Smartphone\n#FutureTech\n#AIRevolution\n#FutureLens",
-      "commentCount": 54,
-      "likeCount": 292,
-      "probeClient": "web_embedded"
-    },
     "jgPYP50IE5I": {
       "checkedAt": "2026-07-27T11:53:25Z",
       "embedAllowed": true,
@@ -4583,15 +4512,6 @@
       "description": "এক ক্লিকে ৩০ মিনিটের Ghibli ASMR ভিডিও বানান | Full AI Automation Workflow |  faceless youtube channel | ghibli style video | ai animation tutorial, \n\n \nMaster Prompt :https://docs.google.com/document/d/16lSGxpAV3mYc-h74AB98Q5xxys_zbVLzfX09R0sCPRI/edit?usp=sharing\n\n\nআমার সাথে যোগাযোগ করতে\nTelegram: https://t.me/hasanskillzone\nFacebook Page: https://www.facebook.com/profile.php?...\nFacebook Group:    / 3854671071438805\nwebsite : https://www.hasanskillzone.com/\nWhatappps : 01843661826\n\nএই workflow ব্যবহার করে আপনাকে আলাদাভাবে প্রতিটি scene-এর prompt লিখতে হবে না কিংবা ঘণ্টার পর ঘণ্টা image, animation এবং sound তৈরি করতে হবে না। একটি automated process-এর মাধ্যমে video idea, story, consistent character, image generation prompt, video animation এবং ASMR sound—সবকিছু প্রস্তুত করতে পারবেন।\n\nএই ভিডিওতে যা যা শিখবেন:\n\n✅ Viral Ghibli ASMR video idea তৈরি\n✅ সম্পূর্ণ story এবং scene generation\n✅ একই character-এর consistency বজায় রাখা\n✅ একসঙ্গে image generation prompt তৈরি\n✅ Image থেকে animated video বানানো\n✅ Rain, cooking এবং nature ASMR sound যোগ করা\n✅ ৩০ মিনিটের long video workflow\n✅ Faceless YouTube channel-এর জন্য ভিডিও তৈরি\n✅ Final editing ও export process\n✅ YouTube monetization-friendly content তৈরির গুরুত্বপূর্ণ নিয়ম\n\nআপনি যদি Ghibli-style animation, village life ASMR, relaxing AI videos অথবা faceless YouTube automation channel শুরু করতে চান, তাহলে এই সম্পূর্ণ tutorial-টি আপনার জন্য।\n\nভিডিওটি শুরু থেকে শেষ পর্যন্ত দেখুন এবং পুরো workflow নিজের project-এ step-by-step অনুসরণ করুন।\n\n⚠️ গুরুত্বপূর্ণ: অন্য কোনো creator বা copyrighted animation সরাসরি কপি করবেন না। নিজের original character, story, visuals, sound design এবং editing ব্যবহার করে ইউনিক ভিডিও তৈরি করুন।\n\nভিডিওটি উপকারী মনে হলে Like দিন, আপনার প্রশ্ন Comment করুন এবং AI video creation ও YouTube automation-এর আরও সম্পূর্ণ tutorial পেতে Hasan Skill Zone চ্যানেলটি Subscribe করুন।\n\n#GhibliASMR #AIVideoGenerator #YouTubeAutomation #GhibliStyle #AIAnimation #AIASMR #FacelessChannel #AIVideoTutorial #YouTubeAutomationBangla #AITools #LongVideoAutomation #HasanSkillZone\nghibli asmr, ghibli asmr video, ghibli style asmr, ghibli style video, ai asmr video, ai asmr video tutorial, ghibli ai video, ghibli ai animation, ai animation tutorial, youtube automation, ai video generator, faceless youtube channel, ghibli video tutorial bangla, ai video tutorial bangla, 30 minute ai video, long video automation, full automation workflow, ai content creation, relaxing ai videos, village life asmr, ghibli village life, character consistency ai, free ai tools, Hasan Skill Zone",
       "commentCount": 57,
       "likeCount": 352,
-      "probeClient": "web_embedded"
-    },
-    "SMpt0nEmK5g": {
-      "checkedAt": "2026-07-27T11:53:25Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "How I made $13,872.72 🤑 with YouTube Shorts Automation | USA Copy paste channel Idea\n\n👉https://whatsapp.com/channel/0029Vb8BsHS5kg72cAKTNq3i\n\n✅Teligram Link https://t.me/Sagarthetech\n\nIn this video, I reveal the exact USA YouTube Shorts Automation strategy that helped generate $13,872.72 🤑 using a simple copy-paste workflow. You'll learn how to discover high-performing content, recreate it the smart way, and consistently upload Shorts that have the potential to reach millions of viewers.\n\nThis beginner-friendly method doesn't require advanced editing skills—you can get started with just a phone or a computer. If you're looking to build a USA-focused YouTube automation channel, grow with YouTube Shorts, \n\nDon’t forget to like, subscribe, and turn on notifications for more videos about YouTube growth and online earning.\n\nKeywords:\nYoutube Automation \nYouTube Automation Full Course \nYoutube Automation In 2026\nShorts Automation\nyoutube shorts automation\ncopy paste youtube shorts\nearn money with youtube shorts\nfaceless youtube channel\nyoutube shorts business\nSaad Rashid Automation \nYouTube Automation free Course \nBest USA Copy paste work\nUSA High Rpm niches\nFaceless channel kaise banaye \nHow to start automation in 2026\nusa video kaise banaye \nUSA channel ideas \n\nTag:- \n\nHow to make USA based YouTube channel,copy paste video on YouTube and earn money,USA copy paste channel Idea,YouTube copy paste video earn money,usa copy paste video on youtube and earn money,how to make copy paste video on youtube,how to copy and paste video on youtube,how to make usa based youtube channel,copy and paste videos on youtube and make money,how to make usa best youtube channel 2026,how to make usa based youtube channel (real method + proof),USA Channel\n\n\n⚠️ DISCLAIMER ⚠️\nFair Use Policy: Short clips, screenshots, or estimated earning references in this video belong to their respective owners. They are strictly utilized under Section 107 of the Copyright Act 1976 for transformative, educational, and teaching purposes only. No copyright infringement is intended.\nEarnings Note: All revenue statistics or data displayed are purely estimated and shown strictly for motivational and case-study purposes. We provide no guarantee of fixed income. Actual financial results vary entirely based on audience demographics, RPM/CPM, and individual effort.\n\n\n#youtube #automation #youtubeshorts #youtubeautomation #youtubeautomationcourse #youtubeautomation2026\n#usashorts\n#usachannel",
-      "commentCount": 20,
-      "likeCount": 104,
       "probeClient": "web_embedded"
     },
     "GtQGFwvxNl0": {
@@ -4682,6 +4602,198 @@
       "description": "Become a Job-Ready Data Engineer - https://datavidhya.com/\n\nI never planned to become a data engineer, but life had other plans. My complete story: first internship, first job, freelancing, starting YouTube, and the hardest year of my life that I've never shared publicly. Unscripted and honest.\n\n👦🏻 My LinkedIn - https://www.linkedin.com/in/darshil-parmar/\n 📷 Instagram - https://www.instagram.com/datawithdarshil\n🎯Twitter - https://twitter.com/parmardarshil07\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE for more AMAZING content! 🌟\n\n\n✨ Hashtags ✨\n#dataengineering #roadmap #life",
       "commentCount": 41,
       "likeCount": 201,
+      "probeClient": "web_embedded"
+    },
+    "p1aJ-xLkfVI": {
+      "checkedAt": "2026-07-27T13:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "The black-footed cat is the smallest wild cat in Africa, weighing barely 1 to 3 kilograms, small enough to hold in one hand. It is also, by hunting success rate, the deadliest cat on the planet.\nAccording to research by Panthera's Luke Hunter and field studies using radio collars, the black-footed cat has a predation success rate of around 60 percent, roughly three times higher than a lion's, which succeeds in only 20 to 25 percent of its hunting attempts. In a single night, it kills between 10 and 14 rodents, birds, or small reptiles, averaging a successful kill about every 50 minutes. Smithsonian Magazine reported that in one night, this cat kills more prey than a leopard does in six months.\nThis is not a demonstration of skill for its own sake. The black-footed cat has an extremely fast metabolism, forcing it to hunt almost continuously through the night just to sustain itself. It consumes close to one-fifth of its own body weight in a single night. Scaled to human terms, a 70 kilogram person would need to eat roughly 14 kilograms of food in one sitting to match that.\nThe cat hunts using three distinct techniques: fast pursuit through grass, slow stalking, and motionless sit-and-wait ambush near burrow entrances, sometimes holding still for up to two hours before striking. Despite its size, it can leap up to 1.4 metres to catch birds mid-flight and travel between 5 and 16 kilometres a night in search of prey.\nIts appearance has nothing to do with its behaviour. Evolution built a compact, efficient predator, and camouflaged it as something harmless.\nSource: Guinness World Records, Most Successful Feline Predator. LiveScience, Adorable Remorseless Killing Machine Is World's Deadliest Cat (2018). Smithsonian Magazine, This Petite Cat Is the World's Deadliest (2018).\n #BlackFootedCat #DeadliestCat #WildCats #ApexPredator #AfricanWildlife",
+      "commentCount": 8,
+      "likeCount": 107,
+      "comments": [
+        {
+          "id": "UgyNZBUrfpoGfoqA5b14AaABAg",
+          "author": "@Ananya-f3t",
+          "text": "❤❤❤❤",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T13:54:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5LLkTg-D-orAjIv3QnONs9TM45y_AotBXm2mRPRn4eltxYktPs1EaE6EeEfGMXSfLHQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzTl8oSwFaqdS60j8t4AaABAg",
+          "author": "@RashidAlam-com",
+          "text": "Cat ❎bangad billaa✅",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T13:54:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/7RM3DsDJjtdFIPYCSi-NSdB1v7jpGcPJR18dUEFJBn3rmkztUajRn6QdTlN2mdM6Ry4jkP2O_A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxcUSpQVZrQeAvk6ZZ4AaABAg",
+          "author": "@saraswatidevi7861",
+          "text": "💀🥀",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T13:54:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/IC1sZ15C1LBWwPbQN8icUWn0Vq1mN0VKESLJRa_nIFBQGDcqWT5uU03Tg6xjOXITYN4cPyOokA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw8B4D52n3ETrI5aIp4AaABAg",
+          "author": "@Skiddad_ALE",
+          "text": "Lion❌️Loin✅️",
+          "likeCount": 1,
+          "publishedAt": "2026-07-27T13:53:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Qy9F57tR9eRqEtGy7jr3E6V2lQsYQLvy1q6WHgMJykWrsGxVAi1-OmxWfpYaZbWxrcG3zJayeA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz50nEHNMws_YQ0-bR4AaABAg",
+          "author": "@mohammadhamza3295",
+          "text": "Hello sid. Thanku for giving us valuable information about science 😊😊❤❤😊❤😊❤",
+          "likeCount": 1,
+          "publishedAt": "2026-07-27T13:53:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/gvpmn5WzAmIb9PXHv0wMXxuhzaIeaDueGEZn-IIbDLl6Q4KovrI4_orLxsZWXsALZHiqAYEBiQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugzt9CwlInv5suRUUzh4AaABAg",
+          "author": "@JaylalitaTudu",
+          "text": "Third 🎉",
+          "likeCount": 1,
+          "publishedAt": "2026-07-27T13:52:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZTaHB_dUrjdxVPzWHPSBBiQ8yLcuryhd4EkW86K1c1ICS_z_qpEkyUfbcf4p_XGWlCw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzakcqnqHjonEMIhtR4AaABAg",
+          "author": "@MayankRajput-h7f",
+          "text": "Cats from small to big are one of the most amazing species in mother nature 😅 ❤",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T13:52:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/c-dQtSLBDgPQssYeoFaXCo8cLHK0zjlWCrQ6ERo81p9Bo9UOhSrXyreXHcP3eyIxW3Au8Wrq=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxbHg_rLhVuy1w8ltx4AaABAg",
+          "author": "@somyaofficiavlog",
+          "text": "First 😂😂",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T13:51:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/QoyzlMLKAA0Nmr_sD9OwxT8whFtJcs2lTdSGToIHzCtipIMXDmqtUXsk3NG6qG4Z5HPKguwVPw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-27T13:53:40Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "36dOTvfOETQ": {
+      "checkedAt": "2026-07-27T13:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "People keep saying AI is going to take your job.\nBut every week I see AI creating entirely new ones.\nMeet Impeccable that helps AI agents create better-looking products.\nIt started as an open-source skill.\nToday, it has tens of thousands of GitHub stars, a partnership with GitHub, and an $11 million round led by a16z.\nBut that’s not the interesting part.\nThe interesting part is that this category didn’t even exist a few years ago.\nThere were no AI skills.\nNo prompt engineers.\nNo AI design layers.\nNo companies teaching agents how to design.\nAnd now entire businesses are being built around them.\nThat’s why I think most people are looking at AI the wrong way.\nThey’re asking, “What jobs will disappear?”\nA better question is, “What new industries are being created?”\nTwenty years ago it was coding.\nTen years ago it was no-code.\nToday it’s AI.\nYou just need to stay close to where new things are happening like our channel.\nBecause that’s usually where the opportunities show up first.",
+      "commentCount": 0,
+      "likeCount": 42,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-27T13:53:40Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "wGMl8f7BYxg": {
+      "checkedAt": "2026-07-27T13:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "We're entering an era where AI can assist with everything from circuit design and hardware planning to rapid prototyping, making it easier than ever for individuals to turn an idea into a working product.\n\nThe barrier to building hardware is no longer just technical knowledge.\n\nIt's having the curiosity to start.\n\nAs AI bridges the gap between imagination and engineering, the next generation of innovators won't just code.\n\nThey'll create.\n\n(ai, ai updates, artificial intelligence, technology, tech, tech updates, editing, designing, graphic designing, tech news, new gadget, gadgets, latest ai, ai tools, ai coding, ai coder, ai latest)\n\n#ai #artificialintelligence #aitools #ainews #aiupdates",
+      "commentCount": 2,
+      "likeCount": 30,
+      "comments": [
+        {
+          "id": "Ugz87pK5yl_oW14-TsJ4AaABAg",
+          "author": "@syedmrahim4548",
+          "text": "What are those All tools?",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T13:46:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kLDvg6wvUi-1tSYUrOzEBc0mOV0ScJpdD-_Mruh_dV6Eco=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzDYuYB1gzicGAv_BR4AaABAg",
+          "author": "@Ravan-io2hx",
+          "text": "Bro name?",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T13:42:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nhoOi8Lhcr7w0l0Ur6N0ern1n6gqe49p8sDZDsXjKezsAllwS3frRAi1p45L_qVDrCfQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-27T13:53:40Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "l6nc0Vq3T8s": {
+      "checkedAt": "2026-07-27T13:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI agents can write code faster than ever, but should they deploy it too? I built a safe, human-in-the-loop AI deployment pipeline that reviews every diff, flags production risks, and waits for your approval in Slack before shipping.\n\nInstead of handing an autonomous agent the keys to production, this setup lets AI do the repetitive review work while humans keep control of the critical call, all inside Superplane's open-source control plane.\n\nSuperPlane GitHub Repository: https://github.com/superplanehq/superplane\n\nOfficial Documentation: https://docs.superplane.com\n\nKey takeaways:\n\n- Gate every deploy behind a one-click human approval in Slack\n- Use an AI agent as a senior SRE to review diffs and write a risk report\n- Log every approved deploy to an auditable ops dashboard\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n⏳ Timestamps:\n0:00 Intro\n1:55 Building the Workflow\n3:36 Approval & Deploy\n6:24 Live Test\n7:13 Final Result\n\n#aiagents #aitools #devops",
+      "commentCount": 0,
+      "likeCount": 13,
+      "probeClient": "web_embedded"
+    },
+    "01rLbqMfidc": {
+      "checkedAt": "2026-07-27T13:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Your AI coding assistant re-reads your whole repo for every review — and you pay for every token. code-review-graph (26,500★, MIT, local-first) maps your codebase once with Tree-sitter, stores the graph in one SQLite file inside your repo, and serves your AI only the files a change can actually touch over MCP. I installed it, pointed it at Flask, and broke a function on purpose: my review context dropped from 25,578 tokens to 643 — a 97% cut, re-counted with OpenAI's own tokenizer. This video is the full live test: the blast radius, the test gaps it caught unasked, the honest benchmarks (median ~82x, not the 528x on the box), and the five-minute setup.\n\n⭕ FREE RADIUS KIT (everything in this video on 6 copy-paste pages): comment RADIUS or grab it at https://hyperautomationlabs.co/free/radius\n\n⏱ CHAPTERS\n0:00 Every dot on this screen is real\n0:53 The token tax you pay every review\n1:24 The map, built once\n1:58 Install — 3 commands, 8 platforms auto-detected\n2:31 LIVE: Flask mapped in 2.4 seconds\n3:05 I broke make_response on purpose (blast radius)\n3:43 25,578 → 643 tokens — verified\n4:20 Quick pause\n4:34 Under the hood: Tree-sitter → SQLite → MCP\n5:14 The honest benchmarks (~82x median)\n5:51 What the numbers DON'T say\n6:32 Dead code, communities, flows, the D3 graph\n7:14 Risk-scored PR reviews in CI\n7:38 Your 5-minute playbook (+ the gotcha that got me)\n8:25 The free RADIUS kit\n8:54 Real talk\n9:11 Just getting started?\n\n🚀 THE TOOL\ncode-review-graph by tirth8205 — https://github.com/tirth8205/code-review-graph (MIT). Website: https://code-review-graph.com. All credit to the maintainers — go star the repo.\n\n📚 JUST GETTING STARTED? My step-by-step beginner guides:\n• The Complete Claude Code Guide ($14.97): https://hyperautomationlabs.gumroad.com/l/claude-code-guide\n• The OpenAI Codex Guide ($9.97): https://hyperautomationlabs.gumroad.com/l/codex-guide\n• Claude Cowork Sales Guide ($14.97): https://hyperautomationlabs.gumroad.com/l/claude-cowork-sales\n• Claude Certified Architect Prep Kit ($29): https://hyperautomationlabs.gumroad.com/l/claude-certified-architect-prep\n\n💚 SUPPORT THE CHANNEL\nYouTube: hit JOIN and become a member — or a free subscribe still helps.\nFacebook: the Subscribe (Supporter) button keeps the lights on: https://www.facebook.com/hyperautomationlabs\nInstagram: https://www.instagram.com/hyperautomationlabs\n\n🎧 Tip: I keep the pace brisk — if it's too fast, drop playback speed to 0.9x; too slow, try 1.25x.\n\nNumbers in this video: our own live run on pallets/flask with v2.3.7 (2026-07-26) — your numbers will differ by repo and change; the tool prints yours on every review. Benchmark figures are the project's own published, reproducible results, quoted with its own caveats.\n\n#ClaudeCode #Cursor #AIcoding #MCP #CodeReview #OpenSource #DeveloperTools #TokenCosts #TreeSitter #LocalFirst",
+      "commentCount": 0,
+      "likeCount": 8,
+      "probeClient": "web_embedded"
+    },
+    "DYdC-oqLMiY": {
+      "checkedAt": "2026-07-27T13:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🧠 Turning Claude Fable 5 Into The Ultimate Second Brain! What if Claude Code could actually remember everything it learned between coding sessions? \n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\nSomething coming soon :) https://www.skool.com/worldofai-automation\n\n[Must Watch]:\nClaude Code + Ollama = FULLY FREE AI Coding FOREVER! (Tutorial): https://youtu.be/mN2VUw5Fb3E?si=w8U-WHkeyobCIT0c\nHermes Agentic OS is The Future: https://youtu.be/dLk2Imx-0uk\nHermes Agent The 24/7 Self-Evolving AI Agent!: https://youtu.be/cu2fgknmemA?si=BPLsI65J2RVJ1p8I\n\n📌 LINKS & RESOURCES\nWorld of AI Benchmark: https://www.woaibench.ai/\nAI NEWS: https://x.com/intheworldofai\nCognee Website: https://www.cognee.ai/\nCognee Github: https://github.com/topoteretes/cognee\nDocs: https://docs.cognee.ai/getting-started/introduction\nClaude Code: https://claude.ai/code/family\n\nIn this video, I connect Claude Fable 5 with Cognee, an open-source AI memory platform that gives Claude Code persistent long-term memory. Instead of starting every session from scratch, Fable 5 can retrieve previous project knowledge, architectural decisions, and implementation details—saving time, reducing token costs, and making long-running software projects dramatically more efficient.\n\nYou'll see a complete end-to-end demo where I build a project brain, connect it to Claude Code, implement a real feature, and then prove that a brand-new session can recall what was learned previously.\n\nIf you're building AI agents, using Claude Code daily, or interested in the future of persistent AI memory, this is one you won't want to miss.\n\nHuge thanks to Cognee for sponsoring this video! 🚀\n\n🔗 Learn more about Cognee:\nhttps://github.com/topoteretes/cognee\n\nIf you enjoyed the video, don't forget to Like 👍, Subscribe 🔔, and Comment 💬 what you'd like me to test next!\n\nTags:\nClaude Fable 5, Claude Code, Cognee, AI memory, persistent memory, second brain, AI coding, Claude AI, Anthropic, AI agents, coding agent, developer tools, AI programming, knowledge graph, long term memory, AI workflow, software engineering, TypeScript, React, Three.js, open source AI, agentic coding, AI automation, programming, LLM, AI developer, context window, coding assistant, Fable 5, World of AI\n\n#AI #ClaudeCode #ClaudeFable5 #Cognee #Anthropic #SecondBrain #AIAgents #OpenSource #Programming #WorldOfAI",
+      "commentCount": 13,
+      "likeCount": 176,
+      "probeClient": "web_embedded"
+    },
+    "68kYP3RNn7Y": {
+      "checkedAt": "2026-07-27T13:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I Replaced GitHub Copilot With This FREE AI Coding Agent for VS Code.\n Stop paying $10/month for GitHub Copilot. This FREE AI Coding Agent for VS Code does everything Copilot does — autocomplete, AI chat, inline edits — works with Claude, Gemini, GPT, and local models. Zero subscription.\n\nIn this video I'll show you:\n1.  How to install Continue.dev in VS Code (2 minutes)?\n2.  How to connect a FREE Gemini API key (no credit card)?\n3.  How to build a complete To-Do List app using only plain English?\n4. How to edit your app's design with one sentence?\n5. How to switch between Claude, GPT, and Gemini models instantly?\n\n-----------------------------------------\n🔗 LINKS MENTIONED IN THIS VIDEO\n-----------------------------------------\n▶ Continue.dev Extension (VS Code Marketplace):\nhttps://marketplace.visualstudio.com/items?itemName=Continue.continue\n\n▶ Continue.dev Website:\nhttps://www.continue.dev\n\n▶ Get FREE Gemini API Key (Google AI Studio):\nhttps://aistudio.google.com\n\n▶ Watch First: Get FREE API Keys for Claude, GPT & Gemini:\nhttps://youtu.be/0pfOPZRRxmk\n\n-----------------------------------------\n⏱️ TIMESTAMPS\n-----------------------------------------\n0:00 — Why I quit GitHub Copilot\n0:30 — What is Continue.dev?\n1:00 — Install Continue in VS Code\n1:45 — Connect your FREE Gemini API key\n2:30 — Build a To-Do List app in 90 seconds\n3:20 — Test the app live in the browser\n3:40 — Change the design with one sentence\n\n\n-----------------------------------------\n🎓 ABOUT THIS CHANNEL\n-----------------------------------------\nHMA WebCode (@hmaweb) — beginner-friendly web development and AI tools \ntutorials. New videos every week. If you're learning to build for the web, \nyou're in the right place.\n\n👍 If this helped you, LIKE this video — it helps the channel grow.\n\n🔔 SUBSCRIBE so you don't miss the next one.\n💬 Drop a comment if you have questions — I read every one.\n\n#aicoding  #VSCode #GitHubCopilot #FreeAI #WebDevelopment\n\n...........................…......................\n\nMusic by ‪@HotHamMusic‬​ \nStream: smarturl.it/HothamMusic \nDownload: hypeddit.com/track/j2mggw \nMusic supported by #BackgroundMusicWithoutLimitations​ \n@FreeBackgroundMusicForCreators",
+      "commentCount": 4,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "bXF0CddIg_0": {
+      "checkedAt": "2026-07-27T13:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "*► COMPLETE AI APP DEVELOPMENT COURSE*\n» Enroll Now (Highly Recommended): https://courses.ybtshop.com\n» Coupon Code (25% OFF): *YBT25* (First 25 Students Only)\n\n*► PRD Tool*\nLink: https://ybtshop.com\n*► You B Tech Social Media App\nLink: https://play.google.com/store/apps/details?id=com.youbtech.youbtech\n*► JOIN TELEGRAM FOR LATEST UPDATES:* https://t.me/You_B_Tech\n*==========================================*\n\n*[ VIDEO DESCRIPTION ]*\nIn this video, I test Laguna XS 2.1 by Poolside — a brand new, completely FREE and open-source AI coding model built specifically for vibe coders. We'll use it to build a full 3D-style BMW landing page in a single HTML file, and then build a Flipkart-style eCommerce mobile app using Flutter — both without writing a single line of manual code. I'll also show you how to get free unlimited API access and use this model inside Open Code, Cline, Roo, or Claude Code for your own projects.\n\n*[ WHAT YOU WILL LEARN ]*\n✅ What is Laguna XS 2.1 and how it compares to other free models\n✅ Getting free unlimited API access (OpenRouter)\n✅ Using the model inside Open Code for agentic coding\n✅ Building a premium 3D landing page with a single prompt\n✅ Building a Flutter eCommerce app clone with demo data\n✅ Testing responsiveness, animations & UI quality\n✅ Known limitations (rate limits) and how to work around them\n✅ Where to try the model's playground\n\n*[ TIMESTAMPS ]*\n0:00 Intro – New Free AI Model\n0:20 What is Laguna XS 2.1?\n1:20 Getting Free API Access\n1:52 Using It in Open Code\n2:01 Building a 3D BMW Landing Page\n2:22 Reviewing the Website Output\n3:52 Building a Flutter eCommerce App\n5:04 Testing the Mobile App\n5:37 Why This Model Stands Out\n6:00 Limitations & Rate Limits\n6:43 Trying the Playground on OpenRouter\n\n*==========================================*\n\n*► CONNECT WITH ME:*\n» YouTube: https://youtube.com/@You_B_Tech\n» GitHub: https://github.com/YouBTech01\n» Telegram: https://t.me/You_B_Tech\n» Blog: https://ybtshop.com\n\n*==========================================*\n\n*[ LATEST TUTORIALS ]*\n» Learn AI App Development in 15 Days: [Link]\n» Build & Publish Your First Android App: [Link]\n» Free API for GLM, Kimi & Minimax AI Models: [Link]\n» Build a Full AI Startup Without Coding: [Link]\n» 5 Free VS Code AI Agents: https://youtu.be/2ngz240jT-g\n\n*[ RELATED TUTORIALS ]*\n» Full eCommerce App & Web: https://youtu.be/RnElwUEigI8\n» AI Web Dev Masterclass: https://youtu.be/CFMbWinPAHg\n» Website to Android App: https://youtu.be/rWipnQ0IehQ\n» Windows App with Flutter & AI: https://youtu.be/9lOUI1hff1I\n\n*[ MORE TUTORIALS FOR BEGINNERS ]*\n» Best Free AI Coding Tools: https://youtu.be/kvPrUloMmnA\n» Flutter UI from PRD Guide: https://youtu.be/ZRE6w7tLEmE\n» Gemini Agent Mode Tutorial: https://youtu.be/0N5FW5IwJD4\n\n*==========================================*\n*If you found this video helpful, please Like, Share, and Subscribe!*\nThanks for watching!",
+      "commentCount": 14,
+      "likeCount": 116,
+      "probeClient": "web_embedded"
+    },
+    "aGnWRt6u-fg": {
+      "checkedAt": "2026-07-27T13:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Best courses to learn Python coding:\n📌 Datacamp Python Programming Fundamentals: https://datacamp.pxf.io/7XxMBr\n📌 DataCamp Associate AI Engineer for Developers: https://datacamp.pxf.io/m4bGkq\n\nWith AI writing code, many beginners are wondering if learning programming is still worth it. The answer is yes, but the way you learn matters more than ever.\n\nIn this video, I break down the exact roadmap I would follow if I were starting from zero today. You'll learn what to study first, what to skip, how to avoid tutorial hell, how to build projects that actually teach you real engineering skills, and how to use AI tools without becoming dependent on them.\n\n🚀 What you'll learn:\n✅ Is learning to code still worth it in the age of AI?\n✅ Why Python is the best first programming language in 2026\n✅ A complete beginner roadmap to learning Python step by step\n✅ The core programming concepts every developer must master\n✅ Why dictionaries are more important than most beginners realize\n✅ How to structure real world Python projects\n✅ Object Oriented Programming explained for beginners\n✅ Debugging, error handling, and reading stack traces\n✅ Beginner projects that actually prepare you for software engineering\n✅ Git and GitHub skills every developer needs\n✅ How to use ChatGPT and Claude to learn programming effectively\n✅ The highest paying Python career paths in AI and software engineering\n\n👋 about me\nI’m Maddy, a senior software engineer (prev. at Google), with prior internships at Microsoft, Morgan Stanley, IBM, and Amazon. Sharing my journey here - thanks for watching 🤍\n\n🔗find me on other socials\nInstagram https://www.instagram.com/madeline.m.zhang/\nLinkedIn https://www.linkedin.com/in/madelinemzhang/\nTiktok https://www.tiktok.com/@madeline.m.zhang\n\nTimestamps\n0:00 Intro\n0:46 Is coding still worth it\n1:58 Why Python\n2:21 Phase 1\n3:34 Phase 2\n6:12 Phase 3\n6:59 Professional skills\n8:22 Career opportunities\n\n🔔 Subscribe for more AI, software engineering, and career growth content!\n\ndisclaimer: views are all my own and do not represent any current / past employer(s)\n\nThank you to DataCamp for sponsoring this video.\n\nSome of the links in the description are affiliate links, which may earn me a commission if you make a purchase, at no extra cost to you.\n\n#python #coding #learntocode #pythonprogramming #programming #softwareengineering #softwareengineer #developer #developers #codingforbeginners #pythonforbeginners #artificialintelligence #ai #chatgpt #claude #programmingtutorial #career #techcareer #techjobs #pythondeveloper #aiengineer #machinelearning #datascience #github #git #debugging #computerscience #bigtech #google #amazon",
+      "commentCount": 24,
+      "likeCount": 576,
       "probeClient": "web_embedded"
     }
   }

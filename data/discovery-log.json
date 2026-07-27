@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T12:53:14Z",
+  "updatedAt": "2026-07-27T13:53:40Z",
   "items": [
+    {
+      "id": "p1aJ-xLkfVI",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-07-27T13:47:32Z",
+      "firstSeenAt": "2026-07-27T13:53:40Z"
+    },
+    {
+      "id": "36dOTvfOETQ",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-07-27T13:02:50Z",
+      "firstSeenAt": "2026-07-27T13:53:40Z"
+    },
+    {
+      "id": "wGMl8f7BYxg",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-07-27T13:00:30Z",
+      "firstSeenAt": "2026-07-27T13:53:40Z"
+    },
+    {
+      "id": "l6nc0Vq3T8s",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-07-27T13:00:10Z",
+      "firstSeenAt": "2026-07-27T13:53:40Z"
+    },
+    {
+      "id": "01rLbqMfidc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hyperautomation Labs",
+      "publishedAt": "2026-07-27T11:53:40Z",
+      "firstSeenAt": "2026-07-27T13:53:40Z"
+    },
+    {
+      "id": "DYdC-oqLMiY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WorldofAI",
+      "publishedAt": "2026-07-27T06:53:40Z",
+      "firstSeenAt": "2026-07-27T13:53:40Z"
+    },
+    {
+      "id": "68kYP3RNn7Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "HMA WebCode",
+      "publishedAt": "2026-07-26T17:53:40Z",
+      "firstSeenAt": "2026-07-27T13:53:40Z"
+    },
+    {
+      "id": "aGnWRt6u-fg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Maddy Zhang",
+      "publishedAt": "2026-07-26T16:53:40Z",
+      "firstSeenAt": "2026-07-27T13:53:40Z"
+    },
+    {
+      "id": "bXF0CddIg_0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "You B Tech",
+      "publishedAt": "2026-07-26T15:53:40Z",
+      "firstSeenAt": "2026-07-27T13:53:40Z"
+    },
     {
       "id": "GtQGFwvxNl0",
       "type": "short",
@@ -2597,6 +2669,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-07-27T13:53:40Z",
+      "new": 9,
+      "long": 6,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
