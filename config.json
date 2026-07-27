@@ -1,0 +1,32 @@
+{
+  "siteName": "NexaFeed",
+  "siteUrl": "https://developerjillur.github.io/nexafeed/",
+  "timezone": "Asia/Dhaka",
+  "keywords": [
+    "AI automation",
+    "AI agents",
+    "generative AI tools",
+    "no-code automation",
+    "AI software development"
+  ],
+  "topics": [
+    "Artificial Intelligence",
+    "Automation",
+    "Software Development"
+  ],
+  "categories": [
+    "AI coding tools",
+    "agency automation",
+    "digital marketing automation"
+  ],
+  "primaryLongPerChannel": 5,
+  "primaryShortsPerChannel": 5,
+  "shortsMetadataPerChannel": 2,
+  "secondaryResultsPerQuery": 8,
+  "secondaryRetentionHours": 168,
+  "secondarySearchFilter": "EgIIAg==",
+  "maxFeedItems": 340,
+  "shortMaxSeconds": 180,
+  "freshHours": 24,
+  "discoveryRetentionDays": 90
+}

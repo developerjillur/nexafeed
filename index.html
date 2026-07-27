@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="NexaFeed is a focused YouTube-style feed for monitored channels, Shorts, long videos, keywords, topics, and categories." />
+    <meta name="theme-color" content="#0f0f0f" />
+    <title>NexaFeed — Focused Video Feed</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar-start">
+        <button id="menuButton" class="icon-button" aria-label="Toggle sidebar">☰</button>
+        <button id="brandButton" class="brand" type="button" aria-label="NexaFeed home">
+          <span class="brand-mark">▶</span><span>NexaFeed</span><sup>BD</sup>
+        </button>
+      </div>
+
+      <form id="searchForm" class="search-form" role="search">
+        <label class="sr-only" for="searchInput">Search NexaFeed</label>
+        <input id="searchInput" type="search" placeholder="Search monitored videos" autocomplete="off" />
+        <button type="submit" aria-label="Search">⌕</button>
+      </form>
+
+      <div class="topbar-actions">
+        <span id="updatedLabel" class="updated-label"><i></i>Loading feed</span>
+        <button id="refreshButton" class="icon-button" aria-label="Refresh feed">↻</button>
+        <button id="themeButton" class="icon-button" aria-label="Change theme">☀</button>
+        <span class="profile-avatar" aria-label="NexaLance">NL</span>
+      </div>
+    </header>
+
+    <div id="scrim" class="scrim"></div>
+
+    <aside id="sidebar" class="sidebar">
+      <nav id="mainNav" aria-label="Main navigation">
+        <button data-view="home" class="active"><span>⌂</span>Home</button>
+        <button data-view="shorts"><span>ϟ</span>Shorts</button>
+        <button data-view="long"><span>▶</span>Long videos</button>
+        <button data-view="history"><span>◷</span>Watch history <b id="historyCount">0</b></button>
+        <button data-view="settings"><span>⚙</span>Feed settings</button>
+      </nav>
+
+      <div class="monitor-card">
+        <i></i>
+        <div>
+          <strong>Hourly monitoring</strong>
+          <p>Priority channels first. Keyword, topic, and category discovery second.</p>
+        </div>
+      </div>
+    </aside>
+
+    <main id="app" class="content" aria-live="polite">
+      <div class="loading-grid"><i></i><i></i><i></i></div>
+    </main>
+
+    <div id="overlayRoot"></div>
+
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
