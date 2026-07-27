@@ -44,6 +44,7 @@ function readJson(key, fallback) {
 
 function escapeHtml(value = "") {
   return String(value)
+    .replaceAll("\uFFFD", "")
     .replaceAll("&", "&amp;")
     .replaceAll("<", "&lt;")
     .replaceAll(">", "&gt;")
