@@ -603,6 +603,12 @@ body.sidebar-collapsed .content { margin-left: 0; }
 .short-action-stack button:hover span, .short-action-stack button.active span, .short-action-stack a:hover span { background: rgba(255,255,255,.22); }
 .short-action-stack .action-avatar { background: linear-gradient(145deg, #6d3ce0, #db315a); font-size: 12px; font-weight: 900; }
 .short-action-stack button.active span { color: #ff6685; }
+.short-action-stack .short-like.active span {
+  border-color: rgba(255,102,133,.55);
+  background: rgba(255,102,133,.18);
+  color: #ff6685;
+}
+.short-action-stack .short-like.active small { color: #ff9bad; }
 .short-action-stack small { color: rgba(255,255,255,.78); font-size: 10px; }
 .short-drawer {
   width: 0;

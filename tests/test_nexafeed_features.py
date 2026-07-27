@@ -44,9 +44,14 @@ class FrontendFeatureTests(unittest.TestCase):
             "function goHome",
             "scrollToTop",
             "addEventListener(\"click\", goHome)",
+            "nexafeed-liked-v1",
+            "shortLikeButton",
+            "toggleLikeCurrentShort",
+            "aria-pressed",
         ]:
             self.assertIn(marker, app_js)
-        for marker in [".short-drawer", ".short-action-stack", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
+        self.assertNotIn("Like this Short on YouTube", app_js)
+        for marker in [".short-drawer", ".short-action-stack", ".short-like.active", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
             self.assertIn(marker, style_css)
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn('aria-label="NexaFeed home"', index_html)

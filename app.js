@@ -10,6 +10,7 @@ const WATCHED_KEY = "nexafeed-watched-v1";
 const PROGRESS_KEY = "nexafeed-progress-v1";
 const THEME_KEY = "nexafeed-theme-v1";
 const AUTOPLAY_KEY = "nexafeed-autoplay-v1";
+const LIKED_KEY = "nexafeed-liked-v1";
 
 const state = {
   feed: null,
@@ -21,6 +22,7 @@ const state = {
   quickFilter: "all",
   watched: readJson(WATCHED_KEY, {}),
   progress: readJson(PROGRESS_KEY, {}),
+  liked: readJson(LIKED_KEY, {}),
   theme: localStorage.getItem(THEME_KEY) || "dark",
   activeVideo: null,
   shortQueue: [],
@@ -69,6 +71,14 @@ function initials(name = "") {
 
 function isWatched(id) {
   return Boolean(state.watched[id]);
+}
+
+function isLiked(id) {
+  return Boolean(state.liked[id]);
+}
+
+function saveLiked() {
+  localStorage.setItem(LIKED_KEY, JSON.stringify(state.liked));
 }
 
 function progressFor(id) {
@@ -714,6 +724,21 @@ async function shareCurrentShort(button) {
   }
 }
 
+function toggleLikeCurrentShort(button) {
+  const video = state.shortQueue[state.shortIndex];
+  if (!video) return;
+  if (isLiked(video.id)) delete state.liked[video.id];
+  else state.liked[video.id] = Date.now();
+  saveLiked();
+  const liked = isLiked(video.id);
+  button?.classList.toggle("active", liked);
+  button?.setAttribute("aria-pressed", String(liked));
+  const icon = button?.querySelector("span");
+  const label = button?.querySelector("small");
+  if (icon) icon.textContent = liked ? "♥" : "♡";
+  if (label) label.textContent = liked ? "Liked" : label.dataset.defaultLabel || "Like";
+}
+
 function commentCard(comment) {
   const author = escapeHtml(comment.author || "YouTube viewer");
   const avatar = comment.authorThumbnail
@@ -793,6 +818,8 @@ function renderShort() {
   const detail = detailFor(video.id);
   const commentCount = Number(detail.commentCount || detail.comments?.length || 0);
   const likeCount = Number(detail.likeCount || 0);
+  const liked = isLiked(video.id);
+  const likeLabel = compactMetric(likeCount, "Like");
   overlayRoot.innerHTML = `
     <div class="short-overlay" id="shortOverlay">
       <button id="shortClose" class="icon-button short-close" aria-label="Close Shorts">×</button>
@@ -802,7 +829,7 @@ function renderShort() {
             <div id="shortYoutubePlayer"></div>
           </div>
           <div class="short-action-stack">
-            <a href="${escapeHtml(video.url)}" target="_blank" rel="noopener" aria-label="Like this Short on YouTube"><span>♡</span><small>${compactMetric(likeCount, "Like")}</small></a>
+            <button id="shortLikeButton" class="short-like ${liked ? "active" : ""}" aria-label="Save this Short to local likes" aria-pressed="${liked}"><span>${liked ? "♥" : "♡"}</span><small data-default-label="${escapeHtml(likeLabel)}">${liked ? "Liked" : escapeHtml(likeLabel)}</small></button>
             <button id="shortCommentsButton" class="${state.shortPanel === "comments" ? "active" : ""}" aria-label="Show comments"><span>▤</span><small>${compactMetric(commentCount, "Comments")}</small></button>
             <button id="shortShareButton" aria-label="Share this Short"><span>↗</span><small>Share</small></button>
             <button id="shortDescriptionButton" class="${state.shortPanel === "description" ? "active" : ""}" aria-label="Show description"><span>i</span><small>About</small></button>
@@ -1101,13 +1128,20 @@ app.addEventListener("change", (event) => {
   }
 });
 overlayRoot.addEventListener("click", (event) => {
-  if (event.target.closest("#shortClose")) closeShort();
-  if (event.target.closest("#shortNext")) nextShort();
-  if (event.target.closest("#shortPrevious")) previousShort();
-  if (event.target.closest("#shortCommentsButton")) toggleShortPanel("comments");
-  if (event.target.closest("#shortShareButton")) shareCurrentShort(event.target.closest("#shortShareButton"));
-  if (event.target.closest("#shortDescriptionButton")) toggleShortPanel("description");
-  if (event.target.closest("#shortDrawerClose")) toggleShortPanel(state.shortPanel);
+  const likeButton = event.target.closest("#shortLikeButton");
+  if (likeButton) {
+    event.preventDefault();
+    event.stopPropagation();
+    toggleLikeCurrentShort(likeButton);
+    return;
+  }
+  if (event.target.closest("#shortClose")) return closeShort();
+  if (event.target.closest("#shortNext")) return nextShort();
+  if (event.target.closest("#shortPrevious")) return previousShort();
+  if (event.target.closest("#shortCommentsButton")) return toggleShortPanel("comments");
+  if (event.target.closest("#shortShareButton")) return shareCurrentShort(event.target.closest("#shortShareButton"));
+  if (event.target.closest("#shortDescriptionButton")) return toggleShortPanel("description");
+  if (event.target.closest("#shortDrawerClose")) return toggleShortPanel(state.shortPanel);
 });
 overlayRoot.addEventListener("wheel", (event) => {
   if (event.target.closest(".short-drawer")) return;
