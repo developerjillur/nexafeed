@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T22:53:05Z",
+  "updatedAt": "2026-07-27T23:53:05Z",
   "items": [
+    {
+      "id": "EXRBvvsrYJI",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-07-27T23:20:33Z",
+      "firstSeenAt": "2026-07-27T23:53:05Z"
+    },
+    {
+      "id": "W2ciHDDys8I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rainy Reaksmey",
+      "publishedAt": "2026-07-27T23:00:05Z",
+      "firstSeenAt": "2026-07-27T23:53:05Z"
+    },
+    {
+      "id": "15aYl5H72KA",
+      "type": "short",
+      "source": "secondary",
+      "channel": "BenStack",
+      "publishedAt": "2026-07-27T20:53:05Z",
+      "firstSeenAt": "2026-07-27T23:53:05Z"
+    },
+    {
+      "id": "tAnQpg1FOas",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Yudi J",
+      "publishedAt": "2026-07-27T14:53:05Z",
+      "firstSeenAt": "2026-07-27T23:53:05Z"
+    },
+    {
+      "id": "mTsrDOtyYnE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Love Babbar",
+      "publishedAt": "2026-07-27T13:53:05Z",
+      "firstSeenAt": "2026-07-27T23:53:05Z"
+    },
     {
       "id": "Mz3jAiOYD-U",
       "type": "long",
@@ -3239,6 +3279,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-07-27T23:53:05Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
