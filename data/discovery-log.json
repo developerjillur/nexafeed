@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T09:53:51Z",
+  "updatedAt": "2026-07-27T10:53:51Z",
   "items": [
+    {
+      "id": "2zdWI2SYB9I",
+      "type": "long",
+      "source": "primary",
+      "channel": "Piyush Garg",
+      "publishedAt": "2026-07-27T10:30:29Z",
+      "firstSeenAt": "2026-07-27T10:53:51Z"
+    },
+    {
+      "id": "SNsIHRmTb44",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Prof. Jean Fan",
+      "publishedAt": "2026-07-26T23:53:51Z",
+      "firstSeenAt": "2026-07-27T10:53:51Z"
+    },
+    {
+      "id": "xL2cc2ifjvg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BBC News Africa",
+      "publishedAt": "2026-07-26T19:53:51Z",
+      "firstSeenAt": "2026-07-27T10:53:51Z"
+    },
+    {
+      "id": "wxA4ONB8RNY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Deep Humor",
+      "publishedAt": "2026-07-26T17:53:51Z",
+      "firstSeenAt": "2026-07-27T10:53:51Z"
+    },
+    {
+      "id": "PaVJ_rTtriI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Neural Nutshell",
+      "publishedAt": "2026-07-26T16:53:51Z",
+      "firstSeenAt": "2026-07-27T10:53:51Z"
+    },
+    {
+      "id": "x8awWAj5fUI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Echoes of the Blue Marble",
+      "publishedAt": "2026-07-26T16:53:51Z",
+      "firstSeenAt": "2026-07-27T10:53:51Z"
+    },
+    {
+      "id": "xHr18GEJqck",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TED",
+      "publishedAt": "2026-07-26T15:53:51Z",
+      "firstSeenAt": "2026-07-27T10:53:51Z"
+    },
+    {
+      "id": "36OMMx1uHA8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "FutureLens",
+      "publishedAt": "2026-07-26T12:53:51Z",
+      "firstSeenAt": "2026-07-27T10:53:51Z"
+    },
+    {
+      "id": "l-QPwk_f4eE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "IBM Technology",
+      "publishedAt": "2026-07-26T11:53:51Z",
+      "firstSeenAt": "2026-07-27T10:53:51Z"
+    },
     {
       "id": "BcF-RT6I5Vw",
       "type": "long",
@@ -2386,6 +2458,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-07-27T10:53:51Z",
+      "new": 9,
+      "long": 9,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }

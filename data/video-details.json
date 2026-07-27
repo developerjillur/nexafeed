@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T09:53:51Z",
+  "updatedAt": "2026-07-27T10:53:51Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -429,7 +429,7 @@
       "likeCount": 6
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-27T09:53:51Z",
+      "checkedAt": "2026-07-27T10:53:51Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -1845,7 +1845,7 @@
       "probeClient": "web_embedded"
     },
     "u8o8OAbLuDo": {
-      "checkedAt": "2026-07-27T09:53:51Z",
+      "checkedAt": "2026-07-27T10:53:51Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -3008,15 +3008,6 @@
       "description": "Your agent loop is one worker. You've been running it like it's the whole team.\n\nThe field just shifted from loop engineering to graph engineering — your loop becomes one node inside an organization of agents that share a goal. And here's the part nobody explains: you're not running one graph, you're running two at the same time. An org graph is your permanent roster — long-lived agents with named roles that always exist. A work graph is what's happening right now — tasks that spawn, split, merge, and disappear based on what the agents discover. The hard part: when one node fails in a graph, three agents downstream are working off stale inputs and none of them know it.\n\n→ A loop is one agent's contract with itself: trigger, act, verify, retry — all in one context\n→ A graph is an organization of agents where each node runs its own loop and edges define how work flows\n→ The org graph is your permanent team roster — long-lived agents with named roles that always exist\n→ The work graph rewrites itself mid-sprint — tasks spawn, split, merge, and disappear as evidence changes\n→ When a node fails in a graph, the entire downstream goes stale — failure surface is way larger than a loop\n→ A loop is one worker doing its job. A graph is the whole team, organized.\n\nComment \"GRAPH\" and I'll send you the breakdown with both graph types mapped out.\nAre you still wiring one loop at a time, or have you started thinking in graphs?\n\n#AI #aiagents #graphengineering #agenticai #multiagent #claudecode #softwareengineering #buildinpublic #automation #devtools\n\n#Shorts",
       "commentCount": 2,
       "likeCount": 9,
-      "probeClient": "web_embedded"
-    },
-    "RbAXpZAoQUk": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Hey everyone, In this video, we are going to understand what is Event driven Architecture and Event Carried State Transfer pattern. we will understand the main problem behind simple Event driven Architecture and how Event Carried State Transfer pattern solves the problem.\n\nCheckout My Courses:\n- Master Docker Containerization: https://pro.piyushgarg.dev/learn/docker\n- Master DSA with Java: https://piyushgarg.pro/udemy-java-dsa\n- Master GenAI with Python: https://piyushgarg.pro/udemy-genai\n- Master Backend with NodeJS: https://piyushgarg.pro/udemy-nodejs\n\nFollow Me:\n- Instagram: https://www.instagram.com/piyushgarg.official\n- X (Formerly Twitter): https://x.com/piyushgarg_dev\n- Personal Website: https://www.piyushgarg.dev\n- LinkedIn: https://www.linkedin.com/in/piyushgarg195\n\nFounder / Creator of:\n- Teachyst: https://www.teachyst.com\n- WisprType: https://wisprtype.com\n- SkyPing: https://skyping.app\n\nMy Gears:\n- Standing Desk: https://amzn.to/4cUN6PL\n- Chair: https://amzn.to/429Q38S\n- MacBook Pro: https://amzn.to/4djTYGf\n- Keyboard: https://amzn.to/4w228KQ\n- Mouse: https://amzn.to/42Hxw3J\n\nVideo Titles\n- What is Event Driven Architecture?\n- What is Event Carried State Transfer?\n- Event Driven System Design\n\nHashtags\n#nodejs #javascript #webdevelopment #systemdesign #backenddeveloper #fullstackwebdevelopment #javascript #coding #programming #systemdesign #htmlcss #webdevelopment",
-      "commentCount": 90,
-      "likeCount": 495,
       "probeClient": "web_embedded"
     },
     "4lxYutx99gs": {
@@ -4631,6 +4622,87 @@
       "description": "Are you tired of paying massive monthly subscriptions for AI tools when the exact same functionality is sitting on GitHub for free? Discover 10 open-source AI repositories that feel illegal to know about, and learn how to snap them together to build the ultimate self-hosted AI Agent Stack.\n\n\n🔔 Subscribe: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w?sub_confirmation=1\n\n💙 Become a Member: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w/join\n\n🐦 Twitter/X:\n https://x.com/cloud_codes\n\n💬 Discord: \nhttps://discord.gg/4kJqEBMMf\n\n\nIn this video, Cloud Codes breaks down the system design of a complete, production-ready AI architecture. We explore how to give your AI \"hands\" with Browser Use and \"eyes\" with Firecrawl and Crawl4AI (to bypass anti-bot walls). We dive into how to fix AI amnesia using Mem0, and how to orchestrate multi-agent swarms using CrewAI, Langflow, and Microsoft's AutoGen. \n\nFinally, we show you how to ground your agent in real enterprise data using RAGFlow, how to run the entire pipeline completely offline and air-gapped using LocalAI, and how to wrap the whole stack in a beautiful, non-technical UI using AnythingLLM. Stop building from scratch—start assembling!\n\n🔗 The 10 GitHub Repos Mentioned:\n1. Browser Use (The Hands): https://github.com/gregpr07/browser-use\n2. Firecrawl (The Eyes): https://github.com/mendableai/firecrawl\n3. Mem0 (The Memory): https://github.com/mem0ai/mem0\n4. CrewAI (Code Orchestration): https://github.com/joaomdmoura/crewAI\n5. AutoGen (Research Orchestration): https://github.com/microsoft/autogen\n6. Langflow (No-Code Orchestration): https://github.com/langflow-ai/langflow\n7. Crawl4AI (Solo-Dev Web Scraper): https://github.com/unclecode/crawl4ai\n8. LocalAI (Private Engine): https://github.com/mudler/LocalAI\n9. RAGFlow (Enterprise Knowledge): https://github.com/infiniflow/ragflow\n10. AnythingLLM (The Workspace): https://github.com/Mintplex-Labs/anything-llm\n\n⏱️ TIMESTAMPS:\n0:00 - The Free AI Agent Stack\n0:54 - #1: Browser Use (The Hands)\n2:36 - #2: Firecrawl (The Eyes)\n4:06 - #3: Mem0 (The Memory)\n5:26 - #4: CrewAI (Code Orchestration)\n6:55 - #5: AutoGen (Microsoft's Pivot)\n8:30 - #6: Langflow (No-Code Visual Builder)\n10:21 - #7: Crawl4AI (Adaptive Crawling)\n12:03 - #8: LocalAI (Run AI Privately Offline)\n13:23 - #9: RAGFlow (DeepDoc Enterprise RAG)\n14:45 - #10: AnythingLLM (The Ultimate Front-End)\n16:25 - How to Snap the Stack Together\n17:49 - Summary: Don't Build From Scratch\n\n#aiagents #opensource #github #softwareengineering #machinelearning #systemdesign #cloudcodes #artificialintelligence #python #rag\n\n\nUser Queries:\nbest open source ai tools 2026\ncrewai vs autogen vs langflow\nhow to use firecrawl ai tutorial\nbrowser use github repo tutorial\nhow to build a local ai agent stack\nanythingllm vs chatgpt enterprise\nhow to use mem0 long term memory ai\nragflow deepdoc pdf extraction\ncrawl4ai vs firecrawl web scraping\nstop paying for ai saas build your own",
       "commentCount": 25,
       "likeCount": 481,
+      "probeClient": "web_embedded"
+    },
+    "2zdWI2SYB9I": {
+      "checkedAt": "2026-07-27T10:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Hey everyone, In this video, we are going to talk about Agentic memory, what is Memory and why AI agents need memory. We will also talk about Short term memory and Long term memory in AI agents with Semantic, Episodic and Factual memory.\n\nCheckout InsForge Platform, AI Agentic Native Cloud Infrastructure: https://go.insforge.dev/piyushgargr2\n\nCheckout My Courses:\n- Master Docker Containerization: https://pro.piyushgarg.dev/learn/docker\n- Master DSA with Java: https://piyushgarg.pro/udemy-java-dsa\n- Master GenAI with Python: https://piyushgarg.pro/udemy-genai\n- Master Backend with NodeJS: https://piyushgarg.pro/udemy-nodejs\n\nFollow Me:\n- Instagram: https://www.instagram.com/piyushgarg.official\n- X (Formerly Twitter): https://x.com/piyushgarg_dev\n- Personal Website: https://www.piyushgarg.dev\n- LinkedIn: https://www.linkedin.com/in/piyushgarg195\n\nFounder / Creator of:\n- Teachyst: https://www.teachyst.com\n- WisprType: https://wisprtype.com\n- SkyPing: https://skyping.app\n\nMy Gears:\n- Standing Desk: https://amzn.to/4cUN6PL\n- Chair: https://amzn.to/429Q38S\n- MacBook Pro: https://amzn.to/4djTYGf\n- Keyboard: https://amzn.to/4w228KQ\n- Mouse: https://amzn.to/42Hxw3J\n\nVideo Titles\n- What is Memory in AI Agents?\n- What is Semantic Memory?\n- What is Factual Memory?\n- What is Long Term and Short Term Memory?\n\nHashtags\n#agenticai #ai #llm #aimemory #aisystemdesign #systemdesign #nodejs #coding #programming #claude #gpt #gemini #backenddeveloper #webdevelopment",
+      "commentCount": 3,
+      "likeCount": 21,
+      "probeClient": "web_embedded"
+    },
+    "SNsIHRmTb44": {
+      "checkedAt": "2026-07-27T10:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Here is a reading of my essay on Artificial Intelligence among University Professors: https://jean.fan/2026/07/16/artificial-intelligence-among-university-professors.html\n\nContinuing my observations of the neoliberal academic ecosystem with more post-tenure cringey shenanigans:  https://www.youtube.com/watch?v=PGO4qgfm7DU",
+      "commentCount": 20,
+      "likeCount": 156,
+      "probeClient": "web_embedded"
+    },
+    "wxA4ONB8RNY": {
+      "checkedAt": "2026-07-27T10:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "►Youtube's AI generation thumbnail tool is now live on YouTube Studio. You can now use Ask Studio or YouTube studio to generate thumbnails for you based on the design of your previous thumbnails. Thumbnails created will be tailored to your video's specific themes and to your specific style. Let me know what you guys think about this situation in the comments below.\n\n►BECOME A MEMBER AND JOIN THE CHANNEL: \nhttps://www.youtube.com/channel/UCfZE3QN9ZJuvwvAg7A0aTEA/join\n\n►Thank you so much for watching, if you enjoyed the video, be sure to LIKE, COMMENT, and SUBSCRIBE for more!\n\n►My Twitter: https://twitter.com/DeepHumor \n►My Gaming Channel: https://www.youtube.com/@DeepHumorGaming\n►My Discord Server: https://discord.gg/smKdHqjHCZ\n►My Twitch Channel: https://www.twitch.tv/deephumoryt\n►My Patreon: https://www.patreon.com/c/DeepHumor\n\n►Thank you all for 200,000 subscribers, you're all awesome\n\n#DeepHumor #youtuber #youtubers",
+      "commentCount": 462,
+      "likeCount": 1612,
+      "probeClient": "web_embedded"
+    },
+    "xL2cc2ifjvg": {
+      "checkedAt": "2026-07-27T10:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "From the BBC Future of Journalism Festival at the University of Nairobi.\nA big part of everyone’s future is Artificial Intelligence.  But how should journalists use it?\nMwende Mukwanyaga from the AI Salon talks with a group of young journalists about what AI means and it can be used safely.\n\n#AI #journalism #news\n\nSubscribe: http://bit.ly/subscribetoafrica\r\nWebsite: https://www.bbc.com/africa\r\nFacebook: https://www.facebook.com/bbcnewsafrica/\r\nTwitter: https://www.twitter.com/bbcafrica/\r\nInstagram: https://www.instagram.com/bbcafrica/",
+      "commentCount": 1,
+      "likeCount": 16,
+      "probeClient": "web_embedded"
+    },
+    "PaVJ_rTtriI": {
+      "checkedAt": "2026-07-27T10:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔒 Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com\n\nEleazer Yudkowsky argues that today's AI systems are already displaying behaviors that should concern anyone thinking about artificial general intelligence, pointing to examples including OpenAI's GPT-4o exhibiting excessive flattery despite instructions to stop and Anthropic's research on alignment faking, where models appeared to comply during training while reverting to previous behavior when unobserved. He explains why reinforcement learning may produce increasingly unpredictable strategies, argues that AI objectives can diverge from human intentions in subtle but catastrophic ways, and warns that competitive pressure between AI companies and nations makes slowing development extremely difficult. The conversation concludes with his proposal for an internationally supervised \"off switch\" built around tracking advanced AI compute, allowing humanity to pause development if dangerous capabilities emerge before they become uncontrollable.\n\n📚 Sources cited in this video:\n\n- Anthropic, Alignment Faking in Large Language Models\nhttps://www.anthropic.com/research/alignment-faking\n\n- OpenAI, GPT-4o System Card\nhttps://openai.com/index/gpt-4o-system-card/\n\n- Future of Life Institute, Pause Giant AI Experiments Letter\nhttps://futureoflife.org/open-letter/pause-giant-ai-experiments/\n\n- Ezra Klein Show Interview with Eleazer Yudkowsky\nhttps://www.nytimes.com/column/ezra-klein-podcast\n\n⚠️ DISCLAIMER: This channel provides AI commentary and analysis for educational and informational purposes only. Views expressed by guests are their own and do not represent the positions of any company or institution. We encourage viewers to consult multiple sources and form their own conclusions.\n\n#ai #agi #artificialintelligence",
+      "commentCount": 60,
+      "likeCount": 280,
+      "probeClient": "web_embedded"
+    },
+    "x8awWAj5fUI": {
+      "checkedAt": "2026-07-27T10:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Ready to dive into the dark side of AI? This video uncovers jaw-dropping stories of rogue AI, cybercrime, deepfakes, job shakeups, and even how AI might be running up your electric bill! If you've ever wondered what happens when machines get a little too clever, you can't miss this. Hit subscribe for more wild tech tales and let us know in the comments what shocked you most! #AI #technology #future #cybersecurity #jobs\n\n👉 This channel was created in collaboration with https://www.youtube.com/@baladementale\n\n0:06 - AI Emergent Behaviors: The Alibaba Example\n1:36 - Shrinking Human Role in AI Progress\n2:41 - Risks of AI Autonomy and Workarounds\n5:05 - AI in Cybersecurity: Threats and Abuse\n9:41 - AI in Molecular Biology and Biosecurity\n10:36 - AI and the Spread of Synthetic Media\n17:43 - Job Market and Societal Shifts Due to AI\n22:39 - Environmental, Military, and Closing Thoughts on AI\n\nWe’re now available on Spotify! Listen now https://open.spotify.com/show/01UCvkhG8T0VWT3XwHvRHe",
+      "commentCount": 0,
+      "likeCount": 5,
+      "probeClient": "web_embedded"
+    },
+    "xHr18GEJqck": {
+      "checkedAt": "2026-07-27T10:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What's the most powerful tool in any classroom? In the age of AI, education advocate Matt Wu still believes it's the people. In this hopeful talk, he discusses the nonprofit he leads, Schoolhouse, which pairs students with peer tutors from across the globe, building the crucial human connection that every person needs to thrive. Peer tutoring isn't just teaching students how to learn concepts, says Wu. It's teaching them how to better understand one another. (Recorded at TED2026 on April 17, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/mattwu\n\nhttps://youtu.be/xHr18GEJqck\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Education",
+      "commentCount": 33,
+      "likeCount": 421,
+      "probeClient": "web_embedded"
+    },
+    "36OMMx1uHA8": {
+      "checkedAt": "2026-07-27T10:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Artificial intelligence is changing the way we interact with technology—and your smartphone could be next.\n\nFor nearly two decades, smartphones have been the center of our digital lives. We use them for communication, navigation, entertainment, shopping, work, and almost everything in between.\n\nBut what happens when AI can do all of those things without requiring you to open a single app?\n\nIn this documentary, we explore how AI assistants, smart glasses, wearable devices, and ambient computing could transform personal technology over the next decade. Could the smartphone become just another device of the past?\n\nIn this video:\n\nWhy smartphones may be reaching their limits\nHow AI assistants are changing everyday life\nAI glasses and wearable technology\nThe future of personal computing\nPrivacy and security risks\nWill smartphones disappear?\nPredictions for the next generation of technology\n\nIf you enjoy documentaries about artificial intelligence, future technology, and emerging innovations, subscribe to FutureLens and join us as we explore the world that's arriving faster than most people realize.\n\n👍 Like the video if you enjoyed it.\n\n💬 Question for you:\nWhat do you think will replace the smartphone first—AI glasses, AI earbuds, or something we haven't even imagined yet?\n\n🔔 Subscribe for more documentaries about AI, robotics, future technology, and the future of humanity.\n\n#AI\n#ArtificialIntelligence\n#FutureTechnology\n#Technology\n#Smartphone\n#FutureTech\n#AIRevolution\n#FutureLens",
+      "commentCount": 54,
+      "likeCount": 292,
+      "probeClient": "web_embedded"
+    },
+    "l-QPwk_f4eE": {
+      "checkedAt": "2026-07-27T10:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn more about Human Centered AI here → https://ibm.biz/~tQF2ZHKWO\n\nAI can generate answers, but judgment still matters. Jeff Crume explores why the humanities remain essential in an AI-driven world filled with powerful language models and automation. Learn how ethics, interpretation, and critical thinking help us use AI responsibly.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/~r3J4xS2nu\n\n#humanities #ai #aieducation #aiandsociety #responsibleai",
+      "commentCount": 34,
+      "likeCount": 931,
       "probeClient": "web_embedded"
     }
   }
