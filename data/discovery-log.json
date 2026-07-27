@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T06:53:24Z",
+  "updatedAt": "2026-07-27T07:46:18Z",
   "items": [
+    {
+      "id": "6IY5Zc_AkYg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Brainy Algorithms",
+      "publishedAt": "2026-07-26T12:46:18Z",
+      "firstSeenAt": "2026-07-27T07:46:18Z"
+    },
+    {
+      "id": "3BfKWzwLNB8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NextMind",
+      "publishedAt": "2026-07-27T07:08:18Z",
+      "firstSeenAt": "2026-07-27T07:24:18Z"
+    },
+    {
+      "id": "2uk9v3DDBEo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan 3D AI and PixelArtistry",
+      "publishedAt": "2026-07-26T16:24:18Z",
+      "firstSeenAt": "2026-07-27T07:24:18Z"
+    },
+    {
+      "id": "x680H2KxaAc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DSwithBappy",
+      "publishedAt": "2026-07-26T15:24:18Z",
+      "firstSeenAt": "2026-07-27T07:24:18Z"
+    },
+    {
+      "id": "BiXWH3QUX1Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jack Vs. AI",
+      "publishedAt": "2026-07-26T14:24:18Z",
+      "firstSeenAt": "2026-07-27T07:24:18Z"
+    },
+    {
+      "id": "8-m-Inmk5fs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mark Milutin",
+      "publishedAt": "2026-07-26T13:24:18Z",
+      "firstSeenAt": "2026-07-27T07:24:18Z"
+    },
+    {
+      "id": "DXZ9PdjMxcU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TechGG",
+      "publishedAt": "2026-07-26T12:24:18Z",
+      "firstSeenAt": "2026-07-27T07:24:18Z"
+    },
+    {
+      "id": "qzHdWNQfnYw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Grow with AI",
+      "publishedAt": "2026-07-26T07:24:18Z",
+      "firstSeenAt": "2026-07-27T07:24:18Z"
+    },
     {
       "id": "nIpKFmPDrZE",
       "type": "short",
@@ -2166,6 +2230,24 @@
       "channelsChecked": 33,
       "warnings": 2,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-07-27T07:24:18Z",
+      "new": 7,
+      "long": 7,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-07-27T07:46:18Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }

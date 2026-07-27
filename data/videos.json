@@ -1,44 +1,38 @@
 {
-  "schemaVersion": 2,
-  "updatedAt": "2026-07-27T06:53:24Z",
+  "schemaVersion": 3,
+  "updatedAt": "2026-07-27T07:46:18Z",
   "siteName": "NexaFeed",
   "siteUrl": "https://developerjillur.github.io/nexafeed/",
   "primaryChannels": 33,
   "freshHours": 24,
   "stats": {
-    "total": 300,
-    "longVideos": 134,
-    "shorts": 166,
-    "primary": 292,
-    "secondary": 8,
-    "newThisRun": 0,
-    "newLongThisRun": 0,
+    "total": 303,
+    "longVideos": 142,
+    "shorts": 161,
+    "primary": 287,
+    "secondary": 16,
+    "newThisRun": 1,
+    "newLongThisRun": 1,
     "newShortsThisRun": 0
   },
   "health": {
     "channelsRequested": 33,
     "channelsChecked": 33,
-    "channelsWithWarnings": 2,
-    "failures": [
-      {
-        "handle": "@IshanSharma7390",
-        "errors": [
-          "rss: Fetch failed for https://www.youtube.com/feeds/videos.xml?channel_id=UCY6N8zZhs2V7gNTUxPuKWoQ: HTTP Error 404: Not Found"
-        ]
-      },
-      {
-        "handle": "@charlieautomates",
-        "errors": [
-          "rss: Fetch failed for https://www.youtube.com/feeds/videos.xml?channel_id=UCoqNpR_9YQc72dh2u5HGcDg: HTTP Error 500: Internal Server Error"
-        ]
-      }
-    ],
+    "channelsWithWarnings": 0,
+    "failures": [],
     "secondary": {
-      "query": "AI agents",
+      "query": "generative AI tools",
       "newResults": 8,
       "error": null
     },
-    "runSeconds": 163.59
+    "richMetadata": {
+      "planned": 268,
+      "checked": 268,
+      "warnings": 0,
+      "errors": [],
+      "embedBlocked": 5
+    },
+    "runSeconds": 494.63
   },
   "items": [
     {
@@ -53,35 +47,15 @@
       "thumbnail": "https://i.ytimg.com/vi/nIpKFmPDrZE/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "16 views",
-      "viewCount": 16,
+      "views": "27 views",
+      "viewCount": 27,
       "publishedAt": "2026-07-27T06:20:11Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-27T06:28:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/nIpKFmPDrZE"
-    },
-    {
-      "id": "dUHpFuUIyi0",
-      "type": "short",
-      "title": "The FREE GitHub skill that deletes every AI tell.",
-      "channel": "Jack",
-      "channelId": "UCxVxcTULO9cFU6SB9qVaisQ",
-      "handle": "@Itssssss_Jack",
-      "channelUrl": "https://www.youtube.com/@Itssssss_Jack",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/dUHpFuUIyi0/frame0.jpg",
-      "duration": "Short",
-      "durationSeconds": null,
-      "views": "12.0K views",
-      "viewCount": 12000,
-      "publishedAt": "2026-07-26T19:57:33Z",
-      "publishedLabel": "",
-      "firstSeenAt": "2026-07-26T19:57:33Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/shorts/dUHpFuUIyi0"
+      "url": "https://www.youtube.com/shorts/nIpKFmPDrZE",
+      "embedAllowed": true
     },
     {
       "id": "MJKcdatXqcA",
@@ -102,7 +76,8 @@
       "firstSeenAt": "2026-07-26T16:00:24Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/MJKcdatXqcA"
+      "url": "https://www.youtube.com/shorts/MJKcdatXqcA",
+      "embedAllowed": true
     },
     {
       "id": "gTMFKLnC0So",
@@ -116,14 +91,15 @@
       "thumbnail": "https://i.ytimg.com/vi/gTMFKLnC0So/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "30.0K views",
-      "viewCount": 30000,
+      "views": "31.0K views",
+      "viewCount": 31000,
       "publishedAt": "2026-07-26T15:30:55Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-26T15:30:55Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/gTMFKLnC0So"
+      "url": "https://www.youtube.com/shorts/gTMFKLnC0So",
+      "embedAllowed": true
     },
     {
       "id": "0tbeJZYvsg4",
@@ -134,17 +110,18 @@
       "handle": "@VarunMayya",
       "channelUrl": "https://www.youtube.com/@VarunMayya",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/0tbeJZYvsg4/hqdefault_custom_1.jpg?sqp=CJj_m9MG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAViKQ9WWp5J2rBDtDHZ72NGTnEhw",
+      "thumbnail": "https://i.ytimg.com/vi/0tbeJZYvsg4/hqdefault_custom_1.jpg?sqp=CPyYnNMG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1W6blQ3NrfdOaUVMrsBTCJ59GjA",
       "duration": "28:51",
       "durationSeconds": 1731,
-      "views": "41.0K views",
-      "viewCount": 41000,
+      "views": "44.0K views",
+      "viewCount": 44000,
       "publishedAt": "2026-07-26T15:04:38Z",
-      "publishedLabel": "15 hours ago",
+      "publishedLabel": "16 hours ago",
       "firstSeenAt": "2026-07-26T15:04:38Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=0tbeJZYvsg4"
+      "url": "https://www.youtube.com/watch?v=0tbeJZYvsg4",
+      "embedAllowed": true
     },
     {
       "id": "Ums8suyAG1A",
@@ -155,7 +132,7 @@
       "handle": "@nateherk",
       "channelUrl": "https://www.youtube.com/@nateherk",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/Ums8suyAG1A/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCFw==&rs=AOn4CLBL-ExaVATZLoUe-dPDVajyI6dngw&usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/Ums8suyAG1A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNNtdVDFQX0xkxVc6XKDEpIKmrzw",
       "duration": "14:03",
       "durationSeconds": 843,
       "views": "19.0K views",
@@ -165,7 +142,8 @@
       "firstSeenAt": "2026-07-26T14:52:32Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=Ums8suyAG1A"
+      "url": "https://www.youtube.com/watch?v=Ums8suyAG1A",
+      "embedAllowed": true
     },
     {
       "id": "EiA6jmjw3yU",
@@ -179,14 +157,15 @@
       "thumbnail": "https://i.ytimg.com/vi/EiA6jmjw3yU/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "2.2K views",
-      "viewCount": 2200,
+      "views": "2.3K views",
+      "viewCount": 2300,
       "publishedAt": "2026-07-26T14:15:03Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-26T14:15:03Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/EiA6jmjw3yU"
+      "url": "https://www.youtube.com/shorts/EiA6jmjw3yU",
+      "embedAllowed": true
     },
     {
       "id": "fPfPOQYl924",
@@ -197,17 +176,18 @@
       "handle": "@Hgandotra",
       "channelUrl": "https://www.youtube.com/@Hgandotra",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/fPfPOQYl924/hqdefault_custom_1.jpg?sqp=CJj_m9MG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9quv_soN89ee4R67OZJQY1E-mEw",
+      "thumbnail": "https://i.ytimg.com/vi/fPfPOQYl924/hqdefault_custom_3.jpg?sqp=CPyYnNMG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3KQnSmtTBjej45QVh1OW6WHyfSQ",
       "duration": "8:49",
       "durationSeconds": 529,
-      "views": "8.2K views",
-      "viewCount": 8200,
+      "views": "8.5K views",
+      "viewCount": 8500,
       "publishedAt": "2026-07-26T13:44:32Z",
-      "publishedLabel": "17 hours ago",
+      "publishedLabel": "18 hours ago",
       "firstSeenAt": "2026-07-26T13:44:32Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=fPfPOQYl924"
+      "url": "https://www.youtube.com/watch?v=fPfPOQYl924",
+      "embedAllowed": true
     },
     {
       "id": "TvSEc0aejt4",
@@ -221,14 +201,15 @@
       "thumbnail": "https://i.ytimg.com/vi/TvSEc0aejt4/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "382 views",
-      "viewCount": 382,
+      "views": "388 views",
+      "viewCount": 388,
       "publishedAt": "2026-07-26T12:28:09Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-26T12:28:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/TvSEc0aejt4"
+      "url": "https://www.youtube.com/shorts/TvSEc0aejt4",
+      "embedAllowed": true
     },
     {
       "id": "M750pY5sCVA",
@@ -249,7 +230,8 @@
       "firstSeenAt": "2026-07-26T12:20:15Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/M750pY5sCVA"
+      "url": "https://www.youtube.com/shorts/M750pY5sCVA",
+      "embedAllowed": true
     },
     {
       "id": "gZ2XFFvSq8k",
@@ -263,14 +245,15 @@
       "thumbnail": "https://i.ytimg.com/vi/gZ2XFFvSq8k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2vDBJZ4fSuYh_zzTudQRoOqmOSA",
       "duration": "5:26",
       "durationSeconds": 326,
-      "views": "93 views",
-      "viewCount": 93,
+      "views": "99 views",
+      "viewCount": 99,
       "publishedAt": "2026-07-26T10:30:05Z",
-      "publishedLabel": "20 hours ago",
+      "publishedLabel": "21 hours ago",
       "firstSeenAt": "2026-07-26T10:30:05Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=gZ2XFFvSq8k"
+      "url": "https://www.youtube.com/watch?v=gZ2XFFvSq8k",
+      "embedAllowed": true
     },
     {
       "id": "jTVwbPbVH6Q",
@@ -284,14 +267,15 @@
       "thumbnail": "https://i.ytimg.com/vi/jTVwbPbVH6Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf5YUyxvC88-QGKdaiCPMH6zc8bA",
       "duration": "4:55",
       "durationSeconds": 295,
-      "views": "240 views",
-      "viewCount": 240,
+      "views": "241 views",
+      "viewCount": 241,
       "publishedAt": "2026-07-26T10:23:46Z",
-      "publishedLabel": "20 hours ago",
+      "publishedLabel": "21 hours ago",
       "firstSeenAt": "2026-07-26T10:23:46Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=jTVwbPbVH6Q"
+      "url": "https://www.youtube.com/watch?v=jTVwbPbVH6Q",
+      "embedAllowed": true
     },
     {
       "id": "XdjQK9zGS_c",
@@ -305,14 +289,15 @@
       "thumbnail": "https://i.ytimg.com/vi/XdjQK9zGS_c/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "1.3K views",
-      "viewCount": 1300,
+      "views": "1.4K views",
+      "viewCount": 1400,
       "publishedAt": "2026-07-26T10:14:41Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-26T10:14:41Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/XdjQK9zGS_c"
+      "url": "https://www.youtube.com/shorts/XdjQK9zGS_c",
+      "embedAllowed": true
     },
     {
       "id": "dyCyo8iPFuY",
@@ -323,17 +308,18 @@
       "handle": "@Ai.Vishnuvijayan",
       "channelUrl": "https://www.youtube.com/@Ai.Vishnuvijayan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/dyCyo8iPFuY/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/dyCyo8iPFuY/frame0.jpg?usqp=CBc",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "6.0K views",
-      "viewCount": 6000,
+      "views": "6.5K views",
+      "viewCount": 6500,
       "publishedAt": "2026-07-26T10:04:02Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-26T10:04:02Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/dyCyo8iPFuY"
+      "url": "https://www.youtube.com/shorts/dyCyo8iPFuY",
+      "embedAllowed": true
     },
     {
       "id": "vkWm_PBih7M",
@@ -347,14 +333,15 @@
       "thumbnail": "https://i.ytimg.com/vi/vkWm_PBih7M/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "264 views",
-      "viewCount": 264,
+      "views": "276 views",
+      "viewCount": 276,
       "publishedAt": "2026-07-26T09:41:18Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-26T09:41:18Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/vkWm_PBih7M"
+      "url": "https://www.youtube.com/shorts/vkWm_PBih7M",
+      "embedAllowed": true
     },
     {
       "id": "OfUA0vUzl9w",
@@ -368,14 +355,15 @@
       "thumbnail": "https://i.ytimg.com/vi/OfUA0vUzl9w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNw9QYyGtf1FJVttrL6fPyoW_w5A",
       "duration": "10:24",
       "durationSeconds": 624,
-      "views": "3.4K views",
-      "viewCount": 3400,
+      "views": "3.5K views",
+      "viewCount": 3500,
       "publishedAt": "2026-07-26T09:30:18Z",
-      "publishedLabel": "21 hours ago",
+      "publishedLabel": "22 hours ago",
       "firstSeenAt": "2026-07-26T09:30:18Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=OfUA0vUzl9w"
+      "url": "https://www.youtube.com/watch?v=OfUA0vUzl9w",
+      "embedAllowed": true
     },
     {
       "id": "zfQUB5F5cvo",
@@ -386,17 +374,18 @@
       "handle": "@professorofai.official",
       "channelUrl": "https://www.youtube.com/@professorofai.official",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/zfQUB5F5cvo/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/zfQUB5F5cvo/frame0.jpg?usqp=CBk",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "194.0K views",
-      "viewCount": 194000,
+      "views": "201.0K views",
+      "viewCount": 201000,
       "publishedAt": "2026-07-26T09:14:13Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-26T09:14:13Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/zfQUB5F5cvo"
+      "url": "https://www.youtube.com/shorts/zfQUB5F5cvo",
+      "embedAllowed": true
     },
     {
       "id": "iu-tCi9GCn4",
@@ -410,14 +399,15 @@
       "thumbnail": "https://i.ytimg.com/vi/iu-tCi9GCn4/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "16.0K views",
-      "viewCount": 16000,
+      "views": "17.0K views",
+      "viewCount": 17000,
       "publishedAt": "2026-07-26T06:47:45Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-26T06:47:45Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/iu-tCi9GCn4"
+      "url": "https://www.youtube.com/shorts/iu-tCi9GCn4",
+      "embedAllowed": true
     },
     {
       "id": "EEhx2aXkayo",
@@ -428,7 +418,7 @@
       "handle": "@RahulIyerAI",
       "channelUrl": "https://www.youtube.com/@RahulIyerAI",
       "category": "Shorts Only",
-      "thumbnail": "https://i.ytimg.com/vi/EEhx2aXkayo/frame0.jpg?usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/EEhx2aXkayo/frame0.jpg?usqp=CCc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "1.3K views",
@@ -438,7 +428,8 @@
       "firstSeenAt": "2026-07-26T05:10:54Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/EEhx2aXkayo"
+      "url": "https://www.youtube.com/shorts/EEhx2aXkayo",
+      "embedAllowed": true
     },
     {
       "id": "lTu8LVA4UO4",
@@ -449,7 +440,7 @@
       "handle": "@EricWTech",
       "channelUrl": "https://www.youtube.com/@EricWTech",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/lTu8LVA4UO4/frame0.jpg?usqp=CCc",
+      "thumbnail": "https://i.ytimg.com/vi/lTu8LVA4UO4/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "269 views",
@@ -459,28 +450,8 @@
       "firstSeenAt": "2026-07-26T02:30:53Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/lTu8LVA4UO4"
-    },
-    {
-      "id": "8OqBbUoBpo4",
-      "type": "short",
-      "title": "This free AI just replaced 3D artists",
-      "channel": "Jack",
-      "channelId": "UCxVxcTULO9cFU6SB9qVaisQ",
-      "handle": "@Itssssss_Jack",
-      "channelUrl": "https://www.youtube.com/@Itssssss_Jack",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/8OqBbUoBpo4/frame0.jpg",
-      "duration": "Short",
-      "durationSeconds": null,
-      "views": "21.0K views",
-      "viewCount": 21000,
-      "publishedAt": "2026-07-25T22:57:58Z",
-      "publishedLabel": "",
-      "firstSeenAt": "2026-07-25T22:57:58Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/shorts/8OqBbUoBpo4"
+      "url": "https://www.youtube.com/shorts/lTu8LVA4UO4",
+      "embedAllowed": true
     },
     {
       "id": "9m1foqIWs7k",
@@ -501,7 +472,8 @@
       "firstSeenAt": "2026-07-25T16:41:49Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/9m1foqIWs7k"
+      "url": "https://www.youtube.com/shorts/9m1foqIWs7k",
+      "embedAllowed": true
     },
     {
       "id": "2Ybm4l2xAlE",
@@ -522,7 +494,8 @@
       "firstSeenAt": "2026-07-25T15:30:33Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/2Ybm4l2xAlE"
+      "url": "https://www.youtube.com/shorts/2Ybm4l2xAlE",
+      "embedAllowed": true
     },
     {
       "id": "Kc6VDCc_zks",
@@ -543,7 +516,8 @@
       "firstSeenAt": "2026-07-25T14:41:58Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/Kc6VDCc_zks"
+      "url": "https://www.youtube.com/shorts/Kc6VDCc_zks",
+      "embedAllowed": true
     },
     {
       "id": "fagSVgEtU2E",
@@ -557,14 +531,15 @@
       "thumbnail": "https://i.ytimg.com/vi/fagSVgEtU2E/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "391.0K views",
-      "viewCount": 391000,
+      "views": "398.0K views",
+      "viewCount": 398000,
       "publishedAt": "2026-07-25T13:05:08Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-25T13:05:08Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/fagSVgEtU2E"
+      "url": "https://www.youtube.com/shorts/fagSVgEtU2E",
+      "embedAllowed": true
     },
     {
       "id": "TASY9QHjS64",
@@ -585,7 +560,8 @@
       "firstSeenAt": "2026-07-25T12:55:03Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/TASY9QHjS64"
+      "url": "https://www.youtube.com/shorts/TASY9QHjS64",
+      "embedAllowed": true
     },
     {
       "id": "6iuqazEW5W4",
@@ -606,7 +582,8 @@
       "firstSeenAt": "2026-07-25T12:52:58Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/6iuqazEW5W4"
+      "url": "https://www.youtube.com/shorts/6iuqazEW5W4",
+      "embedAllowed": true
     },
     {
       "id": "29--plKsrSM",
@@ -627,7 +604,8 @@
       "firstSeenAt": "2026-07-25T11:42:17Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/29--plKsrSM"
+      "url": "https://www.youtube.com/shorts/29--plKsrSM",
+      "embedAllowed": true
     },
     {
       "id": "7j7cZOscSWU",
@@ -648,7 +626,8 @@
       "firstSeenAt": "2026-07-25T10:41:16Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/7j7cZOscSWU"
+      "url": "https://www.youtube.com/shorts/7j7cZOscSWU",
+      "embedAllowed": true
     },
     {
       "id": "yaJAMagc_sE",
@@ -659,17 +638,18 @@
       "handle": "@BuildersCentral",
       "channelUrl": "https://www.youtube.com/@BuildersCentral",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/yaJAMagc_sE/hqdefault_custom_1.jpg?sqp=CJj_m9MG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAzp3Iy8EazVYwBKc_xsdtGwk8_A",
+      "thumbnail": "https://i.ytimg.com/vi/yaJAMagc_sE/hqdefault_custom_2.jpg?sqp=CPyYnNMG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMsQ7wEUkF_wLA_f2ym0UNKU3_qw",
       "duration": "10:28",
       "durationSeconds": 628,
-      "views": "4.3K views",
-      "viewCount": 4300,
+      "views": "4.4K views",
+      "viewCount": 4400,
       "publishedAt": "2026-07-25T10:40:31Z",
       "publishedLabel": "1 day ago",
       "firstSeenAt": "2026-07-25T10:40:31Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=yaJAMagc_sE"
+      "url": "https://www.youtube.com/watch?v=yaJAMagc_sE",
+      "embedAllowed": true
     },
     {
       "id": "we7atQz7CTA",
@@ -683,14 +663,15 @@
       "thumbnail": "https://i.ytimg.com/vi/we7atQz7CTA/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "40.0K views",
-      "viewCount": 40000,
+      "views": "41.0K views",
+      "viewCount": 41000,
       "publishedAt": "2026-07-25T07:59:17Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-25T07:59:17Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/we7atQz7CTA"
+      "url": "https://www.youtube.com/shorts/we7atQz7CTA",
+      "embedAllowed": true
     },
     {
       "id": "VXT7G1WPX54",
@@ -701,17 +682,18 @@
       "handle": "@RahulIyerAI",
       "channelUrl": "https://www.youtube.com/@RahulIyerAI",
       "category": "Shorts Only",
-      "thumbnail": "https://i.ytimg.com/vi/VXT7G1WPX54/frame0.jpg?usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/VXT7G1WPX54/frame0.jpg?usqp=CCc",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "20.0K views",
-      "viewCount": 20000,
+      "views": "21.0K views",
+      "viewCount": 21000,
       "publishedAt": "2026-07-25T06:00:07Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-25T06:00:07Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/VXT7G1WPX54"
+      "url": "https://www.youtube.com/shorts/VXT7G1WPX54",
+      "embedAllowed": true
     },
     {
       "id": "hFEBYE8n42k",
@@ -722,7 +704,7 @@
       "handle": "@Ai.Vishnuvijayan",
       "channelUrl": "https://www.youtube.com/@Ai.Vishnuvijayan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/hFEBYE8n42k/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/hFEBYE8n42k/frame0.jpg?usqp=CBc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "1.8K views",
@@ -732,7 +714,8 @@
       "firstSeenAt": "2026-07-25T04:40:06Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/hFEBYE8n42k"
+      "url": "https://www.youtube.com/shorts/hFEBYE8n42k",
+      "embedAllowed": true
     },
     {
       "id": "2J3uX8iRNng",
@@ -743,7 +726,7 @@
       "handle": "@nateherk",
       "channelUrl": "https://www.youtube.com/@nateherk",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/2J3uX8iRNng/hqdefault_custom_2.jpg?sqp=CJj_m9MG-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCFw==&rs=AOn4CLDFRW47GkEKcOyWv9pJ5tDLo0KuBQ&usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/2J3uX8iRNng/hqdefault_custom_1.jpg?sqp=CPyYnNMG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAfJEGj0tEiSA1ErzCliyFtoM5NA",
       "duration": "30:53",
       "durationSeconds": 1853,
       "views": "76.0K views",
@@ -753,7 +736,8 @@
       "firstSeenAt": "2026-07-24T23:38:15Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=2J3uX8iRNng"
+      "url": "https://www.youtube.com/watch?v=2J3uX8iRNng",
+      "embedAllowed": true
     },
     {
       "id": "ORFaWxLdl98",
@@ -774,7 +758,8 @@
       "firstSeenAt": "2026-07-24T22:56:39Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=ORFaWxLdl98"
+      "url": "https://www.youtube.com/watch?v=ORFaWxLdl98",
+      "embedAllowed": true
     },
     {
       "id": "QCT_JgduokE",
@@ -785,7 +770,7 @@
       "handle": "@charlieautomates",
       "channelUrl": "https://www.youtube.com/@charlieautomates",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/QCT_JgduokE/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/QCT_JgduokE/frame0.jpg?usqp=CCY",
       "duration": "Short",
       "durationSeconds": null,
       "views": "3.2K views",
@@ -795,7 +780,8 @@
       "firstSeenAt": "2026-07-24T21:00:34Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/QCT_JgduokE"
+      "url": "https://www.youtube.com/shorts/QCT_JgduokE",
+      "embedAllowed": true
     },
     {
       "id": "8JVKNypAqzI",
@@ -809,35 +795,15 @@
       "thumbnail": "https://i.ytimg.com/vi/8JVKNypAqzI/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "991 views",
-      "viewCount": 991,
+      "views": "1.0K views",
+      "viewCount": 1000,
       "publishedAt": "2026-07-24T20:45:19Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-24T20:45:19Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/8JVKNypAqzI"
-    },
-    {
-      "id": "u8o8OAbLuDo",
-      "type": "short",
-      "title": "Use GPT 5.6 Inside Claude Code",
-      "channel": "Jack",
-      "channelId": "UCxVxcTULO9cFU6SB9qVaisQ",
-      "handle": "@Itssssss_Jack",
-      "channelUrl": "https://www.youtube.com/@Itssssss_Jack",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/u8o8OAbLuDo/frame0.jpg",
-      "duration": "Short",
-      "durationSeconds": null,
-      "views": "9.6K views",
-      "viewCount": 9600,
-      "publishedAt": "2026-07-24T20:11:46Z",
-      "publishedLabel": "",
-      "firstSeenAt": "2026-07-24T20:11:46Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/shorts/u8o8OAbLuDo"
+      "url": "https://www.youtube.com/shorts/8JVKNypAqzI",
+      "embedAllowed": true
     },
     {
       "id": "oofWirP7COk",
@@ -858,7 +824,8 @@
       "firstSeenAt": "2026-07-24T18:30:18Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/oofWirP7COk"
+      "url": "https://www.youtube.com/shorts/oofWirP7COk",
+      "embedAllowed": true
     },
     {
       "id": "1k8Z_TS96fY",
@@ -869,7 +836,7 @@
       "handle": "@charlieautomates",
       "channelUrl": "https://www.youtube.com/@charlieautomates",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/1k8Z_TS96fY/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/1k8Z_TS96fY/frame0.jpg?usqp=CCY",
       "duration": "Short",
       "durationSeconds": null,
       "views": "2.0K views",
@@ -879,7 +846,8 @@
       "firstSeenAt": "2026-07-24T18:24:59Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/1k8Z_TS96fY"
+      "url": "https://www.youtube.com/shorts/1k8Z_TS96fY",
+      "embedAllowed": true
     },
     {
       "id": "5bjP3aaxxfA",
@@ -893,14 +861,15 @@
       "thumbnail": "https://i.ytimg.com/vi/5bjP3aaxxfA/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "1.8K views",
-      "viewCount": 1800,
+      "views": "1.9K views",
+      "viewCount": 1900,
       "publishedAt": "2026-07-24T17:50:18Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-24T17:50:18Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/5bjP3aaxxfA"
+      "url": "https://www.youtube.com/shorts/5bjP3aaxxfA",
+      "embedAllowed": true
     },
     {
       "id": "Txse8Ux69Qg",
@@ -921,7 +890,8 @@
       "firstSeenAt": "2026-07-24T17:34:17Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=Txse8Ux69Qg"
+      "url": "https://www.youtube.com/watch?v=Txse8Ux69Qg",
+      "embedAllowed": true
     },
     {
       "id": "AAtagrbBOto",
@@ -932,17 +902,18 @@
       "handle": "@InsiderForce",
       "channelUrl": "https://www.youtube.com/@InsiderForce",
       "category": "Shorts Only",
-      "thumbnail": "https://i.ytimg.com/vi/AAtagrbBOto/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/AAtagrbBOto/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "39.0K views",
-      "viewCount": 39000,
+      "views": "40.0K views",
+      "viewCount": 40000,
       "publishedAt": "2026-07-24T15:03:54Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-24T15:03:54Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/AAtagrbBOto"
+      "url": "https://www.youtube.com/shorts/AAtagrbBOto",
+      "embedAllowed": true
     },
     {
       "id": "3QMKb3EaPIA",
@@ -963,7 +934,8 @@
       "firstSeenAt": "2026-07-24T14:38:02Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/3QMKb3EaPIA"
+      "url": "https://www.youtube.com/shorts/3QMKb3EaPIA",
+      "embedAllowed": true
     },
     {
       "id": "GHkaTlK16kg",
@@ -984,7 +956,8 @@
       "firstSeenAt": "2026-07-24T14:15:22Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=GHkaTlK16kg"
+      "url": "https://www.youtube.com/watch?v=GHkaTlK16kg",
+      "embedAllowed": true
     },
     {
       "id": "MBS4jEchE94",
@@ -995,7 +968,7 @@
       "handle": "@vdmsocial1",
       "channelUrl": "https://www.youtube.com/@vdmsocial1",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/MBS4jEchE94/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/MBS4jEchE94/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "972 views",
@@ -1005,7 +978,8 @@
       "firstSeenAt": "2026-07-24T14:06:14Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/MBS4jEchE94"
+      "url": "https://www.youtube.com/shorts/MBS4jEchE94",
+      "embedAllowed": true
     },
     {
       "id": "zvu1bk1FWWU",
@@ -1026,7 +1000,8 @@
       "firstSeenAt": "2026-07-24T13:56:11Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/zvu1bk1FWWU"
+      "url": "https://www.youtube.com/shorts/zvu1bk1FWWU",
+      "embedAllowed": true
     },
     {
       "id": "unUqCg6sfLg",
@@ -1047,7 +1022,8 @@
       "firstSeenAt": "2026-07-24T13:02:48Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/unUqCg6sfLg"
+      "url": "https://www.youtube.com/shorts/unUqCg6sfLg",
+      "embedAllowed": true
     },
     {
       "id": "WticsCjtNrQ",
@@ -1058,7 +1034,7 @@
       "handle": "@gettothenextlevel",
       "channelUrl": "https://www.youtube.com/@gettothenextlevel",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/WticsCjtNrQ/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/WticsCjtNrQ/frame0.jpg?usqp=CBc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "596 views",
@@ -1068,7 +1044,8 @@
       "firstSeenAt": "2026-07-24T13:00:37Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/WticsCjtNrQ"
+      "url": "https://www.youtube.com/shorts/WticsCjtNrQ",
+      "embedAllowed": true
     },
     {
       "id": "a8HKmJsOiUs",
@@ -1089,7 +1066,8 @@
       "firstSeenAt": "2026-07-24T11:45:18Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/a8HKmJsOiUs"
+      "url": "https://www.youtube.com/shorts/a8HKmJsOiUs",
+      "embedAllowed": true
     },
     {
       "id": "ArokD-zzlag",
@@ -1100,7 +1078,7 @@
       "handle": "@brendanautomation",
       "channelUrl": "https://www.youtube.com/@brendanautomation",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/ArokD-zzlag/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAiMJhbR8i9g8W6hvm1V7n1bZPLBg",
+      "thumbnail": "https://i.ytimg.com/vi/ArokD-zzlag/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCjVuTZ8Zy_2rSWx_T9REXxPx_9-g",
       "duration": "23:06",
       "durationSeconds": 1386,
       "views": "3.3K views",
@@ -1110,7 +1088,8 @@
       "firstSeenAt": "2026-07-24T11:23:48Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=ArokD-zzlag"
+      "url": "https://www.youtube.com/watch?v=ArokD-zzlag",
+      "embedAllowed": true
     },
     {
       "id": "107y64xiB0E",
@@ -1124,14 +1103,15 @@
       "thumbnail": "https://i.ytimg.com/vi/107y64xiB0E/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "35.0K views",
-      "viewCount": 35000,
+      "views": "36.0K views",
+      "viewCount": 36000,
       "publishedAt": "2026-07-24T08:24:44Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-24T08:24:44Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/107y64xiB0E"
+      "url": "https://www.youtube.com/shorts/107y64xiB0E",
+      "embedAllowed": true
     },
     {
       "id": "5-_GZcwtWSY",
@@ -1148,11 +1128,12 @@
       "views": "136 views",
       "viewCount": 136,
       "publishedAt": "2026-07-24T07:45:18Z",
-      "publishedLabel": "2 days ago",
+      "publishedLabel": "3 days ago",
       "firstSeenAt": "2026-07-24T07:45:18Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=5-_GZcwtWSY"
+      "url": "https://www.youtube.com/watch?v=5-_GZcwtWSY",
+      "embedAllowed": true
     },
     {
       "id": "A4ZlRulx20Y",
@@ -1166,56 +1147,15 @@
       "thumbnail": "https://i.ytimg.com/vi/A4ZlRulx20Y/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "32.0K views",
-      "viewCount": 32000,
+      "views": "33.0K views",
+      "viewCount": 33000,
       "publishedAt": "2026-07-24T07:32:11Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-24T07:32:11Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/A4ZlRulx20Y"
-    },
-    {
-      "id": "RW2yrxuz4pI",
-      "type": "long",
-      "title": "Everything You Know About Prompting Is Wrong!",
-      "channel": "Ishan Sharma",
-      "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
-      "handle": "@IshanSharma7390",
-      "channelUrl": "https://www.youtube.com/@IshanSharma7390",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/RW2yrxuz4pI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB3bJMBzNpCNQ-rV5dvipK_jmORw",
-      "duration": "16:45",
-      "durationSeconds": 1005,
-      "views": "18.0K views",
-      "viewCount": 18000,
-      "publishedAt": "2026-07-24T06:53:24Z",
-      "publishedLabel": "3 days ago",
-      "firstSeenAt": "2026-07-23T14:05:11Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/watch?v=RW2yrxuz4pI"
-    },
-    {
-      "id": "m3BgNXyi_Iw",
-      "type": "long",
-      "title": "Claude Code Turns Any Zillow Link Into a $500 Home Tour",
-      "channel": "Charlie Automates",
-      "channelId": "UCoqNpR_9YQc72dh2u5HGcDg",
-      "handle": "@charlieautomates",
-      "channelUrl": "https://www.youtube.com/@charlieautomates",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/m3BgNXyi_Iw/hqdefault_custom_1.jpg?sqp=CMSBnNMG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3_UNmpZgvNmnpZAqdC7p-lypd5Q",
-      "duration": "11:26",
-      "durationSeconds": 686,
-      "views": "686 views",
-      "viewCount": 686,
-      "publishedAt": "2026-07-24T06:53:24Z",
-      "publishedLabel": "3 days ago",
-      "firstSeenAt": "2026-07-23T22:57:53Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/watch?v=m3BgNXyi_Iw"
+      "url": "https://www.youtube.com/shorts/A4ZlRulx20Y",
+      "embedAllowed": true
     },
     {
       "id": "jqMSIsxKqTg",
@@ -1226,7 +1166,7 @@
       "handle": "@RahulIyerAI",
       "channelUrl": "https://www.youtube.com/@RahulIyerAI",
       "category": "Shorts Only",
-      "thumbnail": "https://i.ytimg.com/vi/jqMSIsxKqTg/frame0.jpg?usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/jqMSIsxKqTg/frame0.jpg?usqp=CCc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "3.2K views",
@@ -1236,7 +1176,8 @@
       "firstSeenAt": "2026-07-24T06:00:17Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/jqMSIsxKqTg"
+      "url": "https://www.youtube.com/shorts/jqMSIsxKqTg",
+      "embedAllowed": true
     },
     {
       "id": "SnGc77gHrCs",
@@ -1247,17 +1188,18 @@
       "handle": "@professorofai.official",
       "channelUrl": "https://www.youtube.com/@professorofai.official",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/SnGc77gHrCs/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/SnGc77gHrCs/frame0.jpg?usqp=CBk",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "181.0K views",
-      "viewCount": 181000,
+      "views": "183.0K views",
+      "viewCount": 183000,
       "publishedAt": "2026-07-24T05:51:08Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-24T05:51:08Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/SnGc77gHrCs"
+      "url": "https://www.youtube.com/shorts/SnGc77gHrCs",
+      "embedAllowed": true
     },
     {
       "id": "NWDuC-w1lwA",
@@ -1278,7 +1220,8 @@
       "firstSeenAt": "2026-07-24T02:15:25Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/NWDuC-w1lwA"
+      "url": "https://www.youtube.com/shorts/NWDuC-w1lwA",
+      "embedAllowed": true
     },
     {
       "id": "gQiuFX_tXXU",
@@ -1299,7 +1242,30 @@
       "firstSeenAt": "2026-07-24T01:00:07Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/gQiuFX_tXXU"
+      "url": "https://www.youtube.com/shorts/gQiuFX_tXXU",
+      "embedAllowed": true
+    },
+    {
+      "id": "m3BgNXyi_Iw",
+      "type": "long",
+      "title": "Claude Code Turns Any Zillow Link Into a $500 Home Tour",
+      "channel": "Charlie Automates",
+      "channelId": "UCoqNpR_9YQc72dh2u5HGcDg",
+      "handle": "@charlieautomates",
+      "channelUrl": "https://www.youtube.com/@charlieautomates",
+      "category": "Long + Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/m3BgNXyi_Iw/hqdefault_custom_1.jpg?sqp=CPyYnNMG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0mfKqoiOSPkyltWasQs3qusLQEQ",
+      "duration": "11:26",
+      "durationSeconds": 686,
+      "views": "686 views",
+      "viewCount": 686,
+      "publishedAt": "2026-07-23T22:57:53Z",
+      "publishedLabel": "3 days ago",
+      "firstSeenAt": "2026-07-23T22:57:53Z",
+      "source": "primary",
+      "priority": 1,
+      "url": "https://www.youtube.com/watch?v=m3BgNXyi_Iw",
+      "embedAllowed": true
     },
     {
       "id": "Ek1NBfnnTH0",
@@ -1310,7 +1276,7 @@
       "handle": "@nateherk",
       "channelUrl": "https://www.youtube.com/@nateherk",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/Ek1NBfnnTH0/hqdefault_custom_3.jpg?sqp=CJj_m9MG-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCFw==&rs=AOn4CLDGGzktJv3FqJrIIr5wNfjY8_trgQ&usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/Ek1NBfnnTH0/hqdefault_custom_2.jpg?sqp=CPyYnNMG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVuwLXPLAZNO31pvRtEo9Ywkp9_A",
       "duration": "25:04",
       "durationSeconds": 1504,
       "views": "22.0K views",
@@ -1320,7 +1286,8 @@
       "firstSeenAt": "2026-07-23T22:33:25Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=Ek1NBfnnTH0"
+      "url": "https://www.youtube.com/watch?v=Ek1NBfnnTH0",
+      "embedAllowed": true
     },
     {
       "id": "K2_qHRcbNtU",
@@ -1341,28 +1308,8 @@
       "firstSeenAt": "2026-07-23T22:19:06Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/K2_qHRcbNtU"
-    },
-    {
-      "id": "a4zZuhvMXts",
-      "type": "short",
-      "title": "4 Ways to Stop Wasting Tokens with AI",
-      "channel": "Jack",
-      "channelId": "UCxVxcTULO9cFU6SB9qVaisQ",
-      "handle": "@Itssssss_Jack",
-      "channelUrl": "https://www.youtube.com/@Itssssss_Jack",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/a4zZuhvMXts/frame0.jpg",
-      "duration": "Short",
-      "durationSeconds": null,
-      "views": "10.0K views",
-      "viewCount": 10000,
-      "publishedAt": "2026-07-23T20:11:07Z",
-      "publishedLabel": "",
-      "firstSeenAt": "2026-07-23T20:11:07Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/shorts/a4zZuhvMXts"
+      "url": "https://www.youtube.com/shorts/K2_qHRcbNtU",
+      "embedAllowed": true
     },
     {
       "id": "1rKQF2pfGq0",
@@ -1373,17 +1320,18 @@
       "handle": "@Ai.Vishnuvijayan",
       "channelUrl": "https://www.youtube.com/@Ai.Vishnuvijayan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/1rKQF2pfGq0/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/1rKQF2pfGq0/frame0.jpg?usqp=CBc",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "3.4K views",
-      "viewCount": 3400,
+      "views": "3.5K views",
+      "viewCount": 3500,
       "publishedAt": "2026-07-23T19:16:20Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-23T19:16:20Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/1rKQF2pfGq0"
+      "url": "https://www.youtube.com/shorts/1rKQF2pfGq0",
+      "embedAllowed": true
     },
     {
       "id": "wz7gq7VGHzM",
@@ -1404,7 +1352,8 @@
       "firstSeenAt": "2026-07-23T19:00:14Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/wz7gq7VGHzM"
+      "url": "https://www.youtube.com/shorts/wz7gq7VGHzM",
+      "embedAllowed": true
     },
     {
       "id": "7FU98O0JLHs",
@@ -1418,14 +1367,15 @@
       "thumbnail": "https://i.ytimg.com/vi/7FU98O0JLHs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZBMnUVkLhwgc0ruus1QSXxcIivQ",
       "duration": "23:00",
       "durationSeconds": 1380,
-      "views": "127.0K views",
-      "viewCount": 127000,
+      "views": "128.0K views",
+      "viewCount": 128000,
       "publishedAt": "2026-07-23T16:53:38Z",
       "publishedLabel": "3 days ago",
       "firstSeenAt": "2026-07-23T16:53:38Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=7FU98O0JLHs"
+      "url": "https://www.youtube.com/watch?v=7FU98O0JLHs",
+      "embedAllowed": true
     },
     {
       "id": "1BNd4jUdohE",
@@ -1446,7 +1396,8 @@
       "firstSeenAt": "2026-07-23T16:38:15Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/1BNd4jUdohE"
+      "url": "https://www.youtube.com/shorts/1BNd4jUdohE",
+      "embedAllowed": true
     },
     {
       "id": "iatJ8U39pqA",
@@ -1467,7 +1418,30 @@
       "firstSeenAt": "2026-07-23T15:41:21Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/iatJ8U39pqA"
+      "url": "https://www.youtube.com/shorts/iatJ8U39pqA",
+      "embedAllowed": true
+    },
+    {
+      "id": "RW2yrxuz4pI",
+      "type": "long",
+      "title": "Prompt Engineering Is Dying. Here's What Replaced It.",
+      "channel": "Ishan Sharma",
+      "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
+      "handle": "@IshanSharma7390",
+      "channelUrl": "https://www.youtube.com/@IshanSharma7390",
+      "category": "Long + Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/RW2yrxuz4pI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB3bJMBzNpCNQ-rV5dvipK_jmORw",
+      "duration": "16:45",
+      "durationSeconds": 1005,
+      "views": "18.0K views",
+      "viewCount": 18000,
+      "publishedAt": "2026-07-23T14:05:11Z",
+      "publishedLabel": "3 days ago",
+      "firstSeenAt": "2026-07-23T14:05:11Z",
+      "source": "primary",
+      "priority": 1,
+      "url": "https://www.youtube.com/watch?v=RW2yrxuz4pI",
+      "embedAllowed": true
     },
     {
       "id": "QAT63O_P6zM",
@@ -1488,7 +1462,8 @@
       "firstSeenAt": "2026-07-23T13:03:41Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/QAT63O_P6zM"
+      "url": "https://www.youtube.com/shorts/QAT63O_P6zM",
+      "embedAllowed": true
     },
     {
       "id": "UUXw6u6louA",
@@ -1509,7 +1484,8 @@
       "firstSeenAt": "2026-07-23T13:00:20Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=UUXw6u6louA"
+      "url": "https://www.youtube.com/watch?v=UUXw6u6louA",
+      "embedAllowed": true
     },
     {
       "id": "zGvCh1kYPuA",
@@ -1530,7 +1506,8 @@
       "firstSeenAt": "2026-07-23T12:02:36Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/zGvCh1kYPuA"
+      "url": "https://www.youtube.com/shorts/zGvCh1kYPuA",
+      "embedAllowed": true
     },
     {
       "id": "gBGVlxuX-rc",
@@ -1551,7 +1528,8 @@
       "firstSeenAt": "2026-07-23T11:30:03Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=gBGVlxuX-rc"
+      "url": "https://www.youtube.com/watch?v=gBGVlxuX-rc",
+      "embedAllowed": true
     },
     {
       "id": "W5NFvPtFMTY",
@@ -1562,7 +1540,7 @@
       "handle": "@charlieautomates",
       "channelUrl": "https://www.youtube.com/@charlieautomates",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/W5NFvPtFMTY/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/W5NFvPtFMTY/frame0.jpg?usqp=CCY",
       "duration": "Short",
       "durationSeconds": null,
       "views": "1.9K views",
@@ -1572,7 +1550,8 @@
       "firstSeenAt": "2026-07-23T09:46:23Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/W5NFvPtFMTY"
+      "url": "https://www.youtube.com/shorts/W5NFvPtFMTY",
+      "embedAllowed": true
     },
     {
       "id": "4AgrlsnFY3I",
@@ -1586,14 +1565,15 @@
       "thumbnail": "https://i.ytimg.com/vi/4AgrlsnFY3I/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "255.0K views",
-      "viewCount": 255000,
+      "views": "257.0K views",
+      "viewCount": 257000,
       "publishedAt": "2026-07-23T09:12:12Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-23T09:12:12Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/4AgrlsnFY3I"
+      "url": "https://www.youtube.com/shorts/4AgrlsnFY3I",
+      "embedAllowed": true
     },
     {
       "id": "B4PJAq20qe8",
@@ -1614,7 +1594,8 @@
       "firstSeenAt": "2026-07-23T06:44:27Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/B4PJAq20qe8"
+      "url": "https://www.youtube.com/shorts/B4PJAq20qe8",
+      "embedAllowed": true
     },
     {
       "id": "PKn_1Stq9rQ",
@@ -1625,7 +1606,7 @@
       "handle": "@RahulIyerAI",
       "channelUrl": "https://www.youtube.com/@RahulIyerAI",
       "category": "Shorts Only",
-      "thumbnail": "https://i.ytimg.com/vi/PKn_1Stq9rQ/frame0.jpg?usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/PKn_1Stq9rQ/frame0.jpg?usqp=CCc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "3.1K views",
@@ -1635,7 +1616,8 @@
       "firstSeenAt": "2026-07-23T06:00:04Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/PKn_1Stq9rQ"
+      "url": "https://www.youtube.com/shorts/PKn_1Stq9rQ",
+      "embedAllowed": true
     },
     {
       "id": "0uTgBM6YBgQ",
@@ -1646,7 +1628,7 @@
       "handle": "@vdmsocial1",
       "channelUrl": "https://www.youtube.com/@vdmsocial1",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/0uTgBM6YBgQ/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/0uTgBM6YBgQ/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "4.3K views",
@@ -1656,7 +1638,8 @@
       "firstSeenAt": "2026-07-23T05:54:25Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/0uTgBM6YBgQ"
+      "url": "https://www.youtube.com/shorts/0uTgBM6YBgQ",
+      "embedAllowed": true
     },
     {
       "id": "bG9KEqVKDtg",
@@ -1677,7 +1660,8 @@
       "firstSeenAt": "2026-07-23T03:46:17Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/bG9KEqVKDtg"
+      "url": "https://www.youtube.com/shorts/bG9KEqVKDtg",
+      "embedAllowed": true
     },
     {
       "id": "bcml5RkMMMo",
@@ -1698,7 +1682,8 @@
       "firstSeenAt": "2026-07-22T21:35:59Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=bcml5RkMMMo"
+      "url": "https://www.youtube.com/watch?v=bcml5RkMMMo",
+      "embedAllowed": true
     },
     {
       "id": "BUBgq2GgXPM",
@@ -1719,7 +1704,8 @@
       "firstSeenAt": "2026-07-22T19:00:08Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/BUBgq2GgXPM"
+      "url": "https://www.youtube.com/shorts/BUBgq2GgXPM",
+      "embedAllowed": true
     },
     {
       "id": "b_gVYRZFe0Q",
@@ -1730,17 +1716,18 @@
       "handle": "@charlieautomates",
       "channelUrl": "https://www.youtube.com/@charlieautomates",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/b_gVYRZFe0Q/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/b_gVYRZFe0Q/frame0.jpg?usqp=CCY",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "660 views",
-      "viewCount": 660,
+      "views": "662 views",
+      "viewCount": 662,
       "publishedAt": "2026-07-22T18:38:18Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-22T18:38:18Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/b_gVYRZFe0Q"
+      "url": "https://www.youtube.com/shorts/b_gVYRZFe0Q",
+      "embedAllowed": true
     },
     {
       "id": "79MrVTJQB5U",
@@ -1751,7 +1738,7 @@
       "handle": "@charlieautomates",
       "channelUrl": "https://www.youtube.com/@charlieautomates",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/79MrVTJQB5U/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/79MrVTJQB5U/frame0.jpg?usqp=CCY",
       "duration": "Short",
       "durationSeconds": null,
       "views": "1.2K views",
@@ -1761,7 +1748,8 @@
       "firstSeenAt": "2026-07-22T17:09:15Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/79MrVTJQB5U"
+      "url": "https://www.youtube.com/shorts/79MrVTJQB5U",
+      "embedAllowed": true
     },
     {
       "id": "yKlbQgDv_Jk",
@@ -1782,7 +1770,8 @@
       "firstSeenAt": "2026-07-22T17:08:22Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/yKlbQgDv_Jk"
+      "url": "https://www.youtube.com/shorts/yKlbQgDv_Jk",
+      "embedAllowed": true
     },
     {
       "id": "pSI1xxh3lAw",
@@ -1803,7 +1792,8 @@
       "firstSeenAt": "2026-07-22T16:44:41Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/pSI1xxh3lAw"
+      "url": "https://www.youtube.com/shorts/pSI1xxh3lAw",
+      "embedAllowed": true
     },
     {
       "id": "DTzZ9Ttd_5w",
@@ -1824,7 +1814,8 @@
       "firstSeenAt": "2026-07-22T16:36:32Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/DTzZ9Ttd_5w"
+      "url": "https://www.youtube.com/shorts/DTzZ9Ttd_5w",
+      "embedAllowed": true
     },
     {
       "id": "QucgvbO5gsM",
@@ -1838,14 +1829,15 @@
       "thumbnail": "https://i.ytimg.com/vi/QucgvbO5gsM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRW3aF4K2OUdj3kUuI5sBwtp_37A",
       "duration": "18:34",
       "durationSeconds": 1114,
-      "views": "159.0K views",
-      "viewCount": 159000,
+      "views": "160.0K views",
+      "viewCount": 160000,
       "publishedAt": "2026-07-22T15:11:09Z",
       "publishedLabel": "4 days ago",
       "firstSeenAt": "2026-07-22T15:11:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=QucgvbO5gsM"
+      "url": "https://www.youtube.com/watch?v=QucgvbO5gsM",
+      "embedAllowed": true
     },
     {
       "id": "JBQUYsk7IEM",
@@ -1866,7 +1858,8 @@
       "firstSeenAt": "2026-07-22T13:34:28Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/JBQUYsk7IEM"
+      "url": "https://www.youtube.com/shorts/JBQUYsk7IEM",
+      "embedAllowed": true
     },
     {
       "id": "vY0EzTP-7EA",
@@ -1877,7 +1870,7 @@
       "handle": "@nateherk",
       "channelUrl": "https://www.youtube.com/@nateherk",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/vY0EzTP-7EA/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCFw==&rs=AOn4CLCHKXaYrisYc8wdb4HN8uoMF0EM_Q&usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/vY0EzTP-7EA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1rM6O4bywNonGE7acdE5CzBXcAQ",
       "duration": "9:19",
       "durationSeconds": 559,
       "views": "73.0K views",
@@ -1887,7 +1880,8 @@
       "firstSeenAt": "2026-07-22T13:00:46Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=vY0EzTP-7EA"
+      "url": "https://www.youtube.com/watch?v=vY0EzTP-7EA",
+      "embedAllowed": true
     },
     {
       "id": "rhD2FXjkWYc",
@@ -1898,7 +1892,7 @@
       "handle": "@gettothenextlevel",
       "channelUrl": "https://www.youtube.com/@gettothenextlevel",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/rhD2FXjkWYc/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/rhD2FXjkWYc/frame0.jpg?usqp=CBc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "87 views",
@@ -1908,7 +1902,8 @@
       "firstSeenAt": "2026-07-22T13:00:32Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/rhD2FXjkWYc"
+      "url": "https://www.youtube.com/shorts/rhD2FXjkWYc",
+      "embedAllowed": true
     },
     {
       "id": "ArIlSal-jFI",
@@ -1929,7 +1924,8 @@
       "firstSeenAt": "2026-07-22T13:00:30Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=ArIlSal-jFI"
+      "url": "https://www.youtube.com/watch?v=ArIlSal-jFI",
+      "embedAllowed": true
     },
     {
       "id": "17prnzzBebk",
@@ -1950,7 +1946,8 @@
       "firstSeenAt": "2026-07-22T12:34:00Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/17prnzzBebk"
+      "url": "https://www.youtube.com/shorts/17prnzzBebk",
+      "embedAllowed": true
     },
     {
       "id": "DDzDls2T_bQ",
@@ -1961,7 +1958,7 @@
       "handle": "@Ai.Vishnuvijayan",
       "channelUrl": "https://www.youtube.com/@Ai.Vishnuvijayan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/DDzDls2T_bQ/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/DDzDls2T_bQ/frame0.jpg?usqp=CBc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "5.2K views",
@@ -1971,7 +1968,8 @@
       "firstSeenAt": "2026-07-22T12:30:39Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/DDzDls2T_bQ"
+      "url": "https://www.youtube.com/shorts/DDzDls2T_bQ",
+      "embedAllowed": true
     },
     {
       "id": "EIAbTpz-vnw",
@@ -1992,7 +1990,8 @@
       "firstSeenAt": "2026-07-22T11:30:34Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=EIAbTpz-vnw"
+      "url": "https://www.youtube.com/watch?v=EIAbTpz-vnw",
+      "embedAllowed": true
     },
     {
       "id": "qzP5RPJmU_A",
@@ -2013,7 +2012,8 @@
       "firstSeenAt": "2026-07-22T11:08:55Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/qzP5RPJmU_A"
+      "url": "https://www.youtube.com/shorts/qzP5RPJmU_A",
+      "embedAllowed": true
     },
     {
       "id": "c-dfy353364",
@@ -2034,7 +2034,8 @@
       "firstSeenAt": "2026-07-22T11:00:08Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=c-dfy353364"
+      "url": "https://www.youtube.com/watch?v=c-dfy353364",
+      "embedAllowed": true
     },
     {
       "id": "UZY_FwBTCAM",
@@ -2055,7 +2056,8 @@
       "firstSeenAt": "2026-07-22T06:47:26Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/UZY_FwBTCAM"
+      "url": "https://www.youtube.com/shorts/UZY_FwBTCAM",
+      "embedAllowed": true
     },
     {
       "id": "VcbYYzmxr8k",
@@ -2066,7 +2068,7 @@
       "handle": "@RahulIyerAI",
       "channelUrl": "https://www.youtube.com/@RahulIyerAI",
       "category": "Shorts Only",
-      "thumbnail": "https://i.ytimg.com/vi/VcbYYzmxr8k/frame0.jpg?usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/VcbYYzmxr8k/frame0.jpg?usqp=CCc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "6.6K views",
@@ -2076,7 +2078,8 @@
       "firstSeenAt": "2026-07-22T06:00:38Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/VcbYYzmxr8k"
+      "url": "https://www.youtube.com/shorts/VcbYYzmxr8k",
+      "embedAllowed": true
     },
     {
       "id": "Joqh7Tui9B8",
@@ -2097,28 +2100,8 @@
       "firstSeenAt": "2026-07-21T23:33:17Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=Joqh7Tui9B8"
-    },
-    {
-      "id": "tPl4oRb9LLs",
-      "type": "short",
-      "title": "Run Claude Code and Cursor for FREE",
-      "channel": "Jack",
-      "channelId": "UCxVxcTULO9cFU6SB9qVaisQ",
-      "handle": "@Itssssss_Jack",
-      "channelUrl": "https://www.youtube.com/@Itssssss_Jack",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/tPl4oRb9LLs/frame0.jpg",
-      "duration": "Short",
-      "durationSeconds": null,
-      "views": "34.0K views",
-      "viewCount": 34000,
-      "publishedAt": "2026-07-21T22:00:53Z",
-      "publishedLabel": "",
-      "firstSeenAt": "2026-07-21T22:00:53Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/shorts/tPl4oRb9LLs"
+      "url": "https://www.youtube.com/watch?v=Joqh7Tui9B8",
+      "embedAllowed": true
     },
     {
       "id": "f7n0PnnQq3Y",
@@ -2129,7 +2112,7 @@
       "handle": "@gettothenextlevel",
       "channelUrl": "https://www.youtube.com/@gettothenextlevel",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/f7n0PnnQq3Y/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/f7n0PnnQq3Y/frame0.jpg?usqp=CBc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "790 views",
@@ -2139,7 +2122,8 @@
       "firstSeenAt": "2026-07-21T21:55:02Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/f7n0PnnQq3Y"
+      "url": "https://www.youtube.com/shorts/f7n0PnnQq3Y",
+      "embedAllowed": true
     },
     {
       "id": "IkqnQPjr_Fc",
@@ -2160,7 +2144,8 @@
       "firstSeenAt": "2026-07-21T18:27:49Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/IkqnQPjr_Fc"
+      "url": "https://www.youtube.com/shorts/IkqnQPjr_Fc",
+      "embedAllowed": true
     },
     {
       "id": "y8rBLcRXpMg",
@@ -2181,7 +2166,8 @@
       "firstSeenAt": "2026-07-21T17:42:02Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/y8rBLcRXpMg"
+      "url": "https://www.youtube.com/shorts/y8rBLcRXpMg",
+      "embedAllowed": true
     },
     {
       "id": "L2ATBlPNBO4",
@@ -2202,7 +2188,8 @@
       "firstSeenAt": "2026-07-21T16:28:02Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/L2ATBlPNBO4"
+      "url": "https://www.youtube.com/shorts/L2ATBlPNBO4",
+      "embedAllowed": true
     },
     {
       "id": "G7nsZZshNHw",
@@ -2223,7 +2210,8 @@
       "firstSeenAt": "2026-07-21T14:38:41Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/G7nsZZshNHw"
+      "url": "https://www.youtube.com/shorts/G7nsZZshNHw",
+      "embedAllowed": true
     },
     {
       "id": "c1TWmKILaeM",
@@ -2244,7 +2232,8 @@
       "firstSeenAt": "2026-07-21T13:00:33Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/c1TWmKILaeM"
+      "url": "https://www.youtube.com/shorts/c1TWmKILaeM",
+      "embedAllowed": true
     },
     {
       "id": "g89FJiNAlEs",
@@ -2265,7 +2254,8 @@
       "firstSeenAt": "2026-07-21T13:00:20Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=g89FJiNAlEs"
+      "url": "https://www.youtube.com/watch?v=g89FJiNAlEs",
+      "embedAllowed": true
     },
     {
       "id": "kCLMIQYI2YM",
@@ -2286,7 +2276,8 @@
       "firstSeenAt": "2026-07-21T12:55:08Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/kCLMIQYI2YM"
+      "url": "https://www.youtube.com/shorts/kCLMIQYI2YM",
+      "embedAllowed": true
     },
     {
       "id": "uzp1rAgKXfs",
@@ -2297,7 +2288,7 @@
       "handle": "@brendanautomation",
       "channelUrl": "https://www.youtube.com/@brendanautomation",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/uzp1rAgKXfs/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBBdqINvGx6PSV7lcpiUdJfmLMybw",
+      "thumbnail": "https://i.ytimg.com/vi/uzp1rAgKXfs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCncuRndTrkB0m-ZAXo1_bj0hQ4xw",
       "duration": "12:20",
       "durationSeconds": 740,
       "views": "1.5K views",
@@ -2307,7 +2298,8 @@
       "firstSeenAt": "2026-07-21T12:11:07Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=uzp1rAgKXfs"
+      "url": "https://www.youtube.com/watch?v=uzp1rAgKXfs",
+      "embedAllowed": true
     },
     {
       "id": "O93fEDzhuu0",
@@ -2318,17 +2310,18 @@
       "handle": "@professorofai.official",
       "channelUrl": "https://www.youtube.com/@professorofai.official",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/O93fEDzhuu0/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/O93fEDzhuu0/frame0.jpg?usqp=CBk",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "403.0K views",
-      "viewCount": 403000,
+      "views": "404.0K views",
+      "viewCount": 404000,
       "publishedAt": "2026-07-21T11:39:14Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-21T11:39:14Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/O93fEDzhuu0"
+      "url": "https://www.youtube.com/shorts/O93fEDzhuu0",
+      "embedAllowed": true
     },
     {
       "id": "T5pu0lH2Dwc",
@@ -2349,7 +2342,8 @@
       "firstSeenAt": "2026-07-21T11:30:22Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=T5pu0lH2Dwc"
+      "url": "https://www.youtube.com/watch?v=T5pu0lH2Dwc",
+      "embedAllowed": true
     },
     {
       "id": "XOao6GKPpsk",
@@ -2370,7 +2364,8 @@
       "firstSeenAt": "2026-07-21T11:30:04Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/XOao6GKPpsk"
+      "url": "https://www.youtube.com/shorts/XOao6GKPpsk",
+      "embedAllowed": true
     },
     {
       "id": "cR7pTKa2TyA",
@@ -2384,14 +2379,15 @@
       "thumbnail": "https://i.ytimg.com/vi/cR7pTKa2TyA/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "346.0K views",
-      "viewCount": 346000,
+      "views": "347.0K views",
+      "viewCount": 347000,
       "publishedAt": "2026-07-21T05:41:49Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-21T05:41:49Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/cR7pTKa2TyA"
+      "url": "https://www.youtube.com/shorts/cR7pTKa2TyA",
+      "embedAllowed": true
     },
     {
       "id": "5jFhQ_Yfx5k",
@@ -2412,7 +2408,8 @@
       "firstSeenAt": "2026-07-20T18:22:44Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/5jFhQ_Yfx5k"
+      "url": "https://www.youtube.com/shorts/5jFhQ_Yfx5k",
+      "embedAllowed": true
     },
     {
       "id": "GeEw_kTk0Cs",
@@ -2433,7 +2430,8 @@
       "firstSeenAt": "2026-07-20T17:49:33Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=GeEw_kTk0Cs"
+      "url": "https://www.youtube.com/watch?v=GeEw_kTk0Cs",
+      "embedAllowed": true
     },
     {
       "id": "sJt1sQO87sc",
@@ -2454,7 +2452,8 @@
       "firstSeenAt": "2026-07-20T16:03:52Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=sJt1sQO87sc"
+      "url": "https://www.youtube.com/watch?v=sJt1sQO87sc",
+      "embedAllowed": true
     },
     {
       "id": "9eQpi-D9hYA",
@@ -2468,14 +2467,15 @@
       "thumbnail": "https://i.ytimg.com/vi/9eQpi-D9hYA/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "152.0K views",
-      "viewCount": 152000,
+      "views": "153.0K views",
+      "viewCount": 153000,
       "publishedAt": "2026-07-20T15:50:06Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-20T15:50:06Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/9eQpi-D9hYA"
+      "url": "https://www.youtube.com/shorts/9eQpi-D9hYA",
+      "embedAllowed": true
     },
     {
       "id": "durdbSdX8o8",
@@ -2496,7 +2496,8 @@
       "firstSeenAt": "2026-07-20T15:23:26Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=durdbSdX8o8"
+      "url": "https://www.youtube.com/watch?v=durdbSdX8o8",
+      "embedAllowed": true
     },
     {
       "id": "3YCaEsf1mlM",
@@ -2507,7 +2508,7 @@
       "handle": "@InsiderForce",
       "channelUrl": "https://www.youtube.com/@InsiderForce",
       "category": "Shorts Only",
-      "thumbnail": "https://i.ytimg.com/vi/3YCaEsf1mlM/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/3YCaEsf1mlM/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "47.0K views",
@@ -2517,7 +2518,8 @@
       "firstSeenAt": "2026-07-20T15:05:19Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/3YCaEsf1mlM"
+      "url": "https://www.youtube.com/shorts/3YCaEsf1mlM",
+      "embedAllowed": true
     },
     {
       "id": "KuXM3mRgRNA",
@@ -2528,7 +2530,7 @@
       "handle": "@hasanaboulhasan",
       "channelUrl": "https://www.youtube.com/@hasanaboulhasan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/KuXM3mRgRNA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjMZYU3ZT8Fy7vIcKWWZLO8cMWgw",
+      "thumbnail": "https://i.ytimg.com/vi/KuXM3mRgRNA/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgjSzvnSBhjg6gQg4KgB&rs=AOn4CLDsE93dwHBz8El8LuD6hjlJF3RHbQ&usqp=CBk",
       "duration": "6:28",
       "durationSeconds": 388,
       "views": "42.0K views",
@@ -2538,7 +2540,8 @@
       "firstSeenAt": "2026-07-20T14:15:11Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=KuXM3mRgRNA"
+      "url": "https://www.youtube.com/watch?v=KuXM3mRgRNA",
+      "embedAllowed": true
     },
     {
       "id": "8MEJen0nblQ",
@@ -2549,7 +2552,7 @@
       "handle": "@nateherk",
       "channelUrl": "https://www.youtube.com/@nateherk",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/8MEJen0nblQ/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCFw==&rs=AOn4CLAObdHayq_N0XeR8QlNY9BO6p6FiA&usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/8MEJen0nblQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4d1YO7rL_kj2VxyBQxjeR4JWgbA",
       "duration": "55:41",
       "durationSeconds": 3341,
       "views": "30.0K views",
@@ -2559,7 +2562,8 @@
       "firstSeenAt": "2026-07-20T13:50:32Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=8MEJen0nblQ"
+      "url": "https://www.youtube.com/watch?v=8MEJen0nblQ",
+      "embedAllowed": true
     },
     {
       "id": "Q8oTuqZHt3c",
@@ -2570,7 +2574,7 @@
       "handle": "@gettothenextlevel",
       "channelUrl": "https://www.youtube.com/@gettothenextlevel",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/Q8oTuqZHt3c/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/Q8oTuqZHt3c/frame0.jpg?usqp=CBc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "135 views",
@@ -2580,7 +2584,8 @@
       "firstSeenAt": "2026-07-20T13:00:31Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/Q8oTuqZHt3c"
+      "url": "https://www.youtube.com/shorts/Q8oTuqZHt3c",
+      "embedAllowed": true
     },
     {
       "id": "RbAXpZAoQUk",
@@ -2601,7 +2606,8 @@
       "firstSeenAt": "2026-07-20T12:30:25Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=RbAXpZAoQUk"
+      "url": "https://www.youtube.com/watch?v=RbAXpZAoQUk",
+      "embedAllowed": true
     },
     {
       "id": "4lxYutx99gs",
@@ -2612,7 +2618,7 @@
       "handle": "@Ai.Vishnuvijayan",
       "channelUrl": "https://www.youtube.com/@Ai.Vishnuvijayan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/4lxYutx99gs/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/4lxYutx99gs/frame0.jpg?usqp=CBc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "2.6K views",
@@ -2622,7 +2628,8 @@
       "firstSeenAt": "2026-07-20T12:30:21Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/4lxYutx99gs"
+      "url": "https://www.youtube.com/shorts/4lxYutx99gs",
+      "embedAllowed": true
     },
     {
       "id": "Cubm7VMOvTE",
@@ -2643,28 +2650,8 @@
       "firstSeenAt": "2026-07-20T10:30:04Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=Cubm7VMOvTE"
-    },
-    {
-      "id": "bzYjoaTlDVk",
-      "type": "long",
-      "title": "THIS FREE AI Tool Is Better Claude Code! (Google Gemma 4)",
-      "channel": "Ishan Sharma",
-      "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
-      "handle": "@IshanSharma7390",
-      "channelUrl": "https://www.youtube.com/@IshanSharma7390",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/bzYjoaTlDVk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1_Oze-nFvWnpPYoTG6CwZFJAhDA",
-      "duration": "8:42",
-      "durationSeconds": 522,
-      "views": "16.0K views",
-      "viewCount": 16000,
-      "publishedAt": "2026-07-20T06:53:24Z",
-      "publishedLabel": "7 days ago",
-      "firstSeenAt": "2026-07-19T14:05:14Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/watch?v=bzYjoaTlDVk"
+      "url": "https://www.youtube.com/watch?v=Cubm7VMOvTE",
+      "embedAllowed": true
     },
     {
       "id": "T1RkiXpmhBU",
@@ -2678,14 +2665,15 @@
       "thumbnail": "https://i.ytimg.com/vi/T1RkiXpmhBU/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "118.0K views",
-      "viewCount": 118000,
+      "views": "119.0K views",
+      "viewCount": 119000,
       "publishedAt": "2026-07-20T06:27:10Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-20T06:27:10Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/T1RkiXpmhBU"
+      "url": "https://www.youtube.com/shorts/T1RkiXpmhBU",
+      "embedAllowed": true
     },
     {
       "id": "PbMpQ98witE",
@@ -2706,7 +2694,8 @@
       "firstSeenAt": "2026-07-20T05:34:47Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/PbMpQ98witE"
+      "url": "https://www.youtube.com/shorts/PbMpQ98witE",
+      "embedAllowed": true
     },
     {
       "id": "MWCdOTDJoMY",
@@ -2727,7 +2716,30 @@
       "firstSeenAt": "2026-07-19T14:06:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/MWCdOTDJoMY"
+      "url": "https://www.youtube.com/shorts/MWCdOTDJoMY",
+      "embedAllowed": true
+    },
+    {
+      "id": "bzYjoaTlDVk",
+      "type": "long",
+      "title": "THIS FREE AI Tool Is Better Claude Code! (Google Gemma 4)",
+      "channel": "Ishan Sharma",
+      "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
+      "handle": "@IshanSharma7390",
+      "channelUrl": "https://www.youtube.com/@IshanSharma7390",
+      "category": "Long + Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/bzYjoaTlDVk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1_Oze-nFvWnpPYoTG6CwZFJAhDA",
+      "duration": "8:42",
+      "durationSeconds": 522,
+      "views": "16.0K views",
+      "viewCount": 16000,
+      "publishedAt": "2026-07-19T14:05:14Z",
+      "publishedLabel": "7 days ago",
+      "firstSeenAt": "2026-07-19T14:05:14Z",
+      "source": "primary",
+      "priority": 1,
+      "url": "https://www.youtube.com/watch?v=bzYjoaTlDVk",
+      "embedAllowed": true
     },
     {
       "id": "ZE1KEgsm_80",
@@ -2738,7 +2750,7 @@
       "handle": "@gettothenextlevel",
       "channelUrl": "https://www.youtube.com/@gettothenextlevel",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/ZE1KEgsm_80/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/ZE1KEgsm_80/frame0.jpg?usqp=CBc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "400 views",
@@ -2748,7 +2760,8 @@
       "firstSeenAt": "2026-07-19T14:00:29Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/ZE1KEgsm_80"
+      "url": "https://www.youtube.com/shorts/ZE1KEgsm_80",
+      "embedAllowed": true
     },
     {
       "id": "B0033DZaXXo",
@@ -2769,7 +2782,8 @@
       "firstSeenAt": "2026-07-19T13:41:44Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/B0033DZaXXo"
+      "url": "https://www.youtube.com/shorts/B0033DZaXXo",
+      "embedAllowed": true
     },
     {
       "id": "WenWgjxova0",
@@ -2790,7 +2804,8 @@
       "firstSeenAt": "2026-07-19T12:50:56Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/WenWgjxova0"
+      "url": "https://www.youtube.com/shorts/WenWgjxova0",
+      "embedAllowed": true
     },
     {
       "id": "FTwDrxe_Tuk",
@@ -2801,7 +2816,7 @@
       "handle": "@brendanautomation",
       "channelUrl": "https://www.youtube.com/@brendanautomation",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/FTwDrxe_Tuk/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBgip64TxhHbNTSOzukPE6iN2KqKg",
+      "thumbnail": "https://i.ytimg.com/vi/FTwDrxe_Tuk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuJFTT6NYq9jSv856YzrKj7UjhQA",
       "duration": "13:30",
       "durationSeconds": 810,
       "views": "1.4K views",
@@ -2811,7 +2826,8 @@
       "firstSeenAt": "2026-07-19T11:03:24Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=FTwDrxe_Tuk"
+      "url": "https://www.youtube.com/watch?v=FTwDrxe_Tuk",
+      "embedAllowed": true
     },
     {
       "id": "EIgmXDQj3EI",
@@ -2832,7 +2848,8 @@
       "firstSeenAt": "2026-07-19T10:47:16Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=EIgmXDQj3EI"
+      "url": "https://www.youtube.com/watch?v=EIgmXDQj3EI",
+      "embedAllowed": true
     },
     {
       "id": "MTVyEFUxdmM",
@@ -2853,7 +2870,8 @@
       "firstSeenAt": "2026-07-19T06:41:18Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/MTVyEFUxdmM"
+      "url": "https://www.youtube.com/shorts/MTVyEFUxdmM",
+      "embedAllowed": true
     },
     {
       "id": "gw2oSH_pjAA",
@@ -2874,7 +2892,8 @@
       "firstSeenAt": "2026-07-18T15:53:46Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/gw2oSH_pjAA"
+      "url": "https://www.youtube.com/shorts/gw2oSH_pjAA",
+      "embedAllowed": true
     },
     {
       "id": "4c79ymVIXhw",
@@ -2895,7 +2914,8 @@
       "firstSeenAt": "2026-07-18T15:27:07Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/4c79ymVIXhw"
+      "url": "https://www.youtube.com/shorts/4c79ymVIXhw",
+      "embedAllowed": true
     },
     {
       "id": "ut8tJiMlR_0",
@@ -2916,7 +2936,8 @@
       "firstSeenAt": "2026-07-18T15:27:02Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/ut8tJiMlR_0"
+      "url": "https://www.youtube.com/shorts/ut8tJiMlR_0",
+      "embedAllowed": true
     },
     {
       "id": "-oCuilUTn6U",
@@ -2937,7 +2958,8 @@
       "firstSeenAt": "2026-07-18T14:43:05Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/-oCuilUTn6U"
+      "url": "https://www.youtube.com/shorts/-oCuilUTn6U",
+      "embedAllowed": true
     },
     {
       "id": "vQ_hHA2hR8A",
@@ -2948,7 +2970,7 @@
       "handle": "@professorofai.official",
       "channelUrl": "https://www.youtube.com/@professorofai.official",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/vQ_hHA2hR8A/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/vQ_hHA2hR8A/frame0.jpg?usqp=CBk",
       "duration": "Short",
       "durationSeconds": null,
       "views": "1.4M views",
@@ -2958,7 +2980,8 @@
       "firstSeenAt": "2026-07-18T13:49:43Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/vQ_hHA2hR8A"
+      "url": "https://www.youtube.com/shorts/vQ_hHA2hR8A",
+      "embedAllowed": true
     },
     {
       "id": "60XFZOJZxiA",
@@ -2979,7 +3002,8 @@
       "firstSeenAt": "2026-07-18T12:26:03Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/60XFZOJZxiA"
+      "url": "https://www.youtube.com/shorts/60XFZOJZxiA",
+      "embedAllowed": true
     },
     {
       "id": "vIUVRGSMtqI",
@@ -3000,7 +3024,8 @@
       "firstSeenAt": "2026-07-18T12:13:45Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/vIUVRGSMtqI"
+      "url": "https://www.youtube.com/shorts/vIUVRGSMtqI",
+      "embedAllowed": true
     },
     {
       "id": "6u_NudXT8OQ",
@@ -3021,7 +3046,8 @@
       "firstSeenAt": "2026-07-18T11:30:39Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/6u_NudXT8OQ"
+      "url": "https://www.youtube.com/shorts/6u_NudXT8OQ",
+      "embedAllowed": true
     },
     {
       "id": "p2gAORlaiPI",
@@ -3042,28 +3068,8 @@
       "firstSeenAt": "2026-07-18T11:30:08Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/p2gAORlaiPI"
-    },
-    {
-      "id": "7Byp-1VBgHw",
-      "type": "long",
-      "title": "Learn 95% of Lovable in 12 Minutes",
-      "channel": "Ishan Sharma",
-      "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
-      "handle": "@IshanSharma7390",
-      "channelUrl": "https://www.youtube.com/@IshanSharma7390",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/7Byp-1VBgHw/hqdefault_custom_3.jpg?sqp=CJj_m9MG-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYEPUBa6dkpN-OvWGqIw9emnniaA",
-      "duration": "12:23",
-      "durationSeconds": 743,
-      "views": "11.0K views",
-      "viewCount": 11000,
-      "publishedAt": "2026-07-18T06:53:24Z",
-      "publishedLabel": "9 days ago",
-      "firstSeenAt": "2026-07-17T13:30:34Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/watch?v=7Byp-1VBgHw"
+      "url": "https://www.youtube.com/shorts/p2gAORlaiPI",
+      "embedAllowed": true
     },
     {
       "id": "Hj3NSTHebOk",
@@ -3084,7 +3090,8 @@
       "firstSeenAt": "2026-07-18T06:33:10Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/Hj3NSTHebOk"
+      "url": "https://www.youtube.com/shorts/Hj3NSTHebOk",
+      "embedAllowed": true
     },
     {
       "id": "q2m913dzzxk",
@@ -3105,7 +3112,8 @@
       "firstSeenAt": "2026-07-17T23:45:28Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/q2m913dzzxk"
+      "url": "https://www.youtube.com/shorts/q2m913dzzxk",
+      "embedAllowed": true
     },
     {
       "id": "MeYdaNnXuHI",
@@ -3126,7 +3134,8 @@
       "firstSeenAt": "2026-07-17T19:05:06Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=MeYdaNnXuHI"
+      "url": "https://www.youtube.com/watch?v=MeYdaNnXuHI",
+      "embedAllowed": true
     },
     {
       "id": "_2FlJYE4p3Q",
@@ -3147,7 +3156,8 @@
       "firstSeenAt": "2026-07-17T18:51:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=_2FlJYE4p3Q"
+      "url": "https://www.youtube.com/watch?v=_2FlJYE4p3Q",
+      "embedAllowed": true
     },
     {
       "id": "7VypBq4ftrs",
@@ -3168,7 +3178,8 @@
       "firstSeenAt": "2026-07-17T17:28:06Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=7VypBq4ftrs"
+      "url": "https://www.youtube.com/watch?v=7VypBq4ftrs",
+      "embedAllowed": true
     },
     {
       "id": "enFgYQvI1dM",
@@ -3179,17 +3190,18 @@
       "handle": "@InsiderForce",
       "channelUrl": "https://www.youtube.com/@InsiderForce",
       "category": "Shorts Only",
-      "thumbnail": "https://i.ytimg.com/vi/enFgYQvI1dM/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/enFgYQvI1dM/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "239.0K views",
-      "viewCount": 239000,
+      "views": "240.0K views",
+      "viewCount": 240000,
       "publishedAt": "2026-07-17T15:05:16Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-17T15:05:16Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/enFgYQvI1dM"
+      "url": "https://www.youtube.com/shorts/enFgYQvI1dM",
+      "embedAllowed": true
     },
     {
       "id": "17-JEpeZMmg",
@@ -3200,7 +3212,7 @@
       "handle": "@professorofai.official",
       "channelUrl": "https://www.youtube.com/@professorofai.official",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/17-JEpeZMmg/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/17-JEpeZMmg/frame0.jpg?usqp=CBk",
       "duration": "Short",
       "durationSeconds": null,
       "views": "523.0K views",
@@ -3210,7 +3222,8 @@
       "firstSeenAt": "2026-07-17T14:59:58Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/17-JEpeZMmg"
+      "url": "https://www.youtube.com/shorts/17-JEpeZMmg",
+      "embedAllowed": true
     },
     {
       "id": "MhHwMTESlm8",
@@ -3231,7 +3244,8 @@
       "firstSeenAt": "2026-07-17T13:57:03Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/MhHwMTESlm8"
+      "url": "https://www.youtube.com/shorts/MhHwMTESlm8",
+      "embedAllowed": true
     },
     {
       "id": "Pw4oNv7LchQ",
@@ -3252,7 +3266,30 @@
       "firstSeenAt": "2026-07-17T13:55:49Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/Pw4oNv7LchQ"
+      "url": "https://www.youtube.com/shorts/Pw4oNv7LchQ",
+      "embedAllowed": true
+    },
+    {
+      "id": "7Byp-1VBgHw",
+      "type": "long",
+      "title": "Learn 95% of Lovable in 12 Minutes",
+      "channel": "Ishan Sharma",
+      "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
+      "handle": "@IshanSharma7390",
+      "channelUrl": "https://www.youtube.com/@IshanSharma7390",
+      "category": "Long + Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/7Byp-1VBgHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZmtSKYMG66w6Xw7SsF2jIwDJPMQ",
+      "duration": "12:23",
+      "durationSeconds": 743,
+      "views": "11.0K views",
+      "viewCount": 11000,
+      "publishedAt": "2026-07-17T13:30:34Z",
+      "publishedLabel": "9 days ago",
+      "firstSeenAt": "2026-07-17T13:30:34Z",
+      "source": "primary",
+      "priority": 1,
+      "url": "https://www.youtube.com/watch?v=7Byp-1VBgHw",
+      "embedAllowed": true
     },
     {
       "id": "pYbSSiG-9ok",
@@ -3273,7 +3310,8 @@
       "firstSeenAt": "2026-07-17T12:30:02Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=pYbSSiG-9ok"
+      "url": "https://www.youtube.com/watch?v=pYbSSiG-9ok",
+      "embedAllowed": true
     },
     {
       "id": "GyctcIeB12E",
@@ -3294,7 +3332,8 @@
       "firstSeenAt": "2026-07-17T12:30:00Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/GyctcIeB12E"
+      "url": "https://www.youtube.com/shorts/GyctcIeB12E",
+      "embedAllowed": true
     },
     {
       "id": "Qc-a3YJIIEY",
@@ -3305,7 +3344,7 @@
       "handle": "@brendanautomation",
       "channelUrl": "https://www.youtube.com/@brendanautomation",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/Qc-a3YJIIEY/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLAjMjQhzdDuUWnjorbRVTcgf1qRgQ",
+      "thumbnail": "https://i.ytimg.com/vi/Qc-a3YJIIEY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHTN3Z72t4ZHkOwQtPCsy0462Xww",
       "duration": "16:38",
       "durationSeconds": 998,
       "views": "1.3K views",
@@ -3315,7 +3354,8 @@
       "firstSeenAt": "2026-07-17T11:55:10Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=Qc-a3YJIIEY"
+      "url": "https://www.youtube.com/watch?v=Qc-a3YJIIEY",
+      "embedAllowed": true
     },
     {
       "id": "DgeMvw1yigk",
@@ -3326,7 +3366,7 @@
       "handle": "@EricWTech",
       "channelUrl": "https://www.youtube.com/@EricWTech",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/DgeMvw1yigk/frame0.jpg?usqp=CCc",
+      "thumbnail": "https://i.ytimg.com/vi/DgeMvw1yigk/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "8.3K views",
@@ -3336,7 +3376,8 @@
       "firstSeenAt": "2026-07-16T19:59:29Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/DgeMvw1yigk"
+      "url": "https://www.youtube.com/shorts/DgeMvw1yigk",
+      "embedAllowed": true
     },
     {
       "id": "neK8ydl0Vlk",
@@ -3357,7 +3398,8 @@
       "firstSeenAt": "2026-07-16T18:39:24Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=neK8ydl0Vlk"
+      "url": "https://www.youtube.com/watch?v=neK8ydl0Vlk",
+      "embedAllowed": true
     },
     {
       "id": "TGKgCLVxRCk",
@@ -3378,7 +3420,8 @@
       "firstSeenAt": "2026-07-16T13:07:17Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=TGKgCLVxRCk"
+      "url": "https://www.youtube.com/watch?v=TGKgCLVxRCk",
+      "embedAllowed": true
     },
     {
       "id": "SAEOj2knAKo",
@@ -3399,7 +3442,8 @@
       "firstSeenAt": "2026-07-16T13:05:36Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/SAEOj2knAKo"
+      "url": "https://www.youtube.com/shorts/SAEOj2knAKo",
+      "embedAllowed": true
     },
     {
       "id": "2RPxqaJ2mZo",
@@ -3420,7 +3464,8 @@
       "firstSeenAt": "2026-07-16T12:10:14Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/2RPxqaJ2mZo"
+      "url": "https://www.youtube.com/shorts/2RPxqaJ2mZo",
+      "embedAllowed": true
     },
     {
       "id": "HvVgWNoqm-M",
@@ -3441,7 +3486,8 @@
       "firstSeenAt": "2026-07-16T11:19:24Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/HvVgWNoqm-M"
+      "url": "https://www.youtube.com/shorts/HvVgWNoqm-M",
+      "embedAllowed": true
     },
     {
       "id": "F20OoVON3ac",
@@ -3462,28 +3508,8 @@
       "firstSeenAt": "2026-07-16T10:45:07Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/F20OoVON3ac"
-    },
-    {
-      "id": "X7_YFIw3vo4",
-      "type": "long",
-      "title": "Claude Fable + Higgsfield Will Make You Rich in 2026(Step by Step)",
-      "channel": "Ishan Sharma",
-      "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
-      "handle": "@IshanSharma7390",
-      "channelUrl": "https://www.youtube.com/@IshanSharma7390",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/X7_YFIw3vo4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfUCKAwmqh4VwFdAGOO8a-PSMQmw",
-      "duration": "14:51",
-      "durationSeconds": 891,
-      "views": "49.0K views",
-      "viewCount": 49000,
-      "publishedAt": "2026-07-16T06:53:24Z",
-      "publishedLabel": "11 days ago",
-      "firstSeenAt": "2026-07-15T14:30:13Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/watch?v=X7_YFIw3vo4"
+      "url": "https://www.youtube.com/shorts/F20OoVON3ac",
+      "embedAllowed": true
     },
     {
       "id": "FByzhiP2gzo",
@@ -3504,7 +3530,8 @@
       "firstSeenAt": "2026-07-15T21:06:38Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=FByzhiP2gzo"
+      "url": "https://www.youtube.com/watch?v=FByzhiP2gzo",
+      "embedAllowed": true
     },
     {
       "id": "_7MJWvQrHwc",
@@ -3525,7 +3552,8 @@
       "firstSeenAt": "2026-07-15T16:00:37Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=_7MJWvQrHwc"
+      "url": "https://www.youtube.com/watch?v=_7MJWvQrHwc",
+      "embedAllowed": true
     },
     {
       "id": "AEn-4HOwHck",
@@ -3546,7 +3574,8 @@
       "firstSeenAt": "2026-07-15T15:55:03Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=AEn-4HOwHck"
+      "url": "https://www.youtube.com/watch?v=AEn-4HOwHck",
+      "embedAllowed": true
     },
     {
       "id": "sd9YNG-V6xA",
@@ -3567,7 +3596,8 @@
       "firstSeenAt": "2026-07-15T15:11:01Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=sd9YNG-V6xA"
+      "url": "https://www.youtube.com/watch?v=sd9YNG-V6xA",
+      "embedAllowed": true
     },
     {
       "id": "F9KKb9qjr4M",
@@ -3578,7 +3608,7 @@
       "handle": "@hasanaboulhasan",
       "channelUrl": "https://www.youtube.com/@hasanaboulhasan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/F9KKb9qjr4M/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/F9KKb9qjr4M/frame0.jpg?usqp=CCc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "2.6K views",
@@ -3588,7 +3618,30 @@
       "firstSeenAt": "2026-07-15T14:59:55Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/F9KKb9qjr4M"
+      "url": "https://www.youtube.com/shorts/F9KKb9qjr4M",
+      "embedAllowed": true
+    },
+    {
+      "id": "X7_YFIw3vo4",
+      "type": "long",
+      "title": "Claude Fable + Higgsfield Will Make You Rich in 2026(Step by Step)",
+      "channel": "Ishan Sharma",
+      "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
+      "handle": "@IshanSharma7390",
+      "channelUrl": "https://www.youtube.com/@IshanSharma7390",
+      "category": "Long + Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/X7_YFIw3vo4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfUCKAwmqh4VwFdAGOO8a-PSMQmw",
+      "duration": "14:51",
+      "durationSeconds": 891,
+      "views": "49.0K views",
+      "viewCount": 49000,
+      "publishedAt": "2026-07-15T14:30:13Z",
+      "publishedLabel": "11 days ago",
+      "firstSeenAt": "2026-07-15T14:30:13Z",
+      "source": "primary",
+      "priority": 1,
+      "url": "https://www.youtube.com/watch?v=X7_YFIw3vo4",
+      "embedAllowed": true
     },
     {
       "id": "tY8W-kLG5do",
@@ -3599,7 +3652,7 @@
       "handle": "@vdmsocial1",
       "channelUrl": "https://www.youtube.com/@vdmsocial1",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/tY8W-kLG5do/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/tY8W-kLG5do/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "1.1K views",
@@ -3609,7 +3662,8 @@
       "firstSeenAt": "2026-07-15T07:11:10Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/tY8W-kLG5do"
+      "url": "https://www.youtube.com/shorts/tY8W-kLG5do",
+      "embedAllowed": true
     },
     {
       "id": "2yqWKL8majc",
@@ -3625,12 +3679,13 @@
       "durationSeconds": 1015,
       "views": "20.0K views",
       "viewCount": 20000,
-      "publishedAt": "2026-07-15T06:53:24Z",
+      "publishedAt": "2026-07-14T14:44:43Z",
       "publishedLabel": "12 days ago",
       "firstSeenAt": "2026-07-14T14:44:43Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=2yqWKL8majc"
+      "url": "https://www.youtube.com/watch?v=2yqWKL8majc",
+      "embedAllowed": true
     },
     {
       "id": "0a2SY8L6L7o",
@@ -3641,7 +3696,7 @@
       "handle": "@brendanautomation",
       "channelUrl": "https://www.youtube.com/@brendanautomation",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/0a2SY8L6L7o/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLChJwEFedKyRFLODijkAXrleLufxA",
+      "thumbnail": "https://i.ytimg.com/vi/0a2SY8L6L7o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATmpVIjLaLF3WEYgSOrSOj0RehPQ",
       "duration": "22:22",
       "durationSeconds": 1342,
       "views": "5.1K views",
@@ -3651,7 +3706,8 @@
       "firstSeenAt": "2026-07-14T11:50:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=0a2SY8L6L7o"
+      "url": "https://www.youtube.com/watch?v=0a2SY8L6L7o",
+      "embedAllowed": true
     },
     {
       "id": "q7mE2Th9cbY",
@@ -3667,12 +3723,13 @@
       "durationSeconds": 968,
       "views": "93.0K views",
       "viewCount": 93000,
-      "publishedAt": "2026-07-14T06:53:24Z",
+      "publishedAt": "2026-07-14T07:46:18Z",
       "publishedLabel": "13 days ago",
       "firstSeenAt": "2026-07-14T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=q7mE2Th9cbY"
+      "url": "https://www.youtube.com/watch?v=q7mE2Th9cbY",
+      "embedAllowed": true
     },
     {
       "id": "3iUo7bnsN30",
@@ -3683,7 +3740,7 @@
       "handle": "@InsiderForce",
       "channelUrl": "https://www.youtube.com/@InsiderForce",
       "category": "Shorts Only",
-      "thumbnail": "https://i.ytimg.com/vi/3iUo7bnsN30/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/3iUo7bnsN30/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "8.5K views",
@@ -3693,7 +3750,8 @@
       "firstSeenAt": "2026-07-13T15:03:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/3iUo7bnsN30"
+      "url": "https://www.youtube.com/shorts/3iUo7bnsN30",
+      "embedAllowed": true
     },
     {
       "id": "GFrcq1ZebtQ",
@@ -3707,14 +3765,15 @@
       "thumbnail": "https://i.ytimg.com/vi/GFrcq1ZebtQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAytz1ZjCO24CfHbuajFcJs6MkTZw",
       "duration": "6:59",
       "durationSeconds": 419,
-      "views": "787 views",
-      "viewCount": 787,
+      "views": "792 views",
+      "viewCount": 792,
       "publishedAt": "2026-07-13T10:30:26Z",
       "publishedLabel": "13 days ago",
       "firstSeenAt": "2026-07-13T10:30:26Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=GFrcq1ZebtQ"
+      "url": "https://www.youtube.com/watch?v=GFrcq1ZebtQ",
+      "embedAllowed": true
     },
     {
       "id": "M1E4ZzdpOco",
@@ -3730,12 +3789,13 @@
       "durationSeconds": 1811,
       "views": "66.0K views",
       "viewCount": 66000,
-      "publishedAt": "2026-07-13T06:53:24Z",
+      "publishedAt": "2026-07-13T07:46:18Z",
       "publishedLabel": "2 weeks ago",
       "firstSeenAt": "2026-07-13T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=M1E4ZzdpOco"
+      "url": "https://www.youtube.com/watch?v=M1E4ZzdpOco",
+      "embedAllowed": true
     },
     {
       "id": "S6flRYCcS8A",
@@ -3751,12 +3811,13 @@
       "durationSeconds": 1237,
       "views": "31.0K views",
       "viewCount": 31000,
-      "publishedAt": "2026-07-13T06:53:24Z",
+      "publishedAt": "2026-07-13T07:46:18Z",
       "publishedLabel": "2 weeks ago",
       "firstSeenAt": "2026-07-13T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=S6flRYCcS8A"
+      "url": "https://www.youtube.com/watch?v=S6flRYCcS8A",
+      "embedAllowed": true
     },
     {
       "id": "FnBjhm4QrwQ",
@@ -3772,12 +3833,13 @@
       "durationSeconds": 1103,
       "views": "2.9K views",
       "viewCount": 2900,
-      "publishedAt": "2026-07-13T06:53:24Z",
+      "publishedAt": "2026-07-13T07:46:18Z",
       "publishedLabel": "2 weeks ago",
       "firstSeenAt": "2026-07-13T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=FnBjhm4QrwQ"
+      "url": "https://www.youtube.com/watch?v=FnBjhm4QrwQ",
+      "embedAllowed": true
     },
     {
       "id": "MgPysQKdCxw",
@@ -3793,33 +3855,13 @@
       "durationSeconds": 1622,
       "views": "5.8K views",
       "viewCount": 5800,
-      "publishedAt": "2026-07-13T06:53:24Z",
+      "publishedAt": "2026-07-13T07:46:18Z",
       "publishedLabel": "2 weeks ago",
       "firstSeenAt": "2026-07-13T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=MgPysQKdCxw"
-    },
-    {
-      "id": "LM14h8RBXuM",
-      "type": "long",
-      "title": "#1 Claude Code Repo Today (Nobody's Talking About It)",
-      "channel": "Charlie Automates",
-      "channelId": "UCoqNpR_9YQc72dh2u5HGcDg",
-      "handle": "@charlieautomates",
-      "channelUrl": "https://www.youtube.com/@charlieautomates",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/LM14h8RBXuM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQHdphY4Vvf0t-mOq4gz2T4K3fPQ",
-      "duration": "6:14",
-      "durationSeconds": 374,
-      "views": "1.3K views",
-      "viewCount": 1300,
-      "publishedAt": "2026-07-13T06:53:24Z",
-      "publishedLabel": "2 weeks ago",
-      "firstSeenAt": "2026-07-08T22:59:40Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/watch?v=LM14h8RBXuM"
+      "url": "https://www.youtube.com/watch?v=MgPysQKdCxw",
+      "embedAllowed": true
     },
     {
       "id": "TZ3pRAEzmOY",
@@ -3840,7 +3882,8 @@
       "firstSeenAt": "2026-07-12T18:40:19Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=TZ3pRAEzmOY"
+      "url": "https://www.youtube.com/watch?v=TZ3pRAEzmOY",
+      "embedAllowed": true
     },
     {
       "id": "UPkzsr8apq8",
@@ -3861,7 +3904,8 @@
       "firstSeenAt": "2026-07-12T14:15:36Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=UPkzsr8apq8"
+      "url": "https://www.youtube.com/watch?v=UPkzsr8apq8",
+      "embedAllowed": true
     },
     {
       "id": "2CCyzGsJy4s",
@@ -3872,7 +3916,7 @@
       "handle": "@hasanaboulhasan",
       "channelUrl": "https://www.youtube.com/@hasanaboulhasan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/2CCyzGsJy4s/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/2CCyzGsJy4s/frame0.jpg?usqp=CCc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "6.7K views",
@@ -3882,7 +3926,8 @@
       "firstSeenAt": "2026-07-12T14:00:12Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/2CCyzGsJy4s"
+      "url": "https://www.youtube.com/shorts/2CCyzGsJy4s",
+      "embedAllowed": true
     },
     {
       "id": "hMC1lovVKfk",
@@ -3903,7 +3948,8 @@
       "firstSeenAt": "2026-07-12T13:30:24Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/hMC1lovVKfk"
+      "url": "https://www.youtube.com/shorts/hMC1lovVKfk",
+      "embedAllowed": true
     },
     {
       "id": "qPe6l4O9rlk",
@@ -3924,7 +3970,8 @@
       "firstSeenAt": "2026-07-12T09:30:31Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/qPe6l4O9rlk"
+      "url": "https://www.youtube.com/shorts/qPe6l4O9rlk",
+      "embedAllowed": true
     },
     {
       "id": "yvW6MkfIysU",
@@ -3945,7 +3992,8 @@
       "firstSeenAt": "2026-07-11T19:55:48Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=yvW6MkfIysU"
+      "url": "https://www.youtube.com/watch?v=yvW6MkfIysU",
+      "embedAllowed": true
     },
     {
       "id": "4fKn9O-YhtI",
@@ -3966,7 +4014,8 @@
       "firstSeenAt": "2026-07-11T17:00:36Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/4fKn9O-YhtI"
+      "url": "https://www.youtube.com/shorts/4fKn9O-YhtI",
+      "embedAllowed": true
     },
     {
       "id": "KpHyhQ3AOhA",
@@ -3987,7 +4036,8 @@
       "firstSeenAt": "2026-07-11T16:29:16Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=KpHyhQ3AOhA"
+      "url": "https://www.youtube.com/watch?v=KpHyhQ3AOhA",
+      "embedAllowed": true
     },
     {
       "id": "Ek-KgHVWYjo",
@@ -3998,7 +4048,7 @@
       "handle": "@hasanaboulhasan",
       "channelUrl": "https://www.youtube.com/@hasanaboulhasan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/Ek-KgHVWYjo/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/Ek-KgHVWYjo/frame0.jpg?usqp=CCc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "11.0K views",
@@ -4008,7 +4058,8 @@
       "firstSeenAt": "2026-07-11T14:00:36Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/Ek-KgHVWYjo"
+      "url": "https://www.youtube.com/shorts/Ek-KgHVWYjo",
+      "embedAllowed": true
     },
     {
       "id": "AZXV1zzuFuQ",
@@ -4029,7 +4080,8 @@
       "firstSeenAt": "2026-07-11T00:30:25Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/AZXV1zzuFuQ"
+      "url": "https://www.youtube.com/shorts/AZXV1zzuFuQ",
+      "embedAllowed": true
     },
     {
       "id": "6hyXZWJ24lY",
@@ -4040,7 +4092,7 @@
       "handle": "@EricWTech",
       "channelUrl": "https://www.youtube.com/@EricWTech",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/6hyXZWJ24lY/frame0.jpg?usqp=CCc",
+      "thumbnail": "https://i.ytimg.com/vi/6hyXZWJ24lY/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "4.3K views",
@@ -4050,7 +4102,8 @@
       "firstSeenAt": "2026-07-10T20:00:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/6hyXZWJ24lY"
+      "url": "https://www.youtube.com/shorts/6hyXZWJ24lY",
+      "embedAllowed": true
     },
     {
       "id": "jfI3pOpv-WI",
@@ -4071,7 +4124,8 @@
       "firstSeenAt": "2026-07-10T13:00:39Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=jfI3pOpv-WI"
+      "url": "https://www.youtube.com/watch?v=jfI3pOpv-WI",
+      "embedAllowed": true
     },
     {
       "id": "qH8qd4DgY7A",
@@ -4092,7 +4146,8 @@
       "firstSeenAt": "2026-07-09T17:00:19Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/qH8qd4DgY7A"
+      "url": "https://www.youtube.com/shorts/qH8qd4DgY7A",
+      "embedAllowed": true
     },
     {
       "id": "5KX8wIu7g_A",
@@ -4103,17 +4158,18 @@
       "handle": "@InsiderForce",
       "channelUrl": "https://www.youtube.com/@InsiderForce",
       "category": "Shorts Only",
-      "thumbnail": "https://i.ytimg.com/vi/5KX8wIu7g_A/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/5KX8wIu7g_A/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "20.0K views",
-      "viewCount": 20000,
+      "views": "21.0K views",
+      "viewCount": 21000,
       "publishedAt": "2026-07-09T15:05:01Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-07-09T15:05:01Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/5KX8wIu7g_A"
+      "url": "https://www.youtube.com/shorts/5KX8wIu7g_A",
+      "embedAllowed": true
     },
     {
       "id": "DTGPI0VVr7Y",
@@ -4124,7 +4180,7 @@
       "handle": "@hasanaboulhasan",
       "channelUrl": "https://www.youtube.com/@hasanaboulhasan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/DTGPI0VVr7Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUOOVfgF4iBtGP4rnrGKx9wL2Bwg",
+      "thumbnail": "https://i.ytimg.com/vi/DTGPI0VVr7Y/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgikzuTSBhjg6gQg4KgB&rs=AOn4CLAYSiGB3VITITHOQDbAVILcDNVM9A&usqp=CBk",
       "duration": "5:30",
       "durationSeconds": 330,
       "views": "21.0K views",
@@ -4134,7 +4190,8 @@
       "firstSeenAt": "2026-07-09T14:33:22Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=DTGPI0VVr7Y"
+      "url": "https://www.youtube.com/watch?v=DTGPI0VVr7Y",
+      "embedAllowed": true
     },
     {
       "id": "1nTpCoOTk7A",
@@ -4145,7 +4202,7 @@
       "handle": "@100xEngineers",
       "channelUrl": "https://www.youtube.com/@100xEngineers",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/1nTpCoOTk7A/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLA5sWorE0eoAGsBniPtGgCvPnnMnA",
+      "thumbnail": "https://i.ytimg.com/vi/1nTpCoOTk7A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8_EJuV_nyov6X7Yg0A4-uA06E7g",
       "duration": "15:15",
       "durationSeconds": 915,
       "views": "1.1K views",
@@ -4155,7 +4212,30 @@
       "firstSeenAt": "2026-07-09T12:47:57Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=1nTpCoOTk7A"
+      "url": "https://www.youtube.com/watch?v=1nTpCoOTk7A",
+      "embedAllowed": true
+    },
+    {
+      "id": "LM14h8RBXuM",
+      "type": "long",
+      "title": "#1 Claude Code Repo Today (Nobody's Talking About It)",
+      "channel": "Charlie Automates",
+      "channelId": "UCoqNpR_9YQc72dh2u5HGcDg",
+      "handle": "@charlieautomates",
+      "channelUrl": "https://www.youtube.com/@charlieautomates",
+      "category": "Long + Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/LM14h8RBXuM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQHdphY4Vvf0t-mOq4gz2T4K3fPQ",
+      "duration": "6:14",
+      "durationSeconds": 374,
+      "views": "1.3K views",
+      "viewCount": 1300,
+      "publishedAt": "2026-07-08T22:59:40Z",
+      "publishedLabel": "2 weeks ago",
+      "firstSeenAt": "2026-07-08T22:59:40Z",
+      "source": "primary",
+      "priority": 1,
+      "url": "https://www.youtube.com/watch?v=LM14h8RBXuM",
+      "embedAllowed": true
     },
     {
       "id": "Kb5jMAxa3jE",
@@ -4176,7 +4256,8 @@
       "firstSeenAt": "2026-07-08T19:43:58Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=Kb5jMAxa3jE"
+      "url": "https://www.youtube.com/watch?v=Kb5jMAxa3jE",
+      "embedAllowed": true
     },
     {
       "id": "wRrNsEQWzTg",
@@ -4197,7 +4278,8 @@
       "firstSeenAt": "2026-07-08T13:36:27Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/wRrNsEQWzTg"
+      "url": "https://www.youtube.com/shorts/wRrNsEQWzTg",
+      "embedAllowed": true
     },
     {
       "id": "uwUIJjuTgiA",
@@ -4218,7 +4300,8 @@
       "firstSeenAt": "2026-07-07T17:35:14Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=uwUIJjuTgiA"
+      "url": "https://www.youtube.com/watch?v=uwUIJjuTgiA",
+      "embedAllowed": true
     },
     {
       "id": "FnhycyFKBfw",
@@ -4239,7 +4322,8 @@
       "firstSeenAt": "2026-07-07T16:01:20Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=FnhycyFKBfw"
+      "url": "https://www.youtube.com/watch?v=FnhycyFKBfw",
+      "embedAllowed": true
     },
     {
       "id": "zck4BeO77s8",
@@ -4260,7 +4344,8 @@
       "firstSeenAt": "2026-07-07T10:29:05Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=zck4BeO77s8"
+      "url": "https://www.youtube.com/watch?v=zck4BeO77s8",
+      "embedAllowed": true
     },
     {
       "id": "sX0wge_-1oQ",
@@ -4281,7 +4366,8 @@
       "firstSeenAt": "2026-07-07T08:00:21Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=sX0wge_-1oQ"
+      "url": "https://www.youtube.com/watch?v=sX0wge_-1oQ",
+      "embedAllowed": true
     },
     {
       "id": "me3YV5P2M1M",
@@ -4297,33 +4383,13 @@
       "durationSeconds": 1893,
       "views": "70.0K views",
       "viewCount": 70000,
-      "publishedAt": "2026-07-06T06:53:24Z",
+      "publishedAt": "2026-07-06T07:46:18Z",
       "publishedLabel": "3 weeks ago",
       "firstSeenAt": "2026-07-06T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=me3YV5P2M1M"
-    },
-    {
-      "id": "wg8AS26vp3o",
-      "type": "long",
-      "title": "No One Wants a Website - Build this instead!",
-      "channel": "Builders Central",
-      "channelId": "UCevFnhyD9Ut5TwYdCLBh5UQ",
-      "handle": "@BuildersCentral",
-      "channelUrl": "https://www.youtube.com/@BuildersCentral",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/wg8AS26vp3o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBsxnlQ8RPhLqH46I-JG0G3G4FbA",
-      "duration": "8:21",
-      "durationSeconds": 501,
-      "views": "59.0K views",
-      "viewCount": 59000,
-      "publishedAt": "2026-07-06T06:53:24Z",
-      "publishedLabel": "3 weeks ago",
-      "firstSeenAt": "2026-07-06T06:01:51Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/watch?v=wg8AS26vp3o"
+      "url": "https://www.youtube.com/watch?v=me3YV5P2M1M",
+      "embedAllowed": true
     },
     {
       "id": "sHXxdAuEpdE",
@@ -4339,12 +4405,35 @@
       "durationSeconds": 2334,
       "views": "3.5K views",
       "viewCount": 3500,
-      "publishedAt": "2026-07-06T06:53:24Z",
+      "publishedAt": "2026-07-06T07:46:18Z",
       "publishedLabel": "3 weeks ago",
       "firstSeenAt": "2026-07-06T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=sHXxdAuEpdE"
+      "url": "https://www.youtube.com/watch?v=sHXxdAuEpdE",
+      "embedAllowed": true
+    },
+    {
+      "id": "wg8AS26vp3o",
+      "type": "long",
+      "title": "No One Wants a Website - Build this instead!",
+      "channel": "Builders Central",
+      "channelId": "UCevFnhyD9Ut5TwYdCLBh5UQ",
+      "handle": "@BuildersCentral",
+      "channelUrl": "https://www.youtube.com/@BuildersCentral",
+      "category": "Long + Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/wg8AS26vp3o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBsxnlQ8RPhLqH46I-JG0G3G4FbA",
+      "duration": "8:21",
+      "durationSeconds": 501,
+      "views": "59.0K views",
+      "viewCount": 59000,
+      "publishedAt": "2026-07-06T07:46:18Z",
+      "publishedLabel": "3 weeks ago",
+      "firstSeenAt": "2026-07-06T06:01:51Z",
+      "source": "primary",
+      "priority": 1,
+      "url": "https://www.youtube.com/watch?v=wg8AS26vp3o",
+      "embedAllowed": true
     },
     {
       "id": "yawSNWPJ5sw",
@@ -4360,12 +4449,13 @@
       "durationSeconds": 498,
       "views": "823 views",
       "viewCount": 823,
-      "publishedAt": "2026-07-06T06:53:24Z",
+      "publishedAt": "2026-07-06T07:46:18Z",
       "publishedLabel": "3 weeks ago",
       "firstSeenAt": "2026-07-06T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=yawSNWPJ5sw"
+      "url": "https://www.youtube.com/watch?v=yawSNWPJ5sw",
+      "embedAllowed": true
     },
     {
       "id": "HwwPkmdHZLM",
@@ -4386,7 +4476,8 @@
       "firstSeenAt": "2026-07-05T14:56:22Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/HwwPkmdHZLM"
+      "url": "https://www.youtube.com/shorts/HwwPkmdHZLM",
+      "embedAllowed": true
     },
     {
       "id": "eJnk0dTaDPA",
@@ -4397,7 +4488,7 @@
       "handle": "@EricWTech",
       "channelUrl": "https://www.youtube.com/@EricWTech",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/eJnk0dTaDPA/frame0.jpg?usqp=CCc",
+      "thumbnail": "https://i.ytimg.com/vi/eJnk0dTaDPA/frame0.jpg",
       "duration": "1:51",
       "durationSeconds": 111,
       "views": "26.0K views",
@@ -4407,7 +4498,8 @@
       "firstSeenAt": "2026-07-05T13:16:02Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/eJnk0dTaDPA"
+      "url": "https://www.youtube.com/shorts/eJnk0dTaDPA",
+      "embedAllowed": true
     },
     {
       "id": "uRB3I4OSTqk",
@@ -4418,7 +4510,7 @@
       "handle": "@brendanautomation",
       "channelUrl": "https://www.youtube.com/@brendanautomation",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/uRB3I4OSTqk/frame0.jpg?usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/uRB3I4OSTqk/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "1.3K views",
@@ -4428,7 +4520,8 @@
       "firstSeenAt": "2026-07-02T11:02:04Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/uRB3I4OSTqk"
+      "url": "https://www.youtube.com/shorts/uRB3I4OSTqk",
+      "embedAllowed": true
     },
     {
       "id": "Gkp7AhpJo2w",
@@ -4439,7 +4532,7 @@
       "handle": "@vdmsocial1",
       "channelUrl": "https://www.youtube.com/@vdmsocial1",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/Gkp7AhpJo2w/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/Gkp7AhpJo2w/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "2.1K views",
@@ -4449,7 +4542,8 @@
       "firstSeenAt": "2026-07-01T12:23:50Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/Gkp7AhpJo2w"
+      "url": "https://www.youtube.com/shorts/Gkp7AhpJo2w",
+      "embedAllowed": true
     },
     {
       "id": "UqIhmUL5dEM",
@@ -4470,7 +4564,8 @@
       "firstSeenAt": "2026-07-01T10:40:14Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=UqIhmUL5dEM"
+      "url": "https://www.youtube.com/watch?v=UqIhmUL5dEM",
+      "embedAllowed": true
     },
     {
       "id": "xs3kDA_Wf84",
@@ -4481,7 +4576,7 @@
       "handle": "@vdmsocial1",
       "channelUrl": "https://www.youtube.com/@vdmsocial1",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/xs3kDA_Wf84/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/xs3kDA_Wf84/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "1.0K views",
@@ -4491,7 +4586,8 @@
       "firstSeenAt": "2026-06-29T13:20:31Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/xs3kDA_Wf84"
+      "url": "https://www.youtube.com/shorts/xs3kDA_Wf84",
+      "embedAllowed": true
     },
     {
       "id": "gqMOihhzTHw",
@@ -4507,12 +4603,13 @@
       "durationSeconds": 2584,
       "views": "113.0K views",
       "viewCount": 113000,
-      "publishedAt": "2026-06-29T06:53:24Z",
+      "publishedAt": "2026-06-29T07:46:18Z",
       "publishedLabel": "4 weeks ago",
       "firstSeenAt": "2026-06-29T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=gqMOihhzTHw"
+      "url": "https://www.youtube.com/watch?v=gqMOihhzTHw",
+      "embedAllowed": true
     },
     {
       "id": "A1gGtaYFRz0",
@@ -4528,12 +4625,13 @@
       "durationSeconds": 185,
       "views": "922 views",
       "viewCount": 922,
-      "publishedAt": "2026-06-29T06:53:24Z",
+      "publishedAt": "2026-06-29T07:46:18Z",
       "publishedLabel": "4 weeks ago",
       "firstSeenAt": "2026-06-29T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=A1gGtaYFRz0"
+      "url": "https://www.youtube.com/watch?v=A1gGtaYFRz0",
+      "embedAllowed": true
     },
     {
       "id": "6wEN3IVvdag",
@@ -4554,7 +4652,8 @@
       "firstSeenAt": "2026-06-28T15:29:21Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=6wEN3IVvdag"
+      "url": "https://www.youtube.com/watch?v=6wEN3IVvdag",
+      "embedAllowed": true
     },
     {
       "id": "d4bVpUL9Hao",
@@ -4565,17 +4664,18 @@
       "handle": "@100xEngineers",
       "channelUrl": "https://www.youtube.com/@100xEngineers",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/d4bVpUL9Hao/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLA6Q_Uyl8dHyot51eHgDS5Zjd3acQ",
+      "thumbnail": "https://i.ytimg.com/vi/d4bVpUL9Hao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQHLiDMDo9PfxL6-xN13YUC7jb1w",
       "duration": "20:30",
       "durationSeconds": 1230,
       "views": "6.8K views",
       "viewCount": 6800,
-      "publishedAt": "2026-06-27T06:53:24Z",
+      "publishedAt": "2026-06-27T07:46:18Z",
       "publishedLabel": "1 month ago",
       "firstSeenAt": "2026-06-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=d4bVpUL9Hao"
+      "url": "https://www.youtube.com/watch?v=d4bVpUL9Hao",
+      "embedAllowed": true
     },
     {
       "id": "VZjC1BsyIl4",
@@ -4586,17 +4686,18 @@
       "handle": "@100xEngineers",
       "channelUrl": "https://www.youtube.com/@100xEngineers",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/VZjC1BsyIl4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLBwPmFtFoQni709V45_l5rx6SM_9g",
+      "thumbnail": "https://i.ytimg.com/vi/VZjC1BsyIl4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnvBb9bfxzS5bofiNoPzmor8tqTw",
       "duration": "7:51",
       "durationSeconds": 471,
       "views": "29.0K views",
       "viewCount": 29000,
-      "publishedAt": "2026-06-27T06:53:24Z",
+      "publishedAt": "2026-06-27T07:46:18Z",
       "publishedLabel": "1 month ago",
       "firstSeenAt": "2026-06-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=VZjC1BsyIl4"
+      "url": "https://www.youtube.com/watch?v=VZjC1BsyIl4",
+      "embedAllowed": true
     },
     {
       "id": "VxYroKK8_04",
@@ -4607,80 +4708,18 @@
       "handle": "@100xEngineers",
       "channelUrl": "https://www.youtube.com/@100xEngineers",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/VxYroKK8_04/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLB0-JlkaXZs13-IbHcWUZEbaVX4Gg",
+      "thumbnail": "https://i.ytimg.com/vi/VxYroKK8_04/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKZttBzp42CdINruW9OCHI1zj1og",
       "duration": "9:45",
       "durationSeconds": 585,
       "views": "6.4K views",
       "viewCount": 6400,
-      "publishedAt": "2026-06-27T06:53:24Z",
+      "publishedAt": "2026-06-27T07:46:18Z",
       "publishedLabel": "1 month ago",
       "firstSeenAt": "2026-06-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=VxYroKK8_04"
-    },
-    {
-      "id": "1rWNzDpswho",
-      "type": "long",
-      "title": "The Only Hermes Agent Tutorial You'll Need in 2026",
-      "channel": "Builders Central",
-      "channelId": "UCevFnhyD9Ut5TwYdCLBh5UQ",
-      "handle": "@BuildersCentral",
-      "channelUrl": "https://www.youtube.com/@BuildersCentral",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/1rWNzDpswho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChspFyYxMu1XPlG4VDH6G2afjpyw",
-      "duration": "10:49",
-      "durationSeconds": 649,
-      "views": "3.7K views",
-      "viewCount": 3700,
-      "publishedAt": "2026-06-27T06:53:24Z",
-      "publishedLabel": "1 month ago",
-      "firstSeenAt": "2026-06-27T06:01:51Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/watch?v=1rWNzDpswho"
-    },
-    {
-      "id": "7qJ0r9HiPno",
-      "type": "long",
-      "title": "How To Actually BUILD With AI (The 4 Pillar System)",
-      "channel": "Builders Central",
-      "channelId": "UCevFnhyD9Ut5TwYdCLBh5UQ",
-      "handle": "@BuildersCentral",
-      "channelUrl": "https://www.youtube.com/@BuildersCentral",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/7qJ0r9HiPno/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAE_HQTGj3meEbd2XRwLOw7CDYD1g",
-      "duration": "9:16",
-      "durationSeconds": 556,
-      "views": "3.4K views",
-      "viewCount": 3400,
-      "publishedAt": "2026-06-27T06:53:24Z",
-      "publishedLabel": "1 month ago",
-      "firstSeenAt": "2026-06-27T06:01:51Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/watch?v=7qJ0r9HiPno"
-    },
-    {
-      "id": "4abE_DjL4rw",
-      "type": "long",
-      "title": "How to Vibe Code a Mobile App in 10 mins!",
-      "channel": "Coding Simplified Space",
-      "channelId": "UCzn888DYJfy2AfbrOkduhZg",
-      "handle": "@codingsimplifiedspace",
-      "channelUrl": "https://www.youtube.com/@codingsimplifiedspace",
-      "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/4abE_DjL4rw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeMexN7yoH6VNmgd4R3TOH4yGiaQ",
-      "duration": "7:23",
-      "durationSeconds": 443,
-      "views": "290 views",
-      "viewCount": 290,
-      "publishedAt": "2026-06-27T06:53:24Z",
-      "publishedLabel": "1 month ago",
-      "firstSeenAt": "2026-06-27T06:01:51Z",
-      "source": "primary",
-      "priority": 1,
-      "url": "https://www.youtube.com/watch?v=4abE_DjL4rw"
+      "url": "https://www.youtube.com/watch?v=VxYroKK8_04",
+      "embedAllowed": true
     },
     {
       "id": "-oZc9p79L5s",
@@ -4696,12 +4735,79 @@
       "durationSeconds": 1322,
       "views": "78.0K views",
       "viewCount": 78000,
-      "publishedAt": "2026-06-27T06:53:24Z",
+      "publishedAt": "2026-06-27T07:46:18Z",
       "publishedLabel": "1 month ago",
       "firstSeenAt": "2026-06-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=-oZc9p79L5s"
+      "url": "https://www.youtube.com/watch?v=-oZc9p79L5s",
+      "embedAllowed": true
+    },
+    {
+      "id": "4abE_DjL4rw",
+      "type": "long",
+      "title": "How to Vibe Code a Mobile App in 10 mins!",
+      "channel": "Coding Simplified Space",
+      "channelId": "UCzn888DYJfy2AfbrOkduhZg",
+      "handle": "@codingsimplifiedspace",
+      "channelUrl": "https://www.youtube.com/@codingsimplifiedspace",
+      "category": "Long + Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/4abE_DjL4rw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeMexN7yoH6VNmgd4R3TOH4yGiaQ",
+      "duration": "7:23",
+      "durationSeconds": 443,
+      "views": "290 views",
+      "viewCount": 290,
+      "publishedAt": "2026-06-27T07:46:18Z",
+      "publishedLabel": "1 month ago",
+      "firstSeenAt": "2026-06-27T06:01:51Z",
+      "source": "primary",
+      "priority": 1,
+      "url": "https://www.youtube.com/watch?v=4abE_DjL4rw",
+      "embedAllowed": true
+    },
+    {
+      "id": "1rWNzDpswho",
+      "type": "long",
+      "title": "The Only Hermes Agent Tutorial You'll Need in 2026",
+      "channel": "Builders Central",
+      "channelId": "UCevFnhyD9Ut5TwYdCLBh5UQ",
+      "handle": "@BuildersCentral",
+      "channelUrl": "https://www.youtube.com/@BuildersCentral",
+      "category": "Long + Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/1rWNzDpswho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChspFyYxMu1XPlG4VDH6G2afjpyw",
+      "duration": "10:49",
+      "durationSeconds": 649,
+      "views": "3.7K views",
+      "viewCount": 3700,
+      "publishedAt": "2026-06-27T07:46:18Z",
+      "publishedLabel": "1 month ago",
+      "firstSeenAt": "2026-06-27T06:01:51Z",
+      "source": "primary",
+      "priority": 1,
+      "url": "https://www.youtube.com/watch?v=1rWNzDpswho",
+      "embedAllowed": true
+    },
+    {
+      "id": "7qJ0r9HiPno",
+      "type": "long",
+      "title": "How To Actually BUILD With AI (The 4 Pillar System)",
+      "channel": "Builders Central",
+      "channelId": "UCevFnhyD9Ut5TwYdCLBh5UQ",
+      "handle": "@BuildersCentral",
+      "channelUrl": "https://www.youtube.com/@BuildersCentral",
+      "category": "Long + Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/7qJ0r9HiPno/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAE_HQTGj3meEbd2XRwLOw7CDYD1g",
+      "duration": "9:16",
+      "durationSeconds": 556,
+      "views": "3.4K views",
+      "viewCount": 3400,
+      "publishedAt": "2026-06-27T07:46:18Z",
+      "publishedLabel": "1 month ago",
+      "firstSeenAt": "2026-06-27T06:01:51Z",
+      "source": "primary",
+      "priority": 1,
+      "url": "https://www.youtube.com/watch?v=7qJ0r9HiPno",
+      "embedAllowed": true
     },
     {
       "id": "01mYICuCI_Q",
@@ -4717,12 +4823,13 @@
       "durationSeconds": 1607,
       "views": "8.9K views",
       "viewCount": 8900,
-      "publishedAt": "2026-06-27T06:53:24Z",
+      "publishedAt": "2026-06-27T07:46:18Z",
       "publishedLabel": "1 month ago",
       "firstSeenAt": "2026-06-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=01mYICuCI_Q"
+      "url": "https://www.youtube.com/watch?v=01mYICuCI_Q",
+      "embedAllowed": true
     },
     {
       "id": "RvoqMfNpkTs",
@@ -4738,12 +4845,13 @@
       "durationSeconds": 747,
       "views": "2.2K views",
       "viewCount": 2200,
-      "publishedAt": "2026-06-27T06:53:24Z",
+      "publishedAt": "2026-06-27T07:46:18Z",
       "publishedLabel": "1 month ago",
       "firstSeenAt": "2026-06-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=RvoqMfNpkTs"
+      "url": "https://www.youtube.com/watch?v=RvoqMfNpkTs",
+      "embedAllowed": true
     },
     {
       "id": "3dE7pWFGd7o",
@@ -4754,7 +4862,7 @@
       "handle": "@EricWTech",
       "channelUrl": "https://www.youtube.com/@EricWTech",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/3dE7pWFGd7o/frame0.jpg?usqp=CCc",
+      "thumbnail": "https://i.ytimg.com/vi/3dE7pWFGd7o/frame0.jpg",
       "duration": "1:00",
       "durationSeconds": 60,
       "views": "5.3K views",
@@ -4764,7 +4872,8 @@
       "firstSeenAt": "2026-06-25T22:29:40Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/3dE7pWFGd7o"
+      "url": "https://www.youtube.com/shorts/3dE7pWFGd7o",
+      "embedAllowed": true
     },
     {
       "id": "6LrrIxKexgs",
@@ -4775,7 +4884,7 @@
       "handle": "@krumjahn",
       "channelUrl": "https://www.youtube.com/@krumjahn",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/6LrrIxKexgs/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/6LrrIxKexgs/frame0.jpg?usqp=CBg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "1.0K views",
@@ -4785,7 +4894,8 @@
       "firstSeenAt": "2026-06-19T20:30:45Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/6LrrIxKexgs"
+      "url": "https://www.youtube.com/shorts/6LrrIxKexgs",
+      "embedAllowed": true
     },
     {
       "id": "vRff8Ilaqwo",
@@ -4796,17 +4906,18 @@
       "handle": "@krumjahn",
       "channelUrl": "https://www.youtube.com/@krumjahn",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/vRff8Ilaqwo/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/vRff8Ilaqwo/frame0.jpg?usqp=CBg",
       "duration": "Short",
       "durationSeconds": null,
-      "views": "981 views",
-      "viewCount": 981,
+      "views": "982 views",
+      "viewCount": 982,
       "publishedAt": "2026-06-19T12:41:57Z",
       "publishedLabel": "",
       "firstSeenAt": "2026-06-19T12:41:57Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/vRff8Ilaqwo"
+      "url": "https://www.youtube.com/shorts/vRff8Ilaqwo",
+      "embedAllowed": true
     },
     {
       "id": "p-r3HF6bqMk",
@@ -4817,7 +4928,7 @@
       "handle": "@krumjahn",
       "channelUrl": "https://www.youtube.com/@krumjahn",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/p-r3HF6bqMk/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/p-r3HF6bqMk/frame0.jpg?usqp=CBg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "1.1K views",
@@ -4827,7 +4938,8 @@
       "firstSeenAt": "2026-06-19T10:55:15Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/p-r3HF6bqMk"
+      "url": "https://www.youtube.com/shorts/p-r3HF6bqMk",
+      "embedAllowed": true
     },
     {
       "id": "wttQtw3jDVU",
@@ -4838,7 +4950,7 @@
       "handle": "@krumjahn",
       "channelUrl": "https://www.youtube.com/@krumjahn",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/wttQtw3jDVU/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgjqicPSBhjg6gQg4KgB&rs=AOn4CLDfJGgQea2tYVVKbY0txsmDVKdS5g&usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/wttQtw3jDVU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI34VDPEizUPpYaWJvQ_YdY0DwrQ",
       "duration": "34:53",
       "durationSeconds": 2093,
       "views": "23.0K views",
@@ -4848,7 +4960,8 @@
       "firstSeenAt": "2026-06-19T09:42:08Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=wttQtw3jDVU"
+      "url": "https://www.youtube.com/watch?v=wttQtw3jDVU",
+      "embedAllowed": true
     },
     {
       "id": "XyTCwLymuUg",
@@ -4869,7 +4982,8 @@
       "firstSeenAt": "2026-06-18T17:06:44Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=XyTCwLymuUg"
+      "url": "https://www.youtube.com/watch?v=XyTCwLymuUg",
+      "embedAllowed": true
     },
     {
       "id": "qN9Lx3qzacI",
@@ -4880,7 +4994,7 @@
       "handle": "@RakinJakaria",
       "channelUrl": "https://www.youtube.com/@RakinJakaria",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/qN9Lx3qzacI/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/qN9Lx3qzacI/frame0.jpg?usqp=CBg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "504 views",
@@ -4890,7 +5004,8 @@
       "firstSeenAt": "2026-06-14T17:39:31Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/qN9Lx3qzacI"
+      "url": "https://www.youtube.com/shorts/qN9Lx3qzacI",
+      "embedAllowed": true
     },
     {
       "id": "6i1ZGqQMPgc",
@@ -4911,7 +5026,8 @@
       "firstSeenAt": "2026-06-14T14:27:01Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=6i1ZGqQMPgc"
+      "url": "https://www.youtube.com/watch?v=6i1ZGqQMPgc",
+      "embedAllowed": true
     },
     {
       "id": "lvVzyXVgrRk",
@@ -4922,7 +5038,7 @@
       "handle": "@krumjahn",
       "channelUrl": "https://www.youtube.com/@krumjahn",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/lvVzyXVgrRk/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/lvVzyXVgrRk/frame0.jpg?usqp=CBg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "748 views",
@@ -4932,7 +5048,8 @@
       "firstSeenAt": "2026-06-13T09:18:36Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/lvVzyXVgrRk"
+      "url": "https://www.youtube.com/shorts/lvVzyXVgrRk",
+      "embedAllowed": true
     },
     {
       "id": "bolsAcrOUgI",
@@ -4943,7 +5060,7 @@
       "handle": "@krumjahn",
       "channelUrl": "https://www.youtube.com/@krumjahn",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/bolsAcrOUgI/frame0.jpg?usqp=CBc",
+      "thumbnail": "https://i.ytimg.com/vi/bolsAcrOUgI/frame0.jpg?usqp=CBg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "745 views",
@@ -4953,7 +5070,8 @@
       "firstSeenAt": "2026-06-13T04:18:28Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/bolsAcrOUgI"
+      "url": "https://www.youtube.com/shorts/bolsAcrOUgI",
+      "embedAllowed": true
     },
     {
       "id": "xVDDU6w4YZY",
@@ -4964,7 +5082,7 @@
       "handle": "@krumjahn",
       "channelUrl": "https://www.youtube.com/@krumjahn",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/xVDDU6w4YZY/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgjHoq_RBhjg6gQg4KgB&rs=AOn4CLBKpyFdVDWCVEdL3tx8fH53v9S7Gw&usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/xVDDU6w4YZY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-zAC7ygxHGKWQoNlxtkjA53la1w",
       "duration": "57:20",
       "durationSeconds": 3440,
       "views": "970 views",
@@ -4974,7 +5092,8 @@
       "firstSeenAt": "2026-06-12T08:19:38Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=xVDDU6w4YZY"
+      "url": "https://www.youtube.com/watch?v=xVDDU6w4YZY",
+      "embedAllowed": true
     },
     {
       "id": "1vXfyxuPlEU",
@@ -4985,7 +5104,7 @@
       "handle": "@piyushgargdev",
       "channelUrl": "https://www.youtube.com/@piyushgargdev",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/1vXfyxuPlEU/frame0.jpg?usqp=CBg",
+      "thumbnail": "https://i.ytimg.com/vi/1vXfyxuPlEU/frame0.jpg",
       "duration": "Short",
       "durationSeconds": null,
       "views": "23.0K views",
@@ -4995,7 +5114,8 @@
       "firstSeenAt": "2026-06-10T13:19:55Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/1vXfyxuPlEU"
+      "url": "https://www.youtube.com/shorts/1vXfyxuPlEU",
+      "embedAllowed": true
     },
     {
       "id": "2X2MU4-cVds",
@@ -5006,7 +5126,7 @@
       "handle": "@piyushgargdev",
       "channelUrl": "https://www.youtube.com/@piyushgargdev",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/2X2MU4-cVds/frame0.jpg?usqp=CBg",
+      "thumbnail": "https://i.ytimg.com/vi/2X2MU4-cVds/frame0.jpg",
       "duration": "1:18",
       "durationSeconds": 78,
       "views": "94.0K views",
@@ -5016,7 +5136,8 @@
       "firstSeenAt": "2026-06-09T16:30:35Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/2X2MU4-cVds"
+      "url": "https://www.youtube.com/shorts/2X2MU4-cVds",
+      "embedAllowed": true
     },
     {
       "id": "QCaAG8czkIU",
@@ -5027,7 +5148,7 @@
       "handle": "@piyushgargdev",
       "channelUrl": "https://www.youtube.com/@piyushgargdev",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/QCaAG8czkIU/frame0.jpg?usqp=CBg",
+      "thumbnail": "https://i.ytimg.com/vi/QCaAG8czkIU/frame0.jpg",
       "duration": "2:05",
       "durationSeconds": 125,
       "views": "40.0K views",
@@ -5037,7 +5158,8 @@
       "firstSeenAt": "2026-06-07T09:30:19Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/QCaAG8czkIU"
+      "url": "https://www.youtube.com/shorts/QCaAG8czkIU",
+      "embedAllowed": true
     },
     {
       "id": "N7z3bF0XFlI",
@@ -5048,7 +5170,7 @@
       "handle": "@RakinJakaria",
       "channelUrl": "https://www.youtube.com/@RakinJakaria",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/N7z3bF0XFlI/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/N7z3bF0XFlI/frame0.jpg?usqp=CBg",
       "duration": "0:30",
       "durationSeconds": 30,
       "views": "1.4K views",
@@ -5058,7 +5180,8 @@
       "firstSeenAt": "2026-06-05T18:30:04Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/N7z3bF0XFlI"
+      "url": "https://www.youtube.com/shorts/N7z3bF0XFlI",
+      "embedAllowed": true
     },
     {
       "id": "zdD9EtSF1rI",
@@ -5074,12 +5197,13 @@
       "durationSeconds": 490,
       "views": "1.3K views",
       "viewCount": 1300,
-      "publishedAt": "2026-05-28T06:53:24Z",
+      "publishedAt": "2026-05-28T07:46:18Z",
       "publishedLabel": "2 months ago",
       "firstSeenAt": "2026-05-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=zdD9EtSF1rI"
+      "url": "https://www.youtube.com/watch?v=zdD9EtSF1rI",
+      "embedAllowed": true
     },
     {
       "id": "bT-Nd5mpqHs",
@@ -5095,12 +5219,13 @@
       "durationSeconds": 341,
       "views": "4.3K views",
       "viewCount": 4300,
-      "publishedAt": "2026-05-28T06:53:24Z",
+      "publishedAt": "2026-05-28T07:46:18Z",
       "publishedLabel": "2 months ago",
       "firstSeenAt": "2026-05-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=bT-Nd5mpqHs"
+      "url": "https://www.youtube.com/watch?v=bT-Nd5mpqHs",
+      "embedAllowed": true
     },
     {
       "id": "pRtkjKD38SM",
@@ -5111,17 +5236,18 @@
       "handle": "@100xEngineers",
       "channelUrl": "https://www.youtube.com/@100xEngineers",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/pRtkjKD38SM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC9xg=&rs=AOn4CLCBCVyZmcnbnzjoHZC2AeDwGY8Aeg",
+      "thumbnail": "https://i.ytimg.com/vi/pRtkjKD38SM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-UVlUuqiQDh3DWvShnKCydu3HMw",
       "duration": "9:55",
       "durationSeconds": 595,
       "views": "81.0K views",
       "viewCount": 81000,
-      "publishedAt": "2026-05-28T06:53:24Z",
+      "publishedAt": "2026-05-28T07:46:18Z",
       "publishedLabel": "2 months ago",
       "firstSeenAt": "2026-05-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=pRtkjKD38SM"
+      "url": "https://www.youtube.com/watch?v=pRtkjKD38SM",
+      "embedAllowed": true
     },
     {
       "id": "ZEgDvtCZyqc",
@@ -5137,12 +5263,13 @@
       "durationSeconds": 704,
       "views": "379 views",
       "viewCount": 379,
-      "publishedAt": "2026-05-28T06:53:24Z",
+      "publishedAt": "2026-05-28T07:46:18Z",
       "publishedLabel": "2 months ago",
       "firstSeenAt": "2026-05-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=ZEgDvtCZyqc"
+      "url": "https://www.youtube.com/watch?v=ZEgDvtCZyqc",
+      "embedAllowed": true
     },
     {
       "id": "SBA5Qxkj7-o",
@@ -5153,17 +5280,18 @@
       "handle": "@krumjahn",
       "channelUrl": "https://www.youtube.com/@krumjahn",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/SBA5Qxkj7-o/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgjKyZPQBhjg6gQg4KgB&rs=AOn4CLDp62P-gXhTOFo9IEgcxoXBc4UOCQ&usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/SBA5Qxkj7-o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAif2qS000SPSdNY3TSAsEwZutrmA",
       "duration": "43:11",
       "durationSeconds": 2591,
       "views": "39.0K views",
       "viewCount": 39000,
-      "publishedAt": "2026-05-28T06:53:24Z",
+      "publishedAt": "2026-05-28T07:46:18Z",
       "publishedLabel": "2 months ago",
       "firstSeenAt": "2026-05-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=SBA5Qxkj7-o"
+      "url": "https://www.youtube.com/watch?v=SBA5Qxkj7-o",
+      "embedAllowed": true
     },
     {
       "id": "IpLvNBo6FKg",
@@ -5179,12 +5307,13 @@
       "durationSeconds": 541,
       "views": "4.7K views",
       "viewCount": 4700,
-      "publishedAt": "2026-05-28T06:53:24Z",
+      "publishedAt": "2026-05-28T07:46:18Z",
       "publishedLabel": "2 months ago",
       "firstSeenAt": "2026-05-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=IpLvNBo6FKg"
+      "url": "https://www.youtube.com/watch?v=IpLvNBo6FKg",
+      "embedAllowed": true
     },
     {
       "id": "66Gk8M3Eh6w",
@@ -5195,7 +5324,7 @@
       "handle": "@krumjahn",
       "channelUrl": "https://www.youtube.com/@krumjahn",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/66Gk8M3Eh6w/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgink4LRBhjg6gQg4KgB&rs=AOn4CLArl_M8EPA9saaJtT2TtHjXAooN1g&usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/66Gk8M3Eh6w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFgKy29F4U5K_4ZW_KbCK7A8kjgQ",
       "duration": "33:38",
       "durationSeconds": 2018,
       "views": "4.6K views",
@@ -5205,7 +5334,8 @@
       "firstSeenAt": "2026-05-25T07:24:39Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=66Gk8M3Eh6w"
+      "url": "https://www.youtube.com/watch?v=66Gk8M3Eh6w",
+      "embedAllowed": true
     },
     {
       "id": "Y82jatd23gc",
@@ -5226,7 +5356,8 @@
       "firstSeenAt": "2026-05-22T08:48:20Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/Y82jatd23gc"
+      "url": "https://www.youtube.com/shorts/Y82jatd23gc",
+      "embedAllowed": true
     },
     {
       "id": "nMwce1wtyRQ",
@@ -5247,7 +5378,8 @@
       "firstSeenAt": "2026-05-21T20:55:41Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/nMwce1wtyRQ"
+      "url": "https://www.youtube.com/shorts/nMwce1wtyRQ",
+      "embedAllowed": true
     },
     {
       "id": "Ei5QnJlGVxc",
@@ -5258,7 +5390,7 @@
       "handle": "@hasanaboulhasan",
       "channelUrl": "https://www.youtube.com/@hasanaboulhasan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/Ei5QnJlGVxc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHtAjGFkx7lRUNX8ioPxsV_KasXg",
+      "thumbnail": "https://i.ytimg.com/vi/Ei5QnJlGVxc/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgje6NHQBhjg6gQg4KgB&rs=AOn4CLB_CEwgEfY9V5L8oFpkQmDQd_rcAA&usqp=CBk",
       "duration": "4:38",
       "durationSeconds": 278,
       "views": "84.0K views",
@@ -5268,7 +5400,8 @@
       "firstSeenAt": "2026-05-18T12:31:43Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=Ei5QnJlGVxc"
+      "url": "https://www.youtube.com/watch?v=Ei5QnJlGVxc",
+      "embedAllowed": true
     },
     {
       "id": "eLtyyibO8n8",
@@ -5289,7 +5422,8 @@
       "firstSeenAt": "2026-05-11T17:28:43Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/eLtyyibO8n8"
+      "url": "https://www.youtube.com/shorts/eLtyyibO8n8",
+      "embedAllowed": true
     },
     {
       "id": "9zegOfX_9LY",
@@ -5310,7 +5444,8 @@
       "firstSeenAt": "2026-05-08T16:54:03Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/9zegOfX_9LY"
+      "url": "https://www.youtube.com/shorts/9zegOfX_9LY",
+      "embedAllowed": true
     },
     {
       "id": "9MXjF0IxB2A",
@@ -5331,7 +5466,8 @@
       "firstSeenAt": "2026-07-27T06:28:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/9MXjF0IxB2A"
+      "url": "https://www.youtube.com/shorts/9MXjF0IxB2A",
+      "embedAllowed": true
     },
     {
       "id": "Aj2LoQ8hcSQ",
@@ -5342,7 +5478,7 @@
       "handle": "@hasanaboulhasan",
       "channelUrl": "https://www.youtube.com/@hasanaboulhasan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/Aj2LoQ8hcSQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmSEHZ9L9VupcFwxIE5wjZFKr0qQ",
+      "thumbnail": "https://i.ytimg.com/vi/Aj2LoQ8hcSQ/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgicgKTQBhjg6gQg4KgB&rs=AOn4CLAwBNLgy9IAo8sHEdeX6BjVnruw2w&usqp=CBk",
       "duration": "5:54",
       "durationSeconds": 354,
       "views": "50.0K views",
@@ -5352,7 +5488,8 @@
       "firstSeenAt": "2026-05-02T17:09:10Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=Aj2LoQ8hcSQ"
+      "url": "https://www.youtube.com/watch?v=Aj2LoQ8hcSQ",
+      "embedAllowed": true
     },
     {
       "id": "WUrBMWU79Q0",
@@ -5363,7 +5500,7 @@
       "handle": "@piyushgargdev",
       "channelUrl": "https://www.youtube.com/@piyushgargdev",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/WUrBMWU79Q0/frame0.jpg?usqp=CBg",
+      "thumbnail": "https://i.ytimg.com/vi/WUrBMWU79Q0/frame0.jpg",
       "duration": "1:57",
       "durationSeconds": 117,
       "views": "27.0K views",
@@ -5373,7 +5510,8 @@
       "firstSeenAt": "2026-07-27T06:28:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/WUrBMWU79Q0"
+      "url": "https://www.youtube.com/shorts/WUrBMWU79Q0",
+      "embedAllowed": true
     },
     {
       "id": "EmF06O4vOWI",
@@ -5384,17 +5522,18 @@
       "handle": "@krumjahn",
       "channelUrl": "https://www.youtube.com/@krumjahn",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/EmF06O4vOWI/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgjjm9HQBhjg6gQg4KgB&rs=AOn4CLCVXiR8emVdG9t6Lt5aVRMLieonkg&usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/EmF06O4vOWI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDssmEPPrNn_H8d5ny-faE8HYd4bg",
       "duration": "41:59",
       "durationSeconds": 2519,
       "views": "79.0K views",
       "viewCount": 79000,
-      "publishedAt": "2026-04-28T06:53:24Z",
+      "publishedAt": "2026-04-28T07:46:18Z",
       "publishedLabel": "3 months ago",
       "firstSeenAt": "2026-04-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=EmF06O4vOWI"
+      "url": "https://www.youtube.com/watch?v=EmF06O4vOWI",
+      "embedAllowed": true
     },
     {
       "id": "qF-_NEpf5Pg",
@@ -5405,7 +5544,7 @@
       "handle": "@brendanautomation",
       "channelUrl": "https://www.youtube.com/@brendanautomation",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/qF-_NEpf5Pg/frame0.jpg?usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/qF-_NEpf5Pg/frame0.jpg",
       "duration": "0:47",
       "durationSeconds": 47,
       "views": "952 views",
@@ -5415,7 +5554,8 @@
       "firstSeenAt": "2026-04-27T10:42:12Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/qF-_NEpf5Pg"
+      "url": "https://www.youtube.com/shorts/qF-_NEpf5Pg",
+      "embedAllowed": true
     },
     {
       "id": "8M6PBmpg1Rc",
@@ -5426,7 +5566,7 @@
       "handle": "@RakinJakaria",
       "channelUrl": "https://www.youtube.com/@RakinJakaria",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/8M6PBmpg1Rc/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/8M6PBmpg1Rc/frame0.jpg?usqp=CBg",
       "duration": "1:10",
       "durationSeconds": 70,
       "views": "366 views",
@@ -5436,7 +5576,8 @@
       "firstSeenAt": "2026-04-24T20:40:11Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/8M6PBmpg1Rc"
+      "url": "https://www.youtube.com/shorts/8M6PBmpg1Rc",
+      "embedAllowed": true
     },
     {
       "id": "X44tJUBA4tE",
@@ -5457,7 +5598,8 @@
       "firstSeenAt": "2026-04-24T07:29:27Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/X44tJUBA4tE"
+      "url": "https://www.youtube.com/shorts/X44tJUBA4tE",
+      "embedAllowed": true
     },
     {
       "id": "FwXrErEhr3M",
@@ -5468,7 +5610,7 @@
       "handle": "@hasanaboulhasan",
       "channelUrl": "https://www.youtube.com/@hasanaboulhasan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/FwXrErEhr3M/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/FwXrErEhr3M/frame0.jpg?usqp=CCc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "8.8K views",
@@ -5478,7 +5620,8 @@
       "firstSeenAt": "2026-04-21T17:13:27Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/FwXrErEhr3M"
+      "url": "https://www.youtube.com/shorts/FwXrErEhr3M",
+      "embedAllowed": true
     },
     {
       "id": "OUtOEcyiSOU",
@@ -5489,7 +5632,7 @@
       "handle": "@piyushgargdev",
       "channelUrl": "https://www.youtube.com/@piyushgargdev",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/OUtOEcyiSOU/frame0.jpg?usqp=CBg",
+      "thumbnail": "https://i.ytimg.com/vi/OUtOEcyiSOU/frame0.jpg",
       "duration": "2:19",
       "durationSeconds": 139,
       "views": "40.0K views",
@@ -5499,7 +5642,8 @@
       "firstSeenAt": "2026-07-27T06:28:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/OUtOEcyiSOU"
+      "url": "https://www.youtube.com/shorts/OUtOEcyiSOU",
+      "embedAllowed": true
     },
     {
       "id": "UgIOSCzwc60",
@@ -5510,7 +5654,7 @@
       "handle": "@hasanaboulhasan",
       "channelUrl": "https://www.youtube.com/@hasanaboulhasan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/UgIOSCzwc60/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxCdNfdqOu5xZszrU5Zyu1bw34Og",
+      "thumbnail": "https://i.ytimg.com/vi/UgIOSCzwc60/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGaLzl_8DDgjp3eHPBhjg6gQg4KgB&rs=AOn4CLD41kH2ypuP_vv8YhVlnQq3Az-DmQ&usqp=CBk",
       "duration": "6:40",
       "durationSeconds": 400,
       "views": "20.0K views",
@@ -5520,7 +5664,8 @@
       "firstSeenAt": "2026-04-20T15:52:10Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=UgIOSCzwc60"
+      "url": "https://www.youtube.com/watch?v=UgIOSCzwc60",
+      "embedAllowed": true
     },
     {
       "id": "QjeZmyhxPFA",
@@ -5531,7 +5676,7 @@
       "handle": "@RakinJakaria",
       "channelUrl": "https://www.youtube.com/@RakinJakaria",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/QjeZmyhxPFA/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/QjeZmyhxPFA/frame0.jpg?usqp=CBg",
       "duration": "0:37",
       "durationSeconds": 37,
       "views": "925 views",
@@ -5541,7 +5686,8 @@
       "firstSeenAt": "2026-07-27T06:28:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/QjeZmyhxPFA"
+      "url": "https://www.youtube.com/shorts/QjeZmyhxPFA",
+      "embedAllowed": true
     },
     {
       "id": "KM4u4NMlt0k",
@@ -5552,7 +5698,7 @@
       "handle": "@hasanaboulhasan",
       "channelUrl": "https://www.youtube.com/@hasanaboulhasan",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/KM4u4NMlt0k/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/KM4u4NMlt0k/frame0.jpg?usqp=CCc",
       "duration": "Short",
       "durationSeconds": null,
       "views": "9.5K views",
@@ -5562,7 +5708,8 @@
       "firstSeenAt": "2026-04-17T17:35:33Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/KM4u4NMlt0k"
+      "url": "https://www.youtube.com/shorts/KM4u4NMlt0k",
+      "embedAllowed": true
     },
     {
       "id": "EeY8wqJ5BOI",
@@ -5583,7 +5730,8 @@
       "firstSeenAt": "2026-04-11T15:50:54Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/EeY8wqJ5BOI"
+      "url": "https://www.youtube.com/shorts/EeY8wqJ5BOI",
+      "embedAllowed": true
     },
     {
       "id": "0KtjCXDdm00",
@@ -5594,7 +5742,7 @@
       "handle": "@RakinJakaria",
       "channelUrl": "https://www.youtube.com/@RakinJakaria",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/0KtjCXDdm00/frame0.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/0KtjCXDdm00/frame0.jpg?usqp=CBg",
       "duration": "0:53",
       "durationSeconds": 53,
       "views": "1.4K views",
@@ -5604,7 +5752,8 @@
       "firstSeenAt": "2026-07-27T06:28:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/0KtjCXDdm00"
+      "url": "https://www.youtube.com/shorts/0KtjCXDdm00",
+      "embedAllowed": true
     },
     {
       "id": "gmuCcOdOCis",
@@ -5615,7 +5764,7 @@
       "handle": "@brendanautomation",
       "channelUrl": "https://www.youtube.com/@brendanautomation",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/gmuCcOdOCis/frame0.jpg?usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/gmuCcOdOCis/frame0.jpg",
       "duration": "1:15",
       "durationSeconds": 75,
       "views": "621 views",
@@ -5625,7 +5774,8 @@
       "firstSeenAt": "2026-04-09T11:12:23Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/gmuCcOdOCis"
+      "url": "https://www.youtube.com/shorts/gmuCcOdOCis",
+      "embedAllowed": true
     },
     {
       "id": "TOnKX9OYmjg",
@@ -5646,7 +5796,8 @@
       "firstSeenAt": "2026-03-30T09:33:42Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/TOnKX9OYmjg"
+      "url": "https://www.youtube.com/shorts/TOnKX9OYmjg",
+      "embedAllowed": true
     },
     {
       "id": "bedNmIk7Kt4",
@@ -5667,7 +5818,8 @@
       "firstSeenAt": "2026-03-25T09:08:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/bedNmIk7Kt4"
+      "url": "https://www.youtube.com/shorts/bedNmIk7Kt4",
+      "embedAllowed": true
     },
     {
       "id": "uRfsxKFeU34",
@@ -5683,12 +5835,13 @@
       "durationSeconds": 594,
       "views": "603 views",
       "viewCount": 603,
-      "publishedAt": "2026-02-27T06:53:24Z",
+      "publishedAt": "2026-02-27T07:46:18Z",
       "publishedLabel": "5 months ago",
       "firstSeenAt": "2026-02-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=uRfsxKFeU34"
+      "url": "https://www.youtube.com/watch?v=uRfsxKFeU34",
+      "embedAllowed": true
     },
     {
       "id": "6b-jD2kazZQ",
@@ -5704,12 +5857,13 @@
       "durationSeconds": 1634,
       "views": "760 views",
       "viewCount": 760,
-      "publishedAt": "2026-02-27T06:53:24Z",
+      "publishedAt": "2026-02-27T07:46:18Z",
       "publishedLabel": "5 months ago",
       "firstSeenAt": "2026-02-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=6b-jD2kazZQ"
+      "url": "https://www.youtube.com/watch?v=6b-jD2kazZQ",
+      "embedAllowed": true
     },
     {
       "id": "On_sbp-q3pU",
@@ -5720,7 +5874,7 @@
       "handle": "@brendanautomation",
       "channelUrl": "https://www.youtube.com/@brendanautomation",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/On_sbp-q3pU/frame0.jpg?usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/On_sbp-q3pU/frame0.jpg",
       "duration": "1:51",
       "durationSeconds": 111,
       "views": "1.6K views",
@@ -5730,7 +5884,8 @@
       "firstSeenAt": "2026-07-27T06:28:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/On_sbp-q3pU"
+      "url": "https://www.youtube.com/shorts/On_sbp-q3pU",
+      "embedAllowed": true
     },
     {
       "id": "RDGUDkb05R0",
@@ -5741,7 +5896,7 @@
       "handle": "@brendanautomation",
       "channelUrl": "https://www.youtube.com/@brendanautomation",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/RDGUDkb05R0/frame0.jpg?usqp=CBk",
+      "thumbnail": "https://i.ytimg.com/vi/RDGUDkb05R0/frame0.jpg",
       "duration": "1:04",
       "durationSeconds": 64,
       "views": "1.4K views",
@@ -5751,7 +5906,8 @@
       "firstSeenAt": "2026-07-27T06:28:09Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/shorts/RDGUDkb05R0"
+      "url": "https://www.youtube.com/shorts/RDGUDkb05R0",
+      "embedAllowed": true
     },
     {
       "id": "9jJ7FwWQJ20",
@@ -5767,12 +5923,13 @@
       "durationSeconds": 1628,
       "views": "4.0K views",
       "viewCount": 4000,
-      "publishedAt": "2026-01-28T06:53:24Z",
+      "publishedAt": "2026-01-28T07:46:18Z",
       "publishedLabel": "6 months ago",
       "firstSeenAt": "2026-01-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=9jJ7FwWQJ20"
+      "url": "https://www.youtube.com/watch?v=9jJ7FwWQJ20",
+      "embedAllowed": true
     },
     {
       "id": "IHZzuo7p6fs",
@@ -5788,12 +5945,13 @@
       "durationSeconds": 407,
       "views": "52.0K views",
       "viewCount": 52000,
-      "publishedAt": "2026-01-28T06:53:24Z",
+      "publishedAt": "2026-01-28T07:46:18Z",
       "publishedLabel": "6 months ago",
       "firstSeenAt": "2026-01-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=IHZzuo7p6fs"
+      "url": "https://www.youtube.com/watch?v=IHZzuo7p6fs",
+      "embedAllowed": true
     },
     {
       "id": "ilMwSMCA8Hc",
@@ -5809,12 +5967,13 @@
       "durationSeconds": 407,
       "views": "51.0K views",
       "viewCount": 51000,
-      "publishedAt": "2025-12-29T06:53:24Z",
+      "publishedAt": "2025-12-29T07:46:18Z",
       "publishedLabel": "7 months ago",
       "firstSeenAt": "2025-12-29T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=ilMwSMCA8Hc"
+      "url": "https://www.youtube.com/watch?v=ilMwSMCA8Hc",
+      "embedAllowed": true
     },
     {
       "id": "OiPHo1ms9ZQ",
@@ -5830,12 +5989,13 @@
       "durationSeconds": 509,
       "views": "128.0K views",
       "viewCount": 128000,
-      "publishedAt": "2025-12-29T06:53:24Z",
+      "publishedAt": "2025-12-29T07:46:18Z",
       "publishedLabel": "7 months ago",
       "firstSeenAt": "2025-12-29T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=OiPHo1ms9ZQ"
+      "url": "https://www.youtube.com/watch?v=OiPHo1ms9ZQ",
+      "embedAllowed": true
     },
     {
       "id": "tq3uxSW3arw",
@@ -5851,12 +6011,13 @@
       "durationSeconds": 562,
       "views": "260 views",
       "viewCount": 260,
-      "publishedAt": "2025-08-31T06:53:24Z",
+      "publishedAt": "2025-08-31T07:46:18Z",
       "publishedLabel": "11 months ago",
       "firstSeenAt": "2025-08-31T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=tq3uxSW3arw"
+      "url": "https://www.youtube.com/watch?v=tq3uxSW3arw",
+      "embedAllowed": true
     },
     {
       "id": "gAaq5FtNQ2g",
@@ -5872,12 +6033,13 @@
       "durationSeconds": 576,
       "views": "2.9K views",
       "viewCount": 2900,
-      "publishedAt": "2025-07-27T06:53:24Z",
+      "publishedAt": "2025-07-27T07:46:18Z",
       "publishedLabel": "1 year ago",
       "firstSeenAt": "2025-07-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=gAaq5FtNQ2g"
+      "url": "https://www.youtube.com/watch?v=gAaq5FtNQ2g",
+      "embedAllowed": true
     },
     {
       "id": "iy7EVjY39rg",
@@ -5893,12 +6055,13 @@
       "durationSeconds": 635,
       "views": "117 views",
       "viewCount": 117,
-      "publishedAt": "2025-07-27T06:53:24Z",
+      "publishedAt": "2025-07-27T07:46:18Z",
       "publishedLabel": "1 year ago",
       "firstSeenAt": "2025-07-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=iy7EVjY39rg"
+      "url": "https://www.youtube.com/watch?v=iy7EVjY39rg",
+      "embedAllowed": true
     },
     {
       "id": "XO5nKxax-cU",
@@ -5914,12 +6077,13 @@
       "durationSeconds": 239,
       "views": "545 views",
       "viewCount": 545,
-      "publishedAt": "2025-07-27T06:53:24Z",
+      "publishedAt": "2025-07-27T07:46:18Z",
       "publishedLabel": "1 year ago",
       "firstSeenAt": "2025-07-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=XO5nKxax-cU"
+      "url": "https://www.youtube.com/watch?v=XO5nKxax-cU",
+      "embedAllowed": true
     },
     {
       "id": "anNTX_fLwuw",
@@ -5935,12 +6099,13 @@
       "durationSeconds": 447,
       "views": "99 views",
       "viewCount": 99,
-      "publishedAt": "2025-07-27T06:53:24Z",
+      "publishedAt": "2025-07-27T07:46:18Z",
       "publishedLabel": "1 year ago",
       "firstSeenAt": "2025-07-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=anNTX_fLwuw"
+      "url": "https://www.youtube.com/watch?v=anNTX_fLwuw",
+      "embedAllowed": true
     },
     {
       "id": "_WP_F9Ic-Us",
@@ -5956,12 +6121,13 @@
       "durationSeconds": 244,
       "views": "167 views",
       "viewCount": 167,
-      "publishedAt": "2025-07-27T06:53:24Z",
+      "publishedAt": "2025-07-27T07:46:18Z",
       "publishedLabel": "1 year ago",
       "firstSeenAt": "2025-07-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=_WP_F9Ic-Us"
+      "url": "https://www.youtube.com/watch?v=_WP_F9Ic-Us",
+      "embedAllowed": true
     },
     {
       "id": "DhZK1eQVCHg",
@@ -5977,12 +6143,13 @@
       "durationSeconds": 187,
       "views": "354 views",
       "viewCount": 354,
-      "publishedAt": "2025-07-27T06:53:24Z",
+      "publishedAt": "2025-07-27T07:46:18Z",
       "publishedLabel": "1 year ago",
       "firstSeenAt": "2025-07-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=DhZK1eQVCHg"
+      "url": "https://www.youtube.com/watch?v=DhZK1eQVCHg",
+      "embedAllowed": true
     },
     {
       "id": "2bJ73l7HN54",
@@ -5993,17 +6160,18 @@
       "handle": "@professorofai.official",
       "channelUrl": "https://www.youtube.com/@professorofai.official",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/2bJ73l7HN54/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFGQxSL8T4FwX34k4br-LXfLJP1A",
+      "thumbnail": "https://i.ytimg.com/vi/2bJ73l7HN54/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGKLzl_8DCgi9o8S8BhjgqAE=&rs=AOn4CLD8AnZeGFGYcJJoDCbtGD80SQ2aMQ&usqp=CBg",
       "duration": "12:51",
       "durationSeconds": 771,
       "views": "568.0K views",
       "viewCount": 568000,
-      "publishedAt": "2025-07-27T06:53:24Z",
+      "publishedAt": "2025-07-27T07:46:18Z",
       "publishedLabel": "1 year ago",
       "firstSeenAt": "2025-07-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=2bJ73l7HN54"
+      "url": "https://www.youtube.com/watch?v=2bJ73l7HN54",
+      "embedAllowed": true
     },
     {
       "id": "3YlmE4umkJA",
@@ -6019,12 +6187,13 @@
       "durationSeconds": 4294,
       "views": "3.4K views",
       "viewCount": 3400,
-      "publishedAt": "2024-07-27T06:53:24Z",
+      "publishedAt": "2024-07-27T07:46:18Z",
       "publishedLabel": "2 years ago",
       "firstSeenAt": "2024-07-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=3YlmE4umkJA"
+      "url": "https://www.youtube.com/watch?v=3YlmE4umkJA",
+      "embedAllowed": true
     },
     {
       "id": "XdeuNQZPrdI",
@@ -6040,12 +6209,13 @@
       "durationSeconds": 649,
       "views": "104.0K views",
       "viewCount": 104000,
-      "publishedAt": "2024-07-27T06:53:24Z",
+      "publishedAt": "2024-07-27T07:46:18Z",
       "publishedLabel": "2 years ago",
       "firstSeenAt": "2024-07-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=XdeuNQZPrdI"
+      "url": "https://www.youtube.com/watch?v=XdeuNQZPrdI",
+      "embedAllowed": true
     },
     {
       "id": "JKn4rXQHTlw",
@@ -6056,38 +6226,40 @@
       "handle": "@professorofai.official",
       "channelUrl": "https://www.youtube.com/@professorofai.official",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/JKn4rXQHTlw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ94R-7EvkGVq0aZdFINfTT2lWLw",
+      "thumbnail": "https://i.ytimg.com/vi/JKn4rXQHTlw/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGKLzl_8DCgiI7NO0BhjgqAE=&rs=AOn4CLCrPWF6E4_gxQy-HEV-jYAwajow9g&usqp=CBg",
       "duration": "18:21",
       "durationSeconds": 1101,
       "views": "507.0K views",
       "viewCount": 507000,
-      "publishedAt": "2024-07-27T06:53:24Z",
+      "publishedAt": "2024-07-27T07:46:18Z",
       "publishedLabel": "2 years ago",
       "firstSeenAt": "2024-07-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=JKn4rXQHTlw"
+      "url": "https://www.youtube.com/watch?v=JKn4rXQHTlw",
+      "embedAllowed": true
     },
     {
       "id": "8YyVk-W22Ak",
       "type": "long",
-      "title": "Will AI Take Your Jobs?",
+      "title": "Will AI take your Jobs?",
       "channel": "Professor of AI",
       "channelId": "UCM8c-d9_dBw6nVJpqltKgEQ",
       "handle": "@professorofai.official",
       "channelUrl": "https://www.youtube.com/@professorofai.official",
       "category": "Long + Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/8YyVk-W22Ak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB02wMdR5thN2_a56_KqHlmAWcenQ",
+      "thumbnail": "https://i.ytimg.com/vi/8YyVk-W22Ak/hqdefault.jpg?sqp=-oaymwEfCNACELwBSFXyq4qpAxEIARUAAIhCGAFwAcABBrgCGKLzl_8DCgjmvp60BhjgqAE=&rs=AOn4CLBYWut1e_zteOmkDluAjBQPB_nKcA&usqp=CBg",
       "duration": "23:20",
       "durationSeconds": 1400,
       "views": "336.0K views",
       "viewCount": 336000,
-      "publishedAt": "2024-07-27T06:53:24Z",
+      "publishedAt": "2024-07-27T07:46:18Z",
       "publishedLabel": "2 years ago",
       "firstSeenAt": "2024-07-27T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=8YyVk-W22Ak"
+      "url": "https://www.youtube.com/watch?v=8YyVk-W22Ak",
+      "embedAllowed": true
     },
     {
       "id": "utF_uaBvTRc",
@@ -6103,12 +6275,13 @@
       "durationSeconds": 447,
       "views": "63 views",
       "viewCount": 63,
-      "publishedAt": "2023-07-28T06:53:24Z",
+      "publishedAt": "2023-07-28T07:46:18Z",
       "publishedLabel": "3 years ago",
       "firstSeenAt": "2023-07-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=utF_uaBvTRc"
+      "url": "https://www.youtube.com/watch?v=utF_uaBvTRc",
+      "embedAllowed": true
     },
     {
       "id": "yuIsJp1Wn9I",
@@ -6124,12 +6297,13 @@
       "durationSeconds": 182,
       "views": "38 views",
       "viewCount": 38,
-      "publishedAt": "2023-07-28T06:53:24Z",
+      "publishedAt": "2023-07-28T07:46:18Z",
       "publishedLabel": "3 years ago",
       "firstSeenAt": "2023-07-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=yuIsJp1Wn9I"
+      "url": "https://www.youtube.com/watch?v=yuIsJp1Wn9I",
+      "embedAllowed": true
     },
     {
       "id": "59lKAVx5vO0",
@@ -6145,12 +6319,13 @@
       "durationSeconds": 431,
       "views": "77 views",
       "viewCount": 77,
-      "publishedAt": "2023-07-28T06:53:24Z",
+      "publishedAt": "2023-07-28T07:46:18Z",
       "publishedLabel": "3 years ago",
       "firstSeenAt": "2023-07-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=59lKAVx5vO0"
+      "url": "https://www.youtube.com/watch?v=59lKAVx5vO0",
+      "embedAllowed": true
     },
     {
       "id": "lv6jQ2nqC9w",
@@ -6166,12 +6341,36 @@
       "durationSeconds": 929,
       "views": "103 views",
       "viewCount": 103,
-      "publishedAt": "2023-07-28T06:53:24Z",
+      "publishedAt": "2023-07-28T07:46:18Z",
       "publishedLabel": "3 years ago",
       "firstSeenAt": "2023-07-28T06:01:51Z",
       "source": "primary",
       "priority": 1,
-      "url": "https://www.youtube.com/watch?v=lv6jQ2nqC9w"
+      "url": "https://www.youtube.com/watch?v=lv6jQ2nqC9w",
+      "embedAllowed": true
+    },
+    {
+      "id": "3BfKWzwLNB8",
+      "type": "long",
+      "title": "Top 6 AI Trends for 2026 🚀 | The Future of Artificial Intelligence Starts Now!",
+      "channel": "NextMind",
+      "channelId": "UChJ-e2Vj-zvzMFiPxLBAbRw",
+      "handle": "@Next--Mind--AI9",
+      "channelUrl": "https://www.youtube.com/channel/UChJ-e2Vj-zvzMFiPxLBAbRw",
+      "category": "Topic discovery",
+      "thumbnail": "https://i.ytimg.com/vi/3BfKWzwLNB8/hq720_custom_1.jpg?sqp=CPyYnNMG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDntX-Rr_zrwQpoA5IKrezYGU5SVQ",
+      "duration": "11:13",
+      "durationSeconds": 673,
+      "views": "0 views",
+      "viewCount": 0,
+      "publishedAt": "2026-07-27T07:09:18Z",
+      "publishedLabel": "37 minutes ago",
+      "firstSeenAt": "2026-07-27T07:24:18Z",
+      "source": "secondary",
+      "priority": 99,
+      "topic": "generative AI tools",
+      "url": "https://www.youtube.com/watch?v=3BfKWzwLNB8",
+      "embedAllowed": true
     },
     {
       "id": "2iqBdB4PdcE",
@@ -6193,7 +6392,8 @@
       "source": "secondary",
       "priority": 99,
       "topic": "AI agents",
-      "url": "https://www.youtube.com/watch?v=2iqBdB4PdcE"
+      "url": "https://www.youtube.com/watch?v=2iqBdB4PdcE",
+      "embedAllowed": true
     },
     {
       "id": "3dThL-OwxRo",
@@ -6215,7 +6415,8 @@
       "source": "secondary",
       "priority": 99,
       "topic": "AI agents",
-      "url": "https://www.youtube.com/shorts/3dThL-OwxRo"
+      "url": "https://www.youtube.com/shorts/3dThL-OwxRo",
+      "embedAllowed": true
     },
     {
       "id": "-2NwXWGSZKs",
@@ -6229,15 +6430,16 @@
       "thumbnail": "https://i.ytimg.com/vi/-2NwXWGSZKs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9xrgDIuvwwqoWaWB1kRpBAGdHhg",
       "duration": "16:36",
       "durationSeconds": 996,
-      "views": "10.6K views",
-      "viewCount": 10607,
-      "publishedAt": "2026-07-26T22:53:24Z",
-      "publishedLabel": "8 hours ago",
+      "views": "11.5K views",
+      "viewCount": 11537,
+      "publishedAt": "2026-07-26T22:46:18Z",
+      "publishedLabel": "9 hours ago",
       "firstSeenAt": "2026-07-26T23:01:51Z",
       "source": "secondary",
       "priority": 99,
-      "topic": "AI agents",
-      "url": "https://www.youtube.com/watch?v=-2NwXWGSZKs"
+      "topic": "generative AI tools",
+      "url": "https://www.youtube.com/watch?v=-2NwXWGSZKs",
+      "embedAllowed": true
     },
     {
       "id": "CHEMPZ87FLw",
@@ -6259,7 +6461,8 @@
       "source": "secondary",
       "priority": 99,
       "topic": "AI agents",
-      "url": "https://www.youtube.com/watch?v=CHEMPZ87FLw"
+      "url": "https://www.youtube.com/watch?v=CHEMPZ87FLw",
+      "embedAllowed": true
     },
     {
       "id": "tMfpvtY2_FE",
@@ -6281,7 +6484,77 @@
       "source": "secondary",
       "priority": 99,
       "topic": "AI agents",
-      "url": "https://www.youtube.com/watch?v=tMfpvtY2_FE"
+      "url": "https://www.youtube.com/watch?v=tMfpvtY2_FE",
+      "embedAllowed": true
+    },
+    {
+      "id": "2uk9v3DDBEo",
+      "type": "long",
+      "title": "Open-Source LLM Masters 3D Design, NVIDIA ARDY & MageFlow by Microsoft – 3D AI News #16",
+      "channel": "Stefan 3D AI and PixelArtistry",
+      "channelId": "",
+      "handle": "",
+      "channelUrl": "",
+      "category": "Topic discovery",
+      "thumbnail": "https://i.ytimg.com/vi/2uk9v3DDBEo/hq720_custom_1.jpg?sqp=CPyYnNMG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvHm54k8OWdmxmQ4NDtsWwVW4dkg",
+      "duration": "11:33",
+      "durationSeconds": 693,
+      "views": "5.6K views",
+      "viewCount": 5581,
+      "publishedAt": "2026-07-26T16:46:18Z",
+      "publishedLabel": "15 hours ago",
+      "firstSeenAt": "2026-07-27T07:24:18Z",
+      "source": "secondary",
+      "priority": 99,
+      "topic": "generative AI tools",
+      "url": "https://www.youtube.com/watch?v=2uk9v3DDBEo",
+      "embedAllowed": true
+    },
+    {
+      "id": "x680H2KxaAc",
+      "type": "long",
+      "title": "This Agentic AI Resume Gets You Big Tech Interviews! 😮",
+      "channel": "DSwithBappy",
+      "channelId": "UCJDWj0B_-Rzi9tdemSzl-bw",
+      "handle": "@dswithbappy",
+      "channelUrl": "https://www.youtube.com/channel/UCJDWj0B_-Rzi9tdemSzl-bw",
+      "category": "Topic discovery",
+      "thumbnail": "https://i.ytimg.com/vi/x680H2KxaAc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYfH_NiF8GxCzaqsQiv--umTecDw",
+      "duration": "52:19",
+      "durationSeconds": 3139,
+      "views": "933 views",
+      "viewCount": 933,
+      "publishedAt": "2026-07-26T15:46:18Z",
+      "publishedLabel": "16 hours ago",
+      "firstSeenAt": "2026-07-27T07:24:18Z",
+      "source": "secondary",
+      "priority": 99,
+      "topic": "generative AI tools",
+      "url": "https://www.youtube.com/watch?v=x680H2KxaAc",
+      "embedAllowed": true
+    },
+    {
+      "id": "BiXWH3QUX1Q",
+      "type": "long",
+      "title": "How a Pro VFX Artist Mixes Real Footage with AI (FREE Prompts & Materials) ",
+      "channel": "Jack Vs. AI",
+      "channelId": "UCKBj5HPTd64zoQmkGNseKUw",
+      "handle": "@JackVsAI",
+      "channelUrl": "https://www.youtube.com/channel/UCKBj5HPTd64zoQmkGNseKUw",
+      "category": "Topic discovery",
+      "thumbnail": "https://i.ytimg.com/vi/BiXWH3QUX1Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfD9CQE-1KdQ2n1-nmzmjenjdwtA",
+      "duration": "22:39",
+      "durationSeconds": 1359,
+      "views": "6.2K views",
+      "viewCount": 6179,
+      "publishedAt": "2026-07-26T14:46:18Z",
+      "publishedLabel": "17 hours ago",
+      "firstSeenAt": "2026-07-27T07:24:18Z",
+      "source": "secondary",
+      "priority": 99,
+      "topic": "generative AI tools",
+      "url": "https://www.youtube.com/watch?v=BiXWH3QUX1Q",
+      "embedAllowed": true
     },
     {
       "id": "pJORx7LMupg",
@@ -6303,7 +6576,8 @@
       "source": "secondary",
       "priority": 99,
       "topic": "AI agents",
-      "url": "https://www.youtube.com/watch?v=pJORx7LMupg"
+      "url": "https://www.youtube.com/watch?v=pJORx7LMupg",
+      "embedAllowed": true
     },
     {
       "id": "CG5pDvrFf6M",
@@ -6325,7 +6599,77 @@
       "source": "secondary",
       "priority": 99,
       "topic": "AI agents",
-      "url": "https://www.youtube.com/watch?v=CG5pDvrFf6M"
+      "url": "https://www.youtube.com/watch?v=CG5pDvrFf6M",
+      "embedAllowed": true
+    },
+    {
+      "id": "8-m-Inmk5fs",
+      "type": "long",
+      "title": "How We Replaced $100,000 in Ad Creative Costs With One AI Tool",
+      "channel": "Mark Milutin",
+      "channelId": "UCsIsT0UEPgvQFYn_yVL-YmQ",
+      "handle": "@markmilutin",
+      "channelUrl": "https://www.youtube.com/channel/UCsIsT0UEPgvQFYn_yVL-YmQ",
+      "category": "Topic discovery",
+      "thumbnail": "https://i.ytimg.com/vi/8-m-Inmk5fs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIcDUp8uTFKo6C7oMmCuuFEMqJow",
+      "duration": "10:13",
+      "durationSeconds": 613,
+      "views": "4 views",
+      "viewCount": 4,
+      "publishedAt": "2026-07-26T13:46:18Z",
+      "publishedLabel": "18 hours ago",
+      "firstSeenAt": "2026-07-27T07:24:18Z",
+      "source": "secondary",
+      "priority": 99,
+      "topic": "generative AI tools",
+      "url": "https://www.youtube.com/watch?v=8-m-Inmk5fs",
+      "embedAllowed": true
+    },
+    {
+      "id": "DXZ9PdjMxcU",
+      "type": "long",
+      "title": "Agentic AI vs. Generative AI vs. AI Agents: Key Differences ExplainedWhat",
+      "channel": "TechGG",
+      "channelId": "UCidBsETEyCuIs3CRiQaoTFw",
+      "handle": "@TechGG-h2k",
+      "channelUrl": "https://www.youtube.com/channel/UCidBsETEyCuIs3CRiQaoTFw",
+      "category": "Topic discovery",
+      "thumbnail": "https://i.ytimg.com/vi/DXZ9PdjMxcU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnWlCSpwmX08uYtzbc6CJput12KQ",
+      "duration": "5:53",
+      "durationSeconds": 353,
+      "views": "18 views",
+      "viewCount": 18,
+      "publishedAt": "2026-07-26T12:46:18Z",
+      "publishedLabel": "19 hours ago",
+      "firstSeenAt": "2026-07-27T07:24:18Z",
+      "source": "secondary",
+      "priority": 99,
+      "topic": "generative AI tools",
+      "url": "https://www.youtube.com/watch?v=DXZ9PdjMxcU",
+      "embedAllowed": true
+    },
+    {
+      "id": "6IY5Zc_AkYg",
+      "type": "long",
+      "title": "The Best Free AI Tools You Need to Know in 2026",
+      "channel": "Brainy Algorithms",
+      "channelId": "UCbtE7KM80A527K3wrJBN5kA",
+      "handle": "@BrainyAlgorithms",
+      "channelUrl": "https://www.youtube.com/channel/UCbtE7KM80A527K3wrJBN5kA",
+      "category": "Topic discovery",
+      "thumbnail": "https://i.ytimg.com/vi/6IY5Zc_AkYg/hq720_custom_3.jpg?sqp=CPyYnNMG-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6BfbHjxJgV1u98Yl6wURqbkFbng",
+      "duration": "7:14",
+      "durationSeconds": 434,
+      "views": "18 views",
+      "viewCount": 18,
+      "publishedAt": "2026-07-26T12:46:18Z",
+      "publishedLabel": "19 hours ago",
+      "firstSeenAt": "2026-07-27T07:46:18Z",
+      "source": "secondary",
+      "priority": 99,
+      "topic": "generative AI tools",
+      "url": "https://www.youtube.com/watch?v=6IY5Zc_AkYg",
+      "embedAllowed": true
     },
     {
       "id": "AotXHyMYlNA",
@@ -6347,7 +6691,31 @@
       "source": "secondary",
       "priority": 99,
       "topic": "AI agents",
-      "url": "https://www.youtube.com/watch?v=AotXHyMYlNA"
+      "url": "https://www.youtube.com/watch?v=AotXHyMYlNA",
+      "embedAllowed": true
+    },
+    {
+      "id": "qzHdWNQfnYw",
+      "type": "long",
+      "title": "🔴 Kimi AI Live Demo | Is This the Best FREE AI Assistant?",
+      "channel": "Grow with AI",
+      "channelId": "UCin7tYnNfRQddY22O-SgN8w",
+      "handle": "@GrowwithAI-llm",
+      "channelUrl": "https://www.youtube.com/channel/UCin7tYnNfRQddY22O-SgN8w",
+      "category": "Topic discovery",
+      "thumbnail": "https://i.ytimg.com/vi/qzHdWNQfnYw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO5RKqGA62b1_PNBvUXcfBhWcoIg",
+      "duration": "26:22",
+      "durationSeconds": 1582,
+      "views": "19 views",
+      "viewCount": 19,
+      "publishedAt": "2026-07-26T07:24:18Z",
+      "publishedLabel": "Streamed 1 day ago",
+      "firstSeenAt": "2026-07-27T07:24:18Z",
+      "source": "secondary",
+      "priority": 99,
+      "topic": "generative AI tools",
+      "url": "https://www.youtube.com/watch?v=qzHdWNQfnYw",
+      "embedAllowed": true
     }
   ]
 }

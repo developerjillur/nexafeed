@@ -1,0 +1,146 @@
+name: Apply NexaFeed feed settings
+
+on:
+  issues:
+    types: [opened]
+
+permissions: {}
+
+jobs:
+  close-unauthorized:
+    if: github.event.issue.title == '[NexaFeed Config] Apply feed settings' && github.event.issue.author_association != 'OWNER'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Close unauthorized settings request
+        uses: actions/github-script@v9
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: 'Only the repository owner can manage NexaFeed settings. This request has been automatically closed.'
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed',
+              state_reason: 'not_planned'
+            });
+
+  apply:
+    if: github.event.issue.title == '[NexaFeed Config] Apply feed settings' && github.event.issue.author_association == 'OWNER'
+    runs-on: ubuntu-latest
+    concurrency:
+      group: nexafeed-settings-write
+      cancel-in-progress: false
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Validate owner payload and update source files
+        env:
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: python3 scripts/apply_feed_settings.py --event "$GITHUB_EVENT_PATH"
+
+      - name: Run focused settings tests
+        run: python3 tests/test_nexafeed_features.py -v
+
+      - name: Commit owner-approved settings
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config.json data/channels.csv data/feed-settings.json
+          if git diff --cached --quiet; then
+            echo "Settings already match the requested payload."
+          else
+            git commit -m "chore(feed): apply owner settings from issue #$ISSUE_NUMBER"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+  deploy:
+    needs: apply
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    permissions:
+      contents: read
+      issues: write
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Prepare updated static site
+        run: |
+          mkdir _site
+          cp index.html style.css app.js config.json _site/
+          cp -R data _site/data
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+      - name: Deploy settings UI
+        id: deployment
+        uses: actions/deploy-pages@v5
+
+      - name: Close completed settings issue
+        uses: actions/github-script@v9
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: 'NexaFeed settings were validated, committed, and deployed. The next clean hourly refresh will pull these settings and rebuild the video feed.'
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
+
+  report-failure:
+    needs: [apply, deploy]
+    if: >-
+      ${{
+        always() &&
+        github.event.issue.title == '[NexaFeed Config] Apply feed settings' &&
+        github.event.issue.author_association == 'OWNER' &&
+        (needs.apply.result == 'failure' || needs.deploy.result == 'failure')
+      }}
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Report settings failure
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `NexaFeed could not apply this settings request. Apply result: **${{ needs.apply.result }}**. Deploy result: **${{ needs.deploy.result }}**. Review the [workflow run](${runUrl}) and correct the request before retrying.`
+            });

@@ -16,8 +16,10 @@ import html
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
+import threading
 import time
 import urllib.parse
 import urllib.request
@@ -31,6 +33,8 @@ DATA_DIR = ROOT / "data"
 CONFIG_PATH = ROOT / "config.json"
 CHANNELS_PATH = DATA_DIR / "channels.csv"
 VIDEOS_PATH = DATA_DIR / "videos.json"
+DETAILS_PATH = DATA_DIR / "video-details.json"
+SETTINGS_PATH = DATA_DIR / "feed-settings.json"
 CACHE_PATH = DATA_DIR / "channel-cache.json"
 DISCOVERY_PATH = DATA_DIR / "discovery-log.json"
 LOCK_PATH = Path("/tmp/nexafeed-update.lock")
@@ -45,6 +49,8 @@ YT = "{http://www.youtube.com/xml/schemas/2015}"
 MEDIA = "{http://search.yahoo.com/mrss/}"
 UTC = dt.timezone.utc
 BD_TZ = dt.timezone(dt.timedelta(hours=6))
+DETAIL_PROBE_LOCK = threading.Lock()
+DETAIL_LAST_STARTED = 0.0
 
 
 def utc_now() -> dt.datetime:
@@ -485,6 +491,311 @@ def fetch_video_metadata(video_id: str) -> dict[str, Any]:
     }
 
 
+def yt_dlp_path() -> str:
+    configured = os.getenv("NEXAFEED_YT_DLP", "").strip()
+    candidates = [
+        configured,
+        shutil.which("yt-dlp") or "",
+        str(Path.home() / ".local/bin/yt-dlp"),
+        "/opt/homebrew/bin/yt-dlp",
+        "/usr/local/bin/yt-dlp",
+    ]
+    for candidate in candidates:
+        if candidate and Path(candidate).is_file() and os.access(candidate, os.X_OK):
+            return candidate
+    raise RuntimeError("yt-dlp is required for embed checks and Shorts details")
+
+
+def build_yt_dlp_command(
+    video_id: str,
+    include_comments: bool,
+    comment_limit: int,
+    client: str = "web_embedded",
+) -> list[str]:
+    command = [
+        yt_dlp_path(),
+        "--skip-download",
+        "--no-playlist",
+        "--no-warnings",
+        "--socket-timeout",
+        "25",
+        "--retries",
+        "0",
+        "--dump-single-json",
+    ]
+    extractor_options = [f"player_client={client}"]
+    if include_comments:
+        command.append("--write-comments")
+        extractor_options.append(f"max_comments={max(0, int(comment_limit))},all,all,0")
+    command.extend(["--extractor-args", "youtube:" + ";".join(extractor_options)])
+    command.append(f"https://www.youtube.com/watch?v={video_id}")
+    return command
+
+
+def parse_yt_dlp_json(text: str) -> dict[str, Any]:
+    """Parse yt-dlp output while tolerating raw control characters in comments."""
+    payload = json.loads(text, strict=False)
+    if not isinstance(payload, dict):
+        raise ValueError("yt-dlp output must be a JSON object")
+    return payload
+
+
+def pace_detail_probe(config: dict[str, Any]) -> None:
+    """Globally pace yt-dlp process starts to reduce YouTube bot challenges."""
+    global DETAIL_LAST_STARTED
+    delay = max(0.0, min(10.0, float(config.get("richMetadataRequestDelaySeconds", 0.8))))
+    with DETAIL_PROBE_LOCK:
+        wait_for = delay - (time.monotonic() - DETAIL_LAST_STARTED)
+        if wait_for > 0:
+            time.sleep(wait_for)
+        DETAIL_LAST_STARTED = time.monotonic()
+
+
+def plan_detail_probes(
+    items: list[dict[str, Any]],
+    details: dict[str, Any],
+    now: dt.datetime,
+    config: dict[str, Any],
+) -> list[dict[str, Any]]:
+    """Plan bounded yt-dlp checks for embed status and fresh Short comments."""
+    cached_items = details.get("items", {}) if isinstance(details, dict) else {}
+    metadata_ttl = int(config.get("richMetadataTtlHours", 168))
+    blocked_ttl = int(config.get("blockedEmbedTtlHours", 24))
+    comments_ttl = int(config.get("commentsTtlHours", 24))
+    comments_max = int(config.get("commentsMaxVideos", 40))
+    max_probes = int(config.get("richMetadataMaxPerRun", 340))
+    comment_ids = {
+        item.get("id")
+        for item in [entry for entry in items if entry.get("type") == "short"][:comments_max]
+    }
+
+    def stale(value: str | None, hours: int) -> bool:
+        stamp = parse_datetime(value)
+        return stamp is None or now - stamp >= dt.timedelta(hours=hours)
+
+    plan: list[dict[str, Any]] = []
+    for video in items:
+        video_id = video.get("id")
+        cached = cached_items.get(video_id, {})
+        ttl = blocked_ttl if cached.get("embedAllowed") is False else metadata_ttl
+        metadata_due = not cached or stale(cached.get("checkedAt"), ttl)
+        comments_due = video_id in comment_ids and stale(cached.get("commentsFetchedAt"), comments_ttl)
+        if metadata_due or comments_due:
+            plan.append({"video": video, "includeComments": comments_due})
+        if len(plan) >= max_probes:
+            break
+    return plan
+
+
+def normalize_yt_dlp_details(
+    raw: dict[str, Any],
+    checked_at: str,
+    comment_limit: int = 8,
+) -> dict[str, Any]:
+    """Convert yt-dlp metadata into the bounded public detail schema."""
+    output: dict[str, Any] = {"checkedAt": checked_at}
+    if isinstance(raw.get("playable_in_embed"), bool):
+        output["embedAllowed"] = raw["playable_in_embed"]
+    if raw.get("availability"):
+        output["availability"] = str(raw["availability"])
+    output["description"] = str(raw.get("description") or "")[:12000]
+    comment_count = raw.get("comment_count")
+    output["commentCount"] = int(comment_count) if isinstance(comment_count, (int, float)) else 0
+    like_count = raw.get("like_count")
+    output["likeCount"] = int(like_count) if isinstance(like_count, (int, float)) else 0
+    if "comments" in raw:
+        comments: list[dict[str, Any]] = []
+        for comment in (raw.get("comments") or [])[: max(0, int(comment_limit))]:
+            if not isinstance(comment, dict) or not comment.get("text"):
+                continue
+            timestamp = comment.get("timestamp")
+            published_at = None
+            if isinstance(timestamp, (int, float)):
+                published_at = iso_utc(dt.datetime.fromtimestamp(timestamp, UTC))
+            comments.append(
+                {
+                    "id": str(comment.get("id") or ""),
+                    "author": str(comment.get("author") or "YouTube viewer"),
+                    "text": str(comment.get("text") or "")[:4000],
+                    "likeCount": int(comment.get("like_count") or 0),
+                    "publishedAt": published_at,
+                    "authorThumbnail": str(comment.get("author_thumbnail") or ""),
+                    "isPinned": bool(comment.get("is_pinned")),
+                    "isUploader": bool(comment.get("author_is_uploader")),
+                }
+            )
+        output["comments"] = comments
+        output["commentsFetchedAt"] = checked_at
+    return output
+
+
+def classify_yt_dlp_failure(message: str, checked_at: str) -> dict[str, Any] | None:
+    """Classify only clear permanent/public-playback failures.
+
+    Rate limits, bot challenges, network failures, and extractor breakage remain
+    unknown so a valid video is never deleted because of a transient condition.
+    """
+    text = str(message or "").lower().replace("’", "'")
+    permanent_rules = [
+        ("private video", "private", "private"),
+        ("this video is private", "private", "private"),
+        ("has been removed", "removed", "removed"),
+        ("video has been removed", "removed", "removed"),
+        ("account associated with this video has been terminated", "removed", "removed"),
+        ("copyright grounds", "removed", "copyright"),
+        ("not available in your country", "region_restricted", "region"),
+        ("not available in your region", "region_restricted", "region"),
+        ("members-only content", "members_only", "members_only"),
+        ("members only", "members_only", "members_only"),
+        ("age-restricted", "age_restricted", "age_restricted"),
+        ("confirm your age", "age_restricted", "age_restricted"),
+        ("playback on other websites has been disabled", "public", "embed_disabled"),
+        ("embedding disabled", "public", "embed_disabled"),
+        ("video unavailable", "unavailable", "unavailable"),
+        ("this video is unavailable", "unavailable", "unavailable"),
+    ]
+    for needle, availability, reason in permanent_rules:
+        if needle in text:
+            return {
+                "checkedAt": checked_at,
+                "embedAllowed": False,
+                "availability": availability,
+                "failureReason": reason,
+            }
+    return None
+
+
+def probe_video_detail(
+    video: dict[str, Any],
+    include_comments: bool,
+    config: dict[str, Any],
+    checked_at: str,
+) -> dict[str, Any]:
+    configured_clients = config.get("richMetadataClients") or ["web_embedded", "mweb", "tv_embedded"]
+    if isinstance(configured_clients, str):
+        configured_clients = [value.strip() for value in configured_clients.split(",")]
+    clients = [
+        str(value).strip()
+        for value in configured_clients
+        if re.fullmatch(r"[A-Za-z0-9_-]{2,40}", str(value).strip())
+    ] or ["web_embedded"]
+    comment_limit = int(config.get("commentsPerVideo", 8))
+    timeout = int(config.get("richMetadataTimeoutSeconds", 90))
+    attempt_modes = [include_comments] + ([False] if include_comments else [])
+    failures: list[str] = []
+
+    for with_comments in attempt_modes:
+        for client in clients:
+            pace_detail_probe(config)
+            command = build_yt_dlp_command(
+                str(video["id"]),
+                include_comments=with_comments,
+                comment_limit=comment_limit,
+                client=client,
+            )
+            completed = subprocess.run(
+                command,
+                text=True,
+                capture_output=True,
+                timeout=timeout,
+                check=False,
+            )
+            if completed.returncode != 0:
+                message = (completed.stderr or completed.stdout or "yt-dlp failed").strip()
+                permanent = classify_yt_dlp_failure(message, checked_at)
+                if permanent is not None:
+                    return permanent
+                failures.append(f"{client}: {message[-240:]}")
+                continue
+            try:
+                raw = parse_yt_dlp_json(completed.stdout)
+            except (ValueError, json.JSONDecodeError) as exc:
+                failures.append(f"{client}: invalid yt-dlp JSON ({exc})")
+                continue
+            detail = normalize_yt_dlp_details(raw, checked_at, comment_limit=comment_limit)
+            if include_comments and (not with_comments or "comments" not in raw):
+                detail["commentsFetchedAt"] = checked_at
+                detail["commentsStatus"] = "unavailable"
+            elif include_comments:
+                detail["commentsStatus"] = "cached"
+            detail["probeClient"] = client
+            return detail
+
+    summary = " | ".join(failures[-len(clients):]) or "all yt-dlp clients failed"
+    raise RuntimeError(summary[-900:])
+
+
+def refresh_video_details(
+    items: list[dict[str, Any]],
+    previous: dict[str, Any],
+    now: dt.datetime,
+    config: dict[str, Any],
+) -> tuple[dict[str, Any], dict[str, Any]]:
+    checked_at = iso_utc(now)
+    plan = plan_detail_probes(items, previous, now, config)
+    active_ids = {str(item.get("id")) for item in items if item.get("id")}
+    previous_items = previous.get("items", {}) if isinstance(previous, dict) else {}
+    cached: dict[str, dict[str, Any]] = {
+        video_id: dict(detail)
+        for video_id, detail in previous_items.items()
+        if video_id in active_ids and isinstance(detail, dict)
+    }
+    errors: list[dict[str, str]] = []
+    workers = min(max(1, int(config.get("richMetadataWorkers", 8))), max(1, len(plan)))
+    if plan:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
+            future_map = {
+                executor.submit(
+                    probe_video_detail,
+                    entry["video"],
+                    bool(entry["includeComments"]),
+                    config,
+                    checked_at,
+                ): entry
+                for entry in plan
+            }
+            for future in concurrent.futures.as_completed(future_map):
+                entry = future_map[future]
+                video_id = str(entry["video"]["id"])
+                try:
+                    detail = future.result()
+                    cached[video_id] = {**cached.get(video_id, {}), **detail}
+                except Exception as exc:
+                    errors.append({"id": video_id, "error": str(exc)[:500]})
+    output = {
+        "schemaVersion": 1,
+        "updatedAt": checked_at,
+        "items": cached,
+    }
+    status = {
+        "planned": len(plan),
+        "checked": len(plan) - len(errors),
+        "warnings": len(errors),
+        "errors": errors[:25],
+    }
+    return output, status
+
+
+def enrich_and_filter_items(
+    items: list[dict[str, Any]],
+    details: dict[str, Any],
+) -> tuple[list[dict[str, Any]], int]:
+    """Attach cached embed status and remove videos explicitly blocked from embeds."""
+    detail_items = details.get("items", {}) if isinstance(details, dict) else {}
+    output: list[dict[str, Any]] = []
+    blocked = 0
+    for item in items:
+        detail = detail_items.get(item.get("id"), {})
+        if detail.get("embedAllowed") is False:
+            blocked += 1
+            continue
+        enriched = dict(item)
+        if detail.get("embedAllowed") is True:
+            enriched["embedAllowed"] = True
+        output.append(enriched)
+    return output, blocked
+
+
 def read_channels() -> list[dict[str, Any]]:
     with CHANNELS_PATH.open("r", encoding="utf-8-sig", newline="") as handle:
         rows = list(csv.DictReader(handle))
@@ -750,6 +1061,21 @@ def collect_secondary(
     return ordered, {"query": query, "newResults": len(new_items), "error": None}
 
 
+def build_settings_document(
+    channels: list[dict[str, Any]],
+    config: dict[str, Any],
+    updated_at: str,
+) -> dict[str, Any]:
+    return {
+        "schemaVersion": 1,
+        "updatedAt": updated_at,
+        "channels": channels,
+        "keywords": [str(value) for value in config.get("keywords", [])],
+        "topics": [str(value) for value in config.get("topics", [])],
+        "categories": [str(value) for value in config.get("categories", [])],
+    }
+
+
 def update_discovery_log(
     previous: dict[str, Any],
     items: list[dict[str, Any]],
@@ -800,7 +1126,14 @@ def git_publish(root: Path, now: dt.datetime) -> dict[str, Any]:
             check=check,
         )
 
-    run("add", "data/videos.json", "data/discovery-log.json", "data/channel-cache.json")
+    run(
+        "add",
+        "data/videos.json",
+        "data/video-details.json",
+        "data/feed-settings.json",
+        "data/discovery-log.json",
+        "data/channel-cache.json",
+    )
     diff = run("diff", "--cached", "--quiet", check=False)
     if diff.returncode == 0:
         return {"changed": False, "committed": False, "pushed": False}
@@ -824,6 +1157,7 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
     config = load_json(CONFIG_PATH, {})
     channels = read_channels()
     previous_feed = load_json(VIDEOS_PATH, {"items": []})
+    previous_details = load_json(DETAILS_PATH, {"schemaVersion": 1, "items": {}})
     previous_items = [item for item in previous_feed.get("items", []) if isinstance(item, dict)]
     previous_by_id = {item["id"]: item for item in previous_items if item.get("id")}
     bootstrap = not bool(previous_by_id)
@@ -894,7 +1228,13 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
             -published.timestamp(),
         )
 
-    items = sorted(deduped.values(), key=sort_key)[: int(config.get("maxFeedItems", 340))]
+    candidate_items = sorted(deduped.values(), key=sort_key)[: int(config.get("maxFeedItems", 340))]
+    if args.no_details:
+        details = previous_details
+        detail_status = {"planned": 0, "checked": 0, "warnings": 0, "errors": [], "disabled": True}
+    else:
+        details, detail_status = refresh_video_details(candidate_items, previous_details, now, config)
+    items, embed_blocked = enrich_and_filter_items(candidate_items, details)
     previous_ids = set(previous_by_id)
     new_ids = [item["id"] for item in items if item["id"] not in previous_ids]
     new_items = [item for item in items if item["id"] in set(new_ids)]
@@ -908,10 +1248,11 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
         "channelsWithWarnings": len(failures),
         "failures": failures[:25],
         "secondary": secondary_status,
+        "richMetadata": {**detail_status, "embedBlocked": embed_blocked},
         "runSeconds": round(time.monotonic() - started, 2),
     }
     feed = {
-        "schemaVersion": 2,
+        "schemaVersion": 3,
         "updatedAt": iso_utc(now),
         "siteName": config.get("siteName", "NexaFeed"),
         "siteUrl": config.get("siteUrl", ""),
@@ -953,8 +1294,11 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
         "channels": cache_channels,
     }
 
+    settings_output = build_settings_document(channels, config, feed["updatedAt"])
     if not args.dry_run:
         write_json(VIDEOS_PATH, feed)
+        write_json(DETAILS_PATH, details)
+        write_json(SETTINGS_PATH, settings_output)
         write_json(DISCOVERY_PATH, discovery)
         write_json(CACHE_PATH, cache_output)
 
@@ -969,6 +1313,7 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
         "feed": feed["stats"],
         "secondaryQuery": secondary_status.get("query"),
         "secondaryError": secondary_status.get("error"),
+        "richMetadata": {**detail_status, "embedBlocked": embed_blocked},
         "durationSeconds": round(time.monotonic() - started, 2),
         "dryRun": args.dry_run,
         "publish": publish,
@@ -980,6 +1325,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--publish", action="store_true", help="Commit generated data and push origin/main")
     parser.add_argument("--dry-run", action="store_true", help="Collect and report without writing files")
     parser.add_argument("--no-secondary", action="store_true", help="Skip this run's topic search")
+    parser.add_argument("--no-details", action="store_true", help="Reuse cached embed/comment details without probing")
     parser.add_argument("--workers", type=int, default=6)
     args = parser.parse_args(argv)
 
