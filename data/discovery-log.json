@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T14:53:48Z",
+  "updatedAt": "2026-07-27T15:53:58Z",
   "items": [
+    {
+      "id": "48tCnb_7_-s",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-07-27T15:23:12Z",
+      "firstSeenAt": "2026-07-27T15:53:58Z"
+    },
+    {
+      "id": "Dn7joxP2jO0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Insider Force",
+      "publishedAt": "2026-07-27T15:04:50Z",
+      "firstSeenAt": "2026-07-27T15:53:58Z"
+    },
+    {
+      "id": "bkMJDGULT0Y",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Nuwan Suranga Kodikara",
+      "publishedAt": "2026-07-27T10:53:58Z",
+      "firstSeenAt": "2026-07-27T15:53:58Z"
+    },
+    {
+      "id": "KBygM8vOeD4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sunil Chaudhary | Tandavacharya",
+      "publishedAt": "2026-07-26T17:53:58Z",
+      "firstSeenAt": "2026-07-27T15:53:58Z"
+    },
+    {
+      "id": "c0SYBKdqq-g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Grow With Owais",
+      "publishedAt": "2026-07-26T15:53:58Z",
+      "firstSeenAt": "2026-07-27T15:53:58Z"
+    },
+    {
+      "id": "nGaWyF4VTpI",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Greg G",
+      "publishedAt": "2026-07-26T15:53:58Z",
+      "firstSeenAt": "2026-07-27T15:53:58Z"
+    },
+    {
+      "id": "rU_Amw5MVKs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jonathan Acuña - Doctor AI",
+      "publishedAt": "2026-07-26T15:53:58Z",
+      "firstSeenAt": "2026-07-27T15:53:58Z"
+    },
     {
       "id": "a0aJdjH9Cvg",
       "type": "short",
@@ -2751,6 +2807,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-07-27T15:53:58Z",
+      "new": 7,
+      "long": 3,
+      "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
