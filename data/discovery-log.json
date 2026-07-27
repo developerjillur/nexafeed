@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T15:53:58Z",
+  "updatedAt": "2026-07-27T16:53:08Z",
   "items": [
+    {
+      "id": "FAW6AuzT1Uw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Faisal Shabbir",
+      "publishedAt": "2026-07-27T12:53:08Z",
+      "firstSeenAt": "2026-07-27T16:53:08Z"
+    },
+    {
+      "id": "r3OGdtUhlLg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Everything AI and Law Podcast",
+      "publishedAt": "2026-07-27T11:53:08Z",
+      "firstSeenAt": "2026-07-27T16:53:08Z"
+    },
+    {
+      "id": "6SuwSt1T8nQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Augmented AI",
+      "publishedAt": "2026-07-27T10:53:08Z",
+      "firstSeenAt": "2026-07-27T16:53:08Z"
+    },
+    {
+      "id": "7pqRRxrdr0c",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI News & Strategy Daily | Nate B Jones",
+      "publishedAt": "2026-07-26T17:53:08Z",
+      "firstSeenAt": "2026-07-27T16:53:08Z"
+    },
+    {
+      "id": "SaN_vH_nN3Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "FLOT",
+      "publishedAt": "2026-07-26T16:53:08Z",
+      "firstSeenAt": "2026-07-27T16:53:08Z"
+    },
     {
       "id": "48tCnb_7_-s",
       "type": "short",
@@ -2816,6 +2856,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-07-27T16:53:08Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T15:53:58Z",
+  "updatedAt": "2026-07-27T16:53:08Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -421,7 +421,7 @@
       "likeCount": 6
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-27T15:53:58Z",
+      "checkedAt": "2026-07-27T16:53:08Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -1719,7 +1719,7 @@
       "probeClient": "web_embedded"
     },
     "u8o8OAbLuDo": {
-      "checkedAt": "2026-07-27T15:53:58Z",
+      "checkedAt": "2026-07-27T16:53:08Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -2663,12 +2663,6 @@
       "commentCount": 70,
       "likeCount": 662,
       "probeClient": "web_embedded"
-    },
-    "tPl4oRb9LLs": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
     },
     "IkqnQPjr_Fc": {
       "checkedAt": "2026-07-27T07:46:18Z",
@@ -4203,15 +4197,6 @@
       "likeCount": 266,
       "probeClient": "web_embedded"
     },
-    "0i_APvGWUA4": {
-      "checkedAt": "2026-07-27T08:53:42Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Claude Skills just changed AI consulting forever. In this video, I'll show you 8 Claude Skills you can build and sell to local businesses — the exact AI services that turn into recurring monthly retainers, not one-off projects. Make money with AI, regardless of your background. Join 3,000+ members 👉 https://www.skool.com/ai-money-hub\n\nBusiness owner looking for a done for you project? Book a call: \n\nIf you're getting into AI consulting, this is the fastest path: stop building random AI tools and start selling productized AI services that solve real problems for local businesses. This is business automation businesses will actually pay for.\n\nInside this video:\n- What Claude Skills actually are\n- How Anthropic's Record a Skill feature works\n- The best Claude Skills to sell as AI services\n- AI consulting offers local businesses already pay for\n- Turning one Claude Skill into a scalable AI consulting business\n- Why productized AI services beat custom client work\n- How to land your first AI consulting client\n- Building recurring AI retainers instead of one-time gigs\n\nThese Claude Skills — and this business automation approach — work especially well for:\n✔ Roofing Companies\n✔ Dentists\n✔ Med Spas\n✔ Contractors\n✔ Law Firms\n✔ Medical Clinics\n✔ Property Managers\n✔ Commercial Cleaning Companies\n✔ Restaurants\n✔ Local Service Businesses\n\nWhether you're an AI consultant, automation freelancer, AI agency owner, AI service seller, or AI entrepreneur, this video will show you how to build Claude Skills, sell high-ticket AI services, automate local businesses, attract AI consulting clients, and create recurring AI income.\n\n⏱ TIMESTAMPS\n00:00 - Why Nobody's Making Money with Claude Skills\n00:58 - What a Claude Skill Actually Is\n01:43 - Record a Skill: Anthropic's New Cowork Feature\n03:09 - Why Claude Skills Are Perfect for Local Businesses\n03:34 - The 8 Claude Skills You Can Sell\n04:07 - Skill #1: Review Response Automation\n04:36 - Skill #2: Database Reactivation\n05:19 - Skill #3: AI Quote & Estimate Generation\n06:24 - Skill #4: Intake Triage Automation\n07:03 - Skill #5: Client Onboarding Automation\n07:52 - Skill #6: Local Search Content (GEO)\n08:26 - Skill #7: AI Proposal Generation\n09:12 - Skill #8: Government Bid Automation\n10:24 - The Mistake That Keeps AI Consultants Broke\n11:19 - Pick One Niche, Not \"Local Businesses\"\n12:36 - From a $50K Job to $100K in AI Consulting\n13:41 - Record Your First Claude Skill Tonight\n14:07 - Your Action Plan\n\n🚀 Join AI Money Hub\n\nStop learning AI. Start making money with it.\n\n👉 Join today: https://www.skool.com/ai-money-hub/about\n\nForget spending months watching AI videos, learning to code, or building software from scratch.\n\nThe fastest path to AI income is selling proven AI services and solutions that businesses already want.\n\n✅ The techies build it.\n✅ The techies deliver it.\n✅ You find the clients.\n✅ You get paid.\n\nOur mission is simple: help you land your first paying AI client as quickly as possible.\n\nOnce you close your first deal, everything becomes easier to scale.\n\nFor collaborations, please 📩 email: collab@automateaiconsulting.com\n\n\n👤 ABOUT LINDSAY\nI'm Lindsay Gonzales, certified AI automation consultant. $50K/year doing marketing. $100K as an AI consultant nine months later. I help builders and freelancers land high-ticket AI projects and hit $10K/month, working less.\n\nNew video every week. \n\n🔔 Subscribe for weekly videos on AI consulting, automation workflows, and high-ticket client acquisition: @AutomateAIConsulting \n\n#ClaudeSkills #AIConsulting #AIServices #BusinessAutomation #MakeMoneyWithAI",
-      "commentCount": 31,
-      "likeCount": 329,
-      "probeClient": "web_embedded"
-    },
     "BcF-RT6I5Vw": {
       "checkedAt": "2026-07-27T09:53:51Z",
       "embedAllowed": true,
@@ -4219,15 +4204,6 @@
       "description": "Welcome everyone, and thanks for joining us.\n\nIn this show we're going to explore something that's changing software development: the impact of AI on open source development, and specifically what that means for Decred.\n\nThis isn't a discussion about replacing developers or having AI write consensus code. Core protocol development still demands deep expertise, rigorous review, and human judgement. That's not changing anytime soon, we’ll be looking at the work these guys don’t enjoy. Mundane design, text copy, and the UI review process.\n\nWhat’s changing is the barrier to building better user experiences.\n\nHistorically, creating polished front-end applications, modern websites, and consistent user interfaces required specialist designers, experienced frontend engineers, and often budgets running into hundreds of thousands of dollars. \n\nMany open source projects simply couldn't justify that investment. Today, the equation is different.\n\nWith modern AI tools, someone with modest technical skills, a clear vision, and plenty of persistence can build things that would have previously required an entire team. It's not magic—it still takes a lot of time, iteration, testing, and learning—but the cost of turning ideas into working software has fallen dramatically.\n\nThat's the opportunity we're going to discuss. So whether you're interested in AI, open source, design, or the future of Decred, we hope you'll enjoy the discussion.",
       "commentCount": 0,
       "likeCount": 11,
-      "probeClient": "web_embedded"
-    },
-    "sK3PVWnbflk": {
-      "checkedAt": "2026-07-27T09:53:51Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Is AI destroying software development, or have we all just been promoted to engineering management?\n\n\nIn this episode, we take a deep dive into the viral blog post by Quan Nguyen, founder of the Skill-Wanderer Guild. Drawing from his years of experience managing human development teams, Quan reveals a surprising reality: building software with AI agents isn't a new paradigm it relies on the exact same delegation, briefing, and leadership mechanics that keep human teams on track.\n\n\n\n\n\n\n🎧 In This Episode:\n\n  •  \n     \n     The Context Sweet Spot: Why sparse prompts cause AI hallucinations and flooded contexts trigger over-engineering.\n     \n  •  \n     \n     The \"God Model\" Fallacy: Why searching for a single best AI model fails, and how to build a specialized AI roster (Claude, ChatGPT, Codex, and Gemini) based on individual strengths.\n     \n  •  \n     \n     Blueprint Over Firefighting: How lightweight Markdown (.md) plans prevent high-speed AI chaos before a single line of code is generated.\n     \n  •  \n     \n     Outcome Ownership: Why \"blaming the AI\" is a career killer, and why human accountability is the ultimate load-bearing skill of the AI era.\n     \n  •  \n     \n     The Unwritten Next Chapter: What happens when AI agents start managing other AI agents?\n     \n\n📖 Read the original article on Skill-Wanderer:https://wanderings.skill-wanderer.com/blog/leading-ai-agents-is-not-much-different-from-leading-people/",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "2zdWI2SYB9I": {
@@ -4282,15 +4258,6 @@
       "description": "Ready to dive into the dark side of AI? This video uncovers jaw-dropping stories of rogue AI, cybercrime, deepfakes, job shakeups, and even how AI might be running up your electric bill! If you've ever wondered what happens when machines get a little too clever, you can't miss this. Hit subscribe for more wild tech tales and let us know in the comments what shocked you most! #AI #technology #future #cybersecurity #jobs\n\n👉 This channel was created in collaboration with https://www.youtube.com/@baladementale\n\n0:06 - AI Emergent Behaviors: The Alibaba Example\n1:36 - Shrinking Human Role in AI Progress\n2:41 - Risks of AI Autonomy and Workarounds\n5:05 - AI in Cybersecurity: Threats and Abuse\n9:41 - AI in Molecular Biology and Biosecurity\n10:36 - AI and the Spread of Synthetic Media\n17:43 - Job Market and Societal Shifts Due to AI\n22:39 - Environmental, Military, and Closing Thoughts on AI\n\nWe’re now available on Spotify! Listen now https://open.spotify.com/show/01UCvkhG8T0VWT3XwHvRHe",
       "commentCount": 0,
       "likeCount": 5,
-      "probeClient": "web_embedded"
-    },
-    "xHr18GEJqck": {
-      "checkedAt": "2026-07-27T10:53:51Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What's the most powerful tool in any classroom? In the age of AI, education advocate Matt Wu still believes it's the people. In this hopeful talk, he discusses the nonprofit he leads, Schoolhouse, which pairs students with peer tutors from across the globe, building the crucial human connection that every person needs to thrive. Peer tutoring isn't just teaching students how to learn concepts, says Wu. It's teaching them how to better understand one another. (Recorded at TED2026 on April 17, 2026)\n\nJoin us in person at a TED conference: https://tedtalks.social/events\nBecome a TED Member to support our mission: https://ted.com/membership\nSubscribe to a TED newsletter: https://ted.com/newsletters\n\nFollow TED! \nInstagram: https://www.instagram.com/ted\nLinkedIn: https://www.linkedin.com/company/ted-conferences\nTikTok: https://www.tiktok.com/@tedtoks\nFacebook: https://facebook.com/TED\nX: https://www.twitter.com/TEDTalks\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less) — plus originals, podcasts and exclusive content. Look for videos on Technology, Entertainment and Design as well as science, business, global issues, the arts and more. Visit https://TED.com for our entire library, transcripts, translations and personalized recommendations.\n\nWatch more: https://go.ted.com/mattwu\n\nhttps://youtu.be/xHr18GEJqck\n\nTED videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with the TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a request at https://media-requests.ted.com\n\n#TED #TEDTalks #Education",
-      "commentCount": 33,
-      "likeCount": 421,
       "probeClient": "web_embedded"
     },
     "jgPYP50IE5I": {
@@ -4674,15 +4641,6 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "2_1YYPiy0Bo": {
-      "checkedAt": "2026-07-27T14:53:48Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥30-Day FREE Trial + $11,577 in bonuses! https://go.seanstandberry.com/solo\n\nWhen you sign up with my link, here’s what you’ll get:\n\n📚 Access to all of my courses (100+ video lessons) \n🚀 AI Prompt library for creating social media posts, videos, websites, & more (50+ prompts)\n🙋 Bi-weekly live Q&A calls with me, or my agency team\n📝 Guidance on building & scaling your AI SMMA, AI SaaS or AI Business\n📢 Inbound marketing strategies & AI Clone module \n------------------------------------------------------\nI built a social media business that runs about 99% on AI. One tool researched a real local business, planned 50 slides, produced 25 finished designs, wrote every caption, organized the files, and scheduled a full week of posts inside GoHighLevel.\n\nMy only job is to review the work. In this video I'll show you the entire build start to finish: the one-person business model, how one prompt starts the whole build, my 1% review-and-redirect step, the finished delivery, scheduling it all in GoHighLevel, putting delivery on autopilot, automating your leads and follow-up, and how your only real job becomes getting clients at $500 a month each.\n------------------------------------------------------\nAlready have GHL? Join community directly: https://go.seanstandberry.com/direct-access\n------------------------------------------------------\nTimestamps\nIntro (0:00)\nChapter 1 : The One-Person Business Model (1:08)\nChapter 2 : One Prompt Starts the Whole Build (2:27)\nChapter 3 : My One Percent: Review and Redirect (4:17)\nChapter 4 : The Finished Delivery (6:10)\nChapter 5 : Schedule Everything in GoHighLevel (7:26)\nChapter 6 : Put Your Delivery on Autopilot (8:58)\nChapter 7 : Automate Your Leads and Follow-Up (10:25)\nChapter 8 : Your Only Job: Getting Clients (11:56)\n--------------------------------------------------------------------\nSubscribe: https://bit.ly/33do5xO\n\nWho Am I?\nI’m Sean Standberry — the current owner of a multi million dollar social media marketing agency that I have been running for the last 10 years. My businesses have grossed more than $25M in online services, and proud to have been award HighLevel's Gold SaaS Award 2x years in a row. Now, I help others launch and grow their own AI businesses because the future here now. If you get any value from watching my content, all I ever ask is that you LIKE and Subscribe 🙂. \n\n///\nDisclosure:\nThis content reflects my own opinions and is not legal, financial, or investment advice. Always consult with licensed professionals before making any business decisions.\n\nAll experiences shared are from our most successful students; their success should not be considered typical. Student earnings vary based on effort, experience, and other factors. Many students don't apply our strategies and thus see little to no financial return. We cannot guarantee success or any specific financial result.\n\nI’m an independent affiliate and not an employee or agent of GoHighLevel. I receive referral commissions for purchases made through my affiliate links. Results shared are not guaranteed — your results will vary and depend on your effort, experience, and other factors.",
-      "commentCount": 10,
-      "likeCount": 66,
-      "probeClient": "web_embedded"
-    },
     "48tCnb_7_-s": {
       "checkedAt": "2026-07-27T15:53:58Z",
       "embedAllowed": true,
@@ -4808,12 +4766,6 @@
       "likeCount": 2,
       "probeClient": "web_embedded"
     },
-    "GD0EoHUeC_Q": {
-      "checkedAt": "2026-07-27T15:53:58Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "KBygM8vOeD4": {
       "checkedAt": "2026-07-27T15:53:58Z",
       "embedAllowed": true,
@@ -4848,6 +4800,57 @@
       "description": "https://simpletechskills.com/challenge",
       "commentCount": 2,
       "likeCount": 11,
+      "probeClient": "web_embedded"
+    },
+    "qRC3-R3jkMQ": {
+      "checkedAt": "2026-07-27T16:53:08Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "FAW6AuzT1Uw": {
+      "checkedAt": "2026-07-27T16:53:08Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get Complete Master PROMPT Document on WhatsApp: https://whatsapp.com/channel/0029VaD5UVi9Gv7WDIIGuh3m\n\nHey Guys! In this session, I give you that complete workflow, step by step, from start to finish. You'll learn how to go from a simple idea to a finished, professional video using AI script generation, AI voiceovers, visuals and scenes, animation, editing, and final export. Whether you want to build a faceless YouTube automation channel, create viral reels and shorts, or produce cartoons and animated series, this guide shows you the exact process I use nothing hidden, everything practical, with real examples.\n\n\n#AIVideo #FacelessChannel #YouTubeAutomation #FreeYouTubeCourse #FaisalShabbir\n\nThank you for watching. \nSubscribe to FaisalShabbir! \n\nBuy Hosting & Get Free Domain Now: https://hostinger.com/faisal\n\nYouTube Learning and Earning Series: Complete Course\nhttps://www.youtube.com/playlist?list=PLqJ18tivCkV3RwIYhhPLckMGF0e0kgEdK\n\nHere are some more videos to watch\n———————————————\nBest Lighting Setup for Youtube Videos\nhttps://youtu.be/m6TasvCpf4E\nWrite Urdu on Any Video in Mobile\nhttps://youtu.be/afW96FP7DRQ\nHow to Delete Instagram Account Permanently \nhttps://youtu.be/rOp04VKyICQ\n12 Useful Google Chrome Tips & Trick\nhttps://youtu.be/A_muZVkhL1M\n5 Most Trending CapCut Video Editing Tutorial\nhttps://youtu.be/j_7SlKM3QwE\n\nSocial Media Handles\n*****************************************************************\nFollow us on:\nWhatsApp Channel: https://whatsapp.com/channel/0029VaD5UVi9Gv7WDIIGuh3m\nInstagram: http://instagram.com/faisalshabbiir\nTwitter: http://www.twitter.com/faisalshabbiir\nFacebook: http://www.facebook.com/imfaisalshabbir\nTiktok: https://www.tiktok.com/@thefaisalshabbir\n\nThis video has been created solely for the purpose of education and spreading awareness. All information presented is based on thorough research and is accurate to the best of our team’s understanding. However, if any factual or visual error is found, please know it is completely unintentional and not meant to mislead or harm in any way. If you notice any such issue, kindly reach out to us at contact@faisalshabbir.pk (Subject: Feedback) so we can take the necessary action to resolve the matter respectfully and quickly. We value constructive feedback and are committed to maintaining responsible content practices.",
+      "commentCount": 187,
+      "likeCount": 679,
+      "probeClient": "web_embedded"
+    },
+    "r3OGdtUhlLg": {
+      "checkedAt": "2026-07-27T16:53:08Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I recently hosted a live class where I demonstrated seven practical AI automations and agents in action.\n\nThese are not just AI tools or prompts. They are complete workflows designed to reduce repetitive work, improve follow-up, organize information, and help professionals and businesses work more efficiently.\n\nUse the timestamps below to explore each automation:\n\n00:00 — AI Video Automation\nSee how my AI Video Agent uses my face and voice to create and edit videos in about eight minutes.\n\n03:47 — AI Opportunity Automation\nDiscover how AI can help research and organize grants, jobs, investments, scholarships, and other relevant opportunities.\n\n04:55 — AI Lead Follow-Up System\nSee how potential clients can be captured, reviewed, qualified, and followed up with automatically.\n\n11:54 — AI Email Manager\nLearn how AI can organize emails, summarize important messages, and prepare draft replies for review.\n\n12:27 — Pre-Call and Audit Pipeline Briefing\nSee how information can be collected before a meeting and converted into a useful briefing for the call.\n\n17:23 — Meeting Notes Into Action\nLearn how meeting recordings or notes can be turned into summaries, decisions, assigned tasks, and clear next steps.\n\n20:01 — AI Voice and Chat Intake System\nSee how potential clients can interact with an AI system through voice or chat before being routed to the appropriate next step.\n\nWhich of these seven automations would save you the most time or money?\n\nWhether you want to learn how to build an automation, receive guided implementation support, or have a custom system built for your business, complete the short assessment below to find the most suitable next step:\n\nhttps://tally.so/r/7Rg0ML\n\nSubscribe for more practical demonstrations on AI automation, AI agents, and responsible AI implementation.\n\n#AIAutomation #AIAgents #BusinessAutomation #AI",
+      "commentCount": 1,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "6SuwSt1T8nQ": {
+      "checkedAt": "2026-07-27T16:53:08Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🟣 Join Corporate Automation OS - https://www.skool.com/augmented-ai-automations/about\n🟣 Free Automation Skool - https://www.skool.com/corporate-automation-hub\n\n🎬 I automated my entire video editing process. Here's the exact system I use to go from 2 hours down to 30 minutes.\n\nAfter 17 years of editing videos, I built my own automated video editor that cuts mistakes, removes silences, adds captions, and places B-roll for me. No more manual clicking through Descript. No more paying per-minute video editors on Fiverr.\n\n🔥 In this video I show you:\n✅ Why tools like Descript still fall short for creators who edit daily\n✅ The system I built to auto-transcribe, auto-cut, and auto-place B-roll\n✅ A full live demo of the Auto Video Editor inside Corporate Automation OS\n✅ How I connect it to Claude via MCP to push videos straight to social media\n\nIf you want the exact system, join Corporate Automation OS. You get a free 7-day trial, and you can cancel anytime before you're billed.\n\n👉 Join Corporate Automation OS: https://www.skool.com/augmented-ai-automations/about\n\n🚀 New to automation? Start with our free 7-Day Business Automation Challenge. It takes you from chatting with AI to building real systems that automate up to 80% of your business.\n\n👉 Join the free challenge: https://www.skool.com/corporate-automation-hub\n\n💼 Want a custom automation system built for your business? Let's work together.\n\n👉 Work with me: www.augmentedaiautomations.com/work-with-me\n\nI've been building AI systems for over 11 years, helping companies like Tshwane University of Technology (TuT), Momentum, and Resolute Robotics get a real return on their automation.\n\n0:00 – I Automated My Entire Video Editing Process\n0:30 – The Old Way: Syncing, Cutting, and Hiring Editors\n3:00 – Where Descript Still Falls Short\n4:52 – Why I Built My Own Video Editor\n6:44 – How to Get This Auto Video Editor\n7:30 – Live Demo: Setting Up a New Project\n8:12 – Auto Cutting, Silence Removal, and Captions\n9:53 – Auto-Placing B-Roll With AI\n11:09 – From 2 Hours to 30 Minutes",
+      "commentCount": 0,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "7pqRRxrdr0c": {
+      "checkedAt": "2026-07-27T16:53:08Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "How to give an AI agent a real job: start with the customer support problem your team keeps fixing by hand. We closed 51 of 52 support issues, then rebuilt the process so our biggest category stopped happening at all.\n\nHow to find the first problem your agent should solve (guide):  https://natesnewsletter.substack.com/p/first-ai-agent-use-case?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside AI automation for customer support?\n\nThe common story is that AI helps you answer tickets faster — but the real question is whether the ticket had to exist at all.\n\nIn this video, I share the inside scoop on how we used AI to root-cause our support work instead of speeding it up:\n\n- How we took a comparable support week from 52 cases down to 19\n- Why you group cases by root cause, not by subject line\n- What still needs human approval when access or money is involved\n- Where this same repeated pain shows up in sales, finance, and IT\n\nAgents can carry the research and prepare the work, and the cases left over will be the harder ones that still need your judgment.\n\nChapters:\n00:00 Fifty-one of fifty-two support issues, fixed with AI\n01:21 The hidden work behind a single support ticket\n02:09 Rebuilding the access path so the question stops\n05:49 Writing down the process before automating anything\n07:34 Recording the pain: one ticket per problem\n08:51 Keeping human approval on access and money\n09:56 Twenty-six patterns and two upstream failures\n11:31 Gumroad: an agent that shipped a bug fix\n12:18 When the customer became the approver\n14:43 Pull 50 to 100 cases and strip the PII\n16:23 Picking a boring, reversible first problem\n19:02 Keep a scorecard and count again next week\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "commentCount": 76,
+      "likeCount": 415,
+      "probeClient": "web_embedded"
+    },
+    "SaN_vH_nN3Y": {
+      "checkedAt": "2026-07-27T16:53:08Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Create Viral AI Talking Vegetable Videos with One Click! 🥦🤖\n\n🌄 All Prompts & Links : https://whatsapp.com/channel/0029Vb99zgL1CYoIzg4u3L1U/103\n\nI’ve built an AI automation system that makes it incredibly easy to create viral Talking Vegetable Story videos using just a few simple prompts.\n\nOver the past few weeks, you’ve probably seen these videos everywhere—TikTok, Instagram, YouTube, Facebook, and other social media platforms. These videos feature talking vegetables with engaging storylines, emotional moments, suspense, drama, and satisfying climaxes. They’re getting millions of views because they keep people watching from start to finish.\n\nMany creators want to make these videos, but they don’t know:\n\nWhich AI tools to use\nHow to generate high-quality AI images\nWhich AI video generator works best\nHow to turn simple prompts into professional-looking animated videos\nHow to automate the entire process and save hours of work\n\nThat’s exactly why I created this AI automation system.\n\nWith this workflow, you can generate stunning talking vegetable videos in just a few steps using AI. If you consistently upload this type of content, you can significantly increase your chances of growing your YouTube channel, reaching 1,000 subscribers, completing 4,000 watch hours, and qualifying for monetization faster.\n\nIn this video, I'll walk you through the entire process step by step, from choosing the right AI tools to creating complete viral-ready videos. Even if you're a beginner, you'll be able to follow along and start making your own content.\n\n🎯 Watch the video carefully, follow each step, and start creating your own viral AI videos today!\n🎯 What You'll Learn\n\n✅ How TO make Ai Vegetable Talking Story Videos\n✅ How to Create Viral Talking Vegetable AI Videos Full Course 📈\n✅ Potato Bringel Carrot Talking Videos\n✅ How TO make Viral Ai Fruite Talking Story Videos\n✅ Fruite Talking Videos tuitorial\n✅ How To make Faceless youtube Channel\n✅ How To grow Youtube Channel\n✅ Best faceless Channel Ideas\n✅ Viral faceless youtube Niches\n✅ How To make Viral Youtube VIdeos\n✅ Upload and optimize videos for YouTube\n\n\n⏰ Timestamps\n\n00:00 - Introduction\n00:32 - How To Make Viral Fruit Talking AI Videos\n01:18 - How To Make Viral Veggie Videos For Free\n02:07 - Potato Talking Videos Tutorial\n02:56 - Faceless YouTube Channel Ideas\n03:41 - How To Make Faceless AI Videos\n04:29 - How To Start YouTube Automation\n05:16 - AI Talking Videos For Free\n06:02 - How To Complete 4,000 Hours Watch Time\n06:49 - How To Complete 1,000 YouTube Subscribers Fast\n07:34 - How To Grow a New YouTube Channel in 2026\n\n\n\n🛠 AI Tools Used\n\n• ChatGPT\n• Google Flow\n• Google AI Studio\n• CapCut\n• Gemini\n\nIf you're interested in:\n\nYouTube Automation\nFaceless YouTube Channels\nAI Video Creation\nStick Figure Videos\nAI Content Creation\nYouTube Growth\nYouTube Monetization\nAI Tools\nContent Automation\nFaceless Video Ideas\n\nthen this tutorial is for you.\n\nIf this video helps you, don't forget to Like 👍, Subscribe ❤️ and Comment 💬. It really helps the channel and motivates me to create more free AI tutorials.\n\nDISCLAIMER\n\nThis video is for educational purposes only. Results on YouTube vary depending on content quality, audience interest, consistency, competition, and many other factors. Nothing in this video guarantees views, subscribers, monetization, or earnings. Please follow YouTube's Community Guidelines and Monetization Policies when creating content.\n\n#️⃣ Hashtags\n\n#facelesschannel #facelessniche #youtubegrowth #1000subscriber #4000watchtime #YouTubeAutomation #FacelessYouTube #AIVideos #ChatGPT #GoogleFlow #GoogleAIStudio #StickFigure #AncientStickFigure #YouTubeGrowth #YouTubeSEO #ContentCreation",
+      "commentCount": 5,
+      "likeCount": 34,
       "probeClient": "web_embedded"
     }
   }
