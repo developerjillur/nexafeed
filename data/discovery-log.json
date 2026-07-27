@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T11:53:25Z",
+  "updatedAt": "2026-07-27T12:53:14Z",
   "items": [
+    {
+      "id": "GtQGFwvxNl0",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-07-27T12:41:00Z",
+      "firstSeenAt": "2026-07-27T12:53:14Z"
+    },
+    {
+      "id": "pId5ku4e6HY",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-07-27T12:40:41Z",
+      "firstSeenAt": "2026-07-27T12:53:14Z"
+    },
+    {
+      "id": "Zyw1GcM2x7s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Harshita Verma",
+      "publishedAt": "2026-07-27T11:53:14Z",
+      "firstSeenAt": "2026-07-27T12:53:14Z"
+    },
+    {
+      "id": "fWZylhIHF9w",
+      "type": "long",
+      "source": "secondary",
+      "channel": "IBM Technology and IBM Developer",
+      "publishedAt": "2026-07-27T11:53:14Z",
+      "firstSeenAt": "2026-07-27T12:53:14Z"
+    },
+    {
+      "id": "K86-u1ddB2M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI with FZ",
+      "publishedAt": "2026-07-27T11:53:14Z",
+      "firstSeenAt": "2026-07-27T12:53:14Z"
+    },
+    {
+      "id": "_G2I8xx5hw8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "offlinemark",
+      "publishedAt": "2026-07-26T16:53:14Z",
+      "firstSeenAt": "2026-07-27T12:53:14Z"
+    },
+    {
+      "id": "eP-58JBb0Eo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Darshil Parmar",
+      "publishedAt": "2026-07-26T14:53:14Z",
+      "firstSeenAt": "2026-07-27T12:53:14Z"
+    },
     {
       "id": "jgPYP50IE5I",
       "type": "short",
@@ -2532,6 +2588,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-07-27T12:53:14Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
