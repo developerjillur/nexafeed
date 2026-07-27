@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T18:53:25Z",
+  "updatedAt": "2026-07-27T19:53:33Z",
   "items": [
+    {
+      "id": "ff7FOR3Y0uA",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-07-27T19:39:05Z",
+      "firstSeenAt": "2026-07-27T19:53:33Z"
+    },
+    {
+      "id": "weoV4dm-X1A",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-07-27T19:02:09Z",
+      "firstSeenAt": "2026-07-27T19:53:33Z"
+    },
+    {
+      "id": "6qUQbkomiWs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GreatLearning AI",
+      "publishedAt": "2026-07-27T14:53:33Z",
+      "firstSeenAt": "2026-07-27T19:53:33Z"
+    },
+    {
+      "id": "7FfzntB3C_4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Top Tech Growth Hacks",
+      "publishedAt": "2026-07-27T12:53:33Z",
+      "firstSeenAt": "2026-07-27T19:53:33Z"
+    },
+    {
+      "id": "fupfvFYnquU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Top Tech Growth Hacks",
+      "publishedAt": "2026-07-27T11:53:33Z",
+      "firstSeenAt": "2026-07-27T19:53:33Z"
+    },
+    {
+      "id": "TV6kIRcWNgo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Top Tech Growth Hacks",
+      "publishedAt": "2026-07-27T11:53:33Z",
+      "firstSeenAt": "2026-07-27T19:53:33Z"
+    },
+    {
+      "id": "BzkvacVqftQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Top Tech Growth Hacks",
+      "publishedAt": "2026-07-27T11:53:33Z",
+      "firstSeenAt": "2026-07-27T19:53:33Z"
+    },
+    {
+      "id": "s1q5nSCUFHA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Top Tech Growth Hacks",
+      "publishedAt": "2026-07-27T11:53:33Z",
+      "firstSeenAt": "2026-07-27T19:53:33Z"
+    },
     {
       "id": "2jsjiwV_1pA",
       "type": "short",
@@ -3011,6 +3075,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-07-27T19:53:33Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
