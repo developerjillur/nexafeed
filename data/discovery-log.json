@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T06:01:51Z",
+  "updatedAt": "2026-07-27T06:28:09Z",
   "items": [
+    {
+      "id": "nIpKFmPDrZE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Creative Pad Media",
+      "publishedAt": "2026-07-27T06:20:11Z",
+      "firstSeenAt": "2026-07-27T06:28:09Z"
+    },
+    {
+      "id": "9MXjF0IxB2A",
+      "type": "short",
+      "source": "primary",
+      "channel": "Greg Preece",
+      "publishedAt": "2026-05-04T17:22:11Z",
+      "firstSeenAt": "2026-07-27T06:28:09Z"
+    },
+    {
+      "id": "WUrBMWU79Q0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Piyush Garg",
+      "publishedAt": "2026-04-29T07:55:00Z",
+      "firstSeenAt": "2026-07-27T06:28:09Z"
+    },
+    {
+      "id": "OUtOEcyiSOU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Piyush Garg",
+      "publishedAt": "2026-04-21T10:00:38Z",
+      "firstSeenAt": "2026-07-27T06:28:09Z"
+    },
+    {
+      "id": "QjeZmyhxPFA",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rakin Jakaria",
+      "publishedAt": "2026-04-18T19:36:53Z",
+      "firstSeenAt": "2026-07-27T06:28:09Z"
+    },
+    {
+      "id": "0KtjCXDdm00",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rakin Jakaria",
+      "publishedAt": "2026-04-10T10:04:57Z",
+      "firstSeenAt": "2026-07-27T06:28:09Z"
+    },
+    {
+      "id": "On_sbp-q3pU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Brendan Automation",
+      "publishedAt": "2026-02-19T10:34:51Z",
+      "firstSeenAt": "2026-07-27T06:28:09Z"
+    },
+    {
+      "id": "RDGUDkb05R0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Brendan Automation",
+      "publishedAt": "2026-02-16T10:29:26Z",
+      "firstSeenAt": "2026-07-27T06:28:09Z"
+    },
+    {
+      "id": "2iqBdB4PdcE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI WITH Rithesh",
+      "publishedAt": "2026-07-27T04:28:09Z",
+      "firstSeenAt": "2026-07-27T06:28:09Z"
+    },
     {
       "id": "3dThL-OwxRo",
       "type": "short",
@@ -2073,6 +2145,15 @@
       "new": 291,
       "long": 133,
       "shorts": 158,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-07-27T06:28:09Z",
+      "new": 9,
+      "long": 1,
+      "shorts": 8,
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
