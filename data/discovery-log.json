@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T07:46:18Z",
+  "updatedAt": "2026-07-27T08:53:42Z",
   "items": [
+    {
+      "id": "gpsH3hhRKrA",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-07-27T08:51:18Z",
+      "firstSeenAt": "2026-07-27T08:53:42Z"
+    },
+    {
+      "id": "ka22PLsu6nU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nick Ponte",
+      "publishedAt": "2026-07-26T18:53:42Z",
+      "firstSeenAt": "2026-07-27T08:53:42Z"
+    },
+    {
+      "id": "gGW2IMNOz68",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Make Money with Stacy La",
+      "publishedAt": "2026-07-26T18:53:42Z",
+      "firstSeenAt": "2026-07-27T08:53:42Z"
+    },
+    {
+      "id": "0i_APvGWUA4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Automate AI Consulting",
+      "publishedAt": "2026-07-26T15:53:42Z",
+      "firstSeenAt": "2026-07-27T08:53:42Z"
+    },
+    {
+      "id": "Q5iMq2Wh3MQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anton Voroniuk | GenAI Revolution Podcast",
+      "publishedAt": "2026-07-26T13:53:42Z",
+      "firstSeenAt": "2026-07-27T08:53:42Z"
+    },
+    {
+      "id": "jch2U6d5tzk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DEX AI",
+      "publishedAt": "2026-07-26T12:53:42Z",
+      "firstSeenAt": "2026-07-27T08:53:42Z"
+    },
+    {
+      "id": "NUvwp5hSzEM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Understandable By Yarra",
+      "publishedAt": "2026-07-26T10:53:42Z",
+      "firstSeenAt": "2026-07-27T08:53:42Z"
+    },
+    {
+      "id": "XyKewuqe4l4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Charlie Hills",
+      "publishedAt": "2026-07-26T09:53:42Z",
+      "firstSeenAt": "2026-07-27T08:53:42Z"
+    },
     {
       "id": "6IY5Zc_AkYg",
       "type": "long",
@@ -2248,6 +2312,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-07-27T08:53:42Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
