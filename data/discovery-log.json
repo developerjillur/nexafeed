@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T13:53:40Z",
+  "updatedAt": "2026-07-27T14:53:48Z",
   "items": [
+    {
+      "id": "a0aJdjH9Cvg",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-07-27T14:39:59Z",
+      "firstSeenAt": "2026-07-27T14:53:48Z"
+    },
+    {
+      "id": "nExo3f75EAs",
+      "type": "long",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-07-27T14:03:14Z",
+      "firstSeenAt": "2026-07-27T14:53:48Z"
+    },
+    {
+      "id": "BrQrhcvrzhA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Max Max",
+      "publishedAt": "2026-07-27T14:15:48Z",
+      "firstSeenAt": "2026-07-27T14:53:48Z"
+    },
+    {
+      "id": "Ot8afGwlHaw",
+      "type": "short",
+      "source": "secondary",
+      "channel": "n8n Lab",
+      "publishedAt": "2026-07-27T13:53:48Z",
+      "firstSeenAt": "2026-07-27T14:53:48Z"
+    },
+    {
+      "id": "2o9YFGVn4mc",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Total VDO",
+      "publishedAt": "2026-07-27T09:53:48Z",
+      "firstSeenAt": "2026-07-27T14:53:48Z"
+    },
+    {
+      "id": "2wL5MhwTsbA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sandy Lee AI",
+      "publishedAt": "2026-07-26T19:53:48Z",
+      "firstSeenAt": "2026-07-27T14:53:48Z"
+    },
+    {
+      "id": "1B_8Xdsgbgk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Azim Kodirov | AI For Insurance Agencies",
+      "publishedAt": "2026-07-26T16:53:48Z",
+      "firstSeenAt": "2026-07-27T14:53:48Z"
+    },
+    {
+      "id": "2_1YYPiy0Bo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sean Standberry",
+      "publishedAt": "2026-07-26T15:53:48Z",
+      "firstSeenAt": "2026-07-27T14:53:48Z"
+    },
     {
       "id": "p1aJ-xLkfVI",
       "type": "short",
@@ -2678,6 +2742,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-07-27T14:53:48Z",
+      "new": 8,
+      "long": 5,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
