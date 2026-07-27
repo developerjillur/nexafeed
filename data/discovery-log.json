@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T10:53:51Z",
+  "updatedAt": "2026-07-27T11:53:25Z",
   "items": [
+    {
+      "id": "jgPYP50IE5I",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-07-27T11:40:14Z",
+      "firstSeenAt": "2026-07-27T11:53:25Z"
+    },
+    {
+      "id": "3mG9LJ9k_wY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Monetized Mom® | Christian Mom Entrepreneurs",
+      "publishedAt": "2026-07-26T20:53:25Z",
+      "firstSeenAt": "2026-07-27T11:53:25Z"
+    },
+    {
+      "id": "OaFmRHiKp68",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Naveen AutomationLabs",
+      "publishedAt": "2026-07-26T17:53:25Z",
+      "firstSeenAt": "2026-07-27T11:53:25Z"
+    },
+    {
+      "id": "TUbMI8r0rec",
+      "type": "long",
+      "source": "secondary",
+      "channel": "EncycloMedia Hub and MoqAutomation ",
+      "publishedAt": "2026-07-26T15:53:25Z",
+      "firstSeenAt": "2026-07-27T11:53:25Z"
+    },
+    {
+      "id": "u4QQusHKBLg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mr Hassnain 2.0",
+      "publishedAt": "2026-07-26T14:53:25Z",
+      "firstSeenAt": "2026-07-27T11:53:25Z"
+    },
+    {
+      "id": "_9u3iHMl9UM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hasan Skill Zone",
+      "publishedAt": "2026-07-26T13:53:25Z",
+      "firstSeenAt": "2026-07-27T11:53:25Z"
+    },
+    {
+      "id": "SMpt0nEmK5g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SAGAR THE TECH",
+      "publishedAt": "2026-07-26T12:53:25Z",
+      "firstSeenAt": "2026-07-27T11:53:25Z"
+    },
     {
       "id": "2zdWI2SYB9I",
       "type": "long",
@@ -2467,6 +2523,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-07-27T11:53:25Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
