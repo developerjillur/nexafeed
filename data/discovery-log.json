@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T20:53:46Z",
+  "updatedAt": "2026-07-27T21:53:04Z",
   "items": [
+    {
+      "id": "XpmtyjgPTVo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Professor Dr Javed Iqbal",
+      "publishedAt": "2026-07-27T16:53:04Z",
+      "firstSeenAt": "2026-07-27T21:53:04Z"
+    },
+    {
+      "id": "hrEZa-rVpO0",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Ekattor TV",
+      "publishedAt": "2026-07-27T15:53:04Z",
+      "firstSeenAt": "2026-07-27T21:53:04Z"
+    },
+    {
+      "id": "g9v7r-fwXTs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Urdu Cover",
+      "publishedAt": "2026-07-27T13:53:04Z",
+      "firstSeenAt": "2026-07-27T21:53:04Z"
+    },
+    {
+      "id": "ZmippHFsIIQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rehan Allahwala",
+      "publishedAt": "2026-07-27T11:53:04Z",
+      "firstSeenAt": "2026-07-27T21:53:04Z"
+    },
+    {
+      "id": "jYHQRP28hGM",
+      "type": "short",
+      "source": "secondary",
+      "channel": "ABC News",
+      "publishedAt": "2026-07-27T10:53:04Z",
+      "firstSeenAt": "2026-07-27T21:53:04Z"
+    },
     {
       "id": "frZ6QZ1FM6I",
       "type": "short",
@@ -3133,6 +3173,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-07-27T21:53:04Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
