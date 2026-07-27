@@ -159,7 +159,10 @@ img { display: block; max-width: 100%; }
   padding: 18px 12px 22px;
   border-right: 1px solid var(--border);
   background: var(--bg);
+  transition: transform .18s ease;
 }
+body.sidebar-collapsed .sidebar { transform: translateX(-100%); }
+body.sidebar-collapsed .content { margin-left: 0; }
 .sidebar nav { display: grid; gap: 5px; }
 .sidebar nav button {
   display: grid;
@@ -240,8 +243,12 @@ img { display: block; max-width: 100%; }
 }
 .chip:hover { background: var(--hover); }
 .chip.active { background: var(--text); color: var(--bg); }
+.count-chip { border: 1px solid transparent; }
+.count-chip.active { background: var(--surface-2); border-color: currentColor; }
 .unwatched-count { color: var(--red); }
 .fresh-count { color: var(--blue); }
+.count-chip.active.unwatched-count { color: var(--red); }
+.count-chip.active.fresh-count { color: var(--blue); }
 
 .section { max-width: 1680px; margin: 0 auto 42px; }
 .section-head {
@@ -273,14 +280,45 @@ img { display: block; max-width: 100%; }
 .section h1 { margin: 0; font-size: 22px; letter-spacing: -.4px; }
 .section-head > span { color: var(--muted); font-size: 12px; }
 
+.short-carousel {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 10px;
+}
 .shorts-row {
   display: grid;
-  grid-auto-columns: minmax(165px, 205px);
+  grid-auto-columns: clamp(155px, 11.5vw, 205px);
   grid-auto-flow: column;
   gap: 16px;
-  padding-bottom: 12px;
+  padding: 2px 2px 14px;
   overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  scroll-behavior: smooth;
+  scroll-padding-inline: 4px;
+  scroll-snap-type: inline mandatory;
+  scrollbar-width: none;
 }
+.shorts-row::-webkit-scrollbar { display: none; }
+.short-card { scroll-snap-align: start; }
+.carousel-nav {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  cursor: pointer;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--surface-2) 88%, transparent);
+  color: var(--text);
+  font-size: 26px;
+  font-weight: 700;
+  box-shadow: var(--shadow);
+}
+.carousel-nav:hover { background: var(--hover); }
+.carousel-nav.prev { margin-left: -6px; }
+.carousel-nav.next { margin-right: -6px; }
 .short-card, .video-card, .queue-card {
   padding: 0;
   cursor: pointer;
@@ -613,7 +651,7 @@ img { display: block; max-width: 100%; }
 .drawer-empty > span { font-size: 28px; }
 .drawer-empty strong { margin-top: 12px; }
 .drawer-empty p { color: #aaa; font-size: 12px; line-height: 1.55; }
-.short-controls { display: grid; gap: 10px; }
+.short-controls { display: grid; align-self: center; align-content: center; gap: 12px; height: auto; }
 .short-controls button {
   display: grid;
   width: 48px;
@@ -729,10 +767,11 @@ img { display: block; max-width: 100%; }
 }
 @media (max-width: 900px) {
   .sidebar { transform: translateX(-102%); box-shadow: var(--shadow); transition: transform .2s ease; }
-  .sidebar.open { transform: translateX(0); }
+  .sidebar.open, body.sidebar-collapsed .sidebar.open { transform: translateX(0); }
+  body.sidebar-collapsed .sidebar { transform: translateX(-102%); }
   .scrim { position: fixed; z-index: 35; inset: 64px 0 0; display: block; pointer-events: none; background: rgba(0,0,0,.55); opacity: 0; transition: opacity .2s; }
   .scrim.open { pointer-events: auto; opacity: 1; }
-  .content { margin-left: 0; }
+  .content, body.sidebar-collapsed .content { margin-left: 0; }
   .player-layout { grid-template-columns: 1fr; }
   .queue-list { max-height: 480px; }
 }
@@ -746,6 +785,8 @@ img { display: block; max-width: 100%; }
   .toolbar { top: 108px; margin: -16px -14px 18px; padding: 7px 14px; }
   .chip { padding: 0 11px; font-size: 11px; }
   .video-grid { grid-template-columns: 1fr; }
+  .short-carousel { grid-template-columns: minmax(0, 1fr); }
+  .carousel-nav { display: none; }
   .shorts-row { grid-auto-columns: minmax(145px, 45vw); }
   .player-frame { margin-inline: -14px; border-radius: 0; }
   .short-stage { position: relative; width: 100%; max-width: none; height: 100%; gap: 0; padding: 0; }

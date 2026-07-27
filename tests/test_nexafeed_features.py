@@ -35,9 +35,14 @@ class FrontendFeatureTests(unittest.TestCase):
             "addChannelRow",
             "applyFeedSettings",
             "NEXAFEED_CONFIG_V1:GZIP_BASE64URL",
+            "applySearchInput",
+            "data-quick-filter",
+            "shortsCarousel",
+            "data-carousel-scroll",
+            "collapseRepeatedItems",
         ]:
             self.assertIn(marker, app_js)
-        for marker in [".short-drawer", ".short-action-stack", ".channel-editor-row"]:
+        for marker in [".short-drawer", ".short-action-stack", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed"]:
             self.assertIn(marker, style_css)
         self.assertTrue(workflow_path.is_file())
         workflow = workflow_path.read_text(encoding="utf-8")
@@ -236,6 +241,48 @@ class EmbedFilteringTests(unittest.TestCase):
         self.assertEqual(blocked, 1)
         self.assertTrue(filtered[0]["embedAllowed"])
         self.assertNotIn("embedAllowed", filtered[1])
+
+    def test_repeated_titles_from_same_channel_are_collapsed(self):
+        updater = load_module("nexafeed_update_duplicate_collapse", ROOT / "scripts/nexafeed_update.py")
+        items = [
+            {
+                "id": "lowviews001",
+                "type": "short",
+                "title": "The World's First AI Coding Keyboard? #AI #OpenAI #Coding",
+                "channelId": "UC-test",
+                "channel": "BPro Club",
+                "viewCount": 15,
+                "source": "primary",
+                "priority": 1,
+                "publishedAt": "2026-07-27T09:00:00Z",
+            },
+            {
+                "id": "highviews01",
+                "type": "short",
+                "title": "The World's First AI Coding Keyboard? #AI #OpenAI #Coding",
+                "channelId": "UC-test",
+                "channel": "BPro Club",
+                "viewCount": 399,
+                "source": "primary",
+                "priority": 1,
+                "publishedAt": "2026-07-27T08:00:00Z",
+            },
+            {
+                "id": "different01",
+                "type": "short",
+                "title": "A different AI coding update",
+                "channelId": "UC-test",
+                "channel": "BPro Club",
+                "viewCount": 1,
+                "source": "primary",
+                "priority": 1,
+                "publishedAt": "2026-07-27T08:00:00Z",
+            },
+        ]
+
+        collapsed = updater.collapse_repeated_items(items)
+
+        self.assertEqual([item["id"] for item in collapsed], ["highviews01", "different01"])
 
 
 if __name__ == "__main__":

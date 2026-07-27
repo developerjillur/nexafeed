@@ -18,6 +18,7 @@ const state = {
   settingsDraft: null,
   view: "home",
   query: "",
+  quickFilter: "all",
   watched: readJson(WATCHED_KEY, {}),
   progress: readJson(PROGRESS_KEY, {}),
   theme: localStorage.getItem(THEME_KEY) || "dark",
@@ -112,6 +113,51 @@ function isFresh(video) {
   return Number.isFinite(firstSeen) && Date.now() - firstSeen <= freshHours * 3600000;
 }
 
+function searchableText(item) {
+  return `${item.title || ""} ${item.channel || ""} ${item.handle || ""} ${item.topic || ""} ${item.category || ""}`.toLowerCase();
+}
+
+function normalizedTitle(value = "") {
+  return String(value)
+    .toLowerCase()
+    .replace(/#[\p{L}\p{N}_-]+/gu, "")
+    .replace(/[^\p{L}\p{N}]+/gu, " ")
+    .replace(/\b(shorts?|video|viral)\b/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function duplicateKey(item) {
+  const title = normalizedTitle(item.title);
+  if (title.length < 18 || ["untitled facebook", "untitled"].includes(title)) return "";
+  const channel = String(item.channelId || item.handle || item.channel || "").toLowerCase();
+  return `${item.type || "video"}|${channel}|${title}`;
+}
+
+function betterDuplicate(candidate, current) {
+  if (!current) return candidate;
+  if (current.source !== candidate.source) return candidate.source === "primary" ? candidate : current;
+  if ((candidate.priority || 99) !== (current.priority || 99)) return (candidate.priority || 99) < (current.priority || 99) ? candidate : current;
+  if ((candidate.viewCount || 0) !== (current.viewCount || 0)) return (candidate.viewCount || 0) > (current.viewCount || 0) ? candidate : current;
+  const candidateDate = new Date(candidate.publishedAt || 0).getTime();
+  const currentDate = new Date(current.publishedAt || 0).getTime();
+  return candidateDate > currentDate ? candidate : current;
+}
+
+function collapseRepeatedItems(items) {
+  const byId = new Set();
+  const bySemantic = new Map();
+  const orderedKeys = [];
+  for (const item of items) {
+    if (!item?.id || byId.has(item.id)) continue;
+    byId.add(item.id);
+    const key = duplicateKey(item) || `id:${item.id}`;
+    if (!bySemantic.has(key)) orderedKeys.push(key);
+    bySemantic.set(key, betterDuplicate(item, bySemantic.get(key)));
+  }
+  return orderedKeys.map((key) => bySemantic.get(key)).filter(Boolean);
+}
+
 function timeAgo(value) {
   const stamp = new Date(value).getTime();
   if (!Number.isFinite(stamp)) return "Recently";
@@ -200,9 +246,9 @@ function toolbar() {
   return `
     <div class="toolbar">
       <div class="chips">
-        ${options.map(([id, label]) => `<button class="chip ${state.view === id ? "active" : ""}" data-view="${id}">${label}</button>`).join("")}
-        <span class="chip unwatched-count">${unwatched} unwatched</span>
-        <span class="chip fresh-count">${fresh} new</span>
+        ${options.map(([id, label]) => `<button class="chip ${state.view === id && state.quickFilter === "all" ? "active" : ""}" data-view="${id}">${label}</button>`).join("")}
+        <button class="chip count-chip unwatched-count ${state.quickFilter === "unwatched" ? "active" : ""}" data-quick-filter="unwatched">${unwatched} unwatched</button>
+        <button class="chip count-chip fresh-count ${state.quickFilter === "fresh" ? "active" : ""}" data-quick-filter="fresh">${fresh} new</button>
       </div>
       ${state.query ? `<button class="chip" id="clearSearch">“${escapeHtml(state.query)}” ×</button>` : ""}
     </div>`;
@@ -419,33 +465,36 @@ function filteredItems() {
   let items = [...state.feed.items].filter(
     (item) => item.embedAllowed !== false && !state.unavailableVideos.has(item.id),
   );
-  if (state.query) {
-    const query = state.query.toLowerCase();
-    items = items.filter((item) =>
-      `${item.title} ${item.channel} ${item.handle || ""} ${item.topic || ""} ${item.category || ""}`
-        .toLowerCase()
-        .includes(query),
-    );
+  const hasQuery = Boolean(state.query);
+  if (hasQuery) {
+    const terms = state.query.toLowerCase().split(/\s+/).filter(Boolean);
+    items = items.filter((item) => terms.every((term) => searchableText(item).includes(term)));
   }
   if (state.view === "history") {
-    return items
+    items = items
       .filter((item) => isWatched(item.id))
       .sort((a, b) => state.watched[b.id] - state.watched[a.id]);
+  } else if (!hasQuery) {
+    items = items.filter((item) => !isWatched(item.id));
   }
-  items = items.filter((item) => !isWatched(item.id));
+  if (state.quickFilter === "unwatched") items = items.filter((item) => !isWatched(item.id));
+  if (state.quickFilter === "fresh") items = items.filter(isFresh);
   if (state.view === "shorts") items = items.filter((item) => item.type === "short");
   if (state.view === "long") items = items.filter((item) => item.type === "long");
-  return items;
+  return collapseRepeatedItems(items);
 }
 
 function feedView() {
   const items = filteredItems();
   if (!items.length) {
+    const searchEmpty = Boolean(state.query);
     return toolbar() + emptyState(
-      state.view === "history" ? "No watched videos yet" : "You're all caught up",
+      state.view === "history" ? "No watched videos yet" : searchEmpty ? "No matching videos" : "You're all caught up",
       state.view === "history"
         ? "Videos appear here after you watch at least 80% or mark them watched."
-        : "Watched videos stay hidden. New uploads will arrive on the next hourly refresh.",
+        : searchEmpty
+          ? "Try a channel name, title keyword, topic, or category. Search updates live as you type."
+          : "Watched videos stay hidden. New uploads will arrive on the next hourly refresh.",
     );
   }
 
@@ -457,7 +506,11 @@ function feedView() {
           <div class="section-title"><span class="section-icon">ϟ</span><div><p class="eyebrow">Vertical playlist</p><h1>${state.view === "history" ? "Watched Shorts" : "Latest Shorts"}</h1></div></div>
           <span>${shorts.length} videos</span>
         </div>
-        <div class="shorts-row">${shorts.map(shortCard).join("")}</div>
+        <div class="short-carousel">
+          <button class="carousel-nav prev" type="button" data-carousel-scroll="shorts" data-direction="-1" aria-label="Previous Shorts">‹</button>
+          <div class="shorts-row" id="shortsCarousel" tabindex="0" aria-label="Shorts carousel">${shorts.map(shortCard).join("")}</div>
+          <button class="carousel-nav next" type="button" data-carousel-scroll="shorts" data-direction="1" aria-label="Next Shorts">›</button>
+        </div>
       </section>`
     : "";
   const longSection = longVideos.length && state.view !== "shorts"
@@ -802,6 +855,7 @@ function selectView(view) {
   state.view = view;
   state.activeVideo = null;
   state.query = "";
+  state.quickFilter = "all";
   searchInput.value = "";
   destroyPlayer();
   sidebar.classList.remove("open");
@@ -860,7 +914,7 @@ async function loadFeed() {
     state.feedSettings = feedSettings;
     state.settingsDraft = null;
     state.feed.items = Array.isArray(state.feed.items)
-      ? state.feed.items.filter((item) => item.embedAllowed !== false)
+      ? collapseRepeatedItems(state.feed.items.filter((item) => item.embedAllowed !== false))
       : [];
     state.feed.items.sort((a, b) => {
       if (a.source !== b.source) return a.source === "primary" ? -1 : 1;
@@ -877,10 +931,33 @@ async function loadFeed() {
   }
 }
 
-document.querySelector("#menuButton").addEventListener("click", () => {
-  sidebar.classList.toggle("open");
-  scrim.classList.toggle("open");
-});
+function toggleSidebar() {
+  const mobile = window.matchMedia("(max-width: 860px)").matches;
+  if (mobile) {
+    sidebar.classList.toggle("open");
+    scrim.classList.toggle("open", sidebar.classList.contains("open"));
+    return;
+  }
+  document.body.classList.toggle("sidebar-collapsed");
+}
+
+function applySearchInput() {
+  state.query = searchInput.value.trim();
+  state.view = state.view === "settings" ? "home" : state.view;
+  state.quickFilter = "all";
+  state.activeVideo = null;
+  destroyPlayer();
+  render();
+}
+
+function scrollShortCarousel(direction) {
+  const row = document.querySelector("#shortsCarousel");
+  if (!row) return;
+  const step = Math.max(320, Math.floor(row.clientWidth * 0.82));
+  row.scrollBy({ left: step * direction, behavior: "smooth" });
+}
+
+document.querySelector("#menuButton").addEventListener("click", toggleSidebar);
 scrim.addEventListener("click", () => {
   sidebar.classList.remove("open");
   scrim.classList.remove("open");
@@ -895,11 +972,9 @@ document.querySelector("#themeButton").addEventListener("click", (event) => {
 });
 document.querySelector("#searchForm").addEventListener("submit", (event) => {
   event.preventDefault();
-  state.query = searchInput.value.trim();
-  state.view = "home";
-  state.activeVideo = null;
-  render();
+  applySearchInput();
 });
+searchInput.addEventListener("input", applySearchInput);
 document.querySelector("#mainNav").addEventListener("click", (event) => {
   const button = event.target.closest("[data-view]");
   if (button) selectView(button.dataset.view);
@@ -907,6 +982,22 @@ document.querySelector("#mainNav").addEventListener("click", (event) => {
 app.addEventListener("click", (event) => {
   const viewButton = event.target.closest("[data-view]");
   if (viewButton) return selectView(viewButton.dataset.view);
+
+  const quickFilterButton = event.target.closest("[data-quick-filter]");
+  if (quickFilterButton) {
+    state.quickFilter = state.quickFilter === quickFilterButton.dataset.quickFilter ? "all" : quickFilterButton.dataset.quickFilter;
+    state.view = state.view === "settings" ? "home" : state.view;
+    state.activeVideo = null;
+    destroyPlayer();
+    render();
+    return;
+  }
+
+  const carouselButton = event.target.closest("[data-carousel-scroll]");
+  if (carouselButton) {
+    scrollShortCarousel(Number(carouselButton.dataset.direction || 1));
+    return;
+  }
 
   const shortButton = event.target.closest("[data-short-id]");
   if (shortButton) {
@@ -939,6 +1030,7 @@ app.addEventListener("click", (event) => {
   }
   if (event.target.closest("#clearSearch")) {
     state.query = "";
+    state.quickFilter = "all";
     searchInput.value = "";
     render();
   }

@@ -796,6 +796,52 @@ def enrich_and_filter_items(
     return output, blocked
 
 
+def normalized_duplicate_title(value: Any) -> str:
+    text = html.unescape(str(value or "")).lower()
+    text = re.sub(r"#[\w.-]+", " ", text)
+    text = re.sub(r"[^\w]+", " ", text, flags=re.UNICODE)
+    text = re.sub(r"\b(shorts?|video|viral)\b", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def semantic_duplicate_key(item: dict[str, Any]) -> str:
+    title = normalized_duplicate_title(item.get("title"))
+    if len(title) < 18 or title in {"untitled", "untitled facebook"}:
+        return ""
+    channel = str(item.get("channelId") or item.get("handle") or item.get("channel") or "").casefold()
+    return f"{item.get('type') or 'video'}|{channel}|{title}"
+
+
+def better_duplicate_item(candidate: dict[str, Any], current: dict[str, Any] | None) -> dict[str, Any]:
+    if current is None:
+        return candidate
+    if current.get("source") != candidate.get("source"):
+        return candidate if candidate.get("source") == "primary" else current
+    if int(candidate.get("priority") or 99) != int(current.get("priority") or 99):
+        return candidate if int(candidate.get("priority") or 99) < int(current.get("priority") or 99) else current
+    if int(candidate.get("viewCount") or 0) != int(current.get("viewCount") or 0):
+        return candidate if int(candidate.get("viewCount") or 0) > int(current.get("viewCount") or 0) else current
+    candidate_date = parse_datetime(candidate.get("publishedAt")) or dt.datetime.min.replace(tzinfo=UTC)
+    current_date = parse_datetime(current.get("publishedAt")) or dt.datetime.min.replace(tzinfo=UTC)
+    return candidate if candidate_date > current_date else current
+
+
+def collapse_repeated_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    by_id: set[str] = set()
+    ordered_keys: list[str] = []
+    by_key: dict[str, dict[str, Any]] = {}
+    for item in items:
+        video_id = str(item.get("id") or "")
+        if not video_id or video_id in by_id:
+            continue
+        by_id.add(video_id)
+        key = semantic_duplicate_key(item) or f"id:{video_id}"
+        if key not in by_key:
+            ordered_keys.append(key)
+        by_key[key] = better_duplicate_item(item, by_key.get(key))
+    return [by_key[key] for key in ordered_keys]
+
+
 def read_channels() -> list[dict[str, Any]]:
     with CHANNELS_PATH.open("r", encoding="utf-8-sig", newline="") as handle:
         rows = list(csv.DictReader(handle))
@@ -1228,7 +1274,7 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
             -published.timestamp(),
         )
 
-    candidate_items = sorted(deduped.values(), key=sort_key)[: int(config.get("maxFeedItems", 340))]
+    candidate_items = collapse_repeated_items(sorted(deduped.values(), key=sort_key))[: int(config.get("maxFeedItems", 340))]
     if args.no_details:
         details = previous_details
         detail_status = {"planned": 0, "checked": 0, "warnings": 0, "errors": [], "disabled": True}
