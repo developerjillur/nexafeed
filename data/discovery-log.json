@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T19:53:33Z",
+  "updatedAt": "2026-07-27T20:53:46Z",
   "items": [
+    {
+      "id": "frZ6QZ1FM6I",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-07-27T20:17:35Z",
+      "firstSeenAt": "2026-07-27T20:53:46Z"
+    },
+    {
+      "id": "LRqnlaVyb7g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Tech Flap",
+      "publishedAt": "2026-07-27T15:53:46Z",
+      "firstSeenAt": "2026-07-27T20:53:46Z"
+    },
+    {
+      "id": "CTknA1gykmg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Caleb Curry",
+      "publishedAt": "2026-07-27T14:53:46Z",
+      "firstSeenAt": "2026-07-27T20:53:46Z"
+    },
+    {
+      "id": "tHh0UaL_V4w",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Corey Schafer",
+      "publishedAt": "2026-07-27T13:53:46Z",
+      "firstSeenAt": "2026-07-27T20:53:46Z"
+    },
+    {
+      "id": "vxW1JVrEK3k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Founders Unchained",
+      "publishedAt": "2026-07-27T12:53:46Z",
+      "firstSeenAt": "2026-07-27T20:53:46Z"
+    },
     {
       "id": "ff7FOR3Y0uA",
       "type": "short",
@@ -3084,6 +3124,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-07-27T20:53:46Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
