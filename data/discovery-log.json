@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T08:53:42Z",
+  "updatedAt": "2026-07-27T09:53:51Z",
   "items": [
+    {
+      "id": "BcF-RT6I5Vw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Decred",
+      "publishedAt": "2026-07-26T16:53:51Z",
+      "firstSeenAt": "2026-07-27T09:53:51Z"
+    },
+    {
+      "id": "bNF6NN5PPPU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-07-26T15:53:51Z",
+      "firstSeenAt": "2026-07-27T09:53:51Z"
+    },
+    {
+      "id": "sK3PVWnbflk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Skill-Wanderer",
+      "publishedAt": "2026-07-26T15:53:51Z",
+      "firstSeenAt": "2026-07-27T09:53:51Z"
+    },
+    {
+      "id": "FE1Uyhg5hjw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Alex Ziskind",
+      "publishedAt": "2026-07-26T14:53:51Z",
+      "firstSeenAt": "2026-07-27T09:53:51Z"
+    },
+    {
+      "id": "uQnvqiItk8s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Chai aur Code",
+      "publishedAt": "2026-07-26T14:53:51Z",
+      "firstSeenAt": "2026-07-27T09:53:51Z"
+    },
+    {
+      "id": "I6JnoFBdWIU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bit Cloud",
+      "publishedAt": "2026-07-26T10:53:51Z",
+      "firstSeenAt": "2026-07-27T09:53:51Z"
+    },
+    {
+      "id": "UsZWycrlVVA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Cloud Codes",
+      "publishedAt": "2026-07-26T09:53:51Z",
+      "firstSeenAt": "2026-07-27T09:53:51Z"
+    },
     {
       "id": "gpsH3hhRKrA",
       "type": "short",
@@ -2321,6 +2377,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-07-27T09:53:51Z",
+      "new": 7,
+      "long": 7,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T08:53:42Z",
+  "updatedAt": "2026-07-27T09:53:51Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -429,10 +429,10 @@
       "likeCount": 6
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-27T08:53:42Z",
+      "checkedAt": "2026-07-27T09:53:51Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "nIpKFmPDrZE": {
       "checkedAt": "2026-07-27T07:46:18Z",
@@ -1845,7 +1845,7 @@
       "probeClient": "web_embedded"
     },
     "u8o8OAbLuDo": {
-      "checkedAt": "2026-07-27T08:53:42Z",
+      "checkedAt": "2026-07-27T09:53:51Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4568,6 +4568,69 @@
       "description": "Imagine running your business from WhatsApp. You send one message, and an AI agent logs the task to your team's Notion, does your content research, and can even run Claude Code on your Mac. All from a text. No dashboard, no code, and it only ever does what you allow.\n\nThat agent is Hermes, an open-source project you install on your Mac. In this video I set it up from scratch and show you exactly how I run mine every day inside my business.\n\nHere is what you will build:\n\n- Hermes installed on your Mac in a few terminal commands (I show the one thing you need first, Node.js)\n- A cheap model setup that runs it for a fraction of frontier prices (I use DeepSeek and GLM through the Nous portal, one subscription for every model)\n- Your agent living inside WhatsApp, wired to a second phone number so it stays separate from your own\n- A SOUL.md file that gives it a personality, your team, your channels and your house rules, all in plain English\n- Claude Code doing the fiddly wiring for you, so you never touch anything you do not understand\n- Notion connected, so it works from your real data and logs tasks straight to your team's boards instead of guessing\n- Content research on tap, where you drop a social link and it scrapes with Apify, reads it with Gemini and tells you whether it is worth posting\n- A permissions gate you control, so it only ever replies to the people you choose\n\nBy the end you have an agent that runs your ops from your pocket, and does nothing you have not signed off.\n\nWant the full beginner to advanced guide? It is in the newsletter:\nhttps://charliehills.substack.com/p/hermes-agent-beginner-advanced\n\nInstall Hermes (Mac or Linux):\ncurl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash\n\nCHAPTERS\n00:00 What Hermes Agent is (and what changed since OpenClaw)\n00:32 Get it: the Mac app vs the terminal install\n00:55 Run the install command (you need Node.js)\n01:35 Pick your model (skip the expensive ones)\n02:03 Every model on one subscription (the Nous portal)\n02:44 What I actually run it on: GLM then DeepSeek\n03:18 Choose your channel (I use WhatsApp)\n03:44 Link your device (and the second-number trick)\n04:08 SOUL.md: give your agent its personality\n04:26 Map your team, channels and house rules\n05:21 Let Claude Code do the setup for you\n05:55 Connect Notion so it works from your real data\n06:38 Content research: Apify and Gemini score what is worth posting\n07:26 Run Claude Code by texting WhatsApp\n07:50 Set who it is allowed to reply to (the safety gate)\n08:27 Recap: what the setup actually takes\n08:48 How it got smarter over a few weeks\n09:06 Get the full guide\n\nTHE TOOLS\n\nHermes Agent (Nous Research) - https://hermes-agent.nousresearch.com\nClaude Code - the agent that does the setup and runs on your Mac\nNotion - your team hub and task boards\nApify + Gemini - the content research lane\n\nMORE FROM ME\nNewsletter - https://charliehills.substack.com\nLinkedIn - https://www.linkedin.com/in/charlie-hills/\nInstagram - https://www.instagram.com/charliehills/\nX - https://x.com/charliejhills\nYouTube - https://youtube.com/@CharlieHillsAI\n\n#hermesagent #aiagent #whatsappai #claudecode #aiautomation #nocode #aiforbusiness #nousresearch #aiassistant #automatebusiness #aiworkflow #deepseek #aitools #productivity #aiops",
       "commentCount": 0,
       "likeCount": 8,
+      "probeClient": "web_embedded"
+    },
+    "BcF-RT6I5Vw": {
+      "checkedAt": "2026-07-27T09:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Welcome everyone, and thanks for joining us.\n\nIn this show we're going to explore something that's changing software development: the impact of AI on open source development, and specifically what that means for Decred.\n\nThis isn't a discussion about replacing developers or having AI write consensus code. Core protocol development still demands deep expertise, rigorous review, and human judgement. That's not changing anytime soon, we’ll be looking at the work these guys don’t enjoy. Mundane design, text copy, and the UI review process.\n\nWhat’s changing is the barrier to building better user experiences.\n\nHistorically, creating polished front-end applications, modern websites, and consistent user interfaces required specialist designers, experienced frontend engineers, and often budgets running into hundreds of thousands of dollars. \n\nMany open source projects simply couldn't justify that investment. Today, the equation is different.\n\nWith modern AI tools, someone with modest technical skills, a clear vision, and plenty of persistence can build things that would have previously required an entire team. It's not magic—it still takes a lot of time, iteration, testing, and learning—but the cost of turning ideas into working software has fallen dramatically.\n\nThat's the opportunity we're going to discuss. So whether you're interested in AI, open source, design, or the future of Decred, we hope you'll enjoy the discussion.",
+      "commentCount": 0,
+      "likeCount": 11,
+      "probeClient": "web_embedded"
+    },
+    "bNF6NN5PPPU": {
+      "checkedAt": "2026-07-27T09:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥 Developer Bootcamp & Mentoring Program — Start or level up your career with my proven training and personal mentoring:\nhttps://unclestef.com/\n\n#unclestef #softwaredevelopment #claudecode #devjobs \n\n🎙 New Podcast — Starting a Business at 50 — Follow my journey launching Fit Over 50 with my AI coach, Brad Fit:\nhttps://www.youtube.com/playlist?list=PLGf9oJkCxEjp6tFp22ofXV5OKfp-La_pf\n\n💪 Fit Over 50 — Psychology-Based Fitness & Performance Program — Get leaner, stronger, and build lasting habits:\nhttps://fit-over-50-join-page.grwebsite.com/\n\n🚀 1-on-1 Mentoring & Consultations\n\nCareer Consult — $99 for 15 minutes:\nhttps://calendly.com/uncle-stef/consultation-with-stefan\n\nEntrepreneur / Business Consult — $250 for 30–45 minutes:\nhttps://calendly.com/uncle-stef/entrepreneurs-consult\n\nSponsored Video — Get your questions answered in a video:\nhttps://unclestef.com/blog/2025/03/04/sponsored-video-request/\n\n💻 Popular Coding Courses\nPython 3 Foundations & Certification:\nhttps://school.studioweb.com/store/course/python_3_foundations__&_certification_package\n\nFull Stack Web Developer:\nhttps://school.studioweb.com/store/course/complete_web_developer\n\nComplete Freelancer:\nhttps://school.studioweb.com/store/course/complete_freelancer\n\nComplete Entrepreneur:\nhttps://school.studioweb.com/store/course/complete_web_entrepreneur\n\n🦎 Lizard Wizard Course\nMaster the psychology of learning, habits, and performance — a must for developers and entrepreneurs:\nhttps://school.studioweb.com/store/course/lizard_wizard\n\n📱 Stay Connected\nInstagram: https://www.instagram.com/stefanmischook/?hl=en\nTwitter/X: https://twitter.com/killersites\nBusiness Channel: https://www.youtube.com/channel/UCZdr0ql_B240VBVINAX7Acg\nGoogle Review: https://g.page/studioWebedu/review?mt",
+      "commentCount": 47,
+      "likeCount": 248,
+      "probeClient": "web_embedded"
+    },
+    "sK3PVWnbflk": {
+      "checkedAt": "2026-07-27T09:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Is AI destroying software development, or have we all just been promoted to engineering management?\n\n\nIn this episode, we take a deep dive into the viral blog post by Quan Nguyen, founder of the Skill-Wanderer Guild. Drawing from his years of experience managing human development teams, Quan reveals a surprising reality: building software with AI agents isn't a new paradigm it relies on the exact same delegation, briefing, and leadership mechanics that keep human teams on track.\n\n\n\n\n\n\n🎧 In This Episode:\n\n  •  \n     \n     The Context Sweet Spot: Why sparse prompts cause AI hallucinations and flooded contexts trigger over-engineering.\n     \n  •  \n     \n     The \"God Model\" Fallacy: Why searching for a single best AI model fails, and how to build a specialized AI roster (Claude, ChatGPT, Codex, and Gemini) based on individual strengths.\n     \n  •  \n     \n     Blueprint Over Firefighting: How lightweight Markdown (.md) plans prevent high-speed AI chaos before a single line of code is generated.\n     \n  •  \n     \n     Outcome Ownership: Why \"blaming the AI\" is a career killer, and why human accountability is the ultimate load-bearing skill of the AI era.\n     \n  •  \n     \n     The Unwritten Next Chapter: What happens when AI agents start managing other AI agents?\n     \n\n📖 Read the original article on Skill-Wanderer:https://wanderings.skill-wanderer.com/blog/leading-ai-agents-is-not-much-different-from-leading-people/",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "FE1Uyhg5hjw": {
+      "checkedAt": "2026-07-27T09:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AMD finally answered NVIDIA’s tiny AI box with their own Ryzen AI Halo, but the real question Micro Center is THE AI Destination: https://micro.center/ef6aec\n\nSign up for a FREE 128 gig Flash Drive at Micro Center's Austin Store: https://micro.center/5081af\n\nSign up for a FREE 128 gig Flash Drive at Micro Center's Columbus Store: https://micro.center/d0c09d\n\nVisit Micro Center News: https://micro.center/dee9e8\n\n🛒 Gear Links 🛒\n\n🪛🪛Highly rated precision driver kit: https://amzn.to/4fkMVfg\n💻☕ Favorite 15\" display with magnet: https://amzn.to/3zD1DhQ\n🎧⚡ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW\n🛠️🚀 My nvme ssd: https://amzn.to/3YLEySo\n📦🎮 My gear: https://www.amazon.com/shop/alexziskind\n\n🎥 Related Videos 🎥\n\n🧳🧰 Mini PC portable setup - https://youtu.be/4RYmsrarOSw\n🍎💻 Dev setup on Mac - https://youtu.be/KiKUN4i1SeU\n💸🧠 Cheap mini runs a 70B LLM 🤯 - https://youtu.be/xyKEQjUzfAk\n🧪🔥 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M\n🍏⚡ FREE Local LLMs on Apple Silicon | FAST! - https://youtu.be/bp2eev21Qfo\n🧠📉 REALITY vs Apple’s Memory Claims | vs RTX4090m - https://youtu.be/fdvzQAWXU7A\n🧬🐍 Set up Conda - https://youtu.be/2Acht_5_HTo\n⚡💥 Thunderbolt 5 BREAKS Apple’s Upcharge - https://youtu.be/nHqrvxcRc7o\n🧠🚀 INSANE Machine Learning on Neural Engine - https://youtu.be/Y2FOUg_jo7k\n🧱🖥️ Mac Mini Cluster - https://youtu.be/GBR6pHZ68Ho\n\n* 🛠️ Developer productivity Playlist - https://www.youtube.com/playlist?list=PLPwbI_iIX3aQCRdFGM7j4TY_7STfv2aXX\n🔗 AI for Coding Playlist: 📚 - https://www.youtube.com/playlist?list=PLPwbI_iIX3aSlUmRtYPfbQHt4n0YaX0qw\n\nMy LLM inference calculator GitHub repo: https://github.com/alexziskind1/llm-inference-calculator\n\n— — — — — — — — — \n\n❤️ SUBSCRIBE TO MY YOUTUBE CHANNEL 📺\nClick here to subscribe: https://www.youtube.com/@AZisk?sub_confirmation=1\n\n— — — — — — — — —\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCajiMK_CY9icRhLepS8_3ug/join\n\n— — — — — — — — —\n📱 ALEX on X: https://x.com/digitalix\n\n#amd     #gdxspark    #ryzenaihalo",
+      "commentCount": 371,
+      "likeCount": 3218,
+      "probeClient": "web_embedded"
+    },
+    "uQnvqiItk8s": {
+      "checkedAt": "2026-07-27T09:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "check https://dsa.chaicode.com\nuse code JULY1000\n\nremember, abhi b machine sirf 1 step increase ki h. agr spike load aaye to 2-3 minute baad login kr lena ji\n\nWelcome to chai aur code, a coding/programming dedicated channel in Hindi language. Now you can learn best of programming concepts with industry standard practical guide in Hindi language.\n\nAll source code is available at my Github account:\nhttps://github.com/hiteshchoudhary\n\nOur Open-Source Project is here: https://freeapi.app\n\nJoin me at whatsapp: https://hitesh.ai/whatsapp\n\nfor community discord: https://hitesh.ai/discord\n\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/\n\nHTML video series:  https://www.youtube.com/watch?v=XmLOwJHFHf0&list=PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI\n\nComplete javascript series: https://www.youtube.com/watch?v=Hr5iLG7sUa0&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37\n\nComplete Reactjs series: https://www.youtube.com/watch?v=vz1RlUyrc3w&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige\n\nJavascript and react interview series: https://www.youtube.com/watch?v=1wqCyz7XrV4&list=PLu71SKxNbfoCy_MsA98SBfvUKF5eQit6L\n\nBackend development with Javascript: https://www.youtube.com/watch?v=EH3vGeqeIAo&list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW\n\nPython Series: https://www.youtube.com/watch?v=Ca5DLSDfPec&list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s",
+      "commentCount": 49,
+      "likeCount": 317,
+      "probeClient": "web_embedded"
+    },
+    "I6JnoFBdWIU": {
+      "checkedAt": "2026-07-27T09:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Stop paying AI to relearn your codebase. In this video, we break down why prompt engineering alone isn't enough for production AI coding, how missing context drives up token costs, and why shifting toward Context Engineering changes the economics of software development.\n\nLearn how structured component architecture allows AI coding agents to search, find, and reuse existing code instead of blindly exploring raw files or reinventing the wheel.",
+      "commentCount": 1,
+      "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "UsZWycrlVVA": {
+      "checkedAt": "2026-07-27T09:53:51Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Are you tired of paying massive monthly subscriptions for AI tools when the exact same functionality is sitting on GitHub for free? Discover 10 open-source AI repositories that feel illegal to know about, and learn how to snap them together to build the ultimate self-hosted AI Agent Stack.\n\n\n🔔 Subscribe: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w?sub_confirmation=1\n\n💙 Become a Member: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w/join\n\n🐦 Twitter/X:\n https://x.com/cloud_codes\n\n💬 Discord: \nhttps://discord.gg/4kJqEBMMf\n\n\nIn this video, Cloud Codes breaks down the system design of a complete, production-ready AI architecture. We explore how to give your AI \"hands\" with Browser Use and \"eyes\" with Firecrawl and Crawl4AI (to bypass anti-bot walls). We dive into how to fix AI amnesia using Mem0, and how to orchestrate multi-agent swarms using CrewAI, Langflow, and Microsoft's AutoGen. \n\nFinally, we show you how to ground your agent in real enterprise data using RAGFlow, how to run the entire pipeline completely offline and air-gapped using LocalAI, and how to wrap the whole stack in a beautiful, non-technical UI using AnythingLLM. Stop building from scratch—start assembling!\n\n🔗 The 10 GitHub Repos Mentioned:\n1. Browser Use (The Hands): https://github.com/gregpr07/browser-use\n2. Firecrawl (The Eyes): https://github.com/mendableai/firecrawl\n3. Mem0 (The Memory): https://github.com/mem0ai/mem0\n4. CrewAI (Code Orchestration): https://github.com/joaomdmoura/crewAI\n5. AutoGen (Research Orchestration): https://github.com/microsoft/autogen\n6. Langflow (No-Code Orchestration): https://github.com/langflow-ai/langflow\n7. Crawl4AI (Solo-Dev Web Scraper): https://github.com/unclecode/crawl4ai\n8. LocalAI (Private Engine): https://github.com/mudler/LocalAI\n9. RAGFlow (Enterprise Knowledge): https://github.com/infiniflow/ragflow\n10. AnythingLLM (The Workspace): https://github.com/Mintplex-Labs/anything-llm\n\n⏱️ TIMESTAMPS:\n0:00 - The Free AI Agent Stack\n0:54 - #1: Browser Use (The Hands)\n2:36 - #2: Firecrawl (The Eyes)\n4:06 - #3: Mem0 (The Memory)\n5:26 - #4: CrewAI (Code Orchestration)\n6:55 - #5: AutoGen (Microsoft's Pivot)\n8:30 - #6: Langflow (No-Code Visual Builder)\n10:21 - #7: Crawl4AI (Adaptive Crawling)\n12:03 - #8: LocalAI (Run AI Privately Offline)\n13:23 - #9: RAGFlow (DeepDoc Enterprise RAG)\n14:45 - #10: AnythingLLM (The Ultimate Front-End)\n16:25 - How to Snap the Stack Together\n17:49 - Summary: Don't Build From Scratch\n\n#aiagents #opensource #github #softwareengineering #machinelearning #systemdesign #cloudcodes #artificialintelligence #python #rag\n\n\nUser Queries:\nbest open source ai tools 2026\ncrewai vs autogen vs langflow\nhow to use firecrawl ai tutorial\nbrowser use github repo tutorial\nhow to build a local ai agent stack\nanythingllm vs chatgpt enterprise\nhow to use mem0 long term memory ai\nragflow deepdoc pdf extraction\ncrawl4ai vs firecrawl web scraping\nstop paying for ai saas build your own",
+      "commentCount": 25,
+      "likeCount": 481,
       "probeClient": "web_embedded"
     }
   }
