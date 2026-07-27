@@ -851,6 +851,24 @@ function closeShort() {
   render();
 }
 
+function scrollToTop() {
+  requestAnimationFrame(() => window.scrollTo({ top: 0, behavior: "smooth" }));
+}
+
+function goHome(event) {
+  event?.preventDefault();
+  state.view = "home";
+  state.activeVideo = null;
+  state.query = "";
+  state.quickFilter = "all";
+  searchInput.value = "";
+  destroyPlayer();
+  sidebar.classList.remove("open");
+  scrim.classList.remove("open");
+  render();
+  scrollToTop();
+}
+
 function selectView(view) {
   state.view = view;
   state.activeVideo = null;
@@ -861,6 +879,7 @@ function selectView(view) {
   sidebar.classList.remove("open");
   scrim.classList.remove("open");
   render();
+  scrollToTop();
 }
 
 function exportHistory() {
@@ -962,7 +981,7 @@ scrim.addEventListener("click", () => {
   sidebar.classList.remove("open");
   scrim.classList.remove("open");
 });
-document.querySelector("#brandButton").addEventListener("click", () => selectView("home"));
+document.querySelector("#brandButton").addEventListener("click", goHome);
 document.querySelector("#refreshButton").addEventListener("click", loadFeed);
 document.querySelector("#themeButton").addEventListener("click", (event) => {
   state.theme = state.theme === "dark" ? "light" : "dark";

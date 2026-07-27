@@ -86,8 +86,10 @@ img { display: block; max-width: 100%; }
   cursor: pointer;
   border: 0;
   background: transparent;
+  color: var(--text);
   font-size: 20px;
   font-weight: 800;
+  text-decoration: none;
 }
 .brand sup { margin: -11px 0 0 -4px; color: var(--muted); font-size: 8px; font-weight: 700; }
 .brand-mark {

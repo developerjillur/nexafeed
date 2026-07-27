@@ -25,6 +25,7 @@ class FrontendFeatureTests(unittest.TestCase):
     def test_shorts_details_and_feed_manager_are_wired(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
         style_css = (ROOT / "style.css").read_text(encoding="utf-8")
+        index_html = (ROOT / "index.html").read_text(encoding="utf-8")
         workflow_path = ROOT / ".github/workflows/apply-feed-settings.yml"
 
         for marker in [
@@ -40,10 +41,15 @@ class FrontendFeatureTests(unittest.TestCase):
             "shortsCarousel",
             "data-carousel-scroll",
             "collapseRepeatedItems",
+            "function goHome",
+            "scrollToTop",
+            "addEventListener(\"click\", goHome)",
         ]:
             self.assertIn(marker, app_js)
-        for marker in [".short-drawer", ".short-action-stack", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed"]:
+        for marker in [".short-drawer", ".short-action-stack", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
             self.assertIn(marker, style_css)
+        self.assertIn('id="brandButton" class="brand" href="./"', index_html)
+        self.assertIn('aria-label="NexaFeed home"', index_html)
         self.assertTrue(workflow_path.is_file())
         workflow = workflow_path.read_text(encoding="utf-8")
         self.assertIn("issues:", workflow)
