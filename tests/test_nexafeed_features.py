@@ -103,6 +103,7 @@ class FeedSettingsTests(unittest.TestCase):
 class ProbePlanningTests(unittest.TestCase):
     def test_comment_probe_command_is_opt_in(self):
         updater = load_module("nexafeed_update", ROOT / "scripts/nexafeed_update.py")
+        setattr(updater, "yt_dlp_path", lambda: "yt-dlp")
 
         basic = updater.build_yt_dlp_command("dUHpFuUIyi0", include_comments=False, comment_limit=5)
         rich = updater.build_yt_dlp_command("dUHpFuUIyi0", include_comments=True, comment_limit=5)
