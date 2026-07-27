@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T16:53:08Z",
+  "updatedAt": "2026-07-27T17:53:17Z",
   "items": [
+    {
+      "id": "G2BP1KfK0qQ",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-07-27T17:08:50Z",
+      "firstSeenAt": "2026-07-27T17:53:17Z"
+    },
+    {
+      "id": "70XCwYKvbII",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vercel",
+      "publishedAt": "2026-07-27T16:53:17Z",
+      "firstSeenAt": "2026-07-27T17:53:17Z"
+    },
+    {
+      "id": "I97FwirBidA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "KodeKloud",
+      "publishedAt": "2026-07-27T15:53:17Z",
+      "firstSeenAt": "2026-07-27T17:53:17Z"
+    },
+    {
+      "id": "UyoVmQLekBc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mikey No Code",
+      "publishedAt": "2026-07-27T14:53:17Z",
+      "firstSeenAt": "2026-07-27T17:53:17Z"
+    },
+    {
+      "id": "ER3AIfIwEQ0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Creator Magic",
+      "publishedAt": "2026-07-27T14:53:17Z",
+      "firstSeenAt": "2026-07-27T17:53:17Z"
+    },
+    {
+      "id": "s9TRHCfBTO0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Carson Reed",
+      "publishedAt": "2026-07-27T13:53:17Z",
+      "firstSeenAt": "2026-07-27T17:53:17Z"
+    },
+    {
+      "id": "xFWhiWe91BE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Better Stack",
+      "publishedAt": "2026-07-27T12:53:17Z",
+      "firstSeenAt": "2026-07-27T17:53:17Z"
+    },
+    {
+      "id": "vZTxDqOTCmk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Corey Ganim",
+      "publishedAt": "2026-07-27T12:53:17Z",
+      "firstSeenAt": "2026-07-27T17:53:17Z"
+    },
+    {
+      "id": "5SZMQz-1Pk0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI with Surya",
+      "publishedAt": "2026-07-27T00:53:17Z",
+      "firstSeenAt": "2026-07-27T17:53:17Z"
+    },
     {
       "id": "FAW6AuzT1Uw",
       "type": "long",
@@ -2865,6 +2937,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-07-27T17:53:17Z",
+      "new": 9,
+      "long": 8,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }

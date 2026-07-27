@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T16:53:08Z",
+  "updatedAt": "2026-07-27T17:53:17Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -404,24 +404,8 @@
       "commentCount": 8,
       "likeCount": 124
     },
-    "2uk9v3DDBEo": {
-      "checkedAt": "2026-07-27T07:24:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "3D AI News #16 is mostly about the open-source wave hitting 3D AI this week. ⚡\nThe biggest surprise is Kimi K3 — an open-source LLM showing unexpectedly strong results in 3D design.\n\n🔥 COMPARE ALL THE BEST 3D AI MODELS HERE:\nhttps://top3d.ai/arena\n📰 Join PixelArtistry’s Futureframes Newsletter to learn more about 3D AI workflows:\nhttps://pixel-artistry.com/newsletter\n\nThis episode also covers LATO.2, 3D Gen Studio updates, NVIDIA ARDY, NKD VFX Tools, Tripo + MeshTailor, Microsoft Mage-Flow, and NVIDIA’s Omniverse / Agent Toolkit direction — all the tools pushing local and open 3D workflows closer to real production use.\n---\nSources in order of mention\n🔗 LATO.2\nhttps://github.com/LoHhhha/LATO.2\n🔗 ComfyUI wrapper for LATO.2\nhttps://github.com/Rizzlord/ComfyUI-LATO.2\n🔗 Kimi K3\nhttps://www.kimi.com/blog/kimi-k3\n🔗 3D Gen Studio updates\nhttps://github.com/visualbruno/3DGenStudio\n🔗 NVIDIA ARDY\nhttps://research.nvidia.com/labs/sil/projects/ardy/\n🔗 NKD VFX Tools\nhttps://github.com/Nekodificador/ComfyUI-NKD-VFX-Tools\n🔗 Tripo + MeshTailor\nhttps://x.com/tripoai/status/2079473920646996184\n🔗 MeshTailor\nhttps://meshtailor.github.io/\n🔗 Mage-Flow\nhttps://microsoft.github.io/Mage/flow/\n🔗 NVIDIA Omniverse / Agent Toolkit\nhttps://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds\n---\nChapters\n00:00 Open Source AI Is on Fire 🔥\n00:31 LATO.2: Open-Source Mesh Generation & Retopology\n03:22 Kimi K3: The New King of 3D Design?\n04:39 3D Gen Studio: Desktop App & Major Update\n06:30 NVIDIA ARDY: The Future of Real-Time AI Motion\n07:35 NKD VFX Tools: New ComfyUI Nodes for VFX\n08:48 Tripo + MeshTailor: AI Clothing Gets Easier\n09:33 Microsoft Mage-Flow: New Open-Source Image Generator\n10:31 NVIDIA Omniverse Goes Agentic\n11:32 Final Thoughts\n---\nContacts\n🗣️ Discord: https://discord.gg/am7nu68r9Z\n🐦 X (Twitter): https://x.com/Stefan_3D_AI\n🔗 LinkedIn: https://www.linkedin.com/in/stefan-3d-ai/",
-      "commentCount": 16,
-      "likeCount": 275
-    },
-    "tMfpvtY2_FE": {
-      "checkedAt": "2026-07-27T07:24:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Agentic AI can provide a huge upside if it can be harnessed correctly. AI strategist Mohit Rajhans discusses what AI agents are and what they can do for us.\n\nSubscribe to CTV News to watch more videos: https://www.youtube.com/ctvnews\n\nConnect with CTV News:\nFor live updates and latest headlines visit: http://www.ctvnews.ca/ \nFor breaking news, fast, download the CTV News App: https://www.ctvnews.ca/app\nMust-watch stories and full programs at http://www.ctvnews.ca/video\n\nCTV News on TikTok: https://www.tiktok.com/discover/CTV-News\nCTV News on X (formerly Twitter): https://twitter.com/CTVNews  \nCTV News on Reddit: https://www.reddit.com/user/CTVNEWS\nCTV News on LinkedIn: https://ca.linkedin.com/company/ctv-news\n\n---\nCTV News is Canada's most-watched news organization both locally and nationally, and has a network of national, international, and local news operations.\n\n#ctvnews #ctvnationalnews #canadiannews",
-      "commentCount": 1,
-      "likeCount": 6
-    },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-27T16:53:08Z",
+      "checkedAt": "2026-07-27T17:53:17Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -1719,7 +1703,7 @@
       "probeClient": "web_embedded"
     },
     "u8o8OAbLuDo": {
-      "checkedAt": "2026-07-27T16:53:08Z",
+      "checkedAt": "2026-07-27T17:53:17Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -1892,59 +1876,6 @@
           "likeCount": 0,
           "publishedAt": "2026-07-25T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_usj-zOoQ1FBa4s_MFleCWQoIpz13P95DcHny2Cf9SHM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "5bjP3aaxxfA": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "China has just launched one of the most powerful open-source AI models ever built.\n\nMoonshot AI’s Kimi K3 features an incredible 2.83 trillion parameters, a 1 million token context window, and an efficient sparse Mixture-of-Experts (MoE) architecture. Early benchmarks suggest it can compete with and in some cases outperform GPT-5.\n\nBut benchmarks aren’t the most interesting part.\n\nDevelopers have already used Kimi K3 to build a fully playable CS:GO-style game in just a few prompts and create interactive simulations, all at an incredibly low cost. With its open-source weights expected to be released, Kimi K3 could make advanced AI development far more accessible to developers, startups, and creators around the world.\n\nIn this video, we break down:\n\n* What is Kimi K3?\n* Can Kimi K3 beat GPT-5?\n* Why China’s AI ecosystem is growing so fast\n* How open-source AI is changing the industry\n* What this means for developers, founders, and AI users\nLink : \nhttps://platform.kimi.ai/docs/guide/kimi-k3-quickstart \n\nDo you think open-source AI will eventually overtake closed models like GPT-5 and Claude? Let us know in the comments!\n\nSubscribe to BPro for daily AI news, practical AI tools, startup insights, and easy-to-understand breakdowns of the biggest changes in artificial intelligence. If you want to stay ahead of the AI curve instead of chasing it, you’re in the right place.\n\n#AI #KimiK3 #GPT5 #OpenSourceAI #ArtificialIntelligence\n\nAI, artificial intelligence, AI news, latest AI news, AI updates, China AI, Chinese AI, Kimi K3, Moonshot AI, Kimi AI, OpenAI, GPT-5, GPT 5, ChatGPT, ChatGPT news, OpenAI news, latest OpenAI news, AI tools, best AI tools, AI tutorial, AI explained, AI for beginners, open source AI, open source LLM, AI models, best AI model, AI benchmark, AI comparison, GPT-5 vs Kimi K3, ChatGPT vs Kimi K3, Claude vs Kimi K3, DeepSeek, Gemini AI, AI coding, AI for developers, coding with AI, game development with AI, AI game generator, AI programming, what is Kimi K3, what is AI, what is GPT-5, how AI works, how to use Kimi K3, how to use AI, how to build apps with AI, can Kimi K3 beat GPT-5, is Kimi K3 better than ChatGPT, best open source AI model, future of AI, AI trends, machine learning, generative AI, large language models, developer tools, startup AI, technology news, tech news, tech updates",
-      "commentCount": 4,
-      "likeCount": 107,
-      "comments": [
-        {
-          "id": "UgwfrtV3xqGP6qWRIsp4AaABAg",
-          "author": "@Bproclub",
-          "text": "Check description for link",
-          "likeCount": 0,
-          "publishedAt": "2026-07-25T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Y2wqg8Jrk4tANVG3LT2ZEkVs-6wlESz8NvwUMrqfBghyS3VQsJLlfpoq4gQX8g31Qty_Kx0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "UgyzQBZMX3pEdyXCN8p4AaABAg",
-          "author": "@Healernaveetasingh",
-          "text": "U r really good. May ur get million subscribers",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/HlLhSnRQCCLoOApM-Ol6CetgcYjltZGzE_ICldXXsh-At_sDlN4h_GTe4KUqXZhymRf73SDmesc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyCoLxLAS3mTQPGWI14AaABAg",
-          "author": "@sujalprajapati6468",
-          "text": "Can you send your business mail to connect with you ( I am youtube growth Strategist)",
-          "likeCount": 0,
-          "publishedAt": "2026-07-25T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lAAKjT9En74k9oNKlVNTac9aTXs0DN-l8ARftXzx5-7w=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugyj2V_4FKHsBkklkjB4AaABAg",
-          "author": "@TheAurumVision7",
-          "text": "Thank you ❤",
-          "likeCount": 1,
-          "publishedAt": "2026-07-25T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/rR8horT2Q7yczC_0KQQxZFrbouD9Fnv83MJ6su0aT-UNQtnAO5YComFPKgYpLAZengtFxbwZQw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
@@ -4383,15 +4314,6 @@
       "likeCount": 6,
       "probeClient": "web_embedded"
     },
-    "_G2I8xx5hw8": {
-      "checkedAt": "2026-07-27T12:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "tldr: I want to hear your systems programming challenges. DM me =) [contact below]\n#livecoding  #operatingsystem #coding \n\nhey everyone - I’m trying to learn how I can be more helpful to this community beyond just streams.\nI’d like to talk to some people about their challenges in the world of systems programming, whether they're technical, career, or anything else.\n\nIf you’re interested, just DM me. thank you 🙏\n\ncontact:\nDiscord (mm64k)\nInstagram (offlinemark)\nEmail (mark @ offlinemark.com) \n\n--\n\nwelcome: https://offlinemark.com/welcome\ndiscord: https://discord.gg/P6zQBsD2ng\n\nWelcome!\n\nI’m an aspiring systems programmer. Professionally, I used to work in infosec, but now I work on music production software & hardware.\n\nI stream OS/kernel development every week for 2 hours.\n\n(I’ve done this for over 75 weeks in a row! Sundays 10a-12 ET)\n\nFrom February 2024 to May 2025, I streamed myself doing all the labs for MIT’s old Operating Systems Engineering course (6.828 (2018)).\n\nThrough doing this, I became very familiar with JOS, which is the x86 OS used for the course. \n\nI had almost no experience with OS development when I started, although I did have much experience with programming and low level concepts. I did the coursework because I wanted to write my own OS, but felt I wasn’t ready.\n\nNow, from May 2025 to present, I’m pursuing my own learning agenda with OS development, and starting my on own OS. \n\nIf this resonates with you, please subscribe and I'll see you in a stream :)\n\n00:00:00 Start",
-      "commentCount": 19,
-      "likeCount": 91,
-      "probeClient": "web_embedded"
-    },
     "p1aJ-xLkfVI": {
       "checkedAt": "2026-07-27T13:53:40Z",
       "embedAllowed": true,
@@ -4564,15 +4486,6 @@
       "description": "I Replaced GitHub Copilot With This FREE AI Coding Agent for VS Code.\n Stop paying $10/month for GitHub Copilot. This FREE AI Coding Agent for VS Code does everything Copilot does — autocomplete, AI chat, inline edits — works with Claude, Gemini, GPT, and local models. Zero subscription.\n\nIn this video I'll show you:\n1.  How to install Continue.dev in VS Code (2 minutes)?\n2.  How to connect a FREE Gemini API key (no credit card)?\n3.  How to build a complete To-Do List app using only plain English?\n4. How to edit your app's design with one sentence?\n5. How to switch between Claude, GPT, and Gemini models instantly?\n\n-----------------------------------------\n🔗 LINKS MENTIONED IN THIS VIDEO\n-----------------------------------------\n▶ Continue.dev Extension (VS Code Marketplace):\nhttps://marketplace.visualstudio.com/items?itemName=Continue.continue\n\n▶ Continue.dev Website:\nhttps://www.continue.dev\n\n▶ Get FREE Gemini API Key (Google AI Studio):\nhttps://aistudio.google.com\n\n▶ Watch First: Get FREE API Keys for Claude, GPT & Gemini:\nhttps://youtu.be/0pfOPZRRxmk\n\n-----------------------------------------\n⏱️ TIMESTAMPS\n-----------------------------------------\n0:00 — Why I quit GitHub Copilot\n0:30 — What is Continue.dev?\n1:00 — Install Continue in VS Code\n1:45 — Connect your FREE Gemini API key\n2:30 — Build a To-Do List app in 90 seconds\n3:20 — Test the app live in the browser\n3:40 — Change the design with one sentence\n\n\n-----------------------------------------\n🎓 ABOUT THIS CHANNEL\n-----------------------------------------\nHMA WebCode (@hmaweb) — beginner-friendly web development and AI tools \ntutorials. New videos every week. If you're learning to build for the web, \nyou're in the right place.\n\n👍 If this helped you, LIKE this video — it helps the channel grow.\n\n🔔 SUBSCRIBE so you don't miss the next one.\n💬 Drop a comment if you have questions — I read every one.\n\n#aicoding  #VSCode #GitHubCopilot #FreeAI #WebDevelopment\n\n...........................…......................\n\nMusic by ‪@HotHamMusic‬​ \nStream: smarturl.it/HothamMusic \nDownload: hypeddit.com/track/j2mggw \nMusic supported by #BackgroundMusicWithoutLimitations​ \n@FreeBackgroundMusicForCreators",
       "commentCount": 4,
       "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "aGnWRt6u-fg": {
-      "checkedAt": "2026-07-27T13:53:40Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Best courses to learn Python coding:\n📌 Datacamp Python Programming Fundamentals: https://datacamp.pxf.io/7XxMBr\n📌 DataCamp Associate AI Engineer for Developers: https://datacamp.pxf.io/m4bGkq\n\nWith AI writing code, many beginners are wondering if learning programming is still worth it. The answer is yes, but the way you learn matters more than ever.\n\nIn this video, I break down the exact roadmap I would follow if I were starting from zero today. You'll learn what to study first, what to skip, how to avoid tutorial hell, how to build projects that actually teach you real engineering skills, and how to use AI tools without becoming dependent on them.\n\n🚀 What you'll learn:\n✅ Is learning to code still worth it in the age of AI?\n✅ Why Python is the best first programming language in 2026\n✅ A complete beginner roadmap to learning Python step by step\n✅ The core programming concepts every developer must master\n✅ Why dictionaries are more important than most beginners realize\n✅ How to structure real world Python projects\n✅ Object Oriented Programming explained for beginners\n✅ Debugging, error handling, and reading stack traces\n✅ Beginner projects that actually prepare you for software engineering\n✅ Git and GitHub skills every developer needs\n✅ How to use ChatGPT and Claude to learn programming effectively\n✅ The highest paying Python career paths in AI and software engineering\n\n👋 about me\nI’m Maddy, a senior software engineer (prev. at Google), with prior internships at Microsoft, Morgan Stanley, IBM, and Amazon. Sharing my journey here - thanks for watching 🤍\n\n🔗find me on other socials\nInstagram https://www.instagram.com/madeline.m.zhang/\nLinkedIn https://www.linkedin.com/in/madelinemzhang/\nTiktok https://www.tiktok.com/@madeline.m.zhang\n\nTimestamps\n0:00 Intro\n0:46 Is coding still worth it\n1:58 Why Python\n2:21 Phase 1\n3:34 Phase 2\n6:12 Phase 3\n6:59 Professional skills\n8:22 Career opportunities\n\n🔔 Subscribe for more AI, software engineering, and career growth content!\n\ndisclaimer: views are all my own and do not represent any current / past employer(s)\n\nThank you to DataCamp for sponsoring this video.\n\nSome of the links in the description are affiliate links, which may earn me a commission if you make a purchase, at no extra cost to you.\n\n#python #coding #learntocode #pythonprogramming #programming #softwareengineering #softwareengineer #developer #developers #codingforbeginners #pythonforbeginners #artificialintelligence #ai #chatgpt #claude #programmingtutorial #career #techcareer #techjobs #pythondeveloper #aiengineer #machinelearning #datascience #github #git #debugging #computerscience #bigtech #google #amazon",
-      "commentCount": 24,
-      "likeCount": 576,
       "probeClient": "web_embedded"
     },
     "nExo3f75EAs": {
@@ -4775,35 +4688,8 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "c0SYBKdqq-g": {
-      "checkedAt": "2026-07-27T15:53:58Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "I Made 10,000 AED in 30 Days with Claude AI: My Exact Workflow\n\n⭐ WhatsApp Team: +92 331 0258434\n⭐ For Business & Paid Promotions: growwithowaiss@gmail.com\n\nFollow Me On Social Media\n\n✔ Instagram: https://www.instagram.com/ecombyowais\n\n✔ Facebook: https://www.facebook.com/share/153XRBG32n\n\n✔ TikTok: https://www.tiktok.com/@ecombyowais\n\n✔ WhatsApp Channel: https://www.whatsapp.com/channel/0029Varl6Mi7dmeiCSnoZ00E\n\n✔ Shopify $1 x 3 Months Free Trial:\nhttps://shorturl.at/BJMZq\n\n\n\n✔ Google Drive For Claude Skills :\nhttps://drive.google.com/drive/folders/1vPVjJBpq-c2byFMbPND-Kd9NbOcNHKor?usp=sharing\n\n\n\nI Made 10,000 AED in 30 Days with Claude AI | Complete Shopify & Marketing Workflow\n\nCan Claude AI really help you grow your business and increase your income? In this video, I share my exact Claude AI workflow that helped me generate 10,000 AED in just 30 days by using AI inside my Shopify and digital marketing business.\n\nThis is not another \"AI will make you rich overnight\" video. AI won't earn money for you while you sleep. But if you learn how to implement Claude AI correctly inside your business, it can save hours of manual work, automate repetitive tasks, improve productivity, and help you scale your business much faster.\n\nIn this practical tutorial, I show you how I use Claude AI for Shopify store design, competitor research, product importing, product optimization, collection creation, Facebook Ads planning, TikTok Ads strategy, marketing automation, and complete eCommerce workflow.\n\nYou'll also learn how to connect Claude AI with Shopify, create custom skills, analyze competitor stores, organize products automatically, and generate complete marketing campaigns using AI.\n\nIf you're a Shopify seller, freelancer, agency owner, dropshipper, or digital marketer, this video will completely change the way you use AI in your daily business.\n\nWhat You'll Learn In This Video\n\n• Why AI will not make money for you automatically\n\n• How to use Claude AI correctly inside your business\n\n• Claude AI account signup\n\n• Connect Claude AI with Shopify\n\n• Create Shopify Design Skills inside Claude AI\n\n• Create Marketing Skills inside Claude AI\n\n• Copy competitor Shopify store using AI\n\n• Generate advanced prompts with ChatGPT\n\n• Design a complete Shopify theme using Claude AI\n\n• Export competitor products using Shopify Inspector\n\n• Import CSV products into Claude AI\n\n• Automatically generate product titles, descriptions & tags\n\n• Create Shopify Collections using AI\n\n• Connect AI with marketing tools\n\n• Create Facebook Ads campaigns using Claude AI\n\n• Create TikTok Ads campaigns using Claude AI\n\n• Complete AI workflow used to generate 10,000 AED\n\n\n\nVideo Chapters\n\n00:00– Why Most People Are Using AI the Wrong Way\n\n00:27– Claude AI Account Signup\n\n00:56– Connecting Claude AI with Shopify\n\n02:12– Adding Shopify Design & Marketing Skills\n\n04:00 – Copying a Competitor Shopify Store with AI\n\n06:10 – Importing Products Using Shopify Inspector\n\n07:30 – Creating Product Titles, Tags & Collections with Claude AI\n\n11:30– Connecting Marketing Tools\n\n13:32– Creating Facebook & TikTok Ad Campaigns with Claude AI\n\n15:10 – My Complete AI Workflow That Generated 10,000 AED\n\n15:23– Final Tips & Conclusion\n\n\n\nYour Queries Answered\n\nhow to make money with claude ai\n\nclaude ai tutorial\n\nclaude ai workflow\n\nclaude ai shopify\n\nclaude ai for ecommerce\n\nclaude ai for shopify store\n\nshopify ai tutorial\n\nshopify store design with ai\n\nclaude ai prompts\n\nchatgpt prompts\n\nclaude ai marketing\n\nclaude ai facebook ads\n\nclaude ai tiktok ads\n\nhow to automate shopify\n\nshopify automation\n\nshopify ai tools\n\nbest ai tools for ecommerce\n\nshopify competitor analysis\n\nshopify inspector tutorial\n\nshopify spy extension\n\ncsv product import\n\nproduct listing using ai\n\nai business automation\n\nmake money with ai\n\nai for freelancers\n\nai for agencies\n\nai workflow\n\nonline business with ai\n\ndigital marketing with ai\n\nclaude ai 2026\n\nTopics Covered\n\nClaude AI, Claude AI Tutorial, Claude AI Workflow, Shopify AI, Shopify Store Design, Shopify Theme Design, Shopify Automation, Shopify Product Import, Product Listing, Product Tags, Shopify Collections, Competitor Store Analysis, Shopify Inspector Extension, Shopify Spy Tool, Facebook Ads, TikTok Ads, AI Marketing, Marketing Automation, ChatGPT Prompts, Claude AI Skills, AI for Shopify, AI for Digital Marketing, AI Business Automation, AI Productivity, Claude AI for Freelancers, Claude AI for Agencies, Shopify Dropshipping, AI Workflow 2026, Grow With Owais.\n\nHashtags\n\n#ClaudeAI #ClaudeAITutorial #ClaudeAIWorkflow #ShopifyAI #ShopifyStoreDesign #AIAutomation #AIForBusiness #FacebookAds #TikTokAds #Shopify #Ecommerce #DigitalMarketing #ArtificialIntelligence #GrowWithOwais #OnlineBusiness #AITools #ShopifyDropshipping\n\nDisclaimer\n\nThis video is created for educational purposes only. The earnings shared in this video are based on my personal experience. Your results will depend on your skills, effort, experience, and implementation.",
-      "commentCount": 2,
-      "likeCount": 8,
-      "probeClient": "web_embedded"
-    },
-    "nGaWyF4VTpI": {
-      "checkedAt": "2026-07-27T15:53:58Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "https://MappingYourMarketing.com | https://AIGrowthMap.com   Discover proven strategies to elevate your business growth through the innovative integration of AI, marketing, video content creation, search engine optimization, and automation. \n\nSuccess in today's competitive landscape is no longer about relying on a single marketing tactic but about combining multiple smart approaches to increase leads, build trust, enhance authority, save time, and boost sales. \n\nThis video breaks down practical, jargon-free methods that entrepreneurs, business owners, and marketers can apply immediately to amplify their visibility and reputation.\n\nLearn why reviews and reputation are critical influencers for buying decisions and how to turn them into powerful marketing tools. Uncover how automation saves time while increasing your marketing efficiency, and see how impactful videos can connect with potential customers on a deeper level. \n\nWe also explore strategies to improve SEO and AEO (AI Search) so your business is found by the right audience, further increasing your chances of success.\n\nMapping Your Marketing specializes in helping businesses leverage these essential elements through expert consulting and training. \n\nBy blending AI technologies with traditional and digital marketing wisdom, you can stay ahead of the curve and make your business more memorable and trustworthy.\n\nReady to change your growth trajectory with clear, actionable advice? \n\nSubscribe for weekly insights.\n\nVisit MappingYourMarketing.com for expert support.\n\nExplore AIGrowthMap.com for advanced AI tools and training. \n\nPlus, learn how BroadcastYourReviews.com can help you transform customer feedback into a key marketing asset.\n\nThe future rewards those who embrace continuous learning and adaptation. Let's grow smarter together, one proven strategy at a time.\n\n----------\nMapping Your Marketing\nAI Strategy. Reputation. Growth.\n\nStay connected with AI Growth Map and Mapping Your Marketing to access practical AI training, strategic marketing systems, and growth frameworks built for real-world business owners, especially those who want results without tech overwhelm.\n\nFind us everywhere:\n• AI Services: https://AIGrowthMap.com\n• AI for 50+: https://MappingYourMarketing.com/ai50\n- Marketing: https://MappingYourMarketing.com\n• Podcast: https://MappingYourMarketing.com/podcast\n• LinkedIn: https://www.linkedin.com/in/greggoshorn\n• YouTube: https://www.youtube.com/@MappingYourMarketing\n• Community for 50+: https://www.skool.com/leverage-ai-1328/about\n________________________________________\nConnect and Grow with AI That Makes Sense\n\n📍 Empower Your Business with Practical AI\nMapping Your Marketing helps business owners leverage Artificial Intelligence to solve real business challenges, streamline operations, and unlock measurable growth.\n\nThis is about practical application, not theory.\n\nWe focus on helping you:\n• Automate repetitive tasks and save hours every week\n• Reduce operational costs through smarter workflows\n• Improve decision-making with AI-driven insights\n• Increase revenue by identifying and executing high-leverage opportunities\n• Build custom AI tools aligned with your business goals\n\nAI is not just a tool. It is a multiplier.\nWhen implemented strategically, AI can free up 5, 10, even 20+ hours per week, time you can reinvest into leadership, client relationships, and growth initiatives. Research from McKinsey shows generative AI can automate up to 60 to 70 percent of activities employees spend time on in certain roles, significantly increasing productivity potential.\n\nThis is structured AI adoption designed to create efficiency, clarity, and revenue acceleration.\n________________________________________\n📍 AI for 50+ Without Overwhelm\nAI for 50+ is not about slower learning or bigger fonts.\n\nIt is about:\n• Clear step-by-step guidance\n• Real business use cases\n• Secure and responsible AI deployment\n• Confidence building, not confusion\n\nThrough workshops, 1-on-1 coaching, and the Leverage AI community, professionals 50+ gain practical AI skills that create leverage, not stress.\n________________________________________\n📍 Marketing Systems That Compound Over Time\nYour business grows when your assets work for you.\nWe focus on:\n• AI-enhanced SEO and AI search visibility\n• Reputation marketing and review optimization\n• Video and omni-channel content ecosystems\n• Custom AI assistants aligned with your brand voice\n\nReviews stay.\nVideos compound.\nAI scales your thinking.\n________________________________________\nLearn. Implement. Execute.\n\nWhether you need:\n• AI strategy consulting\n• Team workshops\n• Custom GPT development\n• Reputation and visibility systems\n• A structured roadmap for growth\n\nYou get frameworks, not fluff. Systems, not random tactics.\n\n👉 Ready to put AI to work for you?\nExplore your next step at https://aigrowthmap.com\n\n👉 Ready to put proven marketing to work for you?\nExplore your next step at https://mappingyourmarketing.com",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "rU_Amw5MVKs": {
-      "checkedAt": "2026-07-27T15:53:58Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "https://simpletechskills.com/challenge",
-      "commentCount": 2,
-      "likeCount": 11,
-      "probeClient": "web_embedded"
-    },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-27T16:53:08Z",
+      "checkedAt": "2026-07-27T17:53:17Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4844,13 +4730,88 @@
       "likeCount": 415,
       "probeClient": "web_embedded"
     },
-    "SaN_vH_nN3Y": {
-      "checkedAt": "2026-07-27T16:53:08Z",
+    "G2BP1KfK0qQ": {
+      "checkedAt": "2026-07-27T17:53:17Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "🚀 Create Viral AI Talking Vegetable Videos with One Click! 🥦🤖\n\n🌄 All Prompts & Links : https://whatsapp.com/channel/0029Vb99zgL1CYoIzg4u3L1U/103\n\nI’ve built an AI automation system that makes it incredibly easy to create viral Talking Vegetable Story videos using just a few simple prompts.\n\nOver the past few weeks, you’ve probably seen these videos everywhere—TikTok, Instagram, YouTube, Facebook, and other social media platforms. These videos feature talking vegetables with engaging storylines, emotional moments, suspense, drama, and satisfying climaxes. They’re getting millions of views because they keep people watching from start to finish.\n\nMany creators want to make these videos, but they don’t know:\n\nWhich AI tools to use\nHow to generate high-quality AI images\nWhich AI video generator works best\nHow to turn simple prompts into professional-looking animated videos\nHow to automate the entire process and save hours of work\n\nThat’s exactly why I created this AI automation system.\n\nWith this workflow, you can generate stunning talking vegetable videos in just a few steps using AI. If you consistently upload this type of content, you can significantly increase your chances of growing your YouTube channel, reaching 1,000 subscribers, completing 4,000 watch hours, and qualifying for monetization faster.\n\nIn this video, I'll walk you through the entire process step by step, from choosing the right AI tools to creating complete viral-ready videos. Even if you're a beginner, you'll be able to follow along and start making your own content.\n\n🎯 Watch the video carefully, follow each step, and start creating your own viral AI videos today!\n🎯 What You'll Learn\n\n✅ How TO make Ai Vegetable Talking Story Videos\n✅ How to Create Viral Talking Vegetable AI Videos Full Course 📈\n✅ Potato Bringel Carrot Talking Videos\n✅ How TO make Viral Ai Fruite Talking Story Videos\n✅ Fruite Talking Videos tuitorial\n✅ How To make Faceless youtube Channel\n✅ How To grow Youtube Channel\n✅ Best faceless Channel Ideas\n✅ Viral faceless youtube Niches\n✅ How To make Viral Youtube VIdeos\n✅ Upload and optimize videos for YouTube\n\n\n⏰ Timestamps\n\n00:00 - Introduction\n00:32 - How To Make Viral Fruit Talking AI Videos\n01:18 - How To Make Viral Veggie Videos For Free\n02:07 - Potato Talking Videos Tutorial\n02:56 - Faceless YouTube Channel Ideas\n03:41 - How To Make Faceless AI Videos\n04:29 - How To Start YouTube Automation\n05:16 - AI Talking Videos For Free\n06:02 - How To Complete 4,000 Hours Watch Time\n06:49 - How To Complete 1,000 YouTube Subscribers Fast\n07:34 - How To Grow a New YouTube Channel in 2026\n\n\n\n🛠 AI Tools Used\n\n• ChatGPT\n• Google Flow\n• Google AI Studio\n• CapCut\n• Gemini\n\nIf you're interested in:\n\nYouTube Automation\nFaceless YouTube Channels\nAI Video Creation\nStick Figure Videos\nAI Content Creation\nYouTube Growth\nYouTube Monetization\nAI Tools\nContent Automation\nFaceless Video Ideas\n\nthen this tutorial is for you.\n\nIf this video helps you, don't forget to Like 👍, Subscribe ❤️ and Comment 💬. It really helps the channel and motivates me to create more free AI tutorials.\n\nDISCLAIMER\n\nThis video is for educational purposes only. Results on YouTube vary depending on content quality, audience interest, consistency, competition, and many other factors. Nothing in this video guarantees views, subscribers, monetization, or earnings. Please follow YouTube's Community Guidelines and Monetization Policies when creating content.\n\n#️⃣ Hashtags\n\n#facelesschannel #facelessniche #youtubegrowth #1000subscriber #4000watchtime #YouTubeAutomation #FacelessYouTube #AIVideos #ChatGPT #GoogleFlow #GoogleAIStudio #StickFigure #AncientStickFigure #YouTubeGrowth #YouTubeSEO #ContentCreation",
+      "description": "The US banned this Chinese AI company from buying NVIDIA AI chips.\n\nMost people expected progress to slow down.\n\nInstead, the company trained its latest AI model on Huawei AI chips and the results surprised everyone.\n\nTheir new coding agent, Z-Code, powered by GLM 5.2, reportedly outperformed Claude Code on a cybersecurity benchmark while costing nearly 6× less.\n\nIt doesn't stop there.\n\n• Writes production-ready code\n• Handles large coding tasks autonomously\n• Supports a 1 million token context window\n• Open-source with lightweight models you can even run locally\n\nThis raises a much bigger question:\n\nDo export restrictions slow innovation... or do they force companies to innovate even faster?\n\nIf you want to try Z-Code, comment \"ZCODE\" and check the pinned comment.\n\nFor more AI tools, AI news, coding agents, GitHub repositories, and practical AI content, don't forget to subscribe to bpro!\n\n#AI #ClaudeCode #NVIDIA #ChinaAI #bpro\n\nTags:\n\nWhat is Z-Code AI, What is GLM 5.2, What is Claude Code, What is NVIDIA AI, What is Huawei AI chip, AI coding assistant, Best AI coding tools, AI coding tutorial, How to use AI for coding, How to use Claude Code, ChatGPT coding, AI programmer, AI code generator, Open source AI, Open source coding model, AI news, Latest AI news, Artificial Intelligence, AI explained, AI tools, AI for developers, Coding with AI, AI automation, AI GitHub projects, Technology news, Tech news today, China AI, NVIDIA news, Future of AI, bpro",
+      "commentCount": 0,
+      "likeCount": 6,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-27T17:53:17Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "70XCwYKvbII": {
+      "checkedAt": "2026-07-27T17:53:17Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "The Vercel CLI is no longer just a way to deploy from your terminal. It's becoming a building primitive for agents: a programmable interface for connecting to resources, creating sandboxes, inspecting logs, and debugging deployments.\n\nChapters:\n00:00 The CLI as an agent primitive\n00:40 Vercel Sandbox from the CLI\n02:24 Feature flags with vc flags\n04:00 Testing deployments with vc curl\n05:50 Experimental native binaries\n07:07 The Vercel plugin: Claude Code, Codex, and Grok\n09:12 What's next",
+      "commentCount": 3,
+      "likeCount": 14,
+      "probeClient": "web_embedded"
+    },
+    "I97FwirBidA": {
+      "checkedAt": "2026-07-27T17:53:17Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI agent pricing is confusing because token costs keep falling while your agent bill keeps climbing, and this video explains why.\n\nWe walk through what actually happened to model prices since 2022, why the cheap floor fell through, and why that still tells you almost nothing about what an agent will cost you. The thing you actually run is a loop that keeps reading context, running code, watching it fail, and trying again, and that loop is the line item nobody warns you about. By the end you will know why the same task can cost a few cents or a few dollars depending only on how long the loop runs.\n\n📚 What you'll learn:\n1️⃣ Why OpenAI model prices fell so far since 2022, and what the cheapest useful models actually cost now\n2️⃣ How open models like Llama on Groq change the cost curve, and why cheap still does not mean free\n3️⃣ Why an agent runs as a loop rather than a single API call, and how that changes the whole bill\n4️⃣ How real products price agents: per seat, per resolved task, or per usage, not per token\n5️⃣ Why a support agent and a coding agent can run the same idea at wildly different cost\n\n🚨 Start Your AI Journey with KodeKloud: https://kode.wiki/4qsrspX\n\n🤖 Learn AI from this Playlist: https://www.youtube.com/playlist?list=PL2We04F3Y_43f3x3n9pawcEuAwru7bcMG\n\n⏰ Timestamps:\n00:00 - The cost of AI is falling\n01:15 - Open models has a different cost curve\n01:50 - Why agents run as a loop\n02:38 - Why agents price per seat, task, or usage\n03:14 - The loop is what you pay for\n\n🔔 Subscribe for more AI engineering breakdowns and honest cost math\n\n#AIAgents #LLMPricing #KodeKloud #AIEngineering #TokenPricing #OpenAI #GPT5 #Llama3 #Groq #ClaudeCode #Codex #AgenticAI #OpenModels #CostOfIntelligence #AICosts #AIWorkflows",
+      "commentCount": 2,
+      "likeCount": 30,
+      "probeClient": "web_embedded"
+    },
+    "UyoVmQLekBc": {
+      "checkedAt": "2026-07-27T17:53:17Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "✅ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44\n\n✅ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent13\n\n🔵 Get the FREE App Store Submission Checklist (step by step): https://mikeys-5-min-checklist.netlify.app/\n\nIn this video, I break down how I built an AI agent in 14 minutes as a beginner in 2026, showing a simple and practical workflow anyone can follow. You’ll learn how to build an AI agent step by step, including a beginner-friendly AI agent tutorial and how tools like n8n AI agent setups can be used to automate real tasks. Whether you're new to automation or exploring how modern AI agent systems work, this guide shows you how to get started quickly and build your first working AI agent.\n\n00:00 - Intro: Building a Functional AI Agent in 14 Minutes\n00:58 - Free AI App & Business Masterclass\n01:37 - What is Base44? The No-Code AI Powered App Builder\n02:16 - Getting Started: Dashboard Overview and Prompt Interface\n02:48 - Understanding the Base44 Credit-Based Pricing Model\n03:38 - Project Setup: Building a Full-Stack Task Management App\n04:12 - Core Roadmap: Forms, Databases, and AI Agent Logic\n05:23 - Feature 1: Building the Core Task Creation System\n06:17 - The Exact AI Prompt for App Foundation & List View\n07:16 - How to Build and Scale Profitable AI Businesses\n08:25 - Feature 2: Adding Filters, Sorting, and Kanban Boards\n09:38 - The Exact AI Prompt for App Organization & UI\n10:20 - Feature 3: Adding a Progress Dashboard & Summary Cards\n11:07 - The Exact AI Prompt for Dynamic Data Dashboards\n11:59 - Feature 4: Enabling Secure User Authentication & Private Data\n12:48 - The Exact AI Prompt for No-Code User Login Flows\n13:30 - Feature 5: Integrating a Native AI Chat Assistant\n14:36 - The Exact AI Prompt for Natural Language App Control\n15:30 - Feature 6: Upgrading to a Dynamic Autonomous AI Agent\n16:40 - The Exact AI Prompt for Context-Aware AI Agents\n17:27 - Conclusion: Shifting from Writing Infrastructure to Building Products\n\nFor inquiries: Mikey (at) ytmedia.group",
+      "commentCount": 7,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "ER3AIfIwEQ0": {
+      "checkedAt": "2026-07-27T17:53:17Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🐝 Join my FREE Creator Magic community on Buzz 🐝\nhttps://creatormagic.communities.buzz.xyz/invite/eyJjIjoiYTczMjczNTMtYzExOS00OWNiLWE4ZjQtNTI3YzY4NmQyMDlkIiwiciI6Im1lbWJlciIsImUiOjE3ODc3NTI2NTMsIm4iOiJNS0hKeS1wRTB2c2lxcUQ4TkhKQ0J3In0.4Iq4sWEaqgCSHmC50BPl_HvBE4Cvr5nNl4ZdOg3wqOc\n\nBuzz Mobile is here. Jack Dorsey's Buzz, built by Block, now runs on iPhone and Android. Free and open source.\n\nYour phone becomes the remote control for a team of AI agents running on your own machines.\n\nBuzz is a workspace where humans and AI agents work together in shared rooms. It is free, open source, self hostable and built on Nostr. There is no account and no password. Your identity is a cryptographic key.\n\nBuzz Mobile just launched on the App Store and Google Play and there was not a single video about it. So I made this one. I pair my phone to my desktop with a QR code, tour the whole mobile app, and then take my AI team to the beach to prove the point. The agents stay at home on my Mac mini. I do not.\n\nI am also opening a FREE Creator Magic community on Block's servers. Anyone watching can join it right now.\n\n0:00 Intro: Jack Dorsey's Buzz Mobile App\n0:27 What is Buzz AI by Block?\n1:10 Desktop Setup & Creator Magic Community\n1:50 How to Download Buzz App & Pair Mobile\n3:04 Creating Custom AI Agents & Mobile Chat Demo\n4:11 Remote AI Agent Control & Custom Emojis\n5:12 Multimodal Vision Test: Sending Photos & Videos\n6:33 Multiple Communities, Local LLMs & Themes\n7:35 Vibe Coding an HTML Game on Mobile\n9:54 Desktop Harnesses: OpenClaw & Hermes Agent Support\n10:16 Current Limitations: Review & How to Join\n\n🐝 Buzz: https://mrc.fm/buzz\n🔎 Buzz on GitHub: https://github.com/block/buzz\n🥋 Bring Your Own Harness PR: https://github.com/block/buzz/pull/2773\n𝕏 Me on X: https://x.com/imikerussell\n📱 Buzz iOS App: https://apps.apple.com/us/app/buzz-chat-with-your-hive/id6779728271\n🤖 Buzz Android App: https://play.google.com/store/apps/details?id=xyz.block.buzz.mobile",
+      "commentCount": 6,
+      "likeCount": 67,
+      "probeClient": "web_embedded"
+    },
+    "s9TRHCfBTO0": {
+      "checkedAt": "2026-07-27T17:53:17Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn directly from me + 30 days for FREE: http://www.gohighlevel.com/carsonfree?fp_ref=carsonreed&utm_source=youtube&utm_medium=organic&utm_campaign=ai&utm_term=agencyowners&utm_content=stopsellingaiagents\n\nI have no course or paid program to sell you...\n\nI give away all of this for free… All I ask is you use my link to sign up to GoHighLevel (even if you have an account you can still get access)\n\nWhen you sign up for GoHighLevel through my link, you can unlock:\n\n✅ Private community to ask me questions\n✅ My exact Agency snapshots + funnels\n✅ 5x weekly calls with me + my team\n✅ Outreach templates + scripts\n✅ Live sales call recordings\n✅ 1-on-1 Kickoff Call to help you get started\n✅ Fulfillment guides + templates\n✅ 15+ Snapshots for all different niches\nAnd more...\n\n❌ IMPORTANT:\nDo not use an ad blocker, incognito tab, VPN, or browser extension when signing up. These can block tracking and prevent you from receiving the bonuses.\n\nDisclaimer: My videos are for educational purposes only and based on my personal experience after 3+ years of consistent effort. I’m a GoHighLevel affiliate and may earn a commission through my links. Results vary and are not guaranteed. Any income, business, or success examples are not typical or promised outcomes.",
+      "commentCount": 3,
+      "likeCount": 26,
+      "probeClient": "web_embedded"
+    },
+    "xFWhiWe91BE": {
+      "checkedAt": "2026-07-27T17:53:17Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Microsoft Research just released Flint, an open-source charting language designed to help AI agents generate reliable, production-ready data visualizations without writing hundreds of lines of fragile Vega-Lite code. \n\nIn this video, I test Flint with Claude and the Flint MCP tools by turning a CSV of monthly signups into a heatmap, rendering the final PNG directly in chat, and then switching the same data into a grouped bar chart without changing its semantic types. But can this all be done in Claude Code?\n\n🔗 Relevant Links\nMicrosoft Research - https://microsoft.github.io/flint-chart/\nFlint Repo - https://github.com/microsoft/flint-chart\n\n❤️ More about us\nRadically better observability stack: https://betterstack.com/\nWritten tutorials: https://betterstack.com/community/\nExample projects: https://github.com/BetterStackHQ\n\n📱 Socials\nTwitter: https://twitter.com/betterstackhq\nInstagram: https://www.instagram.com/betterstackhq/\nTikTok: https://www.tiktok.com/@betterstack\nLinkedIn: https://www.linkedin.com/company/betterstack\n\n📌 Chapters:\n0:00 AI Agents Are Bad at Data Visualization\n0:35 Microsoft Research Introduces Flint\n1:10 Why LLM-Generated Charts Break\n1:20 Semantic Types and the Flint Compiler\n1:45 Installing Flint With Claude MCP\n2:09 Creating a Heatmap From CSV Data\n2:20 Rendering Interactive Charts on Claude desktop\n2:39 Switching Up Your Data\n2:55 How Flint Semantic Types Work\n3:15 Flint vs Vega-Lite, Mermaid, and Chart MCP Servers\n3:58 Flint’s Biggest Limitations and Missing Features\n4:30 Who Should Use Flint?\n5:00 Final Thoughts on Microsoft Flint",
+      "commentCount": 19,
+      "likeCount": 219,
+      "probeClient": "web_embedded"
+    },
+    "vZTxDqOTCmk": {
+      "checkedAt": "2026-07-27T17:53:17Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Download the exact blueprint behind Nick’s always-on AI agent Dewey, with its own cloud computer, phone, email, payment card, and password vault and start texting your own in about two minutes (free): https://corey-ganim.kit.com/78db8b2c96\n\nNick Vasilescu breaks down how to build, deploy, and monetize managed AI agents. Watch a live demo of his personal agent (Dewey) onboarding another agent into Slack, and learn his 80/20 agent stack to deploy live agents in under 48 hours.\n\nNick and I both use Orgo to build and deploy our managed agents. If you use BOTH the following link and code COREY you'll get your first 3 days of Orgo free then 20% off your first 3 months: https://www.orgo.ai/?r=COREY\n\nJoin our AI Operator Academy Community where we help entrepreneurs start and scale a profitable AI services business: https://www.skool.com/aioperatoracademy/about\n\nTIMESTAMPS\n\n00:00 - Intro & Overview\n01:29 - Meet Dewey, Nick's AI Agent\n02:03 - Onboarding a Client Agent Live\n04:00 - Enterprise Demand for Agents\n09:02 - Orgo: Cloud Computers for Agents\n12:05 - Orgo Discount & Setup\n13:02 - Spinning Up Agents from Templates\n15:32 - Productizing Agents\n19:50 - Why Clients Pay $5K/Month\n22:56 - The B2B2B Reseller Model\n27:22 - The Full 80/20 Agent Stack\n33:01 - From Invoice to Live Agent in 48 Hours\n36:24 - Turning Call Transcripts Into Skills\n39:27 - Paid Assessments as Lead-Ins\n41:02 - Where to Find Nick\n\nKEY TAKEAWAYS\n\n• Dewey builds and deploys agents autonomously in Slack.\n• Orgo provides desktop computers for agents, matching human UI behavior.\n• The $5K/mo model works when clients resell the agent to their own customers.\n• Deploy agents in 48 hours using discovery transcripts and clean context.\n\nFIND COREY IN SOCIAL:\n\nX/Twitter: https://x.com/GanimCorey\nInstagram: https://www.instagram.com/coreyganim/\nLinkedIn: https://www.linkedin.com/in/coreyganim/\n\nFIND NICK IN SOCIAL:\n\nX/Twitter: https://x.com/NickVasiles\nWebsite: https://www.orgo.ai/",
       "commentCount": 5,
-      "likeCount": 34,
+      "likeCount": 56,
+      "probeClient": "web_embedded"
+    },
+    "5SZMQz-1Pk0": {
+      "checkedAt": "2026-07-27T17:53:17Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Andrew Ng's team just open sourced a completely free, open-source AI desktop agent called OpenWorker — and it works with ANY large language model. In this video, I give you a full tour, show you how to install it on Windows, and walk through three real demos: generating a document, running terminal commands, and using the browser tool to take screenshots and create a report.\n\nAll opinions are my own and this is not a sponsored video.\n\n---\n\n📌 CHAPTERS\n\n0:00 Introduction\n0:16 What is OpenWorker?\n0:29 Key Differentiators\n1:16 Disclaimer & Beta Notice\n1:32 Website & Architecture Overview\n3:52 Installation & Setup\n5:00 GitHub Repo & Personas\n6:02 Demo: Document Renewal Brief\n7:44 Demo: Terminal & File Manifest\n8:41 Demo: Browser & Screenshots\n11:05 Wrap-Up",
+      "commentCount": 25,
+      "likeCount": 183,
       "probeClient": "web_embedded"
     }
   }
