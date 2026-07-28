@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T09:53:13Z",
+  "updatedAt": "2026-07-28T11:53:15Z",
   "items": [
+    {
+      "id": "pLoPegWzllM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-07-28T10:30:11Z",
+      "firstSeenAt": "2026-07-28T11:53:15Z"
+    },
+    {
+      "id": "rkbacGroezI",
+      "type": "short",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-07-28T10:14:32Z",
+      "firstSeenAt": "2026-07-28T11:53:15Z"
+    },
+    {
+      "id": "0hm8PvzceXE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DevZoneX",
+      "publishedAt": "2026-07-28T11:30:15Z",
+      "firstSeenAt": "2026-07-28T11:53:15Z"
+    },
     {
       "id": "0eCqH3gNR5w",
       "type": "short",
@@ -3625,6 +3649,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-07-28T11:53:15Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
