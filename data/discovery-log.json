@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T22:53:23Z",
+  "updatedAt": "2026-07-28T23:53:33Z",
   "items": [
+    {
+      "id": "Z4XcED3BrPM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Abhishek Sharma",
+      "publishedAt": "2026-07-28T22:53:33Z",
+      "firstSeenAt": "2026-07-28T23:53:33Z"
+    },
+    {
+      "id": "kESakYmTZ4E",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Tayyab Automates",
+      "publishedAt": "2026-07-28T18:53:33Z",
+      "firstSeenAt": "2026-07-28T23:53:33Z"
+    },
+    {
+      "id": "YDB7Vbictpo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GHL Wizard",
+      "publishedAt": "2026-07-28T16:53:33Z",
+      "firstSeenAt": "2026-07-28T23:53:33Z"
+    },
+    {
+      "id": "p72JKCt2EPw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Paul Kim",
+      "publishedAt": "2026-07-28T16:53:33Z",
+      "firstSeenAt": "2026-07-28T23:53:33Z"
+    },
     {
       "id": "ShYfGB3x5mM",
       "type": "long",
@@ -4261,6 +4293,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-07-28T23:53:33Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }

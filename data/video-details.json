@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T22:53:23Z",
+  "updatedAt": "2026-07-28T23:53:33Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -310,7 +310,7 @@
       "likeCount": 124
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-28T22:53:23Z",
+      "checkedAt": "2026-07-28T23:53:33Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4235,7 +4235,7 @@
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-28T22:53:23Z",
+      "checkedAt": "2026-07-28T23:53:33Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4472,14 +4472,95 @@
       "probeClient": "web_embedded"
     },
     "EXRBvvsrYJI": {
-      "checkedAt": "2026-07-27T23:53:05Z",
+      "checkedAt": "2026-07-28T23:53:33Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"COUNCIL\" and I'll send you the link 👇\n\nHere's how to make Claude several times smarter in two minutes.\n\nStanford proved it: AI agrees with you 49 percent more often than a real human would. You ask for advice and get your own opinion handed back.\n\nAndrej Karpathy, a co-founder of OpenAI, built the fix. It's called LLM Council.\n\nYou ask Claude a hard question, and instead of one answer it assembles five advisors. One attacks the idea, another hunts weak spots, a third looks from outside. They review each other anonymously, and a chairman gives the final verdict.\n\nSetup takes two minutes: open the link, copy the skill into Claude, then type: run the council.\n\n#ai #claude #productivity #aitools",
-      "commentCount": 0,
-      "likeCount": 1,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-27T23:53:05Z",
+      "commentCount": 8,
+      "likeCount": 57,
+      "comments": [
+        {
+          "id": "Ugy2oMukFbGmly5l4sJ4AaABAg",
+          "author": "@lukassykora190",
+          "text": "Council",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mxaDObUkzDze3R4zrb7pav9MG4KmTtVlvTl7jr7A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwFwXFRG0FG7wegRMx4AaABAg",
+          "author": "@JafarFathiRealtor",
+          "text": "COUNCIL",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/mN8JIt9SekaWlrHWiBS9iwg-M54colsHSbO7fAfRWD4riyYITmTWi1LGG86HKgDv2E58qN2sDQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxmxZIiXe8xfPJZekV4AaABAg",
+          "author": "@allisonkate3669",
+          "text": "Council",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lRPAAG0P5osS3wR3AY9VfFb3dXICsfZI3qQpb7lGKgCQ0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugyf7955qOwBsVfh2Z54AaABAg",
+          "author": "@massimominganti5559",
+          "text": "Council",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nkcNL7BkmuzoxvWEIigvokGytZIsMN_FAhyts-JMg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgydqDAFssZXNj0dunV4AaABAg",
+          "author": "@galimjanas",
+          "text": "Council",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m3FFafj7MfZWMcNCSvM1wTHphVL2VrAhRfAHd1ZnhJWs4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugyl-33z44SiS5-2Kqt4AaABAg",
+          "author": "@neotlaletsi2834",
+          "text": "Counci",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lmUK-496cY7WLc_C9WHKgNOjT2LojACBezG-NnYVXZOI0X=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugyu5IGw6DktaPf3cT54AaABAg",
+          "author": "@waleedkadhim8926",
+          "text": "Council",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nePel0if3yRho78NBkehSnJ6E4MLYsRbMNcdqKgKQ3AiI=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzeieOp5uymryYLadp4AaABAg",
+          "author": "@onthedraw",
+          "text": "Council",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nqG6f1PPx8o3u3VY2LY-N4DbYCPsfOZkWp3fa0eF10E04=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-28T23:53:33Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -4593,15 +4674,6 @@
       "description": "How To Do Automation in FL Studio Like Pro\n#flstudio #flstudiotutorial #flstudiowithkurfaat\n\nYour Instructor - Kurfaat\n(https://www.instagram.com/kurfaat)\n\nIn this video we are going to learn that how we can do automations in fl studio like pro in hindi\n\nEnjoy !!",
       "commentCount": 1,
       "likeCount": 6,
-      "probeClient": "web_embedded"
-    },
-    "0_vuXRDg91Y": {
-      "checkedAt": "2026-07-28T09:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Hermes Agent Is Changing AI Automation\n\nAI agents are evolving beyond simple chatbots, and Hermes Agent is an interesting example of where AI automation is heading.\n\nIn this video, I explore how Hermes Agent can be used to build AI-powered workflows, interact with tools, and automate tasks with greater autonomy. Instead of simply asking an AI a question and getting an answer, agentic systems can take multiple steps toward completing a goal.\n\nWe'll look at what makes Hermes Agent interesting, how it fits into the growing AI agent ecosystem, and why autonomous AI workflows could change the way we build and use software.\n\nIf you're interested in AI agents, AI automation, LLMs, developer tools, and the future of autonomous workflows, this video is for you.\n\nSubscribe for more practical videos and tutorials on AI agents, Claude Code, OpenClaw, Hermes Agent, LLMs, and AI automation.\n\n#HermesAgent #AIAgents #AIAutomation #ArtificialIntelligence #AI #Automation #LLM #AIEngineering #ClaudeCode",
-      "commentCount": 0,
-      "likeCount": 2,
       "probeClient": "web_embedded"
     },
     "pLoPegWzllM": {
@@ -4751,7 +4823,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-28T22:53:23Z",
+      "checkedAt": "2026-07-28T23:53:33Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5300,15 +5372,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "iYAzm--OOFo": {
-      "checkedAt": "2026-07-28T17:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "This isn't a hypothetical — it's a real, documented case study. A bookkeeping business owner with zero coding experience built one AI automation, sold it to other accounting firms, and reached $7,800/month in recurring revenue within 4 months. Here's exactly how he did it, step by step.\n\n🎯 What you'll learn in this video:\n- The exact AI automation this founder built and sold\n- His real pricing model and how he raised prices over time\n- Month-by-month breakdown of how he found his first clients\n- Why he eventually sold the business — and what it was worth\n\n⏱️ Timestamps:\n0:00 - Intro\n0:35 - Who Marcus Is & The Problem He Solved\n2:00 - The Exact AI Automation He Built\n4:00 - His Pricing & Client Acquisition Strategy\n5:45 - Month-by-Month Revenue Breakdown\n7:15 - What Happened Next (The Exit)\n8:15 - How You Could Apply This to Any Niche\n\n📚 Sources & References:\n- Case study data from MindStudio's report \"How to Start an AI Automation Business: Real Case Studies from $25K to $2.7M ARR\" (2026)\n\n🔔 New video every week on real ways to make money with AI. Subscribe so you don't miss the next one.\n\n#AI #AIAutomation #CaseStudy",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "j5-al-0YR4M": {
       "checkedAt": "2026-07-28T18:53:48Z",
       "embedAllowed": true,
@@ -5352,24 +5415,6 @@
       "description": "AI is changing how we build software and WHO can build software. And which kind of software still has some value attached to it, and which doesn't.\n\nWebsite: https://maximilian-schwarzmueller.com/\n\nSocials:\n👉 Twitch: https://www.twitch.tv/maxedapps\n👉 X: https://x.com/maxedapps\n👉 Udemy: https://www.udemy.com/user/maximilian-schwarzmuller/\n👉 LinkedIn: https://www.linkedin.com/in/maximilian-schwarzmueller/\n\nWant to become a web developer or expand your web development knowledge?\nI have multiple bestselling online courses on React, Angular, NodeJS, Docker & much more!\n👉 https://academind.com/courses",
       "commentCount": 42,
       "likeCount": 239,
-      "probeClient": "web_embedded"
-    },
-    "du9-GTb20K0": {
-      "checkedAt": "2026-07-28T18:53:48Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Enhance software quality with EzInsights AI SDLC Intelligence. In this video, discover how our AI Powered Code Review capability helps development teams identify code issues, improve maintainability, enforce coding standards, and accelerate the review process using Generative AI and intelligent automation.\n\nWhat You'll Learn:\n\n✅ Automated AI Code Reviews\n✅ Detect Code Smells & Bugs\n✅ Security & Vulnerability Analysis\n✅ Coding Standards & Best Practices\n✅ Performance Optimization Suggestions\n✅ Maintainable & Readable Code\n✅ Faster Pull Request Reviews\n✅ Improved Developer Productivity\n\nEzInsights AI analyzes your source code to provide intelligent recommendations, identify potential risks, and ensure high quality software throughout the Software Development Lifecycle (SDLC). Empower your engineering teams with AI driven code reviews that reduce manual effort and improve release quality.\n\nPerfect for:\n• Software Developers\n• QA Engineers\n• Tech Leads\n• Engineering Managers\n• DevOps Teams\n• Software Architects\n• Enterprise Development Teams\n\n🌐 Learn more: https://ezinsights.ai\n\nSubscribe for more videos on Enterprise AI, SDLC Intelligence, AI Agents, Code Review, Software Engineering, Business Intelligence, and Intelligent Automation.\n\n#ezinsightsai #codereview  #softwaredevelopment  #generativeai  #agenticai  #artificialintelligence  #sdlc  #codequality  #securecoding  #devops  #softwareengineering  #automation  #enterpriseai  #aitools  #programming",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "jaapjGBuRJQ": {
-      "checkedAt": "2026-07-28T18:53:48Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Are junior devs cooked? I don't think so.\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UC9H0HzpKf5JlazkADWnW1Jw/join\nWanna join the chat on the stream?? it's over at https://twitch.tv/bashbunni\n\n⟡˖ My other corners of the Internet:\nhttps://twitch.tv/bashbunni\nhttps://github.com/bashbunni\nhttps://discord.com/invite/Y3vbKS4K9j (come hang!)\nhttps://mastodon.social/@bashbunni\nhttps://twitter.com/sudobunni\nhttps://bsky.app/profile/bashbunni.dev\n\nYou're Not Behind: Leveraging AI vs Experience\nI asked big tech about their AI workflows. Here's what I found...\n\n#bashbunni #softwarejobs #codingforbeginners",
-      "commentCount": 52,
-      "likeCount": 719,
       "probeClient": "web_embedded"
     },
     "IXOJwRjgKtM": {
@@ -5495,6 +5540,42 @@
       "description": "Claude Code runs out of credits, and everything stops. This is the Windows 11 fix: OmniRoute — a free, open-source AI router that runs on your own PC — with Claude Code wired straight into it, answering from a model that costs nothing. No API key, no credit card, no signup.\n\nWe start with what OmniRoute actually does, because that's the part nobody explains. It scores every available model live on 12 factors the moment your request lands. It hands your conversation to the next account with a summary when one runs out (Context Relay). And it shrinks your request before it's ever sent — up to 95% fewer tokens, about 89% on average. Then the one honest trade-off, so you know exactly what you're trusting before you rely on this daily.\n\nThen we build the whole thing, step by step. The Node.js version check that saves you an error later, npm install -g omniroute, the dashboard on localhost:20128, the default password you have to change, and the No Auth filter — seven providers with no account and no API key. We test a free model with one click and get a real answer in the Playground. Then we create .claude/settings.json in VS Code and point Claude Code at OmniRoute with auto/best-free. The last shot in this video is Claude Code answering, routed locally, on a free model.\n\nOne door, more than 250 AI providers behind it, about 1.5 billion free tokens pooled across them every month.\n\nEvery number here came from OmniRoute's own source code and a live install, checked in July 2026 — not copied from anywhere else.\n\nThe settings.json block is in the pinned comment. Copy it, no typing.\n\n#ClaudeCode #OmniRoute #Windows11\n\n────────────────────────────────────────\n\nWATCH NEXT\n\nClaude Code in VS Code — Installation & Usage Guide (2026). You just built the free setup; this is how to get fast with it:\nhttps://www.youtube.com/watch?v=u6SInNdHWzA\n\n────────────────────────────────────────\n\nMENTIONED IN THE VIDEO\n\nNo Node.js yet? How to Install Node.js and npm on Windows 11 WITHOUT Errors (2026):\nhttps://www.youtube.com/watch?v=tHthqaBHjeE\n\nNo VS Code yet? How to Install VS Code on Windows 11 (2026):\nhttps://www.youtube.com/watch?v=MH4b84lqkd4\n\nNo Claude Code yet? How to Install Claude Code on Windows 11, Full Setup Guide:\nhttps://www.youtube.com/watch?v=Y9irDbB7cm8\nThat guide covers the install. The settings file we create here is what points Claude Code at OmniRoute instead of Claude's own servers.\n\nOmniRoute on GitHub, where every number in this video came from:\nhttps://github.com/diegosouzapw/OmniRoute\n\nNode.js LTS installer:\nhttps://nodejs.org/en/download\n\n────────────────────────────────────────\n\nWHAT YOU NEED\n\nWindows 11\nNode.js 22.22.2 or newer, or any 24.x. We check this and update it first, before installing anything.\nVS Code and Claude Code, for the last section only. Links above.\nNo API key. No credit card. No signup for the providers we connect.\n\nDashboard address: localhost:20128\nDefault dashboard password: CHANGEME, uppercase. Change it immediately, in Settings under Security.\n\n────────────────────────────────────────\n\nCHAPTERS\n\n0:00 Five API keys, and still hitting the wall\n0:57 How OmniRoute picks a model: 12 factors, live\n2:01 Compression: up to 95% fewer tokens\n2:42 The one honest trade-off\n3:51 Check Node.js first, this saves an error\n4:27 Updating Node.js from nodejs.org\n4:55 Installing OmniRoute with npm\n5:13 The dashboard, and the password you must change\n5:44 The No Auth filter: free providers, no signup\n6:30 Test a free model before you trust it\n6:54 Your first free answer, in the Playground\n7:20 What you need before wiring in Claude Code\n7:52 Creating .claude/settings.json in VS Code\n9:18 What auto/best-free actually does\n9:54 Building your own combo\n10:17 Claude Code, answering on a free model\n11:13 Recap and what to watch next\n\n────────────────────────────────────────\n\nSubscribe if you want dev and AI tools set up properly on Windows 11. That's what we do here.\n\nThis tutorial covers: omniroute, omniroute claude code, claude code free, run claude code for free on windows 11, omniroute setup windows 11, omniroute install, free ai coding assistant, claude code no api key, free llm api, ai router windows 11, auto/best-free, opencode free.",
       "commentCount": 13,
       "likeCount": 110,
+      "probeClient": "web_embedded"
+    },
+    "Z4XcED3BrPM": {
+      "checkedAt": "2026-07-28T23:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn how to build a no-code AI agent in ChatGPT that connects to Gmail to automatically read, organize, and reply to customer support emails in 5 minutes.\n\nIn this step-by-step tutorial, you will learn how to use ChatGPT's native agent builder to automate your customer service workflow without writing code or using third-party platforms. We cover connecting your Gmail inbox, setting up custom communication styles, scheduling 15-minute polling intervals, and generating automatic team alerts. Whether you are a solo founder or running an agency, this automated system will help you scale your client support 24/7.\n\nTimestamps:\n00:00 — The 5-Minute AI Agent Workflow\n00:45 — Navigating the ChatGPT Agent Builder\n01:30 — Defining Rules and Email Triggers\n02:20 — Connecting Your Gmail Account\n03:15 — Adding Custom Memory and Writing Skills\n04:10 — Live Testing: Handling a Customer Complaint\n05:15 — Scheduling Automation Intervals\n06:00 — Exploring Pre-Built Agent Templates\n\nKey takeaways:\n\nNative Gmail Integration: You can link your Google account directly inside ChatGPT to monitor inboxes and draft replies without Zapier or Make.com.\n\nCustom Tone Formatting: Uploading sample text files to the \"Skills\" tab trains the AI agent to replicate your exact writing style and brand voice.\n\nAutomated Polling Schedules: Native agents run on scheduled loops (e.g., every 15 minutes) to consistently check for new customer inquiries and process workflows automatically.\n\nDual-Action Workflows: A single agent can simultaneously send a public-facing apology email to a customer while dispatching an internal summary alert to your team.\n\nPre-Built Template Library: ChatGPT includes ready-to-deploy templates for data analysis, sales outreach, and campaign generation that require zero initial prompting.\n\nTools / resources mentioned:\n\nChatGPT (Plus/Team/Enterprise): OpenAI's conversational model featuring the native agent builder and automation platform.\n\nGoogle Workspace / Gmail: Connected email provider used as the trigger inbox and communication output channel.\n\nIf you're building automated systems for your business or clients, check out the pre-built template breakdown in the description below to save dozens of hours on deployment.",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "kESakYmTZ4E": {
+      "checkedAt": "2026-07-28T23:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "See how marketing agencies can automatically research, qualify and prioritise new enquiries before a salesperson reviews them.\n\nThis AI-assisted workflow:\n\n• analyses prospect and company information\n• scores leads using transparent business criteria\n• identifies urgency, budget fit and buying intent\n• creates or updates HubSpot CRM records\n• prepares a Calendly booking route\n• drafts a personalised prospect response\n• sends a structured internal sales alert\n• generates a proposal draft for human review\n\nThe workflow is configurable around an agency’s existing enquiry form, qualification criteria, CRM stages, emails and sales process.\n\nBuilt by Tayyab Automates.\n\nWebsite: https://tayyabautomates.com/\n\nThis demonstration uses simulation mode for external integrations. Live credentials activate OpenAI, HubSpot, Calendly and email integrations.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "YDB7Vbictpo": {
+      "checkedAt": "2026-07-28T23:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "💥 Unlock a 30-day FREE trial + $15,577 in bonuses! 👉 https://www.gohighlevel.com/declan-oreilly-ai?fp_ref=declan60&utm_source=youtube&utm_medium=organic&utm_campaign=highlevel&utm_term=7.28.26\n\n\n*******\nALREADY A HIGHLEVEL USER? You can still claim all my bonuses when you upgrade through my link:\nUNLIMITED 👇👇👇\nhttps://www.gohighlevel.com/297upgrade?affiliate_upgrade_credit_to_$297=declan60\n\nPRO 👇👇👇\nhttps://www.gohighlevel.com/existing-customer-trial?affiliate_upgrade_credit=declan60\n*******\n\nCan't upgrade your HighLevel account but still want all my bonuses? Join my Community 👉 \nhttps://aidigitalentrepreneurs.net/coaching-courses-community-orderform\n\n\n📞If You Didn’t Get Access, Missed an Email, or Have a Question…\nReach out to me here:\nhttps://app.gohighlevel.com/v2/preview/0tNIMD7fpyBlBaWL5CXw  \n\n00:00 Connect Super Agents to Conversation AI\n00:40 What This New Update Can Do\n03:07 Build Your First Super Agent\n09:46 Configure Trigger Events\n13:05 Create AI Actions & Automations\n16:42 Generate Better Prompts with AI\n19:20 Connect Conversation AI\n22:04 Link Your Super Agent\n25:34 Test the Full AI Workflow\n28:06 Real Agency Use Cases\n29:19 Get the Free Resources & Community\n\n#gohighleveltraining  @highlevelwizard #superagent\n\nDisclaimer:  I’m an affiliate for GoHighLevel, which means I may earn a commission if you sign up through my links. Please note that results vary and are not guaranteed. Any income or success examples I share are for educational purposes only and should not be considered typical or promised outcomes.",
+      "commentCount": 8,
+      "likeCount": 37,
+      "probeClient": "web_embedded"
+    },
+    "p72JKCt2EPw": {
+      "checkedAt": "2026-07-28T23:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Start with the FREE Client Acquisition Roadmap:\nhttps://freedomsystem.io/roadmap\n\nIn this video, I break down the exact framework I would use to build an AI marketing agency from scratch in 2026 based on my experience as an entrepreneur and agency owner—not theory or AI-generated advice.\n\nYou'll learn:\n• Why I believe AI marketing agencies are one of the best business opportunities in 2026\n• My 7-step framework for getting your first client, first case study, and recurring revenue\n• How to choose the right local businesses and build systems that scale with AI and automations\n\nWhether you're starting from zero or looking to build a marketing agency with GoHighLevel, AI, and automation, this video walks through the strategy I'd personally follow if I had to start over.\n\nInside the roadmap, I break down:\n• The LOCAL framework I use to simplify client acquisition\n• How to identify real business problems before relying on tools\n• Why I’m focusing on a simple AI receptionist offer instead of trying to learn every part of marketing\n• A practical system for starting conversations and getting your first (or next) client using HighLevel\n\nIf you choose to use my HighLevel affiliate link, you’ll also get:\n• Access to weekly Zoom calls for guidance and Q&A\n• Ongoing updates as I document the real process of building and selling this offer\n• Practical implementation lessons around AI receptionist systems, lead response workflows, and client acquisition\n• Support as you work toward your first (or next) client\n\nBuilt through real implementation, real conversations, and real client work — not theory.\n\nTest HighLevel risk-free for 30 days\nhttps://freedomsystem.io/highlevel\n\n❗IMPORTANT: To make sure your bonuses are tracked correctly, avoid using ad blockers or certain browser extensions when signing up through the affiliate link.\n\nIf you’ve already signed up and don’t see your bonuses:\n1️⃣ Check your spam or promotions folder\n2️⃣ If it’s still missing, join our FREE community and post in Help-Desk:\nhttps://freedomsystem.io/community\n\nDisclosure:\nSome links in this description may be affiliate links, which means I may earn a commission if you choose to make a purchase—at no additional cost to you. I am an independent affiliate and not an employee or representative of HighLevel or any other platform mentioned. All opinions shared are based on my personal experience and are not official endorsements. Any tools, strategies, or examples discussed are for educational purposes only and do not guarantee results. Your outcomes will vary based on effort, implementation, and market conditions.\n\n#paulkim360 #freedomsystem #freedomvoyage #highlevel #gohighlevel #marketingagency  #aiagency #localbusinessmarketing #aiautomation #agencyowner #recurringrevenue  #entrepreneur #localseo",
+      "commentCount": 0,
+      "likeCount": 1,
       "probeClient": "web_embedded"
     }
   }
