@@ -92,13 +92,21 @@ class FrontendFeatureTests(unittest.TestCase):
             "data-player-nav",
             "function navigatePlayer",
             "function playerNeighbor",
+            "function playlistLongVideos",
             "PLAYER_WHEEL_THRESHOLD",
             "SHORT_WHEEL_THRESHOLD",
             "const MINIMUM_MANUAL_SWITCH_WATCH_SECONDS = 5;",
             "function watchedSecondsFor",
             "function markVideoWatchedAfterMinimum",
             "markVideoWatchedAfterMinimum(state.activeVideo)",
-            "markVideoWatchedAfterMinimum(state.shortQueue[state.shortIndex])",
+            "markVideoWatchedAfterMinimum(current)",
+            "function shortPlaybackQueue",
+            "function pruneWatchedShortQueue",
+            "function nextUnwatchedShortAfter",
+            "const selectedVideo = allShorts.find((item) => item.id === video?.id);",
+            "const currentAfterPrune = state.shortQueue[state.shortIndex];",
+            "All available Shorts are already watched",
+            "return playableLongVideos().filter((item) => item.id === currentId || !isWatched(item.id));",
             "readJson(PROGRESS_KEY, {})[videoId]",
             "playerWheelDelta",
             "shortWheelDelta",
@@ -113,8 +121,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn("max-width: none;", style_css)
         self.assertNotIn("max-width: 1580px;", style_css)
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
-        self.assertIn("style.css?v=20260728-minwatch-nav", index_html)
-        self.assertIn("app.js?v=20260728-minwatch-nav", index_html)
+        self.assertIn("style.css?v=20260728-hide-watched-queue", index_html)
+        self.assertIn("app.js?v=20260728-hide-watched-queue", index_html)
         self.assertIn('aria-label="NexaFeed home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)

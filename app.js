@@ -891,7 +891,7 @@ function filteredItems() {
     items = items
       .filter((item) => isLiked(item.id))
       .sort((a, b) => state.liked[b.id] - state.liked[a.id]);
-  } else if (!hasQuery) {
+  } else {
     items = items.filter((item) => !isWatched(item.id));
   }
   if (state.quickFilter === "unwatched") items = items.filter((item) => !isWatched(item.id));
@@ -967,20 +967,24 @@ function setActiveNav() {
 }
 
 function queueFor(currentId) {
-  const longs = playableLongVideos();
+  const longs = playlistLongVideos(currentId);
   const index = longs.findIndex((item) => item.id === currentId);
   const candidates = index >= 0 ? longs.slice(index + 1) : longs;
-  return candidates.filter((item) => item.id !== currentId && !isWatched(item.id));
+  return candidates.filter((item) => item.id !== currentId);
 }
 
 function playableLongVideos() {
   return state.feed?.items.filter((item) => item.type === "long" && item.embedAllowed !== false && !state.unavailableVideos.has(item.id)) || [];
 }
 
+function playlistLongVideos(currentId) {
+  return playableLongVideos().filter((item) => item.id === currentId || !isWatched(item.id));
+}
+
 function playerNeighbor(currentId, direction) {
-  const longs = playableLongVideos();
+  const longs = playlistLongVideos(currentId);
   const index = longs.findIndex((item) => item.id === currentId);
-  if (direction > 0) return queueFor(currentId)[0] || (index >= 0 ? longs[index + 1] : null) || null;
+  if (direction > 0) return queueFor(currentId)[0] || null;
   return index > 0 ? longs[index - 1] : null;
 }
 
@@ -1272,14 +1276,42 @@ function skipUnavailableShort(videoId) {
   renderShort();
 }
 
-function openShort(video) {
-  const allShorts = state.feed.items.filter(
+function playableShortVideos() {
+  return state.feed.items.filter(
     (item) => item.type === "short" && item.embedAllowed !== false && !state.unavailableVideos.has(item.id),
   );
-  state.shortQueue = [
-    video,
-    ...allShorts.filter((item) => item.id !== video.id && !isWatched(item.id)),
+}
+
+function nextUnwatchedShortAfter(video, allShorts) {
+  const startIndex = allShorts.findIndex((item) => item.id === video?.id);
+  const afterCurrent = startIndex >= 0 ? allShorts.slice(startIndex + 1) : allShorts;
+  return afterCurrent.find((item) => !isWatched(item.id)) || allShorts.find((item) => !isWatched(item.id)) || null;
+}
+
+function shortPlaybackQueue(video) {
+  const allShorts = playableShortVideos();
+  const selectedVideo = allShorts.find((item) => item.id === video?.id);
+  const startVideo = selectedVideo && !isWatched(selectedVideo.id)
+    ? selectedVideo
+    : nextUnwatchedShortAfter(video, allShorts);
+  if (!startVideo) return [];
+  return [
+    startVideo,
+    ...allShorts.filter((item) => item.id !== startVideo.id && !isWatched(item.id)),
   ];
+}
+
+function pruneWatchedShortQueue(keepVideoId) {
+  state.shortQueue = state.shortQueue.filter((item) => item.id === keepVideoId || !isWatched(item.id));
+  if (keepVideoId) state.shortIndex = Math.max(0, state.shortQueue.findIndex((item) => item.id === keepVideoId));
+}
+
+function openShort(video) {
+  state.shortQueue = shortPlaybackQueue(video);
+  if (!state.shortQueue.length) {
+    window.alert("All available Shorts are already watched. Clear Watch history if you want to replay them.");
+    return;
+  }
   state.shortIndex = 0;
   state.shortPanel = null;
   renderShort();
@@ -1330,17 +1362,51 @@ function renderShort() {
 }
 
 function nextShort() {
+  const current = state.shortQueue[state.shortIndex];
+  if (!current) return closeShort();
+  pruneWatchedShortQueue(current.id);
+  const currentAfterPrune = state.shortQueue[state.shortIndex];
+  if (!currentAfterPrune || currentAfterPrune.id !== current.id) return renderShort();
   if (state.shortIndex < state.shortQueue.length - 1) {
-    markVideoWatchedAfterMinimum(state.shortQueue[state.shortIndex]);
+    const currentIndex = state.shortIndex;
+    markVideoWatchedAfterMinimum(current);
+    if (isWatched(current.id)) {
+      state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isWatched(item.id));
+      if (!state.shortQueue.length) return closeShort();
+      state.shortIndex = Math.min(currentIndex, state.shortQueue.length - 1);
+      return renderShort();
+    }
     state.shortIndex += 1;
+    renderShort();
+  } else if (isWatched(current.id)) {
+    state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isWatched(item.id));
+    if (!state.shortQueue.length) return closeShort();
+    state.shortIndex = Math.min(state.shortIndex, state.shortQueue.length - 1);
     renderShort();
   }
 }
 
 function previousShort() {
+  const current = state.shortQueue[state.shortIndex];
+  if (!current) return closeShort();
+  pruneWatchedShortQueue(current.id);
+  const currentAfterPrune = state.shortQueue[state.shortIndex];
+  if (!currentAfterPrune || currentAfterPrune.id !== current.id) return renderShort();
   if (state.shortIndex > 0) {
-    markVideoWatchedAfterMinimum(state.shortQueue[state.shortIndex]);
+    const currentIndex = state.shortIndex;
+    markVideoWatchedAfterMinimum(current);
+    if (isWatched(current.id)) {
+      state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isWatched(item.id));
+      if (!state.shortQueue.length) return closeShort();
+      state.shortIndex = Math.max(0, currentIndex - 1);
+      return renderShort();
+    }
     state.shortIndex -= 1;
+    renderShort();
+  } else if (isWatched(current.id)) {
+    state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isWatched(item.id));
+    if (!state.shortQueue.length) return closeShort();
+    state.shortIndex = 0;
     renderShort();
   }
 }
