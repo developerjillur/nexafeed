@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <title>NexaFeed Float</title>
+    <style>
+      :root { color-scheme: dark; }
+      * { box-sizing: border-box; }
+      html, body { width: 100%; height: 100%; }
+      body {
+        margin: 0;
+        overflow: hidden;
+        background: #05070c;
+        color: #fff;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      .float-window {
+        display: grid;
+        grid-template-rows: 42px minmax(0, 1fr);
+        width: 100vw;
+        height: 100vh;
+        background: #05070c;
+      }
+      .float-titlebar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        min-width: 0;
+        padding: 0 10px 0 12px;
+        border-bottom: 1px solid rgba(255,255,255,.12);
+        background: linear-gradient(135deg, rgba(17,24,39,.96), rgba(8,11,18,.96));
+      }
+      .float-brand { display: flex; min-width: 0; align-items: center; gap: 9px; font-size: 12px; font-weight: 750; }
+      .float-dot { display: grid; width: 18px; height: 18px; place-items: center; border-radius: 50%; background: #ff0033; font-size: 9px; }
+      .float-title { overflow: hidden; color: rgba(255,255,255,.82); text-overflow: ellipsis; white-space: nowrap; }
+      .float-actions { display: flex; align-items: center; gap: 7px; }
+      .float-actions button, .float-actions a {
+        display: grid;
+        width: 28px;
+        height: 28px;
+        place-items: center;
+        cursor: pointer;
+        border: 1px solid rgba(255,255,255,.16);
+        border-radius: 8px;
+        background: rgba(255,255,255,.09);
+        color: #fff;
+        font-size: 15px;
+        text-decoration: none;
+      }
+      .float-actions button:hover, .float-actions a:hover { background: rgba(255,255,255,.18); }
+      .float-frame { position: relative; overflow: hidden; background: #000; }
+      #floatingYoutubePlayer, .float-frame iframe { display: block; width: 100%; height: 100%; border: 0; }
+      .status {
+        position: absolute;
+        inset: 0;
+        display: grid;
+        place-items: center;
+        gap: 12px;
+        padding: 28px;
+        color: rgba(255,255,255,.74);
+        text-align: center;
+      }
+      .status strong { color: #fff; font-size: 18px; }
+      .status a { color: #fff; font-weight: 800; }
+      .hidden { display: none; }
+    </style>
+  </head>
+  <body>
+    <section class="float-window" aria-label="NexaFeed floating YouTube player">
+      <header class="float-titlebar">
+        <div class="float-brand">
+          <span class="float-dot">▶</span>
+          <span id="floatLabel">NexaFeed Float</span>
+          <small id="floatTitle" class="float-title">Loading video</small>
+        </div>
+        <div class="float-actions">
+          <a id="youtubeLink" class="float-youtube" href="https://www.youtube.com/" target="_blank" rel="noopener" aria-label="Open on YouTube">↗</a>
+          <button type="button" id="closeButton" aria-label="Close floating player">×</button>
+        </div>
+      </header>
+      <div class="float-frame">
+        <div id="floatingYoutubePlayer"></div>
+        <div id="status" class="status"><strong>Loading player...</strong></div>
+      </div>
+    </section>
+
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      const video = {
+        id: params.get("id") || "",
+        title: params.get("title") || "NexaFeed video",
+        type: params.get("type") === "short" ? "short" : "long",
+        channel: params.get("channel") || "",
+        url: params.get("url") || "",
+        start: Math.max(0, Number.parseInt(params.get("start") || "0", 10) || 0),
+      };
+      const idLooksSafe = /^[A-Za-z0-9_-]{6,}$/.test(video.id);
+      const watchUrl = video.url && /^https:\/\/(www\.)?youtube\.com\//.test(video.url)
+        ? video.url
+        : `https://www.youtube.com/watch?v=${encodeURIComponent(video.id)}`;
+      const statusNode = document.querySelector("#status");
+      const titleNode = document.querySelector("#floatTitle");
+      const labelNode = document.querySelector("#floatLabel");
+      const linkNode = document.querySelector("#youtubeLink");
+      let player = null;
+
+      document.title = `${video.title} — NexaFeed Float`;
+      titleNode.textContent = video.title;
+      labelNode.textContent = video.type === "short" ? "NexaFeed Short" : "NexaFeed Float";
+      linkNode.href = watchUrl;
+
+      document.querySelector("#closeButton").addEventListener("click", () => {
+        try { player?.destroy?.(); } catch {}
+        window.close();
+      });
+
+      function showStatus(title, body, linkText = "Watch video on YouTube") {
+        statusNode.classList.remove("hidden");
+        statusNode.innerHTML = "";
+        const strong = document.createElement("strong");
+        strong.textContent = title;
+        const span = document.createElement("span");
+        span.textContent = body;
+        const link = document.createElement("a");
+        link.href = watchUrl;
+        link.target = "_blank";
+        link.rel = "noopener";
+        link.textContent = linkText;
+        statusNode.append(strong, span, link);
+      }
+
+      function hideStatus() {
+        statusNode.classList.add("hidden");
+      }
+
+      function initPlayer() {
+        if (!idLooksSafe || !window.YT?.Player) {
+          showStatus("This video cannot be loaded here.", "The video id is missing or invalid.");
+          return;
+        }
+        const playerVars = {
+          autoplay: 1,
+          rel: 0,
+          playsinline: 1,
+          enablejsapi: 1,
+          modestbranding: 1,
+          origin: window.location.origin,
+          widget_referrer: document.referrer || window.location.href,
+        };
+        if (video.start > 5) playerVars.start = video.start;
+        player = new YT.Player("floatingYoutubePlayer", {
+          videoId: video.id,
+          width: "100%",
+          height: "100%",
+          playerVars,
+          events: {
+            onReady(event) {
+              hideStatus();
+              try { event.target.playVideo(); } catch {}
+            },
+            onError() {
+              showStatus("This floating player could not start.", "YouTube refused this popup embed. Open it directly on YouTube instead.");
+            },
+          },
+        });
+      }
+
+      window.onYouTubeIframeAPIReady = initPlayer;
+      const tag = document.createElement("script");
+      tag.src = "https://www.youtube.com/iframe_api";
+      tag.async = true;
+      tag.onerror = () => showStatus("YouTube player failed to load.", "Your browser or an extension blocked the YouTube IFrame API.");
+      document.head.appendChild(tag);
+      window.setTimeout(() => {
+        if (!player && window.YT?.Player) initPlayer();
+      }, 2500);
+    </script>
+  </body>
+</html>

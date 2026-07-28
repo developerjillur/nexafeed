@@ -257,6 +257,21 @@ function youtubeEmbedSrc(video, autoplay = true) {
   return `https://www.youtube.com/embed/${encodeURIComponent(video.id)}?${params.toString()}`;
 }
 
+function floatingPopupUrl(video) {
+  const popupUrl = new URL("float.html", window.location.href);
+  const params = new URLSearchParams({
+    id: video.id,
+    title: String(video.title || "NexaFeed video").slice(0, 180),
+    type: video.type === "short" ? "short" : "long",
+    channel: String(video.channel || "").slice(0, 100),
+    url: video.url || `https://www.youtube.com/watch?v=${video.id}`,
+  });
+  const saved = state.progress[video.id];
+  if (saved?.seconds > 5 && Number(saved.ratio || 0) < 0.8) params.set("start", String(Math.floor(saved.seconds)));
+  popupUrl.search = params.toString();
+  return popupUrl.toString();
+}
+
 function floatingPlayerCss() {
   return `
     :root { color-scheme: dark; }
@@ -292,10 +307,6 @@ function floatingPlayerBody(video, { draggable = false, apiMount = false } = {})
       </header>
       ${floatingPlayerFrame(video, apiMount)}
     </section>`;
-}
-
-function floatingPlayerDocument(video) {
-  return `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escapeHtml(video.title)} — NexaFeed Float</title><style>${floatingPlayerCss()}</style></head><body>${floatingPlayerBody(video)}<script>document.querySelector('[data-close-float]')?.addEventListener('click',()=>window.close());<\/script></body></html>`;
 }
 
 function pauseInlinePlayer() {
@@ -381,22 +392,11 @@ async function createFloatingYoutubePlayer(elementId, video) {
 
 async function openDocumentPictureInPicture(video) {
   if (!window.documentPictureInPicture?.requestWindow) return false;
-  try {
-    const size = floatingSize(video);
-    const pipWindow = await window.documentPictureInPicture.requestWindow(size);
-    floatingPipWindow = pipWindow;
-    pipWindow.document.head.innerHTML = `<style>${floatingPlayerCss()}</style><title>${escapeHtml(video.title)} — NexaFeed Float</title>`;
-    pipWindow.document.body.innerHTML = floatingPlayerBody(video);
-    pipWindow.document.querySelector("[data-close-float]")?.addEventListener("click", () => pipWindow.close());
-    pipWindow.addEventListener("pagehide", () => {
-      if (floatingPipWindow === pipWindow) floatingPipWindow = null;
-    });
-    pauseInlinePlayer();
-    return true;
-  } catch {
-    floatingPipWindow = null;
-    return false;
-  }
+  // YouTube raw iframes inside Document Picture-in-Picture can render as Error 153
+  // because the PiP document has an unreliable referrer. Keep this capability
+  // detectable, but use the real same-origin popup page / in-page API player instead.
+  void video;
+  return false;
 }
 
 function openPopupFloatingPlayer(video) {
@@ -404,12 +404,9 @@ function openPopupFloatingPlayer(video) {
   const left = Math.max(0, Math.round((window.screenX || 0) + (window.outerWidth - size.width) / 2));
   const top = Math.max(0, Math.round((window.screenY || 0) + 90));
   const features = `popup=yes,width=${size.width},height=${size.height},left=${left},top=${top},resizable=yes,scrollbars=no`;
-  const popup = window.open("", "nexafeedFloatingPlayer", features);
+  const popup = window.open(floatingPopupUrl(video), "nexafeedFloatingPlayer", features);
   if (!popup) return false;
   floatingPopup = popup;
-  popup.document.open();
-  popup.document.write(floatingPlayerDocument(video));
-  popup.document.close();
   popup.focus();
   pauseInlinePlayer();
   return true;
@@ -465,14 +462,9 @@ function openInlineFloatingPlayer(video) {
 
 async function openFloatingVideo(video) {
   if (!video) return;
-  let triedPopup = false;
-  if (window.documentPictureInPicture?.requestWindow) {
-    if (await openDocumentPictureInPicture(video)) return;
-  } else {
-    triedPopup = true;
-    if (openPopupFloatingPlayer(video)) return;
-  }
-  if (!triedPopup && openPopupFloatingPlayer(video)) return;
+  // Prefer a real same-origin popup page. The earlier about:blank/Document-PiP
+  // raw iframe path can trigger YouTube Error 153 even when the main API player works.
+  if (openPopupFloatingPlayer(video)) return;
   openInlineFloatingPlayer(video);
 }
 

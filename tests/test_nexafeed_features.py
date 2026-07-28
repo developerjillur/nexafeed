@@ -26,6 +26,7 @@ class FrontendFeatureTests(unittest.TestCase):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
         style_css = (ROOT / "style.css").read_text(encoding="utf-8")
         index_html = (ROOT / "index.html").read_text(encoding="utf-8")
+        float_html = (ROOT / "float.html").read_text(encoding="utf-8")
         workflow_path = ROOT / ".github/workflows/apply-feed-settings.yml"
 
         for marker in [
@@ -65,8 +66,10 @@ class FrontendFeatureTests(unittest.TestCase):
             "function floatButton",
             "data-float-id",
             "function openFloatingVideo",
+            "function floatingPopupUrl",
+            "float.html",
             "function openDocumentPictureInPicture",
-            "documentPictureInPicture.requestWindow",
+            "documentPictureInPicture?.requestWindow",
             "function openPopupFloatingPlayer",
             "nexafeedFloatingPlayer",
             "function openInlineFloatingPlayer",
@@ -87,6 +90,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('aria-label="NexaFeed home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)
+        for marker in ["NexaFeed Float", "floatingYoutubePlayer", "onYouTubeIframeAPIReady", "new YT.Player", "widget_referrer", "strict-origin-when-cross-origin"]:
+            self.assertIn(marker, float_html)
         self.assertTrue(workflow_path.is_file())
         workflow = workflow_path.read_text(encoding="utf-8")
         self.assertIn("issues:", workflow)
