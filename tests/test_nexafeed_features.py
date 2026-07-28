@@ -62,10 +62,20 @@ class FrontendFeatureTests(unittest.TestCase):
             "Export likes JSON",
             "Clear liked",
             "class=\"card-open\" type=\"button\"",
+            "function floatButton",
+            "data-float-id",
+            "function openFloatingVideo",
+            "function openDocumentPictureInPicture",
+            "documentPictureInPicture.requestWindow",
+            "function openPopupFloatingPlayer",
+            "nexafeedFloatingPlayer",
+            "function openInlineFloatingPlayer",
+            "data-float-drag",
+            "shortFloatButton",
         ]:
             self.assertIn(marker, app_js)
         self.assertNotIn("Like this Short on YouTube", app_js)
-        for marker in [".short-drawer", ".short-action-stack", ".short-like.active", ".save-button", ".card-open", ".card-save", ".player-save", ".liked-tools", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
+        for marker in [".short-drawer", ".short-action-stack", ".short-like.active", ".save-button", ".card-open", ".card-save", ".player-save", ".float-button", "#floatingRoot", ".in-page-float", ".float-titlebar", ".float-frame", ".liked-tools", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
             self.assertIn(marker, style_css)
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn('aria-label="NexaFeed home"', index_html)

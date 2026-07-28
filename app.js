@@ -37,6 +37,8 @@ let player = null;
 let progressTimer = null;
 let wheelLocked = false;
 let touchStartY = null;
+let floatingPopup = null;
+let floatingPipWindow = null;
 
 document.documentElement.dataset.theme = state.theme;
 document.querySelector("#themeButton").textContent = state.theme === "dark" ? "☀" : "☾";
@@ -216,6 +218,165 @@ function saveButton(video, context = "card") {
   const liked = isLiked(video.id);
   const label = liked ? "Remove from Liked videos" : "Save to Liked videos";
   return `<button class="save-button ${context}-save ${liked ? "active" : ""}" type="button" data-like-id="${escapeHtml(video.id)}" aria-label="${escapeHtml(label)}" aria-pressed="${liked}"><span>${liked ? "♥" : "♡"}</span></button>`;
+}
+
+function floatButton(video, context = "player") {
+  return `<button class="action-button compact float-button ${context}-float" type="button" data-float-id="${escapeHtml(video.id)}" aria-label="Open ${escapeHtml(video.title)} in floating player">⧉ Float</button>`;
+}
+
+function floatingSize(video) {
+  return video.type === "short"
+    ? { width: 390, height: 700 }
+    : { width: 760, height: 470 };
+}
+
+function youtubeEmbedSrc(video, autoplay = true) {
+  const params = new URLSearchParams({
+    autoplay: autoplay ? "1" : "0",
+    rel: "0",
+    playsinline: "1",
+    modestbranding: "1",
+  });
+  const saved = state.progress[video.id];
+  if (saved?.seconds > 5 && Number(saved.ratio || 0) < 0.8) params.set("start", String(Math.floor(saved.seconds)));
+  return `https://www.youtube.com/embed/${encodeURIComponent(video.id)}?${params.toString()}`;
+}
+
+function floatingPlayerCss() {
+  return `
+    :root { color-scheme: dark; }
+    * { box-sizing: border-box; }
+    body { margin: 0; overflow: hidden; background: #05070c; color: #fff; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .float-window { display: grid; grid-template-rows: 42px minmax(0, 1fr); width: 100vw; height: 100vh; background: #05070c; }
+    .float-titlebar { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-width: 0; padding: 0 10px 0 12px; border-bottom: 1px solid rgba(255,255,255,.12); background: linear-gradient(135deg, rgba(17,24,39,.96), rgba(8,11,18,.96)); }
+    .float-brand { display: flex; min-width: 0; align-items: center; gap: 9px; font-size: 12px; font-weight: 750; }
+    .float-dot { display: grid; width: 18px; height: 18px; place-items: center; border-radius: 50%; background: #ff0033; font-size: 9px; }
+    .float-title { overflow: hidden; color: rgba(255,255,255,.82); text-overflow: ellipsis; white-space: nowrap; }
+    .float-actions { display: flex; align-items: center; gap: 7px; }
+    .float-actions button, .float-actions a { display: grid; width: 28px; height: 28px; place-items: center; cursor: pointer; border: 1px solid rgba(255,255,255,.16); border-radius: 8px; background: rgba(255,255,255,.09); color: #fff; font-size: 15px; text-decoration: none; }
+    .float-actions button:hover, .float-actions a:hover { background: rgba(255,255,255,.18); }
+    .float-frame { overflow: hidden; background: #000; }
+    .float-frame iframe { display: block; width: 100%; height: 100%; border: 0; }
+  `;
+}
+
+function floatingPlayerBody(video, { draggable = false } = {}) {
+  return `
+    <section class="float-window ${video.type === "short" ? "short-float" : "long-float"}" id="inlineFloatingPlayer" aria-label="Floating player">
+      <header class="float-titlebar" ${draggable ? 'data-float-drag="true"' : ""}>
+        <div class="float-brand"><span class="float-dot">▶</span><span>${video.type === "short" ? "NexaFeed Short" : "NexaFeed Float"}</span><small class="float-title">${escapeHtml(video.title)}</small></div>
+        <div class="float-actions">
+          <a class="float-youtube" href="${escapeHtml(video.url || `https://www.youtube.com/watch?v=${video.id}`)}" target="_blank" rel="noopener" aria-label="Open on YouTube">↗</a>
+          <button type="button" data-close-float aria-label="Close floating player">×</button>
+        </div>
+      </header>
+      <div class="float-frame"><iframe src="${escapeHtml(youtubeEmbedSrc(video))}" title="${escapeHtml(video.title)}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+    </section>`;
+}
+
+function floatingPlayerDocument(video) {
+  return `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escapeHtml(video.title)} — NexaFeed Float</title><style>${floatingPlayerCss()}</style></head><body>${floatingPlayerBody(video)}<script>document.querySelector('[data-close-float]')?.addEventListener('click',()=>window.close());<\/script></body></html>`;
+}
+
+function pauseInlinePlayer() {
+  try { player?.pauseVideo?.(); } catch { /* iframe may not be ready */ }
+}
+
+async function openDocumentPictureInPicture(video) {
+  if (!window.documentPictureInPicture?.requestWindow) return false;
+  try {
+    const size = floatingSize(video);
+    const pipWindow = await window.documentPictureInPicture.requestWindow(size);
+    floatingPipWindow = pipWindow;
+    pipWindow.document.head.innerHTML = `<style>${floatingPlayerCss()}</style><title>${escapeHtml(video.title)} — NexaFeed Float</title>`;
+    pipWindow.document.body.innerHTML = floatingPlayerBody(video);
+    pipWindow.document.querySelector("[data-close-float]")?.addEventListener("click", () => pipWindow.close());
+    pipWindow.addEventListener("pagehide", () => {
+      if (floatingPipWindow === pipWindow) floatingPipWindow = null;
+    });
+    pauseInlinePlayer();
+    return true;
+  } catch {
+    floatingPipWindow = null;
+    return false;
+  }
+}
+
+function openPopupFloatingPlayer(video) {
+  const size = floatingSize(video);
+  const left = Math.max(0, Math.round((window.screenX || 0) + (window.outerWidth - size.width) / 2));
+  const top = Math.max(0, Math.round((window.screenY || 0) + 90));
+  const features = `popup=yes,width=${size.width},height=${size.height},left=${left},top=${top},resizable=yes,scrollbars=no`;
+  const popup = window.open("", "nexafeedFloatingPlayer", features);
+  if (!popup) return false;
+  floatingPopup = popup;
+  popup.document.open();
+  popup.document.write(floatingPlayerDocument(video));
+  popup.document.close();
+  popup.focus();
+  pauseInlinePlayer();
+  return true;
+}
+
+function ensureFloatingRoot() {
+  let root = document.querySelector("#floatingRoot");
+  if (!root) {
+    root = document.createElement("div");
+    root.id = "floatingRoot";
+    document.body.appendChild(root);
+  }
+  return root;
+}
+
+function closeInlineFloatingPlayer() {
+  const root = document.querySelector("#floatingRoot");
+  if (root) root.innerHTML = "";
+}
+
+function startInlineFloatDrag(event) {
+  const panel = event.target.closest("#inlineFloatingPlayer");
+  if (!panel || event.target.closest("button, a")) return;
+  event.preventDefault();
+  const rect = panel.getBoundingClientRect();
+  const shiftX = event.clientX - rect.left;
+  const shiftY = event.clientY - rect.top;
+  const move = (moveEvent) => {
+    const maxLeft = Math.max(0, window.innerWidth - panel.offsetWidth);
+    const maxTop = Math.max(0, window.innerHeight - panel.offsetHeight);
+    panel.style.left = `${Math.max(0, Math.min(maxLeft, moveEvent.clientX - shiftX))}px`;
+    panel.style.top = `${Math.max(0, Math.min(maxTop, moveEvent.clientY - shiftY))}px`;
+    panel.style.right = "auto";
+    panel.style.bottom = "auto";
+  };
+  const stop = () => {
+    document.removeEventListener("pointermove", move);
+    document.removeEventListener("pointerup", stop);
+  };
+  document.addEventListener("pointermove", move);
+  document.addEventListener("pointerup", stop, { once: true });
+}
+
+function openInlineFloatingPlayer(video) {
+  const root = ensureFloatingRoot();
+  root.innerHTML = floatingPlayerBody(video, { draggable: true });
+  const panel = root.querySelector("#inlineFloatingPlayer");
+  panel?.classList.add("in-page-float");
+  panel?.querySelector("[data-float-drag]")?.addEventListener("pointerdown", startInlineFloatDrag);
+  panel?.querySelector("[data-close-float]")?.addEventListener("click", closeInlineFloatingPlayer);
+  pauseInlinePlayer();
+}
+
+async function openFloatingVideo(video) {
+  if (!video) return;
+  let triedPopup = false;
+  if (window.documentPictureInPicture?.requestWindow) {
+    if (await openDocumentPictureInPicture(video)) return;
+  } else {
+    triedPopup = true;
+    if (openPopupFloatingPlayer(video)) return;
+  }
+  if (!triedPopup && openPopupFloatingPlayer(video)) return;
+  openInlineFloatingPlayer(video);
 }
 
 function videoCard(video) {
@@ -624,6 +785,7 @@ function renderPlayer() {
           <div class="player-actions">
             <span class="video-stats">${escapeHtml(video.views || "Views unavailable")} • ${escapeHtml(timeAgo(video.publishedAt))}</span>
             ${saveButton(video, "player")}
+            ${floatButton(video, "player")}
             <button class="action-button compact" id="markCurrentWatched">✓ Mark watched</button>
           </div>
         </div>
@@ -729,7 +891,7 @@ async function createYoutubePlayer(elementId, video, options = {}) {
   } catch {
     const node = document.getElementById(elementId);
     if (node) {
-      node.innerHTML = `<iframe src="https://www.youtube.com/embed/${encodeURIComponent(video.id)}?autoplay=1&rel=0&playsinline=1" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="${escapeHtml(video.title)}"></iframe>`;
+      node.innerHTML = `<iframe src="${escapeHtml(youtubeEmbedSrc(video))}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="${escapeHtml(video.title)}"></iframe>`;
     }
   }
 }
@@ -900,6 +1062,7 @@ function renderShort() {
             <button id="shortLikeButton" class="short-like ${liked ? "active" : ""}" aria-label="Save this Short to local likes" aria-pressed="${liked}"><span>${liked ? "♥" : "♡"}</span><small data-default-label="${escapeHtml(likeLabel)}">${liked ? "Liked" : escapeHtml(likeLabel)}</small></button>
             <button id="shortCommentsButton" class="${state.shortPanel === "comments" ? "active" : ""}" aria-label="Show comments"><span>▤</span><small>${compactMetric(commentCount, "Comments")}</small></button>
             <button id="shortShareButton" aria-label="Share this Short"><span>↗</span><small>Share</small></button>
+            <button id="shortFloatButton" aria-label="Open this Short in floating player"><span>⧉</span><small>Float</small></button>
             <button id="shortDescriptionButton" class="${state.shortPanel === "description" ? "active" : ""}" aria-label="Show description"><span>i</span><small>About</small></button>
             <a href="${escapeHtml(video.channelUrl || video.url)}" target="_blank" rel="noopener" aria-label="Open ${escapeHtml(video.channel)} on YouTube"><span class="action-avatar">${escapeHtml(initials(video.channel))}</span><small>Channel</small></a>
           </div>
@@ -1154,6 +1317,15 @@ app.addEventListener("click", (event) => {
     return;
   }
 
+  const floatButtonElement = event.target.closest("[data-float-id]");
+  if (floatButtonElement) {
+    event.preventDefault();
+    event.stopPropagation();
+    const video = state.feed.items.find((item) => item.id === floatButtonElement.dataset.floatId) || state.activeVideo;
+    openFloatingVideo(video);
+    return;
+  }
+
   const shortButton = event.target.closest("[data-short-id]");
   if (shortButton) {
     openCard(shortButton);
@@ -1254,6 +1426,11 @@ overlayRoot.addEventListener("click", (event) => {
   if (event.target.closest("#shortPrevious")) return previousShort();
   if (event.target.closest("#shortCommentsButton")) return toggleShortPanel("comments");
   if (event.target.closest("#shortShareButton")) return shareCurrentShort(event.target.closest("#shortShareButton"));
+  if (event.target.closest("#shortFloatButton")) {
+    event.preventDefault();
+    event.stopPropagation();
+    return openFloatingVideo(state.shortQueue[state.shortIndex]);
+  }
   if (event.target.closest("#shortDescriptionButton")) return toggleShortPanel("description");
   if (event.target.closest("#shortDrawerClose")) return toggleShortPanel(state.shortPanel);
 });
