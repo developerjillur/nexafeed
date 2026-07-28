@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Structural and data-integrity verification for the NexaFeed static application."""
+"""Structural and data-integrity verification for the YourTube static application."""
 from __future__ import annotations
 
 import csv
@@ -46,12 +46,27 @@ required_files = [
     "scripts/nexafeed_env.py",
     "scripts/nexafeed_automation.py",
     "scripts/nexafeed_doctor.py",
+    "LICENSE",
+    "SECURITY.md",
+    "CONTRIBUTING.md",
+    "CHANGELOG.md",
+    "docs/AI_SETUP_PROMPT.md",
+    "docs/SCHEDULING.md",
+    "docs/screenshots/yourtube-home.png",
+    "docs/screenshots/yourtube-shorts.png",
+    "docs/screenshots/yourtube-settings.png",
 ]
 for relative in required_files:
     if not (ROOT / relative).is_file():
         fail(f"missing {relative}")
 
 config = load_json("config.json")
+if config.get("siteName") != "YourTube":
+    fail("config.json siteName must be YourTube for the public release")
+if config.get("tagline") != "Watch only those valuable for you":
+    fail("config.json tagline must match the public release tagline")
+if not str(config.get("repositoryUrl") or "").startswith("https://github.com/"):
+    fail("config.json repositoryUrl must point to the GitHub repository")
 with (ROOT / "data/channels.csv").open(encoding="utf-8-sig", newline="") as handle:
     channels = list(csv.DictReader(handle))
 handles = {(row.get("Handle") or "").strip().lower() for row in channels}
@@ -78,6 +93,12 @@ if len(ids) != len(set(ids)):
     fail("duplicate video IDs found")
 if feed.get("primaryChannels") != len(channels):
     fail("feed primaryChannels does not match configured channels")
+if feed.get("siteName") != config.get("siteName"):
+    fail("feed siteName does not match config.json")
+if feed.get("tagline") != config.get("tagline"):
+    fail("feed tagline does not match config.json")
+if feed.get("repositoryUrl") != config.get("repositoryUrl"):
+    fail("feed repositoryUrl does not match config.json")
 health = feed.get("health") or {}
 if health.get("channelsRequested") != len(channels):
     fail("feed health channelsRequested does not match configured channels")
@@ -140,14 +161,30 @@ for video_id, detail in detail_items.items():
 index_html = (ROOT / "index.html").read_text(encoding="utf-8")
 app_js = (ROOT / "app.js").read_text(encoding="utf-8")
 readme = (ROOT / "README.md").read_text(encoding="utf-8")
+ai_prompt_doc = (ROOT / "docs/AI_SETUP_PROMPT.md").read_text(encoding="utf-8")
+scheduling_doc = (ROOT / "docs/SCHEDULING.md").read_text(encoding="utf-8")
+security_doc = (ROOT / "SECURITY.md").read_text(encoding="utf-8")
+contributing_doc = (ROOT / "CONTRIBUTING.md").read_text(encoding="utf-8")
+changelog_doc = (ROOT / "CHANGELOG.md").read_text(encoding="utf-8")
 env_example = (ROOT / ".env.example").read_text(encoding="utf-8")
 gitignore = (ROOT / ".gitignore").read_text(encoding="utf-8")
 update_workflow = (ROOT / ".github/workflows/update-feed.yml").read_text(encoding="utf-8")
 deploy_workflow = (ROOT / ".github/workflows/deploy-pages.yml").read_text(encoding="utf-8")
 settings_workflow = (ROOT / ".github/workflows/apply-feed-settings.yml").read_text(encoding="utf-8")
+digest_email = (ROOT / "scripts/nexafeed_digest_email.py").read_text(encoding="utf-8")
 for needle in ["style.css", "app.js", "youtube.com/iframe_api"]:
     if needle not in index_html:
         fail(f"index missing {needle}")
+for needle in [
+    "YourTube - A personal YouTube Package",
+    "Watch only those valuable for you",
+    "og:image",
+    "twitter:card",
+    "canonical",
+    "docs/screenshots/yourtube-home.png",
+]:
+    if needle not in index_html:
+        fail(f"index missing public-release marker {needle}")
 for needle in [
     "WATCHED_KEY",
     "PROGRESS_KEY",
@@ -158,6 +195,8 @@ for needle in [
     "data/feed-settings.json",
     "shortCommentsButton",
     "applyFeedSettings",
+    "repositoryIssuesNewUrl",
+    "[YourTube Config] Apply feed settings",
 ]:
     if needle not in app_js:
         fail(f"app missing behavior marker {needle}")
@@ -165,7 +204,7 @@ for needle in [
 for needle in [".env", ".env.*", "!.env.example"]:
     if needle not in gitignore:
         fail(f"gitignore missing env guard {needle}")
-for needle in ["NEXAFEED_LLM_PROVIDER", "NEXAFEED_LLM_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY"]:
+for needle in ["NEXAFEED_LLM_PROVIDER", "NEXAFEED_LLM_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY", "NEXAFEED_REPOSITORY_URL", "NEXAFEED_TAGLINE", "NEXAFEED_BRANCH"]:
     if needle not in env_example:
         fail(f"env example missing provider key {needle}")
 for needle in [
@@ -175,9 +214,20 @@ for needle in [
     "deploy-pages",
     "nexafeed-main-write",
     "nexafeed-pages",
+    "if [ -d docs ]; then cp -R docs _site/docs; fi",
+    "NEXAFEED_SITE_NAME",
+    "NEXAFEED_TAGLINE",
+    "NEXAFEED_REPOSITORY_URL",
+    "NEXAFEED_TIMEZONE",
+    "NEXAFEED_BRANCH",
+    "OLLAMA_HOST",
+    "WORKERS: ${{ inputs.workers }}",
+    '--workers "$WORKERS"',
 ]:
     if needle not in update_workflow:
         fail(f"update workflow missing {needle}")
+if '--workers "${{ inputs.workers }}"' in update_workflow:
+    fail("update workflow interpolates workers input directly into shell")
 for needle in ["RESEND_API_KEY", "EMAIL_PASSWORD", "EMAIL_SMTP_HOST", "NEXAFEED_EMAIL_RECIPIENTS"]:
     if needle in update_workflow:
         fail(f"update workflow exposes email-only secret {needle}")
@@ -189,20 +239,51 @@ for workflow_name, workflow in {
     for match in re.finditer(r"uses:\s+([^\s#]+)", workflow):
         if not re.search(r"@[0-9a-f]{40}$", match.group(1)):
             fail(f"{workflow_name} action is not SHA pinned: {match.group(1)}")
-for needle in ["Hermes cron", "normal cron", "Codex", "Claude", "GitHub Actions", "NEXAFEED_LLM_PROVIDER"]:
+for needle in [
+    "YourTube - A personal YouTube Package",
+    "Watch only those valuable for you",
+    "docs/AI_SETUP_PROMPT.md",
+    "docs/screenshots/yourtube-home.png",
+    "Hermes cron",
+    "normal cron",
+    "Codex",
+    "Claude",
+    "GitHub Actions",
+    "NEXAFEED_LLM_PROVIDER",
+    "NEXAFEED_REPOSITORY_URL",
+    "NEXAFEED_TAGLINE",
+    "NEXAFEED_BRANCH",
+]:
     if needle not in readme:
         fail(f"README missing public setup marker {needle}")
 
-public_text = "\n".join([index_html, app_js, json.dumps(config), readme, env_example, update_workflow, deploy_workflow, settings_workflow])
-for suspicious in ["ghp_", "github_pat_", "smtp_password", "/Volumes/T7 Shield", "/Users/developerjillur"]:
+for needle in ["ZoneInfo", "configured_timezone", "NEXAFEED_TIMEZONE", "timezone"]:
+    if needle not in digest_email:
+        fail(f"digest email missing timezone marker {needle}")
+if "Authorization: ***" in digest_email:
+    fail("digest email keeps misleading literal Authorization mask")
+
+for relative in ["docs/screenshots/yourtube-home.png", "docs/screenshots/yourtube-shorts.png", "docs/screenshots/yourtube-settings.png"]:
+    path = ROOT / relative
+    if path.is_file() and path.stat().st_size < 1000:
+        fail(f"screenshot file looks too small: {relative}")
+
+public_text = "\n".join([index_html, app_js, json.dumps(config), readme, ai_prompt_doc, scheduling_doc, security_doc, contributing_doc, changelog_doc, env_example, update_workflow, deploy_workflow, settings_workflow])
+for suspicious in ["ghp_", "github_pat_", "smtp_password"]:
     if suspicious in public_text:
         fail(f"possible private marker in public files: {suspicious}")
-for pattern in [r"AIza[0-9A-Za-z_-]{20,}", r"sk-[0-9A-Za-z_-]{20,}", r"xox[baprs]-[0-9A-Za-z-]{20,}"]:
+for pattern in [
+    r"AIza[0-9A-Za-z_-]{20,}",
+    r"sk-[0-9A-Za-z_-]{20,}",
+    r"xox[baprs]-[0-9A-Za-z-]{20,}",
+    r"/Users/[A-Za-z0-9._-]+",
+    r"/Volumes/[A-Za-z0-9._ -]+",
+]:
     if re.search(pattern, public_text):
         fail(f"possible credential pattern in public files: {pattern}")
 
 if errors:
-    print("NexaFeed verification failed:", file=sys.stderr)
+    print("YourTube verification failed:", file=sys.stderr)
     for error in errors:
         print(f"- {error}", file=sys.stderr)
     raise SystemExit(1)

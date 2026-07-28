@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="referrer" content="strict-origin-when-cross-origin" />
-    <title>NexaFeed Float</title>
+    <title>YourTube Float</title>
     <style>
       :root { color-scheme: dark; }
       * { box-sizing: border-box; }
@@ -69,11 +69,11 @@
     </style>
   </head>
   <body>
-    <section class="float-window" aria-label="NexaFeed floating YouTube player">
+    <section class="float-window" aria-label="YourTube floating YouTube player">
       <header class="float-titlebar">
         <div class="float-brand">
           <span class="float-dot">▶</span>
-          <span id="floatLabel">NexaFeed Float</span>
+          <span id="floatLabel">YourTube Float</span>
           <small id="floatTitle" class="float-title">Loading video</small>
         </div>
         <div class="float-actions">
@@ -91,7 +91,7 @@
       const params = new URLSearchParams(window.location.search);
       const video = {
         id: params.get("id") || "",
-        title: params.get("title") || "NexaFeed video",
+        title: params.get("title") || "YourTube video",
         type: params.get("type") === "short" ? "short" : "long",
         channel: params.get("channel") || "",
         url: params.get("url") || "",
@@ -107,9 +107,9 @@
       const linkNode = document.querySelector("#youtubeLink");
       let player = null;
 
-      document.title = `${video.title} — NexaFeed Float`;
+      document.title = `${video.title} — YourTube Float`;
       titleNode.textContent = video.title;
-      labelNode.textContent = video.type === "short" ? "NexaFeed Short" : "NexaFeed Float";
+      labelNode.textContent = video.type === "short" ? "YourTube Short" : "YourTube Float";
       linkNode.href = watchUrl;
 
       document.querySelector("#closeButton").addEventListener("click", () => {

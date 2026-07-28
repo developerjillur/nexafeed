@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Hermes, cron, Codex/Claude, and CI-friendly NexaFeed update wrapper."""
+"""Hermes, cron, Codex/Claude, and CI-friendly YourTube update wrapper."""
 from __future__ import annotations
 
 import argparse
@@ -44,8 +44,17 @@ def require_clean_tree(reason: str) -> None:
         raise RuntimeError(f"refusing to {reason} with a dirty working tree: {preview}")
 
 
-def git_pull_ff_only() -> dict[str, Any]:
-    completed = run(["git", "pull", "--ff-only", "origin", "main"], timeout=120)
+def target_branch() -> str:
+    configured = os.getenv("NEXAFEED_BRANCH", "").strip()
+    if configured:
+        return configured
+    completed = run(["git", "branch", "--show-current"], timeout=30)
+    branch = (completed.stdout or "").strip()
+    return branch or "main"
+
+
+def git_pull_ff_only(branch: str) -> dict[str, Any]:
+    completed = run(["git", "pull", "--ff-only", "origin", branch], timeout=120)
     if completed.returncode != 0:
         raise RuntimeError((completed.stderr or completed.stdout or "git pull failed").strip()[-1000:])
     return {"ok": True, "output": (completed.stdout or completed.stderr or "").strip()[-1000:]}
@@ -66,11 +75,11 @@ def parse_child_json(stdout: str) -> dict[str, Any]:
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Run NexaFeed update safely from Hermes cron, normal cron, local agents, or CI")
+    parser = argparse.ArgumentParser(description="Run YourTube update safely from Hermes cron, normal cron, local agents, or CI")
     parser.add_argument("--env-file", type=Path, help="Optional .env file to load before running")
-    parser.add_argument("--publish", action="store_true", help="Commit generated data and push origin/main")
+    parser.add_argument("--publish", action="store_true", help="Commit generated data and push origin/<current branch or NEXAFEED_BRANCH>")
     parser.add_argument("--dry-run", action="store_true", help="Collect and report without writing files")
-    parser.add_argument("--pull-first", action="store_true", help="Run git pull --ff-only origin main before collection")
+    parser.add_argument("--pull-first", action="store_true", help="Run git pull --ff-only origin <current branch or NEXAFEED_BRANCH> before collection")
     parser.add_argument("--require-clean", action="store_true", help="Refuse to run if the working tree is dirty")
     parser.add_argument("--no-secondary", action="store_true", help="Skip this run's topic search")
     parser.add_argument("--no-details", action="store_true", help="Reuse cached embed/comment details without probing")
@@ -86,6 +95,7 @@ def main(argv: list[str] | None = None) -> int:
     no_secondary = args.no_secondary or env_flag("NEXAFEED_NO_SECONDARY", default=False)
     no_details = args.no_details or env_flag("NEXAFEED_NO_DETAILS", default=False)
     workers = args.workers if args.workers is not None else env_int("NEXAFEED_WORKERS", 6, minimum=1, maximum=30)
+    branch = target_branch()
 
     result: dict[str, Any] = {
         "ok": False,
@@ -99,15 +109,15 @@ def main(argv: list[str] | None = None) -> int:
             "noSecondary": no_secondary,
             "noDetails": no_details,
             "workers": workers,
+            "branch": branch,
         },
     }
     try:
         if require_clean or pull_first or publish:
-            require_clean_tree("run NexaFeed automation")
+            require_clean_tree("run YourTube automation")
         if pull_first:
-            result["pull"] = git_pull_ff_only()
-            if require_clean or publish:
-                require_clean_tree("publish NexaFeed automation after pull")
+            result["pull"] = git_pull_ff_only(branch)
+            require_clean_tree("run YourTube automation after pull")
 
         update_command = [sys.executable, str(SCRIPT_DIR / "nexafeed_update.py"), "--workers", str(workers)]
         if publish:

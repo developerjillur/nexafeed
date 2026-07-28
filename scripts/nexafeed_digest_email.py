@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Send a compact NexaFeed update email without listing every video."""
+"""Send a compact YourTube update email without listing every video."""
 from __future__ import annotations
 
 import argparse
@@ -16,6 +16,7 @@ from collections import Counter
 from email.message import EmailMessage
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 if str(SCRIPT_DIR) not in sys.path:
@@ -27,7 +28,7 @@ ROOT = Path(__file__).resolve().parents[1]
 FEED_PATH = ROOT / "data" / "videos.json"
 DISCOVERY_PATH = ROOT / "data" / "discovery-log.json"
 CONFIG_PATH = ROOT / "config.json"
-BD_TZ = dt.timezone(dt.timedelta(hours=6))
+DEFAULT_TIMEZONE = "Asia/Dhaka"
 UTC = dt.timezone.utc
 
 
@@ -47,7 +48,19 @@ def report_output_dir() -> Path:
     return Path.home() / ".nexafeed" / "reports"
 
 
-def parse_datetime(value: str | None) -> dt.datetime | None:
+def configured_timezone(config: dict[str, Any] | None = None) -> dt.tzinfo:
+    name = (os.getenv("NEXAFEED_TIMEZONE") or (config or {}).get("timezone") or DEFAULT_TIMEZONE).strip()
+    try:
+        return ZoneInfo(name)
+    except Exception:
+        return ZoneInfo(DEFAULT_TIMEZONE)
+
+
+def timezone_label(timezone: dt.tzinfo) -> str:
+    return getattr(timezone, "key", None) or timezone.tzname(dt.datetime.now(timezone)) or "local time"
+
+
+def parse_datetime(value: str | None, timezone: dt.tzinfo) -> dt.datetime | None:
     if not value:
         return None
     try:
@@ -57,7 +70,7 @@ def parse_datetime(value: str | None) -> dt.datetime | None:
         parsed = dt.datetime.fromisoformat(text)
         if parsed.tzinfo is None:
             parsed = parsed.replace(tzinfo=UTC)
-        return parsed.astimezone(BD_TZ)
+        return parsed.astimezone(timezone)
     except Exception:
         return None
 
@@ -97,14 +110,15 @@ def stat_cell(value: Any, label: str, color: str = "#ffffff") -> str:
       </td>"""
 
 
-def build_report(period: str, site_url: str) -> dict[str, Any]:
-    now = dt.datetime.now(BD_TZ)
+def build_report(period: str, site_url: str, timezone: dt.tzinfo) -> dict[str, Any]:
+    now = dt.datetime.now(timezone)
+    zone_label = timezone_label(timezone)
     start, end, label, subject_label = report_window(period, now)
     discovery = load_json(DISCOVERY_PATH, {"items": []})
     feed = load_json(FEED_PATH, {"health": {}, "stats": {}, "primaryChannels": 0})
     items = []
     for item in discovery.get("items", []):
-        published = parse_datetime(item.get("publishedAt"))
+        published = parse_datetime(item.get("publishedAt"), timezone)
         if published and start <= published < end:
             items.append(item)
 
@@ -122,7 +136,7 @@ def build_report(period: str, site_url: str) -> dict[str, Any]:
     checked = health.get("channelsChecked", 0)
     requested = health.get("channelsRequested", feed.get("primaryChannels", 0))
     warnings = health.get("channelsWithWarnings", 0)
-    generated = parse_datetime(feed.get("updatedAt"))
+    generated = parse_datetime(feed.get("updatedAt"), timezone)
 
     top_rows = "".join(
         f'<tr><td style="padding:9px 0;border-bottom:1px solid #ececec;color:#222;font-size:13px;">{html.escape(name)}</td>'
@@ -132,10 +146,10 @@ def build_report(period: str, site_url: str) -> dict[str, Any]:
     if not top_rows:
         top_rows = '<tr><td colspan="2" style="padding:14px 0;color:#777;font-size:13px;">এই সময়ের মধ্যে নতুন upload পাওয়া যায়নি।</td></tr>'
 
-    window_text = f"{start.strftime('%d %b, %I:%M %p')} – {end.strftime('%d %b, %I:%M %p')} BDT"
-    updated_text = generated.strftime("%d %b %Y, %I:%M %p BDT") if generated else "Not available"
-    subject = f"NexaFeed {subject_label}: {total} new ({shorts} Shorts + {longs} Long)"
-    text_body = f"""NexaFeed — {label}
+    window_text = f"{start.strftime('%d %b, %I:%M %p')} – {end.strftime('%d %b, %I:%M %p')} {zone_label}"
+    updated_text = generated.strftime(f"%d %b %Y, %I:%M %p {zone_label}") if generated else "Not available"
+    subject = f"YourTube {subject_label}: {total} new ({shorts} Shorts + {longs} Long)"
+    text_body = f"""YourTube — {label}
 
 Period: {window_text}
 New videos: {total}
@@ -146,7 +160,7 @@ Topic discovery: {secondary}
 Sources checked: {checked}/{requested}
 Warnings: {warnings}
 
-Open NexaFeed: {site_url}
+Open YourTube: {site_url}
 
 ভিডিওর full list email-এ রাখা হয়নি। Page-এ Shorts এবং Long Videos আলাদা playlist-এ পাওয়া যাবে।
 """
@@ -158,7 +172,7 @@ Open NexaFeed: {site_url}
       <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="max-width:680px;background:#ffffff;border-radius:18px;overflow:hidden;box-shadow:0 12px 38px rgba(0,0,0,.10);">
         <tr><td style="padding:27px 28px;background:#0f0f0f;color:#fff;">
           <div style="font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:#ff4b67;">Hourly YouTube Monitor</div>
-          <h1 style="margin:8px 0 5px;font-size:28px;line-height:1.15;">NexaFeed · {html.escape(label)}</h1>
+          <h1 style="margin:8px 0 5px;font-size:28px;line-height:1.15;">YourTube · {html.escape(label)}</h1>
           <p style="margin:0;color:#bcbcbc;font-size:13px;line-height:1.6;">{html.escape(window_text)}</p>
           <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-top:18px;">
             <tr>
@@ -217,6 +231,7 @@ Open NexaFeed: {site_url}
             "channelsRequested": requested,
             "warnings": warnings,
             "siteUrl": site_url,
+            "timezone": zone_label,
         },
     }
 
@@ -226,7 +241,7 @@ def send_resend(recipient: str, subject: str, html_body: str, text_body: str) ->
     if not api_key:
         raise RuntimeError("RESEND_API_KEY is missing")
     payload = {
-        "from": os.getenv("RESEND_FROM", "NexaFeed <onboarding@resend.dev>"),
+        "from": os.getenv("RESEND_FROM", "YourTube <onboarding@resend.dev>"),
         "to": [recipient],
         "subject": subject,
         "html": html_body,
@@ -236,17 +251,19 @@ def send_resend(recipient: str, subject: str, html_body: str, text_body: str) ->
     config_path = ""
     try:
         with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False) as payload_file:
+            os.chmod(payload_file.name, 0o600)
             json.dump(payload, payload_file, ensure_ascii=False)
             payload_path = payload_file.name
-        safe_api_key = api_key.replace('"', '').replace("\n", "").replace("\r", "")
+        if any(char in api_key for char in ('"', "\n", "\r")):
+            raise RuntimeError("RESEND_API_KEY contains unsupported control characters")
         with tempfile.NamedTemporaryFile("w", suffix=".curl", delete=False) as config_file:
             os.chmod(config_file.name, 0o600)
             config_file.write('url = "https://api.resend.com/emails"\n')
             config_file.write('request = "POST"\n')
             config_file.write('silent\nshow-error\n')
-            config_file.write('header = "Authorization: Bearer ' + safe_api_key + '"\n')
+            config_file.write('header = "Authorization: Bearer ' + api_key + '"\n')
             config_file.write('header = "Content-Type: application/json"\n')
-            config_file.write('data-binary = "@' + payload_path.replace('"', '') + '"\n')
+            config_file.write('data-binary = "@' + payload_path + '"\n')
             config_path = config_file.name
         process = subprocess.run(["curl", "--config", config_path], capture_output=True, text=True, timeout=45)
         if process.returncode != 0:
@@ -266,7 +283,10 @@ def send_resend(recipient: str, subject: str, html_body: str, text_body: str) ->
 
 def send_smtp(recipient: str, subject: str, html_body: str, text_body: str) -> dict[str, Any]:
     host = os.getenv("EMAIL_SMTP_HOST", "").strip()
-    port = int(os.getenv("EMAIL_SMTP_PORT", "587"))
+    try:
+        port = int(os.getenv("EMAIL_SMTP_PORT", "587"))
+    except ValueError as exc:
+        raise RuntimeError("EMAIL_SMTP_PORT must be a number") from exc
     username = (os.getenv("EMAIL_SMTP_USERNAME") or os.getenv("EMAIL_ADDRESS") or "").strip()
     password = os.getenv("EMAIL_PASSWORD", "")
     from_addr = (os.getenv("EMAIL_FROM_ADDRESS") or os.getenv("EMAIL_ADDRESS") or username).strip()
@@ -310,7 +330,7 @@ def deliver(recipient: str, report: dict[str, Any]) -> dict[str, Any]:
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Send a compact NexaFeed count-and-link email")
+    parser = argparse.ArgumentParser(description="Send a compact YourTube count-and-link email")
     parser.add_argument("--period", choices=["morning", "midnight"], required=True)
     parser.add_argument("--email", default="")
     parser.add_argument("--site-url", default="")
@@ -320,8 +340,9 @@ def main(argv: list[str] | None = None) -> int:
 
     load_env_files(args.env_file)
     config = load_json(CONFIG_PATH, {})
+    timezone = configured_timezone(config)
     site_url = args.site_url or config.get("siteUrl") or "https://developerjillur.github.io/nexafeed/"
-    report = build_report(args.period, site_url)
+    report = build_report(args.period, site_url, timezone)
     recipients = parse_recipients(args.email) or parse_recipients(
         os.getenv("NEXAFEED_EMAIL_RECIPIENTS") or os.getenv("EMAIL_HOME_ADDRESS") or ""
     )
@@ -330,7 +351,7 @@ def main(argv: list[str] | None = None) -> int:
 
     report_dir = report_output_dir()
     report_dir.mkdir(parents=True, exist_ok=True)
-    stamp = dt.datetime.now(BD_TZ).strftime("%Y-%m-%d_%H-%M-%S")
+    stamp = dt.datetime.now(timezone).strftime("%Y-%m-%d_%H-%M-%S")
     html_path = report_dir / f"{stamp}_{args.period}.html"
     json_path = report_dir / f"{stamp}_{args.period}.json"
     html_path.write_text(report["html"], encoding="utf-8")

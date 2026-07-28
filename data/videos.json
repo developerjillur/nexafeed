@@ -1,8 +1,10 @@
 {
   "schemaVersion": 3,
   "updatedAt": "2026-07-28T09:53:13Z",
-  "siteName": "NexaFeed",
+  "siteName": "YourTube",
+  "tagline": "Watch only those valuable for you",
   "siteUrl": "https://developerjillur.github.io/nexafeed/",
+  "repositoryUrl": "https://github.com/developerjillur/nexafeed",
   "primaryChannels": 33,
   "freshHours": 24,
   "stats": {

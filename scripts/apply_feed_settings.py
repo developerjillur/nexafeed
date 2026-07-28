@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate and apply owner-authorized NexaFeed settings issue payloads."""
+"""Validate and apply owner-authorized YourTube settings issue payloads."""
 from __future__ import annotations
 
 import argparse
@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CHANNELS_PATH = ROOT / "data/channels.csv"
 CONFIG_PATH = ROOT / "config.json"
 SETTINGS_PATH = ROOT / "data/feed-settings.json"
-ISSUE_TITLE = "[NexaFeed Config] Apply feed settings"
+ISSUE_TITLE = "[YourTube Config] Apply feed settings"
 MARKER_RE = re.compile(r"<!--\s*NEXAFEED_CONFIG_V1:GZIP_BASE64URL:([A-Za-z0-9_-]+)\s*-->")
 HANDLE_RE = re.compile(r"^@[A-Za-z0-9._-]{3,100}$")
 
@@ -113,7 +113,7 @@ def validate_settings_payload(payload: Any) -> dict[str, Any]:
 def decode_issue_payload(body: str) -> dict[str, Any]:
     match = MARKER_RE.search(body or "")
     if not match:
-        raise SettingsValidationError("NexaFeed settings marker was not found")
+        raise SettingsValidationError("YourTube settings marker was not found")
     token = match.group(1)
     if len(token) > 60_000:
         raise SettingsValidationError("settings payload is too large")
@@ -179,7 +179,7 @@ def payload_from_event(event_path: Path) -> dict[str, Any]:
     event = json.loads(event_path.read_text(encoding="utf-8"))
     issue = event.get("issue") or {}
     if issue.get("title") != ISSUE_TITLE:
-        raise SettingsValidationError("issue title is not a NexaFeed settings request")
+        raise SettingsValidationError("issue title is not a YourTube settings request")
     owner = os.getenv("GITHUB_REPOSITORY_OWNER", "").casefold()
     actor = str((issue.get("user") or {}).get("login") or "").casefold()
     association = str(issue.get("author_association") or "").upper()
@@ -189,7 +189,7 @@ def payload_from_event(event_path: Path) -> dict[str, Any]:
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Apply owner-authorized NexaFeed settings")
+    parser = argparse.ArgumentParser(description="Apply owner-authorized YourTube settings")
     parser.add_argument("--event", type=Path, help="GitHub event JSON path")
     parser.add_argument("--payload", type=Path, help="Validated local payload JSON path")
     args = parser.parse_args(argv)

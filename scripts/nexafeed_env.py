@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Shared environment and provider configuration helpers for NexaFeed.
+"""Shared environment and provider configuration helpers for YourTube.
 
 Secrets stay in environment files or platform secrets, never in generated public
 JSON or frontend JavaScript. These helpers intentionally expose only redacted
@@ -158,7 +158,7 @@ def candidate_env_files(
     paths.extend(split_env_paths(os.getenv("NEXAFEED_ENV_FILE")))
     if include_project:
         paths.extend([ROOT / ".env.local", ROOT / ".env"])
-    if include_hermes and env_flag("NEXAFEED_DISABLE_HERMES_ENV", default=False) is False:
+    if include_hermes and not env_flag("NEXAFEED_DISABLE_HERMES_ENV", default=False):
         paths.append(hermes_env_path())
 
     unique: list[Path] = []

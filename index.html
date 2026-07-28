@@ -3,24 +3,36 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="NexaFeed is a focused YouTube-style feed for monitored channels, Shorts, long videos, keywords, topics, and categories." />
+    <meta name="description" content="YourTube is a personal YouTube package for focused feeds, Shorts, long videos, watch history, local likes, Feed Settings, and AI/cron automation." />
+    <meta name="keywords" content="YourTube, personal YouTube feed, YouTube dashboard, YouTube Shorts, AI agents, Hermes Agent, Codex, Claude Code, GitHub Pages, yt-dlp, no backend YouTube app" />
+    <meta name="author" content="MD. Jillur Rahman, NexaLance" />
+    <link rel="canonical" href="https://developerjillur.github.io/nexafeed/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="YourTube - A personal YouTube Package" />
+    <meta property="og:description" content="Watch only those valuable for you. A static, public, forkable YouTube feed package with Shorts, long videos, Feed Settings, local history, and scheduled automation." />
+    <meta property="og:url" content="https://developerjillur.github.io/nexafeed/" />
+    <meta property="og:image" content="https://developerjillur.github.io/nexafeed/docs/screenshots/yourtube-home.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="YourTube - A personal YouTube Package" />
+    <meta name="twitter:description" content="Watch only those valuable for you. Personal YouTube feed control with Shorts, long videos, local history, Feed Settings, and AI scheduler support." />
+    <meta name="twitter:image" content="https://developerjillur.github.io/nexafeed/docs/screenshots/yourtube-home.png" />
     <meta name="theme-color" content="#0f0f0f" />
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23ff0033'/%3E%3Cpath d='M25 19l22 13-22 13z' fill='white'/%3E%3C/svg%3E" />
-    <title>NexaFeed — Focused Video Feed</title>
-    <link rel="stylesheet" href="style.css?v=20260728-hide-watched-queue" />
+    <title>YourTube - A personal YouTube Package</title>
+    <link rel="stylesheet" href="style.css?v=20260728-yourtube-release" />
   </head>
   <body>
     <header class="topbar">
       <div class="topbar-start">
         <button id="menuButton" class="icon-button" aria-label="Toggle sidebar">☰</button>
-        <a id="brandButton" class="brand" href="./" aria-label="NexaFeed home">
-          <span class="brand-mark">▶</span><span>NexaFeed</span><sup>BD</sup>
+        <a id="brandButton" class="brand" href="./" aria-label="YourTube home">
+          <span class="brand-mark">▶</span><span>YourTube</span><sup>OSS</sup>
         </a>
       </div>
 
       <form id="searchForm" class="search-form" role="search">
-        <label class="sr-only" for="searchInput">Search NexaFeed</label>
-        <input id="searchInput" type="search" placeholder="Search monitored videos" autocomplete="off" />
+        <label class="sr-only" for="searchInput">Search YourTube</label>
+        <input id="searchInput" type="search" placeholder="Search your focused feed" autocomplete="off" />
         <button type="submit" aria-label="Search">⌕</button>
       </form>
 
@@ -28,7 +40,7 @@
         <span id="updatedLabel" class="updated-label"><i></i>Loading feed</span>
         <button id="refreshButton" class="icon-button" aria-label="Refresh feed">↻</button>
         <button id="themeButton" class="icon-button" aria-label="Change theme">☀</button>
-        <span class="profile-avatar" aria-label="NexaLance">NL</span>
+        <span class="profile-avatar" aria-label="YourTube">YT</span>
       </div>
     </header>
 
@@ -47,8 +59,8 @@
       <div class="monitor-card">
         <i></i>
         <div>
-          <strong>Hourly monitoring</strong>
-          <p>Priority channels first. Keyword, topic, and category discovery second.</p>
+          <strong>Watch only what matters</strong>
+          <p>Your priority channels first. Topic and keyword discovery second.</p>
         </div>
       </div>
     </aside>
@@ -60,6 +72,6 @@
     <div id="overlayRoot"></div>
 
     <script src="https://www.youtube.com/iframe_api"></script>
-    <script type="module" src="app.js?v=20260728-hide-watched-queue"></script>
+    <script type="module" src="app.js?v=20260728-yourtube-release"></script>
   </body>
 </html>

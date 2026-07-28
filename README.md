@@ -1,131 +1,113 @@
-# NexaFeed
+# YourTube - A personal YouTube Package
 
-NexaFeed is a static, YouTube-style personal video dashboard for monitored channels and secondary topic discovery. It separates Shorts and long videos, plays through the YouTube iframe API, advances playable queues, and hides watched videos from normal playback after they are watched in the current browser.
+**Watch only those valuable for you.**
 
-**Live site:** https://developerjillur.github.io/nexafeed/
+YourTube is a forkable, static, YouTube-style personal feed dashboard. It helps you turn a noisy YouTube habit into a controlled watchlist: your priority channels first, Shorts and long videos separated, watched items hidden from normal queues, and refresh automation that can run from Hermes, Codex, Claude Code, GitHub Actions, normal cron, or a plain terminal.
 
-## Product behavior
+[![Live demo](https://img.shields.io/badge/live-demo-red?style=for-the-badge)](https://developerjillur.github.io/nexafeed/)
+[![GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-111?style=for-the-badge&logo=github)](https://developerjillur.github.io/nexafeed/)
+[![No backend required](https://img.shields.io/badge/backend-not%20required-0b8?style=for-the-badge)](#how-it-works)
+[![AI agent friendly](https://img.shields.io/badge/AI%20agent-Hermes%20%7C%20Codex%20%7C%20Claude-blueviolet?style=for-the-badge)](#copy-paste-prompt-for-any-ai-agent)
 
-- Responsive Home, Shorts, Long Videos, History, Search, and Feed Settings views
-- Primary monitored channels ranked before keyword, topic, and category discovery
-- Separate Shorts and long-video queues
-- YouTube iframe playback with runtime error fallback and next-playable auto-skip
-- Long-video autoplay, partial progress persistence, and resume position
-- Shorts navigation by arrows, keyboard, mouse wheel, touch swipe, and playback-ended auto-next
-- YouTube-style Shorts action rail with cached likes, comments, description, share, and channel links
-- Bounded public comments and descriptions cached by the server-side collector
-- 80% watch threshold plus watched, partially watched, unwatched, and new visual states
-- Watched videos removed from Home, search results, long-video queues, and Shorts playback queues but retained in Watch History
-- JSON watch-state export/import for moving browser-local history
-- Compact morning and midnight email summaries
+**Live demo:** https://developerjillur.github.io/nexafeed/
 
-The initial source set contains 33 supplied channels: 26 Long + Shorts and 7 Shorts-only. Feed Settings can safely manage between 1 and 100 channels.
+> YourTube is not affiliated with YouTube or Google. It embeds public YouTube videos through the official YouTube iframe player and links back to YouTube for account-level actions.
 
-## Data architecture
+## Screenshots
 
-- `data/channels.csv`: monitored sources, type flags, categories, and priorities
-- `data/original-channel-categories.csv`: original supplied CSV preserved for reference
-- `data/videos.json`: filtered feed consumed by the frontend
-- `data/video-details.json`: bounded embed status, descriptions, likes, and cached comments
-- `data/feed-settings.json`: public editable settings model consumed by the manager
-- `data/channel-cache.json`: handle-to-channel-ID resolution cache
-- `data/discovery-log.json`: bounded run and discovery history used by aggregate emails
-- `config.json`: public collection limits, metadata TTLs, discovery terms, timezone, and live URL
-- `.env.example`: private runtime/API/email/provider configuration template
+| Home feed | Shorts player | Feed Settings |
+|---|---|---|
+| ![YourTube home feed screenshot](docs/screenshots/yourtube-home.png) | ![YourTube Shorts screenshot](docs/screenshots/yourtube-shorts.png) | ![YourTube Feed Settings screenshot](docs/screenshots/yourtube-settings.png) |
 
-No YouTube, GitHub, email, LLM, or SMTP credential is stored in the public frontend or generated data.
+## Why this exists
 
-## Public setup model
+YouTube is good at keeping you watching. It is not always good at helping you watch intentionally.
 
-NexaFeed is no longer tied to Hermes-only automation. The same repo can be refreshed from:
+YourTube was built for people who follow specific creators, topics, and research areas but do not want their feed controlled only by recommendations. The goal is simple: keep the videos that matter, separate Shorts from long videos, remove what you already watched, and make the whole thing easy to run on your own GitHub account.
 
-1. Hermes cron or Hermes Gateway
-2. normal macOS/Linux cron
-3. Codex, Claude Code, or any local coding-agent app that can run shell commands
-4. GitHub Actions `workflow_dispatch`
-5. a plain terminal
+The default public demo uses the current NexaLance AI/web-development source setup so you can see a real feed immediately. Fork users can replace the channels and discovery terms with their own.
 
-The current feed collector does **not** require an LLM key. It uses public YouTube pages/RSS plus `yt-dlp` for rich metadata and embed checks. LLM/provider configuration is still standardized in env so optional future AI steps can run with OpenAI, Anthropic, OpenRouter, Gemini, Groq, Mistral, DeepSeek, xAI, Z.ai/GLM, Ollama, or any OpenAI-compatible endpoint without code changes.
+## What you get
 
-## Environment configuration
+| Area | Features |
+|---|---|
+| Personal feed | Priority channel feed, topic/keyword discovery, category chips, fresh/new indicators |
+| Shorts | Dedicated Shorts tab, YouTube-style overlay, next/previous buttons, keyboard navigation, wheel threshold navigation, swipe support |
+| Long videos | Full-width watch layout, autoplay queue, progress resume, next playable queue |
+| Watch control | 80% watched threshold, 5-second minimum before manual switch marks watched, normal queues hide watched items |
+| Watch history | Browser-local watched/progress state, Watch History tab, export/import history JSON |
+| Local likes | Local favorite/liked state, Liked tab, export likes JSON, clear liked state |
+| Feed Settings | Add/edit/remove channels, set long/Shorts monitoring per source, edit keywords/topics/categories, submit owner-reviewed GitHub issue |
+| Automation | Runs from Hermes cron, normal cron, Codex, Claude Code, local terminal, or GitHub Actions |
+| Provider config | Env-based LLM/provider settings for future AI steps: OpenAI, Anthropic, OpenRouter, Gemini, Groq, Mistral, DeepSeek, xAI, Z.ai/GLM, Ollama, or custom OpenAI-compatible endpoints |
+| Static safety | No frontend API keys, no backend required, no YouTube API key in the browser, GitHub Actions SHA-pinned |
+| Email reports | Morning and midnight count/link digests through Resend or SMTP from private env only |
 
-Copy the template and fill only what you need:
+## Current default demo setup
+
+The demo at `developerjillur.github.io/nexafeed` ships with the existing AI, automation, coding, marketing, and web-development source setup.
+
+Release snapshot:
+
+- 33 monitored channels
+- 325 playable feed items
+- 162 long videos
+- 163 Shorts
+- 285 primary channel items
+- 40 topic/keyword/category discovery items
+- Asia/Dhaka timezone
+
+Files that define the default setup:
+
+```text
+data/channels.csv                         primary monitored channels
+data/original-channel-categories.csv      original source/category reference
+data/feed-settings.json                   public settings model used by the UI
+config.json                               site name, live URL, discovery terms, limits, metadata TTLs
+```
+
+## How it works
+
+YourTube is a static GitHub Pages app plus a Python collector.
+
+```text
+YouTube public pages/RSS/search
+        ↓
+scripts/nexafeed_update.py
+        ↓
+data/videos.json + data/video-details.json + data/feed-settings.json
+        ↓
+index.html + app.js + style.css on GitHub Pages
+```
+
+The browser only reads static JSON and embeds videos with the YouTube iframe API. Secrets stay outside the public site:
+
+- local runs: `.env.local` or `--env-file`
+- Hermes runs: `$HERMES_HOME/.env` or `~/.hermes/.env`
+- GitHub Actions: repository Secrets and Variables
+- public frontend: no secrets
+
+The repository and runtime env names still use `nexafeed` / `NEXAFEED_*` for backward compatibility with the original package path and deployed URL. The public product name is YourTube.
+
+## Quick start
 
 ```bash
+git clone https://github.com/developerjillur/nexafeed.git
+cd nexafeed
 cp .env.example .env.local
-```
-
-Secrets must stay in one of these places:
-
-- local/Codex/Claude/manual terminal: `.env.local` or an explicit `--env-file`
-- Hermes cron: `$HERMES_HOME/.env` or `~/.hermes/.env`
-- GitHub Actions: repository **Secrets** and non-secret **Variables**
-- production server: system environment or a private env file outside the public checkout
-
-`.env`, `.env.*`, and reports are gitignored. `.env.example` is safe to commit because it contains no real values.
-
-### LLM/provider env keys
-
-Use one generic key pair for OpenAI-compatible/custom providers:
-
-```bash
-NEXAFEED_LLM_PROVIDER=custom
-NEXAFEED_LLM_MODEL=your-model-name
-NEXAFEED_LLM_BASE_URL=https://your-provider.example/v1
-NEXAFEED_LLM_API_KEY=your-private-key
-```
-
-Or use provider aliases:
-
-```bash
-NEXAFEED_LLM_PROVIDER=openai
-NEXAFEED_LLM_MODEL=gpt-4o-mini
-OPENAI_API_KEY=your-private-key
-
-NEXAFEED_LLM_PROVIDER=anthropic
-NEXAFEED_LLM_MODEL=claude-3-5-haiku-latest
-ANTHROPIC_API_KEY=your-private-key
-
-NEXAFEED_LLM_PROVIDER=openrouter
-NEXAFEED_LLM_MODEL=openai/gpt-4o-mini
-OPENROUTER_API_KEY=your-private-key
-```
-
-For Ollama/local models:
-
-```bash
-NEXAFEED_LLM_PROVIDER=ollama
-NEXAFEED_LLM_MODEL=llama3.1
-OLLAMA_HOST=http://127.0.0.1:11434/v1
-```
-
-Provider values supported by `scripts/nexafeed_env.py`: `openai`, `anthropic`, `openrouter`, `google`, `groq`, `mistral`, `deepseek`, `xai`, `zai`, `ollama`, `custom`, and `none`.
-
-Check setup without printing secrets:
-
-```bash
-python3 scripts/nexafeed_doctor.py
-python3 scripts/nexafeed_doctor.py --require-llm
-```
-
-## Install local dependencies
-
-The static frontend has no build step. The collector needs Python 3 and `yt-dlp` for rich metadata:
-
-```bash
-python3 --version
 python3 -m pip install --upgrade yt-dlp
+python3 scripts/nexafeed_doctor.py
+python3 scripts/nexafeed_automation.py --dry-run --no-details --no-secondary --workers 6
 ```
 
-If `yt-dlp` is installed in a non-standard place, set:
+Preview locally:
 
 ```bash
-NEXAFEED_YT_DLP=/absolute/path/to/yt-dlp
+python3 -m http.server 8765
+# open http://127.0.0.1:8765/
 ```
 
-## Refresh the feed
-
-Refresh locally without publishing:
+Refresh without publishing:
 
 ```bash
 python3 scripts/nexafeed_update.py
@@ -134,124 +116,259 @@ python3 scripts/nexafeed_update.py
 Refresh, commit generated data, and push:
 
 ```bash
-python3 scripts/nexafeed_update.py --publish
+python3 scripts/nexafeed_automation.py --pull-first --require-clean --publish
 ```
 
-Recommended production-safe wrapper:
+## Deploy your own live YourTube
+
+1. Fork this repository.
+2. Enable GitHub Pages for the repo.
+3. Edit `config.json`:
+
+```json
+{
+  "siteName": "YourTube",
+  "tagline": "Watch only those valuable for you",
+  "siteUrl": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/",
+  "repositoryUrl": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO"
+}
+```
+
+4. Keep the default feed or edit `data/channels.csv` and the discovery terms in `config.json`.
+5. Push to `main`.
+6. Open the Actions tab and run **Update YourTube feed**.
+7. Your live URL will be:
+
+```text
+https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/
+```
+
+For this public demo, the live URL is:
+
+```text
+https://developerjillur.github.io/nexafeed/
+```
+
+## Personalize the feed
+
+You can control the personal feed in two ways.
+
+### Option A: use Feed Settings in the app
+
+1. Open the live site.
+2. Go to **Feed Settings**.
+3. Add, edit, remove, filter, or reset channel rows.
+4. Choose whether each source should monitor long videos, Shorts, or both.
+5. Edit keywords, topics, and categories.
+6. Click **Review and apply on GitHub**.
+7. Submit the prefilled GitHub issue while signed in as the repository owner.
+8. GitHub Actions validates the payload, commits the settings, deploys the site, and closes the issue.
+9. The next clean refresh rebuilds the feed with your new setup.
+
+The static app never stores a GitHub token in the browser. Settings are applied through an owner-only GitHub Actions workflow.
+
+### Option B: edit files directly
+
+Edit channels:
+
+```text
+data/channels.csv
+```
+
+Edit discovery terms:
+
+```text
+config.json
+```
+
+Then run:
 
 ```bash
 python3 scripts/nexafeed_automation.py --pull-first --require-clean --publish
 ```
 
-Useful diagnostics:
+## Environment configuration
+
+Copy the public-safe template:
 
 ```bash
-python3 scripts/nexafeed_update.py --dry-run
-python3 scripts/nexafeed_update.py --dry-run --no-details
-python3 scripts/nexafeed_automation.py --dry-run --no-details
+cp .env.example .env.local
 ```
 
-All commands also accept `--env-file /path/to/private.env`.
-
-## Hermes cron mode
-
-Keep Hermes cron simple and deterministic by calling the repo wrapper from the repo workdir:
+Useful runtime values:
 
 ```bash
-cd /path/to/nexafeed
+NEXAFEED_SITE_NAME=YourTube
+NEXAFEED_TAGLINE="Watch only those valuable for you"
+NEXAFEED_SITE_URL=https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO/
+NEXAFEED_REPOSITORY_URL=https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO
+NEXAFEED_TIMEZONE=Asia/Dhaka
+NEXAFEED_BRANCH=main
+NEXAFEED_WORKERS=6
+```
+
+The current collector does not require an LLM key. Provider settings are included so future AI steps can run without code changes:
+
+```bash
+NEXAFEED_LLM_PROVIDER=openrouter
+NEXAFEED_LLM_MODEL=openai/gpt-4o-mini
+OPENROUTER_API_KEY=your-private-key
+```
+
+Generic OpenAI-compatible provider:
+
+```bash
+NEXAFEED_LLM_PROVIDER=custom
+NEXAFEED_LLM_MODEL=your-model-name
+NEXAFEED_LLM_BASE_URL=https://your-provider.example/v1
+NEXAFEED_LLM_API_KEY=your-private-key
+```
+
+Local Ollama:
+
+```bash
+NEXAFEED_LLM_PROVIDER=ollama
+NEXAFEED_LLM_MODEL=llama3.1
+OLLAMA_HOST=http://127.0.0.1:11434/v1
+```
+
+Provider aliases supported by `scripts/nexafeed_env.py`:
+
+```text
+openai, anthropic, openrouter, google, gemini, groq, mistral, deepseek, xai, zai, glm, ollama, custom, none
+```
+
+Check setup without printing secrets:
+
+```bash
+python3 scripts/nexafeed_doctor.py
+python3 scripts/nexafeed_doctor.py --require-llm
+```
+
+## Schedule recipes
+
+Use only one publisher at a time. If GitHub Actions owns the refresh schedule, pause Hermes/local cron. If Hermes or local cron owns it, keep GitHub Actions manual.
+
+### Normal cron, hourly refresh
+
+```cron
+53 * * * * cd /path/to/nexafeed && /usr/bin/python3 scripts/nexafeed_automation.py --pull-first --require-clean --publish >> "$HOME/.yourtube/update.log" 2>&1
+```
+
+With a private env file outside the repo:
+
+```cron
+53 * * * * cd /path/to/nexafeed && /usr/bin/python3 scripts/nexafeed_automation.py --env-file "$HOME/.config/yourtube.env" --pull-first --require-clean --publish >> "$HOME/.yourtube/update.log" 2>&1
+```
+
+### Email digest cron
+
+Morning count/link digest:
+
+```cron
+0 10 * * * cd /path/to/nexafeed && /usr/bin/python3 scripts/nexafeed_digest_email.py --period morning --env-file "$HOME/.config/yourtube.env" >> "$HOME/.yourtube/email.log" 2>&1
+```
+
+Midnight count/link digest:
+
+```cron
+0 0 * * * cd /path/to/nexafeed && /usr/bin/python3 scripts/nexafeed_digest_email.py --period midnight --env-file "$HOME/.config/yourtube.env" >> "$HOME/.yourtube/email.log" 2>&1
+```
+
+### Hermes Agent schedule
+
+Open Hermes in the repository and ask it to create these jobs:
+
+```text
+Create a Hermes cron job named "YourTube hourly refresh" that runs from this repo every hour at minute 53. It should execute:
 python3 scripts/nexafeed_automation.py --pull-first --require-clean --publish
+
+Create a Hermes cron job named "YourTube morning email" that runs daily at 10:00 Asia/Dhaka and executes:
+python3 scripts/nexafeed_digest_email.py --period morning
+
+Create a Hermes cron job named "YourTube midnight email" that runs daily at 00:00 Asia/Dhaka and executes:
+python3 scripts/nexafeed_digest_email.py --period midnight
+
+Verify with hermes cron status, run a dry-run first, and do not print or commit secrets.
 ```
 
-The wrapper loads `$HERMES_HOME/.env` automatically when Hermes is running, but it also works outside Hermes. It refuses to publish over a dirty tree when `--require-clean` or `--pull-first` is used, then runs `git pull --ff-only origin main` before collection so owner-applied web settings are synchronized safely.
-
-For Hermes scheduled jobs, the Gateway must be running for cron to fire automatically:
+Hermes must have its gateway running for scheduled cron jobs to fire automatically:
 
 ```bash
 hermes cron status
 ```
 
-## Normal cron mode
+### GitHub Actions schedule
 
-Example hourly cron entry:
+The included workflow is manual by default to avoid conflicting with local/Hermes cron. To make GitHub Actions own the schedule, add this to `.github/workflows/update-feed.yml`:
 
-```cron
-53 * * * * cd /path/to/nexafeed && /usr/bin/python3 scripts/nexafeed_automation.py --pull-first --require-clean --publish >> "$HOME/.nexafeed/update.log" 2>&1
+```yaml
+on:
+  schedule:
+    - cron: "53 * * * *"
+  workflow_dispatch:
 ```
 
-For a private env file outside the repo:
+Then pause all other publishers.
 
-```cron
-53 * * * * cd /path/to/nexafeed && /usr/bin/python3 scripts/nexafeed_automation.py --env-file "$HOME/.config/nexafeed.env" --pull-first --require-clean --publish >> "$HOME/.nexafeed/update.log" 2>&1
-```
+### Codex, Claude Code, or another coding agent
 
-## Codex / Claude / other coding-agent mode
-
-A coding-agent app only needs shell access to the checkout:
+Give the agent the repo and this command sequence:
 
 ```bash
-git clone https://github.com/<owner>/nexafeed.git
-cd nexafeed
-cp .env.example .env.local
+git pull --ff-only origin main
 python3 -m pip install --upgrade yt-dlp
 python3 scripts/nexafeed_doctor.py
-python3 scripts/nexafeed_automation.py --dry-run --no-details
-```
-
-If the agent should publish data, give it a normal Git remote/auth setup and run:
-
-```bash
+python3 scripts/nexafeed_automation.py --dry-run --no-details --no-secondary --workers 6
 python3 scripts/nexafeed_automation.py --pull-first --require-clean --publish
 ```
 
-## GitHub Actions mode
+## Copy-paste prompt for any AI agent
 
-The workflow `.github/workflows/update-feed.yml` can refresh the feed manually from the Actions tab. Configure provider/site values in repository Secrets/Variables if needed, then run **Update NexaFeed feed**. Email delivery secrets are intentionally not exposed to this refresh workflow; use the separate digest script from a private scheduler for reports.
+Paste this into Hermes, Claude Code, Codex, Cursor, or another coding agent after giving it the GitHub repo link:
 
-Important notes:
+```text
+You are setting up YourTube - A personal YouTube Package.
+Tagline: Watch only those valuable for you.
 
-- The workflow installs `yt-dlp`, runs `scripts/nexafeed_doctor.py`, refreshes with `scripts/nexafeed_automation.py`, verifies the repo, commits generated data when `publish=true`, and deploys Pages in the same workflow.
-- It does not rely on Hermes.
-- It does not print API keys.
-- It is manual by default to avoid double-refreshing when Hermes/local cron is already active. Add a `schedule:` block only after deciding GitHub Actions should own refresh timing.
-- External GitHub Actions are pinned to commit SHAs, main-branch writers share one concurrency group, and Pages deployments queue in one deploy group to avoid publish collisions.
+Source repo: https://github.com/developerjillur/nexafeed
+Live demo to inspect first: https://developerjillur.github.io/nexafeed/
 
-## Feed Settings workflow
+Goal:
+Fork or clone this repo into my GitHub account, keep it public, enable GitHub Pages, and give me a live URL like https://MY_GITHUB_USERNAME.github.io/MY_REPO/.
 
-The static GitHub Pages frontend cannot safely write repository files directly. NexaFeed therefore uses an owner-controlled workflow:
+Rules:
+- Do not commit secrets, API keys, tokens, passwords, or local private paths.
+- Keep real credentials only in .env.local, an explicit private env file, Hermes env, or GitHub Actions Secrets.
+- Keep the NEXAFEED_* env names unless you update all scripts and tests.
+- Keep the YouTube iframe/API approach. Do not download or rehost YouTube videos.
+- Keep browser-local watch history and local likes unless I ask for a real backend.
 
-1. Open **Feed Settings**.
-2. Add, edit, remove, filter, or reset channel rows.
-3. Edit keywords, topics, and categories.
-4. Select **Review and apply on GitHub**.
-5. Review the readable change summary and submit the prefilled issue while signed in as the repository owner.
-6. `.github/workflows/apply-feed-settings.yml` validates the compressed payload, updates the CSV/config, commits, deploys, comments on the issue, and closes it.
-7. The next clean scheduled refresh pulls the approved settings and rebuilds the feed.
-
-Only an exact-title settings issue opened by a GitHub account with repository `OWNER` author association can run the apply job. The server validator limits channel counts, term counts, URL hosts, priorities, payload size, and decompression size.
-
-## Rich metadata policy
-
-The collector uses `yt-dlp` server-side. The browser never receives a YouTube API key.
-
-- Explicit `playable_in_embed: false` videos are removed before publishing.
-- Unknown embed status is retained rather than incorrectly deleting a valid video.
-- Missing/stale metadata is refreshed on a TTL instead of scraping every video every hour.
-- Confirmed blocked videos are rechecked more frequently in case the owner changes embedding permissions.
-- Comments are opt-in only for a bounded set of recent Shorts and are capped per video.
-- Runtime iframe errors are still handled because availability can change after collection.
-
-Public comment extraction is best-effort. Comments may be disabled, login-gated, rate-limited, or temporarily unavailable when YouTube changes its markup.
-
-## Email reports
-
-Dry-run previews:
-
-```bash
-python3 scripts/nexafeed_digest_email.py --period morning --dry-run
-python3 scripts/nexafeed_digest_email.py --period midnight --dry-run
+Setup steps:
+1. Inspect README.md, config.json, data/channels.csv, .env.example, scripts/nexafeed_doctor.py, scripts/nexafeed_automation.py, and .github/workflows/update-feed.yml.
+2. Update config.json:
+   - siteName: YourTube
+   - siteUrl: https://MY_GITHUB_USERNAME.github.io/MY_REPO/
+   - repositoryUrl: https://github.com/MY_GITHUB_USERNAME/MY_REPO
+3. Keep the default 33-channel AI/web-development feed unless I provide my own channels.
+4. If I provide channels, update data/channels.csv and discovery terms in config.json.
+5. Run:
+   python3 -m pip install --upgrade yt-dlp
+   python3 scripts/nexafeed_doctor.py
+   python3 scripts/nexafeed_automation.py --dry-run --no-details --no-secondary --workers 6
+6. Run verification:
+   python3 tests/test_nexafeed_features.py -v
+   python3 -m py_compile scripts/*.py
+   node --check app.js
+   python3 scripts/verify_nexafeed.py
+   git diff --check
+7. Commit and push.
+8. Enable GitHub Pages and run the Update YourTube feed workflow manually.
+9. Wait for deploy success and fetch the live URL.
+10. Return: repo URL, live URL, what changed, how to refresh, how to edit Feed Settings, and any warnings.
 ```
 
-Scheduled sends use `NEXAFEED_EMAIL_RECIPIENTS` or `EMAIL_HOME_ADDRESS` from env, with Resend first and SMTP fallback. Reports contain aggregate counts and the live link, not a full video dump.
+Full prompt file: [`docs/AI_SETUP_PROMPT.md`](docs/AI_SETUP_PROMPT.md)
 
 ## Verification
 
@@ -261,24 +378,46 @@ python3 -m py_compile scripts/*.py
 python3 tests/test_nexafeed_features.py -v
 python3 scripts/verify_nexafeed.py
 python3 scripts/nexafeed_doctor.py --allow-missing-yt-dlp
+git diff --check
 ```
 
-`verify_nexafeed.py` checks dynamic channel consistency, feed stats, source ownership, video IDs, blocked-video leakage, rich metadata coverage, bounded comments, settings parity, required frontend/config markers, workflow files, SHA-pinned Actions, env-template safety, and common credential signatures.
+`verify_nexafeed.py` checks dynamic channel consistency, feed stats, source ownership, video IDs, blocked-video leakage, rich metadata coverage, bounded comments, settings parity, public-release docs, screenshots, SHA-pinned Actions, env-template safety, and common credential signatures.
 
-## Static-site limitations
+## What YourTube does not do
 
-### Watch history
+- It does not post YouTube likes, comments, replies, or subscriptions for you.
+- It does not bypass YouTube ads or YouTube player policies.
+- It does not sync watch history across devices without a backend.
+- It does not store API keys in the browser.
+- It does not guarantee a video stays playable forever. YouTube availability can change after a refresh.
 
-History and progress use browser `localStorage`. They persist on the same browser/device but do not automatically synchronize between devices. Use **Feed Settings → Export history JSON / Import history JSON** to move state. Automatic cross-device synchronization requires an authenticated backend such as Supabase or Firebase.
+## Good GitHub topics for discovery
 
-### YouTube interactions
+```text
+youtube, youtube-shorts, personal-dashboard, github-pages, static-site, ai-agents, hermes-agent, codex, claude-code, automation, yt-dlp, no-backend, localstorage, feed-reader, productivity, creator-tools, python, javascript, open-source
+```
 
-NexaFeed can display cached public metadata and open the original YouTube page. It cannot post comments, replies, likes, or subscriptions as the user. Those actions require authenticated YouTube OAuth/API access and are intentionally redirected to YouTube.
+## Share copy
 
-### Availability
+Short launch copy:
 
-Collector filtering reduces dead embeds but cannot guarantee permanent playback. A video can become private, removed, age-restricted, region-restricted, or embedding-disabled after a refresh. Runtime handling removes that video from the current browser session and advances to the next playable item.
+```text
+I released YourTube - A personal YouTube Package.
 
-### Scheduling ownership
+Tagline: Watch only those valuable for you.
 
-Use only one active publisher at a time. Hermes cron, normal cron, and GitHub Actions can all run the same wrapper, but two publishers running together may race to commit generated JSON. If moving from Hermes to GitHub Actions, pause the old scheduler first.
+It gives you a forkable YouTube-style dashboard with priority channels, Shorts, long videos, local watch history, local likes, Feed Settings, and scheduled refresh through Hermes, Codex, Claude Code, cron, or GitHub Actions.
+
+Live demo: https://developerjillur.github.io/nexafeed/
+GitHub: https://github.com/developerjillur/nexafeed
+```
+
+Hashtags:
+
+```text
+#YourTube #YouTubeTools #AIAgents #OpenSource #GitHubPages #Automation #ClaudeCode #Codex #HermesAgent #PersonalDashboard #ProductivityTools #YouTubeShorts
+```
+
+## License
+
+MIT License. See [`LICENSE`](LICENSE).

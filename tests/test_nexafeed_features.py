@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regression tests for NexaFeed rich metadata and owner-managed settings."""
+"""Regression tests for YourTube rich metadata and owner-managed settings."""
 from __future__ import annotations
 
 import base64
@@ -38,8 +38,13 @@ class FrontendFeatureTests(unittest.TestCase):
             "shortCommentsButton",
             "shortDescriptionButton",
             "addChannelRow",
-            "applyFeedSettings",
+            "function applyFeedSettings",
+            "function repositoryIssuesNewUrl",
+            "function initialViewFromUrl",
+            "VALID_VIEWS",
+            "repositoryUrl",
             "NEXAFEED_CONFIG_V1:GZIP_BASE64URL",
+            "[YourTube Config] Apply feed settings",
             "applySearchInput",
             "data-quick-filter",
             "shortsCarousel",
@@ -124,12 +129,14 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn("max-width: none;", style_css)
         self.assertNotIn("max-width: 1580px;", style_css)
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
-        self.assertIn("style.css?v=20260728-hide-watched-queue", index_html)
-        self.assertIn("app.js?v=20260728-hide-watched-queue", index_html)
-        self.assertIn('aria-label="NexaFeed home"', index_html)
+        self.assertIn("YourTube - A personal YouTube Package", index_html)
+        self.assertIn("Watch only those valuable for you", index_html)
+        self.assertIn("style.css?v=20260728-yourtube-release", index_html)
+        self.assertIn("app.js?v=20260728-yourtube-release", index_html)
+        self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)
-        for marker in ["NexaFeed Float", "floatingYoutubePlayer", "onYouTubeIframeAPIReady", "new YT.Player", "widget_referrer", "strict-origin-when-cross-origin"]:
+        for marker in ["YourTube Float", "floatingYoutubePlayer", "onYouTubeIframeAPIReady", "new YT.Player", "widget_referrer", "strict-origin-when-cross-origin"]:
             self.assertIn(marker, float_html)
         self.assertTrue(workflow_path.is_file())
         workflow = workflow_path.read_text(encoding="utf-8")
@@ -242,16 +249,23 @@ class EnvironmentConfigTests(unittest.TestCase):
         settings_workflow = (ROOT / ".github/workflows/apply-feed-settings.yml").read_text(encoding="utf-8")
 
         for marker in [
+            "YourTube - A personal YouTube Package",
+            "Watch only those valuable for you",
             "Hermes cron",
             "normal cron",
             "Codex",
             "Claude",
             "GitHub Actions",
             "NEXAFEED_LLM_PROVIDER",
+            "NEXAFEED_REPOSITORY_URL",
+            "NEXAFEED_TAGLINE",
+            "NEXAFEED_BRANCH",
+            "docs/AI_SETUP_PROMPT.md",
+            "docs/screenshots/yourtube-home.png",
             "scripts/nexafeed_automation.py --pull-first --require-clean --publish",
         ]:
             self.assertIn(marker, readme)
-        for marker in ["NEXAFEED_LLM_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY", "NEXAFEED_YT_DLP"]:
+        for marker in ["NEXAFEED_LLM_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY", "NEXAFEED_YT_DLP", "NEXAFEED_REPOSITORY_URL", "NEXAFEED_TAGLINE", "NEXAFEED_BRANCH"]:
             self.assertIn(marker, env_example)
         for marker in [".env", ".env.*", "!.env.example"]:
             self.assertIn(marker, gitignore)
@@ -259,13 +273,25 @@ class EnvironmentConfigTests(unittest.TestCase):
             self.assertIn(marker, update_workflow)
         for marker in ["nexafeed-main-write", "nexafeed-pages"]:
             self.assertIn(marker, update_workflow)
+        for marker in ["NEXAFEED_SITE_NAME", "NEXAFEED_TAGLINE", "NEXAFEED_REPOSITORY_URL", "NEXAFEED_TIMEZONE", "NEXAFEED_BRANCH", "OLLAMA_HOST", "WORKERS: ${{ inputs.workers }}", '--workers "$WORKERS"']:
+            self.assertIn(marker, update_workflow)
+        self.assertNotIn('--workers "${{ inputs.workers }}"', update_workflow)
         for email_secret in ["RESEND_API_KEY", "EMAIL_PASSWORD", "EMAIL_SMTP_HOST", "NEXAFEED_EMAIL_RECIPIENTS"]:
             self.assertNotIn(email_secret, update_workflow)
         for workflow in [update_workflow, deploy_workflow, settings_workflow]:
             for match in re.finditer(r"uses:\s+([^\s#]+)", workflow):
                 self.assertRegex(match.group(1), r"@[0-9a-f]{40}$")
         self.assertIn("cp index.html style.css app.js float.html config.json _site/", deploy_workflow)
+        self.assertIn("if [ -d docs ]; then cp -R docs _site/docs; fi", deploy_workflow)
         self.assertIn("cp index.html style.css app.js float.html config.json _site/", settings_workflow)
+        self.assertIn("if [ -d docs ]; then cp -R docs _site/docs; fi", settings_workflow)
+
+        for public_file in ["LICENSE", "SECURITY.md", "docs/AI_SETUP_PROMPT.md", "docs/SCHEDULING.md"]:
+            self.assertTrue((ROOT / public_file).is_file(), public_file)
+        for screenshot in ["docs/screenshots/yourtube-home.png", "docs/screenshots/yourtube-shorts.png", "docs/screenshots/yourtube-settings.png"]:
+            path = ROOT / screenshot
+            self.assertTrue(path.is_file(), screenshot)
+            self.assertGreater(path.stat().st_size, 1000, screenshot)
 
 
 class EmailDeliveryTests(unittest.TestCase):
@@ -289,7 +315,7 @@ class EmailDeliveryTests(unittest.TestCase):
         original_run = emailer.subprocess.run
         try:
             os.environ["RESEND_API_KEY"] = secret
-            os.environ["RESEND_FROM"] = "NexaFeed <reports@example.com>"
+            os.environ["RESEND_FROM"] = "YourTube <reports@example.com>"
             emailer.subprocess.run = fake_run
             result = emailer.send_resend("owner@example.com", "Subject", "<p>HTML</p>", "Text")
         finally:
@@ -302,7 +328,24 @@ class EmailDeliveryTests(unittest.TestCase):
 
         self.assertEqual(result, {"provider": "resend", "accepted": True, "id": "email-test-id"})
         self.assertIn(f'header = "Authorization: Bearer {secret}"', captured["config"])
+        self.assertNotIn("Authorization: ***", captured["config"])
         self.assertNotIn(secret, " ".join(captured["command"]))
+
+    def test_email_report_uses_configurable_timezone(self):
+        emailer = load_module("nexafeed_digest_email_timezone_test", ROOT / "scripts/nexafeed_digest_email.py")
+        previous = os.environ.get("NEXAFEED_TIMEZONE")
+        try:
+            os.environ["NEXAFEED_TIMEZONE"] = "UTC"
+            timezone = emailer.configured_timezone({"timezone": "Asia/Dhaka"})
+            report = emailer.build_report("morning", "https://example.com/", timezone)
+        finally:
+            if previous is None:
+                os.environ.pop("NEXAFEED_TIMEZONE", None)
+            else:
+                os.environ["NEXAFEED_TIMEZONE"] = previous
+
+        self.assertEqual(emailer.timezone_label(timezone), "UTC")
+        self.assertEqual(report["summary"]["timezone"], "UTC")
 
 
 class ProbePlanningTests(unittest.TestCase):

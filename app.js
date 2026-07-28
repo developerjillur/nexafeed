@@ -17,13 +17,20 @@ const PLAYER_WHEEL_THRESHOLD = 420;
 const SHORT_WHEEL_THRESHOLD = 220;
 const WHEEL_RESET_MS = 420;
 const MINIMUM_MANUAL_SWITCH_WATCH_SECONDS = 5;
+const VALID_VIEWS = new Set(["home", "shorts", "long", "liked", "history", "settings"]);
+
+function initialViewFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  const view = params.get("view") || window.location.hash.replace(/^#/, "");
+  return VALID_VIEWS.has(view) ? view : "home";
+}
 
 const state = {
   feed: null,
   details: { items: {} },
   feedSettings: { channels: [], keywords: [], topics: [], categories: [] },
   settingsDraft: null,
-  view: "home",
+  view: initialViewFromUrl(),
   query: "",
   quickFilter: "all",
   watched: readJson(WATCHED_KEY, {}),
@@ -374,7 +381,7 @@ function floatingPopupUrl(video) {
   const popupUrl = new URL("float.html", window.location.href);
   const params = new URLSearchParams({
     id: video.id,
-    title: String(video.title || "NexaFeed video").slice(0, 180),
+    title: String(video.title || "YourTube video").slice(0, 180),
     type: video.type === "short" ? "short" : "long",
     channel: String(video.channel || "").slice(0, 100),
     url: video.url || `https://www.youtube.com/watch?v=${video.id}`,
@@ -412,7 +419,7 @@ function floatingPlayerBody(video, { draggable = false, apiMount = false } = {})
   return `
     <section class="float-window ${video.type === "short" ? "short-float" : "long-float"}" id="inlineFloatingPlayer" aria-label="Floating player">
       <header class="float-titlebar" ${draggable ? 'data-float-drag="true"' : ""}>
-        <div class="float-brand"><span class="float-dot">▶</span><span>${video.type === "short" ? "NexaFeed Short" : "NexaFeed Float"}</span><small class="float-title">${escapeHtml(video.title)}</small></div>
+        <div class="float-brand"><span class="float-dot">▶</span><span>${video.type === "short" ? "YourTube Short" : "YourTube Float"}</span><small class="float-title">${escapeHtml(video.title)}</small></div>
         <div class="float-actions">
           <a class="float-youtube" href="${escapeHtml(video.url || `https://www.youtube.com/watch?v=${video.id}`)}" target="_blank" rel="noopener" aria-label="Open on YouTube">↗</a>
           <button type="button" data-close-float aria-label="Close floating player">×</button>
@@ -785,6 +792,20 @@ function settingsChangeSummary(draft) {
   ];
 }
 
+function repositoryIssuesNewUrl() {
+  const fallback = "https://github.com/developerjillur/nexafeed";
+  const raw = String(state.feed?.repositoryUrl || fallback).trim().replace(/\/+$/, "");
+  try {
+    const url = new URL(raw);
+    if (url.hostname !== "github.com") throw new Error("Only GitHub repository URLs are supported");
+    const [owner, repo] = url.pathname.split("/").filter(Boolean);
+    if (!owner || !repo) throw new Error("Repository URL must include owner and repo");
+    return new URL(`https://github.com/${owner}/${repo.replace(/\.git$/, "")}/issues/new`);
+  } catch {
+    return new URL(`${fallback}/issues/new`);
+  }
+}
+
 async function applyFeedSettings() {
   const popup = window.open("about:blank", "_blank");
   if (popup) popup.opener = null;
@@ -793,7 +814,7 @@ async function applyFeedSettings() {
     state.settingsDraft = draft;
     const token = await gzipBase64Url(JSON.stringify(draft));
     const body = [
-      "This owner-authorized issue applies the Feed Settings currently shown in NexaFeed.",
+      "This owner-authorized issue applies the Feed Settings currently shown in YourTube.",
       "Review the summary below, then submit without editing the hidden marker.",
       "",
       "## Change summary",
@@ -803,8 +824,8 @@ async function applyFeedSettings() {
       "",
       `<!-- NEXAFEED_CONFIG_V1:GZIP_BASE64URL:${token} -->`,
     ].join("\n");
-    const issueUrl = new URL("https://github.com/developerjillur/nexafeed/issues/new");
-    issueUrl.searchParams.set("title", "[NexaFeed Config] Apply feed settings");
+    const issueUrl = repositoryIssuesNewUrl();
+    issueUrl.searchParams.set("title", "[YourTube Config] Apply feed settings");
     issueUrl.searchParams.set("body", body);
     if (popup) popup.location.href = issueUrl.toString();
     else window.location.href = issueUrl.toString();

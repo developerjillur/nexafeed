@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Public-release readiness checks for NexaFeed setup and provider env."""
+"""Public-release readiness checks for YourTube setup and provider env."""
 from __future__ import annotations
 
 import argparse
@@ -67,7 +67,7 @@ def executable_status(command: str) -> dict[str, Any]:
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Check NexaFeed public/standalone setup readiness")
+    parser = argparse.ArgumentParser(description="Check YourTube public/standalone setup readiness")
     parser.add_argument("--env-file", type=Path, help="Optional .env file to load before checking")
     parser.add_argument("--require-llm", action="store_true", help="Fail if no LLM provider/API key is configured")
     parser.add_argument("--allow-missing-yt-dlp", action="store_true", help="Warn instead of failing when yt-dlp is unavailable")

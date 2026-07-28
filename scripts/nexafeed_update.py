@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Refresh NexaFeed from public YouTube pages and optionally publish it.
+"""Refresh YourTube from public YouTube pages and optionally publish it.
 
 The collector intentionally uses public RSS/channel/search pages instead of a
 YouTube Data API key. Primary channels come only from data/channels.csv.
@@ -19,6 +19,7 @@ import re
 import shutil
 import subprocess
 import sys
+import tempfile
 import threading
 import time
 import urllib.parse
@@ -43,12 +44,12 @@ DETAILS_PATH = DATA_DIR / "video-details.json"
 SETTINGS_PATH = DATA_DIR / "feed-settings.json"
 CACHE_PATH = DATA_DIR / "channel-cache.json"
 DISCOVERY_PATH = DATA_DIR / "discovery-log.json"
-LOCK_PATH = Path("/tmp/nexafeed-update.lock")
+LOCK_PATH = Path(tempfile.gettempdir()) / "nexafeed-update.lock"
 
 UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 "
-    "NexaFeed/2.0"
+    "YourTube/1.0"
 )
 ATOM = "{http://www.w3.org/2005/Atom}"
 YT = "{http://www.youtube.com/xml/schemas/2015}"
@@ -102,7 +103,9 @@ def apply_env_overrides(config: dict[str, Any]) -> dict[str, Any]:
     output = dict(config)
     string_overrides = {
         "NEXAFEED_SITE_NAME": "siteName",
+        "NEXAFEED_TAGLINE": "tagline",
         "NEXAFEED_SITE_URL": "siteUrl",
+        "NEXAFEED_REPOSITORY_URL": "repositoryUrl",
         "NEXAFEED_TIMEZONE": "timezone",
     }
     for env_name, config_name in string_overrides.items():
@@ -1227,6 +1230,11 @@ def git_publish(root: Path, now: dt.datetime) -> dict[str, Any]:
             check=check,
         )
 
+    branch = os.getenv("NEXAFEED_BRANCH", "").strip()
+    if not branch:
+        branch_probe = run("branch", "--show-current", check=False)
+        branch = (branch_probe.stdout or "").strip() or "main"
+
     run(
         "add",
         "data/videos.json",
@@ -1242,7 +1250,7 @@ def git_publish(root: Path, now: dt.datetime) -> dict[str, Any]:
         raise RuntimeError(diff.stderr or "git diff failed")
     stamp = now.astimezone(BD_TZ).strftime("%Y-%m-%d %H:%M BDT")
     commit = run("commit", "-m", f"chore(feed): refresh {stamp}")
-    push = run("push", "origin", "main")
+    push = run("push", "origin", f"HEAD:{branch}")
     return {
         "changed": True,
         "committed": True,
@@ -1355,8 +1363,10 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
     feed = {
         "schemaVersion": 3,
         "updatedAt": iso_utc(now),
-        "siteName": config.get("siteName", "NexaFeed"),
+        "siteName": config.get("siteName", "YourTube"),
+        "tagline": config.get("tagline", "Watch only those valuable for you"),
         "siteUrl": config.get("siteUrl", ""),
+        "repositoryUrl": config.get("repositoryUrl", ""),
         "primaryChannels": len(channels),
         "freshHours": int(config.get("freshHours", 24)),
         "stats": {
@@ -1408,7 +1418,7 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
         publish = git_publish(ROOT, now)
 
     return {
-        "ok": checked > 0,
+        "ok": checked > 0 and len(items) > 0,
         "updatedAt": feed["updatedAt"],
         "channels": {"requested": len(channels), "checked": checked, "warnings": len(failures)},
         "feed": feed["stats"],
@@ -1422,9 +1432,9 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Refresh and publish the NexaFeed static feed")
+    parser = argparse.ArgumentParser(description="Refresh and publish the YourTube static feed")
     parser.add_argument("--env-file", type=Path, help="Optional .env file to load before running")
-    parser.add_argument("--publish", action="store_true", help="Commit generated data and push origin/main")
+    parser.add_argument("--publish", action="store_true", help="Commit generated data and push origin/<current branch or NEXAFEED_BRANCH>")
     parser.add_argument("--dry-run", action="store_true", help="Collect and report without writing files")
     parser.add_argument("--no-secondary", action="store_true", help="Skip this run's topic search")
     parser.add_argument("--no-details", action="store_true", help="Reuse cached embed/comment details without probing")
@@ -1443,7 +1453,7 @@ def main(argv: list[str] | None = None) -> int:
         try:
             fcntl.flock(lock_handle.fileno(), fcntl.LOCK_EX | fcntl.LOCK_NB)
         except BlockingIOError:
-            print(json.dumps({"ok": True, "skipped": True, "reason": "another NexaFeed update is running"}))
+            print(json.dumps({"ok": True, "skipped": True, "reason": "another YourTube update is running"}))
             return 0
         try:
             result = run_update(args)

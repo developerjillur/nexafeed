@@ -1,4 +1,4 @@
-name: Apply NexaFeed feed settings
+name: Apply YourTube feed settings
 
 on:
   issues:
@@ -8,7 +8,7 @@ permissions: {}
 
 jobs:
   close-unauthorized:
-    if: github.event.issue.title == '[NexaFeed Config] Apply feed settings' && github.event.issue.author_association != 'OWNER'
+    if: github.event.issue.title == '[YourTube Config] Apply feed settings' && github.event.issue.author_association != 'OWNER'
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -21,7 +21,7 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: 'Only the repository owner can manage NexaFeed settings. This request has been automatically closed.'
+              body: 'Only the repository owner can manage YourTube settings. This request has been automatically closed.'
             });
             await github.rest.issues.update({
               owner: context.repo.owner,
@@ -32,8 +32,10 @@ jobs:
             });
 
   apply:
-    if: github.event.issue.title == '[NexaFeed Config] Apply feed settings' && github.event.issue.author_association == 'OWNER'
+    if: github.event.issue.title == '[YourTube Config] Apply feed settings' && github.event.issue.author_association == 'OWNER'
     runs-on: ubuntu-latest
+    env:
+      NEXAFEED_BRANCH: ${{ vars.NEXAFEED_BRANCH || github.event.repository.default_branch }}
     concurrency:
       group: nexafeed-main-write
       cancel-in-progress: false
@@ -43,7 +45,7 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
-          ref: main
+          ref: ${{ env.NEXAFEED_BRANCH }}
           fetch-depth: 0
 
       - name: Validate owner payload and update source files
@@ -65,8 +67,8 @@ jobs:
             echo "Settings already match the requested payload."
           else
             git commit -m "chore(feed): apply owner settings from issue #$ISSUE_NUMBER"
-            git pull --rebase origin main
-            git push origin HEAD:main
+            git pull --rebase origin "$NEXAFEED_BRANCH"
+            git push origin "HEAD:$NEXAFEED_BRANCH"
           fi
 
   deploy:
@@ -80,19 +82,22 @@ jobs:
       issues: write
       pages: write
       id-token: write
+    env:
+      NEXAFEED_BRANCH: ${{ vars.NEXAFEED_BRANCH || github.event.repository.default_branch }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
-          ref: main
+          ref: ${{ env.NEXAFEED_BRANCH }}
 
       - name: Prepare updated static site
         run: |
           mkdir _site
           cp index.html style.css app.js float.html config.json _site/
           cp -R data _site/data
+          if [ -d docs ]; then cp -R docs _site/docs; fi
           touch _site/.nojekyll
 
       - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
@@ -111,7 +116,7 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: 'NexaFeed settings were validated, committed, and deployed. The next clean hourly refresh will pull these settings and rebuild the video feed.'
+              body: 'YourTube settings were validated, committed, and deployed. The next clean hourly refresh will pull these settings and rebuild the video feed.'
             });
             await github.rest.issues.update({
               owner: context.repo.owner,
@@ -125,7 +130,7 @@ jobs:
     if: >-
       ${{
         always() &&
-        github.event.issue.title == '[NexaFeed Config] Apply feed settings' &&
+        github.event.issue.title == '[YourTube Config] Apply feed settings' &&
         github.event.issue.author_association == 'OWNER' &&
         (needs.apply.result == 'failure' || needs.deploy.result == 'failure')
       }}
@@ -142,5 +147,5 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: `NexaFeed could not apply this settings request. Apply result: **${{ needs.apply.result }}**. Deploy result: **${{ needs.deploy.result }}**. Review the [workflow run](${runUrl}) and correct the request before retrying.`
+              body: `YourTube could not apply this settings request. Apply result: **${{ needs.apply.result }}**. Deploy result: **${{ needs.deploy.result }}**. Review the [workflow run](${runUrl}) and correct the request before retrying.`
             });
