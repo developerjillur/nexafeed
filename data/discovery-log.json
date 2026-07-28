@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T19:53:57Z",
+  "updatedAt": "2026-07-28T20:53:05Z",
   "items": [
+    {
+      "id": "C4cYO8viGO0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Success With Sam",
+      "publishedAt": "2026-07-28T19:53:05Z",
+      "firstSeenAt": "2026-07-28T20:53:05Z"
+    },
+    {
+      "id": "MlD7rI7Xmxo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Learn with Cisco",
+      "publishedAt": "2026-07-28T18:53:05Z",
+      "firstSeenAt": "2026-07-28T20:53:05Z"
+    },
+    {
+      "id": "Jrvv_XQ3Qgo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GATE Wallah",
+      "publishedAt": "2026-07-28T17:53:05Z",
+      "firstSeenAt": "2026-07-28T20:53:05Z"
+    },
+    {
+      "id": "yasL5neQz1M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Neil Patel",
+      "publishedAt": "2026-07-28T16:53:05Z",
+      "firstSeenAt": "2026-07-28T20:53:05Z"
+    },
+    {
+      "id": "PWmUff7VfC8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CodeWithChris",
+      "publishedAt": "2026-07-28T15:53:05Z",
+      "firstSeenAt": "2026-07-28T20:53:05Z"
+    },
+    {
+      "id": "OgHBCAqjSwY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "YUG COMPUTER EDUCATION TECHNOLOGY (YCE)",
+      "publishedAt": "2026-07-28T14:53:05Z",
+      "firstSeenAt": "2026-07-28T20:53:05Z"
+    },
     {
       "id": "IXOJwRjgKtM",
       "type": "long",
@@ -4146,6 +4194,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-07-28T20:53:05Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
