@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T01:53:07Z",
+  "updatedAt": "2026-07-28T02:53:09Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -405,7 +405,7 @@
       "likeCount": 124
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-28T01:53:07Z",
+      "checkedAt": "2026-07-28T02:53:09Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -2284,15 +2284,6 @@
       "description": "",
       "commentCount": 0,
       "likeCount": 167,
-      "probeClient": "web_embedded"
-    },
-    "wz7gq7VGHzM": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment \"VIBE\" and I'll send you the link.\n\nVibe Trading is a free AI platform with 461 trading strategies and AI agents.\n\nJoin my AI & e-commerce community, link in bio.\n\n#ai #trading #opensource #github",
-      "commentCount": 8,
-      "likeCount": 54,
       "probeClient": "web_embedded"
     },
     "iatJ8U39pqA": {
@@ -4326,7 +4317,7 @@
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-28T01:53:07Z",
+      "checkedAt": "2026-07-28T02:53:09Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4386,24 +4377,6 @@
       "description": "Learn directly from me + 30 days for FREE: http://www.gohighlevel.com/carsonfree?fp_ref=carsonreed&utm_source=youtube&utm_medium=organic&utm_campaign=ai&utm_term=agencyowners&utm_content=stopsellingaiagents\n\nI have no course or paid program to sell you...\n\nI give away all of this for free… All I ask is you use my link to sign up to GoHighLevel (even if you have an account you can still get access)\n\nWhen you sign up for GoHighLevel through my link, you can unlock:\n\n✅ Private community to ask me questions\n✅ My exact Agency snapshots + funnels\n✅ 5x weekly calls with me + my team\n✅ Outreach templates + scripts\n✅ Live sales call recordings\n✅ 1-on-1 Kickoff Call to help you get started\n✅ Fulfillment guides + templates\n✅ 15+ Snapshots for all different niches\nAnd more...\n\n❌ IMPORTANT:\nDo not use an ad blocker, incognito tab, VPN, or browser extension when signing up. These can block tracking and prevent you from receiving the bonuses.\n\nDisclaimer: My videos are for educational purposes only and based on my personal experience after 3+ years of consistent effort. I’m a GoHighLevel affiliate and may earn a commission through my links. Results vary and are not guaranteed. Any income, business, or success examples are not typical or promised outcomes.",
       "commentCount": 3,
       "likeCount": 26,
-      "probeClient": "web_embedded"
-    },
-    "xFWhiWe91BE": {
-      "checkedAt": "2026-07-27T17:53:17Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Microsoft Research just released Flint, an open-source charting language designed to help AI agents generate reliable, production-ready data visualizations without writing hundreds of lines of fragile Vega-Lite code. \n\nIn this video, I test Flint with Claude and the Flint MCP tools by turning a CSV of monthly signups into a heatmap, rendering the final PNG directly in chat, and then switching the same data into a grouped bar chart without changing its semantic types. But can this all be done in Claude Code?\n\n🔗 Relevant Links\nMicrosoft Research - https://microsoft.github.io/flint-chart/\nFlint Repo - https://github.com/microsoft/flint-chart\n\n❤️ More about us\nRadically better observability stack: https://betterstack.com/\nWritten tutorials: https://betterstack.com/community/\nExample projects: https://github.com/BetterStackHQ\n\n📱 Socials\nTwitter: https://twitter.com/betterstackhq\nInstagram: https://www.instagram.com/betterstackhq/\nTikTok: https://www.tiktok.com/@betterstack\nLinkedIn: https://www.linkedin.com/company/betterstack\n\n📌 Chapters:\n0:00 AI Agents Are Bad at Data Visualization\n0:35 Microsoft Research Introduces Flint\n1:10 Why LLM-Generated Charts Break\n1:20 Semantic Types and the Flint Compiler\n1:45 Installing Flint With Claude MCP\n2:09 Creating a Heatmap From CSV Data\n2:20 Rendering Interactive Charts on Claude desktop\n2:39 Switching Up Your Data\n2:55 How Flint Semantic Types Work\n3:15 Flint vs Vega-Lite, Mermaid, and Chart MCP Servers\n3:58 Flint’s Biggest Limitations and Missing Features\n4:30 Who Should Use Flint?\n5:00 Final Thoughts on Microsoft Flint",
-      "commentCount": 19,
-      "likeCount": 219,
-      "probeClient": "web_embedded"
-    },
-    "vZTxDqOTCmk": {
-      "checkedAt": "2026-07-27T17:53:17Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Download the exact blueprint behind Nick’s always-on AI agent Dewey, with its own cloud computer, phone, email, payment card, and password vault and start texting your own in about two minutes (free): https://corey-ganim.kit.com/78db8b2c96\n\nNick Vasilescu breaks down how to build, deploy, and monetize managed AI agents. Watch a live demo of his personal agent (Dewey) onboarding another agent into Slack, and learn his 80/20 agent stack to deploy live agents in under 48 hours.\n\nNick and I both use Orgo to build and deploy our managed agents. If you use BOTH the following link and code COREY you'll get your first 3 days of Orgo free then 20% off your first 3 months: https://www.orgo.ai/?r=COREY\n\nJoin our AI Operator Academy Community where we help entrepreneurs start and scale a profitable AI services business: https://www.skool.com/aioperatoracademy/about\n\nTIMESTAMPS\n\n00:00 - Intro & Overview\n01:29 - Meet Dewey, Nick's AI Agent\n02:03 - Onboarding a Client Agent Live\n04:00 - Enterprise Demand for Agents\n09:02 - Orgo: Cloud Computers for Agents\n12:05 - Orgo Discount & Setup\n13:02 - Spinning Up Agents from Templates\n15:32 - Productizing Agents\n19:50 - Why Clients Pay $5K/Month\n22:56 - The B2B2B Reseller Model\n27:22 - The Full 80/20 Agent Stack\n33:01 - From Invoice to Live Agent in 48 Hours\n36:24 - Turning Call Transcripts Into Skills\n39:27 - Paid Assessments as Lead-Ins\n41:02 - Where to Find Nick\n\nKEY TAKEAWAYS\n\n• Dewey builds and deploys agents autonomously in Slack.\n• Orgo provides desktop computers for agents, matching human UI behavior.\n• The $5K/mo model works when clients resell the agent to their own customers.\n• Deploy agents in 48 hours using discovery transcripts and clean context.\n\nFIND COREY IN SOCIAL:\n\nX/Twitter: https://x.com/GanimCorey\nInstagram: https://www.instagram.com/coreyganim/\nLinkedIn: https://www.linkedin.com/in/coreyganim/\n\nFIND NICK IN SOCIAL:\n\nX/Twitter: https://x.com/NickVasiles\nWebsite: https://www.orgo.ai/",
-      "commentCount": 5,
-      "likeCount": 56,
       "probeClient": "web_embedded"
     },
     "2jsjiwV_1pA": {
@@ -4484,15 +4457,6 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "7FfzntB3C_4": {
-      "checkedAt": "2026-07-27T19:53:33Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Discover how no-code workflow automation platforms can transform your business operations and free your team from tedious, repetitive tasks. This episode is for marketers, ops leads, and founders looking to automate busywork without needing an engineer.\n\nIn this episode we cover:\n• Losing hours weekly to repetitive tasks and manual data transfers.\n• Delays and errors from fragile, human-dependent business processes.\n• The frustration of waiting on engineering for simple automation solutions.\n\n12 Top No-Code Platforms for Workflow Automation in 2026:\n1. CogniAgent — Teams that want workflow automation plus conversational AI and autonomous agents in one no-code platform.\n2. Make — Visual builders who want fine control over branching logic.\n3. Zapier — Connecting the widest range of apps quickly.\n4. n8n — Technical teams wanting open, self-hostable automation.\n5. Airtable — Teams automating around a flexible database.\n6. Monday.com — Project teams automating work inside a visual Work OS.\n7. ClickUp — Teams automating tasks inside an all-in-one workspace.\n8. Pabbly Connect — Budget-minded teams wanting flat-rate automation.\n9. Workato — Larger teams needing enterprise-grade integration.\n10. Tray.ai — Ops teams wanting AI-native enterprise automation.\n\nBy the end of this episode, you'll have a clear understanding of which no-code platform is the right fit to automate your business and drive real growth.",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "frZ6QZ1FM6I": {
       "checkedAt": "2026-07-27T20:53:46Z",
       "embedAllowed": true,
@@ -4530,15 +4494,6 @@
       "description": "In this video, I'll be sharing my thoughts on AI, how it is changing software development, and where I think things are heading. We'll discuss whether AI will replace software developers, how I use it in my own coding workflow, the difference between using AI as a tool and relying on it to do your thinking, and some of the limits that could slow its progress. We'll also look at the broader concerns surrounding AI, including its impact on jobs, energy use, online content, and the growing concentration of wealth and power. Let's get started...\n\nTimestamps:\n00:00 - My Thoughts on AI\n01:00 - Will AI Replace Software Developers?\n06:04 - What AI Can Actually Do Today\n12:08 - Why AI Progress May Slow Down\n19:10 - How I Use AI as a Developer\n22:42 - AI’s Bigger Problems\n27:44 - Energy, Data Centers, and Infrastructure\n30:15 - Bad AI Predictions and Advice\n34:17 - Keep Learning and Stay Prepared\n\n✅ Support My Channel Through Patreon:\nhttps://www.patreon.com/coreyms\n\n✅ Become a Channel Member:\nhttps://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g/join\n\n✅ One-Time Contribution Through PayPal:\nhttps://goo.gl/649HFY\n\n✅ Cryptocurrency Donations:\nBitcoin Wallet - 3MPH8oY2EAgbLVy7RBMinwcBntggi7qeG3\nEthereum Wallet - 0x151649418616068fB46C3598083817101d3bCD33\nLitecoin Wallet - MPvEBY5fxGkmPQgocfJbxP6EmTo5UUXMot\n\n✅ Corey's Public Amazon Wishlist\nhttp://a.co/inIyro1\n\n✅ Equipment I Use and Books I Recommend:\nhttps://www.amazon.com/shop/coreyschafer\n\n▶️ You Can Find Me On:\nMy Website - http://coreyms.com/\nMy Second Channel - https://www.youtube.com/c/coreymschafer\nFacebook - https://www.facebook.com/CoreyMSchafer\nTwitter - https://twitter.com/CoreyMSchafer\nInstagram - https://www.instagram.com/coreymschafer/",
       "commentCount": 97,
       "likeCount": 683,
-      "probeClient": "web_embedded"
-    },
-    "vxW1JVrEK3k": {
-      "checkedAt": "2026-07-27T20:53:46Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Is vibe coding your startup's biggest shortcut or a complete technical nightmare?\n\nIn this episode of Founders Unchained, host Darius Kraucionis sits down with Catalin Sarbu from Maxcode, seasoned developer and CTO-level advisor at Maxcode with 15+ years of software experience. We pull back the curtain on building MVPs in the era of artificial intelligence, exposing why full-stack vibe coding can lead to disastrous rewrites, massive security vulnerabilities, and unexpected AI API bills.\n\nWhether you're an early-stage founder building your first SaaS product, preparing for pitch meetings with venture capital investors, or attempting to scale an existing prototype, this breakdown covers the critical tradeoffs every founder must navigate. Learn how to leverage senior engineers alongside modern AI tools to accelerate your time-to-market without sacrificing code architecture, GDPR compliance, or data privacy.\n\nKey topics covered:\n\n* Building startup MVPs faster vs. technical debt accumulation\n* The real cyber security hazards of vibe coding and package hallucinations\n* AI pricing shifts and token burn rate risks for bootstrapped teams\n* How senior software engineers build pitch-ready investor demos\n* European data protection laws, GDPR, and AI model security\n\nIf you want the candid truth about startup execution, founder mindset, and scaling tech products without fluff, subscribe to the channel for weekly interviews with real builders, investors, and industry operators!\n\nLet's connect!:\nhttps://www.maxcode.net/\nhttps://www.linkedin.com/in/catalin-sarbu-7538585a/\nhttps://www.linkedin.com/in/darius-kraucionis/\n\n#Startup #Founders #VibeCoding #SoftwareDevelopment #TechStartups #VentureCapital #BuildingInPublic #GenerativeAI #CyberSecurity #SaaS #GDPR #TechFounders #StartupScaling #MVPDemo #mvp #Maxcode #FoundersUnchained #maxcode #CatalinSarbu #dariuskraucionis",
-      "commentCount": 3,
-      "likeCount": 4,
       "probeClient": "web_embedded"
     },
     "XpmtyjgPTVo": {
@@ -4740,6 +4695,45 @@
       "description": "👉 FREE Step-by-Step on How I Make Over $40K+/month with My Stupid Simple SaaS: https://claylawrence.link/TYmAodb\n\nJoin my free community: https://www.skool.com/huddle/about\n\nStarting a marketing agency is simple—but it isn't easy. In this video, Clay Lawrence shares lessons from the early days of building Review Harvest, including dealing with rejection, sticking to a proven business model, landing your first clients, and why consistency beats chasing every new opportunity. If you're building a GoHighLevel agency, AI business, or local marketing agency, this is the mindset you need for long-term success.\n\nALREADY A HIGHLEVEL USER?! You can still get all of my bonuses when you upgrade your plan with my link 👉 https://claylawrence.link/TYmAodb\n\nCan't Upgrade Your HighLevel Account and Want Direct Access to All My Bonuses? Get Instant Access Here 👉 https://www.skool.com/the-highlevel-house/about\n\n🛑 IMPORTANT 🛑 : Do not use an ad blocker, an incognito tab, or a Chrome extension when signing up! It will block the tracking link, and you will NOT receive any of my bonuses!\n\nIf you signed up with my link and have not received your bonuses, do this:\n1. Check your spam folder\n2. Respond to the email you should have received, and we can check to add you manually.\n\nWant 1-1 Coaching From Me? Click Here 👉 https://go.reviewharvest.com/widget/groups/1-1-coaching-calls\n\nThe AI SEO Tool We Use For Our Clients (Merchynt): https://merchynt.com/paige?fpr=clay\n\nInstantly.ai sign-up link 👉 https://instantly.ai/?via=clay-lawrence\n\nGling AI Editor: https://gling.ai/?via=clay\n\nRiverside Podcasting Software: https://riverside.sjv.io/5kamYn\n\nHere's EVERYTHING I use to record my YouTube Videos: https://www.amazon.com/shop/claylawrence/list/2B6FFCUMTXQF8?ref_=aip_sf_list_spv_ofs_mixed_d&ccs_id=d30bb940-d21d-4d7b-bd9d-c4c5320fd958\n\nIf you want to learn from someone who’s in the trenches — not just selling theory — here's what this video covers:\n\n🚀 Why sticking to one proven business model matters\n💼 Dealing with rejection from potential clients\n🎯 How your first sales calls help you improve\n📈 Why consistency beats chasing shiny new opportunities\n💪 Building confidence through repetition\n🧠 The mindset required to grow a successful agency\n🌴 The freedom that comes after years of hard work\n⭐ Why marketing agencies are simple—but not easy\n\nTimestamps\n\n00:00 Stick to one proven business model\n00:36 A painful rejection from an early prospect\n01:20 Why rejection doesn't define your business\n02:02 Keep doing outreach and getting in front of people\n02:44 Your first sales calls will always be hard\n03:32 How experience improves your sales and confidence\n04:15 Marketing agencies are simple, but not easy\n05:03 The hard work required in your first year\n05:58 Why the freedom is worth the sacrifice\n06:46 Final encouragement for new agency owners\n07:12 Learn the Review Harvest business model\n\n#MarketingAgency #AgencyOwner #Entrepreneur #BusinessMindset #GoHighLevel #LeadGeneration #Sales #ColdCalling #SmallBusiness #ReviewHarvest #GoogleReviews #OnlineBusiness #Entrepreneurship #AgencyGrowth #Motivation\n\nDisclosure: I am an independent entity from HighLevel. I am not an agent or employee of HighLevel and have no authority to make binding contracts or represent HighLevel. I receive referral payments from HighLevel. The opinions expressed here are my own and shall NOT be interpreted or considered as representations, guarantees, or statements made by HighLevel Inc or any of its subsidiaries, agents, or assigns.\n\nResults are not guaranteed.",
       "commentCount": 7,
       "likeCount": 55,
+      "probeClient": "web_embedded"
+    },
+    "CXDSTsd-CKE": {
+      "checkedAt": "2026-07-28T02:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment \"CONSOLE\" and join my community, link in bio 👇\n\nGrowing your Instagram, TikTok, X and YouTube just got easier.\n\nGoogle launched Platform Properties in Search Console. It shows which search queries bring people to your social profiles from Google. Open Search Console, click Add property, pick a platform, connect your account. Within days you get clicks, impressions, top queries, best posts and traffic by country.\n\nNow you can optimize your bio, captions and covers around the exact queries people use to find you. A free SEO tool for your socials.\n\nNote: Google Search and Discover only, and it's rolling out gradually.\n\n#seo #socialmedia #google #contentcreation",
+      "commentCount": 0,
+      "likeCount": 4,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-28T02:53:09Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "oN7fU5ZyF_c": {
+      "checkedAt": "2026-07-28T02:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Join FREE Workshop:\nhttps://funnelos.in/yt\n\nWhat if one page could automate your entire business?\n\nMost coaches, consultants, agency owners, and course creators use disconnected tools, manual follow-ups, and messy systems.\n\nThe result?\n\n❌ Lost leads\n❌ Missed appointments\n❌ Low webinar attendance\n❌ Failed payments\n❌ Poor follow-up\n❌ Lower conversions\n\nIn this video, you'll discover the complete Business Automation Blueprint we use to automate the entire customer journey.\n\nYou'll learn:\n\n✅ Lead Automation\n✅ CRM Automation\n✅ Appointment Automation\n✅ Webinar Automation\n✅ Post-Webinar Follow-Up\n✅ Payment Recovery Automation\n✅ Lead Nurturing Systems\n✅ Customer Delivery Automation\n✅ WhatsApp Automation\n✅ Email Marketing Automation\n✅ Funnel Automation Blueprint\n\nThis one-page system helps businesses increase conversions without increasing workload.\n\nSEO Topics Covered:\n\nBusiness Automation\nFunnel Automation\nCRM Automation\nLead Nurturing\nAppointment Automation\nWebinar Automation\nEmail Automation\nWhatsApp Automation\nDigital Marketing\nLead Conversion\nSales Automation\nCustomer Journey Automation\n\nSEO Chapters:\n\n00:00 One Page Business Automation\n00:40 Why Businesses Lose Leads\n01:30 Lead Automation\n02:45 Appointment Automation\n04:00 Webinar Automation\n06:00 Post Webinar Follow-Up\n08:00 Payment Automation\n09:00 Lead Nurturing Blueprint\n10:30 Customer Delivery Automation\n12:00 Complete Automation System\n\n🚀 Join FREE Workshop:\nhttps://funnelos.in/yt\n\nSubscribe for weekly videos on:\nFunnels\nAI\nAutomation\nDigital Marketing\nLead Generation\n\n#BusinessAutomation\n#FunnelAutomation\n#DigitalMarketing\n#DigitalAmit",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "XZSk6KljiiA": {
+      "checkedAt": "2026-07-28T02:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "https://minasatori.com",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "tOVjx8kJc40": {
+      "checkedAt": "2026-07-28T02:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥AI-Powered Digital Marketing Certificate Program - https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=tOVjx8kJc40&utm_medium=Lives&utm_source=Youtube\n🔥Digital Marketing Specialist  - https://www.simplilearn.com/master-in-digital-marketing?utm_campaign=tOVjx8kJc40&utm_medium=Lives&utm_source=Youtube        \n🔥Professional Certification in Digital Marketing (India Only)  - https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=tOVjx8kJc40&utm_medium=Lives&utm_source=Youtube\n\nThis video on Social Media Marketing Full Course 2026 by Simplilearn will help you learn social media marketing from beginner to advanced level and understand how to build a strong online presence for brands and businesses. The course begins with an introduction to social media marketing and explains how platforms such as Facebook, Instagram, LinkedIn, X, YouTube, and TikTok are used to engage audiences and drive business growth. You will learn essential concepts such as content strategy, audience targeting, social media advertising, campaign planning, influencer marketing, community management, and performance analytics. The tutorial also covers content creation, social media calendars, paid campaigns, engagement strategies, and key performance metrics to measure campaign success. By the end of this social media marketing tutorial for beginners, you will have a solid understanding of social media platforms, marketing strategies, and the practical skills needed to create, manage, and optimize successful social media campaigns for businesses and brands.\n\nFollowing are the topics covered in the Social media marketing Full Course 2026:\n\n00:00:00 - Introduction to Social media marketing Full Course 2026:\n00:05:05 - Social Media Marketing Fundamentals\n00:18:18 - Social Media Platforms and Buyer Personas\n00:32:57 - Content Strategy and Storytelling\n00:42:10 - Why Social Media Marketing Matters\n00:48:45 - Facebook Pages and Account Setup\n01:14:07 - Facebook Posting Workflow\n01:29:06 - Facebook Content Strategy and Organic Reach\n01:42:09 - Instagram Account Setup\n01:59:49 - Instagram Content Planning and Reels\n02:21:31 - ManyChat for Instagram Automation\n02:28:32 - Meta Ads Foundations\n02:53:28 - Meta Ads Practical Setup\n03:44:57 - Ad Creatives and Meta Pixel Setup\n04:16:21 - Business Portfolio and Audience Management\n04:33:44 - YouTube Channel Setup Basics\n04:51:03 - Uploading and Optimizing YouTube Videos\n\nRelated Videos:\n✅ 1. https://youtu.be/2sSmDhwkGhg\n✅ 2. https://youtu.be/D8cIpebdU7s\n✅ 3. https://youtu.be/0eFhQS4ls9M\n✅ 4. https://youtu.be/zCyUYbTZQ3Q\n✅ 5.https://youtu.be/Zc4Mu30xR9o\n\n✅ Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check Out More Videos On This Category By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULa5aOQmO_al2VVmhC-eqeI\n\n#socialmediamarketing #socialmediamarketingcourse #socialmediamarketingfullcourse #socialmediamarketingforbeginners #socialmediamarketingtutorial #socialmediamarketingtools #socialmediamarketingaitools #socialmediamarketingtechniques #instagrammarketing #digitalmarketing #youtubemarketing #simplilearn #2026\n\n➡️ About AI-Powered Digital Marketing Certificate Program\n\nIn a world where creativity meets code, learn to turn digital complexity into strategic clarity. Through 100% live sessions, masterclasses by SP Jain Global faculty and real-world projects, master AI, Automation and Analytics using 50+ tools like ChatGPT, Canva, SEMrush and Power BI\n\nKey Features:\n✅ Learn directly from SP Jain Global faculty in live, interactive masterclasses\n✅ Learn to integrate automation, analytics, and generative AI tools into every stage of the marketing process\n✅ Gain hands-on experience with 24+ standard marketing tools, 20+ AI-powered platforms, and 8+ analytics and automation tools\n✅ Get dedicated, mentor-led project support to help you complete every project on time\n✅ Advanced strategies across SEO, SEM, social media, content, and analytics\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n \nSkills Covered\n✅ Digital marketing strategy\n✅ Website creation\n✅ AI content creation and optimization\n✅ Automated content workflows\n✅ AI driven SEO\n✅ Generative Engine Optimization GEO\n✅ Answer Engine Optimization AEO\n✅ Google Ads management\n✅ Smart bidding and budgeting\n✅ AI audience targeting and remarketing\n✅ Campaign optimization with AI\n✅ Programmatic advertising\n✅ AI social media creatives\n✅ AI storytelling and engagement\n✅ Creative automation\n✅ AI Ecommerce personalization\n✅ AI mobile marketing\n✅ AI email automation\n✅ Predictive marketing analytics\n✅ AI forecasting\n✅ Ethical AI use\n\n👉 Learn More At: https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=tOVjx8kJc40&utm_medium=Lives&utm_source=Youtube",
+      "commentCount": 0,
+      "likeCount": 38,
       "probeClient": "web_embedded"
     }
   }
