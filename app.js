@@ -5,6 +5,7 @@ const scrim = document.querySelector("#scrim");
 const searchInput = document.querySelector("#searchInput");
 const updatedLabel = document.querySelector("#updatedLabel");
 const historyCount = document.querySelector("#historyCount");
+const likedCount = document.querySelector("#likedCount");
 
 const WATCHED_KEY = "nexafeed-watched-v1";
 const PROGRESS_KEY = "nexafeed-progress-v1";
@@ -40,6 +41,7 @@ let touchStartY = null;
 document.documentElement.dataset.theme = state.theme;
 document.querySelector("#themeButton").textContent = state.theme === "dark" ? "☀" : "☾";
 updateHistoryCount();
+updateLikedCount();
 
 function readJson(key, fallback) {
   try {
@@ -79,6 +81,7 @@ function isLiked(id) {
 
 function saveLiked() {
   localStorage.setItem(LIKED_KEY, JSON.stringify(state.liked));
+  updateLikedCount();
 }
 
 function progressFor(id) {
@@ -114,6 +117,10 @@ function markWatched(id) {
 
 function updateHistoryCount() {
   historyCount.textContent = Object.keys(state.watched).length;
+}
+
+function updateLikedCount() {
+  likedCount.textContent = Object.keys(state.liked).length;
 }
 
 function isFresh(video) {
@@ -248,6 +255,7 @@ function toolbar() {
     ["home", "All"],
     ["shorts", "Shorts"],
     ["long", "Long videos"],
+    ["liked", "Liked"],
     ["history", "Watch history"],
   ];
   const feedItems = state.feed?.items || [];
@@ -484,6 +492,10 @@ function filteredItems() {
     items = items
       .filter((item) => isWatched(item.id))
       .sort((a, b) => state.watched[b.id] - state.watched[a.id]);
+  } else if (state.view === "liked") {
+    items = items
+      .filter((item) => isLiked(item.id))
+      .sort((a, b) => state.liked[b.id] - state.liked[a.id]);
   } else if (!hasQuery) {
     items = items.filter((item) => !isWatched(item.id));
   }
@@ -498,22 +510,33 @@ function feedView() {
   const items = filteredItems();
   if (!items.length) {
     const searchEmpty = Boolean(state.query);
-    return toolbar() + emptyState(
-      state.view === "history" ? "No watched videos yet" : searchEmpty ? "No matching videos" : "You're all caught up",
-      state.view === "history"
-        ? "Videos appear here after you watch at least 80% or mark them watched."
+    const emptyTitle = state.view === "history"
+      ? "No watched videos yet"
+      : state.view === "liked"
+        ? "No liked videos yet"
+        : searchEmpty ? "No matching videos" : "You're all caught up";
+    const emptyDescription = state.view === "history"
+      ? "Videos appear here after you watch at least 80% or mark them watched."
+      : state.view === "liked"
+        ? "Tap the heart on any Short to save it here. Liked videos are saved locally in this browser."
         : searchEmpty
           ? "Try a channel name, title keyword, topic, or category. Search updates live as you type."
-          : "Watched videos stay hidden. New uploads will arrive on the next hourly refresh.",
+          : "Watched videos stay hidden. New uploads will arrive on the next hourly refresh.";
+    return toolbar() + emptyState(
+      emptyTitle,
+      emptyDescription,
     );
   }
 
   const shorts = items.filter((item) => item.type === "short");
   const longVideos = items.filter((item) => item.type === "long");
+  const shortsTitle = state.view === "history" ? "Watched Shorts" : state.view === "liked" ? "Liked Shorts" : "Latest Shorts";
+  const longEyebrow = state.view === "history" ? "Previously played" : state.view === "liked" ? "Saved locally" : "Priority channels first";
+  const longTitle = state.view === "history" ? "Watch history" : state.view === "liked" ? "Liked long videos" : state.query ? "Search results" : "Latest long videos";
   const shortsSection = shorts.length && state.view !== "long"
     ? `<section class="section">
         <div class="section-head">
-          <div class="section-title"><span class="section-icon">ϟ</span><div><p class="eyebrow">Vertical playlist</p><h1>${state.view === "history" ? "Watched Shorts" : "Latest Shorts"}</h1></div></div>
+          <div class="section-title"><span class="section-icon">ϟ</span><div><p class="eyebrow">${state.view === "liked" ? "Saved Shorts" : "Vertical playlist"}</p><h1>${shortsTitle}</h1></div></div>
           <span>${shorts.length} videos</span>
         </div>
         <div class="short-carousel">
@@ -526,7 +549,7 @@ function feedView() {
   const longSection = longVideos.length && state.view !== "shorts"
     ? `<section class="section">
         <div class="section-head">
-          <div class="section-title"><span class="section-icon">▶</span><div><p class="eyebrow">${state.view === "history" ? "Previously played" : "Priority channels first"}</p><h1>${state.view === "history" ? "Watch history" : state.query ? "Search results" : "Latest long videos"}</h1></div></div>
+          <div class="section-title"><span class="section-icon">▶</span><div><p class="eyebrow">${longEyebrow}</p><h1>${longTitle}</h1></div></div>
           <span>${longVideos.length} videos</span>
         </div>
         <div class="video-grid">${longVideos.map(videoCard).join("")}</div>

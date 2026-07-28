@@ -48,6 +48,11 @@ class FrontendFeatureTests(unittest.TestCase):
             "shortLikeButton",
             "toggleLikeCurrentShort",
             "aria-pressed",
+            "updateLikedCount",
+            "[\"liked\", \"Liked\"]",
+            "state.view === \"liked\"",
+            "No liked videos yet",
+            "Liked Shorts",
         ]:
             self.assertIn(marker, app_js)
         self.assertNotIn("Like this Short on YouTube", app_js)
@@ -55,6 +60,8 @@ class FrontendFeatureTests(unittest.TestCase):
             self.assertIn(marker, style_css)
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn('aria-label="NexaFeed home"', index_html)
+        self.assertIn('data-view="liked"', index_html)
+        self.assertIn('id="likedCount"', index_html)
         self.assertTrue(workflow_path.is_file())
         workflow = workflow_path.read_text(encoding="utf-8")
         self.assertIn("issues:", workflow)
