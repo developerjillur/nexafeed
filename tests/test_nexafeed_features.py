@@ -86,7 +86,11 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertNotIn("Like this Short on YouTube", app_js)
         for marker in [".short-drawer", ".short-action-stack", ".short-like.active", ".save-button", ".card-open", ".card-save", ".player-save", ".float-button", "#floatingRoot", ".in-page-float", ".float-titlebar", ".float-frame", ".float-frame > div", ".liked-tools", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
             self.assertIn(marker, style_css)
+        self.assertIn("grid-template-columns: minmax(0, 1fr) minmax(340px, 380px);", style_css)
+        self.assertIn("max-width: none;", style_css)
+        self.assertNotIn("max-width: 1580px;", style_css)
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
+        self.assertIn("style.css?v=20260728-player-fullwidth", index_html)
         self.assertIn('aria-label="NexaFeed home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)

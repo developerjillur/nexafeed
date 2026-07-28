@@ -534,10 +534,11 @@ body.sidebar-collapsed .content { margin-left: 0; }
 
 .player-layout {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 380px;
+  grid-template-columns: minmax(0, 1fr) minmax(340px, 380px);
   gap: 24px;
-  max-width: 1580px;
-  margin: 5px auto;
+  width: 100%;
+  max-width: none;
+  margin: 0;
 }
 .player-frame {
   overflow: hidden;
