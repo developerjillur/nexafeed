@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T11:53:15Z",
+  "updatedAt": "2026-07-28T12:53:08Z",
   "items": [
+    {
+      "id": "reBP8T55Pq0",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-07-28T12:30:29Z",
+      "firstSeenAt": "2026-07-28T12:53:08Z"
+    },
+    {
+      "id": "NDuTas75C-w",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Accelerated Automation",
+      "publishedAt": "2026-07-28T12:13:08Z",
+      "firstSeenAt": "2026-07-28T12:53:08Z"
+    },
+    {
+      "id": "vBOAHYlP4rc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SynQ with Saad",
+      "publishedAt": "2026-07-28T06:53:08Z",
+      "firstSeenAt": "2026-07-28T12:53:08Z"
+    },
+    {
+      "id": "y9NQp6gTMNk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kenzi Touadi ",
+      "publishedAt": "2026-07-27T22:53:08Z",
+      "firstSeenAt": "2026-07-28T12:53:08Z"
+    },
     {
       "id": "pLoPegWzllM",
       "type": "short",
@@ -3658,6 +3690,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-07-28T12:53:08Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }

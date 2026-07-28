@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T11:53:15Z",
+  "updatedAt": "2026-07-28T12:53:08Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -318,7 +318,7 @@
       "likeCount": 124
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-28T11:53:15Z",
+      "checkedAt": "2026-07-28T12:53:08Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -2362,15 +2362,6 @@
       "likeCount": 17,
       "probeClient": "web_embedded"
     },
-    "DDzDls2T_bQ": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 23,
-      "likeCount": 497,
-      "probeClient": "web_embedded"
-    },
     "EIAbTpz-vnw": {
       "checkedAt": "2026-07-27T07:46:18Z",
       "embedAllowed": true,
@@ -3885,35 +3876,65 @@
       "probeClient": "web_embedded"
     },
     "jgPYP50IE5I": {
-      "checkedAt": "2026-07-27T11:53:25Z",
+      "checkedAt": "2026-07-28T12:53:08Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 2,
-      "likeCount": 13,
+      "commentCount": 5,
+      "likeCount": 361,
       "comments": [
-        {
-          "id": "UgwDQyaXXjd5bqvl6l14AaABAg",
-          "author": "@sumondutta-i4g",
-          "text": "❤❤❤❤❤",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T11:45:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/u8UhGe1ZjTtlu1oHW2X_JvIVPnIdCrn14kAaZtkFSNOFyQ6EjQcnkUFXYnZaWSuAiphNT2kw3A=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
         {
           "id": "UgybeIRFsjYKsF2xBsB4AaABAg",
           "author": "@nxgclassy",
           "text": "Wow I did not know this, thank you brother for telling us about this research\nFirst comment kya ye pin hoga",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T11:42:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-07-28T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/mMDN_gEPlsaUD82vG16H5T3MrwyMHfoIhQcu671AxfZA-lWaCmJVBweF0jnOID68yHh2tMUouA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": false
+        },
+        {
+          "id": "UgyeQXqhKvZ5o63AHtt4AaABAg",
+          "author": "@Стивнн",
+          "text": "If AI is failing repeatedly in a task, then it can find a pattern on its own to win in the game. Recently I saw a video in which AI fails repeatedly in a car game and by using try and fail method, it creates some pattern and finds an easy way to finish the game faster than an average human.",
+          "likeCount": 1,
+          "publishedAt": "2026-07-27T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/6PUiZ-4xeNE_cgMLJ--VukryyHzI3KpncBD62QHuJoRcSZVryxtsHy2m8lTMT_NTXmrEfdBl=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxA5SaXYMuVuBAcu6x4AaABAg",
+          "author": "@vaibhav_2030",
+          "text": "Bhai thoda editing acha karo or views aayege ❤",
+          "likeCount": 1,
+          "publishedAt": "2026-07-27T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/a6jd5piVmxW_H6_dQLprtb2aRrBsLW0IDbVlRfkbLx2jOv3XeMQHfBUZau1KIM__s9KsitZsww=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwpG56pdHDiY3nRoR54AaABAg",
+          "author": "@s-h-i-v-42",
+          "text": "Sir aapka ,income kya hai?",
+          "likeCount": 1,
+          "publishedAt": "2026-07-28T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/FuUThuwpqOhFKA148uBnHGHHGnfIPbjmu4bSXoSJDbpabV_gNp2EACpFbvhNxLwdZ2u__lR5Tl8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwDQyaXXjd5bqvl6l14AaABAg",
+          "author": "@sumondutta-i4g",
+          "text": "❤❤❤❤❤",
+          "likeCount": 1,
+          "publishedAt": "2026-07-28T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/u8UhGe1ZjTtlu1oHW2X_JvIVPnIdCrn14kAaZtkFSNOFyQ6EjQcnkUFXYnZaWSuAiphNT2kw3A=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T11:53:25Z",
+      "commentsFetchedAt": "2026-07-28T12:53:08Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -4247,10 +4268,10 @@
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-28T11:53:15Z",
+      "checkedAt": "2026-07-28T12:53:08Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "G2BP1KfK0qQ": {
       "checkedAt": "2026-07-27T17:53:17Z",
@@ -4280,15 +4301,6 @@
       "description": "AI agent pricing is confusing because token costs keep falling while your agent bill keeps climbing, and this video explains why.\n\nWe walk through what actually happened to model prices since 2022, why the cheap floor fell through, and why that still tells you almost nothing about what an agent will cost you. The thing you actually run is a loop that keeps reading context, running code, watching it fail, and trying again, and that loop is the line item nobody warns you about. By the end you will know why the same task can cost a few cents or a few dollars depending only on how long the loop runs.\n\n📚 What you'll learn:\n1️⃣ Why OpenAI model prices fell so far since 2022, and what the cheapest useful models actually cost now\n2️⃣ How open models like Llama on Groq change the cost curve, and why cheap still does not mean free\n3️⃣ Why an agent runs as a loop rather than a single API call, and how that changes the whole bill\n4️⃣ How real products price agents: per seat, per resolved task, or per usage, not per token\n5️⃣ Why a support agent and a coding agent can run the same idea at wildly different cost\n\n🚨 Start Your AI Journey with KodeKloud: https://kode.wiki/4qsrspX\n\n🤖 Learn AI from this Playlist: https://www.youtube.com/playlist?list=PL2We04F3Y_43f3x3n9pawcEuAwru7bcMG\n\n⏰ Timestamps:\n00:00 - The cost of AI is falling\n01:15 - Open models has a different cost curve\n01:50 - Why agents run as a loop\n02:38 - Why agents price per seat, task, or usage\n03:14 - The loop is what you pay for\n\n🔔 Subscribe for more AI engineering breakdowns and honest cost math\n\n#AIAgents #LLMPricing #KodeKloud #AIEngineering #TokenPricing #OpenAI #GPT5 #Llama3 #Groq #ClaudeCode #Codex #AgenticAI #OpenModels #CostOfIntelligence #AICosts #AIWorkflows",
       "commentCount": 2,
       "likeCount": 30,
-      "probeClient": "web_embedded"
-    },
-    "UyoVmQLekBc": {
-      "checkedAt": "2026-07-27T17:53:17Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "✅ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44\n\n✅ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent13\n\n🔵 Get the FREE App Store Submission Checklist (step by step): https://mikeys-5-min-checklist.netlify.app/\n\nIn this video, I break down how I built an AI agent in 14 minutes as a beginner in 2026, showing a simple and practical workflow anyone can follow. You’ll learn how to build an AI agent step by step, including a beginner-friendly AI agent tutorial and how tools like n8n AI agent setups can be used to automate real tasks. Whether you're new to automation or exploring how modern AI agent systems work, this guide shows you how to get started quickly and build your first working AI agent.\n\n00:00 - Intro: Building a Functional AI Agent in 14 Minutes\n00:58 - Free AI App & Business Masterclass\n01:37 - What is Base44? The No-Code AI Powered App Builder\n02:16 - Getting Started: Dashboard Overview and Prompt Interface\n02:48 - Understanding the Base44 Credit-Based Pricing Model\n03:38 - Project Setup: Building a Full-Stack Task Management App\n04:12 - Core Roadmap: Forms, Databases, and AI Agent Logic\n05:23 - Feature 1: Building the Core Task Creation System\n06:17 - The Exact AI Prompt for App Foundation & List View\n07:16 - How to Build and Scale Profitable AI Businesses\n08:25 - Feature 2: Adding Filters, Sorting, and Kanban Boards\n09:38 - The Exact AI Prompt for App Organization & UI\n10:20 - Feature 3: Adding a Progress Dashboard & Summary Cards\n11:07 - The Exact AI Prompt for Dynamic Data Dashboards\n11:59 - Feature 4: Enabling Secure User Authentication & Private Data\n12:48 - The Exact AI Prompt for No-Code User Login Flows\n13:30 - Feature 5: Integrating a Native AI Chat Assistant\n14:36 - The Exact AI Prompt for Natural Language App Control\n15:30 - Feature 6: Upgrading to a Dynamic Autonomous AI Agent\n16:40 - The Exact AI Prompt for Context-Aware AI Agents\n17:27 - Conclusion: Shifting from Writing Infrastructure to Building Products\n\nFor inquiries: Mikey (at) ytmedia.group",
-      "commentCount": 7,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "2jsjiwV_1pA": {
@@ -4340,15 +4352,6 @@
       "description": "📈 ALL Systems: https://bit.ly/4kol0y5\nGrab Higgsfield 👉 https://bit.ly/4fjvSg0\n🩵 Free Resources: https://bit.ly/3RNNDLa\n\n\nKimi K3 is the new number one for design, and this video walks you through building genuinely gorgeous websites with it, the kind that look like the top 3%. I'll show you the exact free skill I built after hours and a lot of dollars getting it right, so you can just download it and follow along. We go through three levels: a beautiful one-scroll story site, a mobile optimised version, and a fully personalised brand site that pulls real logos and colours in with Firecrawl. You'll also see how to bring in Higgsfield for the video and imagery, and how to host the whole thing on Vercel. Works even if you're a complete beginner.\n\n*Core Software:*\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n🔀 OpenRouter: https://openrouter.ai/\n☁️ Claude: https://claude.ai/\nGrab Higgsfield 👉 https://bit.ly/4fjvSg0\n🔥 Firecrawl: https://firecrawl.link/jack-roberts\n💬 ChatGPT: https://chatgpt.com/\n\n⌚️ *Stamps:*\n0:00 - The 97% Problem\n0:50 - Why Kimmy K3 Wins\n1:16 - Beating The Competition\n1:32 - 30% The Price Of Claude\n1:39 - Three Levels Overview\n1:54 - Download The Free Skill\n2:15 - Installing The Skill\n2:49 - Getting Your API Key\n2:55 - The Agentic OS Setup\n3:03 - Selecting Kimmy K3 Model\n3:19 - Confirming The Model\n3:53 - Three Things You Need\n4:23 - Connecting To Higgsfield\n4:38 - Higgsfield CLI Install\n5:53 - Pre-Flight Status Check\n6:19 - Enabling Video Generation\n6:37 - The Honey Website Idea\n7:31 - First Website Result\n7:39 - The Honey Drop Animation\n8:57 - The Mobile Problem\n9:04 - Level Two: Mobile Design\n9:33 - Reshoot For Mobile\n10:23 - Prompting Mobile Version\n10:49 - Mobile Result Revealed\n11:29 - Responsive Breakpoints Demo\n11:58 - Why Mobile Traffic Matters\n12:22 - Level Three Incoming\n12:36 - Personalized Client Websites\n13:14 - Auto Brand Extraction\n13:38 - Fritz Cola Case Study\n14:17 - Using Firecrawl For Branding\n15:45 - Why Firecrawl Beats Search\n16:18 - Handling Model Errors\n16:49 - Bulletproofing The Skill\n17:24 - Fritz Cola Result Demo\n18:11 - Hosting With Vercel\n18:30 - Connecting Vercel Via CLI\n18:45 - What's Next\n\nBuild beautiful 3D websites with Kimi K3 using Claude Code, Higgsfield for video and imagery, Firecrawl for brand extraction, OpenRouter for model access and Vercel for hosting, including mobile optimised and fully personalised brand sites.\n#KimiK3 #ClaudeCode #AIWebDesign #Higgsfield #Firecrawl #Vercel",
       "commentCount": 4,
       "likeCount": 46,
-      "probeClient": "web_embedded"
-    },
-    "6qUQbkomiWs": {
-      "checkedAt": "2026-07-27T19:53:33Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Build your very first AI agent — and let it quietly save you hours of busywork every single day, no code required.\n\nIf you can drag a box and type plain English, you can build an AI agent in n8n today. This video shows you exactly how — starting with what an AI agent actually is (a workflow that reasons and decides instead of blindly following \"if this, then that\" rules), the three ways to get n8n running (cloud, local, and Docker), and then two real, no-code automations built start to finish. You'll set up an instant email alert the moment a new lead lands in Google Sheets, then a full web-form → Google Sheet → personalized email pipeline. By the end, you'll have your first agent running and a repeatable playbook for automating the repetitive parts of your day.\n\nWhat you'll learn:\n\n○ What AI agents are in n8n — and how \"reasoning\" beats rule-based automation\n○ The 3 ways to set up n8n (cloud, local via npx, Docker) and which fits you\n○ Build your first no-code agent: auto-send a Gmail when a new row hits Google Sheets\n○ Build a web form → Google Sheet → personalized confirmation email pipeline\n○ Use the Set node, dynamic data mapping, and execution logs to fix issues fast\n○ Real ways to save hours: lead alerts, signups, feedback forms, and support replies on autopilot\n \n⏱️ CHAPTERS:\n\n0:00 – Intro\n0:51 – What AI agents are and how they work in n8n\n3:00 – Setting up n8n: cloud, local, and Docker options\n5:29 – Building your first workflow: Google Sheets + Gmail\n6:40 – Demo: trigger, data mapping, and sending emails\n10:23 – Extending workflows: filters, conditions, and error handling\n11:06 – Hands‑on: capturing form data and sending confirmations\n13:55 – Logging data and sending personalized welcome emails\n16:06 – Recap\n\n───\nGreat Learning AI is your destination for practical AI — tutorials, real-world AI tools, agents, automation, and no-code workflows you can actually use at work. Powered by Great Learning, a global leader in professional upskilling.\n\n▶ Subscribe to @GreatLearningAI for hands-on AI you can put to work this week.\n\n#n8n #AIAgents #NoCode #AIAutomation #n8nTutorial #WorkflowAutomation #AIforBeginners #Automation",
-      "commentCount": 1,
-      "likeCount": 1,
       "probeClient": "web_embedded"
     },
     "frZ6QZ1FM6I": {
@@ -4707,7 +4710,7 @@
       "probeClient": "web_embedded"
     },
     "8OqBbUoBpo4": {
-      "checkedAt": "2026-07-28T11:53:15Z",
+      "checkedAt": "2026-07-28T12:53:08Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4897,13 +4900,43 @@
       "likeCount": 7,
       "probeClient": "web_embedded"
     },
-    "4JofSJIrjwU": {
-      "checkedAt": "2026-07-28T11:53:15Z",
+    "reBP8T55Pq0": {
+      "checkedAt": "2026-07-28T12:53:08Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "Get started with HeyGen: https://www.heygen.com/?sid=rewardful&utm_content=creator&utm_medium=influencera&via=0ea234\n\nFine-tuning your own AI model used to require a PhD, a massive GPU cluster, and weeks of setup. With Unsloth Studio, you can do it locally, for free, with a graphical interface — no terminal required, no account needed, no internet connection necessary. In this full tutorial I walk you through everything from scratch: what fine-tuning actually is, how to build a dataset, how to train your model, and how to compare your fine-tuned version against the base model to verify it's actually working.\n\nWant to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter. Join here and get my guide How to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-jul26\n\n🎞 Video Resources 🎞\nUnsloth Docs: https://unsloth.ai/docs\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:29 | Fine-Tuning Basics\n01:24 | Unsloth Studio\n02:36 | Fine-Tuning Details & Architecture\n04:08 | QLoRA vs LoRA\n05:40 | HeyGen \n07:03 | Fine-Tuning vs RAG\n07:51 | Hardware Requirements\n09:10 | Unsloth Setup/Install\n09:50 | Unsloth UI\n11:45 | Model Selection\n14:25 | Chatting with Models\n15:05 | Training Data Overview\n17:20 | Generating Training Data\n18:50 | Unsloth Recipe Setup (Custom Dataset)\n32:11 | Dataset Selection/Setup\n34:24 | Training the Model\n38:34 | Model Comparison\n40:22 | Exporting the Model\n\nHashtags\n#Unsloth #FineTuning #LocalAI\n\nUAE Media License Number: 3635141",
-      "commentCount": 25,
-      "likeCount": 424,
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-28T12:53:08Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "NDuTas75C-w": {
+      "checkedAt": "2026-07-28T12:53:08Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Nadia Cortes shares a testimonial about working with Mariah and her team over the past three years, starting with uploading their book of business and building a P&C automation pipeline, then recently adding Medicare with her help. They say the AgencyZoom automation Mariah built has been essential to their operations, has changed how they do business, and they can’t imagine running the agency without it. They express gratitude for Mariah’s service and strongly recommend her and her team.\n\n\nIf you want to update your automations, save time, and scale your agency instead of handling every little task by hand, Accelerated Automation can help.\n\n👉 https://acceleratedautomation.net/\n\nFind us on social: \nhttps://www.linkedin.com/company/accelerated-automation/\nhttps://www.instagram.com/realacceleratedautomation/\nhttps://www.facebook.com/acceleratedautomation\nhttps://www.tiktok.com/@acceleratedauto\nhttps://www.x.com/AAutomation_\n\n\n#AgencyZoom #InsuranceAgency #Automation #AcceleratedAutomation #AgencyGrowth #InsuranceMarketing",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "vBOAHYlP4rc": {
+      "checkedAt": "2026-07-28T12:53:08Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this episode of SynQ with Saad, we sit down with Husein Mustafa, a co-founder and partner at Reality Cheque who transitioned from a call center job to building a global sales staff augmentation agency. Today, Husein helps lead Reality Cheque's coaching and \"Done For You\" programs, equipping local founders with the operational systems needed to scale past the $10k mark.  \n\nWe tear down the illusion of the \"12-hour grind\" and expose why so many founders are operating as glorified freelancers. If your business relies entirely on putting out daily operational fires, or if your lead pipeline is solely dependent on renting profiles on platforms like Upwork and Fiverr, you are trapped in the $3,000 to $5,000 valley of death.\n\nHusein breaks down the exact frameworks required to transition from an exhausted operator to a true agency owner. Stop hoarding massive profit margins instead of reinvesting, stop relying on 50/50 partnerships with people who have your exact skillset, and start using the 70% delegation rule to buy back your time and scale your capacity.\n\n00:00:00 - Highlights\n00:03:01 - Introducing Hussein Mustafa: From Call Center to Reality Cheque\n00:07:11 - The Hustle Story: Building a Sales Staff Augmentation Agency\n00:14:30 - The Glorified Freelancer Trap: Why Upwork & Fiverr Won't Scale\n00:17:39 - The 70% Profit Margin Myth: Why You Need to Reinvest\n00:21:12 - The Hustle Illusion: 12-Hour Grind vs. Building Systems\n00:25:55 - Mindset Shift: Transitioning From Freelancer to Agency Owner\n00:32:56 - The $3k-$5k Valley of Death: Why Founders Get Stuck\n00:40:40 - The $10k to $30k Jump: Departmentalizing & Scaling Operations\n00:44:40 - The 70% Delegation Rule: Scaling Capacity Past Perfectionism\n00:50:09 - Zero to $5k: Outbound Volume & Lead Gen Channels\n00:57:59 - The Lonely Founder: Overcoming Isolation Through Networking\n01:04:07 - AI Disruption: Adapting Agency Workflows to Survive\n01:07:09 - The 50/50 Partnership Trap: Structuring Co-Founders for Scale\n01:10:19 - Financial Mismanagement: Cash Flow, Reserves & Reinvestment\n\nAbout SynQ with Saad:\nSynQ with Saad is a podcast and YouTube channel where Q stands for the Quest for Business, Travel, and Tech. If you are a Dreamer, Builder, or a Founder who is hustling to grow your business, then SynQ with Saad is for you.\n\nWe bring you Hustle Stories of founders who have grinded to survive and then scaled their businesses in the agency space, tech, and beyond. From solo episodes and raw conversations to travel content from around the world, this channel is built for Pakistani founders and freelancers who are serious about growth.\n\nIf you are building something from Pakistan, this is your community.\n\nAbout the Host: \nSaad Munir is a Pakistani entrepreneur who has been in the agency space for almost 15 years, serving clients across the US, Canada, and the UK. As CEO of HexaClicks, he has built two 7-figure agencies and an AI Automation SaaS serving local businesses across the US and Canada. Saad has also built 8-figure ecommerce brands from Pakistan, selling products in the USA. On the Saad Munir Podcast, Saad talks about Business Scaling, Digital Marketing, AI Automation, Processes, and Systems.\n\nConnect with Husein\n@cales/\n\nOur Social Media\nhttps://www.facebook.com/synqwithsaad\nhttps://www.instagram.com/synqwithsaad\nhttps://www.tiktok.com/@synqwithsaad\n\n👉  Join our community and ask away your questions. Also find useful resources at the link below\nhttps://linktr.ee/synqwithsaad",
+      "commentCount": 10,
+      "likeCount": 51,
+      "probeClient": "web_embedded"
+    },
+    "y9NQp6gTMNk": {
+      "checkedAt": "2026-07-28T12:53:08Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This is full breakdown if you want to go from $0 to consistent $10k/mo\n\nIf you want to start an AI marketing agency in 2026 and actually close clients this is the video you need to watch before your next sales call.\n\nDM me \"AGENCY\" on Instagram for the exact scripts:\n📲   / kenzitouadii  \n\nLearn for FREE inside my community:\n💬   / discord  \n\nFollow me:\nInstagram →   / https://www.instagram.com/kenzitouadii/\nTikTok →   / kenzitouadii\n\nLearn how to sell AI marketing agency services to businesses even when they are hesitant to adopt new technology. Get a proven path to landing your first client.\n\nThis guide outlines the specific steps required to build a profitable AI marketing agency from scratch. If you have been struggling to convince business owners of the value of automation, this breakdown provides the practical approach needed to overcome objections and close deals effectively. We focus on the core benefits of this model, including high scalability and the potential for outsourcing work to keep overhead low.\n\nWe also cover actionable client acquisition strategies to fill your pipeline. You will learn how to leverage paid Meta ads for quick visibility, alongside organic methods like effective cold DM techniques and direct door-to-door sales tactics. By implementing these workflows, you can navigate the current market landscape and secure your first paying client without needing a massive existing portfolio.\n\nSubscribe for weekly AI business breakdowns, and comment below with the biggest objection you face when selling to local businesses.",
+      "commentCount": 8,
+      "likeCount": 14,
       "probeClient": "web_embedded"
     }
   }
