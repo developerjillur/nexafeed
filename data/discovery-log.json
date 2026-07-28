@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T07:53:06Z",
+  "updatedAt": "2026-07-28T09:53:13Z",
   "items": [
+    {
+      "id": "0eCqH3gNR5w",
+      "type": "short",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-07-28T07:59:10Z",
+      "firstSeenAt": "2026-07-28T09:53:13Z"
+    },
+    {
+      "id": "GD46NamdhRE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fl Studio With Kurfaat",
+      "publishedAt": "2026-07-28T09:47:13Z",
+      "firstSeenAt": "2026-07-28T09:53:13Z"
+    },
+    {
+      "id": "0_vuXRDg91Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stats Wire",
+      "publishedAt": "2026-07-28T08:53:13Z",
+      "firstSeenAt": "2026-07-28T09:53:13Z"
+    },
+    {
+      "id": "rXIMJ3Hf1vs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Odoo APAC Official",
+      "publishedAt": "2026-07-28T06:53:13Z",
+      "firstSeenAt": "2026-07-28T09:53:13Z"
+    },
     {
       "id": "FU5_kpTAVDo",
       "type": "long",
@@ -3584,6 +3616,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-07-28T09:53:13Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }

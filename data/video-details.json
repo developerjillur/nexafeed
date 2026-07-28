@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T07:53:06Z",
+  "updatedAt": "2026-07-28T09:53:13Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -318,7 +318,7 @@
       "likeCount": 124
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-28T07:53:06Z",
+      "checkedAt": "2026-07-28T09:53:13Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -3262,15 +3262,6 @@
       "likeCount": 86,
       "probeClient": "web_embedded"
     },
-    "3dE7pWFGd7o": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "💬 Comment 𝗚𝗟𝗠 and I’ll DM you the setup video!\n\n#glm52 #opensourceai #localai #aiagents #codingwithai #developerproductivity #buildinpublic #machinelearning",
-      "commentCount": 18,
-      "likeCount": 117,
-      "probeClient": "web_embedded"
-    },
     "6LrrIxKexgs": {
       "checkedAt": "2026-07-27T07:46:18Z",
       "embedAllowed": true,
@@ -3830,14 +3821,75 @@
       "probeClient": "web_embedded"
     },
     "gpsH3hhRKrA": {
-      "checkedAt": "2026-07-27T08:53:42Z",
+      "checkedAt": "2026-07-28T09:53:13Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
-      "commentCount": 0,
-      "likeCount": 14,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-27T08:53:42Z",
+      "commentCount": 6,
+      "likeCount": 723,
+      "comments": [
+        {
+          "id": "UgxzYWafX_4eKCDHJ_R4AaABAg",
+          "author": "@tufan-tuf",
+          "text": "What about glm vaibhav sir",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/wtlxz28hOPnuDQoT0ipJF60nh4DtsCEZ9uZKIoAJYjKc7PtTT-r5u9KqcWunRVPMCxK7bm_h=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy92F1sKhAW-IgBYc14AaABAg",
+          "author": "@asutoshrath4521",
+          "text": "Most useless is Kimi 😂",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5LLkTg-D-orAjIv3QnONs9TM45y_AotBXm2mRPRn4eltxYktPs1EaE6EeEfGMXSfLHQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwDcHWhxl8KpoKppjl4AaABAg",
+          "author": "@ToolDuelAI",
+          "text": "\"ACTUALLY\" doing a lot of work in that title and I respect it. The only benchmark I trust anymore is: give both the same task, execute the output, and see which one produces something that runs on the first try.",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/rO7Wm8bCkmzMzSfk6ppHqfimLUl5JZsiujmD4xHF0B5zdFQxX_JxhT14S6eursWesX4nEem-=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxOPoMehT18zR4lbs94AaABAg",
+          "author": "@MalavDasa-du4fe",
+          "text": "Can you please make a video which  can explain that which model should we use for specific task like for coding for everyday work?",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kexSU46w6cYLAw7n2skj-kjy6uv4tRLz7Q3K1rsh5kWb6z0DWyfRdUElppkPxsBgt36Q=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwDc5PrYJatb777Kip4AaABAg",
+          "author": "@Vinay-chess",
+          "text": "Hello sir love your videos❤",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/knG5Mc2gTReszXB3TBV4TTMopfDHMqMggmpiPKiCAkzQVCx4j954A9rpFpcWGmV4IHI17X_g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwvZyV9jnW6ENFSP3d4AaABAg",
+          "author": "@ayushsharma464",
+          "text": "I wanna connect with you",
+          "likeCount": 2,
+          "publishedAt": "2026-07-27T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/06wIa58sVOwWaAUq-KnKVmmVpWL403-U_O8ZnrAyKjhE3h-ghtde5Yhn_8qhdX2USgXDqZTpag0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-28T09:53:13Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -4213,7 +4265,7 @@
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-28T07:53:06Z",
+      "checkedAt": "2026-07-28T09:53:13Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4440,15 +4492,6 @@
       "likeCount": 11,
       "probeClient": "web_embedded"
     },
-    "tAnQpg1FOas": {
-      "checkedAt": "2026-07-27T23:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 JOB HUNTING ACCELERATOR — 50% OFF\n\n👉 Join here (50% off link): https://link.yudij.com/jha_ytmain\n\nGetting the skills is step one. Getting the interview call is step two. My Job Hunting Accelerator program teaches you how to find roles, network with the right people, reach hiring managers, and position yourself even without a big-name university or years of experience. Lifetime access. WhatsApp community. Live office hours.\n\nPerfect for: students in the USA on OPT or CPT, international students planning to arrive in Fall 2026, and engineers actively job hunting in tech.\n-----------------------------------------------------------------------------------\nSoftware engineering is not dead. But the engineer who just got laid off and the one who just got hired have the same job title on LinkedIn — and only one of them has a future. This video explains exactly what separates them, why it matters more if you are an immigrant on a visa, and what to do about it starting today.\n\nI spent 10 years inside the US tech industry leading engineering teams, hiring and firing engineers, before AI changed everything. This is what I would tell my younger self before spending 40 to 50 lakhs or even 1 crore on a computer science degree.\n\n⬇️ WHAT YOU WILL LEARN\n• Why companies are firing and hiring engineers simultaneously — and why that is not a contradiction\n• The difference between the roles being cut and the roles being created right now\n• The three compounding threats for immigrant engineers: AI automation, offshoring, and visa dependency\n• Why specialization was the safe move for 20 years and is now a career risk\n• What product mindset, systems thinking, and design thinking mean for engineers in 2026\n• The forward deployed engineer role — the fastest-growing tech job right now — and how to position for it\n• How to build a portfolio that proves end-to-end ownership instead of just listing tools\n-----------------------------------------------------------------------------------\nFREE weekly newsletter: https://link.yudij.com/yt_desc_newsletter\n------------------------------------------------------------------------------------\nJob Hunting Accelerator (For JobSeekers): https://academy.yudij.com/jobhuntyt\n------------------------------------------------------------------------------------\nPlanning to study in the US? Don’t guess.\nStudy in USA Accelerator gives you a clear roadmap, scholarships strategy, and ROI-focused decisions.\n30 early bird spots at 70% off: https://academy.yudij.com/siu\n------------------------------------------------------------------------------------\nFree Profile Evaluation for O-1, EB-1A here: https://link.yudij.com/lawyer-connect and get a free 15-minute consultation with the Manifest Law team.\n------------------------------------------------------------------------------------\nAccess to O1 Visa Masterclass: https://yudij.kit.com/o1_masterclass\n------------------------------------------------------------------------------------\nBest Study in USA AI Tool: https://www.gradmits.com\n_________________________________\nBest way to refinance your education loan through SOFI and get $300: https://link.yudij.com/sofi\n\nSend money from the U.S. to India using my trusted app. Get $25 when you transfer $500+, with great USD→INR rates, fast transfers, 24/7 support, and a refund guarantee:\nhttps://link.yudij.com/crobobyyudi\n\nBook a free 30-minute 1:1 study abroad consultation with my team at GradVine here: https://link.yudij.com/studyabroad\n\nBEST Bank account ($200+ Bonus): https://link.yudij.com/chase\n\nBEST Beginner Credit Card (Free $100) - https://link.yudij.com/discovercard\n\nRobinhood App (Get Free Stock): https://link.yudij.com/robinhood\n\nWebull 2 Free Stocks: https://link.yudij.com/webull\n------------------------------------------------------------------------------------\nInstagram - https://www.instagram.com/yudi.j \nLinkedIn - https://www.linkedin.com/in/priteshjagani\nTwitter - https://www.twitter.com/yudijjj\nWebsite - https://www.yudij.com\nContact: yudijagani@gmail.com\n------------------------------------------------------------------------------------\nIs software engineering dead in 2025? No, but it is splitting. Bureau of Labor Statistics data projects 17 to 18% growth in software development jobs through 2033. However, the roles being created are fundamentally different from the ones being eliminated. AI is cutting jobs that involve writing code as the primary skill while creating demand for engineers who can own a full product cycle.\n\n\nDISCLAIMER:\nInformation shared here is for general informational purposes only and does not constitute legal advice or create an attorney-client relationship. Laws vary and individual situations differ, so you should consult a qualified attorney for advice specific to your case. Content is provided “as is” without warranties. The host is not an immigration lawyer.\n#YUDIJ #MSinUSA #SoftwareEngineer #AIJobs #TechCareers2026",
-      "commentCount": 6,
-      "likeCount": 29,
-      "probeClient": "web_embedded"
-    },
     "6_F1v5QWEo0": {
       "checkedAt": "2026-07-28T00:53:07Z",
       "embedAllowed": true,
@@ -4483,15 +4526,6 @@
       "description": "OmniRoute + OpenCode - Best AI Coding Setup 2026 | Claude Code Alternative Free | Claude ai Free\n\nThe hype around paid tools like Claude Code and Cursor AI is massive, but a brand-new open-source AI gateway called OmniRoute just dropped and completely changed the game. It connects to over 236 providers, pooling a massive 1.53 billion free AI tokens per month. OmniRoute officially unlocks free access to top-tier models like Claude Sonnet, Qwen 3 Coder, DeepSeek R1, Minimax, and Kimi K2 Thinking. Forget expensive API subscriptions or premium IDE extensions—in this video, I am going to show you how to set up OmniRoute and connect it directly to OpenCode to run massive AI coding workflows locally on your machine for zero dollars!\n\nWatch as we push this local setup to the absolute limit, chaining free LLM APIs together with Auto-Fallback and using Token Compression to save up to 95% of our context window so our free quota lasts even longer.\n\n🔗 OmniRoute: https://omniroute.online/\n🔗 OpenCode : https://opencode.ai/\n🚀 Work with InnoSpark Media: https://innosparkmedia.com/\n\n📥 In this video:\nIntroduction to OmniRoute and how it pools 1.4 billion free AI tokens per month.\nHow Token Compression uses RTK and Caveman engines to save 15% to 95% of your context window.\nThe truth behind accessing free AI models, detailing how to get Claude AI free, DeepSeek free, Minimax, and Kimi K2 without entering a paid API key.\nA look at the Auto-Fallback routing architecture that chains multiple free API tiers together.\nFull step-by-step OmniRoute tutorial to install the local AI gateway and configure the dashboard.\nLive OpenCode setup: Wiring the custom localhost endpoint to build a powerful Claude Code alternative.\n\n💻 Configuration Code Used in this Video:\nCopy and paste the JSON below into your OpenCode setup to connect OmniRoute:\n\n{\n  \"provider\": {\n    \"omniroute\": {\n      \"npm\": \"@ai-sdk/openai-compatible\",\n      \"name\": \"OmniRoute\",\n      \"options\": {\n        \"baseURL\": \"http://localhost:20128/v1\",\n        \"apiKey\": \"not-needed\"\n      },\n      \"models\": {\n        \"deepseek-flash\": {\n          \"id\": \"oc/deepseek-v4-flash-free\",\n          \"name\": \"DeepSeek V4 Flash\"\n        }\n      }\n    }\n  }\n}\n\n\n---------------------------------------------------------------------------------------------------------------------------------------\n🔥 Any Paid Promotion or Collobration mail me : riteshranjan032002@gmail.com\n💻 Any Freelancing Work :  riteshranjan032002@gmail.com\n---------------------------------------------------------------------------------------------------------------------------------------\n\n👇👇🫶Follow us on🫶👇👇:\n\n❤️😍Checkout for Creating Websites or Graphics😍❤️\nhttps://innosparkmedia.com/\n\n❤️😍Join Our Discord Server😍❤️\nhttps://discord.gg/t4EdVvcUeP\n\n❤️😍Join Our Telegram Group😍❤️\nhttps://t.me/procoder09\n\n🔥follow me on LinkedIn\nhttps://www.linkedin.com/in/ritesh-ranjan09/\n\n📂follow us on github\nhttps://github.com/ritesh-0309\n\n📷 Follow us on Instagram\nhttps://www.instagram.com/procoder09\n\n🌏Visit our website\nhttps://www.procoder09.com/\n\n▶ Subscribe Our Channel\nhttps://www.youtube.com/@procoder09\n\nChapters:\n0:00 - Intro: 100% Free AI Coding Setup (Claude Code & Cursor Alternative)\n0:35 - What is OmniRoute? (Free AI Gateway with 1.5B+ Tokens & 290+ Providers)\n1:16 - Token Compression: RTK & Caveman Engines Explained (Save 15% to 95% Tokens)\n1:48 - Step 1: Installing OmniRoute Globally via Terminal\n2:42 - Step 2: Accessing the OmniRoute Local Host Dashboard\n3:28 - Step 3: Configuring Free Tier AI Providers & Generating an API Key\n4:40 - Step 4: Installing OpenCode CLI Terminal Agent\n5:10 - Step 5: Connecting OmniRoute Gateway to OpenCode (Config & Base URL Setup)\n7:05 - Step 6: Model Selection (DeepSeek v4 Flash Setup & OpenCode.json Edit)\n7:29 - Live Setup Test: Verification & Querying the Free LLM Endpoint\n8:02 - Outro & Final Thoughts\n\nclaude code alternative,opencode,omniroute claude code,claude code alternative,free ai api,free ai api key,claude code free unlimited,claude ai free unlimited,claude ai free,claude ai,fable 5 free,ai\n\n#OmniRoute #FreeAI #OpenCode #AICoding #OpenSource #AITools #DeveloperTools",
       "commentCount": 6,
       "likeCount": 66,
-      "probeClient": "web_embedded"
-    },
-    "4JofSJIrjwU": {
-      "checkedAt": "2026-07-28T00:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get started with HeyGen: https://www.heygen.com/?sid=rewardful&utm_content=creator&utm_medium=influencera&via=0ea234\n\nFine-tuning your own AI model used to require a PhD, a massive GPU cluster, and weeks of setup. With Unsloth Studio, you can do it locally, for free, with a graphical interface — no terminal required, no account needed, no internet connection necessary. In this full tutorial I walk you through everything from scratch: what fine-tuning actually is, how to build a dataset, how to train your model, and how to compare your fine-tuned version against the base model to verify it's actually working.\n\nWant to make real money with coding? I share high-signal insights on careers, monetization, and leverage in my free newsletter. Join here and get my guide How to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-jul26\n\n🎞 Video Resources 🎞\nUnsloth Docs: https://unsloth.ai/docs\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:29 | Fine-Tuning Basics\n01:24 | Unsloth Studio\n02:36 | Fine-Tuning Details & Architecture\n04:08 | QLoRA vs LoRA\n05:40 | HeyGen \n07:03 | Fine-Tuning vs RAG\n07:51 | Hardware Requirements\n09:10 | Unsloth Setup/Install\n09:50 | Unsloth UI\n11:45 | Model Selection\n14:25 | Chatting with Models\n15:05 | Training Data Overview\n17:20 | Generating Training Data\n18:50 | Unsloth Recipe Setup (Custom Dataset)\n32:11 | Dataset Selection/Setup\n34:24 | Training the Model\n38:34 | Model Comparison\n40:22 | Exporting the Model\n\nHashtags\n#Unsloth #FineTuning #LocalAI\n\nUAE Media License Number: 3635141",
-      "commentCount": 16,
-      "likeCount": 280,
       "probeClient": "web_embedded"
     },
     "HxDkJa-YZtQ": {
@@ -4594,15 +4628,6 @@
       "description": "Try Ottermind AI for free here:https://ottermind.ai/?utm_source=YouTube&utm_medium=DED-EN&utm_campaign=realrobtheaiguy\n\nThis video shows you a new AI agent called Ottermind AI that destroys Manus AI. If you want to hire AI employees, automate tasks with AI and get work done with AI agents this video is for you.\n\n#OttermindAI",
       "commentCount": 1,
       "likeCount": 34,
-      "probeClient": "web_embedded"
-    },
-    "8SRuJmxSato": {
-      "checkedAt": "2026-07-28T03:53:09Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Become AI Powered in 90 Days, Join FREE webinar - https://sdet.live/webinar\n10% OFF - Coupon Code - PROMODE\n\nRoadmap To Become an Automation Tester: In this video, we are going to learn about the ROADMAP to become an Automation Tester. We will discuss 4-5 Month action plan to switch from manual to automation Testing.\n\n🔥 Automation Tester Blueprint - \nhttps://sdet.live/become\n🔥  Roadmap To Become an Automation Tester -\nhttps://sdet.live/roadmap-automation\n\nWe are going to how to become an automation tester in 2022 with Selenium & Java.\n\n🚀 Download Notes - https://sdet.live/notes\n🚀 Watch Full Playlist : https://apitesting.co/30days\n🚀 Download Roadmaps- https://sdet.live/roadmaps\n🚀 BONUS VIDEO 🚀\n\n❤️ Mind Map Download - https://sdet.live/notes\n❤️ Become Better QA : https://sdet.live/30days\n\n✅ Resources for Selenium Training with Custom Framework.\n🔥🔥 https://sdet.live/30dayselenium​\n🔥🔥 https://sdet.live/2WlO​\n\n✅ If you are new consider subscribing and follow day by day to become an Automation Testing expert in 30 days.\n\n🔥 Become Better QA\n✅ 30 Days of Automation Testing Playlist\n✅ 30 Days of Selenium (With Framework)\n✅ 30 Days of API Testing with Postman\n✅ 30 Days of API testing with Rest Assured\n✅ Karate API Testing for Beginners  \n✅ Link to Playlist\n 👉 https://sdet.live/30days",
-      "commentCount": 1,
-      "likeCount": 19,
       "probeClient": "web_embedded"
     },
     "KgQMZN0lgiI": {
@@ -4718,7 +4743,7 @@
       "probeClient": "web_embedded"
     },
     "8OqBbUoBpo4": {
-      "checkedAt": "2026-07-28T07:53:06Z",
+      "checkedAt": "2026-07-28T09:53:13Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4742,6 +4767,45 @@
       "description": "Supabase: https://supabase.plug.dev/4LaWUdw  \n\nGet Thorsten's prompt: https://www.davidondrej.com/thorsten-podcast \n\nThorsten: https://x.com/thorstenball\n\nWanna learn how to code with AI? Go here: https://www.skool.com/new-society\n\nWe're hiring: https://www.scalesoftware.ai/\n\nFollow me on Instagram - https://www.instagram.com/davidondrej1/\nFollow me on Twitter - https://x.com/DavidOndrej1\n\nTry Cursor yourself:\nhttps://cursor.com/referral?code=DSGVCHDWL2JJ\n\nWatch my podcasts on Spotify: https://open.spotify.com/show/033E1ULeu3Pj9JU2MABz2U?si=vvf361b2R3O2Dg0obO-2IQ\n\nSubscribe if you're serious about AI.\n\nDavid Ondrej x Thorsten Ball podcast",
       "commentCount": 72,
       "likeCount": 592,
+      "probeClient": "web_embedded"
+    },
+    "0eCqH3gNR5w": {
+      "checkedAt": "2026-07-28T09:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "💬 Comment 𝗔𝗚𝗘𝗡𝗧𝗜𝗖 and I’ll DM you the complete step-by-step setup video!\n\n#claudecode #aiagents #codingwithai #developerproductivity #softwareengineering #buildinpublic #aitools #anthropic",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-28T09:53:13Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "GD46NamdhRE": {
+      "checkedAt": "2026-07-28T09:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "How To Do Automation in FL Studio Like Pro\n#flstudio #flstudiotutorial #flstudiowithkurfaat\n\nYour Instructor - Kurfaat\n(https://www.instagram.com/kurfaat)\n\nIn this video we are going to learn that how we can do automations in fl studio like pro in hindi\n\nEnjoy !!",
+      "commentCount": 1,
+      "likeCount": 6,
+      "probeClient": "web_embedded"
+    },
+    "0_vuXRDg91Y": {
+      "checkedAt": "2026-07-28T09:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Hermes Agent Is Changing AI Automation\n\nAI agents are evolving beyond simple chatbots, and Hermes Agent is an interesting example of where AI automation is heading.\n\nIn this video, I explore how Hermes Agent can be used to build AI-powered workflows, interact with tools, and automate tasks with greater autonomy. Instead of simply asking an AI a question and getting an answer, agentic systems can take multiple steps toward completing a goal.\n\nWe'll look at what makes Hermes Agent interesting, how it fits into the growing AI agent ecosystem, and why autonomous AI workflows could change the way we build and use software.\n\nIf you're interested in AI agents, AI automation, LLMs, developer tools, and the future of autonomous workflows, this video is for you.\n\nSubscribe for more practical videos and tutorials on AI agents, Claude Code, OpenClaw, Hermes Agent, LLMs, and AI automation.\n\n#HermesAgent #AIAgents #AIAutomation #ArtificialIntelligence #AI #Automation #LLM #AIEngineering #ClaudeCode",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "rXIMJ3Hf1vs": {
+      "checkedAt": "2026-07-28T09:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Try Odoo online at https://www.odoo.com/r/xGhi",
+      "commentCount": 0,
+      "likeCount": 39,
       "probeClient": "web_embedded"
     }
   }
