@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T20:53:05Z",
+  "updatedAt": "2026-07-28T21:53:14Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -310,7 +310,7 @@
       "likeCount": 124
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-28T20:53:05Z",
+      "checkedAt": "2026-07-28T21:53:14Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4244,7 +4244,7 @@
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-28T20:53:05Z",
+      "checkedAt": "2026-07-28T21:53:14Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4448,14 +4448,35 @@
       "probeClient": "web_embedded"
     },
     "frZ6QZ1FM6I": {
-      "checkedAt": "2026-07-27T20:53:46Z",
+      "checkedAt": "2026-07-28T21:53:14Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment “cruise” for the I Need Cruise skill pack and playbook!\n\nGoogle Flights makes comparing flights easy.\n\nThere’s nothing like it for cruises.\nSo you guess.\n\nOne command fixes that.\n\nIt asks your dates and your ideal trip, pulls cruise data through Apify, then cross-checks the Google Flights scraper.\n\nCheapest cruise and flight, together.\n\nShort list, full list, booking link.\n\nWe both know you need a vacation, fam.\n\n#AItools\n#ClaudeCode\n#Automation\n#AIAgents\n#Tech",
-      "commentCount": 0,
-      "likeCount": 5,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-27T20:53:46Z",
+      "commentCount": 2,
+      "likeCount": 34,
+      "comments": [
+        {
+          "id": "Ugzh0AZk9k7MvoWkzPh4AaABAg",
+          "author": "@vytautasstoncius660",
+          "text": "Cruise",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kTeQsYy_vCl0Lj_EugFLsOAScz5QY3t-PUXH3XGwo=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugyo_Bh4FEKWYoEVFMd4AaABAg",
+          "author": "@RoqueLachica",
+          "text": "Cruise",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lMlf7nLP7hz4X8KTq_95muomg-QWPQRBsJDnpsfNQ9A8U=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-28T21:53:14Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -4548,15 +4569,6 @@
       ],
       "commentsFetchedAt": "2026-07-28T06:53:12Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "ZhSSKWyE7iQ": {
-      "checkedAt": "2026-07-28T06:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🤖 In this video, I will show you how to build a \ncompletely FREE AI-powered Telegram Bot using N8n \n— no coding skills needed at all!\n\nThis bot will:\n✅ Receive messages from users automatically\n✅ Process messages using AI (Gemini)\n✅ Send intelligent replies back instantly\n✅ Remember conversation history\n✅ Log all conversations to Google Sheets\n✅ Work 24/7 completely on autopilot\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⏱️ TIMESTAMPS\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n0:00 - Introduction & What We Are Building\n0:45 - Create Telegram Bot with BotFather\n1:30 - Connect Telegram to N8n Cloud\n2:30 - Add Telegram Trigger Node\n3:30 - Set Up IF Command Node\n4:30 - Add AI Agent Node\n5:30 - Connect Gemini AI Model for Free\n6:30 - Add Window Buffer Memory Node\n7:30 - Send Automatic AI Replies Back\n9:00 - Log All Conversations to Google Sheets\n10:15 - Make Bot Live 24/7 on N8n Cloud\n11:00 - Final Live Test\n11:38 - End\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🛠️ TOOLS USED IN THIS VIDEO\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔹 N8n Cloud (Free Trial) → https://n8n.io\n🔹 Telegram → https://telegram.org\n🔹 Google Gemini API (Free) → https://aistudio.google.com\n🔹 Google Sheets (Free) → https://sheets.google.com\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📚 WHAT YOU WILL LEARN\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\nIn this complete step by step tutorial you will learn:\n\n👉 How to create a Telegram bot using BotFather\n👉 How to connect Telegram to N8n workflow\n👉 How to use the AI Agent node in N8n\n👉 How to connect Gemini AI for free\n👉 How to add memory so your bot remembers conversations\n👉 How to automatically log chats to Google Sheets\n👉 How to make your bot live and working 24/7\n\nThis is perfect for beginners who want to start with \nAI automation without writing a single line of code!\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n💡 WHO IS THIS FOR?\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n✔️ Complete beginners — no coding needed\n✔️ Freelancers who want to offer bot services\n✔️ Business owners who want to automate customer chat\n✔️ YouTubers and creators who want to automate DMs\n✔️ Anyone curious about AI automation\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔔 SUPPORT THE CHANNEL\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\nIf this video helped you:\n👍 LIKE this video\n🔔 SUBSCRIBE for more AI automation tutorials\n💬 COMMENT below with your questions\n📤 SHARE with someone who needs this\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚠️ DISCLAIMER\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\nThis tutorial is for educational purposes. \nAPI availability and pricing may change over time. \nAlways check official documentation for latest updates.\n\n#n8n #telegrambot #aiautomation #nocode",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "8OqBbUoBpo4": {
@@ -4766,7 +4778,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-28T20:53:05Z",
+      "checkedAt": "2026-07-28T21:53:14Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5475,6 +5487,14 @@
       "description": "Unlock the Power of AI Writing Automation & Boost Your Content Creation! 🤖✨\n\nIn this tutorial, learn how AI Writing Automation can transform your content creation workflow. Discover how to create and use reusable prompts in ChatGPT to instantly generate social media captions, blog posts, email templates, and marketing copy in seconds!\n\n📌 What You’ll Learn in This Video:\n\nWhat is AI Writing Automation & why it's essential for smart work\n\nBenefits of automated content creation for blogs, emails, and social media\n\nHow to craft reusable prompts for unlimited content generation\n\nLive demo using ChatGPT to generate tailored social media content\n\nHow automation scales your business and saves hours of work\n\n💡 Reusable Prompt Template Used in Video:\n\nPlaintext\nAct as a professional content writer.\nCreate a social media caption for [TOPIC].\nTarget audience: [AUDIENCE]\nTone: [TONE]\nInclude hashtags and CTA.\n🔔 Subscribe to our channel for more AI tutorials, prompt engineering tips, and productivity tools!\n👍 Like this video if you found it helpful, and comment your thoughts below!\n\n#AIWritingAutomation #ChatGPT #PromptEngineering #ContentCreation #ArtificialIntelligence #ContentMarketing #AIProductivity",
       "commentCount": 0,
       "likeCount": 10,
+      "probeClient": "web_embedded"
+    },
+    "TllPOmVWF8s": {
+      "checkedAt": "2026-07-28T21:53:14Z",
+      "embedAllowed": true,
+      "description": "When AI can generate code in seconds, what still makes a software engineer valuable?\n\nIn this Arize:Observe session, Craig Owenby of Citadel explores how agentic coding tools are changing software engineering, and why the profession still requires far more than producing code.\n\nCraig compares large language models to the printing press. The printing press replaced the manual work of copying books, but it did not replace authors. In the same way, AI coding agents can automate the mechanics of writing code without replacing the judgment, vision, empathy, and experience required to build useful software.\n\nThe session covers:\n\n• Why “coder” and “software engineer” are increasingly different roles\n• How tools like Claude Code, Codex, Copilot, and Cursor remove traditional barriers to building software\n• What the printing press teaches us about AI-assisted development\n• Why engineers should avoid competing with AI on raw code generation\n• How Sears lost its advantage by competing with e-commerce on the wrong terms\n• Why human experience, intuition, and empathy remain essential\n• How constraints can improve product and engineering decisions\n• Why shipping more features can increase volatility and reduce user trust\n• How AI acts as leverage for strong and weak engineering decisions\n• Why product direction and problem selection matter more as implementation gets easier\n\nThe central lesson: software engineering is not primarily about writing code. It is about deciding what should be built, understanding why it matters, and applying technology with judgment.\n\nWhen everyone can code, engineers differentiate themselves through their standards, instincts, product sense, and ability to understand the people using what they build. :contentReference[oaicite:0]{index=0}\n\nChapters:\n00:00 When everyone can code, what are engineers worth?\n00:46 LLMs and the printing press\n01:30 The limits that shaped software engineering\n02:42 We finally live in a world where everyone can code\n03:45 The existential question for experienced engineers\n04:45 Coders versus software engineers\n06:05 Don’t make the same mistake as Sears\n07:38 Human judgment, experience, and empathy\n09:02 Why constraints can produce better software\n10:25 Product volatility and the Sharpe ratio\n11:49 Software engineering is about solving problems\n12:38 LLMs as leverage for engineers\n13:45 What sets engineers apart\n14:25 Your humanity is the key\n\n🔗 Learn more about Arize: https://arize.com\n🔗 Explore Arize:Observe: https://arize.com/observe\n🔔 Subscribe for more talks on AI engineering, coding agents, evaluation, observability, and the future of software development:\nhttps://www.youtube.com/@arizeai?sub_confirmation=1\n\n#SoftwareEngineering #CodingAgents #AIEngineering",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

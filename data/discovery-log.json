@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T20:53:05Z",
+  "updatedAt": "2026-07-28T21:53:14Z",
   "items": [
+    {
+      "id": "TllPOmVWF8s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Arize AI",
+      "publishedAt": "2026-07-28T16:53:14Z",
+      "firstSeenAt": "2026-07-28T21:53:14Z"
+    },
     {
       "id": "C4cYO8viGO0",
       "type": "long",
@@ -4203,6 +4211,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-07-28T21:53:14Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
