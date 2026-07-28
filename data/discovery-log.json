@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T18:53:48Z",
+  "updatedAt": "2026-07-28T19:53:57Z",
   "items": [
+    {
+      "id": "IXOJwRjgKtM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Eyewitness News ABC7NY",
+      "publishedAt": "2026-07-28T15:53:57Z",
+      "firstSeenAt": "2026-07-28T19:53:57Z"
+    },
+    {
+      "id": "XDB5beon4DY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Invest Like The Best",
+      "publishedAt": "2026-07-28T12:53:57Z",
+      "firstSeenAt": "2026-07-28T19:53:57Z"
+    },
+    {
+      "id": "BdVOUNF-o5Y",
+      "type": "short",
+      "source": "secondary",
+      "channel": "ABC News (Australia)",
+      "publishedAt": "2026-07-28T08:53:57Z",
+      "firstSeenAt": "2026-07-28T19:53:57Z"
+    },
+    {
+      "id": "etazv9saJbo",
+      "type": "short",
+      "source": "secondary",
+      "channel": "ABC7 News Bay Area",
+      "publishedAt": "2026-07-28T05:53:57Z",
+      "firstSeenAt": "2026-07-28T19:53:57Z"
+    },
     {
       "id": "j5-al-0YR4M",
       "type": "long",
@@ -4105,6 +4137,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-07-28T19:53:57Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }

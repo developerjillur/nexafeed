@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T18:53:48Z",
+  "updatedAt": "2026-07-28T19:53:57Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -310,7 +310,7 @@
       "likeCount": 124
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-28T18:53:48Z",
+      "checkedAt": "2026-07-28T19:53:57Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4244,7 +4244,7 @@
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-28T18:53:48Z",
+      "checkedAt": "2026-07-28T19:53:57Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4406,14 +4406,35 @@
       "probeClient": "web_embedded"
     },
     "ff7FOR3Y0uA": {
-      "checkedAt": "2026-07-27T19:53:33Z",
+      "checkedAt": "2026-07-28T19:53:57Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Raghav Juyal bhai apka yt channel start karva dete hai",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-27T19:53:33Z",
+      "commentCount": 2,
+      "likeCount": 16,
+      "comments": [
+        {
+          "id": "Ugz8ymZmTwMDBB4wpmd4AaABAg",
+          "author": "@bharateseva37",
+          "text": "YouTube",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/aoX_rY_gUO08WwsL1Vd57xGhVIV9K1JMzJ6hiVhmymc6Kjwa5LMMqiwdMbN8cvxCzQAu0B5PKw0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxanUuJIdyqM4OPl5d4AaABAg",
+          "author": "@parthkumar8937",
+          "text": "YouTube",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k8SKLR4RV1XsH1aqwfrfuLQGsoKcyatc3H9MIttlaWuQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-28T19:53:57Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -4448,33 +4469,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-07-27T23:53:05Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "W2ciHDDys8I": {
-      "checkedAt": "2026-07-27T23:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Experience a calm software developer morning routine in this no-talking coding vlog with relaxing lo-fi music. ☕💻\n\nFollow me through a productive morning as I continue building the Rainy Studio Music Dashboard using React and Vite.\n\n🔔 SUBSCRIBE TO RAINY REAKSMEY\nhttps://www.youtube.com/@RainyReaksmey\n\n▶️ WATCH MY RELATED VIDEO\nhttps://www.youtube.com/watch?v=tpe3cOWH97c&t=65s\n\nIn this realistic developer vlog, I work on the user interface, organize and format the code with Prettier, test the responsive mobile layout, search for suitable artwork, connect new assets to the project, and review the final result.\n\nThis relaxing coding session is suitable for:\n\n💻 Coding and programming\n📚 Studying and learning\n⚛️ React and front-end development\n🎧 Relaxing with calm lo-fi music\n🧑‍💻 Developer productivity and motivation\n\n⚙️ PROJECT DETAILS\n\n💻 Project: Rainy Studio Music Dashboard\n⚛️ Technology: React and Vite\n🛠️ Tools: VS Code and Prettier\n📱 Focus: UI development and responsive design\n🎧 Style: Calm coding vlog with lo-fi music\n🔇 Format: No talking with synchronized captions\n👨‍💻 Creator: Rainy Reaksmey\n\n⏱️ CHAPTERS\n\n0:00 Morning Routine\n0:29 Starting the Computer\n0:51 Opening the Coding Project\n1:09 Reviewing the Music Dashboard\n2:48 Cleaning the Code with Prettier\n3:31 Reviewing the Updated Interface\n3:51 Testing the Responsive Mobile Design\n4:44 Running the Project in the Terminal\n5:35 Searching for Artwork\n6:01 Adding New Assets to the Project\n7:10 Final UI Result\n\nIf you enjoy software development, programming projects, coding vlogs and realistic developer content, please LIKE the video, leave a COMMENT and SUBSCRIBE for more coding sessions.\n\nWhat type of application should I build next? Let me know in the comments!\n\n#SoftwareDeveloper #CodingVlog #WebDevelopment #ReactJS #LoFiCoding",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "6_F1v5QWEo0": {
-      "checkedAt": "2026-07-28T00:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "HIX AI Tracking Link: https://cutt.ly/KyyA53XM\nPromo Code: hixai10 \n\nWhat if one AI workspace could replace your research, writing, image, slide, and video tools? In this video, I test HIX AI with a complete creator workflow built from a single prompt. I ask the General Agent to research freelancer productivity problems, develop a campaign concept, write messaging, suggest social posts, create visual directions, outline a presentation, and plan a short promotional video.\n\nI also explore HIX AI Slides, including Professional and Creative generation modes, advanced image models such as Nano Banana Pro and GPT Image 2.0, plus the new one-click Templates feature. Then I test AI Chat for refining ideas and Story to Video for turning written concepts into visual sequences.\n\nThe biggest benefit is not just speed. It is keeping research, messaging, visuals, slides, and video planning connected inside one workspace. HIX AI still needs human review, but it can reduce tool switching, preserve context, and make complex creative projects easier to manage from beginning to final delivery.\n\n\n#HIXAI #AITools #AIWorkspace #AIContentCreation #AIAgents #ProductivityTools #AISlides #AIChat #StoryToVideo #ContentCreators",
-      "commentCount": 51,
-      "likeCount": 98,
-      "probeClient": "web_embedded"
-    },
-    "EyIYybdLK0M": {
-      "checkedAt": "2026-07-28T00:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "ChatGPT Voice mode is INCREDIBLE. Here's how to use it.\n\nFULL ChatGPT Voice bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n0:50 AGI moments\n2:23 Demo\n10:06 Why it's so good\n12:31 Workflows\n16:45 Best tips",
-      "commentCount": 51,
-      "likeCount": 359,
       "probeClient": "web_embedded"
     },
     "CXDSTsd-CKE": {
@@ -4590,15 +4584,6 @@
       "description": "🤖 In this video, I will show you how to build a \ncompletely FREE AI-powered Telegram Bot using N8n \n— no coding skills needed at all!\n\nThis bot will:\n✅ Receive messages from users automatically\n✅ Process messages using AI (Gemini)\n✅ Send intelligent replies back instantly\n✅ Remember conversation history\n✅ Log all conversations to Google Sheets\n✅ Work 24/7 completely on autopilot\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⏱️ TIMESTAMPS\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n0:00 - Introduction & What We Are Building\n0:45 - Create Telegram Bot with BotFather\n1:30 - Connect Telegram to N8n Cloud\n2:30 - Add Telegram Trigger Node\n3:30 - Set Up IF Command Node\n4:30 - Add AI Agent Node\n5:30 - Connect Gemini AI Model for Free\n6:30 - Add Window Buffer Memory Node\n7:30 - Send Automatic AI Replies Back\n9:00 - Log All Conversations to Google Sheets\n10:15 - Make Bot Live 24/7 on N8n Cloud\n11:00 - Final Live Test\n11:38 - End\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🛠️ TOOLS USED IN THIS VIDEO\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔹 N8n Cloud (Free Trial) → https://n8n.io\n🔹 Telegram → https://telegram.org\n🔹 Google Gemini API (Free) → https://aistudio.google.com\n🔹 Google Sheets (Free) → https://sheets.google.com\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n📚 WHAT YOU WILL LEARN\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\nIn this complete step by step tutorial you will learn:\n\n👉 How to create a Telegram bot using BotFather\n👉 How to connect Telegram to N8n workflow\n👉 How to use the AI Agent node in N8n\n👉 How to connect Gemini AI for free\n👉 How to add memory so your bot remembers conversations\n👉 How to automatically log chats to Google Sheets\n👉 How to make your bot live and working 24/7\n\nThis is perfect for beginners who want to start with \nAI automation without writing a single line of code!\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n💡 WHO IS THIS FOR?\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n✔️ Complete beginners — no coding needed\n✔️ Freelancers who want to offer bot services\n✔️ Business owners who want to automate customer chat\n✔️ YouTubers and creators who want to automate DMs\n✔️ Anyone curious about AI automation\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔔 SUPPORT THE CHANNEL\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\nIf this video helped you:\n👍 LIKE this video\n🔔 SUBSCRIBE for more AI automation tutorials\n💬 COMMENT below with your questions\n📤 SHARE with someone who needs this\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⚠️ DISCLAIMER\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\nThis tutorial is for educational purposes. \nAPI availability and pricing may change over time. \nAlways check official documentation for latest updates.\n\n#n8n #telegrambot #aiautomation #nocode",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "ggU7YANSojI": {
-      "checkedAt": "2026-07-28T06:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Welcome to my Build in Public journey!\n\nI'm building a real app **live from scratch** with one goal:\n\n💰 Vibe Coding an App Until I Make ₹1 Crore (₹1,00,00,000)\n\n🚀 Access AI models for FREE:\n\nhttps://freemodel.dev/invite/FRE-7a92a447\n\n❤️ Support the Journey\n\nIf you're enjoying the content and would like to support this Build in Public journey, you can gift me **Claude Pro** here:\n\n🎁 https://claude.ai/gift\n\nYour support helps me create more AI apps, livestreams, tutorials, and open-source content. Thank you! ❤️\n\nEvery livestream is completely **LIVE**—no edits, no scripts, no cuts.\n\nYou'll see the entire process:\n\n💻 Planning\n⚡ Vibe Coding\n🤖 AI-assisted Development\n🐛 Debugging\n🚀 Deploying\n📈 Growing Users\n💰 Building a Real Business\n\n## 🛠️ Tech Stack\n\n* Next.js\n* TypeScript\n* Tailwind CSS\n* Supabase\n* OpenAI\n* Claude AI\n* Netlify\n\nAlong the way, I'll also be using modern AI coding tools like **Cursor, Claude Code, Codex, Kimi, Gemini, ChatGPT, GitHub Copilot, Windsurf, Bolt.new, Lovable, v0, Replit AI, and more** to build faster, ship faster, and turn ideas into real products.\n\nWhether you're a student, developer, freelancer, founder, indie hacker, or AI enthusiast, you're welcome to join the journey, ask questions, and build along with me.\n\nIf you're interested in:\n\n✅ AI Development\n✅ Vibe Coding\n✅ Next.js\n✅ React\n✅ TypeScript\n✅ Tailwind CSS\n✅ Supabase\n✅ Full Stack Development\n✅ SaaS Development\n✅ Startup Building\n✅ Indie Hacking\n✅ AI Coding Tools\n✅ Prompt Engineering\n✅ AI Agents\n✅ Web Development\n✅ Automation\n✅ Building Apps with AI\n\n...you're in the right place.\n\n🔥 New livestreams regularly as I document the entire journey from ₹0 to ₹1 Crore, building in public one stream at a time.\n\nDon't forget to **Like 👍, Subscribe 🔔, and join the live chat!**\n\n#VibeCoding #AI #BuildInPublic #NextJS #Supabase #OpenAI #SaaS #Startup #FullStack #CodingLive #TechBuilderAkash #WebDevelopment #AITools #IndieHacker #Programming #ArtificialIntelligence #AIDevelopment #AICoding #AICodingTools #BuildWithAI #LiveCoding #Coding #Developer #SoftwareEngineer #React #ReactJS #TypeScript #TailwindCSS #Claude #ClaudeAI #ClaudeCode #ChatGPT #OpenAICodex #Codex #Cursor #CursorAI #Kimi #KimiK2 #Gemini #GitHubCopilot #Copilot #Windsurf #BoltNew #Lovable #V0 #ReplitAI #PromptEngineering #AIAgents #Automation #Tech #100DaysOfCode #IndieDev #SaaSBuilder #StartupFounder #BuildInPublicJourney #LearnToCode #WebDev #FullStackDeveloper",
-      "commentCount": 0,
-      "likeCount": 27,
       "probeClient": "web_embedded"
     },
     "8OqBbUoBpo4": {
@@ -4808,7 +4793,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-28T18:53:48Z",
+      "checkedAt": "2026-07-28T19:53:57Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5454,6 +5439,42 @@
       "description": "Are junior devs cooked? I don't think so.\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UC9H0HzpKf5JlazkADWnW1Jw/join\nWanna join the chat on the stream?? it's over at https://twitch.tv/bashbunni\n\n⟡˖ My other corners of the Internet:\nhttps://twitch.tv/bashbunni\nhttps://github.com/bashbunni\nhttps://discord.com/invite/Y3vbKS4K9j (come hang!)\nhttps://mastodon.social/@bashbunni\nhttps://twitter.com/sudobunni\nhttps://bsky.app/profile/bashbunni.dev\n\nYou're Not Behind: Leveraging AI vs Experience\nI asked big tech about their AI workflows. Here's what I found...\n\n#bashbunni #softwarejobs #codingforbeginners",
       "commentCount": 52,
       "likeCount": 719,
+      "probeClient": "web_embedded"
+    },
+    "IXOJwRjgKtM": {
+      "checkedAt": "2026-07-28T19:53:57Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Shadow Nexus CEO Vinny Troia sits down with Eyewitness News.\n\nCheck out more Eyewitness News - http://abc7ny.com/\n\nFind us on social media:\nFACEBOOK: https://www.facebook.com/ABC7NY/ \nINSTAGRAM: https://www.instagram.com/abc7ny/ \nTWITTER: https://twitter.com/abc7ny \nTIKTOK: https://www.tiktok.com/@abc7ny \n \nWe’re abc7NY, also known as Channel 7 and WABC-TV on TV, home to Eyewitness News, New York’s Number 1 news. We hope you love us on YouTube as much as you do on television! \n \nNEW TIPS: \nOnline: http://abc7ny.com/submit-a-news-tip/2599968/ \nEmail: abc7ny@abc.com \n \nAbout WABC-TV:  https://abc7ny.com/about/\n#ai #chatgpt #news",
+      "commentCount": 6,
+      "likeCount": 8,
+      "probeClient": "web_embedded"
+    },
+    "XDB5beon4DY": {
+      "checkedAt": "2026-07-28T19:53:57Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Sam Altman joins us for a wide-ranging conversation about OpenAI’s next chapter, the race for compute, and what happens as artificial intelligence becomes more powerful, abundant, and embedded across the economy. He explains why OpenAI recently narrowed its focus, why demand for intelligence may be effectively uncapped, how close we may be to AGI, and what the future could hold for robotics, jobs, hardware, and human agency. We also discuss the accidental launch of ChatGPT, OpenAI’s competitive advantages, the economics of intelligence, and the pressure and responsibility that come with leading one of the world’s most consequential companies.\n\nTIMESTAMPS\n0:00 Intro\n4:10 The Race for Compute\n14:24 A Sci-Fi Cyber Incident\n16:14 The Promise and Risks of AGI\n23:27 How AI Will Change Jobs\n29:38 Sam’s Vision for a Personal AI\n35:02 Robotics, ChatGPT, and What Comes Next\n44:39 The Weight of Leading OpenAI\n51:36 OpenAI’s Biggest Lessons\n\nPresented by Ramp:\nhttps://ramp.com/invest\n\nSponsored by Vanta, WorkOS, Rogo, and Ridgeline:\nhttps://www.vanta.com/invest\nhttps://workos.com/\nhttps://rogo.ai/invest\nhttps://www.ridgelineapps.com/\n\n******\nPatrick O'Shaughnessy is the CEO of Positive Sum. All opinions expressed by Patrick and podcast guests are solely their own and do not reflect the opinion of Positive Sum. This podcast is for informational purposes only and should not be relied upon as a basis for investment decisions. Clients of Positive Sum may maintain positions in the securities discussed in this podcast. To learn more, visit psum.vc\n\n#SamAltman #OpenAI #ArtificialIntelligence #AGI #AI #FutureOfAI #Technology #Robotics #InvestLikeTheBest",
+      "commentCount": 197,
+      "likeCount": 1054,
+      "probeClient": "web_embedded"
+    },
+    "BdVOUNF-o5Y": {
+      "checkedAt": "2026-07-28T19:53:57Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "It was another bad day for tech, AI and chip stocks including Samsung, SK Hynix and Nvidia. \nInvestors have lingering concerns about the huge amounts being spent by tech giants on artificial intelligence projects, with an uncertain return on investment. \nMeanwhile, the ASX finished trading 0.6 per cent higher as the price of Brent crude oil dropped to its lowest level in a week after Donald Trump claimed the US is having \"good talks\" with Iran. \nPresented by David Chau.\nSubscribe: http://ab.co/1svxLVE\nRead more here: https://www.abc.net.au/news/2026-07-28/asx-markets-business-news-live-updates-tuesday-28-july/106965036\n\nNote: In most cases, our captions are auto-generated.\n\n#ABCNEWS #ABCNEWSAustralia #ABCBusiness",
+      "commentCount": 0,
+      "likeCount": 271,
+      "probeClient": "web_embedded"
+    },
+    "etazv9saJbo": {
+      "checkedAt": "2026-07-28T19:53:57Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Sam Altman, CEO of San Francisco-based OpenAI, claims artificial intelligence has reached a long-sought threshold in which the technology can improve itself, unleashing rapid progress that may prove difficult to fully control.\n\nThe milestone, known as the singularity, promises significant benefits for society, Altman said, appearing to rebuke concern among critics about the societal threat posed by wide adoption of AI.\n\nABC News reporter Sophie Flay has the story. https://abc7news.com/19588207/\n\n#samaltman #openai #ai #artificialintelligence #singularity #tech #abc7news",
+      "commentCount": 51,
+      "likeCount": 52,
       "probeClient": "web_embedded"
     }
   }
