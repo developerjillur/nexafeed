@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T15:53:27Z",
+  "updatedAt": "2026-07-28T16:53:36Z",
   "items": [
+    {
+      "id": "qf_jF1w7tgU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Professor of AI",
+      "publishedAt": "2026-07-28T16:21:02Z",
+      "firstSeenAt": "2026-07-28T16:53:36Z"
+    },
+    {
+      "id": "GkIEZHBzRNo",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-07-28T16:15:08Z",
+      "firstSeenAt": "2026-07-28T16:53:36Z"
+    },
+    {
+      "id": "NF8hpTXQsto",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-07-28T16:10:59Z",
+      "firstSeenAt": "2026-07-28T16:53:36Z"
+    },
+    {
+      "id": "L6D53cDy19U",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-07-28T06:43:11Z",
+      "firstSeenAt": "2026-07-28T16:53:36Z"
+    },
+    {
+      "id": "wknB3nYhCS4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech Contracts Academy",
+      "publishedAt": "2026-07-28T15:53:36Z",
+      "firstSeenAt": "2026-07-28T16:53:36Z"
+    },
+    {
+      "id": "eRp0gniM2Bo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tricky Man",
+      "publishedAt": "2026-07-28T13:53:36Z",
+      "firstSeenAt": "2026-07-28T16:53:36Z"
+    },
+    {
+      "id": "p1OkDfkpjCI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "College Wallah",
+      "publishedAt": "2026-07-28T13:53:36Z",
+      "firstSeenAt": "2026-07-28T16:53:36Z"
+    },
+    {
+      "id": "80xfrE4_lBg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "smpteconnect",
+      "publishedAt": "2026-07-28T12:53:36Z",
+      "firstSeenAt": "2026-07-28T16:53:36Z"
+    },
+    {
+      "id": "rTEXV927ctQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": " Flirting with Technology",
+      "publishedAt": "2026-07-28T07:53:36Z",
+      "firstSeenAt": "2026-07-28T16:53:36Z"
+    },
     {
       "id": "_xWmulwxcFw",
       "type": "short",
@@ -3886,6 +3958,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-07-28T16:53:36Z",
+      "new": 9,
+      "long": 4,
+      "shorts": 5,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T15:53:27Z",
+  "updatedAt": "2026-07-28T16:53:36Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -310,7 +310,7 @@
       "likeCount": 124
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-28T15:53:27Z",
+      "checkedAt": "2026-07-28T16:53:36Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -2150,15 +2150,6 @@
       "likeCount": 606,
       "probeClient": "web_embedded"
     },
-    "W5NFvPtFMTY": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment “free” for the Higgsfield FREE & UNLIMITED link.\n\nMost AI beginners burn cash learning tools that should cost nothing.\n\n@higgsfield.ai CEO lost his mind and made it all free.\n\nEvery top model. SeeDance 2.0 included.\n\nI used it to sit down with Gary Vee, turn myself into the Pink Panther, ship client UGC ads, and cut real estate walkthroughs.\n\nUnlimited access. Zero cost.\n\nThe catch: 13 hours left.\n\nComment “free,” I’ll send the link.\n\n#HiggsfieldCreator\n#AItools\n#Automation\n#ContentCreator\n#BuildInPublic",
-      "commentCount": 7,
-      "likeCount": 48,
-      "probeClient": "web_embedded"
-    },
     "0uTgBM6YBgQ": {
       "checkedAt": "2026-07-27T07:46:18Z",
       "embedAllowed": true,
@@ -2355,15 +2346,6 @@
       "description": "Why do people hype quantum computing so much? Here is the actual reason.\nA classical computer solves problems by exploring possibilities sequentially, one by one, checking each option until it finds the best answer. For small problems this is fast enough. But as the number of possibilities grows, the time needed to solve the problem grows exponentially. Problems that seem manageable at small scale become practically unsolvable at large scale.\nA quantum computer works on a fundamentally different principle.\nInstead of storing information in bits that are either 0 or 1, quantum computers use quantum bits called qubits. A qubit can exist in a superposition of both 0 and 1 simultaneously. This is not a metaphor. It is a direct consequence of quantum mechanics, the same physics that governs electrons, photons, and the fundamental behaviour of matter.\nWhen a quantum algorithm runs, it does not check possibilities one by one. Instead it manipulates these superposed states using a phenomenon called quantum interference. Interference amplifies the probability of correct answers and cancels out the probability of incorrect ones simultaneously. IBM describes interference as the engine of quantum computing. The result is that for certain categories of problems, a quantum computer can explore an exponentially larger solution space far more efficiently than any classical machine.\nThis is why the applications are so significant. Designing new drug molecules requires simulating quantum interactions between atoms, which classical computers cannot do accurately at scale. Discovering new materials for batteries, semiconductors, or superconductors involves the same problem. Optimising global logistics across millions of variables simultaneously. These are exactly the kinds of problems where quantum interference gives quantum computers a structural advantage over classical systems.\nIn December 2024, Google's Willow quantum chip performed a specific calculation in five minutes that would take the world's fastest classical supercomputers approximately ten septillion years. That gap is not incremental. It is architectural.\nThe problems that would take classical computers centuries may take quantum computers hours. Not because quantum computers are faster versions of classical computers. But because they compute in a fundamentally different way.\nSource: IBM, What Is Quantum Computing. Google, Willow Quantum Chip (2024). SpinQ, Quantum Interference in Quantum Computing (2025). Frontiers in Quantum Science and Technology, Quantum Computing Foundations (2025). Quantum Zeitgeist, Complete Guide to Quantum Computing (2026).\n#QuantumComputing #Qubits #Superposition #QuantumInterference #QuantumMechanics",
       "commentCount": 153,
       "likeCount": 26595,
-      "probeClient": "web_embedded"
-    },
-    "5jFhQ_Yfx5k": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "If your Claude Code keeps hitting usage limits, here are 4 free tools that fix that for good.\n\nFirst is Headroom.\n\nIt quietly sits between you and your AI model, compressing and removing unnecessary stuff before it reaches Claude.\n\nSame results, using far fewer tokens.\n\nSecond is Graphify.\n\nIt turns your entire codebase into a knowledge graph, linking every file and function together.\n\nSo Claude doesn't need to re-read everything from scratch every single session.\n\nThird is CodeBurn.\n\nIt shows you exactly where your tokens are going.\n\nBroken down by cost, task, model, tool, and project, so you know precisely what to optimize.\n\nThink of it like a bank statement for your AI spending.\n\nYou finally see where the money actually goes.\n\nAnd last is Ponytail.\n\nIt optimizes your Claude Code output, cutting your usage by over 50% without losing any accuracy at all.\n\nTogether, these four attack the token problem from every angle.\n\nCompression, memory, visibility, and output efficiency, all stacked.\n\n#Claudecode #Claudeai #claudeplugins #codeburn #graphify",
-      "commentCount": 13,
-      "likeCount": 1537,
       "probeClient": "web_embedded"
     },
     "sJt1sQO87sc": {
@@ -2589,15 +2571,6 @@
       "description": "Comment \"HUMAN\" and I'll send you the ebook. 🔥\n\nEvery coding agent has a middle layer that handles your prompts, memory, and sessions. Every tool you're paying for right now built that layer slow and heavy.\n\nOne developer built something that beats all of them and made it completely free.\nIt's called JCode.\n\n20x more memory efficient than Claude Code.\n63x faster than Codex.\n\nIt remembers things automatically as you go. Runs multiple sessions at once with zero slowdown. And agents can bring in their own helpers, one runs the show, the others do the work, all on the same codebase without stepping on each other.\n\nThe most powerful free coding agent on the market.\n\nSave this before you forget.\n\n#claude #aitools #prompts #artificialintelligence #chatgpt",
       "commentCount": 5500,
       "likeCount": 20336,
-      "probeClient": "web_embedded"
-    },
-    "17-JEpeZMmg": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "3D Artists vs. AI | Professor of How",
-      "commentCount": 255,
-      "likeCount": 34644,
       "probeClient": "web_embedded"
     },
     "Pw4oNv7LchQ": {
@@ -3626,79 +3599,6 @@
       "likeCount": 6,
       "probeClient": "web_embedded"
     },
-    "gpsH3hhRKrA": {
-      "checkedAt": "2026-07-28T09:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
-      "commentCount": 6,
-      "likeCount": 723,
-      "comments": [
-        {
-          "id": "UgxzYWafX_4eKCDHJ_R4AaABAg",
-          "author": "@tufan-tuf",
-          "text": "What about glm vaibhav sir",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/wtlxz28hOPnuDQoT0ipJF60nh4DtsCEZ9uZKIoAJYjKc7PtTT-r5u9KqcWunRVPMCxK7bm_h=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy92F1sKhAW-IgBYc14AaABAg",
-          "author": "@asutoshrath4521",
-          "text": "Most useless is Kimi 😂",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5LLkTg-D-orAjIv3QnONs9TM45y_AotBXm2mRPRn4eltxYktPs1EaE6EeEfGMXSfLHQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwDcHWhxl8KpoKppjl4AaABAg",
-          "author": "@ToolDuelAI",
-          "text": "\"ACTUALLY\" doing a lot of work in that title and I respect it. The only benchmark I trust anymore is: give both the same task, execute the output, and see which one produces something that runs on the first try.",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T23:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/rO7Wm8bCkmzMzSfk6ppHqfimLUl5JZsiujmD4xHF0B5zdFQxX_JxhT14S6eursWesX4nEem-=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxOPoMehT18zR4lbs94AaABAg",
-          "author": "@MalavDasa-du4fe",
-          "text": "Can you please make a video which  can explain that which model should we use for specific task like for coding for everyday work?",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kexSU46w6cYLAw7n2skj-kjy6uv4tRLz7Q3K1rsh5kWb6z0DWyfRdUElppkPxsBgt36Q=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwDc5PrYJatb777Kip4AaABAg",
-          "author": "@Vinay-chess",
-          "text": "Hello sir love your videos❤",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/knG5Mc2gTReszXB3TBV4TTMopfDHMqMggmpiPKiCAkzQVCx4j954A9rpFpcWGmV4IHI17X_g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwvZyV9jnW6ENFSP3d4AaABAg",
-          "author": "@ayushsharma464",
-          "text": "I wanna connect with you",
-          "likeCount": 2,
-          "publishedAt": "2026-07-27T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/06wIa58sVOwWaAUq-KnKVmmVpWL403-U_O8ZnrAyKjhE3h-ghtde5Yhn_8qhdX2USgXDqZTpag0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-28T09:53:13Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "2zdWI2SYB9I": {
       "checkedAt": "2026-07-27T10:53:51Z",
       "embedAllowed": true,
@@ -4167,123 +4067,193 @@
       "probeClient": "web_embedded"
     },
     "48tCnb_7_-s": {
-      "checkedAt": "2026-07-27T15:53:58Z",
+      "checkedAt": "2026-07-28T16:53:36Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 7,
-      "likeCount": 275,
+      "commentCount": 8,
+      "likeCount": 4496,
       "comments": [
         {
-          "id": "Ugw34uEb-U7ChdyiEbF4AaABAg",
-          "author": "@Project_K7",
-          "text": "All it is, is codex ad nothing else",
-          "likeCount": 1,
-          "publishedAt": "2026-07-27T15:51:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/EbcZ7Fh2SapkGBqxvaWZc_kmD2DV0BFnNc7vlyV62_BSjCvtO8jM40WuxmNPFGoZA4Nlj6o20A=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx193KYqhLnobjSc4N4AaABAg",
-          "author": "@atharvaaglawe5676",
-          "text": "Is it pj explained on yt screen",
-          "likeCount": 1,
-          "publishedAt": "2026-07-27T15:48:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m7xdGupwMoCcufN1kh1kZjyD2pxvY_zCYjMCB8VDMYczs=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxt5psLL0_bLPUl4pZ4AaABAg",
-          "author": "@ashishkatkar6847",
-          "text": "Broo plzz one request don't shave your beard",
+          "id": "Ugy13DgOXhnP6VgQS9h4AaABAg",
+          "author": "@mahima.on.youtube",
+          "text": "How to optimize our LinkedIn profile for this method of search by recruiters",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T15:48:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/x-vc92Dr8Xvf7KZJ33vMa94Nv9N8HU6TEuqV_Q3nNqyUsuMmJu1Qm2nyPyPXG5mo8q4F0D7r4w=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/l8irZ3ODWSMtYFS4XZVWDO4A4pQdVQQrrsUAupamzybxNN3dAfZYdxdTEwsIQcO8CdbhY_XaIw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxjETvCdEG87lXJRn54AaABAg",
-          "author": "@pcd_1306",
-          "text": "People will think it's scam email 🤣",
-          "likeCount": 3,
-          "publishedAt": "2026-07-27T15:32:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lbxLD5YDbPAQ5iSnGH7ARhwi9dy_3UpFIb6_QzmE4Gpy0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzwxHgUcHJ-t4GO7qh4AaABAg",
-          "author": "@SandipanChandamaverick",
-          "text": "So cool.",
+          "id": "UgzoDU5lMyTdnSa8C_l4AaABAg",
+          "author": "@humanvarun",
+          "text": "Varun, please don't be an amateur. Don't bring shame to all the Varuns.",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T15:29:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kW6DT4Wrx6e8BZ-Cd9eV2sUfYeWQW5a8Jnxt8lklUgqeAf=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Mk9u7irx1Mf1sGxRMrn4CvycKSUIF7pfw-qBf0rnCfZ8vyZu2JjWgOWmiS-_ZYkwuUDfj-6yNg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzDclzN5BkE3ETf2R14AaABAg",
-          "author": "@BharathKumar-th9dh",
-          "text": "interesting,\nbut we need to understand the algorithm underneath before proceeding",
+          "id": "UgxiaAKS9M62whnODFN4AaABAg",
+          "author": "@sunny-unik",
+          "text": "Sabka pani nikal dega thumbnail 😅",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T15:26:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m0ypqzs6JYOjP22FkER3POzw8_CQNDrjwcp0OuvN4=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/xgNSrPvItjK3k5F62eqIPlD1F_CWruiQw_TNzqmXh2eWaTQwPy8Ya4GlYSph8cAwrfkJs-zE_Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxyHdDXlyVgVAmjb2B4AaABAg",
-          "author": "@MusashiMiyamoto07",
-          "text": "My gawd, looking good varun bhaiya❤",
-          "likeCount": 1,
-          "publishedAt": "2026-07-27T15:25:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/caeW7nHtTbanb4FS9q7P0svrXfJUp_7vgg-urDtKx0r-s0he1iqu50_F2QyFqYyfld3OCff-UQ=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgwB77zHZetGo3FziRZ4AaABAg",
+          "author": "@shreejeshp19",
+          "text": "Actually!!…",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kzb9A30xZBR7ovPwqW7JPtzM4wQT9SSQGjFZ5XFKNmwV0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwlEr1VKLNc5Pr5xh14AaABAg",
+          "author": "@Hossain-k5o",
+          "text": "Can't trust those results tbh😂",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lL3a2p2kIBbgir_m-rckUr5pkGbwR1ycPtuGmQT3WUuLmQz_5O7czOh4UrUqhwiCJ0IA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxnXtB-fBLwOGt2PLx4AaABAg",
+          "author": "@sanjeevl6548",
+          "text": "Bro it is better in kimik3, fable when you paid I using for resreach purpose",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mV-nXb8a1XfU4_oNCpihw5TNhbX_uXKwBGj03a42ZhvQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw_pJx2qBQjGv_FLQZ4AaABAg",
+          "author": "@AnuB-f8s",
+          "text": "Avaaa tar. Av taar.",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/HmDlNxHOU7woQwaDxzb2y08nZyRPcV277Pjfw_FbHs317VmRYXEAwPdNCeomyhzGXnEhEjIHvAI=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyWfvkdayb36GZOxm54AaABAg",
+          "author": "@Nacool.19",
+          "text": "Pj explained",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/T0ECcgXbzXfpYA64eyrNSeyBn5E0kpq2Bw7_rE2wCul0J7WekFen3A7yP8oteArxxSuKfzRrVw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T15:53:58Z",
+      "commentsFetchedAt": "2026-07-28T16:53:36Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "Dn7joxP2jO0": {
-      "checkedAt": "2026-07-27T15:53:58Z",
+      "checkedAt": "2026-07-28T16:53:36Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"CLOUD\" and I'll send you the direct link. 🔥\n\nMost people are still managing accounts manually, but serious operators are using cloud phones to automate at scale.\n\nThe platform is called GeeLark. It runs real Android phones in the cloud, each with its own device fingerprint, IP address, location and digital identity.\n\nRun multiple cloud phones at the same time for account management, app testing, automation, traffic operations, and scaling workflows without exposing your personal device fingerprint.\n\nIt is like having dozens of separate smartphones running 24/7 without your computer staying on.\n\nSave this before you forget.\n\n#claude #aitools #geelark #artificialintelligence #chatgpt",
-      "commentCount": 2,
-      "likeCount": 11,
+      "commentCount": 8,
+      "likeCount": 355,
       "comments": [
         {
-          "id": "Ugws7RcBfuU3I9SxBhh4AaABAg",
-          "author": "@GrowwithTiTOO",
-          "text": "Cloud",
-          "likeCount": 1,
-          "publishedAt": "2026-07-27T15:39:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/RWpOXeGHICDb5uvKNgI_D2qRaGqyEXTGchLDafehZSRuFynAegNDDePmNSUuy6tYBw47oXC72g=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgxELnBedfN9Jk1M2wp4AaABAg",
+          "author": "@Mika_Universe",
+          "text": "cloud",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/rJ63vEYhDie4tgoDpLIs_Qq0KE4I67c3Doo4gV48-gwFAsvaNxiHkYZAX9vPYUFrTvXNCNuyqw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyhEAht6Q9YgxEdA3B4AaABAg",
-          "author": "@InsiderForce",
-          "text": "Comment “CLOUD” for the direct link.🔥",
+          "id": "Ugzmy5KK5-OFqJH8POR4AaABAg",
+          "author": "@gazelayth6292",
+          "text": "Cloud",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T15:04:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/jNjH5aurflHZRBuhGoJUJ9BERtQPPb7jF69EiMsu-roN5MIH8Th7CVNQVrgfTYqcLsZHN4F5xQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4ByKKaWJaIFTaNWaqPhKAbe44uomO9B8o0C6p6lplYQ-OaBwI2jkcHIFmX-n71PNIoPJNeJBGw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
-          "isUploader": true
+          "isUploader": false
+        },
+        {
+          "id": "UgxSkFj-Mbravlmgh7R4AaABAg",
+          "author": "@solapradeep6894",
+          "text": "Cloud",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhpdt52gf-ewuMICMSpf58jqqKXetktX-rAgmJkXZktJrVu4vDkBYngfAtIfmb6uJy3w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwoXAG-w9QtwEY2jrZ4AaABAg",
+          "author": "@calloscar1948",
+          "text": "cloud",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mgHoJp3t9nCe1f7ihtRZh96PeOGU6M2hYPwGjVZTA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwIagfRyuov_Vt3Zap4AaABAg",
+          "author": "@michaeluhr4078",
+          "text": "Cloud",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mTaL_VqsUUFYyTreXO1oSeUyFGRRaECwdzoV1YpJs=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxB-Di5AJkY9BIeX-l4AaABAg",
+          "author": "@ChaAhm-h4s",
+          "text": "Cloud",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mFwh2IrAgSRZ0bfsBI6zmAunMhdQdLYWio4gGzQHiQAgS8RJeBxykBSv3CKlCmqo2Z-A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxJaw5i3ZfRlO3nA1B4AaABAg",
+          "author": "@NnadiUchewilliams",
+          "text": "Cloud",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mkLO97kTQBhD1y6_12_RwCBlZbvm0lFWC1fm-6j2EAW9Vj9t7ftMX_By3gz5Ppz7-oIQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxL_MzSoHtU373gQKV4AaABAg",
+          "author": "@Hayat-pv1jk",
+          "text": "CLOUD",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_krOvw37jTzdXxKx9LLxqthA0TYsfEMIBqW17GhNiJZj6fAXWZX5VrvzLyMIgKzxEDtDw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T15:53:58Z",
+      "commentsFetchedAt": "2026-07-28T16:53:36Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-28T15:53:27Z",
+      "checkedAt": "2026-07-28T16:53:36Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4298,15 +4268,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-07-27T17:53:17Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "70XCwYKvbII": {
-      "checkedAt": "2026-07-27T17:53:17Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "The Vercel CLI is no longer just a way to deploy from your terminal. It's becoming a building primitive for agents: a programmable interface for connecting to resources, creating sandboxes, inspecting logs, and debugging deployments.\n\nChapters:\n00:00 The CLI as an agent primitive\n00:40 Vercel Sandbox from the CLI\n02:24 Feature flags with vc flags\n04:00 Testing deployments with vc curl\n05:50 Experimental native binaries\n07:07 The Vercel plugin: Claude Code, Codex, and Grok\n09:12 What's next",
-      "commentCount": 3,
-      "likeCount": 14,
       "probeClient": "web_embedded"
     },
     "2jsjiwV_1pA": {
@@ -4370,24 +4331,6 @@
       "description": "Prepare for GATE 2027 Robotics and Automation (RA) with the complete full course based on the GATE 2027 New Syllabus. This video covers everything you need to know about the GATE Robotics & Automation Full Course, including the latest syllabus, subject-wise preparation strategy, course structure, expert faculty guidance, study plan, live classes, practice sessions, test series, doubt-solving support, and tips to secure a top GATE rank. Whether you're a first-time aspirant or looking to improve your score, this course is designed to help you build strong concepts and excel in the GATE 2027 Robotics and Automation exam.\n\nSession By Apuroop Telidevara Sir , Pankaj Shukla Sir\n\n📕PW App/Website: https://physicswallah.onelink.me/ZAZB/PWAppWEb\n\n📕 GATE & ESE 𝐁𝐚𝐭𝐜𝐡/𝐂𝐨𝐮𝐫𝐬𝐞 𝐋𝐢𝐧𝐤𝐬: \n\n📮Vijay GATE 2027 Batch - Robotics & Automation\nhttps://physicswallah.onelink.me/ZAZB/4zfo9tlx \n\n📮Vijay GATE 2027 Rank Improvement Batch D\nCS: https://physicswallah.onelink.me/ZAZB/ljpfxofz \nEE: https://physicswallah.onelink.me/ZAZB/q791q0xc \nIN: https://physicswallah.onelink.me/ZAZB/jka34zst \nECE: https://physicswallah.onelink.me/ZAZB/j13r06hi \nCS&IT: https://physicswallah.onelink.me/ZAZB/964497z6 \nDA: https://physicswallah.onelink.me/ZAZB/4odvq98p \nCE: https://physicswallah.onelink.me/ZAZB/z013ttd3 \nME&XE: https://physicswallah.onelink.me/ZAZB/cfk22wuv \n\n📮Parakram 2.0 GATE 2027 Batch D (Hinglish) \nECE: https://physicswallah.onelink.me/ZAZB/gnamjgt9 \nEE: https://physicswallah.onelink.me/ZAZB/sfxlxl5u \nIN: https://physicswallah.onelink.me/ZAZB/q13oiupe \nCH: https://physicswallah.onelink.me/ZAZB/anz9o50x  \nCS: https://physicswallah.onelink.me/ZAZB/fvhcjfg7 \nCS&IT: https://physicswallah.onelink.me/ZAZB/yi01dmww \nME&XE: https://physicswallah.onelink.me/ZAZB/8wzg6gew \nCE: https://physicswallah.onelink.me/ZAZB/e84cvn5e \nDA: https://physicswallah.onelink.me/ZAZB/nn8xi27i \n\n📮Parakram 2.0 GATE 2027 Batch D (English) \nME&XE: https://physicswallah.onelink.me/ZAZB/3nhus771 \nECE: https://physicswallah.onelink.me/ZAZB/nml2ll2b \nEE: https://physicswallah.onelink.me/ZAZB/a6ibnzh2 \nCS: https://physicswallah.onelink.me/ZAZB/6fff3fc4 \nCE: https://physicswallah.onelink.me/ZAZB/a4emcq2w \n\n📮Parakram 2.0 2027 ESE + GATE + PSUs Batch D \nME&XE: https://physicswallah.onelink.me/ZAZB/fw5b1939 \nECE: https://physicswallah.onelink.me/ZAZB/1vaawgiz \nEE: https://physicswallah.onelink.me/ZAZB/frnm98uf \nCE: https://physicswallah.onelink.me/ZAZB/tq7e4c5s \n\n📮Parakram 2.0 GATE 2027 Batch C (English) - Aerospace Engineering \nhttps://physicswallah.onelink.me/ZAZB/93uj9nzs \n\n📮Parakram 2.0 GATE 2027 Batch B (Hinglish) - Production and Industrial Engineering \nhttps://physicswallah.onelink.me/ZAZB/gxxddvsc \n\n📮Parakram 2.0 GATE 2027 Batch D (Hinglish) - Environmental Science and Engineering\nhttps://physicswallah.onelink.me/ZAZB/872naoju\n\n\n\n📮Parakram 2.0 GATE 2027 + PSUs + Placement Preparation Batch D - Computer Science & IT \nhttps://physicswallah.onelink.me/ZAZB/9aphrui7  \n\n📮Shreshth 2.0 GATE 2028 + PSUs + Placement Preparation Batch D - Computer Science & IT \nhttps://physicswallah.onelink.me/ZAZB/i8iswi4i \n\n📮Shreshth 2.0 ESE + GATE 2028 Batch D\nEE: https://physicswallah.onelink.me/ZAZB/szrhg0n4 \nECE: https://physicswallah.onelink.me/ZAZB/512jqm6c \nME: https://physicswallah.onelink.me/ZAZB/xzcw2vag \nCE: https://physicswallah.onelink.me/ZAZB/fruiohzl \n\n📌 GATE Wallah SOCIAL MEDIA -\n▶ Our Telegram Page: https://t.me/gatewallah_official\n▶ Telegram Group for ECE : https://t.me/GWElectroandcom\n▶ Telegram Group for ME : https://t.me/GATEWallahMechanicalengineering\n▶ Telegram Group for CE : https://t.me/GATEWallahCivilEngineering\n▶ Telegram Group for CS & DA : https://t.me/Gwcomsciandinfo\n▶ Telegram Group for CH : https://t.me/gatewallah_chemicalengineering\n▶ Our Instagram Page: https://www.instagram.com/pwgatewallah?igsh=MTl0dTB4MzU1YzVzcQ\n▶ Our LinkedIn Page: https://www.linkedin.com/company/gate-wallah/\n\n📌 RECOMMENDED CHANNELS FOR YOU :\n🌐 GATE Wallah ECE, EE & IN - https://www.youtube.com/@GATE_Wallah_ECE-EE-IN\n🌐 UPSC ESE Wallah - https://www.youtube.com/@UPSC_ESEWallah\n🌐 GATE Wallah - https://www.youtube.com/@GATEWallahbyPW\n🌐 GATE Wallah CSE & DA - https://www.youtube.com/@gatewallah_cse_da\n🌐 GATE Wallah ME, CE & XE - https://www.youtube.com/@GATEWallah_ME_CE_XE\n🌐 GATE Wallah (English) - https://www.youtube.com/@gatewallahenglish\n🌐 Engineers Wallah AE/JE - https://www.youtube.com/@engineerswallah\n🌐 Btech Wallah - https://youtube.com/@BTech_bypw\n🌐 Agriculture Wallah - https://www.youtube.com/@agriculturewallahbypw\n🌐 JEE Wallah - https://www.youtube.com/@PW-JEEWallah\n\n📌 For any Queries or Complaints Visit: https://bit.ly/PW_Queries OR give a Missed Call on:- 08068874003\n\n632f130e568ede00182143e8 , 641bfaf71fb7b80018bda43e\n\n#GATE2027 #RoboticsAndAutomation #GATERA #GATENewSyllabus #GATEPreparation #GATE2027Preparation #Robotics #Automation #GATEWallah #PhysicsWallah",
       "commentCount": 2,
       "likeCount": 83,
-      "probeClient": "web_embedded"
-    },
-    "KMPKOlVq_uE": {
-      "checkedAt": "2026-07-27T22:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Planet Crafter is a science fiction space survival open world terraforming crafting and survival game. Transform the ecosystem of a hostile planet to make it livable for humans in this space game. Survive, collect, build your base then create oxygen, heat and pressure to make a brand new biosphere. Join me in my Planet Crafter gameplay as I try not to die and make this planet a suitable place to live! I have left behind the fully terraformed planet, Toxicity, to embark on an epic journey on the other DLC planet: Humble! This isn't a simulation this time (or so I believe)!\n\nThe Planet Crafter developer's X Page! Go let them know about this episode!:\nhttps://x.com/MijuGames\n\nIf you enjoy my content please consider supporting me on Patreon:  https://www.patreon.com/greimer\n\nGREIMER MERCH IS AVAILABLE!\nhttps://my-store-de7b1c.creator-spring.com/\n\nGot fan art?  I want to see it! Send it to me on X:\nhttps://twitter.com/GamingGreimer\n\n#planetcrafter #planetcraftergameplay",
-      "commentCount": 10,
-      "likeCount": 25,
-      "probeClient": "web_embedded"
-    },
-    "aT_bG8szrEc": {
-      "checkedAt": "2026-07-27T22:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UC4M1snKkcGvEVOBGC5LnGdQ/join\n\nPlease subscribe and turn on notification bell to support the channel!\nLiquid+ ► https://liquidplus.com/experiences/qojqvaplus\nTwitter ► https://twitter.com/qojqva1\nTwitch ► https://www.twitch.tv/qojqva\nInstagram ► https://www.instagram.com/qojqva_max/",
-      "commentCount": 14,
-      "likeCount": 129,
       "probeClient": "web_embedded"
     },
     "EXRBvvsrYJI": {
@@ -4559,15 +4502,6 @@
       "description": "Learn more abt lead gen: https://www.skool.com/ai-inner-circle/about\n\nHow I Built a 24,000 Email Lead List on Full Autopilot\n\nEvery funnel starts with an email lead list you actually own, not followers a platform can take away tomorrow. Here is the exact top of funnel system I use to turn Instagram comments into verified email subscribers automatically.\n\nIn this video you'll learn:\n• How to automate Instagram DMs into lead magnets\n• Why gating your lead magnets captures every email\n• How to verify emails before they hit your list\n• The 3 day welcome drip that upsells on autopilot\n\nTOOLS I USE IN THIS VIDEO\nBeehiiv (20% off): https://www.beehiiv.com/?via=manthan-patel\nGoHighLevel (30-day free trail): https://www.gohighlevel.com/?fp_ref=manthan\nn8n: https://n8n.partnerlinks.io/manthan\nSubpage: https://subpage.co/?via=manthan\nReoon Email Verifier: https://www.reoon.com/email-verifier/?inv=r2gq93fm\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"FUNNEL\" and I'll DM you the full checklist with the n8n workflow, every tool, and the exact setup order.\n\nIf this saved you weeks of trial-and-error, hit subscribe — I drop one builder-to-builder tutorial every week.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 Why every funnel starts with an email list\n1:39 What an email lead list actually looks like\n2:16 STEP 1 — Your traffic source (Instagram)\n3:05 What makes a good lead magnet\n4:24 STEP 2 — DM automation setup (GoHighLevel)\n6:08 STEP 3 — Capturing emails with gated pages (subpage.co)\n8:20 Alternative platforms and custom domains (Tally.so, GoDaddy)\n9:55 STEP 4 — The n8n automation layer\n11:15 Email verification in action (Reoon)\n12:14 Why 37,000 leads became 24,000 after cleaning\n12:54 Never buy or scrape an email list\n13:47 STEP 5 — Beehiiv and the 3 day welcome drip\n15:58 Building the entire drip with Claude Code and Beehiiv MCP\n17:43 Connecting n8n to Beehiiv with the API\n19:39 Full workflow walkthrough end to end\n21:15 Warm leads vs cold leads, when to sell\n23:39 Real examples (Liam Ottley, Ben AI, Nick Saraev)\n25:45 How to reverse engineer anyone's email platform\n\n#emaillist #leadgeneration #leadgenman",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "pcEovm0v4pc": {
-      "checkedAt": "2026-07-28T04:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get $5 Free Credit of Sent API : https://www.sent.dm/en?utm_source=codist&utm_medium=x&utm_campaign=partner\n\n\nRAG, MCP, and A2A solve three very different problems in AI agent development—but understanding how they work together is the key to building reliable, production-ready agents.\n\nIn this video, we build an imaginary travel assistant called Atlas and follow it through the complete AI agent stack:\n\n- How APIs provide predictable software integrations\n- How RAG gives agents fresh, relevant, and authorized knowledge\n- How MCP connects AI applications to external tools and services\n- How A2A enables independent agents to collaborate on complex tasks\n- Why permissions, validation, user consent, and security still matter\n- How all four layers work together in a real-world booking workflow\n\nThe simplest distinction:\n\nRAG provides knowledge. MCP provides tools. A2A coordinates agents. APIs power the underlying services.**\n\nBy the end, you’ll understand where each technology fits, what it does—and what it does not do.\n\nSent provides one messaging API for SMS, WhatsApp, and RCS. Sign up through the link above to receive $5 in free credit.\n\nWant to see the complete Atlas workflow built in code? Comment **“Atlas”** below.\n\nSubscribe for more practical explanations of AI agents, LLM architecture, MCP, RAG, and agentic systems.\n\n\n#RAGVsMCPVsA2A  #RAGMCPA2AExplained  #MCPExplained #RAGExplained  #A2AProtocolExplained  #AIAgentsExplained #AIAgentArchitecture #AgenticAI  #ModelContextProtocol #Agent2AgentProtocol #RetrievalAugmentedGeneration #AIAgentTutorial  #HowAIAgentsWork  #MCPVsAPI #A2AVsMCP #RAGVsFineTuning #LLMAgents #AIAgentTools #FunctionCalling #MultiAgentSystems #AgentToAgentProtocol #AIArchitecture #GenerativeAI #AnthropicMCP #GoogleA2A #BuildAIAgents",
-      "commentCount": 2,
-      "likeCount": 28,
       "probeClient": "web_embedded"
     },
     "YVAzXsrx10w": {
@@ -4859,7 +4793,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-28T15:53:27Z",
+      "checkedAt": "2026-07-28T16:53:36Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5113,13 +5047,281 @@
       "likeCount": 1068,
       "probeClient": "web_embedded"
     },
-    "xW-yPOlOCH4": {
-      "checkedAt": "2026-07-28T15:53:27Z",
+    "GkIEZHBzRNo": {
+      "checkedAt": "2026-07-28T16:53:36Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "Antigravity → https://goo.gle/4biai9b \nCodelab on Getting started with Antigravity → https://goo.gle/4hyDMU3 \n\nAre we witnessing the end of traditional programming, or just the beginning of a fundamental shift in developer identity? In this episode of the Agent Factory, host Smitha Kolan sits down with Alberta Devor Ver (aka Alberta Tech), an ex-Google engineer who transitioned from building infrastructure to leading tech commentary with nearly 1 million followers.\n\nTogether, they break down the reality of \"vibe coding,\" what AI agents actually mean for software engineering, and whether the junior engineer role is on the brink of disappearing.\n\nAlberta shares her journey from working on Google Maps data infrastructure and YouTube Labs features to building a full time creator career. Watch an unscripted, live demonstration of Google Antigravity as it plans, scrapes, summarizes, and ranks Hacker News discussions in real time with zero manual lines of code written. \n\nThe duo also discusses the incoming code quality crisis, whether engineers are losing core technical skills, and how technical founders can build an authentic audience without sounding sales-y.\n\nWhether you are a developer integrating AI coding tools into your workflow, a technical founder scaling your distribution, or evaluating if learning to code is still worth it, this conversation offers practical strategies and industry perspective.\n\nChapters:\n00:00 - Guest intro: Alberta Tech\n01:51 - Leaving Google to become a full time creator\n02:38 - What is \"vibe coding\"?\n03:27 - How vibe coding \"fixed my imposter syndrome\"\n04:21 - Live demo: Google Antigravity scrapes & ranks HackerNews\n09:46 - Is an AI code quality crisis coming?\n10:48 - Will AI replace junior engineers?\n12:58 - Are we offloading too much zhinking to AI?\n14:29 - What will software engineers do in 2 years?\n15:31 - Developer sentiment: AI threat vs productivity noost\n16:57 - Is it still worth learning to code?\n18:18 - How technical founders can build an audience\n19:13 - Upleveling technical topics for a broader audience\n22:54 - Rapid fire: CS degrees, standups & LeetCode\n\nMore resources:\nDeveloping agents on Google Cloud → https://goo.gle/4bzLqdp \nIntroducing Google Antigravity 2.0 → https://goo.gle/4hztwem \n\nConnect with the speakers online:\n*Smitha* (Host):\n* YouTube → https://goo.gle/Smitha-on-YouTube\n* LinkedIn → https://goo.gle/Smitha-on-LinkedIn\n* X → https://goo.gle/Smitha-on-X\n\n*Alberta Devor / @AlbertaTech:*\n* YouTube → https://goo.gle/AlbertaTech-on-YouTube\n* TikTok → https://goo.gle/AlbertaTech-on-TikTok\n* Instagram → https://goo.gle/AlbertaTech-on-Instagram\n\nWatch more of The Agent Factory → https://www.youtube.com/watch?v=qBOvM7SiDa4&list=PLIivdWyY5sqLXR1eSkiM5bE6pFlXC-OSs\n🔔 Subscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nSpeakers: Smitha Kolan, Alberta Devor Ver\nProducts Mentioned: Google Maps, YouTube, YouTube Labs, Antigravity",
-      "commentCount": 31,
-      "likeCount": 233,
+      "description": "This AI skill lets you scrape platforms like Twitter, Reddit, YouTube, GitHub, and Chinese platforms like XiaoHongShu and Bilibili.\n\nAll without paying for a single API key.\n\nIt's called Agent Reach.\n\nIt's a free open source CLI tool built for Claude Code, Cursor, and other AI agents.\n\nJust run one install command in your terminal.\n\nYour agent gains access to over a dozen platforms instantly.\n\nThink of it like handing your agent a master key instead of asking it to pick every lock one by one.\n\nSome platforms like YouTube, GitHub, and Bilibili work with zero setup right away.\n\nAgent Reach already knows how to route requests to the right tool underneath.\n\nOthers like Twitter and Reddit need you to log in once.\n\nYou export your browser cookies, since those platforms require an authenticated session before anything can be read.\n\nThat one-time setup takes a couple of minutes.\n\nAfter that, your agent handles everything on its own.\n\nWith it, you can pull YouTube transcripts, search Reddit discussions, read GitHub repos, or check what's trending on Twitter.\n\nAll through one single tool.\n\nThere's also a built-in doctor command that checks which platforms are ready to go.\n\nIt tells you which ones still need that login step, so you're never guessing what's missing.\n\nThis used to take a full day of hunting down scrapers and debugging auth flows.\n\nNow it's one command and a few minutes of login.\n\n#agentreach #Claudecode #claudeskills #webscraping #aiscrap",
+      "commentCount": 1,
+      "likeCount": 19,
+      "comments": [
+        {
+          "id": "Ugxr-DOCnnn7e7_UVPF4AaABAg",
+          "author": "@nickautomates",
+          "text": "First, you can setup Agent Reach by running these commands in your AI coding agent:\n\nhttps://github.com/Panniantong/Agent-Reach/blob/main/docs/README_en.md#quick-start\n\nSecond: If you want to learn how to build systems & then apply them to real businesses to get clients, check out Maker School. \n\nIt's my AI agent & automation community, where I teach you how to build Claude Code, Codex, & n8n based flows, and sell them to your first client in 90 days. \n\nIncludes a 100% money back guarantee if you don't get a paying client!\n\nhttps://www.skool.com/makerschool/about?ref=0a3be5900d60497cb3542cca1ed3fdcb",
+          "likeCount": 1,
+          "publishedAt": "2026-07-28T16:16:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/wqFanyf3to18BbPL8FE9F614Wx8VtblcVB3Vt_wL8yynTDiYEzxTXe-e4WjMqB5U0OQdKNmncg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-07-28T16:53:36Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "qf_jF1w7tgU": {
+      "checkedAt": "2026-07-28T16:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 8,
+      "likeCount": 782,
+      "comments": [
+        {
+          "id": "Ugym1cvtSXpbpMcB_jR4AaABAg",
+          "author": "@avishekj999",
+          "text": "Bro controversy chodo mujhe pin kar do 😅.       Kya pata \n100 million view aajaye",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:51:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/wdaSrcHP7dKcC414JQe6Ltw7q2rnDUyxsIer7Bc3ANrvSi9JgQHVEyBtxYBuXF8qPNjm48ugaGg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzXebEpM13sGkdEbvZ4AaABAg",
+          "author": "@RugvedKulkarni-ir4dq",
+          "text": "India abhi bhi astrology pe atka hai",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:49:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kICLEWVz_Df11W9j2QDfrHNDDg1x_VaLwS8b0VSK2HbsRDCJlZlRWUA-jL7XAQ5mwfAg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxAhVM7aOmAjedLZvt4AaABAg",
+          "author": "@perfectgaming916",
+          "text": "CONTENT NIGHT BY NIGHT 📈📈",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:48:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/aEBjvWhdhgXCsjQxs8LMjTpvqdRt1MRoeYEWx4uR9-DxsQW6i-m7Nr0RuUNtZrXnU9gGpUoifA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxhWsJhk8B83d-03G14AaABAg",
+          "author": "@Ajaykumar-g2w9d",
+          "text": "Ok😅😅😅😅",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:46:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/idYsk6xSKMCl2yiZcNdkrl6GUVMaYaPOQrPdDP5ZHJGU8u-NzEHAjvVl9-3ud8mhflEnuZwxboc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyUwlWP0CnUDMi_h9V4AaABAg",
+          "author": "@xohop1650",
+          "text": "Kimi k3",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:39:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/PANgB0khYx9MfuKsQHGXTR4AGqY3JJXXF7M8AYrd8iyL1wtQoCJLq_oPcYqcYWkN1R_27kk8vlg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzPpELyVbVzNWIx4hF4AaABAg",
+          "author": "@Aaditya-g12",
+          "text": "China is the best country",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:38:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5LLkTg-D-orAjIv3QnONs9TM45y_AotBXm2mRPRn4eltxYktPs1EaE6EeEfGMXSfLHQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx0LiaREHRCDsny1Yd4AaABAg",
+          "author": "@MagarLadlee",
+          "text": "Lekin bhai hum to vishwaguru hai 👽 ham to sabhi ai ko breakfast me hi bana lete hai 😂",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:38:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/toClLSfzqKL2Kf-Tbrqbrq1Qg3R80rF8teEOm7vlaSl4KI4GWcPnNySgeMrdkDu9Ntp4Ey8DnQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwTVsuqkniGq_PcWSR4AaABAg",
+          "author": "@aethryxmusic",
+          "text": "China Ai Can't beat music 😅",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:36:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-0m4XSqc_mXN1hGUoRlEIbnT6xYLp7IxhUrbHO2WNbEghXa8FIWk-SnBKeXj_52kKMXg4xXD=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-28T16:53:36Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "NF8hpTXQsto": {
+      "checkedAt": "2026-07-28T16:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment \"Genspark\" and I'll send you my link\n\nPaying for a CRM, a research tool, and a spreadsheet app? That stack is dead weight. @GensparkProduct \n\nDump your messy sheets in chat. Use your words.\n10 minutes later you've got a working pipeline.\n\nSuper Agent takes one prompt and ships a competitor report, formatted, client ready.\n\nAI Sheets writes the formulas for you.\n\nNo code. One tab, fam.\n\n#AItools\n#Automation\n#WorkwithGenspark\n#AIAgents\n#Genspark",
+      "commentCount": 1,
+      "likeCount": 2,
+      "comments": [
+        {
+          "id": "UgyEPxo7g0ALBuH4UmB4AaABAg",
+          "author": "@charlieautomates",
+          "text": "Get your free credits here: https://www.genspark.ai/?utm_source=yt&utm_campaign=charlieautomates",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:17:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-07-28T16:53:36Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "L6D53cDy19U": {
+      "checkedAt": "2026-07-28T16:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
+      "commentCount": 8,
+      "likeCount": 1418,
+      "comments": [
+        {
+          "id": "UgyjJwLxQbrTiJ6V27t4AaABAg",
+          "author": "@DigeshAcharya",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:46:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kmeSmwyNHYGBEkgO4Lzxnta3duFdtAK_ieHlrspf6jRoGt=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwjh6_Y4E3GXBSKYZx4AaABAg",
+          "author": "@workoutsongz",
+          "text": "free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:45:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lS4rTS_NUWN9GQsoRf_gUsflV7YbmKryNGqK5J7xWOIt3AtHQVn0Ahc6cAWoAyQVqJvQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxO4dW5pdNCQmesRLN4AaABAg",
+          "author": "@rajeshpamidimukala8501",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:43:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kzM_Ikf3Q8WKiH3mu6wpQgas2I7nTjH6u3X7em8Oi12aOV=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy5RWSAzoF7vK8hy4F4AaABAg",
+          "author": "@AC-hk6oq",
+          "text": "free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:28:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kZ9BqErMm0yILeWAGqb7Sarb9bE5T31PShW8DUH_aOeEA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyTZRP3t2qqY70T2ul4AaABAg",
+          "author": "@paaruz",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:26:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mN2wCVhmhSNMAw1zblOR4fmGSR0GbkNtD9dn_qitk=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz9KSWlIts_zvlOdEF4AaABAg",
+          "author": "@abhishekdotbanerjee",
+          "text": "Hi",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:24:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kVyIgMkFCR_JLJQTS0h4G5z-eMy7d82qhCgmYR2_F4_cWY=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwfmY7XXz7doHkP3Fh4AaABAg",
+          "author": "@strongu6067",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:06:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nM-WEuW0SrnutyuA2WgG5frYMf8G-JizoeNB0fCbo-jOA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgymTmhtIbo-x8_aA9x4AaABAg",
+          "author": "@tufan-tuf",
+          "text": "After 2 jobs successfully applied next what happens everyone know : reached your credit limit 😂😂",
+          "likeCount": 2,
+          "publishedAt": "2026-07-28T16:04:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/wtlxz28hOPnuDQoT0ipJF60nh4DtsCEZ9uZKIoAJYjKc7PtTT-r5u9KqcWunRVPMCxK7bm_h=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-28T16:53:36Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "wknB3nYhCS4": {
+      "checkedAt": "2026-07-28T16:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get a focused, practical introduction to how contract professionals can organize and evaluate today’s expanding landscape of AI and software tools. This c. 8 minute sample lesson from Best AI and Other Software for Contract Professionals breaks down the types of AI relevant to the tech contracting ecosystem into clear categories. And it offers guidance about how to think about — and shop for — AI solutions. If you’re exploring how AI fits into your contracting practice — or simply want a clear, vendor‑neutral overview — this sample lesson is a great place to start.\n \nThis lesson is part of our larger course -- Best AI and Other software for Contract Professionals -- that covers generative AI for contract drafting and review, benchmarking tools, agentic AI, open‑source contracting options, and how emerging technologies are reshaping the future of legal and contracting work. For more information, and to purchase 100 days’ access, please check here: https://courses.techcontracts.com/p/best-ai-tools-for-contract-professionals\n\nPlease visit techcontracts.com for more contracting resources, including articles, sample clauses, and other trainings. (Sample lessons available to view – without obligation - on each course’s sales page.)\n\n[Tech Contracts Academy®, LLC is not a law firm and does not provide legal services. Its publications and courses are for general, informational purposes only. They are not to be considered and do not provide legal advice. Access is subject to Terms of Use and Privacy Policies, available on each course’s sales page. Course details are subject to change. No CLE without purchase.]",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "eRp0gniM2Bo": {
+      "checkedAt": "2026-07-28T16:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "TATA Launched 15 Days FREE Digital Certification 2026 | AI Prompt Engineer Course Explained\n\nTATA Free AI Course Link - https://coursejoiner.com/free-online-courses/tcs-free-ai-foundation-course/\n\nFor Internship referrals, Join me on Whatsapp - https://whatsapp.com/channel/0029VajRYu11nozF677Tu42p\n\n\n-----------------------------\n📸 Instagram - https://www.instagram.com/trickymanofficial\n📝 Whatsapp - https://whatsapp.com/channel/0029VajRYu11nozF677Tu42p\n🎙 Telegram - https://telegram.im/@Trickyman2\n💻 LinkedIn - https://www.linkedin.com/in/piyush-sharmaaaa/\n---------------------------------\nOur 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 For Free Courses - https://www.coursejoiner.com/\n---------------------------------\n𝗖𝗵𝗲𝗰𝗸𝗼𝘂𝘁 𝘁𝗵𝗲 𝗕𝗲𝘀𝘁 𝗩𝗶𝗱𝗲𝗼𝘀 𝗢𝗻 𝗠𝘆 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 💡\n💡 Kotak Free Laptop Scholarship 2026 ➤ https://youtu.be/7k2Td-rp7vA\n💡 MBA vs MCA - Which Degree Pays ➤https://youtu.be/IBNmGnSOIO4\n💡 Amazon - Work from Home | August ➤ https://youtu.be/pk_TE4efIXE\n💡 Google Apprenticeship 2026 ➤ https://youtu.be/xA86TJW6MxE\n💡 Blinkit - Work From Home Jobs 2026 ➤ https://youtu.be/4Ie-Y3cmPKI\n-------------------------------\n✨ Tags ✨\nTATA free certification 2026, TATA digital certification, TATA free course 2026, TATA AI course free, TATA prompt engineer course, TATA free certificate 2026, TATA 15 days free course, TATA free training 2026, TATA free online course, TATA skill development, TATA free course India, AI prompt engineer course, prompt engineering free course, prompt engineering certification 2026, prompt engineer career India, how to become prompt engineer, prompt engineering salary India, AI prompt engineering free, free AI course 2026, free AI certification 2026, artificial intelligence free course India, AI course free certificate 2026, free certification 2026 India, free course alert 2026, free IT course India 2026, free course no fees India, free course no exam India, free online course with certificate 2026, best free certifications 2026, free certificate for resume India, free certificate for LinkedIn, free certification for freshers, free certification for students India, TATA strive free course, TATA trusting free, TATA iQ free course, Tata Technologies free course, prompt engineer kaise bane, AI engineer free course India, generative AI free course 2026, ChatGPT free course certificate, AI tools free course 2026, digital skills free course India, upskill free India 2026, best AI course India 2026, trickyman, free course alert, TATA free course alert\n\n#tata #ai #promptengineering #aicourses #trickyman \n\nDISCLAIMER: This video is intended for educational and informational purposes only. We do not guarantee any specific job placements or internship offers. Results may vary from the video, and any success stories or examples shared are not a guarantee of future success.",
+      "commentCount": 19,
+      "likeCount": 219,
+      "probeClient": "web_embedded"
+    },
+    "p1OkDfkpjCI": {
+      "checkedAt": "2026-07-28T16:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Gen AI Engineer Roadmap 2026!\n\nWant to become a GenAI Engineer in 2026? This complete roadmap covers the skills, tools, projects, and learning path you need to build a successful AI career.\nWatch till the end and start your journey in Generative AI with the right roadmap.\n#GenAI #AIEngineer #GenerativeAI #TechCareer #CollegeWallah #PWSkills",
+      "commentCount": 12,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "80xfrE4_lBg": {
+      "checkedAt": "2026-07-28T16:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "The release of ChatGPT last year has turned Generative AI into this year’s unexpected obsession. Amidst the deafening hype, the technology is interesting in that it promises to accelerate and augment some of the media industry’s workflows. But it’s still early, and AI as a field is still fuzzy, experimental, and plagued by fantasy to make robust predictions. This presentation will soberly lay out what Generative AI is, what it can and cannot do, which companies are using it to build meaningful tools, and what it means for those working throughout the chain of content creation.",
+      "commentCount": 0,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "rTEXV927ctQ": {
+      "checkedAt": "2026-07-28T16:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Discover the mechanics behind Generative AI image erasing! In this video, we explore how smart AI photo editors on top smartphones—like the Samsung Galaxy S25 Ultra, Apple iPhone 16e, Google Pixel 9 Pro XL, and Xiaomi 15—seamlessly remove unwanted objects and photobombers from your pictures. Learn how these tools use computer vision, object segmentation, and contextual inpainting to synthesize new pixels and fill the background flawlessly.\n\nHashtags #GenerativeAI, #AIPhotoEditing, #ObjectEraser, #MagicEraser, #GalaxyAI, #AppleIntelligence, #SmartphonePhotography, #TechReview, #ArtificialIntelligence\n\nDisclaimer: This video contains AI-generated images, an AI-generated script, and an AI-generated voice-over.",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }
