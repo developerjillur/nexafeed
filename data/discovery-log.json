@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T02:53:09Z",
+  "updatedAt": "2026-07-28T03:53:09Z",
   "items": [
+    {
+      "id": "Ra1cAR_61Gk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nkracademy Digital Solutions",
+      "publishedAt": "2026-07-27T19:53:09Z",
+      "firstSeenAt": "2026-07-28T03:53:09Z"
+    },
+    {
+      "id": "hqzzijOGKfU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mounaim RA",
+      "publishedAt": "2026-07-27T18:53:09Z",
+      "firstSeenAt": "2026-07-28T03:53:09Z"
+    },
+    {
+      "id": "Mu6bJaVsUDg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rob The AI Guy",
+      "publishedAt": "2026-07-27T17:53:09Z",
+      "firstSeenAt": "2026-07-28T03:53:09Z"
+    },
+    {
+      "id": "8SRuJmxSato",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Testing Academy",
+      "publishedAt": "2026-07-27T14:53:09Z",
+      "firstSeenAt": "2026-07-28T03:53:09Z"
+    },
+    {
+      "id": "86AlV6174KI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Trading with DaviddTech",
+      "publishedAt": "2026-07-27T13:53:09Z",
+      "firstSeenAt": "2026-07-28T03:53:09Z"
+    },
     {
       "id": "CXDSTsd-CKE",
       "type": "short",
@@ -3419,6 +3459,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-07-28T03:53:09Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 14,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
