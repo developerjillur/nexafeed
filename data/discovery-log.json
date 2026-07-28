@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T23:53:05Z",
+  "updatedAt": "2026-07-28T00:53:07Z",
   "items": [
+    {
+      "id": "6_F1v5QWEo0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BMF MEDIA",
+      "publishedAt": "2026-07-27T23:53:07Z",
+      "firstSeenAt": "2026-07-28T00:53:07Z"
+    },
+    {
+      "id": "EyIYybdLK0M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Alex Finn",
+      "publishedAt": "2026-07-27T22:53:07Z",
+      "firstSeenAt": "2026-07-28T00:53:07Z"
+    },
+    {
+      "id": "IIBGiyUinMw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI News Today | Julian Goldie Podcast",
+      "publishedAt": "2026-07-27T18:53:07Z",
+      "firstSeenAt": "2026-07-28T00:53:07Z"
+    },
+    {
+      "id": "WbUIFBN_8FM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pro Coder",
+      "publishedAt": "2026-07-27T17:53:07Z",
+      "firstSeenAt": "2026-07-28T00:53:07Z"
+    },
+    {
+      "id": "4JofSJIrjwU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech With Tim",
+      "publishedAt": "2026-07-27T14:53:07Z",
+      "firstSeenAt": "2026-07-28T00:53:07Z"
+    },
     {
       "id": "EXRBvvsrYJI",
       "type": "short",
@@ -3288,6 +3328,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-07-28T00:53:07Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
