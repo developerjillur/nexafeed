@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T05:53:11Z",
+  "updatedAt": "2026-07-28T06:53:12Z",
   "items": [
+    {
+      "id": "ewHkrvMQhxs",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-07-28T06:30:04Z",
+      "firstSeenAt": "2026-07-28T06:53:12Z"
+    },
+    {
+      "id": "kr2janqtQPo",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-07-28T06:00:26Z",
+      "firstSeenAt": "2026-07-28T06:53:12Z"
+    },
+    {
+      "id": "ZhSSKWyE7iQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vishal Sahil AI",
+      "publishedAt": "2026-07-28T06:14:12Z",
+      "firstSeenAt": "2026-07-28T06:53:12Z"
+    },
+    {
+      "id": "ggU7YANSojI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech Builder Akash",
+      "publishedAt": "2026-07-27T22:53:12Z",
+      "firstSeenAt": "2026-07-28T06:53:12Z"
+    },
     {
       "id": "YVAzXsrx10w",
       "type": "long",
@@ -3526,6 +3558,15 @@
       "channelsChecked": 33,
       "warnings": 30,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-07-28T06:53:12Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 33,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
