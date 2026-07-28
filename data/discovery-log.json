@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T12:53:08Z",
+  "updatedAt": "2026-07-28T13:53:14Z",
   "items": [
+    {
+      "id": "cbfyOYTKUJE",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-07-28T13:52:52Z",
+      "firstSeenAt": "2026-07-28T13:53:14Z"
+    },
+    {
+      "id": "SJtO73rYJ64",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-07-28T13:06:18Z",
+      "firstSeenAt": "2026-07-28T13:53:14Z"
+    },
+    {
+      "id": "skuAeiHq1Co",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-07-28T13:00:07Z",
+      "firstSeenAt": "2026-07-28T13:53:14Z"
+    },
+    {
+      "id": "pi4uvNiwz40",
+      "type": "long",
+      "source": "primary",
+      "channel": "Greg Preece",
+      "publishedAt": "2026-07-28T13:00:07Z",
+      "firstSeenAt": "2026-07-28T13:53:14Z"
+    },
+    {
+      "id": "M5A8vnXjyO0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-07-28T12:56:48Z",
+      "firstSeenAt": "2026-07-28T13:53:14Z"
+    },
+    {
+      "id": "3ZM2W_TDr-A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mia Juan",
+      "publishedAt": "2026-07-28T13:37:14Z",
+      "firstSeenAt": "2026-07-28T13:53:14Z"
+    },
+    {
+      "id": "jn-RlvINdTw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WsCube Tech",
+      "publishedAt": "2026-07-28T13:28:14Z",
+      "firstSeenAt": "2026-07-28T13:53:14Z"
+    },
+    {
+      "id": "lZrjvlJJ1NI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Digital Marketing Legend \"Srinidhi Ranganathan\"",
+      "publishedAt": "2026-07-28T12:53:14Z",
+      "firstSeenAt": "2026-07-28T13:53:14Z"
+    },
+    {
+      "id": "2hG2gMyy0_c",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Digital Scholar",
+      "publishedAt": "2026-07-28T10:53:14Z",
+      "firstSeenAt": "2026-07-28T13:53:14Z"
+    },
+    {
+      "id": "bACKA6yVa2Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "HighLevel",
+      "publishedAt": "2026-07-27T17:53:14Z",
+      "firstSeenAt": "2026-07-28T13:53:14Z"
+    },
     {
       "id": "reBP8T55Pq0",
       "type": "short",
@@ -3699,6 +3779,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-07-28T13:53:14Z",
+      "new": 10,
+      "long": 6,
+      "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
