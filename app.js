@@ -12,6 +12,10 @@ const PROGRESS_KEY = "nexafeed-progress-v1";
 const THEME_KEY = "nexafeed-theme-v1";
 const AUTOPLAY_KEY = "nexafeed-autoplay-v1";
 const LIKED_KEY = "nexafeed-liked-v1";
+const NOTEBOOKLM_NEW_NOTEBOOK_URL = "https://notebooklm.google.com/notebook/new";
+const PLAYER_WHEEL_THRESHOLD = 420;
+const SHORT_WHEEL_THRESHOLD = 220;
+const WHEEL_RESET_MS = 420;
 
 const state = {
   feed: null,
@@ -35,7 +39,12 @@ const state = {
 
 let player = null;
 let progressTimer = null;
-let wheelLocked = false;
+let shortWheelLocked = false;
+let shortWheelDelta = 0;
+let shortWheelResetTimer = null;
+let playerWheelLocked = false;
+let playerWheelDelta = 0;
+let playerWheelResetTimer = null;
 let touchStartY = null;
 let floatingPopup = null;
 let floatingPipWindow = null;
@@ -224,6 +233,86 @@ function saveButton(video, context = "card") {
 
 function floatButton(video, context = "player") {
   return `<button class="action-button compact float-button ${context}-float" type="button" data-float-id="${escapeHtml(video.id)}" aria-label="Open ${escapeHtml(video.title)} in floating player">⧉ Float</button>`;
+}
+
+function notebookLmButton(video, context = "player") {
+  return `
+    <button class="action-button compact notebooklm-button ${context}-notebooklm" type="button" data-notebooklm-id="${escapeHtml(video.id)}" aria-label="Chat with ${escapeHtml(video.title)} in NotebookLM">
+      <span class="notebooklm-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" focusable="false">
+          <path d="M6.2 3.7h8.9l3 3v13.6H6.2z" />
+          <path d="M15.1 3.7v3h3" />
+          <path d="M8.7 9.5h6.6M8.7 12.4h6.6M8.7 15.3h4.7" />
+          <path class="notebooklm-spark" d="M18.4 11.2l.5 1.3 1.3.5-1.3.5-.5 1.3-.5-1.3-1.3-.5 1.3-.5z" />
+        </svg>
+      </span>
+      <span data-action-label>Chat With NBLM</span>
+    </button>`;
+}
+
+function playerNavButton(direction, video) {
+  const label = direction > 0 ? "Next" : "Previous";
+  const key = direction > 0 ? "→" : "←";
+  const disabled = video ? "" : "disabled";
+  const title = video
+    ? `${label}: ${video.title}`
+    : `${label} video unavailable`;
+  return `<button class="action-button compact player-nav-button" type="button" data-player-nav="${direction}" ${disabled} title="${escapeHtml(title)}" aria-label="${escapeHtml(title)}">${direction > 0 ? `${label} ${key}` : `${key} ${label}`}</button>`;
+}
+
+function videoWatchUrl(video) {
+  return video?.url || `https://www.youtube.com/watch?v=${video?.id || ""}`;
+}
+
+function notebookLmImportUrl(video) {
+  const target = new URL(NOTEBOOKLM_NEW_NOTEBOOK_URL);
+  target.searchParams.set("source", "youtube");
+  target.searchParams.set("url", videoWatchUrl(video));
+  target.searchParams.set("title", video?.title || "YouTube video");
+  return target.toString();
+}
+
+async function copyText(value) {
+  if (navigator.clipboard?.writeText) {
+    await navigator.clipboard.writeText(value);
+    return true;
+  }
+  const textarea = document.createElement("textarea");
+  textarea.value = value;
+  textarea.setAttribute("readonly", "");
+  textarea.style.position = "fixed";
+  textarea.style.left = "-9999px";
+  document.body.appendChild(textarea);
+  textarea.select();
+  const copied = document.execCommand("copy");
+  textarea.remove();
+  if (!copied) throw new Error("Copy failed");
+  return true;
+}
+
+function temporaryActionLabel(button, text) {
+  const label = button?.querySelector("[data-action-label]");
+  if (!label) return;
+  const original = label.dataset.originalLabel || label.textContent;
+  label.dataset.originalLabel = original;
+  label.textContent = text;
+  setTimeout(() => { label.textContent = original; }, 1800);
+}
+
+async function openNotebookLm(video, button) {
+  if (!video) return;
+  const sourceUrl = videoWatchUrl(video);
+  const notebookUrl = notebookLmImportUrl(video);
+  const opened = window.open(notebookUrl, "_blank");
+  if (opened) opened.opener = null;
+  try {
+    await copyText(sourceUrl);
+    temporaryActionLabel(button, "URL copied");
+  } catch {
+    temporaryActionLabel(button, "Paste URL");
+    window.alert(`NotebookLM opened. If the YouTube source is not imported automatically, paste this URL in Add source > YouTube:\n\n${sourceUrl}`);
+  }
+  if (!opened) window.location.href = notebookUrl;
 }
 
 function floatingSize(video) {
@@ -854,16 +943,41 @@ function setActiveNav() {
 }
 
 function queueFor(currentId) {
-  const longs = state.feed?.items.filter((item) => item.type === "long" && item.id !== currentId) || [];
-  return longs.filter((item) => !isWatched(item.id) && item.embedAllowed !== false && !state.unavailableVideos.has(item.id));
+  const longs = playableLongVideos();
+  const index = longs.findIndex((item) => item.id === currentId);
+  const candidates = index >= 0 ? longs.slice(index + 1) : longs;
+  return candidates.filter((item) => item.id !== currentId && !isWatched(item.id));
+}
+
+function playableLongVideos() {
+  return state.feed?.items.filter((item) => item.type === "long" && item.embedAllowed !== false && !state.unavailableVideos.has(item.id)) || [];
+}
+
+function playerNeighbor(currentId, direction) {
+  const longs = playableLongVideos();
+  const index = longs.findIndex((item) => item.id === currentId);
+  if (direction > 0) return queueFor(currentId)[0] || (index >= 0 ? longs[index + 1] : null) || null;
+  return index > 0 ? longs[index - 1] : null;
+}
+
+function navigatePlayer(direction) {
+  if (!state.activeVideo) return;
+  const target = playerNeighbor(state.activeVideo.id, direction);
+  if (target) openLong(target);
+}
+
+function isTypingTarget(target) {
+  return Boolean(target?.closest?.("input, textarea, select, [contenteditable='true']"));
 }
 
 function renderPlayer() {
   const video = state.activeVideo;
   const queue = queueFor(video.id);
+  const previousVideo = playerNeighbor(video.id, -1);
+  const nextVideo = playerNeighbor(video.id, 1);
   app.innerHTML = `
     <section class="player-layout">
-      <div>
+      <div class="player-main">
         <div class="player-frame"><div id="youtubePlayer"></div></div>
         <div class="player-heading">
           <div>${sourceBadge(video.source)}<h1>${escapeHtml(video.title)}</h1></div>
@@ -873,8 +987,13 @@ function renderPlayer() {
           <div class="author-info"><span class="avatar">${escapeHtml(initials(video.channel))}</span><div><strong>${escapeHtml(video.channel)}</strong><small>${escapeHtml(video.handle || "")}</small></div></div>
           <div class="player-actions">
             <span class="video-stats">${escapeHtml(video.views || "Views unavailable")} • ${escapeHtml(timeAgo(video.publishedAt))}</span>
+            <span class="player-nav-actions" aria-label="Video navigation">
+              ${playerNavButton(-1, previousVideo)}
+              ${playerNavButton(1, nextVideo)}
+            </span>
             ${saveButton(video, "player")}
             ${floatButton(video, "player")}
+            ${notebookLmButton(video, "player")}
             <button class="action-button compact" id="markCurrentWatched">✓ Mark watched</button>
           </div>
         </div>
@@ -1423,6 +1542,23 @@ app.addEventListener("click", (event) => {
     return;
   }
 
+  const notebookButtonElement = event.target.closest("[data-notebooklm-id]");
+  if (notebookButtonElement) {
+    event.preventDefault();
+    event.stopPropagation();
+    const video = state.feed.items.find((item) => item.id === notebookButtonElement.dataset.notebooklmId) || state.activeVideo;
+    openNotebookLm(video, notebookButtonElement);
+    return;
+  }
+
+  const playerNavElement = event.target.closest("[data-player-nav]");
+  if (playerNavElement) {
+    event.preventDefault();
+    event.stopPropagation();
+    navigatePlayer(Number(playerNavElement.dataset.playerNav || 1));
+    return;
+  }
+
   const shortButton = event.target.closest("[data-short-id]");
   if (shortButton) {
     openCard(shortButton);
@@ -1510,6 +1646,21 @@ app.addEventListener("change", (event) => {
     importHistory(event.target.files?.[0]).catch(() => window.alert("The selected history JSON could not be imported."));
   }
 });
+app.addEventListener("wheel", (event) => {
+  if (!state.activeVideo || !event.target.closest(".player-main") || event.target.closest("button, a, input, textarea, select")) return;
+  if (Math.abs(event.deltaY) < 8 || Math.abs(event.deltaX) > Math.abs(event.deltaY)) return;
+  event.preventDefault();
+  if (playerWheelLocked) return;
+  playerWheelDelta += event.deltaY;
+  clearTimeout(playerWheelResetTimer);
+  playerWheelResetTimer = setTimeout(() => { playerWheelDelta = 0; }, WHEEL_RESET_MS);
+  if (Math.abs(playerWheelDelta) < PLAYER_WHEEL_THRESHOLD) return;
+  const direction = playerWheelDelta > 0 ? 1 : -1;
+  playerWheelDelta = 0;
+  playerWheelLocked = true;
+  navigatePlayer(direction);
+  setTimeout(() => { playerWheelLocked = false; }, 700);
+}, { passive: false });
 overlayRoot.addEventListener("click", (event) => {
   const likeButton = event.target.closest("#shortLikeButton");
   if (likeButton) {
@@ -1533,11 +1684,18 @@ overlayRoot.addEventListener("click", (event) => {
 });
 overlayRoot.addEventListener("wheel", (event) => {
   if (event.target.closest(".short-drawer")) return;
-  if (!state.shortQueue.length || wheelLocked || Math.abs(event.deltaY) < 20) return;
-  wheelLocked = true;
-  event.deltaY > 0 ? nextShort() : previousShort();
-  setTimeout(() => { wheelLocked = false; }, 550);
-}, { passive: true });
+  if (!state.shortQueue.length || Math.abs(event.deltaY) < 8 || Math.abs(event.deltaX) > Math.abs(event.deltaY)) return;
+  event.preventDefault();
+  if (shortWheelLocked) return;
+  shortWheelDelta += event.deltaY;
+  clearTimeout(shortWheelResetTimer);
+  shortWheelResetTimer = setTimeout(() => { shortWheelDelta = 0; }, WHEEL_RESET_MS);
+  if (Math.abs(shortWheelDelta) < SHORT_WHEEL_THRESHOLD) return;
+  shortWheelLocked = true;
+  shortWheelDelta > 0 ? nextShort() : previousShort();
+  shortWheelDelta = 0;
+  setTimeout(() => { shortWheelLocked = false; }, 550);
+}, { passive: false });
 overlayRoot.addEventListener("touchstart", (event) => {
   if (event.target.closest(".short-drawer")) {
     touchStartY = null;
@@ -1552,10 +1710,31 @@ overlayRoot.addEventListener("touchend", (event) => {
   touchStartY = null;
 }, { passive: true });
 window.addEventListener("keydown", (event) => {
-  if (!state.shortQueue.length) return;
-  if (event.key === "Escape") closeShort();
-  if (event.key === "ArrowDown") nextShort();
-  if (event.key === "ArrowUp") previousShort();
+  if (isTypingTarget(event.target) || event.metaKey || event.ctrlKey || event.altKey) return;
+  if (state.shortQueue.length) {
+    if (event.key === "Escape") {
+      event.preventDefault();
+      closeShort();
+    }
+    if (event.key === "ArrowDown" || event.key === "ArrowRight" || event.key.toLowerCase() === "n") {
+      event.preventDefault();
+      nextShort();
+    }
+    if (event.key === "ArrowUp" || event.key === "ArrowLeft" || event.key.toLowerCase() === "p") {
+      event.preventDefault();
+      previousShort();
+    }
+    return;
+  }
+  if (!state.activeVideo) return;
+  if (event.key === "ArrowRight" || event.key === "PageDown" || event.key.toLowerCase() === "n") {
+    event.preventDefault();
+    navigatePlayer(1);
+  }
+  if (event.key === "ArrowLeft" || event.key === "PageUp" || event.key.toLowerCase() === "p") {
+    event.preventDefault();
+    navigatePlayer(-1);
+  }
 });
 
 loadFeed();

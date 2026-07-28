@@ -81,16 +81,34 @@ class FrontendFeatureTests(unittest.TestCase):
             "referrerpolicy=\"strict-origin-when-cross-origin\"",
             "data-float-drag",
             "shortFloatButton",
+            "NOTEBOOKLM_NEW_NOTEBOOK_URL",
+            "function notebookLmButton",
+            "data-notebooklm-id",
+            "Chat With NBLM",
+            "function notebookLmImportUrl",
+            "function openNotebookLm",
+            "function copyText",
+            "function playerNavButton",
+            "data-player-nav",
+            "function navigatePlayer",
+            "function playerNeighbor",
+            "PLAYER_WHEEL_THRESHOLD",
+            "SHORT_WHEEL_THRESHOLD",
+            "playerWheelDelta",
+            "shortWheelDelta",
+            "ArrowRight",
+            "ArrowLeft",
         ]:
             self.assertIn(marker, app_js)
         self.assertNotIn("Like this Short on YouTube", app_js)
-        for marker in [".short-drawer", ".short-action-stack", ".short-like.active", ".save-button", ".card-open", ".card-save", ".player-save", ".float-button", "#floatingRoot", ".in-page-float", ".float-titlebar", ".float-frame", ".float-frame > div", ".liked-tools", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
+        for marker in [".short-drawer", ".short-action-stack", ".short-like.active", ".save-button", ".card-open", ".card-save", ".player-save", ".float-button", ".notebooklm-button", ".notebooklm-icon", ".player-nav-actions", ".player-nav-button", "#floatingRoot", ".in-page-float", ".float-titlebar", ".float-frame", ".float-frame > div", ".liked-tools", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
             self.assertIn(marker, style_css)
         self.assertIn("grid-template-columns: minmax(0, 1fr) minmax(340px, 380px);", style_css)
         self.assertIn("max-width: none;", style_css)
         self.assertNotIn("max-width: 1580px;", style_css)
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
-        self.assertIn("style.css?v=20260728-player-fullwidth", index_html)
+        self.assertIn("style.css?v=20260728-nblm-nav2", index_html)
+        self.assertIn("app.js?v=20260728-nblm-nav2", index_html)
         self.assertIn('aria-label="NexaFeed home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)

@@ -559,7 +559,22 @@ body.sidebar-collapsed .content { margin-left: 0; }
 .author-info { display: flex; align-items: center; gap: 10px; }
 .author-info strong, .author-info small { display: block; }
 .author-info small { margin-top: 3px; color: var(--muted); }
-.player-actions { display: flex; align-items: center; justify-content: flex-end; gap: 12px; }
+.player-actions { display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-end; gap: 10px; }
+.player-nav-actions { display: inline-flex; align-items: center; gap: 6px; }
+.player-nav-button { border-color: rgba(255,255,255,.16); color: var(--text); }
+.notebooklm-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  border-color: rgba(168,85,247,.42);
+  background: linear-gradient(135deg, rgba(168,85,247,.18), rgba(59,130,246,.11));
+  color: #efe5ff;
+}
+.notebooklm-button:hover { border-color: rgba(168,85,247,.68); background: linear-gradient(135deg, rgba(168,85,247,.25), rgba(59,130,246,.17)); }
+.notebooklm-icon { display: inline-flex; width: 17px; height: 17px; flex: 0 0 17px; }
+.notebooklm-icon svg { display: block; width: 100%; height: 100%; overflow: visible; }
+.notebooklm-icon path { fill: rgba(255,255,255,.12); stroke: currentColor; stroke-width: 1.65; stroke-linecap: round; stroke-linejoin: round; }
+.notebooklm-icon .notebooklm-spark { fill: currentColor; stroke: none; }
 .float-button { border-color: rgba(96,165,250,.32); color: #dceaff; }
 .float-button:hover { border-color: rgba(96,165,250,.55); background: rgba(96,165,250,.13); }
 .up-next { overflow: hidden; border: 1px solid var(--border); border-radius: 15px; background: var(--surface); }
@@ -938,6 +953,6 @@ body.sidebar-collapsed .content { margin-left: 0; }
   .channel-search input { width: 100%; }
   .apply-settings { width: 100%; }
   .settings-grid { grid-template-columns: 1fr; }
-  .author-row { align-items: flex-start; gap: 14px; }
-  .player-actions { align-items: flex-end; flex-direction: column; }
+  .author-row { align-items: flex-start; flex-direction: column; gap: 14px; }
+  .player-actions { align-items: flex-start; justify-content: flex-start; width: 100%; }
 }
