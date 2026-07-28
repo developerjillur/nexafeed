@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T14:53:19Z",
+  "updatedAt": "2026-07-28T15:53:27Z",
   "items": [
+    {
+      "id": "_xWmulwxcFw",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-07-28T15:14:15Z",
+      "firstSeenAt": "2026-07-28T15:53:27Z"
+    },
+    {
+      "id": "Chn40LkYMPs",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Adventurer",
+      "publishedAt": "2026-07-28T15:13:25Z",
+      "firstSeenAt": "2026-07-28T15:53:27Z"
+    },
+    {
+      "id": "tcoov1uR5Nc",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-07-28T14:55:09Z",
+      "firstSeenAt": "2026-07-28T15:53:27Z"
+    },
+    {
+      "id": "vfSplCaxHzM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Revolution",
+      "publishedAt": "2026-07-28T00:53:27Z",
+      "firstSeenAt": "2026-07-28T15:53:27Z"
+    },
+    {
+      "id": "qyPCVqFUyDo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Y Combinator",
+      "publishedAt": "2026-07-27T17:53:27Z",
+      "firstSeenAt": "2026-07-28T15:53:27Z"
+    },
+    {
+      "id": "xW-yPOlOCH4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Google Cloud Tech",
+      "publishedAt": "2026-07-27T16:53:27Z",
+      "firstSeenAt": "2026-07-28T15:53:27Z"
+    },
     {
       "id": "3eZdyjlMTCc",
       "type": "short",
@@ -3829,6 +3877,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-07-28T15:53:27Z",
+      "new": 6,
+      "long": 3,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
