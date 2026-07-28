@@ -39,6 +39,8 @@ let wheelLocked = false;
 let touchStartY = null;
 let floatingPopup = null;
 let floatingPipWindow = null;
+let floatingPlayer = null;
+let floatingProgressTimer = null;
 
 document.documentElement.dataset.theme = state.theme;
 document.querySelector("#themeButton").textContent = state.theme === "dark" ? "☀" : "☾";
@@ -230,12 +232,25 @@ function floatingSize(video) {
     : { width: 760, height: 470 };
 }
 
+function youtubeOrigin() {
+  return window.location.origin && window.location.origin !== "null"
+    ? window.location.origin
+    : "https://developerjillur.github.io";
+}
+
+function youtubeWidgetReferrer() {
+  return window.location.href.split("#")[0];
+}
+
 function youtubeEmbedSrc(video, autoplay = true) {
   const params = new URLSearchParams({
     autoplay: autoplay ? "1" : "0",
     rel: "0",
     playsinline: "1",
     modestbranding: "1",
+    enablejsapi: "1",
+    origin: youtubeOrigin(),
+    widget_referrer: youtubeWidgetReferrer(),
   });
   const saved = state.progress[video.id];
   if (saved?.seconds > 5 && Number(saved.ratio || 0) < 0.8) params.set("start", String(Math.floor(saved.seconds)));
@@ -256,11 +271,16 @@ function floatingPlayerCss() {
     .float-actions button, .float-actions a { display: grid; width: 28px; height: 28px; place-items: center; cursor: pointer; border: 1px solid rgba(255,255,255,.16); border-radius: 8px; background: rgba(255,255,255,.09); color: #fff; font-size: 15px; text-decoration: none; }
     .float-actions button:hover, .float-actions a:hover { background: rgba(255,255,255,.18); }
     .float-frame { overflow: hidden; background: #000; }
-    .float-frame iframe { display: block; width: 100%; height: 100%; border: 0; }
+    .float-frame > div, .float-frame iframe { display: block; width: 100%; height: 100%; border: 0; }
   `;
 }
 
-function floatingPlayerBody(video, { draggable = false } = {}) {
+function floatingPlayerFrame(video, apiMount = false) {
+  if (apiMount) return '<div class="float-frame"><div id="floatingYoutubePlayer"></div></div>';
+  return `<div class="float-frame"><iframe src="${escapeHtml(youtubeEmbedSrc(video))}" title="${escapeHtml(video.title)}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`;
+}
+
+function floatingPlayerBody(video, { draggable = false, apiMount = false } = {}) {
   return `
     <section class="float-window ${video.type === "short" ? "short-float" : "long-float"}" id="inlineFloatingPlayer" aria-label="Floating player">
       <header class="float-titlebar" ${draggable ? 'data-float-drag="true"' : ""}>
@@ -270,7 +290,7 @@ function floatingPlayerBody(video, { draggable = false } = {}) {
           <button type="button" data-close-float aria-label="Close floating player">×</button>
         </div>
       </header>
-      <div class="float-frame"><iframe src="${escapeHtml(youtubeEmbedSrc(video))}" title="${escapeHtml(video.title)}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+      ${floatingPlayerFrame(video, apiMount)}
     </section>`;
 }
 
@@ -280,6 +300,83 @@ function floatingPlayerDocument(video) {
 
 function pauseInlinePlayer() {
   try { player?.pauseVideo?.(); } catch { /* iframe may not be ready */ }
+}
+
+function renderFloatingPlayerError(elementId, video) {
+  const node = document.getElementById(elementId);
+  if (!node) return;
+  node.outerHTML = `
+    <div id="${escapeHtml(elementId)}" class="player-error floating-error">
+      <strong>This floating player could not start.</strong>
+      <span>YouTube refused this embed configuration. The main player may still work.</span>
+      <a href="${escapeHtml(video.url || `https://www.youtube.com/watch?v=${video.id}`)}" target="_blank" rel="noopener">Watch video on YouTube</a>
+    </div>`;
+}
+
+function destroyFloatingPlayer(clearRoot = true) {
+  if (floatingProgressTimer) clearInterval(floatingProgressTimer);
+  floatingProgressTimer = null;
+  if (floatingPlayer?.destroy) {
+    try { floatingPlayer.destroy(); } catch { /* already removed */ }
+  }
+  floatingPlayer = null;
+  if (clearRoot) {
+    const root = document.querySelector("#floatingRoot");
+    if (root) root.innerHTML = "";
+  }
+}
+
+async function createFloatingYoutubePlayer(elementId, video) {
+  destroyFloatingPlayer(false);
+  try {
+    const YT = await waitForYoutube();
+    const playerVars = {
+      autoplay: 1,
+      rel: 0,
+      playsinline: 1,
+      enablejsapi: 1,
+      modestbranding: 1,
+      origin: youtubeOrigin(),
+      widget_referrer: youtubeWidgetReferrer(),
+    };
+    const saved = state.progress[video.id];
+    if (saved?.seconds > 5 && Number(saved.ratio || 0) < 0.8) playerVars.start = Math.floor(saved.seconds);
+    floatingPlayer = new YT.Player(elementId, {
+      videoId: video.id,
+      width: "100%",
+      height: "100%",
+      playerVars,
+      events: {
+        onReady(event) {
+          pauseInlinePlayer();
+          event.target.playVideo();
+          floatingProgressTimer = setInterval(() => {
+            try {
+              const duration = event.target.getDuration();
+              const current = event.target.getCurrentTime();
+              if (duration > 0) saveProgress(video.id, current, duration);
+            } catch {
+              // The floating iframe may be closing or switching videos.
+            }
+          }, 1500);
+        },
+        onStateChange(event) {
+          if (event.data === YT.PlayerState.ENDED) markWatched(video.id);
+        },
+        onError() {
+          if (floatingProgressTimer) clearInterval(floatingProgressTimer);
+          floatingProgressTimer = null;
+          floatingPlayer = null;
+          renderFloatingPlayerError(elementId, video);
+        },
+      },
+    });
+  } catch {
+    const node = document.getElementById(elementId);
+    if (node) {
+      node.innerHTML = `<iframe src="${escapeHtml(youtubeEmbedSrc(video))}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" title="${escapeHtml(video.title)}"></iframe>`;
+    }
+  }
 }
 
 async function openDocumentPictureInPicture(video) {
@@ -329,8 +426,7 @@ function ensureFloatingRoot() {
 }
 
 function closeInlineFloatingPlayer() {
-  const root = document.querySelector("#floatingRoot");
-  if (root) root.innerHTML = "";
+  destroyFloatingPlayer();
 }
 
 function startInlineFloatDrag(event) {
@@ -357,13 +453,14 @@ function startInlineFloatDrag(event) {
 }
 
 function openInlineFloatingPlayer(video) {
+  destroyFloatingPlayer(false);
   const root = ensureFloatingRoot();
-  root.innerHTML = floatingPlayerBody(video, { draggable: true });
+  root.innerHTML = floatingPlayerBody(video, { draggable: true, apiMount: true });
   const panel = root.querySelector("#inlineFloatingPlayer");
   panel?.classList.add("in-page-float");
   panel?.querySelector("[data-float-drag]")?.addEventListener("pointerdown", startInlineFloatDrag);
   panel?.querySelector("[data-close-float]")?.addEventListener("click", closeInlineFloatingPlayer);
-  pauseInlinePlayer();
+  createFloatingYoutubePlayer("floatingYoutubePlayer", video);
 }
 
 async function openFloatingVideo(video) {
@@ -855,7 +952,15 @@ async function createYoutubePlayer(elementId, video, options = {}) {
       videoId: video.id,
       width: "100%",
       height: "100%",
-      playerVars: { autoplay: 1, rel: 0, playsinline: 1, enablejsapi: 1, modestbranding: 1 },
+      playerVars: {
+        autoplay: 1,
+        rel: 0,
+        playsinline: 1,
+        enablejsapi: 1,
+        modestbranding: 1,
+        origin: youtubeOrigin(),
+        widget_referrer: youtubeWidgetReferrer(),
+      },
       events: {
         onReady(event) {
           const saved = state.progress[video.id];
@@ -891,7 +996,7 @@ async function createYoutubePlayer(elementId, video, options = {}) {
   } catch {
     const node = document.getElementById(elementId);
     if (node) {
-      node.innerHTML = `<iframe src="${escapeHtml(youtubeEmbedSrc(video))}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="${escapeHtml(video.title)}"></iframe>`;
+      node.innerHTML = `<iframe src="${escapeHtml(youtubeEmbedSrc(video))}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" title="${escapeHtml(video.title)}"></iframe>`;
     }
   }
 }

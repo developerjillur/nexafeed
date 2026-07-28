@@ -70,12 +70,18 @@ class FrontendFeatureTests(unittest.TestCase):
             "function openPopupFloatingPlayer",
             "nexafeedFloatingPlayer",
             "function openInlineFloatingPlayer",
+            "floatingYoutubePlayer",
+            "function createFloatingYoutubePlayer",
+            "function destroyFloatingPlayer",
+            "function youtubeOrigin",
+            "widget_referrer",
+            "referrerpolicy=\"strict-origin-when-cross-origin\"",
             "data-float-drag",
             "shortFloatButton",
         ]:
             self.assertIn(marker, app_js)
         self.assertNotIn("Like this Short on YouTube", app_js)
-        for marker in [".short-drawer", ".short-action-stack", ".short-like.active", ".save-button", ".card-open", ".card-save", ".player-save", ".float-button", "#floatingRoot", ".in-page-float", ".float-titlebar", ".float-frame", ".liked-tools", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
+        for marker in [".short-drawer", ".short-action-stack", ".short-like.active", ".save-button", ".card-open", ".card-save", ".player-save", ".float-button", "#floatingRoot", ".in-page-float", ".float-titlebar", ".float-frame", ".float-frame > div", ".liked-tools", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
             self.assertIn(marker, style_css)
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn('aria-label="NexaFeed home"', index_html)

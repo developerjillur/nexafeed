@@ -636,7 +636,7 @@ body.sidebar-collapsed .content { margin-left: 0; }
 }
 .float-actions button:hover, .float-actions a:hover { background: rgba(255,255,255,.18); }
 .float-frame { overflow: hidden; background: #000; }
-.float-frame iframe { display: block; width: 100%; height: 100%; border: 0; }
+.float-frame > div, .float-frame iframe { display: block; width: 100%; height: 100%; border: 0; }
 
 .short-overlay {
   position: fixed;
