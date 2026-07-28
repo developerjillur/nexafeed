@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T21:53:14Z",
+  "updatedAt": "2026-07-28T22:53:23Z",
   "items": [
+    {
+      "id": "ShYfGB3x5mM",
+      "type": "long",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-07-28T22:39:55Z",
+      "firstSeenAt": "2026-07-28T22:53:23Z"
+    },
+    {
+      "id": "DB_OMOCmquU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mikey Vibe Coding",
+      "publishedAt": "2026-07-28T14:53:23Z",
+      "firstSeenAt": "2026-07-28T22:53:23Z"
+    },
+    {
+      "id": "r6JZuGXPnJo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Edward Donner",
+      "publishedAt": "2026-07-28T14:53:23Z",
+      "firstSeenAt": "2026-07-28T22:53:23Z"
+    },
+    {
+      "id": "4jiM4w7qr2g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lite AI Lab",
+      "publishedAt": "2026-07-28T12:53:23Z",
+      "firstSeenAt": "2026-07-28T22:53:23Z"
+    },
     {
       "id": "TllPOmVWF8s",
       "type": "long",
@@ -4220,6 +4252,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-07-28T22:53:23Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
