@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T03:53:09Z",
+  "updatedAt": "2026-07-28T04:53:10Z",
   "items": [
+    {
+      "id": "ZW38bkluwlY",
+      "type": "long",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-07-28T04:39:03Z",
+      "firstSeenAt": "2026-07-28T04:53:10Z"
+    },
+    {
+      "id": "KgQMZN0lgiI",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-07-28T04:00:19Z",
+      "firstSeenAt": "2026-07-28T04:53:10Z"
+    },
+    {
+      "id": "pcEovm0v4pc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Codist ",
+      "publishedAt": "2026-07-27T17:53:10Z",
+      "firstSeenAt": "2026-07-28T04:53:10Z"
+    },
     {
       "id": "Ra1cAR_61Gk",
       "type": "long",
@@ -3468,6 +3492,15 @@
       "channelsChecked": 33,
       "warnings": 14,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-07-28T04:53:10Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 15,
+      "secondaryQuery": "AI agents"
     }
   ]
 }

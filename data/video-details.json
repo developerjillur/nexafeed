@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T03:53:09Z",
+  "updatedAt": "2026-07-28T04:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -35,97 +35,6 @@
           "likeCount": 0,
           "publishedAt": "2026-07-26T14:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nasYn8klvN7ucHIpTsNUrg-Y09dW5Uj2w73qT3idFRi7o=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-27T07:24:18Z"
-    },
-    "8OqBbUoBpo4": {
-      "checkedAt": "2026-07-27T07:24:18Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "description": "A photo used to be a reference.\n\nNow it's the entire pipeline.\n\n3D art was never about drawing.\n\nIt was about fixing geometry.\n\nHollow insides. Broken edges.\n\nThat's the part that eats hours.\n\nTrellis 2 absorbs that step.\n\nOne photo goes in.\n\nLighting, materials, textures already baked in.\n\nNobody touches the mesh by hand.\n\nThat used to be someone's job.\n\nNow it's a free repo.\n\nLike a photo that carves its own statue.\n\nNo sculptor required.\n\nThe hard part was never the idea.\n\nIt was the hours of cleanup after.\n\nMicrosoft just deleted those hours for free.\n\n#trellis2 #microsoft #github #3dmodel #ai",
-      "commentCount": 8,
-      "likeCount": 1484,
-      "comments": [
-        {
-          "id": "UgxvpLX2x7fSRvdiEaZ4AaABAg",
-          "author": "@thesp9180",
-          "text": "Tbh . Companies like microsoft and Google super crazy ai models and make them free with very good limits is crazy",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T07:15:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Y_-4YBwrb7qAaRJvjI7368MU3H_gZ6Ml0Sc9EZ12gFt8p7RN6EFXV2pFBy5vd1GXtN6Hb1gkZAg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugyv6u23QvmNxhwr3wV4AaABAg",
-          "author": "@delnev0000",
-          "text": "\"Instead of paying a 3D artist\" yeah, no, that's not what AI is for. AI is not an instead. And the polygon count must be insane too.",
-          "likeCount": 2,
-          "publishedAt": "2026-07-27T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/R5J4tBmBCXvbMP78a2NiSpQsFUbkErhZYwuVD7io6QPMN1wl_UrgM9X_l5Kv0Oys5LxAh79JKA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgySY5J09AlaX0N5GdR4AaABAg",
-          "author": "@jamskof",
-          "text": "Trellis 1 was garbage",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T23:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lVdgv6VK0IOScTdHt1R4NdIFdRkvG2Y1jsrCR_otHBLogTg1YjnUt3k9YQBrmAT3VFLg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxZPSHZDn1Cp2EgsdN4AaABAg",
-          "author": "@PHE3N1X",
-          "text": "and he forgets to tell u that ya need 24 vram",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T21:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ilqlh32ebOtAx6nFQuk8FWU_ZMfC6DiypweCW9-6B3ERll049K3itPCBLn2RoMuWkJmpA41Z=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw3s_76NU5OdE_5QM54AaABAg",
-          "author": "@dachmachunabachuna123",
-          "text": "I will never load this into anything because it will have like a trillion vertices",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lZd3IV7nI5_r78xBsGqdeDUSf6ZKDy1utzm1ofOugkvJaNztTT_zrN-CFCRviw34O3NA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwjmE3D8sQHWJm-7CN4AaABAg",
-          "author": "@GENVFX",
-          "text": "Production ready... ill believe that when I see it.",
-          "likeCount": 6,
-          "publishedAt": "2026-07-26T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/F8RevrqXIC_fpWVWZYBQCBrdGF4d9X6ugGpXkZtnmOAxxenj52IBuV4SDBpA_oqDmf5jxze-=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxDt3VxqvLkrc_wk9x4AaABAg",
-          "author": "@Elderdrago",
-          "text": "This pretty easy to do I’ve done it using only local ai lol 😂 animation harder to do but picture to 3D model is easy",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/8e3lWRj-BbI38OcqxKoUxvTVyCBqj6wrAQOIWjNZZ2npN-AyJkMcPj9rB2FGuHjskHGSRrxKS9k=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxRO2kEOX--259SZDF4AaABAg",
-          "author": "@Tom-hw3co",
-          "text": "Anyone thinking this makes actually useful products does not understand how 3D models work.\nThe topology (the polygons, the way the shape Is built on a mathematical level) for these things are extremely bad.\nThis makes them unusable for games, animation and High levle rendering.\nAnd no, they cannot be used as a base to work off of, i do 3D as a job and its easier, 1000 times easier to make a model from scratch than to fix bad topology in 99% of cases.\nThis Is a waste of energy and resources that could be put to use on real ways to use ai that help people like medical research",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/b35JzQTz-rKflolknC1eY3T1gc5cJHfSSyMru5piiWn_ZpgF1z_rOQ269xPnktn807c4hAbf=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
@@ -405,7 +314,7 @@
       "likeCount": 124
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-28T03:53:09Z",
+      "checkedAt": "2026-07-28T04:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -1024,18 +933,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "9m1foqIWs7k": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "learn how to grow your instagram",
-      "commentCount": 0,
-      "likeCount": 19,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "2Ybm4l2xAlE": {
       "checkedAt": "2026-07-27T07:46:18Z",
       "embedAllowed": true,
@@ -1608,12 +1505,6 @@
       "commentsFetchedAt": "2026-07-27T07:46:18Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
-    },
-    "u8o8OAbLuDo": {
-      "checkedAt": "2026-07-27T22:53:05Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
     },
     "oofWirP7COk": {
       "checkedAt": "2026-07-27T07:46:18Z",
@@ -2270,12 +2161,6 @@
       "commentCount": 60,
       "likeCount": 695,
       "probeClient": "web_embedded"
-    },
-    "a4zZuhvMXts": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
     },
     "1rKQF2pfGq0": {
       "checkedAt": "2026-07-27T07:46:18Z",
@@ -3175,15 +3060,6 @@
       "description": "The new trailer for Unleash the Avatar has had an incredible response. It's gone viral with millions of views across India and China, and we're truly humbled by all the love and support.\n\nBut along with that, we also saw a lot of your feedback. So in this video, I'm going through some of the feedback you guys have shared, in the comments and in general on the internet. I'll show you what we've already fixed, what's intentional design and what we're still working on.",
       "commentCount": 1200,
       "likeCount": 4389,
-      "probeClient": "web_embedded"
-    },
-    "sHXxdAuEpdE": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Master Claude Code: https://www.skool.com/ai-inner-circle/about\n\nHow to Set Up Claude and Claude Code (Full Beginner Guide)\n\nEverything I wish I knew on day one with Claude, from picking the right model and plan to personalizing it so it stops sounding like a chatbot, plus setting up Claude Code across your terminal, VS Code, and the desktop app. This is the exact setup behind how I build carousels, edit reels, and vibe code TiltIt, PenAnywhere, and Impromptly AI.\n\nIn this video you'll learn:\n• What Claude is and which model to pick\n• Which plan actually gives you real ROI\n• How to personalize Claude with memory and instructions\n• Three ways to set up and run Claude Code\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"SETUP\" and I'll DM you the full checklist with every setting, model pick, and Claude Code install step.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 What Claude is and how it works\n1:00 Which model and use case fits you\n1:30 Every Claude plan and what it costs\n5:00 Setting up and personalizing your account\n7:30 Memory, chat history, and tool access\n11:00 Choosing models, effort, and thinking mode\n14:00 The plus button, deep research, and web search\n17:00 Projects — one knowledge base per use case\n22:30 What Claude Code is and why it matters\n26:30 Setting up Node and installing Claude Code\n30:00 Running Claude Code in the terminal\n34:00 Claude Code inside VS Code and the desktop app\n\n#claudeai #claudecode #leadgenman",
-      "commentCount": 17,
-      "likeCount": 146,
       "probeClient": "web_embedded"
     },
     "wg8AS26vp3o": {
@@ -4308,7 +4184,7 @@
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-28T03:53:09Z",
+      "checkedAt": "2026-07-28T04:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4736,13 +4612,34 @@
       "likeCount": 19,
       "probeClient": "web_embedded"
     },
-    "86AlV6174KI": {
-      "checkedAt": "2026-07-28T03:53:09Z",
+    "KgQMZN0lgiI": {
+      "checkedAt": "2026-07-28T04:53:10Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "👉 *Learn AI trading bots and algo trading with us* https://www.skool.com/daviddtech/about?sl=yt_86AlV6174KI\n\n👉 FREE Workbooks & Resources:\nhttps://app.strategyfactory.ai/resources/\n\nIn this video, I'm going to show you step-by-step how to build your own AI trading bot free of charge with zero coding required.\n\nI've backtested over 2,000 strategies over the past 5 years, and today I'm sharing everything—the prompts, boilerplate, risk management checklist, and automated setup.\n\nWe will connect Claude Code to TradingKit, build and backtest a strategy using the NNFX framework, optimize its settings, run forward testing, and wire it up to Telegram or your broker to trade 100% automatically.\n\n---\n\n## In this video you'll discover:\n\n✅ The complete tools and subscriptions checklist for AI trading\n✅ How to install Claude Code and hook up the TraderDev MCP server\n✅ The NNFX strategy framework and how to build a robust boilerplate\n✅ How to backtest and optimize Pine Script strategies without burning tokens\n✅ Why strategy incubation & forward testing save you thousands of dollars\n✅ How to connect TradingView alerts to Telegram or your exchange with Trigger.trade\n✅ The 5 critical trading rules to protect capital and diversify your bot portfolio\n\n---\n\n## ⏰ Video Chapters\n\n0:00 – How to Build a Free AI Trading Bot\n0:48 – Software & Subscriptions Checklist\n2:42 – Finding Strategy Ideas (Top 5 Resources)\n5:21 – Installing Claude Code & TraderDev MCP Server\n7:23 – Running Your First Strategy Backtest\n8:56 – Strategy Boilerplates & The NNFX Model\n13:41 – Coding & Optimizing Your Strategy\n19:07 – Strategy Incubation & Forward Testing\n22:00 – Connecting TradingView to Telegram & Brokers\n26:45 – Portfolio Diversification & 5 Crucial Rules\n\n---\n\n⚠️ Quick note: everything here is for education, not financial advice. AI can help build strategies, test ideas, and automate workflows, but every system still needs proper backtesting, forward testing, and risk control.\n\n🔥 If you’re into **AI trading, Claude, TradingView strategies, Claude Code, automated trading, backtesting, Pine Script, MCP servers, and no-code trading tools**, smash 👍 and subscribe.\n\nThe edge is not blindly asking AI to trade.\nThe edge is giving AI the right tools, testing everything properly, and building systems instead of following hype.\n\nTrade smarter.\nTest everything.\nLet data do the talking.\n\n---\n\n## 💡 Tools Mentioned\n\nClaude\nClaude Code\nTradingView\nTradingKit.com (Trader Dev)\nTrigger.trade\nPine Script\nNNFX Model\nAutomated Trading Workflow\n\n#ai #aitools #claude #claudecode #tradingview #aitrading #algorithmictrading #automatedtrading #backtesting #pinescript #triggertrade #daviddtech",
-      "commentCount": 32,
-      "likeCount": 633,
+      "description": "Our Journey From 0 To 1.3 crore Full Video - https://www.youtube.com/watch?v=VLJNNyspsVs\n\nCourse - https://harkaransingh.graphy.com",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-28T04:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "ZW38bkluwlY": {
+      "checkedAt": "2026-07-28T04:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn more abt lead gen: https://www.skool.com/ai-inner-circle/about\n\nHow I Built a 24,000 Email Lead List on Full Autopilot\n\nEvery funnel starts with an email lead list you actually own, not followers a platform can take away tomorrow. Here is the exact top of funnel system I use to turn Instagram comments into verified email subscribers automatically.\n\nIn this video you'll learn:\n• How to automate Instagram DMs into lead magnets\n• Why gating your lead magnets captures every email\n• How to verify emails before they hit your list\n• The 3 day welcome drip that upsells on autopilot\n\nTOOLS I USE IN THIS VIDEO\nBeehiiv (20% off): https://www.beehiiv.com/?via=manthan-patel\nGoHighLevel (30-day free trail): https://www.gohighlevel.com/?fp_ref=manthan\nn8n: https://n8n.partnerlinks.io/manthan\nSubpage: https://subpage.co/?via=manthan\nReoon Email Verifier: https://www.reoon.com/email-verifier/?inv=r2gq93fm\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"FUNNEL\" and I'll DM you the full checklist with the n8n workflow, every tool, and the exact setup order.\n\nIf this saved you weeks of trial-and-error, hit subscribe — I drop one builder-to-builder tutorial every week.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 Why every funnel starts with an email list\n1:39 What an email lead list actually looks like\n2:16 STEP 1 — Your traffic source (Instagram)\n3:05 What makes a good lead magnet\n4:24 STEP 2 — DM automation setup (GoHighLevel)\n6:08 STEP 3 — Capturing emails with gated pages (subpage.co)\n8:20 Alternative platforms and custom domains (Tally.so, GoDaddy)\n9:55 STEP 4 — The n8n automation layer\n11:15 Email verification in action (Reoon)\n12:14 Why 37,000 leads became 24,000 after cleaning\n12:54 Never buy or scrape an email list\n13:47 STEP 5 — Beehiiv and the 3 day welcome drip\n15:58 Building the entire drip with Claude Code and Beehiiv MCP\n17:43 Connecting n8n to Beehiiv with the API\n19:39 Full workflow walkthrough end to end\n21:15 Warm leads vs cold leads, when to sell\n23:39 Real examples (Liam Ottley, Ben AI, Nick Saraev)\n25:45 How to reverse engineer anyone's email platform\n\n#emaillist #leadgeneration #leadgenman",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "pcEovm0v4pc": {
+      "checkedAt": "2026-07-28T04:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get $5 Free Credit of Sent API : https://www.sent.dm/en?utm_source=codist&utm_medium=x&utm_campaign=partner\n\n\nRAG, MCP, and A2A solve three very different problems in AI agent development—but understanding how they work together is the key to building reliable, production-ready agents.\n\nIn this video, we build an imaginary travel assistant called Atlas and follow it through the complete AI agent stack:\n\n- How APIs provide predictable software integrations\n- How RAG gives agents fresh, relevant, and authorized knowledge\n- How MCP connects AI applications to external tools and services\n- How A2A enables independent agents to collaborate on complex tasks\n- Why permissions, validation, user consent, and security still matter\n- How all four layers work together in a real-world booking workflow\n\nThe simplest distinction:\n\nRAG provides knowledge. MCP provides tools. A2A coordinates agents. APIs power the underlying services.**\n\nBy the end, you’ll understand where each technology fits, what it does—and what it does not do.\n\nSent provides one messaging API for SMS, WhatsApp, and RCS. Sign up through the link above to receive $5 in free credit.\n\nWant to see the complete Atlas workflow built in code? Comment **“Atlas”** below.\n\nSubscribe for more practical explanations of AI agents, LLM architecture, MCP, RAG, and agentic systems.\n\n\n#RAGVsMCPVsA2A  #RAGMCPA2AExplained  #MCPExplained #RAGExplained  #A2AProtocolExplained  #AIAgentsExplained #AIAgentArchitecture #AgenticAI  #ModelContextProtocol #Agent2AgentProtocol #RetrievalAugmentedGeneration #AIAgentTutorial  #HowAIAgentsWork  #MCPVsAPI #A2AVsMCP #RAGVsFineTuning #LLMAgents #AIAgentTools #FunctionCalling #MultiAgentSystems #AgentToAgentProtocol #AIArchitecture #GenerativeAI #AnthropicMCP #GoogleA2A #BuildAIAgents",
+      "commentCount": 2,
+      "likeCount": 28,
       "probeClient": "web_embedded"
     }
   }
