@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T00:53:07Z",
+  "updatedAt": "2026-07-28T01:53:07Z",
   "items": [
+    {
+      "id": "HxDkJa-YZtQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Reed Henry",
+      "publishedAt": "2026-07-27T21:53:07Z",
+      "firstSeenAt": "2026-07-28T01:53:07Z"
+    },
+    {
+      "id": "U2hogriGmEw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Greg Isenberg",
+      "publishedAt": "2026-07-27T18:53:07Z",
+      "firstSeenAt": "2026-07-28T01:53:07Z"
+    },
+    {
+      "id": "GN8h3ZUpyyw",
+      "type": "short",
+      "source": "secondary",
+      "channel": "AQNEXT AI",
+      "publishedAt": "2026-07-27T16:53:07Z",
+      "firstSeenAt": "2026-07-28T01:53:07Z"
+    },
+    {
+      "id": "qJyHXSRfCjo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Clay Lawrence",
+      "publishedAt": "2026-07-27T15:53:07Z",
+      "firstSeenAt": "2026-07-28T01:53:07Z"
+    },
     {
       "id": "6_F1v5QWEo0",
       "type": "long",
@@ -3337,6 +3369,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-07-28T01:53:07Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
