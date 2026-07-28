@@ -16,6 +16,7 @@ const NOTEBOOKLM_NEW_NOTEBOOK_URL = "https://notebooklm.google.com/notebook/new"
 const PLAYER_WHEEL_THRESHOLD = 420;
 const SHORT_WHEEL_THRESHOLD = 220;
 const WHEEL_RESET_MS = 420;
+const MINIMUM_MANUAL_SWITCH_WATCH_SECONDS = 5;
 
 const state = {
   feed: null,
@@ -114,6 +115,29 @@ function saveProgress(id, seconds, duration) {
   };
   localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress));
   if (ratio >= 0.8) markWatched(id);
+}
+
+function watchedSecondsFor(videoId) {
+  let currentSeconds = 0;
+  try {
+    const current = player?.getCurrentTime?.();
+    if (Number.isFinite(current) && current >= 0) currentSeconds = current;
+  } catch {
+    // Fall back to saved progress when the iframe is between states.
+  }
+  const saved = state.progress[videoId];
+  const persisted = readJson(PROGRESS_KEY, {})[videoId];
+  const savedSeconds = Number(saved?.seconds || 0);
+  const persistedSeconds = Number(persisted?.seconds || 0);
+  return Math.max(currentSeconds, savedSeconds, persistedSeconds);
+}
+
+function markVideoWatchedAfterMinimum(video) {
+  if (!video?.id || isWatched(video.id)) return false;
+  const watchedSeconds = watchedSecondsFor(video.id);
+  if (watchedSeconds < MINIMUM_MANUAL_SWITCH_WATCH_SECONDS) return false;
+  markWatched(video.id);
+  return true;
 }
 
 function markWatched(id) {
@@ -963,7 +987,10 @@ function playerNeighbor(currentId, direction) {
 function navigatePlayer(direction) {
   if (!state.activeVideo) return;
   const target = playerNeighbor(state.activeVideo.id, direction);
-  if (target) openLong(target);
+  if (target) {
+    markVideoWatchedAfterMinimum(state.activeVideo);
+    openLong(target);
+  }
 }
 
 function isTypingTarget(target) {
@@ -1304,6 +1331,7 @@ function renderShort() {
 
 function nextShort() {
   if (state.shortIndex < state.shortQueue.length - 1) {
+    markVideoWatchedAfterMinimum(state.shortQueue[state.shortIndex]);
     state.shortIndex += 1;
     renderShort();
   }
@@ -1311,6 +1339,7 @@ function nextShort() {
 
 function previousShort() {
   if (state.shortIndex > 0) {
+    markVideoWatchedAfterMinimum(state.shortQueue[state.shortIndex]);
     state.shortIndex -= 1;
     renderShort();
   }
@@ -1567,6 +1596,9 @@ app.addEventListener("click", (event) => {
 
   const videoButton = event.target.closest("[data-video-id]");
   if (videoButton) {
+    if (state.activeVideo?.id && videoButton.dataset.videoId !== state.activeVideo.id) {
+      markVideoWatchedAfterMinimum(state.activeVideo);
+    }
     openCard(videoButton);
     return;
   }

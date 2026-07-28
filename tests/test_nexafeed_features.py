@@ -94,6 +94,12 @@ class FrontendFeatureTests(unittest.TestCase):
             "function playerNeighbor",
             "PLAYER_WHEEL_THRESHOLD",
             "SHORT_WHEEL_THRESHOLD",
+            "const MINIMUM_MANUAL_SWITCH_WATCH_SECONDS = 5;",
+            "function watchedSecondsFor",
+            "function markVideoWatchedAfterMinimum",
+            "markVideoWatchedAfterMinimum(state.activeVideo)",
+            "markVideoWatchedAfterMinimum(state.shortQueue[state.shortIndex])",
+            "readJson(PROGRESS_KEY, {})[videoId]",
             "playerWheelDelta",
             "shortWheelDelta",
             "ArrowRight",
@@ -107,8 +113,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn("max-width: none;", style_css)
         self.assertNotIn("max-width: 1580px;", style_css)
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
-        self.assertIn("style.css?v=20260728-nblm-nav2", index_html)
-        self.assertIn("app.js?v=20260728-nblm-nav2", index_html)
+        self.assertIn("style.css?v=20260728-minwatch-nav", index_html)
+        self.assertIn("app.js?v=20260728-minwatch-nav", index_html)
         self.assertIn('aria-label="NexaFeed home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)
