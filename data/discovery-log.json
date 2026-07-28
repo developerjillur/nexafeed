@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T16:53:36Z",
+  "updatedAt": "2026-07-28T17:53:43Z",
   "items": [
+    {
+      "id": "_wtCHLUUzlQ",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-07-28T17:49:24Z",
+      "firstSeenAt": "2026-07-28T17:53:43Z"
+    },
+    {
+      "id": "SRSu6vU0fxA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Boring Marketer",
+      "publishedAt": "2026-07-28T17:16:43Z",
+      "firstSeenAt": "2026-07-28T17:53:43Z"
+    },
+    {
+      "id": "nL-yScvE00g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Trading Academy - Automation ",
+      "publishedAt": "2026-07-28T17:00:43Z",
+      "firstSeenAt": "2026-07-28T17:53:43Z"
+    },
+    {
+      "id": "cKSsIGodZV0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Academy",
+      "publishedAt": "2026-07-28T15:53:43Z",
+      "firstSeenAt": "2026-07-28T17:53:43Z"
+    },
+    {
+      "id": "hQU3GXlxTB4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jake One Page",
+      "publishedAt": "2026-07-28T14:53:43Z",
+      "firstSeenAt": "2026-07-28T17:53:43Z"
+    },
+    {
+      "id": "1r5meB2oqwk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Pulse",
+      "publishedAt": "2026-07-28T12:53:43Z",
+      "firstSeenAt": "2026-07-28T17:53:43Z"
+    },
+    {
+      "id": "D9_d1WHBic0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-07-28T11:53:43Z",
+      "firstSeenAt": "2026-07-28T17:53:43Z"
+    },
+    {
+      "id": "iYAzm--OOFo",
+      "type": "short",
+      "source": "secondary",
+      "channel": "AI Income Lab",
+      "publishedAt": "2026-07-28T07:53:43Z",
+      "firstSeenAt": "2026-07-28T17:53:43Z"
+    },
     {
       "id": "qf_jF1w7tgU",
       "type": "short",
@@ -3967,6 +4031,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-07-28T17:53:43Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
