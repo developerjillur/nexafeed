@@ -28,6 +28,12 @@ from collections import Counter
 from pathlib import Path
 from typing import Any
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from nexafeed_env import env_flag, env_int, load_env_files
+
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 CONFIG_PATH = ROOT / "config.json"
@@ -89,6 +95,55 @@ def write_json(path: Path, value: Any) -> None:
     temp = path.with_suffix(path.suffix + ".tmp")
     temp.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     temp.replace(path)
+
+
+def apply_env_overrides(config: dict[str, Any]) -> dict[str, Any]:
+    """Apply non-secret runtime overrides from env while keeping config.json public."""
+    output = dict(config)
+    string_overrides = {
+        "NEXAFEED_SITE_NAME": "siteName",
+        "NEXAFEED_SITE_URL": "siteUrl",
+        "NEXAFEED_TIMEZONE": "timezone",
+    }
+    for env_name, config_name in string_overrides.items():
+        value = os.getenv(env_name, "").strip()
+        if value:
+            output[config_name] = value
+
+    numeric_overrides = {
+        "NEXAFEED_RICH_METADATA_WORKERS": "richMetadataWorkers",
+        "NEXAFEED_RICH_METADATA_MAX_PER_RUN": "richMetadataMaxPerRun",
+        "NEXAFEED_RICH_METADATA_TTL_HOURS": "richMetadataTtlHours",
+        "NEXAFEED_BLOCKED_EMBED_TTL_HOURS": "blockedEmbedTtlHours",
+        "NEXAFEED_COMMENTS_MAX_VIDEOS": "commentsMaxVideos",
+        "NEXAFEED_COMMENTS_PER_VIDEO": "commentsPerVideo",
+        "NEXAFEED_COMMENTS_TTL_HOURS": "commentsTtlHours",
+        "NEXAFEED_SECONDARY_RESULTS_PER_QUERY": "secondaryResultsPerQuery",
+        "NEXAFEED_SECONDARY_RETENTION_HOURS": "secondaryRetentionHours",
+        "NEXAFEED_MAX_FEED_ITEMS": "maxFeedItems",
+        "NEXAFEED_SHORT_MAX_SECONDS": "shortMaxSeconds",
+        "NEXAFEED_FRESH_HOURS": "freshHours",
+        "NEXAFEED_DISCOVERY_RETENTION_DAYS": "discoveryRetentionDays",
+    }
+    for env_name, config_name in numeric_overrides.items():
+        raw = os.getenv(env_name, "").strip()
+        if not raw:
+            continue
+        try:
+            output[config_name] = int(raw)
+        except ValueError:
+            pass
+
+    delay = os.getenv("NEXAFEED_RICH_METADATA_REQUEST_DELAY_SECONDS", "").strip()
+    if delay:
+        try:
+            output["richMetadataRequestDelaySeconds"] = float(delay)
+        except ValueError:
+            pass
+    clients = os.getenv("NEXAFEED_RICH_METADATA_CLIENTS", "").strip()
+    if clients:
+        output["richMetadataClients"] = [value.strip() for value in clients.split(",") if value.strip()]
+    return output
 
 
 def fetch_text(url: str, timeout: int = 45, attempts: int = 3) -> str:
@@ -1200,7 +1255,7 @@ def git_publish(root: Path, now: dt.datetime) -> dict[str, Any]:
 def run_update(args: argparse.Namespace) -> dict[str, Any]:
     started = time.monotonic()
     now = utc_now()
-    config = load_json(CONFIG_PATH, {})
+    config = apply_env_overrides(load_json(CONFIG_PATH, {}))
     channels = read_channels()
     previous_feed = load_json(VIDEOS_PATH, {"items": []})
     previous_details = load_json(DETAILS_PATH, {"schemaVersion": 1, "items": {}})
@@ -1368,12 +1423,20 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Refresh and publish the NexaFeed static feed")
+    parser.add_argument("--env-file", type=Path, help="Optional .env file to load before running")
     parser.add_argument("--publish", action="store_true", help="Commit generated data and push origin/main")
     parser.add_argument("--dry-run", action="store_true", help="Collect and report without writing files")
     parser.add_argument("--no-secondary", action="store_true", help="Skip this run's topic search")
     parser.add_argument("--no-details", action="store_true", help="Reuse cached embed/comment details without probing")
-    parser.add_argument("--workers", type=int, default=6)
+    parser.add_argument("--workers", type=int, default=None)
     args = parser.parse_args(argv)
+
+    load_env_files(args.env_file)
+    args.publish = args.publish or env_flag("NEXAFEED_PUBLISH", default=False)
+    args.dry_run = args.dry_run or env_flag("NEXAFEED_DRY_RUN", default=False)
+    args.no_secondary = args.no_secondary or env_flag("NEXAFEED_NO_SECONDARY", default=False)
+    args.no_details = args.no_details or env_flag("NEXAFEED_NO_DETAILS", default=False)
+    args.workers = args.workers if args.workers is not None else env_int("NEXAFEED_WORKERS", 6, minimum=1, maximum=30)
 
     LOCK_PATH.touch(exist_ok=True)
     with LOCK_PATH.open("r+") as lock_handle:

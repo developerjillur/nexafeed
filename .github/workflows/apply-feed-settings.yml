@@ -91,7 +91,7 @@ jobs:
       - name: Prepare updated static site
         run: |
           mkdir _site
-          cp index.html style.css app.js config.json _site/
+          cp index.html style.css app.js float.html config.json _site/
           cp -R data _site/data
           touch _site/.nojekyll
 

@@ -6,6 +6,8 @@ import base64
 import gzip
 import importlib.util
 import json
+import os
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -187,6 +189,75 @@ class FeedSettingsTests(unittest.TestCase):
         marker = f"<!-- NEXAFEED_CONFIG_V1:GZIP_BASE64URL:{token} -->"
         with self.assertRaisesRegex(settings.SettingsValidationError, "decoded settings payload is too large"):
             settings.decode_issue_payload(marker)
+
+
+class EnvironmentConfigTests(unittest.TestCase):
+    def test_env_loader_keeps_shell_precedence_and_resolves_provider(self):
+        env = load_module("nexafeed_env_test", ROOT / "scripts/nexafeed_env.py")
+        keys = [
+            "NEXAFEED_LLM_PROVIDER",
+            "NEXAFEED_LLM_MODEL",
+            "OPENROUTER_API_KEY",
+            "NEXAFEED_LLM_API_KEY",
+            "NEXAFEED_LLM_BASE_URL",
+            "NEXAFEED_ENV_FILE",
+        ]
+        previous = {key: os.environ.get(key) for key in keys}
+        try:
+            for key in keys:
+                os.environ.pop(key, None)
+            os.environ["NEXAFEED_LLM_PROVIDER"] = "openrouter"
+            with tempfile.TemporaryDirectory() as tmpdir:
+                env_file = Path(tmpdir) / "nexafeed.env"
+                env_file.write_text(
+                    "NEXAFEED_LLM_PROVIDER=openai\n"
+                    "NEXAFEED_LLM_MODEL=openrouter/test-model\n"
+                    "OPENROUTER_API_KEY=private-test-value\n",
+                    encoding="utf-8",
+                )
+                loaded = env.load_env_files(env_file, include_project=False, include_hermes=False)
+                resolved = env.resolve_llm_config(required=True)
+
+            self.assertEqual(loaded, [str(env_file)])
+            self.assertEqual(os.environ["NEXAFEED_LLM_PROVIDER"], "openrouter")
+            self.assertEqual(resolved["provider"], "openrouter")
+            self.assertEqual(resolved["apiKeyName"], "OPENROUTER_API_KEY")
+            self.assertTrue(resolved["apiKeyConfigured"])
+            self.assertEqual(resolved["missing"], [])
+            self.assertNotIn("private-test-value", json.dumps(resolved))
+        finally:
+            for key, value in previous.items():
+                if value is None:
+                    os.environ.pop(key, None)
+                else:
+                    os.environ[key] = value
+
+    def test_public_setup_files_are_wired(self):
+        readme = (ROOT / "README.md").read_text(encoding="utf-8")
+        env_example = (ROOT / ".env.example").read_text(encoding="utf-8")
+        gitignore = (ROOT / ".gitignore").read_text(encoding="utf-8")
+        update_workflow = (ROOT / ".github/workflows/update-feed.yml").read_text(encoding="utf-8")
+        deploy_workflow = (ROOT / ".github/workflows/deploy-pages.yml").read_text(encoding="utf-8")
+        settings_workflow = (ROOT / ".github/workflows/apply-feed-settings.yml").read_text(encoding="utf-8")
+
+        for marker in [
+            "Hermes cron",
+            "normal cron",
+            "Codex",
+            "Claude",
+            "GitHub Actions",
+            "NEXAFEED_LLM_PROVIDER",
+            "scripts/nexafeed_automation.py --pull-first --require-clean --publish",
+        ]:
+            self.assertIn(marker, readme)
+        for marker in ["NEXAFEED_LLM_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY", "NEXAFEED_YT_DLP"]:
+            self.assertIn(marker, env_example)
+        for marker in [".env", ".env.*", "!.env.example"]:
+            self.assertIn(marker, gitignore)
+        for marker in ["workflow_dispatch", "scripts/nexafeed_doctor.py", "scripts/nexafeed_automation.py", "deploy-pages"]:
+            self.assertIn(marker, update_workflow)
+        self.assertIn("cp index.html style.css app.js float.html config.json _site/", deploy_workflow)
+        self.assertIn("cp index.html style.css app.js float.html config.json _site/", settings_workflow)
 
 
 class ProbePlanningTests(unittest.TestCase):

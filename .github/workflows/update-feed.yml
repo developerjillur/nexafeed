@@ -1,0 +1,123 @@
+name: Update NexaFeed feed
+
+on:
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: "Commit generated feed data and deploy Pages"
+        required: true
+        type: boolean
+        default: true
+      dry_run:
+        description: "Collect only; do not write files, commit, or deploy"
+        required: true
+        type: boolean
+        default: false
+      no_details:
+        description: "Skip yt-dlp rich metadata probes and reuse cache"
+        required: true
+        type: boolean
+        default: false
+      no_secondary:
+        description: "Skip topic/keyword discovery for this run"
+        required: true
+        type: boolean
+        default: false
+      workers:
+        description: "Channel worker count"
+        required: true
+        type: string
+        default: "6"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: nexafeed-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      NEXAFEED_LLM_PROVIDER: ${{ vars.NEXAFEED_LLM_PROVIDER }}
+      NEXAFEED_LLM_MODEL: ${{ vars.NEXAFEED_LLM_MODEL }}
+      NEXAFEED_LLM_BASE_URL: ${{ vars.NEXAFEED_LLM_BASE_URL }}
+      NEXAFEED_LLM_API_KEY: ${{ secrets.NEXAFEED_LLM_API_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+      ZAI_API_KEY: ${{ secrets.ZAI_API_KEY }}
+      NEXAFEED_SITE_URL: ${{ vars.NEXAFEED_SITE_URL }}
+      NEXAFEED_EMAIL_RECIPIENTS: ${{ secrets.NEXAFEED_EMAIL_RECIPIENTS }}
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      RESEND_FROM: ${{ vars.RESEND_FROM }}
+      EMAIL_SMTP_HOST: ${{ secrets.EMAIL_SMTP_HOST }}
+      EMAIL_SMTP_PORT: ${{ vars.EMAIL_SMTP_PORT }}
+      EMAIL_SMTP_USERNAME: ${{ secrets.EMAIL_SMTP_USERNAME }}
+      EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+      EMAIL_FROM_ADDRESS: ${{ secrets.EMAIL_FROM_ADDRESS }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install collector dependency
+        run: python -m pip install --upgrade yt-dlp
+
+      - name: Check setup without printing secrets
+        run: python3 scripts/nexafeed_doctor.py
+
+      - name: Refresh feed
+        run: |
+          set -euo pipefail
+          args=(--pull-first --require-clean --workers "${{ inputs.workers }}")
+          if [[ "${{ inputs.publish }}" == "true" ]]; then args+=(--publish); fi
+          if [[ "${{ inputs.dry_run }}" == "true" ]]; then args+=(--dry-run); fi
+          if [[ "${{ inputs.no_details }}" == "true" ]]; then args+=(--no-details); fi
+          if [[ "${{ inputs.no_secondary }}" == "true" ]]; then args+=(--no-secondary); fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 scripts/nexafeed_automation.py "${args[@]}"
+
+      - name: Verify feed and static app
+        run: |
+          python3 tests/test_nexafeed_features.py -v
+          python3 scripts/verify_nexafeed.py
+
+      - name: Prepare updated static site
+        if: ${{ inputs.publish && !inputs.dry_run }}
+        run: |
+          mkdir _site
+          cp index.html style.css app.js float.html config.json _site/
+          cp -R data _site/data
+          touch _site/.nojekyll
+
+      - uses: actions/configure-pages@v6
+        if: ${{ inputs.publish && !inputs.dry_run }}
+
+      - uses: actions/upload-pages-artifact@v5
+        if: ${{ inputs.publish && !inputs.dry_run }}
+        with:
+          path: _site
+
+      - name: Deploy updated feed
+        if: ${{ inputs.publish && !inputs.dry_run }}
+        id: deployment
+        uses: actions/deploy-pages@v5

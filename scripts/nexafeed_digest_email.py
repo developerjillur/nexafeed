@@ -10,11 +10,18 @@ import os
 import re
 import smtplib
 import subprocess
+import sys
 import tempfile
 from collections import Counter
 from email.message import EmailMessage
 from pathlib import Path
 from typing import Any
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from nexafeed_env import load_env_files
 
 ROOT = Path(__file__).resolve().parents[1]
 FEED_PATH = ROOT / "data" / "videos.json"
@@ -31,15 +38,13 @@ def load_json(path: Path, fallback: Any) -> Any:
         return fallback
 
 
-def load_env() -> None:
-    path = Path(os.environ.get("HERMES_HOME") or Path.home() / ".hermes") / ".env"
-    if not path.exists():
-        return
-    for line in path.read_text(errors="ignore").splitlines():
-        if "=" not in line or line.lstrip().startswith("#"):
-            continue
-        key, value = line.split("=", 1)
-        os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+def report_output_dir() -> Path:
+    configured = os.getenv("NEXAFEED_REPORT_DIR", "").strip()
+    if configured:
+        return Path(configured).expanduser()
+    if os.getenv("HERMES_HOME"):
+        return Path(os.environ["HERMES_HOME"]) / "reports" / "nexafeed"
+    return Path.home() / ".nexafeed" / "reports"
 
 
 def parse_datetime(value: str | None) -> dt.datetime | None:
@@ -308,20 +313,21 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--period", choices=["morning", "midnight"], required=True)
     parser.add_argument("--email", default="")
     parser.add_argument("--site-url", default="")
+    parser.add_argument("--env-file", type=Path, help="Optional .env file to load before sending")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
 
-    load_env()
+    load_env_files(args.env_file)
     config = load_json(CONFIG_PATH, {})
     site_url = args.site_url or config.get("siteUrl") or "https://developerjillur.github.io/nexafeed/"
     report = build_report(args.period, site_url)
     recipients = parse_recipients(args.email) or parse_recipients(
-        os.getenv("NEXAFEED_EMAIL_RECIPIENTS") or os.getenv("EMAIL_HOME_ADDRESS") or "developerjillur@gmail.com"
+        os.getenv("NEXAFEED_EMAIL_RECIPIENTS") or os.getenv("EMAIL_HOME_ADDRESS") or ""
     )
-    if not recipients:
+    if not recipients and not args.dry_run:
         raise RuntimeError("No email recipient configured")
 
-    report_dir = Path(os.environ.get("HERMES_HOME") or Path.home() / ".hermes") / "reports" / "nexafeed"
+    report_dir = report_output_dir()
     report_dir.mkdir(parents=True, exist_ok=True)
     stamp = dt.datetime.now(BD_TZ).strftime("%Y-%m-%d_%H-%M-%S")
     html_path = report_dir / f"{stamp}_{args.period}.html"

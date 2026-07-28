@@ -5,3 +5,7 @@ __pycache__/
 *.pyc
 *.tmp
 _site/
+.env
+.env.*
+!.env.example
+reports/

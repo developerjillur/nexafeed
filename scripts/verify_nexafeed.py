@@ -33,12 +33,19 @@ required_files = [
     "style.css",
     "app.js",
     "config.json",
+    ".env.example",
+    ".github/workflows/deploy-pages.yml",
+    ".github/workflows/apply-feed-settings.yml",
+    ".github/workflows/update-feed.yml",
     "data/channels.csv",
     "data/original-channel-categories.csv",
     "data/videos.json",
     "data/video-details.json",
     "data/feed-settings.json",
     "data/discovery-log.json",
+    "scripts/nexafeed_env.py",
+    "scripts/nexafeed_automation.py",
+    "scripts/nexafeed_doctor.py",
 ]
 for relative in required_files:
     if not (ROOT / relative).is_file():
@@ -132,6 +139,10 @@ for video_id, detail in detail_items.items():
 
 index_html = (ROOT / "index.html").read_text(encoding="utf-8")
 app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+readme = (ROOT / "README.md").read_text(encoding="utf-8")
+env_example = (ROOT / ".env.example").read_text(encoding="utf-8")
+gitignore = (ROOT / ".gitignore").read_text(encoding="utf-8")
+update_workflow = (ROOT / ".github/workflows/update-feed.yml").read_text(encoding="utf-8")
 for needle in ["style.css", "app.js", "youtube.com/iframe_api"]:
     if needle not in index_html:
         fail(f"index missing {needle}")
@@ -149,10 +160,26 @@ for needle in [
     if needle not in app_js:
         fail(f"app missing behavior marker {needle}")
 
-public_text = "\n".join([index_html, app_js, json.dumps(config)])
-for suspicious in ["ghp_", "github_pat_", "AIza", "smtp_password", "RESEND_API_KEY="]:
+for needle in [".env", ".env.*", "!.env.example"]:
+    if needle not in gitignore:
+        fail(f"gitignore missing env guard {needle}")
+for needle in ["NEXAFEED_LLM_PROVIDER", "NEXAFEED_LLM_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY"]:
+    if needle not in env_example:
+        fail(f"env example missing provider key {needle}")
+for needle in ["scripts/nexafeed_automation.py", "scripts/nexafeed_doctor.py", "workflow_dispatch", "deploy-pages"]:
+    if needle not in update_workflow:
+        fail(f"update workflow missing {needle}")
+for needle in ["Hermes cron", "normal cron", "Codex", "Claude", "GitHub Actions", "NEXAFEED_LLM_PROVIDER"]:
+    if needle not in readme:
+        fail(f"README missing public setup marker {needle}")
+
+public_text = "\n".join([index_html, app_js, json.dumps(config), readme, env_example, update_workflow])
+for suspicious in ["ghp_", "github_pat_", "smtp_password", "/Volumes/T7 Shield", "/Users/developerjillur"]:
     if suspicious in public_text:
-        fail(f"possible credential marker in public files: {suspicious}")
+        fail(f"possible private marker in public files: {suspicious}")
+for pattern in [r"AIza[0-9A-Za-z_-]{20,}", r"sk-[0-9A-Za-z_-]{20,}", r"xox[baprs]-[0-9A-Za-z-]{20,}"]:
+    if re.search(pattern, public_text):
+        fail(f"possible credential pattern in public files: {pattern}")
 
 if errors:
     print("NexaFeed verification failed:", file=sys.stderr)
