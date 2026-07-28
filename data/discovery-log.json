@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T13:53:14Z",
+  "updatedAt": "2026-07-28T14:53:19Z",
   "items": [
+    {
+      "id": "3eZdyjlMTCc",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-07-28T14:40:44Z",
+      "firstSeenAt": "2026-07-28T14:53:19Z"
+    },
+    {
+      "id": "_frZBuEvlMA",
+      "type": "long",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-07-28T14:37:55Z",
+      "firstSeenAt": "2026-07-28T14:53:19Z"
+    },
+    {
+      "id": "ulnesl0F2tc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hablu Programmer",
+      "publishedAt": "2026-07-28T13:59:19Z",
+      "firstSeenAt": "2026-07-28T14:53:19Z"
+    },
+    {
+      "id": "WdwitEbsjL4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stats Wire",
+      "publishedAt": "2026-07-28T04:53:19Z",
+      "firstSeenAt": "2026-07-28T14:53:19Z"
+    },
     {
       "id": "cbfyOYTKUJE",
       "type": "short",
@@ -3788,6 +3820,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-07-28T14:53:19Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
