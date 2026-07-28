@@ -53,10 +53,19 @@ class FrontendFeatureTests(unittest.TestCase):
             "state.view === \"liked\"",
             "No liked videos yet",
             "Liked Shorts",
+            "function saveButton",
+            "data-like-id",
+            "function toggleLikeVideo",
+            "function openCard",
+            "function likedTools",
+            "function exportLiked",
+            "Export likes JSON",
+            "Clear liked",
+            "class=\"card-open\" type=\"button\"",
         ]:
             self.assertIn(marker, app_js)
         self.assertNotIn("Like this Short on YouTube", app_js)
-        for marker in [".short-drawer", ".short-action-stack", ".short-like.active", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
+        for marker in [".short-drawer", ".short-action-stack", ".short-like.active", ".save-button", ".card-open", ".card-save", ".player-save", ".liked-tools", ".channel-editor-row", ".short-carousel", ".carousel-nav", "sidebar-collapsed", "text-decoration: none"]:
             self.assertIn(marker, style_css)
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn('aria-label="NexaFeed home"', index_html)

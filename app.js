@@ -212,42 +212,54 @@ function progressBar(video) {
   return `<span class="watch-progress"><i style="width:${Math.round(ratio * 100)}%"></i></span>`;
 }
 
+function saveButton(video, context = "card") {
+  const liked = isLiked(video.id);
+  const label = liked ? "Remove from Liked videos" : "Save to Liked videos";
+  return `<button class="save-button ${context}-save ${liked ? "active" : ""}" type="button" data-like-id="${escapeHtml(video.id)}" aria-label="${escapeHtml(label)}" aria-pressed="${liked}"><span>${liked ? "♥" : "♡"}</span></button>`;
+}
+
 function videoCard(video) {
   const watched = isWatched(video.id);
   return `
-    <button class="video-card ${watched ? "watched-card" : ""}" data-video-id="${escapeHtml(video.id)}">
-      <span class="video-thumb">
-        <img src="${escapeHtml(video.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer">
-        <span class="duration">${escapeHtml(video.duration || "Video")}</span>
-        <span class="play-hover">▶</span>
-        ${statusOverlay(video)}
-        ${progressBar(video)}
-      </span>
-      <span class="video-body">
-        <span class="avatar">${escapeHtml(initials(video.channel))}</span>
-        <span>
-          <span class="video-title">${escapeHtml(video.title)}</span>
-          <span class="video-channel">${escapeHtml(video.channel)}</span>
-          <span class="video-stats">${escapeHtml(video.views || "Views unavailable")} • ${escapeHtml(timeAgo(video.publishedAt))}</span>
-          ${sourceBadge(video.source)}
+    <article class="video-card ${watched ? "watched-card" : ""}">
+      <button class="card-open" type="button" data-video-id="${escapeHtml(video.id)}" aria-label="Play ${escapeHtml(video.title)}">
+        <span class="video-thumb">
+          <img src="${escapeHtml(video.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer">
+          <span class="duration">${escapeHtml(video.duration || "Video")}</span>
+          <span class="play-hover">▶</span>
+          ${statusOverlay(video)}
+          ${progressBar(video)}
         </span>
-      </span>
-    </button>`;
+        <span class="video-body">
+          <span class="avatar">${escapeHtml(initials(video.channel))}</span>
+          <span>
+            <span class="video-title">${escapeHtml(video.title)}</span>
+            <span class="video-channel">${escapeHtml(video.channel)}</span>
+            <span class="video-stats">${escapeHtml(video.views || "Views unavailable")} • ${escapeHtml(timeAgo(video.publishedAt))}</span>
+            ${sourceBadge(video.source)}
+          </span>
+        </span>
+      </button>
+      ${saveButton(video, "card")}
+    </article>`;
 }
 
 function shortCard(video) {
   const watched = isWatched(video.id);
   return `
-    <button class="short-card ${watched ? "watched-card" : ""}" data-short-id="${escapeHtml(video.id)}">
-      <span class="short-thumb">
-        <img src="${escapeHtml(video.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer">
-        <span class="play-hover">▶</span>
-        ${statusOverlay(video)}
-        ${progressBar(video)}
-      </span>
-      <span class="short-title">${escapeHtml(video.title)}</span>
-      <span class="short-meta">${escapeHtml(video.views || "Views unavailable")} • ${escapeHtml(video.channel)}</span>
-    </button>`;
+    <article class="short-card ${watched ? "watched-card" : ""}">
+      <button class="card-open" type="button" data-short-id="${escapeHtml(video.id)}" aria-label="Open Short ${escapeHtml(video.title)}">
+        <span class="short-thumb">
+          <img src="${escapeHtml(video.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer">
+          <span class="play-hover">▶</span>
+          ${statusOverlay(video)}
+          ${progressBar(video)}
+        </span>
+        <span class="short-title">${escapeHtml(video.title)}</span>
+        <span class="short-meta">${escapeHtml(video.views || "Views unavailable")} • ${escapeHtml(video.channel)}</span>
+      </button>
+      ${saveButton(video, "card")}
+    </article>`;
 }
 
 function toolbar() {
@@ -274,6 +286,26 @@ function toolbar() {
 
 function emptyState(title, description) {
   return `<div class="empty"><span>✓</span><h2>${escapeHtml(title)}</h2><p>${escapeHtml(description)}</p></div>`;
+}
+
+function likedItems() {
+  return collapseRepeatedItems((state.feed?.items || []).filter((item) => isLiked(item.id)));
+}
+
+function likedTools() {
+  if (state.view !== "liked") return "";
+  const count = likedItems().length;
+  return `
+    <article class="settings-card history-tools liked-tools">
+      <div>
+        <h2>Liked videos saved locally</h2>
+        <p>${count ? `${count} saved item${count === 1 ? "" : "s"}. Export a backup before clearing browser data.` : "Tap any heart button to build your saved list in this browser."}</p>
+      </div>
+      <div class="settings-actions">
+        <button id="exportLiked" class="action-button" type="button" ${count ? "" : "disabled"}>Export likes JSON</button>
+        <button id="clearLiked" class="danger" type="button" ${count ? "" : "disabled"}>Clear liked</button>
+      </div>
+    </article>`;
 }
 
 function freshSettingsDraft() {
@@ -522,7 +554,7 @@ function feedView() {
         : searchEmpty
           ? "Try a channel name, title keyword, topic, or category. Search updates live as you type."
           : "Watched videos stay hidden. New uploads will arrive on the next hourly refresh.";
-    return toolbar() + emptyState(
+    return toolbar() + likedTools() + emptyState(
       emptyTitle,
       emptyDescription,
     );
@@ -555,7 +587,7 @@ function feedView() {
         <div class="video-grid">${longVideos.map(videoCard).join("")}</div>
       </section>`
     : "";
-  return toolbar() + shortsSection + longSection;
+  return toolbar() + likedTools() + shortsSection + longSection;
 }
 
 function render() {
@@ -591,6 +623,7 @@ function renderPlayer() {
           <div class="author-info"><span class="avatar">${escapeHtml(initials(video.channel))}</span><div><strong>${escapeHtml(video.channel)}</strong><small>${escapeHtml(video.handle || "")}</small></div></div>
           <div class="player-actions">
             <span class="video-stats">${escapeHtml(video.views || "Views unavailable")} • ${escapeHtml(timeAgo(video.publishedAt))}</span>
+            ${saveButton(video, "player")}
             <button class="action-button compact" id="markCurrentWatched">✓ Mark watched</button>
           </div>
         </div>
@@ -747,19 +780,31 @@ async function shareCurrentShort(button) {
   }
 }
 
-function toggleLikeCurrentShort(button) {
-  const video = state.shortQueue[state.shortIndex];
-  if (!video) return;
-  if (isLiked(video.id)) delete state.liked[video.id];
-  else state.liked[video.id] = Date.now();
-  saveLiked();
-  const liked = isLiked(video.id);
+function updateLikeButton(button, liked) {
   button?.classList.toggle("active", liked);
   button?.setAttribute("aria-pressed", String(liked));
+  button?.setAttribute("aria-label", liked ? "Remove from Liked videos" : "Save to Liked videos");
   const icon = button?.querySelector("span");
   const label = button?.querySelector("small");
   if (icon) icon.textContent = liked ? "♥" : "♡";
   if (label) label.textContent = liked ? "Liked" : label.dataset.defaultLabel || "Like";
+}
+
+function toggleLikeVideo(videoId, button) {
+  if (!videoId) return false;
+  if (isLiked(videoId)) delete state.liked[videoId];
+  else state.liked[videoId] = Date.now();
+  saveLiked();
+  const liked = isLiked(videoId);
+  updateLikeButton(button, liked);
+  if (state.view === "liked" && !liked && !state.activeVideo && !state.shortQueue.length) render();
+  return liked;
+}
+
+function toggleLikeCurrentShort(button) {
+  const video = state.shortQueue[state.shortIndex];
+  if (!video) return;
+  toggleLikeVideo(video.id, button);
 }
 
 function commentCard(comment) {
@@ -932,19 +977,49 @@ function selectView(view) {
   scrollToTop();
 }
 
+function openCard(card) {
+  if (!card) return;
+  if (card.dataset.shortId) {
+    const video = state.feed.items.find((item) => item.id === card.dataset.shortId);
+    if (video) openShort(video);
+    return;
+  }
+  if (card.dataset.videoId) {
+    const video = state.feed.items.find((item) => item.id === card.dataset.videoId);
+    if (video) openLong(video);
+  }
+}
+
+function downloadJson(payload, filename) {
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+  const link = document.createElement("a");
+  link.href = URL.createObjectURL(blob);
+  link.download = filename;
+  link.click();
+  setTimeout(() => URL.revokeObjectURL(link.href), 1000);
+}
+
 function exportHistory() {
   const payload = {
     schemaVersion: 1,
     exportedAt: new Date().toISOString(),
     watched: state.watched,
     progress: state.progress,
+    liked: state.liked,
   };
-  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
-  const link = document.createElement("a");
-  link.href = URL.createObjectURL(blob);
-  link.download = `nexafeed-history-${new Date().toISOString().slice(0, 10)}.json`;
-  link.click();
-  setTimeout(() => URL.revokeObjectURL(link.href), 1000);
+  downloadJson(payload, `nexafeed-history-${new Date().toISOString().slice(0, 10)}.json`);
+}
+
+function exportLiked() {
+  const items = likedItems().map((item) => ({
+    id: item.id,
+    type: item.type,
+    title: item.title,
+    channel: item.channel,
+    url: item.url,
+    likedAt: state.liked[item.id],
+  }));
+  downloadJson({ schemaVersion: 1, exportedAt: new Date().toISOString(), liked: state.liked, items }, `nexafeed-liked-${new Date().toISOString().slice(0, 10)}.json`);
 }
 
 async function importHistory(file) {
@@ -952,9 +1027,12 @@ async function importHistory(file) {
   const data = JSON.parse(await file.text());
   state.watched = { ...state.watched, ...(data.watched || {}) };
   state.progress = { ...state.progress, ...(data.progress || {}) };
+  state.liked = { ...state.liked, ...(data.liked || {}) };
   localStorage.setItem(WATCHED_KEY, JSON.stringify(state.watched));
   localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress));
+  localStorage.setItem(LIKED_KEY, JSON.stringify(state.liked));
   updateHistoryCount();
+  updateLikedCount();
   render();
 }
 
@@ -1068,17 +1146,23 @@ app.addEventListener("click", (event) => {
     return;
   }
 
+  const saveCardButton = event.target.closest("[data-like-id]");
+  if (saveCardButton) {
+    event.preventDefault();
+    event.stopPropagation();
+    toggleLikeVideo(saveCardButton.dataset.likeId, saveCardButton);
+    return;
+  }
+
   const shortButton = event.target.closest("[data-short-id]");
   if (shortButton) {
-    const video = state.feed.items.find((item) => item.id === shortButton.dataset.shortId);
-    if (video) openShort(video);
+    openCard(shortButton);
     return;
   }
 
   const videoButton = event.target.closest("[data-video-id]");
   if (videoButton) {
-    const video = state.feed.items.find((item) => item.id === videoButton.dataset.videoId);
-    if (video) openLong(video);
+    openCard(videoButton);
     return;
   }
 
@@ -1122,7 +1206,14 @@ app.addEventListener("click", (event) => {
     return;
   }
   if (event.target.closest("#exportHistory")) exportHistory();
+  if (event.target.closest("#exportLiked")) exportLiked();
   if (event.target.closest("#importHistory")) document.querySelector("#historyFile")?.click();
+  if (event.target.closest("#clearLiked")) {
+    state.liked = {};
+    localStorage.removeItem(LIKED_KEY);
+    updateLikedCount();
+    render();
+  }
   if (event.target.closest("#clearHistory")) {
     state.watched = {};
     state.progress = {};

@@ -322,11 +322,28 @@ body.sidebar-collapsed .content { margin-left: 0; }
 .carousel-nav.prev { margin-left: -6px; }
 .carousel-nav.next { margin-right: -6px; }
 .short-card, .video-card, .queue-card {
+  position: relative;
   padding: 0;
   cursor: pointer;
   border: 0;
   background: transparent;
   text-align: left;
+}
+.card-open {
+  display: block;
+  width: 100%;
+  padding: 0;
+  cursor: pointer;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+}
+.card-open:focus-visible {
+  outline: 2px solid var(--red);
+  outline-offset: 5px;
+  border-radius: 13px;
 }
 .short-thumb, .video-thumb, .queue-thumb {
   position: relative;
@@ -369,6 +386,36 @@ body.sidebar-collapsed .content { margin-left: 0; }
 .short-card:hover .play-hover, .video-card:hover .play-hover {
   opacity: 1;
   transform: translate(-50%, -50%) scale(1);
+}
+.save-button {
+  display: inline-grid;
+  place-items: center;
+  cursor: pointer;
+  border: 1px solid rgba(255,255,255,.22);
+  border-radius: 999px;
+  background: rgba(0,0,0,.52);
+  color: #fff;
+  transition: transform .16s ease, background .16s ease, border-color .16s ease;
+}
+.save-button:hover { transform: scale(1.06); background: rgba(0,0,0,.72); }
+.save-button.active {
+  border-color: rgba(255,102,133,.55);
+  background: rgba(255,102,133,.22);
+  color: #ff6685;
+}
+.card-save {
+  position: absolute;
+  z-index: 5;
+  top: 8px;
+  left: 8px;
+  width: 34px;
+  height: 34px;
+  font-size: 17px;
+}
+.player-save {
+  width: 38px;
+  height: 38px;
+  font-size: 18px;
 }
 .new-dot {
   position: absolute;
@@ -696,6 +743,11 @@ body.sidebar-collapsed .content { margin-left: 0; }
   font-weight: 750;
 }
 .history-tools { margin-top: 16px; }
+.liked-tools {
+  max-width: 1680px;
+  margin: 0 auto 28px;
+}
+.liked-tools .settings-actions { justify-content: flex-start; }
 .source-manager, .discovery-manager { margin-top: 16px; }
 .manager-heading { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 18px; }
 .manager-heading h2 { margin: 0; font-size: 18px; }
@@ -753,6 +805,10 @@ body.sidebar-collapsed .content { margin-left: 0; }
 }
 .action-button:hover { background: var(--hover); }
 .action-button.compact { min-height: 34px; padding: 0 12px; font-size: 11px; }
+.action-button:disabled, .danger:disabled {
+  cursor: not-allowed;
+  opacity: .46;
+}
 .health-grid .settings-card strong { overflow: hidden; font-size: 20px; text-overflow: ellipsis; white-space: nowrap; }
 .empty { display: grid; min-height: 380px; place-items: center; align-content: center; text-align: center; }
 .empty span { display: grid; width: 68px; height: 68px; place-items: center; border-radius: 50%; background: rgba(52,211,153,.1); color: var(--green); font-size: 30px; }
