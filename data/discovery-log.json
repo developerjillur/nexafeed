@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T17:53:43Z",
+  "updatedAt": "2026-07-28T18:53:48Z",
   "items": [
+    {
+      "id": "j5-al-0YR4M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CodingBite",
+      "publishedAt": "2026-07-28T17:56:48Z",
+      "firstSeenAt": "2026-07-28T18:53:48Z"
+    },
+    {
+      "id": "8hLMqx-KS8w",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CodeHead",
+      "publishedAt": "2026-07-28T15:53:48Z",
+      "firstSeenAt": "2026-07-28T18:53:48Z"
+    },
+    {
+      "id": "C-Eb5vpHFTI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-07-28T14:53:48Z",
+      "firstSeenAt": "2026-07-28T18:53:48Z"
+    },
+    {
+      "id": "thVQL9fxi3U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vivek Gupta",
+      "publishedAt": "2026-07-28T14:53:48Z",
+      "firstSeenAt": "2026-07-28T18:53:48Z"
+    },
+    {
+      "id": "BvoweHkMvys",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Maximilian Schwarzmüller",
+      "publishedAt": "2026-07-28T13:53:48Z",
+      "firstSeenAt": "2026-07-28T18:53:48Z"
+    },
+    {
+      "id": "du9-GTb20K0",
+      "type": "short",
+      "source": "secondary",
+      "channel": "EzInsights AI",
+      "publishedAt": "2026-07-28T08:53:48Z",
+      "firstSeenAt": "2026-07-28T18:53:48Z"
+    },
+    {
+      "id": "jaapjGBuRJQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": "bashbunni",
+      "publishedAt": "2026-07-28T08:53:48Z",
+      "firstSeenAt": "2026-07-28T18:53:48Z"
+    },
     {
       "id": "_wtCHLUUzlQ",
       "type": "long",
@@ -4040,6 +4096,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-07-28T18:53:48Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }

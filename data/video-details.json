@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T17:53:43Z",
+  "updatedAt": "2026-07-28T18:53:48Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -310,7 +310,7 @@
       "likeCount": 124
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-28T17:53:43Z",
+      "checkedAt": "2026-07-28T18:53:48Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4244,7 +4244,7 @@
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-28T17:53:43Z",
+      "checkedAt": "2026-07-28T18:53:48Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4313,24 +4313,96 @@
       "probeClient": "web_embedded"
     },
     "2jsjiwV_1pA": {
-      "checkedAt": "2026-07-27T18:53:25Z",
+      "checkedAt": "2026-07-28T18:53:48Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 9,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-27T18:53:25Z",
+      "commentCount": 8,
+      "likeCount": 581,
+      "comments": [
+        {
+          "id": "UgzQa31wbwjIhkpDm_Z4AaABAg",
+          "author": "@Ai.Vishnuvijayan",
+          "text": "tools.rmv.fyi",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/yhAqPsQdQNzWqs3n323bzwcDBcfNQt2XFJe9SntriwBCCx8kViE13reCfUPwZ_8coQAAPdj4wKg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "Ugz1-z8JggCTjABPQsF4AaABAg",
+          "author": "@Insatiableme",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/SX99Zr0kKp8hXkphHEPMRa_CEy1rxYJbWHwTBggrO8vPh3t4gd20e9woF3kTFyqkcdHja0W4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwkFGH8wQnjjP3n1BZ4AaABAg",
+          "author": "@swarnajyothi1907",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mzJIUNurmsDsnmhnHpyNeNs_rW_P1bBJqkbVgT3hM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxNXxWxyQ2orNIKhL94AaABAg",
+          "author": "@IBRAHIMAFALL-e8m",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kfBWzgfHn_NOhyxXs3rKlvQuHZKqfA1ZMrxZMUGQkjW8Dqu0CswMyWj8F3pmGfexqucg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw5839xQ-GBOQqvuXJ4AaABAg",
+          "author": "@khajamoinuddin8374",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mTnUCQ7KXJb04njS432ZnH8PaVYX07bcbO98pVtpwE07_V=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwuqswjeTezvgVMdp94AaABAg",
+          "author": "@inspiringstories1460",
+          "text": "What are the use of this ?",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/fqhXnxd8sTadlcqrjxWq8vru6b3uN0cqvVzBWP1YU1bcFheLIJy9amBcbcIny3PlqUvbdIQNtwo=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy8S58fZ9Kq4VJLXGB4AaABAg",
+          "author": "@LiPriyanshi",
+          "text": "free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/BjXZQ1u7x4ZO2niOSr6zbyb7IjwLGlsS45F5ZmIRdJrbsmEYJ0E5bM6NA3IYLH0IxJbVyI-06A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugzq3jNSCZmrHFlZ-9Z4AaABAg",
+          "author": "@Kiran61900",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/IoGKd8x4qa_zepYeEBKh3N5otu8pS-pGDERfHjALt7sybnJ70SESOm6ZG4y5rINNOo7aAlqqspE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-28T18:53:48Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "EmeJbj-XtnQ": {
-      "checkedAt": "2026-07-27T18:53:25Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "This is an unofficial, independently created AI-assisted recreation of\nChristopher Nolan’s The Odyssey trailer, produced as a filmmaking and\nvisual-effects experiment for the What If World channel.\n\nAll visuals in this video were independently recreated using generative\nAI tools. No footage or music from the official trailer was used.\n\nThis project is not affiliated with, authorized by, or endorsed by\nUniversal Pictures, Syncopy, Christopher Nolan, or the filmmakers of\nThe Odyssey.",
-      "commentCount": 1,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "ff7FOR3Y0uA": {
@@ -4387,15 +4459,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "15aYl5H72KA": {
-      "checkedAt": "2026-07-27T23:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "This short video is a clip from one of my livestreams, which you can find here: https://www.youtube.com/live/UjkDFq0sPoc\n\nThank you so much to all channel supporters!\n→ @zeroToFullStackYT  \n→ @jmallred  \n→ @oseqn \n\nHi! My name’s BenStack or Ben, and my goal with this channel is twofold:\n1) Learn and improve my development skills live\n2) Engage with my community to discuss various CS and non-CS related topics as well as help each other out with learning and professional growth\n\nI’ve tried learning HTML, CSS, and JavaScript a few times in the past, but I was very rusty. Rather than jumping ahead and getting lost and discouraged, I started from absolute zero to build a rock-solid foundation.\n\nI’ve used The Odin Project as a general guide my learning, beginning with the fundamentals (basic HTML/CSS), eventually working my way up toward full stack technologies where I am today.\n\nIf you’re looking for motivation, someone who codes or develops software as a hobby, or just wants to study alongside someone, feel free to hang out or work with me! It’s great to have you! :)\n\n#learntocode #webdevelopment #coding",
-      "commentCount": 1,
-      "likeCount": 11,
-      "probeClient": "web_embedded"
-    },
     "6_F1v5QWEo0": {
       "checkedAt": "2026-07-28T00:53:07Z",
       "embedAllowed": true,
@@ -4412,33 +4475,6 @@
       "description": "ChatGPT Voice mode is INCREDIBLE. Here's how to use it.\n\nFULL ChatGPT Voice bootcamp in the Vibe Coding Academy coming up: https://www.skool.com/vibe-coding-academy\n2nd Youtube Channel:  https://youtube.com/@AlexFinnLabsOfficial\nSign up for my free newsletter: https://www.shipitweekly.com/\nFollow my X: https://x.com/AlexFinn\nHenry Intelligent Machines (my new startup): https://meethenry.ai\nMy $300k/yr AI app: https://www.creatorbuddy.io/ \n\nTimestamps:\n0:00 Intro\n0:50 AGI moments\n2:23 Demo\n10:06 Why it's so good\n12:31 Workflows\n16:45 Best tips",
       "commentCount": 51,
       "likeCount": 359,
-      "probeClient": "web_embedded"
-    },
-    "IIBGiyUinMw": {
-      "checkedAt": "2026-07-28T00:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet our SEO link building book here: https://go.juliangoldie.com/opt-in?utm=julian\n\nOrca: Free Open-Source Multi‑Agent IDE with Mobile Control, Live Preview & Automation\n\nThis episode demos Orca, a free open-source ADE/desktop app for running multiple coding agents in parallel with split terminals, project previews, and a mobile companion that lets you control local multi-terminal workflows from your phone. The script shows creating local or remote (VPS) projects, loading GitHub projects, dragging files in, switching and enabling agents (e.g., Claude, Codex, Gemini, Hermes), and turning on orchestration so agents can hand off context and coordinate. It highlights settings for skills like computer use and voice dictation, QR pairing for mobile, managing multiple projects/branches, and a built-in browser tab for live preview with screenshot annotation sent to agents. It also covers mobile emulation, forking agent sessions, an agent dashboard, experimental features, and scheduled automations to run agents on recurring tasks.\n\n00:00 Meet Orca ADE\n00:40 Download and Setup\n01:06 Split Terminals Agents\n01:35 Free Agents APIs\n02:04 Settings Orchestration\n02:56 Pair Mobile Companion\n03:18 Projects Branch Rename\n03:36 Live Preview Annotate\n05:03 Mobile Emulator Tabs\n05:46 Fork Sessions Results\n06:05 Experimental Dashboards\n06:48 Automation Scheduling\n07:08 Why Orca Wrap Up",
-      "commentCount": 1,
-      "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
-    "HxDkJa-YZtQ": {
-      "checkedAt": "2026-07-28T01:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "✅ If you're selling AI services, running an agency, or looking to offer AI solutions to businesses, become a ScaleAgents partner today:\nhttps://scaleagents.io/partners\n\nMessage me (Instagram):\nhttps://www.instagram.com/reedjhenry\n\nI just closed a $3,000 AI automation client, and in this video I break down exactly how I signed them, what we're building, and how we're launching their AI appointment setter in just 7 days.\n\nThis client runs an auto rental business and generates leads through Meta Ads and Google Ads. We're building them a complete multi-channel AI appointment setting system across SMS, email, voice, Facebook Messenger, and Instagram DMs.\n\nI walk through the full $3K AI automation build, including speed-to-lead, automated follow-up, lead qualification, appointment booking, live call transfers, GoHighLevel automations, UTM tracking, AI analytics, and our custom client dashboard.\n\nTIMESTAMPS:\n0:00 How I Closed This $3,000 AI Automation Client\n1:26 The Client + AI Appointment Setter Build\n3:53 Full AI Automation Deliverables\n7:03 Our 7-Day Client Launch Process\n8:44 How to Sell AI Automations That Businesses Actually Buy\n\nGot a question about AI appointment setters, GoHighLevel, or building an AI automation agency? Drop a comment below and I'll get back to you.\n\n#aiautomation #aiagency",
-      "commentCount": 2,
-      "likeCount": 4,
-      "probeClient": "web_embedded"
-    },
-    "U2hogriGmEw": {
-      "checkedAt": "2026-07-28T01:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Cody Schneider is back on the podcast, and I ask him to lay out what a real marketing agent looks like once you get past the hype. He draws a hard line: an agent owns unified business data, runs on a cadence, and improves from the results it reads back. We use one concrete business as the sandbox — an AI-first product built on top of WordPress — and Cody walks the entire stack behind a Facebook ads agent that researches pain points, generates static and video creative, publishes through the Facebook Marketing API, kills the losers, and promotes the winners. You leave with a business idea, the exact infrastructure list, and the tools we use to run it today.\n\nTimestamps:\n\n00:00 – Intro\n01:54 – Defining a Marketing Agent\n04:00 – Startup Idea: AI for WordPress\n07:27 – AI-First Plugin Ideas: Yoast, WPForms, WooCommerce, Akismet\n09:55 – The current state of Meta Ads\n12:48 – Bundling the Stack and Choosing Channels\n15:23 – Two creative pipelines: static and video\n17:25 – The Data pipeline and warehouse\n24:11 – Ad strategy\n25:51 – Solving for Entropy\n28:01 – Let the market pick the winner\n34:26 – Closing Thoughts\n\nKey Points\n\n* WordPress powers 43% of all indexed websites, which leaves a wide open lane for AI-first products built on that stack.\n\n* A marketing agent earns the name when it owns live data, runs on a cadence, and learns from its own results.\n\n* The infrastructure comes down to three pieces: a pipeline (Airbyte), a warehouse (ClickHouse), and cloud hosting (Heroku, Railway, or similar).\n\n* Facebook's Andromeda algorithm reads your creative and your landing page, so the ad copy now carries the targeting.\n\n* Fresh inputs — competitor ad libraries, YouTube transcripts, podcast transcripts — keep agent creative varied over time.\n\n* Paid ads let you test a thousand angles and read the market's verdict inside 48 hours.\n\nNumbered Section Summaries\n1. What Counts as a Marketing Agent Cody sets the bar at three things: unified data across the whole pipeline, autonomous decisions on a cadence, and a thinking loop that reads results back. In practice that means a data pipeline, a data warehouse, and code hosted in the cloud — a definition that separates a working agent from a linear automation workflow.\n\n2. AI for WordPress as the Sandbox The pitch is simple: a vibe-coding layer for WordPress that bundles the plugins people normally stitch together — forms, CRM, security — into one package sold on tokens, with a $29-per-month base tier. Cody sees a $10 million a year company inside roughly 24 months for a team that executes and positions it well.\n\n3. Rebuilding Proven Plugins as AI-First Products I share my agency days migrating time.com and techcrunch.com onto WordPress, and the absurd money moving through the plugin ecosystem. That leads to a repeatable play: find plugins with validated demand, then ship the AI-first version — an agent that writes the meta and internal links in place of Yoast's red and green dots, a conversational form that qualifies leads, a WooCommerce storekeeper writing product descriptions and abandoned cart flows.\n\n4. Creative Research That Seeds the Ads Cody runs Perplexity against Reddit to pull the real pain points and desired outcomes of WordPress site owners, then ranks them by how often people reference them. The top three — the plugin layer, performance and speed, and security and maintenance — become the ad angles, and he reads out the exact script shape that comes from them.\n\n5. Generating Creative at Volume Statics come from Kai AI with Google Nano Banana, seeded by an example ad from a competitor or a tangential industry, with a vision model reviewing every output against brand style guides for fonts, colors, and readable text. Video runs on HeyGen for avatar UGC today, with Seedance coming up fast — clips cap out around nine seconds, so longer spots need frame stitching.\n\n6. The Data Stack Behind the Agent Airbyte pipes Facebook ads, Google Analytics, CRM, and Stripe data into a ClickHouse warehouse so the agent sees the full path from ad to revenue. Cody keeps Facebook Marketing API usage to writes only — publish, pause, promote — because the account bans people blame on agents trace back to TOS violations from pulling hundreds of millions of rows.\n\nThe #1 tool to find startup ideas/trends - https://www.ideabrowser.com\n\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/\n\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/\n\nFIND ME ON SOCIAL\n\nX/Twitter: https://twitter.com/gregisenberg\nInstagram: https://instagram.com/gregisenberg/\nLinkedIn: https://www.linkedin.com/in/gisenberg/\n\nFIND CODY ON SOCIAL:\n\nCody’s startup: https://www.graphed.com/\nX/Twitter: https://x.com/codyschneiderxx\nYoutube: https://www.youtube.com/@codyschneiderx",
-      "commentCount": 69,
-      "likeCount": 529,
       "probeClient": "web_embedded"
     },
     "CXDSTsd-CKE": {
@@ -4469,15 +4505,6 @@
       "description": "https://minasatori.com",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "Ra1cAR_61Gk": {
-      "checkedAt": "2026-07-28T03:53:09Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 ContentClaw Review 2026 | AI Creates Viral Content & Grows Followers on Autopilot\n\n⏰ Get ContentClaw + Exclusive Bonuses:\n➡️ https://www.reviews.nkracademy.com/contentclaw-review/\n\nWant to grow your social media without creating content yourself? In this ContentClaw Review, I'll show you how this powerful AI finds viral content, rewrites it into 100% original posts, publishes across 15 social platforms, and automatically promotes your affiliate links, products, or business.\n\nWhether you're an affiliate marketer, YouTuber, agency owner, Shopify seller, blogger, coach, or beginner, ContentClaw helps you build an audience and monetize it—without filming, writing, or posting manually.\n\n✅ In This Video\n\n✔️ Complete ContentClaw Review & Demo\n✔️ AI Viral Content Discovery\n✔️ Auto Content Creation\n✔️ Publish to 15 Platforms Automatically\n✔️ Built-in Monetization System\n✔️ Pricing, OTOs & My Verdict\n\n🚀 ContentClaw - Top Features\n\n🔥 Finds trending content every 6 hours\n🤖 Recreates it into original, platform-native content\n📅 Publishes up to 45 posts/day automatically\n💰 Auto-inserts affiliate links, products & lead forms\n📊 Tracks followers, clicks, revenue & account growth\n\n🌐 ContentClaw Supports\n\nYouTube Shorts • TikTok • Instagram • Facebook • X • LinkedIn • Pinterest • Reddit • Threads • Bluesky • Medium • Quora • Telegram • WordPress • Discord\n\n⏰ Get ContentClaw + Exclusive Bonuses:\n➡️ https://www.reviews.nkracademy.com/contentclaw-review/\n\n🎁 You Can Connect me on the following:\n\n📧 nkracademywb@gmail.com\n📱 WhatsApp: +91 86977 75424\n\n⚠️ Affiliate Disclaimer\n\nSome links in this description are affiliate links. If you purchase through them, I may earn a commission at no extra cost to you. I only recommend tools I believe provide real value.\n\n#ContentClaw #ContentClawReview #AITools #AIContentCreator",
-      "commentCount": 2,
-      "likeCount": 21,
       "probeClient": "web_embedded"
     },
     "KgQMZN0lgiI": {
@@ -4780,17 +4807,8 @@
       "likeCount": 51,
       "probeClient": "web_embedded"
     },
-    "y9NQp6gTMNk": {
-      "checkedAt": "2026-07-28T12:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "This is full breakdown if you want to go from $0 to consistent $10k/mo\n\nIf you want to start an AI marketing agency in 2026 and actually close clients this is the video you need to watch before your next sales call.\n\nDM me \"AGENCY\" on Instagram for the exact scripts:\n📲   / kenzitouadii  \n\nLearn for FREE inside my community:\n💬   / discord  \n\nFollow me:\nInstagram →   / https://www.instagram.com/kenzitouadii/\nTikTok →   / kenzitouadii\n\nLearn how to sell AI marketing agency services to businesses even when they are hesitant to adopt new technology. Get a proven path to landing your first client.\n\nThis guide outlines the specific steps required to build a profitable AI marketing agency from scratch. If you have been struggling to convince business owners of the value of automation, this breakdown provides the practical approach needed to overcome objections and close deals effectively. We focus on the core benefits of this model, including high scalability and the potential for outsourcing work to keep overhead low.\n\nWe also cover actionable client acquisition strategies to fill your pipeline. You will learn how to leverage paid Meta ads for quick visibility, alongside organic methods like effective cold DM techniques and direct door-to-door sales tactics. By implementing these workflows, you can navigate the current market landscape and secure your first paying client without needing a massive existing portfolio.\n\nSubscribe for weekly AI business breakdowns, and comment below with the biggest objection you face when selling to local businesses.",
-      "commentCount": 8,
-      "likeCount": 14,
-      "probeClient": "web_embedded"
-    },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-28T17:53:43Z",
+      "checkedAt": "2026-07-28T18:53:48Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5373,6 +5391,69 @@
       "description": "This isn't a hypothetical — it's a real, documented case study. A bookkeeping business owner with zero coding experience built one AI automation, sold it to other accounting firms, and reached $7,800/month in recurring revenue within 4 months. Here's exactly how he did it, step by step.\n\n🎯 What you'll learn in this video:\n- The exact AI automation this founder built and sold\n- His real pricing model and how he raised prices over time\n- Month-by-month breakdown of how he found his first clients\n- Why he eventually sold the business — and what it was worth\n\n⏱️ Timestamps:\n0:00 - Intro\n0:35 - Who Marcus Is & The Problem He Solved\n2:00 - The Exact AI Automation He Built\n4:00 - His Pricing & Client Acquisition Strategy\n5:45 - Month-by-Month Revenue Breakdown\n7:15 - What Happened Next (The Exit)\n8:15 - How You Could Apply This to Any Niche\n\n📚 Sources & References:\n- Case study data from MindStudio's report \"How to Start an AI Automation Business: Real Case Studies from $25K to $2.7M ARR\" (2026)\n\n🔔 New video every week on real ways to make money with AI. Subscribe so you don't miss the next one.\n\n#AI #AIAutomation #CaseStudy",
       "commentCount": 0,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "j5-al-0YR4M": {
+      "checkedAt": "2026-07-28T18:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI-generated code is changing software development, but should it be trusted in critical open-source projects like the Linux kernel?\n\nIn this video, we break down what Linus Torvalds actually said about AI coding, why the headlines about Microsoft were misleading, and how AI tools like GitHub Copilot and AI-powered code review systems fit into Linux development.\n\nWe'll also cover the Sashiko AI review tool, concerns from Linux kernel developers, and why Linus believes AI should be treated as just another tool—not a replacement for human developers.\n\nIf you're a Linux user, programmer, software engineer, or open-source enthusiast, this is a discussion you don't want to miss.\n\n💬 What's your opinion?\nShould AI-assisted patches be accepted into the Linux kernel if they pass human review? Let us know in the comments!\n\n👍 If you enjoyed this video, don't forget to Like, Subscribe, and turn on notifications for more Linux, Open Source, and AI content.\n\n\n#Linux #LinusTorvalds #AI #OpenSource #GitHubCopilot #ArtificialIntelligence #Programming #SoftwareDevelopment #LinuxKernel #Coding #Developers #MachineLearning #TechNews #OpenSourceSoftware #Git",
+      "commentCount": 0,
+      "likeCount": 5,
+      "probeClient": "web_embedded"
+    },
+    "8hLMqx-KS8w": {
+      "checkedAt": "2026-07-28T18:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👉Try Traycer FOR FREE: https://traycer.ai/codehead\n\n👉Get 40% OFF CodeCrafters: https://app.codecrafters.io/join?via=codehead-01\n👉Git gud at coding for FREE with Scrimba  https://scrimba.com/courses:free?via=codehead  (and save 20% on Pro plans with my link).\n\n👉I made a Discord server for all of you code heads to join: https://discord.gg/MfCKFK2fTe\n👉Buy this tired Code Head a ☕: https://buymeacoffee.com/codehead\n\n❓Topics covered:\ndeveloper growth, coding skills, career stagnation, skill atrophy, comfort zone, AI dependence, AI coding, vibe coding, AI developers, Claude Code, coding AI, senior developer, junior developer, dev career, tech career, software engineer, Spring Boot, tech stack, learning curve, coding tutorials, learn coding, developer mindset, programming skills, software development\n\n\n🎶beats:  @massobeats  \nhoneyjam: https://www.youtube.com/watch?v=XC9yPcYAYhE&list=RDEMl_yAA40g1NBRjgxECyPLSw&start_radio=1\n\n#programming #ai",
+      "commentCount": 8,
+      "likeCount": 67,
+      "probeClient": "web_embedded"
+    },
+    "C-Eb5vpHFTI": {
+      "checkedAt": "2026-07-28T18:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥 Developer Bootcamp & Mentoring Program — Start or level up your career with my proven training and personal mentoring:\nhttps://unclestef.com/\n\n#unclestef #softwaredevelopment #devjobs #devcareer #aidevelopment \n\n🎙 New Podcast — Starting a Business at 50 — Follow my journey launching Fit Over 50 with my AI coach, Brad Fit:\nhttps://www.youtube.com/playlist?list=PLGf9oJkCxEjp6tFp22ofXV5OKfp-La_pf\n\n💪 Fit Over 50 — Psychology-Based Fitness & Performance Program — Get leaner, stronger, and build lasting habits:\nhttps://fit-over-50-join-page.grwebsite.com/\n\n🚀 1-on-1 Mentoring & Consultations\n\nCareer Consult — $99 for 15 minutes:\nhttps://calendly.com/uncle-stef/consultation-with-stefan\n\nEntrepreneur / Business Consult — $250 for 30–45 minutes:\nhttps://calendly.com/uncle-stef/entrepreneurs-consult\n\nSponsored Video — Get your questions answered in a video:\nhttps://unclestef.com/blog/2025/03/04/sponsored-video-request/\n\n💻 Popular Coding Courses\nPython 3 Foundations & Certification:\nhttps://school.studioweb.com/store/course/python_3_foundations__&_certification_package\n\nFull Stack Web Developer:\nhttps://school.studioweb.com/store/course/complete_web_developer\n\nComplete Freelancer:\nhttps://school.studioweb.com/store/course/complete_freelancer\n\nComplete Entrepreneur:\nhttps://school.studioweb.com/store/course/complete_web_entrepreneur\n\n🦎 Lizard Wizard Course\nMaster the psychology of learning, habits, and performance — a must for developers and entrepreneurs:\nhttps://school.studioweb.com/store/course/lizard_wizard\n\n📱 Stay Connected\nInstagram: https://www.instagram.com/stefanmischook/?hl=en\nTwitter/X: https://twitter.com/killersites\nBusiness Channel: https://www.youtube.com/channel/UCZdr0ql_B240VBVINAX7Acg\nGoogle Review: https://g.page/studioWebedu/review?mt",
+      "commentCount": 25,
+      "likeCount": 64,
+      "probeClient": "web_embedded"
+    },
+    "thVQL9fxi3U": {
+      "checkedAt": "2026-07-28T18:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, I will walk you through five production-ready Agentic AI projects that will help you stand out and improve your chances of getting shortlisted at top tech companies.\n\nYou'll also learn how to make each project stand out from thousands of similar projects by adding measurable results, reliability, safety, and production-level engineering practices.\n\nIf you're preparing for college placement, software engineering roles, GenAI, LLM engineering, or Agentic AI jobs, this video is for you, so keep watching till the end!\n\nCHAPTERS:\n00:00 Intro\n01:23 Project 1\n03:23 Project 2\n05:25 Project 3\n07:17 Project 4\n09:00 Project 5\n10:57 Key Takeaways\n12:43 Outro\n\nLeave a like, comment, and subscribe for more.\n\nCheck out AlgoZenith: https://maang.in/\n\n-----------------------------------------------\n\n😃 ABOUT ME\n\nI’m Vivek, an engineer, Ex-Googler, ICPC World Finalist turned educator, and founder of AlgoZenith. I’ve taught Data Structures, Algorithms, and Competitive Programming to over 3000+ students and worked with 10+ engineering colleges to bridge the gap between college learning and real-world tech careers. \nThrough AlgoZenith, I help students crack top product-based companies and become industry-ready. On this channel, you’ll find videos on coding strategies, roadmaps, interview prep, problem-solving techniques, and everything you need to level up your software career. If that’s your thing, do subscribe and hit the bell icon so you don’t miss a thing 🙂\n\n-----------------------------------------------\n\n📲 SOCIALS\n\nInstagram: https://www.instagram.com/vivekgupta.ai/ \nTwitter: https://x.com/vg19988 \nLinkedIn: https://www.linkedin.com/in/acraider/ \nCodechef (5 ⭐️): https://www.codechef.com/users/acraider \nCodeforces (Master, max. 2269): https://codeforces.com/profile/acraider \n\n-----------------------------------------------\n\n🏷️ TAGS\nalgozenith,vivek gupta,resume projects for software developers,projects to get hired,web development projects,full stack projects,github projects for resume,beginner to advanced coding projects,software engineer resume projects,full stack developer,web dev 2026,ai projects,ai project ideas,ai projects for beginners,ai projects for resume,resume ai project,real world ai projects,ai engineer projects,ai engineer resume,best ai projects for resume\n\n-----------------------------------------------\n\n#️⃣ HASHTAGS\n#ai #coding #softwareengineer #aiengineering",
+      "commentCount": 19,
+      "likeCount": 170,
+      "probeClient": "web_embedded"
+    },
+    "BvoweHkMvys": {
+      "checkedAt": "2026-07-28T18:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI is changing how we build software and WHO can build software. And which kind of software still has some value attached to it, and which doesn't.\n\nWebsite: https://maximilian-schwarzmueller.com/\n\nSocials:\n👉 Twitch: https://www.twitch.tv/maxedapps\n👉 X: https://x.com/maxedapps\n👉 Udemy: https://www.udemy.com/user/maximilian-schwarzmuller/\n👉 LinkedIn: https://www.linkedin.com/in/maximilian-schwarzmueller/\n\nWant to become a web developer or expand your web development knowledge?\nI have multiple bestselling online courses on React, Angular, NodeJS, Docker & much more!\n👉 https://academind.com/courses",
+      "commentCount": 42,
+      "likeCount": 239,
+      "probeClient": "web_embedded"
+    },
+    "du9-GTb20K0": {
+      "checkedAt": "2026-07-28T18:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Enhance software quality with EzInsights AI SDLC Intelligence. In this video, discover how our AI Powered Code Review capability helps development teams identify code issues, improve maintainability, enforce coding standards, and accelerate the review process using Generative AI and intelligent automation.\n\nWhat You'll Learn:\n\n✅ Automated AI Code Reviews\n✅ Detect Code Smells & Bugs\n✅ Security & Vulnerability Analysis\n✅ Coding Standards & Best Practices\n✅ Performance Optimization Suggestions\n✅ Maintainable & Readable Code\n✅ Faster Pull Request Reviews\n✅ Improved Developer Productivity\n\nEzInsights AI analyzes your source code to provide intelligent recommendations, identify potential risks, and ensure high quality software throughout the Software Development Lifecycle (SDLC). Empower your engineering teams with AI driven code reviews that reduce manual effort and improve release quality.\n\nPerfect for:\n• Software Developers\n• QA Engineers\n• Tech Leads\n• Engineering Managers\n• DevOps Teams\n• Software Architects\n• Enterprise Development Teams\n\n🌐 Learn more: https://ezinsights.ai\n\nSubscribe for more videos on Enterprise AI, SDLC Intelligence, AI Agents, Code Review, Software Engineering, Business Intelligence, and Intelligent Automation.\n\n#ezinsightsai #codereview  #softwaredevelopment  #generativeai  #agenticai  #artificialintelligence  #sdlc  #codequality  #securecoding  #devops  #softwareengineering  #automation  #enterpriseai  #aitools  #programming",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "jaapjGBuRJQ": {
+      "checkedAt": "2026-07-28T18:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Are junior devs cooked? I don't think so.\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UC9H0HzpKf5JlazkADWnW1Jw/join\nWanna join the chat on the stream?? it's over at https://twitch.tv/bashbunni\n\n⟡˖ My other corners of the Internet:\nhttps://twitch.tv/bashbunni\nhttps://github.com/bashbunni\nhttps://discord.com/invite/Y3vbKS4K9j (come hang!)\nhttps://mastodon.social/@bashbunni\nhttps://twitter.com/sudobunni\nhttps://bsky.app/profile/bashbunni.dev\n\nYou're Not Behind: Leveraging AI vs Experience\nI asked big tech about their AI workflows. Here's what I found...\n\n#bashbunni #softwarejobs #codingforbeginners",
+      "commentCount": 52,
+      "likeCount": 719,
       "probeClient": "web_embedded"
     }
   }
