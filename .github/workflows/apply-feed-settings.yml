@@ -14,7 +14,7 @@ jobs:
       issues: write
     steps:
       - name: Close unauthorized settings request
-        uses: actions/github-script@v9
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9
         with:
           script: |
             await github.rest.issues.createComment({
@@ -35,13 +35,13 @@ jobs:
     if: github.event.issue.title == '[NexaFeed Config] Apply feed settings' && github.event.issue.author_association == 'OWNER'
     runs-on: ubuntu-latest
     concurrency:
-      group: nexafeed-settings-write
+      group: nexafeed-main-write
       cancel-in-progress: false
     permissions:
       contents: write
       issues: write
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
           ref: main
           fetch-depth: 0
@@ -73,7 +73,7 @@ jobs:
     needs: apply
     runs-on: ubuntu-latest
     concurrency:
-      group: pages
+      group: nexafeed-pages
       cancel-in-progress: false
     permissions:
       contents: read
@@ -84,7 +84,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
           ref: main
 
@@ -95,16 +95,16 @@ jobs:
           cp -R data _site/data
           touch _site/.nojekyll
 
-      - uses: actions/configure-pages@v6
-      - uses: actions/upload-pages-artifact@v5
+      - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
         with:
           path: _site
       - name: Deploy settings UI
         id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # v5
 
       - name: Close completed settings issue
-        uses: actions/github-script@v9
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9
         with:
           script: |
             await github.rest.issues.createComment({
@@ -134,7 +134,7 @@ jobs:
       issues: write
     steps:
       - name: Report settings failure
-        uses: actions/github-script@v9
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9
         with:
           script: |
             const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;

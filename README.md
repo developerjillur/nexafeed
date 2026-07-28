@@ -205,7 +205,7 @@ python3 scripts/nexafeed_automation.py --pull-first --require-clean --publish
 
 ## GitHub Actions mode
 
-The workflow `.github/workflows/update-feed.yml` can refresh the feed manually from the Actions tab. Configure provider/email/site values in repository Secrets/Variables if needed, then run **Update NexaFeed feed**.
+The workflow `.github/workflows/update-feed.yml` can refresh the feed manually from the Actions tab. Configure provider/site values in repository Secrets/Variables if needed, then run **Update NexaFeed feed**. Email delivery secrets are intentionally not exposed to this refresh workflow; use the separate digest script from a private scheduler for reports.
 
 Important notes:
 
@@ -213,6 +213,7 @@ Important notes:
 - It does not rely on Hermes.
 - It does not print API keys.
 - It is manual by default to avoid double-refreshing when Hermes/local cron is already active. Add a `schedule:` block only after deciding GitHub Actions should own refresh timing.
+- External GitHub Actions are pinned to commit SHAs, main-branch writers share one concurrency group, and Pages deployments queue in one deploy group to avoid publish collisions.
 
 ## Feed Settings workflow
 
@@ -226,7 +227,7 @@ The static GitHub Pages frontend cannot safely write repository files directly. 
 6. `.github/workflows/apply-feed-settings.yml` validates the compressed payload, updates the CSV/config, commits, deploys, comments on the issue, and closes it.
 7. The next clean scheduled refresh pulls the approved settings and rebuilds the feed.
 
-Only an issue opened by `github.repository_owner` with the exact settings title can run the apply job. The server validator limits channel counts, term counts, URL hosts, priorities, payload size, and decompression size.
+Only an exact-title settings issue opened by a GitHub account with repository `OWNER` author association can run the apply job. The server validator limits channel counts, term counts, URL hosts, priorities, payload size, and decompression size.
 
 ## Rich metadata policy
 
@@ -262,7 +263,7 @@ python3 scripts/verify_nexafeed.py
 python3 scripts/nexafeed_doctor.py --allow-missing-yt-dlp
 ```
 
-`verify_nexafeed.py` checks dynamic channel consistency, feed stats, source ownership, video IDs, blocked-video leakage, rich metadata coverage, bounded comments, settings parity, required frontend/config markers, workflow files, env-template safety, and common credential signatures.
+`verify_nexafeed.py` checks dynamic channel consistency, feed stats, source ownership, video IDs, blocked-video leakage, rich metadata coverage, bounded comments, settings parity, required frontend/config markers, workflow files, SHA-pinned Actions, env-template safety, and common credential signatures.
 
 ## Static-site limitations
 

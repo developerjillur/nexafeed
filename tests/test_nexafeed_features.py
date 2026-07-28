@@ -7,6 +7,7 @@ import gzip
 import importlib.util
 import json
 import os
+import re
 import tempfile
 import unittest
 from pathlib import Path
@@ -256,8 +257,52 @@ class EnvironmentConfigTests(unittest.TestCase):
             self.assertIn(marker, gitignore)
         for marker in ["workflow_dispatch", "scripts/nexafeed_doctor.py", "scripts/nexafeed_automation.py", "deploy-pages"]:
             self.assertIn(marker, update_workflow)
+        for marker in ["nexafeed-main-write", "nexafeed-pages"]:
+            self.assertIn(marker, update_workflow)
+        for email_secret in ["RESEND_API_KEY", "EMAIL_PASSWORD", "EMAIL_SMTP_HOST", "NEXAFEED_EMAIL_RECIPIENTS"]:
+            self.assertNotIn(email_secret, update_workflow)
+        for workflow in [update_workflow, deploy_workflow, settings_workflow]:
+            for match in re.finditer(r"uses:\s+([^\s#]+)", workflow):
+                self.assertRegex(match.group(1), r"@[0-9a-f]{40}$")
         self.assertIn("cp index.html style.css app.js float.html config.json _site/", deploy_workflow)
         self.assertIn("cp index.html style.css app.js float.html config.json _site/", settings_workflow)
+
+
+class EmailDeliveryTests(unittest.TestCase):
+    def test_resend_uses_bearer_header_without_putting_secret_in_command_args(self):
+        emailer = load_module("nexafeed_digest_email_resend_test", ROOT / "scripts/nexafeed_digest_email.py")
+        secret = "private-resend-test-key"
+        previous_env = {key: os.environ.get(key) for key in ["RESEND_API_KEY", "RESEND_FROM"]}
+        captured = {}
+
+        class FakeProcess:
+            returncode = 0
+            stdout = '{"id":"email-test-id"}'
+            stderr = ""
+
+        def fake_run(command, capture_output, text, timeout):
+            captured["command"] = command
+            config_path = Path(command[2])
+            captured["config"] = config_path.read_text(encoding="utf-8")
+            return FakeProcess()
+
+        original_run = emailer.subprocess.run
+        try:
+            os.environ["RESEND_API_KEY"] = secret
+            os.environ["RESEND_FROM"] = "NexaFeed <reports@example.com>"
+            emailer.subprocess.run = fake_run
+            result = emailer.send_resend("owner@example.com", "Subject", "<p>HTML</p>", "Text")
+        finally:
+            emailer.subprocess.run = original_run
+            for key, value in previous_env.items():
+                if value is None:
+                    os.environ.pop(key, None)
+                else:
+                    os.environ[key] = value
+
+        self.assertEqual(result, {"provider": "resend", "accepted": True, "id": "email-test-id"})
+        self.assertIn(f'header = "Authorization: Bearer {secret}"', captured["config"])
+        self.assertNotIn(secret, " ".join(captured["command"]))
 
 
 class ProbePlanningTests(unittest.TestCase):

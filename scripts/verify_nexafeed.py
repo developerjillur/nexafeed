@@ -143,6 +143,8 @@ readme = (ROOT / "README.md").read_text(encoding="utf-8")
 env_example = (ROOT / ".env.example").read_text(encoding="utf-8")
 gitignore = (ROOT / ".gitignore").read_text(encoding="utf-8")
 update_workflow = (ROOT / ".github/workflows/update-feed.yml").read_text(encoding="utf-8")
+deploy_workflow = (ROOT / ".github/workflows/deploy-pages.yml").read_text(encoding="utf-8")
+settings_workflow = (ROOT / ".github/workflows/apply-feed-settings.yml").read_text(encoding="utf-8")
 for needle in ["style.css", "app.js", "youtube.com/iframe_api"]:
     if needle not in index_html:
         fail(f"index missing {needle}")
@@ -166,14 +168,32 @@ for needle in [".env", ".env.*", "!.env.example"]:
 for needle in ["NEXAFEED_LLM_PROVIDER", "NEXAFEED_LLM_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY"]:
     if needle not in env_example:
         fail(f"env example missing provider key {needle}")
-for needle in ["scripts/nexafeed_automation.py", "scripts/nexafeed_doctor.py", "workflow_dispatch", "deploy-pages"]:
+for needle in [
+    "scripts/nexafeed_automation.py",
+    "scripts/nexafeed_doctor.py",
+    "workflow_dispatch",
+    "deploy-pages",
+    "nexafeed-main-write",
+    "nexafeed-pages",
+]:
     if needle not in update_workflow:
         fail(f"update workflow missing {needle}")
+for needle in ["RESEND_API_KEY", "EMAIL_PASSWORD", "EMAIL_SMTP_HOST", "NEXAFEED_EMAIL_RECIPIENTS"]:
+    if needle in update_workflow:
+        fail(f"update workflow exposes email-only secret {needle}")
+for workflow_name, workflow in {
+    "deploy-pages.yml": deploy_workflow,
+    "apply-feed-settings.yml": settings_workflow,
+    "update-feed.yml": update_workflow,
+}.items():
+    for match in re.finditer(r"uses:\s+([^\s#]+)", workflow):
+        if not re.search(r"@[0-9a-f]{40}$", match.group(1)):
+            fail(f"{workflow_name} action is not SHA pinned: {match.group(1)}")
 for needle in ["Hermes cron", "normal cron", "Codex", "Claude", "GitHub Actions", "NEXAFEED_LLM_PROVIDER"]:
     if needle not in readme:
         fail(f"README missing public setup marker {needle}")
 
-public_text = "\n".join([index_html, app_js, json.dumps(config), readme, env_example, update_workflow])
+public_text = "\n".join([index_html, app_js, json.dumps(config), readme, env_example, update_workflow, deploy_workflow, settings_workflow])
 for suspicious in ["ghp_", "github_pat_", "smtp_password", "/Volumes/T7 Shield", "/Users/developerjillur"]:
     if suspicious in public_text:
         fail(f"possible private marker in public files: {suspicious}")

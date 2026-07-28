@@ -238,12 +238,13 @@ def send_resend(recipient: str, subject: str, html_body: str, text_body: str) ->
         with tempfile.NamedTemporaryFile("w", suffix=".json", delete=False) as payload_file:
             json.dump(payload, payload_file, ensure_ascii=False)
             payload_path = payload_file.name
+        safe_api_key = api_key.replace('"', '').replace("\n", "").replace("\r", "")
         with tempfile.NamedTemporaryFile("w", suffix=".curl", delete=False) as config_file:
             os.chmod(config_file.name, 0o600)
             config_file.write('url = "https://api.resend.com/emails"\n')
             config_file.write('request = "POST"\n')
             config_file.write('silent\nshow-error\n')
-            config_file.write('header = "Authorization: Bearer ' + api_key.replace('"', '') + '"\n')
+            config_file.write('header = "Authorization: Bearer ' + safe_api_key + '"\n')
             config_file.write('header = "Content-Type: application/json"\n')
             config_file.write('data-binary = "@' + payload_path.replace('"', '') + '"\n')
             config_path = config_file.name

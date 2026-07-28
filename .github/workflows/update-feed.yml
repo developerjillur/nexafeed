@@ -30,21 +30,20 @@ on:
         default: "6"
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: nexafeed-update
-  cancel-in-progress: false
+  contents: read
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: nexafeed-main-write
+      cancel-in-progress: false
+    permissions:
+      contents: write
+    outputs:
+      should_deploy: ${{ steps.mode.outputs.should_deploy }}
     env:
+      NEXAFEED_DISABLE_HERMES_ENV: "1"
       NEXAFEED_LLM_PROVIDER: ${{ vars.NEXAFEED_LLM_PROVIDER }}
       NEXAFEED_LLM_MODEL: ${{ vars.NEXAFEED_LLM_MODEL }}
       NEXAFEED_LLM_BASE_URL: ${{ vars.NEXAFEED_LLM_BASE_URL }}
@@ -60,21 +59,13 @@ jobs:
       XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
       ZAI_API_KEY: ${{ secrets.ZAI_API_KEY }}
       NEXAFEED_SITE_URL: ${{ vars.NEXAFEED_SITE_URL }}
-      NEXAFEED_EMAIL_RECIPIENTS: ${{ secrets.NEXAFEED_EMAIL_RECIPIENTS }}
-      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-      RESEND_FROM: ${{ vars.RESEND_FROM }}
-      EMAIL_SMTP_HOST: ${{ secrets.EMAIL_SMTP_HOST }}
-      EMAIL_SMTP_PORT: ${{ vars.EMAIL_SMTP_PORT }}
-      EMAIL_SMTP_USERNAME: ${{ secrets.EMAIL_SMTP_USERNAME }}
-      EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-      EMAIL_FROM_ADDRESS: ${{ secrets.EMAIL_FROM_ADDRESS }}
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
           ref: main
           fetch-depth: 0
 
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: "3.12"
 
@@ -83,6 +74,15 @@ jobs:
 
       - name: Check setup without printing secrets
         run: python3 scripts/nexafeed_doctor.py
+
+      - name: Decide whether to deploy
+        id: mode
+        run: |
+          if [[ "${{ inputs.publish }}" == "true" && "${{ inputs.dry_run }}" != "true" ]]; then
+            echo "should_deploy=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_deploy=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Refresh feed
         run: |
@@ -101,23 +101,39 @@ jobs:
           python3 tests/test_nexafeed_features.py -v
           python3 scripts/verify_nexafeed.py
 
+  deploy:
+    needs: update
+    if: ${{ needs.update.outputs.should_deploy == 'true' }}
+    runs-on: ubuntu-latest
+    concurrency:
+      group: nexafeed-pages
+      cancel-in-progress: false
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: main
+
+      - name: Verify deployed feed artifact source
+        run: python3 scripts/verify_nexafeed.py
+
       - name: Prepare updated static site
-        if: ${{ inputs.publish && !inputs.dry_run }}
         run: |
           mkdir _site
           cp index.html style.css app.js float.html config.json _site/
           cp -R data _site/data
           touch _site/.nojekyll
 
-      - uses: actions/configure-pages@v6
-        if: ${{ inputs.publish && !inputs.dry_run }}
-
-      - uses: actions/upload-pages-artifact@v5
-        if: ${{ inputs.publish && !inputs.dry_run }}
+      - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
         with:
           path: _site
-
       - name: Deploy updated feed
-        if: ${{ inputs.publish && !inputs.dry_run }}
         id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # v5
