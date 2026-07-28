@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T06:53:12Z",
+  "updatedAt": "2026-07-28T07:53:06Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -11,35 +11,47 @@
       "likeCount": 724
     },
     "XdjQK9zGS_c": {
-      "checkedAt": "2026-07-27T07:24:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 2,
-      "likeCount": 88,
+      "commentCount": 3,
+      "likeCount": 240,
       "comments": [
         {
           "id": "Ugw2FVKyd5RGBYqQbu94AaABAg",
           "author": "@TheUtkarshhh",
           "text": "https://github.com/openai/codex-plugin-cc",
           "likeCount": 1,
-          "publishedAt": "2026-07-26T10:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/f25cg7-Gpt4o-HrFJk-kmpvwISgAjIux0s1VIUDNBpqLUZF6gMPvWH4wi79kqeSZk864gqTK=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
+          "id": "UgygyF4f2ZfhhafP5Dh4AaABAg",
+          "author": "@codeHero369",
+          "text": "Keep on bro",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ZqIDIvOYFcKNO8gvj0T1Qh8mwTLTpkzAgvTSfmaOKkgG4kZEY-VcvyEHm3w8VV1mQL9-8j1K=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
           "id": "UgzolhfJKGWHMFUAoAV4AaABAg",
           "author": "@IndianFromMountVindhya",
           "text": "I already have my own reviewers set, any thing done is reviewed by a skill of my own to review by Codex, Gemini and another Claude how is it Diffrent",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T14:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nasYn8klvN7ucHIpTsNUrg-Y09dW5Uj2w73qT3idFRi7o=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:24:18Z"
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
     },
     "5-_GZcwtWSY": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -306,59 +318,90 @@
       "likeCount": 124
     },
     "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-28T06:53:12Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "nIpKFmPDrZE": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "A comparison between Seedance 2.0 Standard,  Seedance 2.0 Fast and Kling 3.0",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentCount": 1,
+      "likeCount": 8,
+      "comments": [
+        {
+          "id": "UgyyUAsAhXtcetQjmA94AaABAg",
+          "author": "@carolopara6069",
+          "text": "Kling😅",
+          "likeCount": 1,
+          "publishedAt": "2026-07-27T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kuixXFxfbtbYWLocAS-1GczANFf7ik4j2gDRdDdw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "MJKcdatXqcA": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "AI will be smarter than humans in just a few years.\n\nThat's what the head of Google DeepMind, Nobel laureate Demis Hassabis, writes in his new manifesto. AGI is \"probably only a few short years away,\" we're at \"the foothills of the singularity,\" and, in his words, \"we've essentially found a way to make sand think.\"\n\nHis proposal: a US body, funded by the industry and answerable to the government, that tests every frontier model before launch, the way new drugs get tested. With the power to coordinate an industry-wide slowdown if things get out of hand.\n\nHis warning: within 18 months, dangerous capabilities could live inside open-source models beyond any government's control.\n\nJoin my community for more AI and e-commerce breakdowns, link in bio.\n\n#ai #agi #deepmind #technews",
       "commentCount": 0,
-      "likeCount": 19,
+      "likeCount": 21,
       "comments": [],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "gTMFKLnC0So": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Google has silently released 15 AI tools that are completely free.\n\nThey can save you thousands of dollars every single month.\n\nMost people are still paying for tools that Google already replaced.\n\nFirst is Pomelli.\n\nIt's their free AI marketing tool.\n\nIt generates entire social media content for your brand from your website link.\n\nYou just paste your URL, and it builds a full brand profile from your colors, fonts, and tone.\n\nSecond is Stitch.\n\nIt turns your normal prompts into stunning, modern UI designs for your apps and websites.\n\nIt also exports straight into code, so designers and developers can work off the same file.\n\nThird is Google Opal.\n\nUse it to build AI workflows like n8n using Google's various AI models.\n\nNo coding required, just describe the workflow you want and it builds it.\n\nFourth is Antigravity.\n\nIt's their AI code editor that works just like Claude Code and Cursor.\n\nIt's perfect for vibe coding, and it connects directly with Stitch for design work too.\n\nAnd finally, Mixboard.\n\nIt's basically a mix of Canva and Pinterest.\n\nYou generate multiple AI images and combine them until you get exactly what you want.\n\nEvery single one of these tools is free right now.\n\n#Googleai #googlestitch #antigravityai #googlepomelli #googleopal",
       "commentCount": 8,
-      "likeCount": 1957,
+      "likeCount": 3186,
       "comments": [
         {
           "id": "UgwrxU8A2Woyft0Pkwd4AaABAg",
           "author": "@nickautomates",
           "text": "First you can find the links to all of Google's Free AI Tools in this Notion Doc:\n\nhttps://forested-beet-e72.notion.site/List-of-Free-Google-AI-Tools-3a8a26434b34802e9ea6c4a2c714ef71?pvs=73\n\nSecond: If you want to learn how to build systems & then apply them to real businesses to get clients, check out Maker School. \n\nIt's my AI agent & automation community, where I teach you how to build Claude Code, Codex, & n8n based flows, and sell them to your first client in 90 days. \n\nIncludes a 100% money back guarantee if you don't get a paying client!\n\nhttps://www.skool.com/makerschool/about?ref=0a3be5900d60497cb3542cca1ed3fdcb",
-          "likeCount": 13,
-          "publishedAt": "2026-07-26T16:00:00Z",
+          "likeCount": 19,
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/wqFanyf3to18BbPL8FE9F614Wx8VtblcVB3Vt_wL8yynTDiYEzxTXe-e4WjMqB5U0OQdKNmncg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "Ugyal94Vozz3iXkDB9d4AaABAg",
+          "author": "@arefxp",
+          "text": "These are not new. Been here for a while",
+          "likeCount": 1,
+          "publishedAt": "2026-07-27T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/VALNYu5TalwxJESLyPthPFJI9AufjUGnA95AVxIR9jP4SRtDfsM-no70fSuYiUKr9j114WWBWg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzAuKIMTCm3OQvFCpB4AaABAg",
+          "author": "@CHJM605",
+          "text": "Shut up tbh",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nEaD_Rk3gYEqhmikjMp7vwgj1kjo_1clhZVFPoWzf4kyAVnj5RvUUogQGgDuScZLz2rA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         },
         {
           "id": "Ugy4nRK_huap1fTu7M94AaABAg",
           "author": "@alphonsomartinez7374",
           "text": "So we are racing to see which country will cause our extinction?!?",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T03:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n97ix96k5BCaCO1kBkzgYKvu8ElllobxchTc-AphU=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -368,7 +411,7 @@
           "author": "@CoryClicks",
           "text": "What if 2 years later, google’s AI puts you out of business",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T02:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kr4bNGofmTMPp5MZXDPMJK5LVxode4q5XfL_KkDT6k-92DsDa2ZJkQL47K5Z7lphmMUw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -377,8 +420,8 @@
           "id": "Ugx3RWraR4NMzjoGm2p4AaABAg",
           "author": "@MikeStanza",
           "text": "7 Tools for losers and the brain dead. Good job Google! Remember if it's free, YOU are the product...",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T01:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k98jVTf1_N3VAVeyhjTtfCoAHq9Mgqf_lWY7m9fnA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -387,8 +430,8 @@
           "id": "UgwxAIJw2skYTBxdnax4AaABAg",
           "author": "@jonpt7009",
           "text": "At a certain point, all these extra tools become white noise",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T19:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ltG5Vixvi3d0Yh00mrIlUB2on93_zWY8hkMojmBpX9mvBiNJjt4vNgL5Rn8XCPf9bnFg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -398,33 +441,13 @@
           "author": "@ikenbov",
           "text": "I dont really like ai tho",
           "likeCount": 1,
-          "publishedAt": "2026-07-26T19:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/p025Z7LtRro9r5FDjXXTam1uoAhsP_PugzbjZgO4ErSFk5GWYFEcAsK5iUJ8Z-DBgay-knA635Y=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzX0RhcCOrCPSZ9whV4AaABAg",
-          "author": "@Mitch6020",
-          "text": "Nate, these have been around for a while I believe",
-          "likeCount": 8,
-          "publishedAt": "2026-07-26T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/XZs1Rsirystxpjv63P0YB3wVap_3EyxlDI2P9rUneK3YIz6nh_EX4bB9A7V9uxrnMyqt4PrI=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxuJIA3ERsiFrcIMPF4AaABAg",
-          "author": "@EmonIslamIfad",
-          "text": "Great breakdown on these AI tools! Really insightful coverage as always.",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n5jhBMgdrE7WFnKKuwEKK0iT9LUeTW0oTCmGRsck3QGRhqsGcoCesxpa6j0WBHnWJxxg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -447,112 +470,112 @@
       "probeClient": "web_embedded"
     },
     "EiA6jmjw3yU": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "What happens if you ask ChatGPT to erase your digital footprint?\n\nWith ChatGPT Agent Mode, you can search for websites exposing your personal information, generate removal requests, and even automate the submission process.\n\nSave this video—you'll probably need it one day.\n\n#ChatGPT #OpenAI #AIAgent #Privacy #CyberSecurity #AI #Tech #Automation",
       "commentCount": 8,
-      "likeCount": 185,
+      "likeCount": 267,
       "comments": [
         {
-          "id": "Ugxuv3M3otewrrkAI814AaABAg",
-          "author": "@dangerous_tounge",
-          "text": "Erase",
+          "id": "UgzZrorUyecjLGxPkBZ4AaABAg",
+          "author": "@AdityaSingh-j1g1h",
+          "text": "ERASE",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T07:28:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lIVXXvkdz68lQCfLs7sqCfdR0crVhM3c7tHIiZ5cmCOW1_mGksOYlaSCmXk7Nqz919Kw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T07:37:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/MbBapnN46X9M8jmI9G2Vp4o-m0nEaticUSuchlrLNTF_IgvE36FmIDGXxiGEFGJInGzyHrF25A=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugy2FF4QAkNYEWC-_lt4AaABAg",
-          "author": "@luckyTHEnormie",
+          "id": "Ugx05go9u-yN87tyLTV4AaABAg",
+          "author": "@rathshantanu",
           "text": "Erase",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/iLfUnaeotWtiyV53qG2RLRI9V8kj64wwxHZcjJPIPylJ1D5kw-6d4h3GWHvKmT6_sHn-lSCUXw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T07:14:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_luL_mKe4JDLw2p7YAjJWju9aeXTnxm79N_rQOowjU=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugz0YFnK0ttjiE5-8iB4AaABAg",
-          "author": "@AeroXe-Chain",
+          "id": "Ugwf-4rXpDsm3RgeLBF4AaABAg",
+          "author": "@koteshwarsastry4176",
           "text": "Erase",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ZcFqOuBHN0m8ozFU2haNzgS1y1J-oKAXmvJH7YBfFFcx77ywDYm22E2Ryqazy7D1NRgbTD1J8A=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNeHimbrkxRyjGz52tTDxeHLTVXRgAli41mZ0Nsys=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugw52uK-tcVfFmCdepd4AaABAg",
-          "author": "@dayanandsankanagoudar6640",
+          "id": "UgxCa4xU0SFPs9NSG914AaABAg",
+          "author": "@danishazizkhan6099",
           "text": "Erase",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nZEaAJ_9f7mgDwl4j_K5KLsT0f2wpDKeWWvkCy468=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5YJIbjEH1UvxCLOcsvxIXXVv77-Btn99VMG4yHfLY0EU=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxIAkFwP3Xk0seaiQ94AaABAg",
-          "author": "@prashantkushwah9556",
+          "id": "Ugy6TOOxfTFGaeZ5ClN4AaABAg",
+          "author": "@madnir",
           "text": "Erase",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kV7LPw458pzqW2HAvDYoDBr_zJRpv4CzIqMHEDDBU=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/0Wc_hsmJaR6LeBVpaZ8s1CUPfw-PalnhtvQ64rCcLNmuhqGeF3OkteHV7Z4NoOpA1hlEX6bw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxzI0gJL5ZWFmoIaG14AaABAg",
-          "author": "@AkshayYTchannel",
+          "id": "UgwdpvAosg_iFkoK6oF4AaABAg",
+          "author": "@SahilAbbasNadaf",
           "text": "Erase",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/66QR9r-38a8Vq_dIQSNpsKSbDHm3CD0Cha7YlKxtlB4hDmSz9ucf4cGOdstE1Vbwg11dLuu5=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/lmjYcGTzVKUASv9rGhpeL2iLVvQdCbOWu21ETjAuQue8t3jSfCW4ojk6-EXVmYFQN8BS7yAH=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugwc0z73t8jgKTE6wtZ4AaABAg",
-          "author": "@vanquisher_04",
+          "id": "Ugyyfv70Un-Ji2ysKcp4AaABAg",
+          "author": "@FalahKhan-w7j4n",
           "text": "Erase",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/aexv6QVbYpv4AB1mdILgtUuVIOdt3k1LsaCxDuNDAVoO9v3aH9IRmCbZOGIjOwEhQxQYJCvFBJ4=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_laoHJQg-n_An94bJD6j3ILXycSdvBx0YXfxlXWtc1Mr2V3bk0SO228QvSY7VRnLoNjdg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugy0SU9BqC8hhs89yMV4AaABAg",
-          "author": "@rskitchenstory",
-          "text": "Eraser",
+          "id": "UgyONp6ZBDuYHTsRbAt4AaABAg",
+          "author": "@vinodgupta-tp8jc",
+          "text": "Erase",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_u8q8PQuuwasnsvA6HcWNnQOy4E9IknxOF4z5Hkt3CXWlTAE0MiksI9oF40grXAO5Ow=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kbTlLcKqvwsVGnonKHeQEvgItOzRCjryWj7hz3iw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "TvSEc0aejt4": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "What if your keyboard could do more than just type?\n\nMeet Codex Micro an AI-powered keyboard where every key can be programmed to perform a different AI task.\n\nImagine pressing one button to:\n\nReview your code\nFix bugs automatically\nRun tests\nExplain thousands of lines of code\nLaunch your favorite AI workflow\n\nInstead of typing the same prompts over and over again, you simply press a key and let AI do the work.\n\nThe keyboard is open-source friendly, highly customizable, and priced at around $229.\n\nSome developers believe it's the future of AI-assisted coding.\n\nOthers argue that keyboard shortcuts already solve the same problem.\n\nBut one thing is becoming clear: AI is moving beyond software and into hardware.\n\nWould you buy an AI keyboard like this, or is it just hype? Let me know in the comments.\n\nAnd if you enjoy AI tools, coding tips, GitHub projects, and the latest AI news, don't forget to subscribe to bpro!\n\n#AI #OpenAI #Coding #AITools #bpro\n\nTags:\n\nWhat is Codex Micro, What is an AI keyboard, OpenAI keyboard, AI keyboard review, AI coding tools, Best AI coding tools, AI for programmers, AI developer tools, How to use AI for coding, ChatGPT coding, AI code assistant, AI programming tutorial, Coding with AI, AI productivity tools, OpenAI news, Latest AI news, Artificial Intelligence, AI explained, AI gadgets, AI hardware, Future of AI, Technology news, Tech news today, Developer tools, Programming tools, AI workflow, Coding tutorial, Best AI tools, How to use AI, bpro",
       "commentCount": 3,
-      "likeCount": 24,
+      "likeCount": 38,
       "comments": [
         {
           "id": "UgxMZh8k5wvH0wR8FcV4AaABAg",
           "author": "@nanotech21",
           "text": "R u ai generated",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T17:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kMfC7WCl6BBeZ1f4F20aV0kp8uIeuNyEZg9zNa7mjbPTun=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -562,7 +585,7 @@
           "author": "@nanotech21",
           "text": "R u ai generated",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T17:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kMfC7WCl6BBeZ1f4F20aV0kp8uIeuNyEZg9zNa7mjbPTun=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -572,13 +595,13 @@
           "author": "@Caled_Gaming_FF",
           "text": "Wow that's why I subscribed you",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T16:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/EZjzFasHZGmuOz5ImkR42E3aR2LcopGcan3McZ937lznlOCr4xZqszN-3YLDmJxcKyU-5htEUA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -601,107 +624,118 @@
       "probeClient": "web_embedded"
     },
     "dyCyo8iPFuY": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 8,
-      "likeCount": 330,
+      "likeCount": 565,
       "comments": [
         {
           "id": "UgzMOs5JQzzPbpIlILB4AaABAg",
           "author": "@Ai.Vishnuvijayan",
           "text": "https://github.com/anthropics/claude-cookbooks",
-          "likeCount": 1,
-          "publishedAt": "2026-07-26T11:00:00Z",
+          "likeCount": 2,
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/yhAqPsQdQNzWqs3n323bzwcDBcfNQt2XFJe9SntriwBCCx8kViE13reCfUPwZ_8coQAAPdj4wKg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
-          "id": "UgzbBRJAodQd3eyz5TF4AaABAg",
-          "author": "@qwertyuiopasdfghjkl3742",
-          "text": "Cook",
+          "id": "UgyBu-Piy61Gw3Ld0H14AaABAg",
+          "author": "@vijaybhaskar1968",
+          "text": "Cookbook",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T06:53:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNJbVgYqKVaBohfCgxNZF_chRbW1Ges5d_0sop2-0=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kjhSG6TRijcpFzLNfqdYKtthygTVjRLx5H27Y0lwfwKYM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugxpknl3CNyi7S01OXt4AaABAg",
-          "author": "@balam-c2c",
-          "text": "cook",
+          "id": "UgzlyTIFS7TwPf30uU94AaABAg",
+          "author": "@waqarwld",
+          "text": "Claude is expensive just wait for Chinese cook book",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nL94ea67Hi3GW-iziYv1-1_2XvdHGl-q3XyWvgONL99uU02VEiJ93PZG-qHN1GQlkCiA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ngmlLheLh0Trr6WnXEHaQWuUiMGwYOPeKNmU-voq87U2CO=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzWeMGJ2WpL6jqa-K54AaABAg",
-          "author": "@rsiva871",
+          "id": "Ugw9mPjJEql5QXpKYm14AaABAg",
+          "author": "@waqarwld",
           "text": "Cook",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lXjrSFS7sdB1Kq6MW3KRQQOPSWiD_yahtW42zdWwxwYec=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ngmlLheLh0Trr6WnXEHaQWuUiMGwYOPeKNmU-voq87U2CO=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxPzb-s4TDyypWLBc54AaABAg",
-          "author": "@azaansait",
-          "text": "Cook",
+          "id": "UgytPWMnksDU5fFTbfh4AaABAg",
+          "author": "@joshuaa4506",
+          "text": "Thank you",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T01:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/eoA8-rpkTSi0HPmKXLRuk_mRd5n-wwAc8z_ALAWo8y9UKx5ClWErC94eR4Cg6OJ9ydBXV_rC=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mXl5vEZetSFCfuG2B7_VLqc38fE5TVJMtL_CGIeMUbdXJf55quvy5KONcX81xCv66Llw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwaIDwtIQL2ONn16jZ4AaABAg",
-          "author": "@bipindra",
+          "id": "UgzHMsP3dM3vaTuj5OR4AaABAg",
+          "author": "@SuperHazehaze",
           "text": "Cook",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T23:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nsfvWhN-i7yJFinUQ6TvAexsTu3ut2fxOLJHdQsFsKQ9T-=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mtgGjAsoTQGxFaeVn_z2fVo545RBvuBxiXM8h8wUw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyfJ2A_N0-syZUdsPB4AaABAg",
-          "author": "@DeadManReact",
+          "id": "UgwqEEc03Ix02vN8-eZ4AaABAg",
+          "author": "@sanjayb3691",
           "text": "Cook",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/sNMTefWo99-XD1FlZxeWaRvKWUXMnTZCz4tL__IsMesZ8HYOkKI-1ynOFoCn9QAzcrQTTLTkgA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kzITilyoT4gP83nCf6iYet7ORh8eqAimHsS25rGuDve7M=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwBqDSBolq85PfMU-B4AaABAg",
-          "author": "@anand2209",
+          "id": "UgyPHHYPOjYVjnmIDqJ4AaABAg",
+          "author": "@bhaskarch2765",
           "text": "Cook",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n8uLFTfeV1A3OwjJq1kRkk0XRY-JGGAWjzU0I58p7YaAs=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n3nrgwxvhkRkeTkzx99AdJqXSGxnhArlIiuEbZ8i05vA4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "vkWm_PBih7M": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Untitled Facebook Video",
-      "commentCount": 0,
-      "likeCount": 8,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentCount": 1,
+      "likeCount": 11,
+      "comments": [
+        {
+          "id": "UgxbQ5eH73SCuNLG8Qt4AaABAg",
+          "author": "@Sumandahiya.1087",
+          "text": "Yt",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m8XKHqSWkWTWqWfEqmk_VKzILNNjD_Lzb82OiQOJGQrEQgbhrNF_TgQFrd7LuMlqJAqQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -715,112 +749,112 @@
       "probeClient": "web_embedded"
     },
     "zfQUB5F5cvo": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 8,
-      "likeCount": 16198,
+      "likeCount": 23066,
       "comments": [
         {
-          "id": "UgztLiJy7DPUMgqG-nN4AaABAg",
-          "author": "@Random-gameplay-ff",
-          "text": "Bhai tu bas nikamo ko khush kar rha hai , aur wo to kamchor hai ho bhi rhe , tujhe essa kyu lagta hai ki crores ki machine ka electrical infra local house jessa hota hai? Tere according koi bhi mohale ka electrician data centres ke infra ko mamange kar sakta hai? \nBhai uske liye kafi high level ki education chahie wo sab samjhne ke liye sirf pole pe wire joint karne se nhi hota.",
+          "id": "Ugw2T6Ll1DwlimvoXU14AaABAg",
+          "author": "@jjkk-i4k",
+          "text": "Sharma jii toh peet gaye",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ITnA91Y4ZgHT3WVRCgJS6OtpRxVNOBVGcWx4uwV07r9Ueoq07HtF9khl0IoNSYlUq5kbNCwxy_U=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T07:29:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/R3X-he1Er6KmD_OQ6OnA8rGg4V8NGPu1FbYKuG7UC3nsdYWqnvqvkH03OXASxW-C7GE46QEoVw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwgXKKooDt3stMv-5p4AaABAg",
-          "author": "@iAbhishekBaghel",
-          "text": "ek spark game over 😅",
+          "id": "UgyP3OfozCVyWzVoQHt4AaABAg",
+          "author": "@HandT49",
+          "text": "Bhai matlab kaya manipulation ho raha ha. \nTarako kaya lagta ha ki electrical engineering asaan hota ha. \nBina collage ka bina ho jaya ga? \nMa cs ka hu aur mera pass 2nd year ma ak subject tha digital electronics\nJo phati thi mari. \nAur mera college ma sabsa jayada danda ece ka hi tha. \nItna muskil subject ha. \nBhai iski bat ma mat ans, college mat chodna.",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Gz_YIbBxhPMGcJBPrslmUm8tk3gPARCjcU3CdMH7TjfQmAtrAKjUCP9lfkmMmb8Y93DUI-6EKg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyJJuWsechOxJ8svEB4AaABAg",
+          "author": "@Peeyush4204",
+          "text": "Ye bhi ab kuchh bhi bana rha hai , aisa na kare sir ji",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l2m6xnQIkGIe085t1l3QKu9OLcA7ubGl9YcT6fJ4x_XnEE37zF6vFZuGyS8tIezkPGIA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw8hy57PeK21bOrDah4AaABAg",
+          "author": "@laxmanSonawane-k1i7m",
+          "text": "Bai aage civil engineering ke logo ke liye jobs kya hogi",
           "likeCount": 1,
-          "publishedAt": "2026-07-27T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/rmhKMqZdnbLLWep6fYUzGWBtW9Y08l86EwWPkVynGkpTRwTFrjcKD2pBct6wITMrMvpgPkhvJQ8=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k1vatECjn4cts9rDeNTox28UvSU7BwiL_gMQA1ZTVkSgu_nya9eYVA0pYXPlx709edZA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzRHwlUnGHQKnjElN14AaABAg",
-          "author": "@kkahdnshsndjd4574",
-          "text": "Usa ki iti alag hoti hai apprenticeship licencing certification me 7 8 saal lagte hai",
+          "id": "UgzbpPqmZpXXQHI3MbZ4AaABAg",
+          "author": "@raman60733",
+          "text": "Bhai mere pass electrical engineering hi hai",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m9l-coMphFjf6YLUTqWy2fIShX1KgG4b9LAvkoTxY=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/MBwTi1NddcHm1cMdyiZqLEV1O2isDYmltymeFI1pK7Woh1y_KkJfsJpjJkwv9jbiu8IH38iYrg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxsZxEHHFA8mCiKosR4AaABAg",
-          "author": "@tejrajmeena1831",
-          "text": "Don't worry guys he is just influencer not a scientist,or researcher .\n\nHe named his channel name as professor of ai but he cover news of ai like he is history teacher .& That's history not useful me if he taught us work of ai & how ai works  then I will say it is proffessor of ai.\n\nOtherwise he is just grabbing views😮",
-          "likeCount": 1,
-          "publishedAt": "2026-07-27T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/8VY4xKLdNNLjSH1r81TkNeTSJNJCu1_Aj3ixFaQtZI5b-xeYEteBnwF0gsRGHmFN7z34bw7oi-M=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz6N3R_IrJIt8VfdPl4AaABAg",
-          "author": "@ayushkumarjhaofficial",
-          "text": "Mei ai ke help se 2d stickman animations bana raha hu 😂😂 aap log dekhh sakte ho 😂",
+          "id": "UgxfKZaibe5LO3SpYrl4AaABAg",
+          "author": "@parthgandhi6440",
+          "text": "How to apply 😂😂",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/rgfbpgYXAMyh3CdeE06RnuvUYuaixtxp3sZA4VeIVCsJEdqcg9DG6-iGRA96lYqJKXAYPErjmg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kcMfbaBkJ9WebK6tpocYagf0siUv8BTVB4Vq8Wwom9Yo8=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyeCnwtNKrOWas1Bc94AaABAg",
-          "author": "@Technotreon",
-          "text": "AI: “I’m taking your job.”\nElectrician: “Not today, bro.” 😂",
+          "id": "UgysSR5UHJOH6--DpcN4AaABAg",
+          "author": "@IPADharshit400",
+          "text": "Maine electrical chhod kar mechanical li thi, ye kya ho rha hai😢",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/mtUX-s25j_ZGy1lhb8l3e4Myfaw-YWRoiNoSroK8nJ4C6ywNrulzXsYhYSaJIq1P9rmCu8DIeg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/jGvBJu6V2s52A1gwXK_39aRjoC6mlzBvKvKcaB106sevW3L89s4atjFldBa7wi6q1qwQluWYw-Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzcbHKUAhd0taJKwAp4AaABAg",
-          "author": "@bhavesh_tembhurkar",
-          "text": "acha",
+          "id": "UgxzxJhQCQ9tMSZcl1d4AaABAg",
+          "author": "@NilajGupta",
+          "text": "Demand nahi, demand and supply bolta hai",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/JuOWTDp1vSqzkuZDCLsNfeenFQH5LH3WcAzATeOoijIDcbrZQ0aOIm1jp1Uby93bvVt7LEsJxA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxnSVJEq_PdjNWAgUV4AaABAg",
-          "author": "@Luckysaroj-y8e",
-          "text": "3D animation ko chhodkar AI Ke Piche Bhag raha hai bhai Yahi Kahi content professor Banna Chahta Hai",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_la-H9d58afKmA1gx1QVtyU-KPQL-P_-zFly6BX3pJlvct2ymNDOK1_281YXJGJXUfWug=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-27T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kcjzV3B7yMsnHxREnoUoFfmYJ-YEkJYUI0ysfIKRblVhKU=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "iu-tCi9GCn4": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
       "commentCount": 7,
-      "likeCount": 928,
+      "likeCount": 1046,
       "comments": [
         {
           "id": "Ugx4oeDrAJ93adaPeZt4AaABAg",
           "author": "@WishToDrive",
           "text": "its useless and hyped bubble marketed by some businesses man , it’s going to be blast soon 😂",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T05:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l0Wf4e8BpRQfxFOF5YcyTs4b3aSffmzheMfpOhbySuqiM5LbSQvJJUievluI4_IxCyOg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -830,7 +864,7 @@
           "author": "@theta_decayy",
           "text": "Thank you",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T15:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/DuZLKu--OpyF1BcJCjiTC70FvvUF0jENCVZcji9GXXN0HHOsHp5MFpj6MQdDkdd3FEp1nW7ICw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -840,7 +874,7 @@
           "author": "@RishavMishra-s2n",
           "text": "Nice cycle 📈😎",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T13:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kICLEWVz_Df11W9j2QDfrHNDDg1x_VaLwS8b0VSK2HbsRDCJlZlRWUA-jL7XAQ5mwfAg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -850,7 +884,7 @@
           "author": "@Abubakar-vg6up",
           "text": "Jese refresh kro new AI a jata ha. We are doomed!\n🥵👹👺👹👺👾🙊🌚🌝🌚",
           "likeCount": 2,
-          "publishedAt": "2026-07-26T11:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_meYAh6NPkc3qZ9RQbztfozX2jknUqc69hcasQTLZa7CCWY6MHmzRI1I6I59gYFhEiQXA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -860,7 +894,7 @@
           "author": "@shauryashrivastava8965",
           "text": "Any completely free alternative to Fable 5 and Opus?",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T09:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_LLho6Sj2S9zF_zmMiCW6_t4Etcv11TI01T-WUNkGfkPk=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -886,17 +920,17 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "EEhx2aXkayo": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "It will be about extending what humans can do.\n\nFrom disaster response and industrial inspections to hazardous environments, the most impactful robots won't be the ones that look impressive—they'll be the ones that keep people out of danger and make impossible jobs possible.\n\nEvery leap in robotics expands what's physically achievable.\n\nThe real question isn't whether robots are becoming more capable.\n\nIt's how we'll choose to use them.\n\nWhich industry do you think will be transformed first by advanced humanoid robots: construction, healthcare, manufacturing, or disaster response?\n\n(ai, ai updates, artificial intelligence, technology, tech, tech updates, editing, designing, graphic designing, tech news, new gadget, gadgets, latest ai, ai tools, ai coding, ai coder, ai latest)\n\n#ai #artificialintelligence #aitools #ainews #aiupdates",
       "commentCount": 1,
-      "likeCount": 62,
+      "likeCount": 87,
       "comments": [
         {
           "id": "Ugz6GAIPg67ZSJUSqcB4AaABAg",
@@ -909,36 +943,36 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "lTu8LVA4UO4": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "💬 Comment 𝗦𝗢𝗦𝗛𝗜𝗘 and I’ll DM you the direct link!\n\n#socialmediamarketing #aitools #smallbusiness #contentcreation #automation #socialmediatips #marketingautomation #solopreneur",
       "commentCount": 0,
-      "likeCount": 3,
+      "likeCount": 4,
       "comments": [],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "2Ybm4l2xAlE": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "A Class 12 student reportedly uncovered major security flaws inside CBSE’s board exam evaluation portal—and the findings are shocking.\n\nAccording to the report, the system allegedly contained:\n\n* A hardcoded master password in frontend JavaScript\n* Client-side OTP validation\n* Password reset without proper old-password verification\n\nIf true, these vulnerabilities could have allowed unauthorized access to examiner accounts and potentially impacted the evaluation system.\n\nThis story is a reminder that cybersecurity is no longer optional. As AI accelerates software development, secure coding practices have become more important than ever.",
       "commentCount": 2,
-      "likeCount": 239,
+      "likeCount": 281,
       "comments": [
         {
           "id": "UgwDVrS_LwoFH-9I4hV4AaABAg",
           "author": "@VivekKumarMishra-k9y",
           "text": "Security",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T07:46:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kIy8FGcgaupQ6mu0LDhdWXdr6oK8jSPGWz9M2UIVSFR1FxxZ5_8Mvzu-ozESDW9xtLWw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -954,117 +988,137 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "fagSVgEtU2E": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "The Demon Core was a 6.2 kilogram sphere of plutonium-gallium alloy, manufactured by the Manhattan Project in 1945 and originally intended for the third atomic bomb to be used against Japan. Japan surrendered before it was shipped, and the core remained at Los Alamos for testing.\nOn August 21, 1945, physicist Harry Daghlian was alone at the Omega Site, stacking tungsten carbide bricks around the core to study how close it could get to criticality. As he placed the final brick, neutron detectors indicated the assembly was going supercritical. He pulled his hand back, the brick slipped from his grip, and fell directly into the assembly. A flash of blue light filled the room. Daghlian dismantled the assembly by hand to stop the reaction, receiving an estimated whole-body dose of 290 to 310 rem, roughly 3 sieverts. He died 25 days later from acute radiation syndrome, the first person in history killed by a criticality accident.\nExperiments with the core continued. On May 21, 1946, exactly nine months later, physicist Louis Slotin was performing a similar demonstration, holding a beryllium reflector dome apart from the core using the blade of a screwdriver rather than the required safety shims, a practice Enrico Fermi had specifically warned him would get him killed within a year. The screwdriver slipped. The dome closed. The room lit up blue again. Slotin, standing closest to the assembly, received an estimated dose of around 880 rem, roughly 8.8 sieverts, one of the most severe acute radiation exposures ever recorded in a survivable timeframe. He died 9 days later.\nRemarkably, both accidents occurred on a Tuesday, both on the 21st of the month, and both men died in the same hospital room at the Los Alamos base hospital.\nAfter Slotin's death, the core was permanently retired. It was melted down in the summer of 1946 and its plutonium recycled into other weapon cores. It was never assembled again.\nSource: Atomic Heritage Foundation, Nuclear Museum. American Physical Society, This Month in Physics History (2014). Wikipedia, Harry Daghlian. Nevada Technical Associates, The Demon Core.\n#DemonCore #ManhattanProject #LouisSlotin #RadiationSickness #CriticalityAccident",
       "commentCount": 8,
-      "likeCount": 35063,
+      "likeCount": 49273,
       "comments": [
         {
-          "id": "Ugy0O28VpeU_O8Iu2GV4AaABAg",
-          "author": "@SurajGiri-e3z6f",
-          "text": "Kya demon core sach me khatm ho gaya!🤫",
+          "id": "UgzdILuZ9JZQkZUk8nd4AaABAg",
+          "author": "@mrb7931",
+          "text": "Love for Plutonium❤",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T07:23:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/LO9qS-mnrs38rWXtyI0mhfvgWzij9HshHSkKqY_TXDsiBnCBS-hfZ0Iy6TQX3a8Nvyp4t0n3IFo=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mPUpiPu4OSXQgJsrP7HasT6q254YdMj6TMO10jATQi_u4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxSSjRdvlPOQl0eQzR4AaABAg",
-          "author": "@ronithazarika16",
-          "text": "Ala-ram wahh",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T07:18:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/UeLkr8iHXNOw-FnT5pkRJqVMgWpj9nhRFP3Zz58zRH1bwhd5qqh-XdomIi6D67cIqENsZqFG=s88-c-k-c0x00ffffff-no-rj",
+          "id": "Ugy_lp-uoeOZDV2drUB4AaABAg",
+          "author": "@memify_07",
+          "text": "Is this a movie. If yes, what's it's name?",
+          "likeCount": 2,
+          "publishedAt": "2026-07-28T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/wzq3LGhonv5isBUHOR-UzAxuIEF4LOnS-Q7jCyjzdI6W1qN6zVFaBV1jQ8F501J-eVZD51TaJck=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxCvcBGiWAL13aYq0p4AaABAg",
-          "author": "@Sanketarestic",
-          "text": "Bro is the brother of - Cleo Abram 😂",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T07:10:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Ckydvx4QEb0DnOcy64tYxKUihF6WSiX4p6_kRbtPjjqUWutZNtX_Wa8hpSQyCoIkwhf3Tkat=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgyXMhQUNQ0t8NBpSGl4AaABAg",
+          "author": "@Madhav_unofficial",
+          "text": "I take much better precautions than them,  while using \"super glue\" in my craft",
+          "likeCount": 1,
+          "publishedAt": "2026-07-28T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/HUoL0uqC0qzSauXVAWlXpYExwgtKtSB75Xrhz7jq57HwUr_fFRR99fqgLxcWDJHuhGuGwbYo7Mo=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxMdk42-rEraBH8Dfp4AaABAg",
-          "author": "@Lieutenant_Vaibhav",
-          "text": "Which movie is this bro.",
+          "id": "UgwMhrT4-idcRpEw6554AaABAg",
+          "author": "@kunwarkulwendrasinghrathor4763",
+          "text": "Itna radiation exposure milne ke baad bande ko turant maar dena chahiye, hospital me rakh ke kyu tadpana!!!",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T06:59:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/VkrdTpyYPYxxywnyc9Th0uFtRSjZpbMcG-1_ILyzVrsPyOSP5JT1hwY2yY4NIz3lIdQBb0D0AvU=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k3Uj98NXbkVdT_8NBl8-xyo_6GOGggHuqlTBhRCFll3O7ebUx3TA2UIOiS--bGrjiboA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwsoB-nx5ym74b6gqR4AaABAg",
-          "author": "@combineyoutubers745",
-          "text": "Movie name??",
+          "id": "UgylWYVkzCGzgwaCftl4AaABAg",
+          "author": "@T-ZORT",
+          "text": "Kuch bhi smjh nhi aaya 😂\nLkn achcha laga ❤❤",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/iLoWBXDCV0T6CWqLw6qNn1Ab9otZzPxwLLp3Wr4aeMwQQfISltS7mZRH55zgWUicq5yXW5XW=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/AogRmzdrZorZaEqMgMeRVpdKYwvs0IKdNBongnpCgy86gLGz_WdBHMeCN3liF8q5udnlYwFk3Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyjIkB5cGl4KJucGdR4AaABAg",
-          "author": "@fifaTheSportsWorld",
-          "text": "Movie bhi hai kya ispe...",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/9H8HYIx9_gr5IMLKw7-G21HGRGqv9G2WNJkpgDIZ5EWmtLhmVAiK-DRDkIbF1MM359qB6vcwUA=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgzgH4po1CW_WhkchaR4AaABAg",
+          "author": "@GopalRuhela-ey1pl",
+          "text": "great, the way you explained DAMMM!!!",
+          "likeCount": 1,
+          "publishedAt": "2026-07-28T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/L2WmzG9T7Q9Jb7FH6CPDm176AZCPWuXgi-hpZS4xQrwIEewZl5h9VoxquK1MQB7mjJQWtzjFMg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzYgxgHOwhbGavEDpF4AaABAg",
-          "author": "@chaavisharma2543",
-          "text": "\"Hey Siddharth! Love your science content. I specialize in writing science backed facts based scripts on biology and space assumptions which fascinates me too.Also there are some amazing scientist's real life experiments which you can emphasise.I'd love to share a couple of short samples with you. What is the best email to reach you at?\"",
+          "id": "UgxV4wWNPxYdtPqm-854AaABAg",
+          "author": "@Hi-Tech_SHIKHAR",
+          "text": "Jo background mein movie chal rahi hai kaun si hai",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/brhNtyndJmQoBAGLTS5-z6DT6hfww16HD0-0r5iy_r_RZAjDojMedeZH3MXqja1aHIbGZanK=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/hm8oY4UQXryuYqmw0aGaViGOZppReQbKSp2CL0ZDnR0PlIdRs-rmQlY1lcaQEQUzNkjCGLDKto8=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzCT86umurJdviSFrJ4AaABAg",
-          "author": "@asxflame69",
-          "text": "Dr manhattan",
+          "id": "Ugz0qVbW_PPG379SAlF4AaABAg",
+          "author": "@softtech5391",
+          "text": "Iska bomb ban jata TU Kitna hazaron log marte 😢",
           "likeCount": 0,
-          "publishedAt": "2026-07-27T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/SYLboxE9yCkgNDGJXdr9OE3F98SQukd_Llqh7DuZWoJVhg8MZHu9JseSoE3Tjt0Tlww6sDqZow=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mTcGTtZYsLz7_hkKwRa5XBf1_GcJecIJNjXOAv-MiQWg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "TASY9QHjS64": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Should the world pause AI development, or should we focus on regulating AI instead?\n\nThat debate is becoming bigger every day.\n\nProtests are taking place outside the offices of OpenAI, Anthropic, and Google DeepMind, with concerns about AI replacing jobs and creating long-term risks for society.\n\nBut here's the bigger question:\n\nIf one company stops building AI... will every other country stop too?\n\nProbably not.\n\nThat's why many AI leaders, including Google DeepMind CEO Demis Hassabis, have argued that the real solution isn't stopping one company. it's creating global AI regulation that every country follows.\n\nIn this video, we break down:\n\nWhy people are protesting AI\nCan AI actually be paused?\nWhy global AI regulation matters\nThe future of AI governance\nWhat this means for OpenAI, Anthropic, Google DeepMind, and the global AI race\n\nWhich side are you on?\n\n Pause AI or Regulate AI? Let us know in the comments.\n\nFor more AI news, AI myths, AI tools, and easy-to-understand AI insights, subscribe to bpro.\n\n#AI #OpenAI #AINews #ArtificialIntelligence #bpro\n\nTags:\n\nShould AI be paused, Should AI be regulated, What is AI regulation, Why are people protesting AI, AI protests explained, AI news today, Latest AI news, OpenAI news, Anthropic news, Google DeepMind news, Future of AI, AI safety explained, AI ethics explained, AI governance explained, AI policy, Artificial Intelligence explained, What is Artificial Intelligence, AI updates, AI jobs, Will AI replace jobs, AI risks, AI debate, AI future, Technology news, Tech news today, How will AI change the future, Why AI is controversial, AI tutorial, AI for beginners, bpro",
-      "commentCount": 4,
-      "likeCount": 60,
+      "commentCount": 6,
+      "likeCount": 72,
       "comments": [
+        {
+          "id": "Ugzxxy6tDPj3jHRy5oN4AaABAg",
+          "author": "@prishamishra5301",
+          "text": "Ai ko regulate",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lHQtfWcFStsM6mo5i0o8WA58dKEOh8l4jGi5_r8KGZCw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzUZ3gz8f_SxnI41_V4AaABAg",
+          "author": "@heliosun6412",
+          "text": "Rules ke sath 😂. Nice joke",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhOsVvyiOR2DKy9B1rrzX-He2qQZ1jqeEpHRZoUYxTFaBeYJh5jM0kO6i-v0IKU5wb0w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugx21oSGE9B7E4-1GG94AaABAg",
           "author": "@Jayesh_Rajput_7",
           "text": "Its Deep U can not understand until you get the bash...\n\nAI se Koi issue nahi\nData Centers se issue hai\nKhatra Duniya ko hai : Water 💧 \n\nResearch karke Bolo thoda...",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T11:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/EwH-00ZZ3UVPvEnPdzRhAXVs-YuJPB5VWcMkycRT0STiNrYzYUw5sZmlDM7fXOKvcTFIexT9rz4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -1100,17 +1154,17 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "6iuqazEW5W4": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 3,
-      "likeCount": 633,
+      "likeCount": 684,
       "comments": [
         {
           "id": "UgxDLrEnMEwgR_MXnKx4AaABAg",
@@ -1126,7 +1180,7 @@
           "id": "UgwyHDin5K73vmJllFJ4AaABAg",
           "author": "@nesar7244",
           "text": "So still gpt sol is best subscription",
-          "likeCount": 3,
+          "likeCount": 4,
           "publishedAt": "2026-07-26T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Ni_53Y5CIfODhjLHkUfqV0FFiWK9EhSAWeH2uimFJ2rUhUYVWiXY4kdR8mV8uJDarGZruS6AbA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
@@ -1136,14 +1190,14 @@
           "id": "UgzZT26og9zHE8e6P_N4AaABAg",
           "author": "@Your.maths.sciencebuddy",
           "text": "I don't understand why u said it's cheaper when gpt took less time and less money",
-          "likeCount": 6,
+          "likeCount": 8,
           "publishedAt": "2026-07-26T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Ylc1Zi5w2kgIx3TOE29oBK0kSoZXsB2r0gfTdQBw7xY1Jd270B6WCgD2ehK6hNs7WZ3BoF8T=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -1157,19 +1211,29 @@
       "probeClient": "web_embedded"
     },
     "we7atQz7CTA": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
       "commentCount": 8,
-      "likeCount": 1658,
+      "likeCount": 1701,
       "comments": [
+        {
+          "id": "UgzJOR90yDQAes8GoyB4AaABAg",
+          "author": "@rajnishkumarjha23",
+          "text": "Just the concept of JARVIS almost. still not complete Jarvis",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k7JgkMLiVOxoX92aUPVBhzFoGntJMbixbOFYpAt6E=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugw9vW2fKLenbdu9NHB4AaABAg",
           "author": "@Jaber301.",
           "text": "WHYYY NO SUPPORT FOR LINUX :SOB:",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T14:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/0R26sY0VIFIvdm-LXqC_NGeCM3hfcvPZgfeTF0Ka2sR6PouPUTBGAYxIZlzdccPByseoFgTsLUg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -1233,36 +1297,36 @@
           "authorThumbnail": "https://yt3.ggpht.com/c-Sj6RSTcT9FN-GALhqmEuE3DVxxf3Z4icHW0zO6JP-7PvovMY25lsEpkLJgiFwxJXJs6cyyVw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
-        },
-        {
-          "id": "UgymiGelRiB_RkL7Hm94AaABAg",
-          "author": "@SivSha_R",
-          "text": "Good one",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kZHD56uXuzRGhnBfgSPI1ep18FoE_I384LpTyB28L-X7B0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "VXT7G1WPX54": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "They're often the ones the open-source community is quietly building.\n\nOpen-source AI is making premium capabilities more accessible—from avatar generation and image creation to voice assistants and desktop automation. Instead of paying for multiple subscriptions, creators and developers can customize powerful tools to fit their own workflows.\n\nThe real advantage isn't finding free alternatives.\n\nIt's understanding how to build a workflow that gives you more control, flexibility, and ownership.\n\nThe future of AI won't belong to people using the most expensive tools.\n\nIt will belong to those who know how to combine the right ones.\n\n(ai, ai updates, artificial intelligence, technology, tech, tech updates, editing, designing, graphic designing, tech news, new gadget, gadgets, latest ai, ai tools, ai coding, ai coder, ai latest)\n\n#ai #artificialintelligence #aitools #ainews #aiupdates",
-      "commentCount": 2,
-      "likeCount": 1710,
+      "commentCount": 3,
+      "likeCount": 1853,
       "comments": [
+        {
+          "id": "UgyXk-MGYshpNR9ksR94AaABAg",
+          "author": "@adcentric189",
+          "text": "There is no FREE anything in life. What if your data is compromised by unauthorized ppl",
+          "likeCount": 0,
+          "publishedAt": "2026-07-27T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5LLkTg-D-orAjIv3QnONs9TM45y_AotBXm2mRPRn4eltxYktPs1EaE6EeEfGMXSfLHQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugza9gZLT4QB4voyGaZ4AaABAg",
           "author": "@fitness360sriram",
           "text": "Wow",
           "likeCount": 0,
-          "publishedAt": "2026-07-26T15:00:00Z",
+          "publishedAt": "2026-07-27T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/W9l2VFoJZFEHyiHgky_VhgRGCtYI125NXUKA1EvuEXGt_nR3CgBFooz36PkMikP3a8OTdKY56Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -1278,7 +1342,7 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
+      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -4032,15 +4096,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "BrQrhcvrzhA": {
-      "checkedAt": "2026-07-27T14:53:48Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "✅ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44\n\nIn this video, I break down the 10 Claude features that can actually help you make money online in 2026. You’ll learn how to use Claude, explore powerful capabilities in Claude AI and Claude Code, and follow a practical Claude tutorial designed for real-world income opportunities. Whether you're looking to make money online, understand how to use Claude AI more effectively, or discover which features provide the biggest advantage, this guide shows how to turn Claude into a valuable business and productivity tool.\n\n00:00 - Intro: 10 Claude AI Features to Make Money Online\n01:41 - Free Masterclass: Build Profitable AI Apps & Agents\n02:06 - Feature 1: Claude Code - The AI Software Agent for Terminals\n04:24 - Claude Code ROI: Case Study on Increasing Agency Revenue\n06:23 - Cost Control: Avoiding the Claude Code Budget Trap\n07:01 - Feature 2: Claude Skills - Creating Reusable AI Workflows\n09:10 - Monetizing Skills: Selling Digital Products on Gumroad & STEM\n11:34 - Feature 3: Anthropic API - Building High-Margin AI SaaS Wrappers\n14:11 - Message Batches: Reducing API Costs by 50% for Batch Jobs\n16:04 - Feature 4: Microsoft 365 Add-ins - Claude for Excel & PowerPoint\n18:26 - Financial Modeling & Consulting Deliverables with Claude\n20:24 - Feature 5: Claude Co-work - Automating Local Folder Workflow\n22:28 - Automation Retainers: Selling AI Systems to Local Businesses\n24:25 - Feature 6: Claude Artifacts - Creating Interactive Digital Products\n26:39 - Lead Generation with AI Quizzes & ROI Calculators\n28:14 - Feature 7: Claude Projects & Memory - Scaling Client Brand Voices\n30:19 - Ghostwriting & Career Coaching with Persistent AI Context\n32:24 - Feature 8: Claude in Chrome - Sales Prospecting & Web Scraping\n34:11 - QA Testing & Reporting Services with Browser Extensions\n36:04 - Conclusion: Choosing Your Profitable Claude Workflow\n\nFor inquiries: Mikey (at) ytmedia.group",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "48tCnb_7_-s": {
       "checkedAt": "2026-07-27T15:53:58Z",
       "embedAllowed": true,
@@ -4158,7 +4213,7 @@
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-28T06:53:12Z",
+      "checkedAt": "2026-07-28T07:53:06Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4660,6 +4715,33 @@
       "description": "🚀 Welcome to my Build in Public journey!\n\nI'm building a real app **live from scratch** with one goal:\n\n💰 Vibe Coding an App Until I Make ₹1 Crore (₹1,00,00,000)\n\n🚀 Access AI models for FREE:\n\nhttps://freemodel.dev/invite/FRE-7a92a447\n\n❤️ Support the Journey\n\nIf you're enjoying the content and would like to support this Build in Public journey, you can gift me **Claude Pro** here:\n\n🎁 https://claude.ai/gift\n\nYour support helps me create more AI apps, livestreams, tutorials, and open-source content. Thank you! ❤️\n\nEvery livestream is completely **LIVE**—no edits, no scripts, no cuts.\n\nYou'll see the entire process:\n\n💻 Planning\n⚡ Vibe Coding\n🤖 AI-assisted Development\n🐛 Debugging\n🚀 Deploying\n📈 Growing Users\n💰 Building a Real Business\n\n## 🛠️ Tech Stack\n\n* Next.js\n* TypeScript\n* Tailwind CSS\n* Supabase\n* OpenAI\n* Claude AI\n* Netlify\n\nAlong the way, I'll also be using modern AI coding tools like **Cursor, Claude Code, Codex, Kimi, Gemini, ChatGPT, GitHub Copilot, Windsurf, Bolt.new, Lovable, v0, Replit AI, and more** to build faster, ship faster, and turn ideas into real products.\n\nWhether you're a student, developer, freelancer, founder, indie hacker, or AI enthusiast, you're welcome to join the journey, ask questions, and build along with me.\n\nIf you're interested in:\n\n✅ AI Development\n✅ Vibe Coding\n✅ Next.js\n✅ React\n✅ TypeScript\n✅ Tailwind CSS\n✅ Supabase\n✅ Full Stack Development\n✅ SaaS Development\n✅ Startup Building\n✅ Indie Hacking\n✅ AI Coding Tools\n✅ Prompt Engineering\n✅ AI Agents\n✅ Web Development\n✅ Automation\n✅ Building Apps with AI\n\n...you're in the right place.\n\n🔥 New livestreams regularly as I document the entire journey from ₹0 to ₹1 Crore, building in public one stream at a time.\n\nDon't forget to **Like 👍, Subscribe 🔔, and join the live chat!**\n\n#VibeCoding #AI #BuildInPublic #NextJS #Supabase #OpenAI #SaaS #Startup #FullStack #CodingLive #TechBuilderAkash #WebDevelopment #AITools #IndieHacker #Programming #ArtificialIntelligence #AIDevelopment #AICoding #AICodingTools #BuildWithAI #LiveCoding #Coding #Developer #SoftwareEngineer #React #ReactJS #TypeScript #TailwindCSS #Claude #ClaudeAI #ClaudeCode #ChatGPT #OpenAICodex #Codex #Cursor #CursorAI #Kimi #KimiK2 #Gemini #GitHubCopilot #Copilot #Windsurf #BoltNew #Lovable #V0 #ReplitAI #PromptEngineering #AIAgents #Automation #Tech #100DaysOfCode #IndieDev #SaaSBuilder #StartupFounder #BuildInPublicJourney #LearnToCode #WebDev #FullStackDeveloper",
       "commentCount": 0,
       "likeCount": 27,
+      "probeClient": "web_embedded"
+    },
+    "8OqBbUoBpo4": {
+      "checkedAt": "2026-07-28T07:53:06Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "u8o8OAbLuDo": {
+      "checkedAt": "2026-07-28T07:53:06Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "a4zZuhvMXts": {
+      "checkedAt": "2026-07-28T07:53:06Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "FU5_kpTAVDo": {
+      "checkedAt": "2026-07-28T07:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Supabase: https://supabase.plug.dev/4LaWUdw  \n\nGet Thorsten's prompt: https://www.davidondrej.com/thorsten-podcast \n\nThorsten: https://x.com/thorstenball\n\nWanna learn how to code with AI? Go here: https://www.skool.com/new-society\n\nWe're hiring: https://www.scalesoftware.ai/\n\nFollow me on Instagram - https://www.instagram.com/davidondrej1/\nFollow me on Twitter - https://x.com/DavidOndrej1\n\nTry Cursor yourself:\nhttps://cursor.com/referral?code=DSGVCHDWL2JJ\n\nWatch my podcasts on Spotify: https://open.spotify.com/show/033E1ULeu3Pj9JU2MABz2U?si=vvf361b2R3O2Dg0obO-2IQ\n\nSubscribe if you're serious about AI.\n\nDavid Ondrej x Thorsten Ball podcast",
+      "commentCount": 72,
+      "likeCount": 592,
       "probeClient": "web_embedded"
     }
   }
