@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T10:53:10Z",
+  "updatedAt": "2026-07-29T11:53:10Z",
   "items": [
+    {
+      "id": "HtW0Qn_G6z0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The 20 Minute Career",
+      "publishedAt": "2026-07-28T19:53:10Z",
+      "firstSeenAt": "2026-07-29T11:53:10Z"
+    },
+    {
+      "id": "kzrrKb1G_nI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Profitable Creators",
+      "publishedAt": "2026-07-28T18:53:10Z",
+      "firstSeenAt": "2026-07-29T11:53:10Z"
+    },
+    {
+      "id": "J71bI3KhIqE",
+      "type": "short",
+      "source": "secondary",
+      "channel": "DigiQueen Performance Marketing",
+      "publishedAt": "2026-07-28T16:53:10Z",
+      "firstSeenAt": "2026-07-29T11:53:10Z"
+    },
     {
       "id": "hhxdoOCvpZ4",
       "type": "short",
@@ -4705,6 +4729,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-07-29T11:53:10Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
