@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T00:53:41Z",
+  "updatedAt": "2026-07-29T01:53:46Z",
   "items": [
+    {
+      "id": "fqcGWCDTJqo",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-07-29T01:00:34Z",
+      "firstSeenAt": "2026-07-29T01:53:46Z"
+    },
+    {
+      "id": "LZfZtqHUpAA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AGI House",
+      "publishedAt": "2026-07-28T19:53:46Z",
+      "firstSeenAt": "2026-07-29T01:53:46Z"
+    },
+    {
+      "id": "1zW6Uu21Q40",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CNBC",
+      "publishedAt": "2026-07-28T17:53:46Z",
+      "firstSeenAt": "2026-07-29T01:53:46Z"
+    },
+    {
+      "id": "xSjFvdPo6Z8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Marina Wyss - AI & Machine Learning",
+      "publishedAt": "2026-07-28T16:53:46Z",
+      "firstSeenAt": "2026-07-29T01:53:46Z"
+    },
+    {
+      "id": "VaxkHdKNduk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Handmade & Beyond",
+      "publishedAt": "2026-07-28T16:53:46Z",
+      "firstSeenAt": "2026-07-29T01:53:46Z"
+    },
+    {
+      "id": "b-2Gb8BG69k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hasan Skill Zone",
+      "publishedAt": "2026-07-28T13:53:46Z",
+      "firstSeenAt": "2026-07-29T01:53:46Z"
+    },
     {
       "id": "xLsXMX7FwOI",
       "type": "long",
@@ -4335,6 +4383,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-07-29T01:53:46Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
