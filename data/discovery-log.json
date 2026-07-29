@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T12:53:11Z",
+  "updatedAt": "2026-07-29T13:53:12Z",
   "items": [
+    {
+      "id": "-4gD9qJ31js",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-07-29T13:27:28Z",
+      "firstSeenAt": "2026-07-29T13:53:12Z"
+    },
+    {
+      "id": "OXhVBDyBGyk",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-07-29T13:20:18Z",
+      "firstSeenAt": "2026-07-29T13:53:12Z"
+    },
+    {
+      "id": "D9MMgUjpZ5I",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-07-29T13:12:20Z",
+      "firstSeenAt": "2026-07-29T13:53:12Z"
+    },
+    {
+      "id": "_u2Jciop7rA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CodeHelp - by Babbar",
+      "publishedAt": "2026-07-29T12:53:12Z",
+      "firstSeenAt": "2026-07-29T13:53:12Z"
+    },
+    {
+      "id": "_voM1YVEhis",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AIM Network",
+      "publishedAt": "2026-07-29T12:53:12Z",
+      "firstSeenAt": "2026-07-29T13:53:12Z"
+    },
+    {
+      "id": "oDipulgqLro",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-07-28T19:53:12Z",
+      "firstSeenAt": "2026-07-29T13:53:12Z"
+    },
+    {
+      "id": "ztdTed5egrM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hugging Face",
+      "publishedAt": "2026-07-28T16:53:12Z",
+      "firstSeenAt": "2026-07-29T13:53:12Z"
+    },
+    {
+      "id": "Mr5PUV_Qqzw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ManuAGI - AutoGPT Tutorials",
+      "publishedAt": "2026-07-28T16:53:12Z",
+      "firstSeenAt": "2026-07-29T13:53:12Z"
+    },
     {
       "id": "zkYfjuJYg_U",
       "type": "short",
@@ -4779,6 +4843,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-07-29T13:53:12Z",
+      "new": 8,
+      "long": 5,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
