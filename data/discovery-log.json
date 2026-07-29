@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T23:53:33Z",
+  "updatedAt": "2026-07-29T00:53:41Z",
   "items": [
+    {
+      "id": "xLsXMX7FwOI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Shivendra Chauhan",
+      "publishedAt": "2026-07-28T22:53:41Z",
+      "firstSeenAt": "2026-07-29T00:53:41Z"
+    },
+    {
+      "id": "LLqu--lM2lE",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Intellux - Marketing digital & IA",
+      "publishedAt": "2026-07-28T21:53:41Z",
+      "firstSeenAt": "2026-07-29T00:53:41Z"
+    },
+    {
+      "id": "Me4wOeJSguo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "🔥 TOP Digital Products 🔥",
+      "publishedAt": "2026-07-28T13:53:41Z",
+      "firstSeenAt": "2026-07-29T00:53:41Z"
+    },
     {
       "id": "Z4XcED3BrPM",
       "type": "long",
@@ -4302,6 +4326,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-07-29T00:53:41Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
