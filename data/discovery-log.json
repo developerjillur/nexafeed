@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T09:53:09Z",
+  "updatedAt": "2026-07-29T10:53:10Z",
   "items": [
+    {
+      "id": "hhxdoOCvpZ4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-07-29T10:30:04Z",
+      "firstSeenAt": "2026-07-29T10:53:10Z"
+    },
+    {
+      "id": "bdwq7B29p54",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Summia Jamshed",
+      "publishedAt": "2026-07-29T10:10:10Z",
+      "firstSeenAt": "2026-07-29T10:53:10Z"
+    },
     {
       "id": "yDdh1oZIlog",
       "type": "short",
@@ -4680,6 +4696,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-07-29T10:53:10Z",
+      "new": 2,
+      "long": 1,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }

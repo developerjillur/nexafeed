@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T09:53:09Z",
+  "updatedAt": "2026-07-29T10:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -2459,15 +2459,6 @@
       "likeCount": 2559,
       "probeClient": "web_embedded"
     },
-    "6u_NudXT8OQ": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "99% of people use Claude like a normal chatbot... but that's only **Level 1**.\n\nIn this short, I'll show you the **4 Levels of Claude Mastery**—from simply copying AI responses to running multiple AI agents with Claude Code.\n\n👇 Which level are you currently on?\n\n1️⃣ Basic Chatting\n\n2️⃣ Connected Apps (Google Drive, Notion & Slack)\n\n3️⃣ Skills Marketplace & Browser Actions\n\n4️⃣ Claude Code & AI Automation\n\nIf you want to become a power user, start climbing these levels today.\n\n#ClaudeAI #ClaudeCode #AI #Programming #Developers #Anthropic #Coding #ArtificialIntelligence",
-      "commentCount": 18,
-      "likeCount": 131,
-      "probeClient": "web_embedded"
-    },
     "p2gAORlaiPI": {
       "checkedAt": "2026-07-27T07:46:18Z",
       "embedAllowed": true,
@@ -4637,14 +4628,95 @@
       "probeClient": "web_embedded"
     },
     "0eCqH3gNR5w": {
-      "checkedAt": "2026-07-28T09:53:13Z",
+      "checkedAt": "2026-07-29T10:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "💬 Comment 𝗔𝗚𝗘𝗡𝗧𝗜𝗖 and I’ll DM you the complete step-by-step setup video!\n\n#claudecode #aiagents #codingwithai #developerproductivity #softwareengineering #buildinpublic #aitools #anthropic",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-28T09:53:13Z",
+      "commentCount": 8,
+      "likeCount": 119,
+      "comments": [
+        {
+          "id": "UgwfJkpK8T07f4TPVNt4AaABAg",
+          "author": "@leversofpower",
+          "text": "Nice agentic has it pros. And cons token gulping. What you’re missing is using Claude to learn by simulation. I mean how much longer before is code even relevant.",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T10:51:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mlNhDl6JpQ4d9h81tQUvXPZOmt5WoAmK2KLpPfl4MFqQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy4AravAnsOXVDu1ep4AaABAg",
+          "author": "@eddy33ize",
+          "text": "Agentic",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lxguFE1xII3FEcY671a20Nm3gFqvp7FeTGmHahWEc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzTSer2sMgd2wRxN7h4AaABAg",
+          "author": "@omgomgway",
+          "text": "ngl those level 4 examples are actually wild, wondered if it could handle complex refactors like that without hallucinating everything",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k0DTtozzv78RMZJxnrJazODlY9cPZad5BnItz42s8d65Y=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyGDz3Wt4vl_U7fmyJ4AaABAg",
+          "author": "@tothgabor2002",
+          "text": "Agentic",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lur1naYuCDL61sP8-KY3sL45Do-zOmb79j7e2prRpwxw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxnc1KeFTYYooTqrWV4AaABAg",
+          "author": "@noamloewen",
+          "text": "AGENTIC",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nPvzTqyBjne3aJ719uvM15OP8R0j9tTF1b4hP4hCcgNndd=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxeKUUYB6VA437OjeN4AaABAg",
+          "author": "@johnalcaras8715",
+          "text": "Agentic OS",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mOY5YYePu7LOOdevbGyMLjv02wkrAxb-JOl4pOqgnp_lI=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgylD7J6Fl3Xh5IwvaZ4AaABAg",
+          "author": "@ChristianKyony",
+          "text": "agentic",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mIY7p5Sn6Atkp2uI9aVnf7qcnI4H3MN2WqiVz0ukzQUgFL=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw6jiu4ohUesifOWiV4AaABAg",
+          "author": "@nadeemnayeck",
+          "text": "Agentic",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nM91Gi9zI2sb86L1Da-QuAU5fgtdtBXQdkppSrwNY=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-29T10:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5583,13 +5655,13 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-29T09:53:09Z",
+      "checkedAt": "2026-07-29T10:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-29T09:53:09Z",
+      "checkedAt": "2026-07-29T10:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5619,15 +5691,6 @@
       "description": "🔒 Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com\n\nRoman Yampolski argues that artificial super intelligence could become impossible to control, warning that once an AI system surpasses humans in every domain, humanity may no longer be in charge of the outcome. He explains why current AI may be approaching AGI, why testing general intelligence is fundamentally different from narrow systems, and how self-improvement, goal optimization, and survival drives could create unexpected risks. The discussion explores AI alignment, reward hacking, human oversight limits, scaling laws, machine consciousness, morality, and Yampolski’s extreme estimates for catastrophic outcomes. He also explains why he believes the best realistic strategy may be buying time rather than assuming a permanent safety solution can be guaranteed.\n\n📚 Sources cited in this video:\n\n- Roman Yampolskiy, AI Safety and Security Research\nhttps://romanyam.com\n\n- Stanford University AI Index Report\nhttps://aiindex.stanford.edu\n\n- DeepMind, AlphaGo and Self-Play Research\nhttps://deepmind.google/research\n\n- Artificial Intelligence Safety and Alignment Research Papers\nhttps://arxiv.org\n\n⚠️ DISCLAIMER: This channel provides AI commentary and analysis\nfor educational and informational purposes only. Views expressed\nby guests are their own and do not represent the positions of\nany company or institution. We encourage viewers to consult\nmultiple sources and form their own conclusions.\n\n#ai  #agi  #artificialintelligence",
       "commentCount": 52,
       "likeCount": 291,
-      "probeClient": "web_embedded"
-    },
-    "rPSjGiWmTus": {
-      "checkedAt": "2026-07-29T06:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "📺 WATCH MOJO 24/7: The countdown never ends! Tune in to our 24/7 livestream for a curated loop of our most iconic Top 10s and deep dives: https://wmojo.com/wm_livestream\n\nThe debate over artificial intelligence is dividing Hollywood and the celebrity world like never before. Join us as we explore the boldest statements from celebrities who have spoken out against AI and those who have embraced its potential! How do you think artists should approach AI to protect their industry? Lend your voice to the discussion!\n\nWatchMojo is now a multiplayer game! Wishlist Mojo Party now on Steam: https://store.steampowered.com/app/4003030/Mojo_Party \n\nCheck out our Live Stream channels:\nLIVE - 24/7 Streaming Channel: https://wmojo.com/wm_livestream\nWatchMojo True Crime - 24x7 Streaming Channel: https://wmojo.com/truecrime_livestream\n\nSubscribe for more great content! https://wmojo.com/watchmojo-subscribe\n\nVisit our shop for awesome merch! https://shop.watchmojo.com/\n\nYour trusted authority for Top 10 lists on everything from Entertainment to True Crime!\n\n#watchmojo #watchmojoceleb\n\n#AIDebate #ArtificialIntelligence #Celebrities #Hollywood #Deepfake #Copyright #OpenAI #ScarlettJohansson #JamesCameron #Tom Hanks",
-      "commentCount": 82,
-      "likeCount": 242,
       "probeClient": "web_embedded"
     },
     "dUHpFuUIyi0": {
@@ -5784,6 +5847,27 @@
       "description": "Applied AI author Laura Bratton shares exclusive data revealing how Anthropic's Claude Code maintains enterprise pricing power over Cursor and Codex. She explains why software harnesses are replacing raw model intelligence in coding work.\n\nSubscribe: https://www.theinformation.com/subscribe_youtube\nThe Information’s TITV airs weekdays on YouTube, X and LinkedIn at 10AM PT / 1PM ET. Or check us out wherever you get your podcasts.\n\nFollow us: \nX: https://x.com/theinformation \nIG: https://www.instagram.com/theinformation/ \nTikTok: https://www.tiktok.com/@titv.theinformation \nLinkedIn: https://www.linkedin.com/company/theinformation/",
       "commentCount": 4,
       "likeCount": 32,
+      "probeClient": "web_embedded"
+    },
+    "hhxdoOCvpZ4": {
+      "checkedAt": "2026-07-29T10:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Let’s be honest — learning AI can feel overwhelming when most courses are either too simple or way too advanced. That’s why Simplilearn AI Courses stand out. They’re practical, easy to follow, and focused on helping you build real-world skills.\nIf you’re serious about learning AI the right way, this is worth checking out. Tap the link below and tell me in the comments where you’re starting from.\nCheck out Simplilearn AI courses through the link below.\n🔥Top AI Courses - https://www.simplilearn.com/courses/ai\n🔥Top Generative AI Courses - https://www.simplilearn.com/courses/generative-ai\n🔥Top Machine Learning Courses - https://www.simplilearn.com/courses/machine-learning\n\n#Simplilearn #SimplilearnAICourses #AICourses",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-29T10:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "bdwq7B29p54": {
+      "checkedAt": "2026-07-29T10:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "#aiautomation #ai #courses \n👉Omnisend: https://your.omnisend.com/summiajamshed \n👉Use link to sign up for a free account and get 30% off for your first 3 months!\n\nWant to learn how AI automation can transform the way you work and grow your business? In this video, I'm sharing a complete AI Automation Crash Course designed to help you understand the fundamentals of AI automation and how you can use it in real-world business workflows.\n\nThis course covers multiple modules to help you build a strong understanding of AI automation, explore powerful tools, and discover new ways to streamline tasks and improve business processes.\n\nWhether you're a business owner, marketer, agency owner, or someone looking to learn AI automation, this crash course is a great place to start.\n\nTIMESTAMPS\n00:00 - 01:39 - Introduction\n01:40 - 02:20 - Instructor Introduction\n02:21 - 05:10 - Course Overview\n05:10 - 23:23 - Module 1\n23:24 - 25:31 - Omnisend \n25:31 - 01:08:33 - Module 2\n01:08:33 - 01:28:30 - Module 3\n01:28:30 - 01:48:48 - Module 4\n01:48:48 - 02:14:48 - Module 5\n02:14:48 - 02:55:52 - Module 6\n02:55:52 - 02:56:06 - Outro\n\n\n🪝 Connect With Me\n\n👉 Instagram: https://www.instagram.com/summiajamshed_?igsh=ZnF0bWFpbGNqOHNk\n👉 Facebook: [www.facebook.com/SummiaJamshedOfficial](http://www.facebook.com/SummiaJamshedOfficial)\n👉 WhatsApp Channel: https://whatsapp.com/channel/0029VbBoruA3GJP2lqe3Es12\n\n🎓 Learn With Me\n👉 Courses: https://gowithsummia.com/courses/\n\n\n\n#AIAutomation #AITools #BusinessAutomation #ArtificialIntelligence #BusinessGrowth #ai #courses #nocode #nocodeautomation",
+      "commentCount": 13,
+      "likeCount": 30,
       "probeClient": "web_embedded"
     }
   }
