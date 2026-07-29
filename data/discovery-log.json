@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T06:53:07Z",
+  "updatedAt": "2026-07-29T07:53:08Z",
   "items": [
+    {
+      "id": "rXaUbLpfMQs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Saad Rashid - YouTube Automation",
+      "publishedAt": "2026-07-28T15:53:08Z",
+      "firstSeenAt": "2026-07-29T07:53:08Z"
+    },
+    {
+      "id": "9lg1NswgXAQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Smartcat",
+      "publishedAt": "2026-07-28T14:53:08Z",
+      "firstSeenAt": "2026-07-29T07:53:08Z"
+    },
     {
       "id": "IMuaIXPLhd0",
       "type": "long",
@@ -4573,6 +4589,15 @@
       "channelsChecked": 33,
       "warnings": 20,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-07-29T07:53:08Z",
+      "new": 2,
+      "long": 1,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
