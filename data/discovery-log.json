@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T04:53:05Z",
+  "updatedAt": "2026-07-29T05:53:06Z",
   "items": [
     {
       "id": "pKMFvQNvwps",
@@ -4507,6 +4507,15 @@
       "channelsChecked": 33,
       "warnings": 5,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-07-29T05:53:06Z",
+      "new": 0,
+      "long": 0,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 30,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
