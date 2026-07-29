@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T01:53:46Z",
+  "updatedAt": "2026-07-29T02:53:04Z",
   "items": [
+    {
+      "id": "B6rF0crG2FY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Zoetry AI",
+      "publishedAt": "2026-07-28T23:53:04Z",
+      "firstSeenAt": "2026-07-29T02:53:04Z"
+    },
+    {
+      "id": "6k9y-b6cYyk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-07-28T17:53:04Z",
+      "firstSeenAt": "2026-07-29T02:53:04Z"
+    },
+    {
+      "id": "KwzC5OK2bUY",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Google Cloud",
+      "publishedAt": "2026-07-28T17:53:04Z",
+      "firstSeenAt": "2026-07-29T02:53:04Z"
+    },
     {
       "id": "fqcGWCDTJqo",
       "type": "short",
@@ -4392,6 +4416,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-07-29T02:53:04Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
