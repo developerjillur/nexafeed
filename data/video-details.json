@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T16:53:14Z",
+  "updatedAt": "2026-07-29T17:53:15Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -2151,15 +2151,6 @@
       "description": "",
       "commentCount": 22,
       "likeCount": 797,
-      "probeClient": "web_embedded"
-    },
-    "cR7pTKa2TyA": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Why do people hype quantum computing so much? Here is the actual reason.\nA classical computer solves problems by exploring possibilities sequentially, one by one, checking each option until it finds the best answer. For small problems this is fast enough. But as the number of possibilities grows, the time needed to solve the problem grows exponentially. Problems that seem manageable at small scale become practically unsolvable at large scale.\nA quantum computer works on a fundamentally different principle.\nInstead of storing information in bits that are either 0 or 1, quantum computers use quantum bits called qubits. A qubit can exist in a superposition of both 0 and 1 simultaneously. This is not a metaphor. It is a direct consequence of quantum mechanics, the same physics that governs electrons, photons, and the fundamental behaviour of matter.\nWhen a quantum algorithm runs, it does not check possibilities one by one. Instead it manipulates these superposed states using a phenomenon called quantum interference. Interference amplifies the probability of correct answers and cancels out the probability of incorrect ones simultaneously. IBM describes interference as the engine of quantum computing. The result is that for certain categories of problems, a quantum computer can explore an exponentially larger solution space far more efficiently than any classical machine.\nThis is why the applications are so significant. Designing new drug molecules requires simulating quantum interactions between atoms, which classical computers cannot do accurately at scale. Discovering new materials for batteries, semiconductors, or superconductors involves the same problem. Optimising global logistics across millions of variables simultaneously. These are exactly the kinds of problems where quantum interference gives quantum computers a structural advantage over classical systems.\nIn December 2024, Google's Willow quantum chip performed a specific calculation in five minutes that would take the world's fastest classical supercomputers approximately ten septillion years. That gap is not incremental. It is architectural.\nThe problems that would take classical computers centuries may take quantum computers hours. Not because quantum computers are faster versions of classical computers. But because they compute in a fundamentally different way.\nSource: IBM, What Is Quantum Computing. Google, Willow Quantum Chip (2024). SpinQ, Quantum Interference in Quantum Computing (2025). Frontiers in Quantum Science and Technology, Quantum Computing Foundations (2025). Quantum Zeitgeist, Complete Guide to Quantum Computing (2026).\n#QuantumComputing #Qubits #Superposition #QuantumInterference #QuantumMechanics",
-      "commentCount": 153,
-      "likeCount": 26595,
       "probeClient": "web_embedded"
     },
     "sJt1sQO87sc": {
@@ -5109,234 +5100,374 @@
       "probeClient": "web_embedded"
     },
     "GkIEZHBzRNo": {
-      "checkedAt": "2026-07-28T16:53:36Z",
+      "checkedAt": "2026-07-29T17:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "This AI skill lets you scrape platforms like Twitter, Reddit, YouTube, GitHub, and Chinese platforms like XiaoHongShu and Bilibili.\n\nAll without paying for a single API key.\n\nIt's called Agent Reach.\n\nIt's a free open source CLI tool built for Claude Code, Cursor, and other AI agents.\n\nJust run one install command in your terminal.\n\nYour agent gains access to over a dozen platforms instantly.\n\nThink of it like handing your agent a master key instead of asking it to pick every lock one by one.\n\nSome platforms like YouTube, GitHub, and Bilibili work with zero setup right away.\n\nAgent Reach already knows how to route requests to the right tool underneath.\n\nOthers like Twitter and Reddit need you to log in once.\n\nYou export your browser cookies, since those platforms require an authenticated session before anything can be read.\n\nThat one-time setup takes a couple of minutes.\n\nAfter that, your agent handles everything on its own.\n\nWith it, you can pull YouTube transcripts, search Reddit discussions, read GitHub repos, or check what's trending on Twitter.\n\nAll through one single tool.\n\nThere's also a built-in doctor command that checks which platforms are ready to go.\n\nIt tells you which ones still need that login step, so you're never guessing what's missing.\n\nThis used to take a full day of hunting down scrapers and debugging auth flows.\n\nNow it's one command and a few minutes of login.\n\n#agentreach #Claudecode #claudeskills #webscraping #aiscrap",
-      "commentCount": 1,
-      "likeCount": 19,
+      "commentCount": 8,
+      "likeCount": 1888,
       "comments": [
         {
           "id": "Ugxr-DOCnnn7e7_UVPF4AaABAg",
           "author": "@nickautomates",
           "text": "First, you can setup Agent Reach by running these commands in your AI coding agent:\n\nhttps://github.com/Panniantong/Agent-Reach/blob/main/docs/README_en.md#quick-start\n\nSecond: If you want to learn how to build systems & then apply them to real businesses to get clients, check out Maker School. \n\nIt's my AI agent & automation community, where I teach you how to build Claude Code, Codex, & n8n based flows, and sell them to your first client in 90 days. \n\nIncludes a 100% money back guarantee if you don't get a paying client!\n\nhttps://www.skool.com/makerschool/about?ref=0a3be5900d60497cb3542cca1ed3fdcb",
-          "likeCount": 1,
-          "publishedAt": "2026-07-28T16:16:00Z",
+          "likeCount": 27,
+          "publishedAt": "2026-07-29T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/wqFanyf3to18BbPL8FE9F614Wx8VtblcVB3Vt_wL8yynTDiYEzxTXe-e4WjMqB5U0OQdKNmncg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "Ugzn-eXBrGz3h_NEMCJ4AaABAg",
+          "author": "@neointhe8matrix",
+          "text": "Thanks to anyone using Ai you are officially killing your kind and its not funny\n#GeoffreyHinton (godfather of ai)\n#RomanYampolskiy (studied Ai safety for decades)",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/W75V4rYTe5dbK94HpPqX881cesZ2EJVyNIxPsYwRUQbKkztvb98wsDafEVlz91hznGGj2YoSPg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxAF8b4UEIjGO4_d-14AaABAg",
+          "author": "@SMCGPRA",
+          "text": "Good😅😅",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lbcLlefex4fTNQuPUCRVjRospGwtOGBgDqlgwKC-1eCBOa=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxCtvia2xY4ar8buwl4AaABAg",
+          "author": "@space-a9",
+          "text": "How fresh are the results though?",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_noqP14KNrTSOu7nbPBVeqRTRg-z3Vl2X2NstMhS7V_nwdF=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwPXuliMUwBTAjNqG94AaABAg",
+          "author": "@Captainofmyfate-m1n",
+          "text": "How do I get it",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nEaD_Rk3gYEqhmikjMp7vwgj1kjo_1clhZVFPoWzf4kyAVnj5RvUUogQGgDuScZLz2rA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwGAFD2n0xCnwbZCfJ4AaABAg",
+          "author": "@zzjablack0705zz",
+          "text": "Use firecrawl or aicrawl",
+          "likeCount": 1,
+          "publishedAt": "2026-07-29T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mDLI7j1P236L8w1l6Z_bJezEmjSbSiv8yD3522TasHUw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwSukAfN-ckIkJN4c14AaABAg",
+          "author": "@Whatamiwatchingtoday",
+          "text": "You forgot to tell them that you can get your IP blocked by the platforms with this tool.  Good luck out there.",
+          "likeCount": 3,
+          "publishedAt": "2026-07-29T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/lx_aO51ZiYi7lW6kgMjGzFoyxMztq0uPNlHRBRP87y_tWqwmn4OLNWXYgQLLeygQIUQv0lGB=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw0h6l-FrwNMGjxMsV4AaABAg",
+          "author": "@akibo8379",
+          "text": "I’m so job searching w this tool.",
+          "likeCount": 1,
+          "publishedAt": "2026-07-28T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Ou9D8Q1OG1mrAsA2qQ2_PLSiYIGLb2AFTogjClo5Z0d__vToaN3Be1xA_0aVUwupRSrcV1Ru4Q=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-28T16:53:36Z",
+      "commentsFetchedAt": "2026-07-29T17:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "qf_jF1w7tgU": {
-      "checkedAt": "2026-07-28T16:53:36Z",
+      "checkedAt": "2026-07-29T17:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 8,
-      "likeCount": 782,
+      "likeCount": 11280,
       "comments": [
-        {
-          "id": "Ugym1cvtSXpbpMcB_jR4AaABAg",
-          "author": "@avishekj999",
-          "text": "Bro controversy chodo mujhe pin kar do 😅.       Kya pata \n100 million view aajaye",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T16:51:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/wdaSrcHP7dKcC414JQe6Ltw7q2rnDUyxsIer7Bc3ANrvSi9JgQHVEyBtxYBuXF8qPNjm48ugaGg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzXebEpM13sGkdEbvZ4AaABAg",
-          "author": "@RugvedKulkarni-ir4dq",
-          "text": "India abhi bhi astrology pe atka hai",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T16:49:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kICLEWVz_Df11W9j2QDfrHNDDg1x_VaLwS8b0VSK2HbsRDCJlZlRWUA-jL7XAQ5mwfAg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxAhVM7aOmAjedLZvt4AaABAg",
-          "author": "@perfectgaming916",
-          "text": "CONTENT NIGHT BY NIGHT 📈📈",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T16:48:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/aEBjvWhdhgXCsjQxs8LMjTpvqdRt1MRoeYEWx4uR9-DxsQW6i-m7Nr0RuUNtZrXnU9gGpUoifA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxhWsJhk8B83d-03G14AaABAg",
-          "author": "@Ajaykumar-g2w9d",
-          "text": "Ok😅😅😅😅",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T16:46:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/idYsk6xSKMCl2yiZcNdkrl6GUVMaYaPOQrPdDP5ZHJGU8u-NzEHAjvVl9-3ud8mhflEnuZwxboc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyUwlWP0CnUDMi_h9V4AaABAg",
-          "author": "@xohop1650",
-          "text": "Kimi k3",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T16:39:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/PANgB0khYx9MfuKsQHGXTR4AGqY3JJXXF7M8AYrd8iyL1wtQoCJLq_oPcYqcYWkN1R_27kk8vlg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzPpELyVbVzNWIx4hF4AaABAg",
-          "author": "@Aaditya-g12",
-          "text": "China is the best country",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T16:38:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5LLkTg-D-orAjIv3QnONs9TM45y_AotBXm2mRPRn4eltxYktPs1EaE6EeEfGMXSfLHQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
         {
           "id": "Ugx0LiaREHRCDsny1Yd4AaABAg",
           "author": "@MagarLadlee",
           "text": "Lekin bhai hum to vishwaguru hai 👽 ham to sabhi ai ko breakfast me hi bana lete hai 😂",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T16:38:00Z",
+          "likeCount": 181,
+          "publishedAt": "2026-07-29T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/toClLSfzqKL2Kf-Tbrqbrq1Qg3R80rF8teEOm7vlaSl4KI4GWcPnNySgeMrdkDu9Ntp4Ey8DnQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": false
+        },
+        {
+          "id": "UgwIpGA58L7RuOJcBbx4AaABAg",
+          "author": "@vkrmnt",
+          "text": "Still from my personal use, as i purchased their premium.. \n\nI used Kimi 2.7 Code and 3.0 both have issues like.. \n\n1. On thinking, it works worst instead of solving things better, you have to turn off the thinking toggle while coding.\n\n2. Hallucinations, jisme ki claude and gpt type models ko mere hisab se abhi koi beat nhi karsakta, low hallucinations... \nJabki agar Kimi ke models ko use karoge toh long conversations mai hallucinations karne lagta aur kam ki aasi tesi hojati.\n\nBut yes, ye bahout mast hai, agar kaam zada na ho. Nhi toh frontier models ke barabar he rahega.\n\nAur best chej iski yahi hai ki ye Openweights/opensource hai toh mere hisab se ye inka + point hai, cuz isse apki dependency kam hojati hai.",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T17:48:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Rk1_WbbErk--3IWA38WlhA-cJl6XQxEFsZ8IuCU_3WjFX3SBqiNj4NSP2XBvqhwAa7DIg52CRCM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwTVsuqkniGq_PcWSR4AaABAg",
-          "author": "@aethryxmusic",
-          "text": "China Ai Can't beat music 😅",
+          "id": "UgyROunCu6_AhGVqM3p4AaABAg",
+          "author": "@Mike123-f5k",
+          "text": "Hunn humen kya tension😏\nhum toh vishwaguru hai",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T16:36:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/-0m4XSqc_mXN1hGUoRlEIbnT6xYLp7IxhUrbHO2WNbEghXa8FIWk-SnBKeXj_52kKMXg4xXD=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-29T17:27:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lCcLaQxWcvI2EGO1Yx8JghVogwuIvweQtKO2WljVQO8Z9U-9WIqXep9b4I_4RwnbLfMQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwTRnZh0S-pMd_L5Et4AaABAg",
+          "author": "@sumannath9018",
+          "text": "Bhai app thoda sa slow nei bol sakte...",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k2vuW6QIdkv10SwOvldSIou1jqyQZcBaIuON61N1U1arPz=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwLw6O7hd--stsBm654AaABAg",
+          "author": "@GgyTttyttt",
+          "text": "China day by day 📈🗿🗿\nGay hindu gay India day by day 📉🕉️🏳️‍🌈(modi modi 💅🥴🤣)",
+          "likeCount": 1,
+          "publishedAt": "2026-07-29T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kO0hT88X5uNeDF4Vk2Gz-6nexqp9pW-oDxilm26H6BEDVQUcUE-XCc4jqVuqTompVXlg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyDFwAO2DNSep9s1KZ4AaABAg",
+          "author": "@Toonwala-cartun",
+          "text": "Chaina ke bachee ai ko adopt ker rahe hai or sekh rahe hai or india ke bachee sekh rahe hai ki akber kon tha ✅",
+          "likeCount": 1,
+          "publishedAt": "2026-07-29T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/6uipOOT5g2nhgvFLGlcdS5v7FUjul8C6euQE1M-gVzryTu89krsM7jmVomh_RbS0URmERVa6Dg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxGXxzq-B05K--C0AR4AaABAg",
+          "author": "@Toonwala-cartun",
+          "text": "Chaina ke beeche ai ko adopt ker rahe hai or sekh rahe hai or india ke bache sekh rahe hai ki akber kon tha ✅",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/6uipOOT5g2nhgvFLGlcdS5v7FUjul8C6euQE1M-gVzryTu89krsM7jmVomh_RbS0URmERVa6Dg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz07AZQCMJhTRfUhH14AaABAg",
+          "author": "@SrijanTiwari-e1f",
+          "text": "China  usa ko takkar de raha hai to usa to puche ho raha hai isliye  jhoote allegations laga raha hai par china superpower ban raha hai aur aage dominate karega usa ko haradega",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nuNlfceTDiBSTQUhxQ56YDJFbBu1DjRfTpJMFP6ck9D0x3tsglom8eMUA2blBLpRVU8w=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-28T16:53:36Z",
+      "commentsFetchedAt": "2026-07-29T17:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "NF8hpTXQsto": {
-      "checkedAt": "2026-07-28T16:53:36Z",
+      "checkedAt": "2026-07-29T17:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"Genspark\" and I'll send you my link\n\nPaying for a CRM, a research tool, and a spreadsheet app? That stack is dead weight. @GensparkProduct \n\nDump your messy sheets in chat. Use your words.\n10 minutes later you've got a working pipeline.\n\nSuper Agent takes one prompt and ships a competitor report, formatted, client ready.\n\nAI Sheets writes the formulas for you.\n\nNo code. One tab, fam.\n\n#AItools\n#Automation\n#WorkwithGenspark\n#AIAgents\n#Genspark",
-      "commentCount": 1,
-      "likeCount": 2,
+      "commentCount": 8,
+      "likeCount": 32,
       "comments": [
         {
           "id": "UgyEPxo7g0ALBuH4UmB4AaABAg",
           "author": "@charlieautomates",
           "text": "Get your free credits here: https://www.genspark.ai/?utm_source=yt&utm_campaign=charlieautomates",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T16:17:00Z",
+          "publishedAt": "2026-07-29T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "UgxQTPJL6QjwyIOr4B54AaABAg",
+          "author": "@SushilBala-iy5ku",
+          "text": "Genspark",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nlBilyjMA1U52oKK26XZ_UcnniCFBmVBEaZcWRZocnDN18ZKMnESUSGCHsm8S0Thv9RQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyfDbHhbuP61wHso6Z4AaABAg",
+          "author": "@umbylicuslewis893",
+          "text": "Hey man, i feel what a ton of creators are missing with new CRMs are less work for contractors. There are ton of contractors that need a crm that works better for them. I would love to give you free access to my crm to try it out. I have  beta access coming within a month.",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ma1zaXEiK-KHVAZZhsz_joVERMyLMWiguPYZ0F2T0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxWAWjVDDNBCqyHp6x4AaABAg",
+          "author": "@ChaAhm-h4s",
+          "text": "Genspark",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mFwh2IrAgSRZ0bfsBI6zmAunMhdQdLYWio4gGzQHiQAgS8RJeBxykBSv3CKlCmqo2Z-A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwARWFhd4mK5LL2NfF4AaABAg",
+          "author": "@Victor2-p1b",
+          "text": "Genspark",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nIdFEF768caFO6uGO_7sHylbcu1LASbdq3k55MltwBzAcqqxgGI7M1stx6ZHD97mnpRQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzQMK9y-6lfLOEKXKF4AaABAg",
+          "author": "@BluPhiGuy",
+          "text": "I loved Genspark. I used it for about 5 months sparingly. Then I launched my 1person business and decided to standardized on Genspark, in particularly to build my decks. I built like 4 decks and immediately ran in running out of credit problems (I even paid for the higher tier plan). Then I was locked out until.. the NEXT MONTH for the cycle to reset.\n\nBottom line, the tool works well (especially building presentations and documents but may be obsolete now with the updated Claude and ChatGPT)... it's the low bandwidth of credits that will frustrate you. I had to leave because I need a serious tool for business... Genspark is only halfway there, in my opinion",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nSNiYSvPvCCpOaA3XQDR5Z1JbETTCUrC0epju2BYRcUAhWBpYB6ETxcv4epfmtCNjofw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyzCNv01YdkeiPs6vl4AaABAg",
+          "author": "@WithManny1",
+          "text": "Genspark",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/iKrSxARcbv__TZ8OMwAQTvkQQj9MlRLf6spfXfKF3jwRsfAgBlhQ4zM7PyX2jC3xERapVFTD=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz0-Xk_h0TQS1b3jvh4AaABAg",
+          "author": "@not-a-youtuubr",
+          "text": "Genspark",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n3TjbgD-GjOxsHg0JTctU6RduBwEa08cJYQYeJt98=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-28T16:53:36Z",
+      "commentsFetchedAt": "2026-07-29T17:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "L6D53cDy19U": {
-      "checkedAt": "2026-07-28T16:53:36Z",
+      "checkedAt": "2026-07-29T17:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
       "commentCount": 8,
-      "likeCount": 1418,
+      "likeCount": 1882,
       "comments": [
         {
-          "id": "UgyjJwLxQbrTiJ6V27t4AaABAg",
-          "author": "@DigeshAcharya",
-          "text": "Free",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T16:46:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kmeSmwyNHYGBEkgO4Lzxnta3duFdtAK_ieHlrspf6jRoGt=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugwjh6_Y4E3GXBSKYZx4AaABAg",
-          "author": "@workoutsongz",
+          "id": "Ugz-2V-gqsBAjeguJid4AaABAg",
+          "author": "@andrewabbo",
           "text": "free",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T16:45:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lS4rTS_NUWN9GQsoRf_gUsflV7YbmKryNGqK5J7xWOIt3AtHQVn0Ahc6cAWoAyQVqJvQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-29T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/uuC5SUrYSrOisbBuQrfrR4Hxx4nPK2KwdxgK4TuEA2uiVG5Du5pNqvGqeiRR8uWv7-nDcdVR4Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxO4dW5pdNCQmesRLN4AaABAg",
-          "author": "@rajeshpamidimukala8501",
+          "id": "UgwZBxebEQu75NmhvVN4AaABAg",
+          "author": "@PrinceSingh-t5c",
           "text": "Free",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T16:43:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kzM_Ikf3Q8WKiH3mu6wpQgas2I7nTjH6u3X7em8Oi12aOV=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-29T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/hVUjo4zItiXjSZL3vGvpRf3BoEfqUDybWGsnmoP_54k_Qr2eMBq-j-GGJKNVW5kG2BnfQGPj=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugy5RWSAzoF7vK8hy4F4AaABAg",
-          "author": "@AC-hk6oq",
+          "id": "Ugy7W0YHLfUXLIiarqZ4AaABAg",
+          "author": "@mohammedsajid2870",
+          "text": "FREE",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lS1PPX0MTFJ52Bdieh8iVqfc2eL2YhqOezilwsfHvnEMZZ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxMGFpqPM0qRUL2WCd4AaABAg",
+          "author": "@OmPatel-fg8lw",
           "text": "free",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T16:28:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kZ9BqErMm0yILeWAGqb7Sarb9bE5T31PShW8DUH_aOeEA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-29T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lQtucvw1A_qk8garF3E-Tg7X9vpwHWXAwRSPQLJ4WANAudxQvXyhqpaAippWzhb8YDug=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyTZRP3t2qqY70T2ul4AaABAg",
-          "author": "@paaruz",
+          "id": "UgxXAuLaHfytlMzH_7Z4AaABAg",
+          "author": "@JunaidDomingo-w1i",
+          "text": "free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Y4h4pS4ibFfWzWr47SJyEAEzbjyZxJYpnlup7mfBKhnE7d8ndGzx-w9Z9_9559b5tSrIkPUHUg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyQJnjE0Ju9rMhsdJl4AaABAg",
+          "author": "@sidduprakash3077",
           "text": "Free",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T16:26:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mN2wCVhmhSNMAw1zblOR4fmGSR0GbkNtD9dn_qitk=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-29T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n-ipYGNyWfz12ONyTS5rSab8KjOyO2zchxWqeHFrPUeLIIa2HS4OmlreGaAFKDd_6j1g=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugz9KSWlIts_zvlOdEF4AaABAg",
-          "author": "@abhishekdotbanerjee",
-          "text": "Hi",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T16:24:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kVyIgMkFCR_JLJQTS0h4G5z-eMy7d82qhCgmYR2_F4_cWY=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwfmY7XXz7doHkP3Fh4AaABAg",
-          "author": "@strongu6067",
+          "id": "UgwYxBMprDHTw_UxCoZ4AaABAg",
+          "author": "@SaimaGhazal-vz5ku",
           "text": "Free",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T16:06:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nM-WEuW0SrnutyuA2WgG5frYMf8G-JizoeNB0fCbo-jOA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-29T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lA7jr0LZvBQFLmBc7jijnVjyoazsJEdCveoYk4bFvSLqy3mJRIVzhAwp7IKIkTOUTl9A=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgymTmhtIbo-x8_aA9x4AaABAg",
-          "author": "@tufan-tuf",
-          "text": "After 2 jobs successfully applied next what happens everyone know : reached your credit limit 😂😂",
-          "likeCount": 2,
-          "publishedAt": "2026-07-28T16:04:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/wtlxz28hOPnuDQoT0ipJF60nh4DtsCEZ9uZKIoAJYjKc7PtTT-r5u9KqcWunRVPMCxK7bm_h=s88-c-k-c0x00ffffff-no-rj",
+          "id": "Ugz99oIAHKXbPqlN88R4AaABAg",
+          "author": "@SSWorld1234-b1c",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/E8QJ1rtC0m0eCOaLr7LGx5Qv589Kw1K5-kzNzfrWkkyq_ibcyI-shoWn0RgS1UsvwajeHreBdQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-28T16:53:36Z",
+      "commentsFetchedAt": "2026-07-29T17:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5347,15 +5478,6 @@
       "description": "📈 ALL Systems: https://bit.ly/4kol0y5\n🩵 Free Resources: https://bit.ly/3RNNDLa\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)",
       "commentCount": 1,
       "likeCount": 6,
-      "probeClient": "web_embedded"
-    },
-    "C4cYO8viGO0": {
-      "checkedAt": "2026-07-28T20:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "This video shows you how to start an automated faceless youtube channel in 2026 as a beginner \n\n➡️ Digital Maker AI: https://DigitalMaker.AI (Use Code: YOUTUBE10 for 10%)\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➡️ Instagram: https://www.instagram.com/success.with.sam\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nDisclaimer:\n\nThe content in this video is provided for general information and education only and reflects my personal views and experiences. Nothing in this video should be interpreted as a recommendation or instruction. Viewers are encouraged to do their own research and seek appropriate guidance before taking action. This video may contain referral links that support the growth of the channel and your viewing experience.\n\nThank you for watching - I really appreciate it :)\nLike, comment and subscribe!",
-      "commentCount": 4,
-      "likeCount": 24,
       "probeClient": "web_embedded"
     },
     "ShYfGB3x5mM": {
@@ -5406,15 +5528,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "LZfZtqHUpAA": {
-      "checkedAt": "2026-07-29T01:53:46Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Jerry Tworek is the founder and CEO of Core Automation and a former VP of Research at OpenAI. During nearly eight years at OpenAI, he worked on reinforcement learning and the systems that helped make inference-time reasoning possible. He is now exploring test-time training: how models can continue learning while solving difficult problems.\n\nIn this AGI House session, Jerry explains auto research as a way to productively scale test-time compute. He examines how agents can run experiments, evaluate outcomes, and iterate—but also why today’s autonomous research loops eventually plateau.\n\nDrawing on GPU kernel optimization, test-time scaling, and real-world research competitions, Jerry argues that the strongest systems still combine model execution with human judgment, technical taste, and carefully designed evaluation.\n\n𝐈𝐧 𝐭𝐡𝐢𝐬 𝐬𝐞𝐬𝐬𝐢𝐨𝐧, 𝐰𝐞 𝐜𝐨𝐯𝐞𝐫:\n\n- Why model performance should be evaluated against inference cost  \n- What auto research actually means  \n- How to turn difficult research goals into iterative, verifiable loops  \n- How one AI-assisted submission produced a kernel 60× faster than an NVIDIA baseline  \n- Why human–AI teams still outperform fully autonomous research systems  \n- How numerical instability and reward hacking undermine benchmark results  \n- Why auto-research improvements eventually plateau  \n- Why algorithms matter even more as inference budgets increase  \n- The importance of memory, exploration diversity, and human guidance  \n- How test-time training could help models improve during research\n\nHosted by AGI House as part of our Auto Research Build Day.\n\n𝐖𝐡𝐞𝐫𝐞 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐉𝐞𝐫𝐫𝐲 𝐓𝐰𝐨𝐫𝐞𝐤:\nX: https://x.com/MillionInt \nCore Automation: https://www.coreauto.com/\n\n𝐖𝐡𝐞𝐫𝐞 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐀𝐆𝐈 𝐇𝐨𝐮𝐬𝐞:  \n Website: https://www.agihouse.org/\n X/Twitter: https://x.com/agihouse_org\n LinkedIn: https://www.linkedin.com/company/agi-house/\n Newsletter: https://agihousecommunity.beehiiv.com \n\nAGI House exists at the center of frontier AI: a working environment for research, conversation, and building. Our mission is to accelerate humanity's transition to AGI.\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n\n(00:00) Jerry Tworek’s background and Core Automation\n(01:12) Scaling training compute and inference-time compute\n(03:06) Why single benchmark scores are increasingly incomplete\n(05:01) What auto research actually means\n(07:48) GPU kernel optimization as an auto-research problem\n(08:43) Why human–AI teams still outperform autonomous loops\n(10:08) Numerical stability, reward hacking, and evaluation design\n(11:26) Why auto-research improvements eventually plateau\n(12:41) Why algorithms matter more as compute scales\n(14:16) Lessons from AlphaEvolve: memory, diversity, and evaluation\n(15:44) The biggest bottleneck: diversity of research ideas\n(17:03) Test-time training as the next frontier\n(17:44) Why researchers should run fewer experiments—and think more deeply\n(19:52) The open algorithmic problems in test-time training\n(21:33) How to inject human expertise into research loops\n(22:50) Where technical “taste” comes from\n(25:07) Can we predict how much test-time compute a problem needs?  \n\n𝐑𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧:\n• AlphaEvolve\n• Test-time compute scaling\n• GPU kernel optimization\n• Reinforcement learning for reasoning models\n• Human-in-the-loop auto research\n• Test-time training  \n\nJerry's keynote slides from AGI House Autoresearch Build Day: https://tinyurl.com/jerryagi\n\nSubscribe for more conversations with frontier AI researchers, founders, and builders.\n\n#AIResearch #AutoResearch #ArtificialIntelligence #TestTimeCompute #ReinforcementLearning #AGI #AGIHouse",
-      "commentCount": 2,
-      "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
     "B6rF0crG2FY": {
       "checkedAt": "2026-07-29T02:53:04Z",
       "embedAllowed": true,
@@ -5449,15 +5562,6 @@
       "description": "💥 Check out Flodesk Studio here: https://studio.flodesk.com/\n\nThis video is sponsored by Flodesk and may include affiliate links. This means that if you sign up or make a purchase through the links, I may earn a small commission at no additional cost to you.\n\nAI only creates leverage when it’s applied with strategy, systems, and execution.\nIf you’re serious about using AI to build or scale a real business (not just experiment with tools), this video is part of a much bigger ecosystem.\n\n👉 Build an AI-first business here: https://aifoundershq.com\n\nAt AI Founders HQ, you’ll find:\n• Practical AI business education\n• Free + paid founder communities\n• Real frameworks for turning AI into leverage\n\n______________________\nCHAPTERS:\n\n\n\n_____________________________\n\nALL GOOGLE CERTIFICATIONS THAT MATTER TO MAKE MONEY (START FREE)\n\n⭐ Google AI Prompt Essentials Course: https://imp.i384100.net/c/4753902/2807105/14726\n⭐ Google Data Analytics Certificate: https://imp.i384100.net/xkRyXv\n⭐ Google Digital Marketing Certificate: https://imp.i384100.net/JzWJoE\n⭐ Google IT Support Certificate: https://imp.i384100.net/g14D5A\n⭐ Google Project Management Certificate: https://imp.i384100.net/oqBzJO\n⭐ Google UX Design Certificate: https://imp.i384100.net/B01xky\n⭐ Google Ads for Beginners: https://imp.i384100.net/PyWxeQ\n⭐ Introduction to Generative AI: https://imp.i384100.net/eKbz3z\n⭐ Google Cybersecurity Certificate: https://imp.i384100.net/3eLQ2B\n⭐ Google Advanced Data Analytics Certificate: https://imp.i384100.net/Y90eXR\n⭐ Google IT Automation with Python Certificate https://imp.i384100.net/9grkmy\n⭐ Google Business Intelligence Certificate: https://imp.i384100.net/eKbz3j\n⭐ Google Crash Course on Python: https://imp.i384100.net/DKJoYd\n\n______________________\n\nOTHER AI BUSINESS VIDEOS:\n\n►► 99% Of People STILL Don't Know The Basics Of Prompting (ChatGPT, Gemini, Claude): https://youtu.be/T6iMHtEL9FU\n►► World-Class Free AI Certifications You Can Turn Into Money Makers (Zero to Hero): https://youtu.be/gOTjsxh-yMg\n►► How To Become a One Person Business In The AI Age: https://youtu.be/g5qzJVmg9vY\n►► 10 Hot AI Business Ideas Most People Don't Know About (Yet): https://youtu.be/GUgUrwQzKgs\n►► The BIGGEST Wealth Transfer in History is Happening RIGHT NOW (AI Revolution): https://youtu.be/24x0-Z5yZv4\n►► The N8N AI Agent Stack Every Business Needs (Badly): https://youtu.be/zT_iO9mPvZA\n►► NotebookLM: This FREE Google AI Tool Is Making People Money, But... https://youtu.be/LlQFwlQ0kiI\n►► This $1.3/Day AI Agent Could Launch Your First Online Business (Manus): https://youtu.be/yQHZNMRIERE\n►► 5 High Value AI Agents Beginners Can Build And Sell: https://youtu.be/3ClbUmC2swM\n►► 8 FREE AI Tools Everyone Should Use In Their Business: https://youtu.be/ZHQIp4mPR3I\n►► 6 Real Skills You Need to Start an AI Automation Agency (Without Coding Experience): https://youtu.be/HH54xnN1pY8\n►► The ONLY 7 CRITICAL AI Skills to Build a 1-Person AI Business: https://youtu.be/NKFllff7XX0\n►► The One Skill That Makes You & Your Business AI-Proof (It’s Not Prompting): https://youtu.be/UE0-yZ7yaUk\n►► This Is How To Learn AI To Make Yourself Irreplaceable: https://youtu.be/YxyQyf6bmks\n►► Launch A Real App Using Only One AI Tool (+Monetization Guide): https://youtu.be/JqX-ItNEWSI\n►► 5 Profitable Ways to Monetize Stunning AI Presentations: https://youtu.be/HyXL4IsvF4o\n____________________\nDisclaimer:\nThe content shared in this video is for educational and informational purposes only, based on personal experience, research, and opinion. It is not intended as legal, financial, business, or professional advice. I am not a licensed attorney, CPA, or financial advisor. Always do your own due diligence before making decisions related to business, income, or investments.\nAny tools, platforms, or services mentioned may include affiliate links and may change over time. Please confirm availability, pricing, or features directly with the provider. Use official APIs and follow each platform’s Terms of Service. Obtain consent before messaging or recording, and comply with applicable laws (e.g., GDPR, CAN-SPAM, TCPA, and local rules).\nResults and outcomes discussed are not guaranteed and may vary depending on individual effort, context, and external factors. We make no guarantees regarding your specific execution speed, ability to implement these strategies, or any financial results.",
       "commentCount": 2,
       "likeCount": 33,
-      "probeClient": "web_embedded"
-    },
-    "Ee8SgItZ7W8": {
-      "checkedAt": "2026-07-29T03:53:04Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Always an adventure when using genAI! This session offers a few tips and tricks for authoring effective design prompts to create attractive and accessible web design templates and inspiration that can be turned into complete web pages. \n\n(Note: this training does NOT involve building a website or page from code. HTML outputs are meant to be visual examples only which would then be built in WordPress with the Divi builder and often modified based on the tools available within our platform.)",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "bK5FKDJEdE4": {
@@ -5568,7 +5672,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-29T16:53:14Z",
+      "checkedAt": "2026-07-29T17:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5696,15 +5800,6 @@
       "likeCount": 622,
       "probeClient": "web_embedded"
     },
-    "pIq2s5BKpkw": {
-      "checkedAt": "2026-07-29T08:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Gemini Enterprise Agent Platform → https://goo.gle/4x2pKi8\nAnthropic's Claude on Google Cloud models → https://goo.gle/4fAqu8x\nGemini Enterprise Agent Platform remote MCP server → https://goo.gle/4yMiEzV\n\nSet up Claude Code on Google Cloud Console with Gemini Agent Platform (formerly known as Vertex AI) to unlock powerful AI-driven coding workflows.In this demo, YK builds a 3D web application using HTML, JavaScript, Three.js, Rapier physics, and Vite. Watch along and learn best practices for AI agent prompting, project folder structure, Git CLI automation, and continuous verification.\n\nChapters:\n0:00 - Intro\n0:03 - Setting up Claude code on Google Cloud\n1:29 - Introducing YK Sugi\n2:43 - Building a slingshot game\n3:36 - Tip 1: Talk to your agent with your voice\n3:58 - Tip 2: Have a projects folder with most of your projects\n5:10 - Tip 3: Ask broader questions first\n5:25 - Tip 4: Go back and forth with the agent to refine your idea\n6:15 - Tip 5: Learn to use Git and GitHub CLI well\n8:31 - Tip 6: Learn to verify the output\n8:50 - Tip 7: Automate testing as much as possible\n9:17 - Wrap up\n\nWatch more The Agent Factory: Developer Power-Ups → https://goo.gle/Supercharge-Devs\n🔔 Subscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#DeveloperPowerUps\n\nSpeakers: Smitha Kolan, YK Sugi, Lydia Hallie\nProducts Mentioned: Gemini Agent Platform, Claude",
-      "commentCount": 2,
-      "likeCount": 62,
-      "probeClient": "web_embedded"
-    },
     "yDdh1oZIlog": {
       "checkedAt": "2026-07-29T09:53:09Z",
       "embedAllowed": true,
@@ -5763,15 +5858,6 @@
       "description": "#aiautomation #ai #courses \n👉Omnisend: https://your.omnisend.com/summiajamshed \n👉Use link to sign up for a free account and get 30% off for your first 3 months!\n\nWant to learn how AI automation can transform the way you work and grow your business? In this video, I'm sharing a complete AI Automation Crash Course designed to help you understand the fundamentals of AI automation and how you can use it in real-world business workflows.\n\nThis course covers multiple modules to help you build a strong understanding of AI automation, explore powerful tools, and discover new ways to streamline tasks and improve business processes.\n\nWhether you're a business owner, marketer, agency owner, or someone looking to learn AI automation, this crash course is a great place to start.\n\nTIMESTAMPS\n00:00 - 01:39 - Introduction\n01:40 - 02:20 - Instructor Introduction\n02:21 - 05:10 - Course Overview\n05:10 - 23:23 - Module 1\n23:24 - 25:31 - Omnisend \n25:31 - 01:08:33 - Module 2\n01:08:33 - 01:28:30 - Module 3\n01:28:30 - 01:48:48 - Module 4\n01:48:48 - 02:14:48 - Module 5\n02:14:48 - 02:55:52 - Module 6\n02:55:52 - 02:56:06 - Outro\n\n\n🪝 Connect With Me\n\n👉 Instagram: https://www.instagram.com/summiajamshed_?igsh=ZnF0bWFpbGNqOHNk\n👉 Facebook: [www.facebook.com/SummiaJamshedOfficial](http://www.facebook.com/SummiaJamshedOfficial)\n👉 WhatsApp Channel: https://whatsapp.com/channel/0029VbBoruA3GJP2lqe3Es12\n\n🎓 Learn With Me\n👉 Courses: https://gowithsummia.com/courses/\n\n\n\n#AIAutomation #AITools #BusinessAutomation #ArtificialIntelligence #BusinessGrowth #ai #courses #nocode #nocodeautomation",
       "commentCount": 13,
       "likeCount": 30,
-      "probeClient": "web_embedded"
-    },
-    "HtW0Qn_G6z0": {
-      "checkedAt": "2026-07-29T11:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What is digital marketing? In this episode, Head of Digital Marketing at Word of Mouth Digital Danni Russell explains what a digital marketing career actually looks like and why it's more about data than design.\n\nDanni started out studying science at university, then left after realising a lab job wasn't for her. She found her way into digital marketing starting out with email and working across SEO, AEO (AI engine optimisation), paid ads, and social media strategy.\n\nWhat you'll learn in this episode:\n\n✅ The difference between SEO and AEO (AI engine optimisation)\n✅ How AI has shaped digital marketing for years, long before ChatGPT\n✅ Why a scroll-stopping ad still won't convert if your landing page is broken\n✅ What a day in the life of a digital marketer really looks like\n✅ The skills that will matter most as AI takes over the busywork\n✅ What it's really like running your own marketing agency\n\nTime Stamp......\n\n00:00 Introduction to Danni Russell\n00:30 What is digital marketing today?\n01:20 SEO vs AEO explained\n03:41 From science degree to digital marketing career\n04:03 A day in the life of a digital marketer\n06:28 Digital marketing vs social media marketing\n07:35 How AI is used in digital marketing\n10:29 What people don't see about the job\n12:01 Key pressures of the role\n12:53 Benefits of working in digital marketing\n13:51 Why Danni started her own business\n15:18 Final five rapid-fire questions\n\nIf you're a student exploring digital marketing careers, or you think this job is just clever captions and pretty ads, this episode will change your mind.\n\n👉 Subscribe for more honest career conversations. New episodes every Wednesday.\n🔗 Everything in one place: https://linktr.ee/the20minutecareer\n📲 Follow us on Instagram and TikTok: @the20minutecareer\n🎙️ The 20 Minute Career — Real People, Real Jobs, Honest Conversations.\n\n#DigitalMarketing #MarketingCareers #CareerAdvice #SEO #AEO #WhatIsDigitalMarketing #CareerPodcast #The20MinuteCareer",
-      "commentCount": 0,
-      "likeCount": 1,
       "probeClient": "web_embedded"
     },
     "ZHfAiFvr2Is": {
@@ -5954,15 +6040,6 @@
       "description": "In this video, we explain the difference between Generative AI, AI Agents, and Agentic AI in a simple way. Learn how Artificial Intelligence, Machine Learning, LLMs, and AI automation are transforming the future of technology, jobs, and businesses.\n\nYou will understand how AI Agents work, the difference between AI Workflow and AI Agents, and how tools like ChatGPT, Claude, Devin AI, and GitHub Copilot are changing software development, productivity, and automation.\n\nWe explore the future of Agentic AI, how multiple AI agents collaborate to complete complex tasks, and why learning AI Agents will become a valuable skill in the coming years. Understand the next evolution of AI beyond just prompting.\n\n#ai #artificialintelligence  #aiagents  #agenticai  #generativeai  #chatgpt  #machinelearning  #llm  #futureofai",
       "commentCount": 14,
       "likeCount": 36,
-      "probeClient": "web_embedded"
-    },
-    "oDipulgqLro": {
-      "checkedAt": "2026-07-29T13:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get the LLaDA2.2-flash Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nA brand-new open-source model can catch and fix its own mistakes while it's still writing — not after. It's a diffusion model, so instead of guessing one word at a time, it sketches whole chunks and refines them, hitting ~703 tokens/sec while scoring 49 on SWE-bench Verified and 61 on BFCL. 128K context, 100B parameters, weights free on Hugging Face and GitHub. If you're building agents that run long multi-step chains, this changes what's actually worth building.\n\n00:00 Intro – The AI that fixes its own mistakes mid-write\n00:31 What It Is – Why diffusion beats word-by-word writing\n01:30 Self-Correction – The delete/insert trick most models can't do\n02:13 Under The Hood – 128K context + expert routing explained\n03:37 The Numbers – ~703 tokens/sec, benchmark scores, 2x speed\n05:09 Should You Use It – Who it's for, where to download, setup traps",
-      "commentCount": 6,
-      "likeCount": 59,
       "probeClient": "web_embedded"
     },
     "_voM1YVEhis": {
@@ -6319,6 +6396,153 @@
       "description": "LINKS:\nWarren Discord: https://discord.com/invite/4r6r5jUEFE\n\nLIVE Warren Instance: https://app.warren.run\n\nWarren Github: https://github.com/jayminwest/warren\n\nTalk from Dex: https://www.youtube.com/watch?v=Ib5GBkD555M\n\nFree Agentic Engineering Book: https://jayminwest.com/agentic-engineering-book\n\n---\n\n00:00 The Software Factory Pattern\n00:35 Companies Building Software Factories\n01:38 Why This Pattern Emerged\n02:47 Software Factory Architecture\n02:59 Work Queue System\n03:29 Control Plane Layer\n03:58 Sandbox Environment\n04:17 Human Review Process\n05:02 Humans in the Loop\n05:30 Event Stream and Memory\n06:36 Introducing Warren\n07:12 Warren Features and Extensibility\n08:03 Live Demo Walkthrough\n09:01 Closing Thoughts\n\n#agenticai #codegeneration #programming #claudecode #aicoding #llms #openai #geminiai #claudeai #aiagents #fde #softwarefactory #coding #agenticengineering",
       "commentCount": 11,
       "likeCount": 201,
+      "probeClient": "web_embedded"
+    },
+    "py_--ZJqxMM": {
+      "checkedAt": "2026-07-29T17:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "An object roughly the size of a four-story building is on a collision course with the Moon, and astronomers around the world are preparing to watch.\n\nThe object is the upper stage of a SpaceX Falcon 9 rocket, catalogued as 2025-010D, launched on January 15, 2025 to carry two private lunar landers toward the Moon, Firefly Aerospace's Blue Ghost and ispace's Hakuto-R Mission 2. Once its job was done, the spent stage was left drifting through the Earth-Moon system rather than being deliberately disposed of. For over a year, the combined gravitational pull of Earth, the Moon, and the Sun, along with solar radiation pressure, continuously reshaped its orbit, until astronomer Bill Gray of Project Pluto calculated in September 2025 that impact with the Moon had become inevitable.\n\nThe upper stage, about 13.8 metres tall and weighing roughly 4 metric tons, will strike the lunar surface at approximately 8,700 kilometres per hour, more than seven times the speed of sound. Because the Moon has no atmosphere, there is nothing to burn the object up before impact. It will hit near Einstein Crater on the Moon's western limb, carving out a new crater estimated at 20 to 30 metres wide and throwing up a multi-kilometre plume of ejected dust.\n\nWhether this will be visible from Earth is still uncertain among scientists. If the dust cloud is bright enough, ground and space-based telescopes could capture the impact in real time. The predicted window is 06:35 to 06:44 UTC on August 5, 2026, which is 12:05 to 12:14 PM IST.\n\nThis is a rare opportunity. No artificial object has ever been directly observed striking the Moon's sunlit side before, and scientists hope the event will provide real data on lunar subsurface structure and crater formation.\n\nSource: Fernando, B. et al. (2026). Observational Planning for the 2026 August 5 Falcon 9 Upper Stage Lunar Impact. arXiv. Scientific American, A SpaceX Rocket Is About to Crash Into the Moon (2026). BBC Sky at Night Magazine (2026). EarthSky (2026).\n\n#SpaceX #Falcon9 #MoonImpact #EinsteinCrater #LunarImpact",
+      "commentCount": 8,
+      "likeCount": 1753,
+      "comments": [
+        {
+          "id": "UgwmKqgof6VYhmxptlJ4AaABAg",
+          "author": "@gods.will.bhai.naki.6",
+          "text": "They attacked MOON with their foolishness, and you call it historical moment!  What a joke",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T17:55:01Z",
+          "authorThumbnail": "https://yt3.ggpht.com/YgVGh_obb_HgARfclW2Lm1xDAYFaRfEPCRzVobdwjkdu1UD9GhOtkX49p6E90hDJ9_FMHenDcA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwNPCNwydSb6q1uv0t4AaABAg",
+          "author": "@Endelyspace-h1g",
+          "text": "Ty for telling that I'm gonna watch it 💔",
+          "likeCount": 1,
+          "publishedAt": "2026-07-29T17:54:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/3ZsqTPszWpCVcOYlcHZmegR9q0IrUkeJVZbvonWizB5O14O6tBYV4Ut6ifgPGy401PWtTYmKKMk=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwLah5x3pLAz59lgn54AaABAg",
+          "author": "@muhammadtouseef157",
+          "text": "Abhi alaram laga leta hun\n😄😍",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T17:51:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksi_bFepkE3xB_CkiXlX73yxIkeqJZRwnGLU1fZmIu1uOtLSLuskEzkceLFvGa77DlMQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz9RvGEI1DFL_oRFqZ4AaABAg",
+          "author": "@kitchenmehaiCookieIamUrpookie",
+          "text": "Why does the moon have so many scars.?",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T17:50:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4xHlhLutp-s2i-J2vaXGJB25dXdArsnWjrxGBQ2xvqzT9Te_MpVac9TYoobXg7xSUGUA_TVjytU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzIK4L3TVNecmSBsCh4AaABAg",
+          "author": "@Ahad-s5k9p",
+          "text": "Ohh bahi",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T17:49:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lN1r14JyVE1HV827fOA4jwcUpML9JATe2vub3wBZwgdO1_u1mEpcWHSejRd9oj5lcaaA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwIu466-V7zKLGLXfZ4AaABAg",
+          "author": "@shaziakhizar3976",
+          "text": "American even hit moon with thier missile lol",
+          "likeCount": 4,
+          "publishedAt": "2026-07-29T17:49:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nSuSVOdf8TgjttQ341TtZkoeIe6rlOtlNkb5gqMZL6T3Y=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwpE2_lzNo7g4cFn954AaABAg",
+          "author": "@Genius_00_0",
+          "text": "Tum bohot patle ho",
+          "likeCount": 1,
+          "publishedAt": "2026-07-29T17:47:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/fVSSiIyLRZbfoHdQt1rQ9dLaVPG1uvJa7dC7PThIBbeU511KcXDoLK9bgmbtBOpyM1BNoijWQw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgykDSPDo4GVRHcsFIh4AaABAg",
+          "author": "@RameshKumar-qt7pw",
+          "text": "Duphar me kaise dikhega",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T17:44:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lXNBnVor2T5FVc9Go-w378cXn6JmX-YLkW1G6mVZyFzwgLjg01XTaBOrjvCuKmfuRq9g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-29T17:53:15Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "TM24JCB_kxg": {
+      "checkedAt": "2026-07-29T17:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI labs have run out of clean internet to train on. So they have gone shopping for paper. According to several reports, millions of second-hand and out-of-print books are being bought in bulk through anonymous middlemen, sliced open by hydraulic cutting machines, scanned page by page, and then sent for pulping.\n\nBooksellers across America and Europe say they are being flooded with orders. And some of the books going into the shredder may be among the last surviving copies anywhere in the world.\n\n---\n\nAI | Antique Books | Book Stores | Tech Firms | Artificial Intelligence Models | Firstpost \n\n#ai #artificialintelligence #aimodels #bookstores #techfirms #firstpost\n\nFirstpost is an Indian news and media website. Get all the incisive opinions, in-depth analyses and other visual stories that matter to you and the world right here on this channel. \n\nSubscribe to Firstpost channel and press the bell icon to get notified when we go live.   \nhttps://www.youtube.com/@Firstpost\n\nFollow Firstpost on Website:\nhttps://www.firstpost.com\n\nFollow Firstpost on Instagram:\nhttps://www.instagram.com/firstpost/ \n\nFollow Firstpost on Facebook:\nhttps://www.facebook.com/firstpostin/ \n\nFollow Firstpost on X:\nhttps://twitter.com/firstpost\n\nFollow Firstpost on WhatsApp:\nhttps://www.whatsapp.com/channel/0029Va6zOIrEQIamseyg762V",
+      "commentCount": 8,
+      "likeCount": 30,
+      "probeClient": "web_embedded"
+    },
+    "5BINL4oJz8I": {
+      "checkedAt": "2026-07-29T17:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "The artificial intelligence industry faces internal pressure as developers at top technology companies caution that accelerating AI development is risky, emphasizing that the industry must pace itself and develop oversight. CBS News' Jo Ling Kent reports.\n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.\n\nSubscribe to the CBS News YouTube channel: https://youtube.com/cbsnews\nWatch CBS News 24/7: https://cbsnews.com/live/\nDownload the CBS News app: https://cbsnews.com/mobile/\nFollow CBS News on Instagram: https://instagram.com/cbsnews/\nLike CBS News on Facebook: https://facebook.com/cbsnews\nFollow CBS News on X: https://twitter.com/cbsnews\nSubscribe to our newsletters: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+      "commentCount": 4,
+      "likeCount": 20,
+      "probeClient": "web_embedded"
+    },
+    "t3YMNLFYPCs": {
+      "checkedAt": "2026-07-29T17:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Nearly 1,200 AI workers signed a letter on Tuesday, asking the U.S. government to slow down the development of the technology. Jo Ling Kent has more.\n\nEach weekday morning, \"CBS Mornings\" co-hosts Gayle King and Nate Burleson bring you the latest breaking news, smart conversation and in-depth feature reporting. \"CBS Mornings\" airs weekdays at 7 a.m. on CBS and stream it at 8 a.m. ET on the CBS News app.\n\nSubscribe to \"CBS Mornings\" on YouTube: https://youtube.com/CBSMornings \nWatch CBS News 24/7: https://cbsnews.com/live/\nDownload the CBS News app: https://cbsnews.com/mobile/\nFollow \"CBS Mornings\" on Instagram: https://instagram.com/cbsmornings/\nLike \"CBS Mornings\" on Facebook: https://facebook.com/CBSMornings\nFollow \"CBS Mornings\" on X: https://twitter.com/CBSMornings\nSubscribe to our newsletter: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+      "commentCount": 8,
+      "likeCount": 71,
+      "probeClient": "web_embedded"
+    },
+    "hzp-5JeqNkE": {
+      "checkedAt": "2026-07-29T17:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Hasan explores the question of “Why is so much AI tech useless?” with journalist Joanna Stern, who spent a year letting AI into every aspect of her life.\n\nGo to im8health.com/hasan RIGHT NOW and use code hasan for a Free Welcome Kit, five free travel sachets, plus ten percent off your order. \n\nCo-Creator & Executive Producer: Hasan Minhaj\nCo-Creator & Executive Producer: Prashanth Venkataramanujam\nExecutive Producer/Director: Tyler Babin\nExecutive Producer/Showrunner: Scott Vrooman\nProducer: Kayla Feng\nProducer/ Copywriter: Annie Fick\nCinematographer: Austin Morales\nEditor: Tyler Babin and Zae Jordan\nAssistant Editor: Zae Jordan\nTalent Coordinator: Tanya Somanader\nExecutive Assistant: Samuel Piland\n\n0:00 A.I. hypebeasts\n2:49 The 4 categories of artificial intelligence\n9:10 Introducing Joanna Stern\n10:30 Dishwashers that decode the human genome...\n12:53 A.I.Maxxing\n15:00 BOOOOOOOOOOOOO!\n16:26 Radiology\n18:44 Waymo\n22:38 Vibecoding\n25:49 Ads\n28:17 Wearables\n34:01 Form and function\n41:22 Chatbots\n47:11 Children and A.I.\n50:07 Am I going to lose my job to A.I.?\n52:13 Data centers\n56:25 What is the intelligence age?\n\nYOU CAN WATCH ON CNN.COM/WATCH OR THE CNN APP.\n\nNew to HMDK? \n👉🏾 Watch past episodes https://www.youtube.com/playlist?list=PLE6linSnhLs0dd6APJS0_u12PLhQoRXD3\n👉🏾 Follow HMDK on Instagram https://www.instagram.com/hmdk\n👉🏾 Follow Hasan on Instagram https://www.instagram.com/hasanminhaj\n👉🏾 Follow Hasan on TikTok - https://www.tiktok.com/@hasanminhaj\n👉🏾 Listen to the podcast https://lemonada.lnk.to/HasanMinhajDoesntKnowYT And if you haven’t yet, now is a great time to subscribe to Lemonada Premium. Just hit the 'subscribe' button on Apple Podcasts, or, for all other podcast apps head to lemonadapremium.com to subscribe. \n————————\n\nTHE SHOW:\nHasan Minhaj Doesn’t Know is a long-form interview podcast hosted by two-time Peabody Award-winning comedian Hasan Minhaj. The show features in-depth conversations with politicians, public figures, financial experts, scientists, intellectuals, authors and celebrities. Rather than sticking to standard talking points, Minhaj aims to ask deeper, more probing questions that reveal personal perspectives and challenge conventional narratives. The tone is direct and curious, and focused on uncovering what guests really think beyond rehearsed answers.\n\nKEYWORDS:\nHasan Minhaj Doesn’t Know, Hasan Minhaj, Hasan Minhaj podcast, politics, political, political interviews, science interviews, financial interviews, politics interview, history interviews, culture interviews, interviews, political comedy, comedy, political, news, podcast, comedy podcast, politics podcast, Patriot Act, Patriot Act Netflix, issues, current affairs podcast, current events podcast, current events, talk show, trending political news, funny, satire, political satire, celebrity interviews, political videos, Democratic Party, Republican Party, us politics, American politics, long form interview, long form political, history interview, science interview",
+      "commentCount": 475,
+      "likeCount": 2719,
+      "probeClient": "web_embedded"
+    },
+    "Di0I3D60Msw": {
+      "checkedAt": "2026-07-29T17:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/EMrYL7O or code tl50 for 50% Off Monarch Core tier.\n\nThe biggest fight in AI isn't about chatbots anymore, it's about who gets to control the future of artificial intelligence. \n\nSUPPORT MY WORK: \nBuy a paid subscription to my newsletter at https://www.usermag.co   \nSupport my work on Patreon: http://patreon.com/taylorlorenz      \n \nIs Anthropic trying to lock down AI before their IPO, or are open-weight models genuinely a threat to global safety? In this episode of Power User, Matthew Berman, co-founder of the tech media outlet Forward Future, breaks down the explosive debate rocking Silicon Valley and Washington DC.\n \nAfter the release of China's powerful Kimi K3 open-weight model, OpenAI's autonomous hacking benchmark, and a growing push from Anthropic to restrict open AI models, Silicon Valley has erupted into one of the biggest technology battles in years. \n  \nNvidia CEO Jensen Huang, Microsoft, Meta, Google, IBM, Hugging Face, Mozilla, Palantir, Dell and dozens of other massive technology companies have all come together to publicly back open weight AI models, while Anthropic argues against them. \n\nWhoever wins will control the future of the tech landscape for decades to come. \n\nI break down: \nWhat open weight AI actually is\nHow Kimi K3 changed the AI race\nThe OpenAI benchmark that escaped containment\nThe Hugging Face security incident\nAnthropic's campaign against open models\nWhy Jensen Huang and all of Silicon Valley is pushing back\nThe growing debate inside Washington over regulating AI\nWhy this fight could determine who controls AI for decades",
+      "commentCount": 189,
+      "likeCount": 700,
+      "probeClient": "web_embedded"
+    },
+    "zDnuxj0IMs0": {
+      "checkedAt": "2026-07-29T17:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this documentary, tech journalist Ann-Marie explores the rapid acceleration of the artificial intelligence revolution and its profound impact on human society. From groundbreaking engineering feats—like AI-driven pregnancy care, Oxford's massive data processing systems, and autonomous drone logistics—to deepfake deception and synthetic humanoids like Ameca, AI is changing daily life at unprecedented speeds. However, alongside these incredible breakthroughs lie critical dilemmas: severe job displacement, algorithmic bias, loss of human connection, and ethical questions surrounding digital immortality.\n\nSubscribe to Spark for more amazing science, tech & engineering videos: https://goo.gl/LIrlur 🚀\n\nJoin the Spark Channel Membership to get access to perks:\nhttps://www.youtube.com/channel/UCMV3aTOwUtG5vwfH9_rzb2w/join\n\nYou can now become a History Hit member right here on YouTube! Join for access to a new exclusive documentary every week, and access to over 160+ of our documentaries presented by world renowned historians like Dan Snow, Eleanor Janega, Tristan Hughes, Mary Beard, Matt Lewis and more.\nGet an exclusive release every week by signing up here: https://bit.ly/4pyExyn\n\nAny queries, please contact us at: owned-enquiries@littledotstudios.com\n\n#Spark",
+      "commentCount": 70,
+      "likeCount": 142,
       "probeClient": "web_embedded"
     }
   }

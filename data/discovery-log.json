@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T16:53:14Z",
+  "updatedAt": "2026-07-29T17:53:15Z",
   "items": [
+    {
+      "id": "py_--ZJqxMM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-07-29T17:24:19Z",
+      "firstSeenAt": "2026-07-29T17:53:15Z"
+    },
+    {
+      "id": "TM24JCB_kxg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Firstpost",
+      "publishedAt": "2026-07-29T14:53:15Z",
+      "firstSeenAt": "2026-07-29T17:53:15Z"
+    },
+    {
+      "id": "5BINL4oJz8I",
+      "type": "short",
+      "source": "secondary",
+      "channel": "CBS News",
+      "publishedAt": "2026-07-29T13:53:15Z",
+      "firstSeenAt": "2026-07-29T17:53:15Z"
+    },
+    {
+      "id": "t3YMNLFYPCs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CBS Mornings",
+      "publishedAt": "2026-07-29T13:53:15Z",
+      "firstSeenAt": "2026-07-29T17:53:15Z"
+    },
+    {
+      "id": "hzp-5JeqNkE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hasan Minhaj",
+      "publishedAt": "2026-07-29T12:53:15Z",
+      "firstSeenAt": "2026-07-29T17:53:15Z"
+    },
+    {
+      "id": "Di0I3D60Msw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Taylor Lorenz",
+      "publishedAt": "2026-07-29T10:53:15Z",
+      "firstSeenAt": "2026-07-29T17:53:15Z"
+    },
+    {
+      "id": "zDnuxj0IMs0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Spark",
+      "publishedAt": "2026-07-28T21:53:15Z",
+      "firstSeenAt": "2026-07-29T17:53:15Z"
+    },
     {
       "id": "GM0j1LBKEUM",
       "type": "short",
@@ -5071,6 +5127,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-07-29T17:53:15Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
