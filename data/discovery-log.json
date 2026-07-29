@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T17:53:15Z",
+  "updatedAt": "2026-07-29T18:53:16Z",
   "items": [
+    {
+      "id": "zjFFEMIbe7E",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-07-29T18:45:38Z",
+      "firstSeenAt": "2026-07-29T18:53:16Z"
+    },
+    {
+      "id": "MUlbvWr4wOw",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-07-29T17:56:13Z",
+      "firstSeenAt": "2026-07-29T18:53:16Z"
+    },
+    {
+      "id": "fJOBtyNxQLI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ludophiles",
+      "publishedAt": "2026-07-29T16:53:16Z",
+      "firstSeenAt": "2026-07-29T18:53:16Z"
+    },
+    {
+      "id": "n7KQ7imu_RA",
+      "type": "short",
+      "source": "secondary",
+      "channel": "KUKA - Robots & Automation",
+      "publishedAt": "2026-07-29T13:53:16Z",
+      "firstSeenAt": "2026-07-29T18:53:16Z"
+    },
+    {
+      "id": "2RJiaf0SY8s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sequoia Capital",
+      "publishedAt": "2026-07-29T12:53:16Z",
+      "firstSeenAt": "2026-07-29T18:53:16Z"
+    },
     {
       "id": "py_--ZJqxMM",
       "type": "short",
@@ -5136,6 +5176,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-07-29T18:53:16Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
