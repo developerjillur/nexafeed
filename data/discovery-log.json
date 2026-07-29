@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T02:53:04Z",
+  "updatedAt": "2026-07-29T03:53:04Z",
   "items": [
+    {
+      "id": "rYb_xSjx-Fw",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-07-29T03:45:54Z",
+      "firstSeenAt": "2026-07-29T03:53:04Z"
+    },
+    {
+      "id": "ftIMAlNqbnM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Patrick Lee Zepeda · AI Dev",
+      "publishedAt": "2026-07-29T00:53:04Z",
+      "firstSeenAt": "2026-07-29T03:53:04Z"
+    },
+    {
+      "id": "Mgok6WcRlMY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Founders",
+      "publishedAt": "2026-07-28T21:53:04Z",
+      "firstSeenAt": "2026-07-29T03:53:04Z"
+    },
+    {
+      "id": "Ee8SgItZ7W8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Wisconsin Valley Library Service",
+      "publishedAt": "2026-07-28T20:53:04Z",
+      "firstSeenAt": "2026-07-29T03:53:04Z"
+    },
+    {
+      "id": "czteUSONG-c",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NVIDIA Developer",
+      "publishedAt": "2026-07-28T16:53:04Z",
+      "firstSeenAt": "2026-07-29T03:53:04Z"
+    },
     {
       "id": "B6rF0crG2FY",
       "type": "long",
@@ -4425,6 +4465,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-07-29T03:53:04Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 5,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }

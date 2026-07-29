@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T02:53:04Z",
+  "updatedAt": "2026-07-29T03:53:04Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -308,12 +308,6 @@
       "description": "",
       "commentCount": 8,
       "likeCount": 124
-    },
-    "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-29T02:53:04Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
     },
     "nIpKFmPDrZE": {
       "checkedAt": "2026-07-28T07:53:06Z",
@@ -2303,15 +2297,6 @@
       "likeCount": 601,
       "probeClient": "web_embedded"
     },
-    "g89FJiNAlEs": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Four free repos that cut Claude Code token usage on both input and output. I'm a senior AI engineer building bookzero.ai with Claude Code, and this is the exact stack I install to stop burning tokens.\n\nKey takeaways:\n\n- RTK proxies your bash commands and trims 60-90% off CLI output\n- Headroom compresses conversation history without /compact losing context\n- Ponytail makes agents write less code for the same result\n- Graphify maps your codebase so agents stop grepping back and forth\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\nRepos:\nhttps://github.com/rtk-ai/rtk\nhttps://github.com/DietrichGebert/ponytail\nhttps://github.com/Graphify-Labs/graphify\nhttps://github.com/headroomlabs-ai/headroom\n\nTimestamps:\n0:00 Intro\n0:20 Repo 1\n3:46 Repo 2\n8:16 Repo 3\n11:50 Repo 4\n13:18 Recap\n\n#claudecode #aitools #softwaredevelopment",
-      "commentCount": 9,
-      "likeCount": 190,
-      "probeClient": "web_embedded"
-    },
     "O93fEDzhuu0": {
       "checkedAt": "2026-07-27T07:46:18Z",
       "embedAllowed": true,
@@ -4226,7 +4211,7 @@
       "probeClient": "web_embedded"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-29T02:53:04Z",
+      "checkedAt": "2026-07-29T03:53:04Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4556,14 +4541,14 @@
       "probeClient": "web_embedded"
     },
     "CXDSTsd-CKE": {
-      "checkedAt": "2026-07-28T02:53:09Z",
+      "checkedAt": "2026-07-29T03:53:04Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"CONSOLE\" and join my community, link in bio 👇\n\nGrowing your Instagram, TikTok, X and YouTube just got easier.\n\nGoogle launched Platform Properties in Search Console. It shows which search queries bring people to your social profiles from Google. Open Search Console, click Add property, pick a platform, connect your account. Within days you get clicks, impressions, top queries, best posts and traffic by country.\n\nNow you can optimize your bio, captions and covers around the exact queries people use to find you. A free SEO tool for your socials.\n\nNote: Google Search and Discover only, and it's rolling out gradually.\n\n#seo #socialmedia #google #contentcreation",
       "commentCount": 0,
-      "likeCount": 4,
+      "likeCount": 18,
       "comments": [],
-      "commentsFetchedAt": "2026-07-28T02:53:09Z",
+      "commentsFetchedAt": "2026-07-29T03:53:04Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -4633,18 +4618,6 @@
       "commentsFetchedAt": "2026-07-28T06:53:12Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
-    },
-    "8OqBbUoBpo4": {
-      "checkedAt": "2026-07-28T12:53:08Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "u8o8OAbLuDo": {
-      "checkedAt": "2026-07-28T07:53:06Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
     },
     "0eCqH3gNR5w": {
       "checkedAt": "2026-07-28T09:53:13Z",
@@ -4787,7 +4760,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-29T02:53:04Z",
+      "checkedAt": "2026-07-29T03:53:04Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -4888,15 +4861,6 @@
       "description": "# GoHighLevel Explained (2026) | Basic Features & How Businesses Use It\n\nIf you've been hearing about **GoHighLevel (GHL)** but aren't sure what it actually does, this video is the perfect place to start.\n\nIn this beginner-friendly overview, I walk you through the **core features of GoHighLevel** and explain how businesses, agencies, coaches, real estate professionals, service providers, and virtual assistants use it to streamline their operations, automate repetitive tasks, and generate more leads.\n\nIn this video, you'll learn:\n\n* What GoHighLevel is\n* The essential features every user should know\n* CRM and contact management\n* Sales pipelines and opportunity tracking\n* Calendar and appointment booking\n* Email & SMS marketing\n* Workflow automations\n* Landing pages and funnels\n* Forms and surveys\n* Reputation management\n* Conversations and unified inbox\n* How different industries use GoHighLevel to grow their business\n\nWhether you're a **virtual assistant, freelancer, agency owner, entrepreneur, or small business owner**, understanding GoHighLevel can help you provide more value to clients and simplify your business operations.\n\n🚀 Try GoHighLevel FREE for 14 Days\nReady to explore everything GoHighLevel has to offer? Start your 14-day free trial here:\n👉 https://www.gohighlevel.com/?fp_ref=pu197p\n\nIf you're considering switching CRMs or want an all-in-one platform for marketing, sales, automation, and client management, this is a great opportunity to test it with no commitment.\n\n👍 If you found this video helpful, don't forget to:\n\n* Like this video\n* Subscribe for more AI, automation, and business systems content\n* Leave a comment with the feature you're most excited to use or the industry you're in!\n\n#GoHighLevel #GoHighLevelTutorial #CRM #MarketingAutomation #BusinessAutomation #SalesAutomation #LeadGeneration #VirtualAssistant #ExecutiveAssistant #SmallBusiness #AgencyOwner #DigitalMarketing #WorkflowAutomation #Funnels #BusinessGrowth #AIAutomation #AutomationTools #Entrepreneur #BusinessSystems #GHL\n\n\n◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️\n⚡️ENROLL IN MY ONLINE COURSE HERE!!!\n👉🏼 https://nas.io/executive-virtual-assistant-philippines/products/tqzb\n\nBecome an Executive Virtual Assistant with a comprehensive course offering tested tips and detailed topics covering essential skills, tools, client acquisition, and earning potential, all from the comfort of your home.\n\n◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️\nFREE LEARNING CENTER that will enhance your virtual assistant and freelancer career. \n⭐️ https://nas.io/executive-virtual-assistant-philippines\n\n◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️\nSay hi on my social media accounts :\n📌Tiktok: https://www.tiktok.com/@miajuan26\n📌Instagram: https://www.instagram.com/miajuan26\n📌Facebook: https://www.facebook.com/miajuan726\n📌Facebook Group: https://www.facebook.com/groups/mjvirtualeacommunity\n📌Discord Channel: https://discord.com/invite/Yqf8uBsn8M",
       "commentCount": 0,
       "likeCount": 5,
-      "probeClient": "web_embedded"
-    },
-    "jn-RlvINdTw": {
-      "checkedAt": "2026-07-28T13:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI Voice Agent: Build AI Voice Agents & Start Making Money (Full Course)\n\n🔴 Learn how to build AI systems, automation workflows, and real-world projects that companies pay for—not just basic tools 🚀 \nJoin the Professional Certification in AI and apply now to secure your seat.  \n👉 Apply Today: https://www.wscubetech.com/ai-course?utm_source=YouTube&utm_medium=YT_Video&utm_campaign=Random_Video&utm_post_id=WsJuly2026_28\n\n📞Talk to Our Program Advisor  +91-7414001633 \n\n----------------- \n\nWant to build AI Voice Agents and turn them into a real business in 2026? In this complete AI Voice Agent course, you'll learn how to build powerful Voice AI agents from scratch, create live demos, sell AI Voice Agents to clients, and start earning with one of the fastest-growing AI skills.\n\n💡 In this video you'll learn:\n00:00:00  Introduction\n00:01:54  What is an AI Voice Agent?\n00:04:48  How to Create AI Voice Agent? \n00:26:59  How to make money from an AI Voice Agent\n \n👇 Which AI Voice Agent are you building first? Let us know in the comments!\n\n👉 Prompt - I am creating a voice agent in eleven labs. I need to input its main goal- what the age will accomplish. Help me come up with the main goal for an AI agent who will help with the career guidance when someone call this institute. Wscube Tech (an upskilling platform)\n\n----------------- \n\n👉 Join our Official WhatsApp Channel for daily Digital Marketing updates, job alerts & hacks: https://tinyurl.com/marketing-geeks-yt \n\nWsCube Tech is a Vernacular Upskilling platform revolutionizing the way you learn and develop your career skills.🚀 \n\nWsCube Tech stands out as a leading EdTech platform, offering comprehensive education in Digital Marketing, Digital Advertising, and various Social Media Marketing skills. Our approach involves both online and classroom training, featuring hands-on projects delivered practically by seasoned industry experts. \n\nWith WsCube Tech, you'll gain hands-on skills that make you globally competitive. Our courses are designed to prepare over 100 million career aspirants for the 'Bharat' of the future. 😊 \n\n👉 Want to learn and acquire skills in English? Visit WsCube Tech English channel: https://bit.ly/2M3oYOs \n\n📌 𝗩𝗼𝘁𝗲 𝗳𝗼𝗿 𝗼𝘂𝗿 𝗻𝗲𝘅𝘁 𝘃𝗶𝗱𝗲𝗼: https://bit.ly/share-topic-ideas \n\nWatch Now our Trending Digital Marketing Playlist & Videos: \n👉 Learn Digital Marketing in One Video - https://www.youtube.com/watch?v=G6DmDqYLWL8  \n👉 Google Ads Full Course - https://www.youtube.com/watch?v=FuOmpoZjZ2s  \n👉 Complete SEO Course  (Beginners to Advanced) \n\nhttps://www.youtube.com/watch?v=CjxQTvq_kRo  \n\n👉 Blogging Full Course [FREE] \n\nhttps://www.youtube.com/watch?v=7_HKv2wZntg  \n\nFor any queries, call us on: +91-7414001633 \n\n✅ CONNECT WITH THE FOUNDER (Mr. Kushagra Bhatia) -  \n👉 Instagram - https://www.instagram.com/kushagrabhatiaofficial \n👉 LinkedIn - https://www.linkedin.com/in/kushagra-bhatia \n👉 Facebook - https://www.facebook.com/kushagrawscubetech \n\nConnect with WsCube Tech on social media for the latest offers, promos, job vacancies, and much more: \n😄 Facebook: https://www.facebook.com/wscubetech.india \n🐦 Twitter: https://twitter.com/wscubetechindia \n📱 Instagram: https://www.instagram.com/wscubetechindia/ \n👨🏻‍💻 LinkedIn: https://www.linkedin.com/company/wscubetechindia/  \n🔺 Youtube: http://bit.ly/wscubechannel \n\n🌐 Website: http://wscubetech.com  \n\n--------------------------------------| Thanks |--------------------------- \n#AIVoiceAgent #AIVoiceAgents #VoiceAI #AIAgents #ArtificialIntelligence #Automation #AIBusiness #NoCodeAI #AIAutomation #GenerativeAI",
-      "commentCount": 4,
-      "likeCount": 68,
       "probeClient": "web_embedded"
     },
     "_frZBuEvlMA": {
@@ -5228,24 +5192,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "eRp0gniM2Bo": {
-      "checkedAt": "2026-07-28T16:53:36Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "TATA Launched 15 Days FREE Digital Certification 2026 | AI Prompt Engineer Course Explained\n\nTATA Free AI Course Link - https://coursejoiner.com/free-online-courses/tcs-free-ai-foundation-course/\n\nFor Internship referrals, Join me on Whatsapp - https://whatsapp.com/channel/0029VajRYu11nozF677Tu42p\n\n\n-----------------------------\n📸 Instagram - https://www.instagram.com/trickymanofficial\n📝 Whatsapp - https://whatsapp.com/channel/0029VajRYu11nozF677Tu42p\n🎙 Telegram - https://telegram.im/@Trickyman2\n💻 LinkedIn - https://www.linkedin.com/in/piyush-sharmaaaa/\n---------------------------------\nOur 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 For Free Courses - https://www.coursejoiner.com/\n---------------------------------\n𝗖𝗵𝗲𝗰𝗸𝗼𝘂𝘁 𝘁𝗵𝗲 𝗕𝗲𝘀𝘁 𝗩𝗶𝗱𝗲𝗼𝘀 𝗢𝗻 𝗠𝘆 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 💡\n💡 Kotak Free Laptop Scholarship 2026 ➤ https://youtu.be/7k2Td-rp7vA\n💡 MBA vs MCA - Which Degree Pays ➤https://youtu.be/IBNmGnSOIO4\n💡 Amazon - Work from Home | August ➤ https://youtu.be/pk_TE4efIXE\n💡 Google Apprenticeship 2026 ➤ https://youtu.be/xA86TJW6MxE\n💡 Blinkit - Work From Home Jobs 2026 ➤ https://youtu.be/4Ie-Y3cmPKI\n-------------------------------\n✨ Tags ✨\nTATA free certification 2026, TATA digital certification, TATA free course 2026, TATA AI course free, TATA prompt engineer course, TATA free certificate 2026, TATA 15 days free course, TATA free training 2026, TATA free online course, TATA skill development, TATA free course India, AI prompt engineer course, prompt engineering free course, prompt engineering certification 2026, prompt engineer career India, how to become prompt engineer, prompt engineering salary India, AI prompt engineering free, free AI course 2026, free AI certification 2026, artificial intelligence free course India, AI course free certificate 2026, free certification 2026 India, free course alert 2026, free IT course India 2026, free course no fees India, free course no exam India, free online course with certificate 2026, best free certifications 2026, free certificate for resume India, free certificate for LinkedIn, free certification for freshers, free certification for students India, TATA strive free course, TATA trusting free, TATA iQ free course, Tata Technologies free course, prompt engineer kaise bane, AI engineer free course India, generative AI free course 2026, ChatGPT free course certificate, AI tools free course 2026, digital skills free course India, upskill free India 2026, best AI course India 2026, trickyman, free course alert, TATA free course alert\n\n#tata #ai #promptengineering #aicourses #trickyman \n\nDISCLAIMER: This video is intended for educational and informational purposes only. We do not guarantee any specific job placements or internship offers. Results may vary from the video, and any success stories or examples shared are not a guarantee of future success.",
-      "commentCount": 19,
-      "likeCount": 219,
-      "probeClient": "web_embedded"
-    },
-    "p1OkDfkpjCI": {
-      "checkedAt": "2026-07-28T16:53:36Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Gen AI Engineer Roadmap 2026!\n\nWant to become a GenAI Engineer in 2026? This complete roadmap covers the skills, tools, projects, and learning path you need to build a successful AI career.\nWatch till the end and start your journey in Generative AI with the right roadmap.\n#GenAI #AIEngineer #GenerativeAI #TechCareer #CollegeWallah #PWSkills",
-      "commentCount": 12,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "_wtCHLUUzlQ": {
       "checkedAt": "2026-07-28T17:53:43Z",
       "embedAllowed": true,
@@ -5325,15 +5271,6 @@
       "description": "In this video, I will walk you through five production-ready Agentic AI projects that will help you stand out and improve your chances of getting shortlisted at top tech companies.\n\nYou'll also learn how to make each project stand out from thousands of similar projects by adding measurable results, reliability, safety, and production-level engineering practices.\n\nIf you're preparing for college placement, software engineering roles, GenAI, LLM engineering, or Agentic AI jobs, this video is for you, so keep watching till the end!\n\nCHAPTERS:\n00:00 Intro\n01:23 Project 1\n03:23 Project 2\n05:25 Project 3\n07:17 Project 4\n09:00 Project 5\n10:57 Key Takeaways\n12:43 Outro\n\nLeave a like, comment, and subscribe for more.\n\nCheck out AlgoZenith: https://maang.in/\n\n-----------------------------------------------\n\n😃 ABOUT ME\n\nI’m Vivek, an engineer, Ex-Googler, ICPC World Finalist turned educator, and founder of AlgoZenith. I’ve taught Data Structures, Algorithms, and Competitive Programming to over 3000+ students and worked with 10+ engineering colleges to bridge the gap between college learning and real-world tech careers. \nThrough AlgoZenith, I help students crack top product-based companies and become industry-ready. On this channel, you’ll find videos on coding strategies, roadmaps, interview prep, problem-solving techniques, and everything you need to level up your software career. If that’s your thing, do subscribe and hit the bell icon so you don’t miss a thing 🙂\n\n-----------------------------------------------\n\n📲 SOCIALS\n\nInstagram: https://www.instagram.com/vivekgupta.ai/ \nTwitter: https://x.com/vg19988 \nLinkedIn: https://www.linkedin.com/in/acraider/ \nCodechef (5 ⭐️): https://www.codechef.com/users/acraider \nCodeforces (Master, max. 2269): https://codeforces.com/profile/acraider \n\n-----------------------------------------------\n\n🏷️ TAGS\nalgozenith,vivek gupta,resume projects for software developers,projects to get hired,web development projects,full stack projects,github projects for resume,beginner to advanced coding projects,software engineer resume projects,full stack developer,web dev 2026,ai projects,ai project ideas,ai projects for beginners,ai projects for resume,resume ai project,real world ai projects,ai engineer projects,ai engineer resume,best ai projects for resume\n\n-----------------------------------------------\n\n#️⃣ HASHTAGS\n#ai #coding #softwareengineer #aiengineering",
       "commentCount": 19,
       "likeCount": 170,
-      "probeClient": "web_embedded"
-    },
-    "BvoweHkMvys": {
-      "checkedAt": "2026-07-28T18:53:48Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI is changing how we build software and WHO can build software. And which kind of software still has some value attached to it, and which doesn't.\n\nWebsite: https://maximilian-schwarzmueller.com/\n\nSocials:\n👉 Twitch: https://www.twitch.tv/maxedapps\n👉 X: https://x.com/maxedapps\n👉 Udemy: https://www.udemy.com/user/maximilian-schwarzmuller/\n👉 LinkedIn: https://www.linkedin.com/in/maximilian-schwarzmueller/\n\nWant to become a web developer or expand your web development knowledge?\nI have multiple bestselling online courses on React, Angular, NodeJS, Docker & much more!\n👉 https://academind.com/courses",
-      "commentCount": 42,
-      "likeCount": 239,
       "probeClient": "web_embedded"
     },
     "IXOJwRjgKtM": {
@@ -5579,6 +5516,51 @@
       "description": "Stop repeating rules and wasting valuable tokens! Learn how to build and scale portable Agent Skills to transform general AI into specialized digital assistants.\n\nEnroll in the Agent Skills course on Google Skills today → https://goo.gle/4yJe99s\n\nEver feel like you are constantly repeating yourself with an AI agent? That is exactly why your agents need Agent Skills.\n\nIn the \"\"Build Agent Skills with Google\"\" course, you’ll learn how to package skills, leverage progressive disclosure to load skills only when needed, and scale a consistent library of agent skills across your enterprise.\n\n#GoogleCloud #AIAgents #ArtificialIntelligence #AgentSkills",
       "commentCount": 2,
       "likeCount": 30,
+      "probeClient": "web_embedded"
+    },
+    "rYb_xSjx-Fw": {
+      "checkedAt": "2026-07-29T03:53:04Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Claude Code context engineering changed with Claude 5. I'm an ex-Amazon engineer breaking down Anthropic's new rules and running /doctor on my second brain to cut wasted tokens.\n\nKey takeaways:\n- Why instruction collision between your system prompt and CLAUDE.md burns tokens\n- How a kitchen sink CLAUDE.md loads 100% of the time for rules used 2%\n- How /doctor found 36 unused skills and freed ~6,000 tokens per session\n\n📌 Full article: https://x.com/trq212/article/2080710971228918066\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n📌 Mentioned:\n- Cut token usage 94%: https://youtu.be/UvVVATGIm7k\n- Daily usage limit fix: https://youtu.be/P_rZ5VR23aE\n\nTimestamps:\n0:00 Intro\n0:24 Why Context Breaks\n1:49 Kitchen Sink CLAUDE.md\n2:40 Running /doctor\n5:10 Reading the Report\n6:18 Cherry-Pick What to Keep\n7:10 Find Redundant Skills\n9:01 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
+      "commentCount": 0,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "ftIMAlNqbnM": {
+      "checkedAt": "2026-07-29T03:53:04Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Is generative AI just another creative tool, or are we on the verge of a catastrophic digital decay?\nEvery time we debate AI art, the conversation usually boils down to a familiar argument: \"Artists have always adapted to new tools\"\n. But viewed strictly as a tool, we are completely missing the real crisis on the horizon\n.\nThe actual threat to digital creativity isn't that humans will stop making art—it’s that the internet is being flooded with automated, AI-generated content at an unprecedented rate\n. And future models are going to be trained on that very same synthetic output\n.\nIn computer science, this recursive feedback loop is known as Model Collapse\n.\nThink of it like making a photocopy of a photocopy. The first scan is crisp, but pass that scan back through the machine five, ten, or twenty times, and the details blur, the contrast washes out, and you’re left with a degraded, unreadable image\n. Because AI models rely entirely on probability and statistical patterns rather than true understanding, training them on synthetic data forces the system to continually average out the results\n. It smooths over the weird, rare, brilliant \"edge cases\" that make art interesting, degrading into a bland, homogenized paste\n.\nWithout a continuous stream of authentic human work, AI doesn't evolve toward higher intelligence—it decays into statistical noise\n.\nThis technical wall reveals the core vulnerability of generative technology: it cannot generate new human experience\n. True human creativity comes from friction—our trauma, joy, political shifts, cultural subversion, physical limitations, and late-night mistakes that turn into accidental breakthroughs\n. These \"edge cases\" are precisely what give art its emotional resonance, and they are the exact elements that get erased when AI trains on itself\n.\nAs synthetic noise fills the web, messy, authentic human creativity won't just remain relevant—it will become the most valuable commodity in the entire digital ecosystem\n.\nTIMESTAMPS:\n0:00 - The AI Tool Debate: What We're Missing\n1:30 - What is Model Collapse? (The Photocopy Metaphor)\n3:45 - The Math Behind the Decay: Why AI Averages Out Brilliance\n6:15 - What is \"Human Friction\" and Why Can't AI Copy It?\n9:00 - The Future: Why Messy Human Creativity is the New Gold\n\nJOIN THE DISCUSSION: Do you think synthetic AI content will ruin the internet, or will human creativity always find a way to break through the noise? Let us know your thoughts in the comments below!\nIf you enjoyed this video, please Like, Subscribe, and hit the Notification Bell to stay updated on future deep dives into the intersection of technology, philosophy, and design!\n#AI #ModelCollapse #GenerativeAI #ArtificialIntelligence #Creativity #HumanFriction #TechCrisis",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "Mgok6WcRlMY": {
+      "checkedAt": "2026-07-29T03:53:04Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "💥 Check out Flodesk Studio here: https://studio.flodesk.com/\n\nThis video is sponsored by Flodesk and may include affiliate links. This means that if you sign up or make a purchase through the links, I may earn a small commission at no additional cost to you.\n\nAI only creates leverage when it’s applied with strategy, systems, and execution.\nIf you’re serious about using AI to build or scale a real business (not just experiment with tools), this video is part of a much bigger ecosystem.\n\n👉 Build an AI-first business here: https://aifoundershq.com\n\nAt AI Founders HQ, you’ll find:\n• Practical AI business education\n• Free + paid founder communities\n• Real frameworks for turning AI into leverage\n\n______________________\nCHAPTERS:\n\n\n\n_____________________________\n\nALL GOOGLE CERTIFICATIONS THAT MATTER TO MAKE MONEY (START FREE)\n\n⭐ Google AI Prompt Essentials Course: https://imp.i384100.net/c/4753902/2807105/14726\n⭐ Google Data Analytics Certificate: https://imp.i384100.net/xkRyXv\n⭐ Google Digital Marketing Certificate: https://imp.i384100.net/JzWJoE\n⭐ Google IT Support Certificate: https://imp.i384100.net/g14D5A\n⭐ Google Project Management Certificate: https://imp.i384100.net/oqBzJO\n⭐ Google UX Design Certificate: https://imp.i384100.net/B01xky\n⭐ Google Ads for Beginners: https://imp.i384100.net/PyWxeQ\n⭐ Introduction to Generative AI: https://imp.i384100.net/eKbz3z\n⭐ Google Cybersecurity Certificate: https://imp.i384100.net/3eLQ2B\n⭐ Google Advanced Data Analytics Certificate: https://imp.i384100.net/Y90eXR\n⭐ Google IT Automation with Python Certificate https://imp.i384100.net/9grkmy\n⭐ Google Business Intelligence Certificate: https://imp.i384100.net/eKbz3j\n⭐ Google Crash Course on Python: https://imp.i384100.net/DKJoYd\n\n______________________\n\nOTHER AI BUSINESS VIDEOS:\n\n►► 99% Of People STILL Don't Know The Basics Of Prompting (ChatGPT, Gemini, Claude): https://youtu.be/T6iMHtEL9FU\n►► World-Class Free AI Certifications You Can Turn Into Money Makers (Zero to Hero): https://youtu.be/gOTjsxh-yMg\n►► How To Become a One Person Business In The AI Age: https://youtu.be/g5qzJVmg9vY\n►► 10 Hot AI Business Ideas Most People Don't Know About (Yet): https://youtu.be/GUgUrwQzKgs\n►► The BIGGEST Wealth Transfer in History is Happening RIGHT NOW (AI Revolution): https://youtu.be/24x0-Z5yZv4\n►► The N8N AI Agent Stack Every Business Needs (Badly): https://youtu.be/zT_iO9mPvZA\n►► NotebookLM: This FREE Google AI Tool Is Making People Money, But... https://youtu.be/LlQFwlQ0kiI\n►► This $1.3/Day AI Agent Could Launch Your First Online Business (Manus): https://youtu.be/yQHZNMRIERE\n►► 5 High Value AI Agents Beginners Can Build And Sell: https://youtu.be/3ClbUmC2swM\n►► 8 FREE AI Tools Everyone Should Use In Their Business: https://youtu.be/ZHQIp4mPR3I\n►► 6 Real Skills You Need to Start an AI Automation Agency (Without Coding Experience): https://youtu.be/HH54xnN1pY8\n►► The ONLY 7 CRITICAL AI Skills to Build a 1-Person AI Business: https://youtu.be/NKFllff7XX0\n►► The One Skill That Makes You & Your Business AI-Proof (It’s Not Prompting): https://youtu.be/UE0-yZ7yaUk\n►► This Is How To Learn AI To Make Yourself Irreplaceable: https://youtu.be/YxyQyf6bmks\n►► Launch A Real App Using Only One AI Tool (+Monetization Guide): https://youtu.be/JqX-ItNEWSI\n►► 5 Profitable Ways to Monetize Stunning AI Presentations: https://youtu.be/HyXL4IsvF4o\n____________________\nDisclaimer:\nThe content shared in this video is for educational and informational purposes only, based on personal experience, research, and opinion. It is not intended as legal, financial, business, or professional advice. I am not a licensed attorney, CPA, or financial advisor. Always do your own due diligence before making decisions related to business, income, or investments.\nAny tools, platforms, or services mentioned may include affiliate links and may change over time. Please confirm availability, pricing, or features directly with the provider. Use official APIs and follow each platform’s Terms of Service. Obtain consent before messaging or recording, and comply with applicable laws (e.g., GDPR, CAN-SPAM, TCPA, and local rules).\nResults and outcomes discussed are not guaranteed and may vary depending on individual effort, context, and external factors. We make no guarantees regarding your specific execution speed, ability to implement these strategies, or any financial results.",
+      "commentCount": 2,
+      "likeCount": 33,
+      "probeClient": "web_embedded"
+    },
+    "Ee8SgItZ7W8": {
+      "checkedAt": "2026-07-29T03:53:04Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Always an adventure when using genAI! This session offers a few tips and tricks for authoring effective design prompts to create attractive and accessible web design templates and inspiration that can be turned into complete web pages. \n\n(Note: this training does NOT involve building a website or page from code. HTML outputs are meant to be visual examples only which would then be built in WordPress with the Divi builder and often modified based on the tools available within our platform.)",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "czteUSONG-c": {
+      "checkedAt": "2026-07-29T03:53:04Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This session shows developers how to build and run their first local GenAI app on NVIDIA Jetson using open-source models such as Gemma and Qwen directly on device. We’ll teach different ways of running inference with Ollama, vLLM, and llama.cpp, including when each framework makes sense for rapid local prototyping, production-style serving, or lightweight edge deployment. Along the way, we’ll share best practices for model choice, quantization, and performance tuning.\n\nIn this stream, you will learn how to deploy open-source AI models on NVIDIA Jetson — no cloud required, from first launch to production-ready serving.\n\nWe'll cover:\n- Getting models running on NVIDIA Jetson — spin up popular OSS models (open-source large language models (LLMs) like Gemma and Qwen (LLMs and VLMs) using Ollama or vLLM on Jetson hardware and verify they're working end-to-end.\n- Choosing the right inference engine — understand the practical tradeoffs between Ollama for rapid local prototyping, vLLM for higher-throughput serving, and llama.cpp, so you can pick the right tool for your use case.\n- NVIDIA Jetson-specific serving strategies — walk through the real decisions behind model choice, containers, and performance tuning tailored for Orin and Thor, including what works, what doesn't, and why.\n- Performance fundamentals — get introduced to quantization and speculative decoding: what they are, how they work, and when to reach for them on edge hardware.\n- Real-world application — see a live demo of the Reachy Mini assistant, an end-to-end example of OSS models running in real time",
+      "commentCount": 0,
+      "likeCount": 159,
       "probeClient": "web_embedded"
     }
   }
