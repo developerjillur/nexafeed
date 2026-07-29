@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T15:53:10Z",
+  "updatedAt": "2026-07-29T16:53:14Z",
   "items": [
+    {
+      "id": "GM0j1LBKEUM",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-07-29T16:40:07Z",
+      "firstSeenAt": "2026-07-29T16:53:14Z"
+    },
+    {
+      "id": "9ETdrn5pZ0k",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-07-29T16:37:37Z",
+      "firstSeenAt": "2026-07-29T16:53:14Z"
+    },
+    {
+      "id": "lUAVCYhCneM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CloudGeometry",
+      "publishedAt": "2026-07-29T15:53:14Z",
+      "firstSeenAt": "2026-07-29T16:53:14Z"
+    },
+    {
+      "id": "eQ6tb7j3Z2U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AMD",
+      "publishedAt": "2026-07-29T15:53:14Z",
+      "firstSeenAt": "2026-07-29T16:53:14Z"
+    },
+    {
+      "id": "klMDS3G5BdA",
+      "type": "short",
+      "source": "secondary",
+      "channel": "CloudGeometry",
+      "publishedAt": "2026-07-29T15:53:14Z",
+      "firstSeenAt": "2026-07-29T16:53:14Z"
+    },
+    {
+      "id": "a_Kq18ufZzU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Architecture Weekly",
+      "publishedAt": "2026-07-29T14:53:14Z",
+      "firstSeenAt": "2026-07-29T16:53:14Z"
+    },
+    {
+      "id": "Tv8mLrLtyxo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech With Tim",
+      "publishedAt": "2026-07-29T13:53:14Z",
+      "firstSeenAt": "2026-07-29T16:53:14Z"
+    },
+    {
+      "id": "XmvArfDFr6w",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Interview Mania",
+      "publishedAt": "2026-07-29T13:53:14Z",
+      "firstSeenAt": "2026-07-29T16:53:14Z"
+    },
+    {
+      "id": "lx0Eaane4Ng",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jaymin West",
+      "publishedAt": "2026-07-29T00:53:14Z",
+      "firstSeenAt": "2026-07-29T16:53:14Z"
+    },
     {
       "id": "Nj-PqFIZqEs",
       "type": "short",
@@ -4990,6 +5062,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-07-29T16:53:14Z",
+      "new": 9,
+      "long": 6,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }

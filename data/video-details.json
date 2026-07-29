@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T15:53:10Z",
+  "updatedAt": "2026-07-29T16:53:14Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -3368,99 +3368,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "pId5ku4e6HY": {
-      "checkedAt": "2026-07-28T13:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What if Claude Code could manage your project while GPT-5.6 writes the code?\n\nThat's exactly what this workflow does.\n\nBy combining Claude Fable 5 with ChatGPT GPT-5.6 inside Claude Code, you can create an AI-powered development team where one model plans the architecture, understands requirements, reviews the implementation, and another model focuses on writing the code.\n\nIn this video, you'll learn how to:\n\nInstall Codex with Claude Code\n Connect the Codex plugin from GitHub\n Create a custom AI skill for multi-model collaboration\n Use the /room command to coordinate AI agents\nLet Claude handle planning while GPT-5.6 handles execution\n\nThis is one of the most powerful AI workflows for developers, founders, indie hackers, and anyone building software with AI.\n\n The complete step-by-step guide:\nhttps://app.notion.com/p/Complete-setup-guide-3a1ee02da9108030ac8cdf68f5280bee \n\n Why Subscribe to BPro?\n\nAt BPro, we don't just cover AI news - we show you how to actually use AI.\n\nSubscribe for:\n\nDaily AI updates\nClaude Code tips & tricks\nChatGPT tutorials\nGitHub repositories\nAI coding workflows\nOpen-source AI tools\nStartup & SaaS insights\nAI automation\nDeveloper productivity hacks\nThe latest AI tools before everyone else\n\nIf you're serious about building with AI, BPro is the channel for you.\n\n Subscribe and stay ahead of the AI curve.\n\n#ClaudeCode #ChatGPT #AI #Programming #Developer\n\nClaude Code, Claude Code tutorial, Claude Code setup, Claude Code tips, Claude Code workflow, Claude Code AI, Claude Fable 5, Claude AI, Anthropic, ChatGPT, GPT-5.6, GPT 5.6, OpenAI, Codex, OpenAI Codex, AI coding, AI coding assistant, coding with AI, AI developer, AI developers, AI programming, programming tutorial, coding tutorial, software development, software engineering, developer tools, AI workflow, AI agents, AI agent tutorial, multi agent AI, AI automation, AI productivity, best AI coding tools, GitHub, GitHub tutorial, GitHub repositories, AI tools, best AI tools, free AI tools, AI tutorial, AI explained, AI for developers, AI news, latest AI news, AI updates, what is Claude Code, what is GPT-5.6, what is Codex, how to use Claude Code, how to use ChatGPT for coding, how to install Codex, how to build AI agents, how to automate coding, AI coding tutorial, Claude Code vs Cursor, Cursor AI, GitHub Copilot, developer productivity, startup tools, technology news, tech news, future of AI",
-      "commentCount": 8,
-      "likeCount": 72,
-      "comments": [
-        {
-          "id": "UgxA68ZBJH_mSIOX6Px4AaABAg",
-          "author": "@jalaluddinmondal9903",
-          "text": "Setup",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_msZj6DvSWQ9Nkwewe7lTg90w3Vrn_wLguGW8VR7T1wIh4=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwNltTb-aY3vdeCLOJ4AaABAg",
-          "author": "@girirajsinhgohil3475",
-          "text": "Setup",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T01:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lvtv3VD3lpStYTPLMaBxB7FYi2oRAkv7WsIpvHoY0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyMGyxKE0kteKlTRXR4AaABAg",
-          "author": "@RamKumarAsati-u9x",
-          "text": "You don't actually need that ..  simple create a md file",
-          "likeCount": 1,
-          "publishedAt": "2026-07-27T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lp9OQ-_ykMGuXZ9KrcKyPSm9kA9vB9cMF5T5UXie-0OmMMmgygTjG1BuATiGxiSrkuCQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwaSjzq_fIAKQVP1BV4AaABAg",
-          "author": "@ganeshpasarkar8057",
-          "text": "Setup",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nsklWuRsIR6ZIzcm5Hs_LdgQslPeWZyL6oIrZ5yboUr2M=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyX_n8sktuRSXEU4_t4AaABAg",
-          "author": "@zafargmbh",
-          "text": "Setup",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nM3Tq4MhlOHQI-t1paxVwfyEzxPRS52UAEoUBAmfPIYvI=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw2KymH2ZWZ6SUK6p54AaABAg",
-          "author": "@AkshayBhattad-j4e",
-          "text": "Setup",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/UU8OnlYTb3vs0TcNuBDjMuPK6EQrLDs2OurNMgznVqMSqbB1PZ9bidu7UEE4L8XNt-omwJ8t=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwhTLaBNsf5RydVOXx4AaABAg",
-          "author": "@chiniminimoy",
-          "text": "Setup",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lLaUwr4yVOXyvUs2pjEFKq402qRrD6kwl2Bh1VzT_UpqdM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyD7K7aXq357P4w1-N4AaABAg",
-          "author": "@motivation_SR7-S",
-          "text": "Didi ham garib hai",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Gcx600GATakUTLFMPXjvn46SqQ-YUVKAaaGD5Q-D4DR2xwcpfqOYj55-FV03itgS7tC7B3bv=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-28T13:53:14Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "p1aJ-xLkfVI": {
       "checkedAt": "2026-07-28T14:53:19Z",
       "embedAllowed": true,
@@ -3675,69 +3582,6 @@
       "description": "📈 Invest in US stocks and ETFs from India, starting at Rs 100 👉 Download the INDmoney App\nPlay Store: https://linktwin.co/QapEkO\nApp Store: https://linktwin.co/PbJsqt\n\n🎁 Get every prompt and resource from this video FREE in my WhatsApp community 👉 https://links.stayingahead.com/YT62\n\nInvestments are subject to market risks. Please read all relevant documents carefully before investing.\n\n🚨 Anthropic just launched Claude Opus 5 at half the price of Claude Fable 5, and it beats their own flagship on coding, terminal and office work. ChatGPT can now run your computer while you talk to it. And Claude learned to do a task just by watching you do it once.\n\n⚡ This week: 22 AI updates that actually change how you work, plus a full tutorial building 3D games with Claude Opus 5 against Fable 5 and GPT-5.6 Sol.\n\nAlso this week, OpenAI's models broke out of a security test and hacked a real company. Grok is now inside Microsoft Excel, Word and PowerPoint. Google shipped three new Gemini models in a single day. ChatGPT can read your medical reports. NotebookLM is now Gemini Notebook. And ElevenLabs can clone your singing voice.\n\nEverything is timestamped below, so jump straight to what you need.\n\n⏱️ TIMESTAMPS\n1:20 Claude Opus 5: Fable 5 Power at Half the Price\n2:21 OpenAI Models Escape Test and Hack a Company\n3:08 ChatGPT Health: Apple Health Sync\n3:43 Grok Is Now Inside Microsoft Excel\n4:23 Google Launches 3 New Gemini Models\n5:22 Nvidia Cosmos 3 Edge: AI Inside Robots\n5:53 How AI Launches Move Billions \n9:42 Gemini Builds Full Decks in Google Slides\n10:32 Anthropic Record a Skill: Claude Watches You Work\n11:12 AI Voice Week: Claude, ChatGPT & Alibaba\n12:37 ElevenLabs Clones Your Singing Voice\n13:33 Alibaba Qwen Image 3.0\n14:10 GenSpark Second Brain: Persistent AI Memory\n14:56 NotebookLM Is Now Gemini Notebook\n15:34 Anthropic Economic Index Inside Claude\n16:13 Poolside Laguna S 2.1: The West's Open Model\n17:11 Lovable Connects Google Drive & Calendar\n17:42 Anthropic's $50,000 Rare Disease Credits\n18:08 Opus 5 Tutorial: 3 Things To Know First\n18:45 Opus 5 Builds a 3D Wind Tunnel in One Prompt\n19:45 Project 1: Nitro Arena (Rocket League Clone)\n21:37 Project 2: Tumble Rush (Fall Guys Clone)\n22:28 Turn the Opus 5 Prompting Guide Into a Skill\n23:31 Anthropic's Context Engineering Post\n24:01 Free Prompts, Guides & Resources\n\n🔍 WHAT WE COVERED\nClaude Opus 5, Claude Fable 5, Anthropic pricing, ChatGPT Voice desktop, OpenAI GPT-5.6 Sol, AI alignment and containment, Hugging Face security incident, Health in ChatGPT, Grok for Excel, Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, Gemini 3.5 Flash Cyber, Google Antigravity, Nvidia Cosmos 3 Edge, Gemini in Google Slides, Claude Record a Skill, Claude Cowork, Alibaba Qwen voice, Qwen-Image 3.0, ElevenLabs Vocals, Genspark SecondBrain, Gemini Notebook, NotebookLM, Anthropic Economic Index, Poolside Laguna S 2.1, Lovable, best AI tools 2026\n\n🌍 I train people in AI across 150+ countries and run multiple companies on AI. Every week I go through everything that shipped and keep only what changes how you actually work.\n\n🔔 New AI news every week. Subscribe so you don't miss the next one.\n\n#AInews #ClaudeOpus5 #ChatGPT\n\n--------\n\nTo Know More, Follow Vaibhav Sisinty On ⤵︎\n\n📸 Instagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\n🐦 Twitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\n👍 Facebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\n💼 LinkedIn Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
       "commentCount": 9,
       "likeCount": 163,
-      "probeClient": "web_embedded"
-    },
-    "a0aJdjH9Cvg": {
-      "checkedAt": "2026-07-28T15:53:27Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "learn the content creation skills that can help you generate results",
-      "commentCount": 5,
-      "likeCount": 28,
-      "comments": [
-        {
-          "id": "UgwLUH5R7_Xx0lQfIIl4AaABAg",
-          "author": "@gkr8533",
-          "text": "Why selling course for money when u can make so much money yourself from YouTube",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n6uXwQUZQrJSqgJ6ZF2m7yPyU86vA2cV06lZe_vIJ30N0POsPL-swpaX5qoZBX-P1M2A=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyQ8EfYQjKZB790zjB4AaABAg",
-          "author": "@MohammadBazee",
-          "text": "You tube",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nWBkhs3XZcENi1MSPCdcXzpUjnMm2sZJbVobSifX-nvmmNb8bXfpOmj_RTnLGbL03qbA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyiNzw00paUqtA7N3B4AaABAg",
-          "author": "@RubiHayatkhan",
-          "text": "How???",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kNJc9RnBGBiYAcGAPzRP2vQMy9skHrI069ZGthQ8UhrfNMbfsmOyYes_FyBWwe6GTSzg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugwnjwu6RSaBAI3tj3h4AaABAg",
-          "author": "@UmeshKumar-x7x1q",
-          "text": "Send guide",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k1UVnuEOl73aecre_55iOj102dwvDAm6VAI3NyH121uCD0fUD5FsaQsf-gyIKwdvvyAA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyD2u6Od5JlM-Arc6B4AaABAg",
-          "author": "@Shreyanshj_09",
-          "text": "How ?",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/pP5pvGGfKY1SErvIrfWVfH4Z0QaI6N3R2TqJYHQo6GKtVPtunZuH5Dp3YGweRw0A9Sqa7tpa=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-28T15:53:27Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "48tCnb_7_-s": {
@@ -5046,49 +4890,221 @@
       "probeClient": "web_embedded"
     },
     "Chn40LkYMPs": {
-      "checkedAt": "2026-07-28T15:53:27Z",
+      "checkedAt": "2026-07-29T16:53:14Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "OpenWorker is an open-source AI agent designed to help you complete real work, not just answer questions.\n\nInstead of stopping at a response, it can connect with your files and productivity tools to prepare reports, organize information, and automate multi-step workflows based on the outcome you want. Since it's open source, you can run it locally and customize it to fit your own workflow.\n\nIf you're looking for an AI agent that actually gets work done, OpenWorker is definitely worth checking out.\n\n#ai #openworker #opensource #productivity #aiagents #automation",
-      "commentCount": 0,
-      "likeCount": 3,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-28T15:53:27Z",
+      "commentCount": 8,
+      "likeCount": 346,
+      "comments": [
+        {
+          "id": "UgxEBSfKweFrfkWHw7V4AaABAg",
+          "author": "@idreamster",
+          "text": "Work",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T16:52:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mqf493s6rkWS_chpp99GlUaHSZgMKCHqF11DRfEZc85zs=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz823t0Xli04ClibaJ4AaABAg",
+          "author": "@moeslagy",
+          "text": "Work",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T16:17:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/KTx8a_P9k2nQhVAoB3gDvAhW2AtSAGwXwAKu8sfxU_vCgs0S8NPhV-YUXnxAMdfzlvCJD8I7DQI=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyQ21mxemaTEWt1VyV4AaABAg",
+          "author": "@AmberGoldsberry",
+          "text": "Work",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lN1r14JyVE1HV827fOA4jwcUpML9JATe2vub3wBZwgdO1_u1mEpcWHSejRd9oj5lcaaA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgynJvff4jLTJGkS6pd4AaABAg",
+          "author": "@unknownperson6442",
+          "text": "work",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/FtuYIhKPnrRFr4yvYhhH6LeQCctwm_6sWr0RYkQPaqS398-bXZ3MAZx9yfwLIuBrnm-ilSfQnA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxtyzvBkhW3Fa9F-754AaABAg",
+          "author": "@dewstellachan4867",
+          "text": "Work",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kxchwnwemweKA5XHifwaFLNxcquQ7meijoycpW3QY=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyqsOjyMi2BFd2h9Sl4AaABAg",
+          "author": "@bsaravanaprakash",
+          "text": "work",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kVqpC91UEhG0Drxxq0DepPab0S3Q9MXSwOIrftIUM_NzmG=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxJDfLqM75lIktWuHR4AaABAg",
+          "author": "@johnfbosch7775",
+          "text": "Work",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m0F5mt6ldAiDikMmueLUeoc6_puv8Amv3vmqelx2lTvA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwvr9nAcLjUOG-PjnJ4AaABAg",
+          "author": "@MeetSaboo",
+          "text": "Work",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/gnOteNDoMgWpI20KwoJ8mUkhU1-uyhNE0dbmEyW7NTMJJWVADXYglD0ZS7qmSf-SA0S4dCBP=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-29T16:53:14Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "_xWmulwxcFw": {
-      "checkedAt": "2026-07-28T15:53:27Z",
+      "checkedAt": "2026-07-29T16:53:14Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment “warm” for the Warmbox link/playbook plus the GoHighLevel system I run\n\n70% of my revenue comes from email.\n\nSo when it lands in spam, a quarter disappears quietly.\n\nThe real problem is your domain reputation.\nDead list, no opens, no clicks, and it slides from high to low to bad.\n\nCheck it in Google Postmaster.\nWarm the inbox back up with Warmbox.\nThen cut anyone who hasn’t engaged in 90 days.\n\nOut of spam. Into the inbox.\n\n#EmailMarketing\n#Marketing\n#Automation\n#AItools\n#BuildInPublic",
-      "commentCount": 1,
-      "likeCount": 3,
+      "commentCount": 2,
+      "likeCount": 20,
       "comments": [
         {
           "id": "UgxGHkne-kX3kqSrEoZ4AaABAg",
           "author": "@charlieautomates",
           "text": "Checkout the free resource with all links here: https://charlieautomates.com/free-resources/#emails-landing-in-spam",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T15:18:00Z",
+          "publishedAt": "2026-07-29T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "UgxGF4P9W7EwiIw6Mdp4AaABAg",
+          "author": "@Personal-fg3uy",
+          "text": "Does this work for people with a Proton based email (still using my@<company_name>)? Mailreach couldn’t connect to my IMAP (which is connected to a separate Outlook email, since proton doesn’t have IMAP). So I don’t even get to measure my incoming emails during the warming campaign.",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mYhDDsCA9NfTG2PgzluZfHQpG5ifmMgJPfOK61kjZldvH8THXl33B8Pu__NmTzyraUXQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-28T15:53:27Z",
+      "commentsFetchedAt": "2026-07-29T16:53:14Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "tcoov1uR5Nc": {
-      "checkedAt": "2026-07-28T15:53:27Z",
+      "checkedAt": "2026-07-29T16:53:14Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 91,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-28T15:53:27Z",
+      "commentCount": 8,
+      "likeCount": 977,
+      "comments": [
+        {
+          "id": "UgwevnPYBT277XN974J4AaABAg",
+          "author": "@trinathanantham8755",
+          "text": "I want China to take over India and rule by them for better technology and advancement",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_miQ6uhuaPMWHzUAwz5rgJq2i8ty1k7sg0RlkhWQvLKq5Y=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugzk1bEQkVAPfug3tRV4AaABAg",
+          "author": "@new10xfaster1",
+          "text": "words that discourage confine and retrogress humanity",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/qSSfDTtNG5GmqeNo1dEXmXOMIDnY0ek1Inf6n-qUUDrCwSHpG2R2tAEJ0VfQYckTzixWzYdwMw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwoyIYk-oY2PFcpd654AaABAg",
+          "author": "@veduvada",
+          "text": "Yes, before they create a magnetic field, but now they directly put a real magnet. Or combination of both",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/XI7fIk7XxuaO06XJGWLGRgtttogudW8c10kcOJnVlPc61Ixmdi6JarUqw0HWw4mEjXyHxDMAYA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyXrvdB_Go7-R1CgB94AaABAg",
+          "author": "@KoLot-o7b",
+          "text": "Indian engineers are also working very hard on this too",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lWxs76FWK3zH4OnQKAfU05BzT8Ao-KUCqwhdh5X6s4POOHta4ToH0skn4tyf_yydneLw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx_CZ79T47LHLD3OsB4AaABAg",
+          "author": "@tapiwagweshe7899",
+          "text": "But where did they get the metals? 🌍",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mqfMqrY3B4XI3yG8FJxEA786wNDfJ_ENrA7-vjtj4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwzypNe7oCTLZSw6_l4AaABAg",
+          "author": "@shant756",
+          "text": "Absolutely insane",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mRxkCPZVsNZJ_dlfoO5a3oueQN5v3j0QgK-hhqckU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyizW0cSkl8eZlOTqR4AaABAg",
+          "author": "@PapaDupz",
+          "text": "The power of the sun in the palm of my hand",
+          "likeCount": 5,
+          "publishedAt": "2026-07-28T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/iPO0LriHtVx41Rn9i7XcIXIjhnz4MWIKgZCO6IG55ucQBckVSBhHpkS265MHzBRgKCACkTxh7Kc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwliJq2wnd4PE276lN4AaABAg",
+          "author": "@The_Anomaly_Hum",
+          "text": "Here , \nyou are just mortal.",
+          "likeCount": 1,
+          "publishedAt": "2026-07-28T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/I70elTbk8jdCX8qWuCdRgEfbadvC81ubvmQfYxi4YCU7VvwbAQdGgTbwzuMi_W0SZIMRUaBGtA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-29T16:53:14Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5333,15 +5349,6 @@
       "likeCount": 6,
       "probeClient": "web_embedded"
     },
-    "j5-al-0YR4M": {
-      "checkedAt": "2026-07-28T18:53:48Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI-generated code is changing software development, but should it be trusted in critical open-source projects like the Linux kernel?\n\nIn this video, we break down what Linus Torvalds actually said about AI coding, why the headlines about Microsoft were misleading, and how AI tools like GitHub Copilot and AI-powered code review systems fit into Linux development.\n\nWe'll also cover the Sashiko AI review tool, concerns from Linux kernel developers, and why Linus believes AI should be treated as just another tool—not a replacement for human developers.\n\nIf you're a Linux user, programmer, software engineer, or open-source enthusiast, this is a discussion you don't want to miss.\n\n💬 What's your opinion?\nShould AI-assisted patches be accepted into the Linux kernel if they pass human review? Let us know in the comments!\n\n👍 If you enjoyed this video, don't forget to Like, Subscribe, and turn on notifications for more Linux, Open Source, and AI content.\n\n\n#Linux #LinusTorvalds #AI #OpenSource #GitHubCopilot #ArtificialIntelligence #Programming #SoftwareDevelopment #LinuxKernel #Coding #Developers #MachineLearning #TechNews #OpenSourceSoftware #Git",
-      "commentCount": 0,
-      "likeCount": 5,
-      "probeClient": "web_embedded"
-    },
     "C4cYO8viGO0": {
       "checkedAt": "2026-07-28T20:53:05Z",
       "embedAllowed": true,
@@ -5349,24 +5356,6 @@
       "description": "This video shows you how to start an automated faceless youtube channel in 2026 as a beginner \n\n➡️ Digital Maker AI: https://DigitalMaker.AI (Use Code: YOUTUBE10 for 10%)\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n➡️ Instagram: https://www.instagram.com/success.with.sam\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nDisclaimer:\n\nThe content in this video is provided for general information and education only and reflects my personal views and experiences. Nothing in this video should be interpreted as a recommendation or instruction. Viewers are encouraged to do their own research and seek appropriate guidance before taking action. This video may contain referral links that support the growth of the channel and your viewing experience.\n\nThank you for watching - I really appreciate it :)\nLike, comment and subscribe!",
       "commentCount": 4,
       "likeCount": 24,
-      "probeClient": "web_embedded"
-    },
-    "MlD7rI7Xmxo": {
-      "checkedAt": "2026-07-28T20:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Version control is a core skill for automation engineers. In this session, you'll work through the Git fundamentals needed to manage automation scripts and configurations.\n\nWe’ll explore common workflows such as cloning repositories, committing changes, branching, and merging. You’ll also answer exam-style questions during the session and review why certain Git workflows are the correct choice in automation environments.\n\nReg link: https://learningnetwork.cisco.com/s/ccna-automation-prep\n\nSlido: https://app.sli.do/event/25mZbYJx5LAVBERGxUgFhF\n\n✨ Subscribe for more tech videos! @CiscoUtube ✨\n\nCreate a Cisco U. Free Account: http://cs.co/9001OQtCx",
-      "commentCount": 1,
-      "likeCount": 44,
-      "probeClient": "web_embedded"
-    },
-    "Jrvv_XQ3Qgo": {
-      "checkedAt": "2026-07-28T20:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "GATE Robotics And Automation (RA) 2027 Complete Guide covers everything every GATE aspirant needs to know before choosing the Robotics & Automation paper. In this video, you'll learn the latest GATE RA syllabus, exam pattern, preparation strategy, eligibility, important subjects, recommended books, career opportunities after GATE RA, placements, average salary packages, future scope of Robotics & Automation, AI and Industrial Automation careers, higher studies, research opportunities.\n\nSession By Apuroop Telidevara Sir\n\nPW App/Website: https://physicswallah.onelink.me/ZAZB/PWAppWEb\n\n📕 GATE & ESE 𝐁𝐚𝐭𝐜𝐡/𝐂𝐨𝐮𝐫𝐬𝐞 𝐋𝐢𝐧𝐤𝐬: \n\n📮Vijay GATE 2027 Batch - Robotics & Automation\nhttps://physicswallah.onelink.me/ZAZB/4zfo9tlx \n\n📮Vijay GATE 2027 Rank Improvement Batch D\nEE: https://physicswallah.onelink.me/ZAZB/q791q0xc \nECE: https://physicswallah.onelink.me/ZAZB/j13r06hi \nIN: https://physicswallah.onelink.me/ZAZB/jka34zst \nCS & IT: https://physicswallah.onelink.me/ZAZB/964497z6 \nCS: https://physicswallah.onelink.me/ZAZB/ljpfxofz \nDA: https://physicswallah.onelink.me/ZAZB/4odvq98p \nME & XE: https://physicswallah.onelink.me/ZAZB/cfk22wuv \nCE: https://physicswallah.onelink.me/ZAZB/z013ttd3 \n\n📮Parakram 2.0 GATE 2027 Batch D (Hinglish) \nECE: https://physicswallah.onelink.me/ZAZB/gnamjgt9 \nEE: https://physicswallah.onelink.me/ZAZB/sfxlxl5u \nIN: https://physicswallah.onelink.me/ZAZB/q13oiupe \nCS: https://physicswallah.onelink.me/ZAZB/fvhcjfg7 \nCS & IT: https://physicswallah.onelink.me/ZAZB/yi01dmww \nDA: https://physicswallah.onelink.me/ZAZB/nn8xi27i \nME & XE: https://physicswallah.onelink.me/ZAZB/8wzg6gew \nCE: https://physicswallah.onelink.me/ZAZB/e84cvn5e \nCH: https://physicswallah.onelink.me/ZAZB/anz9o50x  \n\n📮Parakram 2.0 GATE 2027 Batch D (English) \nME & XE: https://physicswallah.onelink.me/ZAZB/3nhus771 \nCE: https://physicswallah.onelink.me/ZAZB/a4emcq2w \nEE: https://physicswallah.onelink.me/ZAZB/a6ibnzh2 \nECE: https://physicswallah.onelink.me/ZAZB/nml2ll2b \nCS: https://physicswallah.onelink.me/ZAZB/6fff3fc4 \n\n📮Parakram 2.0 2027 ESE + GATE + PSUs Batch D \nME & XE: https://physicswallah.onelink.me/ZAZB/fw5b1939 \nCE: https://physicswallah.onelink.me/ZAZB/tq7e4c5s \nECE: https://physicswallah.onelink.me/ZAZB/1vaawgiz \nEE: https://physicswallah.onelink.me/ZAZB/frnm98uf \n\n📮Parakram 2.0 GATE 2027 Batch C (English)\nAerospace Engineering - https://physicswallah.onelink.me/ZAZB/93uj9nzs \n\n📮Parakram 2.0 GATE 2027 Batch B (Hinglish)\nPI - https://physicswallah.onelink.me/ZAZB/gxxddvsc \n\n📮Parakram 2.0 GATE 2027 Batch D (Hinglish)\nES - https://physicswallah.onelink.me/ZAZB/872naoju\n\n📮Parakram 2.0 GATE 2027 + PSUs + Placement Preparation Batch D \nCS & IT - https://physicswallah.onelink.me/ZAZB/9aphrui7  \n\n📮Shreshth 2.0 GATE 2028 + PSUs + Placement Preparation Batch D\nCS & IT - https://physicswallah.onelink.me/ZAZB/i8iswi4i \n\n📮Shreshth 2.0 ESE + GATE 2028 Batch D\nEE: https://physicswallah.onelink.me/ZAZB/szrhg0n4 \nECE: https://physicswallah.onelink.me/ZAZB/512jqm6c \nME: https://physicswallah.onelink.me/ZAZB/xzcw2vag \nCE: https://physicswallah.onelink.me/ZAZB/fruiohzl \n\n📮Shreshth 2.0 GATE 2028 Batch D (Hinglish) \nEE: https://physicswallah.onelink.me/ZAZB/uyi38h7g \nECE: https://physicswallah.onelink.me/ZAZB/uo28bkek \nIN: https://physicswallah.onelink.me/ZAZB/8usy5ywl \nCS: https://physicswallah.onelink.me/ZAZB/yhie63uh \nDA: https://physicswallah.onelink.me/ZAZB/75j5zhnn \nME&XE: https://physicswallah.onelink.me/ZAZB/n23mvvkc \nCE: https://physicswallah.onelink.me/ZAZB/qixhiqfj \nCH: https://physicswallah.onelink.me/ZAZB/aw1udvc3 \n\n📌 GATE Wallah SOCIAL MEDIA -\n▶ Our Telegram Page: https://t.me/gatewallah_official\n▶ Telegram Group for ECE : https://t.me/GWElectroandcom\n▶ Telegram Group for ME : https://t.me/GATEWallahMechanicalengineering\n▶ Telegram Group for CE : https://t.me/GATEWallahCivilEngineering\n▶ Telegram Group for CS & DA : https://t.me/Gwcomsciandinfo\n▶ Telegram Group for CH : https://t.me/gatewallah_chemicalengineering\n▶ Our Instagram Page: https://www.instagram.com/pwgatewallah?igsh=MTl0dTB4MzU1YzVzcQ\n▶ Our LinkedIn Page: https://www.linkedin.com/company/gate-wallah/\n\n📌 RECOMMENDED CHANNELS FOR YOU :\n🌐 GATE Wallah ECE, EE & IN - https://www.youtube.com/@GATE_Wallah_ECE-EE-IN\n🌐 UPSC ESE Wallah - https://www.youtube.com/@UPSC_ESEWallah\n🌐 GATE Wallah CSE & DA - https://www.youtube.com/@gatewallah_cse_da\n🌐 GATE Wallah ME, CE & XE - https://www.youtube.com/@GATEWallah_ME_CE_XE\n🌐 GATE Wallah (English) - https://www.youtube.com/@gatewallahenglish\n🌐 Engineers Wallah AE/JE - https://www.youtube.com/@engineerswallah\n🌐 Btech Wallah - https://youtube.com/@BTech_bypw\n🌐 Agriculture Wallah - https://www.youtube.com/@agriculturewallahbypw\n🌐 JEE Wallah - https://www.youtube.com/@PW-JEEWallah\n\n📌 For any Queries or Complaints Visit: https://bit.ly/PW_Queries OR give a Missed Call on:- 08068874003\n\n632f130e568ede00182143e8\n\n#GATE2027 #GATERA #GATE2027RA #GATERoboticsAutomation #RoboticsAutomation #GATEPreparation #GATEWallah #PhysicsWallah",
-      "commentCount": 2,
-      "likeCount": 32,
       "probeClient": "web_embedded"
     },
     "ShYfGB3x5mM": {
@@ -5385,15 +5374,6 @@
       "description": "Learn how to build a no-code AI agent in ChatGPT that connects to Gmail to automatically read, organize, and reply to customer support emails in 5 minutes.\n\nIn this step-by-step tutorial, you will learn how to use ChatGPT's native agent builder to automate your customer service workflow without writing code or using third-party platforms. We cover connecting your Gmail inbox, setting up custom communication styles, scheduling 15-minute polling intervals, and generating automatic team alerts. Whether you are a solo founder or running an agency, this automated system will help you scale your client support 24/7.\n\nTimestamps:\n00:00 — The 5-Minute AI Agent Workflow\n00:45 — Navigating the ChatGPT Agent Builder\n01:30 — Defining Rules and Email Triggers\n02:20 — Connecting Your Gmail Account\n03:15 — Adding Custom Memory and Writing Skills\n04:10 — Live Testing: Handling a Customer Complaint\n05:15 — Scheduling Automation Intervals\n06:00 — Exploring Pre-Built Agent Templates\n\nKey takeaways:\n\nNative Gmail Integration: You can link your Google account directly inside ChatGPT to monitor inboxes and draft replies without Zapier or Make.com.\n\nCustom Tone Formatting: Uploading sample text files to the \"Skills\" tab trains the AI agent to replicate your exact writing style and brand voice.\n\nAutomated Polling Schedules: Native agents run on scheduled loops (e.g., every 15 minutes) to consistently check for new customer inquiries and process workflows automatically.\n\nDual-Action Workflows: A single agent can simultaneously send a public-facing apology email to a customer while dispatching an internal summary alert to your team.\n\nPre-Built Template Library: ChatGPT includes ready-to-deploy templates for data analysis, sales outreach, and campaign generation that require zero initial prompting.\n\nTools / resources mentioned:\n\nChatGPT (Plus/Team/Enterprise): OpenAI's conversational model featuring the native agent builder and automation platform.\n\nGoogle Workspace / Gmail: Connected email provider used as the trigger inbox and communication output channel.\n\nIf you're building automated systems for your business or clients, check out the pre-built template breakdown in the description below to save dozens of hours on deployment.",
       "commentCount": 0,
       "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "kESakYmTZ4E": {
-      "checkedAt": "2026-07-28T23:53:33Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "See how marketing agencies can automatically research, qualify and prioritise new enquiries before a salesperson reviews them.\n\nThis AI-assisted workflow:\n\n• analyses prospect and company information\n• scores leads using transparent business criteria\n• identifies urgency, budget fit and buying intent\n• creates or updates HubSpot CRM records\n• prepares a Calendly booking route\n• drafts a personalised prospect response\n• sends a structured internal sales alert\n• generates a proposal draft for human review\n\nThe workflow is configurable around an agency’s existing enquiry form, qualification criteria, CRM stages, emails and sales process.\n\nBuilt by Tayyab Automates.\n\nWebsite: https://tayyabautomates.com/\n\nThis demonstration uses simulation mode for external integrations. Live credentials activate OpenAI, HubSpot, Calendly and email integrations.",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "xLsXMX7FwOI": {
@@ -5435,15 +5415,6 @@
       "likeCount": 18,
       "probeClient": "web_embedded"
     },
-    "1zW6Uu21Q40": {
-      "checkedAt": "2026-07-29T01:53:46Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Retail investors are already using OpenAI’s ChatGPT and Anthropic’s Claude to research stocks and build custom trading systems. Now companies including Public and Podium Markets are developing AI tools that can monitor portfolios, rebalance holdings, harvest tax losses and execute strategies. CNBC examines how close this technology is to mainstream use, what it could mean for brokerages and the risks of letting software interpret financial goals and act on them.\n\nChapters:\n0:00 Introduction\n1:23 From research to trading\n4:14 Beyond stock trading\n5:44 Risks of AI trading\n\nProduced and Shot by: Charlotte Morabito,\nAdditional Producer: Macklin Fishman\nReporting by: Yun Li\nAdditional Reporting by: Sean Conlon\nEdited by: Andrea Miller\nAnimation: Jason Reginato, Emily Park\nSenior Managing Producer: Shawn Baldwin\nAdditional Footage: Getty Images\n\n» Subscribe to CNBC: https://cnb.cx/SubscribeCNBC \n» Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision  \n\nAbout CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more. \n\nWant to get ahead at work? Then you need to learn how to make effective small talk. In CNBC’s new online course, How To Talk To People At Work, expert instructors teach you how to use everyday conversation to gain visibility, build meaningful relationships and advance your career. Sign up now: https://cnb.cx/4sGlSkh\n\nConnect with CNBC News Online \nGet the latest news: https://www.cnbc.com/ \nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC \nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC \nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC \nFollow CNBC on Threads: https://cnb.cx/threads \nFollow CNBC News on X: https://cnb.cx/FollowCNBC \nFollow CNBC on WhatsApp: https://cnb.cx/WhatsAppCNBC \n \n#CNBC\n\nHow Retail Investors Are Using AI To Make Trades",
-      "commentCount": 70,
-      "likeCount": 528,
-      "probeClient": "web_embedded"
-    },
     "B6rF0crG2FY": {
       "checkedAt": "2026-07-29T02:53:04Z",
       "embedAllowed": true,
@@ -5451,15 +5422,6 @@
       "description": "🚀 Try Blink here:\nhttps://blink.new/?via=zoetry\n\nWhat if you could build a SaaS application, an AI agent, a Chrome extension, and even a mobile app inside one AI development platform?\n\nIn this video, I test Blink, an AI software builder designed to help you create real, usable products instead of simple demo websites. I walk through multiple projects, including a client portal SaaS app, an AI agent for daily briefings, a Chrome extension, and a mobile fitness app to see how far Blink can actually go.\n\n⏱️ TIMESTAMPS\n00:00 I Built Multiple Products With AI\n00:52 Why AI Coding Tools Are Changing\n01:29 What Makes Blink Different\n01:53 Building a SaaS Application\n02:19 Creating a Client Portal\n02:35 Testing the SaaS App\n02:51 Authentication, Storage & Backend\n03:07 Building an AI Agent\n03:19 Daily Email Briefing Agent\n03:45 Deploying the AI Agent\n04:03 Adding AI Agents to a SaaS Product\n04:41 Why Blink Gets Interesting\n04:51 Building a Chrome Extension\n05:09 AI Article Summarizer Extension\n05:31 Extension Package Workflow\n05:44 Building a Mobile App\n06:03 Creating a Fitness Tracking App\n06:24 Mobile App Screens and Backend\n06:43 One Platform for Multiple Products\n07:09 Full Blink Ecosystem Review\n07:56 The Future of AI Software Development\n08:24 Building a SaaS With Blink\n08:39 Try Blink\n\n🚀 What You'll Learn\n✅ Blink\n✅ AI Software Builder\n✅ AI App Builder\n✅ SaaS Builder\n✅ Build SaaS With AI\n✅ AI Agent Builder\n✅ Chrome Extension Builder\n✅ Mobile App Builder\n✅ No-Code AI Builder\n✅ AI Coding Tool\n✅ Production-Ready Software\n✅ Authentication\n✅ Backend Functionality\n✅ AI Workflow Automation\n✅ Startup Product Builder\n\n\nSubscribe for more AI coding tools, SaaS builders, AI agents, startup tools, and practical AI reviews.\n\n#Blink #BlinkNew #AISoftwareBuilder #AIAppBuilder #SaaSBuilder #AIAgent #ChromeExtension #MobileAppBuilder #AICoding #AITools\n\n📩 For business inquiries & collaborations: contact@zoetryai.com\n\n⚠️ Affiliate Disclaimer: Some of the links in this description may be affiliate links. This means I may earn a small commission at no extra cost to you if you choose to sign up or purchase through them. This helps support the channel and allows me to keep creating content like this.",
       "commentCount": 4,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "6k9y-b6cYyk": {
-      "checkedAt": "2026-07-29T02:53:04Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get the Agent OS & Chinese AI Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\n\nLing-3.0-Flash: This New FREE AI Agent is Insane!\n\nDiscover Ling-3.0-Flash, a massive 124 billion parameter AI agent from Inclusion AI that uses only a fraction of its power to deliver incredible speed and intelligence. Learn how this model can automate complex business tasks like scheduling, document editing, and multi-platform content creation for free.\n\n00:00 - Intro to Ling-3.0-Flash\n01:13 - Who is Inclusion AI?\n01:38 - Specs: 124B Parameters & Long Context\n02:41 - Real-World Agent Capabilities\n03:54 - Automating Business Admin\n04:45 - The Shift to AI Efficiency\n05:43 - How to Use it for Free\n06:59 - Final Advice for Business Owners",
-      "commentCount": 2,
-      "likeCount": 22,
       "probeClient": "web_embedded"
     },
     "rYb_xSjx-Fw": {
@@ -5606,7 +5568,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-29T15:53:10Z",
+      "checkedAt": "2026-07-29T16:53:14Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5810,15 +5772,6 @@
       "description": "What is digital marketing? In this episode, Head of Digital Marketing at Word of Mouth Digital Danni Russell explains what a digital marketing career actually looks like and why it's more about data than design.\n\nDanni started out studying science at university, then left after realising a lab job wasn't for her. She found her way into digital marketing starting out with email and working across SEO, AEO (AI engine optimisation), paid ads, and social media strategy.\n\nWhat you'll learn in this episode:\n\n✅ The difference between SEO and AEO (AI engine optimisation)\n✅ How AI has shaped digital marketing for years, long before ChatGPT\n✅ Why a scroll-stopping ad still won't convert if your landing page is broken\n✅ What a day in the life of a digital marketer really looks like\n✅ The skills that will matter most as AI takes over the busywork\n✅ What it's really like running your own marketing agency\n\nTime Stamp......\n\n00:00 Introduction to Danni Russell\n00:30 What is digital marketing today?\n01:20 SEO vs AEO explained\n03:41 From science degree to digital marketing career\n04:03 A day in the life of a digital marketer\n06:28 Digital marketing vs social media marketing\n07:35 How AI is used in digital marketing\n10:29 What people don't see about the job\n12:01 Key pressures of the role\n12:53 Benefits of working in digital marketing\n13:51 Why Danni started her own business\n15:18 Final five rapid-fire questions\n\nIf you're a student exploring digital marketing careers, or you think this job is just clever captions and pretty ads, this episode will change your mind.\n\n👉 Subscribe for more honest career conversations. New episodes every Wednesday.\n🔗 Everything in one place: https://linktr.ee/the20minutecareer\n📲 Follow us on Instagram and TikTok: @the20minutecareer\n🎙️ The 20 Minute Career — Real People, Real Jobs, Honest Conversations.\n\n#DigitalMarketing #MarketingCareers #CareerAdvice #SEO #AEO #WhatIsDigitalMarketing #CareerPodcast #The20MinuteCareer",
       "commentCount": 0,
       "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "kzrrKb1G_nI": {
-      "checkedAt": "2026-07-29T11:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "How do you go from your first $995 digital product sale to generating over $40,000 online?\n\nIn this video, I share the lessons, mistakes, and simple strategies that helped me turn my knowledge into a profitable digital product business—and how you can start doing the same.\n\nIf you want to build this out yourself, grab the free Blueprint below or join the Profitable Creators Club 👇\n\n🔹 Start Here\n\n👉 Get the FREE Blueprint\nhttps://www.profitablecreators.com/\n\n👉 Join Profitable Creators Club\nhttps://www.skool.com/pcc-9229/about\n\n🔧 The Tools I Use\n\n👉 Get Started with Manus \nhttps://manus.im/invitation/CGF0EFCUU9C9OBJ?utm_source=invitation&utm_medium=social&utm_campaign=copy_link\n\n👉 My Backend System (Funnels + Email Automation)\nhttps://systeme.io/?sa=sa00873546458f3b8351ef6322911e781476c95a3b\n\n👉 Create Your Own Skool Community\nhttps://www.skool.com/signup?ref=cee56940180241909dd1fc562497cb3f\n\n⚙️ MY EXACT SETUP (GEAR & TOOLS)\n\n🎥 Camera\n👉 Sony ZV-1: https://amzn.to/49Msw2t (or)\n👉 Sony ZV-E10: https://amzn.to/49Msw2t (or)\n👉 Sony ZV-E10 II: https://amzn.to/4qJRQMy\n\n🔍 Lens (recommended)\n👉 Sigma 16mm f/1.4: https://amzn.to/4raKRvM\n\n🔋 Dummy Battery (for long recording sessions)\n👉 Gonine Dummy Battery: https://amzn.to/45XHNuK\n\n🎤 Microphone\n👉 DJI Mic: https://amzn.to/4sXuyEk\n👉 Rode Wireless GO II: https://amzn.to/4k02w74\n\n💡 Lighting\n👉 Neewer 2-Pack Lights: https://amzn.to/3LznKMq\n👉 RALENO 13\" LED: https://amzn.to/3M0Tryg\n\n📝 Teleprompter\n👉 Elgato Prompter: https://amzn.to/45mTmLW\n👉 Glide Gear TMP 100: https://amzn.to/3YSafdL\n\n(Affiliate links help support the channel at no extra cost to you.)\n\nIf this video helped you, please hit like, subscribe, and drop a comment.\n👍 Like | 📩 Subscribe | 🔔 Turn on notifications\n\n🔴► HOW I MAKE MY VIDEOS\n◾My equipment: https://www.amazon.com/shop/zevishafran 🎥\n◾My music: https://share.epidemicsound.com/ztfb96 🎶\n◾My graphics + stock footage: https://1.envato.market/WqNZzA 🎨\n◾My CRM: https://www.gohighlevel.com/main-page?fp_ref=zevi38 📊\n◾Ranking my videos and finding ideas: https://vidiq.com/zevi 📈\n◾Turn ideas into videos: https://invideo.io/i/zevishafran 🎬\n\n🔴► FOLLOW ME:\n◾IG: https://www.instagram.com/profitable.creators/ 📸\n\nMusic by AlexGrohl from Pixabay\n\nhow to sell digital products.\ndigital product marketing strategy.\nmake money selling digital products.\npassive income digital products.\nsell digital products online.\ndigital product business model.\nprofitable digital product.\nbest digital products to sell online.\nSelling Digital Products on YouTube.\nSimple Digital Products Strategy.\nHow I Turned What I Already Knew Into $3,809/Month.\nHow I Made $34,815 With ONE Digital Product\n\n#digitalproducts, #DigitalProductsForBeginners, #HowToSellDigitalProducts, #SellingDigitalProducts, #CreatorEconomy, #OnlineIncome, #StartOnlineBusiness #MakeMoneyOnline, #SideHustle, #PassiveIncome, #OnlineBusiness, #EntrepreneurLife, #IncomeStreams, #FinancialFreedom #profitablecreators",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "ZHfAiFvr2Is": {
@@ -6279,6 +6232,93 @@
       "description": "🔗 Try Higgsfield for Free (24 Hours): https://higgsfield.ai/s/general-sandyleeai-zXOnRT\n🔗 Join Private Community: https://go.sleeautomation.com/lid\n🔗 Free Resources: https://go.sleeautomation.com/xvg\n\nEvery cut, caption, and motion graphic in this video was edited with Claude Code, including the Short you saw in the first ten seconds. If you've been wanting to edit YouTube Shorts with Claude Code but you only have 30 minutes a day and no idea where to start, this is the full walkthrough: live demo, the exact tool stack, and what it actually costs.\n\nYou'll see the four tools I use (Claude Code, Whisper, FFmpeg, Hyperframes) plus the Higgsfield MCP that handles the background swaps, outfit changes, and VFX that don't look like AI slop. I break down short form vs long form so you can pick the one that fits the time you actually have, walk through installing everything, and show you the exact prompt I paste into Claude Code to start an edit. I also show you the takes I hated and how I fixed them, because this is not a one prompt and done type of thing, and I'm not going to pretend it is.\n\nI grew Instagram from 900 to 23,000 followers in two weeks off two videos. Editing is what used to stop me. It's what made me quit content back in 2018. If you're in that spot right now, drop a comment with what you're stuck on. I do live calls in the community every week.\n\nTimestamps:\n0:00 Edited By Claude Code\n1:16 Short vs Long Form\n3:32 The Exact Tool Stack\n8:54 What This Actually Costs\n10:06 Live Demo Setup\n14:46 The Editing Prompt\n17:20 Fixing Generic AI Output\n22:36 Why I Quit In 2018",
       "commentCount": 7,
       "likeCount": 19,
+      "probeClient": "web_embedded"
+    },
+    "GM0j1LBKEUM": {
+      "checkedAt": "2026-07-29T16:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "learn how to create clips for games and how to make it for youtube",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-29T16:53:14Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "9ETdrn5pZ0k": {
+      "checkedAt": "2026-07-29T16:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What are the best AI tools in 2026?\n\nI ranked the most popular AI tools into S, A, B, C, and D tiers based on real-world usefulness not hype.\n\nSome rankings are obvious…\nOthers are guaranteed to start arguments.\n\nIn this video, I rank tools like:\n\n* Claude\n* ChatGPT\n* Cursor\n* WhisperFlow\n* n8n\n* NotebookLM\n* V0\n* Lovable\n* Stitch\n* Midjourney\n* Ideogram\n\nYou’ll find out which AI tools are actually worth using for coding, automation, research, design, content creation, and productivity and which ones have fallen behind.\n\nWhether you’re a developer, founder, creator, marketer, or AI enthusiast, this tier list will help you decide where to spend your time.\n\nDo you agree with these rankings? Which AI tool deserves S Tier? Let us know in the comments!\n\nWhy Subscribe to BPro?\n\nAI is moving faster than ever.\n\nAt BPro, we help you stay ahead by covering:\n\n* Latest AI news & updates\n* Honest AI tool reviews\n* AI coding workflows\n* Open-source AI projects\n* GitHub repositories worth using\n* AI automation\n* Startup & SaaS insights\n* AI engineering tips\n* Productivity hacks\n* The future of AI explained simply\n\nIf you want practical AI content that helps you build, save time, and make better technology decisions, BPro is for you.\n\nSubscribe to BPro and never miss the next AI breakthrough.\n\n#AI #ChatGPT #Claude #AITools #ArtificialIntelligence\n\nAI, artificial intelligence, AI tools, best AI tools, AI tools 2026, AI tier list, best AI apps, AI software, AI productivity tools, AI coding tools, AI automation, AI news, latest AI news, AI updates, ChatGPT, ChatGPT review, ChatGPT vs Claude, Claude AI, Anthropic, Cursor AI, Cursor editor, n8n, n8n tutorial, WhisperFlow, NotebookLM, Google NotebookLM, V0, Vercel V0, Lovable AI, Stitch AI, Midjourney, Ideogram, AI image generator, AI coding assistant, developer tools, startup tools, AI for developers, AI for creators, AI for business, AI workflow, AI engineering, prompt engineering, what is the best AI tool, which AI tool is best, best AI for coding, best AI for writing, best AI for research, best AI for automation, how to use AI tools, AI comparison, technology news, tech news, future of AI",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-29T16:53:14Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "lUAVCYhCneM": {
+      "checkedAt": "2026-07-29T16:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This is a clip from CloudGeometry's webinar, \"AI coding tools are not a software development process.\"\n\nIn the clip, we get into why faster code generation is not the same as faster delivery, and what it takes to turn AI-generated change into something safe and shippable.\n\n▶ Watch the full session here: https://www.brighttalk.com/webcast/20981/671340?bt_tok={{bt_fastpass_token}}&utm_source=CloudGeometry&utm_medium=brighttalk&utm_campaign=671340\n\nIn the full webinar we cover the gap between AI productivity and enterprise delivery, the questions to ask before investing in AI coding tools, and how a governed, AI-managed software lifecycle keeps humans at the gates with every change traceable, plus a live demo.\n\nLearn more about AI-MSL: https://lp.cloudgeometry.com/managed-ai-software-delivery/\n\nSubscribe for more on governed, AI-powered software delivery.\n\n#AIMSL #CloudGeometry #AICodingTools #SoftwareDelivery #AIGovernance #SDLC",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "eQ6tb7j3Z2U": {
+      "checkedAt": "2026-07-29T16:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What happens when engineering is no longer the bottleneck?\n\nIn this episode of Advanced Insights, AMD CTO and EVP Mark Papermaster sits down with Boris Cherny, creator and head of Claude Code at Anthropic, to explore how agentic AI is transforming software development and the broader engineering organization.\n\nThey discuss the rapid evolution from autocomplete to autonomous, multi-agent workflows; how engineers are becoming orchestrators of increasingly capable agents; and why curiosity, adaptability and the ability to generate strong ideas are becoming even more valuable. The conversation also examines the leadership and culture changes needed to unlock productivity, the importance of trust and verification, and the compute required to support agents that can operate for days or even weeks.\n\nFrom “one-person armies” to AI-native organizations, learn how agentic workflows are reshaping the way products are imagined, built, tested and brought to market.\n\n***\n\nSubscribe: https://bit.ly/Subscribe_to_AMD \nJoin the AMD Gaming Discord Server: https://discord.gg/amd-gaming\nVisit the AMD Gaming Community Website: https://www.amdgaming.com/\nLike us on Facebook: https://bit.ly/AMD_on_Facebook\nFollow us on Twitter: https://bit.ly/AMD_On_Twitter \nFollow us on Twitch: https://Twitch.tv/AMD \nFollow us on LinkedIn: https://bit.ly/AMD_on_Linkedin \nFollow us on Instagram: https://bit.ly/AMD_on_Instagram\n\n©2026 Advanced Micro Devices, Inc. AMD, the AMD Arrow Logo, and combinations thereof are trademarks of Advanced Micro Devices, Inc. in the United States and other jurisdictions. Other names are for informational purposes only and may be trademarks of their respective owners.",
+      "commentCount": 7,
+      "likeCount": 50,
+      "probeClient": "web_embedded"
+    },
+    "klMDS3G5BdA": {
+      "checkedAt": "2026-07-29T16:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This is a clip from CloudGeometry's webinar, \"AI coding tools are not a software development process.\"\n\nIn the clip, we get into why faster code generation is not the same as faster delivery, and what it takes to turn AI-generated change into something safe and shippable.\n\n▶ Watch the full session here: https://www.brighttalk.com/webcast/20981/671340?bt_tok={{bt_fastpass_token}}&utm_source=CloudGeometry&utm_medium=brighttalk&utm_campaign=671340\n\nIn the full webinar we cover the gap between AI productivity and enterprise delivery, the questions to ask before investing in AI coding tools, and how a governed, AI-managed software lifecycle keeps humans at the gates with every change traceable, plus a live demo.\n\nLearn more about AI-MSL: https://lp.cloudgeometry.com/managed-ai-software-delivery/\n\nSubscribe for more on governed, AI-powered software delivery.\n\n #AIMSL #CloudGeometry #AICodingTools #SoftwareDelivery #AIGovernance #SDLC",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "a_Kq18ufZzU": {
+      "checkedAt": "2026-07-29T16:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI agents have transformed how quickly developers can produce code. But organizational productivity hasn’t increased at the same speed.\n\nIn this Architecture Weekly conversation, Baruch Sadogursky and Vladimir Ivanov examine what actually changed in AI-assisted development—and why generating more code is only the beginning.\n\nWe discuss:\n\n• Why CLI agents are fundamentally different from coding assistants\n• How browser and terminal access give AI a “brain and hands”\n• Why individual productivity gains create organizational bottlenecks\n• What an AI-first software delivery lifecycle looks like\n• Why Claude can endlessly review its own code\n• How skills provide lazy-loaded, reusable context\n• Why larger context windows won’t make skills obsolete\n• How to evaluate nondeterministic AI systems\n• What happens to junior developers when AI performs traditional junior work\n\nThis conversation is for software architects, engineering leaders and developers building real AI-enabled engineering organizations.\n\nSubscribe to Architecture Weekly:\nhttps://youtube.com/@architectureweekly?sub_confirmation=1\n\nArchitecture Weekly Substack: \n\nhttps://softwarearchitectureweekly.substack.com/\n\nCHAPTERS\n\n00:00 The AI productivity paradox\n00:24 Introduction\n01:18 From chat assistants to CLI agents\n04:00 The model’s brain and hands\n05:42 What agents can already do autonomously\n07:08 Individual versus organizational productivity\n09:50 Why more code creates a bigger bottleneck\n14:00 AI-powered PR triage\n16:28 Inside an AI-first software delivery lifecycle\n19:45 When Claude reviews Claude\n21:30 Stopping infinite AI review loops\n23:54 What agent skills actually are\n27:45 Skills, lazy loading and progressive context\n34:54 Will huge context windows make skills obsolete?\n39:35 Context engineering is software engineering\n41:00 Skills and supply-chain security\n45:26 Testing nondeterministic AI systems\n47:26 Theory of Constraints for AI teams\n47:56 What happens to junior developers?\n49:30 Outro and the next conversation\n\n#AIAgents #SoftwareEngineering #EngineeringLeadership",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "Tv8mLrLtyxo": {
+      "checkedAt": "2026-07-29T16:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Download Cursor for Free: https://cursor.com/\nStart using Wispr Flow for Free: https://ref.wisprflow.ai/TechWithTim-jul26\n\nCursor 3.0 is here — and if you've never used it before, this is the only video you need. I walk through every feature from scratch, assume zero prior knowledge, and show you exactly how to go from download to shipping real code with AI.\n\nCursor is a full AI-powered IDE built on top of VS Code. Unlike CLI tools like Claude Code or Codex where you're blindly trusting the agent, Cursor gives you complete visibility and control — you can see every file, read every change, and use real developer tools while still letting AI do the heavy lifting.\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-jul26\n\n⏳ Timestamps ⏳\n00:00 | Cursor 3.0 Course\n00:51 | What is Cursor?\n02:10 | Cursor Setup/Download\n02:50 | Pricing\n03:43 | Major NEW Changes\n05:40 | Cursor UI Walkthrough\n08:00 | New Project Setup\n09:10 | Prompting Best Practices\n10:10 | Wispr Flow\n12:46 | Plan Mode\n15:16 | Agent Use/Build\n18:23 | Model Selection\n21:00 | Reviewing Code\n26:56 | Cursor Browser + Design Mode\n29:10 | Parallel Agents & Subagents\n35:50 | Cloud Agents - Environment Setup\n42:25 | Precise Edits, Quick Edit, and Tab\n45:22 | Rules & Skills\n48:18 | MCP & Plugins\n49:51 | Sidechats\n51:06 | Automations\n\n#Cursor #cursorai  #aicoding  #aidevtools  #Cursor3 #claudecode  #codingtutorial  #AIIDE #buildwithai  #softwaredevelopment",
+      "commentCount": 12,
+      "likeCount": 129,
+      "probeClient": "web_embedded"
+    },
+    "XmvArfDFr6w": {
+      "checkedAt": "2026-07-29T16:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI tools like ChatGPT, GitHub Copilot, and other coding assistants have become part of everyday software development. Companies encourage developers to use AI to write code faster, improve productivity, and deliver features quickly.\n\nBut when it comes to technical interviews, candidates are still expected to solve DSA problems, write code from scratch, and avoid using AI.\n\nSo what exactly are companies looking for?\n\nIn this video, we discuss the growing gap between real software engineering jobs and traditional coding interviews. We explore why AI is transforming the workplace while interview processes remain largely unchanged, and whether companies need to rethink how they evaluate developers in the AI era.\n\nTopics Covered:\n\nAI vs Traditional Coding Interviews\nChatGPT & GitHub Copilot in Software Development\nDSA vs Real-World Programming\nWhy Coding Interviews Need to Change\nSoftware Engineering Careers in 2026\nAI Tools and Developer Productivity\nTech Hiring Trends\nThe Future of Programming Jobs\n\nWhat do you think?\n\nShould companies allow AI during coding interviews, or should manual coding still be the standard? Share your opinion in the comments.\n\n👍 If you found this video helpful, don't forget to Like, Share, and Subscribe for more updates on IT jobs, software engineering careers, AI, and the latest tech industry trends.",
+      "commentCount": 0,
+      "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "lx0Eaane4Ng": {
+      "checkedAt": "2026-07-29T16:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "LINKS:\nWarren Discord: https://discord.com/invite/4r6r5jUEFE\n\nLIVE Warren Instance: https://app.warren.run\n\nWarren Github: https://github.com/jayminwest/warren\n\nTalk from Dex: https://www.youtube.com/watch?v=Ib5GBkD555M\n\nFree Agentic Engineering Book: https://jayminwest.com/agentic-engineering-book\n\n---\n\n00:00 The Software Factory Pattern\n00:35 Companies Building Software Factories\n01:38 Why This Pattern Emerged\n02:47 Software Factory Architecture\n02:59 Work Queue System\n03:29 Control Plane Layer\n03:58 Sandbox Environment\n04:17 Human Review Process\n05:02 Humans in the Loop\n05:30 Event Stream and Memory\n06:36 Introducing Warren\n07:12 Warren Features and Extensibility\n08:03 Live Demo Walkthrough\n09:01 Closing Thoughts\n\n#agenticai #codegeneration #programming #claudecode #aicoding #llms #openai #geminiai #claudeai #aiagents #fde #softwarefactory #coding #agenticengineering",
+      "commentCount": 11,
+      "likeCount": 201,
       "probeClient": "web_embedded"
     }
   }
