@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T05:53:06Z",
+  "updatedAt": "2026-07-29T06:53:07Z",
   "items": [
+    {
+      "id": "IMuaIXPLhd0",
+      "type": "long",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-07-29T06:19:00Z",
+      "firstSeenAt": "2026-07-29T06:53:07Z"
+    },
+    {
+      "id": "zz-QnV3Cjl0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-07-29T06:00:37Z",
+      "firstSeenAt": "2026-07-29T06:53:07Z"
+    },
+    {
+      "id": "K0jrkQalga0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NewsNation",
+      "publishedAt": "2026-07-29T00:53:07Z",
+      "firstSeenAt": "2026-07-29T06:53:07Z"
+    },
+    {
+      "id": "B9ctRO7LRP8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fox Business Clips",
+      "publishedAt": "2026-07-28T22:53:07Z",
+      "firstSeenAt": "2026-07-29T06:53:07Z"
+    },
+    {
+      "id": "ySRikTtqNVM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Neural Nutshell",
+      "publishedAt": "2026-07-28T16:53:07Z",
+      "firstSeenAt": "2026-07-29T06:53:07Z"
+    },
+    {
+      "id": "rPSjGiWmTus",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WatchMojo.com",
+      "publishedAt": "2026-07-28T15:53:07Z",
+      "firstSeenAt": "2026-07-29T06:53:07Z"
+    },
     {
       "id": "pKMFvQNvwps",
       "type": "short",
@@ -4516,6 +4564,15 @@
       "channelsChecked": 33,
       "warnings": 30,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-07-29T06:53:07Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 20,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
