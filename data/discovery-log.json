@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T11:53:10Z",
+  "updatedAt": "2026-07-29T12:53:11Z",
   "items": [
+    {
+      "id": "zkYfjuJYg_U",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-07-29T12:45:33Z",
+      "firstSeenAt": "2026-07-29T12:53:11Z"
+    },
+    {
+      "id": "ZHfAiFvr2Is",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-07-29T12:30:20Z",
+      "firstSeenAt": "2026-07-29T12:53:11Z"
+    },
+    {
+      "id": "D4fxcACCdEc",
+      "type": "short",
+      "source": "primary",
+      "channel": "Professor of AI",
+      "publishedAt": "2026-07-29T12:26:50Z",
+      "firstSeenAt": "2026-07-29T12:53:11Z"
+    },
+    {
+      "id": "psIh5S1KEMA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "What's AI by Louis-François Bouchard",
+      "publishedAt": "2026-07-28T21:53:11Z",
+      "firstSeenAt": "2026-07-29T12:53:11Z"
+    },
     {
       "id": "HtW0Qn_G6z0",
       "type": "long",
@@ -4738,6 +4770,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-07-29T12:53:11Z",
+      "new": 4,
+      "long": 1,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }

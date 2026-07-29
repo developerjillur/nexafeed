@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T11:53:10Z",
+  "updatedAt": "2026-07-29T12:53:11Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -2090,15 +2090,6 @@
       "likeCount": 695,
       "probeClient": "web_embedded"
     },
-    "1rKQF2pfGq0": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 0,
-      "likeCount": 167,
-      "probeClient": "web_embedded"
-    },
     "iatJ8U39pqA": {
       "checkedAt": "2026-07-27T07:46:18Z",
       "embedAllowed": true,
@@ -2441,15 +2432,6 @@
       "likeCount": 10,
       "probeClient": "web_embedded"
     },
-    "vQ_hHA2hR8A": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Blind Professor vs Brown University Students | Professor of AI",
-      "commentCount": 357,
-      "likeCount": 74629,
-      "probeClient": "web_embedded"
-    },
     "vIUVRGSMtqI": {
       "checkedAt": "2026-07-27T07:46:18Z",
       "embedAllowed": true,
@@ -2457,15 +2439,6 @@
       "description": "",
       "commentCount": 29,
       "likeCount": 2559,
-      "probeClient": "web_embedded"
-    },
-    "p2gAORlaiPI": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 2,
-      "likeCount": 120,
       "probeClient": "web_embedded"
     },
     "Hj3NSTHebOk": {
@@ -4721,19 +4694,49 @@
       "probeClient": "web_embedded"
     },
     "pLoPegWzllM": {
-      "checkedAt": "2026-07-28T11:53:15Z",
+      "checkedAt": "2026-07-29T12:53:11Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Using Claude Code?\n\nCheck out **Headroom**, a free open-source tool that removes unnecessary tokens before they reach Claude, helping reduce token usage without changing your workflow.\n\n#ClaudeCode #ClaudeAI #AI #Programming #Developers #OpenSource #GitHub #Coding",
-      "commentCount": 2,
-      "likeCount": 25,
+      "commentCount": 5,
+      "likeCount": 113,
       "comments": [
+        {
+          "id": "Ugx4cgXVv-kgNEtGAr14AaABAg",
+          "author": "@Neerajpandee",
+          "text": "Headroom",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/k2-kYIA8cPb6Rfq2TBCxohyhko7ZLzFVuSpEPWK0WetjhWsvLGMIpKZsOpk3fpLSdFvSSYxWJA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwG_ZYsrrcoCSv-X5p4AaABAg",
+          "author": "@aashishbhawsar4179",
+          "text": "Headroom",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mHsnCo_zKsXPh4TzuMPE_QK2TE9Wp7qQA9bCD-SP7lyyk=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyZaSTYRa7KLaiCvER4AaABAg",
+          "author": "@himanshikanojia8065",
+          "text": "How is this different than graphify",
+          "likeCount": 1,
+          "publishedAt": "2026-07-29T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kwC4Me1ZAUtAp97DAfyU-HWUfmSR4Vss1hV2mbxm9QHdc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgxL8a6wazXU86_cMKt4AaABAg",
           "author": "@faizanrehman3726",
           "text": "Can you make claude guide series from scratch please \nI am completely new in this field",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T11:00:00Z",
+          "publishedAt": "2026-07-29T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mvNnekoCmwKoDC08lJ6ZdHbE0RWzTE840pxWDAwkGfraM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4743,108 +4746,139 @@
           "author": "@faizanrehman3726",
           "text": "Head room",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T11:00:00Z",
+          "publishedAt": "2026-07-29T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mvNnekoCmwKoDC08lJ6ZdHbE0RWzTE840pxWDAwkGfraM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-28T11:53:15Z",
+      "commentsFetchedAt": "2026-07-29T12:53:11Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "rkbacGroezI": {
-      "checkedAt": "2026-07-28T11:53:15Z",
+      "checkedAt": "2026-07-29T12:53:11Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 7,
-      "likeCount": 190,
+      "commentCount": 8,
+      "likeCount": 1098,
       "comments": [
         {
-          "id": "Ugzif9T9nv4ZXBkwic14AaABAg",
-          "author": "@Creepylandz_studio",
-          "text": "Do you give away anything? 😂",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T11:46:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/yELbZUOnz0GShK__qNDhbvJY2D0nafEumM-a5H_fDjya1Qwy8IhKVwmKe-F0MczJRkRWcHa3_w=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgwpIJRwAVkv5NDESGF4AaABAg",
+          "author": "@NandiniSaini-j4s4k",
+          "text": "Interior designer ki bhi naukri gyi 😂",
+          "likeCount": 5,
+          "publishedAt": "2026-07-29T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kFgGxM3aDBe2sjrvElqL8HYiQIcKxyeF6QF8z_b6y2RlZHraJr0i89ffz9uvpBtF7hrQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzUs03TZ7ripkf_wnZ4AaABAg",
-          "author": "@PrachiMehta-c2r",
-          "text": "Ai architecture 😮.",
+          "id": "Ugx-g4W6BjE-cyLFqqx4AaABAg",
+          "author": "@jithinjz",
+          "text": "Hi bro im a full stack developer is there any opening in your company",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T11:14:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/vZ518QRShOJMA0uVKXvKzC0LW89PAV5mNxfNaAJc_YON9Ig62kXdIXA27ubZVbLqjUAHPJHl=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-29T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/71zJkaRhwtUibOwb1YEENIcZTnoOqmHLYh6uHgCJoZN2Jqi2HSgW6mtT9POnAm_6ftlkdKEblQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzJOQkS1c7FNjcZGJB4AaABAg",
-          "author": "@snehakumari3617",
-          "text": "Hello ishaan👋\nKuch shorts m apki awaj shi nhi a rhi h mens sound don't clier ap english m hi bnate the pr cleir to ati thi km se km plzz check it",
+          "id": "UgzdQvWcha3LA5rxbJ94AaABAg",
+          "author": "@officeuser-i8o",
+          "text": "You are the my idol boss \nI started my AI journey after watching your content only \nThanks for sharing knowledge",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T11:01:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/-azHidqHupYgW0g8MXkgDkN-dDjF7fpxkjPBzRaInN7MFvc-8E8jn37lf9bGWx_xLMXvQS6W=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ltD-iz_dkzvUCre-En1BgB4wKvtQR1GhymOseJFH59KbnHBXJUMziKH6yEJ0MM2eccBQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugxt59CgNlI5M5dAeVh4AaABAg",
-          "author": "@RadheKush-n9n",
-          "text": "How to learn english language like you",
+          "id": "UgySgg7ZCxksWLjJug94AaABAg",
+          "author": "@KM1908-p5j",
+          "text": "So the conclusion is knowing how to prompt well. If you're a generic user you might directly ask questions without any context or other things. But if you want the best quality of outputs you need to be learn to promt well like give it role, context, objectives, instructions,format, specific details and reference sources. Using these techniques I have made nice presentations in my classes, and have made my own private gaming apps.",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/zzezHdBWhBIhojDBoouWUuqqBMUk_5v7zf4Sx79WCTb640Z8jxrr6SkM9Lpy2ZN5aYRH5AJ7CA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgztoBVOr3x2W2hrHdl4AaABAg",
+          "author": "@Aman-b6w7w",
+          "text": "Sare Maje tere hi kyu hai , tu hi kyu akele maje kare iss duniya ke ,Hum log bhi hai",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lE-2v4pt1Am5Vt4Pedf4xjFjaVCExlg_cJVl7OY2xcwvV1BhXRzUSHIHLwFa5dONFuTw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwp1f7JWbW3Sh7ADYV4AaABAg",
+          "author": "@OMAN1915",
+          "text": "I used to do this in gemini, 6 months ago",
           "likeCount": 1,
-          "publishedAt": "2026-07-28T11:01:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kNn6ML5JlhLrSoExrtw_OWTxjwv-pPPh8GhTrE49w-bzrwzJrjG1FoMdgRo3BUt4v3Gw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nt2oyYde-6nosceh6Bz_Di8W-sNOH6A4R-u83qg__sFIaHYw-rP5YpNX8o79X1We3LHg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwCaozepbcvBws1Nfp4AaABAg",
-          "author": "@rajanb3897",
-          "text": "Ishan I always think if I start content creation....at some day it is possible YouTube Instagram may get banned by govt due to war ....as US is always against India.....so I think not to go for content creation and social media and something else\n\nWhat do you think?",
+          "id": "UgxrNA5pULm6y8bAnz14AaABAg",
+          "author": "@voiceofindia9220",
+          "text": "Amazing ❤❤",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mFJtBwqtipbI8n9jD6eUj1kgb61C1LOvDNnMEGQK1tJkGVm5JMsves7uYeZFZLGyYHbg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-28T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/VbsZD3_rlOJxmDjCFRP3dIqlcXE91zQcLXjGMAPGIKr_HmaQBXBP0QVrRYKivQaQRaWE-iMDGg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxeqOg9iWP7zQdDWZV4AaABAg",
-          "author": "@notchapte",
-          "text": "I want tomake my own agent want i want to do please tell me ❤❤❤",
-          "likeCount": 1,
-          "publishedAt": "2026-07-28T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/bC58muqBWX6M8bOKZU4yIhs2tTXuyAV18HA5Tl_dNRhTWiwifdWt0wdCeB50rWvZLQPCrx4o=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyNXoDinvUTLR53B2l4AaABAg",
-          "author": "@notchapte",
-          "text": "Pin me please first comment ❤❤❤",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/bC58muqBWX6M8bOKZU4yIhs2tTXuyAV18HA5Tl_dNRhTWiwifdWt0wdCeB50rWvZLQPCrx4o=s88-c-k-c0x00ffffff-no-rj",
+          "id": "Ugygfah3ACwDWVMCKBV4AaABAg",
+          "author": "@techaroundus7600",
+          "text": "I already did this but after the 89th attempt it provides satisfying results . Can't understand theame , mood , ambience , color psychology.",
+          "likeCount": 2,
+          "publishedAt": "2026-07-29T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ll_tBk4ZaHKHS8X1TCubyoMvwEyKUZm2v-szCxSP5lyg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-28T11:53:15Z",
+      "commentsFetchedAt": "2026-07-29T12:53:11Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "reBP8T55Pq0": {
-      "checkedAt": "2026-07-28T12:53:08Z",
+      "checkedAt": "2026-07-29T12:53:11Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 2,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-28T12:53:08Z",
+      "commentCount": 2,
+      "likeCount": 70,
+      "comments": [
+        {
+          "id": "UgyZUw86N6ZQb-opUXN4AaABAg",
+          "author": "@keval7407",
+          "text": "Me",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNNYoK3VSbV9FkONe2jk_GzncsIqcj--TUMbuZx20okOs19OYVDRFrL_X17UYVd4OgdA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyA-9g_eqONoLig4S94AaABAg",
+          "author": "@keval7407",
+          "text": "Me",
+          "likeCount": 0,
+          "publishedAt": "2026-07-28T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNNYoK3VSbV9FkONe2jk_GzncsIqcj--TUMbuZx20okOs19OYVDRFrL_X17UYVd4OgdA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-29T12:53:11Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5248,15 +5282,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "wknB3nYhCS4": {
-      "checkedAt": "2026-07-28T16:53:36Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get a focused, practical introduction to how contract professionals can organize and evaluate today’s expanding landscape of AI and software tools. This c. 8 minute sample lesson from Best AI and Other Software for Contract Professionals breaks down the types of AI relevant to the tech contracting ecosystem into clear categories. And it offers guidance about how to think about — and shop for — AI solutions. If you’re exploring how AI fits into your contracting practice — or simply want a clear, vendor‑neutral overview — this sample lesson is a great place to start.\n \nThis lesson is part of our larger course -- Best AI and Other software for Contract Professionals -- that covers generative AI for contract drafting and review, benchmarking tools, agentic AI, open‑source contracting options, and how emerging technologies are reshaping the future of legal and contracting work. For more information, and to purchase 100 days’ access, please check here: https://courses.techcontracts.com/p/best-ai-tools-for-contract-professionals\n\nPlease visit techcontracts.com for more contracting resources, including articles, sample clauses, and other trainings. (Sample lessons available to view – without obligation - on each course’s sales page.)\n\n[Tech Contracts Academy®, LLC is not a law firm and does not provide legal services. Its publications and courses are for general, informational purposes only. They are not to be considered and do not provide legal advice. Access is subject to Terms of Use and Privacy Policies, available on each course’s sales page. Course details are subject to change. No CLE without purchase.]",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "_wtCHLUUzlQ": {
       "checkedAt": "2026-07-28T17:53:43Z",
       "embedAllowed": true,
@@ -5637,13 +5662,13 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-29T11:53:10Z",
+      "checkedAt": "2026-07-29T12:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-29T11:53:10Z",
+      "checkedAt": "2026-07-29T12:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5868,6 +5893,132 @@
       "description": "# **Best AI Video Creation Tools in 2026 | Complete Comparison & Which One Should You Use?**\n\nAI video creation has reached a whole new level in 2026, making it easier than ever to create professional-quality videos without expensive equipment or advanced editing skills.\n\nIn this video, we'll compare the **12 best AI video creation tools** to help you choose the right one for your needs. Whether you're a content creator, YouTuber, digital marketer, freelancer, educator, or business owner, this guide will help you understand which AI tool delivers the best results.\n\n## 🚀 Tools Covered\n\n✅ ChatGPT\n✅ HeyGen\n✅ Google Veo\n✅ Runway ML\n✅ Kling AI\n✅ Pika Labs\n✅ InVideo AI\n✅ Synthesia\n✅ Canva AI\n✅ Adobe Firefly\n✅ CapCut AI\n✅ Filmora AI\n\n## 📌 In This Video You'll Learn\n\n✔️ Key features of each AI video tool\n✔️ Pricing and subscription options\n✔️ Best use cases for different creators\n✔️ Pros and cons of each platform\n✔️ Which AI video tool is best for beginners, professionals, marketers, and businesses\n\nIf you're planning to create YouTube videos, social media content, marketing campaigns, educational videos, or cinematic AI-generated content, this comparison will help you make an informed decision.\n\n💬 **Which AI video creation tool is your favourite in 2026?** Let us know in the comments!\n\n👍 If you found this video helpful, don't forget to **Like**, **Share**, and **Subscribe** for more tutorials on AI tools, digital marketing, automation, and content creation.\n\n#AITools #AIVideo #VideoCreation #ChatGPT #GoogleVeo #RunwayML #HeyGen #KlingAI #CanvaAI #InVideoAI #AdobeFirefly #CapCutAI #FilmoraAI #GenerativeAI #DigitalMarketing",
       "commentCount": 0,
       "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "ZHfAiFvr2Is": {
+      "checkedAt": "2026-07-29T12:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 5,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-29T12:53:11Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "zkYfjuJYg_U": {
+      "checkedAt": "2026-07-29T12:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 1,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-29T12:53:11Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "D4fxcACCdEc": {
+      "checkedAt": "2026-07-29T12:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 8,
+      "likeCount": 432,
+      "comments": [
+        {
+          "id": "UgzqkqqFtgk_DZWnvnl4AaABAg",
+          "author": "@MdAbusad-k7m",
+          "text": "Yaar 11th me hu",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T12:49:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNkj4pW6jUvChG4gBzsrYlBtzdpsU-SuNMu6MPKVmDoCxY2_D05vAOfPJE2IATJUm0Sw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxZRP2HeoJ62Ho33V54AaABAg",
+          "author": "@jayantJ5",
+          "text": "Moon par bhejo (Space mission) 🎉",
+          "likeCount": 1,
+          "publishedAt": "2026-07-29T12:43:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/N_HRmKeHcD2YAn9ek5zh7qA63mzKd1Nsz710YEI5wFyil4tKuCgs15DrO0VPrOYoXRnMIGSK6mw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwfx-vpb_JD4IafFB94AaABAg",
+          "author": "@KushalVerma-v1n9o",
+          "text": "Kya aap ak short ai engineer par bhi bana skte ho   me ai engineer banana chata hu",
+          "likeCount": 2,
+          "publishedAt": "2026-07-29T12:39:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mo-ngw2iXTjilc4X3R9TWfKMVubJaaWmP-E9AYx2N-KkwGfZ7Ck2wgooJGVstqf0wbRw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyCX9Low3epa2IZ-LN4AaABAg",
+          "author": "@SANJU.STUDY.X",
+          "text": "😂😂",
+          "likeCount": 1,
+          "publishedAt": "2026-07-29T12:37:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ocStV15JU9gD1y9ccqzF5oJdGfOp5KE1LWPsRsxwMYnX28Mn1YU2NLp-4Q7tfL_V2E932dqO=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzERzMcsiyV3yThdsN4AaABAg",
+          "author": "@SandeepKumar-fk1up",
+          "text": "First comment karne wale koi fyada nhi h 😂",
+          "likeCount": 1,
+          "publishedAt": "2026-07-29T12:36:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/WwQw3Q8dnkHSTsjayzzEY53nZYj5jiKnFFun3H-sAU18Adv7dn-vxT0fHQxawogcVD8npP2bVw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy0CBLdj9xgvKZffgN4AaABAg",
+          "author": "@Rajkumaripal-01",
+          "text": "Artificial intelligence Day by Day ☠️☠️",
+          "likeCount": 3,
+          "publishedAt": "2026-07-29T12:34:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kMYxzuoALeklp701_RTTqcGyDmQBNx8RUq7hexDYiJAbjeefA32v6O8iwKUH_tJvomYg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgywkRyfew5SYMiZImp4AaABAg",
+          "author": "@EchoNewsOffical",
+          "text": "I am from your favorite country pakistan",
+          "likeCount": 1,
+          "publishedAt": "2026-07-29T12:34:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/OUypYh2FNSOApoRojMKEZh6kUSw3JUuDu-z7tpZm_PC1xcptFvgVnwUs3GKJcu_m6llR0yIQ3g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz8PLSgoDsbRPNBrqN4AaABAg",
+          "author": "@YoSathGamer",
+          "text": "First comment",
+          "likeCount": 2,
+          "publishedAt": "2026-07-29T12:34:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/hxL0CuGAPwiucwoFphAcN65qBo6eDejqXB8qayFXmPhtVnbjtiV-D198YCx6AAOtNgfDnDDB=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-29T12:53:11Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "psIh5S1KEMA": {
+      "checkedAt": "2026-07-29T12:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🎓 Build this exact system in our Agentic AI Engineering Course:\nhttps://academy.towardsai.net/courses/agent-engineering?ref=1f9b29\n\n💻 Course repository:\nhttps://github.com/towardsai/agentic-ai-engineering-course\n\n📚 AI Engineering Cheatsheets:\nhttps://github.com/louisfb01/ai-engineering-cheatsheets\n\nI used to spend two to three full days researching, writing, and packaging one YouTube video. Now my part takes about five hours.\n\nIn this video, I break down the agentic AI workflow Paul Iusztin and I built to automate roughly 90% of that process while protecting the 10% that still needs a human: choosing the topic, shaping the argument, adding personal experience, and validating the final work.\n\nYou will see:\n\n• How Nova, our deep research agent, turns a rough outline and trusted sources into a structured research file\n• Why research works better as an agent while writing works better as a constrained workflow\n• How Brown uses LangGraph, writing profiles, few-shot examples, and an evaluator-optimizer loop to produce drafts without generic AI slop\n• Why the reviewer and editor use separate context windows\n• Why three fixed review passes beat stopping at a subjective quality score\n• How we generate branded diagrams, thumbnails, titles, SEO packages, and French versions\n• Which parts of the workflow I still refuse to automate\n\nThe goal is not to remove yourself from the creative process. It is to automate the translation work around your thinking so you have more time to build, experiment, and produce something worth publishing.\n\nIf you create videos, articles, newsletters, lessons, reports, or other long-form content, you can adapt the same architecture to your own workflow.\n\nLet me know in the comments: which part of your workflow would you never automate, even if the agents became ten times better?",
+      "commentCount": 2,
+      "likeCount": 12,
       "probeClient": "web_embedded"
     }
   }
