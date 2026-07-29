@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T14:53:13Z",
+  "updatedAt": "2026-07-29T15:53:10Z",
   "items": [
+    {
+      "id": "Nj-PqFIZqEs",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-07-29T15:38:27Z",
+      "firstSeenAt": "2026-07-29T15:53:10Z"
+    },
+    {
+      "id": "dFbMLcBhnsk",
+      "type": "short",
+      "source": "primary",
+      "channel": "H Gandotra",
+      "publishedAt": "2026-07-29T15:27:11Z",
+      "firstSeenAt": "2026-07-29T15:53:10Z"
+    },
+    {
+      "id": "wzOPpXbonD0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Max Max",
+      "publishedAt": "2026-07-29T14:53:10Z",
+      "firstSeenAt": "2026-07-29T15:53:10Z"
+    },
+    {
+      "id": "UtwrjQDLWl4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "theBoringExecutive",
+      "publishedAt": "2026-07-29T14:53:10Z",
+      "firstSeenAt": "2026-07-29T15:53:10Z"
+    },
+    {
+      "id": "w756AIZ_2Zw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sandy Lee AI",
+      "publishedAt": "2026-07-29T14:53:10Z",
+      "firstSeenAt": "2026-07-29T15:53:10Z"
+    },
     {
       "id": "-TY1-BTeepI",
       "type": "long",
@@ -4941,6 +4981,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-07-29T15:53:10Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
