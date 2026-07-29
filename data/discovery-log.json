@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T07:53:08Z",
+  "updatedAt": "2026-07-29T08:53:08Z",
   "items": [
+    {
+      "id": "6M59djqA-N0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-07-29T08:15:55Z",
+      "firstSeenAt": "2026-07-29T08:53:08Z"
+    },
+    {
+      "id": "Qnhq841KpjQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Kaashiv Infotech Student Review",
+      "publishedAt": "2026-07-29T00:53:08Z",
+      "firstSeenAt": "2026-07-29T08:53:08Z"
+    },
+    {
+      "id": "YapP08SME5I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mehul Mohan",
+      "publishedAt": "2026-07-28T22:53:08Z",
+      "firstSeenAt": "2026-07-29T08:53:08Z"
+    },
+    {
+      "id": "pIq2s5BKpkw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Google Cloud Tech",
+      "publishedAt": "2026-07-28T19:53:08Z",
+      "firstSeenAt": "2026-07-29T08:53:08Z"
+    },
     {
       "id": "rXaUbLpfMQs",
       "type": "long",
@@ -4598,6 +4630,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-07-29T08:53:08Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
