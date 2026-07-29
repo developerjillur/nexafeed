@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T13:53:12Z",
+  "updatedAt": "2026-07-29T14:53:13Z",
   "items": [
+    {
+      "id": "-TY1-BTeepI",
+      "type": "long",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-07-29T14:50:13Z",
+      "firstSeenAt": "2026-07-29T14:53:13Z"
+    },
+    {
+      "id": "Df2HYYjz9IU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-07-29T14:46:03Z",
+      "firstSeenAt": "2026-07-29T14:53:13Z"
+    },
+    {
+      "id": "JUy1htaCIMo",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-07-29T13:59:57Z",
+      "firstSeenAt": "2026-07-29T14:53:13Z"
+    },
+    {
+      "id": "VjcPbrxkRJ4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TechFast",
+      "publishedAt": "2026-07-29T14:52:13Z",
+      "firstSeenAt": "2026-07-29T14:53:13Z"
+    },
+    {
+      "id": "5oh-jleis3w",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Eduonix Learning Solutions",
+      "publishedAt": "2026-07-29T13:53:13Z",
+      "firstSeenAt": "2026-07-29T14:53:13Z"
+    },
+    {
+      "id": "3yLSvR4x0wk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Zuri AI",
+      "publishedAt": "2026-07-29T13:53:13Z",
+      "firstSeenAt": "2026-07-29T14:53:13Z"
+    },
+    {
+      "id": "ZPuonXRwpYM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GenAI With Dilip",
+      "publishedAt": "2026-07-29T13:53:13Z",
+      "firstSeenAt": "2026-07-29T14:53:13Z"
+    },
+    {
+      "id": "iLO6yEnIuaA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "edureka!",
+      "publishedAt": "2026-07-29T12:53:13Z",
+      "firstSeenAt": "2026-07-29T14:53:13Z"
+    },
+    {
+      "id": "lQUAtyskujo",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Belad Tech Academy",
+      "publishedAt": "2026-07-29T08:53:13Z",
+      "firstSeenAt": "2026-07-29T14:53:13Z"
+    },
+    {
+      "id": "RV4JPmD7umg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Olufemii",
+      "publishedAt": "2026-07-29T05:53:13Z",
+      "firstSeenAt": "2026-07-29T14:53:13Z"
+    },
     {
       "id": "-4gD9qJ31js",
       "type": "short",
@@ -4852,6 +4932,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-07-29T14:53:13Z",
+      "new": 10,
+      "long": 7,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
