@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T08:53:08Z",
+  "updatedAt": "2026-07-29T09:53:09Z",
   "items": [
+    {
+      "id": "yDdh1oZIlog",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-07-29T09:33:15Z",
+      "firstSeenAt": "2026-07-29T09:53:09Z"
+    },
+    {
+      "id": "G5jdLbu5dlw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Think Software",
+      "publishedAt": "2026-07-29T01:53:09Z",
+      "firstSeenAt": "2026-07-29T09:53:09Z"
+    },
+    {
+      "id": "6b5GyqAdSyM",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Google Cloud Tech",
+      "publishedAt": "2026-07-28T23:53:09Z",
+      "firstSeenAt": "2026-07-29T09:53:09Z"
+    },
+    {
+      "id": "zczUvUeb_ak",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Information",
+      "publishedAt": "2026-07-28T22:53:09Z",
+      "firstSeenAt": "2026-07-29T09:53:09Z"
+    },
     {
       "id": "6M59djqA-N0",
       "type": "short",
@@ -4639,6 +4671,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-07-29T09:53:09Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
