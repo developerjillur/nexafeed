@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T18:53:16Z",
+  "updatedAt": "2026-07-29T19:53:17Z",
   "items": [
+    {
+      "id": "ZoPcGlLPCK8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Modern Software Engineering",
+      "publishedAt": "2026-07-29T18:53:17Z",
+      "firstSeenAt": "2026-07-29T19:53:17Z"
+    },
+    {
+      "id": "pHfG0oxgshA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "bigboxSWE",
+      "publishedAt": "2026-07-29T14:53:17Z",
+      "firstSeenAt": "2026-07-29T19:53:17Z"
+    },
     {
       "id": "zjFFEMIbe7E",
       "type": "long",
@@ -5185,6 +5201,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-07-29T19:53:17Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }

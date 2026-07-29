@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T18:53:16Z",
+  "updatedAt": "2026-07-29T19:53:17Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -5636,7 +5636,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-29T18:53:16Z",
+      "checkedAt": "2026-07-29T19:53:17Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5654,15 +5654,6 @@
       "description": "Chris Cuomo opens \"The Future Is Now\" after being momentarily replaced by a robot with a preview of NewsNation's 'The Future Is Now\" town hall.\n\nChris Cuomo hosts \"CUOMO,\" a no-nonsense show featuring the day's most important news from all perspectives. \"CUOMO\" airs weeknights at 8p/7C on NewsNation. #CUOMO\n\nNewsNation is your source for fact-based, unbiased news for all Americans. \n\nMore from NewsNation: https://www.newsnationnow.com/\nGet our app: https://trib.al/TBXgYpp\nFind us on cable: https://trib.al/YDOpGyG\nHow to watch on TV or streaming: https://trib.al/Vu0Ikij",
       "commentCount": 33,
       "likeCount": 124,
-      "probeClient": "web_embedded"
-    },
-    "B9ctRO7LRP8": {
-      "checkedAt": "2026-07-29T06:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Palantir co-founder Joe Lonsdale discusses America's path to winning the AI race and the importance of building data centers on 'The Claman Countdown.' #fox #media #breakingnews #us #usa #new #news #breaking #foxbusiness #theclamancountdown #ai #artificialintelligence #technology #innovation #america #business #economy #datacenters #infrastructure #palantir #joelonsdale #lonsdale #competition #future #leadership #investment #growth #tech \n\nSubscribe to Fox Business: https://bit.ly/2D9Cdse\nWatch more Fox Business Video: https://video.foxbusiness.com\nWatch Fox Business Network Live: http://www.foxnewsgo.com/\n\nFOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news programming, with each business day program placing among the top 15 shows, while FBN delivered its highest-rated month since April 2023 with market hours.\n\nFollow Fox Business on Facebook: https://www.facebook.com/FoxBusiness\nFollow Fox Business on Twitter: https://twitter.com/foxbusiness\nFollow Fox Business on Instagram: https://www.instagram.com/foxbusiness",
-      "commentCount": 55,
-      "likeCount": 83,
       "probeClient": "web_embedded"
     },
     "dUHpFuUIyi0": {
@@ -5939,15 +5930,6 @@
       ],
       "commentsFetchedAt": "2026-07-29T12:53:11Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "psIh5S1KEMA": {
-      "checkedAt": "2026-07-29T12:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🎓 Build this exact system in our Agentic AI Engineering Course:\nhttps://academy.towardsai.net/courses/agent-engineering?ref=1f9b29\n\n💻 Course repository:\nhttps://github.com/towardsai/agentic-ai-engineering-course\n\n📚 AI Engineering Cheatsheets:\nhttps://github.com/louisfb01/ai-engineering-cheatsheets\n\nI used to spend two to three full days researching, writing, and packaging one YouTube video. Now my part takes about five hours.\n\nIn this video, I break down the agentic AI workflow Paul Iusztin and I built to automate roughly 90% of that process while protecting the 10% that still needs a human: choosing the topic, shaping the argument, adding personal experience, and validating the final work.\n\nYou will see:\n\n• How Nova, our deep research agent, turns a rough outline and trusted sources into a structured research file\n• Why research works better as an agent while writing works better as a constrained workflow\n• How Brown uses LangGraph, writing profiles, few-shot examples, and an evaluator-optimizer loop to produce drafts without generic AI slop\n• Why the reviewer and editor use separate context windows\n• Why three fixed review passes beat stopping at a subjective quality score\n• How we generate branded diagrams, thumbnails, titles, SEO packages, and French versions\n• Which parts of the workflow I still refuse to automate\n\nThe goal is not to remove yourself from the creative process. It is to automate the translation work around your thinking so you have more time to build, experiment, and produce something worth publishing.\n\nIf you create videos, articles, newsletters, lessons, reports, or other long-form content, you can adapt the same architecture to your own workflow.\n\nLet me know in the comments: which part of your workflow would you never automate, even if the agents became ten times better?",
-      "commentCount": 2,
-      "likeCount": 12,
       "probeClient": "web_embedded"
     },
     "OXhVBDyBGyk": {
@@ -6552,6 +6534,24 @@
       "description": "Jerry Tworek led reasoning at OpenAI, convinced that scaling reinforcement learning was the path to AGI. Rohan Anil co-led Gemini pre-training and built the Shampoo optimizer. Now they've teamed up at Core Automation on a contrarian premise: the transformer has carried us as far as it can, and the bottleneck to smarter systems is no longer scale — it's the architecture itself. The missing capability is continual learning, models that adapt at test time, which transformers can't do. In-context learning taps out fast (Codex needs compacting after ~20 minutes) and fine-tuning invites catastrophic forgetting. Rohan argues pre-training and RL should be optimized end-to-end, and that transformers spend computation inefficiently. They lay out why the largest labs won't chase alternatives while locked in the coding-agent race, and why building the world's most automated lab starts with automating kernel generation—the one place frontier models still lose to a high-taste human.\n\nHosted by Sonya Huang and Pat Grady, Sequoia Capital\n\n00:00 Introduction\n01:46 Appreciating Transformers\n02:44 Scaling Hits Limits\n04:54 Why Architecture Matters\n05:32 RL Reality Check\n07:32 Test Time Learning\n09:52 Economics Of Scaling\n12:47 Why Start A Company\n14:24 Rohan On Transformers\n19:11 Computational Depth Problem\n20:32 When Transformers Top Out\n23:22 Beyond Reinforcement Learning\n26:41 Optimization And Efficiency\n34:24 Building An Automated Lab\n39:45 Kernel Automation Roadmap",
       "commentCount": 0,
       "likeCount": 45,
+      "probeClient": "web_embedded"
+    },
+    "ZoPcGlLPCK8": {
+      "checkedAt": "2026-07-29T19:53:17Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What does it take to step up from programming to true engineering leadership? In this video, Steve Smith shares a personal story from his time at a tech startup, where he worked as a tech lead under modern software engineering pioneer Dave Farley.\n\nDiscover the crucial career lesson Steve learned when Dave demoted him back to a developer role, and why it became the best thing to happen to his career. We dive into the realities of software engineering vs. basic software development, exploring why theoretical knowledge of domain-driven design isn't enough if you lack a practical eye for software design.\n\nWhether you are a developer aspiring to be an engineering lead, a current tech lead working on team leadership, or a CTO scaling a startup, this video covers the essential leadership skills needed to handle technical setbacks, navigate complex programming trade-offs, and build strong engineering leadership.\n\n-\n\n🎓 OUR FREE 'LEADING TECH TEAMS GUIDE':\n\nWant some more advice for how to set up your software development teams for peak performance? Get Dave's FREE Guide to Organising Software Development Teams HERE ➡️ https://www.subscribepage.com/tech-lead \n\n-\n\n🧠 OUR SOFTWARE ENGINEERING TRAINING COURSES: https://courses.cd.training/ \n\n-\n\n\nSteve on X ➡️ https://x.com/SteveSmith_Tech\nSteve on LinkedIn ➡️ https://www.linkedin.com/in/stevesmithtech/\nSteve on bluesky ➡️ https://bsky.app/profile/stevesmithtech.bsky.social\n\nModern Software Engineering on X ➡️ https://x.com/ModernSoftwareX\nModern Software Engineering on LinkedIn ➡️ https://www.linkedin.com/company/modern-software-engineering\nModern Software Engineering on bluesky ➡️ https://bsky.app/profile/modernswe.bsky.social\n\n-\n\n⭐ PATREON ➡️ https://bit.ly/ContinuousDeliveryPatreon \n\n🎥 Join Us On TikTok ➡️ https://www.tiktok.com/@modern.s.engineering\n\n-\n\n👕 T-SHIRTS:\nA fan of the T-shirts I wear in my videos? Grab your own, at reduced prices EXCLUSIVE TO CONTINUOUS DELIVERY FOLLOWERS! Get money off the already reasonably priced t-shirts!\n\n🔗 Check out their collection HERE: ➡️ https://bit.ly/3Uby9iA\n🚨 DON'T FORGET TO USE THIS DISCOUNT CODE: ContinuousDelivery\n\n-\n\nCHANNEL SPONSORS:\n\nOctopus Deploy sets the standard for Continuous Delivery (CD), empowering software teams to deliver value in an agile way. Globally, more than 4,000 organizations rely on its Continuous Delivery, GitOps, and release orchestration solutions to deliver swift value to their customers. Octopus efficiently orchestrates software delivery across multi-cloud, Kubernetes, data centers, and hybrid environments, whether containerized modern apps or heritage applications. With governance, risk, and compliance (GRC) at its core, Octopus supports Platform Engineering teams in their mission to provide a superior developer experience (DevEx). Octopus also actively contributes to the developer community with open-source projects. ➡️ https://bit.ly/MSExOCTDEP\n\nEqual Experts is a product software development consultancy with a network of over 1,000 experienced technology consultants globally. They increase the pace of innovation by using modern software engineering practices that embrace Continuous Delivery, Security, and Operability from the outset ➡️ https://bit.ly/3ASy8n0\n\nTransFICC provides low-latency connectivity, automated trading workflows and e-trading systems for Fixed Income and Derivatives. TransFICC resolves the issue of market fragmentation by providing banks and asset managers with a unified low-latency, robust and scalable API, which provides connectivity to multiple trading venues while supporting numerous complex workflows across asset classes such as Rates and Credit Bonds, Repos, Mortgage-Backed Securities and Interest Rate Swaps ➡️ https://transficc.com\n\n-\n\n#SoftwareEngineering #TechLead #EngineeringLeadership #SoftwareDesign #CTO #Programming #Startup",
+      "commentCount": 8,
+      "likeCount": 71,
+      "probeClient": "web_embedded"
+    },
+    "pHfG0oxgshA": {
+      "checkedAt": "2026-07-29T19:53:17Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Thank you to Cursor for sponsoring! http://www.bigboxswe.dev/cursor \n\nMusic\n@massobeats : https://www.youtube.com/watch?v=egF4ek4MHOw \n\nResources\nSecurity resources\nOWASP Top 10: https://owasp.org/Top10/2025/ \nPortSwigger Academy: https://portswigger.net/web-security \nArchitecture of Open Source: https://aosabook.org/en/v2/git.html \nBen Dicken Playlist: https://www.youtube.com/watch?v=RBpIzmOcPmw&list=PLYO0GRl5l33A \n\nBooks referenced\nSystems Performance by Brendan Gregg\nDesigning Data Intensive Applications by Martin Kleppmann",
+      "commentCount": 62,
+      "likeCount": 1386,
       "probeClient": "web_embedded"
     }
   }
