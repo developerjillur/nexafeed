@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T01:53:26Z",
+  "updatedAt": "2026-07-30T02:53:32Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -5455,24 +5455,46 @@
       "probeClient": "web_embedded"
     },
     "fqcGWCDTJqo": {
-      "checkedAt": "2026-07-29T01:53:46Z",
+      "checkedAt": "2026-07-30T02:53:32Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 19,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-29T01:53:46Z",
+      "commentCount": 3,
+      "likeCount": 793,
+      "comments": [
+        {
+          "id": "UgwSpSY2JWZmD9qeiQp4AaABAg",
+          "author": "@doreenmccarthy9009",
+          "text": "Insight",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksOF9cJw6Aaagqi0ktCjgqqvdei_kxInkStR8SF52k1ZMR=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugyjyde3rmHPxSERVSV4AaABAg",
+          "author": "@meshedlearning1125",
+          "text": "Gdi 20 more pushups for claude mention.",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_laVLWK9uHieJjfOpWifKkT0sksIAuV6uqXv-bCA2CCrQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx7ib8Y7_a82ib5zgF4AaABAg",
+          "author": "@brunorc5268",
+          "text": "Hey man pump up the sound❤",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lwR3rbqOyHDHyW28h4zVKDgNemxj6M6UEbuXqezpQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T02:53:32Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "B6rF0crG2FY": {
-      "checkedAt": "2026-07-29T02:53:04Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Try Blink here:\nhttps://blink.new/?via=zoetry\n\nWhat if you could build a SaaS application, an AI agent, a Chrome extension, and even a mobile app inside one AI development platform?\n\nIn this video, I test Blink, an AI software builder designed to help you create real, usable products instead of simple demo websites. I walk through multiple projects, including a client portal SaaS app, an AI agent for daily briefings, a Chrome extension, and a mobile fitness app to see how far Blink can actually go.\n\n⏱️ TIMESTAMPS\n00:00 I Built Multiple Products With AI\n00:52 Why AI Coding Tools Are Changing\n01:29 What Makes Blink Different\n01:53 Building a SaaS Application\n02:19 Creating a Client Portal\n02:35 Testing the SaaS App\n02:51 Authentication, Storage & Backend\n03:07 Building an AI Agent\n03:19 Daily Email Briefing Agent\n03:45 Deploying the AI Agent\n04:03 Adding AI Agents to a SaaS Product\n04:41 Why Blink Gets Interesting\n04:51 Building a Chrome Extension\n05:09 AI Article Summarizer Extension\n05:31 Extension Package Workflow\n05:44 Building a Mobile App\n06:03 Creating a Fitness Tracking App\n06:24 Mobile App Screens and Backend\n06:43 One Platform for Multiple Products\n07:09 Full Blink Ecosystem Review\n07:56 The Future of AI Software Development\n08:24 Building a SaaS With Blink\n08:39 Try Blink\n\n🚀 What You'll Learn\n✅ Blink\n✅ AI Software Builder\n✅ AI App Builder\n✅ SaaS Builder\n✅ Build SaaS With AI\n✅ AI Agent Builder\n✅ Chrome Extension Builder\n✅ Mobile App Builder\n✅ No-Code AI Builder\n✅ AI Coding Tool\n✅ Production-Ready Software\n✅ Authentication\n✅ Backend Functionality\n✅ AI Workflow Automation\n✅ Startup Product Builder\n\n\nSubscribe for more AI coding tools, SaaS builders, AI agents, startup tools, and practical AI reviews.\n\n#Blink #BlinkNew #AISoftwareBuilder #AIAppBuilder #SaaSBuilder #AIAgent #ChromeExtension #MobileAppBuilder #AICoding #AITools\n\n📩 For business inquiries & collaborations: contact@zoetryai.com\n\n⚠️ Affiliate Disclaimer: Some of the links in this description may be affiliate links. This means I may earn a small commission at no extra cost to you if you choose to sign up or purchase through them. This helps support the channel and allows me to keep creating content like this.",
-      "commentCount": 4,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "rYb_xSjx-Fw": {
@@ -5482,15 +5504,6 @@
       "description": "Claude Code context engineering changed with Claude 5. I'm an ex-Amazon engineer breaking down Anthropic's new rules and running /doctor on my second brain to cut wasted tokens.\n\nKey takeaways:\n- Why instruction collision between your system prompt and CLAUDE.md burns tokens\n- How a kitchen sink CLAUDE.md loads 100% of the time for rules used 2%\n- How /doctor found 36 unused skills and freed ~6,000 tokens per session\n\n📌 Full article: https://x.com/trq212/article/2080710971228918066\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n📌 Mentioned:\n- Cut token usage 94%: https://youtu.be/UvVVATGIm7k\n- Daily usage limit fix: https://youtu.be/P_rZ5VR23aE\n\nTimestamps:\n0:00 Intro\n0:24 Why Context Breaks\n1:49 Kitchen Sink CLAUDE.md\n2:40 Running /doctor\n5:10 Reading the Report\n6:18 Cherry-Pick What to Keep\n7:10 Find Redundant Skills\n9:01 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
       "commentCount": 0,
       "likeCount": 3,
-      "probeClient": "web_embedded"
-    },
-    "ftIMAlNqbnM": {
-      "checkedAt": "2026-07-29T03:53:04Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Is generative AI just another creative tool, or are we on the verge of a catastrophic digital decay?\nEvery time we debate AI art, the conversation usually boils down to a familiar argument: \"Artists have always adapted to new tools\"\n. But viewed strictly as a tool, we are completely missing the real crisis on the horizon\n.\nThe actual threat to digital creativity isn't that humans will stop making art—it’s that the internet is being flooded with automated, AI-generated content at an unprecedented rate\n. And future models are going to be trained on that very same synthetic output\n.\nIn computer science, this recursive feedback loop is known as Model Collapse\n.\nThink of it like making a photocopy of a photocopy. The first scan is crisp, but pass that scan back through the machine five, ten, or twenty times, and the details blur, the contrast washes out, and you’re left with a degraded, unreadable image\n. Because AI models rely entirely on probability and statistical patterns rather than true understanding, training them on synthetic data forces the system to continually average out the results\n. It smooths over the weird, rare, brilliant \"edge cases\" that make art interesting, degrading into a bland, homogenized paste\n.\nWithout a continuous stream of authentic human work, AI doesn't evolve toward higher intelligence—it decays into statistical noise\n.\nThis technical wall reveals the core vulnerability of generative technology: it cannot generate new human experience\n. True human creativity comes from friction—our trauma, joy, political shifts, cultural subversion, physical limitations, and late-night mistakes that turn into accidental breakthroughs\n. These \"edge cases\" are precisely what give art its emotional resonance, and they are the exact elements that get erased when AI trains on itself\n.\nAs synthetic noise fills the web, messy, authentic human creativity won't just remain relevant—it will become the most valuable commodity in the entire digital ecosystem\n.\nTIMESTAMPS:\n0:00 - The AI Tool Debate: What We're Missing\n1:30 - What is Model Collapse? (The Photocopy Metaphor)\n3:45 - The Math Behind the Decay: Why AI Averages Out Brilliance\n6:15 - What is \"Human Friction\" and Why Can't AI Copy It?\n9:00 - The Future: Why Messy Human Creativity is the New Gold\n\nJOIN THE DISCUSSION: Do you think synthetic AI content will ruin the internet, or will human creativity always find a way to break through the noise? Let us know your thoughts in the comments below!\nIf you enjoyed this video, please Like, Subscribe, and hit the Notification Bell to stay updated on future deep dives into the intersection of technology, philosophy, and design!\n#AI #ModelCollapse #GenerativeAI #ArtificialIntelligence #Creativity #HumanFriction #TechCrisis",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "bK5FKDJEdE4": {
@@ -5601,7 +5614,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-30T01:53:26Z",
+      "checkedAt": "2026-07-30T02:53:32Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5702,15 +5715,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "Qnhq841KpjQ": {
-      "checkedAt": "2026-07-29T08:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Want to crack Software Testing & IT Interviews? Join this LIVE class now!\n🔥 Learn Agile vs Waterfall in simple Tamil + English and understand which model companies actually use in 2026.\n\n\nIf you're a Fresher, College Student, Manual Tester, Automation Tester, or IT Job Seeker, this session will help you understand one of the most frequently asked Software Testing interview topics.\n\nIn this LIVE class, you'll learn practical concepts with real-time examples that are useful for interviews, projects, and placements.\n\nAgile vs Waterfall Explained LIVE : https://youtube.com/live/qto9UMoAqxM\n\n📚 Topics Covered\n\n* What is the Software Development Life Cycle (SDLC)?\n* What is the Waterfall Model?\n* What is the Agile Model?\n* Waterfall vs Agile\n* Real-Life Examples & Industry Usage\n\n🎯 Who Should Attend?\n\n✔ Freshers\n✔ BE/B.Tech/BCA/BSc/MCA Students\n✔ Software Testing Aspirants\n✔ Manual Testing Beginners\n✔ Automation Testing Learners\n✔ IT Job Seekers\n✔ Career Switchers\n\n💼 Why Watch This LIVE?\n\n🔥 Interview-focused explanation\n🔥 Beginner-friendly examples\n🔥 Understand industry practices\n🔥 Improve Software Testing knowledge\n🔥 Increase your IT job opportunities\n\n-------------------------------------------------------------------------------\n\n\n📌 Course & Internship Enquiry – Contact Details\n🟢 WhatsApp Enquiry\n\n👉 📲 WhatsApp Link 1: \nhttps://www.kaashivinfotech.in/s/6262 📞⬅️\n\n👉 ➡️ 📞Whatsapp Link 2 : \nhttps://wa.me/919840678906?text=Hi_Need_Course_Details\n\n📞 Contact Numbers\n\n📱 +91 9840678906\n📱 +91 99620 66262\n📱 +91 7667663035\n\n--------------------------------------------------------------------------------\n\n📝 Course Enquiry – Registration Form\n📌 Apply here:https://www.kaashivinfotech.in/s/shorts\n\n🎓 Course & Internship Details\n\n💼 Internship Training in Chennai:\nhttps://www.kaashivinfotech.com/internship/\n\n📚 Courses in Chennai:\nhttps://www.kaashivinfotech.com/courses/\n\n--------------------------------------------------------------------------------\n\n📮 Email\n✉️ kaashiv.info@gmail.com\n\n📍 Office Address\n\n🏢 3A, 1st Cross Street, PH Road,\nNear Shenbaga Bhavan Hotel & Opp. FB Cakes,\nMaduravoyal, Chennai – 600095\n\n🗺️ Location Map:\nhttps://maps.apple.com/place?auid=1271880722805744599\n\n👉 Don’t miss this opportunity to learn directly from a placed student!\n👍 Like, Share & Subscribe for more placement success stories and live sessions!\n\n--------------------------------------------------------------------------------\n\n\nTags:\n\nAgile vs Waterfall, Agile Model, Waterfall Model, Software Testing, SDLC, Scrum, Sprint, Agile Methodology, Waterfall Methodology, Software Testing Tutorial Tamil, Testing Interview Questions, Freshers IT Jobs, IT Career 2026, QA Testing, Manual Testing, Agile Interview Questions, SDLC Interview Questions, Software Engineer Preparation\nkaashiv infotech review\nkaashiv infotech reviews\nkaashiv infotech review 2025\nkaashiv infotech internship\nkaashiv infotech student review\nkaashiv infotech feedback\nkaashiv infotech training\nkaashiv infotech company review\nkaashiv infotech internship review\nkaashiv infotech genuine review\nkaashiv Infotech True Google Review\nKaashiv infotech  Institute review\nKaashiv Infotech Original Review\n#1  IT institute in Chennai\n\n#Agile #Waterfall #SoftwareTesting #SDLC #Testing #ManualTesting #Freshers #ITJobs #KaashivInfotech #LiveClass #CareerGrowth #TechClass #InterviewPreparation #SoftwareEngineer #TamilTech #kaashivinfotechtruth  #kaashivinfotechreviews  #kaashivrealreview #kaashivinfotech",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "yDdh1oZIlog": {
       "checkedAt": "2026-07-29T09:53:09Z",
       "embedAllowed": true,
@@ -5730,15 +5734,6 @@
       "description": "In a long session, an AI coding agent reads about 25x more than it writes -- and once you understand why, you will use these tools completely differently. This video breaks down exactly how AI coding agents work, from simple autocomplete all the way to fully autonomous agents that read your code, write changes, run your tests, and fix their own mistakes.\nWe start with one simple mental model -- an agent is a model, a set of tools, and a feedback loop -- and use it to explain every level: autocomplete, chat, and the full agent. Then we go under the hood: how the agent decides which files to read, how a model that can only output text actually runs your terminal, why running tests is the habit that separates an agent from a confident chatbot, and how agent teams split big jobs into pieces.\n\nWHAT YOU WILL LEARN\n- The model + tools + loop idea that ties everything together\n- Why dumping your whole codebase into the prompt backfires\n- The agent loop: plan, gather context, edit, run, observe, repeat\n- Index-and-retrieve vs live exploration for finding the right files\n- How tool calls let a text model read files and run commands\n- Multi-agent teams and context isolation\n- The 6 ways agents break in production -- and how to prevent them\n\nTIMESTAMPS \n\n0:00 - Why most people use AI coding tools wrong \n1:30 - The Blueprint of a coding agent\n4:20 - The agent loop\n6:00 - Context is everything: how it picks which files to read \n8:50 - How a text model actually runs your code (tool calls) \n11:00 - The test loop and agent teams \n12:50 - Where agents break in production \n15:48 - Final remarks\n\n#AICodingAgents #SystemDesign #AIEngineering #LLM\n#KVCache #LLM #AIInfrastructure #GPUMemory #SystemDesign #MachineLearning #PagedAttention #PrefixCaching #AIEngineering #TransformerArchitecture #DeepLearning\n\nMastering System Design Interviews | Best online resource for System Design Interview Preparation is now online. Please visit: https://www.thinksoftwarelearning.com?utm_source=Youtube-coding-agent\n\nPlease follow me on https://www.facebook.com/Think.Software.Community if you like to get notified about new course chapters getting added or any other updates. I will also take your suggestions there about the course and the channel.\n\nCheck out our following articles:\n\n- How to design an LLM Inference Service: https://medium.com/@thinksoftware/how-to-design-an-llm-inference-service-585c949a7306\n\n- How to Ace Object-Oriented Design Interviews: https://thinksoftware.medium.com/how-to-ace-object-oriented-design-interviews-4f9a667e0780\n\n- Elevator System Design — A tricky technical interview question: https://thinksoftware.medium.com/elevator-system-design-a-tricky-technical-interview-question-116f396f2b1c\n\n- System Design of URL Shortening Service like TinyURL: https://thinksoftware.medium.com/tinyurl-design-from-the-bible-of-distributed-system-design-interviews-fcf821ec859\n\n- File Sharing Service Like Dropbox Or Google Drive — How To Tackle System Design Interview: https://thinksoftware.medium.com/how-to-tackle-system-design-interview-for-file-sharing-service-like-dropbox-or-google-drive-7983fdbf1a82\n\n- Design Twitter — Microservices Architecture of Twitter Service: https://thinksoftware.medium.com/design-twitter-microservices-architecture-of-twitter-service-996ddd68e1ca\n\n\n- How to Effectively Use Mock Interviews to Prepare for FAANG Software Engineering Interviews: https://thinksoftware.medium.com/how-to-effectively-use-mock-interviews-to-prepare-for-faang-software-engineering-interviews-7e7bffac978\n\n- Robinhood Backend System Design - How to receive realtime stock updates: https://thinksoftware.medium.com/robinhood-backend-system-design-how-to-receive-realtime-stock-updates-56cd0009bd0\n\n- Payment Gateway System Design — How does the Stripe work: https://thinksoftware.medium.com/payment-gateway-system-design-how-does-the-stripe-work-917b2ba976f\n\n- Grokking the Product Design vs. System Design Interviews: https://thinksoftware.medium.com/grokking-the-product-design-vs-system-design-interviews-419520a65d49\n\n- Selecting the best database for your service: https://thinksoftware.medium.com/selecting-the-best-database-for-your-system-design-interview-c184d6828694\n\n#SystemDesign #DistributedSystems #FAANG #Facebook #Google #Amazon #Apple #Microsoft #Uber #Netflix #Oracle #Lyft  #OpenAI #Anthropic #Interview #ComputerProgramming",
       "commentCount": 5,
       "likeCount": 6,
-      "probeClient": "web_embedded"
-    },
-    "6b5GyqAdSyM": {
-      "checkedAt": "2026-07-29T09:53:09Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Gemini Enterprise Agent Platform → https://goo.gle/4x2pKi8\nAnthropic's Claude on Google Cloud models → https://goo.gle/4fAqu8x\n\nGenerating code with AI is easy, but keeping your repo lean requires intentional design and strict developer oversight. In this video, Smitha, YK, and Lydia discuss practical tips for evaluating AI output, setting up agent environments, and mastering high level software architecture. Upgrade your dev workflow to maintain high code standards while building faster with AI agents.\n\nWatch more The Agent Factory: Developer Power-Ups → https://goo.gle/Supercharge-Devs\n🔔 Subscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#DeveloperPowerUps\n\nSpeakers: Smitha Kolan, YK Sugi, Lydia Hallie\nProducts Mentioned: Gemini Agent Platform, Claude",
-      "commentCount": 5,
-      "likeCount": 91,
       "probeClient": "web_embedded"
     },
     "hhxdoOCvpZ4": {
@@ -6627,6 +6622,42 @@
       "description": "Most brands have never checked whether AI actually recommends them. AI search visibility is how often your brand gets named in answers from ChatGPT, Perplexity, Gemini, Google AI Overviews, and Claude — and it works like a probability, not a ranking. In this video we run a live test, show who ChatGPT picks (and who it skips), and walk through how to check your own brand using a free AI visibility tool Trendos.\n\nAI search visibility matters because buyers now skip Google and ask AI directly: \"what's the best tool for X\" or \"which brand should I buy.\" The AI gives one answer, not ten links. Either your brand is in it, or your customer never sees your name. That shift is why generative engine optimization (GEO) and answer engine optimization (AEO) are becoming core marketing disciplines alongside SEO.\n\nWhat you'll learn: how to check if your brand is visible in AI answers, how to read competitor leaderboards, how to track visibility trends over time, and how to spot gaps across all five AI engines. We use Trendos, a free AI search visibility tool, to show you real results for a brand you already know.\n\n0:00 Brand searches have changed\n0:40 What we'll cover\n1:05 Asking ChatGPT a real buyer question\n1:30 Why asking once isn't enough\n1:55 Setting up your AI visibility tracking tool\n2:30 Visibility score explained\n2:50 Reading the AI search leaderboard\n3:30 Trend lines — who's rising, who's dropping\n4:20 Consistency: highest, lowest, average\n4:50 Different engine, different answer\n5:20 Check your own brand now\n5:50 What's next: GEO (generative engine optimization)\n\nTry Trendos free: \nhttp://bit.ly/4fYiZYW \nPresented by Gintarė Rimolaitytė, CCO @ Trendos\n#AISearchVisibility #GEO #AISeo",
       "commentCount": 1,
       "likeCount": 274,
+      "probeClient": "web_embedded"
+    },
+    "j5mrzbzYCqE": {
+      "checkedAt": "2026-07-30T02:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Let's build your first real automation in n8n, from a blank canvas, with no code.\n\nIn this lesson you build a simple lead-reply helper: a manual trigger, a step that holds a new lead's details, and an Anthropic (Claude) step that writes a warm, personal reply and invites them to a call. Click run, and the reply is drafted for you. It shows the pattern behind every automation - a trigger, then steps, in order.\n\nThis is Episode 7 of n8n Basics. Next up, we take this same automation further and have it run completely on its own.\n--------------------\nJoin my free Skool community (brand new, so get in early): https://www.skool.com/endpointai-1829/about\nSubscribe for the rest of the series: https://www.youtube.com/channel/UCs7u7QkBxZHMZ_Z1yzWYSbg\nBook a call or start a project: https://endpointai.app/\n--------------------\n\nComment the next automation you would like me to build - I turn the best ones into videos.\n\n#n8n #automation #nocode #aiautomation #n8ntutorial #claude #beginners",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "mW7ycdByPnc": {
+      "checkedAt": "2026-07-30T02:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🎟️ Use Discount Code for extra saving: \"SHUYT\"\nPabbly Connect Website: https://www.pabbly.com/out/pabbly-connect\nPricing Details: https://www.pabbly.com/out/connect-pricing\n\nWorkflow Link: https://connect.pabbly.com/v2/app/workflow/share/AEhWZFUCUjECSAVvDmsNKgkdAwdXDVNvXEUGFAQLAnpVDwlcBkcKYAlFUnBWEQRlXhdUPg5SAjhYTAMHVwFRIgQdBjpWVQV_Uh8IcwdWDD8AXlZ-VTQ#\n____________________________________________________________________\nWant to send Google Forms responses directly to Salesforce? In this tutorial, you'll learn how to connect Google Forms with Salesforce and automatically create new leads or contacts—without writing a single line of code.\n\nCapture every form submission in real time, sync customer information to Salesforce, eliminate manual data entry, and keep your CRM updated automatically. This workflow is perfect for sales teams, marketers, educational institutions, agencies, and businesses that use Google Forms to collect leads and Salesforce to manage them using Pabbly Connect.\n\nQueries:\ngoogle forms to salesforce\nsalesforce google forms integration\ngoogle forms salesforce automation\nconnect google forms to salesforce\nsalesforce CRM automation tutorial\n\nHashtags:\n#GoogleForms #Salesforce #SalesforceCRM #GoogleWorkspace #CRMIntegration #LeadCapture #FormAutomation #SalesAutomation #GoogleFormsAutomation #PabblyConnect #WorkflowAutomation #NoCode #BusinessAutomation #CRMWorkflow #LeadManagement\n\nUse Case:-\n\nWhenever someone submits your Google Form, a new Lead is automatically created in Salesforce with all the submitted details. This eliminates manual data entry, speeds up lead management, and ensures your sales team can follow up with prospects immediately. Ideal for lead generation forms, event registrations, contact forms, admissions, and customer enquiries.\n____________________________________________________________________\n\nPabbly Connect makes it easy to integrate and automate any software, marketing, sales, payments, or business processes quickly, without the need for any programming knowledge.\n\nBenefits of Pabbly Connect:\n\n1. Automation: Save time, money, and resources by automating tasks.\n\n2. Integration: Connect various web services to create efficient workflows.\n\n3. Security: Enjoy industry-standard security for your data.\n\n4. Scalability: Easily add new applications and services to your workflow.\n\n5. Cost-effective: Choose from plans suitable for different business sizes, with no charges for internal tasks.\n\nUnlike other integration tools, Pabbly Connect offers absolutely no charges for internal tasks such as mathematical operations, spreadsheet functions, time zone conversions and more. Additionally, you can create unlimited automation workflows for your business without any restrictions.\n\n-----------------------------------------------------------------------------------------------------\n\nAdditional Resources:\n\n📢 All Integrations: https://www.pabbly.com/out/all-integrations\n\n ❓Talk to our team at: support@pabbly.com\n\n ❓Ask your queries in Pabbly Forum: https://forum.pabbly.com/\n\n 📘Join the Pabbly Community & Grow Your Business 🚀 : https://pabbly.com/community\n\n\nDisclaimer: All Names, Mobile Numbers, and Emails used in the video are just for demo purposes. This is an educational video showing how to automate and integrate multiple platforms.",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "ZDh1005AOtM": {
+      "checkedAt": "2026-07-30T02:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "⚡ Become a top 1% AI builder: https://www.skool.com/tech-snack-pro\n\n🔥Join my FREE community with full guides & tons of prompts from past videos: https://www.skool.com/tech-snack\n\nIn this video I go over the open source tool Orca Dev & show how you can use it to orchestrate more agents more effectively.\n\n⌚Timestamps:\n00:00 Intro\n1:00 Orca Overview\n02:33 Orca Hierarchy Explained\n05:27 Using Different Projects\n07:05 Orchestration Layer (Using Different Models Together)\n10:12 Daily Bug Sweep Automation\n12:53 Agent Review Results\n13:42 Other Cool Features\n14:04 Mobile App\n15:07 What's Still Missing\n\n🗄️ Resources:\nhttps://www.onorca.dev/\n\n💪 Who Am I?\n\nMy name is Sean... I went from tech bootcamp grad to startup Sales Engineer, scaled a marketing agency to 8-figure ARR, and exited a small CRM along the way (sustained $250K ARR).\n\nThis channel is for fusing tech skills with business building experiences and sharing what I learn along the way.\n\n👇 My Other social accounts\n\n📸  Instagram:   https://www.instagram.com/seankochel/\n🐦  X/Twitter:  https://x.com/IAmSeanKochel\n👨‍💻  Linkedin:   https://www.linkedin.com/in/sean-kochel/",
+      "commentCount": 9,
+      "likeCount": 80,
+      "probeClient": "web_embedded"
+    },
+    "uksM6nK5zuo": {
+      "checkedAt": "2026-07-30T02:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn Claude Code + all my resources. Only $9.\n👉 https://www.skool.com/claudecodeclub\n\nSummary ⤵️\nAgencies charge $10,000 for websites that Claude Code can now build in an afternoon. This is the full masterclass — seven real builds, start to finish — and by the end you'll have shipped a real site live on the internet using the exact process I use for actual client work. \n\nBeautiful isn't what gets paid. Conversions are. \n\nIn this course I'll show you how to design with Claude Code across five levels, engineer sites around your buyer's own words with Fable 5, pull live data in with Firecrawl, deploy to GitHub and Vercel, and use Opus 5 to turn a one-time $10,000 site into a micro SaaS product that pays you every single month.\n\n⏱️ Chapters\n00:00 - Why sites sell for $10K\n01:11 - The five levels of design\n18:18 - Six pieces of $10K sites\n29:26 - Mobile microsites that convert\n39:25 - Live client data with Firecrawl\n48:16 - Ship a real app live\n1:04:44 - Turning sites into monthly revenue\n1:37:18 - How to get Better output from your AI agents",
+      "commentCount": 17,
+      "likeCount": 98,
       "probeClient": "web_embedded"
     }
   }

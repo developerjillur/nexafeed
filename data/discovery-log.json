@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T01:53:26Z",
+  "updatedAt": "2026-07-30T02:53:32Z",
   "items": [
+    {
+      "id": "j5mrzbzYCqE",
+      "type": "short",
+      "source": "secondary",
+      "channel": "endpointAI",
+      "publishedAt": "2026-07-29T18:53:32Z",
+      "firstSeenAt": "2026-07-30T02:53:32Z"
+    },
+    {
+      "id": "mW7ycdByPnc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-07-29T16:53:32Z",
+      "firstSeenAt": "2026-07-30T02:53:32Z"
+    },
+    {
+      "id": "ZDh1005AOtM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sean Kochel",
+      "publishedAt": "2026-07-29T14:53:32Z",
+      "firstSeenAt": "2026-07-30T02:53:32Z"
+    },
+    {
+      "id": "uksM6nK5zuo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Duncan Rogoff | Learn Claude Code",
+      "publishedAt": "2026-07-29T14:53:32Z",
+      "firstSeenAt": "2026-07-30T02:53:32Z"
+    },
     {
       "id": "v8vsKuKkAbU",
       "type": "short",
@@ -5276,6 +5308,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-07-30T02:53:32Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
