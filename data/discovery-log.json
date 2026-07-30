@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T17:53:38Z",
+  "updatedAt": "2026-07-30T18:53:10Z",
   "items": [
+    {
+      "id": "9VK5jrqGbYk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-07-30T17:55:40Z",
+      "firstSeenAt": "2026-07-30T18:53:10Z"
+    },
+    {
+      "id": "7Rmz0u19PNw",
+      "type": "short",
+      "source": "secondary",
+      "channel": "H2H Technology",
+      "publishedAt": "2026-07-30T17:53:10Z",
+      "firstSeenAt": "2026-07-30T18:53:10Z"
+    },
+    {
+      "id": "vp6Dlx5aHDU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech With Tim",
+      "publishedAt": "2026-07-30T12:53:10Z",
+      "firstSeenAt": "2026-07-30T18:53:10Z"
+    },
+    {
+      "id": "kC8NMSS5Nac",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AICodeKing",
+      "publishedAt": "2026-07-30T09:53:10Z",
+      "firstSeenAt": "2026-07-30T18:53:10Z"
+    },
+    {
+      "id": "hg_B4EFi8Ps",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-07-30T09:53:10Z",
+      "firstSeenAt": "2026-07-30T18:53:10Z"
+    },
+    {
+      "id": "UzjaNklcQ9k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "You B Tech",
+      "publishedAt": "2026-07-30T08:53:10Z",
+      "firstSeenAt": "2026-07-30T18:53:10Z"
+    },
+    {
+      "id": "hMb1ivZyFLU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WorldofAI",
+      "publishedAt": "2026-07-30T06:53:10Z",
+      "firstSeenAt": "2026-07-30T18:53:10Z"
+    },
     {
       "id": "SxMuoiCYGMk",
       "type": "long",
@@ -5988,6 +6044,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-07-30T18:53:10Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
