@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T11:53:45Z",
+  "updatedAt": "2026-07-30T12:53:48Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -1788,15 +1788,6 @@
       "likeCount": 496,
       "probeClient": "web_embedded"
     },
-    "pSI1xxh3lAw": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 160,
-      "likeCount": 11360,
-      "probeClient": "web_embedded"
-    },
     "QucgvbO5gsM": {
       "checkedAt": "2026-07-27T07:46:18Z",
       "embedAllowed": true,
@@ -3525,69 +3516,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "G2BP1KfK0qQ": {
-      "checkedAt": "2026-07-28T17:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "The US banned this Chinese AI company from buying NVIDIA AI chips.\n\nMost people expected progress to slow down.\n\nInstead, the company trained its latest AI model on Huawei AI chips and the results surprised everyone.\n\nTheir new coding agent, Z-Code, powered by GLM 5.2, reportedly outperformed Claude Code on a cybersecurity benchmark while costing nearly 6× less.\n\nIt doesn't stop there.\n\n• Writes production-ready code\n• Handles large coding tasks autonomously\n• Supports a 1 million token context window\n• Open-source with lightweight models you can even run locally\n\nThis raises a much bigger question:\n\nDo export restrictions slow innovation... or do they force companies to innovate even faster?\n\nIf you want to try Z-Code, comment \"ZCODE\" and check the pinned comment.\n\nFor more AI tools, AI news, coding agents, GitHub repositories, and practical AI content, don't forget to subscribe to bpro!\n\n#AI #ClaudeCode #NVIDIA #ChinaAI #bpro\n\nTags:\n\nWhat is Z-Code AI, What is GLM 5.2, What is Claude Code, What is NVIDIA AI, What is Huawei AI chip, AI coding assistant, Best AI coding tools, AI coding tutorial, How to use AI for coding, How to use Claude Code, ChatGPT coding, AI programmer, AI code generator, Open source AI, Open source coding model, AI news, Latest AI news, Artificial Intelligence, AI explained, AI tools, AI for developers, Coding with AI, AI automation, AI GitHub projects, Technology news, Tech news today, China AI, NVIDIA news, Future of AI, bpro",
-      "commentCount": 5,
-      "likeCount": 81,
-      "comments": [
-        {
-          "id": "Ugx0r9v9nv1wCOk7-qF4AaABAg",
-          "author": "@Bproclub",
-          "text": "https://zcode.z.ai/en",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Y2wqg8Jrk4tANVG3LT2ZEkVs-6wlESz8NvwUMrqfBghyS3VQsJLlfpoq4gQX8g31Qty_Kx0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "UgzjP-Er3BQzxgCLmat4AaABAg",
-          "author": "@TechTeenuAi",
-          "text": "Good information mam",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T16:59:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/17N6JWDkXdnGPq9bceCDho1NSYw7OWPIB6--SR6UheFLOIVfo1l-fE6NdNA_WgOR973XGXnA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyPy43nZQfpEdYSrnN4AaABAg",
-          "author": "@TheAurumVision7",
-          "text": "Link place",
-          "likeCount": 1,
-          "publishedAt": "2026-07-28T09:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/rR8horT2Q7yczC_0KQQxZFrbouD9Fnv83MJ6su0aT-UNQtnAO5YComFPKgYpLAZengtFxbwZQw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyRThePYHyjJL-XJXl4AaABAg",
-          "author": "@bensalwador3626",
-          "text": "Zcode",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k6cyNQDT67NnRd2vfDi_xjlyTYDk7Tqof8zbkBcUE=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyTzyr438_c1Itltsh4AaABAg",
-          "author": "@Khurram-y1y",
-          "text": "China china china. India sirf gol.gappay banata hai.",
-          "likeCount": 1,
-          "publishedAt": "2026-07-27T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lRt6WW5Mx5FaSdPV8ixuBiNJFziWhpT_Q-GYTOIS-GLMjrDl8d6eWdF16o0T_syLL2Vw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-28T17:53:43Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "2jsjiwV_1pA": {
       "checkedAt": "2026-07-28T18:53:48Z",
       "embedAllowed": true,
@@ -3825,79 +3753,6 @@
       "likeCount": 18,
       "comments": [],
       "commentsFetchedAt": "2026-07-29T03:53:04Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "KgQMZN0lgiI": {
-      "checkedAt": "2026-07-29T05:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Our Journey From 0 To 1.3 crore Full Video - https://www.youtube.com/watch?v=VLJNNyspsVs\n\nCourse - https://harkaransingh.graphy.com",
-      "commentCount": 6,
-      "likeCount": 19,
-      "comments": [
-        {
-          "id": "UgzZfg8uraL0ACoflUN4AaABAg",
-          "author": "@Riderstar1137",
-          "text": "Facebook",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T15:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/7yJH07lb8i1lmwiOe4COXe-IEGMY00fyqs7r5FoThNxLiGKmYXoHFwk4HR5jNYixNGzEYZI7nw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw7feTZgdOV9AiODCR4AaABAg",
-          "author": "@kannannandy",
-          "text": "Facebook",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T13:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kf6yS81429yqg7_X3bhDG69q4TB12mSg3IPbfLolz2Jfmg4uYJgWnOoDvGQ6vX7dSv2A=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw-mWN5AguPhHVb9NZ4AaABAg",
-          "author": "@SmileKing-c5s",
-          "text": "Facebook",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/aNreeDjswD7ORYiQce95uI6QhPoeK8-s5xLCdj-1n668x4khkZjLHwIXYK85kOmtdtDzFaOu=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzmF1F1wxu_xWhHmKd4AaABAg",
-          "author": "@birenkitrading7874",
-          "text": "Facebook",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T10:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nAIDv27SFRvEg6XfudasjZ2so8Wbi6eiVwcVS9_qKN8N0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugzft7TCUpbxXK7kso14AaABAg",
-          "author": "@eztech8179",
-          "text": "facebook",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T09:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kQh6rzoq83YiPoQZQSDPnImDjZShK1aYYJb5-GwI6cLQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyH8ByNP_mJMUHNyAJ4AaABAg",
-          "author": "@ParasPandey000",
-          "text": "Facebook",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T08:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k5cDeE7ZSupaJSC4cbC4Lc-ZYG32MTfK18JV-B2eQ1eA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-29T05:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5491,7 +5346,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-30T11:53:45Z",
+      "checkedAt": "2026-07-30T12:53:48Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5651,119 +5506,231 @@
       "probeClient": "web_embedded"
     },
     "ZHfAiFvr2Is": {
-      "checkedAt": "2026-07-29T12:53:11Z",
+      "checkedAt": "2026-07-30T12:53:48Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 5,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-29T12:53:11Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "zkYfjuJYg_U": {
-      "checkedAt": "2026-07-29T12:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 0,
-      "likeCount": 1,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-29T12:53:11Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "D4fxcACCdEc": {
-      "checkedAt": "2026-07-29T12:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 8,
-      "likeCount": 432,
+      "commentCount": 7,
+      "likeCount": 254,
       "comments": [
         {
-          "id": "UgzqkqqFtgk_DZWnvnl4AaABAg",
-          "author": "@MdAbusad-k7m",
-          "text": "Yaar 11th me hu",
+          "id": "UgxcyVG5dKv0MFFeWH14AaABAg",
+          "author": "@ABCDSchoolofDance",
+          "text": "Skill",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T12:49:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNkj4pW6jUvChG4gBzsrYlBtzdpsU-SuNMu6MPKVmDoCxY2_D05vAOfPJE2IATJUm0Sw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_llvM5yqW5_wFDJibn7AotVJr9toj4hPbfEVi7tJl7ZxGYA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxZRP2HeoJ62Ho33V54AaABAg",
-          "author": "@jayantJ5",
-          "text": "Moon par bhejo (Space mission) 🎉",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T12:43:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/N_HRmKeHcD2YAn9ek5zh7qA63mzKd1Nsz710YEI5wFyil4tKuCgs15DrO0VPrOYoXRnMIGSK6mw=s88-c-k-c0x00ffffff-no-rj",
+          "id": "Ugz3kC7xH3fFPKHgtip4AaABAg",
+          "author": "@neerajvishwakarma8025",
+          "text": "Skill",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mYVzhDe6hJAo_DJCJ4XqHywr0Yus61GGN5QVjecUc-L4k=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugwfx-vpb_JD4IafFB94AaABAg",
-          "author": "@KushalVerma-v1n9o",
-          "text": "Kya aap ak short ai engineer par bhi bana skte ho   me ai engineer banana chata hu",
-          "likeCount": 2,
-          "publishedAt": "2026-07-29T12:39:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mo-ngw2iXTjilc4X3R9TWfKMVubJaaWmP-E9AYx2N-KkwGfZ7Ck2wgooJGVstqf0wbRw=s88-c-k-c0x00ffffff-no-rj",
+          "id": "Ugz1IP7ZdxFOlbCt4_p4AaABAg",
+          "author": "@dipakjagdhane3612",
+          "text": "Skill",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m5DnK0EVL8qFnnPSmvi9FQ9sSxTsC93qd8NVkXYew=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyCX9Low3epa2IZ-LN4AaABAg",
-          "author": "@SANJU.STUDY.X",
-          "text": "😂😂",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T12:37:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ocStV15JU9gD1y9ccqzF5oJdGfOp5KE1LWPsRsxwMYnX28Mn1YU2NLp-4Q7tfL_V2E932dqO=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgwoZSINID8JWwDZl094AaABAg",
+          "author": "@faiselraja00",
+          "text": "Skill",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_la7_Nh98WjKI99wVKw8o_wlVgJiD-jzrFwWnLQA7TN0A=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzERzMcsiyV3yThdsN4AaABAg",
-          "author": "@SandeepKumar-fk1up",
-          "text": "First comment karne wale koi fyada nhi h 😂",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T12:36:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/WwQw3Q8dnkHSTsjayzzEY53nZYj5jiKnFFun3H-sAU18Adv7dn-vxT0fHQxawogcVD8npP2bVw=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgzcI9wDOs9O5ofWDGF4AaABAg",
+          "author": "@srikrishnan3788",
+          "text": "Skill.",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m3vs55Icn4wAmY6qImZ1mmZRDCMI6GI4xrdMwXfzs=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugy0CBLdj9xgvKZffgN4AaABAg",
-          "author": "@Rajkumaripal-01",
-          "text": "Artificial intelligence Day by Day ☠️☠️",
-          "likeCount": 3,
-          "publishedAt": "2026-07-29T12:34:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kMYxzuoALeklp701_RTTqcGyDmQBNx8RUq7hexDYiJAbjeefA32v6O8iwKUH_tJvomYg=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgwW7cShlP6jEA7nuaJ4AaABAg",
+          "author": "@shaikrafi7430",
+          "text": "Skill",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lt4PfYkATXgaYKihyiUtwKJSsLV_LbnEb59YLL37aHy9GG=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgywkRyfew5SYMiZImp4AaABAg",
-          "author": "@EchoNewsOffical",
-          "text": "I am from your favorite country pakistan",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T12:34:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/OUypYh2FNSOApoRojMKEZh6kUSw3JUuDu-z7tpZm_PC1xcptFvgVnwUs3GKJcu_m6llR0yIQ3g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz8PLSgoDsbRPNBrqN4AaABAg",
-          "author": "@YoSathGamer",
-          "text": "First comment",
-          "likeCount": 2,
-          "publishedAt": "2026-07-29T12:34:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/hxL0CuGAPwiucwoFphAcN65qBo6eDejqXB8qayFXmPhtVnbjtiV-D198YCx6AAOtNgfDnDDB=s88-c-k-c0x00ffffff-no-rj",
+          "id": "Ugz3X7fo_XUW8k6vDZV4AaABAg",
+          "author": "@manishk8527",
+          "text": "Skill",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mtUUYwwXzlCDxZHjLSUO5ibamZHbfgVbBbBOzunRsf1uc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-29T12:53:11Z",
+      "commentsFetchedAt": "2026-07-30T12:53:48Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "zkYfjuJYg_U": {
+      "checkedAt": "2026-07-30T12:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 4,
+      "likeCount": 533,
+      "comments": [
+        {
+          "id": "UgwcsgeGxop1KzD3USx4AaABAg",
+          "author": "@TrueSecretpolitics",
+          "text": "I don’t understand, I don’t have money to pay for Claude code. I need a job",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/1p8PsC82rtSKSKE3KVFrsYvGo98iVYhAXSIq0E3OdOjpOSPFJwwu5yKOm-rfs6k9piU4d7Wajz8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw6avh-mQ0TiF0xElZ4AaABAg",
+          "author": "@niketjain3668",
+          "text": "Turn on your turn signal next time daddi",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lpDwjw8RerV8SwkU8d83SejamsSx92haz5HmC4e6jsaBU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy4IA2z1eCI1ZSfCBZ4AaABAg",
+          "author": "@paulm1237",
+          "text": "AI job applications being turned down by AI hr screening, for jobs being replaced by AI. It's turtles all the way down isn't it",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/eG3WNKD9CFXsK0yefIVi_RyZKQQhjxaa1DUGZa373p3YoQmZIvJcRaae-01uYai7YV183sW7vdI=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwSkRoerQlhMCVidqF4AaABAg",
+          "author": "@Solarshot43",
+          "text": "Looks like its gonna be a terrible life we have set up by the corps for the next 10yrs",
+          "likeCount": 3,
+          "publishedAt": "2026-07-29T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/DwikHY0IYZ_1wHtPseHdiQ3JqqFlsR5npPr2tw62Af6h6wuMMGP-qHzZiOtc_d4jwLkJ2nsQpA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T12:53:48Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "D4fxcACCdEc": {
+      "checkedAt": "2026-07-30T12:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 8,
+      "likeCount": 6312,
+      "comments": [
+        {
+          "id": "UgxLDStshbzJOkTUegJ4AaABAg",
+          "author": "@Amit-zxr2.0",
+          "text": "Pepper hindi me hoga",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ALnPcjauAX00uIVjhWqmkQdUsQ_-BpATfVM4ehkxHWZToLdQVJJqtZ_Nn6wIEWbFp-zT5e1Zqg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz1wG3UdWGVAcMbOF94AaABAg",
+          "author": "@statusshorts785",
+          "text": "Galgotiya come on my boy 😅",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/8Kl6Kkkk7HL01_ItUlDuM60bPO3ptiOJBl_E5DxbYJG2TGqP1xrU_Tvm6E7-bQIisFc43sMmMQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwDjq9xy-G4zF-lxTR4AaABAg",
+          "author": "@Nixanroy",
+          "text": "मै ai हु रे india मे यही होता है 😅😢",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/9YIvfFArWjoQOVTdmRWOEe06lRWm_gHkkdirGzM0OB80BN_sj5aXZ4szebf6VqGizK1DsK56-yw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwRijuZzyGgNooNMVB4AaABAg",
+          "author": "@AjitKumar95-w7l",
+          "text": "Sir mai abhi 11th me hu aur maine commerce stream li hai mai CA bhir ACCA karna chahata hu kya ye sahi rahega future ke hisab se",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/I9JglPoo3wjbe1Ctu7ZxYRpH8RuGjoI0ZtYUzYLzOkMDUu-Plz5fkZdK0znoZjCxJOsIk2ybIhk=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxQLr-0YNAbkfZ6YxZ4AaABAg",
+          "author": "@Technotreon",
+          "text": "Robot: 6 m/s pe bhaag raha hai\nMe: stairs dekh ke lift dhund raha hoon 😂",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/mtUX-s25j_ZGy1lhb8l3e4Myfaw-YWRoiNoSroK8nJ4C6ywNrulzXsYhYSaJIq1P9rmCu8DIeg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyGpUTWGo87SdofZdR4AaABAg",
+          "author": "@i-am-a-nooob",
+          "text": "Price ??",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/qgV6lwNYB_gIhpDKnwxt-0qGjmYvwUvxGWG8T9Herqff8AQTD7P1DYoMXvCflPeknbBQ0SH_jg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy2q51LWaXSMD1HrOd4AaABAg",
+          "author": "@manuelrodrick2998",
+          "text": "Sab loot ne mai lage huye hai.",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mr68xVtwCG59pwmahbvxeUcHUl64CSuCgVw8ACQsQ8kw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxcntdS_mDthGV99dJ4AaABAg",
+          "author": "@jayeshchari2741",
+          "text": "Us ai summit ki wajah se chinese robot company ki marketing mast hogai 😂😂😂😂",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mtExry_HtR49WFFW_ZenAsF87Ex5LMTfSqZj1Cd3l5vsk=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T12:53:48Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6422,12 +6389,6 @@
       "availability": "public",
       "failureReason": "embed_disabled"
     },
-    "u8o8OAbLuDo": {
-      "checkedAt": "2026-07-30T07:53:15Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "G1AcVqBZZ4s": {
       "checkedAt": "2026-07-30T07:53:15Z",
       "embedAllowed": true,
@@ -6458,14 +6419,6 @@
       "description": "The FREE AI Coding Agent Nobody Is Talking About VS Code and OpenRouter free API key.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Everyone's talking about GitHub Copilot, Cursor, and Claude Code — but they all cost money. \nIn this video, I'll show you how to set up Cline, a completely FREE and open-source AI coding agent inside VS Code, powered by free models on OpenRouter. No credit card. No subscription. No API cost.\n\nWhat you'll learn:\n\n• What Cline is and why it's different from autocomplete tools\n• How to get a free OpenRouter API key (no card needed)\n• Which free models are best for coding right now\n• How to install and connect Cline in VS Code\n• Live demo: Cline builds a full webpage from one sentence\n\n Free Models Used in This Video:\n\n• Laguna M.1 by Poolside (best for coding agents)\n• gpt-oss-120b by OpenAI (strong general coding)\n• NVIDIA Nemotron 3 Ultra (massive context window)\n→ Always check openrouter.ai/models for the latest free list — it rotates!\n\n🔗 Links:\n\n• Cline Extension → https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev\n\n• Cline GitHub → https://github.com/cline/cline\n\n• OpenRouter → https://openrouter.ai\n\n• Free Models List → https://openrouter.ai/models (filter: Free)\n\n⏱ Timestamps:\n0:00 – Why free AI tools beat paid ones\n0:25 – What is Cline?\n0:45 – Get your free OpenRouter API key\n2:00 – Install Cline in VS Code\n2:45 – Connect Cline to OpenRouter free models\n3:30 – Live demo: Cline builds a portfolio page\n\n\n💬 Drop a comment below — what do you want Cline to build next?\n\n#Cline #VSCode #FreeAI #OpenRouter #AICodingAgent #WebDevelopment #FreeCodingTools #HMAWebCode",
       "commentCount": 0,
       "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "MgZX9PPjUyw": {
-      "checkedAt": "2026-07-30T07:53:15Z",
-      "embedAllowed": true,
-      "description": "This is a clip from CloudGeometry's webinar, \"AI coding tools are not a software development process.\"\n\nIn the clip, we get into why faster code generation is not the same as faster delivery, and what it takes to turn AI-generated change into something safe and shippable.\n\n▶ Watch the full session here: https://www.brighttalk.com/webcast/20981/671340?bt_tok={{bt_fastpass_token}}&utm_source=CloudGeometry&utm_medium=brighttalk&utm_campaign=671340\n\nIn the full webinar we cover the gap between AI productivity and enterprise delivery, the questions to ask before investing in AI coding tools, and how a governed, AI-managed software lifecycle keeps humans at the gates with every change traceable, plus a live demo.\n\nLearn more about AI-MSL: https://lp.cloudgeometry.com/managed-ai-software-delivery/\nSubscribe for more on governed, AI-powered software delivery.\n\n#AIMSL #CloudGeometry #AICodingTools #SoftwareDelivery #AIGovernance #SDLC",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "vYgnAWX46Tc": {
@@ -6744,6 +6697,88 @@
       "description": "Gemini Enterprise Agent Platform → https://goo.gle/4x2pKi8\nAnthropic's Claude on Google Cloud models → https://goo.gle/4fAqu8x\n\nAre AI coding agents killing developer craft, or are AI coding agents being used incorrectly? In this discussion, YK and Lydia break down why using Claude Code requires shifting your mindset from writing code to mastering code review, testing, and production safety. Watch along and learn how to leverage draft PRs, git hooks, and verification layers so you never ship unvetted AI-generated code.\n\nWatch more The Agent Factory: Developer Power-Ups → https://goo.gle/Supercharge-Devs\n🔔 Subscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#DeveloperPowerUps\n\nSpeakers: YK Sugi, Lydia Hallie\nProducts Mentioned: Gemini Agent Platform, Claude",
       "commentCount": 3,
       "likeCount": 84,
+      "probeClient": "web_embedded"
+    },
+    "07VrcsBkErI": {
+      "checkedAt": "2026-07-30T12:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "learn why and how you can make international content for youtube",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-30T12:53:48Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "4IW5yEEUafo": {
+      "checkedAt": "2026-07-30T12:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "GitHub's #1 trending AI project just crossed 22,000+ GitHub stars, and it might be one of the biggest AI creator tools released this year.\n\nImagine giving an AI just one prompt...\n\nIt researches the topic, writes the script, generates visuals, creates voiceovers, adds subtitles, edits everything together, and exports the final video automatically.\n\nThat's exactly what this open-source agentic video production system claims to do.\n\nIn this video, you'll discover:\n• Why this AI tool is trending on GitHub\n• How it works with Claude Code and Cursor\n• How it automates the entire video creation process\n• The surprisingly low cost of generating AI videos\n• Why this could completely change content creation for creators, marketers, founders, and businesses\n\nYes, the setup is slightly technical since you'll need Python, FFmpeg, and Node.js, but once it's running, it can function like your own AI-powered video production team.\n\nIf you're serious about AI, automation, content creation, or building with the latest AI tools, you're in the right place.\n\nSubscribe to BPro because we don't just cover viral AI tools. We explain what they do, why they matter, how they actually work, and how you can use them to save time, build faster, and stay ahead before everyone else catches on. Every week you'll discover practical AI tools, AI agents, startup trends, productivity hacks, and real-world AI workflows that actually make a difference.\n\n Link to the tool is in the pinned comment.\n\n#AI #AITools #GitHub #ClaudeCode #CursorAI\n\nGitHub AI, GitHub AI tools, GitHub trending AI, GitHub trending repository, GitHub projects, best GitHub AI projects, open source GitHub AI, Open source AI, open source AI tools, open source AI video generator, free open source AI, AI GitHub repository, how to create videos with AI, how to automate video creation, best AI video generator, what is agentic AI, how does Claude Code work, how to use Cursor AI, best open source AI tools, best AI tools for content creators, how to make AI videos, AI video workflow AI tools, best AI tools, latest AI tools, free AI tools, new AI tools, trending AI tools, AI software, AI automation tools",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-30T12:53:48Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "p-EnoKm4EWM": {
+      "checkedAt": "2026-07-30T12:53:48Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "nU0MInU5nN4": {
+      "checkedAt": "2026-07-30T12:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 3,
+      "likeCount": 177,
+      "comments": [
+        {
+          "id": "Ugyxo6265M_o5oFDKCZ4AaABAg",
+          "author": "@NamedSoni",
+          "text": "Their server is gonna crash.",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T12:28:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Ldfibv8xGtBrdccgfeSf5mtJnDGm0aCwd717l5m_Xcn_4J7pVPtq4fh1f94-Q52uAgdDUbduNtE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwHcxXmKlxtsoulj-J4AaABAg",
+          "author": "@HariBonthu-j8b",
+          "text": "Varun when you are going to give update on Nvida Jetson?,Pls give us update on giveaway of Nvidia Jetson AGX thor we are waiting for that from so long time.",
+          "likeCount": 10,
+          "publishedAt": "2026-07-30T12:19:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nKOqIVC_wjCGDpD96rhr1ZSOIcdvmYOi5pFdtljKl4eJy8AVLi8mdgjfZHrXpiFTZecw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwIuEjvJ-ercbTMLxB4AaABAg",
+          "author": "@YogeshRajput33",
+          "text": "Hello varun bhai I saw latest unleash the Avatar trailer i loved this game and in can't wait for ❤️",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T12:18:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1KvAGIZxNPAyEhFYMYyuju70H8vKM0XSdqEXa1dKZoyLFocgeefVCctnptLOPf06s6A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T12:53:48Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "Z57eo8ALOdc": {
+      "checkedAt": "2026-07-30T12:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Platform used : https://supabase.link/7iFCRoT  \n\nMost developers spend weeks building authentication, databases, and backend APIs before they can even launch their first app. But what if you could set up a production-ready backend in minutes instead of days?\n\nIn this video, I've shown how to use Supabase to build a complete backend without managing servers. You'll learn how to create a project, connect your application, set up a PostgreSQL database, implement authentication, manage real-time data, and use storage for your apps.\n\nI'll also share practical tips, common mistakes to avoid, and the workflow that makes Supabase one of the fastest backend solutions for developers building modern web applications.\n\nI created this video to help beginners and developers save time, focus on building products, and understand backend development without unnecessary complexity. Whether you're learning full-stack development, building side projects, or creating your next startup idea, this tutorial will help you get started.\n\nIf you enjoy practical content on web development, AI, coding, backend development, and career growth, subscribe for more.\n\n\n❤️ ❤️  Saumya Di’s First Book  (A small gift for favourite subscribers ): https://store.bookleafpub.com/discount/MAY26?redirect=%2Fproducts%2F9788199612686\nDiscount code: MAY26\n\n\n✨ For 1:1 Guidance from Saumya Di - https://topmate.io/saumya1singh\n✨ Join Broadcast Channel - https://www.whatsapp.com/channel/0029VbAnnzw6hENpACnPoq03\n\n✨Share your progress & learnings on✨\nInstagram: https://www.instagram.com/saumya1singh/\nTwitter: https://x.com/saumya1singh\nLinkedIn: https://www.linkedin.com/in/saumya1singh/\nYoutube: https://www.youtube.com/@saumya1singh\n\n✌🏻 FREE Agentic AI Course with Certificate ✌🏻\nhttps://youtu.be/uYmIFc7gUyk?si=BoNr9U1fMlNt8fID\n\n✌🏻 FREE Python Course with Certificate ✌🏻\nhttps://www.youtube.com/playlist?list=PLTV_nsuD2lf7JOwZdSWuup-YO0AUaDQti\n\n✌🏻 Free Android App Development Playlist | 30 Days of Coding Challenge ✌🏻\nyoutube.com/playlist?list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8\n\n🪴 Making you Successful & Aware.\n❤️ Excel in life and tech with me!  \n\nComment \"#SaumyaDi\" if you read this ❤️😍\n\nDon't forget to hit the like button, subscribe to the channel, and press the notification bell to get updates. Also, share your thoughts in the comment section.\n\n📚 Books I Recommend for Learning & Growth\n\nDeep Work - https://amzn.to/4grerZG \nAtomic Habits - https://amzn.to/4n8iz3f \nCracking the Coding Interview - https://amzn.to/46syliC \nPsychology of Money – https://amzn.to/4gwm3dD \n\n💻 Tech & Gear I Use for Work + Videos\n\nLaptop: https://amzn.to/488KtI7 \nMonitor: https://amzn.to/423xYcW \nCamera:https://amzn.to/4pm9kOy \nMic: https://amzn.to/46HzWSO \nRing Light: https://amzn.to/3VV7CWP \nTripod: https://amzn.to/3K8k0QS \nHeadphones: https://amzn.to/4mnmHeM \nChair: https://amzn.to/4ptn0XZ \n\n🎥 My YouTube Creator Setup\n\nStorage: https://amzn.to/4pw1AJS \niPhone : https://amzn.to/3K8k7Mi \n\n#nocoding #ai #vibecoding #appdevelopment #makemoneyonline #makemoneywithai \n\nKeywords : \n[chatgpt, generative ai,openai,artificial intelligence,ai,make money with ai,ai business ideas,ai automation agency,ai automation,ai business,ai automation business,ai agent,ai agents,ai agent tutorial,ai tutorial,building ai agents,websites,web apps,no code,vibe coding,vibe coding tutorial,vibe coding course,vibe, vibe coding app,ai coding,ai app development, how to build a full stack web app using ai, how to build a full stack web application using ai, vibe coding, build a full-stack quiz ai application, how to build a full stack web app using ai, how to build a full stack web application using ai, vibe coding, b tech,ai app builder,no code app,saas tutorial,ai coding,web development,ai website builder,ai startup,vibe coding,saas development,full stack tutorial,ai tools,coding tutorial,web app tutorial ]\n\nDisclaimer:\nThis video is created strictly for educational and informational purposes only.\n\nWe only share ethical, genuine, and legal ways to learn & grow.\n\nThis channel does not encourage scams, spam, or any activity that violates Youtube policies or laws. We do not promote any misleading schemes.",
+      "commentCount": 52,
+      "likeCount": 159,
       "probeClient": "web_embedded"
     }
   }

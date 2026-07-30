@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T11:53:45Z",
+  "updatedAt": "2026-07-30T12:53:48Z",
   "items": [
+    {
+      "id": "07VrcsBkErI",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-07-30T12:39:20Z",
+      "firstSeenAt": "2026-07-30T12:53:48Z"
+    },
+    {
+      "id": "4IW5yEEUafo",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-07-30T12:29:03Z",
+      "firstSeenAt": "2026-07-30T12:53:48Z"
+    },
+    {
+      "id": "nU0MInU5nN4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-07-30T12:14:27Z",
+      "firstSeenAt": "2026-07-30T12:53:48Z"
+    },
+    {
+      "id": "Z57eo8ALOdc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Saumya Singh",
+      "publishedAt": "2026-07-30T11:53:48Z",
+      "firstSeenAt": "2026-07-30T12:53:48Z"
+    },
     {
       "id": "aJPotSxvIAU",
       "type": "short",
@@ -5710,6 +5742,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-07-30T12:53:48Z",
+      "new": 4,
+      "long": 1,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
