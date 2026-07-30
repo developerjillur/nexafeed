@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T14:53:06Z",
+  "updatedAt": "2026-07-30T15:53:16Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -84,14 +84,6 @@
       "description": "Canva Code 2 combines AI website generation with Canva's visual editor, making it easy to customize AI-generated sites without touching code.\n\nStart with a prompt, then edit text, swap images, change fonts and colors, or refine individual elements directly inside Canva. You can even import websites created with other AI builders and continue editing them instead of starting over.\n\nIf you've been using AI website builders but wanted more creative control, Canva Code 2 is definitely worth checking out.\n\n#canva #aicode #webdesign #ai #vibecoding",
       "commentCount": 6,
       "likeCount": 192
-    },
-    "1BNd4jUdohE": {
-      "checkedAt": "2026-07-27T07:24:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 2,
-      "likeCount": 531
     },
     "UUXw6u6louA": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -5907,31 +5899,31 @@
       "probeClient": "web_embedded"
     },
     "Df2HYYjz9IU": {
-      "checkedAt": "2026-07-29T14:53:13Z",
+      "checkedAt": "2026-07-30T15:53:16Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "$13 Cinematic Website\n\nhttps://youtu.be/IMuaIXPLhd0?si=a6Y7oBAZlk9imQfe\n\n00:00 Short 1 - Scroll Playhead",
       "commentCount": 0,
       "likeCount": 0,
       "comments": [],
-      "commentsFetchedAt": "2026-07-29T14:53:13Z",
+      "commentsFetchedAt": "2026-07-30T15:53:16Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "JUy1htaCIMo": {
-      "checkedAt": "2026-07-29T14:53:13Z",
+      "checkedAt": "2026-07-30T15:53:16Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 2,
-      "likeCount": 13,
+      "likeCount": 106,
       "comments": [
         {
           "id": "UgxNGos3riJBXwLjrFx4AaABAg",
           "author": "@TheUtkarshhh",
           "text": "https://github.com/mshumer/Claude-of-Duty\n\n\nPrompt: \nI want you to build a first-person shooter at the level of the most recent Call of Duty games. It should be utterly perfect, visually beautiful, with every single thing done at AAA quality—from textures to physics to anything you could think of.\n\nFan out sub-agents and have sub-agents tackle each one individually so that the game is utterly perfect. You should /loop on each item and have a separate sub-agent check it visually to ensure it looks triple A. That separate sub-agent should be a really harsh critic, and if it doesn't look triple A, it should keep going.\n\nDon't stop until each sub-agent is utterly wowed with the quality when compared with the actual Call of Duty game. It should literally compare them side by side blind and say which one looks better. Do this in ThreeJS. /loop until it's utterly perfect. Fan out sub-agents and ultracode.",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T14:01:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/f25cg7-Gpt4o-HrFJk-kmpvwISgAjIux0s1VIUDNBpqLUZF6gMPvWH4wi79kqeSZk864gqTK=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
@@ -5940,130 +5932,150 @@
           "id": "UgwEPJeWqkzHcK_V9kp4AaABAg",
           "author": "@nxgclassy",
           "text": "Ab toh cod chalega din bhar viral hai bhaiya pin me",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T14:01:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/mMDN_gEPlsaUD82vG16H5T3MrwyMHfoIhQcu671AxfZA-lWaCmJVBweF0jnOID68yHh2tMUouA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-29T14:53:13Z",
+      "commentsFetchedAt": "2026-07-30T15:53:16Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "Nj-PqFIZqEs": {
-      "checkedAt": "2026-07-29T15:53:10Z",
+      "checkedAt": "2026-07-30T15:53:16Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 2,
-      "likeCount": 4,
+      "commentCount": 3,
+      "likeCount": 49,
       "comments": [
         {
           "id": "UgxspExKoJjyZ-rooLV4AaABAg",
           "author": "@charlieautomates",
           "text": "Full resource with all links/playbook found here: https://charlieautomates.com/free-resources/#claude-avatar-video-swap",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T15:43:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "Ugy6-CxPs7m_bni7Qmx4AaABAg",
+          "author": "@aifutureinstinct",
+          "text": "crazy thing 😮",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/SLxLmP1pvyNz47i1XMUDiTaj887qiNRpJQ_H4yKD8CPZJPOR4MCvvRh3FLyTIQLziJ-tcDzh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         },
         {
           "id": "UgyBOcLCtg3np4nZJY94AaABAg",
           "author": "@reverseily",
           "text": "Thanks man, My freind turned me into Charlie Kirk because he recorded the call.🥀",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T15:50:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/XsA6lFAB2cjdIWSLu1KqetQmKrIFBDOuo5S8O7eMz9P1tpyVORdgkF3ByFFufOFQaPacOLdd0w=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-29T15:53:10Z",
+      "commentsFetchedAt": "2026-07-30T15:53:16Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "dFbMLcBhnsk": {
-      "checkedAt": "2026-07-29T15:53:10Z",
+      "checkedAt": "2026-07-30T15:53:16Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 7,
-      "likeCount": 27,
+      "commentCount": 8,
+      "likeCount": 419,
       "comments": [
         {
-          "id": "UgwLF6n7gPlwYYeSV_B4AaABAg",
-          "author": "@FinanceDeeplink",
-          "text": "Storytelling skill is unbeatable for ai😊",
+          "id": "UgzlKUKjpE7Gu1rUGMJ4AaABAg",
+          "author": "@DikshitKumar-ug3kb",
+          "text": "Storytelling kaise sikhe.....😮😮😮😮",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T15:51:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/c6gtuYpLjdiGUoiPApgCDWrcbTcZ0bWrfxyPr8b7mtF1MzaCeG5MrSYITahVWQOBL_pdQyl_bg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T15:05:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n4wJ1o745a8pX0WITv50Uujw4uXvzulMVIepHG4zeFQ8-oJCV9hJ7hsVaXbntXvYzOwA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgytxQx7k8UjptnliRZ4AaABAg",
-          "author": "@MrPaaradoxx",
-          "text": "So our Idol is also the same. Cool, that's why I love you & Jaatu 😂😘. Btw bro check your email. I've sent something about Hookonomics.",
+          "id": "UgxEd42LJxGRSwrUjR94AaABAg",
+          "author": "@Lendi3D",
+          "text": "Bhaiya suno apko 2 mahine pahle bola tha member ship lelu apne bola abhi jayda content nahi hai to kab aayega and you know what just 1 help kar do mere pass ak chanell hai mai use sahi karna chahta hu but kis filed ki taraph jau samjh nahi aa raha please @jiyan",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/9rMoANXljfqQWJFdu1UAwJjry-BgNtIFNE3XPGv4Sej7y0MPA1dLAnn8h09wNUVX2r45iMrA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwmZtNSvgxBFois8zp4AaABAg",
+          "author": "@nishantkumar0770",
+          "text": "Lekin ai mujh se jada accha story telling kar leta hai 😢",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/FXfORPwKyKCp73flNYcHtV-MbNBcNwngjJ1-QVuCigAygOm5OSGpnZAUuAskSNGIA_fNl63NI48=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzlkaBC1dipmyKhDx94AaABAg",
+          "author": "@Oggy_x8",
+          "text": "Storytelling pe video lekar aaoo",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ck7t70pLky_ft_UoyGRc7_xUaU9fwDHZvqMW_rmb-fvcTVtBeL5VYUBLWKANu-6tqzNh7zXBCA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyeKNSmemrzIC_0Rat4AaABAg",
+          "author": "@Y0G3SX",
+          "text": "100% true",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T15:51:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/veC3p3vFid8_JdQw_k7PrAUqkHcqkHSuU3FtFDLJ0AQbh72Q47ISlGAOI5txGu80wpVbvtFn=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/qMLpd14Nkcm7l_R84cBAx_CKtPMgHLISekOqXx7ctLM7Xv9crmabREVFmgmCifX5js8OGb1Uwg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgygU_uujfi0IwCWjc94AaABAg",
-          "author": "@PramodBandgar-j7l",
-          "text": "Next video story telling ❤❤",
+          "id": "UgxdDHICgXnfdkhYmLt4AaABAg",
+          "author": "@NAKULMALI30",
+          "text": "Hook pe kaam kese karu ?",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T15:49:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lDEcvZu9Ma2FG9uoD0zoy5fomWlP39McilMj_VU1TjJ_gf71EBO-aqzKbq64nmLcwjHg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/YZSxeRzBxJgf_lJD_B5VYnOmdvhHumI1Z8M97zjsmTS0CI7506GzT3vbsvtaiP1uH3CzrcHScL0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugzbcfh4DjMMudbCvD54AaABAg",
-          "author": "@Thumbnaildeshiner",
-          "text": "Are bhaiya ek Thumbnail deshiner ki help kr di please",
+          "id": "UgxYBn37eWk0t--scxp4AaABAg",
+          "author": "@paradoxicalstory",
+          "text": "yes that's true ❤",
           "likeCount": 1,
-          "publishedAt": "2026-07-29T15:45:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/EH-C1aUzu8tmrawFXudV6NSY696ZX8wJWY4r0PwLnD6l3HN2MRcyvi5MJP1jPFBdy9cue0vshg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-29T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/FCU7IO5Gbwq43_GDJBkgGZ3UWyfsv8kAgfaCvpm4Vpjq7cq5QUYrz3Dhk9hAOpjvBRY-W5GZFc4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzQLd4NcG6JWGaUjjR4AaABAg",
-          "author": "@V4वि-चार",
-          "text": "Storytelling video laao dude",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T15:44:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/a6q0xM8tzT1tPZM4-EEUS-eGHYNvodkR1oVnvukJtT5Qmr6TKmZIcA6KPwTGFwyH_5ZmPQ4K5g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw_QyKK7KxY5ust6Mx4AaABAg",
-          "author": "@Star_09_",
-          "text": "Bhai  again ak video storytelling pe banao",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T15:42:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/myhHhtnQ5a2_TBnm9JSZlQw2rENPBaqyOMt_0wlUPus3xbFI56PjrY8KOXVD7Y2HwRHVaRhrtx8=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgznpKgxl8ZQ7cZpsk94AaABAg",
-          "author": "@YouTubeChnLLL",
-          "text": "Agli Video Storytelling Topic Pr?😅",
+          "id": "UgwmMet7eLqbACt0wlR4AaABAg",
+          "author": "@BushraKhatoon-p3n",
+          "text": "Bhai stories ki psychology par ek video bana diziye please please❤ wese i am your big fan and ham aap ki video se bahut Kuch seekhte hain thank you Bhaiya",
           "likeCount": 2,
-          "publishedAt": "2026-07-29T15:30:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/iYSAN96TJ-7Gt8Bjkuqh0Tegzzxy-m2L0RtqWvezw8_DKYVcTfQ3SvROb-I8fNWOdSzam8AvP8o=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-29T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/gMpgclbMM7xD9ERWkX3HXGnH6IntPjGtHjzKMB96eMLJm9IhJUn9FJxWmeftNb_l0dfPqRSwAA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-29T15:53:10Z",
+      "commentsFetchedAt": "2026-07-30T15:53:16Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6190,14 +6202,6 @@
       "description": "🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n📈 ALL Systems: https://bit.ly/4kol0y5\n🩵 Free Resources: https://bit.ly/3RNNDLa\n\n*👋 Howdy*\n\nHey, I'm Jack, I built and sold my last tech startup with a Gazillion customers, now I'm building AI startups and I share stuff that works. I quit my corporate job to do my start-up and have never looked back since.\n\n*💬 Overview*\n\nHermes agent just got the Quicksilver update, and it turns the thing from a chatbot you babysit into a proper chief of staff that works while you sleep. This walkthrough goes through four levels. Level one is knowledge: dropping YouTube links and ideas into Hermes so it summarises them into five bullets and saves everything to Obsidian memory, with separate profiles for team or family over Telegram. Level two sorts your admin by connecting the core three, your calendar, email and Granola call notes, then using smart approvals so safe tasks just get done. Level three brings in Kimi K3 through OpenRouter for genuinely beautiful HTML pages and presentations, borrowing the pricey model for one turn only. And the bonus level uses cron audit history to set up a daily self improvement loop. It works for anyone running Hermes as their daily agent.\n\n*Links*\n⚡ Hermes: https://nousresearch.com/\n🔀 OpenRouter: https://openrouter.ai/\n☁️ Claude: https://claude.ai/\n🧠 Granola: https://go.granola.ai/jack-roberts\n🧊 GLM: https://z.ai/\n🌙 Kimi K3\n🤖 Grok: https://grok.com/\n⚙️ Zapier MCP: https://zapier.com/\n\n⌚️ *Stamps:*\n0:00 - The Quicksilver Upgrade Revealed\n0:10 - Level 1\n0:26 - What Quicksilver Actually Does\n1:32 - Pick Your Model\n2:51 - YouTube Videos Saved To Memory\n3:17 - Your Team Feeds The Agent\n3:39 - Multiple Profiles, One Agent\n4:32 - Ideas Captured Instantly\n4:42 - Level 2\n4:48 - Agent Learns Your Daily Life\n5:01 - Calendar, Email And Calls Connected\n5:50 - Unlock Every Platform Via Zapier\n6:24 - Your Morning Brief Arrives Automatically\n7:16 - Agent Runs Without Asking\n7:44 - Smart Approvals Explained\n7:54 - No More Babysitting Your Agent\n8:35 - Dangerous Actions Blocked Automatically\n8:49 - Level 3\n9:17 - Kimmy K3 Tops The Leaderboard\n10:08 - Hermes Masterclass Resource\n10:24 - Cheap Models Via Open Router\n10:46 - Images And Videos On Demand\n11:22 - Live Design Demo Begins\n11:46 - Kimmy K3 Clones A Brand\n13:00 - GPT Builds A Meeting Deck\n13:23 - Stunning Results, Zero Direction\n13:59 - One Link, Perfect Brand Match\n14:58 - Borrow Premium Models Once\n15:32 - Bonus Level\n15:47 - Agent Improves While You Sleep\n15:53 - Failures Turned Into Better Skills\n16:18 - Agent Rewrites Its Own Code\n16:38 - Build Your Self-Improving System\n17:51 - What's Next\n\nLearn how to set up Hermes agent as your AI chief of staff using the Quicksilver update, smart approvals, Kimi K3 via OpenRouter, Granola meeting notes, Obsidian memory and a self evolving cron audit workflow for daily briefs and admin automation.\n\n#HermesAgent #AIAgents #KimiK3 #OpenRouter #AIAutomation #ChiefOfStaff",
       "commentCount": 5,
       "likeCount": 11,
-      "probeClient": "web_embedded"
-    },
-    "fJOBtyNxQLI": {
-      "checkedAt": "2026-07-29T18:53:16Z",
-      "embedAllowed": true,
-      "description": "Full playthrough of Automation, a very short 2p point-and-click adventure made for and winner of the first AGS One-Room-One-Week competition in 2006, recorded by Eric, published 27 July 2026.\n\nAutomation is longplay No. 1538 of the Ludophiles longplays project:\n- https://www.youtube.com/playlist?list=PLFXG3BI19O5rpA9sB1_-K_x5s207hoahb\n- https://ludophiles.com/threads/ludophiles-longplays-project.180/\n\nSubscribe to the Ludophiles channel:\n- https://www.youtube.com/Ludophilia?sub_confirmation=1\n\nBecome a Ludophiles channel member:\n- https://www.youtube.com/Ludophiles/join\n\n#ludophiles #ludophilia #pointandclick #playthrough #walkthrough #longplay #orow",
-      "commentCount": 0,
-      "likeCount": 1,
       "probeClient": "web_embedded"
     },
     "ZoPcGlLPCK8": {
@@ -6439,15 +6443,6 @@
       "likeCount": 353,
       "probeClient": "web_embedded"
     },
-    "LcvvtPyeU60": {
-      "checkedAt": "2026-07-30T05:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Wix Studio AI Automations: Auto-Reply to Contact Form Enquiries (Plus Booking Reminders)\n\nIn this Wix Studio tutorial, you’ll learn how to use AI-powered Automations to streamline customer interactions after your site goes live. Using a fitness training website example, the walkthrough shows how to create an automation that triggers when a contact form is submitted and sends an automated follow-up email asking for key details such as goals, budget, timeline, activity levels, and the reason for getting in touch. It also covers naming and selecting the correct form, reviewing and customising the AI-generated email, testing, and activating the workflow. The video highlights how automations can add value for client projects, and briefly explores how similar AI or pre-built automations can be used with tools like booking systems, including sending reminder emails with what to bring ahead of a session.\n\n00:00 From Launch to Leads\n00:36 Automation Goals Overview\n01:00 Finding Automations Panel\n01:29 Create With AI Prompt\n02:13 Refining AI Questions\n02:50 Selecting the Right Form\n03:15 Automation Built and Benefits\n04:03 Reviewing the Email Draft\n05:03 Activating and Next Steps\n05:30 More Automation Ideas\n06:30 Wrap Up and Subscribe",
-      "commentCount": 1,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "og8uWg6XwDY": {
       "checkedAt": "2026-07-30T06:53:18Z",
       "embedAllowed": true,
@@ -6491,14 +6486,6 @@
       "description": "Are you relying on Terminal-Bench leaderboards to pick your AI coding agent? Discover why 65% of senior developers are ignoring the #1 ranked GPT-5.6 Sol model and deploying Claude Code and Cursor instead. We break down the massive difference between an AI model's raw weights (like Kimi K3's 2.8 trillion parameters) and the \"agent harness\" that controls context windows, tool execution, and code recovery.\n\n🔔 Subscribe: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w?sub_confirmation=1\n\n💙 Become a Member: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w/join\n\n🐦 Twitter/X:\n https://x.com/cloud_codes\n\n💬 Discord: \nhttps://discord.gg/4kJqEBMMf\n\nIn this head-to-head comparison of Claude Code, GitHub Copilot, Cursor, OpenAI Codex, and Antigravity, we expose the brutal truth about \"vibe coding\" vs professional software engineering. We reveal the security nightmare of AI-generated code (where 45% of samples contain OWASP Top 10 vulnerabilities), how subagents prevent context window poisoning, and why the exact same AI model can swing 20 points in performance based entirely on the scaffolding wrapped around it.\n\nIf you found this technical deep-dive into AI agents and software engineering tools helpful, drop a like and subscribe for more content on system architecture, developer productivity, and machine learning!\n\n🔗 Resources for: \nClaude Code (Anthropic): https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview\nCursor (Composer 2.5): https://www.cursor.com/\nGitHub Copilot: https://github.com/features/copilot\nCline (Open Source AI Agent): https://github.com/cline/cline\nMoonshot AI (Kimi K3 Weights): https://github.com/MoonshotAI\nTerminal-Bench / SWE-bench: https://www.swebench.com/\n\n⏱️ TIMESTAMPS:\n00:00 - The Terminal-Bench Lie: GPT-5.6 Sol vs Claude Code\n00:59 - The Developer Surveys (Pragmatic Engineer vs JetBrains)\n02:11 - OpenAI Codex Growth & Context Window Scaling\n03:15 - Cursor Composer 2.5: Pricing & Cost Per Token\n04:27 - Open Source AI: Cline & Moonshot Kimi K3\n05:27 - The \"Harness\" Explained (Why Benchmarks are Flawed)\n06:32 - Subagents, Context Poisoning & Agent Teams\n07:12 - The Vibe Coding Reality Check: Security & Debugging\n08:14 - Final Verdict: Which Agent Should You Install?\n\n#aiagents #claudecode #cursor #githubcopilot #softwareengineering #coding #machinelearning #artificialintelligence\n\nUser Queries:\ncursor vs claude code vs github copilot review\nbest ai coding agent for senior software engineers\nhow to use claude code subagents and agent teams\nopenai codex chatgpt desktop app vs cursor\nwhat is vibe coding vs professional software engineering\nterminal bench ai coding agent leaderboard 2026\nmoonshot kimi k3 open source ai coding benchmark\nai agent harness and scaffolding explained for developers\nai code generation owasp security vulnerabilities\ncursor composer 2.5 token pricing and limits",
       "commentCount": 12,
       "likeCount": 51,
-      "probeClient": "web_embedded"
-    },
-    "jgJ-4vAVz0k": {
-      "checkedAt": "2026-07-30T07:53:15Z",
-      "embedAllowed": true,
-      "description": "The FREE AI Coding Agent Nobody Is Talking About VS Code and OpenRouter free API key.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Everyone's talking about GitHub Copilot, Cursor, and Claude Code — but they all cost money. \nIn this video, I'll show you how to set up Cline, a completely FREE and open-source AI coding agent inside VS Code, powered by free models on OpenRouter. No credit card. No subscription. No API cost.\n\nWhat you'll learn:\n\n• What Cline is and why it's different from autocomplete tools\n• How to get a free OpenRouter API key (no card needed)\n• Which free models are best for coding right now\n• How to install and connect Cline in VS Code\n• Live demo: Cline builds a full webpage from one sentence\n\n Free Models Used in This Video:\n\n• Laguna M.1 by Poolside (best for coding agents)\n• gpt-oss-120b by OpenAI (strong general coding)\n• NVIDIA Nemotron 3 Ultra (massive context window)\n→ Always check openrouter.ai/models for the latest free list — it rotates!\n\n🔗 Links:\n\n• Cline Extension → https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev\n\n• Cline GitHub → https://github.com/cline/cline\n\n• OpenRouter → https://openrouter.ai\n\n• Free Models List → https://openrouter.ai/models (filter: Free)\n\n⏱ Timestamps:\n0:00 – Why free AI tools beat paid ones\n0:25 – What is Cline?\n0:45 – Get your free OpenRouter API key\n2:00 – Install Cline in VS Code\n2:45 – Connect Cline to OpenRouter free models\n3:30 – Live demo: Cline builds a portfolio page\n\n\n💬 Drop a comment below — what do you want Cline to build next?\n\n#Cline #VSCode #FreeAI #OpenRouter #AICodingAgent #WebDevelopment #FreeCodingTools #HMAWebCode",
-      "commentCount": 0,
-      "likeCount": 2,
       "probeClient": "web_embedded"
     },
     "vYgnAWX46Tc": {
@@ -6743,15 +6730,6 @@
       "likeCount": 530,
       "probeClient": "web_embedded"
     },
-    "ABC7ifp8-Uo": {
-      "checkedAt": "2026-07-30T11:53:45Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Gemini Enterprise Agent Platform → https://goo.gle/4x2pKi8\nAnthropic's Claude on Google Cloud models → https://goo.gle/4fAqu8x\n\nAre AI coding agents killing developer craft, or are AI coding agents being used incorrectly? In this discussion, YK and Lydia break down why using Claude Code requires shifting your mindset from writing code to mastering code review, testing, and production safety. Watch along and learn how to leverage draft PRs, git hooks, and verification layers so you never ship unvetted AI-generated code.\n\nWatch more The Agent Factory: Developer Power-Ups → https://goo.gle/Supercharge-Devs\n🔔 Subscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#DeveloperPowerUps\n\nSpeakers: YK Sugi, Lydia Hallie\nProducts Mentioned: Gemini Agent Platform, Claude",
-      "commentCount": 3,
-      "likeCount": 84,
-      "probeClient": "web_embedded"
-    },
     "07VrcsBkErI": {
       "checkedAt": "2026-07-30T12:53:48Z",
       "embedAllowed": true,
@@ -6777,7 +6755,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-30T14:53:06Z",
+      "checkedAt": "2026-07-30T15:53:16Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6939,6 +6917,75 @@
       "description": "AI leaders like Sam Altman and Dario are reversing some of their predictions on the impact of AI. Let's take a closer look.\n\nThank you WorkOS for sponsoring. Try them out for here https://neetcode.fyi/workos\n\n\n\nSources\n- https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99?st=f96Tn2&reflink=desktopwebshare_permalink\n- https://technologymagazine.com/news/sam-altman-and-dario-amodei-reverse-job-doom-narrative\n- https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE\n- https://www.youtube.com/watch?v=2HMPRXstSvQ\n\n\n\nFor sponsorship & business inquiries sponsor-neetcode@10xn.dev\n\n\n🚀 https://neetcode.io/ - A better way to prepare for technical interviews\n\nSecond Channel:  https://www.youtube.com/@NeetCodeIO\n🧑‍💼 LinkedIn: https://www.linkedin.com/in/navdeep-singh-3aaa14161/\n🐦 Twitter: https://twitter.com/neetcode1\n\n#coding #leetcode #python",
       "commentCount": 227,
       "likeCount": 1532,
+      "probeClient": "web_embedded"
+    },
+    "INE0aWhbEDU": {
+      "checkedAt": "2026-07-30T15:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This Chinese model beats Claude Fable 5, currently the best model in the world, at one-third the price.\nIt’s called Kimi K3.\nIt has 2.8 trillion parameters, making it the biggest open-weight model ever released.\nAnd the benchmarks are not what you’d expect from an open model.\nOn DeepSWE, Terminal-Bench, and FrontierSWE, it either beats Fable 5 or comes surprisingly close.\nBut my favourite part of this launch wasn’t even the model.\nIt was this video from the founder explaining how frontier AI models are actually trained.\nHonestly, it’s one of the clearest masterclasses I’ve seen on the subject.\nThe weights drop on July 27.\nAnd with this launch, the gap between open and closed models just became tiny.\nWhich also means model quality alone probably won’t be a moat for much longer.",
+      "commentCount": 2,
+      "likeCount": 25,
+      "comments": [
+        {
+          "id": "UgxEJ9c4P4hH8YBJ_ap4AaABAg",
+          "author": "@faizandamudi1085",
+          "text": "K3",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T15:51:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mM3p2Hkq2OCXkR3lzzdJaILTGFm9X7tGiMiJVwD_MDWqsG_80Tw6WF46XksxNlQR1NQQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzNar_bUDJzDlK0IC54AaABAg",
+          "author": "@VishnuSingh-ys1mx",
+          "text": "K3",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T15:40:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lq7Z-aIQwFeBYwypiruchhfAOXxiljiRcHr1JnUOjbzTA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T15:53:16Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "NuYNAXtALMA": {
+      "checkedAt": "2026-07-30T15:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "U.S. Sen. Adam Schiff has reintroduced the AI Ads Act to curb deceptive AI-generated political ads after a campaign ad from Steve Hilton drew criticism.The federal proposal would prohibit the use of artificial intelligence to falsely impersonate political candidates, campaigns or political organizations in campaign advertising, but it would not ban AI-generated campaign ads altogether\r\n\r\n#AIAdsAct #AdamSchiff #Election2026 #CaliforniaPolitics #ArtificialIntelligence",
+      "commentCount": 3,
+      "likeCount": 7,
+      "probeClient": "web_embedded"
+    },
+    "kTWO1DU-3ZA": {
+      "checkedAt": "2026-07-30T15:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "President Trump said his administration was looking at artificial intelligence controls after OpenAI disclosed that one of its AI systems had ‌gone rogue during testing.\n\n#News #Reuters #Newsfeed #donaldtrump #unitedstates #artificialintelligence #openai #rogueagent \n\nRead the story here: https://reut.rs/4yM0QoD\n\n👉 Subscribe: https://reut.rs/4b8fRGn\n\nKeep up with the latest news from around the world: https://www.reuters.com/\nFollow Reuters on Facebook: https://www.facebook.com/Reuters\nFollow Reuters on X: https://twitter.com/Reuters\nFollow Reuters on Instagram: https://www.instagram.com/reuters/?hl=en",
+      "commentCount": 3,
+      "likeCount": 16,
+      "probeClient": "web_embedded"
+    },
+    "L3YmssZj4Wk": {
+      "checkedAt": "2026-07-30T15:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "As OpenAI CEO Sam Altman heads to Washington to discuss AI policy with government officials, a debate rages over how the US should regulate the technology and respond to Chinese competition. Meta CEO Mark Zuckerberg penned a Wall Street Journal op-ed saying the US government should not block Chinese AI. CNN's Clare Duffy reports on the regulatory landscape.\n\nMeanwhile, Elon Musk told The Economist editor-in-chief that humans won't be in charge in ten years' time, ceding control to AI. Sebastian Mallaby of the Council on Foreign Relations speaks with CNN's Bianna Golodryga about the very different approaches from each CEO.\n\n0:00 OpenAI CEO Sam Altman heads to Washington to discuss AI policy with lawmakers\n0:17 Staffers at frontier AI companies call for slowdown in AI development\n0:31 Mark Zuckerberg says superintelligence must be accessible to all\n1:19 CNN Business's Clare Duffy reports on Zuckerberg's WSJ op-ed\n2:50 Zuckerberg argues for open access to AI tech, but Meta just released a closed-source model\n4:03 Elon Musk: \"Unlikely\" that humans will be in control in 10 years\n5:10 Sebastian Mullaby of the Council on Foreign Relations on Musk being \"both optimistic and pessimistic\"\n7:55 Are Zuckerberg's warnings of regulatory capture principled?\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\n#AI #Regulation #News",
+      "commentCount": 326,
+      "likeCount": 599,
+      "probeClient": "web_embedded"
+    },
+    "N80TzPCHbNg": {
+      "checkedAt": "2026-07-30T15:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Check out Zapier today! https://bit.ly/4fLythH\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/JensenHuang/status/2081698060330250294\nhttps://artificialanalysis.ai/\nhttps://www.reddit.com/r/ChatGPT/comments/1paiyh5/chatgpt_was_launched_today_3_years_ago/\nhttps://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/\nhttps://x.com/AndrewYNg/status/2081787106062746002\nhttps://allin.com/episodes\nhttps://x.com/SecScottBessent/status/2080008411790368895\nhttps://www.anthropic.com/news/position-open-weights-models\n\n0:00 Intro\n0:54 NVIDIA's letter\n1:38 What is open-source?\n3:56 How open-source works\n5:51 Sponsor\n6:53 Kimi K3\n7:43 Closed vs Open\n9:43 Open-source in the U.S.\n13:23 The AI stack\n14:18 What if open source wins?\n15:21 Jevon's Paradox\n16:09 How the AI stack is affected\n19:16 User experience\n20:52 AI safety\n31:44 China\n37:04 Distillation\n42:53 Banning Chinese models?\n44:51 Anthropic's response",
+      "commentCount": 676,
+      "likeCount": 2375,
       "probeClient": "web_embedded"
     }
   }

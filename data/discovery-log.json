@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T14:53:06Z",
+  "updatedAt": "2026-07-30T15:53:16Z",
   "items": [
+    {
+      "id": "INE0aWhbEDU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-07-30T15:18:45Z",
+      "firstSeenAt": "2026-07-30T15:53:16Z"
+    },
+    {
+      "id": "NuYNAXtALMA",
+      "type": "short",
+      "source": "secondary",
+      "channel": "ABC10",
+      "publishedAt": "2026-07-30T01:53:16Z",
+      "firstSeenAt": "2026-07-30T15:53:16Z"
+    },
+    {
+      "id": "kTWO1DU-3ZA",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Reuters",
+      "publishedAt": "2026-07-29T21:53:16Z",
+      "firstSeenAt": "2026-07-30T15:53:16Z"
+    },
+    {
+      "id": "L3YmssZj4Wk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CNN",
+      "publishedAt": "2026-07-29T20:53:16Z",
+      "firstSeenAt": "2026-07-30T15:53:16Z"
+    },
+    {
+      "id": "N80TzPCHbNg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Matthew Berman",
+      "publishedAt": "2026-07-29T17:53:16Z",
+      "firstSeenAt": "2026-07-30T15:53:16Z"
+    },
     {
       "id": "xjzkgjq9XnM",
       "type": "long",
@@ -5849,6 +5889,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-07-30T15:53:16Z",
+      "new": 5,
+      "long": 2,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
