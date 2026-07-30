@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T22:53:42Z",
+  "updatedAt": "2026-07-30T23:53:43Z",
   "items": [
+    {
+      "id": "WBNjt5L6tQg",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-07-30T23:40:07Z",
+      "firstSeenAt": "2026-07-30T23:53:43Z"
+    },
+    {
+      "id": "7GOFfjvRuI0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Mastermind",
+      "publishedAt": "2026-07-30T20:53:43Z",
+      "firstSeenAt": "2026-07-30T23:53:43Z"
+    },
+    {
+      "id": "n1TWQb4UQDY",
+      "type": "short",
+      "source": "secondary",
+      "channel": "NIU Libraries",
+      "publishedAt": "2026-07-30T20:53:43Z",
+      "firstSeenAt": "2026-07-30T23:53:43Z"
+    },
+    {
+      "id": "76xq0_oJxq0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Brodie Robertson",
+      "publishedAt": "2026-07-30T17:53:43Z",
+      "firstSeenAt": "2026-07-30T23:53:43Z"
+    },
+    {
+      "id": "XRZjy6qd8rs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-07-30T16:53:43Z",
+      "firstSeenAt": "2026-07-30T23:53:43Z"
+    },
+    {
+      "id": "T6PQIPMlj3E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Google Cloud Tech and Google for Developers",
+      "publishedAt": "2026-07-30T16:53:43Z",
+      "firstSeenAt": "2026-07-30T23:53:43Z"
+    },
+    {
+      "id": "7GTPQP21yPQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-07-30T15:53:43Z",
+      "firstSeenAt": "2026-07-30T23:53:43Z"
+    },
     {
       "id": "5QWNao9VFKg",
       "type": "long",
@@ -6225,6 +6281,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-07-30T23:53:43Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
