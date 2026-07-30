@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T05:53:43Z",
+  "updatedAt": "2026-07-30T06:53:18Z",
   "items": [
+    {
+      "id": "og8uWg6XwDY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-07-29T22:53:18Z",
+      "firstSeenAt": "2026-07-30T06:53:18Z"
+    },
     {
       "id": "2mMfaQPd3A4",
       "type": "short",
@@ -5440,6 +5448,15 @@
       "channelsChecked": 33,
       "warnings": 33,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-07-30T06:53:18Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 33,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
