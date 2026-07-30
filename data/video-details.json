@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T19:53:15Z",
+  "updatedAt": "2026-07-30T20:53:24Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -4127,89 +4127,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "SJtO73rYJ64": {
-      "checkedAt": "2026-07-29T14:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What if you could run a 744-billion-parameter AI model on your own computer—without a GPU, without cloud servers, and without paying API fees?\n\nThat’s exactly what Colibri makes possible.\n\nUsing just 25 GB of RAM, Colibri allows you to run a frontier-scale AI model completely offline. That means your data stays on your device, you avoid recurring API costs, and you get full control over your AI workflow.\n\nThis breakthrough could fundamentally change how developers, researchers, and AI enthusiasts build and use AI applications.\n\nIn this video you’ll learn:\n\n* What is Colibri?\n* How to run a 744B AI model locally\n* Why you don’t need a GPU anymore\n* How local AI can reduce API costs\n* Why this is one of the biggest open-source AI breakthroughs\n* What it means for the future of AI\n\nSetup guide: https://app.notion.com/p/setup-guide-for-colibri-3a8ee02da910803a9a24cf09e15fc0a2?source=copy_link\n\nWhy Subscribe to BPro?\n\nIf you want practical AI content instead of just headlines, BPro is for you.\n\nWe cover:\n\n* Daily AI news & updates\n* Open-source AI tools\n* GitHub repositories worth using\n* ChatGPT, Claude & Gemini tutorials\n* AI coding workflows\n* AI automation & productivity\n* Startup & SaaS insights\n* Developer tools\n* Practical AI engineering tips\n* The biggest technology breakthroughs explained simply\n\nOur goal is simple: help you stay ahead of AI and actually use it to build better products, save time, and grow your career.\n\nSubscribe to BPro and never miss the next big AI breakthrough.\n\n#AI #OpenSource #LocalAI #GitHub #ArtificialIntelligence\n\n\nAI, artificial intelligence, AI news, latest AI news, AI updates, open source AI, local AI, offline AI, AI tools, best AI tools, free AI tools, GitHub, GitHub repository, best GitHub repositories, Colibri AI, Colibri GitHub, GLM 5.2, GLM AI, Z.ai, Z AI, 744 billion parameter AI, 700 billion parameter AI, run AI locally, AI without GPU, AI on CPU, AI on laptop, local LLM, offline LLM, open source LLM, AI models, best AI model, AI tutorial, AI explained, AI for beginners, AI for developers, developer tools, programming, software engineering, AI coding, coding with AI, what is Colibri, what is local AI, what is AI, how to run AI locally, how to run AI without GPU, how to install Colibri, how to use Colibri, how to use local LLM, best offline AI, AI privacy, AI security, future of AI, AI trends, machine learning, generative AI, technology news, tech news, tech updates",
-      "commentCount": 7,
-      "likeCount": 68,
-      "comments": [
-        {
-          "id": "UgxpWA31OP3rQ2yqOD94AaABAg",
-          "author": "@Bproclub",
-          "text": "Setup guide is in description",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Y2wqg8Jrk4tANVG3LT2ZEkVs-6wlESz8NvwUMrqfBghyS3VQsJLlfpoq4gQX8g31Qty_Kx0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "UgwZxK5EY6ym9PI5tFd4AaABAg",
-          "author": "@hbahsir33",
-          "text": "Link",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kXYty6DgbO8BUPZWTRoxXnrgLaDXniYqqvqrYBCQvfHoDR=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw-HIHu9JDUJ14ZmId4AaABAg",
-          "author": "@Nikhiphone",
-          "text": "didi repo hat gayi🙃",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nfaS9vjq2Wu5GonnDUIOhRL2y6pnzLaoMqhU-6dfu7LLR1aLU8I2-k3XCvlqvcw0YKRQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzolfjnwULBISD5Awx4AaABAg",
-          "author": "@Jayakanth-u7q",
-          "text": "Me with 4gb ram 😂😂",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mXl5vEZetSFCfuG2B7_VLqc38fE5TVJMtL_CGIeMUbdXJf55quvy5KONcX81xCv66Llw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxq8NCujUAQl1WTzu54AaABAg",
-          "author": "@ExpTest-im1id",
-          "text": "Run to kar ke dikha do… humko AI models ka local rampwalk dekhna hai",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lXCpv9R4B07OCtxS5nKbqTd2dOphEMw5_JbLklUmIjhy4uMx4EL0dgbCbWmLeygOLbOQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz6jW1D6f7Ik7HLG8F4AaABAg",
-          "author": "@TheAurumVision7",
-          "text": "আমার তো ১৬ জিবি রেম এটাতে চলবে কি 🤔🤔",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/rR8horT2Q7yczC_0KQQxZFrbouD9Fnv83MJ6su0aT-UNQtnAO5YComFPKgYpLAZengtFxbwZQw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzKjkGvX6Rgxle_ma94AaABAg",
-          "author": "@CapcutDance",
-          "text": "205gb 😅",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/OmVh0jaqk0mHnbiaOIYAER_57n_D0eRY6zSN3kApDTIkpsVvvdc7Xe-VxYaLOOTTqsSqk-yyOLQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-29T14:53:13Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "pi4uvNiwz40": {
       "checkedAt": "2026-07-28T13:53:14Z",
       "embedAllowed": true,
@@ -6419,15 +6336,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "2mMfaQPd3A4": {
-      "checkedAt": "2026-07-30T05:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "N8N AI Automation Mastery (ZERO CODING) Online Training @ DURGASOFT\n====================================================\nN8N AI Automation Mastery (ZERO CODING) Online Training By Mr. Venky\n\nDate & Time: 31st July @9AM (IST)\n\nRegister Now: https://shorturl.at/vSQLw\n\nCourse Content: https://tinyurl.com/mrxcupr6\n\nContact for More Info:\nEmail: durgasoftonlinetraining@gmail.com\nPhone: +91 - 8885252627, 7207212427/28\n\nYoutube Channel: Durga Software Solutions\n10000+ Technical Software Training Videos on all Technologies.\nJust Subscribe Link: https://www.youtube.com/durgasoftware\n\nTo get latest DURGASOFT updates on trending Technologies,\nPlease Subscribe to Our Telegram Channel:\nLINK: https://t.me/durgasoftupdates\n\n#DURGASOFTWARE #DURGASOFT #N8NAIAutomationMastery",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "dUHpFuUIyi0": {
       "checkedAt": "2026-07-30T07:53:15Z",
       "embedAllowed": false,
@@ -6637,15 +6545,6 @@
       "likeCount": 24,
       "probeClient": "web_embedded"
     },
-    "q1OsrPIbSsw": {
-      "checkedAt": "2026-07-30T11:53:45Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Try Loopa agent here — free credits daily:\nhttps://bit.ly/4yEQE1n\n\nWhat if an entire video could be created without constantly switching between ChatGPT, Perplexity, Midjourney, Runway, CapCut, and multiple other AI tools?\n\nIn this video, I test Loopa, a personal AI agent designed to help plan and execute complete creative workflows from one workspace. I use it for topic research, script writing, storyboarding, visual generation, video generation, and content workflow organization to see if one AI agent can simplify the entire video creation process.\n\n⏱️ TIMESTAMPS\n00:00 One AI Agent Created This Video\n00:42 Welcome and Workflow Overview\n00:59 Why AI Content Creation Still Feels Fragmented\n01:37 What Is Loopa?\n01:57 Testing Loopa on a Real YouTube Project\n02:31 Finding a Video Idea\n02:52 AI Trend Research and Topic Suggestions\n03:23 Turning the Idea Into a Full Script\n04:04 Moving From Script to Visuals\n04:34 Creating a Storyboard With Loopa\n04:57 Generating Creative Assets\n05:15 AI Video Generation With Seedance 2.5\n05:33 Keeping the Workflow Connected\n06:02 Why Loopa Feels Different\n06:19 Personal AI Agent Workflow\n06:50 Cloud Computer and Background Tasks\n07:09 Customizing Your AI Agent\n07:29 Choosing Different AI Models\n07:52 Multi-Agent Workflows\n08:08 Final Loopa Workflow Review\n08:33 Biggest Benefit of Loopa\n08:54 Why Human Creativity Still Matters\n09:07 Best Use Cases for Loopa\n09:23 Daily Free Credits\n09:38 Final Thoughts\n09:49 Try Loopa Agent\n09:59 What Would You Build With Loopa?\n\n🚀 What You'll Learn\n✅ Loopa\n✅ Loopa AI\n✅ Loopa Agent\n✅ Personal AI Agent\n✅ AI Content Creation\n✅ AI Video Workflow\n✅ AI Research Agent\n✅ AI Script Writing\n✅ AI Storyboard Generator\n✅ AI Visual Generation\n✅ AI Video Generation\n✅ Seedance 2.5\n✅ Multi-Agent Workflow\n✅ Cloud AI Agent\n✅ Creator Workflow Automation\n\n\nLoopa does not replace creativity. You still need to review the output, refine the script, make edits, and add your own personality. But it can reduce the repetitive work that slows content creation down.\n\nThat makes Loopa useful for YouTubers, content creators, marketers, researchers, entrepreneurs, agencies, and anyone who wants to build more organized AI workflows.\n\nLoopa also gives users free credits daily, so you can test the platform and see whether it fits your workflow before making a bigger commitment.\n\nTry Loopa agent using the link above and start building your own AI workflow.\n\nSubscribe for more AI agents, creator tools, AI video workflows, automation tools, and practical AI reviews.\n\n#loopa #LoopaAI #AIAgent #PersonalAIAgent #AIWorkflow #AIContentCreation #AIVideoGenerator #AIResearch #AIScriptWriting #AITools\n\n📩 Reach out to us at contact@liquiai.com \n\n🌐 Subscribe to discover new tools weekly!\n#LiquiAI #AITools #ArtificialIntelligence #AIApps #GenerativeAI #AIReview #ToolWalkthrough",
-      "commentCount": 5,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "07VrcsBkErI": {
       "checkedAt": "2026-07-30T12:53:48Z",
       "embedAllowed": true,
@@ -6671,7 +6570,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-30T19:53:15Z",
+      "checkedAt": "2026-07-30T20:53:24Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6817,15 +6716,6 @@
       "likeCount": 18,
       "probeClient": "web_embedded"
     },
-    "f_iA2NtIxBU": {
-      "checkedAt": "2026-07-30T14:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Emily Reed, Developer Productivity Software Engineer at Benchling, shares how her team used Cursor to lift a complex local development environment into the cloud, cut down manual setup, and take on a large-scale test migration that had been slowing a major React upgrade.\n\nInstead of asking teams to migrate thousands of legacy Enzyme tests one by one, Benchling orchestrated hundreds of agents in parallel and brought the timeline down from one year to one quarter. \n\nToday, about 30% of Benchling’s merged pull requests come from cloud agents. After rolling them out, Benchling saw a 20% jump in developer satisfaction, and 95% of developers now say they’re satisfied with their AI tooling.\n\nLearn more about cloud agents: https://cursor.com/docs/cloud-agent",
-      "commentCount": 0,
-      "likeCount": 43,
-      "probeClient": "web_embedded"
-    },
     "INE0aWhbEDU": {
       "checkedAt": "2026-07-30T15:53:16Z",
       "embedAllowed": true,
@@ -6857,15 +6747,6 @@
       ],
       "commentsFetchedAt": "2026-07-30T15:53:16Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "NuYNAXtALMA": {
-      "checkedAt": "2026-07-30T15:53:16Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "U.S. Sen. Adam Schiff has reintroduced the AI Ads Act to curb deceptive AI-generated political ads after a campaign ad from Steve Hilton drew criticism.The federal proposal would prohibit the use of artificial intelligence to falsely impersonate political candidates, campaigns or political organizations in campaign advertising, but it would not ban AI-generated campaign ads altogether\r\n\r\n#AIAdsAct #AdamSchiff #Election2026 #CaliforniaPolitics #ArtificialIntelligence",
-      "commentCount": 3,
-      "likeCount": 7,
       "probeClient": "web_embedded"
     },
     "uZkiHG46Ll4": {
@@ -6923,15 +6804,6 @@
       "description": "Subscribe to my newsletter: https://www.sandeepswadia.com/newsletter\n\nEveryone's talking about AI agents like they're some far-off, technical thing. They're not. You've probably already used one without knowing it, and by the end of this episode, you'll have built four of your own.\n\nIn this episode, I walk through the Four Cs framework, coordination, creativity, clarity, and coaching, and show you exactly how to build an agent for each one.\n\nYou'll learn how to:\n\n- Build a coordination agent so your inbox and calendar stop running your day for you\n- Build a creativity agent that helps you go from rough notes to a finished deck, while every real decision still stays yours\n- Build a clarity agent that turns a confusing contract or policy into a plain-English table of risks and obligations\n- Build a coaching agent that rehearses your hardest conversations with you, out loud, before you ever walk into the real room\n- Use one simple prompt structure across every agent: the job, the tool, the categories, the output, and the boundary\n- Know when to keep an agent on a short leash and when it's earned more responsibility\n\nI also share Ed Catmull's philosophy on early rough cuts at Pixar, Microsoft's data on how often we get interrupted during the workday, a JDP survey on interview anxiety, and why comparisons to Charlie Chaplin's Modern Times still hold up nearly a century later.\n\nMost importantly, you'll learn that the agents themselves are the easy part. The real edge comes from the judgment you bring to what you delegate and what you don't.\n\nBecause it's not really about how powerful your tools are. It's about what you choose to hand off, and what you choose to keep.",
       "commentCount": 32,
       "likeCount": 930,
-      "probeClient": "web_embedded"
-    },
-    "sGYxPiQrl7M": {
-      "checkedAt": "2026-07-30T16:53:37Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Get Started with DataImpulse\n\n🌐 Try DataImpulse: \nhttps://dataimpulse.com/?utm_source=youtube&utm_medium=video&utm_campaign=LexAI01\n\nIf you're building AI agents, web scrapers, automation workflows, or SEO tools, DataImpulse is one of the most affordable proxy providers available. It offers residential, datacenter, mobile, and premium residential proxies with a pay-as-you-go pricing model, so you only pay for the bandwidth you actually use.\n\n\n\n\n\n\n📩 Business & Partnerships:\nlexaicollab@gmail.com\n\n📢 Disclaimer\nSome links may be affiliate links. They help support the channel at no extra cost to you.\n\n🔁 Hashtags: #DataImpulse #Proxy #ResidentialProxy #DatacenterProxy #MobileProxy #WebScraping #AI #ArtificialIntelligence #LLM #Claude #OpenAI #Gemini #Automation #Python #Developers #SEO #SERP #DataCollection #MachineLearning #aiagents",
-      "commentCount": 7,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "SxMuoiCYGMk": {
@@ -7070,6 +6942,74 @@
       "description": "🚀 Try Klaviyo & Build Your AI Growth Engine: https://klaviyo.sjv.io/aN6M1N\n\nIf you hired five different agencies to build a complete e-commerce growth system, the bill could easily hit five figures. But is it actually possible to replace that entire setup with a single AI-powered backend?\n\nMost e-commerce stores don't have a traffic problem—they have a system that’s leaking revenue every single day. In this video, I test whether Klaviyo’s unified customer data, AI Marketing Agents, and automated flows can actually replace a $10,000/month marketing agency.\n\nWe’re breaking down the full, step-by-step blueprint: high-converting lead capture, intelligent cart & browse recovery, automated post-purchase flows, and instant AI customer support.\n\n🚨 Claim Your Free Setup Blueprint!\nWant to stop leaking revenue and set up this exact AI growth engine for your store?\n\n1️⃣ Like this video and subscribe to the channel for more AI growth strategies.\n\n2️⃣ Drop a comment below with the word \"ENGINE\".\n\n3️⃣ Check your replies—I'll personally send over the step-by-step implementation guide to get your automated system up and running today!\n\nTools Mentioned in This Video:\nKlaviyo: https://klaviyo.sjv.io/aN6M1N (All-in-one B2C CRM, Marketing AI, and Automation Platform)\n\n#Ecommerce #Klaviyo #AIMarketing #EcommerceGrowth #EmailMarketing #Shopify #MarketingAutomation\n\n_______________________\n\nAffiliate links for My Gears.\nMusic I Use:- https://audiio.com/partner?oid=1&affid=1340\n\n1) Camera:- https://amzn.to/4fQObGM\n2) Lens:- https://amzn.to/4fpjGI9\n3) Laptop:- https://amzn.to/4fzNd1M\n4) Mic- https://amzn.to/3CsASOf\n5) SoftBox:- https://amzn.to/40QoBgH\n\nAlso, follow on Instagram\nhttps://www.instagram.com/krrishx1\n\n_______________________\n\nDISCLAIMER\nThere may be referral and affiliate links that I have shared above from which I earn a small commission, but it just helps to support my channel and doesn't cost you any extra.",
       "commentCount": 15,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "5MPfh946ZtI": {
+      "checkedAt": "2026-07-30T20:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What happens when an AI model becomes so capable that other AI systems refuse to analyze its behavior?\n\nIn a recent AI cybersecurity benchmark, a pre-release version of OpenAI's GPT-5.6 reportedly identified a zero-day vulnerability, gained internet access within the test environment, and autonomously executed a 17,000-step attack chain during the evaluation.\n\nBut the most surprising part came afterward.\n\nResearchers wanted to analyze the attack logs using commercial AI models. However, many models refused because the logs contained exploit payloads, and their safety systems couldn't reliably distinguish security analysis from generating offensive cyber content.\n\nThe team then turned to GLM 5.2, an open-weight AI model from Z.ai, running it locally. It was able to reconstruct and analyze the entire attack chain for forensic investigation.\n\nThe bigger takeaway isn't just about one model.\n\nIt's about a growing challenge in AI security:\n\nPowerful AI systems are becoming more capable.\nSafety filters can sometimes limit defensive analysis.\nOpen-weight models are increasingly important for cybersecurity research.\n\n Do you think AI is becoming too powerful, or are these evaluations exactly why rigorous safety testing matters? Share your thoughts in the comments.\n\nWhy Subscribe to BPro?\n\nIf you want AI content that goes beyond clickbait headlines, BPro is for you.\n\nWe cover:\n\nDaily AI news & major AI breakthroughs\nOpenAI, Claude, Gemini & Chinese AI updates\nAI engineering & developer workflows\nAI cybersecurity & frontier research\nOpen-source AI tools & GitHub projects\nStartup & SaaS insights\nPractical AI tutorials and productivity tips\n\nWe explain what happened, why it matters, and what it means for the future of AI.\n\n Subscribe to BPro and stay ahead of the AI revolution.\n\n#AI #GPT56 #OpenAI #CyberSecurity #ArtificialIntelligence\n\nAI, artificial intelligence, AI news, latest AI news, AI updates, OpenAI, GPT-5.6, GPT 5.6, ChatGPT, ChatGPT news, OpenAI news, AI cybersecurity, cybersecurity, AI security, zero day vulnerability, zero day exploit, AI benchmark, Hugging Face, GLM 5.2, Z.ai, Chinese AI, Claude AI, Anthropic, AI models, frontier AI, AI safety, AI research, AI engineering, AI agents, AI automation, machine learning, generative AI, large language models, AI tools, best AI tools, what is GPT-5.6, what is AI cybersecurity, how AI hacking works, AI security explained, AI safety research, OpenAI GPT-5.6 benchmark, AI attack simulation, cybersecurity news, technology news, tech news, future of AI, AI explained",
+      "commentCount": 1,
+      "likeCount": 0,
+      "comments": [
+        {
+          "id": "UgyhauX7XLiy1xIn1RR4AaABAg",
+          "author": "@Bproclub",
+          "text": "https://thinkingmachines.ai/",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T20:45:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Y2wqg8Jrk4tANVG3LT2ZEkVs-6wlESz8NvwUMrqfBghyS3VQsJLlfpoq4gQX8g31Qty_Kx0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T20:53:24Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "QEAM8NSFiu0": {
+      "checkedAt": "2026-07-30T20:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI Digital Marketing Full Course (2026) — a complete 10-week masterclass from Institute of Automation.\n\nLearn AI for marketing the operator way: prompting, brand briefs, content engines, visuals, voice/video, email lifecycle, paid creative testing, SEO/AEO, analytics, and a real capstone campaign.\n\n⏱️ ~1 hr 45 min · 91 lessons \n\n👉 Who this is for: marketers, founders, freelancers, agency operators\n👉 What you leave with: a reusable AI marketing system + campaign assets\n\n🔔 Subscribe for more AI marketing systems (not random tool tours)\n💬 Comment your biggest AI marketing bottleneck — we read them\n\nWeek map of this video:\n• L0 — Course introduction\n• Week 1 — AI marketing foundations\n• Week 2 — Audience, niche, offer, positioning\n• Week 3 — Content engine\n• Week 4 — Visual production at scale\n• Week 5 — Voice, video, podcast\n• Week 6 — Funnels & email lifecycle\n• Week 7 — Paid media creative testing\n• Week 8 — SEO & AI-era web (AEO)\n• Week 9 — Analytics, reporting & ops\n• Week 10 — Capstone: launch & scale\n\n────────────────────────\n📚 WHAT YOU’LL LEARN\n────────────────────────\n• The Amplifier Rule (vague vs sharp prompts)\n• AI literacy: context window, hallucination, tool choice\n• Brand brief chains + ethics / IP / disclosure\n• Rule of One, ICP, JTBD, offer ladder, positioning\n• Content pillars, atomisation, calendars, review gates\n• Visual style guide, continuity, provenance\n• Voice systems, shorts, QA gates\n• Welcome / nurture / offer / win-back sequences\n• 3×3 ad testing, spend caps, picking winners\n• SEO pages, schema, programmatic seed, AEO\n• Metric pyramid, reporting rhythm, 90-day plan\n\n#AIDigitalMarketing #AIMarketing #DigitalMarketingCourse #MarketingAutomation #ContentMarketing #PromptEngineering #SEO #PaidAds #EmailMarketing #InstituteOfAutomation",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "GVQW4LHzBoM": {
+      "checkedAt": "2026-07-30T20:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Meta, Microsoft & Nvidia Just Declared War on Closed AI\n\n🔴 Learn how to build AI systems, automation workflows, and real-world projects that companies pay for—not just basic tools 🚀 \nJoin the Professional Certification in AI and apply now to secure your seat.  \n👉 Apply Today: https://www.wscubetech.com/ai-course?utm_source=YouTube&utm_medium=YT_Video&utm_campaign=Random_Video&utm_post_id=WsJuly2026_30\n\n📞Talk to Our Program Advisor  +91-7414001633 \n\n----------------- \n\nNews Update - https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/\n\n----------------- \n\n👉 Join our Official WhatsApp Channel for daily Digital Marketing updates, job alerts & hacks: https://tinyurl.com/marketing-geeks-yt \n\nWsCube Tech is a Vernacular Upskilling platform revolutionizing the way you learn and develop your career skills.🚀 \n\nWsCube Tech stands out as a leading EdTech platform, offering comprehensive education in Digital Marketing, Digital Advertising, and various Social Media Marketing skills. Our approach involves both online and classroom training, featuring hands-on projects delivered practically by seasoned industry experts. \n\nWith WsCube Tech, you'll gain hands-on skills that make you globally competitive. Our courses are designed to prepare over 100 million career aspirants for the 'Bharat' of the future. 😊 \n\n👉 Want to learn and acquire skills in English? Visit WsCube Tech English channel: https://bit.ly/2M3oYOs \n\n📌 𝗩𝗼𝘁𝗲 𝗳𝗼𝗿 𝗼𝘂𝗿 𝗻𝗲𝘅𝘁 𝘃𝗶𝗱𝗲𝗼: https://bit.ly/share-topic-ideas \n\nWatch Now our Trending Digital Marketing Playlist & Videos: \n👉 Learn Digital Marketing in One Video - https://www.youtube.com/watch?v=G6DmDqYLWL8  \n👉 Google Ads Full Course - https://www.youtube.com/watch?v=FuOmpoZjZ2s  \n👉 Complete SEO Course  (Beginners to Advanced) \n\nhttps://www.youtube.com/watch?v=CjxQTvq_kRo  \n\n👉 Blogging Full Course [FREE] \n\nhttps://www.youtube.com/watch?v=7_HKv2wZntg  \n\nFor any queries, call us on: +91-7414001633 \n\n✅ CONNECT WITH THE FOUNDER (Mr. Kushagra Bhatia) -  \n👉 Instagram - https://www.instagram.com/kushagrabhatiaofficial \n👉 LinkedIn - https://www.linkedin.com/in/kushagra-bhatia \n👉 Facebook - https://www.facebook.com/kushagrawscubetech \n\nConnect with WsCube Tech on social media for the latest offers, promos, job vacancies, and much more: \n😄 Facebook: https://www.facebook.com/wscubetech.india \n🐦 Twitter: https://twitter.com/wscubetechindia \n📱 Instagram: https://www.instagram.com/wscubetechindia/ \n👨🏻‍💻 LinkedIn: https://www.linkedin.com/company/wscubetechindia/  \n🔺 Youtube: http://bit.ly/wscubechannel \n\n🌐 Website: http://wscubetech.com  \n\n--------------------------------------| Thanks |--------------------------- \n#AINews #AI #artificialintelligence",
+      "commentCount": 15,
+      "likeCount": 78,
+      "probeClient": "web_embedded"
+    },
+    "_Vc-gsHT804": {
+      "checkedAt": "2026-07-30T20:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Live replay from July 28, 2026 where I cover how I make sales and train my AI agents to run my ad accounts, write my marketing emails, and set up my sales pages.",
+      "commentCount": 3,
+      "likeCount": 10,
+      "probeClient": "web_embedded"
+    },
+    "AAJq266KVVU": {
+      "checkedAt": "2026-07-30T20:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this expert conversation, Shivam Bhambri, Director of Paid Media at Dentsu Sokrati, shares his insights on how AI is transforming performance marketing in 2026.\n\nHe explains what AI really means in paid advertising, how platforms like Google Ads, Meta Ads, Performance Max, Advantage+ campaigns, and automated bidding are changing the role of performance marketers. The discussion also covers AI-driven targeting, creative automation, first-party data, campaign measurement, third-party cookie loss, team structure, and the future skills required to succeed in performance marketing.\n\nWatch this full discussion to understand how marketers can stay relevant, maintain strategic control, and use AI automation effectively without losing the human judgment needed for brand, ethics, creativity, and business growth.\n\n\n\n00:49 What does AI in performance marketing actually mean?\n02:13 How has the role of a performance marketer changed compared to earlier years?\n04:18 Has AI improved conversions, campaign quality, or overall performance?\n05:32 What is the biggest misconception marketers have about AI in paid ads?\n07:36 Is AI-based targeting and creative automation truly useful, or is it just hype?\n09:23 How can marketers maintain strategic control inside AI-driven campaigns like Performance Max?\n12:00 How have third-party cookie loss and AI optimization changed campaign measurement?\n17:31 What skills matter more now for performance marketers, and what skills are becoming obsolete?\n19:41 What does an AI-ready marketing team look like, and how is AI changing creative roles?\n23:53 Will AI make human marketers optional, or will it increase the value of human judgment?\n\n\n\n\n#PerformanceMarketing #AIMarketing #GoogleAds #MetaAds #PerformanceMax #PaidMedia #DigitalMarketing #MarketingAutomation #ArtificialIntelligence #DigitalVidya",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "C9eaal-M7AE": {
+      "checkedAt": "2026-07-30T20:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Build your own AI Marketing Tool completely FREE using Claude Code.\n\nIn this step-by-step tutorial, you'll learn how to build an AI tool that can audit any website, analyze SEO, review competitors, generate marketing reports, create client-ready PDFs, and help you start an AI Automation Agency.\n\nThis isn't just another AI demo.\n\nYou'll build a real tool that agencies charge $5,000–$10,000/month to provide.\n\n🔥 In this video you'll learn:\n\n✅ Install Claude Code\n✅ Install the Marketing Skills\n✅ Audit Any Website\n✅ Generate Client PDF Reports\n✅ Competitor Analysis\n✅ SEO Audit\n✅ Conversion Analysis\n✅ Landing Page Audit\n✅ AI Marketing Automation\n✅ How to Use It to Get Clients\n\nWhether you're a freelancer, agency owner, digital marketer, entrepreneur, or AI enthusiast, this tutorial will help you create a real AI-powered marketing system.\n\n━━━━━━━━━━━━━━━\n\n⏱ Chapters\n\n00:00 Introduction\n00:45 Why Marketing Agencies Charge Thousands\n02:35 What This AI Tool Can Do\n05:50 Installing Claude Code\n09:15 Installing Marketing Skills\n13:45 Running Your First Website Audit\n19:20 Generating Client Reports\n24:40 Using It to Get Clients\n28:00 Final Thoughts\n\n━━━━━━━━━━━━━━━\n\n💻 Tools Used\n\n• Claude Code\n• VS Code\n• GitHub\n• AI Marketing Skills\n\n━━━━━━━━━━━━━━━\n\nWho Should Watch?\n\n• AI Automation Agency Owners\n• Digital Marketers\n• Freelancers\n• SEO Professionals\n• Business Owners\n• Students\n• Entrepreneurs\n• Developers\n• AI Consultants\n\n━━━━━━━━━━━━━━━\n\nIf this video helped you,\n\n👍 Like the video\n💬 Comment your thoughts\n🔔 Subscribe for more AI tutorials every week.\n\n#ClaudeCode #AITools #AIAutomation #DigitalMarketing #SEO",
+      "commentCount": 0,
+      "likeCount": 1,
       "probeClient": "web_embedded"
     }
   }

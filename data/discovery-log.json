@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T19:53:15Z",
+  "updatedAt": "2026-07-30T20:53:24Z",
   "items": [
+    {
+      "id": "5MPfh946ZtI",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-07-30T20:44:34Z",
+      "firstSeenAt": "2026-07-30T20:53:24Z"
+    },
+    {
+      "id": "QEAM8NSFiu0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Different Perspectives",
+      "publishedAt": "2026-07-30T17:53:24Z",
+      "firstSeenAt": "2026-07-30T20:53:24Z"
+    },
+    {
+      "id": "GVQW4LHzBoM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WsCube Tech",
+      "publishedAt": "2026-07-30T13:53:24Z",
+      "firstSeenAt": "2026-07-30T20:53:24Z"
+    },
+    {
+      "id": "_Vc-gsHT804",
+      "type": "long",
+      "source": "secondary",
+      "channel": "jaredrhod",
+      "publishedAt": "2026-07-30T11:53:24Z",
+      "firstSeenAt": "2026-07-30T20:53:24Z"
+    },
+    {
+      "id": "AAJq266KVVU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Digital Vidya",
+      "publishedAt": "2026-07-30T10:53:24Z",
+      "firstSeenAt": "2026-07-30T20:53:24Z"
+    },
+    {
+      "id": "C9eaal-M7AE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "S3CloudHub",
+      "publishedAt": "2026-07-30T06:53:24Z",
+      "firstSeenAt": "2026-07-30T20:53:24Z"
+    },
     {
       "id": "5SwxUsvtqNU",
       "type": "long",
@@ -6110,6 +6158,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-07-30T20:53:24Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
