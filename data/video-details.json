@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T04:53:43Z",
+  "updatedAt": "2026-07-30T05:53:43Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -5529,10 +5529,10 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-30T04:53:43Z",
+      "checkedAt": "2026-07-30T05:53:43Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "qRC3-R3jkMQ": {
       "checkedAt": "2026-07-29T13:53:12Z",
@@ -5798,15 +5798,6 @@
       "description": "In this video, we explain the difference between Generative AI, AI Agents, and Agentic AI in a simple way. Learn how Artificial Intelligence, Machine Learning, LLMs, and AI automation are transforming the future of technology, jobs, and businesses.\n\nYou will understand how AI Agents work, the difference between AI Workflow and AI Agents, and how tools like ChatGPT, Claude, Devin AI, and GitHub Copilot are changing software development, productivity, and automation.\n\nWe explore the future of Agentic AI, how multiple AI agents collaborate to complete complex tasks, and why learning AI Agents will become a valuable skill in the coming years. Understand the next evolution of AI beyond just prompting.\n\n#ai #artificialintelligence  #aiagents  #agenticai  #generativeai  #chatgpt  #machinelearning  #llm  #futureofai",
       "commentCount": 14,
       "likeCount": 36,
-      "probeClient": "web_embedded"
-    },
-    "_voM1YVEhis": {
-      "checkedAt": "2026-07-29T13:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI agents are multiplying inside enterprises faster than most CIOs can track them. Gartner projects that fewer than 15 agents per enterprise in 2025 could become more than 1.5 lakh by 2028, creating a governance challenge around identity, access, cost, security and accountability. As agents move beyond scripts to reason, orchestrate workflows and act across systems, the companies that win will be those that can control their agent population, not simply deploy the most tools.\n\nIn this episode of Front Page, we speak with Arun Chandrasekaran, VP Analyst at Gartner, about AI agent sprawl, shadow AI, control planes, machine identity, runtime monitoring, red teaming, FinOps and the limits of vendor promises around plug-and-play deployment. The conversation also examines who owns an agent’s decisions, how CIOs can build governance before 2028, and why enterprise AI value depends on domain context and measurable business outcomes. Can enterprises scale agentic AI without losing control?\n\n✅ Cypher 2026: Join 5,000+ AI leaders. Book now → https://cypher.analyticsindiamag.com/tickets\n✅ Chess League: Test your skills → https://chess.analyticsindiamag.com/\n\nCHAPTERS:\n0:00 AI agent explosion\n1:41 Why enterprise agents are multiplying\n4:54 Agents versus traditional automation\n6:14 When agent sprawl becomes a business risk\n10:42 The missing AI agent control plane\n12:03 Machine identity and accountability\n16:25 Can agent decisions be trusted?\n18:03 Five priorities for CIOs\n20:18 AI agent hype versus reality\n24:25 Who owns a bad AI decision?\n25:24 Defending against malicious agents\n27:13 Governance as the CIO’s first priority\n\n#AIAgents #AIGovernance #AgenticAI #EnterpriseAI #AIWorkflows #FrontPage #AIMNetwork \n------------------------------------------------------------------------------------------\n📌 ABOUT FRONT PAGE\n\nFront Page is a daily live news briefing covering AI, enterprise tech, semiconductors, and India’s role in the global technology economy. Built for people who make decisions, not just consume headlines.\n------------------------------------------------------------------------------------------\n👋 ABOUT AIM NETWORK\nAIM Network is India's leading voice on the intersection of AI, Technology, and Business. We bring you sharp analysis, breaking news, and original perspectives on everything from Generative AI breakthroughs to geopolitical market shifts.\n\n🔔 Subscribe for daily insights: https://www.youtube.com/@aimmediahouse?sub_confirmation=1\n\n📺 WATCH OUR POPULAR SERIES:\n- Front Page (Daily Tech News): https://www.youtube.com/playlist?list=PL9Kc1zSa46OxR8h0ZgAfEENta0vaxfWrs\n- Tech Talks (Podcast): https://www.youtube.com/playlist?list=PL9Kc1zSa46OyXflFLWtmF5MN3jvdxDFE3\n-Simulated Reality (Podcast) - https://www.youtube.com/playlist?list=PL9Kc1zSa46OwqKv91j8W6vZ-V5DucIU4Y\n\n📰 STAY UPDATED:\nWebsite: https://analyticsindiamag.com/\nLinkedIn: https://in.linkedin.com/company/analytics-india-magazine\nTwitter/X: https://x.com/Analyticsindiam\nInstagram: https://www.instagram.com/aim.media.house/\n\n------------------------------------------------------------------------------------------",
-      "commentCount": 0,
-      "likeCount": 6,
       "probeClient": "web_embedded"
     },
     "-TY1-BTeepI": {
@@ -6258,15 +6249,6 @@
       "likeCount": 2719,
       "probeClient": "web_embedded"
     },
-    "Di0I3D60Msw": {
-      "checkedAt": "2026-07-29T17:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/EMrYL7O or code tl50 for 50% Off Monarch Core tier.\n\nThe biggest fight in AI isn't about chatbots anymore, it's about who gets to control the future of artificial intelligence. \n\nSUPPORT MY WORK: \nBuy a paid subscription to my newsletter at https://www.usermag.co   \nSupport my work on Patreon: http://patreon.com/taylorlorenz      \n \nIs Anthropic trying to lock down AI before their IPO, or are open-weight models genuinely a threat to global safety? In this episode of Power User, Matthew Berman, co-founder of the tech media outlet Forward Future, breaks down the explosive debate rocking Silicon Valley and Washington DC.\n \nAfter the release of China's powerful Kimi K3 open-weight model, OpenAI's autonomous hacking benchmark, and a growing push from Anthropic to restrict open AI models, Silicon Valley has erupted into one of the biggest technology battles in years. \n  \nNvidia CEO Jensen Huang, Microsoft, Meta, Google, IBM, Hugging Face, Mozilla, Palantir, Dell and dozens of other massive technology companies have all come together to publicly back open weight AI models, while Anthropic argues against them. \n\nWhoever wins will control the future of the tech landscape for decades to come. \n\nI break down: \nWhat open weight AI actually is\nHow Kimi K3 changed the AI race\nThe OpenAI benchmark that escaped containment\nThe Hugging Face security incident\nAnthropic's campaign against open models\nWhy Jensen Huang and all of Silicon Valley is pushing back\nThe growing debate inside Washington over regulating AI\nWhy this fight could determine who controls AI for decades",
-      "commentCount": 189,
-      "likeCount": 700,
-      "probeClient": "web_embedded"
-    },
     "zjFFEMIbe7E": {
       "checkedAt": "2026-07-29T18:53:16Z",
       "embedAllowed": true,
@@ -6535,15 +6517,6 @@
       "likeCount": 3,
       "probeClient": "web_embedded"
     },
-    "wcRR5P0S2Us": {
-      "checkedAt": "2026-07-30T03:53:42Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Most people use AI coding agents by giving them one giant prompt and letting them run wild. That might work for a tiny project, but it quickly falls apart when you are building real software.\n\nIn this video, I walk through my complete AI development workflow using agents, specifications, roadmaps, testing, pull requests, CI, security scanning, and independent code reviews. I also demonstrate the process on a real project, from the initial request through review, fixes, validation, and the final merge.\n\nThe model matters, but your workflow matters more. Manual gates, clear acceptance criteria, small pull requests, and proper testing are what turn AI-generated code into maintainable software.\n\nWhat does your AI development workflow look like? Let me know what you would add or change.\n\nWebsite Article: https://christitus.com/my-ai-workflow/\nGithub Repo: https://github.com/ChrisTitusTech/titus-ai\n\n00:00 My AI Workflow\n00:47 Build Guardrails First\n01:54 Agents And Skills\n03:04 Reducing Token Usage\n03:56 Writing Project Specs\n05:03 Testing And Linting\n06:26 Acceptance Criteria\n06:49 Building A Roadmap\n07:15 Real Project Demo\n09:31 Review Before Merging\n11:30 Security And Versions\n12:44 Independent AI Reviews\n15:27 Local Code Reviews\n17:03 Fixing Review Feedback\n19:41 Continuous Integration\n22:04 Final Merge Gate\n22:46 Slow Is Smooth\n24:04 Models Won’t Save You\n\n►► Digital Downloads ➜ https://www.cttstore.com\n►► Patreon ➜ https://www.patreon.com/christitustech\n►► Twitch ➜ https://www.twitch.tv/christitustech\n►► Website and Guides ➜ https://christitus.com",
-      "commentCount": 56,
-      "likeCount": 734,
-      "probeClient": "web_embedded"
-    },
     "U2p01LVC5Oo": {
       "checkedAt": "2026-07-30T03:53:42Z",
       "embedAllowed": true,
@@ -6564,24 +6537,6 @@
       "commentsFetchedAt": "2026-07-30T04:53:43Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
-    },
-    "8OqBbUoBpo4": {
-      "checkedAt": "2026-07-30T04:53:43Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-30T04:53:43Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "u8o8OAbLuDo": {
-      "checkedAt": "2026-07-30T04:53:43Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
     },
     "7c52a2-08Ts": {
       "checkedAt": "2026-07-30T04:53:43Z",
@@ -6608,6 +6563,33 @@
       "description": "For nearly two years, companies believed AI would replace workers and reduce hiring. But now, many of the biggest AI adopters are hiring again. Why has the AI hiring narrative changed? Watch to find out why companies are bringing back talent, what AI still can't replace, and what it means for jobs in the future.\n\n#ai  #artificialintelligence  #jobs  #hiring  #technology  #business  \n\nImportant Playlists \nNational News: https://www.youtube.com/playlist?list=PLK5e1a2965YXb9Oh62yur4MRCdRLL6gCt\n\nBusiness News: https://www.youtube.com/playlist?list=PLK5e1a2965YVXM88oXiuA1JMLZtODGP1y\n\nWorld News: https://www.youtube.com/playlist?list=PLK5e1a2965YW0Swy6-R3i50F5FbtDRiEe\n\nBS Decoded: https://www.youtube.com/playlist?list=PLK5e1a2965YWYuC7DEL8Lxl-rhiElowEE\n\nWant access to Business Standard’s premium insights? Join our exclusive LinkedIn communities and connect with top voices in the BFSI space—on topics that matter to you!\n\nBFSI Circle – https://www.linkedin.com/groups/9867761/\nBusiness Standard Reader's Group – https://www.linkedin.com/groups/5013698/\n\nHello viewers! Guess what? We're now on WhatsApp Channels! Dive into real-time news updates, insights, and much more. Follow us: https://whatsapp.com/channel/0029Va6cbsSDuMRmPCIgXS2t\n\nSubscribe to BS Hindi YouTube Channel: https://www.youtube.com/@bshindinews\n\nDownload the all-new Business Standard app: \nhttps://bit.ly/App-BS\n\nJoin us:\nhttp://www.facebook.com/bsindia\nhttp://twitter.com/bsindia\nhttps://www.instagram.com/business.standard",
       "commentCount": 5,
       "likeCount": 44,
+      "probeClient": "web_embedded"
+    },
+    "2mMfaQPd3A4": {
+      "checkedAt": "2026-07-30T05:53:43Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "N8N AI Automation Mastery (ZERO CODING) Online Training @ DURGASOFT\n====================================================\nN8N AI Automation Mastery (ZERO CODING) Online Training By Mr. Venky\n\nDate & Time: 31st July @9AM (IST)\n\nRegister Now: https://shorturl.at/vSQLw\n\nCourse Content: https://tinyurl.com/mrxcupr6\n\nContact for More Info:\nEmail: durgasoftonlinetraining@gmail.com\nPhone: +91 - 8885252627, 7207212427/28\n\nYoutube Channel: Durga Software Solutions\n10000+ Technical Software Training Videos on all Technologies.\nJust Subscribe Link: https://www.youtube.com/durgasoftware\n\nTo get latest DURGASOFT updates on trending Technologies,\nPlease Subscribe to Our Telegram Channel:\nLINK: https://t.me/durgasoftupdates\n\n#DURGASOFTWARE #DURGASOFT #N8NAIAutomationMastery",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "m582CP0wwvM": {
+      "checkedAt": "2026-07-30T05:53:43Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👉 Grab your free seat to the 2-Day AI Mastermind: https://links.outskill.com/EPIJUL2\n🔐 100% Discount for the first 1000 people\n💥 Dive deep into AI and Learn Automations, Build AI Agents, Make videos & images – all for free!\n🎁 Bonuses worth $5,100+ if you join and attend\n\nWhat does a layoff actually look like when the paperwork blames AI transformation? It starts with an 8 AM meeting that wasn't on the calendar yesterday, no agenda, HR quietly on the call. This video follows real people who lived it. One woman got laid off from Cash App 13 months ago and still can't land an interview, not because she's bombing them, but because she can't get one. A product manager cried at work after half her engineering team was cut in a regional layoff, chosen by geography instead of impact. A single mom went 22 months unemployed after a six-figure director role, filed Chapter 7 bankruptcy, and now works customer service for a fraction of her old pay. Someone got denied a cashier job at Target with a bachelor's degree. The script connects it to AI washing, applicant tracking systems auto-rejecting people at 2 AM, and ghost job postings that make the whole tech layoff market feel like your fault. It's the human floor level of automation and unemployment in 2026.",
+      "commentCount": 96,
+      "likeCount": 353,
+      "probeClient": "web_embedded"
+    },
+    "LcvvtPyeU60": {
+      "checkedAt": "2026-07-30T05:53:43Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Wix Studio AI Automations: Auto-Reply to Contact Form Enquiries (Plus Booking Reminders)\n\nIn this Wix Studio tutorial, you’ll learn how to use AI-powered Automations to streamline customer interactions after your site goes live. Using a fitness training website example, the walkthrough shows how to create an automation that triggers when a contact form is submitted and sends an automated follow-up email asking for key details such as goals, budget, timeline, activity levels, and the reason for getting in touch. It also covers naming and selecting the correct form, reviewing and customising the AI-generated email, testing, and activating the workflow. The video highlights how automations can add value for client projects, and briefly explores how similar AI or pre-built automations can be used with tools like booking systems, including sending reminder emails with what to bring ahead of a session.\n\n00:00 From Launch to Leads\n00:36 Automation Goals Overview\n01:00 Finding Automations Panel\n01:29 Create With AI Prompt\n02:13 Refining AI Questions\n02:50 Selecting the Right Form\n03:15 Automation Built and Benefits\n04:03 Reviewing the Email Draft\n05:03 Activating and Next Steps\n05:30 More Automation Ideas\n06:30 Wrap Up and Subscribe",
+      "commentCount": 1,
+      "likeCount": 1,
       "probeClient": "web_embedded"
     }
   }

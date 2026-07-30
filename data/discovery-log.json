@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T04:53:43Z",
+  "updatedAt": "2026-07-30T05:53:43Z",
   "items": [
+    {
+      "id": "2mMfaQPd3A4",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Durga Software Solutions",
+      "publishedAt": "2026-07-30T03:53:43Z",
+      "firstSeenAt": "2026-07-30T05:53:43Z"
+    },
+    {
+      "id": "m582CP0wwvM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Epic Economist",
+      "publishedAt": "2026-07-29T22:53:43Z",
+      "firstSeenAt": "2026-07-30T05:53:43Z"
+    },
+    {
+      "id": "LcvvtPyeU60",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sam Anthony",
+      "publishedAt": "2026-07-29T16:53:43Z",
+      "firstSeenAt": "2026-07-30T05:53:43Z"
+    },
     {
       "id": "stv1fuVJZQ4",
       "type": "short",
@@ -5407,6 +5431,15 @@
       "channelsChecked": 33,
       "warnings": 10,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-07-30T05:53:43Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 33,
+      "secondaryQuery": "Automation"
     }
   ]
 }
