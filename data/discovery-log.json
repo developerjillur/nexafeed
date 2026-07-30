@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T10:53:39Z",
+  "updatedAt": "2026-07-30T11:53:45Z",
   "items": [
+    {
+      "id": "aJPotSxvIAU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-07-30T11:45:32Z",
+      "firstSeenAt": "2026-07-30T11:53:45Z"
+    },
+    {
+      "id": "cGHQ3Hkk1To",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Upstarts Media",
+      "publishedAt": "2026-07-30T10:57:45Z",
+      "firstSeenAt": "2026-07-30T11:53:45Z"
+    },
+    {
+      "id": "BBsxzOxGHdQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "P2P LAB | Арбитраж Криптовалюты",
+      "publishedAt": "2026-07-30T10:53:45Z",
+      "firstSeenAt": "2026-07-30T11:53:45Z"
+    },
+    {
+      "id": "BTWzuMhYrF8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-07-30T04:53:45Z",
+      "firstSeenAt": "2026-07-30T11:53:45Z"
+    },
+    {
+      "id": "q1OsrPIbSsw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Liqui AI",
+      "publishedAt": "2026-07-30T00:53:45Z",
+      "firstSeenAt": "2026-07-30T11:53:45Z"
+    },
+    {
+      "id": "W0r8xrWIYGw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Next New Thing",
+      "publishedAt": "2026-07-29T21:53:45Z",
+      "firstSeenAt": "2026-07-30T11:53:45Z"
+    },
+    {
+      "id": "P1KpxzLVg7c",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Riley Brown",
+      "publishedAt": "2026-07-29T20:53:45Z",
+      "firstSeenAt": "2026-07-30T11:53:45Z"
+    },
+    {
+      "id": "ABC7ifp8-Uo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Google Cloud Tech",
+      "publishedAt": "2026-07-29T16:53:45Z",
+      "firstSeenAt": "2026-07-30T11:53:45Z"
+    },
     {
       "id": "5QSG-r55IaY",
       "type": "long",
@@ -5637,6 +5701,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-07-30T11:53:45Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
