@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T21:53:33Z",
+  "updatedAt": "2026-07-30T22:53:42Z",
   "items": [
+    {
+      "id": "5QWNao9VFKg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-07-30T15:53:42Z",
+      "firstSeenAt": "2026-07-30T22:53:42Z"
+    },
+    {
+      "id": "Zy7EXDONlTY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "freeCodeCamp.org",
+      "publishedAt": "2026-07-30T14:53:42Z",
+      "firstSeenAt": "2026-07-30T22:53:42Z"
+    },
+    {
+      "id": "4CTtlpi7Lic",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Democracy Now!",
+      "publishedAt": "2026-07-30T14:53:42Z",
+      "firstSeenAt": "2026-07-30T22:53:42Z"
+    },
+    {
+      "id": "M-4y8nOCAno",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Creator Magic",
+      "publishedAt": "2026-07-30T13:53:42Z",
+      "firstSeenAt": "2026-07-30T22:53:42Z"
+    },
     {
       "id": "nAc-pn4rsgU",
       "type": "long",
@@ -6184,6 +6216,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-07-30T22:53:42Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T21:53:33Z",
+  "updatedAt": "2026-07-30T22:53:42Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -6441,15 +6441,6 @@
       "likeCount": 80,
       "probeClient": "web_embedded"
     },
-    "eWB3Ba0o-1o": {
-      "checkedAt": "2026-07-30T08:53:23Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Stop Using AI Like ChatGPT: Build AI Agents That Run Your Business | The Jo Show\n\nMost people think AI means typing prompts into ChatGPT and copying the response into another app.\n\nThat’s just the beginning.\n\nIn this solo episode of The Jo Show, Jo McKee, founder of McKee Creative, reveals how she transformed her marketing agency by building a powerful AI agent system that automates content creation, SEO, advertising insights, client workflows, and daily operations—without being locked into a single AI platform.\n\nDiscover why the future of AI isn’t chatbots—it’s AI agents that think, plan, execute tasks, and collaborate like digital employees.\n\nWhether you’re a small business owner, entrepreneur, marketer, agency founder, or AI enthusiast, this episode will change how you think about using artificial intelligence to grow your business.\n\n\n🎯 In This Episode You’ll Learn\n\n✅ Why using AI as a chatbot is only scratching the surface\n\n✅ How AI agents can automate marketing, SEO, operations, and client work\n\n✅ Why open-source AI tools offer more flexibility than closed ecosystems\n\n✅ How to build AI workflows without being a professional developer\n\n✅ Why portability matters when creating long-term AI systems\n\n✅ How Jo replaced expensive software subscriptions with custom AI agents\n\n✅ The framework for treating AI agents like employees—with tools, memory, rules, and approval systems\n\n\n💡 Featured AI Tools & Resources\n\n🤖 Hermes AI Agent\nhttps://hermes-agent.nousresearch.com/\n\n🧠 Obsidian Knowledge Base\nhttps://obsidian.md/\n\n📋 Paperclip Workflow & Task Management\nhttps://paperclip.ing/\n\n\n👥 Who Should Watch?\n\n🚀 Small Business Owners\n\n📈 Marketing Agencies\n\n💼 Entrepreneurs\n\n🤖 AI Builders\n\n📱 Digital Marketers\n\n🎯 SEO Professionals\n\n💡 Startup Founders\n\n⚙️ Operations Managers\n\n📊 Growth Marketers\n\n\n🔥 Why This Matters\nThe next generation of AI isn’t about asking better questions—it’s about building intelligent systems that can complete work, remember information, collaborate across tools, and scale alongside your business.\n\nIf you’re tired of paying for multiple software subscriptions or wondering how AI can create real business value, this episode provides a practical roadmap you can start applying today.\n\n\n_____________________________\n📺 Subscribe to The Jo Show\n→ https://www.youtube.com/@the_jo_show\n\n🎙️ Apply to be a guest on The Jo Show\n→ https://mckeecreative.store/the-jo-show-guest-application/\n\n_____________________________\n🔗 Contact Jo McKee\n\n🤖 Book a free live AI marketing strategy session\n→ https://calendar.app.google/AU8bEHoSBkD8Ewa76\n\nWebsite → https://mckeecreative.store\nLinkedIn → https://www.linkedin.com/in/mckeecreative/\n\n_____________________________\n⚙️ Tools Jo Loves\n\nDiscover Postiz: the best social media scheduling platform, that welcomes your AI agent team member! We appreciate you using our referral link:\n🗓️ https://postiz.pro/thejoshow\n\n⚙️ If you'd like a nice user experience-type dashboard for your workflows, that doesn't cost you monthly subscriptions, get Studio-J: https://studio-j.app/\n\n_____________________________\n\n#Automation #Obsidian #HermesAI #TechPodcast #TheJoShow #McKeeCreative #AIInnovation #NoCode",
-      "commentCount": 3,
-      "likeCount": 24,
-      "probeClient": "web_embedded"
-    },
     "iIa4x8swDIw": {
       "checkedAt": "2026-07-30T09:53:31Z",
       "embedAllowed": true,
@@ -6527,15 +6518,6 @@
       "likeCount": 46,
       "probeClient": "web_embedded"
     },
-    "BTWzuMhYrF8": {
-      "checkedAt": "2026-07-30T11:53:45Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get the Hermes Agent OS & Buzz Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nHermes Agent + Buzz Integration: 3 Ways to Connect (Desktop, Relay Bridge, Gateway) + Setup Walkthrough\n\nHermes Agent can now run Buzz, an AI-powered Slack-like app where agents (and humans) work in channels, DMs, threads, reactions, and scheduled tasks. The script explains three ways to run Buzz with Hermes: Buzz Desktop auto-discovery, a relay bridge that provides a hosted identity in channels, and connecting through the Hermes Gateway to use Buzz as a full external platform. It shows the setup steps: download Buzz from buzz.xyz, update Hermes, ensure Hermes ACP is set up, then run Hermes gateway setup, select Buzz, add the relay/community URL, optionally leave channel UUIDs empty to join all channels, allow community members to talk to the agent, and restart the gateway. It also covers setting Hermes Agent as the default provider, choosing models (including free options), controlling Buzz locally, and promoting the AI Profit Boardroom community and trainings.\n\n00:00 Buzz Meets Hermes\n00:08 Three Connection Options\n00:34 Install Buzz and Add Runtimes\n00:56 Fix Auto Discovery and Update\n02:12 Gateway Setup Walkthrough\n03:04 Set Hermes as Default Provider\n03:20 Use Free Models in Buzz\n03:42 Control Buzz Locally and Remotely\n04:35 Why Use Buzz Anyway\n04:44 Wrap Up and Next Steps\n04:56 Join AI Profit Boardroom\n05:15 Community Training and Support\n05:40 Coaching Calls and Networking\n05:53 Final Thanks and Links",
-      "commentCount": 5,
-      "likeCount": 24,
-      "probeClient": "web_embedded"
-    },
     "07VrcsBkErI": {
       "checkedAt": "2026-07-30T12:53:48Z",
       "embedAllowed": true,
@@ -6561,7 +6543,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-30T21:53:33Z",
+      "checkedAt": "2026-07-30T22:53:42Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6686,15 +6668,6 @@
       "availability": "public",
       "description": "Zapier AI Bangla Tutorial | Complete Automation Guide for Beginners | No Coding Needed\n\n🚀 Zapier AI Bangla Tutorial-এ আপনাকে স্বাগতম!\n\nএই ভিডিওতে আপনি শিখবেন কীভাবে Zapier AI ব্যবহার করে কোনো কোডিং ছাড়াই বিভিন্ন অ্যাপ ও AI টুলকে একসাথে সংযুক্ত করে কাজ অটোমেট করতে হয়।\n\n📌 এই ভিডিওতে যা শিখবেন:\n\nZapier AI কী?\nZapier Account তৈরি করার নিয়ম\nZap (Automation) কীভাবে তৈরি করবেন\nAI দিয়ে Workflow Automation\nGmail, Google Sheets, Slack, Notion, ChatGPT ও আরও অনেক App Connect করা\nTrigger & Action কী?\nAI Automation Examples\nBusiness, Freelancer & Digital Marketer-এর জন্য ব্যবহার\nTime Saving Automation Tips\nBest Practices\n\nএই ভিডিওটি Beginner থেকে Advanced সকলের জন্য উপযোগী।\n\n👍 ভিডিওটি ভালো লাগলে Like, Comment, Share করুন এবং নতুন AI Tutorial পেতে Channel টি Subscribe করুন।\n\n#Zapier #ZapierAI #Automation #AITools #BanglaTutorial #WorkflowAutomation #NoCode #Productivity #ChatGPT #DigitalMarketing #Bangla\n\n\nAI (Artificial Intelligence) Bangla Tutorial\n\nhttps://www.youtube.com/playlist?list=PL4VOoTrRfWbsB7ZIgin3jVnhW5GYaaqzy\n\nJoin Fourthwall: https://link.fourthwall.com/join/jk-update-technology\n\nFourthwall Shop: https://jk-update-technology-shop.fourthwall.com\n\nAffiliate Program Backit - http://ali.pub/4g8u9p\n\nAffiliate Business Links:-\n\nFB Page - https://www.facebook.com/jkonlineshop3\n\nFB Page - https://www.facebook.com/usahbtips      \n\nFB Group - https://www.facebook.com/groups/jkamworldwide \n\nFB Group - https://www.facebook.com/groups/usahealthbeauty1 \n\nFB Group - https://www.facebook.com/groups/usahealthbeauty  \n\nMy Daughter Youtube Channel - Icche BD\n\nhttps://www.youtube.com/c/IccheBD\n\nOther Channel Link (AI English Content) - JK Health & Beauty   \n\nhttps://www.youtube.com/@jkhealthbeauty",
       "commentCount": 2,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "f2VpsC4aV5E": {
-      "checkedAt": "2026-07-30T13:53:49Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn how to build a powerful AI workflow using n8n in just a few steps! In this quick tutorial, you’ll see how to automate tasks, connect tools, and create smart workflows without writing code.\n\nThis video is perfect for beginners who want to get started with AI automation, as well as anyone looking to improve productivity using no-code tools like n8n. Watch till the end to see how you can start building your own AI-powered systems today.\n\n🚀 What you’ll learn:\n\n* How to create an AI workflow in n8n\n* How to automate tasks using AI\n* How to connect tools and trigger workflows\n* Beginner-friendly no-code automation setup\n\nStart building smarter workflows and save hours with automation!\n\n#n8n #AIworkflow #Automation #NoCode #AIAutomation #WorkflowAutomation #TechShorts #Productivity #AItools #AutomationTools\n\n**Keywords:** n8n tutorial, AI workflow, n8n AI automation, build AI workflow n8n, no code automation, n8n beginner tutorial, AI automation tools, workflow automation, automate tasks with AI, n8n guide, AI productivity tools, automation with n8n",
-      "commentCount": 0,
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
@@ -6994,15 +6967,6 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "C9eaal-M7AE": {
-      "checkedAt": "2026-07-30T20:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Build your own AI Marketing Tool completely FREE using Claude Code.\n\nIn this step-by-step tutorial, you'll learn how to build an AI tool that can audit any website, analyze SEO, review competitors, generate marketing reports, create client-ready PDFs, and help you start an AI Automation Agency.\n\nThis isn't just another AI demo.\n\nYou'll build a real tool that agencies charge $5,000–$10,000/month to provide.\n\n🔥 In this video you'll learn:\n\n✅ Install Claude Code\n✅ Install the Marketing Skills\n✅ Audit Any Website\n✅ Generate Client PDF Reports\n✅ Competitor Analysis\n✅ SEO Audit\n✅ Conversion Analysis\n✅ Landing Page Audit\n✅ AI Marketing Automation\n✅ How to Use It to Get Clients\n\nWhether you're a freelancer, agency owner, digital marketer, entrepreneur, or AI enthusiast, this tutorial will help you create a real AI-powered marketing system.\n\n━━━━━━━━━━━━━━━\n\n⏱ Chapters\n\n00:00 Introduction\n00:45 Why Marketing Agencies Charge Thousands\n02:35 What This AI Tool Can Do\n05:50 Installing Claude Code\n09:15 Installing Marketing Skills\n13:45 Running Your First Website Audit\n19:20 Generating Client Reports\n24:40 Using It to Get Clients\n28:00 Final Thoughts\n\n━━━━━━━━━━━━━━━\n\n💻 Tools Used\n\n• Claude Code\n• VS Code\n• GitHub\n• AI Marketing Skills\n\n━━━━━━━━━━━━━━━\n\nWho Should Watch?\n\n• AI Automation Agency Owners\n• Digital Marketers\n• Freelancers\n• SEO Professionals\n• Business Owners\n• Students\n• Entrepreneurs\n• Developers\n• AI Consultants\n\n━━━━━━━━━━━━━━━\n\nIf this video helped you,\n\n👍 Like the video\n💬 Comment your thoughts\n🔔 Subscribe for more AI tutorials every week.\n\n#ClaudeCode #AITools #AIAutomation #DigitalMarketing #SEO",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "nAc-pn4rsgU": {
       "checkedAt": "2026-07-30T21:53:33Z",
       "embedAllowed": true,
@@ -7010,6 +6974,38 @@
       "description": "𝐀𝐬𝐬𝐚𝐥𝐚𝐦 𝐨 𝐀𝐥𝐞𝐤𝐮𝐦!\n\nHow to Use Claude Projects for Beginners in 2026 (Full Tutorial)  اردو / हिंदी\n━━━━━━━━━━━━━━━\n\n⭐ BuildUp: Pakistan's 1st AI Enabled Business Community\n\nBecome an AI Marketing Expert:\n\n✅ AI Marketing\n✅ AI Automations\n✅ Personal Branding\n\nSpecially designed for freelancers and small businesses.\n\n🔥 LIFETIME ACCESS — 60% OFF\n👉 https://swiy.co/buildup\n――――――――――――――――――――――――――――――\n\n𝐖𝐡𝐚𝐭 𝐘𝐨𝐮 𝐖𝐢𝐥𝐥 𝐋𝐞𝐚𝐫𝐧:\n\n✅Train Claude AI Skills to generate consistent, high-quality outputs instead of repeating prompts.\n✅Build Reusable AI Workflows for content creation, scripting, and business tasks.\n✅Master Prompt Engineering by refining AI instructions and improving responses over time.\n✅Understand Claude Projects vs Skills and know when to use each for maximum productivity.\n✅Create AI Systems for Automation that save hours of manual work and improve content quality.\n\n------------------------------------------------------\n\n\n⚠️ 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑:\nSome of the links here are affiliate links. This means that I may get a commission at no additional cost if you click through and make a purchase. These commissions help me create free valuable videos like these.\n\n━━━━━━━━━━━━━━━\n\n 𝐓𝐢𝐦𝐞-𝐒𝐭𝐚𝐦𝐩𝐬:-\n\n00:00 Why Claude AI Skills Are Better Than Prompts\n01:42 What Are Claude AI Skills?\n03:10 Projects vs Skills Explained\n05:39 Browse Existing Claude AI Skills\n06:03 How to Create a New AI Skill\n08:20 Building Your First Claude AI Skill\n11:38 How to Train AI with Better Instructions\n11:54 AI-Generated YouTube Script Demo\n16:30 Test and Train Your AI Skills\n16:54 Using AI Memory for Better Results\n20:15 Common AI Training Mistakes to Avoid\n24:30 Creating Reusable AI Workflows\n28:55 Projects vs Skills: Which Should You Use?\n34:35 Build an AI Skill Roadmap\n36:46 Creating a Complete AI Skill from Scratch\n37:01 Organizing AI Content Pillars\n38:30 Final AI Training Tips & Best Practices\n\n\n#hbaservices #contentcreation  #claude #AI",
       "commentCount": 42,
       "likeCount": 196,
+      "probeClient": "web_embedded"
+    },
+    "5QWNao9VFKg": {
+      "checkedAt": "2026-07-30T22:53:42Z",
+      "embedAllowed": true,
+      "description": "Get the Agent OS & Macron Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nMacaron V1: The New 4-in-1 AI Agent is Insane!\n\nDiscover Macaron V1, a revolutionary new AI agent from Mind Lab that utilizes four specialized experts to handle chat, coding, and interface design automatically. Learn how its massive 2-million token context window and open-source license are changing the game for business automation.\n\n00:00 - Intro: Meet Macaron V1\n01:16 - 4 Specialized AI Agents in One\n01:33 - Massive 2 Million Token Context\n02:06 - Benchmark Results & Performance\n02:40 - Generative UI: Better Than Text\n04:02 - Open Source & Developer Access\n05:29 - How the AI Router Works\n06:33 - Final Verdict: Is it a GPT Killer?",
+      "commentCount": 2,
+      "likeCount": 36,
+      "probeClient": "web_embedded"
+    },
+    "Zy7EXDONlTY": {
+      "checkedAt": "2026-07-30T22:53:42Z",
+      "embedAllowed": true,
+      "description": "Learn how to build production-ready multi-agent systems and automate workflows using LangChain and LangGraph. You'll master everything from core agentic fundamentals and Pydantic validation to advanced sequential, parallel, and conditional LangGraph workflows. Along the way, you'll implement chat memory, RAG, and human-in-the-loop controls, and finish by deploying your applications to AWS and Render through real-world projects like a custom ChatGPT, trip planner, and auto content agent. \n\nCode: https://github.com/entbappy/Complete-Agentic-AI-Course\n\nBappy's YouTube Channel: https://www.youtube.com/@dswithbappy\nBappy's LinkedIn profile: https://www.linkedin.com/in/boktiarahmed73/\nBappy's Udemy: https://www.udemy.com/user/boktiar-ahmed-bappy/\n\n❤️ Support for this channel comes from our friends at Scrimba – the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n⭐️ Chapters ⭐️\n- 00:00:00 Introduction & Planning\n- 00:08:33 Evolution from LLMs to Agentic AI\n- 00:41:26 Agentic AI: Core Characteristics & Components\n- 01:33:18 Asynchronous Programming for AI Agents\n- 02:06:23 Pydantic for AI Agents - Pydantic Data Validation\n- 03:27:08 Building End-to-End Single AI Agent System using LangChain\n- 04:49:37 Building End-to-End Multi-Agent AI System with LangChain\n- 06:30:27 What is LangGraph & Why It’s Required? | LangChain vs LangGraph\n- 07:44:43 Understanding LangGraph Core Components\n- 08:29:07 Build Sequential Workflows in LangGraph\n- 09:19:04 Implement Parallel Workflows in LangGraph\n- 10:15:27 Master Conditional Workflows in LangGraph\n- 11:06:05 LangGraph Iterative Workflows Explained\n- 11:35:51 Build Your First Agentic Chatbot with LangGraph\n- 12:43:49 Why Persistence is Required in LangGraph\n- 13:51:00 Streaming Responses in Agentic Chatbot with LangGraph\n- 14:10:02 How to Add Chat Threading in Agentic Chatbot using LangGraph\n- 14:42:02 Build Permanent Chat Persistence Memory with LangGraph and Database\n- 15:16:31 Monitor Your Agentic Chatbot with LangSmith & LangGraph\n- 15:40:24 How to Integrate Tools in Agentic Chatbot with LangGraph\n- 16:54:17 Implement RAG in Agentic Chatbot with LangGraph\n- 17:50:27 Implement Human-in-the-Loop (HITL) in Agentic Chatbot using LangGraph\n- 18:48:09 Agentic Chatbot CI/CD Deployment on AWS with Docker & GitHub Actions\n- 19:52:05 Deploy Agentic AI Chatbot on Render for FREE with Docker\n- 20:06:27 Project: Build Your Own ChatGPT Agent with LLMs, LangGraph, FastAPI, LangSmith, ChromaDB, SQLAlchemy & AWS\n- 22:21:17 Project: Build TripMate AI End-to-End: Multi-Agent Travel Planner with Groq, LangGraph, PostgreSQL & FastAPI\n\n🎉 Thanks to our Champion and Sponsor supporters:\n👾 @omerhattapoglu1158\n👾 @goddardtan\n👾 @akihayashi6629\n👾 @kikilogsin\n👾 @anthonycampbell2148\n👾 @tobymiller7790\n👾 @rajibdassharma497\n👾 @CloudVirtualizationEnthusiast\n👾 @adilsoncarlosvianacarlos\n👾 @martinmacchia1564\n👾 @ulisesmoralez4160\n👾 @_Oscar_\n👾 @jedi-or-sith2728\n👾 @justinhual1290\n\n--\n\nLearn to code for free and get a developer job: https://www.freecodecamp.org\n\nRead hundreds of articles on programming: https://freecodecamp.org/news",
+      "commentCount": 59,
+      "likeCount": 1493,
+      "probeClient": "web_embedded"
+    },
+    "4CTtlpi7Lic": {
+      "checkedAt": "2026-07-30T22:53:42Z",
+      "embedAllowed": true,
+      "description": "Support our work: https://democracynow.org/donate/sm-desc-yt\n\nArtificial intelligence tools are quickly advancing in sophistication and capabilities, raising alarm among researchers and industry figures who say the technology needs to be more tightly regulated. This comes as OpenAI, maker of ChatGPT, recently disclosed that one of its experimental AI agents went rogue and secretly hacked into the infrastructure of several other companies in what was supposed to be a controlled test. Over 1,100 scientists and senior employees at top AI firms have called on the U.S. government to back international efforts to “deliberately pace” the development of the world’s most advanced AI systems.\n\n“What we’re talking about now are AI systems that also have goals on their own that they can actively go out and pursue in the world,” says AI researcher Max Tegmark, a physics professor at the Massachusetts Institute of Technology. Tegmark says OpenAI’s rogue agent is a “canary in the coal mine” of where the technology is headed as Silicon Valley leaders seek to “replace humans.”\n\nSubscribe to our Daily Email Digest: https://democracynow.org/subscribe",
+      "commentCount": 349,
+      "likeCount": 1708,
+      "probeClient": "web_embedded"
+    },
+    "M-4y8nOCAno": {
+      "checkedAt": "2026-07-30T22:53:42Z",
+      "embedAllowed": true,
+      "description": "🔗 Free Buzz community: https://mrc.fm/cmbuzz\n🤖 This video was streamed live on X and edited into highlights by a Buzz AI agent using Fable so apologies for any wonky edits!\n\n🎙️ The audio gets wobbly the moment the huddle starts.\n\nHuddles are a very experimental feature.\n\nMy free community on Buzz hit 102 members, so I celebrated by opening a voice huddle and inviting whoever turned up. Four humans and two AI agents later, Grok and Claude Haiku, we had a real answer: it works, it is rough, and the interesting part is not the voice at all. Agents answer in text rather than speech, every reply spins up a full agent harness so the latency is brutal, and the participant list flickers between active and ended while people are clearly still talking. But the live transcript is quietly brilliant, with every line cryptographically signed and attributed to whoever said it, and by the end I had an agent summarise the entire session into something worth sending to the Buzz team. Huge thanks to Patrik, Rian and Mingo for testing this with me live. Come and join the next one, my free Buzz community is open to anyone: https://mrc.fm/cmbuzz\n\n00:00 Grok the AI agent roasts me live\n00:20 What is Buzz? Jack Dorsey's AI Slack\n01:18 Buzz live transcript demo\n01:49 Cryptographically signed transcripts on Nostr\n02:22 Buzz voice chat quality and first bugs\n03:46 Always on AI agents and the fingerprint problem\n05:05 Buzz huddle bugs: three attempts to keep a call alive\n06:24 Adding Grok AI agent to a voice call\n07:55 Claude Haiku joins the huddle\n09:22 Do AI agents in voice calls actually work?\n12:11 Why AI voice agents need a realtime API\n12:37 Grok writes the AI meeting summary\n13:45 Buzz vs Slack: what is still missing\n14:58 Final verdict on Buzz huddles",
+      "commentCount": 19,
+      "likeCount": 74,
       "probeClient": "web_embedded"
     }
   }
