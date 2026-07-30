@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T18:53:10Z",
+  "updatedAt": "2026-07-30T19:53:15Z",
   "items": [
+    {
+      "id": "5SwxUsvtqNU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sean Standberry",
+      "publishedAt": "2026-07-30T15:53:15Z",
+      "firstSeenAt": "2026-07-30T19:53:15Z"
+    },
+    {
+      "id": "nR-9Pbd_VYI",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Applied Systems",
+      "publishedAt": "2026-07-30T15:53:15Z",
+      "firstSeenAt": "2026-07-30T19:53:15Z"
+    },
+    {
+      "id": "7rVt1BKMsjY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Augmented AI",
+      "publishedAt": "2026-07-30T15:53:15Z",
+      "firstSeenAt": "2026-07-30T19:53:15Z"
+    },
+    {
+      "id": "BLCjmPmITOM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Finn Harris",
+      "publishedAt": "2026-07-30T13:53:15Z",
+      "firstSeenAt": "2026-07-30T19:53:15Z"
+    },
+    {
+      "id": "Pzmm1OjBHVk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "FuturMinds",
+      "publishedAt": "2026-07-30T13:53:15Z",
+      "firstSeenAt": "2026-07-30T19:53:15Z"
+    },
+    {
+      "id": "Ud9TN1jepaY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Krrish",
+      "publishedAt": "2026-07-30T12:53:15Z",
+      "firstSeenAt": "2026-07-30T19:53:15Z"
+    },
     {
       "id": "9VK5jrqGbYk",
       "type": "short",
@@ -6053,6 +6101,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-07-30T19:53:15Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
