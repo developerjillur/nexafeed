@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T19:53:17Z",
+  "updatedAt": "2026-07-30T01:40:56Z",
   "items": [
+    {
+      "id": "v8vsKuKkAbU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-07-29T23:09:24Z",
+      "firstSeenAt": "2026-07-30T01:40:56Z"
+    },
+    {
+      "id": "BqXFVtxvCBA",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-07-29T22:23:22Z",
+      "firstSeenAt": "2026-07-30T01:40:56Z"
+    },
+    {
+      "id": "35HqoaB0yyA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lectures on YouTube",
+      "publishedAt": "2026-07-29T20:40:56Z",
+      "firstSeenAt": "2026-07-30T01:40:56Z"
+    },
+    {
+      "id": "BFFGaP9aXEM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Great Learning",
+      "publishedAt": "2026-07-29T18:40:56Z",
+      "firstSeenAt": "2026-07-30T01:40:56Z"
+    },
+    {
+      "id": "nsEfeVbk-Nc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan 3D AI",
+      "publishedAt": "2026-07-29T12:40:56Z",
+      "firstSeenAt": "2026-07-30T01:40:56Z"
+    },
+    {
+      "id": "fHF4ABck1Io",
+      "type": "long",
+      "source": "secondary",
+      "channel": "trendos",
+      "publishedAt": "2026-07-29T10:40:56Z",
+      "firstSeenAt": "2026-07-30T01:40:56Z"
+    },
     {
       "id": "ZoPcGlLPCK8",
       "type": "long",
@@ -5210,6 +5258,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-07-30T01:40:56Z",
+      "new": 7,
+      "long": 4,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
