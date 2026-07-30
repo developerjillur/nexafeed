@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T09:53:31Z",
+  "updatedAt": "2026-07-30T10:53:39Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -5500,7 +5500,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-30T09:53:31Z",
+      "checkedAt": "2026-07-30T10:53:39Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5648,14 +5648,14 @@
       "probeClient": "web_embedded"
     },
     "hhxdoOCvpZ4": {
-      "checkedAt": "2026-07-29T10:53:10Z",
+      "checkedAt": "2026-07-30T10:53:39Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Let’s be honest — learning AI can feel overwhelming when most courses are either too simple or way too advanced. That’s why Simplilearn AI Courses stand out. They’re practical, easy to follow, and focused on helping you build real-world skills.\nIf you’re serious about learning AI the right way, this is worth checking out. Tap the link below and tell me in the comments where you’re starting from.\nCheck out Simplilearn AI courses through the link below.\n🔥Top AI Courses - https://www.simplilearn.com/courses/ai\n🔥Top Generative AI Courses - https://www.simplilearn.com/courses/generative-ai\n🔥Top Machine Learning Courses - https://www.simplilearn.com/courses/machine-learning\n\n#Simplilearn #SimplilearnAICourses #AICourses",
       "commentCount": 0,
-      "likeCount": 2,
+      "likeCount": 20,
       "comments": [],
-      "commentsFetchedAt": "2026-07-29T10:53:10Z",
+      "commentsFetchedAt": "2026-07-30T10:53:39Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6069,15 +6069,6 @@
       "description": "This is a clip from CloudGeometry's webinar, \"AI coding tools are not a software development process.\"\n\nIn the clip, we get into why faster code generation is not the same as faster delivery, and what it takes to turn AI-generated change into something safe and shippable.\n\n▶ Watch the full session here: https://www.brighttalk.com/webcast/20981/671340?bt_tok={{bt_fastpass_token}}&utm_source=CloudGeometry&utm_medium=brighttalk&utm_campaign=671340\n\nIn the full webinar we cover the gap between AI productivity and enterprise delivery, the questions to ask before investing in AI coding tools, and how a governed, AI-managed software lifecycle keeps humans at the gates with every change traceable, plus a live demo.\n\nLearn more about AI-MSL: https://lp.cloudgeometry.com/managed-ai-software-delivery/\n\nSubscribe for more on governed, AI-powered software delivery.\n\n #AIMSL #CloudGeometry #AICodingTools #SoftwareDelivery #AIGovernance #SDLC",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "a_Kq18ufZzU": {
-      "checkedAt": "2026-07-29T16:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI agents have transformed how quickly developers can produce code. But organizational productivity hasn’t increased at the same speed.\n\nIn this Architecture Weekly conversation, Baruch Sadogursky and Vladimir Ivanov examine what actually changed in AI-assisted development—and why generating more code is only the beginning.\n\nWe discuss:\n\n• Why CLI agents are fundamentally different from coding assistants\n• How browser and terminal access give AI a “brain and hands”\n• Why individual productivity gains create organizational bottlenecks\n• What an AI-first software delivery lifecycle looks like\n• Why Claude can endlessly review its own code\n• How skills provide lazy-loaded, reusable context\n• Why larger context windows won’t make skills obsolete\n• How to evaluate nondeterministic AI systems\n• What happens to junior developers when AI performs traditional junior work\n\nThis conversation is for software architects, engineering leaders and developers building real AI-enabled engineering organizations.\n\nSubscribe to Architecture Weekly:\nhttps://youtube.com/@architectureweekly?sub_confirmation=1\n\nArchitecture Weekly Substack: \n\nhttps://softwarearchitectureweekly.substack.com/\n\nCHAPTERS\n\n00:00 The AI productivity paradox\n00:24 Introduction\n01:18 From chat assistants to CLI agents\n04:00 The model’s brain and hands\n05:42 What agents can already do autonomously\n07:08 Individual versus organizational productivity\n09:50 Why more code creates a bigger bottleneck\n14:00 AI-powered PR triage\n16:28 Inside an AI-first software delivery lifecycle\n19:45 When Claude reviews Claude\n21:30 Stopping infinite AI review loops\n23:54 What agent skills actually are\n27:45 Skills, lazy loading and progressive context\n34:54 Will huge context windows make skills obsolete?\n39:35 Context engineering is software engineering\n41:00 Skills and supply-chain security\n45:26 Testing nondeterministic AI systems\n47:26 Theory of Constraints for AI teams\n47:56 What happens to junior developers?\n49:30 Outro and the next conversation\n\n#AIAgents #SoftwareEngineering #EngineeringLeadership",
-      "commentCount": 0,
-      "likeCount": 2,
       "probeClient": "web_embedded"
     },
     "py_--ZJqxMM": {
@@ -6549,14 +6540,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "ced7C5d7p08": {
-      "checkedAt": "2026-07-30T07:53:15Z",
-      "embedAllowed": true,
-      "description": "Get free credits to try Genspark when you sign up @ https://www.genspark.ai/?utm_source=yt&utm_campaign=buildgreatproducts\n\n🚀 Apply to work with me in the Product Studio and make $5K-50K+ from your app idea: https://go.buildgreatproducts.com\n\nIt's even easier than ever now to avoid AI slop when designing websites and apps, so in this video I want to show you how to do it using Genspark design.\n\nI walk through taking an existing website, redesigning it, creating a full design system from it and then even turning the website into a launch video that can be used to get customers on social.\n\nChapters:\n\n00:00 Turning AI slop into professional design\n01:13 Case study: Redesigning the SEO Stack website\n02:37 Defining 'AI slop' and 'vibe-coded' design\n05:25 How poor design affects customer perception\n07:16 Introducing GenSpark for the redesign process\n09:16 Answering GenSpark's design questions for better output\n11:32 Reviewing the first AI-generated design drafts\n16:06 Generating the full, redesigned homepage\n17:34 Creating an HTML design system from the final design\n19:19 Generating an animated launch video with GenSpark\n21:43 Final thoughts on using AI design tools effectively\n\nFollow on social:\nhttps://www.linkedin.com/in/ashbychris/\nhttps://x.com/chris_bgp\nhttps://www.instagram.com/build.greatproducts/",
-      "commentCount": 5,
-      "likeCount": 54,
-      "probeClient": "web_embedded"
-    },
     "vYgnAWX46Tc": {
       "checkedAt": "2026-07-30T08:53:23Z",
       "embedAllowed": true,
@@ -6722,11 +6705,32 @@
       "likeCount": 37,
       "probeClient": "web_embedded"
     },
-    "kAHQpMvCYwo": {
-      "checkedAt": "2026-07-30T09:53:31Z",
-      "embedAllowed": false,
+    "5QSG-r55IaY": {
+      "checkedAt": "2026-07-30T10:53:39Z",
+      "embedAllowed": true,
       "availability": "public",
-      "failureReason": "embed_disabled"
+      "description": "Apne Business Ko AI Ki Help Se Future Ready Kaise Kare? | Best AI Automation for Business\n\n\n Is Your Business Ready for the AI Future?\n\nAI is no longer a luxury—it's a competitive advantage. Businesses that embrace AI today are becoming faster, smarter, and more profitable.\n\nIn this video, you'll discover how to make your business **future-ready with AI**, automation, custom websites, and mobile applications. Whether you're a startup, small business, educational institute, or growing enterprise, this guide will help you understand how AI can streamline operations, improve customer experience, and accelerate business growth.\n\nIn This Video:\n\nBest AI Automation for Business\n How AI is transforming modern businesses\n AI automation strategies that save time and reduce costs\n The role of websites and mobile apps in business growth\n CRM, ERP, and custom software solutions powered by AI\n Real-world AI use cases for businesses of every size\n Practical steps to build a future-ready business\n\nIf you're planning to automate your business, generate more leads, improve customer engagement, or scale efficiently, this video is for you.\n\nNeed a Custom AI Solution?\n\nWe help businesses build AI-powered websites, mobile apps, CRM, ERP, business automation software, and complete digital transformation solutions.\n\nWelcome to Grow with Mohnish , the official channel powered by Creators Mind—India’s trusted One-Stop Software & Digital Solutions Company.\n\nSince 2019, we have empowered over 5 Lakh+ teachers, coaching institutes, startups, and businesses across India to scale digitally with smart, reliable, and modern technology solutions. Led by Mohnish Vats, this channel is dedicated to helping you navigate the digital landscape, understand custom software development, and choose the right tech tools to grow your brand.\n\n🌐 Our Core Services Include:\n EdTech Solutions: Education Apps, School & Coaching Management Software, Digital Classrooms.\n Business Tech: CRM, HRM, & Custom Business Management Systems.\n Development: Custom Mobile App & Website Development (E-Commerce, Delivery, & SaaS).\n\n💡 Why Partner With Creators Mind?\n 100% Code Ownership & Complete Transparency\n Industry-Leading Technical Support\n End-to-End Digital Solutions tailored to your budget\n\n📞 Contact & Business Inquiries:\n Phone: +91 9973725719 / +91 7033814333\n Website: http://www.creatorsmind.co.in\n Location: Bihar | Serving PAN India\n\nThank you for supporting Creators Mind ❤️\n\n👍 If you found this video helpful, don't forget to Like, Share, Comment, and Subscribe for more insights on AI, business automation, digital transformation, and technology.\n\n\nRelated Search :- \nBest AI Automation for Business\nbusiness automation\nbusiness automation india\nbusiness automation software\nbusiness automation app\nbusiness automation website\nmobile app development\nwebsite development\ncustom software development\ncrm software\nerp software\nbusiness growth\nsmall business automation\nautomation software\nbusiness owner tips\nstartup business\ndigital business\nonline business\nwebsite for business\nmobile app for business\ncustom mobile app\nwebsite development company\napp development company\nsoftware company india\ncrm development\nerp development\nlead management software\nappointment booking app\nrestaurant app\nschool management software\nhospital management software\ngym management software\necommerce website\nbusiness website\nwebsite design\nweb development\nandroid app development\nios app development\nflutter app development\nautomation tools\ndigital transformation\nbusiness productivity\nsoftware solutions\nbusiness software\ncustom crm\nbusiness management software\nsmall business software\nbest app development company\nwebsite development services\nsoftware development company\nbusiness automation 2026\n#BestAIAutomationforBusiness\n#AppDevelopment\n#WebsiteDevelopment\n#SoftwareCompany\n#CRM\n#ERP\n#BusinessGrowth\n#StartupIndia\n#DigitalBusiness\n#Automation\n#BusinessOwner\n#BusinessTips\n#CustomSoftware\n#TechBusiness\n#BusinessSuccess",
+      "commentCount": 1,
+      "likeCount": 16,
+      "probeClient": "web_embedded"
+    },
+    "TTSPDNUinek": {
+      "checkedAt": "2026-07-30T10:53:39Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔗 All Prompts and Template can be obtained here: https://komputermechanic.com/tutorials/content-creation-machine\n\nGet your Contabo VPS here: https://komputermechanic.com/go/contabo-vps\nGet your Racknerd VPS here: https://komputermechanic.com/go/racknerd-vps\n\n\n🙏Video Sponsored by **Sodales AI** (https://sodales.ai)\n\n\n\nI built a content studio that runs on my own server. Five Hermes agents find the ideas, write the carousels, design them across 97 templates, and publish them to Instagram and TikTok. \n\nIn this video I show the full build and the finished studio running end to end.\n\nWHAT THE CREW DOES\nAtlas finds ideas and researches the facts behind them\nVera writes the slides in your brand voice\nKite designs and renders them as finished images\nOrin handles captions, hashtags and publishing through Buffer\nThe Orchestrator coordinates all four and reports back to you\n\nWHAT YOU GET BY THE END\nA private dashboard on your own server\nDaily carousel ideas written for your brand, not generic AI slop\n50+ designed templates the agents fit your copy into\nOne click from idea to a finished, posted carousel\nFull control from Telegram, so you can run it from your phone\n\nCHAPTERS\n0:00 What we're building\n3:07 Demo: five agents running a real content studio\n9:37 Installing Hermes Agent\n27:31 Connecting your AI model\n35:10 Adding Telegram: a group and a channel per agent\n36:56 Wiring the multi-agent crew\n1:02:47 Building the dashboard backend\n1:11:30 The content and agent tabs\n1:15:25 Wiring the frontend: ideas and carousels\n1:25:36 Connecting Perplexity, ImgBB and Buffer\n1:41:46 Running the studio from Telegram\n1:46:50 Secure access anywhere with Tailscale\n\nLINKS\n- Copy-paste build prompts: https://komputermechanic.com/tutorials/content-creation-machine\n- Hermes-Agent: https://hermes-agent.nousresearch.com/\n-Get your Contabo VPS here: https://komputermechanic.com/go/contabo-vps\n-Get your Racknerd VPS here: https://komputermechanic.com/go/racknerd-vps\n- Tailscale: https://tailscale.com/\n\nSTACK\nHermes Agent, Claude, Buffer, ImgBB, a $5 VPS\n\nIf you want the prompts and the installer, everything is on the site. Grab it, run one command, and your studio is live in about ten minutes.\n\n#AIAgents #HermesAgent #ContentAutomation #AIAutomation #InstagramMarketing #SelfHosted #AIContent #SocialMediaAutomation",
+      "commentCount": 20,
+      "likeCount": 186,
+      "probeClient": "web_embedded"
+    },
+    "K5WR6ubxd-A": {
+      "checkedAt": "2026-07-30T10:53:39Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get 60 days free usage of Wispr Flow using ABHIJEETXWISPR\nDownload Wispr Flow now - https://ref.wisprflow.ai/ailearnersbyabhijeet\n\n#hermes #hermesai #aiagents \n\nI have been running Hermes AI as my daily driver for months now, and in this video I show you the 5 exact ways it works inside my business every single day — not theory, not a demo, my real workflow. You will see how it runs an entire YouTube channel end to end, handles client image work through custom skills, pulls research and transcripts through APIs, and prepares assets before I even sit down to record.\n\nThe best part is the cost. Running Hermes on Deepseek V4 means near-frontier capability at a fraction of what GPT or Claude cost per token, which is what makes this practical for Indian freelancers and small agency owners instead of just funded startups.\n\nI also walk through the installation, the memory setup I personally use, how skills and hooks actually work, and I build one custom skill live so you can see the whole process from scratch.\n\nThis video is for non-coders, freelancers, and business owners who want a real AI employee running 24/7 without a developer salary attached to it.\n\nHit like, subscribe for more AI agent workflows, and comment which of the 5 use cases you want a full dedicated video on!\n\n#HermesAI #HermesAgent #AIAgents #AIAutomation #DeepseekV4 #HindiTutorial #AIInHindi #AIAgency #SelfHostedAI #AILearnersIndia\n\n\nLearn Airtable in Detail (India, UK, US) : https://www.youtube.com/channel/UCjECA8ZHP52yFjKyRW4-8Hw/join\n\nConnect with me Personally \nWhatsapp Community : https://shorturl.at/oDaY8\nLinkedIn : https://www.linkedin.com/in/ailearnersindia/\nInstagram : https://www.instagram.com/abhijeet.kalamkar.ai/\nX - High Profile Prompts :  https://x.com/AiLearnersIndia: \n\nThis I use to Create these High Quality Videos \n\nMain Primary face Lighting : https://amzn.to/46e7ng4\nSide Lights for Edge lighting on Face : https://amzn.to/4m2RGgm\nMic I Use : https://amzn.to/4f1zxgE\nAlternative Affordable Mic : https://amzn.to/44HwZRu\nMost Affordable Mic : https://amzn.to/4nX1mdX\nCamera I Use : https://amzn.to/3TK4iwV\nSame Quality Affordable Camera : https://amzn.to/46eRF4p\nBackground RGB Color Lights : https://amzn.to/3GyFKEd\nWindow Shadow Light Behind me : https://amzn.to/4f1zIsk\n\n🔥 AI Agents Kaise Banaye Hindi Mein - Complete Tutorial! 🔥\n\nAI Learners India me aapka swagat hai! Yahan aap seekhenge AI agents kaise banaye, N8N automation tutorial Hindi mein, aur AI se paise kaise kamaye - sab kuch step-by-step, bina coding ke!\n\n📚 Iss Video/Channel Mein Aap Seekhenge:\n\n✅ AI Agents Kaise Banaye (No Coding Required): Complete step-by-step guide Hindi mein\n✅ N8N Tutorial Hindi - Beginner se Advanced tak complete course\n✅ AI Automation Hindi - Workflows, chatbots, aur business automation\n✅ AI Agents Without Coding - OpenAI API integration aur custom workflows\n✅ AI se Paise Kaise Kamaye - Monetization strategies aur business ideas\n✅ Voice AI Agents Hindi Tutorial - Advanced automation techniques\n✅ RAG AI Agents Hindi - Data analysis aur intelligent systems\n✅ AI Agents for Business Hindi - Real-world applications aur case studies\n\n🎯 Trending Topics Covered:\n- AI Agents Crash Course Hindi\n- N8N Self Hosting Hindi Tutorial  \n- AI Workflow Automation Complete Guide\n- Chatbot Banane Ka Tarika (Step-by-Step)\n- AI Tools Hindi Mein Explained\n- Automation Business Hindi - Complete Roadmap\n- AI Agents Masterclass Hindi Series\n\n💰 Business & Career Focus:\n- AI Automation Freelancing Hindi Guide\n- Make Money with AI Agents Hindi Tutorial\n- AI Business Kaise Shuru Karein India Mein\n- AI Agents Service Business Model\n- Passive Income with AI Automation\n\n🚀 Advanced Topics:\n- Custom AI Agents Development Hindi\n- N8N OpenAI Integration Advanced Tutorial\n- Email Automation N8N Hindi\n- AI Workflow Scaling Techniques\n- Production-Ready AI Agent Deployment\n\nCommunity se Judein:\nHamare exclusive N8N Circle (Whatsapp/Telegram) ko join karein aur AI enthusiasts ki community ke saath judein. Yahan aap workflows share kar sakte hain, real-time troubleshooting kar sakte hain, aur AI automation projects par collaborate kar sakte hain.\n\n🎯 Channel Mission: \nAapko AI agents aur automation expert banana, taki aap apne career aur business ko नई ऊंचाइयों par le ja sakein. Agar aap AI automation seekhna chahte hain, AI se paise kamana chahte hain, ya phir AI business start karna chahte hain - toh subscribe karna na bhoolein!\n\n#AIAgentsKaiseBanaye #N8NTutorialHindi #AIAutomationHindi #NoCodeAIAgents #AIAgentsWithoutCoding #AIAgentsHindi #AutomationKaiseKaren #AIAgentsCrashCourse #AIAgentsMasterclass #HindiAITutorial #AILearnersIndia #N8NHindi #AIForBusiness #MakeMoneyWithAI #IndianAICommunity #AIAutomationBusiness #VoiceAIAgents #RAGAIAgents #ChatbotBananeKaTarika #AIToolsHindi",
+      "commentCount": 30,
+      "likeCount": 134,
+      "probeClient": "web_embedded"
     }
   }
 }
