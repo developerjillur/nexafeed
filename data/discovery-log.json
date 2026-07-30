@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T03:53:42Z",
+  "updatedAt": "2026-07-30T04:53:43Z",
   "items": [
+    {
+      "id": "stv1fuVJZQ4",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-07-30T04:00:33Z",
+      "firstSeenAt": "2026-07-30T04:53:43Z"
+    },
+    {
+      "id": "7c52a2-08Ts",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Star News Business",
+      "publishedAt": "2026-07-30T04:26:43Z",
+      "firstSeenAt": "2026-07-30T04:53:43Z"
+    },
+    {
+      "id": "0If2NzOgntI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Tesla Space",
+      "publishedAt": "2026-07-29T19:53:43Z",
+      "firstSeenAt": "2026-07-30T04:53:43Z"
+    },
+    {
+      "id": "07-zkX7bizA",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Business Standard",
+      "publishedAt": "2026-07-29T13:53:43Z",
+      "firstSeenAt": "2026-07-30T04:53:43Z"
+    },
     {
       "id": "HfqryG68YEk",
       "type": "short",
@@ -5366,6 +5398,15 @@
       "channelsChecked": 33,
       "warnings": 23,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-07-30T04:53:43Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 10,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
