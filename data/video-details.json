@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T15:53:16Z",
+  "updatedAt": "2026-07-30T16:53:37Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -1065,18 +1065,6 @@
         }
       ],
       "commentsFetchedAt": "2026-07-28T07:53:06Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "hFEBYE8n42k": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 0,
-      "likeCount": 56,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -4433,105 +4421,105 @@
       "probeClient": "web_embedded"
     },
     "Chn40LkYMPs": {
-      "checkedAt": "2026-07-29T16:53:14Z",
+      "checkedAt": "2026-07-30T16:53:37Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "OpenWorker is an open-source AI agent designed to help you complete real work, not just answer questions.\n\nInstead of stopping at a response, it can connect with your files and productivity tools to prepare reports, organize information, and automate multi-step workflows based on the outcome you want. Since it's open source, you can run it locally and customize it to fit your own workflow.\n\nIf you're looking for an AI agent that actually gets work done, OpenWorker is definitely worth checking out.\n\n#ai #openworker #opensource #productivity #aiagents #automation",
       "commentCount": 8,
-      "likeCount": 346,
+      "likeCount": 513,
       "comments": [
         {
-          "id": "UgxEBSfKweFrfkWHw7V4AaABAg",
-          "author": "@idreamster",
+          "id": "Ugx9Ew3dUTIUN2ZjPwN4AaABAg",
+          "author": "@DominiqueGUIFFARD",
           "text": "Work",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T16:52:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mqf493s6rkWS_chpp99GlUaHSZgMKCHqF11DRfEZc85zs=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T16:24:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mMna0eqTxI40bTYxEwnQ3fotkoOzfA5jyFEak676LLhHAOgKlANhBVH3zso3FiQTxzlQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugz823t0Xli04ClibaJ4AaABAg",
-          "author": "@moeslagy",
+          "id": "Ugy-vJTmskhRM0a_jvt4AaABAg",
+          "author": "@josephrj17",
           "text": "Work",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T16:17:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/KTx8a_P9k2nQhVAoB3gDvAhW2AtSAGwXwAKu8sfxU_vCgs0S8NPhV-YUXnxAMdfzlvCJD8I7DQI=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNoRli2_AMrVz0_NfAYunVX2cpDJziai0yNI2tcSFC5Ci4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyQ21mxemaTEWt1VyV4AaABAg",
-          "author": "@AmberGoldsberry",
+          "id": "UgwNs6VA13dNbLGLVOt4AaABAg",
+          "author": "@9999santosh",
           "text": "Work",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lN1r14JyVE1HV827fOA4jwcUpML9JATe2vub3wBZwgdO1_u1mEpcWHSejRd9oj5lcaaA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/SZOdnlVZn0BAYQ6FA5eOtq92YrcavZme1byuIwUntdkLCh9NZDY8RsPR5hWrSYaIYLVFeGjaRoc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgynJvff4jLTJGkS6pd4AaABAg",
-          "author": "@unknownperson6442",
+          "id": "Ugy4Cg4S7LO8VUWu2xl4AaABAg",
+          "author": "@Ricky-Lyson",
+          "text": "Work",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-WPruEngifbfolAJ9ooMYouWRIljSLSUdcbFXhpBKLR2w067aQRcH7LDc0zzrTdX9yg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxTjhoDfqc2lDhBNi94AaABAg",
+          "author": "@bibhutisahoo5401",
+          "text": "Work",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksnCsA61N_HedYkGrASRrN5JJjdIjzDQuhl53jqEvlY_Vu=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwtjxzo1S051t6nfy94AaABAg",
+          "author": "@GamingBoiiii",
+          "text": "How does commenting on YouTube will get you the link ?? 😂😂",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/TLGXYDPJqecZsa6Ol2Dm_kd0SSLnWgmJ6Lw51ZwF9cURfC9446FhLPH5MYHqb9lVhM32MddCNw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzSkNAoILxtsKzZm8J4AaABAg",
+          "author": "@rafiqueawan9342",
+          "text": "Work 😊",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mGvDVO7qJFtTU84YaCEy_uascBwENWA0nLtes0B_HqYBU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxgvJgY5REFR5v6XTZ4AaABAg",
+          "author": "@muhammadtahir8233",
           "text": "work",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/FtuYIhKPnrRFr4yvYhhH6LeQCctwm_6sWr0RYkQPaqS398-bXZ3MAZx9yfwLIuBrnm-ilSfQnA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxtyzvBkhW3Fa9F-754AaABAg",
-          "author": "@dewstellachan4867",
-          "text": "Work",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kxchwnwemweKA5XHifwaFLNxcquQ7meijoycpW3QY=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyqsOjyMi2BFd2h9Sl4AaABAg",
-          "author": "@bsaravanaprakash",
-          "text": "work",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kVqpC91UEhG0Drxxq0DepPab0S3Q9MXSwOIrftIUM_NzmG=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxJDfLqM75lIktWuHR4AaABAg",
-          "author": "@johnfbosch7775",
-          "text": "Work",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T15:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m0F5mt6ldAiDikMmueLUeoc6_puv8Amv3vmqelx2lTvA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugwvr9nAcLjUOG-PjnJ4AaABAg",
-          "author": "@MeetSaboo",
-          "text": "Work",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T15:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/gnOteNDoMgWpI20KwoJ8mUkhU1-uyhNE0dbmEyW7NTMJJWVADXYglD0ZS7qmSf-SA0S4dCBP=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mBlOvO9zR40yQwTWLJ7DXFHeIB4MbYbdEZFfsvFok=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-29T16:53:14Z",
+      "commentsFetchedAt": "2026-07-30T16:53:37Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "_xWmulwxcFw": {
-      "checkedAt": "2026-07-29T16:53:14Z",
+      "checkedAt": "2026-07-30T16:53:37Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment “warm” for the Warmbox link/playbook plus the GoHighLevel system I run\n\n70% of my revenue comes from email.\n\nSo when it lands in spam, a quarter disappears quietly.\n\nThe real problem is your domain reputation.\nDead list, no opens, no clicks, and it slides from high to low to bad.\n\nCheck it in Google Postmaster.\nWarm the inbox back up with Warmbox.\nThen cut anyone who hasn’t engaged in 90 days.\n\nOut of spam. Into the inbox.\n\n#EmailMarketing\n#Marketing\n#Automation\n#AItools\n#BuildInPublic",
-      "commentCount": 2,
-      "likeCount": 20,
+      "commentCount": 3,
+      "likeCount": 22,
       "comments": [
         {
           "id": "UgxGHkne-kX3kqSrEoZ4AaABAg",
@@ -4544,17 +4532,27 @@
           "isUploader": true
         },
         {
+          "id": "UgwvTxnWbC0zqSFuW1h4AaABAg",
+          "author": "@WithManny1",
+          "text": "Warm",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T16:12:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/iKrSxARcbv__TZ8OMwAQTvkQQj9MlRLf6spfXfKF3jwRsfAgBlhQ4zM7PyX2jC3xERapVFTD=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
           "id": "UgxGF4P9W7EwiIw6Mdp4AaABAg",
           "author": "@Personal-fg3uy",
           "text": "Does this work for people with a Proton based email (still using my@<company_name>)? Mailreach couldn’t connect to my IMAP (which is connected to a separate Outlook email, since proton doesn’t have IMAP). So I don’t even get to measure my incoming emails during the warming campaign.",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T23:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mYhDDsCA9NfTG2PgzluZfHQpG5ifmMgJPfOK61kjZldvH8THXl33B8Pu__NmTzyraUXQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-29T16:53:14Z",
+      "commentsFetchedAt": "2026-07-30T16:53:37Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6080,26 +6078,118 @@
       "probeClient": "web_embedded"
     },
     "GM0j1LBKEUM": {
-      "checkedAt": "2026-07-29T16:53:14Z",
+      "checkedAt": "2026-07-30T16:53:37Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "learn how to create clips for games and how to make it for youtube",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-29T16:53:14Z",
+      "commentCount": 7,
+      "likeCount": 18,
+      "comments": [
+        {
+          "id": "UgwfsNTqrhIwD13o5Xx4AaABAg",
+          "author": "@ChiragSharma-d2j",
+          "text": "Clip",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n68ziQLwlP2zE2AoW58ea3RWol98GNssqM9F9i2ODfKsPj4j3sBfuxm6Wo8-ppOXb3Jw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy9qsj7sA_Da3_162t4AaABAg",
+          "author": "@thunderemperor1233",
+          "text": "Clip",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kART7AqiiIpbFTWageWxVYcSiQWoi_GnIg3mUE4FyQvA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyJ4KXqiC3YOwxdXtF4AaABAg",
+          "author": "@iatvschool4486",
+          "text": "Clip",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nQi6rZc0Er577ybLWApfJUMcS_LOtu00gKiOl9olLtk62L2RAVvtaWN39heU1LUtJsqQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx_eybf67LR6ZCkSlh4AaABAg",
+          "author": "@vabsrockin",
+          "text": "clip",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nRoI-C_hUQnYtKKVMyEI3Jp6rfcDVVU_MSSHKiYWY=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwZMtz3yWcTVaE2LM94AaABAg",
+          "author": "@adridas9571",
+          "text": "Clip",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kllExZ1YQHKXHsvS5PkwhtMkTXHiPFhlaFZkaKjUcvFuIs=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwg0i0QzPql1B7MvQF4AaABAg",
+          "author": "@emotion_explorer_1m",
+          "text": "Clip",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/c2MfJl_Zs9G-eiy-va4VRWuGsmQo-SeskpSSOHE-Dyp0advLckXN1wBefWHa9MF_JHEBdhJq=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzZjo1TBchv583XVr94AaABAg",
+          "author": "@emotion_explorer_1m",
+          "text": "Deep",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/c2MfJl_Zs9G-eiy-va4VRWuGsmQo-SeskpSSOHE-Dyp0advLckXN1wBefWHa9MF_JHEBdhJq=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T16:53:37Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "9ETdrn5pZ0k": {
-      "checkedAt": "2026-07-29T16:53:14Z",
+      "checkedAt": "2026-07-30T16:53:37Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "What are the best AI tools in 2026?\n\nI ranked the most popular AI tools into S, A, B, C, and D tiers based on real-world usefulness not hype.\n\nSome rankings are obvious…\nOthers are guaranteed to start arguments.\n\nIn this video, I rank tools like:\n\n* Claude\n* ChatGPT\n* Cursor\n* WhisperFlow\n* n8n\n* NotebookLM\n* V0\n* Lovable\n* Stitch\n* Midjourney\n* Ideogram\n\nYou’ll find out which AI tools are actually worth using for coding, automation, research, design, content creation, and productivity and which ones have fallen behind.\n\nWhether you’re a developer, founder, creator, marketer, or AI enthusiast, this tier list will help you decide where to spend your time.\n\nDo you agree with these rankings? Which AI tool deserves S Tier? Let us know in the comments!\n\nWhy Subscribe to BPro?\n\nAI is moving faster than ever.\n\nAt BPro, we help you stay ahead by covering:\n\n* Latest AI news & updates\n* Honest AI tool reviews\n* AI coding workflows\n* Open-source AI projects\n* GitHub repositories worth using\n* AI automation\n* Startup & SaaS insights\n* AI engineering tips\n* Productivity hacks\n* The future of AI explained simply\n\nIf you want practical AI content that helps you build, save time, and make better technology decisions, BPro is for you.\n\nSubscribe to BPro and never miss the next AI breakthrough.\n\n#AI #ChatGPT #Claude #AITools #ArtificialIntelligence\n\nAI, artificial intelligence, AI tools, best AI tools, AI tools 2026, AI tier list, best AI apps, AI software, AI productivity tools, AI coding tools, AI automation, AI news, latest AI news, AI updates, ChatGPT, ChatGPT review, ChatGPT vs Claude, Claude AI, Anthropic, Cursor AI, Cursor editor, n8n, n8n tutorial, WhisperFlow, NotebookLM, Google NotebookLM, V0, Vercel V0, Lovable AI, Stitch AI, Midjourney, Ideogram, AI image generator, AI coding assistant, developer tools, startup tools, AI for developers, AI for creators, AI for business, AI workflow, AI engineering, prompt engineering, what is the best AI tool, which AI tool is best, best AI for coding, best AI for writing, best AI for research, best AI for automation, how to use AI tools, AI comparison, technology news, tech news, future of AI",
-      "commentCount": 0,
-      "likeCount": 2,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-29T16:53:14Z",
+      "commentCount": 2,
+      "likeCount": 91,
+      "comments": [
+        {
+          "id": "Ugxf3VZ-GpEIRKoIMoF4AaABAg",
+          "author": "@mdafzal1215",
+          "text": "Mai claude use krta hu  around 4 month se mere daily tasks ho ya project ke report ya dashboard har chiz perfect perform kr rha  mujhe dusre kisi ai ki need hi nhi pdi",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mjSVS7-aI5M542gKFjRS8cySCfAL-IR3lA5iX1-v7_SeQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxPvv48szgKnD9mcth4AaABAg",
+          "author": "@mantrijimovies9171",
+          "text": "Very good",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/WUkvgGWiROCUEsBfBb4FmkkO_d6txueFPSKHa9ez0fJR0OotRpyCu8wWjo-EKH_VjkWjFSLv=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T16:53:37Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6202,15 +6292,6 @@
       "description": "🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n📈 ALL Systems: https://bit.ly/4kol0y5\n🩵 Free Resources: https://bit.ly/3RNNDLa\n\n*👋 Howdy*\n\nHey, I'm Jack, I built and sold my last tech startup with a Gazillion customers, now I'm building AI startups and I share stuff that works. I quit my corporate job to do my start-up and have never looked back since.\n\n*💬 Overview*\n\nHermes agent just got the Quicksilver update, and it turns the thing from a chatbot you babysit into a proper chief of staff that works while you sleep. This walkthrough goes through four levels. Level one is knowledge: dropping YouTube links and ideas into Hermes so it summarises them into five bullets and saves everything to Obsidian memory, with separate profiles for team or family over Telegram. Level two sorts your admin by connecting the core three, your calendar, email and Granola call notes, then using smart approvals so safe tasks just get done. Level three brings in Kimi K3 through OpenRouter for genuinely beautiful HTML pages and presentations, borrowing the pricey model for one turn only. And the bonus level uses cron audit history to set up a daily self improvement loop. It works for anyone running Hermes as their daily agent.\n\n*Links*\n⚡ Hermes: https://nousresearch.com/\n🔀 OpenRouter: https://openrouter.ai/\n☁️ Claude: https://claude.ai/\n🧠 Granola: https://go.granola.ai/jack-roberts\n🧊 GLM: https://z.ai/\n🌙 Kimi K3\n🤖 Grok: https://grok.com/\n⚙️ Zapier MCP: https://zapier.com/\n\n⌚️ *Stamps:*\n0:00 - The Quicksilver Upgrade Revealed\n0:10 - Level 1\n0:26 - What Quicksilver Actually Does\n1:32 - Pick Your Model\n2:51 - YouTube Videos Saved To Memory\n3:17 - Your Team Feeds The Agent\n3:39 - Multiple Profiles, One Agent\n4:32 - Ideas Captured Instantly\n4:42 - Level 2\n4:48 - Agent Learns Your Daily Life\n5:01 - Calendar, Email And Calls Connected\n5:50 - Unlock Every Platform Via Zapier\n6:24 - Your Morning Brief Arrives Automatically\n7:16 - Agent Runs Without Asking\n7:44 - Smart Approvals Explained\n7:54 - No More Babysitting Your Agent\n8:35 - Dangerous Actions Blocked Automatically\n8:49 - Level 3\n9:17 - Kimmy K3 Tops The Leaderboard\n10:08 - Hermes Masterclass Resource\n10:24 - Cheap Models Via Open Router\n10:46 - Images And Videos On Demand\n11:22 - Live Design Demo Begins\n11:46 - Kimmy K3 Clones A Brand\n13:00 - GPT Builds A Meeting Deck\n13:23 - Stunning Results, Zero Direction\n13:59 - One Link, Perfect Brand Match\n14:58 - Borrow Premium Models Once\n15:32 - Bonus Level\n15:47 - Agent Improves While You Sleep\n15:53 - Failures Turned Into Better Skills\n16:18 - Agent Rewrites Its Own Code\n16:38 - Build Your Self-Improving System\n17:51 - What's Next\n\nLearn how to set up Hermes agent as your AI chief of staff using the Quicksilver update, smart approvals, Kimi K3 via OpenRouter, Granola meeting notes, Obsidian memory and a self evolving cron audit workflow for daily briefs and admin automation.\n\n#HermesAgent #AIAgents #KimiK3 #OpenRouter #AIAutomation #ChiefOfStaff",
       "commentCount": 5,
       "likeCount": 11,
-      "probeClient": "web_embedded"
-    },
-    "ZoPcGlLPCK8": {
-      "checkedAt": "2026-07-29T19:53:17Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What does it take to step up from programming to true engineering leadership? In this video, Steve Smith shares a personal story from his time at a tech startup, where he worked as a tech lead under modern software engineering pioneer Dave Farley.\n\nDiscover the crucial career lesson Steve learned when Dave demoted him back to a developer role, and why it became the best thing to happen to his career. We dive into the realities of software engineering vs. basic software development, exploring why theoretical knowledge of domain-driven design isn't enough if you lack a practical eye for software design.\n\nWhether you are a developer aspiring to be an engineering lead, a current tech lead working on team leadership, or a CTO scaling a startup, this video covers the essential leadership skills needed to handle technical setbacks, navigate complex programming trade-offs, and build strong engineering leadership.\n\n-\n\n🎓 OUR FREE 'LEADING TECH TEAMS GUIDE':\n\nWant some more advice for how to set up your software development teams for peak performance? Get Dave's FREE Guide to Organising Software Development Teams HERE ➡️ https://www.subscribepage.com/tech-lead \n\n-\n\n🧠 OUR SOFTWARE ENGINEERING TRAINING COURSES: https://courses.cd.training/ \n\n-\n\n\nSteve on X ➡️ https://x.com/SteveSmith_Tech\nSteve on LinkedIn ➡️ https://www.linkedin.com/in/stevesmithtech/\nSteve on bluesky ➡️ https://bsky.app/profile/stevesmithtech.bsky.social\n\nModern Software Engineering on X ➡️ https://x.com/ModernSoftwareX\nModern Software Engineering on LinkedIn ➡️ https://www.linkedin.com/company/modern-software-engineering\nModern Software Engineering on bluesky ➡️ https://bsky.app/profile/modernswe.bsky.social\n\n-\n\n⭐ PATREON ➡️ https://bit.ly/ContinuousDeliveryPatreon \n\n🎥 Join Us On TikTok ➡️ https://www.tiktok.com/@modern.s.engineering\n\n-\n\n👕 T-SHIRTS:\nA fan of the T-shirts I wear in my videos? Grab your own, at reduced prices EXCLUSIVE TO CONTINUOUS DELIVERY FOLLOWERS! Get money off the already reasonably priced t-shirts!\n\n🔗 Check out their collection HERE: ➡️ https://bit.ly/3Uby9iA\n🚨 DON'T FORGET TO USE THIS DISCOUNT CODE: ContinuousDelivery\n\n-\n\nCHANNEL SPONSORS:\n\nOctopus Deploy sets the standard for Continuous Delivery (CD), empowering software teams to deliver value in an agile way. Globally, more than 4,000 organizations rely on its Continuous Delivery, GitOps, and release orchestration solutions to deliver swift value to their customers. Octopus efficiently orchestrates software delivery across multi-cloud, Kubernetes, data centers, and hybrid environments, whether containerized modern apps or heritage applications. With governance, risk, and compliance (GRC) at its core, Octopus supports Platform Engineering teams in their mission to provide a superior developer experience (DevEx). Octopus also actively contributes to the developer community with open-source projects. ➡️ https://bit.ly/MSExOCTDEP\n\nEqual Experts is a product software development consultancy with a network of over 1,000 experienced technology consultants globally. They increase the pace of innovation by using modern software engineering practices that embrace Continuous Delivery, Security, and Operability from the outset ➡️ https://bit.ly/3ASy8n0\n\nTransFICC provides low-latency connectivity, automated trading workflows and e-trading systems for Fixed Income and Derivatives. TransFICC resolves the issue of market fragmentation by providing banks and asset managers with a unified low-latency, robust and scalable API, which provides connectivity to multiple trading venues while supporting numerous complex workflows across asset classes such as Rates and Credit Bonds, Repos, Mortgage-Backed Securities and Interest Rate Swaps ➡️ https://transficc.com\n\n-\n\n#SoftwareEngineering #TechLead #EngineeringLeadership #SoftwareDesign #CTO #Programming #Startup",
-      "commentCount": 8,
-      "likeCount": 71,
       "probeClient": "web_embedded"
     },
     "BqXFVtxvCBA": {
@@ -6332,24 +6413,6 @@
       "embedAllowed": true,
       "availability": "public",
       "description": "What is generative AI, what can it do, and where can it go wrong?\n\nIn Part 1 of AI Prompting Essentials, we establish the professional mindset needed to use generative AI effectively. You will learn how generative AI creates content, why polished and confident answers may still be incomplete or incorrect, and why AI should be treated as an assistant rather than an authority.\n\nThis video also introduces six practical ways professionals work with AI:\n\n• Learn\n• Create\n• Improve\n• Analyze\n• Brainstorm\n• Decide\n\nYou will also learn why effective AI use begins by understanding the task, defining the required outcome, and deciding whether AI is appropriate before opening a tool or writing a prompt.\n\nThe central message is simple:\n\nThink Clearly. Prompt Effectively. Verify Carefully.\n\nAI can assist your work, but it does not replace your judgment.\n\nProduction note: AI tools assisted with selected visuals and presentation development. All educational content was reviewed, refined, and approved by the author.\n\n#GenerativeAI #AIPrompting #ArtificialIntelligence",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "BFFGaP9aXEM": {
-      "checkedAt": "2026-07-30T01:40:56Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Feeling totally left behind by all the complicated AI jargon?\nDiscover how Generative AI actually works without the confusing technical terms.\n\nThis breakdown strips away the complex math and sci-fi concepts to explain the mechanics behind Large Language Models and modern artificial intelligence. By exploring the shift from traditional sorting algorithms to advanced generative systems, the core foundation of modern tech becomes instantly understandable. The outcome is absolute clarity on how these systems predict patterns to create brand new text, images, and code from scratch.\n\nProfessionals looking to stay relevant in the modern workplace will find this breakdown essential for overcoming the steep learning curve of new software. It solves the frustration of getting poor results from tools like ChatGPT by teaching the exact frameworks needed for high-quality outputs. Anyone struggling with AI hallucinations or vague answers will learn exactly how to structure commands to get precise, professional results every single time.\n\nThe lesson covers the fundamental differences between traditional AI and Generative AI, breaking down the five main flavors of multimodal technology including text, image, video, speech, and code generation. It also dives deep into a highly effective five-part prompt engineering formula designed to instantly improve interactions with any language model; additionally, it highlights the critical importance of fact-checking to avoid common pitfalls like AI hallucinations.\n\nLearn more with the full course: \n\n00:00 Intro\n00:21 You Are Not Late to Generative AI\n01:07 Old AI vs. Generative AI\n02:08 How Large Language Models Learn\n03:38 The Five Flavors of Generative AI\n04:42 The CTAFL Prompt Engineering Formula\n05:49 Warning: AI Hallucinations\n06:27 Summary and Action Steps\n\n#GenerativeAI #PromptEngineering #TechExplained",
-      "commentCount": 0,
-      "likeCount": 7,
-      "probeClient": "web_embedded"
-    },
-    "j5mrzbzYCqE": {
-      "checkedAt": "2026-07-30T02:53:32Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Let's build your first real automation in n8n, from a blank canvas, with no code.\n\nIn this lesson you build a simple lead-reply helper: a manual trigger, a step that holds a new lead's details, and an Anthropic (Claude) step that writes a warm, personal reply and invites them to a call. Click run, and the reply is drafted for you. It shows the pattern behind every automation - a trigger, then steps, in order.\n\nThis is Episode 7 of n8n Basics. Next up, we take this same automation further and have it run completely on its own.\n--------------------\nJoin my free Skool community (brand new, so get in early): https://www.skool.com/endpointai-1829/about\nSubscribe for the rest of the series: https://www.youtube.com/channel/UCs7u7QkBxZHMZ_Z1yzWYSbg\nBook a call or start a project: https://endpointai.app/\n--------------------\n\nComment the next automation you would like me to build - I turn the best ones into videos.\n\n#n8n #automation #nocode #aiautomation #n8ntutorial #claude #beginners",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
@@ -6599,24 +6662,6 @@
       "likeCount": 24,
       "probeClient": "web_embedded"
     },
-    "H0klOzjFxCg": {
-      "checkedAt": "2026-07-30T08:53:23Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Want to work with me 1-on-1 to AI-enable and scale your agency? Click here: https://alexandreessen.com/haa/?utm_source=yt&utm_medium=aioutreach\n\n________________________________________________\n\nAAA is the new SMMA-of-2022: tons of hype, tons of course sellers, very little real business underneath. The systems you build for clients today are obsolete in 6 months, and that's not a business, it's a treadmill. I'm saying this as someone running a 7-figure paid ads agency with AI in every part of the operation, so this isn't an anti-AI take. In this video I break down the AAA hype cycle, the structural reasons it's a trap, why a marketing agency is the most durable model there is, and exactly how I run a $200k/mo agency with AI as the layer underneath, not the product on top.\n\n________________________________________________\n\nIf you‘re new here, my name is Alex. I‘m 21 years old, from Norway, and I run a 100k+/month AI-enabled marketing agency called Curve. I started the agency in August 2023, but I have been hustling since I was 12.\n\nThis is how I got here:\n\n2017 (12yo): Got my first laptop and got addicted to Minecraft and Photoshop.\n2018 (13yo): Began freelancing making graphic design for Minecraft servers.\n2019 (14yo): Started my own Minecraft server while doing graphic design on the side.\n2020 (15yo): Poured 2 years of my life and 2k+ of my savings into the Minecraft server, before finally shutting it down.\n2022 (16yo): Started Designr, my first agency, offering subscription-based graphic design services.\n2023 (18yo): Transitioned from graphic design to paid advertising and started Curve.\nJanuary 2024 (18yo): First 10k month\nJuly 2024 (19yo): First 50k month\nJanuary 2025 (19yo): First 75k month\nApril 2025 (20yo): First 100k month\nJune 2026 (21yo): First 200k month\n\nAs you can see, I‘m no wonder kid. I don‘t come from an ultra wealthy family and I have done my fair share of stumbling and falling in business.\n\nWith that being said, I believe that what I achieved could have been done A LOT faster if I had the right information, and the goal with this channel is to give you that information.\n\nWanna join me for the ride?\n\n________________________________________________\n\nFollow me on IG: @alexandreessen",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "M0qIbZMS4Ms": {
-      "checkedAt": "2026-07-30T08:53:23Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Every AI tool promises to transform SEO. But which ones are actually worth your time?\n\nIn this episode of SEO On-Air, host Koa Kauwe sits down with four experienced agency leaders : Steve Wiideman, Adam Broetje, Ashley Rodriguez, and Darin Fenn to discuss the AI tools they're testing in 2026, what's delivering real value, and why strategy still matters more than automation.\n\nFrom AI-powered research and reporting to content workflows and search visibility, the panel shares how they're experimenting with new technology without losing sight of what actually drives results.\n\nIn this episode:\nThe AI tools agencies are testing in 2026\nWhy AI should support strategy, not replace it\nThe tools worth trying and the ones they're still cautious about\nHow AI is changing SEO workflows\nWhy original content still matters\nWhat agencies should focus on as AI search continues to evolve\n\nWhether you're an agency owner, SEO professional, or digital marketer, this conversation offers practical insights from leaders who are actively navigating the future of search.\n\nSubscribe for more conversations on SEO, AI, and digital marketing from SEO On-Air.\n\n#SEO #AI #AISearch #ChatGPT #DigitalMarketing #AgencyGrowth",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "iIa4x8swDIw": {
       "checkedAt": "2026-07-30T09:53:31Z",
       "embedAllowed": true,
@@ -6755,7 +6800,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-30T15:53:16Z",
+      "checkedAt": "2026-07-30T16:53:37Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6979,13 +7024,70 @@
       "likeCount": 599,
       "probeClient": "web_embedded"
     },
-    "N80TzPCHbNg": {
-      "checkedAt": "2026-07-30T15:53:16Z",
+    "uZkiHG46Ll4": {
+      "checkedAt": "2026-07-30T16:53:37Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "Check out Zapier today! https://bit.ly/4fLythH\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/JensenHuang/status/2081698060330250294\nhttps://artificialanalysis.ai/\nhttps://www.reddit.com/r/ChatGPT/comments/1paiyh5/chatgpt_was_launched_today_3_years_ago/\nhttps://www.theverge.com/2023/3/8/23629362/meta-ai-language-model-llama-leak-online-misuse\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/\nhttps://x.com/AndrewYNg/status/2081787106062746002\nhttps://allin.com/episodes\nhttps://x.com/SecScottBessent/status/2080008411790368895\nhttps://www.anthropic.com/news/position-open-weights-models\n\n0:00 Intro\n0:54 NVIDIA's letter\n1:38 What is open-source?\n3:56 How open-source works\n5:51 Sponsor\n6:53 Kimi K3\n7:43 Closed vs Open\n9:43 Open-source in the U.S.\n13:23 The AI stack\n14:18 What if open source wins?\n15:21 Jevon's Paradox\n16:09 How the AI stack is affected\n19:16 User experience\n20:52 AI safety\n31:44 China\n37:04 Distillation\n42:53 Banning Chinese models?\n44:51 Anthropic's response",
-      "commentCount": 676,
-      "likeCount": 2375,
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-30T16:53:37Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "pdxNT1nKjl4": {
+      "checkedAt": "2026-07-30T16:53:37Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Automate your Chrome browser with the Redirector Extension and take full control of your web browsing! In this Hindi tutorial, learn how to automatically redirect websites, customize Google Search, block unwanted sites, save time with browser automation, and create your own redirect rules—without any coding. Perfect for Chrome users looking to boost productivity and automate daily tasks.\n\nRedirector Extension, Chrome Extension, Browser Automation, Website Redirect, Google Search Redirect, Chrome Tips, Chrome Tricks, Productivity, Internet Automation, Redirect Websites, No Coding, Hindi Tutorial.\n\n#ChromeExtension #BrowserAutomation #Redirector #ChromeTips #ChromeTricks #GoogleSearch #Productivity #Automation #WebBrowser #InternetAutomation #TechTips #TechTutorial #WindowsTips #GoogleChrome #WebsiteRedirect #RedirectRules #NoCoding #TechHindi #HindiTech #Buzz2DayTech\n\n🚀 Join the Buzz2Day Tech Community for the Latest in Tech Reviews and Gadgets!\nBecome a member for exclusive perks: https://www.youtube.com/channel/UCSaA50dPTKM4XWZmZos8bpQ/join\n\n❤️ Help Me Reach 500K Subscribers for More Tech Insights!\nJoin the journey: https://bit.ly/3EjPhHS\n\n📃 Explore Related Playlists on Tech Gadgets, Reviews, and How-To Guides:\n\n🔗 Discover more exciting content: https://www.youtube.com/playlist?list=PLCSCKIX4Tq5YqhNOhsNFjuYf82-c5Kjo6\n🔧 Gadgets I Use for Recording Quality Tech Videos:\n\n💡 Ring Light with Stand: https://amzn.to/34Y2nLA\n🎥 Green Curtain Stand: https://amzn.to/3z79MpU\n🎬 Green Screen Curtain: https://amzn.to/3gl8dw6\n🎤 Microphone for Crystal Clear Audio: https://amzn.to/3v89DPX\n📷 Camera: Mobile Camera\n📱 Tripod for Stable Shots: https://amzn.to/3w3vIQL\n🚩 Connect with Me on Social Media for Daily Tech Tips and Updates:\n\n💬 WhatsApp Channel: https://whatsapp.com/channel/0029VaAYYht7T8bfLDwKX33p\n🔗 LinkedIn for Professional Networking: https://www.linkedin.com/in/iamnikhil1701/\n🐦 Follow Me on Twitter for Quick Updates: https://twitter.com/buzz2daytech\n📘 Facebook Page for Tech News: https://www.facebook.com/buzz2daytech\n📸 Instagram for Behind-the-Scenes Content: https://www.instagram.com/buzz2daytech/\n📲 Join My Telegram Channel for Instant Updates: https://telegram.dog/buzz2daytech\n👥 Facebook Group for Engaging Discussions: https://www.facebook.com/groups/b2dtech/\n🔔 Subscribe to My YouTube Channel for In-Depth Tech Reviews, Unboxings, and Tutorials!\nhttps://www.youtube.com/c/Buzz2dayTech\n\n🎬 Want to Watch Again? Quickly Navigate Back to My Channel for More Content:\nhttps://www.youtube.com/c/Buzz2dayTech\n\n🌐 Visit My Website for More Articles, Guides, and Tech Reviews:\nhttp://buzz2day.net\n\n🛍 Support My Channel with Your Amazon Purchases on the Latest Tech Products:\nhttps://amzn.to/3IWzj99\n\n⚖ Affiliate Disclosure:\nI use affiliate links above. Purchases made through these links support my channel at no additional cost to you.\n\n🔍 Keywords: Tech Reviews, Gadget Unboxings, How-To Guides, Technology Insights, Latest Gadgets, Tech Tips, Buzz2Day Tech, Social Media Influencer, Product Reviews.\n\n#TechViral, #GadgetGuru, #InnovationNation, #FutureTech, #TechTrends, #SmartHomeSolutions, #AIExplained, #CyberSecurityTips, #GamingTech, #MobileMadness, #TechReview, #GadgetReview, #TechNews, #ViralTech, #TechShorts, #InnovativeSolutions, #TechForAll",
+      "commentCount": 3,
+      "likeCount": 15,
+      "probeClient": "web_embedded"
+    },
+    "cUZUHmd1bBg": {
+      "checkedAt": "2026-07-30T16:53:37Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI automation for business is the process of using artificial intelligence and machine learning algorithms to execute repetitive tasks, manage workflows, and optimize operational efficiency without human intervention.\nProject Link: https://linktr.ee/Bitrix24_TopDP \n\nThis video provides a factual breakdown of how AI Automation for Business and growing teams can integrate AI tools into their daily workflows to automate administrative tasks and optimize operations.\nKey Takeaways:\nWorkflow Automation: Replacing manual data entry with automated logic saves hours weekly and reduces human error.\nOperational Efficiency: Using AI for daily tasks allows teams to focus resources on strategic growth rather than routine maintenance.\nDiscover how Bitrix24 embeds AI capabilities directly into standard business processes. From automating CRM lead routing to generating clear project updates, Bitrix24 assists you in maintaining structured, efficient daily operations.\n\nNote: Please note these results are based on specific case studies and individual results may vary. Remember, Co-pilot's suggestions are AI-generated and should be verified by a professional.\n_____________________________________________________________\n\n🚀 YTRANKER AGENCY | Authority YouTube SEO\n\nWe are a YouTube agency operating 20+ YouTube channels.\n\nWe help businesses scale their Search Visibility and dominate their niche through data-driven SEO strategies.\n\nWhat we do:\n- Strategic Search Ranking Optimization\n- Multi-channel video distribution\n- YouTube and Google SEO authority\n- Scalable brand awareness campaigns\n- Long-term organic traffic growth\n\nTrusted by SaaS, Web3, Fintech, Agencies, E-com and B2B brands.\n\n👉 Ready to dominate YouTube search?\n👉 Build brand authority without ad spend?\n👉 Turn YouTube into a long-term SEO asset?\n🔗 Get Started: https://linktr.ee/ytranker\n\n📩 Business inquiries and collaborations welcome\n\nTelegram: https://bit.ly/YTR-Telegram |\nWhatsApp: https://bit.ly/YTR-WhatsApp |\nEmail: collab@ytranker.net\n_____________________________________________________________\n\n00:00 – Intro\n01:10 – Overview of Bitrix24 and its free-forever plan \n03:00 – Flat-fee pricing and migrating from other tools \n04:30 – Team communication and employee tracking \n06:00 – Co-pilot AI assistant overview \n07:00 – CRM, deals, and lead management walkthrough \n08:20 – Scaling without losing the personal touch \n10:00 – Co-pilot AI assistant demo in action \n11:00 – Outro\n_____________________________________________________________\n\nAffiliate Disclaimer: While we receive affiliate compensation for reviews/promotions on this page, we always offer honest opinions, relevant experiences, and genuine views of the product or service itself. Our goal is to help you make the best purchasing decisions, however, the views and opinions expressed are ours only. As always, you should do your due diligence to verify any claims, results, and statistics before making any purchase. Clicking links or purchasing products recommended on this page may generate income for this website from affiliate commissions and you should assume we are compensated for any purchases you make.\n\nThis content is for informational purposes only and does not constitute professional, legal, or technical advice; all opinions are my own, and due to the rapidly evolving nature of AI, I cannot guarantee the ongoing accuracy or completeness of the information provided.\n\n🤝 For Collaborations & Business Inquiries:\nTelegram: https://bit.ly/YTR-Telegram\nWhatsApp: https://bit.ly/YTR-WhatsApp\nEmail: collab@ytranker.net\n\n#AIAutomation #WorkSmarterNotHarder #BusinessEfficiency #Bitrix24 #ArtificialIntelligence #FutureOfWork #ProductivityHacks #BusinessTech #AutomationTool #SmallBiz",
+      "commentCount": 46,
+      "likeCount": 751,
+      "probeClient": "web_embedded"
+    },
+    "aMpMuP-5yEY": {
+      "checkedAt": "2026-07-30T16:53:37Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "We're back in Automation - The Car Company Tycoon Game and finalizing designing and engineering Cisalpina's first SUV car project! \n\nLet's play a new Automation campaign in the Ellisbury Update (LCV 4.3) of the game! Again, we try an extreme 100x difficulty setting, which will be proper hard with improved competitors and new emission regulations.\n\nMy Discord Server (with car downloads): https://discord.gg/cgqDJ6WeVn\nMy Email: hello.der.bayer@gmail.com\n\nMy mod collection: https://steamcommunity.com/sharedfiles/filedetails/?id=3117557093\n\n00:00 Intro\n01:35 Design Fixes\n04:59 Emissions & Safety\n06:40 Engineering the V12 Trim\n12:10 Interior Design\n13:22 V8 Trim & New Engine\n18:50 V8 Turbo Prototype\n20:11 Manufacturing & Finances\n24:30 V12 Test Drive\n\nGames: Automation The Car Company Tyoon Game, with driving parts done in BeamNG.drive\n\n#automobile #automationgame #campaign #tycoon #letsplay #sportscar",
+      "commentCount": 41,
+      "likeCount": 190,
+      "probeClient": "web_embedded"
+    },
+    "gvYFSnz5X-A": {
+      "checkedAt": "2026-07-30T16:53:37Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Hi Everyone,\n\nWe are happy to announce that we are starting GenAI for QA live training program.\n\nPlease find the course details and syllabus attached.\n\nBatch Details:\n\nStart Date: 10th August\nTime: 7:30 AM – 8:30 AM IST\nDays: Monday to Thursday\nMode: 100% Online\n\nPlease find more details from here  - https://mukeshotwani.com/end-to-end-ai-quality-engineering/\n\nLink for enrollment - https://academy.learn-automation.com/learn/GenAI-For-QA-Build-Test-And-Deploy-Agents\n\nSyllabus - https://docs.google.com/document/d/1SQkLG2-6MBSJTx2OWunncdNNn27Eyik-D48k0iMepps/edit?usp=sharing\n\nThis is a complete GenAI-focused program designed specifically for QA professionals.\n\nIn this course, you'll learn how to use AI to:\n\nGenerate manual and automation test cases using Agents\nBuild Test and Deploy AI agents for QA\nIntegrate AI with tools like Playwright, Selenium, and REST Assured\n\nPlease note that this is not a Playwright, Selenium, or REST Assured training course. Instead, you'll learn how to use GenAI and AI agents to make your existing testing skills much more powerful.\n\nIf you have any questions, feel free to reach out.\nLooking forward to seeing you in the batch.\n\nThank you!\nMukesh Otwani Team\n+91-9729794113",
+      "commentCount": 18,
+      "likeCount": 32,
+      "probeClient": "web_embedded"
+    },
+    "TL8V41Ea6oM": {
+      "checkedAt": "2026-07-30T16:53:37Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Subscribe to my newsletter: https://www.sandeepswadia.com/newsletter\n\nEveryone's talking about AI agents like they're some far-off, technical thing. They're not. You've probably already used one without knowing it, and by the end of this episode, you'll have built four of your own.\n\nIn this episode, I walk through the Four Cs framework, coordination, creativity, clarity, and coaching, and show you exactly how to build an agent for each one.\n\nYou'll learn how to:\n\n- Build a coordination agent so your inbox and calendar stop running your day for you\n- Build a creativity agent that helps you go from rough notes to a finished deck, while every real decision still stays yours\n- Build a clarity agent that turns a confusing contract or policy into a plain-English table of risks and obligations\n- Build a coaching agent that rehearses your hardest conversations with you, out loud, before you ever walk into the real room\n- Use one simple prompt structure across every agent: the job, the tool, the categories, the output, and the boundary\n- Know when to keep an agent on a short leash and when it's earned more responsibility\n\nI also share Ed Catmull's philosophy on early rough cuts at Pixar, Microsoft's data on how often we get interrupted during the workday, a JDP survey on interview anxiety, and why comparisons to Charlie Chaplin's Modern Times still hold up nearly a century later.\n\nMost importantly, you'll learn that the agents themselves are the easy part. The real edge comes from the judgment you bring to what you delegate and what you don't.\n\nBecause it's not really about how powerful your tools are. It's about what you choose to hand off, and what you choose to keep.",
+      "commentCount": 32,
+      "likeCount": 930,
+      "probeClient": "web_embedded"
+    },
+    "sGYxPiQrl7M": {
+      "checkedAt": "2026-07-30T16:53:37Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Get Started with DataImpulse\n\n🌐 Try DataImpulse: \nhttps://dataimpulse.com/?utm_source=youtube&utm_medium=video&utm_campaign=LexAI01\n\nIf you're building AI agents, web scrapers, automation workflows, or SEO tools, DataImpulse is one of the most affordable proxy providers available. It offers residential, datacenter, mobile, and premium residential proxies with a pay-as-you-go pricing model, so you only pay for the bandwidth you actually use.\n\n\n\n\n\n\n📩 Business & Partnerships:\nlexaicollab@gmail.com\n\n📢 Disclaimer\nSome links may be affiliate links. They help support the channel at no extra cost to you.\n\n🔁 Hashtags: #DataImpulse #Proxy #ResidentialProxy #DatacenterProxy #MobileProxy #WebScraping #AI #ArtificialIntelligence #LLM #Claude #OpenAI #Gemini #Automation #Python #Developers #SEO #SERP #DataCollection #MachineLearning #aiagents",
+      "commentCount": 7,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }
