@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T16:53:37Z",
+  "updatedAt": "2026-07-30T17:53:38Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -4650,29 +4650,49 @@
       "probeClient": "web_embedded"
     },
     "GkIEZHBzRNo": {
-      "checkedAt": "2026-07-29T17:53:15Z",
+      "checkedAt": "2026-07-30T17:53:38Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "This AI skill lets you scrape platforms like Twitter, Reddit, YouTube, GitHub, and Chinese platforms like XiaoHongShu and Bilibili.\n\nAll without paying for a single API key.\n\nIt's called Agent Reach.\n\nIt's a free open source CLI tool built for Claude Code, Cursor, and other AI agents.\n\nJust run one install command in your terminal.\n\nYour agent gains access to over a dozen platforms instantly.\n\nThink of it like handing your agent a master key instead of asking it to pick every lock one by one.\n\nSome platforms like YouTube, GitHub, and Bilibili work with zero setup right away.\n\nAgent Reach already knows how to route requests to the right tool underneath.\n\nOthers like Twitter and Reddit need you to log in once.\n\nYou export your browser cookies, since those platforms require an authenticated session before anything can be read.\n\nThat one-time setup takes a couple of minutes.\n\nAfter that, your agent handles everything on its own.\n\nWith it, you can pull YouTube transcripts, search Reddit discussions, read GitHub repos, or check what's trending on Twitter.\n\nAll through one single tool.\n\nThere's also a built-in doctor command that checks which platforms are ready to go.\n\nIt tells you which ones still need that login step, so you're never guessing what's missing.\n\nThis used to take a full day of hunting down scrapers and debugging auth flows.\n\nNow it's one command and a few minutes of login.\n\n#agentreach #Claudecode #claudeskills #webscraping #aiscrap",
       "commentCount": 8,
-      "likeCount": 1888,
+      "likeCount": 2199,
       "comments": [
         {
           "id": "Ugxr-DOCnnn7e7_UVPF4AaABAg",
           "author": "@nickautomates",
           "text": "First, you can setup Agent Reach by running these commands in your AI coding agent:\n\nhttps://github.com/Panniantong/Agent-Reach/blob/main/docs/README_en.md#quick-start\n\nSecond: If you want to learn how to build systems & then apply them to real businesses to get clients, check out Maker School. \n\nIt's my AI agent & automation community, where I teach you how to build Claude Code, Codex, & n8n based flows, and sell them to your first client in 90 days. \n\nIncludes a 100% money back guarantee if you don't get a paying client!\n\nhttps://www.skool.com/makerschool/about?ref=0a3be5900d60497cb3542cca1ed3fdcb",
-          "likeCount": 27,
+          "likeCount": 31,
           "publishedAt": "2026-07-29T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/wqFanyf3to18BbPL8FE9F614Wx8VtblcVB3Vt_wL8yynTDiYEzxTXe-e4WjMqB5U0OQdKNmncg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
+          "id": "Ugwq7eq9bBzqC57qMCJ4AaABAg",
+          "author": "@aifutureinstinct",
+          "text": "Doneee",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T17:25:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/SLxLmP1pvyNz47i1XMUDiTaj887qiNRpJQ_H4yKD8CPZJPOR4MCvvRh3FLyTIQLziJ-tcDzh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxsCozpTtNGDbnfxoB4AaABAg",
+          "author": "@David_Ponciano",
+          "text": "☝️Done!",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/xFQAFjBxvf5DQfOffBoIuk5hGi2T75UnrT1UJ52dBCehuH5A-PhawKQLor-y6UsmmT7S1VDQKA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
           "id": "Ugzn-eXBrGz3h_NEMCJ4AaABAg",
           "author": "@neointhe8matrix",
           "text": "Thanks to anyone using Ai you are officially killing your kind and its not funny\n#GeoffreyHinton (godfather of ai)\n#RomanYampolskiy (studied Ai safety for decades)",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T15:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/W75V4rYTe5dbK94HpPqX881cesZ2EJVyNIxPsYwRUQbKkztvb98wsDafEVlz91hznGGj2YoSPg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4682,7 +4702,7 @@
           "author": "@SMCGPRA",
           "text": "Good😅😅",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T14:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lbcLlefex4fTNQuPUCRVjRospGwtOGBgDqlgwKC-1eCBOa=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4692,7 +4712,7 @@
           "author": "@space-a9",
           "text": "How fresh are the results though?",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T13:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_noqP14KNrTSOu7nbPBVeqRTRg-z3Vl2X2NstMhS7V_nwdF=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4702,7 +4722,7 @@
           "author": "@Captainofmyfate-m1n",
           "text": "How do I get it",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T07:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nEaD_Rk3gYEqhmikjMp7vwgj1kjo_1clhZVFPoWzf4kyAVnj5RvUUogQGgDuScZLz2rA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4712,136 +4732,116 @@
           "author": "@zzjablack0705zz",
           "text": "Use firecrawl or aicrawl",
           "likeCount": 1,
-          "publishedAt": "2026-07-29T04:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mDLI7j1P236L8w1l6Z_bJezEmjSbSiv8yD3522TasHUw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwSukAfN-ckIkJN4c14AaABAg",
-          "author": "@Whatamiwatchingtoday",
-          "text": "You forgot to tell them that you can get your IP blocked by the platforms with this tool.  Good luck out there.",
-          "likeCount": 3,
-          "publishedAt": "2026-07-29T01:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/lx_aO51ZiYi7lW6kgMjGzFoyxMztq0uPNlHRBRP87y_tWqwmn4OLNWXYgQLLeygQIUQv0lGB=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw0h6l-FrwNMGjxMsV4AaABAg",
-          "author": "@akibo8379",
-          "text": "I’m so job searching w this tool.",
-          "likeCount": 1,
-          "publishedAt": "2026-07-28T23:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Ou9D8Q1OG1mrAsA2qQ2_PLSiYIGLb2AFTogjClo5Z0d__vToaN3Be1xA_0aVUwupRSrcV1Ru4Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-29T17:53:15Z",
+      "commentsFetchedAt": "2026-07-30T17:53:38Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "qf_jF1w7tgU": {
-      "checkedAt": "2026-07-29T17:53:15Z",
+      "checkedAt": "2026-07-30T17:53:38Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 8,
-      "likeCount": 11280,
+      "likeCount": 14048,
       "comments": [
         {
           "id": "Ugx0LiaREHRCDsny1Yd4AaABAg",
           "author": "@MagarLadlee",
           "text": "Lekin bhai hum to vishwaguru hai 👽 ham to sabhi ai ko breakfast me hi bana lete hai 😂",
-          "likeCount": 181,
+          "likeCount": 219,
           "publishedAt": "2026-07-29T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/toClLSfzqKL2Kf-Tbrqbrq1Qg3R80rF8teEOm7vlaSl4KI4GWcPnNySgeMrdkDu9Ntp4Ey8DnQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": false
         },
         {
-          "id": "UgwIpGA58L7RuOJcBbx4AaABAg",
-          "author": "@vkrmnt",
-          "text": "Still from my personal use, as i purchased their premium.. \n\nI used Kimi 2.7 Code and 3.0 both have issues like.. \n\n1. On thinking, it works worst instead of solving things better, you have to turn off the thinking toggle while coding.\n\n2. Hallucinations, jisme ki claude and gpt type models ko mere hisab se abhi koi beat nhi karsakta, low hallucinations... \nJabki agar Kimi ke models ko use karoge toh long conversations mai hallucinations karne lagta aur kam ki aasi tesi hojati.\n\nBut yes, ye bahout mast hai, agar kaam zada na ho. Nhi toh frontier models ke barabar he rahega.\n\nAur best chej iski yahi hai ki ye Openweights/opensource hai toh mere hisab se ye inka + point hai, cuz isse apki dependency kam hojati hai.",
+          "id": "UgwWPoKYz7CCetSIUYF4AaABAg",
+          "author": "@deepakchaurasiya519",
+          "text": "Anthropic just got what it deserve. They stole our data.",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T17:48:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Rk1_WbbErk--3IWA38WlhA-cJl6XQxEFsZ8IuCU_3WjFX3SBqiNj4NSP2XBvqhwAa7DIg52CRCM=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mMna0eqTxI40bTYxEwnQ3fotkoOzfA5jyFEak676LLhHAOgKlANhBVH3zso3FiQTxzlQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyROunCu6_AhGVqM3p4AaABAg",
-          "author": "@Mike123-f5k",
-          "text": "Hunn humen kya tension😏\nhum toh vishwaguru hai",
+          "id": "UgzZU-uLN3JDhvmfCgJ4AaABAg",
+          "author": "@strsh91",
+          "text": "Bro should become national spoken person of CHINA  \nActing as an agent of CCP 😂\nDOESN'T know what is going on in India, key developments",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T17:27:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lCcLaQxWcvI2EGO1Yx8JghVogwuIvweQtKO2WljVQO8Z9U-9WIqXep9b4I_4RwnbLfMQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/PIwrO6wnUn0qGOQIDRQZUN2wTfKqKJ0UkVhgNWYtS_vk-eUuyzeC8KhlNIWYp5f0uxz1IpSj=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwTRnZh0S-pMd_L5Et4AaABAg",
-          "author": "@sumannath9018",
-          "text": "Bhai app thoda sa slow nei bol sakte...",
+          "id": "UgxRwmemEx1mbXYKUKx4AaABAg",
+          "author": "@pranitkalebere",
+          "text": "Sahi kiya",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k2vuW6QIdkv10SwOvldSIou1jqyQZcBaIuON61N1U1arPz=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/3NQPn0pRrHbSRAafzMF-M9mysE8pEkexhAC-eyUtBf7t3yLyYVLz8YBB4kNPqpeGAIZ33tjFJw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwLw6O7hd--stsBm654AaABAg",
-          "author": "@GgyTttyttt",
-          "text": "China day by day 📈🗿🗿\nGay hindu gay India day by day 📉🕉️🏳️‍🌈(modi modi 💅🥴🤣)",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kO0hT88X5uNeDF4Vk2Gz-6nexqp9pW-oDxilm26H6BEDVQUcUE-XCc4jqVuqTompVXlg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyDFwAO2DNSep9s1KZ4AaABAg",
-          "author": "@Toonwala-cartun",
-          "text": "Chaina ke bachee ai ko adopt ker rahe hai or sekh rahe hai or india ke bachee sekh rahe hai ki akber kon tha ✅",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/6uipOOT5g2nhgvFLGlcdS5v7FUjul8C6euQE1M-gVzryTu89krsM7jmVomh_RbS0URmERVa6Dg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxGXxzq-B05K--C0AR4AaABAg",
-          "author": "@Toonwala-cartun",
-          "text": "Chaina ke beeche ai ko adopt ker rahe hai or sekh rahe hai or india ke bache sekh rahe hai ki akber kon tha ✅",
+          "id": "UgwOUinh54W3ljix9A14AaABAg",
+          "author": "@hackfanstts",
+          "text": "Sir yeh ham bhi use kar sakte hai ya paid hai ?",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/6uipOOT5g2nhgvFLGlcdS5v7FUjul8C6euQE1M-gVzryTu89krsM7jmVomh_RbS0URmERVa6Dg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Cgka9E7fBRUy1hPQdFwq7Ai5Yh_tJbZAQQrSvXby4f8v8x_FX2jIcruVXZ0c54D0C0FfXeIH=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugz07AZQCMJhTRfUhH14AaABAg",
-          "author": "@SrijanTiwari-e1f",
-          "text": "China  usa ko takkar de raha hai to usa to puche ho raha hai isliye  jhoote allegations laga raha hai par china superpower ban raha hai aur aage dominate karega usa ko haradega",
+          "id": "UgwmQbap6SA4sC6R0ad4AaABAg",
+          "author": "@zestify-r1j",
+          "text": "Bhai India ka ai kob banaya jaega",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T15:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nuNlfceTDiBSTQUhxQ56YDJFbBu1DjRfTpJMFP6ck9D0x3tsglom8eMUA2blBLpRVU8w=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytr0N-EdsR2ZXDiIxsshlc0DPxbur5x7cqTltWSSRGKAIH9CyR_6blmUq-QAfWuenbz5BcKjAQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz2hXiGlSbiceNYgT94AaABAg",
+          "author": "@aaminsaan6616",
+          "text": "Nakal karne ke liye bhi akal chahiye \nJo china ke paas hai",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ka_OJb0XNJYDEohFXLN9aw8SQx2wooMyAYwzwnScVwBS5AeOdo4U3-cDL-EXswMyKilw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwqfwm_Pt8VudZ01fh4AaABAg",
+          "author": "@gorgamingyt2972",
+          "text": "I respect chine for jo hai  uspe research kyu karo jaha hai waha se start karo 🫡",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/BuYCVjBcYFvh6Vjz0SMs0n70cCb92HYNidWBIZtn7srPanQeoBc3k8mAH7I64fXeTIDHEesCVw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-29T17:53:15Z",
+      "commentsFetchedAt": "2026-07-30T17:53:38Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "NF8hpTXQsto": {
-      "checkedAt": "2026-07-29T17:53:15Z",
+      "checkedAt": "2026-07-30T17:53:38Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"Genspark\" and I'll send you my link\n\nPaying for a CRM, a research tool, and a spreadsheet app? That stack is dead weight. @GensparkProduct \n\nDump your messy sheets in chat. Use your words.\n10 minutes later you've got a working pipeline.\n\nSuper Agent takes one prompt and ships a competitor report, formatted, client ready.\n\nAI Sheets writes the formulas for you.\n\nNo code. One tab, fam.\n\n#AItools\n#Automation\n#WorkwithGenspark\n#AIAgents\n#Genspark",
       "commentCount": 8,
-      "likeCount": 32,
+      "likeCount": 38,
       "comments": [
         {
           "id": "UgyEPxo7g0ALBuH4UmB4AaABAg",
@@ -4854,11 +4854,31 @@
           "isUploader": true
         },
         {
+          "id": "UgzVQo7jFtbfmap24mx4AaABAg",
+          "author": "@thorstenc.5004",
+          "text": "Genspark",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mCmKEFA74hL_3AezndysB1C4r3lwKH9-vCLSXPUXs=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxkizYx7G_a-5N9hiZ4AaABAg",
+          "author": "@MartinMasuku-r1x",
+          "text": "Genspark",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kIB5IA6ctvzva_sdiR-wLzAe7GYZepYXonq7FFVmg1fN0SLFqcdgNA01BzkaRlSJ-oHg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
           "id": "UgxQTPJL6QjwyIOr4B54AaABAg",
           "author": "@SushilBala-iy5ku",
           "text": "Genspark",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T17:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nlBilyjMA1U52oKK26XZ_UcnniCFBmVBEaZcWRZocnDN18ZKMnESUSGCHsm8S0Thv9RQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4868,7 +4888,7 @@
           "author": "@umbylicuslewis893",
           "text": "Hey man, i feel what a ton of creators are missing with new CRMs are less work for contractors. There are ton of contractors that need a crm that works better for them. I would love to give you free access to my crm to try it out. I have  beta access coming within a month.",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T14:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ma1zaXEiK-KHVAZZhsz_joVERMyLMWiguPYZ0F2T0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4878,7 +4898,7 @@
           "author": "@ChaAhm-h4s",
           "text": "Genspark",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T05:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mFwh2IrAgSRZ0bfsBI6zmAunMhdQdLYWio4gGzQHiQAgS8RJeBxykBSv3CKlCmqo2Z-A=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4888,7 +4908,7 @@
           "author": "@Victor2-p1b",
           "text": "Genspark",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T00:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nIdFEF768caFO6uGO_7sHylbcu1LASbdq3k55MltwBzAcqqxgGI7M1stx6ZHD97mnpRQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4898,33 +4918,13 @@
           "author": "@BluPhiGuy",
           "text": "I loved Genspark. I used it for about 5 months sparingly. Then I launched my 1person business and decided to standardized on Genspark, in particularly to build my decks. I built like 4 decks and immediately ran in running out of credit problems (I even paid for the higher tier plan). Then I was locked out until.. the NEXT MONTH for the cycle to reset.\n\nBottom line, the tool works well (especially building presentations and documents but may be obsolete now with the updated Claude and ChatGPT)... it's the low bandwidth of credits that will frustrate you. I had to leave because I need a serious tool for business... Genspark is only halfway there, in my opinion",
           "likeCount": 0,
-          "publishedAt": "2026-07-28T23:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nSNiYSvPvCCpOaA3XQDR5Z1JbETTCUrC0epju2BYRcUAhWBpYB6ETxcv4epfmtCNjofw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyzCNv01YdkeiPs6vl4AaABAg",
-          "author": "@WithManny1",
-          "text": "Genspark",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/iKrSxARcbv__TZ8OMwAQTvkQQj9MlRLf6spfXfKF3jwRsfAgBlhQ4zM7PyX2jC3xERapVFTD=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz0-Xk_h0TQS1b3jvh4AaABAg",
-          "author": "@not-a-youtuubr",
-          "text": "Genspark",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n3TjbgD-GjOxsHg0JTctU6RduBwEa08cJYQYeJt98=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-29T17:53:15Z",
+      "commentsFetchedAt": "2026-07-30T17:53:38Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6194,95 +6194,95 @@
       "probeClient": "web_embedded"
     },
     "py_--ZJqxMM": {
-      "checkedAt": "2026-07-29T17:53:15Z",
+      "checkedAt": "2026-07-30T17:53:38Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "An object roughly the size of a four-story building is on a collision course with the Moon, and astronomers around the world are preparing to watch.\n\nThe object is the upper stage of a SpaceX Falcon 9 rocket, catalogued as 2025-010D, launched on January 15, 2025 to carry two private lunar landers toward the Moon, Firefly Aerospace's Blue Ghost and ispace's Hakuto-R Mission 2. Once its job was done, the spent stage was left drifting through the Earth-Moon system rather than being deliberately disposed of. For over a year, the combined gravitational pull of Earth, the Moon, and the Sun, along with solar radiation pressure, continuously reshaped its orbit, until astronomer Bill Gray of Project Pluto calculated in September 2025 that impact with the Moon had become inevitable.\n\nThe upper stage, about 13.8 metres tall and weighing roughly 4 metric tons, will strike the lunar surface at approximately 8,700 kilometres per hour, more than seven times the speed of sound. Because the Moon has no atmosphere, there is nothing to burn the object up before impact. It will hit near Einstein Crater on the Moon's western limb, carving out a new crater estimated at 20 to 30 metres wide and throwing up a multi-kilometre plume of ejected dust.\n\nWhether this will be visible from Earth is still uncertain among scientists. If the dust cloud is bright enough, ground and space-based telescopes could capture the impact in real time. The predicted window is 06:35 to 06:44 UTC on August 5, 2026, which is 12:05 to 12:14 PM IST.\n\nThis is a rare opportunity. No artificial object has ever been directly observed striking the Moon's sunlit side before, and scientists hope the event will provide real data on lunar subsurface structure and crater formation.\n\nSource: Fernando, B. et al. (2026). Observational Planning for the 2026 August 5 Falcon 9 Upper Stage Lunar Impact. arXiv. Scientific American, A SpaceX Rocket Is About to Crash Into the Moon (2026). BBC Sky at Night Magazine (2026). EarthSky (2026).\n\n#SpaceX #Falcon9 #MoonImpact #EinsteinCrater #LunarImpact",
       "commentCount": 8,
-      "likeCount": 1753,
+      "likeCount": 62939,
       "comments": [
         {
-          "id": "UgwmKqgof6VYhmxptlJ4AaABAg",
-          "author": "@gods.will.bhai.naki.6",
-          "text": "They attacked MOON with their foolishness, and you call it historical moment!  What a joke",
+          "id": "Ugx3yP1v-pLt7t7kRat4AaABAg",
+          "author": "@sygamesss",
+          "text": "20 to 30 m on moon 😂,",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T17:55:01Z",
-          "authorThumbnail": "https://yt3.ggpht.com/YgVGh_obb_HgARfclW2Lm1xDAYFaRfEPCRzVobdwjkdu1UD9GhOtkX49p6E90hDJ9_FMHenDcA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T17:50:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kjpmrqcoESb9fV9yFWDI2rmfdUELmDh8qB_XhKa2DRy1Yq_Mj9juv2Fgsj_Wy_m29VUw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwNPCNwydSb6q1uv0t4AaABAg",
-          "author": "@Endelyspace-h1g",
-          "text": "Ty for telling that I'm gonna watch it 💔",
+          "id": "UgwmUAiBRrOWFrCQf5l4AaABAg",
+          "author": "@ayushKumarSingh441",
+          "text": "5 aug 12:14pm",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T17:47:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/6aJ834tO552fqmISEtm17g9xdaaJzRFNBOEG4cFvuPOYdagRyQ7sIP10n1zBVRghBlmNCZ5LDwQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxQmsIv3ZK8ZKjirwF4AaABAg",
+          "author": "@firstnamelastname7463",
+          "text": "Don't tell me Christofer Nolan is behind this😂😂",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T17:45:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mYTYoKF1B7tFs9gD1sl44yurR_Y02Iy7QE6tkZv623fEgSNVDLr4xTAKTESIRb6ryFFg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwFne-XcFCcKLxGhJV4AaABAg",
+          "author": "@Bunty-t1g",
+          "text": "Samsung ke phone se dekhne ka kuch jugad hoga ky bhai ?",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T17:37:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mN1c1vzIft5ypy_rAQYCalK0QVpe02f37xaOHq7l5Pqc43B_9OZn0V4qqeYf-bVp7yIQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwAbQZzDwc1rdSx_Fx4AaABAg",
+          "author": "@Yalla_Habibi_Cat1",
+          "text": "Moon : Saalo mai kya kude daan hu 😢",
           "likeCount": 1,
-          "publishedAt": "2026-07-29T17:54:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/3ZsqTPszWpCVcOYlcHZmegR9q0IrUkeJVZbvonWizB5O14O6tBYV4Ut6ifgPGy401PWtTYmKKMk=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T17:24:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/yv-f3hwonv3x9AlfjFGmiwtaes41axKXjFpWBDv_7cl5OJo7ypuw1-6ZQ7_62ID6sOyukDspkw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwLah5x3pLAz59lgn54AaABAg",
-          "author": "@muhammadtouseef157",
-          "text": "Abhi alaram laga leta hun\n😄😍",
+          "id": "UgyZD6QnDcF77C_s4aZ4AaABAg",
+          "author": "@vilgaxplays46",
+          "text": "Bhi jake Pogo deko 🙌🏻",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T17:51:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksi_bFepkE3xB_CkiXlX73yxIkeqJZRwnGLU1fZmIu1uOtLSLuskEzkceLFvGa77DlMQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T17:23:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/P_C158fDwpKqH7gdlrsgZuiEiNzaTdgggYtO_1Rqp48kJduFG25pyW6zhri7NbDYu1PVlfNwNw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugz9RvGEI1DFL_oRFqZ4AaABAg",
-          "author": "@kitchenmehaiCookieIamUrpookie",
-          "text": "Why does the moon have so many scars.?",
+          "id": "UgxCOOqe4EwX1htizAV4AaABAg",
+          "author": "@sanjeevkumarsingh6285",
+          "text": "It's my birthday on that day",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T17:50:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/4xHlhLutp-s2i-J2vaXGJB25dXdArsnWjrxGBQ2xvqzT9Te_MpVac9TYoobXg7xSUGUA_TVjytU=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mBPfLhYkyYp1ExTDCV4b8Sgdg3zg6F5xx7x-9nyJZZToE=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzIK4L3TVNecmSBsCh4AaABAg",
-          "author": "@Ahad-s5k9p",
-          "text": "Ohh bahi",
+          "id": "UgzQC8oEvOjDfnCvZ4h4AaABAg",
+          "author": "@rau3848",
+          "text": "Ye to din ko ay ga to din ko nazar kesy ay ga?",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T17:49:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lN1r14JyVE1HV827fOA4jwcUpML9JATe2vub3wBZwgdO1_u1mEpcWHSejRd9oj5lcaaA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwIu466-V7zKLGLXfZ4AaABAg",
-          "author": "@shaziakhizar3976",
-          "text": "American even hit moon with thier missile lol",
-          "likeCount": 4,
-          "publishedAt": "2026-07-29T17:49:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nSuSVOdf8TgjttQ341TtZkoeIe6rlOtlNkb5gqMZL6T3Y=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwpE2_lzNo7g4cFn954AaABAg",
-          "author": "@Genius_00_0",
-          "text": "Tum bohot patle ho",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T17:47:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/fVSSiIyLRZbfoHdQt1rQ9dLaVPG1uvJa7dC7PThIBbeU511KcXDoLK9bgmbtBOpyM1BNoijWQw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgykDSPDo4GVRHcsFIh4AaABAg",
-          "author": "@RameshKumar-qt7pw",
-          "text": "Duphar me kaise dikhega",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T17:44:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lXNBnVor2T5FVc9Go-w378cXn6JmX-YLkW1G6mVZyFzwgLjg01XTaBOrjvCuKmfuRq9g=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-30T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_miAAAPZKICt45qLVk9PCfhKibQpsxJuYKJ1jCv5OhzuED7_B4kfBYRTHdu6Lm8ocHlAQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-29T17:53:15Z",
+      "commentsFetchedAt": "2026-07-30T17:53:38Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6479,15 +6479,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "0If2NzOgntI": {
-      "checkedAt": "2026-07-30T04:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/B3RpcBo or code tesla50 for 50% Off Monarch Core tier.\n\nLast video: Inside The Boring Company's Underground Factory\nhttps://www.youtube.com/watch?v=LZ5XBPeMs-k\n\n► Support the channel by becoming a member: https://www.youtube.com/channel/UCJjAIBWeY022ZNj_Cp_6wAw/join\n►The Tesla Space Merch Store Is Live! Shop our newest release while quantities last: https://shop.theteslaspace.com/\n► Patreon: https://www.patreon.com/theteslaspace\n► Join Our Discord Server: https://discord.gg/zfMNSnuRQN\n► Subscribe to our other channel, The Space Race: https://www.youtube.com/channel/UCeMcDx6-rOq_RlKSPehk2tQ\n► Subscribe to The Tesla Space newsletter: https://www.theteslaspace.com\n► Use my referral link to purchase a Tesla product and get up to $1,300 off and other exclusive benefits. https://ts.la/satinder184250\n\nSubscribe: https://www.youtube.com/channel/UCJjAIBWeY022ZNj_Cp_6wAw?sub_confirmation=1\n\nWelcome to the Tesla Space, where we share the latest news, rumors, and insights into all things Tesla, Space X, Elon Musk, and the future! We'll be showing you all of the new details around the Tesla Model 3, Tesla Model Y, Cybertruck, Cybercab, Optimus Robot and more.\n\nInstagram: https://www.instagram.com/TheTeslaSpace\nTwitter: https://twitter.com/TheTeslaSpace\n\nBusiness Email: sean@creatormill.com\n\n#Tesla #TheTeslaSpace #Elon",
-      "commentCount": 64,
-      "likeCount": 876,
-      "probeClient": "web_embedded"
-    },
     "2mMfaQPd3A4": {
       "checkedAt": "2026-07-30T05:53:43Z",
       "embedAllowed": true,
@@ -6541,14 +6532,6 @@
       "description": "I connected OpenCode to 290 different AI providers using ONE free tool: OmniRoute\n——————————————————\n🔗 Links\nPrompt i use: https://app.notion.com/p/Omniroute-opencode-3ac9864bb22e80f4801add87a0310db3\nOmniRoute: https://omniroute.online/\nOmniRoute GitHub: https://github.com/diegosouzapw/OmniRoute\nOpenCode: https://opencode.ai\n——————————————————\n🌐 Check out more content:\n- My Portfolio: https://www.cand.site/\n- Medium: https://medium.com/@ckriswinarto\n——————————————————\n🌐 Recommended Digital Tools (Affiliate Links):\n- Hostinger: Get 20% Off on Web Hosting - https://dub.sh/zrpWarU",
       "commentCount": 4,
       "likeCount": 58,
-      "probeClient": "web_embedded"
-    },
-    "Q-CK0lJ8_JA": {
-      "checkedAt": "2026-07-30T07:53:15Z",
-      "embedAllowed": true,
-      "description": "Are you relying on Terminal-Bench leaderboards to pick your AI coding agent? Discover why 65% of senior developers are ignoring the #1 ranked GPT-5.6 Sol model and deploying Claude Code and Cursor instead. We break down the massive difference between an AI model's raw weights (like Kimi K3's 2.8 trillion parameters) and the \"agent harness\" that controls context windows, tool execution, and code recovery.\n\n🔔 Subscribe: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w?sub_confirmation=1\n\n💙 Become a Member: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w/join\n\n🐦 Twitter/X:\n https://x.com/cloud_codes\n\n💬 Discord: \nhttps://discord.gg/4kJqEBMMf\n\nIn this head-to-head comparison of Claude Code, GitHub Copilot, Cursor, OpenAI Codex, and Antigravity, we expose the brutal truth about \"vibe coding\" vs professional software engineering. We reveal the security nightmare of AI-generated code (where 45% of samples contain OWASP Top 10 vulnerabilities), how subagents prevent context window poisoning, and why the exact same AI model can swing 20 points in performance based entirely on the scaffolding wrapped around it.\n\nIf you found this technical deep-dive into AI agents and software engineering tools helpful, drop a like and subscribe for more content on system architecture, developer productivity, and machine learning!\n\n🔗 Resources for: \nClaude Code (Anthropic): https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview\nCursor (Composer 2.5): https://www.cursor.com/\nGitHub Copilot: https://github.com/features/copilot\nCline (Open Source AI Agent): https://github.com/cline/cline\nMoonshot AI (Kimi K3 Weights): https://github.com/MoonshotAI\nTerminal-Bench / SWE-bench: https://www.swebench.com/\n\n⏱️ TIMESTAMPS:\n00:00 - The Terminal-Bench Lie: GPT-5.6 Sol vs Claude Code\n00:59 - The Developer Surveys (Pragmatic Engineer vs JetBrains)\n02:11 - OpenAI Codex Growth & Context Window Scaling\n03:15 - Cursor Composer 2.5: Pricing & Cost Per Token\n04:27 - Open Source AI: Cline & Moonshot Kimi K3\n05:27 - The \"Harness\" Explained (Why Benchmarks are Flawed)\n06:32 - Subagents, Context Poisoning & Agent Teams\n07:12 - The Vibe Coding Reality Check: Security & Debugging\n08:14 - Final Verdict: Which Agent Should You Install?\n\n#aiagents #claudecode #cursor #githubcopilot #softwareengineering #coding #machinelearning #artificialintelligence\n\nUser Queries:\ncursor vs claude code vs github copilot review\nbest ai coding agent for senior software engineers\nhow to use claude code subagents and agent teams\nopenai codex chatgpt desktop app vs cursor\nwhat is vibe coding vs professional software engineering\nterminal bench ai coding agent leaderboard 2026\nmoonshot kimi k3 open source ai coding benchmark\nai agent harness and scaffolding explained for developers\nai code generation owasp security vulnerabilities\ncursor composer 2.5 token pricing and limits",
-      "commentCount": 12,
-      "likeCount": 51,
       "probeClient": "web_embedded"
     },
     "vYgnAWX46Tc": {
@@ -6800,7 +6783,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-30T16:53:37Z",
+      "checkedAt": "2026-07-30T17:53:38Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7088,6 +7071,24 @@
       "description": "🚀 Get Started with DataImpulse\n\n🌐 Try DataImpulse: \nhttps://dataimpulse.com/?utm_source=youtube&utm_medium=video&utm_campaign=LexAI01\n\nIf you're building AI agents, web scrapers, automation workflows, or SEO tools, DataImpulse is one of the most affordable proxy providers available. It offers residential, datacenter, mobile, and premium residential proxies with a pay-as-you-go pricing model, so you only pay for the bandwidth you actually use.\n\n\n\n\n\n\n📩 Business & Partnerships:\nlexaicollab@gmail.com\n\n📢 Disclaimer\nSome links may be affiliate links. They help support the channel at no extra cost to you.\n\n🔁 Hashtags: #DataImpulse #Proxy #ResidentialProxy #DatacenterProxy #MobileProxy #WebScraping #AI #ArtificialIntelligence #LLM #Claude #OpenAI #Gemini #Automation #Python #Developers #SEO #SERP #DataCollection #MachineLearning #aiagents",
       "commentCount": 7,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "SxMuoiCYGMk": {
+      "checkedAt": "2026-07-30T17:53:38Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this podcast episode, Wayne Sutton interviews Argam, a founder and CTO based in Singapore, who shares his journey from coding at a young age to becoming a leader in the developer community. Developers will learn about the importance of relinquishing control in coding to focus on high-value tasks and how the landscape of software development has changed with the rise of AI. Argam discusses his experiences organizing hackathons, building communities, and the significance of real-time applications using Convex. He emphasizes that while the speed of development has increased, the core principles of building valuable products still apply.\n\nArgam also highlights the thriving tech scene in Singapore and the growing interest from major companies in engaging with local developers. He shares insights on the future of AI, the importance of community building, and how developers can harness tools effectively to create impactful solutions. \n\nTIMESTAMPS\n\n0:00 Introduction\n1:00 Background on Argam\n3:00 Transition from coding to community leadership\n6:33 Product philosophies in a fast-paced environment\n14:12 Insights from the AI Engineer conference\n18:49 Government support for tech in Singapore\n24:52 Experience with Convex\n29:13 DJing and community events\n33:12 Future of AI and the Singapore tech ecosystem\n41:12 Closing thoughts\n\nResources:\nhttps://convex.dev\nhttps://noiz.io/tools/youtube-summary",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "lWOeCP1Lhm0": {
+      "checkedAt": "2026-07-30T17:53:38Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Google mein kaam karna har student ka sapna hota hai. And now you can — with any degree. BCom, BBA, BTech, BA, BCA, MCA, MBA — sab eligible hain. Google has 4 active paid apprenticeships open right now in India with a deadline of August 3, 2026.\n\nIn this video I cover everything — what Google Apprenticeship is, full eligibility, benefits, all 4 apprenticeships explained, step by step application guide, and a bonus section on exactly how to crack the selection process.\n\n\nAPPLY DIRECTLY — GOOGLE CAREERS\n\n👉 Google Apprenticeship — Data Analytics India: https://careers.google.com/jobs/results/?q=apprenticeship&location=India\n\n👉 All 4 Google Apprenticeship Roles: \n\nhttps://careers.google.com/jobs/results/?q=apprenticeship+India&employment_type=INTERN_AND_TEMP\n\n KEY ELIGIBILITY CHECKLIST\n\n✅ Any bachelor's or master's degree (for Data Analytics, PM, Digital Marketing) \n✅ Less than 1 year of relevant work experience \n✅ Not currently enrolled in any academic programme \n✅ Strong academic record \n✅ Basic familiarity with Google Workspace tools \n✅ Engineering degree + coding experience (for Software Development only)\n\n HOW TO CRACK — QUICK TIPS\n\n→ Resume must clearly mention your year of graduation \n→ Add relevant free certifications\n — Google Data Analytics or Microsoft PL-300 \n→ Know exactly why you chose that specific apprenticeship\n → Brush up on Google Workspace — Sheets, Docs, Slides\n → Apply early — screening starts while applications are open \n→ Selection process takes 18 to 24 weeks — be patient\n\nHEENA'S OTHER VIDEOS\n\n👉 Perfect ATS Friendly Resume Guide 2026: https://youtu.be/4h8uXGQFmKY?si=yADMsMbgnJGM-WHN\n\n👉 Top 5 Free Data Analytics Certifications 2026: https://youtu.be/BFtNDLdTMMY?si=PdT0u_iDiUUEC-yY\n👉 Internships without Experience — Free Certificate: https://youtu.be/JyEyf5S2s_s?si=QA9-7y9CFiNQQvHe\n\n👉 How to Become a Data Analyst in 90 Days (Non-Tech): https://youtu.be/F4S-uzraT-M?si=VRpx5PlXpM77jFsD\n\n👉 How to Access Coursera for Free Using Financial Aid: https://youtu.be/PMxBJwD57uI?si=ByFG7L0nhUqS64aD\n\n LET'S CONNECT\n\n📱 Telegram (Free Career Resources and Tips): https://t.me/thedataschoool\n\n💼 LinkedIn: https://www.linkedin.com/in/hina-kouser\n\n📸 Instagram: https://www.instagram.com/heenakouser.ai\n\n SUBSCRIBE FOR MORE\n\nIf you want honest no-filter career guidance on paid opportunities, free certifications, resume building and real career growth for non-tech students — subscribe and turn on notifications. New video every week!\n\n\n#GoogleApprenticeship #GoogleApprenticeship2026 #GoogleHiring #PaidInternship #GoogleIndia #CareerGuidanceIndia #NonTechCareer #BCom #BBA #MBA #FreshersIndia #HeenaKouser #DataAnalytics #ProjectManagement #DigitalMarketing",
+      "commentCount": 10,
+      "likeCount": 70,
       "probeClient": "web_embedded"
     }
   }

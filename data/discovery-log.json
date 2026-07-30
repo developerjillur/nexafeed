@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T16:53:37Z",
+  "updatedAt": "2026-07-30T17:53:38Z",
   "items": [
+    {
+      "id": "SxMuoiCYGMk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Convex",
+      "publishedAt": "2026-07-30T16:53:38Z",
+      "firstSeenAt": "2026-07-30T17:53:38Z"
+    },
+    {
+      "id": "lWOeCP1Lhm0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Heena Kouser",
+      "publishedAt": "2026-07-30T12:53:38Z",
+      "firstSeenAt": "2026-07-30T17:53:38Z"
+    },
     {
       "id": "uZkiHG46Ll4",
       "type": "short",
@@ -5963,6 +5979,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-07-30T17:53:38Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
