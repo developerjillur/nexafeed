@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T20:53:24Z",
+  "updatedAt": "2026-07-30T21:53:33Z",
   "items": [
+    {
+      "id": "nAc-pn4rsgU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "HBA Services",
+      "publishedAt": "2026-07-30T14:53:33Z",
+      "firstSeenAt": "2026-07-30T21:53:33Z"
+    },
     {
       "id": "5MPfh946ZtI",
       "type": "short",
@@ -6167,6 +6175,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-07-30T21:53:33Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
