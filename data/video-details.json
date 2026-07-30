@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T12:53:48Z",
+  "updatedAt": "2026-07-30T13:53:49Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -1986,15 +1986,6 @@
       "likeCount": 3838,
       "probeClient": "web_embedded"
     },
-    "ZE1KEgsm_80": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Uber just shipped an AI agent that builds your whole grocery cart from a photo of a handwritten list — and the interesting part for builders is how little the LLM actually does.\n\nTheir real architecture is a multi-prompt state graph, and most of the boxes are plain deterministic code. The LLM only handles the fuzzy stuff: reading what you meant, judging which product fits. Everything that has to be correct — prices, arithmetic, availability, the cart total — is code the model never touches.\n\n→ The planner LLM doesn't \"go shopping\" — it emits a structured CartPlan (item, search_terms, item_context, price constraints), then hands it to code\n→ \"12 eggs\" resolves to one carton of twelve via a deterministic quantity step, not free LLM arithmetic\n→ A deterministic guardrail can veto a bad output and fall back before it ever reaches your cart\n→ The lesson: when an agent is unreliable, the fix usually isn't a bigger model — it's taking responsibility away from the model and moving anything exact into code\n\nThe rule to steal: LLM handles meaning, code handles truth.\n\nComment \"CART\" and I'll send you the full breakdown.\nWhat's the one thing you'd never let an AI decide?\n\n#AI #AIagents #LLM #systemdesign #softwareengineering #promptengineering #buildinpublic #Uber #machinelearning #agents\n\nLinks:\n• The LLM/code boundary playbook: https://github.com/sunchitanand/ai-builder-resources/blob/main/cart.md\n\n#Shorts",
-      "commentCount": 6,
-      "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
     "B0033DZaXXo": {
       "checkedAt": "2026-07-27T07:46:18Z",
       "embedAllowed": true,
@@ -2029,15 +2020,6 @@
       "description": "What’s the most unusual way you’ve made money using Claude?\n\nI’ve seen people use Claude for everything from side hustles to really creative income streams. Curious what unusual or unexpected ways others have found to make money with it.\n\nWhat worked for you?",
       "commentCount": 0,
       "likeCount": 13,
-      "probeClient": "web_embedded"
-    },
-    "ut8tJiMlR_0": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What do you miss most about the pre AI era?\n\nTo me, \n\n1. The feeling of accomplishment after deploying a ton of code, every bit of it written by hand line by line\n\n2. Stitching together a bunch of shitty stackoverflow questions from 10 years ago and hoping the result works\n\n3. Spending all day stumped by the most blatantly obvious bug\n\nAm I being nostalgic for the most tedious parts of our career lmao?",
-      "commentCount": 4,
-      "likeCount": 10,
       "probeClient": "web_embedded"
     },
     "vIUVRGSMtqI": {
@@ -5352,7 +5334,7 @@
       "failureReason": "embed_disabled"
     },
     "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-29T13:53:12Z",
+      "checkedAt": "2026-07-30T13:53:49Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5735,49 +5717,191 @@
       "probeClient": "web_embedded"
     },
     "OXhVBDyBGyk": {
-      "checkedAt": "2026-07-29T13:53:12Z",
+      "checkedAt": "2026-07-30T13:53:49Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 19,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-29T13:53:12Z",
+      "commentCount": 6,
+      "likeCount": 739,
+      "comments": [
+        {
+          "id": "Ugx7ZrWX4IX5NT9lLMZ4AaABAg",
+          "author": "@Technotreon",
+          "text": "Me explaining my workflow to Claude once: “Okay, you're employed now.” 😂",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/mtUX-s25j_ZGy1lhb8l3e4Myfaw-YWRoiNoSroK8nJ4C6ywNrulzXsYhYSaJIq1P9rmCu8DIeg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz3rmvfHc6dPT3rBeN4AaABAg",
+          "author": "@SanteeRocks",
+          "text": "This just replaced half of lame techies from outsourced countries 😂",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/1PzMhJbEdDlpAYKJ5ROgZ-uKbUpNnfLqnwpUlcrNBdxo568yZGerOb0svb6zRxjZ8w8m-yqk1Qc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxzPsLmxSyTGzR8ZDR4AaABAg",
+          "author": "@Rishtronaut",
+          "text": "They are basically asking us to teach there LLM how things could be done. So they have to spend there money to train everything.",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/2g9OIKZg2uI6zz5IstJmR_zG0eLwLcRxdDqQLYedw_Wr22-FgJYgOgkQh3nXxrZ0DGake4mqhQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxolCBf9C92kn9iEZR4AaABAg",
+          "author": "@sauravgupta8297",
+          "text": "bg music itna intense kyu bhai ???",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/mkHFkQfljUwp4dcpYG8defsy6SAqMzWLAfybghUjFv62StCN1TCdDp-agYuBXXSt8GbFXy7fL9M=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwZ8wLsXO2iPe88mS94AaABAg",
+          "author": "@viv5in",
+          "text": "Go went gone",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_meNOTiXgBCNksCHUQC_kZLwkVZ1QPoE8nbP3BsOaEaaKo=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzjYARhPxlfpZTR0hp4AaABAg",
+          "author": "@vV-Original",
+          "text": "What is this going on? 😮\nInsane!",
+          "likeCount": 2,
+          "publishedAt": "2026-07-29T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/bGfEsUYm6B024SvwZVeZTdIGr5yU__0ZhflY5GkJUNGvSmmN-K-HvWuTkkrayxGJD2hGlIsN=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T13:53:49Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "-4gD9qJ31js": {
-      "checkedAt": "2026-07-29T13:53:12Z",
+      "checkedAt": "2026-07-30T13:53:49Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "What happens when the former CTO of OpenAI starts her own AI company?\n\nMira Murati has launched Thinking Machines, raised $2 billion, and introduced Inkling an open-source AI model with a very different strategy from OpenAI, Anthropic, and Google.\n\nInstead of chasing benchmark scores alone, Inkling introduces Thinking Effort, allowing developers to adjust the model’s reasoning level based on the task. Faster and cheaper for simple requests, deeper reasoning for complex coding and problem-solving all while reducing token usage.\n\nThe bigger strategy is even more interesting.\n\nInkling is free and open source, while Tinker becomes the commercial platform that helps businesses fine-tune and deploy the model for their own use cases. It’s a classic platform play: give away the model, monetize the ecosystem.\n\nIn this video you’ll learn:\n\n* Who is Mira Murati?\n* What is Thinking Machines?\n* What is Inkling AI?\n* What is Thinking Effort?\n* How Inkling compares to GPT-5 and Gemini\n* The startup strategy behind open-source AI\n* Why this could reshape the AI industry\n\nWhat’s more important to you: the smartest AI, or the most affordable and practical AI? Let us know in the comments.\n\nWhy Subscribe to BPro?\n\nIf you want more than just AI headlines, BPro helps you understand the business, engineering, and strategy behind the biggest AI breakthroughs.\n\nSubscribe for:\n\n* Daily AI news & updates\n* AI startup breakdowns\n* OpenAI, Anthropic, Google & emerging AI companies\n* AI engineering insights\n* Open-source AI tools\n* GitHub repositories worth using\n* AI coding workflows\n* Startup strategy & SaaS analysis\n* The future of AI explained simply\n\nStay ahead of the AI industry instead of just reacting to it.\n\nSubscribe to bpro for practical AI insights that matter.",
-      "commentCount": 0,
-      "likeCount": 4,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-29T13:53:12Z",
+      "commentCount": 3,
+      "likeCount": 49,
+      "comments": [
+        {
+          "id": "Ugw8PVQ1MCIdjbYUs8l4AaABAg",
+          "author": "@motivation_SR7-S",
+          "text": "Full video",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T13:22:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Gcx600GATakUTLFMPXjvn46SqQ-YUVKAaaGD5Q-D4DR2xwcpfqOYj55-FV03itgS7tC7B3bv=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzbkY4OxqIYdvHOWnx4AaABAg",
+          "author": "@motivation_SR7-S",
+          "text": "Is ke uper full video banao DIDI",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T13:22:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Gcx600GATakUTLFMPXjvn46SqQ-YUVKAaaGD5Q-D4DR2xwcpfqOYj55-FV03itgS7tC7B3bv=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwQ2dNubPYTiPx8XNF4AaABAg",
+          "author": "@TheAurumVision7",
+          "text": "Place Link 🙏🌹",
+          "likeCount": 1,
+          "publishedAt": "2026-07-29T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/rR8horT2Q7yczC_0KQQxZFrbouD9Fnv83MJ6su0aT-UNQtnAO5YComFPKgYpLAZengtFxbwZQw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T13:53:49Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "D9MMgUjpZ5I": {
-      "checkedAt": "2026-07-29T13:53:12Z",
+      "checkedAt": "2026-07-30T13:53:49Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "What if you could turn a single product screenshot into a cinematic marketing video using AI?\n\nThat’s exactly what Video ShotCraft does.\n\nThis open-source GitHub project works with Claude Code and comes with 100+ built-in camera movements, cinematic shot recipes, transitions, and animation workflows. Simply provide a product screenshot, describe the style you want, and the AI generates a storyboard, creates animations, and even adds sound design to produce a professional-looking product video.\n\nWhether you’re a founder, indie hacker, SaaS builder, marketer, content creator, or AI enthusiast, this tool can dramatically speed up the process of creating product demos, launch videos, social media ads, and promotional content.\n\nIn this video you’ll learn:\n\n* What is Video ShotCraft?\n* How to turn screenshots into cinematic AI videos\n* How Claude Code powers the workflow\n* Why this is one of the best free GitHub AI projects\n* How AI is changing product marketing and content creation\n\nGitHub Repository: https://github.com/Vincentwei1021/video-shotcraft?mcp_token=eyJwaWQiOjMxNzQ2MTksInNpZCI6MTgyMDkyMDgzOCwiYXgiOiJmOGM5MjJiZmM1YTExMzUxNjhmNTU1ZTNmY2QxZjExMCIsInRzIjoxNzg0OTY1NzQ2LCJleHAiOjE3ODczODQ5NDZ9.E-9ClPXiRXki99LGXh97UMYMCPW8vmidobBGK0af-lo\n\nWhy Subscribe to BPro?\n\nIf you want practical AI content instead of just AI headlines, BPro is built for you.\n\nWe cover:\n\n* Latest AI news & updates\n* Free AI tools\n* GitHub repositories worth using\n* Claude Code, ChatGPT & Gemini tutorials\n* AI automation workflows\n* AI video generation\n* Startup & SaaS insights\n* AI coding & developer tools\n* Content creation with AI\n* Practical AI engineering explained simply\n\nOur goal is to help you discover AI tools before everyone else and show you exactly how to use them.\n\nSubscribe to bpro and stay ahead of the AI curve.\n\n#AI #ClaudeCode #GitHub #AIVideo #OpenSource\n\nAI, artificial intelligence, AI video, AI video generator, AI video tools, AI marketing, AI content creation, product demo video, product marketing, product advertisement, AI ads, cinematic AI video, Claude Code, Claude Code tutorial, Claude AI, Anthropic, ChatGPT, OpenAI, GitHub, GitHub repository, best GitHub repositories, free AI tools, open source AI, AI tools, best AI tools, AI tutorial, AI explained, AI for beginners, AI for creators, AI for marketers, AI for startups, AI for developers, startup tools, SaaS marketing, indie hacker, developer tools, social media marketing, Instagram reels, YouTube Shorts, video editing AI, AI animation, storyboard AI, content creation, what is Video ShotCraft, how to make AI videos, how to create product videos, how to use Claude Code, how to make ads with AI, best AI video generator, latest AI news, AI updates, technology news, tech news, future of AI",
-      "commentCount": 1,
-      "likeCount": 12,
+      "commentCount": 6,
+      "likeCount": 138,
       "comments": [
         {
           "id": "UgwEGeveRz4B_DZBf-14AaABAg",
           "author": "@Bproclub",
           "text": "https://zcode.z.ai/en",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T13:14:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Y2wqg8Jrk4tANVG3LT2ZEkVs-6wlESz8NvwUMrqfBghyS3VQsJLlfpoq4gQX8g31Qty_Kx0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "UgwWVqkO6p9RuQgJHzV4AaABAg",
+          "author": "@nanotech21",
+          "text": "Repo",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T13:09:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kMfC7WCl6BBeZ1f4F20aV0kp8uIeuNyEZg9zNa7mjbPTun=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwhIY5iEwh4K_xVlc94AaABAg",
+          "author": "@zafargmbh",
+          "text": "Repo",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nM3Tq4MhlOHQI-t1paxVwfyEzxPRS52UAEoUBAmfPIYvI=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyQIchEV7OUG91lCA54AaABAg",
+          "author": "@onlyshortcuts",
+          "text": "Repo",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/DpPyIuvigHf59vsy0M1w5pKa4makQ3jP5s0_xep783i6az2rUsjAVC_388R7IYO6rFBvqBMyWw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwp44xFnElpV1zvKap4AaABAg",
+          "author": "@girirajsinhgohil3475",
+          "text": "Repo",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lvtv3VD3lpStYTPLMaBxB7FYi2oRAkv7WsIpvHoY0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyUbsMsZtpmmaj55_J4AaABAg",
+          "author": "@CapcutDance",
+          "text": "Repo",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/OmVh0jaqk0mHnbiaOIYAER_57n_D0eRY6zSN3kApDTIkpsVvvdc7Xe-VxYaLOOTTqsSqk-yyOLQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-29T13:53:12Z",
+      "commentsFetchedAt": "2026-07-30T13:53:49Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5973,33 +6097,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-07-29T16:53:14Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "lUAVCYhCneM": {
-      "checkedAt": "2026-07-29T16:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "This is a clip from CloudGeometry's webinar, \"AI coding tools are not a software development process.\"\n\nIn the clip, we get into why faster code generation is not the same as faster delivery, and what it takes to turn AI-generated change into something safe and shippable.\n\n▶ Watch the full session here: https://www.brighttalk.com/webcast/20981/671340?bt_tok={{bt_fastpass_token}}&utm_source=CloudGeometry&utm_medium=brighttalk&utm_campaign=671340\n\nIn the full webinar we cover the gap between AI productivity and enterprise delivery, the questions to ask before investing in AI coding tools, and how a governed, AI-managed software lifecycle keeps humans at the gates with every change traceable, plus a live demo.\n\nLearn more about AI-MSL: https://lp.cloudgeometry.com/managed-ai-software-delivery/\n\nSubscribe for more on governed, AI-powered software delivery.\n\n#AIMSL #CloudGeometry #AICodingTools #SoftwareDelivery #AIGovernance #SDLC",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "eQ6tb7j3Z2U": {
-      "checkedAt": "2026-07-29T16:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What happens when engineering is no longer the bottleneck?\n\nIn this episode of Advanced Insights, AMD CTO and EVP Mark Papermaster sits down with Boris Cherny, creator and head of Claude Code at Anthropic, to explore how agentic AI is transforming software development and the broader engineering organization.\n\nThey discuss the rapid evolution from autocomplete to autonomous, multi-agent workflows; how engineers are becoming orchestrators of increasingly capable agents; and why curiosity, adaptability and the ability to generate strong ideas are becoming even more valuable. The conversation also examines the leadership and culture changes needed to unlock productivity, the importance of trust and verification, and the compute required to support agents that can operate for days or even weeks.\n\nFrom “one-person armies” to AI-native organizations, learn how agentic workflows are reshaping the way products are imagined, built, tested and brought to market.\n\n***\n\nSubscribe: https://bit.ly/Subscribe_to_AMD \nJoin the AMD Gaming Discord Server: https://discord.gg/amd-gaming\nVisit the AMD Gaming Community Website: https://www.amdgaming.com/\nLike us on Facebook: https://bit.ly/AMD_on_Facebook\nFollow us on Twitter: https://bit.ly/AMD_On_Twitter \nFollow us on Twitch: https://Twitch.tv/AMD \nFollow us on LinkedIn: https://bit.ly/AMD_on_Linkedin \nFollow us on Instagram: https://bit.ly/AMD_on_Instagram\n\n©2026 Advanced Micro Devices, Inc. AMD, the AMD Arrow Logo, and combinations thereof are trademarks of Advanced Micro Devices, Inc. in the United States and other jurisdictions. Other names are for informational purposes only and may be trademarks of their respective owners.",
-      "commentCount": 7,
-      "likeCount": 50,
-      "probeClient": "web_embedded"
-    },
-    "klMDS3G5BdA": {
-      "checkedAt": "2026-07-29T16:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "This is a clip from CloudGeometry's webinar, \"AI coding tools are not a software development process.\"\n\nIn the clip, we get into why faster code generation is not the same as faster delivery, and what it takes to turn AI-generated change into something safe and shippable.\n\n▶ Watch the full session here: https://www.brighttalk.com/webcast/20981/671340?bt_tok={{bt_fastpass_token}}&utm_source=CloudGeometry&utm_medium=brighttalk&utm_campaign=671340\n\nIn the full webinar we cover the gap between AI productivity and enterprise delivery, the questions to ask before investing in AI coding tools, and how a governed, AI-managed software lifecycle keeps humans at the gates with every change traceable, plus a live demo.\n\nLearn more about AI-MSL: https://lp.cloudgeometry.com/managed-ai-software-delivery/\n\nSubscribe for more on governed, AI-powered software delivery.\n\n #AIMSL #CloudGeometry #AICodingTools #SoftwareDelivery #AIGovernance #SDLC",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "py_--ZJqxMM": {
@@ -6595,24 +6692,6 @@
       "likeCount": 16,
       "probeClient": "web_embedded"
     },
-    "TTSPDNUinek": {
-      "checkedAt": "2026-07-30T10:53:39Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔗 All Prompts and Template can be obtained here: https://komputermechanic.com/tutorials/content-creation-machine\n\nGet your Contabo VPS here: https://komputermechanic.com/go/contabo-vps\nGet your Racknerd VPS here: https://komputermechanic.com/go/racknerd-vps\n\n\n🙏Video Sponsored by **Sodales AI** (https://sodales.ai)\n\n\n\nI built a content studio that runs on my own server. Five Hermes agents find the ideas, write the carousels, design them across 97 templates, and publish them to Instagram and TikTok. \n\nIn this video I show the full build and the finished studio running end to end.\n\nWHAT THE CREW DOES\nAtlas finds ideas and researches the facts behind them\nVera writes the slides in your brand voice\nKite designs and renders them as finished images\nOrin handles captions, hashtags and publishing through Buffer\nThe Orchestrator coordinates all four and reports back to you\n\nWHAT YOU GET BY THE END\nA private dashboard on your own server\nDaily carousel ideas written for your brand, not generic AI slop\n50+ designed templates the agents fit your copy into\nOne click from idea to a finished, posted carousel\nFull control from Telegram, so you can run it from your phone\n\nCHAPTERS\n0:00 What we're building\n3:07 Demo: five agents running a real content studio\n9:37 Installing Hermes Agent\n27:31 Connecting your AI model\n35:10 Adding Telegram: a group and a channel per agent\n36:56 Wiring the multi-agent crew\n1:02:47 Building the dashboard backend\n1:11:30 The content and agent tabs\n1:15:25 Wiring the frontend: ideas and carousels\n1:25:36 Connecting Perplexity, ImgBB and Buffer\n1:41:46 Running the studio from Telegram\n1:46:50 Secure access anywhere with Tailscale\n\nLINKS\n- Copy-paste build prompts: https://komputermechanic.com/tutorials/content-creation-machine\n- Hermes-Agent: https://hermes-agent.nousresearch.com/\n-Get your Contabo VPS here: https://komputermechanic.com/go/contabo-vps\n-Get your Racknerd VPS here: https://komputermechanic.com/go/racknerd-vps\n- Tailscale: https://tailscale.com/\n\nSTACK\nHermes Agent, Claude, Buffer, ImgBB, a $5 VPS\n\nIf you want the prompts and the installer, everything is on the site. Grab it, run one command, and your studio is live in about ten minutes.\n\n#AIAgents #HermesAgent #ContentAutomation #AIAutomation #InstagramMarketing #SelfHosted #AIContent #SocialMediaAutomation",
-      "commentCount": 20,
-      "likeCount": 186,
-      "probeClient": "web_embedded"
-    },
-    "K5WR6ubxd-A": {
-      "checkedAt": "2026-07-30T10:53:39Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get 60 days free usage of Wispr Flow using ABHIJEETXWISPR\nDownload Wispr Flow now - https://ref.wisprflow.ai/ailearnersbyabhijeet\n\n#hermes #hermesai #aiagents \n\nI have been running Hermes AI as my daily driver for months now, and in this video I show you the 5 exact ways it works inside my business every single day — not theory, not a demo, my real workflow. You will see how it runs an entire YouTube channel end to end, handles client image work through custom skills, pulls research and transcripts through APIs, and prepares assets before I even sit down to record.\n\nThe best part is the cost. Running Hermes on Deepseek V4 means near-frontier capability at a fraction of what GPT or Claude cost per token, which is what makes this practical for Indian freelancers and small agency owners instead of just funded startups.\n\nI also walk through the installation, the memory setup I personally use, how skills and hooks actually work, and I build one custom skill live so you can see the whole process from scratch.\n\nThis video is for non-coders, freelancers, and business owners who want a real AI employee running 24/7 without a developer salary attached to it.\n\nHit like, subscribe for more AI agent workflows, and comment which of the 5 use cases you want a full dedicated video on!\n\n#HermesAI #HermesAgent #AIAgents #AIAutomation #DeepseekV4 #HindiTutorial #AIInHindi #AIAgency #SelfHostedAI #AILearnersIndia\n\n\nLearn Airtable in Detail (India, UK, US) : https://www.youtube.com/channel/UCjECA8ZHP52yFjKyRW4-8Hw/join\n\nConnect with me Personally \nWhatsapp Community : https://shorturl.at/oDaY8\nLinkedIn : https://www.linkedin.com/in/ailearnersindia/\nInstagram : https://www.instagram.com/abhijeet.kalamkar.ai/\nX - High Profile Prompts :  https://x.com/AiLearnersIndia: \n\nThis I use to Create these High Quality Videos \n\nMain Primary face Lighting : https://amzn.to/46e7ng4\nSide Lights for Edge lighting on Face : https://amzn.to/4m2RGgm\nMic I Use : https://amzn.to/4f1zxgE\nAlternative Affordable Mic : https://amzn.to/44HwZRu\nMost Affordable Mic : https://amzn.to/4nX1mdX\nCamera I Use : https://amzn.to/3TK4iwV\nSame Quality Affordable Camera : https://amzn.to/46eRF4p\nBackground RGB Color Lights : https://amzn.to/3GyFKEd\nWindow Shadow Light Behind me : https://amzn.to/4f1zIsk\n\n🔥 AI Agents Kaise Banaye Hindi Mein - Complete Tutorial! 🔥\n\nAI Learners India me aapka swagat hai! Yahan aap seekhenge AI agents kaise banaye, N8N automation tutorial Hindi mein, aur AI se paise kaise kamaye - sab kuch step-by-step, bina coding ke!\n\n📚 Iss Video/Channel Mein Aap Seekhenge:\n\n✅ AI Agents Kaise Banaye (No Coding Required): Complete step-by-step guide Hindi mein\n✅ N8N Tutorial Hindi - Beginner se Advanced tak complete course\n✅ AI Automation Hindi - Workflows, chatbots, aur business automation\n✅ AI Agents Without Coding - OpenAI API integration aur custom workflows\n✅ AI se Paise Kaise Kamaye - Monetization strategies aur business ideas\n✅ Voice AI Agents Hindi Tutorial - Advanced automation techniques\n✅ RAG AI Agents Hindi - Data analysis aur intelligent systems\n✅ AI Agents for Business Hindi - Real-world applications aur case studies\n\n🎯 Trending Topics Covered:\n- AI Agents Crash Course Hindi\n- N8N Self Hosting Hindi Tutorial  \n- AI Workflow Automation Complete Guide\n- Chatbot Banane Ka Tarika (Step-by-Step)\n- AI Tools Hindi Mein Explained\n- Automation Business Hindi - Complete Roadmap\n- AI Agents Masterclass Hindi Series\n\n💰 Business & Career Focus:\n- AI Automation Freelancing Hindi Guide\n- Make Money with AI Agents Hindi Tutorial\n- AI Business Kaise Shuru Karein India Mein\n- AI Agents Service Business Model\n- Passive Income with AI Automation\n\n🚀 Advanced Topics:\n- Custom AI Agents Development Hindi\n- N8N OpenAI Integration Advanced Tutorial\n- Email Automation N8N Hindi\n- AI Workflow Scaling Techniques\n- Production-Ready AI Agent Deployment\n\nCommunity se Judein:\nHamare exclusive N8N Circle (Whatsapp/Telegram) ko join karein aur AI enthusiasts ki community ke saath judein. Yahan aap workflows share kar sakte hain, real-time troubleshooting kar sakte hain, aur AI automation projects par collaborate kar sakte hain.\n\n🎯 Channel Mission: \nAapko AI agents aur automation expert banana, taki aap apne career aur business ko नई ऊंचाइयों par le ja sakein. Agar aap AI automation seekhna chahte hain, AI se paise kamana chahte hain, ya phir AI business start karna chahte hain - toh subscribe karna na bhoolein!\n\n#AIAgentsKaiseBanaye #N8NTutorialHindi #AIAutomationHindi #NoCodeAIAgents #AIAgentsWithoutCoding #AIAgentsHindi #AutomationKaiseKaren #AIAgentsCrashCourse #AIAgentsMasterclass #HindiAITutorial #AILearnersIndia #N8NHindi #AIForBusiness #MakeMoneyWithAI #IndianAICommunity #AIAutomationBusiness #VoiceAIAgents #RAGAIAgents #ChatbotBananeKaTarika #AIToolsHindi",
-      "commentCount": 30,
-      "likeCount": 134,
-      "probeClient": "web_embedded"
-    },
     "aJPotSxvIAU": {
       "checkedAt": "2026-07-30T11:53:45Z",
       "embedAllowed": true,
@@ -6724,7 +6803,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-30T12:53:48Z",
+      "checkedAt": "2026-07-30T13:53:49Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6779,6 +6858,86 @@
       "description": "Platform used : https://supabase.link/7iFCRoT  \n\nMost developers spend weeks building authentication, databases, and backend APIs before they can even launch their first app. But what if you could set up a production-ready backend in minutes instead of days?\n\nIn this video, I've shown how to use Supabase to build a complete backend without managing servers. You'll learn how to create a project, connect your application, set up a PostgreSQL database, implement authentication, manage real-time data, and use storage for your apps.\n\nI'll also share practical tips, common mistakes to avoid, and the workflow that makes Supabase one of the fastest backend solutions for developers building modern web applications.\n\nI created this video to help beginners and developers save time, focus on building products, and understand backend development without unnecessary complexity. Whether you're learning full-stack development, building side projects, or creating your next startup idea, this tutorial will help you get started.\n\nIf you enjoy practical content on web development, AI, coding, backend development, and career growth, subscribe for more.\n\n\n❤️ ❤️  Saumya Di’s First Book  (A small gift for favourite subscribers ): https://store.bookleafpub.com/discount/MAY26?redirect=%2Fproducts%2F9788199612686\nDiscount code: MAY26\n\n\n✨ For 1:1 Guidance from Saumya Di - https://topmate.io/saumya1singh\n✨ Join Broadcast Channel - https://www.whatsapp.com/channel/0029VbAnnzw6hENpACnPoq03\n\n✨Share your progress & learnings on✨\nInstagram: https://www.instagram.com/saumya1singh/\nTwitter: https://x.com/saumya1singh\nLinkedIn: https://www.linkedin.com/in/saumya1singh/\nYoutube: https://www.youtube.com/@saumya1singh\n\n✌🏻 FREE Agentic AI Course with Certificate ✌🏻\nhttps://youtu.be/uYmIFc7gUyk?si=BoNr9U1fMlNt8fID\n\n✌🏻 FREE Python Course with Certificate ✌🏻\nhttps://www.youtube.com/playlist?list=PLTV_nsuD2lf7JOwZdSWuup-YO0AUaDQti\n\n✌🏻 Free Android App Development Playlist | 30 Days of Coding Challenge ✌🏻\nyoutube.com/playlist?list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8\n\n🪴 Making you Successful & Aware.\n❤️ Excel in life and tech with me!  \n\nComment \"#SaumyaDi\" if you read this ❤️😍\n\nDon't forget to hit the like button, subscribe to the channel, and press the notification bell to get updates. Also, share your thoughts in the comment section.\n\n📚 Books I Recommend for Learning & Growth\n\nDeep Work - https://amzn.to/4grerZG \nAtomic Habits - https://amzn.to/4n8iz3f \nCracking the Coding Interview - https://amzn.to/46syliC \nPsychology of Money – https://amzn.to/4gwm3dD \n\n💻 Tech & Gear I Use for Work + Videos\n\nLaptop: https://amzn.to/488KtI7 \nMonitor: https://amzn.to/423xYcW \nCamera:https://amzn.to/4pm9kOy \nMic: https://amzn.to/46HzWSO \nRing Light: https://amzn.to/3VV7CWP \nTripod: https://amzn.to/3K8k0QS \nHeadphones: https://amzn.to/4mnmHeM \nChair: https://amzn.to/4ptn0XZ \n\n🎥 My YouTube Creator Setup\n\nStorage: https://amzn.to/4pw1AJS \niPhone : https://amzn.to/3K8k7Mi \n\n#nocoding #ai #vibecoding #appdevelopment #makemoneyonline #makemoneywithai \n\nKeywords : \n[chatgpt, generative ai,openai,artificial intelligence,ai,make money with ai,ai business ideas,ai automation agency,ai automation,ai business,ai automation business,ai agent,ai agents,ai agent tutorial,ai tutorial,building ai agents,websites,web apps,no code,vibe coding,vibe coding tutorial,vibe coding course,vibe, vibe coding app,ai coding,ai app development, how to build a full stack web app using ai, how to build a full stack web application using ai, vibe coding, build a full-stack quiz ai application, how to build a full stack web app using ai, how to build a full stack web application using ai, vibe coding, b tech,ai app builder,no code app,saas tutorial,ai coding,web development,ai website builder,ai startup,vibe coding,saas development,full stack tutorial,ai tools,coding tutorial,web app tutorial ]\n\nDisclaimer:\nThis video is created strictly for educational and informational purposes only.\n\nWe only share ethical, genuine, and legal ways to learn & grow.\n\nThis channel does not encourage scams, spam, or any activity that violates Youtube policies or laws. We do not promote any misleading schemes.",
       "commentCount": 52,
       "likeCount": 159,
+      "probeClient": "web_embedded"
+    },
+    "HVQB-b8Z9zI": {
+      "checkedAt": "2026-07-30T13:53:49Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Your AI agent calling a tool before it's ready? Finishing the same task twice? Looping forever? Those aren't three separate bugs — they're one: your agent doesn't know what it's allowed to do in the state it's in.\n\nThe fix is four lines of a plain switch statement — a pattern called a state machine that's been around for decades. You list your agent's states, write one function that returns the next state, and ignore any move that isn't allowed. Illegal moves stop being bugs you chase and become things that literally can't happen. No framework required.\n\n→ Line 1: list your states (idle, thinking, calling a tool, done)\n→ Line 2: one function — (state, event) → next state, a plain switch\n→ Line 3: if a move isn't on the board, ignore it — impossible states can't happen\n→ Handles retry, backtrack, loop-until-verified in any language, no library\n→ When it gets complex, XState (free, open source) draws + runs the graph for you\n\nLinks:\n• Copy-paste starter + how it works: https://github.com/sunchitanand/ai-builder-resources/blob/main/state.md\n• XState (free, open source): https://stately.ai/docs/xstate\n• Build state machines visually: https://state.new\n\nComment \"STATE\" and I'll send you the copy-paste starter.\nWhat's the dumbest thing your AI agent did before you locked it down?\n\n#AI #aiagents #statemachine #xstate #coding #softwareengineering #agents #devtools #programming #buildinpublic\n\n#Shorts",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-30T13:53:49Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "hKdQzacGG4M": {
+      "checkedAt": "2026-07-30T13:53:49Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Every AI-built website has the same tell. \n\nPurple hero gradient, purple buttons, that weird glowing text. \n\nThe em dash of web design. \n\nReplit Design is the first tool that pushed back with actual taste. It actually understands what looks good, not just code.\n\nMy pages come out matching the brand, and the purple is gone for good. \n\nComment \"design\" and I'll send the link straight to your DMs 🔥\n\n#replitpartner #replitdesign",
+      "commentCount": 1,
+      "likeCount": 1,
+      "comments": [
+        {
+          "id": "Ugy6Otf8kqEU9pqKU254AaABAg",
+          "author": "@LeadGenMan",
+          "text": "Comment \"design\" and I'll send the link straight to your DMs 🔥",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T13:35:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/oLOTt3Y_fFosmPsd1v-474Eu60nuWBEiDlm0UhrYDQo-klwkLCwLiZSv5EWEUd3ao_3TXcY0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T13:53:49Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "6Pxjcpjb4cE": {
+      "checkedAt": "2026-07-30T13:53:49Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Build Your First AI Agent Without Coding! In this complete Gumloop AI Tutorial in Urdu, you'll learn how to create powerful No Code AI Agents using simple prompts. Whether you're a student, freelancer, business owner, or content creator, this beginner-friendly guide will help you automate tasks with AI in just a few minutes.\n\nIn this tutorial, you'll learn:\n✅ What is Gumloop AI?\n✅ Gumloop Dashboard Overview\n✅ Create Your First AI Agent\n✅ Write a Powerful System Prompt\n✅ Choose the Best AI Model\n✅ Set Up Triggers & Automation\n✅ Connect Gmail, Google Sheets & Other Apps\n✅ Create AI Skills\n✅ Add Knowledge Sources\n✅ Live Demo: Build a StudyBuddy AI Agent\n✅ Test Your AI Agent\n✅ No Coding Required!\n\n💡 Perfect for beginners who want to learn AI Automation, AI Agents, Prompt Engineering, and No-Code AI Tools.\n\n𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩𝙨 - Access Other Courses / Learning Materials \n𝙎𝙝𝙤𝙥𝙞𝙛𝙮 𝘾𝙤𝙢𝙥𝙡𝙚𝙩𝙚 𝘾𝙤𝙪𝙧𝙨𝙚 𝙞𝙣 𝙐𝙧𝙙𝙪\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1smLPWyOtxpPASpBKU2P62D\n𝘿𝙧𝙤𝙥-𝙎𝙝𝙞𝙥𝙥𝙞𝙣𝙜 𝙂𝙪𝙞𝙙𝙚 𝙁𝙤𝙧 𝘽𝙚𝙜𝙞𝙣𝙣𝙚𝙧'𝙨\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1s4f8knDsLT4M9qjBP5v0k-\n𝙒𝙞𝙨𝙚 𝙈𝙖𝙧𝙠𝙚𝙩 𝙋𝙖𝙠𝙞𝙨𝙩𝙖𝙣 𝘾𝙤𝙢𝙥𝙡𝙚𝙩𝙚 𝘾𝙤𝙪𝙧𝙨𝙚\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1vqDltu47AyklpHv3wkga5z\n𝙋𝙧𝙤𝙛𝙞𝙩𝙖𝙗𝙡𝙚 𝙀-𝘾𝙤𝙢𝙢𝙚𝙧𝙘𝙚 𝘽𝙪𝙨𝙞𝙣𝙚𝙨𝙨 𝙄𝙙𝙚𝙖𝙨 2025\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1v2YKC9w_2KPe_-2Z97Cglj\nSourcing Products from China via Alibaba.com - Complete Course in Urdu\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1slCgvMBSW0abDaXRURMFf0\nShopify Best Apps 2025 | Boost Sales & Optimize Your Store\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1t_R8M7z54Lri1Yz9jJPBDB\nFuture in-Demand Skills RoadMaps\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1uGkcI0L7V5-4YBCMj-CJA9\nDaraz Seller Course in Urdu 2025\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1vtz1TawyYxj-7ZJv7iPyH8\nFree Sales Course 2025 By Zain Entrepreneur\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1tdGVkF3i9jcPf6RbYkJXkg\nn8n AI Agent Beginner Projects\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1sxBqQTi9o7ti7Q0k0cqI5B\nSQL Tutorial in Urdu\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1sAojxJtl-vJwqwGmyo_XyA\nPrompt Engineering Course for Beginners - Urdu\nhttps://www.youtube.com/playlist?list=PLFB9sd9Alm1txs5-0SBThvr8IgqVo4sXJ\n------------------------------------------------------------\n𝗙𝗼𝗹𝗹𝗼𝘄 𝗨𝘀:\n\nInstagram:  https://www.instagram.com/zainentrepreneur_/\nFacebook:   https://www.facebook.com/Muahmmadzain01/\nTikTok:         https://www.tiktok.com/@zainentrepreneur\nLinked in:     https://www.linkedin.com/in/muhammad-zain09/\n\n-----------------------------------------------------------------------\n\n📌 TIMESTAMPS:\n00:00:00 Introduction\n00:01:20 Gumloop Introduction\n00:02:14 Create Account First\n00:03:07 Quick Tour Of Dashboard\n00:04:01 Let's Build Our First AI Agent\n\n#Gumloop\n#GumloopAI\n#AIAgent\n#AIAgents\n#NoCode\n#NoCodeAI\n#AITutorial\n#Automation\n#AIAutomation\n#PromptEngineering\n#ClaudeAI\n#ArtificialIntelligence\n#UrduTutorial\n#TechUrdu\n#ZainEntrepreneur",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "ii41ej2t3n8": {
+      "checkedAt": "2026-07-30T13:53:49Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Try HeyTuya AI Coding here: https://tryit.cc/eaEnJ\n\n🎁 Exclusive Redemption Code: KCAWQYRWB76HKAAFV\n\n(This code is available for the first 50 redemptions, so be sure to claim it while it's still valid!)\n\nWhat if you could build a complete web application just by describing your idea in plain English?\n\nIn this video, I test HeyTuya AI Coding, a brand-new AI-powered development platform inspired by the latest Vibe Coding trend. Instead of writing code from scratch, I simply describe my idea in natural language, and the AI generates a complete Smart Office Energy & Device Management web application.\n\nWatch as I build a modern Smart Office platform featuring:\n✅ Smart Office Dashboard\n✅ Smart Device Controls\n✅ Live Energy Monitoring\n✅ Office Automation Rules\n✅ Notifications & Alerts\n✅ Settings & Preferences\n✅ One-Click Preview & Deployment\n\nTo further test its capabilities, I also create a Sales & Marketing Analytics Dashboard, showing how Tuya AI Coding can build professional business applications beyond smart office and IoT use cases.\n\nWhether you're a developer, creator, startup founder, or someone with no coding experience, Tuya AI Coding makes it easy to turn your ideas into real applications using natural language.\n\nHeyTuya AI Coding: https://coding.tuyasmart.com\n\n📲 Download the HeyTuya App:\nAndroid: https://play.google.com/store/apps/details?id=com.tuya.smart\niOS: https://apps.apple.com/app/tuya-smart-life-smart-living/id1034649547\n\n#HeyTuya #TuyaAICoding #AICoding #VibeCoding #AIAppBuilder #NoCode #SmartOffice #IoT\n\n\n\n📩 For business & collaboration inquiries: info@proaiincome.com\n\nIf you found this video helpful, make sure to subscribe for more content on AI tools, digital marketing, and content creation strategies! 👉 @Proaiincome\n\n👋 WHO AM I \nI’m Gopal Bhojani (Pro Ai Income), a Digital Marketing Expert, Content Creator, and AI Enthusiast. On this channel, I break down trending AI tools, share powerful marketing hacks, and help creators like you stay ahead of the curve. Whether you're building your brand or boosting productivity, I’ve got you covered.\n\n🌐 CONNECT WITH ME \nEmail: info@proaiincome.com\nTelegram: https://t.me/proaiincome\n\nDisclaimer:\nAs per YouTube’s community guidelines this video is for educational and informational purposes only. I share my personal experience with AI tools, online business, and content creation. I do not guarantee any earnings or results. Any examples mentioned are for illustrative purposes only, and actual results may vary based on individual effort, skills, and market conditions. Viewers are advised to do their own research before making any decisions.",
+      "commentCount": 0,
+      "likeCount": 5,
+      "probeClient": "web_embedded"
+    },
+    "kJeDSIJgrqA": {
+      "checkedAt": "2026-07-30T13:53:49Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This video is a complete introduction to Google Workspace workflow automation — what it is, how it works, and how to build your first workflow using Zenphi, a no-code automation platform built natively for Google Workspace. By the end of the video you'll understand how to connect Google Forms, Gmail, Google Drive, Google Docs, Google Sheets, Google Calendar, and Google Directory into automated processes that run without manual intervention.\n\nWho this is for: Anyone using Google Workspace — IT administrators, HR teams, finance and operations managers, and business users — who wants to automate repetitive processes without writing Apps Script or relying on tools that don't natively support the Google Workspace Admin API.\n\nWhat is Google Workspace workflow automation?\n\nGoogle Workspace workflow automation is the process of connecting Google Workspace applications — Gmail, Google Drive, Google Docs, Google Sheets, Google Forms, Google Calendar, Google Directory, and Google Admin — into structured, automated processes that execute without manual steps. A workflow is triggered by an event (a form submission, a scheduled time, an incoming email, a Workspace admin event, or a manual run), executes a sequence of actions across Google Workspace and connected tools, applies conditional logic to branch based on data, loops through lists of items, and pauses for human approval when a decision is required.\n\nExamples of Google Workspace workflow automation include: automatically generating a Google Doc from a template when a Google Form is submitted; routing an access request through a manager approval and provisioning the result in Google Directory; sending a Gmail notification when a Google Sheet row is updated; auditing 2-Step Verification compliance across all Workspace users on a schedule; and onboarding a new employee by creating their Workspace account, ordering IT equipment, scheduling a Google Calendar induction event, and sending a welcome email — all triggered by a single form submission.\n\nWhat's covered in this video:\n\n00:00 — What Google Workspace workflow automation is and who it's for\n00:56 — What Google workflows can automate\n01:07 — triggers available in Google Workspace (Forms, File being added to Drive, Gmail, Calendar event, Schedule, Admin events, manual)\n01:40 — No-code actions to automate Google workflows (as drag-and-drop building blocks)\n02:16 — The five building blocks of any Google Workspace workflow: trigger, action, condition, loop, and approval task\n03:20 — Building a workflow live: Google Form submission → Google Directory lookup → PDF generated from a Google Docs template  → Google Drive filing → Gmail notification\n05:48 — Using ZAIA, Zenphi's AI workflow builder, to generate workflows from plain language descriptions\n06:19 — Google Workspace automation use cases by team: IT operations, HR, finance, and shared inbox triage\n07:43 — How to get started with Google Workspace workflow automation\n\nGoogle Workspace workflow automation vs. Zapier\n\nZapier is a general-purpose automation tool that supports Google Workspace integrations. For simple, low-volume workflows involving Gmail, Google Sheets, and Google Drive, it works well. However, it has two specific limitations for Google Workspace automation at the IT and operations level: its Google Workspace Admin API coverage is shallow (user provisioning, OU assignment, group management, and licence management are not available as native actions), and its per-task pricing becomes unpredictable at the volumes that IT operations workflows typically generate.\n\nZenphi is built specifically for Google Workspace, with native access to the full Admin API, built-in human approval steps with SLA management, flat operations-based pricing, and governance features including audit logging and role-based access controls.\n\nCommon questions this video answers:\n\nHow do I automate Google Workspace workflows without coding?\nWhat is Google Workspace workflow automation?\nHow do I build a no-code workflow in Google Workspace?\nWhat is the best Google Workspace automation tool?\nHow do I automate Google Forms in Google Workspace?\nHow do I automate Google Docs template population in Google Workspace?\nHow do I trigger a workflow from a Google Form submission?",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "ZH9E1KZZ9Fs": {
+      "checkedAt": "2026-07-30T13:53:49Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Zapier AI Bangla Tutorial | Complete Automation Guide for Beginners | No Coding Needed\n\n🚀 Zapier AI Bangla Tutorial-এ আপনাকে স্বাগতম!\n\nএই ভিডিওতে আপনি শিখবেন কীভাবে Zapier AI ব্যবহার করে কোনো কোডিং ছাড়াই বিভিন্ন অ্যাপ ও AI টুলকে একসাথে সংযুক্ত করে কাজ অটোমেট করতে হয়।\n\n📌 এই ভিডিওতে যা শিখবেন:\n\nZapier AI কী?\nZapier Account তৈরি করার নিয়ম\nZap (Automation) কীভাবে তৈরি করবেন\nAI দিয়ে Workflow Automation\nGmail, Google Sheets, Slack, Notion, ChatGPT ও আরও অনেক App Connect করা\nTrigger & Action কী?\nAI Automation Examples\nBusiness, Freelancer & Digital Marketer-এর জন্য ব্যবহার\nTime Saving Automation Tips\nBest Practices\n\nএই ভিডিওটি Beginner থেকে Advanced সকলের জন্য উপযোগী।\n\n👍 ভিডিওটি ভালো লাগলে Like, Comment, Share করুন এবং নতুন AI Tutorial পেতে Channel টি Subscribe করুন।\n\n#Zapier #ZapierAI #Automation #AITools #BanglaTutorial #WorkflowAutomation #NoCode #Productivity #ChatGPT #DigitalMarketing #Bangla\n\n\nAI (Artificial Intelligence) Bangla Tutorial\n\nhttps://www.youtube.com/playlist?list=PL4VOoTrRfWbsB7ZIgin3jVnhW5GYaaqzy\n\nJoin Fourthwall: https://link.fourthwall.com/join/jk-update-technology\n\nFourthwall Shop: https://jk-update-technology-shop.fourthwall.com\n\nAffiliate Program Backit - http://ali.pub/4g8u9p\n\nAffiliate Business Links:-\n\nFB Page - https://www.facebook.com/jkonlineshop3\n\nFB Page - https://www.facebook.com/usahbtips      \n\nFB Group - https://www.facebook.com/groups/jkamworldwide \n\nFB Group - https://www.facebook.com/groups/usahealthbeauty1 \n\nFB Group - https://www.facebook.com/groups/usahealthbeauty  \n\nMy Daughter Youtube Channel - Icche BD\n\nhttps://www.youtube.com/c/IccheBD\n\nOther Channel Link (AI English Content) - JK Health & Beauty   \n\nhttps://www.youtube.com/@jkhealthbeauty",
+      "commentCount": 2,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "f2VpsC4aV5E": {
+      "checkedAt": "2026-07-30T13:53:49Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn how to build a powerful AI workflow using n8n in just a few steps! In this quick tutorial, you’ll see how to automate tasks, connect tools, and create smart workflows without writing code.\n\nThis video is perfect for beginners who want to get started with AI automation, as well as anyone looking to improve productivity using no-code tools like n8n. Watch till the end to see how you can start building your own AI-powered systems today.\n\n🚀 What you’ll learn:\n\n* How to create an AI workflow in n8n\n* How to automate tasks using AI\n* How to connect tools and trigger workflows\n* Beginner-friendly no-code automation setup\n\nStart building smarter workflows and save hours with automation!\n\n#n8n #AIworkflow #Automation #NoCode #AIAutomation #WorkflowAutomation #TechShorts #Productivity #AItools #AutomationTools\n\n**Keywords:** n8n tutorial, AI workflow, n8n AI automation, build AI workflow n8n, no code automation, n8n beginner tutorial, AI automation tools, workflow automation, automate tasks with AI, n8n guide, AI productivity tools, automation with n8n",
+      "commentCount": 0,
+      "likeCount": 1,
       "probeClient": "web_embedded"
     }
   }
