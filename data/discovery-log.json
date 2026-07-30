@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T02:53:32Z",
+  "updatedAt": "2026-07-30T03:53:42Z",
   "items": [
+    {
+      "id": "HfqryG68YEk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-07-30T03:00:30Z",
+      "firstSeenAt": "2026-07-30T03:53:42Z"
+    },
+    {
+      "id": "zy4nmItGsxY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SiliconANGLE theCUBE",
+      "publishedAt": "2026-07-29T20:53:42Z",
+      "firstSeenAt": "2026-07-30T03:53:42Z"
+    },
+    {
+      "id": "U6uriUH8oiQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Faire",
+      "publishedAt": "2026-07-29T20:53:42Z",
+      "firstSeenAt": "2026-07-30T03:53:42Z"
+    },
+    {
+      "id": "U2p01LVC5Oo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Beyond Coding",
+      "publishedAt": "2026-07-29T12:53:42Z",
+      "firstSeenAt": "2026-07-30T03:53:42Z"
+    },
+    {
+      "id": "wcRR5P0S2Us",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Chris Titus Tech",
+      "publishedAt": "2026-07-29T11:53:42Z",
+      "firstSeenAt": "2026-07-30T03:53:42Z"
+    },
     {
       "id": "j5mrzbzYCqE",
       "type": "short",
@@ -5317,6 +5357,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-07-30T03:53:42Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 23,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
