@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T07:53:15Z",
+  "updatedAt": "2026-07-30T08:53:23Z",
   "items": [
+    {
+      "id": "vYgnAWX46Tc",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-07-30T08:19:41Z",
+      "firstSeenAt": "2026-07-30T08:53:23Z"
+    },
+    {
+      "id": "EHECaR5DMuY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "M Tanveer Nandla",
+      "publishedAt": "2026-07-30T07:53:23Z",
+      "firstSeenAt": "2026-07-30T08:53:23Z"
+    },
+    {
+      "id": "eWB3Ba0o-1o",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Jo Show",
+      "publishedAt": "2026-07-30T05:53:23Z",
+      "firstSeenAt": "2026-07-30T08:53:23Z"
+    },
+    {
+      "id": "H0klOzjFxCg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Alex Andreessen",
+      "publishedAt": "2026-07-29T17:53:23Z",
+      "firstSeenAt": "2026-07-30T08:53:23Z"
+    },
+    {
+      "id": "M0qIbZMS4Ms",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stan Ventures",
+      "publishedAt": "2026-07-29T17:53:23Z",
+      "firstSeenAt": "2026-07-30T08:53:23Z"
+    },
+    {
+      "id": "iOwKylW8c5Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Higgsfield AI",
+      "publishedAt": "2026-07-29T16:53:23Z",
+      "firstSeenAt": "2026-07-30T08:53:23Z"
+    },
     {
       "id": "G1AcVqBZZ4s",
       "type": "long",
@@ -5514,6 +5562,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-07-30T08:53:23Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
