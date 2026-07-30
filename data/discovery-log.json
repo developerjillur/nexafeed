@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T13:53:49Z",
+  "updatedAt": "2026-07-30T14:53:06Z",
   "items": [
+    {
+      "id": "xjzkgjq9XnM",
+      "type": "long",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-07-30T14:42:17Z",
+      "firstSeenAt": "2026-07-30T14:53:06Z"
+    },
+    {
+      "id": "f_iA2NtIxBU",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Cursor",
+      "publishedAt": "2026-07-29T23:53:06Z",
+      "firstSeenAt": "2026-07-30T14:53:06Z"
+    },
+    {
+      "id": "G0N9yxVHT38",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NeetCode",
+      "publishedAt": "2026-07-29T22:53:06Z",
+      "firstSeenAt": "2026-07-30T14:53:06Z"
+    },
     {
       "id": "hKdQzacGG4M",
       "type": "short",
@@ -5816,6 +5840,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-07-30T14:53:06Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
