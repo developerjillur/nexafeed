@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T08:53:23Z",
+  "updatedAt": "2026-07-30T09:53:31Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -2167,13 +2167,16 @@
       "probeClient": "web_embedded"
     },
     "tY8W-kLG5do": {
-      "checkedAt": "2026-07-27T07:46:18Z",
+      "checkedAt": "2026-07-30T09:53:31Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Here are the prompts ⬇️\n\nUltra-realistic vertical 9:16 smartphone photo of a massive nighttime drone show over a calm ocean, filmed from a crowded waterfront promenade. Realistic handheld mobile look with HDR, slight micro-shake, autofocus breathing, rolling shutter, and light compression artifacts.\n\nThousands of individually visible LED drones form:\n\n* A giant Portugal flag at the top.\n* Centered glowing text: “THANK YOU, RONALDO” below the flag.\n* A large 3D Cristiano Ronaldo drone sculpture beneath the text, wearing Portugal’s No. 7 kit with captain’s armband, standing with one foot on a perfectly spherical football. The sculpture is built entirely from evenly spaced drones with realistic depth and subtle synchronized brightness.\n\nBackground features illuminated coastline, calm ocean reflections, light sea mist, and silhouettes of spectators filming with smartphones. Epic negative space, ultra-photorealistic synchronized drone engineering, indistinguishable from a real viral drone show.\n\n⸻\n\nVideo Prompt\n\nUltra-realistic handheld iPhone footage (9:16) of a real synchronized drone show above a waterfront at night. Thousands of physical LED drones move with authentic swarm physics, smooth flight, collision avoidance, realistic smartphone shake, HDR, autofocus breathing, atmospheric haze, ocean reflections, and cheering spectators.\n\n0:00–0:03: Drones assemble into a giant 3D Cristiano Ronaldo wearing Portugal’s No. 7 kit with one foot on a football.\n\n0:03–0:07: The drone sculpture performs Ronaldo’s iconic “Siuuu” celebration through coordinated drone movement while maintaining perfect spacing.\n\n0:07–0:10: More drones form a giant Portugal flag above and the glowing message “THANK YOU, RONALDO.” Camera slowly pulls back to reveal the entire tribute reflected on the ocean as the crowd cheers and records.",
       "commentCount": 0,
       "likeCount": 34,
-      "probeClient": "web_embedded"
+      "probeClient": "web_embedded",
+      "comments": [],
+      "commentsFetchedAt": "2026-07-30T09:53:31Z",
+      "commentsStatus": "cached"
     },
     "0a2SY8L6L7o": {
       "checkedAt": "2026-07-27T07:46:18Z",
@@ -2425,15 +2428,6 @@
       "description": "In this tutorial we will be seeing how to quickly create product ads using Seedance 2.0. This will be done with the help of the Product Adaptive Ad Prompt Generator skill in Claude, which has been created for you can be downloaded using the link below.\n\nImportant Links:\n\nSeedance 2.0 Adaptive Product Ad Claude Skill - https://drive.google.com/file/d/1sPwyWcJX2hq62YIez22qG6GTKlx-bhAj/view?usp=sharing\n\nHiggsfield - https://higgsfield.ai/?fpr=kush87\n\nOur premium online courses - https://www.creativepadmedia.com/online-courses\n\nAffiliate Disclosure - Some of the links above may be affiliate links. If you subscribe to or purchase the product using those links, we may earn a small commission.",
       "commentCount": 1,
       "likeCount": 91,
-      "probeClient": "web_embedded"
-    },
-    "xs3kDA_Wf84": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 1,
-      "likeCount": 11,
       "probeClient": "web_embedded"
     },
     "gqMOihhzTHw": {
@@ -5506,7 +5500,7 @@
       "probeClient": "web_embedded"
     },
     "F86ovkAsu0I": {
-      "checkedAt": "2026-07-30T08:53:23Z",
+      "checkedAt": "2026-07-30T09:53:31Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5611,14 +5605,45 @@
       "probeClient": "web_embedded"
     },
     "yDdh1oZIlog": {
-      "checkedAt": "2026-07-29T09:53:09Z",
+      "checkedAt": "2026-07-30T09:53:31Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-29T09:53:09Z",
+      "description": "Paying monthly for a web scraper stopped making sense the day Claude learned to do it.\n\nOne free skill on GitHub turns Claude Code into a full scraping setup. Describe the list you want, get back a clean sheet of leads. The site changes its layout? It keeps working anyway.\n\nComment “SCRAPE” and I’ll send the GitHub link to your DMs 🚀",
+      "commentCount": 3,
+      "likeCount": 43,
+      "comments": [
+        {
+          "id": "UgwP-3XjrGpWDPN8pCt4AaABAg",
+          "author": "@TheVarun08",
+          "text": "Scrape",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T09:16:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m4jg1sf_og_kQutviVOQ5KP9BZveTnViE6vBMuTAg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwzezyHsGfAOOsMo7l4AaABAg",
+          "author": "@ArunkumarB73",
+          "text": "Scrape",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_neao-Kwb--S-n2VdnaBAxK5Tm-XeL6oNJH-UQKo1ntnmYj=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyeQHPbuFwAJGxaSxh4AaABAg",
+          "author": "@AshishGupta-td5fv",
+          "text": "Scrape",
+          "likeCount": 0,
+          "publishedAt": "2026-07-29T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kdBCFoJRuhLrWXFDK5oD8fNHykVULUikHDdwISPpY=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-30T09:53:31Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5850,15 +5875,6 @@
       ],
       "commentsFetchedAt": "2026-07-29T14:53:13Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "VjcPbrxkRJ4": {
-      "checkedAt": "2026-07-29T14:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "ProAI – Professional Applied AI & Automation Program\n\nMissed our FREE Trial Class? No problem!\n\nWatch the complete recording and experience how our live instructor-led sessions are conducted before enrolling in the full program.\n\nThis trial class covers the fundamentals of Generative AI and Business AI, introduces practical workplace applications of AI, and demonstrates how professionals can leverage AI tools to improve productivity—without any coding experience.\n\n📚 What You'll Learn\n\n✅ What is Generative AI?\n✅ Traditional Software vs Generative AI\n✅ Business AI vs Data Science\n✅ Real-world AI Applications\n✅ AI Capabilities & Limitations\n✅ AI Risks & Human Oversight\n✅ Identifying AI Opportunities in Your Work\n✅ Overview of the Complete ProAI Program\n\nAbout the ProAI Program\n\nProAI is a practical, hands-on AI training program designed for students, graduates, and professionals who want to use Artificial Intelligence to improve workplace productivity and automate business processes.\n\nUnlike traditional AI courses, ProAI focuses on applying AI in real business environments using modern AI tools—without requiring programming or data science expertise.\n\n👨‍💼 Who Should Join?\n\n✔ Business Professionals\n✔ HR Professionals\n✔ Marketing Professionals\n✔ Sales Professionals\n✔ Operations Teams\n✔ Entrepreneurs\n✔ Fresh Graduates\n✔ Final-Year Students\n✔ Anyone interested in AI & Automation\n\n📅 Upcoming Batch\n\nStart Date: 10th August 2026\nDuration: 8 Weeks\nMode: Live Online Instructor-Led\nSchedule: 2 Sessions per Week\nSession Duration: 3 Hours\n\nIncludes\n\n✅ Live Interactive Classes\n✅ Hands-on Practical Exercises\n✅ AI Tools & Workflow Automation\n✅ Capstone Project\n✅ Certificate of Completion\n\n📝 Register Here\n\n👉 ProAI Registration Form\nhttps://forms.gle/WFmqN1KvsgBcU2vr5\n\nSeats are limited and admissions are offered on a first-come, first-served basis.\n\n📞 Contact Us\n\n📧 info@knowledge.tech\n📱 0327-7777001\n📱 0327-7777272\n📱 0327-7777002\n\n🌐 Knowledge Streams – Training Division of TMC Pvt. Ltd.\n\n🌟 Why Learn with Knowledge Streams?\n\nKnowledge Streams is the Training Division of TMC Pvt. Ltd., Pakistan's leading Digital Transformation company, delivering industry-focused training in ERP, Artificial Intelligence, Data Science, and Digital Technologies.\n\nOur programs emphasize practical, real-world skills that help participants become job-ready and future-ready.\n\nThis recording is shared for educational and informational purposes only.\n\nThe content is the intellectual property of Knowledge Streams and TMC Pvt. Ltd. Unauthorized copying, redistribution, reproduction, or commercial use of this recording, in whole or in part, without prior written permission is strictly prohibited.\n\nThe AI tools, platforms, features, and examples demonstrated in this session are subject to updates and changes by their respective providers. Participants should always verify information and use appropriate human judgment when applying AI-generated outputs in professional or business environments.",
-      "commentCount": 1,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "Nj-PqFIZqEs": {
@@ -6166,24 +6182,6 @@
       "likeCount": 30,
       "probeClient": "web_embedded"
     },
-    "5BINL4oJz8I": {
-      "checkedAt": "2026-07-29T17:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "The artificial intelligence industry faces internal pressure as developers at top technology companies caution that accelerating AI development is risky, emphasizing that the industry must pace itself and develop oversight. CBS News' Jo Ling Kent reports.\n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.\n\nSubscribe to the CBS News YouTube channel: https://youtube.com/cbsnews\nWatch CBS News 24/7: https://cbsnews.com/live/\nDownload the CBS News app: https://cbsnews.com/mobile/\nFollow CBS News on Instagram: https://instagram.com/cbsnews/\nLike CBS News on Facebook: https://facebook.com/cbsnews\nFollow CBS News on X: https://twitter.com/cbsnews\nSubscribe to our newsletters: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com",
-      "commentCount": 4,
-      "likeCount": 20,
-      "probeClient": "web_embedded"
-    },
-    "t3YMNLFYPCs": {
-      "checkedAt": "2026-07-29T17:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Nearly 1,200 AI workers signed a letter on Tuesday, asking the U.S. government to slow down the development of the technology. Jo Ling Kent has more.\n\nEach weekday morning, \"CBS Mornings\" co-hosts Gayle King and Nate Burleson bring you the latest breaking news, smart conversation and in-depth feature reporting. \"CBS Mornings\" airs weekdays at 7 a.m. on CBS and stream it at 8 a.m. ET on the CBS News app.\n\nSubscribe to \"CBS Mornings\" on YouTube: https://youtube.com/CBSMornings \nWatch CBS News 24/7: https://cbsnews.com/live/\nDownload the CBS News app: https://cbsnews.com/mobile/\nFollow \"CBS Mornings\" on Instagram: https://instagram.com/cbsmornings/\nLike \"CBS Mornings\" on Facebook: https://facebook.com/CBSMornings\nFollow \"CBS Mornings\" on X: https://twitter.com/CBSMornings\nSubscribe to our newsletter: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com",
-      "commentCount": 8,
-      "likeCount": 71,
-      "probeClient": "web_embedded"
-    },
     "zjFFEMIbe7E": {
       "checkedAt": "2026-07-29T18:53:16Z",
       "embedAllowed": true,
@@ -6457,15 +6455,6 @@
       "likeCount": 876,
       "probeClient": "web_embedded"
     },
-    "07-zkX7bizA": {
-      "checkedAt": "2026-07-30T04:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "For nearly two years, companies believed AI would replace workers and reduce hiring. But now, many of the biggest AI adopters are hiring again. Why has the AI hiring narrative changed? Watch to find out why companies are bringing back talent, what AI still can't replace, and what it means for jobs in the future.\n\n#ai  #artificialintelligence  #jobs  #hiring  #technology  #business  \n\nImportant Playlists \nNational News: https://www.youtube.com/playlist?list=PLK5e1a2965YXb9Oh62yur4MRCdRLL6gCt\n\nBusiness News: https://www.youtube.com/playlist?list=PLK5e1a2965YVXM88oXiuA1JMLZtODGP1y\n\nWorld News: https://www.youtube.com/playlist?list=PLK5e1a2965YW0Swy6-R3i50F5FbtDRiEe\n\nBS Decoded: https://www.youtube.com/playlist?list=PLK5e1a2965YWYuC7DEL8Lxl-rhiElowEE\n\nWant access to Business Standard’s premium insights? Join our exclusive LinkedIn communities and connect with top voices in the BFSI space—on topics that matter to you!\n\nBFSI Circle – https://www.linkedin.com/groups/9867761/\nBusiness Standard Reader's Group – https://www.linkedin.com/groups/5013698/\n\nHello viewers! Guess what? We're now on WhatsApp Channels! Dive into real-time news updates, insights, and much more. Follow us: https://whatsapp.com/channel/0029Va6cbsSDuMRmPCIgXS2t\n\nSubscribe to BS Hindi YouTube Channel: https://www.youtube.com/@bshindinews\n\nDownload the all-new Business Standard app: \nhttps://bit.ly/App-BS\n\nJoin us:\nhttp://www.facebook.com/bsindia\nhttp://twitter.com/bsindia\nhttps://www.instagram.com/business.standard",
-      "commentCount": 5,
-      "likeCount": 44,
-      "probeClient": "web_embedded"
-    },
     "2mMfaQPd3A4": {
       "checkedAt": "2026-07-30T05:53:43Z",
       "embedAllowed": true,
@@ -6705,6 +6694,39 @@
       "commentCount": 86,
       "likeCount": 1016,
       "probeClient": "web_embedded"
+    },
+    "iIa4x8swDIw": {
+      "checkedAt": "2026-07-30T09:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Discover how Artificial Intelligence is transforming businesses by automating repetitive tasks, improving customer experience, and accelerating growth.\n\nIn this video, you'll learn how AI-powered automation can help businesses:\n✅ Generate more qualified leads\n✅ Automate WhatsApp conversations\n✅ Manage customers with an AI CRM\n✅ Streamline sales and follow-ups\n✅ Improve marketing performance\n✅ Save time and reduce operational costs\n\nAt SkyVision AI, we help businesses leverage AI to automate marketing, sales, customer support, and business operations.\n\nOur Services\n\n✔ AI Business Automation\n✔ WhatsApp Automation\n✔ CRM Setup & Automation\n✔ AI Chatbots\n✔ Website & Landing Page Development\n✔ Meta Ads Management\n✔ Social Media Marketing\n✔ Lead Generation\n✔ Email Marketing\n✔ Performance Marketing\n\nWhether you're an IVF center, healthcare clinic, real estate company, educational institute, restaurant, or growing business, AI can help you scale faster and work smarter.\n\n📞 Book a Free Consultation today!\n\n🌐 Website: https://skyvisionai.in\n📧 Email: founder@skyvisionai.in\n\n👍 Don't Forget To:\n\n✅ Like the video\n✅ Subscribe to SkyVision AI\n✅ Share with business owners who want to grow using AI\n\nHashtags\n\n#AI #ArtificialIntelligence #BusinessAutomation #SkyVisionAI #WhatsAppAutomation #CRM #DigitalMarketing #LeadGeneration #AIChatbot #MarketingAutomation #MetaAds #BusinessGrowth #Automation #SmallBusiness #FutureOfBusiness",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "ULRPWWbpTvw": {
+      "checkedAt": "2026-07-30T09:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Join our Free AI Tools and Digital Marketing Online Class(9052081947) and learn the latest strategies in SEO, social media marketing, email campaigns, and more! Master digital tools and grow your business or career from the comfort of your home. Enroll now!\n We Covered topics is\nSEO\nSMO\nSMM\nMeta Ads\nGoogleads\nwww.srishadigital.in\nFree Digital marketing Online training",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "no6X_S_8N2M": {
+      "checkedAt": "2026-07-30T09:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "✅ Connect on Instagram - \nhttps://www.instagram.com/tarunklien\n\n\n✅ Network Marketing Automation Workshop - \nhttps://www.instagram.com/autows\n\n\nWhat if you could generate your first 100 leads in Network Marketing without chasing friends, cold messaging strangers, or spending hours convincing people?\n\nIn this video, I break down the exact strategy that can help you consistently attract qualified prospects using simple digital systems. Whether you're just getting started or struggling to find people to talk to, this training will help you build a predictable lead generation process.\n\nIn this video you'll learn:\n✅ How to get your first 100 leads from scratch\n✅ Why most network marketers fail at lead generation\n✅ The difference between chasing people and attracting people\n✅ The simple system I use to generate leads consistently\n✅ Common mistakes that keep your pipeline empty\n✅ How to build a business that grows every day\n\nIf you're serious about building a long-term Network Marketing business, this video can save you months of trial and error.\n\n👇 Let me know in the comments:\nHow many leads are you currently generating every month?\n\nIf you found this video valuable:\n👍 Like the video\n💬 Comment your biggest takeaway\n🔔 Subscribe for more videos on Network Marketing, Lead Generation, Personal Branding, AI, Automation, and Digital Business.\n\n#networkmarketing #leads",
+      "commentCount": 1,
+      "likeCount": 37,
+      "probeClient": "web_embedded"
+    },
+    "kAHQpMvCYwo": {
+      "checkedAt": "2026-07-30T09:53:31Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
     }
   }
 }

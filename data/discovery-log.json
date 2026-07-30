@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-30T08:53:23Z",
+  "updatedAt": "2026-07-30T09:53:31Z",
   "items": [
+    {
+      "id": "iIa4x8swDIw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sky Vision AI",
+      "publishedAt": "2026-07-30T06:53:31Z",
+      "firstSeenAt": "2026-07-30T09:53:31Z"
+    },
+    {
+      "id": "ULRPWWbpTvw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sri Digital Marketing World",
+      "publishedAt": "2026-07-30T06:53:31Z",
+      "firstSeenAt": "2026-07-30T09:53:31Z"
+    },
+    {
+      "id": "no6X_S_8N2M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tarun Agarwal",
+      "publishedAt": "2026-07-30T06:53:31Z",
+      "firstSeenAt": "2026-07-30T09:53:31Z"
+    },
     {
       "id": "vYgnAWX46Tc",
       "type": "short",
@@ -5571,6 +5595,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-07-30T09:53:31Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
