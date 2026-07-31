@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T08:53:49Z",
+  "updatedAt": "2026-07-31T09:53:50Z",
   "items": [
+    {
+      "id": "xukJ9U3V9_E",
+      "type": "long",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-07-31T09:21:46Z",
+      "firstSeenAt": "2026-07-31T09:53:50Z"
+    },
+    {
+      "id": "CxXgV54KzpQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Y Combinator",
+      "publishedAt": "2026-07-30T21:53:50Z",
+      "firstSeenAt": "2026-07-31T09:53:50Z"
+    },
     {
       "id": "oe2dPC7Oj54",
       "type": "long",
@@ -6571,6 +6587,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-07-31T09:53:50Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
