@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T00:53:44Z",
+  "updatedAt": "2026-07-31T01:53:44Z",
   "items": [
+    {
+      "id": "pcqQ3CtkzZw",
+      "type": "short",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-07-31T01:13:37Z",
+      "firstSeenAt": "2026-07-31T01:53:44Z"
+    },
+    {
+      "id": "7Jn0cL6IcMg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BridgeMind",
+      "publishedAt": "2026-07-30T19:53:44Z",
+      "firstSeenAt": "2026-07-31T01:53:44Z"
+    },
+    {
+      "id": "KLYWjuOqMO8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mikey Website",
+      "publishedAt": "2026-07-30T14:53:44Z",
+      "firstSeenAt": "2026-07-31T01:53:44Z"
+    },
     {
       "id": "9Q6xlJnggqI",
       "type": "short",
@@ -6315,6 +6339,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-07-31T01:53:44Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
