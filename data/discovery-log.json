@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T13:53:33Z",
+  "updatedAt": "2026-07-31T14:53:40Z",
   "items": [
+    {
+      "id": "c_fP7hu9v-8",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-07-31T14:38:06Z",
+      "firstSeenAt": "2026-07-31T14:53:40Z"
+    },
+    {
+      "id": "NVPWYTZZpnI",
+      "type": "long",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-07-31T14:28:02Z",
+      "firstSeenAt": "2026-07-31T14:53:40Z"
+    },
+    {
+      "id": "tG-lfe3gHJ4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Criação Tática",
+      "publishedAt": "2026-07-31T14:00:40Z",
+      "firstSeenAt": "2026-07-31T14:53:40Z"
+    },
+    {
+      "id": "qxeiUkyOdXo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "UiPath",
+      "publishedAt": "2026-07-31T13:53:40Z",
+      "firstSeenAt": "2026-07-31T14:53:40Z"
+    },
+    {
+      "id": "fY2-1cdeTcg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TechManager",
+      "publishedAt": "2026-07-31T05:53:40Z",
+      "firstSeenAt": "2026-07-31T14:53:40Z"
+    },
     {
       "id": "SjCYm7bKFzE",
       "type": "short",
@@ -6784,6 +6824,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-07-31T14:53:40Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }

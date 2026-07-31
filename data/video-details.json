@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T13:53:33Z",
+  "updatedAt": "2026-07-31T14:53:40Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -2182,15 +2182,6 @@
       "description": "Everyone says local AI is free — but is it really? In this video I share my honest experience replacing my Jetson Nano setup with the Beelink SER10 Max, running OpenClaw and Hermes locally with a Qwen 3.5 9B model.\n\nI break down the 7 decisions you need to make before going local, compare local vs cloud speed, and show you exactly how I set up a hybrid system that saves money without sacrificing performance.\n\n00:00 Local Agents Aren’t Free\n01:08 Seven Stack Decisions\n05:07 Where Agents Run\n06:48 Cloud vs Local vs 24/7\n07:42 Picking Local Hardware\n09:03 Choosing the Right Model\n10:49 Find Models with LM Studio\n12:36 LLM Fit Speed Estimates\n13:42 Runtimes Ollama vs Llama.cpp\n14:35 Speed Tokens and Latency\n16:57 Privacy and Hybrid Strategy\n18:01 Hands On Setup Preview\n18:29 Beelink SER10 Max Specs\n19:12 Unboxing the Mini PC\n21:14 Ports and What’s Included\n22:08 OpenClaw Ubuntu Guide\n22:41 Linux First Boot Setup\n23:06 Local Llama CPP Test\n23:51 OpenClaw Onboarding Config\n24:53 Web UI and Local Chat\n25:40 Why You Need Tailscale\n28:04 Install Tailscale on Linux\n30:16 Autostart and SSH Gotchas\n32:22 Tailscale on Mac SSH\n34:58 iPhone SSH via Tailscale\n36:20 Install Hermes Agent\n37:24 Connect Hermes to Local Model\n38:29 Local vs Cloud Speed Test\n42:09 Final Verdict and Tradeoffs\n\n🔗 LINKS MENTIONED\n🖥️ Beelink SER10 Max (affiliate): https://beelink.sjv.io/VONRrk\n🛠️ LM Studio: https://lmstudio.ai\n🔒 Tailscale: https://tailscale.com\n💻 Warp Terminal: https://app.warp.dev/referral/539GR4\n📊 LLM Fit: https://github.com/AlexsJones/llmfit\n📱 Termius (iPhone SSH): https://termius.com/index.html\n🔀 OpenRouter: https://openrouter.ai\n\n🤝 JOIN THE COMMUNITY\nhttps://substack.com/@rumjahn\n\n#localai #OpenClaw #HermesAgent #BeelinkSER10 #AIAutomation",
       "commentCount": 97,
       "likeCount": 1235,
-      "probeClient": "web_embedded"
-    },
-    "IpLvNBo6FKg": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this video, we explained the architecture behind Notion and how to build one by yourself.\n\nZoho Creator: https://www.zoho.com/en-in/creator/\n\nBuilders Central Hub: https://builders-central.vercel.app\n\nComment below with your thoughts on NO CODE & LOW CODE tools!\nLIKE, SHARE, SUBSCRIBE, and don't forget to click on the bell icon to never miss another Update from Builders Central!\n\nFollow Builders Central on Instagram:   https://www.instagram.com/builders.central/\n\n__________________________________\n\nClick here to watch the Low-code video series: \nhttps://zoho.to/Low-code-seriesTo learn how low-code has helped various organisations: \nhttps://zoho.to/Decode-interviews\n\nFollow Zoho Creator on other platforms.\nLinkedIn:  https://www.linkedin.com/showcase/zohocreator/\nTwitter:  https://x.com/zohocreator\nFacebook:   https://www.facebook.com/ZohoCreatorOfficial/\n\n#notion #google #obsidian #kimi #claude #claudecode #frontend #contentcreator #clawdbot #claude #opus #opus4.6 #cursor #zoho #zohocreator #appbuilding #cursor #claude #automation #n8nworkflow #free #development #gemini #bard #chatgpt #openai #bing #v0 #vercel #buildingapps #apps #futureofcoding #coding #jobs #software #development #softwaredevelopment #appwithoutcoding #nocode #lowcode #programming  #techtutorial  #softwaredevelopment  #aitools  #coding  #nocode  #webapp  #BengaluruTraffic #TechTutorial #Startup #TechTools #nocodetools #WebDevelopment  #nocodeai #productivity #business #halucination #mcp #productivity #gpt #ai",
-      "commentCount": 6,
-      "likeCount": 175,
       "probeClient": "web_embedded"
     },
     "66Gk8M3Eh6w": {
@@ -4522,29 +4513,6 @@
       "likeCount": 3,
       "probeClient": "web_embedded"
     },
-    "bK5FKDJEdE4": {
-      "checkedAt": "2026-07-31T05:53:33Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Our Journey From 0 To 1.3 crore Full Video - https://www.youtube.com/watch?v=VLJNNyspsVs\n\nCourse - https://harkaransingh.graphy.com",
-      "commentCount": 1,
-      "likeCount": 21,
-      "comments": [
-        {
-          "id": "Ugz7RaMNFDQdtBWojW14AaABAg",
-          "author": "@P3flims",
-          "text": "Bhai borosa uth gaya. Tum canadian dollar dika rahe ho",
-          "likeCount": 1,
-          "publishedAt": "2026-07-30T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/UxjtuslOJ_SJoOEM8dxOBK9_5sh2gMWyyzZq85-dIsQjpxC96Ut35MYyREKEhx-XIlKMhFdSbw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-31T05:53:33Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "pKMFvQNvwps": {
       "checkedAt": "2026-07-31T05:53:33Z",
       "embedAllowed": true,
@@ -5144,19 +5112,19 @@
       "probeClient": "web_embedded"
     },
     "OXhVBDyBGyk": {
-      "checkedAt": "2026-07-30T13:53:49Z",
+      "checkedAt": "2026-07-31T14:53:40Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 6,
-      "likeCount": 739,
+      "likeCount": 811,
       "comments": [
         {
           "id": "Ugx7ZrWX4IX5NT9lLMZ4AaABAg",
           "author": "@Technotreon",
           "text": "Me explaining my workflow to Claude once: “Okay, you're employed now.” 😂",
           "likeCount": 1,
-          "publishedAt": "2026-07-30T08:00:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/mtUX-s25j_ZGy1lhb8l3e4Myfaw-YWRoiNoSroK8nJ4C6ywNrulzXsYhYSaJIq1P9rmCu8DIeg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5166,7 +5134,7 @@
           "author": "@SanteeRocks",
           "text": "This just replaced half of lame techies from outsourced countries 😂",
           "likeCount": 1,
-          "publishedAt": "2026-07-30T06:00:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/1PzMhJbEdDlpAYKJ5ROgZ-uKbUpNnfLqnwpUlcrNBdxo568yZGerOb0svb6zRxjZ8w8m-yqk1Qc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5176,7 +5144,7 @@
           "author": "@Rishtronaut",
           "text": "They are basically asking us to teach there LLM how things could be done. So they have to spend there money to train everything.",
           "likeCount": 1,
-          "publishedAt": "2026-07-30T04:00:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/2g9OIKZg2uI6zz5IstJmR_zG0eLwLcRxdDqQLYedw_Wr22-FgJYgOgkQh3nXxrZ0DGake4mqhQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5186,7 +5154,7 @@
           "author": "@sauravgupta8297",
           "text": "bg music itna intense kyu bhai ???",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T20:00:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/mkHFkQfljUwp4dcpYG8defsy6SAqMzWLAfybghUjFv62StCN1TCdDp-agYuBXXSt8GbFXy7fL9M=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5196,7 +5164,7 @@
           "author": "@viv5in",
           "text": "Go went gone",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T17:00:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_meNOTiXgBCNksCHUQC_kZLwkVZ1QPoE8nbP3BsOaEaaKo=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5206,30 +5174,30 @@
           "author": "@vV-Original",
           "text": "What is this going on? 😮\nInsane!",
           "likeCount": 2,
-          "publishedAt": "2026-07-29T15:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/bGfEsUYm6B024SvwZVeZTdIGr5yU__0ZhflY5GkJUNGvSmmN-K-HvWuTkkrayxGJD2hGlIsN=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-30T13:53:49Z",
+      "commentsFetchedAt": "2026-07-31T14:53:40Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "-4gD9qJ31js": {
-      "checkedAt": "2026-07-30T13:53:49Z",
+      "checkedAt": "2026-07-31T14:53:40Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "What happens when the former CTO of OpenAI starts her own AI company?\n\nMira Murati has launched Thinking Machines, raised $2 billion, and introduced Inkling an open-source AI model with a very different strategy from OpenAI, Anthropic, and Google.\n\nInstead of chasing benchmark scores alone, Inkling introduces Thinking Effort, allowing developers to adjust the model’s reasoning level based on the task. Faster and cheaper for simple requests, deeper reasoning for complex coding and problem-solving all while reducing token usage.\n\nThe bigger strategy is even more interesting.\n\nInkling is free and open source, while Tinker becomes the commercial platform that helps businesses fine-tune and deploy the model for their own use cases. It’s a classic platform play: give away the model, monetize the ecosystem.\n\nIn this video you’ll learn:\n\n* Who is Mira Murati?\n* What is Thinking Machines?\n* What is Inkling AI?\n* What is Thinking Effort?\n* How Inkling compares to GPT-5 and Gemini\n* The startup strategy behind open-source AI\n* Why this could reshape the AI industry\n\nWhat’s more important to you: the smartest AI, or the most affordable and practical AI? Let us know in the comments.\n\nWhy Subscribe to BPro?\n\nIf you want more than just AI headlines, BPro helps you understand the business, engineering, and strategy behind the biggest AI breakthroughs.\n\nSubscribe for:\n\n* Daily AI news & updates\n* AI startup breakdowns\n* OpenAI, Anthropic, Google & emerging AI companies\n* AI engineering insights\n* Open-source AI tools\n* GitHub repositories worth using\n* AI coding workflows\n* Startup strategy & SaaS analysis\n* The future of AI explained simply\n\nStay ahead of the AI industry instead of just reacting to it.\n\nSubscribe to bpro for practical AI insights that matter.",
       "commentCount": 3,
-      "likeCount": 49,
+      "likeCount": 55,
       "comments": [
         {
           "id": "Ugw8PVQ1MCIdjbYUs8l4AaABAg",
           "author": "@motivation_SR7-S",
           "text": "Full video",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T13:22:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Gcx600GATakUTLFMPXjvn46SqQ-YUVKAaaGD5Q-D4DR2xwcpfqOYj55-FV03itgS7tC7B3bv=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5239,7 +5207,7 @@
           "author": "@motivation_SR7-S",
           "text": "Is ke uper full video banao DIDI",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T13:22:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Gcx600GATakUTLFMPXjvn46SqQ-YUVKAaaGD5Q-D4DR2xwcpfqOYj55-FV03itgS7tC7B3bv=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5249,13 +5217,13 @@
           "author": "@TheAurumVision7",
           "text": "Place Link 🙏🌹",
           "likeCount": 1,
-          "publishedAt": "2026-07-29T19:00:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/rR8horT2Q7yczC_0KQQxZFrbouD9Fnv83MJ6su0aT-UNQtnAO5YComFPKgYpLAZengtFxbwZQw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-30T13:53:49Z",
+      "commentsFetchedAt": "2026-07-31T14:53:40Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6232,7 +6200,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-31T13:53:33Z",
+      "checkedAt": "2026-07-31T14:53:40Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6331,37 +6299,47 @@
       "probeClient": "web_embedded"
     },
     "HVQB-b8Z9zI": {
-      "checkedAt": "2026-07-30T13:53:49Z",
+      "checkedAt": "2026-07-31T14:53:40Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Your AI agent calling a tool before it's ready? Finishing the same task twice? Looping forever? Those aren't three separate bugs — they're one: your agent doesn't know what it's allowed to do in the state it's in.\n\nThe fix is four lines of a plain switch statement — a pattern called a state machine that's been around for decades. You list your agent's states, write one function that returns the next state, and ignore any move that isn't allowed. Illegal moves stop being bugs you chase and become things that literally can't happen. No framework required.\n\n→ Line 1: list your states (idle, thinking, calling a tool, done)\n→ Line 2: one function — (state, event) → next state, a plain switch\n→ Line 3: if a move isn't on the board, ignore it — impossible states can't happen\n→ Handles retry, backtrack, loop-until-verified in any language, no library\n→ When it gets complex, XState (free, open source) draws + runs the graph for you\n\nLinks:\n• Copy-paste starter + how it works: https://github.com/sunchitanand/ai-builder-resources/blob/main/state.md\n• XState (free, open source): https://stately.ai/docs/xstate\n• Build state machines visually: https://state.new\n\nComment \"STATE\" and I'll send you the copy-paste starter.\nWhat's the dumbest thing your AI agent did before you locked it down?\n\n#AI #aiagents #statemachine #xstate #coding #softwareengineering #agents #devtools #programming #buildinpublic\n\n#Shorts",
       "commentCount": 0,
-      "likeCount": 0,
+      "likeCount": 2,
       "comments": [],
-      "commentsFetchedAt": "2026-07-30T13:53:49Z",
+      "commentsFetchedAt": "2026-07-31T14:53:40Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "hKdQzacGG4M": {
-      "checkedAt": "2026-07-30T13:53:49Z",
+      "checkedAt": "2026-07-31T14:53:40Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Every AI-built website has the same tell. \n\nPurple hero gradient, purple buttons, that weird glowing text. \n\nThe em dash of web design. \n\nReplit Design is the first tool that pushed back with actual taste. It actually understands what looks good, not just code.\n\nMy pages come out matching the brand, and the purple is gone for good. \n\nComment \"design\" and I'll send the link straight to your DMs 🔥\n\n#replitpartner #replitdesign",
-      "commentCount": 1,
-      "likeCount": 1,
+      "commentCount": 2,
+      "likeCount": 11,
       "comments": [
+        {
+          "id": "UgzwksnqHOhz22knGq14AaABAg",
+          "author": "@Muhammad-s3h6f",
+          "text": "\"Hi Manthan, I emailed you regarding my AI Inner Circle trial issue. Could you please check when you have a moment?\"",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m-wvAwKyNneCMdoErnw329VPrjfATdBmyawkiFTmB0Tmcb0mbPWFH98RzurWL1m0u29A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugy6Otf8kqEU9pqKU254AaABAg",
           "author": "@LeadGenMan",
           "text": "Comment \"design\" and I'll send the link straight to your DMs 🔥",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T13:35:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/oLOTt3Y_fFosmPsd1v-474Eu60nuWBEiDlm0UhrYDQo-klwkLCwLiZSv5EWEUd3ao_3TXcY0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": true
         }
       ],
-      "commentsFetchedAt": "2026-07-30T13:53:49Z",
+      "commentsFetchedAt": "2026-07-31T14:53:40Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6517,15 +6495,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "nAc-pn4rsgU": {
-      "checkedAt": "2026-07-30T21:53:33Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "𝐀𝐬𝐬𝐚𝐥𝐚𝐦 𝐨 𝐀𝐥𝐞𝐤𝐮𝐦!\n\nHow to Use Claude Projects for Beginners in 2026 (Full Tutorial)  اردو / हिंदी\n━━━━━━━━━━━━━━━\n\n⭐ BuildUp: Pakistan's 1st AI Enabled Business Community\n\nBecome an AI Marketing Expert:\n\n✅ AI Marketing\n✅ AI Automations\n✅ Personal Branding\n\nSpecially designed for freelancers and small businesses.\n\n🔥 LIFETIME ACCESS — 60% OFF\n👉 https://swiy.co/buildup\n――――――――――――――――――――――――――――――\n\n𝐖𝐡𝐚𝐭 𝐘𝐨𝐮 𝐖𝐢𝐥𝐥 𝐋𝐞𝐚𝐫𝐧:\n\n✅Train Claude AI Skills to generate consistent, high-quality outputs instead of repeating prompts.\n✅Build Reusable AI Workflows for content creation, scripting, and business tasks.\n✅Master Prompt Engineering by refining AI instructions and improving responses over time.\n✅Understand Claude Projects vs Skills and know when to use each for maximum productivity.\n✅Create AI Systems for Automation that save hours of manual work and improve content quality.\n\n------------------------------------------------------\n\n\n⚠️ 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑:\nSome of the links here are affiliate links. This means that I may get a commission at no additional cost if you click through and make a purchase. These commissions help me create free valuable videos like these.\n\n━━━━━━━━━━━━━━━\n\n 𝐓𝐢𝐦𝐞-𝐒𝐭𝐚𝐦𝐩𝐬:-\n\n00:00 Why Claude AI Skills Are Better Than Prompts\n01:42 What Are Claude AI Skills?\n03:10 Projects vs Skills Explained\n05:39 Browse Existing Claude AI Skills\n06:03 How to Create a New AI Skill\n08:20 Building Your First Claude AI Skill\n11:38 How to Train AI with Better Instructions\n11:54 AI-Generated YouTube Script Demo\n16:30 Test and Train Your AI Skills\n16:54 Using AI Memory for Better Results\n20:15 Common AI Training Mistakes to Avoid\n24:30 Creating Reusable AI Workflows\n28:55 Projects vs Skills: Which Should You Use?\n34:35 Build an AI Skill Roadmap\n36:46 Creating a Complete AI Skill from Scratch\n37:01 Organizing AI Content Pillars\n38:30 Final AI Training Tips & Best Practices\n\n\n#hbaservices #contentcreation  #claude #AI",
-      "commentCount": 42,
-      "likeCount": 196,
-      "probeClient": "web_embedded"
-    },
     "5QWNao9VFKg": {
       "checkedAt": "2026-07-30T22:53:42Z",
       "embedAllowed": true,
@@ -6588,15 +6557,6 @@
       "likeCount": 100,
       "probeClient": "web_embedded"
     },
-    "7GTPQP21yPQ": {
-      "checkedAt": "2026-07-30T23:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥AI Accelerator Program: From Prompts to Agentic Workflows - https://www.simplilearn.com/ai-accelerator-program?utm_campaign=7GTPQP21yPQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Professional Certificate Program in Agentic AI & Multi-Agent Systems - https://www.simplilearn.com/agentic-ai-professional-certificate-course?utm_campaign=7GTPQP21yPQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Applied Agentic AI: Systems, Design & Impact - https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=7GTPQP21yPQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Advanced Executive Program In Applied Generative AI - https://www.simplilearn.com/applied-generative-ai-course?utm_campaign=7GTPQP21yPQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Microsoft AI Engineer Program - https://www.simplilearn.com/ai-engineer-course?utm_campaign=7GTPQP21yPQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n\n\nArtificial Intelligence is transforming how products, services, and digital experiences are built, but not all AI courses teach the same skills. In this video, we compare five popular AI programs AI Accelerator Program by Simplilearn, Agentic AI & Multi-Agent Systems by IIT Patna, Applied Agentic AI by Microsoft and Simplilearn, Applied Generative AI by IITM Pravartak, and the Microsoft AI Engineer Program to help you understand their unique learning approaches. From beginner-friendly AI application building and prompt engineering to advanced multi-agent systems, enterprise AI deployment, and full-stack AI engineering, each program is designed for different career goals. We explore the tools, technologies, and real-world projects covered in each course so you can decide which path aligns best with your skills and ambitions. Whether you are starting your AI journey or aiming to specialize in cutting-edge systems, this comparison will help you choose the right program for your future in AI.\n\nRelated Videos:\n✅ 1. https://youtu.be/2l7GS4rsrMI\n✅ 2. https://youtu.be/3PvsCRjwPTU\n✅ 3.https://youtu.be/_yUD0T067q4\n✅ 4. https://youtu.be/MSBmNHLlvAg\n✅ 5.https://youtu.be/uzfiaspC-Gc\n\n✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More Videos In This Category By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq\n\n#aitrainingprograms #aitrainingprogramsonline #aitrainingprogramsforbeginners #topaitrainingprograms #bestaiprograms #bestaicoursesplatform #bestaicourseswithplacement #top5aitrainingprograms #bestaitrainingforbeginners #bestaitrainingcourses #bestaitrainingsites #topaitrainingcourses #aitrainingonline #aitrainingcoursesonline #bestaitrainingcoursesforbeginners #topaitrainingprogramstogetajob #simplilearn #2026\n\n➡️ About the Microsoft AI Engineer Program\n\nThe Microsoft AI Engineer Program is designed to equip you with the skills to build and deploy AI solutions. Gain a comprehensive understanding of generative AI, machine learning, and cloud-based AI tools through projects that simulate real-world scenarios and industry needs.\n\nKey Features:\n\n✅ Completion Certificate: Earn a joint certificate from Microsoft and Simplilearn\n✅ Microsoft Learn Badge: Unlock official badges on the Microsoft Learn portal\n✅ Beginner-Friendly Learning: Access a comprehensive curriculum with an optional module covering programming fundamentals\n✅ 140+ Hours of Live Training: Learn from industry experts through interactive sessions\n✅ Hands-On AI Development: Work on 25+ projects, guided practices and a capstone to showcase your skills\n✅ AI-900 Exam Preparation: Get in-depth training for the Microsoft Azure AI Fundamentals certification\n✅ Expert-Led Masterclasses: Learn directly from Microsoft experts via live online sessions\n✅ Industry-Leading Tools: Gain expertise in Azure OpenAI, Copilot, PyTorch, and more\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n✅ AI & ML Specialization: Explore machine learning, deep learning, and prompt engineering\n\nSkills Covered\n✅ Python\n✅ Data Science\n✅ Machine Learning\n✅ Deep Learning\n✅ Azure\n✅ Generative AI\n✅ Prompt Engineering\n✅ NLP\n✅ Transformers\n\n👉 Learn More At: https://www.simplilearn.com/ai-engineer-course?utm_campaign=7GTPQP21yPQ&utm_medium=Description&utm_source=Youtube \n\n🔥🔥 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688",
-      "commentCount": 1,
-      "likeCount": 7,
-      "probeClient": "web_embedded"
-    },
     "9Q6xlJnggqI": {
       "checkedAt": "2026-07-31T00:53:44Z",
       "embedAllowed": true,
@@ -6625,15 +6585,6 @@
       "description": "This is the vibe coding ecosystem I am using — https://www.bridgemind.ai\n\n🔴 CAN AI BUILD A STEAM-WORTHY GAME IN C++? Today we find out. We are putting Claude Opus 5, Fable 5, Kimi K3, and GPT 5.6 SOL through real C++ game development to see if frontier models can actually build games good enough to ship on Steam. Not browser demos. Not HTML toys. Real compiled game development.\n\nEveryone tests these models on web apps. Nobody tests them on C++ games. Today we push all four frontier models into territory where memory management, performance, and real engine architecture actually matter. Which model handles C++ the best? Can any of them produce something Steam-worthy? ARR is at $243,504 and the Vibeathon starts August 3rd with $5,000 in prizes — join the Discord for details.\n\nTHE GRIND RULES: Every like on this stream = +1 pushup. You hit the button, I hit the floor.\n\nStop typing. Start shipping.\n\nThe Journey to $1,000,000\n\nCurrent ARR: $243,504\n\nWhat We're Building Today\n\nC++ Game Development Showdown — Testing Opus 5, Fable 5, Kimi K3, and GPT 5.6 SOL on real C++ game development. Compiled code. Real performance. Steam-level standards.\n\nSteam-Worthy or Not — The bar is simple: could this game actually ship on Steam? We judge every model's output against real store standards.\n\nModel Head-to-Heads — Four frontier models. Identical game dev prompts. Live comparisons on architecture, gameplay, and code quality.\n\nVibeathon Prep — The BridgeMind Vibeathon starts August 3rd with $5,000 in prizes. Join the Discord to enter.\n\nVibecademy Growth — Vibecademy is LIVE at vibecademy.ai. Learn vibe coding by shipping real products. Use code FOUNDER50 at checkout for 50% off forever.\n\n\nLinks\n\nBridgeMind — https://www.bridgemind.ai\n\nDiscord — Join for Vibeathon details (14,000+ Builders) — https://www.bridgemind.ai/discord\n\nBridgeBench V3 (Live AI Leaderboard) — https://www.bridgebench.ai\n\nVibecademy (Use Code FOUNDER50 for 50% off forever) — https://www.vibecademy.ai\n\nBridgeAgent — https://www.bridgeagent.app\n\nBridgeSpace 3 on Product Hunt — https://www.producthunt.com/products/bridgespace-3\nUse Code V3 at checkout for 50% off forever!\n\nViewCreator — https://www.viewcreator.ai\n\nX (Twitter) — https://x.com/bridgemindai\n\nYouTube — https://www.youtube.com/@bridgemindai\n\nTwitch — https://twitch.tv/bridgemindai\n\n\nWhat is BridgeMind?\n\nBridgeMind is a vibe coding platform — a fully integrated suite of AI-powered tools built to ship software faster through autonomous, multi-agent workflows.\n\nBridgeSpace — The best agent development environment for vibe coding. A cloud IDE built for multi-agent orchestration.\nBridgeVoice — Voice-to-text AI transcription for coding at the speed of thought.\nBridgeMemory — Long-term memory system and MCP server for agentic context retention.\nBridgeAgent — A self-improving AI engineer that loops autonomously until the code is production-ready.\nVibecademy — Learn vibe coding by shipping real products.\n\n\nKeywords: vibe coding, C++ game development, AI game development, AI C++ coding, Steam game, AI Steam game, vibe coding games, game dev with AI, Claude Opus 5, Claude Opus 5 game dev, Claude Fable 5, Kimi K3, GPT 5.6 SOL, Opus 5 vs Fable 5, Kimi K3 vs GPT 5.6, best AI for game development, best AI coding model, Claude Code, Codex, Anthropic, OpenAI, Moonshot AI, Vibeathon, vibe coding competition, vibe coding hackathon, BridgeBench V3, BridgeSpace, BridgeMind, BridgeAgent, BridgeVoice, Vibecademy, FOUNDER50, learn vibe coding, frontier model, model wars, vibe coding platform, vibe coding livestream, agent development environment, AI IDE, multi-agent orchestration, AI coding tools, agentic coding, build in public, live coding, indie hacker, SaaS founder, AI startup, game development, indie game dev, learn to vibe code, autonomous agents\n\n#VibeCoding #GameDev #CPlusPlus #AIGameDevelopment #Steam #ClaudeOpus5 #ClaudeFable5 #KimiK3 #GPT56 #ClaudeCode #Codex #Anthropic #OpenAI #Vibeathon #BridgeBenchV3 #BridgeBench #BridgeSpace #BridgeMind #BridgeAgent #Vibecademy #ModelWars #FrontierModel #AgenticCoding #AIIDE #BuildInPublic #IndieHacker #IndieGameDev #SaaS #StartupFounder #LiveCoding #SoftwareDevelopment\n\n!discord !vibecademy !newsletter !event",
       "commentCount": 8,
       "likeCount": 555,
-      "probeClient": "web_embedded"
-    },
-    "KLYWjuOqMO8": {
-      "checkedAt": "2026-07-31T01:53:44Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "✅ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44\n\n✅ Become Better than 99% of People in Claude by using Base44 https://base44.pxf.io/c/6440076/2477538/25619?trafcat=hp&sharedid=video208newx\n\nIn this video, I show you how to create an ecommerce website with Claude Code from scratch using AI-powered development. You’ll learn how to use Claude Code step by step, follow a practical Claude Code tutorial, and discover the best Claude Code tips for building a professional ecommerce website faster. Whether you're looking for Claude Code for beginners, setting up your ideal Claude Code setup, or improving your Claude Code workflow, this guide covers everything you need. Think of it as a hands-on Claude Code course that will help you build and launch your first AI-powered ecommerce website with confidence.\n\n00:00 - Intro: Building a Production-Ready E-commerce Store with Claude Code\n00:59 - Free AI App & Business Masterclass\n01:32 - Setting Up Base44: Activating the Claude Opus 4.8 Model\n03:07 - Why Claude Beats GPT for Complex Database Logic\n03:23 - Build 1: Creating the Premium E-commerce Brand Foundation\n05:44 - Build 2: Structuring the Product Catalog & Mock Database\n07:17 - Backend Management: Verifying the Product Data Table\n08:12 - Build 3: Designing a Dynamic AI Shopping Cart Experience\n09:48 - User Experience: Testing the Step-by-Step Checkout Flow\n10:59 - Scaling Your Skills: How to Build Profitable AI Businesses\n12:06 - Payment Integration: Connecting Secure Stripe Checkout\n13:11 - Live Testing: Verifying Stripe Test Cards & Processing Logic\n14:33 - Build 4: Creating Secure Customer Accounts & Login Portals\n15:51 - Privacy Check: Verifying Data Isolation Between User Accounts\n17:04 - Build 5: Building the Full-Scale Admin Management Dashboard\n18:22 - Inventory Control: Managing Sales Revenue, Prices, and Stock\n19:26 - Build 6: Integrating an AI-Powered Product Recommendation Engine\n21:45 - Build 7: Creating a Custom Promo Code & Discount System\n22:46 - Admin Strategy: Activating and Tracking Promotional Performance\n24:03 - Stress Testing: Responsive Mobile Optimization for E-commerce\n26:20 - Final Polish: Refining Visual Hierarchy & Design Consistency\n28:21 - Complete Journey: Full Customer-to-Admin Workflow Review\n30:19 - Business Strategy: Charging $3,500 to $10,000 for AI Stores\n31:52 - Agency Pricing: Delivering Results Faster Than Traditional Agencies\n33:07 - Conclusion: Scaling Your AI E-commerce Agency Portfolio\n\n📩 For inquiries: Mikey (at) ytmedia.group",
-      "commentCount": 7,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "YFaHjv1PNMc": {
@@ -6876,12 +6827,6 @@
       "availability": "public",
       "failureReason": "embed_disabled"
     },
-    "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-31T07:53:48Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "_p4kSpkM8r8": {
       "checkedAt": "2026-07-31T07:53:48Z",
       "embedAllowed": true,
@@ -6987,7 +6932,7 @@
       "probeClient": "web_embedded"
     },
     "W93f8ZFOzxQ": {
-      "checkedAt": "2026-07-31T13:53:33Z",
+      "checkedAt": "2026-07-31T14:53:40Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7209,6 +7154,60 @@
       "description": "While taking questions from reporters on Wednesday, President Donald Trump spoke about AI.\n\nStay Connected\nForbes Breaking News on X: https://x.com/ForbesTVNews\nForbes Breaking News on TikTok: https://www.tiktok.com/@forbestvnews\nMore From Forbes: http://forbes.com",
       "commentCount": 21,
       "likeCount": 22,
+      "probeClient": "web_embedded"
+    },
+    "NVPWYTZZpnI": {
+      "checkedAt": "2026-07-31T14:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "SaaS as we know it is changing. Instead of clicking around five different dashboards to get one job done, AI agents are shifting software from selling tools to delivering completed work.\n\nIn this video, I demonstrate a working prototype of an \"AI Employees\" team (Vikram, Priya, and Arjun) that turns a single prompt into a complete marketing campaign. I also break down the playbook for building agent startups and explain how to orchestrate multi-agent workflows reliably.\n\n__________________________________\nFollow Builders Central on Instagram: https://www.instagram.com/builders.central/",
+      "commentCount": 1,
+      "likeCount": 9,
+      "probeClient": "web_embedded"
+    },
+    "c_fP7hu9v-8": {
+      "checkedAt": "2026-07-31T14:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "learn the full process making cartoon video with one prompt",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-31T14:53:40Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "q26SM0Q6cds": {
+      "checkedAt": "2026-07-31T14:53:40Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "tG-lfe3gHJ4": {
+      "checkedAt": "2026-07-31T14:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "TESTE O VOLUTS GRÁTIS! https://voluts.com.br/igrejas/?parceiro=sergio\n\nLink alternativa ao stream deck: https://s.shopee.com.br/qiKwHgJeN\n\nLink do Companion: https://bitfocus.io/\n\n\nmeu insta: @sergiogmjr\nContato comercial: criacaotatica@gmail.com",
+      "commentCount": 3,
+      "likeCount": 55,
+      "probeClient": "web_embedded"
+    },
+    "qxeiUkyOdXo": {
+      "checkedAt": "2026-07-31T14:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "UiPath DevCon Best Bits Build at Agent Speed. Orchestrate at Enterprise Scale. Register now! https://uipath.ly/4wsT69J \n\nEvery automation developer knows the feeling: it's Friday afternoon, a process fails unexpectedly, and what should have been the start of the weekend turns into a troubleshooting session. \n\nIn this demo, the UiPath engineering team shows how coding agents help developers investigate failures, identify root causes, implement fixes, deploy updates, and validate results—all without leaving their development environment. From troubleshooting production issues to building new automations from process documentation, coding agents accelerate every stage of the automation lifecycle while keeping developers firmly in control.\n\n🚀Join our community for more updates: \nAcademy: https://uipath.ly/462jPft\nBlog: https://uipath.ly/3EwSRRC \nLinkedIn: https://uipath.ly/44SelTOa\nFacebook: https://uipath.ly/45A4naF\nForum: https://uipath.ly/3ReA7O3",
+      "commentCount": 0,
+      "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "fY2-1cdeTcg": {
+      "checkedAt": "2026-07-31T14:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 1,
+      "likeCount": 3,
       "probeClient": "web_embedded"
     }
   }
