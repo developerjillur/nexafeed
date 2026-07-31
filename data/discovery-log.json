@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T11:53:16Z",
+  "updatedAt": "2026-07-31T12:53:25Z",
   "items": [
+    {
+      "id": "l6DMdWKTqYU",
+      "type": "short",
+      "source": "primary",
+      "channel": "H Gandotra",
+      "publishedAt": "2026-07-31T12:21:00Z",
+      "firstSeenAt": "2026-07-31T12:53:25Z"
+    },
+    {
+      "id": "LnZDY6XC5pA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NDC Conferences",
+      "publishedAt": "2026-07-31T10:53:25Z",
+      "firstSeenAt": "2026-07-31T12:53:25Z"
+    },
+    {
+      "id": "aWPlQJ5gMVI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Professional Internet | SEO & AI",
+      "publishedAt": "2026-07-31T08:53:25Z",
+      "firstSeenAt": "2026-07-31T12:53:25Z"
+    },
+    {
+      "id": "7XILGL8gLxA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mehul Mohan",
+      "publishedAt": "2026-07-30T15:53:25Z",
+      "firstSeenAt": "2026-07-31T12:53:25Z"
+    },
     {
       "id": "Kh3b4pOhu_8",
       "type": "long",
@@ -6670,6 +6702,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-07-31T12:53:25Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }

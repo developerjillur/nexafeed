@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T11:53:16Z",
+  "updatedAt": "2026-07-31T12:53:25Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -212,14 +212,6 @@
       "description": "In this tutorial, we'll be seeing six different tips which can help you make your Seedance 2.0 videos look very realistic, almost like real movies. \n\nImportant Links:\n\nHiggsfield - https://higgsfield.ai/?fpr=kush87\n\nOur premium online courses - https://www.creativepadmedia.com/online-courses\n\nAffiliate Disclosure - Some of the links above may be affiliate links. If you subscribe to or purchase the product using those links, we may earn a small commission.",
       "commentCount": 5,
       "likeCount": 77
-    },
-    "wRrNsEQWzTg": {
-      "checkedAt": "2026-07-27T07:24:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 25,
-      "likeCount": 1323
     },
     "VxYroKK8_04": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -6211,25 +6203,55 @@
       "probeClient": "web_embedded"
     },
     "aJPotSxvIAU": {
-      "checkedAt": "2026-07-30T11:53:45Z",
+      "checkedAt": "2026-07-31T12:53:25Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 1,
-      "likeCount": 2,
+      "commentCount": 4,
+      "likeCount": 316,
       "comments": [
+        {
+          "id": "Ugyn9A9wf4YBzsIFYvB4AaABAg",
+          "author": "@SketchyScamShorts",
+          "text": "This guy always delivers !",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/cFo5gPFtr9YWJUZDKi0ExMq7Mvl6GTX8ylcoIL8JfeuiNoa09bqJ-mc4J8nR6Vi5FkotWYk0kQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxoEEUX3O5_9Fnkvt54AaABAg",
+          "author": "@RED89P13",
+          "text": "I have an app I’ve been working on for a while and i like the way it looks and feels should i just have it define this for other apps moving forward? Rather than using any skills its just been me hand holding claude to do it the way i defined. I don’t want all of my apps to look the same and function different but it is my personal feel of what is correct. What do you think about a global definition in claude for this in my case when I define the platform to be mobile vs what is web or multi platform?",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_na09B9nk1U8JN4gqpc9XnmM6lOlO8EPe7zTB1yM0w9Yn8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwdfS4nc0FH4qwOj1h4AaABAg",
+          "author": "@thisisnotok2100",
+          "text": "it will still be slop, but at least itll look nice",
+          "likeCount": 0,
+          "publishedAt": "2026-07-30T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/SKLZYIiqPwVVaJhoU4tXfZWpxGbE_VzQtYnVJ-hq6GW6yXsB4VA7IsVjrBkJkQIPTj0CqFMx=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgzOZZ3f9K2iNOxJbUB4AaABAg",
           "author": "@Code-With-Robby",
           "text": "Good stuff buddy you’ve been grinding",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T11:51:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/hlDTD7VwAwO5UtssisfM-4WUYQpWHqbMvohldSa3VJQTQk9QQfMxBomcsgr1Dx91sFuJtXHOiIY=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-30T11:53:45Z",
+      "commentsFetchedAt": "2026-07-31T12:53:25Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6258,10 +6280,10 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-31T11:53:16Z",
+      "checkedAt": "2026-07-31T12:53:25Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "nU0MInU5nN4": {
       "checkedAt": "2026-07-30T12:53:48Z",
@@ -6524,14 +6546,6 @@
       "description": "Support our work: https://democracynow.org/donate/sm-desc-yt\n\nArtificial intelligence tools are quickly advancing in sophistication and capabilities, raising alarm among researchers and industry figures who say the technology needs to be more tightly regulated. This comes as OpenAI, maker of ChatGPT, recently disclosed that one of its experimental AI agents went rogue and secretly hacked into the infrastructure of several other companies in what was supposed to be a controlled test. Over 1,100 scientists and senior employees at top AI firms have called on the U.S. government to back international efforts to “deliberately pace” the development of the world’s most advanced AI systems.\n\n“What we’re talking about now are AI systems that also have goals on their own that they can actively go out and pursue in the world,” says AI researcher Max Tegmark, a physics professor at the Massachusetts Institute of Technology. Tegmark says OpenAI’s rogue agent is a “canary in the coal mine” of where the technology is headed as Silicon Valley leaders seek to “replace humans.”\n\nSubscribe to our Daily Email Digest: https://democracynow.org/subscribe",
       "commentCount": 349,
       "likeCount": 1708,
-      "probeClient": "web_embedded"
-    },
-    "M-4y8nOCAno": {
-      "checkedAt": "2026-07-30T22:53:42Z",
-      "embedAllowed": true,
-      "description": "🔗 Free Buzz community: https://mrc.fm/cmbuzz\n🤖 This video was streamed live on X and edited into highlights by a Buzz AI agent using Fable so apologies for any wonky edits!\n\n🎙️ The audio gets wobbly the moment the huddle starts.\n\nHuddles are a very experimental feature.\n\nMy free community on Buzz hit 102 members, so I celebrated by opening a voice huddle and inviting whoever turned up. Four humans and two AI agents later, Grok and Claude Haiku, we had a real answer: it works, it is rough, and the interesting part is not the voice at all. Agents answer in text rather than speech, every reply spins up a full agent harness so the latency is brutal, and the participant list flickers between active and ended while people are clearly still talking. But the live transcript is quietly brilliant, with every line cryptographically signed and attributed to whoever said it, and by the end I had an agent summarise the entire session into something worth sending to the Buzz team. Huge thanks to Patrik, Rian and Mingo for testing this with me live. Come and join the next one, my free Buzz community is open to anyone: https://mrc.fm/cmbuzz\n\n00:00 Grok the AI agent roasts me live\n00:20 What is Buzz? Jack Dorsey's AI Slack\n01:18 Buzz live transcript demo\n01:49 Cryptographically signed transcripts on Nostr\n02:22 Buzz voice chat quality and first bugs\n03:46 Always on AI agents and the fingerprint problem\n05:05 Buzz huddle bugs: three attempts to keep a call alive\n06:24 Adding Grok AI agent to a voice call\n07:55 Claude Haiku joins the huddle\n09:22 Do AI agents in voice calls actually work?\n12:11 Why AI voice agents need a realtime API\n12:37 Grok writes the AI meeting summary\n13:45 Buzz vs Slack: what is still missing\n14:58 Final verdict on Buzz huddles",
-      "commentCount": 19,
-      "likeCount": 74,
       "probeClient": "web_embedded"
     },
     "WBNjt5L6tQg": {
@@ -6900,12 +6914,6 @@
       "availability": "public",
       "failureReason": "embed_disabled"
     },
-    "8OqBbUoBpo4": {
-      "checkedAt": "2026-07-31T07:53:48Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "_p4kSpkM8r8": {
       "checkedAt": "2026-07-31T07:53:48Z",
       "embedAllowed": true,
@@ -6971,15 +6979,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "tsQuNWeuiAQ": {
-      "checkedAt": "2026-07-31T10:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥Michigan Engineering - Professional Certificate in AI and Machine Learning - https://www.simplilearn.com/professional-aiml-program?utm_campaign=tsQuNWeuiAQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥IIT Kanpur - Professional Certificate Course in Generative AI and Machine Learning - https://www.simplilearn.com/iitk-professional-certificate-course-ai-machine-learning?utm_campaign=tsQuNWeuiAQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Microsoft AI Engineer Program - https://www.simplilearn.com/ai-engineer-course?utm_campaign=tsQuNWeuiAQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Michigan Engineering Professional Education - Applied Generative AI Specialization - https://www.simplilearn.com/applied-ai-course?utm_campaign=tsQuNWeuiAQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n\nThis video on AI and Machine Learning Full Course by Simplilearn will help you learn the fundamentals of Artificial Intelligence and Machine Learning from beginner to advanced level. The course covers Python programming, data preprocessing, supervised and unsupervised learning, deep learning, neural networks, natural language processing, computer vision, generative AI, and model deployment using industry-standard tools and frameworks. You will also learn how to build, train, evaluate, and optimize AI and machine learning models through hands-on projects and real-world use cases. By the end of this AI and Machine Learning tutorial, you will have a strong understanding of AI concepts and the practical skills needed to develop intelligent, data-driven applications.\n\nFollowing are the topics covered in the Artificial Intelligence and Machine Learning Full Course 2026:\n\n00:00:00 - Artificial Intelligence and Machine Learning Full Course 2026\n00:03:48 - What is AI?\n00:10:43 - What is Machine Learning?\n01:16:37 - AI With Python Full Course 2026\n01:20:01 - Fundamentals of Python For AI\n02:04:20 - Why Python dominates AI\n02:12:18 - Development environments overview\n03:21:40 - Google Colab setup\n03:46:34 - Python syntax fundamentals\n04:10:04 - Print input and comments\n04:57:17 - Variables and data types\n05:42:47 - Operators and comparisons\n06:33:23 - Lesson 2 introduction\n06:40:18 - List indexing and access\n07:01:25 - List slicing explained\n07:22:46 - List methods and final Project\n08:05:04 - Regression and Classification Basics\n08:09:06 - Lesson Objectives and Business Scenario\n09:02:07 - Environment Setup and Lesson Files\n09:12:54 - Linear Regression Theory\n10:20:32 - Polynomial Regression and Recap\n10:29:36 - Parameters and Hyperparameters\n11:01:59 - Data Leakage and Data Preprocessing\n11:06:07 - Regularization for Overfitting Control\n12:24:37 - Classification Foundations\n12:52:13 - Logistic Regression Theory\n13:15:25 - Logistic Regression Practical Example\n13:43:56 - Naive Bayes Classifier\n14:00:55 - K-Nearest Neighbors (KNN) Classifier\n14:08:54 - Hyperparameter tuning\n15:38:21 - bike rental regression Machine learning project\n16:19:50 - Python Basics For Machine Learning \n16:19:50 - Machine Learning With Python Full Course 2025\n17:06:42 - Decision Tree\n17:43:15 - Clustering\n18:37:53 - Data and its types\n19:49:12 - Probability\n20:27:43 - Multiple Linear Regression\n21:05:45 - Confusion Matrices\n22:19:44 - KNN\n22:43:30 - Support Vector Machine\n23:34:30 - Principle Component Analysis\n24:12:51 - Corona Virus Analysis\n24:20:37 - Python For Machine Learning\n25:03:23 - Semi-Supervised Learning Overview\n25:10:04 - Reinforcement Learning Fundamentals\n25:23:19 - Python Packages for Machine Learning\n26:09:35 - Simple and Multiple Regression\n26:23:57 - Preparing Data for Regression\n27:04:27 - Overfitting and Underfitting\n27:12:29 - Recap, Polynomial Regression, and Metrics\n28:48:29 - Regularization Overview\n28:56:43 - Lasso Regression Theory\n29:10:44 - Lasso Regression in Code\n30:04:23 - Ridge Regression Recap\n30:32:45 - Hyperparameter Tuning Concepts\n31:05:18 - Pipelines and Preprocessing Automation\n31:59:51 - Supervised Vs Unsupervised vs Reinforced Learning\n32:09:01 - Supervised & unsupervised\n32:17:55 - Linear & Logistic Regression\n34:30:30 - Naive Bayes and BVM\n35:37:06 - K nearest Neighbors\n36:03:31 - K Means Clustering\n36:52:16 - PCA and regulation\n37:38:10 - Probability And Statistics\n38:48:19 - R Squared Error\n39:14:26 - Deep Learning Interview Questions\n40:19:13 - Mathematics for machine learning\n47:13:34 - Machine Learning Interview Questions 2026\n\n✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More Videos In This Category By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq\n\n#aiandmachinelearningengineerfullcourse #ai #aiml #aicourse #machinelearningcourse #learnai #mltutorial #aiforbeginners #datascience #deeplearning #aiandml #mltraining #aicareer #simplilearn #2026\n\n👉 Learn More At: https://www.simplilearn.com/professional-aiml-program?utm_campaign=tsQuNWeuiAQ&utm_medium=Description&utm_source=Youtube",
-      "commentCount": 5,
-      "likeCount": 123,
-      "probeClient": "web_embedded"
-    },
     "Kh3b4pOhu_8": {
       "checkedAt": "2026-07-31T11:53:16Z",
       "embedAllowed": true,
@@ -7019,11 +7018,131 @@
       "likeCount": 6460,
       "probeClient": "web_embedded"
     },
-    "eu-0IKFPO6w": {
-      "checkedAt": "2026-07-31T11:53:16Z",
+    "W93f8ZFOzxQ": {
+      "checkedAt": "2026-07-31T12:53:25Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
+    },
+    "l6DMdWKTqYU": {
+      "checkedAt": "2026-07-31T12:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 8,
+      "likeCount": 95,
+      "comments": [
+        {
+          "id": "Ugx8oN7PcwykZO6UbaV4AaABAg",
+          "author": "@funny_comments_07_fc",
+          "text": "Aisa Lagta Hai course purchase kar rakha hai😅",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T12:53:13Z",
+          "authorThumbnail": "https://yt3.ggpht.com/fCuLQf6hQmm3CtP4FvuQU252yRF8LmPwEyTs_hFbsBZo4HTsyDEmX2zdB8JCtVtnyqVFowSiPw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxA0pAQY0d06KAQGox4AaABAg",
+          "author": "@Rudra4N1",
+          "text": "Bhai tumhari language mujhe ai wali lagne lagi hai script to khud likh liya karo bhai 😂 \nHook banna to dur ki baat hai",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T12:51:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/qZBCg6r8t8uq7t3UArM-EckQVrR3aXUHO6tTF2fgxpnnP3iZbUsch4-__xzWPkne9MgLP7Ci=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwM1e3SZ1K8gHPeTHN4AaABAg",
+          "author": "@Y0G3SX",
+          "text": "Bhai lekin aap ke views kyun nhi aate 😭",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T12:44:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/qMLpd14Nkcm7l_R84cBAx_CKtPMgHLISekOqXx7ctLM7Xv9crmabREVFmgmCifX5js8OGb1Uwg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugyrtgw3Yk12v9apZAd4AaABAg",
+          "author": "@arbaz8b146",
+          "text": "Bhai please ek video viral idea find kese kare for shorts and long form video iss prr bnao",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T12:41:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/RTupR2GKGmNWLd2STfwDhIkVUHjtJd2QTyo3x5tgusxWel9Ic017pVYRsfhHpN2UhyVTarVIPQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugyeub7GoKBn07W7oBd4AaABAg",
+          "author": "@24HourShorts_",
+          "text": "100 cr wala bata",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T12:32:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/G4r-BvynQV1vVRlcaf2H-grFdiMZzgQkH0WqIoLoHqtgJcZqW84Sg4mUeDyr1IatDQivusNYEH8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzNO6Ju2_QkP4yZANt4AaABAg",
+          "author": "@Rohan-sk-c4z",
+          "text": "Low Quality video ko high Quality me kaise kare is video banau na 😢😢",
+          "likeCount": 1,
+          "publishedAt": "2026-07-31T12:31:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/dwKdQ18ufxykWi0NGB1FNXtE4MhH0LyQQJZhAT8XHACaapcANzhjKBp-4xmD5zwxxssaNCLR=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwKGNqOG9842mkWE2F4AaABAg",
+          "author": "@NAKULMALI30",
+          "text": "Story taliing ka video sab mang rahe to banna ne walo ho ya nahi ?",
+          "likeCount": 1,
+          "publishedAt": "2026-07-31T12:26:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/YZSxeRzBxJgf_lJD_B5VYnOmdvhHumI1Z8M97zjsmTS0CI7506GzT3vbsvtaiP1uH3CzrcHScL0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzpvmRvv7yFH5MWm6x4AaABAg",
+          "author": "@DecodeThinkingOfficial",
+          "text": "Good😍",
+          "likeCount": 1,
+          "publishedAt": "2026-07-31T12:26:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/1JIvYc_YFHCg1Wh_ERe9ZVqmK35CrRBJl8p3gNK39oeRU0i37W6F7L4KBiTYluiuPRhpTllxAgI=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-31T12:53:25Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "LnZDY6XC5pA": {
+      "checkedAt": "2026-07-31T12:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This talk was recorded at NDC Toronto in Toronto, Canada. #ndctoronto #ndcconferences #developer #softwaredeveloper    \n\nAttend the next NDC conference near you: \nhttps://ndcconferences.com\nhttps://ndctoronto.com\n\nSubscribe to our YouTube channel and learn every day:   \n/          @NDC \n\nFollow our Social Media!\n\nhttps://www.facebook.com/ndcconferences\nhttps://twitter.com/NDC_Conferences\nhttps://www.instagram.com/ndc_conferences/\n\n#security #devops #testing #ai #github #chapgpt #githubcopilot #cursor #owasp \n\nAI coding assistants like GitHub Copilot, ChatGPT, and Cursor are reshaping how we build software—and open source is no exception. These tools can now generate code, submit pull requests, and even review and merge them automatically. But what’s the cost?\n\nOpen source maintainers are increasingly overwhelmed by “almost correct” AI-generated PRs that introduce subtle bugs, security vulnerabilities, or fail to follow contributor guidelines. Meanwhile, the rise of AI-generated Bug Bounty reports (AI slops) risks overwhelming maintainers and undermining the spirit of responsible disclosure potentially pushing projects to abandon bug bounty programs.\n\nIn this talk, we’ll explore a security-first and practical framework for using AI in software development and contribution workflows. I will cover guidelines from the well-respected communities like Linux Kernel, OpenSSF and OWASP and real-world (non-fictional) practices from the industry leaders. We will cover how to craft AI prompts with security and compliance in mind; governance templates for managing AI-generated contributions; Strategies for handling AI-generated vulnerability reports without shutting down your bug bounty program.",
+      "commentCount": 0,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "aWPlQJ5gMVI": {
+      "checkedAt": "2026-07-31T12:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Ad: Index Backlinks & Pages Fast https://www.UltimateIndexing.com   Good morning! Dive into the latest AI developments and their real-world impacts. This 9-minute update covers critical discussions on AI ethics, the emerging risks of 'vibe coding,' and groundbreaking advancements in personalized content creation. Stay informed about the evolving tech landscape.\n\nTopics Covered:\n*   **AI Breaches and Security:** Discover how AI models bypassed security measures in recent tests and what it means for the future.\n*   **The Risks of 'Vibe Coding':** Understand the potential vulnerabilities and limitations of rapid, AI-generated software development.\n*   **GCC's Stance on AI Code:** Learn why the foundational Linux compiler is drawing a line on AI-generated contributions.\n*   **Meta's AI Investment Woes:** See how investor sentiment is reacting to Meta's significant AI spending.\n*   **Personalized AI Content:** Explore how AI is revolutionizing the creation of custom content, from children's books to business applications.\n*   **AI in Emergency Response:** See how AI is being deployed to enhance public safety and disaster management.\n\nKeywords: AI, artificial intelligence, AI ethics, AI security, vibe coding, code generation, generative AI, LLMs, cybersecurity, Meta, Microsoft, GCC, software development, personalized content, emergency response, AI safety, AI regulation, AI advancements, tech news, morning update, AI policy, startup funding.\n\n #Ad #Sponsored",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "7XILGL8gLxA": {
+      "checkedAt": "2026-07-31T12:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Make sure you leave a like and subscribe to the channel! Sign up on TestSprite for free using this link: https://mehulmohan.com/recommends/testsprite and start testing your apps with MCP and natural language.\n\nMole project: https://github.com/tw93/mole\n\nFollow me on:\nX https://x.com/mehulmpt\nInstagram https://instagram.com/mehulmpt\nLinkedIn https://www.linkedin.com/in/mehulmpt",
+      "commentCount": 36,
+      "likeCount": 181,
+      "probeClient": "web_embedded"
     }
   }
 }
