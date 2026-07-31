@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T07:53:48Z",
+  "updatedAt": "2026-07-31T08:53:49Z",
   "items": [
+    {
+      "id": "oe2dPC7Oj54",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Invisible Gyan",
+      "publishedAt": "2026-07-31T04:53:49Z",
+      "firstSeenAt": "2026-07-31T08:53:49Z"
+    },
+    {
+      "id": "-e8ffdN7jic",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jelly AI",
+      "publishedAt": "2026-07-30T21:53:49Z",
+      "firstSeenAt": "2026-07-31T08:53:49Z"
+    },
     {
       "id": "_p4kSpkM8r8",
       "type": "long",
@@ -6546,6 +6562,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-07-31T08:53:49Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
