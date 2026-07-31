@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T21:53:30Z",
+  "updatedAt": "2026-07-31T22:53:39Z",
   "items": [
+    {
+      "id": "CyBGasrZbY8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-07-31T22:08:10Z",
+      "firstSeenAt": "2026-07-31T22:53:39Z"
+    },
+    {
+      "id": "fJcFP6J6X5k",
+      "type": "short",
+      "source": "primary",
+      "channel": "Get to the Next Level",
+      "publishedAt": "2026-07-12T01:00:13Z",
+      "firstSeenAt": "2026-07-31T22:53:39Z"
+    },
+    {
+      "id": "7s5Oq2x2oI8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DYPlaybook",
+      "publishedAt": "2026-07-31T17:53:39Z",
+      "firstSeenAt": "2026-07-31T22:53:39Z"
+    },
+    {
+      "id": "7ClkDvIpCk8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ayush Singh",
+      "publishedAt": "2026-07-31T14:53:39Z",
+      "firstSeenAt": "2026-07-31T22:53:39Z"
+    },
     {
       "id": "61fPjQxYYlo",
       "type": "long",
@@ -7280,6 +7312,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-07-31T22:53:39Z",
+      "new": 5,
+      "long": 2,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
