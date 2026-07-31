@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T03:53:16Z",
+  "updatedAt": "2026-07-31T04:53:24Z",
   "items": [
+    {
+      "id": "EJZWr-U86Bo",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-07-31T04:51:18Z",
+      "firstSeenAt": "2026-07-31T04:53:24Z"
+    },
+    {
+      "id": "rcspkbIIXLs",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-07-31T04:00:01Z",
+      "firstSeenAt": "2026-07-31T04:53:24Z"
+    },
+    {
+      "id": "fBSEsggf3-c",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Abhishek Sharma",
+      "publishedAt": "2026-07-30T20:53:24Z",
+      "firstSeenAt": "2026-07-31T04:53:24Z"
+    },
+    {
+      "id": "H1IqeMpmVqM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Caleb Curry",
+      "publishedAt": "2026-07-30T16:53:24Z",
+      "firstSeenAt": "2026-07-31T04:53:24Z"
+    },
+    {
+      "id": "AC8KSolTCsw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bgo",
+      "publishedAt": "2026-07-30T14:53:24Z",
+      "firstSeenAt": "2026-07-31T04:53:24Z"
+    },
+    {
+      "id": "rTegjalTvoM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Not Your College",
+      "publishedAt": "2026-07-30T13:53:24Z",
+      "firstSeenAt": "2026-07-31T04:53:24Z"
+    },
     {
       "id": "2J4tE_DE7tQ",
       "type": "long",
@@ -6406,6 +6454,15 @@
       "channelsChecked": 33,
       "warnings": 14,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-07-31T04:53:24Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 29,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
