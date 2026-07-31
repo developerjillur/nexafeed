@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T10:53:08Z",
+  "updatedAt": "2026-07-31T11:53:16Z",
   "items": [
+    {
+      "id": "Kh3b4pOhu_8",
+      "type": "long",
+      "source": "primary",
+      "channel": "Greg Preece",
+      "publishedAt": "2026-07-31T11:30:32Z",
+      "firstSeenAt": "2026-07-31T11:53:16Z"
+    },
+    {
+      "id": "anY7DS4wdbU",
+      "type": "short",
+      "source": "primary",
+      "channel": "VDM Social",
+      "publishedAt": "2026-07-31T11:07:06Z",
+      "firstSeenAt": "2026-07-31T11:53:16Z"
+    },
+    {
+      "id": "Mrjue7ePVBE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-07-31T05:53:16Z",
+      "firstSeenAt": "2026-07-31T11:53:16Z"
+    },
+    {
+      "id": "5rNOmn3N0Ec",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Shark Numbers",
+      "publishedAt": "2026-07-30T23:53:16Z",
+      "firstSeenAt": "2026-07-31T11:53:16Z"
+    },
     {
       "id": "Jd_dmi1bGE0",
       "type": "short",
@@ -6629,6 +6661,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-07-31T11:53:16Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
