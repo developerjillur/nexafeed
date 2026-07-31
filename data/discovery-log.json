@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T20:53:20Z",
+  "updatedAt": "2026-07-31T21:53:30Z",
   "items": [
+    {
+      "id": "61fPjQxYYlo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Shohel Hossen Saikat",
+      "publishedAt": "2026-07-31T20:53:30Z",
+      "firstSeenAt": "2026-07-31T21:53:30Z"
+    },
+    {
+      "id": "pX70ehOxyYo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Merle Becker",
+      "publishedAt": "2026-07-31T15:53:30Z",
+      "firstSeenAt": "2026-07-31T21:53:30Z"
+    },
+    {
+      "id": "JWOrCi6KNIE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Center for Innovation in Teaching & Learning",
+      "publishedAt": "2026-07-31T14:53:30Z",
+      "firstSeenAt": "2026-07-31T21:53:30Z"
+    },
+    {
+      "id": "_Pl_xF-COUQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": "yt by ishwar ",
+      "publishedAt": "2026-07-31T13:53:30Z",
+      "firstSeenAt": "2026-07-31T21:53:30Z"
+    },
     {
       "id": "tvZimMnCwyE",
       "type": "long",
@@ -7239,6 +7271,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-07-31T21:53:30Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
