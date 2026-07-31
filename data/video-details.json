@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T18:53:06Z",
+  "updatedAt": "2026-07-31T19:53:11Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -281,18 +281,6 @@
         }
       ],
       "commentsFetchedAt": "2026-07-29T07:53:08Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "MJKcdatXqcA": {
-      "checkedAt": "2026-07-28T07:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI will be smarter than humans in just a few years.\n\nThat's what the head of Google DeepMind, Nobel laureate Demis Hassabis, writes in his new manifesto. AGI is \"probably only a few short years away,\" we're at \"the foothills of the singularity,\" and, in his words, \"we've essentially found a way to make sand think.\"\n\nHis proposal: a US body, funded by the industry and answerable to the government, that tests every frontier model before launch, the way new drugs get tested. With the power to coordinate an industry-wide slowdown if things get out of hand.\n\nHis warning: within 18 months, dangerous capabilities could live inside open-source models beyond any government's control.\n\nJoin my community for more AI and e-commerce breakdowns, link in bio.\n\n#ai #agi #deepmind #technews",
-      "commentCount": 0,
-      "likeCount": 21,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-28T07:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -1319,15 +1307,6 @@
       "description": "",
       "commentCount": 22,
       "likeCount": 797,
-      "probeClient": "web_embedded"
-    },
-    "sJt1sQO87sc": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "📈FULL Hermes Course: https://bit.ly/4wRk62c\n⚡️ Zapier: https://bit.ly/4ftQzVq\n🔥 Firecrawl: https://bit.ly/4aHCD8A\n\nHermes agent just got five major upgrades and I'm showing you all of them. New models including Grok 4.5 and Kimi K3, parallel tool calls, 60x faster web search with Firecrawl, completion contracts, and a compounding Obsidian memory you can feed from your browser in real time. This is the most productive version of Hermes that has ever existed.\n\nResources\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXOfor 1 FREE month)\n💬 ChatGPT - https://chatgpt.com/\n☁️ Claude - https://claude.ai/\n♊ Gemini - https://gemini.google.com/\n📝 NotebookLM - https://notebooklm.google.com/\n⚡ Zapier - https://bit.ly/4ftQzVq\n🔥 Firecrawl - https://bit.ly/4aHCD8A\n🌿 Obsidian - https://obsidian.md\n🤩 MCP Marketplace - https://mcpmarket.com/server\n🔀 Open Router - https://openrouter.ai\n🐦 Grok / X - https://x.com\n📊 Kimi K3 - https://platform.moonshot.cn\n\n⌚️ Stamps\n0:00 What You'll Unlock\n0:31 Level 1 Swap Smarter Brains\n1:14 GPT 5.6 Free With ChatGPT\n1:39 Grok 4.5 Fast & Cheap\n2:06 Pull Live Intel From X\n2:49 Opus Design, Fraction Price\n3:42 One-Prompt Website Test\n4:50 The Real Price Breakdown\n5:17 Level 2 Stop Waiting Around\n5:59 Four Tasks at Once\n6:46 Level 3 60x Faster Research\n7:58 Firecrawl Cuts the Junk\n8:20 Extract Any Brand Identity\n9:37 Model Showdown Results\n10:30 Level 4 Your Daily Edge\n10:53 Connect Email & Calendar\n11:24 The Permission Safety Rule\n11:52 A Brief That Improves Itself\n12:51 Level 5 Proof of Work\n13:25 Completion Contracts in Action\n14:28 Bonus Memory That Compounds\n14:59 Save Anything to Obsidian\n16:29 Hermes Recalls It All\n18:34 Build Skills From Docs\n19:55 Find Your Level\n\n\n*BUILD WITH AI*\n🦾 ALL Systems Academy - https://bit.ly/4kol0y5\n📚 Free Skool Community - https://www.skool.com/aiautomationsbyjack\n\n*CONNECT*\n🐦 X/Twitter - https://x.com/JackRob357741\n💼 LinkedIn - https://www.linkedin.com/in/jack-roberts-ai-automations/\n\n📈 ALL Systems: https://bit.ly/4kol0y5\n🎙️ Glaido: https://bit.ly/42isnim\n🎧 My Goofy pod: https://bit.ly/46nLQ3U\n\n*TOPICS COVERED*\nHermes agent tutorial 2025\nAI agent upgrades\nKimi K3 design model\nFirecrawl web scraping AI\nObsidian AI memory system\nparallel tool calls AI agent\nGPT 5.6 Hermes agent\n\n#HermesAgent #AIAgent #AIProductivity",
-      "commentCount": 91,
-      "likeCount": 934,
       "probeClient": "web_embedded"
     },
     "3YCaEsf1mlM": {
@@ -5761,7 +5740,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-31T18:53:06Z",
+      "checkedAt": "2026-07-31T19:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6080,14 +6059,14 @@
       "probeClient": "web_embedded"
     },
     "9VK5jrqGbYk": {
-      "checkedAt": "2026-07-30T18:53:10Z",
+      "checkedAt": "2026-07-31T19:53:11Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "You set up a local proxy on your Mac, connect it to your Codex login, and create an alias called claudex.\nNow when you type claudex in your terminal, you get Claude Code’s entire interface, but with GPT-5.6 generating the responses.\nClaude Code still handles the tools, file edits, subagents, and progress tracking.\nGPT-5.6 just does the thinking.\nAnd this experiment taught me something I wasn’t expecting.\nThe harness matters way more than the model.\nClaude Code isn’t just a wrapper.\nIt decides how context flows, how tools get called, and how long-running threads stay alive.\nSwap the model underneath, and the experience barely changes.\nThat’s how much the harness is doing.\nBut using Codex behind Claude Code is also like buying a great camera and only using it as a webcam.\nYou lose everything Codex does natively.\nSo I use both.\nClaude Code when I want Claude Code.\nCodex when I want Codex.\nAnd claudex",
       "commentCount": 0,
-      "likeCount": 19,
+      "likeCount": 207,
       "comments": [],
-      "commentsFetchedAt": "2026-07-30T18:53:10Z",
+      "commentsFetchedAt": "2026-07-31T19:53:11Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6121,24 +6100,6 @@
       "description": "Jack Dorsey's Buzz is Block's open-source Slack for humans AND AI agents, and I set it all up with Claude Code. I'm a senior software engineer (ex-Amazon, ex-Microsoft) and I'll show you every feature that matters.\n\nKey takeaways:\n\n- Swap the agent harness between Claude Code, Codex and Goose\n- Huddle voice calls, per-agent memory, and multiple agents in one channel\n- Pair the mobile app, use your local skills, and answer the big one: local machine vs VPS\n\n🔗 Buzz repo: https://github.com/block/buzz\n🔗 Jack's post: https://x.com/jack/status/2079605800998146171\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n🔗 Sponsor, DataImpulse opt-in residential proxies at $1/GB: https://dataimpulse.com/?utm_source=youtube&utm_medium=video&utm_campaign=EricWTech\n\nTimestamps:\n0:00 Intro\n0:31 Install Buzz\n1:53 Agent Harness\n4:11 Chat With Agents\n5:00 Huddle Call\n6:22 Multiple Agents\n7:24 Agent Memory\n8:21 Mobile & Skills\n10:10 Sponsor\n11:43 Git Projects\n15:38 Local vs VPS\n16:44 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
       "commentCount": 0,
       "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "7GOFfjvRuI0": {
-      "checkedAt": "2026-07-30T23:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Which AI tool is best for the work you do every day?\n\nIn this video, Tony DeSimone compares ChatGPT, Claude, Gemini, Microsoft Copilot and Grok across 16 common tasks. He explains which platform currently performs best for presentations, images, videos, reports, spreadsheets, research, data analysis, meetings, email, confidential information, and more.\n\nThese rankings reflect the tools available today. AI platforms are changing quickly, so the best option may look different three months from now. The goal is not to become dependent on one platform, but to understand which tool is best suited for each type of work.\n\nTIMELINE\n\n0:00 The best AI tools for everyday tasks\n0:23 Building PowerPoint presentations\n0:39 Creating images for presentations\n1:03 Generating short AI videos\n1:20 Creating a digital twin\n1:32 Grok’s improving image and video capabilities\n1:41 Drafting reports, proposals, and memos\n2:23 Creating or updating spreadsheets\n2:46 Building customized apps\n3:05 Analyzing large datasets\n3:34 Making AI writing sound like you\n3:57 Having live voice conversations with AI\n4:19 Conducting deep research\n4:41 Reducing hallucinations\n5:36 Working across multiple documents\n5:49 Creating and sharing reusable AI Skills\n6:21 Summarizing meetings\n6:39 Drafting emails and managing calendars\n6:52 Working with confidential client information\n7:45 Final recommendations\n7:57 Like, comment, and subscribe\n\nThe tools covered include:\n\nChatGPT\nClaude\nGoogle Gemini\nGemini Notebook\nMicrosoft 365 Copilot\nGrok\n\nSubscribe for practical guidance on using generative AI safely, effectively, and strategically.\n\nLink to The Best AI for 16 Things you Do Everyday PDF - https://drive.google.com/file/d/16viLwyOIkxQYushv1bso6M-QAbixrBW1/view?usp=drive_link",
-      "commentCount": 1,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "n1TWQb4UQDY": {
-      "checkedAt": "2026-07-30T23:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Generative AI has changed the way people interact with the internet, making it easy to get quick answers and understand complex information. However, the rise of generative AI has also led to widespread misinformation. According to an analysis from 2026, Google's AI overview generates tens of millions of wrong answers every hour. In this video, you’ll learn why misinformation is being shared, and what you can do to be a better researcher.",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "pcqQ3CtkzZw": {
@@ -6196,15 +6157,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-07-31T04:53:24Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "fBSEsggf3-c": {
-      "checkedAt": "2026-07-31T04:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "If you find these streams helpful, you can buy me a coffee: https://ko-fi.com/helloabhisheksharma\n\nBook 1-on-1 Call With Me: https://superprofile.bio/bookings/abhisheksharma-hello?sessionId=69f089eb4f6f5700143ef61c\n\nInstagram: https://www.instagram.com/hello_abhisheksharma/\nDiscord Server: https://discord.com/invite/kMmjQpveHX\nX (Twitter): https://x.com/im_Abhi10600\nGithub: https://github.com/abhishek10600\nEmail: abhi10sheksharma@gmail.com",
-      "commentCount": 0,
-      "likeCount": 127,
       "probeClient": "web_embedded"
     },
     "-1e_HgnBq2M": {
@@ -6374,15 +6326,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "-e8ffdN7jic": {
-      "checkedAt": "2026-07-31T08:53:49Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "If you’re tired of spending hours searching for suppliers, comparing factories, sending inquiries, and following up across multiple conversations, this review is for you.\n\nIn this video, I test the Accio Sourcing Toolkit, an AI-powered sourcing workspace built on Alibaba.com’s ecosystem. Instead of simply suggesting ideas, Accio helps automate supplier matching, bulk outreach, negotiations, follow-ups, and sourcing workflows from start to finish.\n\nWe’ll explore features like Auto-Chat, Diverse Scenario bulk outreach, 24/7 Follow-Up, and Super Sourcing Mode to see how they can help e-commerce businesses save time and improve sourcing efficiency.\n\n👇 Try Accio here:\nhttps://www.accio.com/work/app?defaultAgent=accio-com-buyer-assistant&src=p_ytkol_jellyai\n\n\n\n\nWelcome to Jelly AI your go-to channel for mastering AI tools, platforms, and automation. We deliver quick tutorials, expert walkthroughs, and actionable insights to help professionals, creators, and enthusiasts leverage AI for productivity and innovation.\n\nBusiness inquiries:\nbusiness@aiwjelly.com\npartnerships@aiwjelly.com\n\nDisclaimer: Content is for educational purposes only and is not professional advice. \n\n\n\n\nAccio, Accio Sourcing Toolkit, Accio Work, AI sourcing, Alibaba sourcing, Alibaba suppliers, supplier sourcing, sourcing toolkit, AI procurement, procurement AI, AI automation, AI business tools, ecommerce AI, ecommerce sourcing, supplier negotiation, supplier management, sourcing software, AI assistant, business automation, AI productivity, verified suppliers, Alibaba AI, wholesale sourcing, B2B sourcing, AI tools 2026\n\n\n#AccioWork #AccioSourcingToolkit #AItools #Alibabacom",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "xukJ9U3V9_E": {
       "checkedAt": "2026-07-31T09:53:50Z",
       "embedAllowed": true,
@@ -6390,15 +6333,6 @@
       "description": "Our Journey From 0 To 1.3 crore Full Video - https://www.youtube.com/watch?v=VLJNNyspsVs\n\nCourse - https://harkaransingh.graphy.com",
       "commentCount": 2,
       "likeCount": 9,
-      "probeClient": "web_embedded"
-    },
-    "CxXgV54KzpQ": {
-      "checkedAt": "2026-07-31T09:53:50Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In 2001, Jeff Dean and Sanjay Ghemawat did the math and realized Google’s entire search index would fit in RAM — then shipped it in a few days, and search got fast. In 2013, another napkin calculation showed that three minutes of daily speech recognition per user would require doubling Google’s server fleet. That one became the TPU. \n\nAt Startup School 2026, Google’s Chief Scientist talks with YC’s Diana Hu through the thought experiments behind both, why inference hardware is the next specialization, and where two or three people in a room can still win.\n\nTranscript: https://www.ycrootaccess.com/p/jeff-dean-the-1-rule-for-building\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:00 — Intro\n00:07 — Are AI Models Already Junior Engineers?\n01:44 — AI Systems That Improve Themselves\n02:40 — The Google Search Breakthrough That Changed Everything\n04:38 — AI Agents Will Run for Weeks\n05:58 — The Napkin Math That Led to TPUs\n09:20 — How to Find Breakthrough Ideas\n10:25 — The AI Engineer’s New Mental Model\n12:33 — Why AI Is Really an Energy Problem\n16:11 — Context Engineering Is the Next Frontier\n19:46 — The Skill That Made AI Better at Optimization\n22:13 — Why Long-Running Agents Fail\n25:21 — Where Startups Can Still Beat Google\n31:19 — How to Become an AI-Native Founder\n36:36 — Question Your Biggest Assumptions\n42:08 — AI That Builds Better AI\n50:02 — Build Something That Truly Matters",
-      "commentCount": 19,
-      "likeCount": 489,
       "probeClient": "web_embedded"
     },
     "Jd_dmi1bGE0": {
@@ -6462,7 +6396,7 @@
       "probeClient": "web_embedded"
     },
     "W93f8ZFOzxQ": {
-      "checkedAt": "2026-07-31T18:53:06Z",
+      "checkedAt": "2026-07-31T19:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6672,7 +6606,7 @@
       "probeClient": "web_embedded"
     },
     "q26SM0Q6cds": {
-      "checkedAt": "2026-07-31T18:53:06Z",
+      "checkedAt": "2026-07-31T19:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7199,6 +7133,72 @@
       "description": "Something unexpected is happening with clients right now — and it's changing everything about digital marketing.\n\n.\n\n.\n\n.\n\n.\n\n.\n\n\nAfter 20 years running a digital marketing company, I've never seen clients this curious about how marketing actually works. AI is doing something Google never did: it's making business owners genuinely interested in strategy, messaging, and why content structure matters.\nIn this video, I break down:\n\n. Why the client conversation has shifted from \"where do we rank?\" to \"what are we doing with AI?\"\n\n. How AI is making clients better collaborators — and better campaigns\n. Why annual website copy rewrites are finally an easy sell\n\n. The two types of businesses emerging right now (and which one wins)\n. Why AI is increasing the marketer's workload — not reducing it\n\n. How to become a strategic partner instead of just another vendor\n\nIf you're a digital marketer, agency owner, or consultant trying to navigate the AI shift with your clients — this one is for you.\n\n🔔 Subscribe for honest, practical digital marketing in\nsights from 20+ years in the industry.\n\n\ndigital marketing strategy, AI and digital marketing, client engagement marketing, how AI is changing marketing, digital marketing agency tips, AI content strategy, strategic marketing vs tactical marketing, marketing agency growth, client collaboration marketing, AI SEO strategy, website copy rewrite SEO, generative engine optimization, LLM content optimization, digital marketing consultant tips, marketing in the age of AI, AI changing client relationships, content authority signals, entity clarity SEO, AI marketing insights, future of digital marketing\n\n#DigitalMarketing #AIMarketing #MarketingStrategy #AgencyGrowth #AISearch #ClientEngagement #SEOStrategy #ContentMarketing #MarketingAgency #GenerativeEngineOptimization #AIContentStrategy #FutureOfMarketing #MarketingConsultant #DigitalMarketingTips #MarketingInTheAgeOfAI",
       "commentCount": 0,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "zazasynMZ6g": {
+      "checkedAt": "2026-07-31T19:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "⚡️ Hyperagent ($500 free credits, first 500 people): https://www.hyperagent.com/jack\n📈 ALL Systems: https://bit.ly/4kol0y5\n🩵 Free Resources: https://bit.ly/3RNNDLa\n\nBuilding AI agents that actually work means mastering three levels: access, knowledge, and proactivity. This video walks you through all three inside Hyper Agent, with no code required, and the first 500 people get $500 in free credits.\n\n*RESOURCES MENTIONED*\n🤖 Hyperagent - https://www.hyperagent.com/jack\n⚡ Zapier - https://zapier.com\n🎙️ Glaido - https://glaido.com\n☁️ Claude - https://claude.ai\n💬 ChatGPT - https://chatgpt.com\n🔥 Firecrawl - https://firecrawl.dev\n👾 Apify - https://apify.com/?fpr=d07xr\n🚀 Apollo - https://get.apollo.io/ixjl79b95lmr\n📁 GitHub - https://github.com\n\n*TIMESTAMPS*\n00:00 Intro\n01:45 Level 1: Access\n06:30 Connecting your agent to Telegram\n09:20 Level 2: Knowledge\n13:10 Agent to agent communication\n16:00 Level 3: Proactivity\n18:30 Live mode and scheduled agents\n19:40 How it all fits together\n\n*BUILD WITH AI*\n🦾 ALL Systems Academy - https://bit.ly/4kol0y5\n📚 Free Skool Community - https://www.skool.com/aiautomationsbyjack\n\n*CONNECT*\n🐦 X/Twitter - https://x.com/JackRob357741\n💼 LinkedIn - https://www.linkedin.com/in/jack-roberts-ai-automations/\n\n📈 ALL Systems: https://bit.ly/4kol0y5\n🎙️ Glaido: https://bit.ly/42isnim\n🎧 My Goofy pod: https://bit.ly/46nLQ3U\n\n*TOPICS COVERED*\nno code AI agents tutorial\nhow to build AI agents for beginners\nHyper Agent walkthrough\nAI agent access knowledge proactivity\nbuild AI digital employees\nAI agents Telegram Slack integration\nagent to agent communication\n\n#AIAgents #NoCode #AIAutomation",
+      "commentCount": 2,
+      "likeCount": 19,
+      "probeClient": "web_embedded"
+    },
+    "sOM_-sBbCHE": {
+      "checkedAt": "2026-07-31T19:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment GOOGLE and I'll send you the link.\n\nYou don't need a paid AI course. Google put its own internal lessons online for free. It's called AI Boost Bites, taught by Google's own specialists, every lesson under ten minutes with a hands-on task right after.\n\nIt starts simple, using Gemini to pull data into a spreadsheet with zero code. Then it gets sharper, they teach the move Google runs on its own strategies, where you make the model tear your plan apart and expose the weak spots. By the end you're turning raw meeting notes into polished slides and an exec-ready doc.\n\n@googlecloud\n#AI #Gemini #Google #productivity #AItools",
+      "commentCount": 0,
+      "likeCount": 5,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-31T19:53:11Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "A2aYUXtW8q0": {
+      "checkedAt": "2026-07-31T19:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This is Episode 6 of the new series where I document what I do, answer questions and I share my lessons with you all. (actually started this cuz I got inspired by Nick Saraev) \n\njust ask a question in the comments and I'll answer in the next video. \n\nAlso SUBSCRIBE, goal is 20k! \n\nCheck out my community: https://oneedge.net\n\nConnect with me on socials:\nInstagram: @arshilhaque (most active)\n\nThanks guys.\n\nThese tools help me daily, you can check it out. (None of these are sponsored - only affiliate/referral links) \n----------------------------------------------\nDashlane (6 months free discount code) - https://www.dashlane.com/cs/vsO4L-lbcTr8 \nHostinger (20% OFF) - https://hostinger.com?REFERRALCODE=ArshilHaque\nTickTick - https://ticktick.com/r?c=fu29pw34\nAppBlock (30% off) - https://appblock.page.link/referral",
+      "commentCount": 2,
+      "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "TDZ1yepZmrM": {
+      "checkedAt": "2026-07-31T19:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "#ai #artificialintelligence #podcast \n\nWill AI take your job or make you rich? AI consultant Aashish Pahwa reveals the exact n8n automation workflows and ChatGPT prompts to build your unfair advantage.\n\nIn this episode, we cut through the hype with practical, data-backed strategies. As the founder of koso.ai and Feedough, Aashish breaks down how LLMs are actually trained, the reality of the AI wars between OpenAI and Google, and how creators can stop offloading their cognitive skills. Whether you are an entrepreneur or a professional worried about job loss, this conversation gives you a clear blueprint to master AI in 2026.\n\n---\n\n📌 WHAT YOU WILL LEARN:\n• AI Fundamentals: How ChatGPT and model training actually work under the hood.\n• Automation Mastery: A step-by-step live demo of n8n workflows for content creators.\n• Prompt Engineering: How to stop getting generic outputs and build an AI \"Second Brain.\"\n• High-Income Skills: The top 3 AI skills you must learn to stay relevant.\n• The Future: Online AI courses exposed, rising AI costs, and AGI ethics in India.\n\n---\n\n⏱️ CHAPTERS:\n00:00 – Introduction\n01:44 – Who is Aashish Pahwa?\n05:21 – What Exactly is AI & How Does it Work?\n12:32 – Can AI Replicate the Human Brain?\n17:47 – End-to-End Content Creation Workflow Using AI\n30:41 – Best AI Prompting Frameworks Explained\n33:24 – Which AI Model Should You Trust?\n38:06 – Cognitive Offloading: Are We Becoming Dumber?\n40:31 – How to Actually Make Money with AI Tools\n45:44 – The Dark Reality of \"Make Money with AI\" Courses\n49:08 – Top 3 AI Skills You Need to Learn Now\n53:52 – The AI Job Bubble: What Happens When it Bursts?\n01:01:33 – Where Does India Stand in the Global AI Race?\n01:04:13 – The Darkest Side of AI\n01:05:24 – Rapid Fire: AI vs. Humans\n01:08:38 – Podcast Outro & Final Message\n---\n\n🔗 CONNECT & SUBSCRIBE:\n• Guest: Aashish Pahwa (Founder of koso.ai) | Instagram: @okaashish | LinkedIn: /in/aashishpahwa\n• Subscribe to Touristshubham: https://www.youtube.com/@Touristshubham\n• Follow on Instagram: https://www.instagram.com/touristshubham\n• Guest / Business Inquiries: shubham@touristshubham.com\n\n---\n\n📢 ABOUT THE PODCAST:\nTS Pod brings you insightful conversations with top creators, tech innovators, and industry leaders. We explore actionable strategies for digital growth, career development, travel, History, Spirituality and future technology.\n\n🔔 Like, share, and subscribe to support the channel!\n\n#AIAutomation #n8n #AshishPahwa #Touristshubham #tspod #openai #deepseek #claude #gemini",
+      "commentCount": 8,
+      "likeCount": 12,
+      "probeClient": "web_embedded"
+    },
+    "8eIVapu_rDo": {
+      "checkedAt": "2026-07-31T19:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, I'm giving you a complete walkthrough of the WhatsApp booking system I run for myself and for my clients — confirmations, reminders, reschedules, cancellations, and automated no-show follow-ups. This is a business video, not a coding tutorial.\n\n 00:00 – Intro\n 1:38 – Who I Am\n 1:55 – The Money You're Losing\n 2:36 – What This Video Covers\n 3:09 – The 5 States Of A Booking\n 4:18 – Why My Calendar Needs This\n 5:07 – The 3 Pieces Of The System\n 6:05 – Why Reminders Aren't Optional\n 6:46 – Cal.com Webhooks & The n8n Workflow\n 8:08 – The WhatsApp Messages\n 8:50 – Where Else This Sequence Works\n 9:11 – Why Every Message Has A Button\n 10:07 – What It Costs To Run\n 11:41 – Who This Is For\n 12:11 – Outro\n\n• how to stop no shows with whatsapp reminders\n• whatsapp appointment reminder automation tutorial\n• cal com n8n whatsapp booking automation\n• automate appointment reminders for clinic india\n• whatsapp no show follow up automationHi. \n\n🚀 Join my Skool Community: https://www.skool.com/ai-automation-club-7843\n\n✅ Want AI Integration for Your Business?\n🔹 WhatsApp Automation: https://www.chatsyncs.com/?utm_source=youtube&utm_medium=video_desc\n🔹 AI & Automation Agency: https://www.neuriqai.com/?utm_source=youtube&utm_medium=video_desc\n🔹 Work Mail : hello@lakshitukani.com\n🔹 Schedule Call : https://topmate.io/lakshit_ukani77\n\n🔗 Tool I use Everyday 🔗\n👉 Apify: https://www.apify.com?fpr=lakshit \n👉 n8n workflow platform: https://bit.ly/lakshit_n8n\n👉 Hostinger VPS Link: https://hostinger.com/in/lakshit\n👉 Wispr Pro Speech-to-Text: https://wisprflow.ai/r?FREELANCE2\n👉 Supbase: https://supabase.link/AP4Q530 \n\n✨ Connect With Me ✨\n🔹 LinkedIn: https://www.linkedin.com/in/lakshit-ukani/\n🔹 Instagram: https://www.instagram.com/lakshit.ai/\n\n💡 Don't Forget to Subscribe 💡\nI teach n8n workflow automation with this step-by-step tutorial - build powerful no-code automations and streamline your processes with n8n's visual workflow builder\n\nEnjoyed this video?🔥 Hit the \"LIKE\" button and SUBSCRIBE for more such videos! Don’t forget to turn on notifications🔔 so you never miss an update.\n\n👉 Comment below and let me know: What do you want to learn next? Let's build a smarter, more efficient future together! 🚀",
+      "commentCount": 2,
+      "likeCount": 17,
+      "probeClient": "web_embedded"
+    },
+    "heQBd1MweDE": {
+      "checkedAt": "2026-07-31T19:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI से Documentary Video Kaise Banaye? 🔥 Full Tutorial (FREE)\n\nLearn how to create AI Documentary videos for FREE using AI tools. Whether you're creating documentaries, storytelling videos, history content, or any other long-form AI videos, this tutorial will help you build your entire workflow from start to finish.\n\n🔹 In this video, you'll learn:\n\n✅ How to generate a powerful documentary story with AI\n✅ How to create realistic AI voiceovers for free\n✅ How to generate high-quality AI images\n✅ How to convert images into cinematic AI videos\n✅ How to design a professional YouTube thumbnail\n✅ How to create complete long-form AI videos for free\n\n•Prompt: https://drive.google.com/drive/folders/1Y0ZVfBgAe0vqXr4_EB-Z7QmB_psQcU_4\n•Join Telegram: https://t.me/niteshnayak02\n•Personal msg: https://www.instagram.com/niteshnayak_02\n\nFor Brand Collaboration & Promotion:-\n📩Email: realnitesh111@gmail.com\n\n🎥 Recorded & Presented by: Nitesh Nayak\nSubscribe for more Viral content creation tutorials❤️\n\n🔑 Keywords\nAI documentary video, AI documentary tutorial, AI documentary, AI video tutorial, AI video generator, AI long video, AI long form video, AI storytelling, AI story video, AI history video, AI documentary workflow, AI content creation, AI video editing, AI image generator, AI image to video, AI voice generator, AI voiceover, AI thumbnail maker, AI thumbnail tutorial, free AI tools, free AI video generator, free AI documentary maker, create AI videos for free, how to make AI videos, how to make AI documentary, how to create long videos with AI, AI long video tutorial, unlimited AI video generation, AI automation, AI filmmaking, cinematic AI videos, documentary video creation, AI content creator, YouTube AI videos, AI tutorial\n\n#️⃣ Hashtags\n#AI #AITools #AIVideo #AIDocumentary #AIDocumentaryVideo #AITutorial #AIVideoGenerator #FreeAITools #AIVoice #AIVoiceover #AIImageGenerator #ImageToVideo #AIThumbnail #LongVideo #LongFormVideo #AIContent #ContentCreation #YouTubeAutomation #Storytelling #Documentary\n\n⏰ TIMESTAMPS\n00:00 - Intro + Result\n05:11 - Story Generation\n07:19 - Voice Over\n09:22 - Character Generation\n10:53 - Image Generation\n15:38 - Video Generation\n20:10 - Editing\n25:01 - Thumbnail Design",
+      "commentCount": 113,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "8b0uohq-0OY": {
+      "checkedAt": "2026-07-31T19:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I vibe coded a fully automated AI trading bot using Claude AI and AI agents, no traditional coding required. Here's exactly how I built it and what the real live trading strategy results looked like.\n\n📂 Source code & resources → https://s3.amazonaws.com/aigde/index.html\n\n📬 Contact & collabs → https://t.me/DanOlinger\n\n🤖 WHAT'S COVERED:\n✅ Vibe coding an AI trading bot with Claude AI agents from scratch\n✅ Using an AI agent to automate your crypto trading strategy\n✅ AI automation with day trading strategy tactics\n✅ Real day trading results & honest breakdown\n\n📌 TIMESTAMPS:\n0:00 — AI Agents and Crypto Trading Explained\n1:00 — Setting Up The AI Trading Bot\n5:00 — AI Agent Live Trading Test\n6:20 — Day Trading Results Coverage\n\n🔔 Subscribe for more AI agent, vibe coding & crypto trading content.\n\n#ai #aiagents #daytrading #crypto #claude #chatgpt \n\n🎵 Music \"Empty Head\" by ‘Tama & Dust Diggers’\nhttps://www.youtube.com/watch?v=vL0ExyKMq2M\n💿 Listen everywhere: \nhttps://lofihiphop.de/emptyhead\n✅ For more Copyright Free Music visit:\nhttps://youtube.tamamusic.com",
+      "commentCount": 0,
+      "likeCount": 151,
       "probeClient": "web_embedded"
     }
   }

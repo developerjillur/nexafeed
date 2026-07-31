@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T18:53:06Z",
+  "updatedAt": "2026-07-31T19:53:11Z",
   "items": [
+    {
+      "id": "zazasynMZ6g",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-07-31T19:08:48Z",
+      "firstSeenAt": "2026-07-31T19:53:11Z"
+    },
+    {
+      "id": "sOM_-sBbCHE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-07-31T19:00:11Z",
+      "firstSeenAt": "2026-07-31T19:53:11Z"
+    },
+    {
+      "id": "A2aYUXtW8q0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Arshil Haque",
+      "publishedAt": "2026-07-31T17:53:11Z",
+      "firstSeenAt": "2026-07-31T19:53:11Z"
+    },
+    {
+      "id": "TDZ1yepZmrM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tourist Shubham and Aashish Pahwa",
+      "publishedAt": "2026-07-31T14:53:11Z",
+      "firstSeenAt": "2026-07-31T19:53:11Z"
+    },
+    {
+      "id": "8eIVapu_rDo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lakshit Ukani | AI Automation",
+      "publishedAt": "2026-07-31T13:53:11Z",
+      "firstSeenAt": "2026-07-31T19:53:11Z"
+    },
+    {
+      "id": "heQBd1MweDE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nitesh Nayak",
+      "publishedAt": "2026-07-31T13:53:11Z",
+      "firstSeenAt": "2026-07-31T19:53:11Z"
+    },
+    {
+      "id": "8b0uohq-0OY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dan Olinger",
+      "publishedAt": "2026-07-31T10:53:11Z",
+      "firstSeenAt": "2026-07-31T19:53:11Z"
+    },
     {
       "id": "s1Jv9mPLh9I",
       "type": "short",
@@ -7117,6 +7173,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-07-31T19:53:11Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
