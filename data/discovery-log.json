@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T01:53:44Z",
+  "updatedAt": "2026-07-31T02:53:10Z",
   "items": [
+    {
+      "id": "YFaHjv1PNMc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Firstpost",
+      "publishedAt": "2026-07-30T18:53:10Z",
+      "firstSeenAt": "2026-07-31T02:53:10Z"
+    },
+    {
+      "id": "Vgp5_-xeY_s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TEDx Talks",
+      "publishedAt": "2026-07-30T15:53:10Z",
+      "firstSeenAt": "2026-07-31T02:53:10Z"
+    },
+    {
+      "id": "b2PESRl7De4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "IBM Technology",
+      "publishedAt": "2026-07-30T11:53:10Z",
+      "firstSeenAt": "2026-07-31T02:53:10Z"
+    },
     {
       "id": "pcqQ3CtkzZw",
       "type": "short",
@@ -6348,6 +6372,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-07-31T02:53:10Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
