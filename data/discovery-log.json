@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T09:53:50Z",
+  "updatedAt": "2026-07-31T10:53:08Z",
   "items": [
+    {
+      "id": "Jd_dmi1bGE0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-07-31T10:30:16Z",
+      "firstSeenAt": "2026-07-31T10:53:08Z"
+    },
+    {
+      "id": "Z_H9OPqMFJo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Syntax",
+      "publishedAt": "2026-07-31T10:18:08Z",
+      "firstSeenAt": "2026-07-31T10:53:08Z"
+    },
+    {
+      "id": "tsQuNWeuiAQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-07-30T14:53:08Z",
+      "firstSeenAt": "2026-07-31T10:53:08Z"
+    },
     {
       "id": "xukJ9U3V9_E",
       "type": "long",
@@ -6596,6 +6620,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-07-31T10:53:08Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }

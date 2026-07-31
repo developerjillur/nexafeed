@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T09:53:50Z",
+  "updatedAt": "2026-07-31T10:53:08Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -1542,15 +1542,6 @@
       "description": "Hey everyone, In this video, we are going to talk about Thundering Herd Problem. We will understand what Thundering Herd Problem is and how to solve it. We will also talk about solutions such as adding jitter, cache inflight requests etc.\n\nCheckout My Courses:\n- Master Docker Containerization: https://pro.piyushgarg.dev/learn/docker\n- Master DSA with Java: https://piyushgarg.pro/udemy-java-dsa\n- Master GenAI with Python: https://piyushgarg.pro/udemy-genai\n- Master Backend with NodeJS: https://piyushgarg.pro/udemy-nodejs\n\nFollow Me:\n- Instagram: https://www.instagram.com/piyushgarg.official\n- X (Formerly Twitter): https://x.com/piyushgarg_dev\n- Personal Website: https://www.piyushgarg.dev\n- LinkedIn: https://www.linkedin.com/in/piyushgarg195\n\nFounder / Creator of:\n- Teachyst: https://www.teachyst.com\n- WisprType: https://wisprtype.com\n- SkyPing: https://skyping.app\n\nMy Gears:\n- Standing Desk: https://amzn.to/4cUN6PL\n- Chair: https://amzn.to/429Q38S\n- MacBook Pro: https://amzn.to/4djTYGf\n- Keyboard: https://amzn.to/4w228KQ\n- Mouse: https://amzn.to/42Hxw3J\n\nVideo Titles\n- What is Thundering Herd Problem?\n- Thundering Herd Problem in System Design\n- System Design for Beginners.\n\nHashtags\n#nodejs #javascript #webdevelopment #systemdesign #backenddeveloper #fullstackwebdevelopment #javascript #coding #programming #systemdesign #htmlcss #webdevelopment",
       "commentCount": 17,
       "likeCount": 348,
-      "probeClient": "web_embedded"
-    },
-    "qzP5RPJmU_A": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Creating your first **Claude AI Agent** is now easier than ever.\n\nWith this free open-source setup, you can launch AI agents without writing complex commands or even opening the terminal.\n\nComment **\"Agent\"** if you want a complete step-by-step tutorial.\n\n#ClaudeAI #ClaudeCode #AIAgents #Anthropic #Programming #Coding #AIAutomation",
-      "commentCount": 91,
-      "likeCount": 1215,
       "probeClient": "web_embedded"
     },
     "c-dfy353364": {
@@ -6285,7 +6276,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-31T09:53:50Z",
+      "checkedAt": "2026-07-31T10:53:08Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6503,15 +6494,6 @@
       "availability": "public",
       "description": "The course I learnt from 👉https://www.skool.com/makerschool/about?ref=c2b9ac9336bd481b8510208532e310e7\nAi Automation Discord 👉 https://discord.gg/VpRxru5Xcm\nFollow me on insta 👉 https://www.instagram.com/finnharris10k/\nFollow me on X 👉 https://x.com/FinnHarris10k\n\nToday's thread on X 👉 https://x.com/FinnHarris10k/status/2082816398816911499\n\nDM me on Discord for a consultation\n\nfinn@qemoza.ai | https://qemoza.ai/\n\n--------------------\nAI automation, AI agency, automation agency, AI business, AI entrepreneur, documenting my journey, business journey, building an AI agency, starting an AI business, AI consulting, AI freelancer, financial freedom journey, making £20k per month, £20k/month goal, AI income journey, scaling to six figures, how to get clients, client acquisition, AI client acquisition, high-ticket clients, selling AI automations, AI workflows, no-code automation, automation for businesses, Zapier automation, Make.com automation, ChatGPT automation, AI tools for business, automate small business, AI side hustle, AI business model, scaling service business, online business journey, entrepreneurship documentary, startup journey, business automation, workflow automation, AI systems, solo entrepreneur, one-person business, automation tutorial, AI roadmap",
       "commentCount": 10,
-      "likeCount": 5,
-      "probeClient": "web_embedded"
-    },
-    "Pzmm1OjBHVk": {
-      "checkedAt": "2026-07-30T19:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get 20% off Apify with code FUTURMINDS20 on this link: https://www.apify.com?fpr=futurminds\n\nHermes Lead Generation Agent That Finds and Qualifies Local Business Leads Automatically — No Code\n\n-------\nFor business enquiries: ai@futurminds.com\n\n🔗 My Resources:\n\nActors used:\nhttps://apify.com/apify/website-content-crawler?fpr=futurminds\nhttps://apify.com/apify/facebook-ads-scraper?fpr=futurminds\nhttps://apify.com/apify/screenshot-url?fpr=futurminds\nhttps://apify.com/compass/crawler-google-places?fpr=futurminds\n\nUse the below link and coupon code 'FUTURMINDS' to get 10% DISCOUNT.\nHostinger VPS : https://www.hostg.xyz/SHJ4D\n\nStart creating n8n workflows: https://n8n.partnerlinks.io/futurminds\n\n-------\n\nIn this tutorial you'll build an AI lead generation agent that finds local business leads on Google Maps, audits each one, and scores them so every lead is pre-qualified before you ever reach out — no code required. One plain-English instruction, and it fills a table with graded, ready-to-use leads while you sleep.\n\nMost lead scrapers just dump a raw list of names and phone numbers. This build goes further: using Hermes Agent, Apify, and Airtable, the agent pulls each business's Google profile, screenshots their website, checks the Facebook Ad Library, and reads their social activity — then scores how badly they need help and drafts a personalized opener into your Airtable base. You'll connect Apify and Airtable to Hermes through MCP, run the full qualification pipeline on real dentists in Austin, turn the whole workflow into a reusable Hermes skill, and schedule it as a cron job so fresh, qualified leads land every morning. It works for any niche — plumbers, gyms, law firms, agencies — by changing two words. This is for freelancers, agency owners, and founders who are tired of buying junk lead lists and want a repeatable, no-code way to find clients who actually need their service.\n\n⏱️ CHAPTERS:\n0:00 - Intro\n1:11 - The Toolkit\n2:09 - Installing Hermes Agent\n3:15 - Connecting Airtable to Hermes\n4:16 - Hermes Dashboard Setup\n4:44 - Connecting Apify\n5:44 - Four Actors We Need\n6:34 - Finding and Qualifying Leads Live\n8:14 - Turning It Into a Reusable Skill\n9:40 - Automating It With a Cron Job\n10:18 - Turning Qualified Leads Into Clients\n\n🔑 Key Takeaways:\n• Find local business leads on Google Maps and qualify them automatically\n• Score every lead by website quality, ad activity, and social presence\n• Connect Apify and Airtable to Hermes Agent with MCP in minutes\n• Turn the whole workflow into a reusable skill you run with one line\n• Schedule it as a cron job so qualified leads arrive every morning\n\n❓ FAQ:\nQ: How do I find qualified leads with an AI agent?\nA: Connect a Google Maps scraper and your data tools to an AI agent like Hermes, then give it one instruction to find businesses, audit their website, ads, and socials, score each one, and save the qualified leads to a table. Every lead comes pre-scored by how much they need your service.\n\nQ: Can I build an AI lead generation agent with no code?\nA: Yes. You describe the whole workflow in plain English — find, audit, score, and save — and the agent runs it using ready-made Apify actors. No scripts or workflow builders required.\n\nQ: What is the difference between scraped leads and qualified leads?\nA: Scraped leads are just raw contact lists. Qualified leads are audited and scored — this agent grades each business's website, checks if they run ads, and reviews their socials, so you only reach out to businesses that actually need help.\n\nQ: Does the agent send the outreach messages too?\nA: Not in this build — it finds, qualifies, and drafts a personalized opener into Airtable. You can extend the same Hermes Agent to send emails and track replies as a next step.\n\n📢 Subscribe to FuturMinds for weekly AI tool tutorials and automation guides — helping non-dev builders master AI systems.\n\nWhether you're looking to automate lead generation, build your first no-code AI agent, or find qualified local business leads for your agency, this walkthrough shows the complete Hermes Agent setup — from connecting Apify and Airtable to scheduling an autonomous agent that qualifies leads for you every single day.",
-      "commentCount": 2,
       "likeCount": 5,
       "probeClient": "web_embedded"
     },
@@ -6807,15 +6789,6 @@
       "likeCount": 83,
       "probeClient": "web_embedded"
     },
-    "rTegjalTvoM": {
-      "checkedAt": "2026-07-31T04:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Lost? Overthinking? Welcome to NYC! 🚀\nThere is a massive gap between outdated college curriculums and the fast-paced world of real tech careers. We are here to bridge that gap.\n\nNot Your College (NYC) is designed for the next generation of ambitious students- who are ready to look beyond the \"Bhaiya-Didi\" hype and focus on what actually matters. Whether you are navigating a Tier-2 or Tier-3 college, we provide the \"Not in your syllabus\" guidance you need to dominate in Coding, AI, Web Development, and Internships.\n\nWhat you can expect here:\n✅ Step-by-Step Roadmaps: Practical paths from Beginner to Intermediate (DSA, Development, AI & More).\n✅ Tier-2 & Tier-3 Survival Guides: Proven strategies to win big without an IIT tag.\n✅ Career Truths: No fake promises or shortcuts—just the raw reality of the industry.\n✅ Beyond the Syllabus: Mastering life skills, personal aesthetics, and high-stakes decision-making.\n\nThe rules of the game have changed. Your college hasn't. It’s time to move smarter, build faster, and outpace the crowd.\n\n🔗 Join the NYC Community\n🌐Website -  https://notyourcollege.com/\n📸 Instagram: https://www.instagram.com/notyourcollege\n👾 Discord: https://discord.gg/Wjaba7ekBz\n💼 LinkedIn : https://linkedin.com/company/not-your-college\n\n\n#notYourCollege #tier3Reality #engineeringRoadmap #techCareer #codingForBeginners #btechLife #jeeFailed #engineeringStudents #careerGuidance",
-      "commentCount": 137,
-      "likeCount": 469,
-      "probeClient": "web_embedded"
-    },
     "-1e_HgnBq2M": {
       "checkedAt": "2026-07-31T05:53:33Z",
       "embedAllowed": true,
@@ -7020,6 +6993,36 @@
       "description": "In 2001, Jeff Dean and Sanjay Ghemawat did the math and realized Google’s entire search index would fit in RAM — then shipped it in a few days, and search got fast. In 2013, another napkin calculation showed that three minutes of daily speech recognition per user would require doubling Google’s server fleet. That one became the TPU. \n\nAt Startup School 2026, Google’s Chief Scientist talks with YC’s Diana Hu through the thought experiments behind both, why inference hardware is the next specialization, and where two or three people in a room can still win.\n\nTranscript: https://www.ycrootaccess.com/p/jeff-dean-the-1-rule-for-building\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:00 — Intro\n00:07 — Are AI Models Already Junior Engineers?\n01:44 — AI Systems That Improve Themselves\n02:40 — The Google Search Breakthrough That Changed Everything\n04:38 — AI Agents Will Run for Weeks\n05:58 — The Napkin Math That Led to TPUs\n09:20 — How to Find Breakthrough Ideas\n10:25 — The AI Engineer’s New Mental Model\n12:33 — Why AI Is Really an Energy Problem\n16:11 — Context Engineering Is the Next Frontier\n19:46 — The Skill That Made AI Better at Optimization\n22:13 — Why Long-Running Agents Fail\n25:21 — Where Startups Can Still Beat Google\n31:19 — How to Become an AI-Native Founder\n36:36 — Question Your Biggest Assumptions\n42:08 — AI That Builds Better AI\n50:02 — Build Something That Truly Matters",
       "commentCount": 19,
       "likeCount": 489,
+      "probeClient": "web_embedded"
+    },
+    "Jd_dmi1bGE0": {
+      "checkedAt": "2026-07-31T10:53:08Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "These 5 ChatGPT prompts can help you get better responses, simpler explanations, deeper reasoning, and multiple answer variations.\n\nSave this Reel and try them yourself!\n\n#ChatGPT #OpenAI #AI #PromptEngineering #Productivity #ArtificialIntelligence #Tech #Coding",
+      "commentCount": 0,
+      "likeCount": 8,
+      "comments": [],
+      "commentsFetchedAt": "2026-07-31T10:53:08Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "Z_H9OPqMFJo": {
+      "checkedAt": "2026-07-31T10:53:08Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Follow us on Instagram : https://www.instagram.com/aisyntax_official?igsh=MWkxY2Q5Z2cxbDJxNQ==\n\n\nWatch till the end for complete understanding.\nSubscribe to Learning Way for more AI, ML, and coding videos.\n#AI #MachineLearning #Python #Coding #DataScience #Programming #LearnCoding #ArtificialIntelligence #TechEducation #PythonTutorial\n\n\nAI, Machine Learning, Python, Python tutorial, coding, programming, data science, artificial intelligence, deep learning, AI projects, ML projects, coding for beginners, tech education, learn python, programming tutorials, software development, computer science, beginner coding, AI tutorial, machine learning tutorial",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "tsQuNWeuiAQ": {
+      "checkedAt": "2026-07-31T10:53:08Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥Michigan Engineering - Professional Certificate in AI and Machine Learning - https://www.simplilearn.com/professional-aiml-program?utm_campaign=tsQuNWeuiAQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥IIT Kanpur - Professional Certificate Course in Generative AI and Machine Learning - https://www.simplilearn.com/iitk-professional-certificate-course-ai-machine-learning?utm_campaign=tsQuNWeuiAQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Microsoft AI Engineer Program - https://www.simplilearn.com/ai-engineer-course?utm_campaign=tsQuNWeuiAQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Michigan Engineering Professional Education - Applied Generative AI Specialization - https://www.simplilearn.com/applied-ai-course?utm_campaign=tsQuNWeuiAQ&utm_medium=DescriptionFirstFold&utm_source=Youtube\n\nThis video on AI and Machine Learning Full Course by Simplilearn will help you learn the fundamentals of Artificial Intelligence and Machine Learning from beginner to advanced level. The course covers Python programming, data preprocessing, supervised and unsupervised learning, deep learning, neural networks, natural language processing, computer vision, generative AI, and model deployment using industry-standard tools and frameworks. You will also learn how to build, train, evaluate, and optimize AI and machine learning models through hands-on projects and real-world use cases. By the end of this AI and Machine Learning tutorial, you will have a strong understanding of AI concepts and the practical skills needed to develop intelligent, data-driven applications.\n\nFollowing are the topics covered in the Artificial Intelligence and Machine Learning Full Course 2026:\n\n00:00:00 - Artificial Intelligence and Machine Learning Full Course 2026\n00:03:48 - What is AI?\n00:10:43 - What is Machine Learning?\n01:16:37 - AI With Python Full Course 2026\n01:20:01 - Fundamentals of Python For AI\n02:04:20 - Why Python dominates AI\n02:12:18 - Development environments overview\n03:21:40 - Google Colab setup\n03:46:34 - Python syntax fundamentals\n04:10:04 - Print input and comments\n04:57:17 - Variables and data types\n05:42:47 - Operators and comparisons\n06:33:23 - Lesson 2 introduction\n06:40:18 - List indexing and access\n07:01:25 - List slicing explained\n07:22:46 - List methods and final Project\n08:05:04 - Regression and Classification Basics\n08:09:06 - Lesson Objectives and Business Scenario\n09:02:07 - Environment Setup and Lesson Files\n09:12:54 - Linear Regression Theory\n10:20:32 - Polynomial Regression and Recap\n10:29:36 - Parameters and Hyperparameters\n11:01:59 - Data Leakage and Data Preprocessing\n11:06:07 - Regularization for Overfitting Control\n12:24:37 - Classification Foundations\n12:52:13 - Logistic Regression Theory\n13:15:25 - Logistic Regression Practical Example\n13:43:56 - Naive Bayes Classifier\n14:00:55 - K-Nearest Neighbors (KNN) Classifier\n14:08:54 - Hyperparameter tuning\n15:38:21 - bike rental regression Machine learning project\n16:19:50 - Python Basics For Machine Learning \n16:19:50 - Machine Learning With Python Full Course 2025\n17:06:42 - Decision Tree\n17:43:15 - Clustering\n18:37:53 - Data and its types\n19:49:12 - Probability\n20:27:43 - Multiple Linear Regression\n21:05:45 - Confusion Matrices\n22:19:44 - KNN\n22:43:30 - Support Vector Machine\n23:34:30 - Principle Component Analysis\n24:12:51 - Corona Virus Analysis\n24:20:37 - Python For Machine Learning\n25:03:23 - Semi-Supervised Learning Overview\n25:10:04 - Reinforcement Learning Fundamentals\n25:23:19 - Python Packages for Machine Learning\n26:09:35 - Simple and Multiple Regression\n26:23:57 - Preparing Data for Regression\n27:04:27 - Overfitting and Underfitting\n27:12:29 - Recap, Polynomial Regression, and Metrics\n28:48:29 - Regularization Overview\n28:56:43 - Lasso Regression Theory\n29:10:44 - Lasso Regression in Code\n30:04:23 - Ridge Regression Recap\n30:32:45 - Hyperparameter Tuning Concepts\n31:05:18 - Pipelines and Preprocessing Automation\n31:59:51 - Supervised Vs Unsupervised vs Reinforced Learning\n32:09:01 - Supervised & unsupervised\n32:17:55 - Linear & Logistic Regression\n34:30:30 - Naive Bayes and BVM\n35:37:06 - K nearest Neighbors\n36:03:31 - K Means Clustering\n36:52:16 - PCA and regulation\n37:38:10 - Probability And Statistics\n38:48:19 - R Squared Error\n39:14:26 - Deep Learning Interview Questions\n40:19:13 - Mathematics for machine learning\n47:13:34 - Machine Learning Interview Questions 2026\n\n✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More Videos In This Category By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq\n\n#aiandmachinelearningengineerfullcourse #ai #aiml #aicourse #machinelearningcourse #learnai #mltutorial #aiforbeginners #datascience #deeplearning #aiandml #mltraining #aicareer #simplilearn #2026\n\n👉 Learn More At: https://www.simplilearn.com/professional-aiml-program?utm_campaign=tsQuNWeuiAQ&utm_medium=Description&utm_source=Youtube",
+      "commentCount": 5,
+      "likeCount": 123,
       "probeClient": "web_embedded"
     }
   }
