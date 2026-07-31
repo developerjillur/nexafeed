@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T15:53:47Z",
+  "updatedAt": "2026-07-31T16:53:52Z",
   "items": [
+    {
+      "id": "uR2JDsLZS6I",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-07-31T16:25:35Z",
+      "firstSeenAt": "2026-07-31T16:53:52Z"
+    },
+    {
+      "id": "UMG0jPM4t6c",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-07-31T16:21:11Z",
+      "firstSeenAt": "2026-07-31T16:53:52Z"
+    },
+    {
+      "id": "tpge9xJ0m5U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Codesistency",
+      "publishedAt": "2026-07-31T15:59:52Z",
+      "firstSeenAt": "2026-07-31T16:53:52Z"
+    },
+    {
+      "id": "c4WnIWhnxdk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Code With Yousaf",
+      "publishedAt": "2026-07-31T15:53:52Z",
+      "firstSeenAt": "2026-07-31T16:53:52Z"
+    },
+    {
+      "id": "mG-3fHjwzKw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mikey No Code",
+      "publishedAt": "2026-07-31T14:53:52Z",
+      "firstSeenAt": "2026-07-31T16:53:52Z"
+    },
+    {
+      "id": "-UxcljWN49I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kai",
+      "publishedAt": "2026-07-31T10:53:52Z",
+      "firstSeenAt": "2026-07-31T16:53:52Z"
+    },
+    {
+      "id": "q4vVKyLn28I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI with FZ",
+      "publishedAt": "2026-07-31T04:53:52Z",
+      "firstSeenAt": "2026-07-31T16:53:52Z"
+    },
     {
       "id": "AVVicrY9f3Q",
       "type": "short",
@@ -6914,6 +6970,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-07-31T16:53:52Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
