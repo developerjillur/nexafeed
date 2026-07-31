@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T19:53:11Z",
+  "updatedAt": "2026-07-31T20:53:20Z",
   "items": [
+    {
+      "id": "tvZimMnCwyE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CNBC",
+      "publishedAt": "2026-07-31T17:53:20Z",
+      "firstSeenAt": "2026-07-31T20:53:20Z"
+    },
+    {
+      "id": "pGro_uKt-_M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI LABS",
+      "publishedAt": "2026-07-31T16:53:20Z",
+      "firstSeenAt": "2026-07-31T20:53:20Z"
+    },
+    {
+      "id": "BM39OouLNsM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DSwithBappy",
+      "publishedAt": "2026-07-31T14:53:20Z",
+      "firstSeenAt": "2026-07-31T20:53:20Z"
+    },
+    {
+      "id": "ZUTOm0GrdHU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Parker Prompts",
+      "publishedAt": "2026-07-31T13:53:20Z",
+      "firstSeenAt": "2026-07-31T20:53:20Z"
+    },
+    {
+      "id": "rdC_Nx_iysY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Luke Finance",
+      "publishedAt": "2026-07-31T13:53:20Z",
+      "firstSeenAt": "2026-07-31T20:53:20Z"
+    },
+    {
+      "id": "mo-U96qiJIs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nkracademy Digital Solutions",
+      "publishedAt": "2026-07-31T13:53:20Z",
+      "firstSeenAt": "2026-07-31T20:53:20Z"
+    },
     {
       "id": "zazasynMZ6g",
       "type": "long",
@@ -7182,6 +7230,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-07-31T20:53:20Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
