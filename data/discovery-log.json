@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T04:53:24Z",
+  "updatedAt": "2026-07-31T05:53:33Z",
   "items": [
+    {
+      "id": "-1e_HgnBq2M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Omnilogin",
+      "publishedAt": "2026-07-31T03:53:33Z",
+      "firstSeenAt": "2026-07-31T05:53:33Z"
+    },
+    {
+      "id": "wzgJfBN_8Sk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sajjaad Khader",
+      "publishedAt": "2026-07-30T21:53:33Z",
+      "firstSeenAt": "2026-07-31T05:53:33Z"
+    },
     {
       "id": "EJZWr-U86Bo",
       "type": "short",
@@ -6463,6 +6479,15 @@
       "channelsChecked": 33,
       "warnings": 29,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-07-31T05:53:33Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 27,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
