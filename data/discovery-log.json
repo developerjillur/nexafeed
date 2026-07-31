@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T22:53:39Z",
+  "updatedAt": "2026-07-31T23:53:48Z",
   "items": [
+    {
+      "id": "PqxJPRQupFI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Softwarify AI Talks",
+      "publishedAt": "2026-07-31T23:00:48Z",
+      "firstSeenAt": "2026-07-31T23:53:48Z"
+    },
+    {
+      "id": "LmXU6SEH3Ks",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The PrimeTime",
+      "publishedAt": "2026-07-31T13:53:48Z",
+      "firstSeenAt": "2026-07-31T23:53:48Z"
+    },
+    {
+      "id": "KLiCPAwaRwY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ali Hossain",
+      "publishedAt": "2026-07-31T09:53:48Z",
+      "firstSeenAt": "2026-07-31T23:53:48Z"
+    },
     {
       "id": "CyBGasrZbY8",
       "type": "short",
@@ -7321,6 +7345,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-07-31T23:53:48Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
