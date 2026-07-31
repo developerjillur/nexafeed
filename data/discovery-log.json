@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T05:53:33Z",
+  "updatedAt": "2026-07-31T06:53:40Z",
   "items": [
+    {
+      "id": "6P59bezqYUY",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-07-31T06:30:09Z",
+      "firstSeenAt": "2026-07-31T06:53:40Z"
+    },
+    {
+      "id": "SLw2Ce950hs",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-07-31T06:25:01Z",
+      "firstSeenAt": "2026-07-31T06:53:40Z"
+    },
+    {
+      "id": "CbrTDnfSqlE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-07-31T06:00:06Z",
+      "firstSeenAt": "2026-07-31T06:53:40Z"
+    },
+    {
+      "id": "tyWhQT5P8hA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "voiceaiwrapper",
+      "publishedAt": "2026-07-30T21:53:40Z",
+      "firstSeenAt": "2026-07-31T06:53:40Z"
+    },
     {
       "id": "-1e_HgnBq2M",
       "type": "long",
@@ -6488,6 +6520,15 @@
       "channelsChecked": 33,
       "warnings": 27,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-07-31T06:53:40Z",
+      "new": 4,
+      "long": 1,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 31,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
