@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T16:53:52Z",
+  "updatedAt": "2026-07-31T17:53:56Z",
   "items": [
+    {
+      "id": "vR8VwGQrniY",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-07-31T17:46:29Z",
+      "firstSeenAt": "2026-07-31T17:53:56Z"
+    },
+    {
+      "id": "Ylhnms7QlDA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mike Scully",
+      "publishedAt": "2026-07-31T16:55:56Z",
+      "firstSeenAt": "2026-07-31T17:53:56Z"
+    },
+    {
+      "id": "aE1cxVTEbcw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vendasta",
+      "publishedAt": "2026-07-31T16:53:56Z",
+      "firstSeenAt": "2026-07-31T17:53:56Z"
+    },
+    {
+      "id": "nIAMHcLiRvw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GHL Wizard",
+      "publishedAt": "2026-07-31T16:53:56Z",
+      "firstSeenAt": "2026-07-31T17:53:56Z"
+    },
+    {
+      "id": "6gnKa0wu5D4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AskingAi Pro",
+      "publishedAt": "2026-07-31T16:53:56Z",
+      "firstSeenAt": "2026-07-31T17:53:56Z"
+    },
+    {
+      "id": "7BrjgoTbtlU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Clay Lawrence",
+      "publishedAt": "2026-07-31T15:53:56Z",
+      "firstSeenAt": "2026-07-31T17:53:56Z"
+    },
+    {
+      "id": "S87kTFXkLq4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Brain 🧠🌐",
+      "publishedAt": "2026-07-31T13:53:56Z",
+      "firstSeenAt": "2026-07-31T17:53:56Z"
+    },
+    {
+      "id": "TGFy3Ckc1-o",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Merchynt",
+      "publishedAt": "2026-07-30T19:53:56Z",
+      "firstSeenAt": "2026-07-31T17:53:56Z"
+    },
     {
       "id": "uR2JDsLZS6I",
       "type": "short",
@@ -6033,14 +6097,6 @@
       "channel": "Greg Preece",
       "publishedAt": "2026-05-08T16:54:03Z",
       "firstSeenAt": "2026-05-08T16:54:03Z"
-    },
-    {
-      "id": "Aj2LoQ8hcSQ",
-      "type": "long",
-      "source": "primary",
-      "channel": "Hasan Aboul Hasan",
-      "publishedAt": "2026-05-02T17:09:10Z",
-      "firstSeenAt": "2026-05-02T17:09:10Z"
     }
   ],
   "runs": [
@@ -6979,6 +7035,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-07-31T17:53:56Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }

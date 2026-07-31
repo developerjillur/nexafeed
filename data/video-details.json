@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T16:53:52Z",
+  "updatedAt": "2026-07-31T17:53:56Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -942,99 +942,6 @@
       "description": "Anthropic just dropped Claude Opus 5, so I put it head to head against Fable 5 and GPT 5.6 on cost, latency and intelligence using OpenRouter and Artificial Analysis, then rebuilt my SaaS landing page with it.\n\nKey takeaways:\n\n- Cost: Opus 5 is $30 vs Fable 5 at $60 and GPT 5.6 at $35\n- Latency: Opus 5 beats Fable 5 (5s) and GPT 5.6 (4s), all three ship a 1M token context window\n- Intelligence: Opus 5 tops the Artificial Analysis index and the coding index\n- Real build: Opus 5 designed and embedded the full scroll animation on bookzero.ai\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\nTimestamps:\n0:00 Intro\n0:11 Cost Comparison\n0:30 Latency & Context\n1:05 Intelligence Index\n1:54 Live Demo\n2:51 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
       "commentCount": 6,
       "likeCount": 26,
-      "probeClient": "web_embedded"
-    },
-    "QCT_JgduokE": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment \"Design\" for all 4 anti-slop website tools\n\nYour Claude Code site looks like every other AI site.\n\nSame gradient. Same rounded cards. Same dead buttons.\n\nHere's the thing.\n\nYou never gave Claude a design to copy.\n\ngetdesign.md hands it Apple, Stripe, or Linear's real system.\n21st.dev hands it the animation as a copy-paste prompt.\nImpeccable and Taste run last and kill the slop.\n\nDesign in. Motion in. Slop out.\n\n#ClaudeCode\n#AItools\n#WebDesign\n#AIAgents\n#BuildInPublic",
-      "commentCount": 8,
-      "likeCount": 212,
-      "comments": [
-        {
-          "id": "UgxnWBP91z20o3JWSP14AaABAg",
-          "author": "@charlieautomates",
-          "text": "The resource can be found here FYI: https://www.charlieautomates.com/free-resources/#anti-slop-design-stack",
-          "likeCount": 1,
-          "publishedAt": "2026-07-25T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "UgwipgUkxYOARMwG0ih4AaABAg",
-          "author": "@RichardGreen-s1q",
-          "text": "Design",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lTsn_SEf4XL2vXIaaoqLUud5NQ9oq-8qVva6nli6qHfYKIw450e_k2BCXQMQ4EGZfOvw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw7uByI2W5mhFdNrz94AaABAg",
-          "author": "@singletaryj472",
-          "text": "Design",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kyoDlecSGXIbKmbti7VzpKQ7GlDqp4CxnTQ25m1UOzZTOG=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwKbXfiQWt2SqIX8o54AaABAg",
-          "author": "@SuperMarioAIPro",
-          "text": "Design",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/x9vVXTIV5DcJOM3rEkHMdABdVL6D85BSi4LuIYxNSMPfi8SjxbJ1gjWn6YU6iDLkqf0SR2ykVQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzRcxDAVy3doTrN_Yp4AaABAg",
-          "author": "@vladimirvasic7742",
-          "text": "Design",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m1AFYa5nme9_W_dmORYMQVA_GFGkhGUCJnyDzVTtmDdLJ9=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxss6Yq_cf2zyz4xfF4AaABAg",
-          "author": "@NICKLANGE-m3p1b",
-          "text": "?🤖?🛡️?📱?💯",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T12:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mkLO97kTQBhD1y6_12_RwCBlZbvm0lFWC1fm-6j2EAW9Vj9t7ftMX_By3gz5Ppz7-oIQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz61aH2pxYs_KpGk2t4AaABAg",
-          "author": "@EdShirey",
-          "text": "Design",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T12:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kJUedU2WqwDpcrsmQAb-qEVpLxsjEuxfEMLyaoJb0l-nhb-fCqU55-F6mWWnxz_ZaYDQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwUDWA_BIcEuh4XsXF4AaABAg",
-          "author": "@pastorwhitfield",
-          "text": "Design",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lWONSyBo7spGQrrByNKN1D34LoPHigdMNyYucb02O7XJQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "oofWirP7COk": {
@@ -5406,95 +5313,95 @@
       "probeClient": "web_embedded"
     },
     "py_--ZJqxMM": {
-      "checkedAt": "2026-07-30T17:53:38Z",
+      "checkedAt": "2026-07-31T17:53:56Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "An object roughly the size of a four-story building is on a collision course with the Moon, and astronomers around the world are preparing to watch.\n\nThe object is the upper stage of a SpaceX Falcon 9 rocket, catalogued as 2025-010D, launched on January 15, 2025 to carry two private lunar landers toward the Moon, Firefly Aerospace's Blue Ghost and ispace's Hakuto-R Mission 2. Once its job was done, the spent stage was left drifting through the Earth-Moon system rather than being deliberately disposed of. For over a year, the combined gravitational pull of Earth, the Moon, and the Sun, along with solar radiation pressure, continuously reshaped its orbit, until astronomer Bill Gray of Project Pluto calculated in September 2025 that impact with the Moon had become inevitable.\n\nThe upper stage, about 13.8 metres tall and weighing roughly 4 metric tons, will strike the lunar surface at approximately 8,700 kilometres per hour, more than seven times the speed of sound. Because the Moon has no atmosphere, there is nothing to burn the object up before impact. It will hit near Einstein Crater on the Moon's western limb, carving out a new crater estimated at 20 to 30 metres wide and throwing up a multi-kilometre plume of ejected dust.\n\nWhether this will be visible from Earth is still uncertain among scientists. If the dust cloud is bright enough, ground and space-based telescopes could capture the impact in real time. The predicted window is 06:35 to 06:44 UTC on August 5, 2026, which is 12:05 to 12:14 PM IST.\n\nThis is a rare opportunity. No artificial object has ever been directly observed striking the Moon's sunlit side before, and scientists hope the event will provide real data on lunar subsurface structure and crater formation.\n\nSource: Fernando, B. et al. (2026). Observational Planning for the 2026 August 5 Falcon 9 Upper Stage Lunar Impact. arXiv. Scientific American, A SpaceX Rocket Is About to Crash Into the Moon (2026). BBC Sky at Night Magazine (2026). EarthSky (2026).\n\n#SpaceX #Falcon9 #MoonImpact #EinsteinCrater #LunarImpact",
       "commentCount": 8,
-      "likeCount": 62939,
+      "likeCount": 79372,
       "comments": [
         {
-          "id": "Ugx3yP1v-pLt7t7kRat4AaABAg",
-          "author": "@sygamesss",
-          "text": "20 to 30 m on moon 😂,",
+          "id": "UgzZ_b9aN07wvA4FP354AaABAg",
+          "author": "@anubhavmondal8824",
+          "text": "Seriously man Humans are not even sparring the moon",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T17:50:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kjpmrqcoESb9fV9yFWDI2rmfdUELmDh8qB_XhKa2DRy1Yq_Mj9juv2Fgsj_Wy_m29VUw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-31T17:53:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nghqOIWbH3plwbFJDyFaUb-wLHFeiH34vF4JcFCssG0WxV=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwmUAiBRrOWFrCQf5l4AaABAg",
-          "author": "@ayushKumarSingh441",
-          "text": "5 aug 12:14pm",
+          "id": "UgzJa7fcssifSAbUvfl4AaABAg",
+          "author": "@Robbie-Bravo",
+          "text": "It won't be visible from India because of the timing",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T17:47:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/6aJ834tO552fqmISEtm17g9xdaaJzRFNBOEG4cFvuPOYdagRyQ7sIP10n1zBVRghBlmNCZ5LDwQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-31T17:50:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksQQl2B9h3YStUGVnbkEBwQ17nquLWhFzYP0HbtW3Fg4xF0T91e_MyLGpXuaKOx1LlOQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxQmsIv3ZK8ZKjirwF4AaABAg",
-          "author": "@firstnamelastname7463",
-          "text": "Don't tell me Christofer Nolan is behind this😂😂",
+          "id": "UgyCKCu4PScRuSnke0N4AaABAg",
+          "author": "@TabahidaarGaming-A",
+          "text": "Khaao maa kasam !",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T17:45:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mYTYoKF1B7tFs9gD1sl44yurR_Y02Iy7QE6tkZv623fEgSNVDLr4xTAKTESIRb6ryFFg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-31T17:29:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/hGTBcQ6G8-ufkRG_i2uVfwkNjy2ORpC_x1ZZSV8Zxz1RsG44250ka21B7g4HvcQPfLWYqyKt=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwFne-XcFCcKLxGhJV4AaABAg",
-          "author": "@Bunty-t1g",
-          "text": "Samsung ke phone se dekhne ka kuch jugad hoga ky bhai ?",
+          "id": "UgxkTtGI_gNjT2HaUmN4AaABAg",
+          "author": "@himanshusharma2979",
+          "text": "12 : 14 pm pai konsa moon dikhta hai",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T17:37:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mN1c1vzIft5ypy_rAQYCalK0QVpe02f37xaOHq7l5Pqc43B_9OZn0V4qqeYf-bVp7yIQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-31T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/NSBDopiV1FY0c3T-KkSGVfD7PLadNNp_6nlsNcXypDi3FV_ynT3OU2xXDCaZRMo9NFAhUZV2=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwAbQZzDwc1rdSx_Fx4AaABAg",
-          "author": "@Yalla_Habibi_Cat1",
-          "text": "Moon : Saalo mai kya kude daan hu 😢",
-          "likeCount": 1,
-          "publishedAt": "2026-07-30T17:24:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/yv-f3hwonv3x9AlfjFGmiwtaes41axKXjFpWBDv_7cl5OJo7ypuw1-6ZQ7_62ID6sOyukDspkw=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgwI8YYgd-OA4cExjN94AaABAg",
+          "author": "@NamishGoyal-n2k",
+          "text": "Wait 12 14 pm \nAfternoon\nDikha ga hi nagin",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLKPfQfsYtfUyqqe6FpMayQRafZoRgOUnqIFjEi-enSreCJmiWcdakwZy3g21qd24UHw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyZD6QnDcF77C_s4aZ4AaABAg",
-          "author": "@vilgaxplays46",
-          "text": "Bhi jake Pogo deko 🙌🏻",
+          "id": "UgwWyRk1WITEoO5Ujbt4AaABAg",
+          "author": "@JaimilPanchal",
+          "text": "Is it visible from india bcuz 12 15 pm toh noon mei kese??",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T17:23:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/P_C158fDwpKqH7gdlrsgZuiEiNzaTdgggYtO_1Rqp48kJduFG25pyW6zhri7NbDYu1PVlfNwNw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-31T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Y5TIgSjFQOijpPfKQ_P-5XaAoGa4KX34T6N5PleUASo1JZg4s_AYrYkluxMwofmQv-AmCBiRe-s=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxCOOqe4EwX1htizAV4AaABAg",
-          "author": "@sanjeevkumarsingh6285",
-          "text": "It's my birthday on that day",
+          "id": "Ugz_Zxh0XY86YeLDhLt4AaABAg",
+          "author": "@ayaanwasgood",
+          "text": "Holdup 12:14 pm???  Or am",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mBPfLhYkyYp1ExTDCV4b8Sgdg3zg6F5xx7x-9nyJZZToE=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-31T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lgOU0bWyWSw7RtW_yBOU4cfk0hAwUCLc0h8hPjSTs3RzM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzQC8oEvOjDfnCvZ4h4AaABAg",
-          "author": "@rau3848",
-          "text": "Ye to din ko ay ga to din ko nazar kesy ay ga?",
+          "id": "UgzzIMeR117sb_61Pk54AaABAg",
+          "author": "@multiplyeditz5900",
+          "text": "Always that one terror country",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_miAAAPZKICt45qLVk9PCfhKibQpsxJuYKJ1jCv5OhzuED7_B4kfBYRTHdu6Lm8ocHlAQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-31T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/JCFidroor14L0m5fl7pS8F_kgrOuFPOIDcLij1bgU_i2Y51x-NlX8y15GqR43dfr9mhj-5_oPQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-30T17:53:38Z",
+      "commentsFetchedAt": "2026-07-31T17:53:56Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5990,7 +5897,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-31T16:53:52Z",
+      "checkedAt": "2026-07-31T17:53:56Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6308,15 +6215,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "SxMuoiCYGMk": {
-      "checkedAt": "2026-07-30T17:53:38Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this podcast episode, Wayne Sutton interviews Argam, a founder and CTO based in Singapore, who shares his journey from coding at a young age to becoming a leader in the developer community. Developers will learn about the importance of relinquishing control in coding to focus on high-value tasks and how the landscape of software development has changed with the rise of AI. Argam discusses his experiences organizing hackathons, building communities, and the significance of real-time applications using Convex. He emphasizes that while the speed of development has increased, the core principles of building valuable products still apply.\n\nArgam also highlights the thriving tech scene in Singapore and the growing interest from major companies in engaging with local developers. He shares insights on the future of AI, the importance of community building, and how developers can harness tools effectively to create impactful solutions. \n\nTIMESTAMPS\n\n0:00 Introduction\n1:00 Background on Argam\n3:00 Transition from coding to community leadership\n6:33 Product philosophies in a fast-paced environment\n14:12 Insights from the AI Engineer conference\n18:49 Government support for tech in Singapore\n24:52 Experience with Convex\n29:13 DJing and community events\n33:12 Future of AI and the Singapore tech ecosystem\n41:12 Closing thoughts\n\nResources:\nhttps://convex.dev\nhttps://noiz.io/tools/youtube-summary",
-      "commentCount": 0,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
     "9VK5jrqGbYk": {
       "checkedAt": "2026-07-30T18:53:10Z",
       "embedAllowed": true,
@@ -6327,15 +6225,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-07-30T18:53:10Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "7Rmz0u19PNw": {
-      "checkedAt": "2026-07-30T18:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Keep engineering moving without exposing your company's most valuable technical assets. Discover how Tutela Agentic Security secures AI-assisted development and agentic workflows.\n\nWhen a production issue strikes, developers need answers quickly. Using an AI coding assistant can find the problem in minutes, but pasting stack traces, configuration files, or proprietary source code can inadvertently expose internal system details and API credentials. Blocking AI slows development, but allowing unrestricted use creates a massive security blind spot.\n\nIn this video, we explore how Tutela Agentic Security provides a governed path forward for development and security teams. Tutela inspects browser AI activity and API traffic to identify and protect sensitive data before the request proceeds. We also cover how the Tutela MCP Gateway secures agentic development by governing AI agent access to repositories and deployment tools.\n\nKey Capabilities Highlighted:\n\nProtect Proprietary Code: Automatically identify source code, credentials, personal information, and financial data in AI prompts.\n\nInline Developer Coaching: Redact exposed credentials, warn developers, block prohibited code sharing, or quarantine requests for review.\n\nSecure MCP Tool Access: Enforce permissions or require human approval when a coding agent attempts to modify infrastructure or invoke deployment tools.\n\nMaintain Security Evidence: Provide security teams with verifiable proof of who initiated a governed request, which policy applied, and if the action executed.\n\n👉 Try it today: Tutela Agentic Security is available through AWS Marketplace. Request a complimentary 60-day software trial through an AWS Marketplace private offer here: [Insert Link Here]\n\n(Note: The software contract total is $0 during the evaluation. Customer AWS infrastructure and usage costs apply.)\n\nProtect your code. Govern AI-assisted development. Keep engineering moving.\n\n#DeveloperProductivity #DevSecOps #AIGovernance #TutelaSecurity #SecureCoding #AgenticAI #AWSMarketplace #CyberSecurity #MCPTools",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "5MPfh946ZtI": {
@@ -6406,24 +6295,6 @@
       "likeCount": 499,
       "probeClient": "web_embedded"
     },
-    "XRZjy6qd8rs": {
-      "checkedAt": "2026-07-30T23:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥Professional Certificate Program in Agentic AI & Multi-Agent Systems - https://www.simplilearn.com/agentic-ai-professional-certificate-course?utm_campaign=XRZjy6qd8rs&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Microsoft - Applied Generative AI Specialization - https://www.simplilearn.com/microsoft-applied-ai-course?utm_campaign=XRZjy6qd8rs&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Microsoft - Applied Agentic AI: Systems, Design & Impact - https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=XRZjy6qd8rs&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Michigan Engineering - Applied Generative AI Specialization - https://www.simplilearn.com/applied-generative-ai-program?utm_campaign=XRZjy6qd8rs&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥IITM - Advanced Executive Program In Applied Generative AI - https://www.simplilearn.com/applied-generative-ai-course?utm_campaign=XRZjy6qd8rs&utm_medium=DescriptionFirstFold&utm_source=Youtube\n\nAbout the Webinar\n\nYou've asked AI to write it. Summarize it. Fix it. Explain it back to you. You've never asked it to just handle it, on its own, every time, without you sitting there prompting. That's the line between using AI and building with it. Most people never cross it. Not because it's hard. Because nobody's shown them how. This build-a-thon closes that gap. In one live session, you'll build a real AI agent, from a blank canvas to something deployed and working, without writing a single line of code. \n\nMeet Your Speaker\n\nAnirudh Narayan — Co-Founder & CGO, Lyzr AI \n\nCo-built Lyzr from the ground up. Also founded Everything AI, an open directory for AI tools, and wrote Scale Smart after interviewing 30+ startup founders. He's spent his career at the intersection of growth and product, now applied full-time to AI.\n\nSuyansh Mankar — Product Manager, Lyzr AI \n\nHelped scale Voosh from zero to multi-million ARR and 200+ enterprise customers. Now building Architect itself at Lyzr, the exact tool you'll use tonight. He's not demoing someone else's platform, he's demoing his own.\n\n✅ Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check Out More Videos On This Category By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq\n\n👉 Know more about the upcoming Live and Interactive Webinars here: https://sites.google.com/simplilearn.net/webinars/home?utm_campaign=XRZjy6qd8rs&utm_medium=Description&utm_source=youtube\n\n👱🏻♀️Join Our What's App community for upcoming webinar related 🚨alerts: https://chat.whatsapp.com/DSR6q1m0ok4Fo4u6nIse5L\n\n#howtobuildaiagentsfromscratch #howtobuildaiagentswithoutcode #howtobuildaiagent #howtobuildaiagentsforyourownbusiness #howtobuildaiagents #howtobuildaiagentswithn8n #howtobuildaiagentsforfree #howtobuildaiagentsusingzapier #howtobuildyourownaiagentsforbusinesses #howtobuildyourfirstaiagent #howtobuildyourownaiagents #howtobuildaiagentswithpython #learntobuildaiagentsforfree #simplilearn #2026\n\n➡️ About Professional Certificate Program in Agentic AI & Multi-Agent Systems\n\nThis 10-week, hands-on program takes you from AI fundamentals to Agentic AI, Multi-Agent Systems, workflow automation, and AI product development—equipping you with the practical skills to build intelligent AI applications for modern businesses.\n\nKey Features\n✅ Accelerate your learning with a beginner-friendly introduction to Python and AI development workflows before building intelligent AI systems.\n✅ Master the modern AI stack—from Agentic AI, RAG, MCP, multi-agent systems, AI UX, LLMOps, and production deploymen\n✅ Turn concepts into production-ready skills with 40+ demos, 10+ guided exercises, and 10+ multi domain industry projects spanning ecommerce, analytics, marketing, finance, technology and more.\n✅ Transition into AI Product & Engineering Roles by developing AI product thinking, software engineering mastery, and production deployment expertise\n✅ Learn AI beyond coding through one of the market's most modern curriculum—combining AI engineering, product strategy, real-world projects, and production-ready implementation.\n✅ Graduate with an industry-recognized Professional Certificate from Vishlesan I-Hub, TIH of IIT Patna that strengthens your AI credentials.\n✅ Earn Microsoft Learn badges on the Microsoft Learn portal for Microsoft-branded courses\n\nSkills Covered\n✅ MultiAgent Systems\n✅ Prompt Engineering\n✅ Context Engineering\n✅ RetrievalAugmented Generation\n✅ Model Context Protocol\n✅ Agent Orchestration\n✅ Workflow Automation\n✅ LLM Application Development\n✅ AI Product Strategy\n✅ Tool Integration\n✅ Vector Databases\n✅ Semantic Search\n✅ AI Deployment\n✅ AI Evaluation and Monitoring\n✅ AI Solution Prototyping\n\n👉 Enroll Now: https://www.simplilearn.com/agentic-ai-professional-certificate-course?utm_campaign=XRZjy6qd8rs&utm_medium=DescriptionFirstFold&utm_source=Youtube",
-      "commentCount": 1,
-      "likeCount": 60,
-      "probeClient": "web_embedded"
-    },
-    "T6PQIPMlj3E": {
-      "checkedAt": "2026-07-30T23:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Experience these in action → https://goo.gle/4fLO5lj\n\nExplore the differences and synergy between Model Context Protocol (MCP) and Skills when building on and with AI. In this conversational breakdown, we explain how MCP standardizes how large language models connect to programmatic APIs and file systems, and how Skills use progressive disclosure to load instructions only when needed. \n\nWatch more AI Builder Essentials → https://goo.gle/AI-Building-101\n🔔 Subscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nSpeakers: Greg Baugues, Tilde Thurium\nProducts Mentioned: Gemini",
-      "commentCount": 6,
-      "likeCount": 100,
-      "probeClient": "web_embedded"
-    },
     "9Q6xlJnggqI": {
       "checkedAt": "2026-07-31T00:53:44Z",
       "embedAllowed": true,
@@ -6461,15 +6332,6 @@
       "description": "AI companies are destroying millions of physical books to train their AI models. This is not for recycling. This is to facilitate regurgitation and to feed to AI chatbots that will process these pages. Watch this video where Hem Kaur Saroya explains why this commodification and destruction of rare physical books should worry us. Hem Kaur Saroya tells you on Vantage on Firstpost.\n\n00:00 - Introduction: The Destruction of Physical Books\n00:38 - How Books are Sliced and Scanned for AI\n01:19 - Digitization: Extracting Sentences for Chatbots\n01:48 - The Legal Landscape: Fair Use vs. Piracy\n02:30 - Anthropic's $1.5 Billion Piracy Settlement\n03:07 - The Value of Knowledge and Libraries\n03:32 - Engaging with Authors Through Physical Books\n04:00 - What AI Misses: The Stories Behind the Pages\n04:35 - A Fahrenheit 451 Dystopia in the AI Age\n05:22 - An Appeal: Why You Should Read and Save Physical Books\n05:40 - Outro\n---\n\nArtificial Intelligence | AI Training | Physical Books | AI Copyright | AI Models | ChatGPT | Machine Learning | Digital Libraries | AI Ethics | Technology News | Firstpost | Vantage | Hem Saroya\n\n#ai #artificialintelligence #books #copyright #openai #technology #breakingnews #chatgpt #publishing #firstpost #vantageonfirstpost #hemsaroya  \n\nVantage is a ground-breaking news, opinions, and current affairs show from Firstpost. Catering to a global audience, Vantage covers the biggest news stories from a 360-degree perspective, giving viewers a chance to assess the impact of world events through a uniquely Indian lens.\n\nBy breaking stereotypes, Vantage aims to challenge conventional wisdom and present an alternative view on global affairs, defying the norm and opening the door to new perspectives. The show goes beyond the headlines to uncover the hidden stories – making Vantage a destination for thought-provoking ideas.\n\nVantage airs Monday to Friday at 9 PM IST on Firstpost across all leading platforms.\n ​\nSubscribe to Firstpost channel and press the bell icon to get notified when we go live.\nhttps://www.youtube.com/@Firstpost\n\nFollow Firstpost on Instagram:\nhttps://www.instagram.com/firstpost/\n\nFollow Firstpost on Facebook:\nhttps://www.facebook.com/firstpostin/\n\nFollow Firstpost on Twitter:\nhttps://twitter.com/firstpost\n\nFollow Firstpost on WhatsApp:\nhttps://www.whatsapp.com/channel/0029Va6zOIrEQIamseyg762V",
       "commentCount": 16,
       "likeCount": 173,
-      "probeClient": "web_embedded"
-    },
-    "2J4tE_DE7tQ": {
-      "checkedAt": "2026-07-31T03:53:16Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Ore Factory Squad is a co-op mining and factory-building game with procedural mining and fun at its core! Play alone or with friends, buy properties, dig deep for valuable resources, complete contracts, upgrade and automate production lines and grow your factory from zero to industry!\n\nLink to Steam Store Page ~ https://store.steampowered.com/app/4210580/Ore_Factory_Squad/\n\nSubscribe if you're new for daily videos ~ https://www.youtube.com/grillmastah\n\nJoin Discord as well here ~ https://discord.gg/sQynS9g\n\nIf you want to help support the channel, become a member today ~ https://www.youtube.com/channel/UClBwVnq5mpwxugvP2D2SHrw/join\n\nOr join Patreon here ~ https://www.patreon.com/grillmastah\n\n#orefactorysquad",
-      "commentCount": 15,
-      "likeCount": 104,
       "probeClient": "web_embedded"
     },
     "EJZWr-U86Bo": {
@@ -6524,15 +6386,6 @@
       "description": "If you find these streams helpful, you can buy me a coffee: https://ko-fi.com/helloabhisheksharma\n\nBook 1-on-1 Call With Me: https://superprofile.bio/bookings/abhisheksharma-hello?sessionId=69f089eb4f6f5700143ef61c\n\nInstagram: https://www.instagram.com/hello_abhisheksharma/\nDiscord Server: https://discord.com/invite/kMmjQpveHX\nX (Twitter): https://x.com/im_Abhi10600\nGithub: https://github.com/abhishek10600\nEmail: abhi10sheksharma@gmail.com",
       "commentCount": 0,
       "likeCount": 127,
-      "probeClient": "web_embedded"
-    },
-    "H1IqeMpmVqM": {
-      "checkedAt": "2026-07-31T04:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "FREE - Get my video notes: https://www.codebreakthrough.com/products/63765398-fb1e\nhttps://www.coursecatalyst.com/elite\n\n00:00:00 - Introduction\n00:02:49 - What Am I Building?\n00:06:31 - My Target Market\n00:07:27 - Email Marketing\n00:10:59 - Why I Decided to Build My Own SaaS\n00:18:07 - Types of App Developers\n00:20:30 - Finding a Problem\n00:22:34 - My Problems\n00:29:30 - Feature Differentiation\n00:33:18 - Scope Creep\n00:36:33 - Technical Challenges\n00:41:33 - Decisions\n00:44:19 - Customer Acquisition\n00:46:43 - Course Catalyst for Devs and SaaS\n00:49:23 - Agents and AI\n\n⚙️ Backend Engineering Mind Map - https://calcur.tech/mindmap\n\n💯 FREE Courses (100+ hours) - https://calcur.tech/free-courses\n🏆 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n🐍 Backend Python Course - https://calcur.tech/backend-python\n🥇 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n✉️ Newsletter - https://calcur.tech/newsletter\n📸 Instagram - https://www.instagram.com/CalebCurry\n🐦 Twitter - https://twitter.com/calebCurry\n🔗 LinkedIn - https://www.linkedin.com/in/calebcurry\n▶️ Subscribe - http://calcur.tech/subscribe\n👨🏻‍🎓 Courses - https://www.codebreakthrough.com\n🅿 Patreon - http://calcur.tech/patreon-calebcurry",
-      "commentCount": 16,
-      "likeCount": 158,
       "probeClient": "web_embedded"
     },
     "-1e_HgnBq2M": {
@@ -6790,7 +6643,7 @@
       "probeClient": "web_embedded"
     },
     "W93f8ZFOzxQ": {
-      "checkedAt": "2026-07-31T16:53:52Z",
+      "checkedAt": "2026-07-31T17:53:56Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6978,15 +6831,6 @@
       "likeCount": 1097,
       "probeClient": "web_embedded"
     },
-    "avxRY5pI584": {
-      "checkedAt": "2026-07-31T13:53:33Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Former Executive Director of CISA Bridget Bean discusses the U.S.-China A.I. race on 'America's Newsroom.' #fox #media #breakingnews #us #usa #new #news #breaking #foxnews #americasnewsroom #ai #artificialintelligence #technology #china #uschina #security #cybersecurity #innovation #economy #competition #nationalsecurity #government #politics #political #politicalnews #future #global \n\nDon’t just watch Fox News—be part of it. Become a Fox News Patriot today. https://youtube.com/foxnews/join\n\nSubscribe to Fox News! https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\nDownload the Fox News app: https://foxnews.onelink.me/xLDS/cd5yhg3o\n\nFOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.\n\nWatch full episodes of your favorite shows\nThe Five: https://www.foxnews.com/video/shows/the-five\nSpecial Report with Bret Baier: https://www.foxnews.com/video/shows/special-report\nJesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime\nHannity: https://www.foxnews.com/video/shows/hannity\nThe Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle\nGutfeld!: https://www.foxnews.com/video/shows/gutfeld\nFox News @ Night: https://www.foxnews.com/video/shows/fox-news-night\n\nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/",
-      "commentCount": 134,
-      "likeCount": 217,
-      "probeClient": "web_embedded"
-    },
     "NVPWYTZZpnI": {
       "checkedAt": "2026-07-31T14:53:40Z",
       "embedAllowed": true,
@@ -7009,7 +6853,7 @@
       "probeClient": "web_embedded"
     },
     "q26SM0Q6cds": {
-      "checkedAt": "2026-07-31T16:53:52Z",
+      "checkedAt": "2026-07-31T17:53:56Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7371,6 +7215,102 @@
       "description": "Platform link : https://lumosel.vip/signup?ref=4f2e4e84 \n\nNotion Page : https://actually-hygienic-25a.notion.site/Free-Claude-Desktop-Claude-Opus-5-Claude-Fable-5-Claude-Sonet-5-3aad71053bda80719341d8484e1605b4?pvs=143\n\n🚀 Claude Desktop Is Now FREE?! Use Claude Opus 5, Fable 5 & Sonnet 5 (End-to-End Setup)\n\nWant to use Claude Opus 5, Claude Fable 5, and Claude Sonnet 5 inside Claude Desktop, Claude Code, and VS Code without purchasing an expensive Claude subscription?\n\nIn this complete 2026 working tutorial, I'll show you the latest end-to-end setup that lets you access the newest Claude models inside Claude Desktop, Claude Code CLI, and VS Code using a gateway configuration. We'll install everything from scratch, enable Developer Mode, generate API keys, configure the required settings, connect Claude Desktop, test the setup, and verify that the latest Claude models are working correctly. This video demonstrates the complete workflow, including troubleshooting and validation steps.\n\nIf you're looking for a new working method to use Claude Desktop with Claude Opus 5, Claude Fable 5, and Claude Sonnet 5, this guide covers the complete process from installation to testing.\n\n📚 What You'll Learn\n✅ Install Claude Desktop\n✅ Install Claude Code CLI\n✅ Configure VS Code\n✅ Enable Developer Mode\n✅ Configure Gateway Settings\n✅ Generate API Keys\n✅ Configure settings.json\n✅ Connect Claude Desktop\n✅ Use Claude Opus 5\n✅ Use Claude Fable 5\n✅ Use Claude Sonnet 5\n✅ Switch Between Claude Models\n✅ Test Claude Desktop\n✅ Verify API Requests\n✅ Monitor Usage\n✅ Troubleshoot Gateway Errors\n✅ Complete End-to-End Setup\n\n🔥 Why This Setup Is Different\n✔ FREE Claude Desktop workflow\n✔ Access the latest Claude models\n✔ Claude Opus 5 support\n✔ Claude Fable 5 support\n✔ Claude Sonnet 5 support\n✔ Claude Code + Claude Desktop workflow\n✔ VS Code integration\n✔ Claude Code CLI setup\n✔ Browser + Desktop workflow\n✔ No Anthropic subscription required for this setup\n✔ No local model installation\n✔ Beginner-friendly step-by-step tutorial\n✔ Latest 2026 working method\n\n🎯 Perfect For People Searching\n👉 Claude Desktop Tutorial\n👉 Claude Desktop Setup\n👉 Claude Desktop FREE\n👉 Claude Desktop 2026\n👉 Claude Code Tutorial\n👉 Claude Code Setup\n👉 Claude Code VS Code\n👉 Claude Opus 5\n👉 Claude Opus 5 FREE\n👉 Claude Fable 5\n👉 Claude Fable 5 FREE\n👉 Claude Sonnet 5\n👉 Claude Models FREE\n👉 Claude Desktop Gateway\n👉 Claude Desktop VS Code\n👉 Claude CLI Setup\n👉 VS Code AI Coding\n👉 AI Coding Assistant\n👉 Anthropic Claude Models\n👉 Claude Desktop End-to-End Setup\n👉 Latest Claude Desktop Tutorial\n\n🔗 Resources\n👉 Claude Desktop: https://claude.ai/download\n👉 VS Code: https://code.visualstudio.com/download\n\n⏱️ Chapters\n00:00 Claude Opus 5, Fable 5 & Sonnet 5 FREE\n01:08 Overview & Requirements\n02:05 Create Your Account\n03:20 Generate API Key\n05:10 Install Claude Code CLI\n06:55 Configure VS Code\n08:40 Update settings.json\n10:35 Test Claude Code\n12:15 Install Claude Desktop\n13:45 Enable Developer Mode\n15:10 Configure Gateway\n16:10 Test Claude Desktop\n16:50 Final Thoughts\n\nPerfect for:\n\nDevelopers using Claude API\nAI / Data Science learners\nBeginners exploring LLMs\nPeople looking for free AI tools\nAnyone wanting to reduce AI API cost\n🎥 Gear & Products I Use (Affiliate Links)\n\n🎙️ Hollyland Lark M2 Combo : https://amzn.to/4nqWpst\n💡 Digitek Ring Light : https://amzn.to/4oLDauW\n📷 Digitek Tripod : https://amzn.to/43BjscY\n💻 My Laptop Lenovo LOQ 2025 AMD Ryzen 7 250| NVIDIA RTX 5050 8GB : https://amzn.to/4ocqbCp\n🎬 My Gaming Chair: https://amzn.to/4qAYrsI\n\n🔎 Keywords\n\nClaude Desktop, Claude Desktop tutorial, Claude Desktop setup, Claude Desktop FREE, Claude Desktop 2026, Claude Code, Claude Code tutorial, Claude Code setup, Claude Code CLI, Claude Code VS Code, Claude Opus 5, Claude Opus 5 FREE, Claude Fable 5, Claude Fable 5 FREE, Claude Sonnet 5, Claude models FREE, Anthropic Claude, Claude Desktop gateway, Claude API, VS Code AI coding, AI coding assistant, AI developer workflow, free AI coding assistant, LLM coding, developer AI tools, Generative AI, AI engineering, AI agents, Claude Desktop \n\n📌 Hashtags\n#GLM52 #ClaudeCode #OpenCode #VSCode #Antigravity #AICoding #GenerativeAI #LLM  #ArtificialIntelligence #ClaudeCode #ClaudeOpus #GLM52 #VSCode #AICoding #GenerativeAI #ClaudeAI #AIAgents #LLM #DeveloperTools #ArtificialIntelligence #ClaudeFable5 #ClaudeDesktop #FreeClaudeAPI #ClaudeCode #ClaudeOpus #FreeAI #anthropic \n\n📢 Disclaimer\nThis video is created for educational purposes and demonstrates the use of officially available AI software, APIs, and developer tools. All trademarks belong to their respective owners. Please use these services in accordance with their official Terms of Service and licensing policies. Any free credits, trial offers, or promotional programs mentioned are offered by the respective providers and may change, expire, or become unavailable at any time. This video does not promote unauthorized access, circumvention of payment systems, or misuse of any platform.",
       "commentCount": 43,
       "likeCount": 155,
+      "probeClient": "web_embedded"
+    },
+    "vR8VwGQrniY": {
+      "checkedAt": "2026-07-31T17:53:56Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment \"Claude\" for the full setup guide + the custom skills\n\nYou're paying a CMO salary in 2026. Mine costs $100 a month.\n\nBuilt it in an hour.\n\nIt runs my site analytics, my sales pipeline, my whole content engine.\n\nThe build:\nSeed writes the soul file.\nSkillsmith turns it into the agent.\nMCPs give it eyes on GoHighLevel and my socials.\n\nFirst report showed me exactly where my leads were stuck.\n\nThat's the unlock, fam.\n\n#ClaudeCode\n#AIAgents\n#Automation\n#Marketing\n#BuildInPublic",
+      "commentCount": 2,
+      "likeCount": 1,
+      "comments": [
+        {
+          "id": "Ugx-Rtv5rGtlzRyL3hF4AaABAg",
+          "author": "@charlieautomates",
+          "text": "🚨 Full Video Tutorial here: https://youtu.be/0s56EMVEev4?is=EeQHvu9eCqyogdrl\n\nAll skills and resources attached in Video Description!",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T17:48:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "UgwOePlcIPL9wtZ8Mb54AaABAg",
+          "author": "@ChaAhm-h4s",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T17:54:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mFwh2IrAgSRZ0bfsBI6zmAunMhdQdLYWio4gGzQHiQAgS8RJeBxykBSv3CKlCmqo2Z-A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-07-31T17:53:56Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "Ylhnms7QlDA": {
+      "checkedAt": "2026-07-31T17:53:56Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Free training: ai-integrator-os.com/opt\n\nMost people entering AI are told to start an AI Automation Agency.\n\nBut that advice is becoming increasingly crowded.\n\nThe bigger opportunity isn't selling automations. It's becoming an AI Integrator.\n\nBusinesses don't just need someone who knows ChatGPT, Make, or n8n. They need someone who can identify where AI creates value, implement the right solution, and deliver measurable business outcomes.\n\nIn this video, you'll learn:\n• Why the traditional AI Automation Agency model is evolving\n• What an AI Integrator actually does\n• Why businesses pay for implementation, not just tools\n• How to build a high-value skill that creates real business impact\n\nIf you're serious about building a career or business around AI, this is the shift you need to understand.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "aE1cxVTEbcw": {
+      "checkedAt": "2026-07-31T17:53:56Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Ready to put AI to work: https://www.vendasta.com/lp-watch-demo/\n\nKlint Rudolph sells AI agents to local businesses — and his clients never leave.  \n\nHe stopped selling marketing as his lead offer. Now nearly 200 local businesses run on his AI stack, he closes new clients in about 5 minutes, and his AI receptionist booked a client a $1,400 job overnight. \n\nIn this episode, Denver agency owner Klint Rudolph breaks down:\nHow to sell AI agents to local businesses without a hard pitch.\nThe free chat agent you can deploy today to close clients.\nHow to price AI so it replaces the tools they already overpay for.\nWhy selling an AI \"business operating system\" kills churn.\nThe speed-to-lead + AI receptionist play that books jobs after hours How to demo AI so it sells itself\n\nWhether you're a solo agency owner or scaling a team, this is a practical guide to AI lead generation, AI receptionists, and local business automation you can resell starting this week.👉 \n\nSubscribe for more on selling AI agents, AI for agencies, and growing a local marketing business with AI employees.\n\nYou can find Klint Rudolph on:\nLinkedIn: ⁠ https://www.linkedin.com/in/klintrudolph/\nX: https://x.com/klintr\nWebsite: https://thexcitegroup.com/\n\n🔗 Connect With Vendasta\n💼 LinkedIn: https://www.linkedin.com/company/vendasta/\nX: https://x.com/vendasta\n📸 Instagram: https://www.instagram.com/vendasta/\n\n\n#aiagents #LocalBusiness #MarketingAgency #AIforBusiness #Vendasta #AIautomation #SellingAI #AIreceptionist #AgencyGrowth #LeadGeneration\n\nVendasta is an AI customer acquisition & engagement platform. Unlike traditional marketing automation, CRM, or customer acquisition tools that focus on isolated functions, Vendasta offers a complete solution with an integrated suite of tools to run and manage digital marketing campaigns, automate campaign, sales and billing workflows, and deliver personalized customer journeys.",
+      "commentCount": 1,
+      "likeCount": 14,
+      "probeClient": "web_embedded"
+    },
+    "nIAMHcLiRvw": {
+      "checkedAt": "2026-07-31T17:53:56Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "💥 Unlock a 30-day FREE trial + $15,577 in bonuses! 👉 https://www.gohighlevel.com/declan-oreilly-ai?fp_ref=declan60&utm_source=youtube&utm_medium=organic&utm_campaign=highlevel&utm_term=7.31.26\n\n\n*******\nALREADY A HIGHLEVEL USER? You can still claim all my bonuses when you upgrade through my link:\nUNLIMITED 👇👇👇\nhttps://www.gohighlevel.com/297upgrade?affiliate_upgrade_credit_to_$297=declan60\n\nPRO 👇👇👇\nhttps://www.gohighlevel.com/existing-customer-trial?affiliate_upgrade_credit=declan60\n*******\n\nCan't upgrade your HighLevel account but still want all my bonuses? Join my Community 👉 \nhttps://aidigitalentrepreneurs.net/coaching-courses-community-orderform\n\n\n📞If You Didn’t Get Access, Missed an Email, or Have a Question…\nReach out to me here:\nhttps://app.gohighlevel.com/v2/preview/0tNIMD7fpyBlBaWL5CXw  \n\n00:00 Massive AI Super Agent Update\n00:34 Access the New MCP Apps\n01:49 Connect External Tools with MCP\n03:12 Configure Apps & Permissions\n04:48 Real Agency Automation Examples\n06:08 Bonus Update & Final Thoughts\n\n#gohighlevel #superagents #ghlupdate\n\nDisclaimer:  I’m an affiliate for GoHighLevel, which means I may earn a commission if you sign up through my links. Please note that results vary and are not guaranteed. Any income or success examples I share are for educational purposes only and should not be considered typical or promised outcomes.",
+      "commentCount": 1,
+      "likeCount": 13,
+      "probeClient": "web_embedded"
+    },
+    "6gnKa0wu5D4": {
+      "checkedAt": "2026-07-31T17:53:56Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Build a consistent, professional social media presence without agency fees. Learn how a custom Social Media Manager Agent plans content and drafts platform captions. **Social Media Manager Agent: How Small Businesses Build a Consistent 24/7 Social Presence Without Hiring an Agency**. Maintaining a consistent, engaging social media presence is essential for modern business growth.\n\nThis is the full-length walkthrough. Want the 60-second highlights instead? See the blog post linked below.\n\nIn this video we cover:\n\n• 1. Agency Costs vs. askingAi Social Media Manager Agent\n\n• 2. 5 Core Social Media Workflows Automated by Your Agent\n\n• 1. Content Calendar Planning & Scheduling\n\n• 2. Multi-Platform Caption & Post Drafting\n\n• 3. Review & Asset Repurposing\n\n• 4. Audience Engagement Monitoring\n\nWho this is for: Small business owners, marketing managers, and founders who need their brand's social presence to stay active without burning out their team.\n\nRead the full breakdown on our blog:\n\nhttps://askingai.pro/blog\n\n———\n\nAbout askingAi.pro\naskingAi.Pro builds dedicated AI agents that run 24/7 on the askingAi.Pro AI Agent Mini PC — a small, quiet piece of hardware that sits on your office network and gives small businesses the same automation advantage big companies have had for years. No cloud subscriptions, no per-seat fees, no \"AI included\" marketing tricks. Just hardware, agents, and outcomes.\n\nExplore all of our AI agents for small business: https://askingAi.pro\n\n\nTags: AI Agent Mini PC, Small Business Automation, AI Agents, AI Social Media Manager, Social Media Automation, Business Automation Hardware, Content Workflow, askingAi, ai agents, small business, automation\n\n#AI #AIAgents #SmallBusiness #Automation #askingAi #SmallBusinessAutomation #AIAgentMiniPC #AISocialMediaManager #SocialMediaAutomation #BusinessAutomationHardware #ContentWorkflow",
+      "commentCount": 1,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "7BrjgoTbtlU": {
+      "checkedAt": "2026-07-31T17:53:56Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👉 FREE Step-by-Step on How I Make Over $40K+/month with My Stupid Simple SaaS: https://claylawrence.link/1DDgrEq\n\nJoin my free community: https://www.skool.com/huddle/about\n\nFailed payments are one of the biggest hidden revenue leaks for agencies and SaaS businesses. In this video, Clay Lawrence walks through the AI-powered failed payment recovery automation Review Harvest uses to recover recurring revenue without manual follow-up. Learn how GoHighLevel, Stripe, AI workflows, and smart reminders work together to increase customer lifetime value while reducing churn.\n\nALREADY A HIGHLEVEL USER?! You can still get all of my bonuses when you upgrade your plan with my link 👉 https://claylawrence.link/1DDgrEq\n\nCan't Upgrade Your HighLevel Account and Want Direct Access to All My Bonuses? Get Instant Access Here 👉 https://www.skool.com/the-highlevel-house/about\n\n🛑 IMPORTANT 🛑 : Do not use an ad blocker, an incognito tab, or a Chrome extension when signing up! It will block the tracking link, and you will NOT receive any of my bonuses!\n\nIf you signed up with my link and have not received your bonuses, do this:\n1. Check your spam folder\n2. Respond to the email you should have received, and we can check to add you manually.\n\nWant 1-1 Coaching From Me? Click Here 👉 https://go.reviewharvest.com/widget/groups/1-1-coaching-calls\n\nThe AI SEO Tool We Use For Our Clients (Merchynt): https://merchynt.com/paige?fpr=clay\n\nInstantly.ai sign-up link 👉 https://instantly.ai/?via=clay-lawrence\n\nGling AI Editor: https://gling.ai/?via=clay\n\nRiverside Podcasting Software: https://riverside.sjv.io/5kamYn\n\nHere's EVERYTHING I use to record my YouTube Videos: https://www.amazon.com/shop/claylawrence/list/2B6FFCUMTXQF8?ref_=aip_sf_list_spv_ofs_mixed_d&ccs_id=d30bb940-d21d-4d7b-bd9d-c4c5320fd958\n\nIf you want to learn from someone who’s in the trenches — not just selling theory — here's what this video covers:\n\n💳 Why failed payment recovery is critical for recurring revenue\n🤖 Using AI to automate payment follow-ups\n🔄 Creating smarter workflows with human-like decision making\n💰 How recovering one payment can be worth thousands in lifetime value\n⚡ Integrating Stripe, GoHighLevel, Slack, and AI tools\n📈 Reducing churn with personalized payment reminders\n🔔 When to automate and when a personal phone call is needed\n🚀 Scaling your agency with AI-powered billing automations\n\nTimestamps\n\n00:00 Why recovering failed payments matters\n00:42 The lifetime value of saving one customer\n01:18 Why manual payment recovery becomes a headache\n02:02 Building an AI-powered failed payment workflow\n02:52 Integrating Stripe, GoHighLevel, and Slack\n03:35 Why AI is better than rigid workflows\n04:20 Using AI for human-like decision making\n05:12 When automation should trigger a personal follow-up\n06:00 The payment recovery loop explained\n06:48 The easiest revenue your business can recover\n07:35 How Review Harvest uses this system\n08:08 Free GoHighLevel automations and final thoughts\n\n#GoHighLevel #Stripe #AIAutomation #RecurringRevenue #SaaS #MarketingAgency #BusinessAutomation #SubscriptionBusiness #AIWorkflows #PaymentRecovery #AgencyGrowth #HighLevel #Entrepreneur #BusinessSystems #ReviewHarvest\n\nDisclosure: I am an independent entity from HighLevel. I am not an agent or employee of HighLevel and have no authority to make binding contracts or represent HighLevel. I receive referral payments from HighLevel. The opinions expressed here are my own and shall NOT be interpreted or considered as representations, guarantees, or statements made by HighLevel Inc or any of its subsidiaries, agents, or assigns.\n\nResults are not guaranteed.",
+      "commentCount": 2,
+      "likeCount": 8,
+      "probeClient": "web_embedded"
+    },
+    "S87kTFXkLq4": {
+      "checkedAt": "2026-07-31T17:53:56Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI Agent Tool guide details how businesses automate complex operations using agentic workflows.\nProject Link: https://linktr.ee/kimiAgent\n\n🚀 YTRANKER AGENCY | Authority YouTube SEO\nWe are a YouTube agency operating 20+ YouTube channels.\nWe help businesses scale their Search Visibility and dominate their niche through data-driven SEO strategies.\n\nWhat we do:\n• Strategic Search Ranking Optimization\n• Multi-channel video distribution\n• YouTube and Google SEO authority\n• Scalable brand awareness campaigns\n• Long-term organic traffic growth\n\nTrusted by SaaS, Web3, Fintech, Agencies, E-com and B2B brands.\n\n👉 Ready to dominate YouTube search?\n👉 Build brand authority without ad spend?\n👉 Turn YouTube into a long-term SEO asset?\n🔗 Get Started: https://linktr.ee/ytranker\n\n📩 Business inquiries and collaborations welcome\nTelegram: https://bit.ly/YTR-Telegram |\nWhatsApp: https://bit.ly/YTR-WhatsApp |\nEmail: collab@ytranker.net\n\nDeploying an AI Agent Tool allows modern enterprises to build self-correcting loops that manage data parsing, automated execution, and advanced system integrations without human intervention. This optimization strategy significantly lowers latency while structuring long-term digital architecture.\n\nIntegrating an AI Agent Tool into your current software stack removes standard operational friction points. By focusing heavily on precise context window management and human-in-the-loop triggers, teams optimize output clarity and maintain consistent accuracy across multi-agent workflows.\n\nPlease note: AI accuracy may vary. Always verify research data. The following financial data and charts are AI-generated and not verified. This is not financial advice. Results shown are AI-generated and not verified.\n\nCHAPTERS:\n00:00 - Intro\n00:45 - Current Pipeline Issues\n02:15 - Intelligent Agent Architecture\n03:40 - Multi-Agent System Scaling\n05:50 - Final Verdict\n\nAffiliate Disclaimer: While we receive affiliate compensation for reviews/promotions on this page, we always offer honest opinions, relevant experiences, and genuine views of the product or service itself. Our goal is to help you make the best purchasing decisions, however, the views and opinions expressed are ours only. As always, you should do your due diligence to verify any claims, results, and statistics before making any purchase. Clicking links or purchasing products recommended on this page may generate income for this website from affiliate commissions and you should assume we are compensated for any purchases you make. \n\nThis content is for informational purposes only and does not constitute professional, legal, or technical advice; all opinions are my own, and due to the rapidly evolving nature of AI, I cannot guarantee the ongoing accuracy or completeness of the information provided.\n\n🤝 For Collaborations & Business Inquiries:\nTelegram: https://bit.ly/YTR-Telegram\nWhatsApp: https://bit.ly/YTR-WhatsApp\nEmail: collab@ytranker.net\n\n#AIAgentTool2026 #AIAgents #ArtificialIntelligence #Automation #SaaS #TechReview",
+      "commentCount": 46,
+      "likeCount": 767,
+      "probeClient": "web_embedded"
+    },
+    "TGFy3Ckc1-o": {
+      "checkedAt": "2026-07-31T17:53:56Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "If your agency is still sending every client the same generic PDF or dashboard, this video shows you how to turn Paige’s live local marketing data into a completely custom, agency-branded client report using ChatGPT, Claude, Gemini, or any AI tool that supports MCP.\n\nI’ll walk you through how to use Paige’s MCP connector to pull lead actions, Google Search and Maps visibility, reviews, completed marketing work, historical performance, and actual local-ranking heatmaps—then turn everything into an interactive report that tells the exact story you want your client to see.\n\nOnce you have the prompt dialed in, you can reuse or automate the workflow every month, export the report as a PDF, or publish it as a hosted link for your clients.\n\n👇 GET THE TOOLS\n\n🤖 Learn more about Paige:\nhttps://merchynt.com/paige\n\n🏢 Paige for marketing agencies:\nhttps://merchynt.com/agencies\n\n🔍 Give prospects a free Google Business Profile audit:\nhttps://merchynt.com/gbp-audit-tool\n\n🌐 Learn more about Merchynt:\nhttps://merchynt.com\n\nIn this tutorial, you’ll learn how to:\n\n✅ Connect Paige with ChatGPT, Claude, Gemini, or another AI platform that supports MCP\n\n✅ See all the reporting tools and data available through Paige’s MCP\n\n✅ Pull Google Search, Google Maps, review, lead, and historical performance data\n\n✅ Include Paige’s actual local-ranking heatmaps in your reports\n\n✅ Show clients everything your agency and Paige completed for them\n\n✅ Turn raw marketing data into a polished, custom-branded client dashboard\n\n✅ Frame results around leads, revenue, wins, and future opportunities\n\n✅ Create recommendations based on each client’s actual performance\n\n✅ Automate the reporting workflow every month\n\n✅ Export the report as a PDF or publish it as a hosted client link\n\n⏱️ CHAPTERS\n\n00:00 Create completely custom reports for agency clients\n00:27 What’s included in Paige’s standard reports\n00:56 Turning Paige data into custom reporting\n01:37 Using ChatGPT, Claude, Gemini, or another AI\n02:25 Exploring the Paige MCP reporting tools\n03:41 Writing the custom-report prompt\n05:45 Generating the report\n06:36 Reviewing the finished interactive dashboard\n08:09 Adding historical heatmaps and ranking progress\n10:10 Showing clients all the marketing work completed\n11:32 Turning the data into a growth plan\n13:00 Automating the report every month\n13:16 Exporting or hosting the report for clients\n\nABOUT PAIGE\n\nPaige by Merchynt is an AI-powered local marketing manager that helps agencies automate Google Business Profile work, including posts, review replies, Q&A, images, local-ranking heatmaps, reporting, review campaigns, and more.\n\nHave a question about Paige’s MCP or want help customizing your reporting prompt? Leave it in the comments below. I personally respond to every question.\n\n#MarketingAgency #ClientReporting #AgencyAutomation #LocalSEO #PaigeByMerchynt #ChatGPT #ClaudeAI #MCP #GoogleBusinessProfile #WhiteLabelSEO",
+      "commentCount": 2,
+      "likeCount": 10,
       "probeClient": "web_embedded"
     }
   }
