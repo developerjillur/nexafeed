@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T06:53:40Z",
+  "updatedAt": "2026-07-31T07:53:48Z",
   "items": [
+    {
+      "id": "_p4kSpkM8r8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Digital Scholar",
+      "publishedAt": "2026-07-31T05:53:48Z",
+      "firstSeenAt": "2026-07-31T07:53:48Z"
+    },
     {
       "id": "6P59bezqYUY",
       "type": "short",
@@ -6529,6 +6537,15 @@
       "channelsChecked": 33,
       "warnings": 31,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-07-31T07:53:48Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
