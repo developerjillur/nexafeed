@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T02:53:10Z",
+  "updatedAt": "2026-07-31T03:53:16Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -4906,19 +4906,29 @@
       "probeClient": "web_embedded"
     },
     "fqcGWCDTJqo": {
-      "checkedAt": "2026-07-30T02:53:32Z",
+      "checkedAt": "2026-07-31T03:53:16Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 3,
-      "likeCount": 793,
+      "commentCount": 4,
+      "likeCount": 991,
       "comments": [
+        {
+          "id": "Ugz_aupV6oKGPlKX2qN4AaABAg",
+          "author": "@Void_Purifier",
+          "text": "How many \"solves claude\" bullshit repos have we gotten just this month alone, 30+?  Probably more..",
+          "likeCount": 1,
+          "publishedAt": "2026-07-30T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/5B_aRqglGiGBRh2_VboiEwZMEPJGGJNazFlCx5rjetj3G_P8tJwyQjtY1IX6b2cEltBQGG4z=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgwSpSY2JWZmD9qeiQp4AaABAg",
           "author": "@doreenmccarthy9009",
           "text": "Insight",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T01:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksOF9cJw6Aaagqi0ktCjgqqvdei_kxInkStR8SF52k1ZMR=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4928,7 +4938,7 @@
           "author": "@meshedlearning1125",
           "text": "Gdi 20 more pushups for claude mention.",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T21:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_laVLWK9uHieJjfOpWifKkT0sksIAuV6uqXv-bCA2CCrQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4938,13 +4948,13 @@
           "author": "@brunorc5268",
           "text": "Hey man pump up the sound❤",
           "likeCount": 0,
-          "publishedAt": "2026-07-29T10:00:00Z",
+          "publishedAt": "2026-07-30T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lwR3rbqOyHDHyW28h4zVKDgNemxj6M6UEbuXqezpQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-30T02:53:32Z",
+      "commentsFetchedAt": "2026-07-31T03:53:16Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5177,12 +5187,6 @@
     },
     "F86ovkAsu0I": {
       "checkedAt": "2026-07-30T12:53:48Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "qRC3-R3jkMQ": {
-      "checkedAt": "2026-07-30T13:53:49Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6360,18 +6364,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "dUHpFuUIyi0": {
-      "checkedAt": "2026-07-30T07:53:15Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "8OqBbUoBpo4": {
-      "checkedAt": "2026-07-30T07:53:15Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "vYgnAWX46Tc": {
       "checkedAt": "2026-07-30T08:53:23Z",
       "embedAllowed": true,
@@ -6522,7 +6514,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-31T02:53:10Z",
+      "checkedAt": "2026-07-31T03:53:16Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6874,15 +6866,6 @@
       "likeCount": 78,
       "probeClient": "web_embedded"
     },
-    "_Vc-gsHT804": {
-      "checkedAt": "2026-07-30T20:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Live replay from July 28, 2026 where I cover how I make sales and train my AI agents to run my ad accounts, write my marketing emails, and set up my sales pages.",
-      "commentCount": 3,
-      "likeCount": 10,
-      "probeClient": "web_embedded"
-    },
     "nAc-pn4rsgU": {
       "checkedAt": "2026-07-30T21:53:33Z",
       "embedAllowed": true,
@@ -7053,13 +7036,22 @@
       "likeCount": 4,
       "probeClient": "web_embedded"
     },
-    "b2PESRl7De4": {
-      "checkedAt": "2026-07-31T02:53:10Z",
+    "2J4tE_DE7tQ": {
+      "checkedAt": "2026-07-31T03:53:16Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "Learn more about the 2026 Cost of a Data Breach Report here → https://ibm.biz/~eavIBfqJG\n\nAI is accelerating both cyberattacks and cyber defense. Jeff Crume breaks down the key findings from the 2026 Cost of a Data Breach Report, including ransomware, AI-driven attacks, and security automation. Learn how organizations are using AI to reduce breach costs, improve response times, and strengthen security.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/~wLklfPklY\n\n#cybersecurity #ai #databreach #aisecurity",
-      "commentCount": 7,
-      "likeCount": 312,
+      "description": "Ore Factory Squad is a co-op mining and factory-building game with procedural mining and fun at its core! Play alone or with friends, buy properties, dig deep for valuable resources, complete contracts, upgrade and automate production lines and grow your factory from zero to industry!\n\nLink to Steam Store Page ~ https://store.steampowered.com/app/4210580/Ore_Factory_Squad/\n\nSubscribe if you're new for daily videos ~ https://www.youtube.com/grillmastah\n\nJoin Discord as well here ~ https://discord.gg/sQynS9g\n\nIf you want to help support the channel, become a member today ~ https://www.youtube.com/channel/UClBwVnq5mpwxugvP2D2SHrw/join\n\nOr join Patreon here ~ https://www.patreon.com/grillmastah\n\n#orefactorysquad",
+      "commentCount": 15,
+      "likeCount": 104,
+      "probeClient": "web_embedded"
+    },
+    "Fpg_8aiBxx4": {
+      "checkedAt": "2026-07-31T03:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Alex Rampell and Olivia Moore speak with Lassie cofounders Steijn Pelle and Frédéric Renken about bringing AI to one of the most overlooked parts of the economy: small businesses.\n\nInspired by time spent working inside dental practices, Pelle and Renken set out to automate the administrative work that keeps healthcare providers away from patients. They discuss how AI agents are changing billing, insurance claims, patient payments, and other operational workflows, allowing practices to spend less time on paperwork and more time delivering care.\n\nThe conversation explores AI agents, software that performs work rather than simply storing information, onboarding AI into real-world businesses, and why healthcare administration offers one of the biggest opportunities for automation. Along the way, they discuss product design, go-to-market strategy, and what it takes to build AI systems that operate reliably in complex business environments.\n\nTimestamps:\n00:00 - Intro\n01:12 - Story Behind Lassie\n03:46 - Embedding in the Customer's Office Before Building a Product\n05:39 - How the Product Build Has Changed with Better Models\n07:23 - Software Never Did the Work but AI Finally Does\n17:24 - 98% Automation: How Lassie Got Agents to Actually Run a Practice\n22:08 - Startup vs Incumbent in the AI Era\n33:35 - The Master Plan: From Dentists to Every Small Business\n39:27 - What It Takes to Hire & Build When You're Selling to Main Street\n55:59 - How Do You Reach Hundreds of Thousands of Small Businesses?\n\nResources:\nFollow Steijn Pelle on X: https://x.com/steijnpelle\nFollow Frédéric Renken on X: https://x.com/fredericrenken\nFollow Alex Rampell on X: https://x.com/arampell\nFollow Olivia Moore on X: https://x.com/omooretweets\n\nStay Updated:\nIf you enjoyed this episode, be sure to like, subscribe, and share with your friends!\n\nFind a16z on X: https://twitter.com/a16z\n\nFind a16z on LinkedIn: https://www.linkedin.com/company/a16z\n\nListen to the a16z Show on Spotify: https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX\n\nListen to the a16z Show on Apple Podcasts: https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711\n\nFollow our host: https://x.com/eriktorenberg\n\nPlease note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see http://a16z.com/disclosures.",
+      "commentCount": 2,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }
