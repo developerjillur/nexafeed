@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T14:53:40Z",
+  "updatedAt": "2026-07-31T15:53:47Z",
   "items": [
+    {
+      "id": "AVVicrY9f3Q",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-07-31T15:34:32Z",
+      "firstSeenAt": "2026-07-31T15:53:47Z"
+    },
+    {
+      "id": "WCNqzs_PX_A",
+      "type": "long",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-07-31T15:34:19Z",
+      "firstSeenAt": "2026-07-31T15:53:47Z"
+    },
+    {
+      "id": "54ceJK--fqQ",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-07-31T15:33:02Z",
+      "firstSeenAt": "2026-07-31T15:53:47Z"
+    },
+    {
+      "id": "1uoQ7wi7Q68",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-07-31T15:16:36Z",
+      "firstSeenAt": "2026-07-31T15:53:47Z"
+    },
+    {
+      "id": "8VPok4vbYBk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Insider Force",
+      "publishedAt": "2026-07-31T15:04:31Z",
+      "firstSeenAt": "2026-07-31T15:53:47Z"
+    },
+    {
+      "id": "sO-ssqm9jPk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Technical Suneja",
+      "publishedAt": "2026-07-31T13:53:47Z",
+      "firstSeenAt": "2026-07-31T15:53:47Z"
+    },
+    {
+      "id": "U-l8hKsTn2A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Faisal Memon",
+      "publishedAt": "2026-07-31T12:53:47Z",
+      "firstSeenAt": "2026-07-31T15:53:47Z"
+    },
+    {
+      "id": "nERT2xoy64k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ittahad Akash",
+      "publishedAt": "2026-07-31T09:53:47Z",
+      "firstSeenAt": "2026-07-31T15:53:47Z"
+    },
+    {
+      "id": "QN6GWLjF4PA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CareerZ Cast",
+      "publishedAt": "2026-07-30T23:53:47Z",
+      "firstSeenAt": "2026-07-31T15:53:47Z"
+    },
     {
       "id": "c_fP7hu9v-8",
       "type": "short",
@@ -6833,6 +6905,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-07-31T15:53:47Z",
+      "new": 11,
+      "long": 8,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
