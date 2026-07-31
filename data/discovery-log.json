@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T17:53:56Z",
+  "updatedAt": "2026-07-31T18:53:06Z",
   "items": [
+    {
+      "id": "s1Jv9mPLh9I",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-07-31T18:11:44Z",
+      "firstSeenAt": "2026-07-31T18:53:06Z"
+    },
+    {
+      "id": "8xV57ZSIAjU",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-07-31T18:04:17Z",
+      "firstSeenAt": "2026-07-31T18:53:06Z"
+    },
+    {
+      "id": "CXVnsSGv7CQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Success With Sam",
+      "publishedAt": "2026-07-31T17:58:06Z",
+      "firstSeenAt": "2026-07-31T18:53:06Z"
+    },
+    {
+      "id": "3w3rDImrxqs",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Mr Albert Ranga",
+      "publishedAt": "2026-07-31T17:58:06Z",
+      "firstSeenAt": "2026-07-31T18:53:06Z"
+    },
+    {
+      "id": "0kXxMaoYNNk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ace Solutions - ACE Club - Community For Success",
+      "publishedAt": "2026-07-31T13:53:06Z",
+      "firstSeenAt": "2026-07-31T18:53:06Z"
+    },
+    {
+      "id": "Nnob7JC4WpM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sunil Chaudhary | Tandavacharya",
+      "publishedAt": "2026-07-31T08:53:06Z",
+      "firstSeenAt": "2026-07-31T18:53:06Z"
+    },
+    {
+      "id": "VbBcZ2A4gWQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "InfoTech Solutions & Services, Inc.",
+      "publishedAt": "2026-07-31T05:53:06Z",
+      "firstSeenAt": "2026-07-31T18:53:06Z"
+    },
+    {
+      "id": "q95_vvWcFYc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "PalmettoSoft",
+      "publishedAt": "2026-07-30T23:53:06Z",
+      "firstSeenAt": "2026-07-31T18:53:06Z"
+    },
     {
       "id": "vR8VwGQrniY",
       "type": "short",
@@ -7044,6 +7108,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-07-31T18:53:06Z",
+      "new": 8,
+      "long": 5,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
