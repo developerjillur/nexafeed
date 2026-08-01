@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T03:53:27Z",
+  "updatedAt": "2026-08-01T04:53:30Z",
   "items": [
+    {
+      "id": "RFwNMf39h_Q",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-01T04:00:07Z",
+      "firstSeenAt": "2026-08-01T04:53:30Z"
+    },
+    {
+      "id": "4vDij-D8qTQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "K9 Investment Partners, LLP.",
+      "publishedAt": "2026-08-01T01:53:30Z",
+      "firstSeenAt": "2026-08-01T04:53:30Z"
+    },
+    {
+      "id": "vnSPIlO4g2Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lucas Keeler",
+      "publishedAt": "2026-08-01T00:53:30Z",
+      "firstSeenAt": "2026-08-01T04:53:30Z"
+    },
+    {
+      "id": "Trd-ieexs2I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech Tomlet",
+      "publishedAt": "2026-07-31T20:53:30Z",
+      "firstSeenAt": "2026-08-01T04:53:30Z"
+    },
+    {
+      "id": "7Ypdc2eBaXo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Automation For Agencies",
+      "publishedAt": "2026-07-31T19:53:30Z",
+      "firstSeenAt": "2026-08-01T04:53:30Z"
+    },
     {
       "id": "ahiqvybJBTs",
       "type": "long",
@@ -7485,6 +7525,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-01T04:53:30Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
