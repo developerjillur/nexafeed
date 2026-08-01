@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T05:53:30Z",
+  "updatedAt": "2026-08-01T06:53:07Z",
   "items": [
+    {
+      "id": "R6anmE7sJmk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-08-01T06:00:32Z",
+      "firstSeenAt": "2026-08-01T06:53:07Z"
+    },
+    {
+      "id": "k_uehlXzzHE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Late to Class ",
+      "publishedAt": "2026-07-31T23:53:07Z",
+      "firstSeenAt": "2026-08-01T06:53:07Z"
+    },
+    {
+      "id": "iKCxOo6o8Ks",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hamza Automates",
+      "publishedAt": "2026-07-31T19:53:07Z",
+      "firstSeenAt": "2026-08-01T06:53:07Z"
+    },
     {
       "id": "xuXFt2_ZBms",
       "type": "long",
@@ -7575,6 +7599,15 @@
       "channelsChecked": 33,
       "warnings": 15,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-01T06:53:07Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 33,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
