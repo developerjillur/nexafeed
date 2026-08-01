@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T18:53:27Z",
+  "updatedAt": "2026-08-01T19:53:32Z",
   "items": [
+    {
+      "id": "bdCMu9cH2BY",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-01T19:44:16Z",
+      "firstSeenAt": "2026-08-01T19:53:32Z"
+    },
+    {
+      "id": "PQxStU2sGKY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Intellipaat",
+      "publishedAt": "2026-08-01T18:53:32Z",
+      "firstSeenAt": "2026-08-01T19:53:32Z"
+    },
+    {
+      "id": "QbKk0J734oc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GeoExplorer 2025",
+      "publishedAt": "2026-08-01T15:53:32Z",
+      "firstSeenAt": "2026-08-01T19:53:32Z"
+    },
+    {
+      "id": "eERZ6ttB_uc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Intellipaat",
+      "publishedAt": "2026-08-01T14:53:32Z",
+      "firstSeenAt": "2026-08-01T19:53:32Z"
+    },
     {
       "id": "AnErH0RJR6M",
       "type": "long",
@@ -8172,6 +8204,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-01T19:53:32Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }

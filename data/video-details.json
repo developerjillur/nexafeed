@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T18:53:27Z",
+  "updatedAt": "2026-08-01T19:53:32Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -2509,39 +2509,6 @@
       "description": "📈 ALL Systems: https://bit.ly/4kol0y5\nGrab Higgsfield 👉 https://bit.ly/4fjvSg0\n🩵 Free Resources: https://bit.ly/3RNNDLa\n\n\nKimi K3 is the new number one for design, and this video walks you through building genuinely gorgeous websites with it, the kind that look like the top 3%. I'll show you the exact free skill I built after hours and a lot of dollars getting it right, so you can just download it and follow along. We go through three levels: a beautiful one-scroll story site, a mobile optimised version, and a fully personalised brand site that pulls real logos and colours in with Firecrawl. You'll also see how to bring in Higgsfield for the video and imagery, and how to host the whole thing on Vercel. Works even if you're a complete beginner.\n\n*Core Software:*\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n🔀 OpenRouter: https://openrouter.ai/\n☁️ Claude: https://claude.ai/\nGrab Higgsfield 👉 https://bit.ly/4fjvSg0\n🔥 Firecrawl: https://firecrawl.link/jack-roberts\n💬 ChatGPT: https://chatgpt.com/\n\n⌚️ *Stamps:*\n0:00 - The 97% Problem\n0:50 - Why Kimmy K3 Wins\n1:16 - Beating The Competition\n1:32 - 30% The Price Of Claude\n1:39 - Three Levels Overview\n1:54 - Download The Free Skill\n2:15 - Installing The Skill\n2:49 - Getting Your API Key\n2:55 - The Agentic OS Setup\n3:03 - Selecting Kimmy K3 Model\n3:19 - Confirming The Model\n3:53 - Three Things You Need\n4:23 - Connecting To Higgsfield\n4:38 - Higgsfield CLI Install\n5:53 - Pre-Flight Status Check\n6:19 - Enabling Video Generation\n6:37 - The Honey Website Idea\n7:31 - First Website Result\n7:39 - The Honey Drop Animation\n8:57 - The Mobile Problem\n9:04 - Level Two: Mobile Design\n9:33 - Reshoot For Mobile\n10:23 - Prompting Mobile Version\n10:49 - Mobile Result Revealed\n11:29 - Responsive Breakpoints Demo\n11:58 - Why Mobile Traffic Matters\n12:22 - Level Three Incoming\n12:36 - Personalized Client Websites\n13:14 - Auto Brand Extraction\n13:38 - Fritz Cola Case Study\n14:17 - Using Firecrawl For Branding\n15:45 - Why Firecrawl Beats Search\n16:18 - Handling Model Errors\n16:49 - Bulletproofing The Skill\n17:24 - Fritz Cola Result Demo\n18:11 - Hosting With Vercel\n18:30 - Connecting Vercel Via CLI\n18:45 - What's Next\n\nBuild beautiful 3D websites with Kimi K3 using Claude Code, Higgsfield for video and imagery, Firecrawl for brand extraction, OpenRouter for model access and Vercel for hosting, including mobile optimised and fully personalised brand sites.\n#KimiK3 #ClaudeCode #AIWebDesign #Higgsfield #Firecrawl #Vercel",
       "commentCount": 4,
       "likeCount": 46,
-      "probeClient": "web_embedded"
-    },
-    "frZ6QZ1FM6I": {
-      "checkedAt": "2026-07-28T21:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment “cruise” for the I Need Cruise skill pack and playbook!\n\nGoogle Flights makes comparing flights easy.\n\nThere’s nothing like it for cruises.\nSo you guess.\n\nOne command fixes that.\n\nIt asks your dates and your ideal trip, pulls cruise data through Apify, then cross-checks the Google Flights scraper.\n\nCheapest cruise and flight, together.\n\nShort list, full list, booking link.\n\nWe both know you need a vacation, fam.\n\n#AItools\n#ClaudeCode\n#Automation\n#AIAgents\n#Tech",
-      "commentCount": 2,
-      "likeCount": 34,
-      "comments": [
-        {
-          "id": "Ugzh0AZk9k7MvoWkzPh4AaABAg",
-          "author": "@vytautasstoncius660",
-          "text": "Cruise",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kTeQsYy_vCl0Lj_EugFLsOAScz5QY3t-PUXH3XGwo=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugyo_Bh4FEKWYoEVFMd4AaABAg",
-          "author": "@RoqueLachica",
-          "text": "Cruise",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lMlf7nLP7hz4X8KTq_95muomg-QWPQRBsJDnpsfNQ9A8U=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-28T21:53:14Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "EXRBvvsrYJI": {
@@ -5454,14 +5421,25 @@
       "probeClient": "web_embedded"
     },
     "9VK5jrqGbYk": {
-      "checkedAt": "2026-07-31T19:53:11Z",
+      "checkedAt": "2026-08-01T19:53:32Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "You set up a local proxy on your Mac, connect it to your Codex login, and create an alias called claudex.\nNow when you type claudex in your terminal, you get Claude Code’s entire interface, but with GPT-5.6 generating the responses.\nClaude Code still handles the tools, file edits, subagents, and progress tracking.\nGPT-5.6 just does the thinking.\nAnd this experiment taught me something I wasn’t expecting.\nThe harness matters way more than the model.\nClaude Code isn’t just a wrapper.\nIt decides how context flows, how tools get called, and how long-running threads stay alive.\nSwap the model underneath, and the experience barely changes.\nThat’s how much the harness is doing.\nBut using Codex behind Claude Code is also like buying a great camera and only using it as a webcam.\nYou lose everything Codex does natively.\nSo I use both.\nClaude Code when I want Claude Code.\nCodex when I want Codex.\nAnd claudex",
-      "commentCount": 0,
-      "likeCount": 207,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-31T19:53:11Z",
+      "commentCount": 1,
+      "likeCount": 272,
+      "comments": [
+        {
+          "id": "UgwuYeEnhqDnCU8nYF94AaABAg",
+          "author": "@Abrakadabra9to5",
+          "text": "You can get claude code opus to do planning and get sub agents to trigger codex to complete task of generating the work with Luna or sol",
+          "likeCount": 1,
+          "publishedAt": "2026-08-01T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/vnHkzeFYBtXx18tV189NIOumIiSw8WakCFzwQs_9ncisAkTcwUOxWlOsKkUKwU8YhXNwiE152w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-01T19:53:32Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5877,7 +5855,7 @@
       "probeClient": "web_embedded"
     },
     "W93f8ZFOzxQ": {
-      "checkedAt": "2026-08-01T18:53:27Z",
+      "checkedAt": "2026-08-01T19:53:32Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6152,7 +6130,7 @@
       "probeClient": "web_embedded"
     },
     "q26SM0Q6cds": {
-      "checkedAt": "2026-08-01T18:53:27Z",
+      "checkedAt": "2026-08-01T19:53:32Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6738,14 +6716,85 @@
       "probeClient": "web_embedded"
     },
     "sOM_-sBbCHE": {
-      "checkedAt": "2026-07-31T19:53:11Z",
+      "checkedAt": "2026-08-01T19:53:32Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment GOOGLE and I'll send you the link.\n\nYou don't need a paid AI course. Google put its own internal lessons online for free. It's called AI Boost Bites, taught by Google's own specialists, every lesson under ten minutes with a hands-on task right after.\n\nIt starts simple, using Gemini to pull data into a spreadsheet with zero code. Then it gets sharper, they teach the move Google runs on its own strategies, where you make the model tear your plan apart and expose the weak spots. By the end you're turning raw meeting notes into polished slides and an exec-ready doc.\n\n@googlecloud\n#AI #Gemini #Google #productivity #AItools",
-      "commentCount": 0,
-      "likeCount": 5,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-31T19:53:11Z",
+      "commentCount": 7,
+      "likeCount": 34,
+      "comments": [
+        {
+          "id": "UgwIDU-9cTsA5pGfs5J4AaABAg",
+          "author": "@milovan1110",
+          "text": "Google",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/YgMKGsT_v3kyqohUwM0Xsi4ccbInZbQZRb2ZgxYoBbMFCxctBGFSXVRono-M4rMjfKMqAx4exXc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzUVyDjhn3d8bZXA3l4AaABAg",
+          "author": "@PeterOHanlon-w9u5c",
+          "text": "Google",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/OkXQFQJWF2vhLTdnexlmwCyE72-e-C4_vHtSlpK4hXw2InIE_oVaMjD2IJW938m_nS2H85iClw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxPL2yzB8vjxHWGulN4AaABAg",
+          "author": "@calebbasseybassey3090",
+          "text": "Google",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_klDh9ozkjiYbOsKCAWOkC72XjzSzBfiF3whoDke2g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwphAgkRBazkW6oN-R4AaABAg",
+          "author": "@vasfidemirel917",
+          "text": "Google",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1yXtFR5_qisJccnW1QZA8QOQ4pAm0RqV9wll35j4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw5FB7PemanU2KDMSx4AaABAg",
+          "author": "@sosuke_aizen_8090",
+          "text": "Google",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/csOidPKeRZVDWIyWubzEEbqW6gRpGYt5EODiJfzBegZZpNhKYHIQJkHq0oFR2veWqqmPixhojQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyXvGas1T7X7D-Rkhp4AaABAg",
+          "author": "@CornerSaham",
+          "text": "Google",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Z_QEfL2jyKEVQrUvnk5RPyc3TLSrj81I-VM0ciZT-ntY2WT5QJe05qJuwmZzWF-xMDaWE6R_dX8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzC3xU7q4tHMHKIfWh4AaABAg",
+          "author": "@SodiqNazarov",
+          "text": "Google",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nlK0XZCHPihWVQ4ZXtf5b8YpsaViKGdlcNQOujPdbuOV75OJmCMvjy0UMhDlldDDfeTw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-01T19:53:32Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6837,15 +6886,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-01T06:53:07Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "k_uehlXzzHE": {
-      "checkedAt": "2026-08-01T06:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Watch Hermes Agent take control of ComfyUI on my Windows PC and run complete AI image, audio and video workflows from simple written instructions.\n\nIn this step-by-step tutorial, I show how I connected Hermes Agent to my local ComfyUI installation and used API-format workflows to automate a complete creative pipeline—without manually running every workflow stage myself.\n\nYou’ll see Hermes Agent:\n\n• Connect directly to local ComfyUI\n• Inspect and run saved ComfyUI workflows\n• Generate a master image with Krea 2\n• Create consistent camera angles with Qwen Image Edit 2511\n• Generate cloned dialogue with Fish Audio S2 pro\n• Turn images and audio into video with LTX 2.3\n• Organise the completed outputs for editing in Adobe Premiere Pro\n\nComfyUI installation on a local Windows computer running multiple workflows - just push a button go out for the day and come back and everything is done. I will also show free model options like gemini flash 3.5 med lite. This can do anything!.\n\nInstallation, Setup, Configuration, Workflow, Automation, Python, Script, Coding. Guide, Course, Masterclass, Professional, Advanced, Editing, Design.\nMake videos for Business, Monetize, and make a Passive Income.\nearning AI easy. Image to AI video Tutorial. Anything is now possible with this updated node\n\nprompt director pro\nhttps://www.patreon.com/posts/prompt-director-150726418?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link\n\nhttps://www.heygen.com/?sid=rewardful&via=doggis\n\nBuy me a Coffee! http://coff.ee/ailatetoclass\nhttps://www.patreon.com/cw/ailatetoclass \n\nworkflows\nhttps://drive.google.com/drive/folders/1OtRk50Nf0bSOSZv6VJSoH13tcW2KmvZC?usp=sharing",
-      "commentCount": 7,
-      "likeCount": 23,
       "probeClient": "web_embedded"
     },
     "-dXsBzU1-DU": {
@@ -6960,15 +7000,6 @@
       "description": "🚀 Try Creatify AI here:\nhttps://creatify.ai/\n\nHave you ever tried creating a video ad from scratch? First, you need product photos, then a script, then someone to present it, then editing, then revisions. And after all that, there is still no guarantee the ad will perform well.\n\nIn this video, I test Creatify AI, an AI advertising platform designed to help create complete marketing ads from a product URL, product images, or a text description. Instead of only generating random videos, Creatify helps with research, messaging, scripts, voiceovers, avatars, visual scenes, ad structure, and final production.\n\n⏱️ TIMESTAMPS\n00:00 Can AI Create Complete Video Ads?\n00:47 Why Creating Ads Is Expensive\n01:17 What Is Creatify AI?\n01:51 Product URL to Video Ad\n02:27 First Creatify Ad Result\n02:37 Creatify AI Agent\n03:16 AI Marketing Ad Example\n03:36 Asset Generator Test\n04:06 Custom AI Presenter\n04:32 Creating Ad Variations\n05:05 Chat Workflow vs Visual Editor\n05:27 Final Creatify AI Review\n06:02 Free Plan and Monthly Credits\n\n🚀 What You'll Learn\n✅ Creatify AI\n✅ AI Video Ads\n✅ AI Ad Generator\n✅ Product URL to Video\n✅ AI Advertising Platform\n✅ AI Marketing Ads\n✅ AI Agent\n✅ AI Avatars\n✅ AI Presenter\n✅ Asset Generator\n✅ AI Script Generator\n✅ AI Voiceovers\n✅ UGC Style Ads\n✅ Product Video Ads\n✅ Visual Workflow Editor\n\nCreating ads normally requires a lot of moving parts. You need copywriting, product images, voiceovers, actors or presenters, editing, and multiple creative versions for testing.\n\nEven with AI tools, many marketers still jump between separate platforms to create one ad. One tool writes the script, another generates visuals, another creates a voiceover, and another edits the final video.\n\nCreatify AI tries to simplify that by bringing the ad creation workflow into one platform. According to the script, Creatify can turn a product URL, images, or text description into ready-to-use video ads.\n\nIn the first test, I paste a product page URL directly into Creatify. The platform analyzes the product page, gathers information, and starts building a full ad structure. It generates marketing angles, scripts, voiceovers, visual scenes, and a complete video ad from a single link.\n\nThe next feature I test is the Creatify AI Agent. Instead of clicking through multiple menus, I describe the ad I want, such as an ad targeting small business owners who want to save time creating marketing content. The agent then helps with research, messaging, script generation, avatar selection, and ad production.\n\nI also test the asset generator by uploading a basic product image and turning it into cleaner promotional visuals. This can be useful for brands or small businesses that do not have access to expensive product photography.\n\nAnother interesting part of Creatify is the ability to create a custom AI presenter. You can start with a text prompt, generate a character, turn that character into an avatar, and use that avatar as the presenter inside the ad.\n\nFor marketers, variation matters. Creatify can help generate multiple ad styles using the same product, such as UGC style, interview style, podcast style, and cinematic style. The message stays consistent while the presentation changes, which makes it easier to test different creative angles.\n\nCreatify also gives users two ways to work. Beginners can use the chat-based workflow and let the AI handle most of the decisions. More advanced users can use the visual workflow editor to manually adjust different parts of the ad creation process.\n\nAfter testing Creatify AI, the biggest strength is not just video generation. It is the way the platform combines scripting, visuals, avatars, assets, and production into one connected workflow.\n\nCreatify probably will not replace a professional creative team completely, but for entrepreneurs, marketers, creators, ecommerce brands, and small businesses, it can reduce the time and effort needed to create video ads.\n\nAccording to the script, Creatify also offers a free plan with free monthly credits, so you can test the platform and see how it fits your workflow.\n\nSubscribe for more AI video tools, AI marketing tools, creator workflows, ecommerce tools, and practical AI reviews.\n\n#CreatifyAI #Creatify #AIVideoAds #AIAdGenerator #AIAvatars #AIMarketing #ProductVideoAds #UGCAds #EcommerceTools #AITools\n\n📩 Reach out to us at contact@liquiai.com \n\n🌐 Subscribe to discover new tools weekly!\n#LiquiAI #AITools #ArtificialIntelligence #AIApps #GenerativeAI #AIReview #ToolWalkthrough",
       "commentCount": 5,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "FBpGiKDZlnI": {
-      "checkedAt": "2026-08-01T08:53:17Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Generative artificial intelligence could reshape millions of routine jobs across retail, healthcare and education. Repetitive administrative duties, customer support and basic information processing may face the greatest disruption as AI tools become more capable. However, the technology may transform many roles rather than eliminate them entirely, allowing workers to focus on complex and human-centred responsibilities. The shift could also increase demand for new skills, training and workplace adaptation. Watch the full episode to understand which jobs are most exposed and how employment could change.\n\n#generativeai #jobsatrisk #wionpodcast \n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to world politics. People are tired of biased reportage and we stand for a globalized united world. So for us, the World is truly One.\n \nPlease keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs and personal insults.\n\nSubscribe to our channel at https://goo.gl/JfY3NI\nCheck out our website: http://www.wionews.com\nJoin our WhatsApp Channel: https://bit.ly/455YOQ0\nConnect with us on our social media handles:\nFacebook: https://www.facebook.com/WIONews\nTwitter: https://twitter.com/WIONews\nInstagram: https://www.instagram.com/wionews/\nFollow us on Google News for the latest updates\n\nZee News:- https://bit.ly/2Ac5G60\nZee Business:- https://bit.ly/36vI2xa\nDNA India:- https://bit.ly/2ZDuLRY\nWION: https://bit.ly/3gnDb5J\nZee News Apps: https://bit.ly/ZeeNewsApps",
-      "commentCount": 0,
-      "likeCount": 2,
       "probeClient": "web_embedded"
     },
     "v9fyCgOe02I": {
@@ -7087,15 +7118,6 @@
       "description": "Indian manufacturers are benefiting from the global AI infrastructure boom by supplying cables, power systems and cooling equipment for data centres. Analysts describe the trend as a classic \"picks and shovels\" investment strategy, where companies providing essential infrastructure stand to gain even as concerns remain over India's pace in developing AI technology.\n\n#india #ai #artificialintelligence #manufacturing #wion \n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to world politics. People are tired of biased reportage and we stand for a globalized united world. So for us, the World is truly One.\n \nPlease keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs and personal insults.\n\nSubscribe to our channel at https://goo.gl/JfY3NI\nCheck out our website: http://www.wionews.com\nJoin our WhatsApp Channel: https://bit.ly/455YOQ0\nConnect with us on our social media handles:\nFacebook: https://www.facebook.com/WIONews\nTwitter: https://twitter.com/WIONews\nInstagram: https://www.instagram.com/wionews/\nFollow us on Google News for the latest updates\n\nZee News:- https://bit.ly/2Ac5G60\nZee Business:- https://bit.ly/36vI2xa\nDNA India:- https://bit.ly/2ZDuLRY\nWION: https://bit.ly/3gnDb5J\nZee News Apps: https://bit.ly/ZeeNewsApps",
       "commentCount": 1,
       "likeCount": 5,
-      "probeClient": "web_embedded"
-    },
-    "5h8KuAwoOcQ": {
-      "checkedAt": "2026-08-01T11:53:35Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Artificial intelligence has delivered responses so unexpected that even the scientists developing these systems struggled to explain them. This video explores unsettling AI conversations, bizarre outputs, and surprising behaviors that challenged researchers' understanding of machine learning and advanced language models. From mysterious predictions to unexplained interactions, these fascinating moments reveal how much about artificial intelligence remains unknown.\n\nSubscribe: @MostAmazingTop10 \n\n#AI #ArtificialIntelligence #Technology #Science #FutureTech\n\nHosted By:\nOlivia Kosolofski https://www.instagram.com/okosolofski\n\nEdited By:\nDalia Y.\n\nChannel Producer: \nLandon Dowlatsingh- https://www.instagram.com/landonproductions/\n\nSet Manager:\nChris Stiuso\n\nMost Amazing Top 10 Instagram- \nhttps://www.instagram.com/mostamazingofficial/\n\nTime Codes: \n0:00- Intro\n00:43- Galactica\n01:55- The Phase Transition Problem\n03:06- Meta CICERO\n04:19- The Cover Story Problem\n05:33- AI Emotional Manipulation\n06:54- OpenAI o1\n08:02- Galaxy Brain\n09:18- AIs Protecting Other AIs\n10:38- The Safety Training That Made It Worse\n11:59- Self-Replication in the Wild\n\nFor Business Inquiries Contact: mostamazingtop10@gmail.com",
-      "commentCount": 24,
-      "likeCount": 270,
       "probeClient": "web_embedded"
     },
     "TyB7kLZPVKo": {
@@ -7255,7 +7277,7 @@
       "probeClient": "web_embedded"
     },
     "X6U0U8BwAao": {
-      "checkedAt": "2026-08-01T18:53:27Z",
+      "checkedAt": "2026-08-01T19:53:32Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7546,6 +7568,56 @@
       "description": "Get the Agent OS & Buzz Masterclass: https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet our SEO link building book here: https://go.juliangoldie.com/opt-in?utm=julian\n\nJack Dorsey’s Buzz vs Hermes Agent: The Truth + The One AI Agent You’re Missing\n\nThe script explains Jack Dorsey and Block’s new free, open-source app Buzz (buzz.xyz), a Slack-style workspace for coordinating a “group chat workforce” of AI agents that can write, design, and review work together. The creator demonstrates setting up automations in about 20 minutes, including an SEO agent that pulled keyword ideas and published a formatted WordPress post and an image designer that generated thumbnail variations. Buzz is positioned as easier than Hermes Agent, supports plugging in Claude Code/Codex to inherit existing logins and workflows, and allows inviting human teammates with permissions and searchable channel history. Hermes still excels at always-on scheduled autonomy and integrations, but can now run inside Buzz via discovery, relay bridge, or gateway—making Buzz the front end and Hermes the engine. A key recommendation is adding a “quality controller” agent to catch errors and iterate with other agents. Buzz can also run via Goose and OpenRouter models, including free options.\n\n00:00 Buzz vs Hermes Setup\n00:43 What Buzz Is\n01:23 Group Chat Workforce\n02:32 Real Automation Demo\n03:35 Easy Install and Costs\n05:03 Buzz Masterclass Pitch\n05:43 Does It Beat Hermes\n06:04 Where Buzz Wins\n07:30 Where Hermes Wins\n08:13 Better Together Integration\n09:03 Quality Controller Agent\n11:12 Run Buzz for Free\n12:31 Final Verdict and Wrap",
       "commentCount": 10,
       "likeCount": 51,
+      "probeClient": "web_embedded"
+    },
+    "bdCMu9cH2BY": {
+      "checkedAt": "2026-08-01T19:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment “ADHD” for the skill link & 60+ other FREE Claude Code Guides & Templates!\n\nClaude locks onto its first idea and defends it all session.\n\nAsk for more options.\nYou get 10 versions of the same one.\n\nBut here’s the thing.\n\nThe ADHD skill splits Claude into 5 agents that never see each other.\nDifferent frames. Zero anchoring.\n\nThen a critic scores them and names the traps.\n\nYou get the answer nobody would’ve picked.\n\n#ClaudeCode\n#AIAgents\n#AItools\n#DevTools\n#BuildInPublic",
+      "commentCount": 1,
+      "likeCount": 0,
+      "comments": [
+        {
+          "id": "UgzzjBUW3PPGO3FQ3k94AaABAg",
+          "author": "@charlieautomates",
+          "text": "🔑Free Skill Link and playbook here: https://charlieautomates.com/free-resources/#adhd-skill",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T19:46:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-08-01T19:53:32Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "PQxStU2sGKY": {
+      "checkedAt": "2026-08-01T19:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥Enroll for Generative AI Course: https://intellipaat.com/generative-ai-course/\n\n🔥𝐁𝐨𝐨𝐤 𝐲𝐨𝐮𝐫 𝐅𝐫𝐞𝐞 𝐌𝐚𝐬𝐭𝐞𝐫𝐜𝐥𝐚𝐬𝐬: https://forms.gle/g5tExa7e54xpYZW97\n\nLooking for the best Generative AI Course? This comprehensive course covers everything you need to master modern Artificial Intelligence, from the fundamentals of AI and its evolution to advanced concepts like Agentic AI and Generative AI. You'll gain a solid understanding of how AI works, explore the complete Generative AI ecosystem, and build practical skills through hands-on demonstrations designed for beginners as well as experienced professionals.\n\nIn this Generative AI Course, you'll dive deep into the technologies behind today's leading AI models, including Transformer Architecture, the Transformers library, Hugging Face, and inference pipelines. You'll learn how Large Language Models (LLMs) work and gain the practical knowledge needed to develop AI-powered applications using industry-standard tools and frameworks.\n\nThe course also covers advanced topics such as Retrieval-Augmented Generation (RAG), LangChain, prompt engineering, open-source AI models, and AI agents. By the end of this Generative AI Course, you'll have the skills to build real-world Generative AI applications, enhance your AI expertise, and prepare for high-demand careers in Artificial Intelligence and Machine Learning.\n\n📖 Below are the concepts covered in the video on 'Generative AI Full Course ':\n00:00:00 - Introduction to Gen AI\n00:00:10 - What is Artificial Intelligence?\n00:03:22 - History and Evolution of AI\n00:06:57 - Types of Artificial Intelligence\n00:08:45 - Agentic AI Explained\n00:23:52 - Introduction to Generative AI\n01:01:58 - Generative AI Value Chain\n01:21:11 - Generative AI Hands-on\n02:10:05 - Transformer Architecture Explained\n03:57:10 - Transformers Library\n04:03:32 - Hugging Face Tutorial\n05:56:25 - Inference Pipeline\n07:39:58 - Introduction to RAG\n08:06:22 - How RAG Works\n08:44:03 - RAG with LangChain\n09:16:47 - Prompt Templates Using LangChain\n09:52:58 - Accessing Open Source AI Models\n10:03:09 - AI Agents and Tools\n\n#generativeai #generativeaicourse #genai #artificialintelligence #intellipaat \n\n➡️ About the Course\nThe Intellipaat Generative AI course is a comprehensive online program designed to help learners master modern Generative AI technologies through hands-on learning. It covers Python fundamentals, NLP, large language models, prompt engineering, RAG, agentic AI, and image generation using industry-relevant tools. Learners build real-world applications such as chatbots and AI-powered content systems while gaining practical deployment experience. The course includes projects, hackathons, and lifetime access to learning resources. On completion, participants receive a certification co-branded by Microsoft and iHUB, IIT Roorkee. Placement assistance is also provided through resume building, mock interviews, and job support initiatives.\n\n✅ Key Features - (Course Features)\n👉🏼 96 hours of structured Generative AI training over 4 months\n👉🏼 Learn LLMs, prompt engineering, RAG, and agentic AI\n👉🏼 20+ hands-on projects and live hackathons\n👉🏼 Build real-world AI apps like chatbots and GenAI tools\n👉🏼 Certification from Microsoft and iHUB, IIT Roorkee\n👉🏼 Placement support with resume and interview preparation\n👉🏼 24/7 support for query resolution\n👉🏼 96 hrs+ of Top Self-paced Videos\n\n📌 Do subscribe to Intellipaat channel & come across more relevant Tech content: https://goo.gl/hhsGWb\n\n📚For more information, please write back to us at sales@intellipaat.com or call us at IND: +91-7022374614 / US : 1-800-216-8930",
+      "commentCount": 1,
+      "likeCount": 95,
+      "probeClient": "web_embedded"
+    },
+    "QbKk0J734oc": {
+      "checkedAt": "2026-08-01T19:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Use AI for entrepreneurs to streamline your 2026 business strategy. Learn how specific tools save time and automate daily operations.\n\nThis guide explains how to integrate AI business tools into your daily workflow to handle repetitive tasks. We focus on practical applications for business owners looking to scale efficiently without adding headcount. Whether you are managing content creation or complex data, these strategies help you maintain focus on core growth.\n\nWe break down the specific AI systems needed for effective business analysis and workflow automation. You will learn which technologies provide the highest ROI for your time and how to implement them immediately to gain a competitive edge. By leveraging these resources, you can redirect your energy toward high-level innovation and long-term success.\n\nSubscribe for weekly AI strategy breakdowns, and comment below with the biggest bottleneck in your current business operations.\n\n#AI #ArtificialIntelligence #AITools #Entrepreneur #Business #Startup #Productivity #ChatGPT #ClaudeAI #PerplexityAI #Midjourney #CanvaAI #ElevenLabs #NotionAI #Zapier #RunwayAI #GammaAI #BusinessGrowth #Automation #FutureOfWork",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "eERZ6ttB_uc": {
+      "checkedAt": "2026-08-01T19:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥Enroll for Generative AI Course: https://intellipaat.com/generative-ai-course/\n\n🔥𝐁𝐨𝐨𝐤 𝐲𝐨𝐮𝐫 𝐅𝐫𝐞𝐞 𝐌𝐚𝐬𝐭𝐞𝐫𝐜𝐥𝐚𝐬𝐬: https://forms.gle/g5tExa7e54xpYZW97\n\nLooking for a complete Generative AI Course? This in-depth tutorial takes you from the fundamentals of Artificial Intelligence to advanced Generative AI concepts used in today's AI-powered applications. You'll begin by understanding the basics of AI, its history, evolution, and different types before exploring Agentic AI and the core concepts of Generative AI. The course also covers the Generative AI value chain and includes hands-on implementation to help you build practical skills from the ground up.\n\nAs you progress through this Generative AI Course, you'll gain a deep understanding of Transformer Architecture, the Transformers library, Hugging Face, and inference pipelines that power modern Large Language Models (LLMs). These concepts are explained with practical examples, making it easier for beginners, developers, and AI enthusiasts to understand how cutting-edge AI systems work behind the scenes.\n\nThe course further explores advanced topics such as Retrieval-Augmented Generation (RAG), LangChain, prompt templates, open-source AI models, and AI agents. By the end of this Generative AI Course, you'll have the knowledge and practical experience needed to build intelligent AI applications, work with modern AI frameworks, and prepare for careers in Artificial Intelligence, Machine Learning, and Generative AI.\n\n📖 Below are the concepts covered in the video on 'Generative AI Full Course ':\n00:00:00 - Introduction to Gen AI\n00:00:48 - What is Artificial Intelligence?\n00:04:00 - History and Evolution of AI\n00:07:35 - Types of Artificial Intelligence\n00:09:23 - Agentic AI Explained\n00:24:30 - Introduction to Generative AI\n01:02:36 - Generative AI Value Chain\n01:21:49 - Generative AI Hands-on\n02:10:43 - Transformer Architecture Explained\n03:57:48 - Transformers Library\n04:04:10 - Hugging Face Tutorial\n05:57:03 - Inference Pipeline\n07:40:36 - Introduction to RAG\n08:07:00 - How RAG Works\n08:44:41 - RAG with LangChain\n09:17:25 - Prompt Templates Using LangChain\n09:53:36 - Accessing Open Source AI Models\n10:03:47 - AI Agents and Tools\n\n#generativeaifullcourse #generativeaicourse #generativeaiinoneshot #generativeaicoursefree #intellipaat\n\n➡️ About the Course\nThe Intellipaat Generative AI course is a comprehensive online program designed to help learners master modern Generative AI technologies through hands-on learning. It covers Python fundamentals, NLP, large language models, prompt engineering, RAG, agentic AI, and image generation using industry-relevant tools. Learners build real-world applications such as chatbots and AI-powered content systems while gaining practical deployment experience. The course includes projects, hackathons, and lifetime access to learning resources. On completion, participants receive a certification co-branded by Microsoft and iHUB, IIT Roorkee. Placement assistance is also provided through resume building, mock interviews, and job support initiatives.\n\n✅ Key Features - (Course Features)\n👉🏼 96 hours of structured Generative AI training over 4 months\n👉🏼 Learn LLMs, prompt engineering, RAG, and agentic AI\n👉🏼 20+ hands-on projects and live hackathons\n👉🏼 Build real-world AI apps like chatbots and GenAI tools\n👉🏼 Certification from Microsoft and iHUB, IIT Roorkee\n👉🏼 Placement support with resume and interview preparation\n👉🏼 24/7 support for query resolution\n👉🏼 96 hrs+ of Top Self-paced Videos\n\n📌 Do subscribe to Intellipaat channel & come across more relevant Tech content: https://goo.gl/hhsGWb\n\n📚For more information, please write back to us at sales@intellipaat.com or call us at IND: +91-7022374614 / US : 1-800-216-8930",
+      "commentCount": 5,
+      "likeCount": 65,
       "probeClient": "web_embedded"
     }
   }
