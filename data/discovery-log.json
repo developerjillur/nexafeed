@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T11:53:35Z",
+  "updatedAt": "2026-08-01T12:53:34Z",
   "items": [
+    {
+      "id": "TyB7kLZPVKo",
+      "type": "long",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-01T12:45:10Z",
+      "firstSeenAt": "2026-08-01T12:53:34Z"
+    },
+    {
+      "id": "fNWiBo-9xf8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SAGAR THE TECH",
+      "publishedAt": "2026-08-01T12:45:34Z",
+      "firstSeenAt": "2026-08-01T12:53:34Z"
+    },
+    {
+      "id": "6Ur44WFlBMw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "MICROSTOCK TEAM ",
+      "publishedAt": "2026-08-01T11:53:34Z",
+      "firstSeenAt": "2026-08-01T12:53:34Z"
+    },
+    {
+      "id": "OwvH8E9MGT0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "My Business",
+      "publishedAt": "2026-08-01T07:53:34Z",
+      "firstSeenAt": "2026-08-01T12:53:34Z"
+    },
+    {
+      "id": "MX9YqEWGvtg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Coding Is Fun",
+      "publishedAt": "2026-08-01T05:53:34Z",
+      "firstSeenAt": "2026-08-01T12:53:34Z"
+    },
     {
       "id": "cREsmWytOtw",
       "type": "short",
@@ -7829,6 +7869,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-01T12:53:34Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 1,
+      "secondaryQuery": "Automation"
     }
   ]
 }
