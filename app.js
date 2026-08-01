@@ -19,6 +19,7 @@ const PLAYER_WHEEL_THRESHOLD = 420;
 const SHORT_WHEEL_THRESHOLD = 220;
 const WHEEL_RESET_MS = 420;
 const WATCHED_SKIP_THRESHOLD_SECONDS = 30;
+const RECENT_PLAYER_BACKTRACK_MS = 10 * 1000;
 const STATE_RETENTION_BUFFER_DAYS = 1;
 const DAY_MS = 24 * 60 * 60 * 1000;
 const DEFAULT_STATE_RETENTION_DAYS = 8;
@@ -47,6 +48,7 @@ const state = {
   shortQueue: [],
   shortIndex: 0,
   shortPanel: null,
+  recentPlayerHistory: [],
   unavailableVideos: new Set(),
   autoplay: localStorage.getItem(AUTOPLAY_KEY) !== "false",
 };
@@ -186,6 +188,13 @@ function progressFor(id) {
   return Math.max(0, Math.min(1, Number(value?.ratio || 0)));
 }
 
+function videoForPlaybackState(videoId) {
+  return (state.activeVideo?.id === videoId && state.activeVideo)
+    || state.shortQueue.find((item) => item.id === videoId)
+    || state.feed?.items?.find((item) => item.id === videoId)
+    || { id: videoId, type: "long" };
+}
+
 function saveProgress(id, seconds, duration) {
   if (!id || !duration || duration <= 0) return;
   const ratio = Math.max(0, Math.min(1, seconds / duration));
@@ -196,7 +205,9 @@ function saveProgress(id, seconds, duration) {
     updatedAt: Date.now(),
   };
   localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress));
-  if (ratio >= 0.8) markWatched(id);
+  const video = videoForPlaybackState(id);
+  const watchedSeconds = Math.floor(seconds);
+  if (watchedSeconds >= watchedThresholdSeconds(video, duration)) markWatched(id);
 }
 
 function watchedSecondsFor(videoId) {
@@ -246,18 +257,19 @@ function parseDurationSeconds(value) {
   return parts.reduce((total, part) => total * 60 + part, 0);
 }
 
-function durationSecondsFor(video) {
+function durationSecondsFor(video, fallbackDuration = 0) {
   const direct = Number(video?.durationSeconds || detailFor(video?.id)?.durationSeconds || 0);
-  return direct > 0 ? direct : parseDurationSeconds(video?.duration);
+  if (direct > 0) return direct;
+  const progressDuration = Number(state.progress[video?.id]?.duration || readJson(PROGRESS_KEY, {})[video?.id]?.duration || 0);
+  if (progressDuration > 0) return progressDuration;
+  const parsed = parseDurationSeconds(video?.duration);
+  return parsed > 0 ? parsed : Number(fallbackDuration || 0);
 }
 
-function watchedThresholdSeconds(video) {
-  const duration = durationSecondsFor(video);
+function watchedThresholdSeconds(video, fallbackDuration = 0) {
+  const duration = durationSecondsFor(video, fallbackDuration);
   if (video?.type === "short" && duration > 0) {
     return Math.max(1, Math.min(WATCHED_SKIP_THRESHOLD_SECONDS, Math.ceil(duration / 2)));
-  }
-  if (duration > 0 && duration < WATCHED_SKIP_THRESHOLD_SECONDS) {
-    return Math.max(1, Math.ceil(duration / 2));
   }
   return WATCHED_SKIP_THRESHOLD_SECONDS;
 }
@@ -265,8 +277,6 @@ function watchedThresholdSeconds(video) {
 function videoQualifiesAsWatched(video) {
   if (!video?.id) return false;
   if (isWatched(video.id)) return true;
-  const progress = state.progress[video.id];
-  if (Number(progress?.ratio || 0) >= 0.8) return true;
   return watchedSecondsFor(video.id) >= watchedThresholdSeconds(video);
 }
 
@@ -554,14 +564,14 @@ function youtubeEmbedSrc(video, autoplay = true) {
     widget_referrer: youtubeWidgetReferrer(),
   });
   const saved = state.progress[video.id];
-  if (saved?.seconds > 5 && Number(saved.ratio || 0) < 0.8) params.set("start", String(Math.floor(saved.seconds)));
+  if (saved?.seconds > 0 && Number(saved.ratio || 0) < 1) params.set("start", String(Math.floor(saved.seconds)));
   return `https://www.youtube.com/embed/${encodeURIComponent(video.id)}?${params.toString()}`;
 }
 
 function floatingPopupUrl(video) {
   const popupUrl = new URL("float.html", window.location.href);
   const params = new URLSearchParams({
-    v: "20260801-float-nav",
+    v: "20260801-watch-rules-back10",
     id: video.id,
     title: String(video.title || "YourTube video").slice(0, 180),
     type: video.type === "short" ? "short" : "long",
@@ -569,7 +579,7 @@ function floatingPopupUrl(video) {
     url: video.url || `https://www.youtube.com/watch?v=${video.id}`,
   });
   const saved = state.progress[video.id];
-  if (saved?.seconds > 5 && Number(saved.ratio || 0) < 0.8) params.set("start", String(Math.floor(saved.seconds)));
+  if (saved?.seconds > 0 && Number(saved.ratio || 0) < 1) params.set("start", String(Math.floor(saved.seconds)));
   popupUrl.search = params.toString();
   return popupUrl.toString();
 }
@@ -653,7 +663,7 @@ async function createFloatingYoutubePlayer(elementId, video) {
       widget_referrer: youtubeWidgetReferrer(),
     };
     const saved = state.progress[video.id];
-    if (saved?.seconds > 5 && Number(saved.ratio || 0) < 0.8) playerVars.start = Math.floor(saved.seconds);
+    if (saved?.seconds > 0 && Number(saved.ratio || 0) < 1) playerVars.start = Math.floor(saved.seconds);
     floatingPlayer = new YT.Player(elementId, {
       videoId: video.id,
       width: "100%",
@@ -1215,11 +1225,36 @@ function playableLongVideos() {
   return state.feed?.items.filter((item) => item.type === "long" && item.embedAllowed !== false && !state.unavailableVideos.has(item.id)) || [];
 }
 
+function pruneRecentPlayerHistory(now = Date.now()) {
+  state.recentPlayerHistory = state.recentPlayerHistory.filter((recent) => (
+    recent.stamp && now - recent.stamp <= RECENT_PLAYER_BACKTRACK_MS
+  ));
+}
+
+function rememberRecentPlayerVideo(video) {
+  if (!video?.id || video.type !== "long") return;
+  pruneRecentPlayerHistory();
+  state.recentPlayerHistory = state.recentPlayerHistory.filter((recent) => recent.id !== video.id);
+  state.recentPlayerHistory.unshift({ id: video.id, stamp: Date.now() });
+  state.recentPlayerHistory = state.recentPlayerHistory.slice(0, 8);
+}
+
+function recentPlayerBacktrackVideo(currentId) {
+  pruneRecentPlayerHistory();
+  const recent = state.recentPlayerHistory.find((recent) => (
+    recent.id !== currentId && recent.stamp && Date.now() - recent.stamp <= RECENT_PLAYER_BACKTRACK_MS
+  ));
+  if (!recent) return null;
+  return playableLongVideos().find((item) => item.id === recent.id) || null;
+}
+
 function playlistLongVideos(currentId) {
   return playableLongVideos().filter((item) => item.id === currentId || (!isWatched(item.id) && !isIgnored(item.id)));
 }
 
 function playerNeighbor(currentId, direction) {
+  const recentBacktrack = direction < 0 ? recentPlayerBacktrackVideo(currentId) : null;
+  if (recentBacktrack) return recentBacktrack;
   const longs = playlistLongVideos(currentId);
   const index = longs.findIndex((item) => item.id === currentId);
   if (direction > 0) return queueFor(currentId)[0] || null;
@@ -1230,6 +1265,7 @@ function navigatePlayer(direction) {
   if (!state.activeVideo) return;
   const target = playerNeighbor(state.activeVideo.id, direction);
   if (target) {
+    rememberRecentPlayerVideo(state.activeVideo);
     finalizeVideoBeforeLeaving(state.activeVideo, { reason: "player-nav" });
     openLong(target, { finalizeCurrent: false });
   }
@@ -1348,7 +1384,7 @@ async function createYoutubePlayer(elementId, video, options = {}) {
       events: {
         onReady(event) {
           const saved = state.progress[video.id];
-          if (saved?.seconds > 5 && Number(saved.ratio || 0) < 0.8) {
+          if (saved?.seconds > 0 && Number(saved.ratio || 0) < 1) {
             event.target.seekTo(saved.seconds, true);
           }
           event.target.playVideo();
@@ -1397,6 +1433,7 @@ function destroyPlayer() {
 function openLong(video, { finalizeCurrent = true, reason = "player-replace" } = {}) {
   const previousVideo = state.activeVideo;
   if (finalizeCurrent && previousVideo?.id && previousVideo.id !== video?.id) {
+    rememberRecentPlayerVideo(previousVideo);
     finalizeVideoBeforeLeaving(previousVideo, { reason });
   }
   state.activeVideo = video;

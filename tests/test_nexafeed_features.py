@@ -65,8 +65,8 @@ class FrontendFeatureTests(unittest.TestCase):
             'data-view="ignored"',
             'id="ignoredCount"',
             "Ignored videos",
-            "app.js?v=20260801-float-nav",
-            "style.css?v=20260801-float-nav",
+            "app.js?v=20260801-watch-rules-back10",
+            "style.css?v=20260801-watch-rules-back10",
         ]:
             self.assertIn(marker, index_html)
 
@@ -75,6 +75,43 @@ class FrontendFeatureTests(unittest.TestCase):
 
         self.assertNotIn("MINIMUM_MANUAL_SWITCH_WATCH_SECONDS", app_js)
         self.assertNotIn("markVideoWatchedAfterMinimum", app_js)
+
+    def test_skip_thresholds_do_not_recreate_old_five_second_watch_rule(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        float_html = (ROOT / "float.html").read_text(encoding="utf-8")
+
+        self.assertIn('if (video?.type === "short" && duration > 0)', app_js)
+        self.assertIn('if (item?.type === "short" && duration > 0)', float_html)
+        for source in [app_js, float_html]:
+            self.assertIn("Math.ceil(duration / 2)", source)
+            self.assertIn("return WATCHED_SKIP_THRESHOLD_SECONDS;", source)
+            self.assertNotIn("duration > 0 && duration < WATCHED_SKIP_THRESHOLD_SECONDS", source)
+
+        self.assertIn("function videoForPlaybackState", app_js)
+        self.assertIn("watchedSeconds >= watchedThresholdSeconds(video, duration)", app_js)
+        self.assertIn("state.progress[video?.id]?.duration", app_js)
+        self.assertIn("readJson(PROGRESS_KEY, {})[video?.id]?.duration", app_js)
+        self.assertNotIn("if (ratio >= 0.8) markWatched(id);", app_js)
+        self.assertNotIn("saved?.seconds > 5", app_js)
+        self.assertNotIn("video.start > 5", float_html)
+
+    def test_recent_watched_video_can_be_reopened_with_previous_for_ten_seconds(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+
+        for marker in [
+            "const RECENT_PLAYER_BACKTRACK_MS = 10 * 1000;",
+            "recentPlayerHistory: []",
+            "function rememberRecentPlayerVideo",
+            "function recentPlayerBacktrackVideo",
+            "function pruneRecentPlayerHistory",
+            "direction < 0 ? recentPlayerBacktrackVideo(currentId) : null",
+            "rememberRecentPlayerVideo(state.activeVideo)",
+            "recent.stamp && Date.now() - recent.stamp <= RECENT_PLAYER_BACKTRACK_MS",
+            "item.id === currentId || (!isWatched(item.id) && !isIgnored(item.id))",
+        ]:
+            self.assertIn(marker, app_js)
+
+        self.assertNotIn("RECENT_PLAYER_BACKTRACK_MS = 60", app_js)
 
     def test_wheel_scroll_over_youtube_iframe_is_captured(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -210,8 +247,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn("YourTube - A personal YouTube Package", index_html)
         self.assertIn("Watch only those valuable for you", index_html)
-        self.assertIn("style.css?v=20260801-float-nav", index_html)
-        self.assertIn("app.js?v=20260801-float-nav", index_html)
+        self.assertIn("style.css?v=20260801-watch-rules-back10", index_html)
+        self.assertIn("app.js?v=20260801-watch-rules-back10", index_html)
         self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)

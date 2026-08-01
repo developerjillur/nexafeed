@@ -95,9 +95,10 @@ YourTube keeps playback decisions private in browser `localStorage`:
 
 - If a running video is skipped, closed, changed with keyboard arrows, changed with wheel/scroll, or replaced by another video before the watch threshold, it goes to **Ignored videos**.
 - Ignored videos stay out of Home, Shorts, Long videos, fresh/new filters, and Up Next queues.
-- If the user watches at least **30 seconds**, the video goes to **Watch history** instead of Ignored.
+- Long videos go to **Watch history** only after at least **30 seconds** of watch time, or after the video naturally finishes.
 - For Shorts with a known duration, watching **half of the Short** is enough. Example: a 40-second Short counts as watched after 20 seconds.
-- Finishing a video or reaching 80% progress still marks it watched.
+- Manual skip/next/scroll never uses the old 5-second shortcut. Under-threshold exits stay **Ignored** even when some progress was saved.
+- Inside the same long-video player session, the Previous button or upward wheel/scroll can reopen the just-left long video for **10 seconds**, even if that video has already moved into Watch history. This is only a short backtracking grace window; watched videos still stay hidden from normal feeds and Up Next queues.
 - Watched and ignored records are stored locally for the current feed window plus **1 extra day**, then pruned in the browser. This prevents a video from returning as “new” on the next refresh while it is still inside the feed window.
 - Browser state is local only. Export history JSON if you want to move watched/progress/ignored state to another device.
 

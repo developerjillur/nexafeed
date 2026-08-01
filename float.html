@@ -233,9 +233,6 @@
         if (item?.type === "short" && duration > 0) {
           return Math.max(1, Math.min(WATCHED_SKIP_THRESHOLD_SECONDS, Math.ceil(duration / 2)));
         }
-        if (duration > 0 && duration < WATCHED_SKIP_THRESHOLD_SECONDS) {
-          return Math.max(1, Math.ceil(duration / 2));
-        }
         return WATCHED_SKIP_THRESHOLD_SECONDS;
       }
 
@@ -380,7 +377,7 @@
           origin: window.location.origin,
           widget_referrer: document.referrer || window.location.href,
         };
-        if (video.start > 5) playerVars.start = video.start;
+        if (video.start > 0) playerVars.start = video.start;
         player = new YT.Player("floatingYoutubePlayer", {
           videoId: video.id,
           width: "100%",
