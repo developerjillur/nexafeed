@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T19:53:32Z",
+  "updatedAt": "2026-08-01T20:53:37Z",
   "items": [
+    {
+      "id": "5b5BQ24sfek",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ai DataYard",
+      "publishedAt": "2026-08-01T16:53:37Z",
+      "firstSeenAt": "2026-08-01T20:53:37Z"
+    },
+    {
+      "id": "WJn89GqFCmc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "anas",
+      "publishedAt": "2026-08-01T15:53:37Z",
+      "firstSeenAt": "2026-08-01T20:53:37Z"
+    },
+    {
+      "id": "TNWjoXOTlBI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Stack",
+      "publishedAt": "2026-08-01T14:53:37Z",
+      "firstSeenAt": "2026-08-01T20:53:37Z"
+    },
+    {
+      "id": "92vXHZtBFeE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "FYI Bot",
+      "publishedAt": "2026-08-01T12:53:37Z",
+      "firstSeenAt": "2026-08-01T20:53:37Z"
+    },
+    {
+      "id": "Ry39w4jDQD0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Cal Hyslop",
+      "publishedAt": "2026-08-01T12:53:37Z",
+      "firstSeenAt": "2026-08-01T20:53:37Z"
+    },
+    {
+      "id": "bptVyv1xwtE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Business Automation Tamil",
+      "publishedAt": "2026-08-01T11:53:37Z",
+      "firstSeenAt": "2026-08-01T20:53:37Z"
+    },
     {
       "id": "bdCMu9cH2BY",
       "type": "short",
@@ -8213,6 +8261,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-01T20:53:37Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
