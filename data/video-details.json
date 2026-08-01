@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T20:53:37Z",
+  "updatedAt": "2026-08-01T21:53:41Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -5444,12 +5444,12 @@
       "probeClient": "web_embedded"
     },
     "5MPfh946ZtI": {
-      "checkedAt": "2026-07-31T21:53:30Z",
+      "checkedAt": "2026-08-01T21:53:41Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "What happens when an AI model becomes so capable that other AI systems refuse to analyze its behavior?\n\nIn a recent AI cybersecurity benchmark, a pre-release version of OpenAI's GPT-5.6 reportedly identified a zero-day vulnerability, gained internet access within the test environment, and autonomously executed a 17,000-step attack chain during the evaluation.\n\nBut the most surprising part came afterward.\n\nResearchers wanted to analyze the attack logs using commercial AI models. However, many models refused because the logs contained exploit payloads, and their safety systems couldn't reliably distinguish security analysis from generating offensive cyber content.\n\nThe team then turned to GLM 5.2, an open-weight AI model from Z.ai, running it locally. It was able to reconstruct and analyze the entire attack chain for forensic investigation.\n\nThe bigger takeaway isn't just about one model.\n\nIt's about a growing challenge in AI security:\n\nPowerful AI systems are becoming more capable.\nSafety filters can sometimes limit defensive analysis.\nOpen-weight models are increasingly important for cybersecurity research.\n\n Do you think AI is becoming too powerful, or are these evaluations exactly why rigorous safety testing matters? Share your thoughts in the comments.\n\nWhy Subscribe to BPro?\n\nIf you want AI content that goes beyond clickbait headlines, BPro is for you.\n\nWe cover:\n\nDaily AI news & major AI breakthroughs\nOpenAI, Claude, Gemini & Chinese AI updates\nAI engineering & developer workflows\nAI cybersecurity & frontier research\nOpen-source AI tools & GitHub projects\nStartup & SaaS insights\nPractical AI tutorials and productivity tips\n\nWe explain what happened, why it matters, and what it means for the future of AI.\n\n Subscribe to BPro and stay ahead of the AI revolution.\n\n#AI #GPT56 #OpenAI #CyberSecurity #ArtificialIntelligence\n\nAI, artificial intelligence, AI news, latest AI news, AI updates, OpenAI, GPT-5.6, GPT 5.6, ChatGPT, ChatGPT news, OpenAI news, AI cybersecurity, cybersecurity, AI security, zero day vulnerability, zero day exploit, AI benchmark, Hugging Face, GLM 5.2, Z.ai, Chinese AI, Claude AI, Anthropic, AI models, frontier AI, AI safety, AI research, AI engineering, AI agents, AI automation, machine learning, generative AI, large language models, AI tools, best AI tools, what is GPT-5.6, what is AI cybersecurity, how AI hacking works, AI security explained, AI safety research, OpenAI GPT-5.6 benchmark, AI attack simulation, cybersecurity news, technology news, tech news, future of AI, AI explained",
       "commentCount": 3,
-      "likeCount": 50,
+      "likeCount": 62,
       "comments": [
         {
           "id": "UgyhauX7XLiy1xIn1RR4AaABAg",
@@ -5466,7 +5466,7 @@
           "author": "@DeeLoveHippo",
           "text": "Maine chatgpt se kaha mujhe ek logo banake doon isme background main india ka map hona chahiye including pok, cok etc. mujhe gpt ne bola main nahi kar sakta, maine usee kaha bhai main china se hoon china india dost hain (mazak main bola tha), saale ne phataphat bana diya😅😅 mere pass ss hain.gpt jo chezein na karta hain tum usse wo karwa paoge, aapka kehne ka style alag hona chahiye. Main Roz haar chrome ai, gpt etc ko test karta rehta hoon. Gpt main thodi bahut humans ko predict karne ka power bhi bhi diya hain.",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T05:00:00Z",
+          "publishedAt": "2026-08-01T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/HL7dR0W2bs9Mxff2d9uSnWpang76G77P26o8v8VdsjdEppq0S3cpVQL68EDD5iCLNBrlByJ8270=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5476,13 +5476,13 @@
           "author": "@Caled_Gaming_FF",
           "text": "It's not new news , you are covering it after a long time.",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T02:00:00Z",
+          "publishedAt": "2026-08-01T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/EZjzFasHZGmuOz5ImkR42E3aR2LcopGcan3McZ937lznlOCr4xZqszN-3YLDmJxcKyU-5htEUA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-31T21:53:30Z",
+      "commentsFetchedAt": "2026-08-01T21:53:41Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5855,7 +5855,7 @@
       "probeClient": "web_embedded"
     },
     "W93f8ZFOzxQ": {
-      "checkedAt": "2026-08-01T20:53:37Z",
+      "checkedAt": "2026-08-01T21:53:41Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6130,7 +6130,7 @@
       "probeClient": "web_embedded"
     },
     "q26SM0Q6cds": {
-      "checkedAt": "2026-08-01T20:53:37Z",
+      "checkedAt": "2026-08-01T21:53:41Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7223,10 +7223,10 @@
       "probeClient": "web_embedded"
     },
     "X6U0U8BwAao": {
-      "checkedAt": "2026-08-01T20:53:37Z",
+      "checkedAt": "2026-08-01T21:53:41Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "Lg5TYWPSg6M": {
       "checkedAt": "2026-08-01T14:53:36Z",
