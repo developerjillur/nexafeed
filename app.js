@@ -15,6 +15,8 @@ const THEME_KEY = "nexafeed-theme-v1";
 const AUTOPLAY_KEY = "nexafeed-autoplay-v1";
 const LIKED_KEY = "nexafeed-liked-v1";
 const NOTEBOOKLM_NEW_NOTEBOOK_URL = "https://notebooklm.google.com/notebook/new";
+const GEMINI_CHAT_URL = "https://gemini.google.com/app";
+const GEMINI_VIDEO_PROMPT = "For this video, give me a full A to Z summary with topic-by-topic transcription from beginning to end.";
 const PLAYER_WHEEL_THRESHOLD = 420;
 const SHORT_WHEEL_THRESHOLD = 220;
 const WHEEL_RESET_MS = 420;
@@ -472,6 +474,19 @@ function notebookLmButton(video, context = "player") {
     </button>`;
 }
 
+function geminiButton(video, context = "player") {
+  const shortButton = context === "short";
+  const id = shortButton ? ' id="shortGeminiButton"' : "";
+  const classes = shortButton ? "gemini-button short-gemini" : `action-button compact gemini-button ${context}-gemini`;
+  const label = shortButton ? "Gemini" : "Ask Gemini";
+  const labelTag = shortButton ? "small" : "span";
+  return `
+    <button${id} class="${classes}" type="button" data-gemini-id="${escapeHtml(video.id)}" aria-label="Ask Gemini for a full A to Z summary of ${escapeHtml(video.title)}">
+      <span class="gemini-icon" aria-hidden="true">AI</span>
+      <${labelTag} data-action-label>${label}</${labelTag}>
+    </button>`;
+}
+
 function playerNavButton(direction, video) {
   const label = direction > 0 ? "Next" : "Previous";
   const key = direction > 0 ? "→" : "←";
@@ -491,6 +506,23 @@ function notebookLmImportUrl(video) {
   target.searchParams.set("source", "youtube");
   target.searchParams.set("url", videoWatchUrl(video));
   target.searchParams.set("title", video?.title || "YouTube video");
+  return target.toString();
+}
+
+function geminiPromptForVideo(video) {
+  return [
+    GEMINI_VIDEO_PROMPT,
+    "",
+    `Video title: ${video?.title || "YouTube video"}`,
+    `Channel: ${video?.channel || "Unknown channel"}`,
+    `Video URL: ${videoWatchUrl(video)}`,
+  ].join("\n");
+}
+
+function geminiChatUrl(prompt) {
+  const target = new URL(GEMINI_CHAT_URL);
+  target.searchParams.set("q", prompt);
+  target.searchParams.set("prompt", prompt);
   return target.toString();
 }
 
@@ -537,6 +569,21 @@ async function openNotebookLm(video, button) {
   if (!opened) window.location.href = notebookUrl;
 }
 
+async function openGemini(video, button) {
+  if (!video) return;
+  const prompt = geminiPromptForVideo(video);
+  const opened = window.open(geminiChatUrl(prompt), "_blank");
+  if (opened) opened.opener = null;
+  try {
+    await copyText(prompt);
+    temporaryActionLabel(button, "Gemini opened");
+  } catch {
+    temporaryActionLabel(button, "Paste prompt");
+    window.alert(`Gemini opened. If the prompt is not filled automatically, paste this copied-style prompt into Gemini:\n\n${prompt}`);
+  }
+  if (!opened) window.location.href = geminiChatUrl(prompt);
+}
+
 function floatingSize(video) {
   return video.type === "short"
     ? { width: 390, height: 700 }
@@ -571,7 +618,7 @@ function youtubeEmbedSrc(video, autoplay = true) {
 function floatingPopupUrl(video) {
   const popupUrl = new URL("float.html", window.location.href);
   const params = new URLSearchParams({
-    v: "20260801-watch-rules-back10",
+    v: "20260801-gemini",
     id: video.id,
     title: String(video.title || "YourTube video").slice(0, 180),
     type: video.type === "short" ? "short" : "long",
@@ -1301,6 +1348,7 @@ function renderPlayer() {
             </span>
             ${saveButton(video, "player")}
             ${floatButton(video, "player")}
+            ${geminiButton(video, "player")}
             ${notebookLmButton(video, "player")}
             <button class="action-button compact" id="markCurrentWatched">✓ Mark watched</button>
           </div>
@@ -1622,6 +1670,7 @@ function renderShort() {
             <button id="shortLikeButton" class="short-like ${liked ? "active" : ""}" aria-label="Save this Short to local likes" aria-pressed="${liked}"><span>${liked ? "♥" : "♡"}</span><small data-default-label="${escapeHtml(likeLabel)}">${liked ? "Liked" : escapeHtml(likeLabel)}</small></button>
             <button id="shortCommentsButton" class="${state.shortPanel === "comments" ? "active" : ""}" aria-label="Show comments"><span>▤</span><small>${compactMetric(commentCount, "Comments")}</small></button>
             <button id="shortShareButton" aria-label="Share this Short"><span>↗</span><small>Share</small></button>
+            ${geminiButton(video, "short")}
             <button id="shortFloatButton" aria-label="Open this Short in floating player"><span>⧉</span><small>Float</small></button>
             <button id="shortDescriptionButton" class="${state.shortPanel === "description" ? "active" : ""}" aria-label="Show description"><span>i</span><small>About</small></button>
             <a href="${escapeHtml(video.channelUrl || video.url)}" target="_blank" rel="noopener" aria-label="Open ${escapeHtml(video.channel)} on YouTube"><span class="action-avatar">${escapeHtml(initials(video.channel))}</span><small>Channel</small></a>
@@ -1959,6 +2008,15 @@ app.addEventListener("click", (event) => {
     return;
   }
 
+  const geminiButtonElement = event.target.closest("[data-gemini-id]");
+  if (geminiButtonElement) {
+    event.preventDefault();
+    event.stopPropagation();
+    const video = state.feed.items.find((item) => item.id === geminiButtonElement.dataset.geminiId) || state.activeVideo;
+    openGemini(video, geminiButtonElement);
+    return;
+  }
+
   const playerNavElement = event.target.closest("[data-player-nav]");
   if (playerNavElement) {
     event.preventDefault();
@@ -2093,6 +2151,11 @@ overlayRoot.addEventListener("click", (event) => {
   if (event.target.closest("#shortPrevious")) return previousShort();
   if (event.target.closest("#shortCommentsButton")) return toggleShortPanel("comments");
   if (event.target.closest("#shortShareButton")) return shareCurrentShort(event.target.closest("#shortShareButton"));
+  if (event.target.closest("#shortGeminiButton")) {
+    event.preventDefault();
+    event.stopPropagation();
+    return openGemini(state.shortQueue[state.shortIndex], event.target.closest("#shortGeminiButton"));
+  }
   if (event.target.closest("#shortFloatButton")) {
     event.preventDefault();
     event.stopPropagation();

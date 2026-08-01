@@ -65,8 +65,8 @@ class FrontendFeatureTests(unittest.TestCase):
             'data-view="ignored"',
             'id="ignoredCount"',
             "Ignored videos",
-            "app.js?v=20260801-watch-rules-back10",
-            "style.css?v=20260801-watch-rules-back10",
+            "app.js?v=20260801-gemini",
+            "style.css?v=20260801-gemini",
         ]:
             self.assertIn(marker, index_html)
 
@@ -112,6 +112,39 @@ class FrontendFeatureTests(unittest.TestCase):
             self.assertIn(marker, app_js)
 
         self.assertNotIn("RECENT_PLAYER_BACKTRACK_MS = 60", app_js)
+
+    def test_ask_gemini_button_copies_prompt_and_opens_chat(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        index_html = (ROOT / "index.html").read_text(encoding="utf-8")
+        style_css = (ROOT / "style.css").read_text(encoding="utf-8")
+
+        for marker in [
+            'const GEMINI_CHAT_URL = "https://gemini.google.com/app";',
+            "const GEMINI_VIDEO_PROMPT",
+            "full A to Z summary with topic-by-topic transcription from beginning to end",
+            "function geminiPromptForVideo",
+            "function geminiChatUrl",
+            "target.searchParams.set(\"q\", prompt);",
+            "target.searchParams.set(\"prompt\", prompt);",
+            "function geminiButton",
+            "data-gemini-id",
+            "Ask Gemini",
+            "shortGeminiButton",
+            "function openGemini",
+            "await copyText(prompt)",
+            "window.open(geminiChatUrl(prompt), \"_blank\")",
+            "event.target.closest(\"#shortGeminiButton\")",
+            "openGemini(state.shortQueue[state.shortIndex]",
+            "const geminiButtonElement = event.target.closest(\"[data-gemini-id]\")",
+            "openGemini(video, geminiButtonElement)",
+            "Gemini opened",
+        ]:
+            self.assertIn(marker, app_js)
+
+        self.assertIn("gemini-button", style_css)
+        self.assertIn("gemini-icon", style_css)
+        self.assertIn("app.js?v=20260801-gemini", index_html)
+        self.assertIn("style.css?v=20260801-gemini", index_html)
 
     def test_wheel_scroll_over_youtube_iframe_is_captured(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -247,8 +280,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn("YourTube - A personal YouTube Package", index_html)
         self.assertIn("Watch only those valuable for you", index_html)
-        self.assertIn("style.css?v=20260801-watch-rules-back10", index_html)
-        self.assertIn("app.js?v=20260801-watch-rules-back10", index_html)
+        self.assertIn("style.css?v=20260801-gemini", index_html)
+        self.assertIn("app.js?v=20260801-gemini", index_html)
         self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)

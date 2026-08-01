@@ -37,6 +37,7 @@ The default public demo uses the current NexaLance AI/web-development source set
 | Watch control | Manual skip sends under-threshold videos to an Ignored list, 30-second / half-Short threshold sends meaningful views to Watch History, normal queues hide watched and ignored items |
 | Watch history | Browser-local watched/progress/ignored state, Watch History tab, Ignored videos tab, export/import history JSON |
 | Local likes | Local favorite/liked state, Liked tab, export likes JSON, clear liked state |
+| AI handoff | Ask Gemini button opens Gemini in a new tab with the current YouTube link and copies a full A-to-Z summary/transcription prompt |
 | Feed Settings | Add/edit/remove channels, set long/Shorts monitoring per source, edit keywords/topics/categories, submit owner-reviewed GitHub issue |
 | Automation | Runs from Hermes cron, normal cron, Codex, Claude Code, local terminal, or GitHub Actions |
 | Provider config | Env-based LLM/provider settings for future AI steps: OpenAI, Anthropic, OpenRouter, Gemini, Groq, Mistral, DeepSeek, xAI, Z.ai/GLM, Ollama, or custom OpenAI-compatible endpoints |
@@ -88,6 +89,8 @@ The browser only reads static JSON and embeds videos with the YouTube iframe API
 - public frontend: no secrets
 
 The repository and runtime env names still use `nexafeed` / `NEXAFEED_*` for backward compatibility with the original package path and deployed URL. The public product name is YourTube.
+
+The **Ask Gemini** action is frontend-only. It opens `gemini.google.com` with the selected YouTube video link and also copies the prompt to the clipboard, so it works without storing any Gemini API key or Google credential in the public site.
 
 ## Watched vs Ignored rules
 
