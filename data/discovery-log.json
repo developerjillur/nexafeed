@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T13:53:35Z",
+  "updatedAt": "2026-08-01T14:53:36Z",
   "items": [
+    {
+      "id": "Lg5TYWPSg6M",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-01T14:46:31Z",
+      "firstSeenAt": "2026-08-01T14:53:36Z"
+    },
+    {
+      "id": "1JZKKAg3UX8",
+      "type": "long",
+      "source": "primary",
+      "channel": "Hasan Aboul Hasan",
+      "publishedAt": "2026-08-01T14:29:01Z",
+      "firstSeenAt": "2026-08-01T14:53:36Z"
+    },
+    {
+      "id": "dM3l63qHPGg",
+      "type": "long",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-01T14:25:28Z",
+      "firstSeenAt": "2026-08-01T14:53:36Z"
+    },
+    {
+      "id": "v04N4oyjWG4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Niranjan Dahal",
+      "publishedAt": "2026-08-01T14:19:36Z",
+      "firstSeenAt": "2026-08-01T14:53:36Z"
+    },
+    {
+      "id": "SM17ps6-gAY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech With Tim",
+      "publishedAt": "2026-08-01T14:16:36Z",
+      "firstSeenAt": "2026-08-01T14:53:36Z"
+    },
+    {
+      "id": "VkkvBW6PLfQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Flutter Tips",
+      "publishedAt": "2026-08-01T12:53:36Z",
+      "firstSeenAt": "2026-08-01T14:53:36Z"
+    },
+    {
+      "id": "CvV_FVv_xcY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI with FZ",
+      "publishedAt": "2026-08-01T04:53:36Z",
+      "firstSeenAt": "2026-08-01T14:53:36Z"
+    },
     {
       "id": "OHge7dFHk5I",
       "type": "short",
@@ -7927,6 +7983,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-01T14:53:36Z",
+      "new": 7,
+      "long": 7,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
