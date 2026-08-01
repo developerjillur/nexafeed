@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T21:53:41Z",
+  "updatedAt": "2026-08-01T22:53:41Z",
   "items": [
+    {
+      "id": "sLQx6jGaGDo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BBC News",
+      "publishedAt": "2026-08-01T18:53:41Z",
+      "firstSeenAt": "2026-08-01T22:53:41Z"
+    },
+    {
+      "id": "VaEDKf1327M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "HUMAN RIGHTS EXPLAINERS",
+      "publishedAt": "2026-08-01T15:53:41Z",
+      "firstSeenAt": "2026-08-01T22:53:41Z"
+    },
+    {
+      "id": "nQlbSayFyw4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "College Wallah",
+      "publishedAt": "2026-08-01T13:53:41Z",
+      "firstSeenAt": "2026-08-01T22:53:41Z"
+    },
+    {
+      "id": "EkUxW0sJiUU",
+      "type": "short",
+      "source": "secondary",
+      "channel": "FRANCE 24 English",
+      "publishedAt": "2026-08-01T09:53:41Z",
+      "firstSeenAt": "2026-08-01T22:53:41Z"
+    },
     {
       "id": "5b5BQ24sfek",
       "type": "long",
@@ -8279,6 +8311,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-01T22:53:41Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
