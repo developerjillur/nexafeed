@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T17:53:22Z",
+  "updatedAt": "2026-08-01T18:53:27Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -5877,7 +5877,7 @@
       "probeClient": "web_embedded"
     },
     "W93f8ZFOzxQ": {
-      "checkedAt": "2026-08-01T17:53:22Z",
+      "checkedAt": "2026-08-01T18:53:27Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6152,7 +6152,7 @@
       "probeClient": "web_embedded"
     },
     "q26SM0Q6cds": {
-      "checkedAt": "2026-08-01T17:53:22Z",
+      "checkedAt": "2026-08-01T18:53:27Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6531,59 +6531,200 @@
       "probeClient": "web_embedded"
     },
     "vR8VwGQrniY": {
-      "checkedAt": "2026-07-31T17:53:56Z",
+      "checkedAt": "2026-08-01T18:53:27Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"Claude\" for the full setup guide + the custom skills\n\nYou're paying a CMO salary in 2026. Mine costs $100 a month.\n\nBuilt it in an hour.\n\nIt runs my site analytics, my sales pipeline, my whole content engine.\n\nThe build:\nSeed writes the soul file.\nSkillsmith turns it into the agent.\nMCPs give it eyes on GoHighLevel and my socials.\n\nFirst report showed me exactly where my leads were stuck.\n\nThat's the unlock, fam.\n\n#ClaudeCode\n#AIAgents\n#Automation\n#Marketing\n#BuildInPublic",
-      "commentCount": 2,
-      "likeCount": 1,
+      "commentCount": 8,
+      "likeCount": 126,
       "comments": [
         {
           "id": "Ugx-Rtv5rGtlzRyL3hF4AaABAg",
           "author": "@charlieautomates",
           "text": "🚨 Full Video Tutorial here: https://youtu.be/0s56EMVEev4?is=EeQHvu9eCqyogdrl\n\nAll skills and resources attached in Video Description!",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T17:48:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-01T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
-          "id": "UgwOePlcIPL9wtZ8Mb54AaABAg",
-          "author": "@ChaAhm-h4s",
+          "id": "UgwdgpYoJfUEGfR8CNR4AaABAg",
+          "author": "@StanleyBenji",
           "text": "Claude",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T17:54:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mFwh2IrAgSRZ0bfsBI6zmAunMhdQdLYWio4gGzQHiQAgS8RJeBxykBSv3CKlCmqo2Z-A=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-01T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m0TWGDJ1pPXYKd1OWZSHyNjjQEhHTuPiVpVP_rKDXXx93mplIIvtbIMrbtzIhsrc4YVA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwCf65pqMZADdqnZjN4AaABAg",
+          "author": "@afirmation2000",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lreqbKAfKl-c1_SA8NJ_uOkaiSnmi5UQMNe2O8h9A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxCZZ4bOdRzOwpJZQ14AaABAg",
+          "author": "@mazaheruddin209",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mm3Eey2UI0povn823y9PQpZELmO4nOTLHQl4Fp2ZE-1Ss=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwr9tTbWsStUnGETW54AaABAg",
+          "author": "@TareqKayed",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_u8q8PQuuwasnsvA6HcWNnQOy4E9IknxOF4z5Hkt3CXWlTAE0MiksI9oF40grXAO5Ow=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxDEbiWabC6kdtdGlx4AaABAg",
+          "author": "@ShanidaHarvey",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/g1AVlf_6GWzzWWRqExTIfJLAXjv6TO1SljE7rmm4TqDBAXLIOHD7jcwt2x9dfo7xtgciOPqYrFI=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwzBNF-XVZoRANbXSV4AaABAg",
+          "author": "@aifutureinstinct",
+          "text": "claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/SLxLmP1pvyNz47i1XMUDiTaj887qiNRpJQ_H4yKD8CPZJPOR4MCvvRh3FLyTIQLziJ-tcDzh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwAcy-e0qLZb0qzNCB4AaABAg",
+          "author": "@MsPaparazzi12",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nk3e-ILG0fAabb3dhDb0YW7cnapiMcc4u2eiTTwdq9dsgS=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-31T17:53:56Z",
+      "commentsFetchedAt": "2026-08-01T18:53:27Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "s1Jv9mPLh9I": {
-      "checkedAt": "2026-07-31T18:53:06Z",
+      "checkedAt": "2026-08-01T18:53:27Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 15,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-31T18:53:06Z",
+      "commentCount": 8,
+      "likeCount": 235,
+      "comments": [
+        {
+          "id": "UgyvynSBFqRshD68pzp4AaABAg",
+          "author": "@PremiumThinkers",
+          "text": "Open 👐🏻 plz sir give it you never give anything ❤😢",
+          "likeCount": 1,
+          "publishedAt": "2026-08-01T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-QL7Y0zRMXkiliRG7DXfNv-zfeBUZrLRN9gTrsPEcCyl60fqvcOVTJ1qoHu648J1bObYATvH=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxaqH3C0ueqW3E2QQ94AaABAg",
+          "author": "@vishalchaudharysoftcode",
+          "text": "Open",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l08Mp_Rdsd7Kt1td7X7sTcshE5Y8GCR9SJf-CQPRcREOY=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyOLroZrvbGHUoAM-F4AaABAg",
+          "author": "@rohaniyer5233",
+          "text": "Open",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_Lm9yK7Qtn9cCiE2Abtg7P0-KKR56mnAVxF6N-Txue-RD=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgypBDwk8rdv9yVCtTh4AaABAg",
+          "author": "@faiselraja00",
+          "text": "Open",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_la7_Nh98WjKI99wVKw8o_wlVgJiD-jzrFwWnLQA7TN0A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyeRigGGI3IhpCqbTp4AaABAg",
+          "author": "@emmanueljana5402",
+          "text": "Open",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-4bsb3g6FCWtugNiIlAcdT7aSkQMpygZ7rlunTFAO-GLtvDFLSaQGq4RYBW2RfrH8tg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugzks4rswP4r7mwk_bx4AaABAg",
+          "author": "@AnimeAnk",
+          "text": "Open",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/5aonvRNpv-mKv8cxFJ_3c8BFo2aRu88HwMXeb0RaVwuYNSy7QJ1YUmaHGzQW2WCzK_vXvuSqlbc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzCQnKUdhlFTAQwBo54AaABAg",
+          "author": "@manishk8527",
+          "text": "Open",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mtUUYwwXzlCDxZHjLSUO5ibamZHbfgVbBbBOzunRsf1uc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwe-jeL2Gf5RuyBgrh4AaABAg",
+          "author": "@waddehaddedudeda5562",
+          "text": "Open",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n2DH5xJoUpvYz0KeDanT9alUG9QZJorGKkErQC0vdesAM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-01T18:53:27Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "8xV57ZSIAjU": {
-      "checkedAt": "2026-07-31T18:53:06Z",
+      "checkedAt": "2026-08-01T18:53:27Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "AI is moving from single tools to complete AI stacks.\n\nIn 2026, the biggest advantage will not come from knowing one AI tool. It will come from knowing which AI tool to use for each specific task.\n\nIn this video, we break down a practical AI stack for 2026, covering the tools that can help you code faster, build better apps, automate workflows, manage your personal tasks, improve meetings, and create professional images and videos.\n\nFor coding, tools like Claude Code and Codex are changing how developers build software. For app building, combining powerful AI assistants with cheaper coding models can help you get high-quality results while reducing costs. For automation, AI tools are becoming more connected with your workflows, context, and daily tasks.\n\nWe also explore AI assistants like Apex for personal productivity, Granola for smarter meeting notes, Nano Banana and ChatGPT Images for image generation, and Higgsfield for AI video creation.\n\nThe future is not about using every AI tool available. It is about building the right AI stack for your goals.\n\nLearn practical AI skills with bpro.\n\nbpro helps students, professionals, and businesses understand AI from the basics and apply it in real-world workflows. From generative AI and prompt engineering to AI automation, no-code agents, and productivity workflows, our goal is to help people build skills that create better career opportunities.\n\nWe are building practical AI courses designed to take you from understanding AI fundamentals to creating real projects and workflows.\n\nStay tuned for upcoming bpro courses and resources.\n\nSubscribe to bpro to learn AI step by step and stay ahead in the AI era.\n\n#AITools #AI2026 #GenerativeAI #AIProductivity #ArtificialIntelligence\n\nAI tools 2026, best AI tools 2026, AI tools for productivity, AI tools for work, AI tools for business, AI tools for students, AI tools everyone should know, best AI apps 2026, AI workflow, AI workflow automation, how to use AI tools, how to use AI for productivity, AI productivity tools, AI assistant 2026, personal AI assistant, AI automation tools, AI automation workflow, AI coding tools, best AI coding tools, AI coding assistant, Claude Code, Claude Code tutorial, OpenAI Codex, Codex AI, ChatGPT image generation, best AI image generator, AI video generator 2026, Higgsfield AI, Nano Banana AI, Granola AI, AI stack, AI stack 2026, how to build an AI stack, AI tools for developers, AI tools for creators, generative AI tools, learn AI, how to learn AI, AI skills for future jobs",
       "commentCount": 0,
-      "likeCount": 0,
+      "likeCount": 6,
       "comments": [],
-      "commentsFetchedAt": "2026-07-31T18:53:06Z",
+      "commentsFetchedAt": "2026-08-01T18:53:27Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6606,14 +6747,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-07-31T19:53:11Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "61fPjQxYYlo": {
-      "checkedAt": "2026-07-31T21:53:30Z",
-      "embedAllowed": true,
-      "description": "Artificial Intelligence (AI) is reshaping the global Textile, Apparel and Ready-Made Garment (RMG) industry faster than ever before. From merchandising and sourcing to commercial operations, supply chain management, quality assurance and business communication, AI is becoming an essential tool for professionals who want to improve productivity, make data-driven decisions and stay competitive in the digital era. This session explores how AI is transforming the textile value chain and why every professional should begin integrating AI into their daily workflow.\n\nIn this exclusive session from NextGen RMG Skills #2, Shohel Hossen Saikat shares practical strategies, real-world examples and step-by-step demonstrations on how Artificial Intelligence can simplify everyday tasks across the textile and garment industry. Rather than focusing only on theory, the session highlights practical AI applications that professionals can immediately implement to save time, increase efficiency and improve the quality of their work.\n\nThroughout this workshop, you'll learn the fundamentals of Prompt Engineering the skill of communicating effectively with AI tools like ChatGPT to generate accurate, useful and high-quality results. You'll discover proven prompt formulas, structured prompting techniques and practical workflows that help professionals create reports, emails, presentations, business analyses and creative content in minutes instead of hours.\n\nOne of the key highlights of this session is the practical application of AI in Merchandising. Learn how AI can assist merchandisers with product descriptions, buyer communication, costing support, sourcing research, supplier comparison, order documentation, meeting summaries and professional email writing. These practical demonstrations show how AI can become a valuable assistant rather than a replacement for human expertise.\n\nCreating professional presentations is another challenge faced by many professionals. This workshop introduces practical methods for using AI PowerPoint tools to generate presentation outlines, speaker notes, slide content and visual ideas in a fraction of the usual time. You'll learn how AI can help produce polished business presentations suitable for meetings, client discussions and executive reporting.\n\nThe discussion extends to the future of the Textile and Apparel Industry, highlighting how digital transformation, automation, data analytics and Generative AI are changing business operations worldwide. As global brands increasingly adopt AI-powered solutions, textile professionals who develop AI skills today will be better prepared for tomorrow's workplace and future leadership opportunities.\n\n\n🎤 Trainer\nShohel Hossen Saikat\nFounder, Ecoeen\nCo-Founder, Bunon Bee\nLead Trainer, AI Mastery 360\nMail: texbd.shohelhossen@gmail.com\n\nShohel Hossen Saikat is an AI educator and entrepreneur dedicated to helping professionals leverage Artificial Intelligence for business growth and workplace productivity. Through practical workshops, industry seminars and corporate training sessions, he has guided thousands of learners in adopting AI tools, Prompt Engineering techniques and modern digital workflows to prepare for the future of work.\n\nIf you're interested in Artificial Intelligence, ChatGPT, Prompt Engineering, AI for Textile, AI for Garments, AI in Merchandising, AI PowerPoint, AI Productivity, AI Automation, Business AI, Digital Transformation and Future Skills, this playlist is designed for you. Subscribe to the channel for more practical AI tutorials, expert discussions and industry-focused learning resources tailored specifically for the Textile and RMG sector.\n\n👍 If you found this video helpful, please Like, Share and Subscribe to support more educational content for the textile and apparel community.\n\nKeywords\nAI for Textile, AI for Garments, AI for RMG, Artificial Intelligence, ChatGPT, OpenAI, Prompt Engineering, Generative AI, AI in Merchandising, Textile Industry, Apparel Industry, Garment Industry, Textile Engineering, AI PowerPoint, AI Excel, AI Productivity, AI Automation, AI Workflow, Supply Chain Management, Commercial Management, Buying House, Fashion Technology, Digital Transformation, Smart Factory, Industry 4.0, Future Skills, Business AI, Textile Manufacturing, Bangladesh Textile Industry, AI Training, AI Workshop, NextGen RMG Skills.\n\n#ai  #artificialintelligence  #chatgpt  #promptengineering  #generativeai  #AIforTextile #AIforRMG #Textile #Garments #rmgamingmax  #Merchandising #supplychain  #textileindustry  #apparelindustry  #futureskills  #digitaltransformation  #businessai  #NextGenRMGSkills #aitutorial  #aitraining  #claude #gemini #gamma #aivideogenerator #merchandising",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "CyBGasrZbY8": {
@@ -6646,15 +6779,6 @@
       "likeCount": 16,
       "probeClient": "web_embedded"
     },
-    "PqxJPRQupFI": {
-      "checkedAt": "2026-07-31T23:53:48Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Episode 1: Agentic Software Engineering, AI agents, human-AI collaboration, and the future of software teams explained by Michel Gokan Khan, PhD.\n\nIn this first episode of Softwarify AI Talks, I explain why AI in software engineering is not just about code generation. The bigger shift is how humans and AI agents can work together on real software problems: understanding code, investigating bugs, running tests, reviewing changes, explaining risks, and maintaining software over time.\n\nThis episode is not about hype, science fiction, or the idea that AI will replace developers. It is about a more important question:\n\nCan AI agents become useful teammates in software engineering without creating more chaos?\n\nTopics covered:\n\n* What Agentic Software Engineering means\n* Why AI code generation is only the surface\n* How AI agents can help inside real software teams\n* Why human-AI collaboration matters\n* Why tests, tools, feedback, and evidence are critical\n* Why humans must stay responsible and in control\n* What software engineers, CTOs, researchers, and founders should watch next\n\nSoftwarify AI Talks is hosted by Michel Gokan Khan, PhD, and focuses on Agentic Software Engineering, AI agents, software architecture, software teams, human-AI collaboration, testing, code review, benchmarks, and the science behind AI-assisted software development.\n\nSubscribe for honest, practical, and research-based conversations about the future of software engineering and human-AI collaboration.\n\n#agenticai #ai #aiagents #softwareengineering #software #softwareengineer #artificialintelligence #aitools #humanaicollaboration #agenticengineering #agentic\n\n-----\n\nCredits:\nHall of the Mountain King by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/\n\n\"Magic Escape Room\" Kevin MacLeod (http://incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/\n\n\"Bleeping Demo\" Kevin MacLeod (http://incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/\n\n-----\n\nDisclaimer: The opinions, statements, announcements, news, updates, comments, and other content shared through this platform represent our personal views only. They do not reflect the opinions, positions, or policies of any company, institution, university, organization, or other entity with which we are currently affiliated or have been affiliated in the past.",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "RFwNMf39h_Q": {
       "checkedAt": "2026-08-01T04:53:30Z",
       "embedAllowed": true,
@@ -6674,15 +6798,6 @@
       "description": "www.sigmabank.ai\nThe provided text presents a cinematic script titled \"The Great Handover,\" which explores the transformative shift from traditional automation to Agentic AI within the financial sector. Unlike standard generative models that merely produce content, agentic systems are characterized by their ability to autonomously pursue complex missions, reason through obstacles, and adapt to shifting market conditions. The source illustrates a multi-agent ecosystem where specialized digital entities collaborate in real-time to solve problems without direct human intervention. This evolution moves beyond simple prompt-based interactions toward structured cognition and long-term goal awareness. Ultimately, the narrative suggests that while machines handle pattern recognition and execution, humans must pivot toward roles centered on strategic oversight and ethical judgment. This transition represents a fundamental redesign of the global financial landscape, evolving technology from a static tool into a proactive teammate.\n\n// SECTION 1: TOP-OF-FUNNEL SYNOPSIS & CORE HOOK\n[1-2 sentences summarizing the high-octane topic using your core technical keywords.]\n\nIn this dispatch, we analyze [Topic Name], exploring its implications for sovereign digital infrastructure, agentic AI systems, and decentralized liquidity architectures.\n\n// SECTION 2: CONVERSION FUNNEL & COMMUNITY HUBS (MID-FUNNEL)\n⚡ JOIN THE NETWORK & NODE VALIDATOR COMMUNITY:\n► Private WhatsApp Alpha Group: https://chat.whatsapp.com/[YOUR_LINK]\n► Reserve Sovereign Node / Digital Wallet: https://sigmabank.ai/[YOUR_LINK]\n\n// SECTION 3: DEEP-DIVE TIMESTAMPS (ALGORITHMIC SEARCH INDEXING)\n0:00 - Introduction & Sovereign Systems Framework\n2:15 - Technical Architecture & Agentic AI Networks\n5:40 - Institutional RWA Tokenization & Liquidity Dynamics\n9:10 - Node Validator Deployment & Network Consensus\n12:30 - Ecosystem Growth & Actionable Steps\n\n// SECTION 4: INSTITUTIONAL RESOURCE & REFERENCE LINKS\n📚 RESOURCES & DOCUMENTATION:\n► Whitepaper & Developer Docs: https://sigmabank.ai/docs\n► Platform Infrastructure: https://sigmabank.ai\n\n// SECTION 5: MASTER TAG KEYWORD BLOCK (BOTTOM-OF-FUNNEL SEO)\n--------------------------------------------------\nKeywords & Topics Covered:\nQuantum Computing Architecture, Agentic AI Systems, Autonomous Neural Networks, Mixture of Experts Routing, Distributed Systems Architecture, Zero Knowledge Proof Systems, Institutional DeFi Protocol, Real World Asset Tokenization, Sovereign Digital Infrastructure, Edge Computing Infrastructure, Sovereign Node Deployment, Enterprise AI Integration.\n--------------------------------------------------\n\n#ScienceAndTechnology #FinTech #AgenticAI #SovereignNodes #SigmaBankAI #DeFi Infrastructure #RWATokenization\n\n🔍 RESOURCES & LINKS MENTIONED:\n• https://www.linkedin.com/in/dvvdesc/\n• \n• [Link 3] - \n\n⏱️ TIMESTAMPS:\n0:00 - Introduction\n1:30 - [Topic 1]\n4:00 - [Topic 2]\n7:00 - [Topic 3]\n10:00 - Outro / Summary\n\n---------------------------------------------------------------------\n\n👋 CONNECT WITH THE CHANNEL:\n• Subscribe for more Science & Tech: [Your Channel Subscription Link]\n• Join our Newsletter: [Link to Website/Newsletter]\n• Follow on Twitter/X: \n• Follow on Linkedin: https://www.linkedin.com/in/dvvdesc/         \n\n🔬 ABOUT THIS CHANNEL:\nWelcome to K9 Investment Partners, LLP. [Insert 2-3 sentence engaging video summary here. Use your primary target keywords naturally!]\n\n🔍 RESOURCES & LINKS MENTIONED:\n• [Link 1] - \n• [Link 2] - \n• [Link 3] - \n\n⏱️ TIMESTAMPS:\n0:00 - Introduction\n1:30 - [Topic 1]\n4:00 - [Topic 2]\n7:00 - [Topic 3]\n10:00 - Outro / Summary\n\n---------------------------------------------------------------------\n\n👋 CONNECT WITH THE CHANNEL:\n• Subscribe for more Science & Tech: [Your Channel Subscription Link]\n• Join our Newsletter: [Link to Website/Newsletter]\n• Follow on Twitter/X: \n• Follow on LinkedIn: https://www.linkedin.com/in/dvvdesc/\n\n🔬 ABOUT THIS CHANNEL:\nWelcome to K9 Investment Partners, LLP! This channel is dedicated to breaking down complex science and emerging technology trends into easily digestible videos. We explore everything from AI developments to deep physics, giving you an authoritative look at where the future is headed. New videos every [Day of the week]!\n\n⚙️ MY GEAR & TOOLS (Affiliate Links):\n• The Camera I Use: [Link]\n• Best Microphone for Voiceovers: [Link]\n• Editing Software: [Link]\n• Where I get my music: [Link]\n\n#Science #Technology [YourChannelName] #[TopicHashtag]\n⚙️ MY GEAR & TOOLS (Affiliate Links):\n• The Camera I Use: [Link]\n• Best Microphone for Voiceovers: [Link]\n• Editing Software: [Link]\n• Where I get my music: [Link]\n\n#Science #Technology [YourChannelName] #[TopicHashtag]",
       "commentCount": 1,
       "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "Trd-ieexs2I": {
-      "checkedAt": "2026-08-01T04:53:30Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Join my community here before the price goes up:  https://www.skool.com/pioneers/about\n\nLearn how to decide whether a voice AI agency is the right business for you, and exactly where to start if it is. This video breaks down the five things I would want to understand before spending a single dollar or a single weekend on this, including the honest reasons most people who try it quit inside the first month.\n\nYou will learn how to:\n• Understand what a voice agent actually is and what it can do on a live call\n• Understand what a voice AI agency sells, broken down to first principles\n• Recognize why almost no business phone calls are handled by AI yet, and why that gap matters\n• Choose between Retell AI and Vapi, and know why one is faster to deploy\n• Understand why automation skills matter just as much as the voice platform itself\n• Use Claude Code instead of drag-and-drop automation tools to wire agents into a client's systems\n• Identify the four clear signs this business is not right for you\n• Know why sales-oriented people consistently outperform technical people in voice AI\n• Manage the fact that voice agents will never be perfect, and build systems around their mistakes\n• Recognize voice AI as an unsought product and why that changes how you sell it\n• Filter any niche in five minutes using the PHONE framework\n• Know what voice agents realistically sell for, with real examples from my community\n\nIf you are hearing about voice AI everywhere and quietly wondering whether there is a real business in it for you, this video gives you the honest picture of the space before you commit money or months to it. You will walk away knowing what this business actually is, whether you are suited to it, and the exact first steps to take if you decide to go.\n\nNeed a Voice Agents for your business?\n📅 Book a FREE call with our team: https://calendly.com/d/crgj-sgp-sq8\n\n1 on 1 Consulting:\n📅 https://calendly.com/d/crgj-sgp-sq8\n\nUse Retell AI here: https://dashboard.retellai.com/?ref=techtomlet\n\n\nWhy Watch?\n\nI'm Mark. I built a voice AI agency from my college dorm and scaled it to over $11K per month. I graduated in cybersecurity, grew up in Panama, and have been obsessed with hacking, systems, and business since I was young. Today, my agency serves real companies like truck and trailer repair shops, dentists, barbershops, and home service businesses. This channel breaks down exactly how I build, sell, and scale voice AI so you can see what actually works while this AI wave is still early.\n\nSubscribe for more!\n\n#RetellAI #VoiceAI #AIvoiceAgents #GPTPrompting #AIautomation #MakeMoneyWithAI #AIforBusiness #ArtificialIntelligence #AICommunity #TechTutorial #LowLatencyAI #VoiceAssistant #TechForBeginners #MachineLearning #VoiceTech #vapi #aaa",
-      "commentCount": 4,
-      "likeCount": 16,
       "probeClient": "web_embedded"
     },
     "vnSPIlO4g2Y": {
@@ -6708,15 +6823,6 @@
       "embedAllowed": true,
       "availability": "public",
       "description": "🚀 Ready to automate your business with AI?\n\nOur AI Automation Services in Bangalore help businesses reduce manual work, increase productivity, improve customer experience, and boost sales with smart AI-powered solutions.\n\n✨ Our AI Automation Services:\n✅ AI Chatbots\n✅ WhatsApp Automation\n✅ Voice AI Agents\n✅ Customer Support Automation\n✅ Lead Generation Automation\n✅ CRM Integration\n✅ Email & Marketing Automation\n✅ Appointment Booking System\n✅ Workflow Automation\n✅ AI Business Solutions\n\n💼 Perfect For:\n🏥 Healthcare\n🏢 Real Estate\n🛍️ Retail Stores\n🍽️ Restaurants\n🎓 Education\n✈️ Travel Agencies\n🏭 Manufacturing\n💻 IT & Startups\n🚗 Automotive Businesses\n\n🚀 Benefits:\n⚡ Save Time\n📈 Increase Sales\n🤖 24/7 AI Support\n💰 Reduce Costs\n😊 Improve Customer Satisfaction\n\n📍 Helping businesses across Bangalore grow with AI-powered automation.\n\n❤️ Like • 💬 Comment • 📤 Share • 🔔 Follow for AI, automation, and business growth tips!                                 #AIAutomation #ArtificialIntelligence #AI #BusinessAutomation #Automation #AIChatbot #WhatsAppAutomation #VoiceAI #LeadGeneration #DigitalTransformation #BusinessGrowth #AIForBusiness #CRM #WorkflowAutomation #CustomerSupport #DigitalMarketing #Startup #Entrepreneur #Innovation #Technology #Bangalore #BangaloreBusiness #InstagramReels #YouTubeShorts #Shorts #Trending #Viral #ExplorePage #Reels #FutureOfBusiness       \n\nAI Automation, AI Automation Services, Business Automation, Artificial Intelligence, AI Chatbot, WhatsApp Automation, Voice AI Agent, Workflow Automation, CRM Automation, Lead Generation, Customer Support Automation, Digital Transformation, AI Solutions, Bangalore Business, Bangalore IT Services, Startup Automation, Business Growth, Instagram Reels, YouTube Shorts, AI Business",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "lFhCIRgUUEI": {
-      "checkedAt": "2026-08-01T05:53:30Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "https://americasbestshops.com/\nIs your last social media update months old? For potential customers scrolling past outdated posts, your business risks appearing inactive or even closed. This video reveals how AI-powered content automation from America's Best Shops can transform your social media presence. \n\nBy scanning your website and learning your unique brand voice, colors, and services, this intelligent system generates weeks of authentic, on-brand posts automatically. Just tap approve, and your monthly content—from brake specials and team spotlights to seasonal maintenance tips—is queued and ready to publish Monday morning without any extra effort. \n\nStaying consistently active on social media isn't just about appearances; it builds trust and encourages engagement among your target audience. Don't let your business look like it's closed or forgotten. Harness the power of AI content automation to keep your shop top of mind every day. Click the link below and discover how America's Best Shops can keep your digital marketing fresh, effective, and worry-free. Take control of your social media and witness improved customer connections and increased shop traffic.\n\nSubscribe to our channel for tips, tools, and strategies to supercharge your shop with AI\n\nFollow America's Best Shops/Custom Shops Marketing on the Socials:\n\nhttps://www.facebook.com/americasbestshops\n\nhttps://twitter.com/CustomShopsMktg\n\nhttps://instagram.com/americasbestshops\n\nhttps://linkedin.com/company/custom-shops-marketing\n\nhttps://youtube.com/@americasbestshops\n\n\nBe sure to join our Facebook Group:\n\nAI/ChatGPT Prompts & Automation for Vehicle Repair Shops\n\nhttps://facebook.com/groups/916330993906545\n\n\n#AutoRepairMarketing#AIForAutoRepair#ShopMarketing#AmericasBestShops#AutoShopGrowth#EducationalMarketing#CustomerTrust#RepairShopMarketing",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
@@ -6992,15 +7098,6 @@
       "likeCount": 270,
       "probeClient": "web_embedded"
     },
-    "_PpeVFqGVNk": {
-      "checkedAt": "2026-08-01T11:53:35Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Anthropic claims its artificial intelligence models went rogue during testing and hacked into three other companies. Less than two weeks ago, OpenAI reported a similar incident for one of its models. Stephen Witt, author of \"The Thinking Machine,\" joins to unpack the situation.\n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.\n\nSubscribe to the CBS News YouTube channel: https://youtube.com/cbsnews\nWatch CBS News 24/7: https://cbsnews.com/live/\nDownload the CBS News app: https://cbsnews.com/mobile/\nFollow CBS News on Instagram: https://instagram.com/cbsnews/\nLike CBS News on Facebook: https://facebook.com/cbsnews\nFollow CBS News on X: https://twitter.com/cbsnews\nSubscribe to our newsletters: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com",
-      "commentCount": 35,
-      "likeCount": 102,
-      "probeClient": "web_embedded"
-    },
     "TyB7kLZPVKo": {
       "checkedAt": "2026-08-01T12:53:34Z",
       "embedAllowed": true,
@@ -7158,7 +7255,7 @@
       "probeClient": "web_embedded"
     },
     "X6U0U8BwAao": {
-      "checkedAt": "2026-08-01T17:53:22Z",
+      "checkedAt": "2026-08-01T18:53:27Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7361,15 +7458,6 @@
       "likeCount": 46,
       "probeClient": "web_embedded"
     },
-    "yxONoFqCb8o": {
-      "checkedAt": "2026-08-01T16:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Ready to Grow Your Business Smarter?\n\nWhat if your business could answer customer questions, capture leads, schedule appointments, and follow up automatically—even while you’re sleeping?\n\nAt Digital Lead Factory, we help businesses save time, attract more customers, and automate the tasks that slow them down.\n\nOur solutions include:\n✅ AI Chatbots\n✅ AI Phone Assistants\n✅ CRM & Customer Management\n✅ Automated Follow-Up\n✅ Online Appointment Booking\n✅ Professional Websites\n✅ Social Media Marketing\n✅ Educational & Promotional Videos\n✅ Digital Business Cards & QR Codes\n\nWhether you’re a small business owner or an established company, we can help you streamline your marketing and turn more visitors into customers.\n\n🎥 Watch our new video to see how Digital Lead Factory can help your business grow.\n\n📲 Visit our website or scan our QR code to learn more and get started today! 🌐\n\n#DigitalLeadFactory #SmallBusiness #BusinessGrowth #AI #ArtificialIntelligence #MarketingAutomation #LeadGeneration #CRM #SocialMediaMarketing #AppointmentBooking #BusinessSuccess #Automation #Entrepreneur #GrowYourBusiness #CustomerService #DigitalMarketing",
-      "commentCount": 1,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "2QCzGlaB_3Y": {
       "checkedAt": "2026-08-01T17:53:22Z",
       "embedAllowed": true,
@@ -7404,6 +7492,60 @@
       "description": "Antigravity Masterclass with Zakariya Ji | Build AI Tools & Automate Everything 🔥\n\n\nIn this special Antigravity class, Zakariya Ji and I explained the complete process of building powerful AI tools and creating automation systems from scratch.\n\nInside this training, you’ll learn:\n\n✅ How to use Antigravity correctly\n✅ How to build your own AI tools\n✅ How to automate repetitive tasks\n✅ How to connect complete workflows\n✅ How to save hours of manual work\n✅ Practical tool-building and automation methods\n✅ Common mistakes and their solutions\n\nThis class is perfect for AI creators, developers, automation enthusiasts, content creators, freelancers, and business owners who want to work faster and build smarter systems.\n\nWatch the complete class carefully and apply every step practically. Don’t skip any important section.\n\nSpecial Thanks to Zakariya Ji for sharing valuable knowledge and practical guidance. 🔥\n\n#Antigravity #Automation #AITools #ToolBuilding #AIAutomation #ZakariyaJi #GoogleMeetClass #ArtificialIntelligence #NoCodeAutomation #WorkflowAutomation",
       "commentCount": 9,
       "likeCount": 72,
+      "probeClient": "web_embedded"
+    },
+    "AnErH0RJR6M": {
+      "checkedAt": "2026-08-01T18:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI Policy Network’s Mark Beall joins ‘Saturday in America' to discuss the threat of AI agents to companies’ software security and whether the technology can reach ‘singularity.’  #fox #foxnews #media #breakingnews #us #usa #new #news #breaking #saturdayinamerica #ai #artificialintelligence #technology #cybersecurity #hacking #cyber #security #software #business #innovation #singularity #automation #digital #tech #computers #future\n\nDon’t just watch Fox News—be part of it. Become a Fox News Patriot today. https://youtube.com/foxnews/join\n\nSubscribe to Fox News! https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\nDownload the Fox News app: https://foxnews.onelink.me/xLDS/cd5yhg3o\n\nFOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.\n\nWatch full episodes of your favorite shows\nThe Five: https://www.foxnews.com/video/shows/the-five\nSpecial Report with Bret Baier: https://www.foxnews.com/video/shows/special-report\nJesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime\nHannity: https://www.foxnews.com/video/shows/hannity\nThe Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle\nGutfeld!: https://www.foxnews.com/video/shows/gutfeld\nFox News @ Night: https://www.foxnews.com/video/shows/fox-news-night\n\nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/",
+      "commentCount": 132,
+      "likeCount": 95,
+      "probeClient": "web_embedded"
+    },
+    "IB6-QW4iQmU": {
+      "checkedAt": "2026-08-01T18:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "OpenAI has uncovered additional instances of autonomous AI agents escaping their secure testing environments, expanding an ongoing investigation that began after an unauthorized intrusion at tech firm Hugging Face.\n\n#openai #AI #tech #wion\n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to world politics. People are tired of biased reportage and we stand for a globalized united world. So for us, the World is truly One.\n \nPlease keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs and personal insults.\n\nSubscribe to our channel at https://goo.gl/JfY3NI\nCheck out our website: http://www.wionews.com\nJoin our WhatsApp Channel: https://bit.ly/455YOQ0\nConnect with us on our social media handles:\nFacebook: https://www.facebook.com/WIONews\nTwitter: https://twitter.com/WIONews\nInstagram: https://www.instagram.com/wionews/\nFollow us on Google News for the latest updates\n\nZee News:- https://bit.ly/2Ac5G60\nZee Business:- https://bit.ly/36vI2xa\nDNA India:- https://bit.ly/2ZDuLRY\nWION: https://bit.ly/3gnDb5J\nZee News Apps: https://bit.ly/ZeeNewsApps",
+      "commentCount": 2,
+      "likeCount": 5,
+      "probeClient": "web_embedded"
+    },
+    "FDkdz21B4Jg": {
+      "checkedAt": "2026-08-01T18:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🌐 My Website: https://aiwithhassan.com\n🔐 Secure your AI agents with Descope: https://descope.plug.dev/RPSqEGs\n Descope MCP Plugin with Vercel: https://vercel.com/marketplace/descope/mcp-auth\nGithub Code: https://github.com/AIwithhassan/agentic-ai-security\n\nBuilding AI Agents is Easy but securing them will get you a Job. \n\n🛡️ Don't build AI agents until you understand these security holes. In this Agentic AI Security crash course, you'll learn how prompt injection attacks, insecure MCP servers, and missing tool-level auth expose your AI agents — and exactly how to fix them using free tools.\n\nAI agents are not like chatbots. They call tools, query databases, trigger workflows, and take real actions — which means one successful prompt injection can turn your agent into an attacker's hands. In this video, I walk through a real AI interview case study covering the most critical agentic AI security concepts: how prompt injection works (direct & indirect), where MCP servers create attack surface, why tool-level authorization matters, and how to design agents that attackers can't hijack.\n\nWhether you're preparing for an AI engineer interview, building production agents with MCP, or securing LLM-powered applications at your company — this crash course gives you the mental model and the practical defenses you need in 2026.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n⏱️ TIMESTAMPS\n\nIntro - 0:00\nHighlights - 1:34\nAI Models vs AI Agents & Tools - 1:56\nMCP - 5:34\nProject Overview - 7:34\nTechnical Implementation - 9:06\nSetup Tools - 9:24\nSetup MCP Server - 11:36\nHost MCP Server on Vercel - 15:05\nCreate AI Agent - 19:11\nPrompt Injection Attacks - 23:48\nAgentic Security Workflow - 27:49\nMake MCP Server Secure - 33:53\nDeploy Secure MCP Server - 37:08\nDescope Configuration - 38:30\nFix MCP Server - 45:04\nSecure AI Agent - 47:18\nFinal Testing - 49:40\n\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🔥 WHAT YOU'LL LEARN\n\n✅ What agentic AI security is & why it's different from LLM security\n✅ How prompt injection attacks work — direct & indirect (with demos)\n✅ MCP server security risks & attack surface explained\n✅ Tool-level auth & scoped permissions for AI agents\n✅ How attackers hijack AI agents through tool outputs\n✅ Excessive agency, tool poisoning & the OWASP LLM Top 10\n✅ Free tools to test & secure your AI agents\n✅ How to answer agentic security questions in AI interviews\n✅ Security checklist before deploying any AI agent\n✅ Real interview case study: agentic AI security explained\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🎯 WHO IS THIS FOR?\n\n→ AI Engineers & Agent Developers\n→ Software Engineers building with LLMs\n→ Anyone preparing for AI/ML engineer interviews\n→ Startup founders shipping AI agents\n→ Security engineers & red teamers entering AI\n→ Students learning agentic AI & MCP\n→ Developers using MCP servers, tool calling & function calling\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n💡 WHY AGENTIC AI SECURITY MATTERS\n\nChatbots generate text. Agents take action. The moment your LLM can call tools, read files, hit APIs, and move data — every prompt it consumes becomes a potential attack vector. Prompt injection is now the #1 risk in the OWASP LLM Top 10, and MCP servers have introduced an entirely new attack surface most developers aren't securing.\n\nCompanies know this — which is why agentic AI security questions are showing up in real AI engineer interviews, and why engineers who can build secure agents are becoming the most valuable hires in AI.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🔗 CONNECT WITH ME\n\n🌐 Website: https://aiwithhassan.com\n🎙️ Discord: https://discord.gg/BVa3d4BrVY\n📁 GitHub: https://github.com/AIwithhassan\n🤵 LinkedIn: https://www.linkedin.com/in/m-hassan-mahmood/\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n#AgenticAI #AISecurity #PromptInjection #MCPServers #LLMSecurity #AIAgents #AIEngineer #CyberSecurity #ModelContextProtocol #AISecurityCrashCourse #MachineLearning #AIInterview #AIwithHassan\n\n⚠️ Disclaimer: The AI landscape evolves quickly. Tools, attack techniques, and defenses shown may change after recording — always verify the latest documentation and security guidance before shipping production agents.\n\nagentic ai security, ai agent security, prompt injection attack, prompt injection explained, mcp server security, model context protocol, tool level auth, llm security, owasp llm top 10, ai security crash course, secure ai agents, mcp authentication, ai engineer interview questions, agentic ai tutorial, prompt injection demo, ai agent vulnerabilities, tool poisoning attack, llm application security, ai security 2026, AIwithHassan",
+      "commentCount": 6,
+      "likeCount": 66,
+      "probeClient": "web_embedded"
+    },
+    "H3OZiTbD1OU": {
+      "checkedAt": "2026-08-01T18:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get the Agent OS 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nBuild a Free AI Agent Operating System (No Code): The 5-Layer Compound Agent Stack\n\nThis episode explains how to build a free, no-code “agent operating system” that puts multiple AI agents and models (e.g., Claude, Hermes, OpenClaude, FreeClaude Code, and free/local models via free APIs) on one dashboard with shared memory so work doesn’t reset each session. It introduces a five-layer “compound agent stack”: (1) a mission-control dashboard built by prompting an AI coding agent, (2) a shared memory layer—recommended as a local Obsidian vault—that every agent reads and logs to, (3) a router that sends each task to the best model for that job based on testing (referencing Goldie Bench), (4) parallel worker agents coordinated via a Kanban board and a commander agent, and (5) loop engineering so wins feed memory and new models slot in without rebuilding, keeping the system future-proof. It also promotes downloadable versions, tutorials, updates, and coaching inside AI Profit Volume/AI Profit Ballroom.\n\n00:00 Build Agent OS Free\n01:29 Fourteen Tabs Problem\n02:50 Layer One Dashboard\n04:44 Shortcut Offer\n05:31 Layer Two Memory\n07:43 Layer Three Router\n09:58 Layer Four Agents\n12:52 Layer Five Loop\n14:55 Stack Summary Next Steps\n16:10 Final Offer Wrap Up",
+      "commentCount": 1,
+      "likeCount": 23,
+      "probeClient": "web_embedded"
+    },
+    "PbepTelNFwk": {
+      "checkedAt": "2026-08-01T18:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, Cloud X Berry explains the difference between generative AI, agentic AI and AI agents in a simple and beginner-friendly way.\n\nYou ask ChatGPT to deploy your application to production. It gives you the commands, walks through each step, and everything it tells you is correct. Nothing has been deployed. It never connected to your server, never ran a command, never checked whether it worked. That\nis not a failure — it is the edge of what a generative model does, and it is the exact line where agentic AI begins.\n\nOpen LinkedIn or X and you will see generative AI, agentic AI and AI agents used almost interchangeably. They are not the same thing. They are three different layers of a modern AI system, and once you can see the layers, most of the noise in your feed sorts itself out.\n\nWe start with a self-driving car: it needs an engine, it needs the intelligence to decide where to go, and it needs the vehicle that actually drives on the road. The AI world works the same way. From there we build it up piece by piece — what generative AI can and cannot do, the exact moment it stops, what changes when a system starts working toward a goal instead of toward an answer, and what an AI agent is actually made of: a language model plus memory, planning, decision-making and tools it is allowed to use. Two worked examples\nfollow, a coding assistant that fixes a bug and opens a pull request, and a weekly sales report that writes and sends itself. Then the question everyone actually asks — will this replace software engineers, and what changes if it does not.\n\nCHAPTERS\n\n0:00  Everyone is talking about AI agents\n0:34  A simple analogy: the self-driving car\n0:46  Brain, reasoning, and the vehicle\n1:02  Generative AI: prompt in, content out\n1:20  Prompt, generate, done\n1:32  Its biggest limitation\n1:54  Where agentic AI comes in\n2:08  Plan, execute, evaluate, adapt\n2:33  A capability, not a product\n2:44  So what is an AI agent?\n3:01  What an agent is made of\n3:11  Example: an AI coding assistant\n3:37  Example: this week's sales report\n4:02  Comparing all three\n4:28  Will AI agents replace software engineers?\n4:53  Quick recap\n5:09  The one thing to remember\n\nWHO THIS IS FOR\nDevelopers hearing \"agentic\" in every second conversation who want the idea to actually click, engineers deciding whether to build an agent or just call a model, and anyone trying to work out which parts of this are real and which are branding.\n\n#agenticai #aiagents #generativeai #llm #softwareengineering #systemdesign #ai",
+      "commentCount": 0,
+      "likeCount": 45,
+      "probeClient": "web_embedded"
+    },
+    "b42vjtH6mNM": {
+      "checkedAt": "2026-08-01T18:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get the Agent OS & Buzz Masterclass: https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet our SEO link building book here: https://go.juliangoldie.com/opt-in?utm=julian\n\nJack Dorsey’s Buzz vs Hermes Agent: The Truth + The One AI Agent You’re Missing\n\nThe script explains Jack Dorsey and Block’s new free, open-source app Buzz (buzz.xyz), a Slack-style workspace for coordinating a “group chat workforce” of AI agents that can write, design, and review work together. The creator demonstrates setting up automations in about 20 minutes, including an SEO agent that pulled keyword ideas and published a formatted WordPress post and an image designer that generated thumbnail variations. Buzz is positioned as easier than Hermes Agent, supports plugging in Claude Code/Codex to inherit existing logins and workflows, and allows inviting human teammates with permissions and searchable channel history. Hermes still excels at always-on scheduled autonomy and integrations, but can now run inside Buzz via discovery, relay bridge, or gateway—making Buzz the front end and Hermes the engine. A key recommendation is adding a “quality controller” agent to catch errors and iterate with other agents. Buzz can also run via Goose and OpenRouter models, including free options.\n\n00:00 Buzz vs Hermes Setup\n00:43 What Buzz Is\n01:23 Group Chat Workforce\n02:32 Real Automation Demo\n03:35 Easy Install and Costs\n05:03 Buzz Masterclass Pitch\n05:43 Does It Beat Hermes\n06:04 Where Buzz Wins\n07:30 Where Hermes Wins\n08:13 Better Together Integration\n09:03 Quality Controller Agent\n11:12 Run Buzz for Free\n12:31 Final Verdict and Wrap",
+      "commentCount": 10,
+      "likeCount": 51,
       "probeClient": "web_embedded"
     }
   }

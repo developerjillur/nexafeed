@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T17:53:22Z",
+  "updatedAt": "2026-08-01T18:53:27Z",
   "items": [
+    {
+      "id": "AnErH0RJR6M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fox News",
+      "publishedAt": "2026-08-01T18:28:27Z",
+      "firstSeenAt": "2026-08-01T18:53:27Z"
+    },
+    {
+      "id": "IB6-QW4iQmU",
+      "type": "short",
+      "source": "secondary",
+      "channel": "WION",
+      "publishedAt": "2026-08-01T16:53:27Z",
+      "firstSeenAt": "2026-08-01T18:53:27Z"
+    },
+    {
+      "id": "FDkdz21B4Jg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI with Hassan",
+      "publishedAt": "2026-08-01T13:53:27Z",
+      "firstSeenAt": "2026-08-01T18:53:27Z"
+    },
+    {
+      "id": "H3OZiTbD1OU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-01T09:53:27Z",
+      "firstSeenAt": "2026-08-01T18:53:27Z"
+    },
+    {
+      "id": "PbepTelNFwk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Cloud X Berry",
+      "publishedAt": "2026-08-01T06:53:27Z",
+      "firstSeenAt": "2026-08-01T18:53:27Z"
+    },
+    {
+      "id": "b42vjtH6mNM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI News Today | Julian Goldie Podcast",
+      "publishedAt": "2026-08-01T05:53:27Z",
+      "firstSeenAt": "2026-08-01T18:53:27Z"
+    },
     {
       "id": "2QCzGlaB_3Y",
       "type": "long",
@@ -8115,6 +8163,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-01T18:53:27Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
