@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T00:53:58Z",
+  "updatedAt": "2026-08-01T01:54:03Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -5165,13 +5165,23 @@
       "probeClient": "web_embedded"
     },
     "BqXFVtxvCBA": {
-      "checkedAt": "2026-07-31T01:53:44Z",
+      "checkedAt": "2026-08-01T01:54:03Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 5,
-      "likeCount": 367,
+      "commentCount": 6,
+      "likeCount": 493,
       "comments": [
+        {
+          "id": "Ugx6wetuIMMP0SeJQlh4AaABAg",
+          "author": "@tiagowhuber",
+          "text": "good tip",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kb2LN9FwVhq1HJ4OZSvvu9mBK5n2iM8vlC8jhm3GAVSYS7=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgwTQzPnd1CtQZVhXXh4AaABAg",
           "author": "@tnypxl",
@@ -5187,7 +5197,7 @@
           "author": "@dariusmirza5998",
           "text": "my doctor is Fable. I give it every month that task.",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T23:00:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kVfgoagxuhPSxHmy8sYL6-Bdx6vRlo9_smtn7GRF4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5197,7 +5207,7 @@
           "author": "@hmmmmmmmmmmm-l6j",
           "text": "Wait y'all running a context for 30 days. I'm running out several times a day",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T21:00:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nxppMZoobOJxmbJQuORbgFrG9QF_Uhgb8fDvy23oQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5206,8 +5216,8 @@
           "id": "UgzJ3QeEZicnK7yV5Xt4AaABAg",
           "author": "@DiegoKetels",
           "text": "Hey does that include Claude code in the desktop app? I took a liking to that UI where I can easily access my full conversation histories",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T19:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/gdhqPoxF9GQFkJeAEnQpcGadkddWN9jsg9QJfZM-ioNhrqPZnNuP2_Qadc8HrswVBypsZhQcrwM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5217,106 +5227,106 @@
           "author": "@Androiyd",
           "text": "Can’t wait to try this",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T04:00:00Z",
+          "publishedAt": "2026-07-31T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/xN6sEVkVE0tdB2XJlUKrR0j7fgUHtu0E2rLYgs8f3i9OOUcT1ruYobGAWd3IY8fP_qrfHH44yg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-31T01:53:44Z",
+      "commentsFetchedAt": "2026-08-01T01:54:03Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "v8vsKuKkAbU": {
-      "checkedAt": "2026-07-31T01:53:44Z",
+      "checkedAt": "2026-08-01T01:54:03Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment KEY and I'll send you the repo.\n\nThere's a GitHub repo almost nobody talks about that might mean you never pay for an API again.\n\nIt's a directory of 134 free LLM APIs from more than 40 providers, Gemini, NVIDIA, OpenRouter and the rest, a big chunk of them permanently free with no credit card. It ships ready-to-copy configs for Claude Code, Cursor and Codex, so setup takes about a minute. And it's updated daily, so the free tiers it lists are actually still free.\n\nEveryone else burns through their paid limits. You run the same models for nothing.\n\n#AI #coding #freeapi #claudecode #cursor",
       "commentCount": 8,
-      "likeCount": 251,
+      "likeCount": 315,
       "comments": [
         {
-          "id": "Ugy3XH3aFiGWh9Od2jB4AaABAg",
-          "author": "@PatrickMthimkhulu",
+          "id": "Ugyj6I33kNgLw122Qy14AaABAg",
+          "author": "@tomasnanwani3305",
+          "text": "Thank you",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nAzC2CsWfdRa2oQWbZeUPvbd1_0wj6XkmZjsNEj90=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugyf0udOL826pizSNI14AaABAg",
+          "author": "@tomasnanwani3305",
           "text": "Key",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T01:40:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lPzli4dJG5cLnw96ruYoBNm3_5_eD8i8XDpv7ulgomHNDYGeHCJcNCTE1xkfCyWJwrCw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-01T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nAzC2CsWfdRa2oQWbZeUPvbd1_0wj6XkmZjsNEj90=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzpJC1azX3M2okGS7d4AaABAg",
-          "author": "@carlosvelasco999",
-          "text": "I got the keys keys keys🎶",
+          "id": "UgyHhE3zH9r4qRM54x14AaABAg",
+          "author": "@Universalmfc",
+          "text": "Key.",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T01:37:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lb_I8nqW4ANWtkQH4U5lSzqZRswRAhR4ATUSZ5yis=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-01T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/nt6H9cG2zXaqeVZClcEsP8a0HV-zmLsuwoPIv_N3Ax0abnagzJWq5gWb3l2E9zbabKpOxjtadNA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxtrIocDw2TzHOCJyV4AaABAg",
-          "author": "@Donatovapo",
+          "id": "Ugz0nwxmGDMow79HrUR4AaABAg",
+          "author": "@ScottAnderson-22",
+          "text": "Key",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ln-9HYXgytSDFQbDRDb_rgH6bzytH6hE2dknWeVZrk6K8go1x19Eeds3jB779sjKtoDw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzeTOAS0STxd3wcY2t4AaABAg",
+          "author": "@VIEWSHealth",
           "text": "key",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/0dclKDYvPfebyR5-K7WrDyDTTXCXZP4whVNWO1N-2ap5hyfZJWiNjBEpFVon1LIYv_VZg1ZZf4c=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-31T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/qxRC72u_CuShMxg_R2vvLTr7wP22n5cme073cQWWsWxmRJxykUB7FMId1z2nzoRsQH--ezaqxio=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwiiEE0iL_wcJzupS14AaABAg",
-          "author": "@adalarasan4809",
+          "id": "UgzY1CbzEtfi8Kkgea94AaABAg",
+          "author": "@melann11",
+          "text": "❤tnx❤",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/YqAA0lL0c5OrPMBtXLBes0UENk0E1P8mITy3psM3lfMEc3CXrCi90rALWeuSq2phkgYbyRn4wg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz9Qkzei5wo1pELwad4AaABAg",
+          "author": "@wayneroberts7819",
           "text": "Key",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mdM4Htv9Z0j6PQRJWDbkvSQRleXeFU0VudMhenP-1B2Yc=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-31T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mzksONrz3OSuVyyUUITS-9yLU_QutU4tCOAyRp5DM_vrG8UFaU5FJrp_beNznUEi3uUg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwxadzgmRtHZ0AzdiJ4AaABAg",
-          "author": "@Apollon13Mc",
+          "id": "UgxGBPY9veYxcJIiaVF4AaABAg",
+          "author": "@skarotirajashekar",
           "text": "Key",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lqULl_zl4kd2Kqu-NGfQAeRgktPwzB-Z0A1Snc5T96-MRs7PMnyyGHCmsAyOOuHNpt5Q=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxgxRsFfM7dgdvBMw14AaABAg",
-          "author": "@RedwanAbdella-x2r",
-          "text": "Key$🎉",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lAyCmPuPTcTtYpOA4QnUiNiel5MSi2UOypDgNoiTtaAGtGVrLt1wtS6foazk69LW0x-w=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyPFSIbz4AmZ_goTMd4AaABAg",
-          "author": "@Alex_Explores_History",
-          "text": "key",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/qAqDlirhm6G8ISPGW6fQtlo-mxKv3OwWXoE2yJ3ljh0Xi7azweV8KIchUuy0LVB3AaeVUaGqIAg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx68IqNA-1LdkNRW894AaABAg",
-          "author": "@aayushkankute3797",
-          "text": "KEY",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_no6AmyJ0mRFQZPeSQS9qXyIvyrOdHRQ_uLK0IxnhgtTA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-07-31T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/R4Yt9c8Nc6jxJ32gLA7B0wY0-_qIuvf-x8ywOTWVfym-i6qb-kEF5MB9Nn9UhTGNF1gFiAbZjw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-31T01:53:44Z",
+      "commentsFetchedAt": "2026-08-01T01:54:03Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5648,7 +5658,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-08-01T00:53:58Z",
+      "checkedAt": "2026-08-01T01:54:03Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6019,14 +6029,14 @@
       "probeClient": "web_embedded"
     },
     "pcqQ3CtkzZw": {
-      "checkedAt": "2026-07-31T01:53:44Z",
+      "checkedAt": "2026-08-01T01:54:03Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "This is a video about The $13 Breakdown\n\n00:00 Cost Breakdown And Credits",
       "commentCount": 0,
-      "likeCount": 0,
+      "likeCount": 4,
       "comments": [],
-      "commentsFetchedAt": "2026-07-31T01:53:44Z",
+      "commentsFetchedAt": "2026-08-01T01:54:03Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6241,10 +6251,10 @@
       "probeClient": "web_embedded"
     },
     "W93f8ZFOzxQ": {
-      "checkedAt": "2026-08-01T00:53:58Z",
+      "checkedAt": "2026-08-01T01:54:03Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "l6DMdWKTqYU": {
       "checkedAt": "2026-07-31T12:53:25Z",
@@ -6424,7 +6434,7 @@
       "probeClient": "web_embedded"
     },
     "q26SM0Q6cds": {
-      "checkedAt": "2026-08-01T00:53:58Z",
+      "checkedAt": "2026-08-01T01:54:03Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6911,15 +6921,6 @@
       "likeCount": 17,
       "probeClient": "web_embedded"
     },
-    "heQBd1MweDE": {
-      "checkedAt": "2026-07-31T19:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI से Documentary Video Kaise Banaye? 🔥 Full Tutorial (FREE)\n\nLearn how to create AI Documentary videos for FREE using AI tools. Whether you're creating documentaries, storytelling videos, history content, or any other long-form AI videos, this tutorial will help you build your entire workflow from start to finish.\n\n🔹 In this video, you'll learn:\n\n✅ How to generate a powerful documentary story with AI\n✅ How to create realistic AI voiceovers for free\n✅ How to generate high-quality AI images\n✅ How to convert images into cinematic AI videos\n✅ How to design a professional YouTube thumbnail\n✅ How to create complete long-form AI videos for free\n\n•Prompt: https://drive.google.com/drive/folders/1Y0ZVfBgAe0vqXr4_EB-Z7QmB_psQcU_4\n•Join Telegram: https://t.me/niteshnayak02\n•Personal msg: https://www.instagram.com/niteshnayak_02\n\nFor Brand Collaboration & Promotion:-\n📩Email: realnitesh111@gmail.com\n\n🎥 Recorded & Presented by: Nitesh Nayak\nSubscribe for more Viral content creation tutorials❤️\n\n🔑 Keywords\nAI documentary video, AI documentary tutorial, AI documentary, AI video tutorial, AI video generator, AI long video, AI long form video, AI storytelling, AI story video, AI history video, AI documentary workflow, AI content creation, AI video editing, AI image generator, AI image to video, AI voice generator, AI voiceover, AI thumbnail maker, AI thumbnail tutorial, free AI tools, free AI video generator, free AI documentary maker, create AI videos for free, how to make AI videos, how to make AI documentary, how to create long videos with AI, AI long video tutorial, unlimited AI video generation, AI automation, AI filmmaking, cinematic AI videos, documentary video creation, AI content creator, YouTube AI videos, AI tutorial\n\n#️⃣ Hashtags\n#AI #AITools #AIVideo #AIDocumentary #AIDocumentaryVideo #AITutorial #AIVideoGenerator #FreeAITools #AIVoice #AIVoiceover #AIImageGenerator #ImageToVideo #AIThumbnail #LongVideo #LongFormVideo #AIContent #ContentCreation #YouTubeAutomation #Storytelling #Documentary\n\n⏰ TIMESTAMPS\n00:00 - Intro + Result\n05:11 - Story Generation\n07:19 - Voice Over\n09:22 - Character Generation\n10:53 - Image Generation\n15:38 - Video Generation\n20:10 - Editing\n25:01 - Thumbnail Design",
-      "commentCount": 113,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "tvZimMnCwyE": {
       "checkedAt": "2026-07-31T20:53:20Z",
       "embedAllowed": true,
@@ -6963,15 +6964,6 @@
       "description": "👉 Join my free community (Free Prompts & Resources): https://viewlink.io/community38 \n\nIn this video, I show how to build three autonomous Claude finance agents that continuously monitor business activity, keep financial models updated, and generate leadership reporting without requiring someone to manually trigger the work every day. Instead of using Claude one prompt at a time, these agents operate continuously by tracking new business events, monitoring connected data sources, updating financial assumptions when real business changes occur, and preparing executive-ready outputs before finance teams even ask for them. I walk through how each agent is structured with project folders, instruction files, state tracking, scheduled tasks, and continuous workflows that allow finance operations to scale without adding repetitive manual work.\n\nI also demonstrate how to build a Daily Finance Intelligence Agent that connects business updates across sales, procurement, HR, operations, and customer projects, a Financial Model Update Agent that monitors Gmail and planning documents to automatically update forecasting assumptions while preserving model integrity, and a Monthly Business Review Agent that compares actuals against budgets, forecasts, and prior performance to generate complete executive reporting with variance analysis, KPI summaries, management commentary, and recommended actions. Throughout the tutorial, I show how Claude identifies financial risks before they reach leadership, validates assumption changes before recalculating forecasts, maintains continuity across reporting cycles, and transforms recurring finance workflows into automated systems that keep executives continuously informed while leaving final decisions in the hands of finance professionals.\n\n🤖 *Let us modernize your company’s finance operations with AI:* https://viewlink.io/automation38\n\n💎 *Join My Free Community*\nhttps://viewlink.io/community38\n\n💡 *Watch These Next*\n\n🎥 How to use Claude For Finance \nhttps://youtu.be/qLDwThdc3WQ\n\n🎥  How I Use Claude to Automate Financial Modeling\nhttps://youtu.be/PPuRhv4I058\n\n🎥  How to Build Finance Dashboards with Claude\nhttps://youtu.be/2hyQmaxmN2g\n\n📌 *Timestamps*\n00:00 Master Claude AI Agents For Finance\n01:49 Agent 1: Daily Finance Intelligence\n06:20 Agent 2: Financial Model Update\n11:01 Agent 3: Monthly Business Review\n\n📩 *Contact*\nluke@viewlink.io",
       "commentCount": 1,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "mo-U96qiJIs": {
-      "checkedAt": "2026-07-31T20:53:20Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 AppsField AI Review 2026 | World's First Agentic AI SaaS Store? Build An AI Software Business In Minutes!\n\n🔎 Looking for an honest AppsField AI Review?\nIn this video, I'll show you how AppsField AI helps you launch your own AI SaaS store pre-loaded with AI software products and powered by a 24/7 AI sales agent that sells for you automatically.\n\n🔎 AppsField AI + Exclusive Bonus + $50 Coupon Code\n➡️ https://www.reviews.nkracademy.com/appsfield-ai-review\n\n🎯 Whether you're an affiliate marketer, agency owner, entrepreneur, coach, consultant, or beginner looking for a new online business model, AppsField AI could be a game-changing opportunity.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n⏰ AppsField AI Review Timestamps\n\n00:00 🚀 AppsField AI Review & Overview\n\n00:19 🤖 What Is AppsField AI?\n\n01:38 🎁 Exclusive Bonus Package Revealed\n\n03:46 💎 Bundle Bonuses & 20 Premium AI Apps\n\n07:14 🖥️ AppsField AI Dashboard Walkthrough\n\n07:45 🏪 Create An AI SaaS Store In Minutes\n\n09:20 🎨 Customize Store, Branding & Categories\n\n11:00 🌐 Custom Domain, Stripe & PayPal Setup\n\n11:50 🤖 Configure Your DealMaker AI Agent\n\n13:00 🎤 AI Voice Agent & Training\n\n13:31 📈 Lead Finder & Local Business Leads\n\n14:10 🎯 Why AppsField AI Is Different\n\n14:45 🎁 How To Claim My Exclusive Bonuses\n\n15:02 💰 AppsField AI Pricing & OTOs\n\n15:15 🔥 AppsField AI Pro Upgrade\n\n15:55 ♾️ AppsField AI Unlimited Upgrade\n\n16:30 📦 Digital Products Upgrade\n\n16:55 📣 Marketing Department Upgrade\n\n17:15 🏢 Franchise Upgrade\n\n17:40 💎 AppsField AI Bundle Deal\n\n17:50 🎟️ $50 Coupon Code\n\n17:55 🏆 Final Recommendation & Verdict\n\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n⚠️ Please keep your JVZoo purchase receipt for verification purposes when requesting bonus support.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🔥 What You'll Discover In This AppsField AI Review\n\n1️⃣ What is AppsField AI?\n\n2️⃣ How AppsField AI Works\n\n3️⃣ AI SaaS Store Setup Process\n\n4️⃣ DealMaker AI Sales Agent Demo\n\n5️⃣ AI Product Marketplace Features\n\n6️⃣ Lead Generation & Customer Management\n\n7️⃣ PayPal & Stripe Integration\n\n8️⃣ Multi-Store Management\n\n9️⃣ Commercial License Benefits\n\n🔟 AppsField AI Pricing & OTOs\n\n1️⃣1️⃣ Pros & Cons\n\n1️⃣2️⃣ My Final Verdict\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n💡 Key Features Of AppsField AI\n\n✅ Launch Your Own AI SaaS Store In Minutes\n\n✅ 10 Ready-To-Sell AI Software Products Included\n\n✅ AI Store Builder Creates Your Store Automatically\n\n✅ AI Sales Agent Greets & Converts Visitors\n\n✅ AI Voice Conversations With Prospects\n\n✅ Built-In Lead Capture System\n\n✅ PayPal & Stripe Payment Integration\n\n✅ Multi-Vendor Marketplace Support\n\n✅ AI SEO Content Generator\n\n✅ Affiliate Program Management\n\n✅ Coupons, Discounts & Promotions\n\n✅ Commercial License Included\n\n✅ Sell In Any Language\n\n✅ Run Multiple Stores From One Dashboard\n\n✅ No Coding Or Technical Skills Required\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🎁 Exclusive AppsField AI Bonuses\n\n🎯 Bonus #1 – MagicDesigners AI\n🎨 Generate Professional Graphics, Logos, Ads & Social Media Creatives\n\n🎯 Bonus #2 – MagicPods AI\n🎙️ Convert Podcasts, Blogs & Text Into Engaging Videos\n\n🎯 Bonus #3 – ClipsField AI\n🎬 Create Viral Short Videos From Images & Text\n\n🎯 Bonus #4 – AI Apps Vault Pro\n🤖 Access Premium AI Apps With Reseller Rights\n\n🎯 Bonus #5 – Web Click AI\n🌐 Create Websites & Landing Pages From Keywords Or URLs\n\n🎯 Bonus #6 – Vid Click AI\n🎥 Generate Professional Videos From Any Topic\n\n👉 Claim All Bonuses Through My Link\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🎯 Who Is AppsField AI Best For?\n\n🔹 Affiliate Marketers\n\n🔹 Agency Owners\n\n🔹 Freelancers\n\n🔹 Local Business Consultants\n\n🔹 Coaches & Consultants\n\n🔹 SaaS Entrepreneurs\n\n🔹 Content Creators\n\n🔹 Beginners Looking For Online Income\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📌 Recommended Videos\n\n🔎 AI SaaS Business Ideas\n🔎 Best AI Tools For Marketers\n🔎 AI Website Builder Reviews\n🔎 AI Video Generator Reviews\n🔎 Affiliate Marketing Strategies\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n⚠️ AFFILIATE DISCLAIMER\n\n🔹 Some links in this description may be affiliate links.\n\n🔹 If you purchase through my link, I may earn a commission at no additional cost to you.\n\n🔹 I only recommend products and services that I believe provide value to my audience.\n\n🔹 Your support helps me create more tutorials, reviews, and bonus packages.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🔎 AppsField AI + Exclusive Bonus + $50 Coupon Code\n➡️ https://www.reviews.nkracademy.com/appsfield-ai-review\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🛟 BONUS SUPPORT\n\nIf you experience any issues accessing your bonus package, please contact us:\n\n📧 Email: nkracadmeywb@gmail.com\n\n📱 WhatsApp: +91 86977 75424\n\n🎯 Our support team will help you access your bonuses as quickly as possible.\n\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📢 Connect With Me\n\n🎯 Subscribe For More AI Tool Reviews\n🎯 Affiliate Marketing Strategies\n🎯 YouTube Growth Tips\n🎯 AI Business Automation Tutorials\n🎯 Software Reviews & Bonuses\n\n👍 If this AppsField AI Review helped you, please Like, Comment, Share & Subscribe!\n\n#AppsFieldAI #AppsFieldAIReview #AISaaS #AITools",
-      "commentCount": 2,
-      "likeCount": 66,
       "probeClient": "web_embedded"
     },
     "61fPjQxYYlo": {
@@ -7134,6 +7126,24 @@
       "description": "Here's The AI News From The Past Week! Build with Retool here: https://fandf.co/3RjilvK \n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nClaude Opus 5: https://www.anthropic.com/news/claude-opus-5\nOpus 5 Game Demo: https://x.com/mattshumer_/status/2081054356405731740\nAI Gaming Progress: https://x.com/chrisgpt/status/2082265122949542149\n24-Hour Game Build: https://x.com/kimmonismus/status/2082101266961023452\nClaude-of-Duty Prompt: https://github.com/mshumer/Claude-of-Duty/blob/main/prompt.md\nNano Banana Earth: https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/\nMeta AI Acts: https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/\nBUZZ Groupchat Platform: https://x.com/jack/status/2079605800998146171\nGrok Build Mode: https://x.ai/news/grok-build-mode\nGemini macOS Voice: https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/\nFree Gemini Videos: https://x.com/GeminiApp/status/2082563490431246623\nMidjourney Version 8.2: https://www.midjourney.com/updates/version-8-2\nMirage Avatar X: https://x.com/trymirage/status/2082120270618530053\nHeyGen Video Podcast: https://x.com/HeyGen/status/2082510248489943367\nLinkedIn AI Slop Button: https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button\nFriend Wearable Returns: https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/\nChinese Robot Ban: https://www.bbc.com/news/articles/cp9e2ex3ekyo\nGemini Robotics ER 2: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:04 Opus 5 Sentiment\n2:30 Opus 5 Strength\n4:47 Opus 5 My Tests\n10:02 Retool\n11:22 Google Earth Nano Banana\n13:28 Meta AI Agent\n14:30 BUZZ\n19:30 Grok Build Mode\n19:54 Gemini Natural Language\n20:04 Gemini Omni FREE\n20:22 Midjourney V8.2\n20:41 Mirage Avatar X\n21:53 HeyGen Video Podcasts\n23:48 LinkedIn AI Slop Button\n24:18 New Friend Wearable\n25:12 Banning Humanoids\n25:25 Gemini Robotics ER 2\n26:19 Final Thoughts",
       "commentCount": 98,
       "likeCount": 1273,
+      "probeClient": "web_embedded"
+    },
+    "D3eIWfG7BSQ": {
+      "checkedAt": "2026-08-01T01:54:03Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Arrogant Boss Fired Me to Steal My Automated Factory Code — 105,000 Lines of Code Locked Up...\n\nIf these workplace stories resonate with you, LIKE the video and SUBSCRIBE for more real-world office justice.\n\n🔥Watch more: https://youtu.be/jDWZbyGEcpM\n\n#officerevenge  #workplacerevenge #officestories #badboss #toxicworkplace #officepolitics #workplacejustice #careerrevenge\n\n⚠️DISCLAIMER: All stories on this channel are fictional creations created for entertainment. While they are inspired by universal human experience, any resemblance to actual persons or events is coincidental.",
+      "commentCount": 6,
+      "likeCount": 22,
+      "probeClient": "web_embedded"
+    },
+    "9IPDVruahoY": {
+      "checkedAt": "2026-08-01T01:54:03Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this DIY IoT project, I'll show you how to build a universal ESP32 Home Automation System using ESP RainMaker. The best part is that the same Arduino code supports 1, 2, 4, and 8-channel relay modules. Simply change the TOTAL_RELAYS value in the code, upload it to the ESP32, and your project is ready.\n\nEnroll Altium Student Lab for FREE: https://www.altium.com/in/yt/techstudycell\nLimited Time offer for students.\n\n\nThis project supports Google Home, Amazon Alexa, the ESP RainMaker App, manual push buttons, OTA firmware updates, Schedules, Time Zone, and EEPROM state recovery, making it a flexible and powerful solution for smart home automation.\n\nDuring the ESP RainMaker tutorial video, I covered the following topics:\n00:31 Quick Demo on universal ESP32 home automation project.\n03:08 Circuit diagram of ESP32 control Relay (4 - 8-channel relay module).\n03:53 Explained the Source code for the ESP Rainmaker IoT project.\n08:43 Program the next ESP32 using Arduino IDE for ESP Rainmaker.\n10:03 Connect multiple ESP32s in a single RainMaker account.\n11:00 Link ESP Rainmaker with the Amazon Alexa app.\n11:39 Connect ESP Rainmaker with Google Home.\n\nRequired Components for the ESP32 Relay project:\n1. ESP32 Development Board (DOIT ESP32 DevKit V1 or compatible)\n2. 1, 2, 4 or 8 Channel Relay Module (Active LOW or Active HIGH)\n3. Push Buttons / Wall Switches\n\nDownload the universal Code for all ESP RainMaker IoT Projects:\nhttps://iotcircuithub.com/wp-content/uploads/2026/07/Code_ESP32_RainMaker_upto8_Relay_Manual.zip\n\nKey Features:\n• One Universal Arduino Code for 1, 2, 4 & 8 Channel Relay Modules\n• Supports ESP RainMaker Cloud Platform\n• Google Assistant Voice Control\n• Amazon Alexa Voice Control\n• ESP RainMaker Mobile App Control\n• Supports Push Button and Latched Switch\n• Active LOW and Active HIGH Relay Support\n• OTA (Over-The-Air) Firmware Updates\n• Schedule & Timer Support\n• EEPROM State Save & Restore\n• Relay Status Synchronization\n• BLE WiFi Provisioning (No Hardcoded WiFi Credentials)\n• Beginner-Friendly and Easy to Customize\n\nImportant points:\n1. You don't need any Amazon Echo device for this ESP32 Project.\n2. You need to install ESP Rainmaker, Google Home, and Amazon Alexa IoT applications on your mobile.\n3. You can control relays from any WiFi network if ESP32 is connected to WiFi.\n4. To generate the QR code, press and hold the ESP32 BOOT button for 10 seconds.\n5. Please restart the ESP RainMaker app and turn ON/OFF the Bluetooth and GPS after adding each ESP32.\n6. Assign unique node names and provisioning credentials for each ESP32.\n7. Please watch the complete video; otherwise, you may face issues.\n\nHow This Project Works:\n• Flash the universal Arduino sketch to the ESP32.\n• Set the number of relays by changing only the TOTAL_RELAYS variable.\n• Connect the corresponding relay module (1, 2, 4, or 8 Channel).\n• Power ON the ESP32.\n• Provision WiFi using Bluetooth through the ESP RainMaker App.\n• ESP32 automatically connects to the ESP RainMaker Cloud.\n• Control appliances using:\n   ESP RainMaker App\n   Google Assistant\n   Amazon Alexa\n   Manual Push Buttons/switches\n• Relay status stays synchronized across all control methods.\n• Power failure recovery is supported using EEPROM state restoration.\n• Create automation schedules directly from the ESP RainMaker App.\n\nApplications:\n• Smart Home Automation\n• Room-wise Home Automation\n• Water Pump Automation\n• Industrial Relay Monitoring\n• DIY IoT Projects\n\n#esp32  #homeautomation  #esprainmaker  #iotprojects \n\nBuild a powerful IoT home automation system using ESP32 and ESP RainMaker with a single Arduino code for 1 to 8 relay modules. Featuring Google Home, Alexa, OTA, schedules, manual switches, and EEPROM state recovery, this project is scalable, beginner-friendly, and easy to customize.\n\n---------\nThanks For Watching...\n✅ SUBSCRIBE   ✅LIKE   ✅SHARE   ✅ COMMENTS  \n\nFind out more such projects: https://iotcircuithub.com/\nFacebook:  https://www.facebook.com/techstudycell/\nInstagram: https://www.instagram.com/techstudycell/\nTelegram:   https://t.me/techstudycell/\n---------\n---------\nWARNING:\nThis video is for demonstration and educational purposes only. \nEach demonstration presents risks and hazards that must be fully understood before attempting. \nAnd should be performed only by professionals  \n---------\n\nOther useful IoT projects:\nLatest ESP32 projects playlist:\nhttps://www.youtube.com/playlist?list=PLlBmS9EKFydee7YsvVP_5TiPDeH38PwlK\n\nLatest NodeMCU projects playlist:\nhttps://www.youtube.com/playlist?list=PLlBmS9EKFydcv9ffXm72-cU9_EusicIjO\n\nArduino Home Automation Projects playlist:\nhttps://youtube.com/playlist?list=PLlBmS9EKFydcxOoCht4ocLEV5zUdoCwsd",
+      "commentCount": 12,
+      "likeCount": 94,
       "probeClient": "web_embedded"
     }
   }

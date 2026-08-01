@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T00:53:58Z",
+  "updatedAt": "2026-08-01T01:54:03Z",
   "items": [
+    {
+      "id": "D3eIWfG7BSQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Wesley's Office Revenge",
+      "publishedAt": "2026-07-31T19:54:03Z",
+      "firstSeenAt": "2026-08-01T01:54:03Z"
+    },
+    {
+      "id": "9IPDVruahoY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech StudyCell",
+      "publishedAt": "2026-07-31T15:54:03Z",
+      "firstSeenAt": "2026-08-01T01:54:03Z"
+    },
     {
       "id": "CZezvsT2i_I",
       "type": "long",
@@ -7427,6 +7443,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-01T01:54:03Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
