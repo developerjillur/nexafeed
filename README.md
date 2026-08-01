@@ -102,7 +102,7 @@ YourTube keeps playback decisions private in browser `localStorage`:
 - For Shorts with a known duration, watching **half of the Short** is enough. Example: a 40-second Short counts as watched after 20 seconds.
 - Manual skip/next/scroll never uses the old 5-second shortcut. Under-threshold exits stay **Ignored** even when some progress was saved.
 - Inside the same long-video player session, the Previous button or upward wheel/scroll can reopen the just-left long video for **10 seconds**, even if that video has already moved into Watch history. This is only a short backtracking grace window; watched videos still stay hidden from normal feeds and Up Next queues.
-- Watched and ignored records are stored locally for the current feed window plus **1 extra day**, then pruned in the browser. This prevents a video from returning as “new” on the next refresh while it is still inside the feed window.
+- Watched and ignored records are stored locally for the current feed window plus **1 extra day**, then pruned in the browser. Any watched/ignored video ID still present in the active feed is protected from pruning, so it cannot return as “new” while it remains in `data/videos.json`.
 - Browser state is local only. Export history JSON if you want to move watched/progress/ignored state to another device.
 
 ## Quick start

@@ -154,9 +154,16 @@ function feedStateRetentionMs(feed = state.feed) {
   return Math.max(STATE_RETENTION_BUFFER_DAYS * DAY_MS, feedWindowMs + STATE_RETENTION_BUFFER_DAYS * DAY_MS);
 }
 
-function pruneTimedStateMap(map, retentionMs, now = Date.now()) {
+function currentFeedVideoIds(feed = state.feed) {
+  const items = Array.isArray(feed?.items) ? feed.items : [];
+  return new Set(items.map((item) => item.id).filter(Boolean));
+}
+
+function pruneTimedStateMap(map, retentionMs, now = Date.now(), protectedIds = new Set()) {
   let changed = false;
   Object.entries(map || {}).forEach(([id, value]) => {
+    // A watched/ignored active feed ID is never pruned while it is still present in data/videos.json.
+    if (protectedIds.has(id)) return;
     const stamp = playbackStateTimestamp(value);
     if (!stamp || now - stamp > retentionMs) {
       delete map[id];
@@ -169,15 +176,16 @@ function pruneTimedStateMap(map, retentionMs, now = Date.now()) {
 function prunePlaybackStateRetention() {
   const retentionMs = feedStateRetentionMs();
   const now = Date.now();
-  const watchedChanged = pruneTimedStateMap(state.watched, retentionMs, now);
-  let ignoredChanged = pruneTimedStateMap(state.ignored, retentionMs, now);
+  const protectedIds = currentFeedVideoIds();
+  const watchedChanged = pruneTimedStateMap(state.watched, retentionMs, now, protectedIds);
+  let ignoredChanged = pruneTimedStateMap(state.ignored, retentionMs, now, protectedIds);
   Object.keys(state.ignored).forEach((id) => {
     if (isWatched(id)) {
       delete state.ignored[id];
       ignoredChanged = true;
     }
   });
-  const progressChanged = pruneTimedStateMap(state.progress, retentionMs, now);
+  const progressChanged = pruneTimedStateMap(state.progress, retentionMs, now, protectedIds);
   if (watchedChanged) saveWatched();
   if (ignoredChanged) saveIgnored();
   if (progressChanged) localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress));
@@ -618,7 +626,7 @@ function youtubeEmbedSrc(video, autoplay = true) {
 function floatingPopupUrl(video) {
   const popupUrl = new URL("float.html", window.location.href);
   const params = new URLSearchParams({
-    v: "20260801-gemini",
+    v: "20260801-retention-lock",
     id: video.id,
     title: String(video.title || "YourTube video").slice(0, 180),
     type: video.type === "short" ? "short" : "long",

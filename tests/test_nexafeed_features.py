@@ -65,8 +65,8 @@ class FrontendFeatureTests(unittest.TestCase):
             'data-view="ignored"',
             'id="ignoredCount"',
             "Ignored videos",
-            "app.js?v=20260801-gemini",
-            "style.css?v=20260801-gemini",
+            "app.js?v=20260801-retention-lock",
+            "style.css?v=20260801-retention-lock",
         ]:
             self.assertIn(marker, index_html)
 
@@ -75,6 +75,28 @@ class FrontendFeatureTests(unittest.TestCase):
 
         self.assertNotIn("MINIMUM_MANUAL_SWITCH_WATCH_SECONDS", app_js)
         self.assertNotIn("markVideoWatchedAfterMinimum", app_js)
+
+    def test_watch_state_retention_protects_current_feed_ids(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        index_html = (ROOT / "index.html").read_text(encoding="utf-8")
+        readme = (ROOT / "README.md").read_text(encoding="utf-8")
+
+        for marker in [
+            "function currentFeedVideoIds",
+            "new Set(items.map((item) => item.id).filter(Boolean))",
+            "protectedIds = new Set()",
+            "if (protectedIds.has(id)) return;",
+            "const protectedIds = currentFeedVideoIds();",
+            "pruneTimedStateMap(state.watched, retentionMs, now, protectedIds)",
+            "pruneTimedStateMap(state.ignored, retentionMs, now, protectedIds)",
+            "pruneTimedStateMap(state.progress, retentionMs, now, protectedIds)",
+            "active feed ID is never pruned while it is still present in data/videos.json",
+        ]:
+            self.assertIn(marker, app_js)
+
+        self.assertIn("app.js?v=20260801-retention-lock", index_html)
+        self.assertIn("style.css?v=20260801-retention-lock", index_html)
+        self.assertIn("still present in the active feed is protected from pruning", readme)
 
     def test_skip_thresholds_do_not_recreate_old_five_second_watch_rule(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -143,8 +165,8 @@ class FrontendFeatureTests(unittest.TestCase):
 
         self.assertIn("gemini-button", style_css)
         self.assertIn("gemini-icon", style_css)
-        self.assertIn("app.js?v=20260801-gemini", index_html)
-        self.assertIn("style.css?v=20260801-gemini", index_html)
+        self.assertIn("app.js?v=20260801-retention-lock", index_html)
+        self.assertIn("style.css?v=20260801-retention-lock", index_html)
 
     def test_wheel_scroll_over_youtube_iframe_is_captured(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -280,8 +302,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn("YourTube - A personal YouTube Package", index_html)
         self.assertIn("Watch only those valuable for you", index_html)
-        self.assertIn("style.css?v=20260801-gemini", index_html)
-        self.assertIn("app.js?v=20260801-gemini", index_html)
+        self.assertIn("style.css?v=20260801-retention-lock", index_html)
+        self.assertIn("app.js?v=20260801-retention-lock", index_html)
         self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)
