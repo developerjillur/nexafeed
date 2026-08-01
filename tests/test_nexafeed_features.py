@@ -25,6 +25,85 @@ def load_module(name: str, path: Path):
 
 
 class FrontendFeatureTests(unittest.TestCase):
+    def test_manual_skip_uses_ignored_list_and_watch_thresholds(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        index_html = (ROOT / "index.html").read_text(encoding="utf-8")
+        style_css = (ROOT / "style.css").read_text(encoding="utf-8")
+
+        for marker in [
+            'const IGNORED_KEY = "nexafeed-ignored-v1";',
+            "const STATE_RETENTION_BUFFER_DAYS = 1;",
+            "ignoredCount",
+            "state.ignored",
+            "function isIgnored",
+            "function saveIgnored",
+            "function markIgnored",
+            "function playbackStateTimestamp",
+            "function feedStateRetentionMs",
+            "function prunePlaybackStateRetention",
+            "function watchedThresholdSeconds",
+            "function videoQualifiesAsWatched",
+            "function finalizeVideoBeforeLeaving",
+            "function openLong(video, { finalizeCurrent = true",
+            "previousVideo.id !== video?.id",
+            'openLong(target, { finalizeCurrent: false })',
+            'finalizeVideoBeforeLeaving(state.activeVideo, { reason: "player-nav" })',
+            'finalizeVideoBeforeLeaving(current, { reason: "short-next" })',
+            'finalizeVideoBeforeLeaving(current, { reason: "short-previous" })',
+            'state.view === "ignored"',
+            "!isWatched(item.id) && !isIgnored(item.id)",
+            "watched: state.watched",
+            "ignored: state.ignored",
+            "Ignored videos stay hidden from Home, Shorts, Long videos, and Up Next until you clear this list.",
+            "Watched and ignored records are kept for the current feed window plus 1 extra day, then pruned locally.",
+            "Clear ignored",
+            "nexafeed-history-",
+        ]:
+            self.assertIn(marker, app_js)
+
+        for marker in [
+            'data-view="ignored"',
+            'id="ignoredCount"',
+            "Ignored videos",
+            "app.js?v=20260801-ignore-wheel",
+            "style.css?v=20260801-ignore-wheel",
+        ]:
+            self.assertIn(marker, index_html)
+
+        for marker in [".ignored-pill", ".ignored-count", ".ignored-tools"]:
+            self.assertIn(marker, style_css)
+
+        self.assertNotIn("MINIMUM_MANUAL_SWITCH_WATCH_SECONDS", app_js)
+        self.assertNotIn("markVideoWatchedAfterMinimum", app_js)
+
+    def test_wheel_scroll_over_youtube_iframe_is_captured(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        style_css = (ROOT / "style.css").read_text(encoding="utf-8")
+
+        for marker in [
+            "function bindWheelCaptureOverlay",
+            "function handlePlayerWheel",
+            "function handleShortWheel",
+            'data-wheel-capture="long"',
+            'data-wheel-capture="short"',
+            'bindWheelCaptureOverlay("long", handlePlayerWheel)',
+            'bindWheelCaptureOverlay("short", handleShortWheel)',
+            'event.target.closest("[data-wheel-capture]")',
+            "Scroll over the video area",
+        ]:
+            self.assertIn(marker, app_js)
+
+        for marker in [
+            ".wheel-capture-overlay",
+            ".player-frame .wheel-capture-overlay",
+            ".short-player .wheel-capture-overlay",
+            "pointer-events: auto;",
+            "touch-action: none;",
+            "bottom: 72px;",
+            "bottom: 56px;",
+        ]:
+            self.assertIn(marker, style_css)
+
     def test_shorts_details_and_feed_manager_are_wired(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
         style_css = (ROOT / "style.css").read_text(encoding="utf-8")
@@ -103,18 +182,18 @@ class FrontendFeatureTests(unittest.TestCase):
             "function playlistLongVideos",
             "PLAYER_WHEEL_THRESHOLD",
             "SHORT_WHEEL_THRESHOLD",
-            "const MINIMUM_MANUAL_SWITCH_WATCH_SECONDS = 5;",
+            "WATCHED_SKIP_THRESHOLD_SECONDS",
             "function watchedSecondsFor",
-            "function markVideoWatchedAfterMinimum",
-            "markVideoWatchedAfterMinimum(state.activeVideo)",
-            "markVideoWatchedAfterMinimum(current)",
+            "function finalizeVideoBeforeLeaving",
+            "finalizeVideoBeforeLeaving(state.activeVideo",
+            "finalizeVideoBeforeLeaving(current",
             "function shortPlaybackQueue",
             "function pruneWatchedShortQueue",
             "function nextUnwatchedShortAfter",
             "const selectedVideo = allShorts.find((item) => item.id === video?.id);",
             "const currentAfterPrune = state.shortQueue[state.shortIndex];",
             "All available Shorts are already watched",
-            "return playableLongVideos().filter((item) => item.id === currentId || !isWatched(item.id));",
+            "return playableLongVideos().filter((item) => item.id === currentId || (!isWatched(item.id) && !isIgnored(item.id)));",
             "readJson(PROGRESS_KEY, {})[videoId]",
             "playerWheelDelta",
             "shortWheelDelta",
@@ -131,8 +210,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn("YourTube - A personal YouTube Package", index_html)
         self.assertIn("Watch only those valuable for you", index_html)
-        self.assertIn("style.css?v=20260728-yourtube-release", index_html)
-        self.assertIn("app.js?v=20260728-yourtube-release", index_html)
+        self.assertIn("style.css?v=20260801-ignore-wheel", index_html)
+        self.assertIn("app.js?v=20260801-ignore-wheel", index_html)
         self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)

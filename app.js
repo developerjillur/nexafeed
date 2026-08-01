@@ -6,9 +6,11 @@ const searchInput = document.querySelector("#searchInput");
 const updatedLabel = document.querySelector("#updatedLabel");
 const historyCount = document.querySelector("#historyCount");
 const likedCount = document.querySelector("#likedCount");
+const ignoredCount = document.querySelector("#ignoredCount");
 
 const WATCHED_KEY = "nexafeed-watched-v1";
 const PROGRESS_KEY = "nexafeed-progress-v1";
+const IGNORED_KEY = "nexafeed-ignored-v1";
 const THEME_KEY = "nexafeed-theme-v1";
 const AUTOPLAY_KEY = "nexafeed-autoplay-v1";
 const LIKED_KEY = "nexafeed-liked-v1";
@@ -16,8 +18,11 @@ const NOTEBOOKLM_NEW_NOTEBOOK_URL = "https://notebooklm.google.com/notebook/new"
 const PLAYER_WHEEL_THRESHOLD = 420;
 const SHORT_WHEEL_THRESHOLD = 220;
 const WHEEL_RESET_MS = 420;
-const MINIMUM_MANUAL_SWITCH_WATCH_SECONDS = 5;
-const VALID_VIEWS = new Set(["home", "shorts", "long", "liked", "history", "settings"]);
+const WATCHED_SKIP_THRESHOLD_SECONDS = 30;
+const STATE_RETENTION_BUFFER_DAYS = 1;
+const DAY_MS = 24 * 60 * 60 * 1000;
+const DEFAULT_STATE_RETENTION_DAYS = 8;
+const VALID_VIEWS = new Set(["home", "shorts", "long", "liked", "history", "ignored", "settings"]);
 
 function initialViewFromUrl() {
   const params = new URLSearchParams(window.location.search);
@@ -35,6 +40,7 @@ const state = {
   quickFilter: "all",
   watched: readJson(WATCHED_KEY, {}),
   progress: readJson(PROGRESS_KEY, {}),
+  ignored: readJson(IGNORED_KEY, {}),
   liked: readJson(LIKED_KEY, {}),
   theme: localStorage.getItem(THEME_KEY) || "dark",
   activeVideo: null,
@@ -63,6 +69,7 @@ document.documentElement.dataset.theme = state.theme;
 document.querySelector("#themeButton").textContent = state.theme === "dark" ? "☀" : "☾";
 updateHistoryCount();
 updateLikedCount();
+updateIgnoredCount();
 
 function readJson(key, fallback) {
   try {
@@ -96,13 +103,81 @@ function isWatched(id) {
   return Boolean(state.watched[id]);
 }
 
+function isIgnored(id) {
+  return Boolean(state.ignored[id]) && !isWatched(id);
+}
+
+function isHiddenFromPlayback(id) {
+  return isWatched(id) || isIgnored(id);
+}
+
 function isLiked(id) {
   return Boolean(state.liked[id]);
+}
+
+function saveWatched() {
+  localStorage.setItem(WATCHED_KEY, JSON.stringify(state.watched));
+  updateHistoryCount();
 }
 
 function saveLiked() {
   localStorage.setItem(LIKED_KEY, JSON.stringify(state.liked));
   updateLikedCount();
+}
+
+function saveIgnored() {
+  localStorage.setItem(IGNORED_KEY, JSON.stringify(state.ignored));
+  updateIgnoredCount();
+}
+
+function playbackStateTimestamp(value) {
+  if (typeof value === "number") return value;
+  if (typeof value === "string") return Number(value) || 0;
+  return Number(value?.watchedAt || value?.ignoredAt || value?.updatedAt || value?.createdAt || 0);
+}
+
+function feedStateRetentionMs(feed = state.feed) {
+  const fallback = DEFAULT_STATE_RETENTION_DAYS * DAY_MS;
+  const items = Array.isArray(feed?.items) ? feed.items : [];
+  const reference = new Date(feed?.updatedAt || Date.now()).getTime();
+  if (!items.length || !Number.isFinite(reference)) return fallback;
+  const oldest = items.reduce((minimum, item) => {
+    const stamp = new Date(item.publishedAt || item.firstSeenAt || 0).getTime();
+    if (!Number.isFinite(stamp) || stamp <= 0) return minimum;
+    return Math.min(minimum, stamp);
+  }, reference);
+  const feedWindowMs = Math.max(0, reference - oldest);
+  return Math.max(STATE_RETENTION_BUFFER_DAYS * DAY_MS, feedWindowMs + STATE_RETENTION_BUFFER_DAYS * DAY_MS);
+}
+
+function pruneTimedStateMap(map, retentionMs, now = Date.now()) {
+  let changed = false;
+  Object.entries(map || {}).forEach(([id, value]) => {
+    const stamp = playbackStateTimestamp(value);
+    if (!stamp || now - stamp > retentionMs) {
+      delete map[id];
+      changed = true;
+    }
+  });
+  return changed;
+}
+
+function prunePlaybackStateRetention() {
+  const retentionMs = feedStateRetentionMs();
+  const now = Date.now();
+  const watchedChanged = pruneTimedStateMap(state.watched, retentionMs, now);
+  let ignoredChanged = pruneTimedStateMap(state.ignored, retentionMs, now);
+  Object.keys(state.ignored).forEach((id) => {
+    if (isWatched(id)) {
+      delete state.ignored[id];
+      ignoredChanged = true;
+    }
+  });
+  const progressChanged = pruneTimedStateMap(state.progress, retentionMs, now);
+  if (watchedChanged) saveWatched();
+  if (ignoredChanged) saveIgnored();
+  if (progressChanged) localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress));
+  return { retentionMs, watchedChanged, ignoredChanged, progressChanged };
 }
 
 function progressFor(id) {
@@ -139,24 +214,125 @@ function watchedSecondsFor(videoId) {
   return Math.max(currentSeconds, savedSeconds, persistedSeconds);
 }
 
-function markVideoWatchedAfterMinimum(video) {
-  if (!video?.id || isWatched(video.id)) return false;
-  const watchedSeconds = watchedSecondsFor(video.id);
-  if (watchedSeconds < MINIMUM_MANUAL_SWITCH_WATCH_SECONDS) return false;
-  markWatched(video.id);
-  return true;
-}
-
 function markWatched(id) {
   if (!id) return;
   if (!state.watched[id]) {
     state.watched[id] = Date.now();
-    localStorage.setItem(WATCHED_KEY, JSON.stringify(state.watched));
-    updateHistoryCount();
+    saveWatched();
+  }
+  if (state.ignored[id]) {
+    delete state.ignored[id];
+    saveIgnored();
   }
   const current = state.progress[id] || {};
   state.progress[id] = { ...current, ratio: 1, updatedAt: Date.now() };
   localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress));
+}
+
+function markIgnored(id, reason = "manual-skip") {
+  if (!id || isWatched(id)) return false;
+  state.ignored[id] = Date.now();
+  const current = state.progress[id] || {};
+  state.progress[id] = { ...current, ignoredAt: state.ignored[id], ignoredReason: reason, updatedAt: Date.now() };
+  localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress));
+  saveIgnored();
+  return true;
+}
+
+function parseDurationSeconds(value) {
+  if (typeof value !== "string" || !value.includes(":")) return 0;
+  const parts = value.split(":").map((part) => Number(part));
+  if (parts.some((part) => !Number.isFinite(part) || part < 0)) return 0;
+  return parts.reduce((total, part) => total * 60 + part, 0);
+}
+
+function durationSecondsFor(video) {
+  const direct = Number(video?.durationSeconds || detailFor(video?.id)?.durationSeconds || 0);
+  return direct > 0 ? direct : parseDurationSeconds(video?.duration);
+}
+
+function watchedThresholdSeconds(video) {
+  const duration = durationSecondsFor(video);
+  if (video?.type === "short" && duration > 0) {
+    return Math.max(1, Math.min(WATCHED_SKIP_THRESHOLD_SECONDS, Math.ceil(duration / 2)));
+  }
+  if (duration > 0 && duration < WATCHED_SKIP_THRESHOLD_SECONDS) {
+    return Math.max(1, Math.ceil(duration / 2));
+  }
+  return WATCHED_SKIP_THRESHOLD_SECONDS;
+}
+
+function videoQualifiesAsWatched(video) {
+  if (!video?.id) return false;
+  if (isWatched(video.id)) return true;
+  const progress = state.progress[video.id];
+  if (Number(progress?.ratio || 0) >= 0.8) return true;
+  return watchedSecondsFor(video.id) >= watchedThresholdSeconds(video);
+}
+
+function finalizeVideoBeforeLeaving(video, { reason = "manual-skip" } = {}) {
+  if (!video?.id) return "none";
+  if (isWatched(video.id)) return "watched";
+  if (videoQualifiesAsWatched(video)) {
+    markWatched(video.id);
+    return "watched";
+  }
+  markIgnored(video.id, reason);
+  return "ignored";
+}
+
+function toggleCurrentPlayback() {
+  try {
+    const playing = player?.getPlayerState?.() === window.YT?.PlayerState?.PLAYING;
+    if (playing) player.pauseVideo?.();
+    else player?.playVideo?.();
+  } catch {
+    // The iframe may still be booting. Wheel navigation remains available.
+  }
+}
+
+function verticalWheelIntent(event) {
+  return Math.abs(event.deltaY) >= 8 && Math.abs(event.deltaY) >= Math.abs(event.deltaX || 0);
+}
+
+function bindWheelCaptureOverlay(kind, handler) {
+  const overlay = document.querySelector(`[data-wheel-capture="${kind}"]`);
+  overlay?.addEventListener("wheel", handler, { passive: false });
+}
+
+function handlePlayerWheel(event) {
+  const overCaptureOverlay = event.target.closest("[data-wheel-capture]");
+  if (!state.activeVideo || (!overCaptureOverlay && !event.target.closest(".player-main")) || event.target.closest("button:not([data-wheel-capture]), a, input, textarea, select")) return;
+  if (!verticalWheelIntent(event)) return;
+  event.preventDefault();
+  event.stopPropagation();
+  if (playerWheelLocked) return;
+  playerWheelDelta += event.deltaY;
+  clearTimeout(playerWheelResetTimer);
+  playerWheelResetTimer = setTimeout(() => { playerWheelDelta = 0; }, WHEEL_RESET_MS);
+  if (Math.abs(playerWheelDelta) < PLAYER_WHEEL_THRESHOLD) return;
+  const direction = playerWheelDelta > 0 ? 1 : -1;
+  playerWheelDelta = 0;
+  playerWheelLocked = true;
+  navigatePlayer(direction);
+  setTimeout(() => { playerWheelLocked = false; }, 700);
+}
+
+function handleShortWheel(event) {
+  const overCaptureOverlay = event.target.closest("[data-wheel-capture]");
+  if (!overCaptureOverlay && event.target.closest(".short-drawer")) return;
+  if (!state.shortQueue.length || !verticalWheelIntent(event)) return;
+  event.preventDefault();
+  event.stopPropagation();
+  if (shortWheelLocked) return;
+  shortWheelDelta += event.deltaY;
+  clearTimeout(shortWheelResetTimer);
+  shortWheelResetTimer = setTimeout(() => { shortWheelDelta = 0; }, WHEEL_RESET_MS);
+  if (Math.abs(shortWheelDelta) < SHORT_WHEEL_THRESHOLD) return;
+  shortWheelLocked = true;
+  shortWheelDelta > 0 ? nextShort() : previousShort();
+  shortWheelDelta = 0;
+  setTimeout(() => { shortWheelLocked = false; }, 550);
 }
 
 function updateHistoryCount() {
@@ -167,8 +343,12 @@ function updateLikedCount() {
   likedCount.textContent = Object.keys(state.liked).length;
 }
 
+function updateIgnoredCount() {
+  if (ignoredCount) ignoredCount.textContent = Object.keys(state.ignored).filter((id) => !isWatched(id)).length;
+}
+
 function isFresh(video) {
-  if (isWatched(video.id)) return false;
+  if (isHiddenFromPlayback(video.id)) return false;
   const firstSeen = new Date(video.firstSeenAt || video.publishedAt).getTime();
   const freshHours = Number(state.feed?.freshHours || 24);
   return Number.isFinite(firstSeen) && Date.now() - firstSeen <= freshHours * 3600000;
@@ -246,6 +426,7 @@ function sourceBadge(source) {
 
 function statusOverlay(video) {
   if (isWatched(video.id)) return '<span class="watched-pill">✓ Watched</span>';
+  if (isIgnored(video.id)) return '<span class="ignored-pill">⊘ Ignored</span>';
   if (isFresh(video)) return '<span class="fresh-pill">New</span>';
   return '<span class="unwatched-dot" title="Unwatched"></span>';
 }
@@ -590,8 +771,9 @@ async function openFloatingVideo(video) {
 
 function videoCard(video) {
   const watched = isWatched(video.id);
+  const ignored = isIgnored(video.id);
   return `
-    <article class="video-card ${watched ? "watched-card" : ""}">
+    <article class="video-card ${watched ? "watched-card" : ""} ${ignored ? "ignored-card" : ""}">
       <button class="card-open" type="button" data-video-id="${escapeHtml(video.id)}" aria-label="Play ${escapeHtml(video.title)}">
         <span class="video-thumb">
           <img src="${escapeHtml(video.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer">
@@ -616,8 +798,9 @@ function videoCard(video) {
 
 function shortCard(video) {
   const watched = isWatched(video.id);
+  const ignored = isIgnored(video.id);
   return `
-    <article class="short-card ${watched ? "watched-card" : ""}">
+    <article class="short-card ${watched ? "watched-card" : ""} ${ignored ? "ignored-card" : ""}">
       <button class="card-open" type="button" data-short-id="${escapeHtml(video.id)}" aria-label="Open Short ${escapeHtml(video.title)}">
         <span class="short-thumb">
           <img src="${escapeHtml(video.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer">
@@ -639,15 +822,18 @@ function toolbar() {
     ["long", "Long videos"],
     ["liked", "Liked"],
     ["history", "Watch history"],
+    ["ignored", "Ignored"],
   ];
   const feedItems = state.feed?.items || [];
-  const unwatched = feedItems.filter((item) => !isWatched(item.id)).length;
+  const unwatched = feedItems.filter((item) => !isWatched(item.id) && !isIgnored(item.id)).length;
+  const ignored = feedItems.filter((item) => isIgnored(item.id)).length;
   const fresh = feedItems.filter(isFresh).length;
   return `
     <div class="toolbar">
       <div class="chips">
         ${options.map(([id, label]) => `<button class="chip ${state.view === id && state.quickFilter === "all" ? "active" : ""}" data-view="${id}">${label}</button>`).join("")}
         <button class="chip count-chip unwatched-count ${state.quickFilter === "unwatched" ? "active" : ""}" data-quick-filter="unwatched">${unwatched} unwatched</button>
+        <button class="chip count-chip ignored-count ${state.view === "ignored" ? "active" : ""}" data-view="ignored">${ignored} ignored</button>
         <button class="chip count-chip fresh-count ${state.quickFilter === "fresh" ? "active" : ""}" data-quick-filter="fresh">${fresh} new</button>
       </div>
       ${state.query ? `<button class="chip" id="clearSearch">“${escapeHtml(state.query)}” ×</button>` : ""}
@@ -662,6 +848,10 @@ function likedItems() {
   return collapseRepeatedItems((state.feed?.items || []).filter((item) => isLiked(item.id)));
 }
 
+function ignoredItems() {
+  return collapseRepeatedItems((state.feed?.items || []).filter((item) => isIgnored(item.id)));
+}
+
 function likedTools() {
   if (state.view !== "liked") return "";
   const count = likedItems().length;
@@ -674,6 +864,22 @@ function likedTools() {
       <div class="settings-actions">
         <button id="exportLiked" class="action-button" type="button" ${count ? "" : "disabled"}>Export likes JSON</button>
         <button id="clearLiked" class="danger" type="button" ${count ? "" : "disabled"}>Clear liked</button>
+      </div>
+    </article>`;
+}
+
+function ignoredTools() {
+  if (state.view !== "ignored") return "";
+  const count = ignoredItems().length;
+  return `
+    <article class="settings-card history-tools ignored-tools">
+      <div>
+        <h2>Ignored videos saved locally</h2>
+        <p>${count ? `${count} ignored item${count === 1 ? "" : "s"}. Ignored videos stay hidden from Home, Shorts, Long videos, and Up Next until you clear this list.` : "Skipped videos that do not meet the watch threshold will appear here."}</p>
+        <small>Watched and ignored records are kept for the current feed window plus 1 extra day, then pruned locally.</small>
+      </div>
+      <div class="settings-actions">
+        <button id="clearIgnored" class="danger" type="button" ${count ? "" : "disabled"}>Clear ignored</button>
       </div>
     </article>`;
 }
@@ -883,11 +1089,13 @@ function settingsView() {
       </div>
       <article class="settings-card history-tools">
         <h2>Watch-state backup</h2>
-        <p>History remains private to this browser. Export JSON to move watched/progress state to another browser or device.</p>
+        <p>History and ignored videos remain private to this browser. Export JSON to move watched/progress/ignored state to another browser or device.</p>
+        <small>Watched and ignored records are kept for the current feed window plus 1 extra day, so refreshed videos do not return as new while they are still in the feed.</small>
         <div class="settings-actions">
           <button id="exportHistory" class="action-button">Export history JSON</button>
           <button id="importHistory" class="action-button">Import history JSON</button>
           <button id="clearHistory" class="danger">Clear history</button>
+          <button id="clearIgnored" class="danger">Clear ignored</button>
           <input id="historyFile" type="file" accept="application/json,.json" hidden>
         </div>
       </article>
@@ -907,15 +1115,19 @@ function filteredItems() {
   if (state.view === "history") {
     items = items
       .filter((item) => isWatched(item.id))
-      .sort((a, b) => state.watched[b.id] - state.watched[a.id]);
+      .sort((a, b) => playbackStateTimestamp(state.watched[b.id]) - playbackStateTimestamp(state.watched[a.id]));
   } else if (state.view === "liked") {
     items = items
       .filter((item) => isLiked(item.id))
       .sort((a, b) => state.liked[b.id] - state.liked[a.id]);
+  } else if (state.view === "ignored") {
+    items = items
+      .filter((item) => isIgnored(item.id))
+      .sort((a, b) => playbackStateTimestamp(state.ignored[b.id]) - playbackStateTimestamp(state.ignored[a.id]));
   } else {
-    items = items.filter((item) => !isWatched(item.id));
+    items = items.filter((item) => !isWatched(item.id) && !isIgnored(item.id));
   }
-  if (state.quickFilter === "unwatched") items = items.filter((item) => !isWatched(item.id));
+  if (state.quickFilter === "unwatched") items = items.filter((item) => !isWatched(item.id) && !isIgnored(item.id));
   if (state.quickFilter === "fresh") items = items.filter(isFresh);
   if (state.view === "shorts") items = items.filter((item) => item.type === "short");
   if (state.view === "long") items = items.filter((item) => item.type === "long");
@@ -930,15 +1142,19 @@ function feedView() {
       ? "No watched videos yet"
       : state.view === "liked"
         ? "No liked videos yet"
+        : state.view === "ignored"
+          ? "No ignored videos yet"
         : searchEmpty ? "No matching videos" : "You're all caught up";
     const emptyDescription = state.view === "history"
-      ? "Videos appear here after you watch at least 80% or mark them watched."
+      ? "Videos appear here after you watch enough of them, finish them, or mark them watched."
       : state.view === "liked"
         ? "Tap the heart on any Short to save it here. Liked videos are saved locally in this browser."
+        : state.view === "ignored"
+          ? "Skip a running video before the watch threshold and it will stay hidden here until the feed-window retention expires or you clear ignored."
         : searchEmpty
           ? "Try a channel name, title keyword, topic, or category. Search updates live as you type."
-          : "Watched videos stay hidden. New uploads will arrive on the next hourly refresh.";
-    return toolbar() + likedTools() + emptyState(
+          : "Watched and ignored videos stay hidden. New uploads will arrive on the next hourly refresh.";
+    return toolbar() + likedTools() + ignoredTools() + emptyState(
       emptyTitle,
       emptyDescription,
     );
@@ -946,13 +1162,13 @@ function feedView() {
 
   const shorts = items.filter((item) => item.type === "short");
   const longVideos = items.filter((item) => item.type === "long");
-  const shortsTitle = state.view === "history" ? "Watched Shorts" : state.view === "liked" ? "Liked Shorts" : "Latest Shorts";
-  const longEyebrow = state.view === "history" ? "Previously played" : state.view === "liked" ? "Saved locally" : "Priority channels first";
-  const longTitle = state.view === "history" ? "Watch history" : state.view === "liked" ? "Liked long videos" : state.query ? "Search results" : "Latest long videos";
+  const shortsTitle = state.view === "history" ? "Watched Shorts" : state.view === "liked" ? "Liked Shorts" : state.view === "ignored" ? "Ignored Shorts" : "Latest Shorts";
+  const longEyebrow = state.view === "history" ? "Previously played" : state.view === "liked" ? "Saved locally" : state.view === "ignored" ? "Skipped manually" : "Priority channels first";
+  const longTitle = state.view === "history" ? "Watch history" : state.view === "liked" ? "Liked long videos" : state.view === "ignored" ? "Ignored long videos" : state.query ? "Search results" : "Latest long videos";
   const shortsSection = shorts.length && state.view !== "long"
     ? `<section class="section">
         <div class="section-head">
-          <div class="section-title"><span class="section-icon">ϟ</span><div><p class="eyebrow">${state.view === "liked" ? "Saved Shorts" : "Vertical playlist"}</p><h1>${shortsTitle}</h1></div></div>
+          <div class="section-title"><span class="section-icon">ϟ</span><div><p class="eyebrow">${state.view === "liked" ? "Saved Shorts" : state.view === "ignored" ? "Skipped Shorts" : "Vertical playlist"}</p><h1>${shortsTitle}</h1></div></div>
           <span>${shorts.length} videos</span>
         </div>
         <div class="short-carousel">
@@ -971,7 +1187,7 @@ function feedView() {
         <div class="video-grid">${longVideos.map(videoCard).join("")}</div>
       </section>`
     : "";
-  return toolbar() + likedTools() + shortsSection + longSection;
+  return toolbar() + likedTools() + ignoredTools() + shortsSection + longSection;
 }
 
 function render() {
@@ -999,7 +1215,7 @@ function playableLongVideos() {
 }
 
 function playlistLongVideos(currentId) {
-  return playableLongVideos().filter((item) => item.id === currentId || !isWatched(item.id));
+  return playableLongVideos().filter((item) => item.id === currentId || (!isWatched(item.id) && !isIgnored(item.id)));
 }
 
 function playerNeighbor(currentId, direction) {
@@ -1013,8 +1229,8 @@ function navigatePlayer(direction) {
   if (!state.activeVideo) return;
   const target = playerNeighbor(state.activeVideo.id, direction);
   if (target) {
-    markVideoWatchedAfterMinimum(state.activeVideo);
-    openLong(target);
+    finalizeVideoBeforeLeaving(state.activeVideo, { reason: "player-nav" });
+    openLong(target, { finalizeCurrent: false });
   }
 }
 
@@ -1030,7 +1246,10 @@ function renderPlayer() {
   app.innerHTML = `
     <section class="player-layout">
       <div class="player-main">
-        <div class="player-frame"><div id="youtubePlayer"></div></div>
+        <div class="player-frame">
+          <div id="youtubePlayer"></div>
+          <button class="wheel-capture-overlay" type="button" data-wheel-capture="long" aria-label="Scroll over the video area to switch long videos. Click to pause or resume."></button>
+        </div>
         <div class="player-heading">
           <div>${sourceBadge(video.source)}<h1>${escapeHtml(video.title)}</h1></div>
           <button class="icon-button close-player" id="closePlayer" aria-label="Close player">×</button>
@@ -1064,6 +1283,7 @@ function renderPlayer() {
         </div>
       </aside>
     </section>`;
+  bindWheelCaptureOverlay("long", handlePlayerWheel);
   createYoutubePlayer("youtubePlayer", video, {
     onEnded() {
       if (state.autoplay && queue[0]) openLong(queue[0]);
@@ -1173,7 +1393,11 @@ function destroyPlayer() {
   player = null;
 }
 
-function openLong(video) {
+function openLong(video, { finalizeCurrent = true, reason = "player-replace" } = {}) {
+  const previousVideo = state.activeVideo;
+  if (finalizeCurrent && previousVideo?.id && previousVideo.id !== video?.id) {
+    finalizeVideoBeforeLeaving(previousVideo, { reason });
+  }
   state.activeVideo = video;
   destroyPlayer();
   render();
@@ -1292,7 +1516,7 @@ function toggleShortPanel(panel) {
 function skipUnavailableShort(videoId) {
   const currentIndex = state.shortIndex;
   state.shortQueue = state.shortQueue.filter((item) => item.id !== videoId);
-  if (!state.shortQueue.length) return closeShort();
+  if (!state.shortQueue.length) return closeShort({ finalize: false });
   state.shortIndex = Math.min(currentIndex, state.shortQueue.length - 1);
   renderShort();
 }
@@ -1306,24 +1530,25 @@ function playableShortVideos() {
 function nextUnwatchedShortAfter(video, allShorts) {
   const startIndex = allShorts.findIndex((item) => item.id === video?.id);
   const afterCurrent = startIndex >= 0 ? allShorts.slice(startIndex + 1) : allShorts;
-  return afterCurrent.find((item) => !isWatched(item.id)) || allShorts.find((item) => !isWatched(item.id)) || null;
+  return afterCurrent.find((item) => !isHiddenFromPlayback(item.id)) || allShorts.find((item) => !isHiddenFromPlayback(item.id)) || null;
 }
 
 function shortPlaybackQueue(video) {
   const allShorts = playableShortVideos();
   const selectedVideo = allShorts.find((item) => item.id === video?.id);
-  const startVideo = selectedVideo && !isWatched(selectedVideo.id)
+  const canReplayIgnoredSelection = state.view === "ignored" && selectedVideo && isIgnored(selectedVideo.id);
+  const startVideo = selectedVideo && (!isHiddenFromPlayback(selectedVideo.id) || canReplayIgnoredSelection)
     ? selectedVideo
     : nextUnwatchedShortAfter(video, allShorts);
   if (!startVideo) return [];
   return [
     startVideo,
-    ...allShorts.filter((item) => item.id !== startVideo.id && !isWatched(item.id)),
+    ...allShorts.filter((item) => item.id !== startVideo.id && !isHiddenFromPlayback(item.id)),
   ];
 }
 
 function pruneWatchedShortQueue(keepVideoId) {
-  state.shortQueue = state.shortQueue.filter((item) => item.id === keepVideoId || !isWatched(item.id));
+  state.shortQueue = state.shortQueue.filter((item) => item.id === keepVideoId || !isHiddenFromPlayback(item.id));
   if (keepVideoId) state.shortIndex = Math.max(0, state.shortQueue.findIndex((item) => item.id === keepVideoId));
 }
 
@@ -1353,6 +1578,7 @@ function renderShort() {
         <div class="short-shell">
           <div class="short-player">
             <div id="shortYoutubePlayer"></div>
+            <button class="wheel-capture-overlay" type="button" data-wheel-capture="short" aria-label="Scroll over the video area to switch Shorts. Click to pause or resume."></button>
           </div>
           <div class="short-action-stack">
             <button id="shortLikeButton" class="short-like ${liked ? "active" : ""}" aria-label="Save this Short to local likes" aria-pressed="${liked}"><span>${liked ? "♥" : "♡"}</span><small data-default-label="${escapeHtml(likeLabel)}">${liked ? "Liked" : escapeHtml(likeLabel)}</small></button>
@@ -1370,6 +1596,7 @@ function renderShort() {
         </div>
       </div>
     </div>`;
+  bindWheelCaptureOverlay("short", handleShortWheel);
   createYoutubePlayer("shortYoutubePlayer", video, {
     onEnded: nextShort,
     onError() {
@@ -1390,17 +1617,19 @@ function nextShort() {
   if (!currentAfterPrune || currentAfterPrune.id !== current.id) return renderShort();
   if (state.shortIndex < state.shortQueue.length - 1) {
     const currentIndex = state.shortIndex;
-    markVideoWatchedAfterMinimum(current);
-    if (isWatched(current.id)) {
-      state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isWatched(item.id));
+    finalizeVideoBeforeLeaving(current, { reason: "short-next" });
+    if (isHiddenFromPlayback(current.id)) {
+      state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isHiddenFromPlayback(item.id));
       if (!state.shortQueue.length) return closeShort();
       state.shortIndex = Math.min(currentIndex, state.shortQueue.length - 1);
       return renderShort();
     }
     state.shortIndex += 1;
     renderShort();
-  } else if (isWatched(current.id)) {
-    state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isWatched(item.id));
+  } else {
+    finalizeVideoBeforeLeaving(current, { reason: "short-next" });
+    if (!isHiddenFromPlayback(current.id)) return;
+    state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isHiddenFromPlayback(item.id));
     if (!state.shortQueue.length) return closeShort();
     state.shortIndex = Math.min(state.shortIndex, state.shortQueue.length - 1);
     renderShort();
@@ -1415,24 +1644,27 @@ function previousShort() {
   if (!currentAfterPrune || currentAfterPrune.id !== current.id) return renderShort();
   if (state.shortIndex > 0) {
     const currentIndex = state.shortIndex;
-    markVideoWatchedAfterMinimum(current);
-    if (isWatched(current.id)) {
-      state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isWatched(item.id));
+    finalizeVideoBeforeLeaving(current, { reason: "short-previous" });
+    if (isHiddenFromPlayback(current.id)) {
+      state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isHiddenFromPlayback(item.id));
       if (!state.shortQueue.length) return closeShort();
       state.shortIndex = Math.max(0, currentIndex - 1);
       return renderShort();
     }
     state.shortIndex -= 1;
     renderShort();
-  } else if (isWatched(current.id)) {
-    state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isWatched(item.id));
+  } else {
+    finalizeVideoBeforeLeaving(current, { reason: "short-previous" });
+    if (!isHiddenFromPlayback(current.id)) return;
+    state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isHiddenFromPlayback(item.id));
     if (!state.shortQueue.length) return closeShort();
     state.shortIndex = 0;
     renderShort();
   }
 }
 
-function closeShort() {
+function closeShort({ finalize = true } = {}) {
+  if (finalize) finalizeVideoBeforeLeaving(state.shortQueue[state.shortIndex], { reason: "short-close" });
   destroyPlayer();
   state.shortQueue = [];
   state.shortIndex = 0;
@@ -1447,6 +1679,7 @@ function scrollToTop() {
 
 function goHome(event) {
   event?.preventDefault();
+  finalizeVideoBeforeLeaving(state.activeVideo, { reason: "home" });
   state.view = "home";
   state.activeVideo = null;
   state.query = "";
@@ -1460,6 +1693,7 @@ function goHome(event) {
 }
 
 function selectView(view) {
+  finalizeVideoBeforeLeaving(state.activeVideo, { reason: `view-${view}` });
   state.view = view;
   state.activeVideo = null;
   state.query = "";
@@ -1472,7 +1706,7 @@ function selectView(view) {
   scrollToTop();
 }
 
-function openCard(card) {
+function openCard(card, playbackOptions = {}) {
   if (!card) return;
   if (card.dataset.shortId) {
     const video = state.feed.items.find((item) => item.id === card.dataset.shortId);
@@ -1481,7 +1715,7 @@ function openCard(card) {
   }
   if (card.dataset.videoId) {
     const video = state.feed.items.find((item) => item.id === card.dataset.videoId);
-    if (video) openLong(video);
+    if (video) openLong(video, playbackOptions);
   }
 }
 
@@ -1496,10 +1730,15 @@ function downloadJson(payload, filename) {
 
 function exportHistory() {
   const payload = {
-    schemaVersion: 1,
+    schemaVersion: 2,
     exportedAt: new Date().toISOString(),
+    retention: {
+      policy: "current feed window plus 1 extra day",
+      retentionDays: Math.ceil(feedStateRetentionMs() / DAY_MS),
+    },
     watched: state.watched,
     progress: state.progress,
+    ignored: state.ignored,
     liked: state.liked,
   };
   downloadJson(payload, `nexafeed-history-${new Date().toISOString().slice(0, 10)}.json`);
@@ -1522,11 +1761,15 @@ async function importHistory(file) {
   const data = JSON.parse(await file.text());
   state.watched = { ...state.watched, ...(data.watched || {}) };
   state.progress = { ...state.progress, ...(data.progress || {}) };
+  state.ignored = { ...state.ignored, ...(data.ignored || {}) };
   state.liked = { ...state.liked, ...(data.liked || {}) };
   localStorage.setItem(WATCHED_KEY, JSON.stringify(state.watched));
   localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress));
+  localStorage.setItem(IGNORED_KEY, JSON.stringify(state.ignored));
   localStorage.setItem(LIKED_KEY, JSON.stringify(state.liked));
+  prunePlaybackStateRetention();
   updateHistoryCount();
+  updateIgnoredCount();
   updateLikedCount();
   render();
 }
@@ -1563,6 +1806,7 @@ async function loadFeed() {
       if ((a.priority || 1) !== (b.priority || 1)) return (a.priority || 1) - (b.priority || 1);
       return new Date(b.publishedAt) - new Date(a.publishedAt);
     });
+    prunePlaybackStateRetention();
     const updated = new Date(state.feed.updatedAt);
     updatedLabel.innerHTML = Number.isFinite(updated.getTime())
       ? `<i></i>Updated ${updated.toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}`
@@ -1584,6 +1828,7 @@ function toggleSidebar() {
 }
 
 function applySearchInput() {
+  finalizeVideoBeforeLeaving(state.activeVideo, { reason: "search" });
   state.query = searchInput.value.trim();
   state.view = state.view === "settings" ? "home" : state.view;
   state.quickFilter = "all";
@@ -1622,11 +1867,20 @@ document.querySelector("#mainNav").addEventListener("click", (event) => {
   if (button) selectView(button.dataset.view);
 });
 app.addEventListener("click", (event) => {
+  const wheelCapture = event.target.closest("[data-wheel-capture]");
+  if (wheelCapture) {
+    event.preventDefault();
+    event.stopPropagation();
+    toggleCurrentPlayback();
+    return;
+  }
+
   const viewButton = event.target.closest("[data-view]");
   if (viewButton) return selectView(viewButton.dataset.view);
 
   const quickFilterButton = event.target.closest("[data-quick-filter]");
   if (quickFilterButton) {
+    finalizeVideoBeforeLeaving(state.activeVideo, { reason: "quick-filter" });
     state.quickFilter = state.quickFilter === quickFilterButton.dataset.quickFilter ? "all" : quickFilterButton.dataset.quickFilter;
     state.view = state.view === "settings" ? "home" : state.view;
     state.activeVideo = null;
@@ -1684,13 +1938,14 @@ app.addEventListener("click", (event) => {
   const videoButton = event.target.closest("[data-video-id]");
   if (videoButton) {
     if (state.activeVideo?.id && videoButton.dataset.videoId !== state.activeVideo.id) {
-      markVideoWatchedAfterMinimum(state.activeVideo);
+      finalizeVideoBeforeLeaving(state.activeVideo, { reason: "card-open" });
     }
-    openCard(videoButton);
+    openCard(videoButton, { finalizeCurrent: false });
     return;
   }
 
   if (event.target.closest("#closePlayer")) {
+    finalizeVideoBeforeLeaving(state.activeVideo, { reason: "player-close" });
     state.activeVideo = null;
     destroyPlayer();
     render();
@@ -1746,6 +2001,19 @@ app.addEventListener("click", (event) => {
     updateHistoryCount();
     render();
   }
+  if (event.target.closest("#clearIgnored")) {
+    state.ignored = {};
+    Object.values(state.progress).forEach((entry) => {
+      if (entry && typeof entry === "object") {
+        delete entry.ignoredAt;
+        delete entry.ignoredReason;
+      }
+    });
+    localStorage.removeItem(IGNORED_KEY);
+    localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress));
+    updateIgnoredCount();
+    render();
+  }
 });
 app.addEventListener("input", (event) => {
   if (event.target.id !== "channelManagerSearch") return;
@@ -1765,22 +2033,16 @@ app.addEventListener("change", (event) => {
     importHistory(event.target.files?.[0]).catch(() => window.alert("The selected history JSON could not be imported."));
   }
 });
-app.addEventListener("wheel", (event) => {
-  if (!state.activeVideo || !event.target.closest(".player-main") || event.target.closest("button, a, input, textarea, select")) return;
-  if (Math.abs(event.deltaY) < 8 || Math.abs(event.deltaX) > Math.abs(event.deltaY)) return;
-  event.preventDefault();
-  if (playerWheelLocked) return;
-  playerWheelDelta += event.deltaY;
-  clearTimeout(playerWheelResetTimer);
-  playerWheelResetTimer = setTimeout(() => { playerWheelDelta = 0; }, WHEEL_RESET_MS);
-  if (Math.abs(playerWheelDelta) < PLAYER_WHEEL_THRESHOLD) return;
-  const direction = playerWheelDelta > 0 ? 1 : -1;
-  playerWheelDelta = 0;
-  playerWheelLocked = true;
-  navigatePlayer(direction);
-  setTimeout(() => { playerWheelLocked = false; }, 700);
-}, { passive: false });
+app.addEventListener("wheel", handlePlayerWheel, { passive: false });
 overlayRoot.addEventListener("click", (event) => {
+  const wheelCapture = event.target.closest("[data-wheel-capture]");
+  if (wheelCapture) {
+    event.preventDefault();
+    event.stopPropagation();
+    toggleCurrentPlayback();
+    return;
+  }
+
   const likeButton = event.target.closest("#shortLikeButton");
   if (likeButton) {
     event.preventDefault();
@@ -1801,20 +2063,7 @@ overlayRoot.addEventListener("click", (event) => {
   if (event.target.closest("#shortDescriptionButton")) return toggleShortPanel("description");
   if (event.target.closest("#shortDrawerClose")) return toggleShortPanel(state.shortPanel);
 });
-overlayRoot.addEventListener("wheel", (event) => {
-  if (event.target.closest(".short-drawer")) return;
-  if (!state.shortQueue.length || Math.abs(event.deltaY) < 8 || Math.abs(event.deltaX) > Math.abs(event.deltaY)) return;
-  event.preventDefault();
-  if (shortWheelLocked) return;
-  shortWheelDelta += event.deltaY;
-  clearTimeout(shortWheelResetTimer);
-  shortWheelResetTimer = setTimeout(() => { shortWheelDelta = 0; }, WHEEL_RESET_MS);
-  if (Math.abs(shortWheelDelta) < SHORT_WHEEL_THRESHOLD) return;
-  shortWheelLocked = true;
-  shortWheelDelta > 0 ? nextShort() : previousShort();
-  shortWheelDelta = 0;
-  setTimeout(() => { shortWheelLocked = false; }, 550);
-}, { passive: false });
+overlayRoot.addEventListener("wheel", handleShortWheel, { passive: false });
 overlayRoot.addEventListener("touchstart", (event) => {
   if (event.target.closest(".short-drawer")) {
     touchStartY = null;

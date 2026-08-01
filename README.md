@@ -34,8 +34,8 @@ The default public demo uses the current NexaLance AI/web-development source set
 | Personal feed | Priority channel feed, topic/keyword discovery, category chips, fresh/new indicators |
 | Shorts | Dedicated Shorts tab, YouTube-style overlay, next/previous buttons, keyboard navigation, wheel threshold navigation, swipe support |
 | Long videos | Full-width watch layout, autoplay queue, progress resume, next playable queue |
-| Watch control | 80% watched threshold, 5-second minimum before manual switch marks watched, normal queues hide watched items |
-| Watch history | Browser-local watched/progress state, Watch History tab, export/import history JSON |
+| Watch control | Manual skip sends under-threshold videos to an Ignored list, 30-second / half-Short threshold sends meaningful views to Watch History, normal queues hide watched and ignored items |
+| Watch history | Browser-local watched/progress/ignored state, Watch History tab, Ignored videos tab, export/import history JSON |
 | Local likes | Local favorite/liked state, Liked tab, export likes JSON, clear liked state |
 | Feed Settings | Add/edit/remove channels, set long/Shorts monitoring per source, edit keywords/topics/categories, submit owner-reviewed GitHub issue |
 | Automation | Runs from Hermes cron, normal cron, Codex, Claude Code, local terminal, or GitHub Actions |
@@ -51,8 +51,8 @@ Release snapshot:
 
 - 33 monitored channels
 - 325 playable feed items
-- 162 long videos
-- 163 Shorts
+- 165 long videos
+- 160 Shorts
 - 285 primary channel items
 - 40 topic/keyword/category discovery items
 - Asia/Dhaka timezone
@@ -88,6 +88,18 @@ The browser only reads static JSON and embeds videos with the YouTube iframe API
 - public frontend: no secrets
 
 The repository and runtime env names still use `nexafeed` / `NEXAFEED_*` for backward compatibility with the original package path and deployed URL. The public product name is YourTube.
+
+## Watched vs Ignored rules
+
+YourTube keeps playback decisions private in browser `localStorage`:
+
+- If a running video is skipped, closed, changed with keyboard arrows, changed with wheel/scroll, or replaced by another video before the watch threshold, it goes to **Ignored videos**.
+- Ignored videos stay out of Home, Shorts, Long videos, fresh/new filters, and Up Next queues.
+- If the user watches at least **30 seconds**, the video goes to **Watch history** instead of Ignored.
+- For Shorts with a known duration, watching **half of the Short** is enough. Example: a 40-second Short counts as watched after 20 seconds.
+- Finishing a video or reaching 80% progress still marks it watched.
+- Watched and ignored records are stored locally for the current feed window plus **1 extra day**, then pruned in the browser. This prevents a video from returning as “new” on the next refresh while it is still inside the feed window.
+- Browser state is local only. Export history JSON if you want to move watched/progress/ignored state to another device.
 
 ## Quick start
 
