@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T09:53:25Z",
+  "updatedAt": "2026-08-01T10:53:32Z",
   "items": [
+    {
+      "id": "GjT7mSMY6O8",
+      "type": "long",
+      "source": "primary",
+      "channel": "Creative Pad Media",
+      "publishedAt": "2026-08-01T10:46:49Z",
+      "firstSeenAt": "2026-08-01T10:53:32Z"
+    },
+    {
+      "id": "xX84A8g8seI",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-01T10:17:37Z",
+      "firstSeenAt": "2026-08-01T10:53:32Z"
+    },
+    {
+      "id": "502mzG7gJxU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Coding Shiksha",
+      "publishedAt": "2026-08-01T04:53:32Z",
+      "firstSeenAt": "2026-08-01T10:53:32Z"
+    },
+    {
+      "id": "bT4638EScek",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mythmatic",
+      "publishedAt": "2026-08-01T02:53:32Z",
+      "firstSeenAt": "2026-08-01T10:53:32Z"
+    },
+    {
+      "id": "adv1yC52HOs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Full Stack",
+      "publishedAt": "2026-07-31T19:53:32Z",
+      "firstSeenAt": "2026-08-01T10:53:32Z"
+    },
     {
       "id": "v9fyCgOe02I",
       "type": "short",
@@ -7731,6 +7771,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-01T10:53:32Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
