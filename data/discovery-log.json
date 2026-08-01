@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T01:54:03Z",
+  "updatedAt": "2026-08-01T03:53:27Z",
   "items": [
+    {
+      "id": "ahiqvybJBTs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Coding Shiksha",
+      "publishedAt": "2026-07-31T17:53:27Z",
+      "firstSeenAt": "2026-08-01T03:53:27Z"
+    },
+    {
+      "id": "RA0E_luzfBM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Alex Finn",
+      "publishedAt": "2026-07-31T17:53:27Z",
+      "firstSeenAt": "2026-08-01T03:53:27Z"
+    },
+    {
+      "id": "k26fT4athQs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kai",
+      "publishedAt": "2026-07-31T15:53:27Z",
+      "firstSeenAt": "2026-08-01T03:53:27Z"
+    },
     {
       "id": "D3eIWfG7BSQ",
       "type": "long",
@@ -7452,6 +7476,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-01T03:53:27Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
