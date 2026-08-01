@@ -65,8 +65,8 @@ class FrontendFeatureTests(unittest.TestCase):
             'data-view="ignored"',
             'id="ignoredCount"',
             "Ignored videos",
-            "app.js?v=20260801-ignore-wheel",
-            "style.css?v=20260801-ignore-wheel",
+            "app.js?v=20260801-float-nav",
+            "style.css?v=20260801-float-nav",
         ]:
             self.assertIn(marker, index_html)
 
@@ -210,12 +210,30 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn("YourTube - A personal YouTube Package", index_html)
         self.assertIn("Watch only those valuable for you", index_html)
-        self.assertIn("style.css?v=20260801-ignore-wheel", index_html)
-        self.assertIn("app.js?v=20260801-ignore-wheel", index_html)
+        self.assertIn("style.css?v=20260801-float-nav", index_html)
+        self.assertIn("app.js?v=20260801-float-nav", index_html)
         self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)
-        for marker in ["YourTube Float", "floatingYoutubePlayer", "onYouTubeIframeAPIReady", "new YT.Player", "widget_referrer", "strict-origin-when-cross-origin"]:
+        for marker in [
+            "YourTube Float",
+            "floatingYoutubePlayer",
+            "onYouTubeIframeAPIReady",
+            "new YT.Player",
+            "widget_referrer",
+            "strict-origin-when-cross-origin",
+            'id="previousButton"',
+            'id="nextButton"',
+            "function loadFloatingQueue",
+            "function playRelative",
+            "function updateNavigationButtons",
+            "YT.PlayerState.ENDED",
+            "loadVideoById",
+            "float-next",
+            "float-previous",
+            "data/videos.json",
+            ".float-nav",
+        ]:
             self.assertIn(marker, float_html)
         self.assertTrue(workflow_path.is_file())
         workflow = workflow_path.read_text(encoding="utf-8")

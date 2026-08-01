@@ -53,6 +53,35 @@
       .float-actions button:hover, .float-actions a:hover { background: rgba(255,255,255,.18); }
       .float-frame { position: relative; overflow: hidden; background: #000; }
       #floatingYoutubePlayer, .float-frame iframe { display: block; width: 100%; height: 100%; border: 0; }
+      .float-nav {
+        position: absolute;
+        z-index: 4;
+        top: 50%;
+        right: 10px;
+        display: grid;
+        gap: 10px;
+        pointer-events: none;
+        transform: translateY(-50%);
+      }
+      .float-nav button {
+        display: grid;
+        width: 42px;
+        height: 42px;
+        place-items: center;
+        cursor: pointer;
+        pointer-events: auto;
+        border: 1px solid rgba(255,255,255,.24);
+        border-radius: 50%;
+        background: rgba(5, 7, 12, .52);
+        color: #fff;
+        font-size: 21px;
+        font-weight: 850;
+        line-height: 1;
+        box-shadow: 0 12px 28px rgba(0,0,0,.34);
+        backdrop-filter: blur(10px);
+      }
+      .float-nav button:hover { background: rgba(255,255,255,.18); }
+      .float-nav button:disabled { cursor: not-allowed; opacity: .28; }
       .status {
         position: absolute;
         inset: 0;
@@ -83,6 +112,10 @@
       </header>
       <div class="float-frame">
         <div id="floatingYoutubePlayer"></div>
+        <div class="float-nav" aria-label="Floating video navigation">
+          <button type="button" id="previousButton" aria-label="Previous floating video">↑</button>
+          <button type="button" id="nextButton" aria-label="Next floating video">↓</button>
+        </div>
         <div id="status" class="status"><strong>Loading player...</strong></div>
       </div>
     </section>
@@ -97,15 +130,21 @@
         url: params.get("url") || "",
         start: Math.max(0, Number.parseInt(params.get("start") || "0", 10) || 0),
       };
-      const idLooksSafe = /^[A-Za-z0-9_-]{6,}$/.test(video.id);
-      const watchUrl = video.url && /^https:\/\/(www\.)?youtube\.com\//.test(video.url)
-        ? video.url
-        : `https://www.youtube.com/watch?v=${encodeURIComponent(video.id)}`;
+      const WATCHED_KEY = "nexafeed-watched-v1";
+      const PROGRESS_KEY = "nexafeed-progress-v1";
+      const IGNORED_KEY = "nexafeed-ignored-v1";
+      const WATCHED_SKIP_THRESHOLD_SECONDS = 30;
+      const idLooksSafe = (id = video.id) => /^[A-Za-z0-9_-]{6,}$/.test(id);
+      let watchUrl = floatWatchUrl(video);
       const statusNode = document.querySelector("#status");
       const titleNode = document.querySelector("#floatTitle");
       const labelNode = document.querySelector("#floatLabel");
       const linkNode = document.querySelector("#youtubeLink");
+      const previousButton = document.querySelector("#previousButton");
+      const nextButton = document.querySelector("#nextButton");
       let player = null;
+      let floatingQueue = [{ ...video }];
+      let floatingQueueIndex = 0;
 
       document.title = `${video.title} — YourTube Float`;
       titleNode.textContent = video.title;
@@ -116,6 +155,127 @@
         try { player?.destroy?.(); } catch {}
         window.close();
       });
+      previousButton.addEventListener("click", () => playRelative(-1, { reason: "float-previous" }));
+      nextButton.addEventListener("click", () => playRelative(1, { reason: "float-next" }));
+
+      function floatWatchUrl(item = video) {
+        return item.url && /^https:\/\/(www\.)?youtube\.com\//.test(item.url)
+          ? item.url
+          : `https://www.youtube.com/watch?v=${encodeURIComponent(item.id || "")}`;
+      }
+
+      function readJson(key, fallback) {
+        try {
+          return JSON.parse(localStorage.getItem(key)) || fallback;
+        } catch {
+          localStorage.removeItem(key);
+          return fallback;
+        }
+      }
+
+      function isWatched(id) {
+        return Boolean(readJson(WATCHED_KEY, {})[id]);
+      }
+
+      function isIgnored(id) {
+        return Boolean(readJson(IGNORED_KEY, {})[id]) && !isWatched(id);
+      }
+
+      function isHiddenFromPlayback(id) {
+        return isWatched(id) || isIgnored(id);
+      }
+
+      function saveTimedState(key, id, reason = "") {
+        if (!id) return;
+        const state = readJson(key, {});
+        state[id] = Date.now();
+        localStorage.setItem(key, JSON.stringify(state));
+        if (key === WATCHED_KEY) {
+          const ignored = readJson(IGNORED_KEY, {});
+          if (ignored[id]) {
+            delete ignored[id];
+            localStorage.setItem(IGNORED_KEY, JSON.stringify(ignored));
+          }
+        }
+        if (reason) {
+          const progress = readJson(PROGRESS_KEY, {});
+          progress[id] = { ...(progress[id] || {}), ignoredReason: reason, updatedAt: Date.now() };
+          localStorage.setItem(PROGRESS_KEY, JSON.stringify(progress));
+        }
+      }
+
+      function parseDurationSeconds(value) {
+        if (typeof value !== "string" || !value.includes(":")) return 0;
+        const parts = value.split(":").map((part) => Number(part));
+        if (parts.some((part) => !Number.isFinite(part) || part < 0)) return 0;
+        return parts.reduce((total, part) => total * 60 + part, 0);
+      }
+
+      function currentQueueItem() {
+        return floatingQueue[floatingQueueIndex] || video;
+      }
+
+      function durationSecondsFor(item = currentQueueItem()) {
+        const direct = Number(item?.durationSeconds || 0);
+        if (direct > 0) return direct;
+        const parsed = parseDurationSeconds(item?.duration || "");
+        if (parsed > 0) return parsed;
+        try {
+          const duration = player?.getDuration?.();
+          return Number.isFinite(duration) ? duration : 0;
+        } catch {
+          return 0;
+        }
+      }
+
+      function watchedThresholdSeconds(item = currentQueueItem()) {
+        const duration = durationSecondsFor(item);
+        if (item?.type === "short" && duration > 0) {
+          return Math.max(1, Math.min(WATCHED_SKIP_THRESHOLD_SECONDS, Math.ceil(duration / 2)));
+        }
+        if (duration > 0 && duration < WATCHED_SKIP_THRESHOLD_SECONDS) {
+          return Math.max(1, Math.ceil(duration / 2));
+        }
+        return WATCHED_SKIP_THRESHOLD_SECONDS;
+      }
+
+      function watchedSecondsForCurrent() {
+        try {
+          const current = player?.getCurrentTime?.();
+          return Number.isFinite(current) && current > 0 ? current : 0;
+        } catch {
+          return 0;
+        }
+      }
+
+      function saveProgressForCurrent() {
+        const duration = durationSecondsFor();
+        if (!video.id || duration <= 0) return;
+        const seconds = watchedSecondsForCurrent();
+        const ratio = Math.max(0, Math.min(1, seconds / duration));
+        const progress = readJson(PROGRESS_KEY, {});
+        progress[video.id] = { seconds: Math.floor(seconds), duration: Math.floor(duration), ratio, updatedAt: Date.now() };
+        localStorage.setItem(PROGRESS_KEY, JSON.stringify(progress));
+      }
+
+      function videoQualifiesAsWatched() {
+        if (isWatched(video.id)) return true;
+        return watchedSecondsForCurrent() >= watchedThresholdSeconds(currentQueueItem());
+      }
+
+      function markWatched(id = video.id) {
+        saveTimedState(WATCHED_KEY, id);
+        const progress = readJson(PROGRESS_KEY, {});
+        progress[id] = { ...(progress[id] || {}), ratio: 1, updatedAt: Date.now() };
+        localStorage.setItem(PROGRESS_KEY, JSON.stringify(progress));
+      }
+
+      function finalizeCurrentVideoBeforeLeaving(reason) {
+        if (!video.id || isWatched(video.id)) return;
+        saveProgressForCurrent();
+        if (videoQualifiesAsWatched()) markWatched(video.id);
+        else saveTimedState(IGNORED_KEY, video.id, reason);
+      }
 
       function showStatus(title, body, linkText = "Watch video on YouTube") {
         statusNode.classList.remove("hidden");
@@ -136,8 +296,78 @@
         statusNode.classList.add("hidden");
       }
 
+      function applyVideoMetadata(item) {
+        Object.assign(video, {
+          id: item.id || video.id,
+          title: item.title || video.title || "YourTube video",
+          type: item.type === "short" ? "short" : "long",
+          channel: item.channel || video.channel || "",
+          url: item.url || floatWatchUrl(item),
+          duration: item.duration || video.duration || "",
+          durationSeconds: item.durationSeconds || video.durationSeconds || 0,
+          start: Math.max(0, Number(item.start || 0)),
+        });
+        watchUrl = floatWatchUrl(video);
+        document.title = `${video.title} — YourTube Float`;
+        titleNode.textContent = video.title;
+        labelNode.textContent = video.type === "short" ? "YourTube Short" : "YourTube Float";
+        linkNode.href = watchUrl;
+      }
+
+      function updateNavigationButtons() {
+        previousButton.disabled = floatingQueueIndex <= 0;
+        nextButton.disabled = floatingQueueIndex < 0 || floatingQueueIndex >= floatingQueue.length - 1;
+      }
+
+      async function loadFloatingQueue() {
+        try {
+          const response = await fetch(`data/videos.json?time=${Date.now()}`, { cache: "no-store" });
+          if (!response.ok) throw new Error(`Feed returned ${response.status}`);
+          const feed = await response.json();
+          const sameTypeItems = (Array.isArray(feed.items) ? feed.items : []).filter((item) => (
+            item?.id && item.type === video.type && item.embedAllowed !== false
+          ));
+          const currentFromFeed = sameTypeItems.find((item) => item.id === video.id);
+          if (currentFromFeed) applyVideoMetadata({ ...currentFromFeed, start: video.start });
+          floatingQueue = sameTypeItems.filter((item) => item.id === video.id || !isHiddenFromPlayback(item.id));
+          if (!floatingQueue.some((item) => item.id === video.id)) floatingQueue.unshift({ ...video });
+          floatingQueueIndex = Math.max(0, floatingQueue.findIndex((item) => item.id === video.id));
+        } catch {
+          floatingQueue = [{ ...video }];
+          floatingQueueIndex = 0;
+        }
+        updateNavigationButtons();
+      }
+
+      function playQueueVideo(item) {
+        applyVideoMetadata(item);
+        hideStatus();
+        updateNavigationButtons();
+        if (!idLooksSafe(video.id)) {
+          showStatus("This video cannot be loaded here.", "The video id is missing or invalid.");
+          return;
+        }
+        try {
+          player?.loadVideoById?.({ videoId: video.id, startSeconds: 0 });
+        } catch {
+          showStatus("This floating player could not switch videos.", "Open it directly on YouTube instead.");
+        }
+      }
+
+      function playRelative(direction, { finalize = true, reason = direction > 0 ? "float-next" : "float-previous" } = {}) {
+        const targetIndex = floatingQueueIndex + direction;
+        if (targetIndex < 0 || targetIndex >= floatingQueue.length) {
+          updateNavigationButtons();
+          return false;
+        }
+        if (finalize) finalizeCurrentVideoBeforeLeaving(reason);
+        floatingQueueIndex = targetIndex;
+        playQueueVideo(floatingQueue[floatingQueueIndex]);
+        return true;
+      }
+
       function initPlayer() {
-        if (!idLooksSafe || !window.YT?.Player) {
+        if (!idLooksSafe() || !window.YT?.Player) {
           showStatus("This video cannot be loaded here.", "The video id is missing or invalid.");
           return;
         }
@@ -164,6 +394,12 @@
             onError() {
               showStatus("This floating player could not start.", "YouTube refused this popup embed. Open it directly on YouTube instead.");
             },
+            onStateChange(event) {
+              if (event.data === YT.PlayerState.ENDED) {
+                markWatched(video.id);
+                playRelative(1, { finalize: false, reason: "float-ended" });
+              }
+            },
           },
         });
       }
@@ -174,6 +410,7 @@
       tag.async = true;
       tag.onerror = () => showStatus("YouTube player failed to load.", "Your browser or an extension blocked the YouTube IFrame API.");
       document.head.appendChild(tag);
+      loadFloatingQueue();
       window.setTimeout(() => {
         if (!player && window.YT?.Player) initPlayer();
       }, 2500);

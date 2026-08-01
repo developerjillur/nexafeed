@@ -561,6 +561,7 @@ function youtubeEmbedSrc(video, autoplay = true) {
 function floatingPopupUrl(video) {
   const popupUrl = new URL("float.html", window.location.href);
   const params = new URLSearchParams({
+    v: "20260801-float-nav",
     id: video.id,
     title: String(video.title || "YourTube video").slice(0, 180),
     type: video.type === "short" ? "short" : "long",
