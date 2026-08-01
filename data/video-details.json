@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T23:53:48Z",
+  "updatedAt": "2026-08-01T00:53:58Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -5648,7 +5648,7 @@
       "probeClient": "web_embedded"
     },
     "p-EnoKm4EWM": {
-      "checkedAt": "2026-07-31T23:53:48Z",
+      "checkedAt": "2026-08-01T00:53:58Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6219,15 +6219,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "Z_H9OPqMFJo": {
-      "checkedAt": "2026-07-31T10:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Follow us on Instagram : https://www.instagram.com/aisyntax_official?igsh=MWkxY2Q5Z2cxbDJxNQ==\n\n\nWatch till the end for complete understanding.\nSubscribe to Learning Way for more AI, ML, and coding videos.\n#AI #MachineLearning #Python #Coding #DataScience #Programming #LearnCoding #ArtificialIntelligence #TechEducation #PythonTutorial\n\n\nAI, Machine Learning, Python, Python tutorial, coding, programming, data science, artificial intelligence, deep learning, AI projects, ML projects, coding for beginners, tech education, learn python, programming tutorials, software development, computer science, beginner coding, AI tutorial, machine learning tutorial",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "Kh3b4pOhu_8": {
       "checkedAt": "2026-07-31T11:53:16Z",
       "embedAllowed": true,
@@ -6250,10 +6241,10 @@
       "probeClient": "web_embedded"
     },
     "W93f8ZFOzxQ": {
-      "checkedAt": "2026-07-31T23:53:48Z",
+      "checkedAt": "2026-08-01T00:53:58Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "l6DMdWKTqYU": {
       "checkedAt": "2026-07-31T12:53:25Z",
@@ -6348,15 +6339,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "LnZDY6XC5pA": {
-      "checkedAt": "2026-07-31T12:53:25Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "This talk was recorded at NDC Toronto in Toronto, Canada. #ndctoronto #ndcconferences #developer #softwaredeveloper    \n\nAttend the next NDC conference near you: \nhttps://ndcconferences.com\nhttps://ndctoronto.com\n\nSubscribe to our YouTube channel and learn every day:   \n/          @NDC \n\nFollow our Social Media!\n\nhttps://www.facebook.com/ndcconferences\nhttps://twitter.com/NDC_Conferences\nhttps://www.instagram.com/ndc_conferences/\n\n#security #devops #testing #ai #github #chapgpt #githubcopilot #cursor #owasp \n\nAI coding assistants like GitHub Copilot, ChatGPT, and Cursor are reshaping how we build software—and open source is no exception. These tools can now generate code, submit pull requests, and even review and merge them automatically. But what’s the cost?\n\nOpen source maintainers are increasingly overwhelmed by “almost correct” AI-generated PRs that introduce subtle bugs, security vulnerabilities, or fail to follow contributor guidelines. Meanwhile, the rise of AI-generated Bug Bounty reports (AI slops) risks overwhelming maintainers and undermining the spirit of responsible disclosure potentially pushing projects to abandon bug bounty programs.\n\nIn this talk, we’ll explore a security-first and practical framework for using AI in software development and contribution workflows. I will cover guidelines from the well-respected communities like Linux Kernel, OpenSSF and OWASP and real-world (non-fictional) practices from the industry leaders. We will cover how to craft AI prompts with security and compliance in mind; governance templates for managing AI-generated contributions; Strategies for handling AI-generated vulnerability reports without shutting down your bug bounty program.",
-      "commentCount": 0,
-      "likeCount": 3,
-      "probeClient": "web_embedded"
-    },
     "SjCYm7bKFzE": {
       "checkedAt": "2026-07-31T13:53:33Z",
       "embedAllowed": true,
@@ -6442,7 +6424,7 @@
       "probeClient": "web_embedded"
     },
     "q26SM0Q6cds": {
-      "checkedAt": "2026-07-31T23:53:48Z",
+      "checkedAt": "2026-08-01T00:53:58Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6609,24 +6591,6 @@
       "likeCount": 311,
       "probeClient": "web_embedded"
     },
-    "U-l8hKsTn2A": {
-      "checkedAt": "2026-07-31T15:53:47Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "The Biggest Mistake Every Beginner Programmer Makes, Have you ever completed an entire programming course, solved all the assignments, and felt confident... only to freeze when you tried building a project on your own?\n\nYou're not alone.\n\nThe problem usually isn't intelligence or memory. It's the way most of us were taught to learn.\n\nIn this video, we'll explore why the traditional \"school mindset\" doesn't work for programming, the psychology behind Tutorial Hell, and how experienced software engineers actually learn new technologies.\n\nSkills Roadmap: https://embarkx.com/roadmap\n\nWe'll also discuss concepts like Recognition vs Retrieval, the Illusion of Mastery, Productive Struggle, and how to use AI without becoming dependent on it.\n\nIf you're learning Java, Python, JavaScript, C++, Web Development, Data Structures & Algorithms, or preparing for software engineering interviews, this mindset shift can completely change the way you learn programming.\n\n📌 In this video:\n\n- Why programming feels difficult after finishing courses\n- The biggest mistake beginner programmers make\n- Recognition vs Retrieval explained\n- The psychology behind Tutorial Hell\n- Why projects teach more than tutorials\n- How senior developers actually solve problems\n- How to use ChatGPT and AI without hurting your learning\n- Why debugging is one of the most important programming skills\n- The best way to learn any programming language in 2026\n\nRemember, programming is not about memorizing syntax.\n\nIt's about learning how to think, break down problems, and build solutions independently.\n\nIf this video changes the way you think about learning to code, share it with someone who's currently stuck in Tutorial Hell.\n\nTimestamps:\n00:00 Why Most People Never Learn Programming\n01:06 The School Mindset Is Holding You Back\n01:52 Recognition vs Retrieval (The Biggest Difference)\n03:13 The Illusion of Mastery\n05:05 Tutorial Hell Explained\n06:29 How Experienced Developers Actually Learn\n07:56 The Right Way to Use AI While Learning Programming\n09:15 What You Should Do Instead\n10:26 Why Building Projects Changes Everything\n11:58 Programming Is a Skill, Not a Subject\n12:36 Final Advice for Every Beginner\n\nlearn programming, how to learn programming, programming roadmap, coding roadmap, software engineering, tutorial hell, programming tutorial, coding mistakes, beginner programmer, software developer, coding tips, learn coding, programming psychology, ChatGPT coding, AI for programmers, Python tutorial, Java tutorial, JavaScript tutorial, web development, programming interview, coding projects, debugging, software engineer roadmap, programming mindset, productive struggle\n\nlearn programming, programming, coding, tutorial hell, software engineering, beginner programmer, coding roadmap, learn coding, software developer, programming tutorial, programming mindset, coding mistakes, AI coding, ChatGPT programming, Java, Python, JavaScript, web development, coding projects, debugging, DSA, software engineer, developer roadmap, programming tips, coding interview\n\n#Programming #Coding #SoftwareEngineering #ProgrammingTutorial #LearnProgramming #Java #Python #JavaScript #WebDevelopment #AI #ChatGPT #CodingTips #Developers",
-      "commentCount": 9,
-      "likeCount": 20,
-      "probeClient": "web_embedded"
-    },
-    "nERT2xoy64k": {
-      "checkedAt": "2026-07-31T15:53:47Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Software Engineering Roadmap 2026 | Complete CI/CD Pipeline Explained (GitHub Actions, Docker, DevOps)\n\nIn this video, you'll learn how professional software engineering teams build, test, validate, and deploy applications automatically using CI/CD pipelines.\n\nIf you've ever wondered how companies like Microsoft, Google, Amazon, or modern startups deploy code safely to production, this video walks you through the complete process using a real-world application.\n\nWe'll cover everything from Git branches and Pull Requests to GitHub Actions, YAML workflows, Unit Testing, Code Quality Analysis, Docker Image Creation, Container Security Scanning, and Automatic Production Deployment.\n\nThis is the exact deployment workflow used in many modern software companies.\n\nVisit: https://www.dailyprep.dev for roadmaps and interactive sessions\n\n\nChapters:\n00:00 Introduction & Why CI/CD Matters\n02:10 Understanding the CI/CD Pipeline\n05:00 Git Workflow, Pull Requests & Pipeline Triggers\n08:20 Automated Testing, Code Quality & Security Checks\n11:45 Production Deployment with GitHub Actions & Docker\n\n#ci_cd  #githubactions  #devops \n\n-----------------------------------------------------\n\n\nসফ্টওয়্যার ডেভেলপমেন্ট প্রসেস এর মূল ধাপগুলো জানুন। কোড বিল্ড থেকে শুরু করে কোয়ালিটি নিশ্চিত করার সঠিক পদ্ধতি সম্পর্কে ধারণা পাবেন।\n\nসফ্টওয়্যার ডেভেলপমেন্ট প্রসেস এ কাজ করার সময় কোড কোয়ালিটি বজায় রাখা অত্যন্ত জরুরি। এই ভিডিওতে আমরা আলোচনা করেছি কীভাবে একটি প্রফেশনাল এনভায়রনমেন্টে কোড বিল্ড করা হয় এবং unit test এর গুরুত্ব কতটুকু।\n\nআমরা আরও দেখেছি কীভাবে static code analysis এবং SAST টুলস ব্যবহার করে কোডের ভুল ধরা হয়। সবশেষে, containerization কীভাবে পুরো ডেভেলপমেন্ট সাইকেলকে সহজ ও কার্যকর করে তোলে তা ব্যাখ্যা করা হয়েছে। যারা প্রফেশনাল ডেভেলপমেন্ট ওয়ার্কফ্লো সম্পর্কে জানতে আগ্রহী, তাদের জন্য এই আলোচনাটি সহায়ক হবে।\n\nসফ্টওয়্যার ডেভেলপমেন্ট প্রসেস সম্পর্কে নিয়মিত টিপস পেতে সাবস্ক্রাইব করুন। আপনার কি containerization বা static code analysis নিয়ে কোনো প্রশ্ন আছে? কমেন্টে আমাদের জানান।\n\n\n-----------------------------------------------------\nFor paid promotions, sponsorships, and collaborations, contact me at contact@ittahad.site\n\nFollow me on these platforms 🙏\n\nFacebook: https://www.facebook.com/ittahadakash\nInstagram: https://www.instagram.com/ittahadakash\nDiscord: https://discord.gg/xKJ2hV2hTA\nLinkedIn: https://linkedin.com/in/ittahad\n\nMy gadgets:\nKeyboard (RK 75): https://www.startech.com.bd/royal-kludge-rk-r75-mechanical-keyboard?tracking=686256f51868a\nLenovo Legion 5i: https://www.startech.com.bd/lenovo-legion-5-16irx9-core-i7-14th-gen-gaming-laptop?tracking=686256f51868a \nhttps://www.startech.com.bd/dji-osmo-action-4-adventure-combo-action-camera?tracking=686256f51868a\nDji Mic Mini: https://www.startech.com.bd/dji-mic-mini-wireless-microphone-system?tracking=686256f51868a",
-      "commentCount": 8,
-      "likeCount": 12,
-      "probeClient": "web_embedded"
-    },
     "UMG0jPM4t6c": {
       "checkedAt": "2026-07-31T16:53:52Z",
       "embedAllowed": true,
@@ -6770,15 +6734,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "-UxcljWN49I": {
-      "checkedAt": "2026-07-31T16:53:52Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Are you paying thousands of dollars a month for AI subscriptions when the exact same software is sitting on GitHub for free? Discover 5 open-source AI tools that feel illegal to know about, and learn how to build the ultimate self-hosted, enterprise-grade AI stack for exactly $0. \n\nIn this video, Kai breaks down the five open-source projects doing the real work behind modern AI agents. You'll learn how Browser Use gives agents a real browser, why Firecrawl became GitHub's most-starred AI scraping tool, how Mem0 solves long-term memory without blowing your context window, why OpenHands is the open-source answer to Devin, and how Dify ties everything together into a production-ready AI platform.\n\nInstead of chasing every new AI framework, you'll understand the five core building blocks every serious AI agent needs: web access, browser automation, memory, coding, and orchestration—and exactly which repository fills each role.\n\n⏱️ TIMESTAMPS:\n0:00 - The 5 Repositories Every AI Agent Needs\n0:53 - #5: Browser Use (Give AI a Real Browser)\n2:54 - #4: Firecrawl (The Best AI Web Scraper)\n5:13 - #3: Mem0 (Persistent AI Memory)\n7:08 - #2: OpenHands (Open-Source Devin Alternative)\n9:34 - #1: Dify (The AI Agent Platform)\n12:36 - Building the Complete AI Agent Stack\n15:20 - Which Repositories Should You Start With?\n\n🔥 GitHub Repositories Mentioned\n\n#5 Browser Use\nhttps://github.com/browser-use/browser-use\n\n#4 Firecrawl\nhttps://github.com/firecrawl/firecrawl\n\n#3 Mem0\nhttps://github.com/mem0ai/mem0\n\n#2 OpenHands\nhttps://github.com/All-Hands-AI/OpenHands\n\n#1 Dify\nhttps://github.com/langgenius/dify\n\n#opensource #ai #aiagents #github #machinelearning #artificialintelligence #browseruse #firecrawl #openhands #dify #mem0 #python #softwareengineering #llm #agenticai\n\nUser Queries:\nbest open source ai agents 2026\nbest github repositories for ai agents\nbrowser use tutorial\nfirecrawl tutorial\ndify tutorial\nopenhands ai coding agent\nmem0 ai memory\nbuild ai agent from scratch\nopen source ai stack\nbest ai frameworks 2026",
-      "commentCount": 3,
-      "likeCount": 101,
-      "probeClient": "web_embedded"
-    },
     "vR8VwGQrniY": {
       "checkedAt": "2026-07-31T17:53:56Z",
       "embedAllowed": true,
@@ -6908,15 +6863,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "0kXxMaoYNNk": {
-      "checkedAt": "2026-07-31T18:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Digital Marketing - Training Class - 16\n\nWant to grow your business without spending a fortune on ads? 📧\n\nIn this video, you'll learn why email marketing remains one of the most powerful digital marketing strategies for businesses of every size. Discover how email marketing helps you build customer relationships, generate qualified leads, increase conversions, and maximize your return on investment (ROI).\n\nWhether you're a business owner, entrepreneur, freelancer, startup founder, or digital marketer, this guide will show you how email marketing can become your most profitable marketing channel.\n\n📌 In This Video You'll Learn:\n\n✅ Why email marketing is important for every business\n✅ How email marketing increases sales and conversions\n✅ Ways to build long-term customer relationships\n✅ Benefits of personalized email campaigns\n✅ Lead generation using email marketing\n✅ Customer retention strategies\n✅ Best email marketing practices\n✅ Email automation for business growth\n✅ Common email marketing mistakes to avoid\n✅ Tools to create successful email campaigns\n\n📈 Email marketing delivers one of the highest ROIs in digital marketing, making it an essential strategy for businesses looking to grow consistently and cost-effectively.\n\n👍 If this video helps you, don't forget to:\n\nLike 👍\nShare 📤\nSubscribe 🔔\nComment your favorite email marketing tip below!\n\nEmail Marketing, Email Marketing Strategy, Business Email Marketing, Digital Marketing, Email Campaigns, Email Automation, Email Marketing for Beginners, Business Growth, Lead Generation, Customer Retention, Email List Building, Marketing Automation, Sales Funnel, Email Newsletter, Online Marketing, Small Business Marketing, Marketing Tips, Email Conversion, Business Success, Customer Engagement, Email Marketing Tutorial, Grow Your Business, Marketing Strategy, ROI Marketing, Business Promotion\n\n#emailmarketing   #digitalmarketing   #businessgrowth   #marketingstrategy  #leadgeneration  #businesstips   #entrepreneur   #smallbusiness   #emailcampaign   #marketingautomation  #businesssuccess   #customerretention   #onlinemarketing   #sales  #marketing",
-      "commentCount": 0,
-      "likeCount": 9,
-      "probeClient": "web_embedded"
-    },
     "zazasynMZ6g": {
       "checkedAt": "2026-07-31T19:53:11Z",
       "embedAllowed": true,
@@ -6972,15 +6918,6 @@
       "description": "AI से Documentary Video Kaise Banaye? 🔥 Full Tutorial (FREE)\n\nLearn how to create AI Documentary videos for FREE using AI tools. Whether you're creating documentaries, storytelling videos, history content, or any other long-form AI videos, this tutorial will help you build your entire workflow from start to finish.\n\n🔹 In this video, you'll learn:\n\n✅ How to generate a powerful documentary story with AI\n✅ How to create realistic AI voiceovers for free\n✅ How to generate high-quality AI images\n✅ How to convert images into cinematic AI videos\n✅ How to design a professional YouTube thumbnail\n✅ How to create complete long-form AI videos for free\n\n•Prompt: https://drive.google.com/drive/folders/1Y0ZVfBgAe0vqXr4_EB-Z7QmB_psQcU_4\n•Join Telegram: https://t.me/niteshnayak02\n•Personal msg: https://www.instagram.com/niteshnayak_02\n\nFor Brand Collaboration & Promotion:-\n📩Email: realnitesh111@gmail.com\n\n🎥 Recorded & Presented by: Nitesh Nayak\nSubscribe for more Viral content creation tutorials❤️\n\n🔑 Keywords\nAI documentary video, AI documentary tutorial, AI documentary, AI video tutorial, AI video generator, AI long video, AI long form video, AI storytelling, AI story video, AI history video, AI documentary workflow, AI content creation, AI video editing, AI image generator, AI image to video, AI voice generator, AI voiceover, AI thumbnail maker, AI thumbnail tutorial, free AI tools, free AI video generator, free AI documentary maker, create AI videos for free, how to make AI videos, how to make AI documentary, how to create long videos with AI, AI long video tutorial, unlimited AI video generation, AI automation, AI filmmaking, cinematic AI videos, documentary video creation, AI content creator, YouTube AI videos, AI tutorial\n\n#️⃣ Hashtags\n#AI #AITools #AIVideo #AIDocumentary #AIDocumentaryVideo #AITutorial #AIVideoGenerator #FreeAITools #AIVoice #AIVoiceover #AIImageGenerator #ImageToVideo #AIThumbnail #LongVideo #LongFormVideo #AIContent #ContentCreation #YouTubeAutomation #Storytelling #Documentary\n\n⏰ TIMESTAMPS\n00:00 - Intro + Result\n05:11 - Story Generation\n07:19 - Voice Over\n09:22 - Character Generation\n10:53 - Image Generation\n15:38 - Video Generation\n20:10 - Editing\n25:01 - Thumbnail Design",
       "commentCount": 113,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "8b0uohq-0OY": {
-      "checkedAt": "2026-07-31T19:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "I vibe coded a fully automated AI trading bot using Claude AI and AI agents, no traditional coding required. Here's exactly how I built it and what the real live trading strategy results looked like.\n\n📂 Source code & resources → https://s3.amazonaws.com/aigde/index.html\n\n📬 Contact & collabs → https://t.me/DanOlinger\n\n🤖 WHAT'S COVERED:\n✅ Vibe coding an AI trading bot with Claude AI agents from scratch\n✅ Using an AI agent to automate your crypto trading strategy\n✅ AI automation with day trading strategy tactics\n✅ Real day trading results & honest breakdown\n\n📌 TIMESTAMPS:\n0:00 — AI Agents and Crypto Trading Explained\n1:00 — Setting Up The AI Trading Bot\n5:00 — AI Agent Live Trading Test\n6:20 — Day Trading Results Coverage\n\n🔔 Subscribe for more AI agent, vibe coding & crypto trading content.\n\n#ai #aiagents #daytrading #crypto #claude #chatgpt \n\n🎵 Music \"Empty Head\" by ‘Tama & Dust Diggers’\nhttps://www.youtube.com/watch?v=vL0ExyKMq2M\n💿 Listen everywhere: \nhttps://lofihiphop.de/emptyhead\n✅ For more Copyright Free Music visit:\nhttps://youtube.tamamusic.com",
-      "commentCount": 0,
-      "likeCount": 151,
       "probeClient": "web_embedded"
     },
     "tvZimMnCwyE": {
@@ -7135,13 +7072,68 @@
       "likeCount": 4904,
       "probeClient": "web_embedded"
     },
-    "KLiCPAwaRwY": {
-      "checkedAt": "2026-07-31T23:53:48Z",
+    "CZezvsT2i_I": {
+      "checkedAt": "2026-08-01T00:53:58Z",
       "embedAllowed": true,
-      "availability": "public",
-      "description": "In this video, you'll learn how I used Claude AI to design a complete website and seamlessly import it into Webflow. From writing a simple prompt to publishing a professional-looking website, I walk through the entire workflow step by step. If you're a Webflow developer, designer, freelancer, or simply curious about AI-powered web design, this tutorial is for you. Discover how Claude can speed up your workflow and help you build modern websites faster than ever before.\n\n\n🎉🎉 আমার কোর্স সমূহ \n========================\n👉 https://alihossainacademy.com/all-courses/\n👌 Discount Coupon Code: Gift20 (20% OFF )\n😊 Coupon Validity: Unlimited time\n\n\n\n🎉🎉 Recommended Hosting \n========================\n👉 Buy Hosting with a Free Domain here:  https://alihossain.com/hostinger\n👌 Discount Coupon Code: ALI20 (20% OFF ONLY on 48-month plans)\n👌 Discount Coupon Code: ALI10 (10% OFF )\n😊 Coupon Validity: Unlimited time\n\n\n\n\n✅  For Branding & Business Inquiries \n► shovoalways@gmail.com\n\n\n👉 Join Our Facebook Group - https://www.facebook.com/groups/learnwithalihossain\n👉 Facebook - https://www.facebook.com/shovoalways\n👉 Twitter - https://twitter.com/shovoalways\n👉 Instagram - https://www.instagram.com/shovoalways\n👍 GitHub- https://github.com/shovoalways\n🔗 Website - https://alihossain.com/\n\n\nধন্যবাদ।",
-      "commentCount": 15,
-      "likeCount": 100,
+      "description": "Renee talks to Dr. James Atkinson about new research on artificial intelligence in the workplace.\r\n\r\nFor more Local News from WFSB: https://www.wfsb.com/\r\nFor more YouTube Content: https://www.youtube.com/channel/UCByGc7P_siORkC1pum8T3_Q",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "RmdFYpcAL3U": {
+      "checkedAt": "2026-08-01T00:53:58Z",
+      "embedAllowed": true,
+      "description": "China is aggressively promoting low-cost, open-source artificial intelligence as part of its global technology strategy. At the World AI Conference in Shanghai, President Xi Jinping presented AI as a tool for developing nations, drawing comparisons with China's Belt and Road Initiative.\n\nBut behind Beijing's AI push lies a growing concern. Reports suggest that Chinese officials fear their own open-source AI models could weaken the Communist Party's control over information, censorship, and national security. Unlike closed AI systems, open-source models can be modified, redistributed, and used without many of the original safety restrictions.\n\n#china #ai #xijinping #ccp #artificialintelligence #opensourceai\n\n\n\n\n\n\n\n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to world politics. People are tired of biased reportage and we stand for a globalized united world. So for us, the World is truly One.\n \nPlease keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs and personal insults.\n\nSubscribe to our channel at https://goo.gl/JfY3NI\nCheck out our website: http://www.wionews.com\nJoin our WhatsApp Channel: https://bit.ly/455YOQ0\nConnect with us on our social media handles:\nFacebook: https://www.facebook.com/WIONews\nTwitter: https://twitter.com/WIONews\nInstagram: https://www.instagram.com/wionews/\nFollow us on Google News for the latest updates\n\nZee News:- https://bit.ly/2Ac5G60\nZee Business:- https://bit.ly/36vI2xa\nDNA India:- https://bit.ly/2ZDuLRY\nWION: https://bit.ly/3gnDb5J\nZee News Apps: https://bit.ly/ZeeNewsApps",
+      "commentCount": 4,
+      "likeCount": 9,
+      "probeClient": "web_embedded"
+    },
+    "RSeamYzaH64": {
+      "checkedAt": "2026-08-01T00:53:58Z",
+      "embedAllowed": true,
+      "description": "Friend of the channel President Sunday has declared on numerous occassions that BadEmpanada SECOND CHANNEL VIDEOS (not even main channel ones) are AI generated. Here I address these interesting allegations which are surely based on substantive evidence...\nSupport me on Patreon: https://patreon.com/BadEmpanada\nSubscribe to my Substack: https://ofpatmos.substack.com/\nBecome a BadEmpanada Live member: https://www.youtube.com/@BadEmpanadaLive/join\nMain Channel: https://youtube.com/BadEmpanada\nOne-time donations: https://ko-fi.com/BadEmpanada\nBluesky: https://bsky.app/profile/badempanada.com\nSpanish Channel: https://www.youtube.com/channel/UCfqxvPxPVLuCzPeOsleOB3g",
+      "commentCount": 417,
+      "likeCount": 1014,
+      "probeClient": "web_embedded"
+    },
+    "XO4ZVSP66M4": {
+      "checkedAt": "2026-08-01T00:53:58Z",
+      "embedAllowed": true,
+      "description": "রাজধানীর সড়কে আইন-শৃঙ্খলা রক্ষায় যুক্ত হচ্ছে এআই ক্যামেরা\n\n#aicamera #trafficjam #ekattortv\n\nআরও বিস্তারিত জানতে ভিজিট করুন: https://ekattor.tv/\n\nFair Use Disclaimer: \n===================\nThis channel may include copyrighted materials without explicit permission from the copyright holder, but such use is covered by the principle of fair use. Under Bangladesh’s Copyright Act 2000 (Law No. 28 of 2000), Sections 36 and 72 are particularly relevant. \n\nThese sections permit fair use for purposes including criticism, commentary, news reporting, teaching, scholarship, and research—especially when the use is non-commercial or educational in nature. This aligns with the U.S. Copyright Act of 1976, Section 107, which similarly allows fair use under those conditions, with nonprofit, educational, or personal uses leaning strongly in favor of fair use.\n\n\nContent Rights & Permission:\n============================\nEkattor TV has the sole rights of all contents and it does not give permission to any business entity or individual to use these contents except Ekattor TV (Ekattor Media Limited).\n\n\nSUBSCRIBE \n\n▶Ekattor TV: youtube.com/@EkattorTelevision\n\n▶Ekattor Bulletin: youtube.com/@Ekattor.Bulletin\n\n▶Ekattor News: youtube.com/@EkattorrNews\n\n▶Ekattor International: youtube.com/@Ekattor.International\n\n▶আনন্দযোগ: youtube.com/@Ekattor.Entertain\n\n▶Ekattor Business: youtube.com/@Ekattor.Business\n\n▶Ekattor English: youtube.com/@Ekattor.English\n\n▶Ekattor Journal: youtube.com/@EkattorTalkshow\n\n▶খেলাযোগ: youtube.com/@Ekattortv.Khelajog\n\n▶Khelajog Plus: youtube.com/@KhelajogPlus\n\n\nFOLLOW US\n\n▶Ekattor: facebook.com/EkattorTV\n\n▶Ekattor News: facebook.com/EkattorrNews\n\n▶Ekattor Television: facebook.com/EkattorrTelevision\n\n▶ Ekattor International: facebook.com/Ekattorr.Internation\n\n▶আনন্দযোগ: facebook.com/Ekattor.Entertain\n\n▶Ekattor Business: facebook.com/Ekattor.Business\n\n▶Ekattor English: facebook.com/EkattorEnglish\n\n▶Ekattor Journal: facebook.com/EkattorTalkshow\n\n▶খেলাযোগ: facebook.com/Ekattortv.Khelajog\n\n▶Khelajog Plus: facebook.com/KhelajogPlus\n\n\nAbout Ekattor Television\n========================\n\nEkattor is the First TWO-WAY News and Current Affairs Television of Bangladesh with cutting-edge technology as well as excellence in contents. It's the First Full HD television of Bangladesh and pioneer in many other aspects of television industry. Ekattor TV has established itself as a leading source of timely and reliable news, broadcasting from its headquarters on Sohrawardi Avenue in Baridhara, Dhaka.",
+      "commentCount": 8,
+      "likeCount": 39,
+      "probeClient": "web_embedded"
+    },
+    "JrGeAk4MdBE": {
+      "checkedAt": "2026-08-01T00:53:58Z",
+      "embedAllowed": true,
+      "description": "AI finally decoded whale language—and the first message left scientists speechless. In this video, we explore one of the most exciting frontiers in marine science: how artificial intelligence is helping researchers analyze whale communication, uncover hidden patterns in their vocalizations, and deepen our understanding of these extraordinary ocean giants.\n\nFor decades, scientists have recorded thousands of whale calls, clicks, whistles, and songs, believing they contain far more information than previously understood. Thanks to advances in artificial intelligence, machine learning, and acoustic analysis, researchers are now comparing millions of sound patterns to identify structures that may reflect complex communication. While AI has not \"translated\" whale language into human sentences, it is helping scientists recognize recurring sequences, social behaviors, and communication patterns that were once impossible to detect.\n\nIf you're searching for AI decoded whale language, whale language explained, AI whale communication, scientists study whale songs, or groundbreaking marine biology discoveries, this video explores the latest scientific research, AI-powered analysis, and fascinating discoveries about one of the most intelligent animals on Earth.\n\nFrom humpback whale songs and sperm whale codas to underwater acoustic networks and machine learning, this investigation highlights how technology is transforming our understanding of life beneath the waves. As researchers continue decoding the rich communication systems of whales, each new discovery brings us closer to understanding how these incredible mammals interact, navigate, and cooperate in the vast oceans.\n\n👉 Like, share, and subscribe for more videos on AI discoveries, marine biology, ocean mysteries, scientific breakthroughs, wildlife documentaries, and unexplained natural phenomena.\n\n#WhaleLanguage #AI #ArtificialIntelligence #Whales #MarineBiology #OceanExploration #ScienceDiscovery #MachineLearning #WhaleCommunication #SpermWhales #HumpbackWhales #OceanMystery #WildlifeDocumentary #MarineScience #AIDiscovery",
+      "commentCount": 5,
+      "likeCount": 119,
+      "probeClient": "web_embedded"
+    },
+    "eL0ZXagxXBA": {
+      "checkedAt": "2026-08-01T00:53:58Z",
+      "embedAllowed": true,
+      "description": "As artificial intelligence rapidly transforms the global economy, competition between the United States and China is becoming increasingly focused on which nation will lead the next generation of technological innovation.\n\nPatrick Hedger, policy director at NetChoice, said the race over artificial intelligence extends far beyond chatbots and consumer technology, arguing it will influence economic growth, national security and global competitiveness for decades to come.\n\n\"We just have to look back to the internet revolution for what could potentially happen with the AI revolution,\" Hedger told The National News Desk.\n\nHedger said the United States benefited significantly from policies that helped fuel the internet economy, allowing American technology companies to become global leaders. He argued a similar opportunity exists with AI, but warned China is investing aggressively to become the dominant player.\n\nFull Story: https://local21news.com/news/nation-world/china-us-in-artificial-intelligence-race-shaping-the-economy-security-data-centers-netchoice-patrick-hedger\n\n-----------------------------------------------------------\nFollow CBS 21 News on social media:\n\nCBS 21 News on Facebook: https://www.facebook.com/cbs21news/ Twitter: \nCBS 21 News on Twitter: https://twitter.com/CBS21NEWS\nCBS 21 News on Instagram: https://www.instagram.com/whptv/ www.cbs21.com\n\nSubscribe to CBS 21 News on YouTube: https://www.youtube.com/channel/UCEyqrfHvDzwfSPn63vXl13Q \n\nFor all of the day’s top local and national news, visit https://local21news.com/\nWatch our live newscasts and other live video at https://local21news.com/watch\n\n\nHave a news tip? Send it directly to us: \n\nEmail us: news@cbs21.com\nCall the Newsroom: 717.238.2100\n\n\nWHP is a PA based station and a CBS Television affiliate owned and operated by Sinclair Broadcast Group. Sinclair, Inc. is one of the largest and most diversified television broadcasting companies in the country today. Sinclair owns and operates, programs or provides sales services to 163 television stations in 77 markets, after pending transactions. Sinclair's television group reaches approximately 38.7% of US television households and includes FOX, ABC, MyTV, CW, CBS, NBC, Univision and Azteca affiliates.\n\n#cbs21 #cbs21news #harrisburg #harrisburgnews #localnews #breakingnews #whp #pennsylvania #pa #panews #trending #ai #artificialintelligence #china #unitedstates",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "aZeKdntO2aY": {
+      "checkedAt": "2026-08-01T00:53:58Z",
+      "embedAllowed": true,
+      "description": "🤖 **What if AI could make your daily life smarter, faster, and easier than ever before?**\n\nIn this video, we're counting down **20 AI Gadgets That Will Change Your Life in 2026!** From AI-powered smart glasses and wearable devices to intelligent home assistants, translation gadgets, smart security systems, and futuristic tech, these innovations are transforming the way we live, work, and communicate.\n\nWhether you're a tech enthusiast, content creator, traveler, or simply curious about the future, these AI gadgets showcase the incredible power of artificial intelligence in everyday life.\n\n🔥 **In This Video:**\n\n* AI-Powered Gadgets\n* Smart Home Devices\n* AI Wearables\n* Next-Generation Technology\n* Productivity & Travel Gadgets\n* Future Tech Innovations\n\nWatch until the end because the **#1 AI gadget is so advanced, it feels like it's from the future.**\n\n💬 Which AI gadget impressed you the most? Let us know in the comments below!\n\n👍 **Don't forget to Like, Subscribe, and turn on notifications** for more AI gadgets, future technology, and amazing tech discoveries every week.\n\n#AIGadgets #ArtificialIntelligence #FutureTech #SmartGadgets #Technology2026 #TechReview #Innovation #WearableTech #FutureTechnology #SiliconFiles",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "sUmx-Yi6TwE": {
+      "checkedAt": "2026-08-01T00:53:58Z",
+      "embedAllowed": true,
+      "description": "Here's The AI News From The Past Week! Build with Retool here: https://fandf.co/3RjilvK \n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nClaude Opus 5: https://www.anthropic.com/news/claude-opus-5\nOpus 5 Game Demo: https://x.com/mattshumer_/status/2081054356405731740\nAI Gaming Progress: https://x.com/chrisgpt/status/2082265122949542149\n24-Hour Game Build: https://x.com/kimmonismus/status/2082101266961023452\nClaude-of-Duty Prompt: https://github.com/mshumer/Claude-of-Duty/blob/main/prompt.md\nNano Banana Earth: https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/\nMeta AI Acts: https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/\nBUZZ Groupchat Platform: https://x.com/jack/status/2079605800998146171\nGrok Build Mode: https://x.ai/news/grok-build-mode\nGemini macOS Voice: https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/\nFree Gemini Videos: https://x.com/GeminiApp/status/2082563490431246623\nMidjourney Version 8.2: https://www.midjourney.com/updates/version-8-2\nMirage Avatar X: https://x.com/trymirage/status/2082120270618530053\nHeyGen Video Podcast: https://x.com/HeyGen/status/2082510248489943367\nLinkedIn AI Slop Button: https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button\nFriend Wearable Returns: https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/\nChinese Robot Ban: https://www.bbc.com/news/articles/cp9e2ex3ekyo\nGemini Robotics ER 2: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:04 Opus 5 Sentiment\n2:30 Opus 5 Strength\n4:47 Opus 5 My Tests\n10:02 Retool\n11:22 Google Earth Nano Banana\n13:28 Meta AI Agent\n14:30 BUZZ\n19:30 Grok Build Mode\n19:54 Gemini Natural Language\n20:04 Gemini Omni FREE\n20:22 Midjourney V8.2\n20:41 Mirage Avatar X\n21:53 HeyGen Video Podcasts\n23:48 LinkedIn AI Slop Button\n24:18 New Friend Wearable\n25:12 Banning Humanoids\n25:25 Gemini Robotics ER 2\n26:19 Final Thoughts",
+      "commentCount": 98,
+      "likeCount": 1273,
       "probeClient": "web_embedded"
     }
   }

@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-31T23:53:48Z",
+  "updatedAt": "2026-08-01T00:53:58Z",
   "items": [
+    {
+      "id": "CZezvsT2i_I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WFSB 3",
+      "publishedAt": "2026-07-31T18:53:58Z",
+      "firstSeenAt": "2026-08-01T00:53:58Z"
+    },
+    {
+      "id": "RmdFYpcAL3U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WION",
+      "publishedAt": "2026-07-31T17:53:58Z",
+      "firstSeenAt": "2026-08-01T00:53:58Z"
+    },
+    {
+      "id": "RSeamYzaH64",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BadEmpanada Live",
+      "publishedAt": "2026-07-31T17:53:58Z",
+      "firstSeenAt": "2026-08-01T00:53:58Z"
+    },
+    {
+      "id": "XO4ZVSP66M4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ekattor TV",
+      "publishedAt": "2026-07-31T16:53:58Z",
+      "firstSeenAt": "2026-08-01T00:53:58Z"
+    },
+    {
+      "id": "JrGeAk4MdBE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Sealed Scroll",
+      "publishedAt": "2026-07-31T16:53:58Z",
+      "firstSeenAt": "2026-08-01T00:53:58Z"
+    },
+    {
+      "id": "eL0ZXagxXBA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CBS 21 News",
+      "publishedAt": "2026-07-31T15:53:58Z",
+      "firstSeenAt": "2026-08-01T00:53:58Z"
+    },
+    {
+      "id": "aZeKdntO2aY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Silicon Files",
+      "publishedAt": "2026-07-31T15:53:58Z",
+      "firstSeenAt": "2026-08-01T00:53:58Z"
+    },
+    {
+      "id": "sUmx-Yi6TwE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Matt Wolfe",
+      "publishedAt": "2026-07-31T14:53:58Z",
+      "firstSeenAt": "2026-08-01T00:53:58Z"
+    },
     {
       "id": "PqxJPRQupFI",
       "type": "long",
@@ -7354,6 +7418,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-01T00:53:58Z",
+      "new": 8,
+      "long": 8,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
