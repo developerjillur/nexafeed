@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T14:53:36Z",
+  "updatedAt": "2026-08-01T15:53:05Z",
   "items": [
+    {
+      "id": "Nw1CbLnTqZ0",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Nrootz Digital",
+      "publishedAt": "2026-08-01T15:26:05Z",
+      "firstSeenAt": "2026-08-01T15:53:05Z"
+    },
     {
       "id": "Lg5TYWPSg6M",
       "type": "long",
@@ -7992,6 +8000,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-01T15:53:05Z",
+      "new": 1,
+      "long": 0,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
