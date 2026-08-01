@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T15:53:05Z",
+  "updatedAt": "2026-08-01T16:53:15Z",
   "items": [
+    {
+      "id": "3oUSrHsw1Ug",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-01T16:32:20Z",
+      "firstSeenAt": "2026-08-01T16:53:15Z"
+    },
+    {
+      "id": "ecG_W1oZVtM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-01T16:23:19Z",
+      "firstSeenAt": "2026-08-01T16:53:15Z"
+    },
+    {
+      "id": "Sl8wjEPQOt8",
+      "type": "long",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-01T15:58:38Z",
+      "firstSeenAt": "2026-08-01T16:53:15Z"
+    },
+    {
+      "id": "H2cx4dXWQEw",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-08-01T15:58:32Z",
+      "firstSeenAt": "2026-08-01T16:53:15Z"
+    },
+    {
+      "id": "b5EFU-olOgw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Digivate IT",
+      "publishedAt": "2026-08-01T16:34:15Z",
+      "firstSeenAt": "2026-08-01T16:53:15Z"
+    },
+    {
+      "id": "IrNmVz9_gmM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Social Seller Academy",
+      "publishedAt": "2026-08-01T13:53:15Z",
+      "firstSeenAt": "2026-08-01T16:53:15Z"
+    },
+    {
+      "id": "yxONoFqCb8o",
+      "type": "short",
+      "source": "secondary",
+      "channel": "AI Marketing Videos by Digital Lead Factory",
+      "publishedAt": "2026-07-31T21:53:15Z",
+      "firstSeenAt": "2026-08-01T16:53:15Z"
+    },
     {
       "id": "Nw1CbLnTqZ0",
       "type": "short",
@@ -8009,6 +8065,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-01T16:53:15Z",
+      "new": 7,
+      "long": 3,
+      "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }

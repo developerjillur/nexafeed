@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T15:53:05Z",
+  "updatedAt": "2026-08-01T16:53:15Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -92,14 +92,6 @@
       "description": "",
       "commentCount": 339,
       "likeCount": 6421
-    },
-    "DTzZ9Ttd_5w": {
-      "checkedAt": "2026-07-27T07:24:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "You don't need to pay for AI API keys anymore.\n\nInstead, use this free GitHub repo called free-llm-api-resources, and it lists down every free API provider out there.\n\nIt gives you free access to top models like Kimi, DeepSeek, Gemini, and more, all for completely free.\n\nYou just pick a provider like OpenRouter, NVIDIA NIM, or Google AI Studio, generate your API key.\n\nThen plug it straight into Claude Code, Cursor, or whatever you're working on.\n\nSome providers give you more room than others though.\n\nOpenRouter gives you up to 1,000 requests a day once you add a small lifetime top-up.\n\nNVIDIA NIM gives you 40 requests a minute with just phone verification.\n\nGoogle AI Studio is another solid one, since it gives you access to Gemini models with generous daily limits, and it doesn't require any payment info at all to get started.\n\nThere's also a second list in the repo for providers that hand out trial credits instead of fully free access.\n\nFireworks, Nebius, and Hyperbolic all give you a small credit balance to test bigger models before committing to anything.\n\nSo if you're building an agent that calls a model constantly, or you just want to try five different providers before picking a favorite, this repo saves you the trouble of hunting each one down individually.\n\nPerfect for AI agents, side projects, or just testing things out without spending a dollar.\n\n#aiapi #GitHubrepo #Openrouter #googleaistudio #kimiai",
-      "commentCount": 7,
-      "likeCount": 856
     },
     "f7n0PnnQq3Y": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -584,39 +576,6 @@
           "likeCount": 0,
           "publishedAt": "2026-07-27T18:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kcjzV3B7yMsnHxREnoUoFfmYJ-YEkJYUI0ysfIKRblVhKU=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-28T07:53:06Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "2Ybm4l2xAlE": {
-      "checkedAt": "2026-07-28T07:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "A Class 12 student reportedly uncovered major security flaws inside CBSE’s board exam evaluation portal—and the findings are shocking.\n\nAccording to the report, the system allegedly contained:\n\n* A hardcoded master password in frontend JavaScript\n* Client-side OTP validation\n* Password reset without proper old-password verification\n\nIf true, these vulnerabilities could have allowed unauthorized access to examiner accounts and potentially impacted the evaluation system.\n\nThis story is a reminder that cybersecurity is no longer optional. As AI accelerates software development, secure coding practices have become more important than ever.",
-      "commentCount": 2,
-      "likeCount": 281,
-      "comments": [
-        {
-          "id": "UgwDVrS_LwoFH-9I4hV4AaABAg",
-          "author": "@VivekKumarMishra-k9y",
-          "text": "Security",
-          "likeCount": 0,
-          "publishedAt": "2026-07-27T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kIy8FGcgaupQ6mu0LDhdWXdr6oK8jSPGWz9M2UIVSFR1FxxZ5_8Mvzu-ozESDW9xtLWw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxnyEc5Jc15BhZp7wp4AaABAg",
-          "author": "@Absolute_Zer_o",
-          "text": "Security",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/lGSpAyESYlCfifY9cO5FmfpMbuZU4v3QRp26PAp7_WwnOA6Z25sEH_nnn-IYqukKElMInH_1=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
@@ -1581,15 +1540,6 @@
       "description": "You’re using the same models as everyone else. The same tools everyone hypes on X. The same prompts. So why is the AI looping on the same bug for three hours while other people are shipping features?\n\nIt’s not the AI. It’s your setup.\n\nIn this video, we break down the 4 invisible pillars holding up every successful AI coding session: Feedback Loops, Architecture, Workflow, and QA. I’ll show you exactly how to avoid the \"Dumb Zone\" (where your LLM context window turns to garbage), and then we’re opening up Codex to build a real feature for Arth live.\n\nNo chat-and-pray. No copy-pasting prompt hacks. Just a bulletproof engineering system.\n\n__________________________________\nFollow Builders Central on Instagram: https://www.instagram.com/builders.central/",
       "commentCount": 6,
       "likeCount": 180,
-      "probeClient": "web_embedded"
-    },
-    "01mYICuCI_Q": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Work With Me (Solve Your Revenue Bottleneck with Charlie OS in 60-days): https://charlieautomates.com/charlie-os-vs/\n————————————\nJoin my community with 3,200+ business owners (choose premium for weekly calls): https://www.skool.com/cc-strategic-ai/about\n————————————\n\n🔑 Resources:\n\nREPOS:\nSEED - https://www.charlieautomates.com/free-resources/#seed\nPAUL - https://www.charlieautomates.com/free-resources/#paul-plugin\n\nVideo Tutorials:\nGraphify Tutorial - https://youtu.be/EKbQ5sajVxA?si=M-9Z9hTfPz-jPJVp\nHermes VPS Setup - https://youtu.be/UWhc6Uwkl-c?si=Fqw5z2-ElI4-EOmF \nSEED & PAUL Deep Dive Podcast - https://youtu.be/NB9Pf4cdFeM\n\nCLI Tools:\nRailway CLI Link - https://docs.railway.com/cli\nGithub CLI link - https://cli.github.com/\n\n————————————\n\nTimeline:\n00:00 Why Agentic OS Matters\n00:31 Three Step Framework\n01:57 Frameworks Required\n03:43 OS Ideation\n07:06 Launch Build\n08:57 Phase One Build Loop\n13:33 Phase Two YouTube Metrics\n14:21 Get YouTube API Key\n15:09 Phase Three Hermes Link\n15:44 Troubleshoot Hermes Chat\n18:02 Phase Four Graphify Search\n19:47 Phase Five GitHub Railway\n23:10 Fix Deploy and Mobile Test\n25:07 Hermes & MCP Connection\n26:00 Wrap Up and Next Steps",
-      "commentCount": 21,
-      "likeCount": 341,
       "probeClient": "web_embedded"
     },
     "6LrrIxKexgs": {
@@ -3037,79 +2987,6 @@
           "likeCount": 2,
           "publishedAt": "2026-07-28T17:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/R-RHJxSia5SvxglOqgT5h5A1uEEIM8mU-t-89JFyjf6TSs-in_cTJ6AeWac8MpScITJSUgYKAQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-29T14:53:13Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "skuAeiHq1Co": {
-      "checkedAt": "2026-07-29T14:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 6,
-      "likeCount": 575,
-      "comments": [
-        {
-          "id": "Ugz_-Q08Wze4qjoO9554AaABAg",
-          "author": "@Gowda_Anonymous",
-          "text": "Recently I too had this idea, Before building a great product we should build great Distribution. Which eventually makes the product Great.",
-          "likeCount": 2,
-          "publishedAt": "2026-07-29T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/bns_tNKSF9gr4XqsPe5Ue-byscqHNSi6TWMX9L6lp1ecGo24aRWeH0H_euyyJcQImXh7hR-nZA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgznI_ttBiBpM9G22G14AaABAg",
-          "author": "@farazahmed1668",
-          "text": "This guy always cameup out of the box",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kJLuWVrjaaqBYYgmCCSveE1_ywdSHOxXr4IHmyQ_3Efsk=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwPO9oRAIKuYheLJ5l4AaABAg",
-          "author": "@satyam2k3",
-          "text": "Distribution is infact the king look at coca cola",
-          "likeCount": 1,
-          "publishedAt": "2026-07-28T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/k81V9p8JY3kv3UDQvWLJqkP1kws5z-SO4QJvnyt3-qYI6_0p-aNQR4Y_XglTE4mw0Q-kMAqPiA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzH1SF1lIUPVtzKpm94AaABAg",
-          "author": "@Ankit_6174",
-          "text": "Varun is preparing for saavan 😂",
-          "likeCount": 1,
-          "publishedAt": "2026-07-28T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lE-2v4pt1Am5Vt4Pedf4xjFjaVCExlg_cJVl7OY2xcwvV1BhXRzUSHIHLwFa5dONFuTw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwSnOmpq5PyXmtiWi94AaABAg",
-          "author": "@himanshusaini5316",
-          "text": "This man makes so much sense, loved it ❤",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lL3a2p2kIBbgir_m-rckUr5pkGbwR1ycPtuGmQT3WUuLmQz_5O7czOh4UrUqhwiCJ0IA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzAAOFP1FZBPhxUKdd4AaABAg",
-          "author": "@adirocks4910",
-          "text": "Thanks  varun sir for your valueable content love from bihar",
-          "likeCount": 2,
-          "publishedAt": "2026-07-29T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/zsqy0U1ADM1tjThseGVzvxTWdDFcB-hMZPOeymkZqB5meYm4zyp7mmb3VsEZx2xtvNYU43dbYj0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
@@ -6000,7 +5877,7 @@
       "probeClient": "web_embedded"
     },
     "W93f8ZFOzxQ": {
-      "checkedAt": "2026-08-01T15:53:05Z",
+      "checkedAt": "2026-08-01T16:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6275,20 +6152,41 @@
       "probeClient": "web_embedded"
     },
     "q26SM0Q6cds": {
-      "checkedAt": "2026-08-01T15:53:05Z",
+      "checkedAt": "2026-08-01T16:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "AVVicrY9f3Q": {
-      "checkedAt": "2026-07-31T15:53:47Z",
+      "checkedAt": "2026-08-01T16:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Ever wonder how solo creators publish 100+ Reels a month without touching an editor?\n\nFive Claude skills running like a content team. Research, scripts, split tests, editing, posting. All of it automated except pressing record.\n\nThe full setup is free and it’s yours, comment “SKILLS” and all five skill files go → straight to your DMs ⚡",
-      "commentCount": 0,
-      "likeCount": 1,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-31T15:53:47Z",
+      "commentCount": 2,
+      "likeCount": 16,
+      "comments": [
+        {
+          "id": "Ugz5lsucRYZqMJhXYid4AaABAg",
+          "author": "@Thelastmecca",
+          "text": "Skills. Hook me up. I may need your services if this is legit.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m-BQ9cHAlq1jZsVv0311NimqUYlE4g7_EsWTQQtm7eQuBVngvypJrk2Wkalb5TxAxiCQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx_GShvM9vhXa1EeXR4AaABAg",
+          "author": "@Muhammad-s3h6f",
+          "text": "\"Hi Manthan, I emailed you regarding my AI Inner Circle trial issue. Could you please check when you have a moment?\"",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m-wvAwKyNneCMdoErnw329VPrjfATdBmyawkiFTmB0Tmcb0mbPWFH98RzurWL1m0u29A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-01T16:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6311,107 +6209,138 @@
       "probeClient": "web_embedded"
     },
     "1uoQ7wi7Q68": {
-      "checkedAt": "2026-07-31T15:53:47Z",
+      "checkedAt": "2026-08-01T16:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "AI coding agents are getting smarter, but they still have one major weakness: they can create problems without realizing them.\n\nOpenAI has launched a Codex plugin for Claude Code that allows developers to call Codex directly inside the Claude Code workflow. This creates a second AI perspective for writing, reviewing, and debugging code.\n\nIn this video, we explain why this matters and how it solves one of the biggest challenges with AI coding assistants: the echo chamber problem.\n\nWhen the same AI writes code and reviews its own work, it can miss bugs, overlook edge cases, or reinforce bad decisions. By bringing Codex into Claude Code, developers can use one AI for implementation and another AI for independent review.\n\nFor example, after building a feature, developers can send their Git diff to Codex for a deeper code review. Codex can analyze files, identify potential issues, and suggest improvements before the code reaches production.\n\nDevelopers can also hand off difficult debugging problems to Codex for a fresh perspective. A second AI agent can investigate the issue independently and help find solutions faster.\n\nThis shift shows where AI coding is heading: not one AI replacing developers, but multiple AI agents collaborating like a software team.\n\n🔗 The link to the Codex plugin is available in the pinned comment.\n\nBPro helps students, professionals, and businesses learn practical AI skills from the fundamentals to real-world applications.\n\nFrom generative AI and prompt engineering to AI workflows, automation, and no-code AI tools, BPro focuses on helping people build skills that can create better career opportunities in the AI era.\n\nWe are building practical AI courses to help you understand AI, apply it in your work, and create real projects. Stay tuned for upcoming BPro courses and resources.\n\nSubscribe to BPro to keep learning the latest AI tools, workflows, and opportunities.\n\n#AI #ClaudeCode #OpenAI #Codex #ArtificialIntelligence\n\nOpenAI Codex, Codex plugin, Claude Code, Claude Code tutorial, Claude Code AI, OpenAI Claude Code integration, AI coding tools, best AI coding tools 2026, AI coding assistant, AI code review, AI software development, AI developer tools, AI agents for coding, coding with AI, how to use AI for coding, AI programming tools, GitHub AI tools, AI code generation, AI debugging tools, Claude vs Codex, OpenAI new tools, latest AI updates, AI tools for developers, learn AI, generative AI tools",
-      "commentCount": 0,
-      "likeCount": 3,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-31T15:53:47Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "8VPok4vbYBk": {
-      "checkedAt": "2026-07-31T15:53:47Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment \"HUMAN\" and I'll send you the ebook. 🔥\n\nClaude agrees with everything you say. This skill fixes that.\n\nIt's called Claude Council. And the best Claude users never ask for one answer, they make Claude argue with itself first.\n\nFive advisors. One idea. All at the same time.\n\nOne hunts for the fatal flaw. One questions whether you're solving the right problem. One finds the upside nobody else sees. One reacts like a normal person with zero bias. One only cares about what you should do right now.\n\nThen they read each other's responses, find the blind spots, and push back on each other. A chairman weighs everything and gives you the final call.\n\nSave this before you forget.\n\n#claude #aitools #prompts #claudecouncil #chatgpt",
-      "commentCount": 8,
-      "likeCount": 70,
+      "commentCount": 3,
+      "likeCount": 89,
       "comments": [
         {
-          "id": "UgwbuPtIyhcdwq127LJ4AaABAg",
-          "author": "@manibsohail5084",
-          "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T15:54:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mzwk73fmnfDwFs4aca8l6kkQx6GyTAVAtENSyHlH_Zex_oOyaCVbcQl_w7mzDMX7MLRg=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgwniylIyEo-V3Qt6NV4AaABAg",
+          "author": "@HyakutanaMoto",
+          "text": "Phir bhi code ko khudhi check karna padta hai..chahe ek click me chand par hi kiyo na pahoncha de AI..😂😂",
+          "likeCount": 1,
+          "publishedAt": "2026-08-01T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_moeku1wSJ_5JYElsivgwUBW9jYwk2tsk6dgkop4bCQX9KRj77yp1bZwNyZvBy82WKOMA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwQIRN-cNMAwkIXIlZ4AaABAg",
-          "author": "@worldofjefe",
-          "text": "Human",
+          "id": "UgzSEfmPPmHRb1-pmal4AaABAg",
+          "author": "@rizmalik1504",
+          "text": "Clouds codes",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T15:44:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/hBhMiocb1ef_u4kd6t7WM-E5_a3n7NZ23C4Ww1Vc_cZN8OmC7j4VV6tmkVKnbLsVsUwa6j8GvQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-01T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_np6LXSvUgKlosibFn6eCDwUsHxNtdQaK2kSMJLx316fcm1=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugym9bb_DVEGUzWPNax4AaABAg",
-          "author": "@jonatanohlen9302",
-          "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T15:37:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nf4SbEnTj-o2L2TiBV33-nACS2XPUw9VE29JF_ToUu7ZI=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgymiQjFhuwHLadgW0l4AaABAg",
-          "author": "@CodingwithAdnanRaza",
-          "text": "Great but Claude using most tokens",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T15:28:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/EVGKuroOocV5JzQxwofJ4mwWmZm_aAEO8H028s7VWPOug82G8pZ27zDjGgTP9RXYfL5iVYDXXxs=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw5NoIevik7DmMphUh4AaABAg",
-          "author": "@doreenmccarthy9009",
-          "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T15:17:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksOF9cJw6Aaagqi0ktCjgqqvdei_kxInkStR8SF52k1ZMR=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugyzr6Ktlc6FZqSc9vp4AaABAg",
-          "author": "@SageWorkshop",
-          "text": "Bot",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T15:15:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/zdLS3IFENOj9qSpios79FLdBbK3tsaYmV7sXWfkeWFVFsWYZWIiD-sWvRuTEzYwur6cDfu3sHsQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugya04kbHgixfKre1jV4AaABAg",
-          "author": "@egitto4000",
-          "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T15:12:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mt41CQMuG7MqQTgol3CrW4t0pZDe5Z19LNEYP2WRItK4yt=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugyv_Dqf7AJ-5FNR0jV4AaABAg",
-          "author": "@Mr3dperformance",
-          "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T15:10:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_llazw77bW25-bIAYp5OSOOXF0Of_a3SKLdGYQxxll7QQ=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgxJzBm85Fjj2DhAG0R4AaABAg",
+          "author": "@TheAurumVision7",
+          "text": "\"It would be great if you could make a video about some free AI API keys capable of performing versatile tasks like Gemini, along with how to use them. This is a request for your next video!\"",
+          "likeCount": 2,
+          "publishedAt": "2026-08-01T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/rR8horT2Q7yczC_0KQQxZFrbouD9Fnv83MJ6su0aT-UNQtnAO5YComFPKgYpLAZengtFxbwZQw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-31T15:53:47Z",
+      "commentsFetchedAt": "2026-08-01T16:53:15Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "8VPok4vbYBk": {
+      "checkedAt": "2026-08-01T16:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment \"HUMAN\" and I'll send you the ebook. 🔥\n\nClaude agrees with everything you say. This skill fixes that.\n\nIt's called Claude Council. And the best Claude users never ask for one answer, they make Claude argue with itself first.\n\nFive advisors. One idea. All at the same time.\n\nOne hunts for the fatal flaw. One questions whether you're solving the right problem. One finds the upside nobody else sees. One reacts like a normal person with zero bias. One only cares about what you should do right now.\n\nThen they read each other's responses, find the blind spots, and push back on each other. A chairman weighs everything and gives you the final call.\n\nSave this before you forget.\n\n#claude #aitools #prompts #claudecouncil #chatgpt",
+      "commentCount": 8,
+      "likeCount": 1289,
+      "comments": [
+        {
+          "id": "UgzGsm6-dj5w6j43iHJ4AaABAg",
+          "author": "@Spbsmart1",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:53:09Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mpzzfc30BHj0PxeAFu58nlLTkJ8dL2adMIuwVnTAA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz9gO9_r6gC-2TVpzd4AaABAg",
+          "author": "@abhilash3d",
+          "text": "human",
+          "likeCount": 1,
+          "publishedAt": "2026-08-01T16:38:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m9qUkSW6nF4IFE1nXYFms-S4dQMhGx1BAzdJIcrdz0ylSm=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwsbXi8bXgvHp9qQyZ4AaABAg",
+          "author": "@mayaloveschatty1414",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:36:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNaUTxdiZTlcjmU0NVDaqaqVrGq5pRdKPhQHtBMRvWVNQB=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxQrh5HEY5sBHWFFtl4AaABAg",
+          "author": "@akhmadabdurakhmonov2166",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:29:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nmtsXDHjV3vsi3WJxNLeR6_m62bNa4V324lnRtnFy0u-rpS5RDcRIx863T-hajBZ4JOA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwKqGkc1RN26St5qVp4AaABAg",
+          "author": "@KNBA69",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:09:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mxd3Qels4-xHG3jli3CCXRdd38xpNrGdrKkcMeYrs_ytayMuPl1b50TqCPD-gw609mTw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzlBwevbf_jd_4r8zx4AaABAg",
+          "author": "@chimaochu3866",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:07:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lCs9wYnQ5F3gtFOZeB6O7yaU-x21-a77PMPmAGKbA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxAQbanbZstTu3ppah4AaABAg",
+          "author": "@nickthackray",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:05:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n4EABOy6Ijor53Y9vON11pv7lnVa4DCZbpGTyhfVHnh3Pxiux6cQbieChI2FN94xMBGA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw-Z-nVAzord_5MGXR4AaABAg",
+          "author": "@LogicOfComputerScience",
+          "text": "Human 🧒",
+          "likeCount": 1,
+          "publishedAt": "2026-08-01T16:03:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/K7wOYWOrMe7uhvysn7Xojp09Vv6W4ppeTTiYdbfupgFHBiqEDxLrOPmFF8kUGzhr9AcyYexqOdc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-01T16:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6656,14 +6585,6 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "CZezvsT2i_I": {
-      "checkedAt": "2026-08-01T00:53:58Z",
-      "embedAllowed": true,
-      "description": "Renee talks to Dr. James Atkinson about new research on artificial intelligence in the workplace.\r\n\r\nFor more Local News from WFSB: https://www.wfsb.com/\r\nFor more YouTube Content: https://www.youtube.com/channel/UCByGc7P_siORkC1pum8T3_Q",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "D3eIWfG7BSQ": {
       "checkedAt": "2026-08-01T01:54:03Z",
       "embedAllowed": true,
@@ -6776,15 +6697,6 @@
       "description": "Watch Hermes Agent take control of ComfyUI on my Windows PC and run complete AI image, audio and video workflows from simple written instructions.\n\nIn this step-by-step tutorial, I show how I connected Hermes Agent to my local ComfyUI installation and used API-format workflows to automate a complete creative pipeline—without manually running every workflow stage myself.\n\nYou’ll see Hermes Agent:\n\n• Connect directly to local ComfyUI\n• Inspect and run saved ComfyUI workflows\n• Generate a master image with Krea 2\n• Create consistent camera angles with Qwen Image Edit 2511\n• Generate cloned dialogue with Fish Audio S2 pro\n• Turn images and audio into video with LTX 2.3\n• Organise the completed outputs for editing in Adobe Premiere Pro\n\nComfyUI installation on a local Windows computer running multiple workflows - just push a button go out for the day and come back and everything is done. I will also show free model options like gemini flash 3.5 med lite. This can do anything!.\n\nInstallation, Setup, Configuration, Workflow, Automation, Python, Script, Coding. Guide, Course, Masterclass, Professional, Advanced, Editing, Design.\nMake videos for Business, Monetize, and make a Passive Income.\nearning AI easy. Image to AI video Tutorial. Anything is now possible with this updated node\n\nprompt director pro\nhttps://www.patreon.com/posts/prompt-director-150726418?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link\n\nhttps://www.heygen.com/?sid=rewardful&via=doggis\n\nBuy me a Coffee! http://coff.ee/ailatetoclass\nhttps://www.patreon.com/cw/ailatetoclass \n\nworkflows\nhttps://drive.google.com/drive/folders/1OtRk50Nf0bSOSZv6VJSoH13tcW2KmvZC?usp=sharing",
       "commentCount": 7,
       "likeCount": 23,
-      "probeClient": "web_embedded"
-    },
-    "iKCxOo6o8Ks": {
-      "checkedAt": "2026-08-01T06:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "💥 Unlock a 30-day FREE trial + $9,577 in bonuses! 👉 https://www.gohighlevel.com/hamza-baig\n\nALREADY A HIGHLEVEL USER? You can still claim all my bonuses when you upgrade through my link: https://app.gohighlevel.com/offers/affiliate-upgrade?fp_ref=agencysquared\n\nI don't build in GoHighLevel anymore, and in this video I'm showing you exactly why. After years of building funnels, workflows, and automations by hand, I've completely changed how I work inside GHL, and it's saving me hours every single week.\n\nHere's the truth. I still use GoHighLevel every day, but I stopped building manually. Instead, I now have AI do the building for me. In this video, I walk through exactly how that works, the tools inside GHL that make it possible, and a real example of going from idea to finished build without dragging and dropping a single element myself.\n\nIf you're an agency owner, this changes your entire delivery model. Client onboarding that used to take days now takes minutes. Funnels, websites, workflows, and automations get built while you focus on sales and strategy. And if you're just getting started, this levels the playing field, because you no longer need months of GHL experience to deliver like a veteran agency.\n\nI cover the exact setup I use, the prompts and instructions that get the best results, the mistakes to avoid when you let AI build for you, and where human oversight still matters so you don't ship broken builds to clients. Whether you run an SMMA, a SaaS, or you're selling AI services to local businesses, this is how agency fulfillment is going to work in 2026 and beyond.\n\nIf you're new here, I'm Hamza and I help agency owners and entrepreneurs build profitable AI automation businesses using GoHighLevel. I've trained over 40,000 students through The Automation Institute and run Hexona, a white label GoHighLevel platform serving over 1,000 agencies.\n\nKeywords: GoHighLevel AI builder, AI builds GoHighLevel, GoHighLevel automation 2026, stop building manually GoHighLevel, GoHighLevel tutorial, AI agency fulfillment, GoHighLevel for beginners, GHL AI features, AI automation agency, GoHighLevel workflows",
-      "commentCount": 6,
-      "likeCount": 10,
       "probeClient": "web_embedded"
     },
     "-dXsBzU1-DU": {
@@ -7211,20 +7123,11 @@
       "likeCount": 100,
       "probeClient": "web_embedded"
     },
-    "wURPMTl9fYc": {
-      "checkedAt": "2026-08-01T13:53:35Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Episode 18: Why AI Hasn’t Replaced Software Engineering? — and Probably Won’t\n\nHas AI changed software engineering—or simply changed how software gets built?\n\nIn this episode of the MIT Sloan CIO Symposium Online Series, Allan Tate and Irving Wladawsky-Berger explore why software engineering extends far beyond writing code. While AI is accelerating programming, the broader work of defining problems, designing systems, making architectural decisions, integrating complex technologies, and delivering reliable solutions still depends on human judgment and accountability.\n\nThe conversation examines what software engineering can teach us about the future of knowledge work, highlighting why AI is more likely to augment professionals than replace them. As organizations adopt AI across every industry, understanding where technology adds value—and where human expertise remains essential—has never been more important.\n\nJoin the MIT Sloan CIO Symposium Online Community for more conversations exploring the technologies and leadership challenges shaping the future of business. Save the date for the 2027 MIT Sloan CIO Symposium on May 18, 2027. Learn more about the online community and the 2027 MIT Sloan CIO Symposium here: https://go.mitcio.com/welcome",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "X6U0U8BwAao": {
-      "checkedAt": "2026-08-01T15:53:05Z",
+      "checkedAt": "2026-08-01T16:53:15Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "Lg5TYWPSg6M": {
       "checkedAt": "2026-08-01T14:53:36Z",
@@ -7296,6 +7199,141 @@
       "description": "Welcome to Nrootz – your trusted partner for digital business growth!\n\nWe help businesses establish a powerful online presence through modern technology, AI, and creative marketing solutions.\n\nOur Services\n\n🌐 AI-Powered Website Design & Development\n\n📱 Digital Business Profile\n\n📈 Digital Marketing\n\n📲 WhatsApp Business Automation\n\n🤖 AI Chatbots\n\n🎥 Professional Videography & Photography\n\n📸 Social Media Management\n\n🎨 Branding & Logo Design\n\n📝 Lead Generation Solutions\n\n🏢 Google Business Profile Optimization\n\n💻 Custom Business Websites\n\nWhether you're a startup, small business, clinic, restaurant, travel agency, real estate company, school, or retail store, Nrootz helps you attract more customers and grow your business online.\n\n📞 Contact Us Today\n\n🌐 Website: https://nrootz.in\n\n\nFollow us for more updates on AI, websites, digital marketing, automation, and business growth.\n\nDon't forget to Like 👍, Share 📤 and Subscribe 🔔 for more business tips and digital solutions!\n\n#Nrootz #DigitalMarketing #AIWebsite #BusinessGrowth #WebsiteDesign #WebDevelopment #WhatsAppAutomation #LeadGeneration #Branding #SocialMediaMarketing #DigitalBusiness #BusinessWebsite #SmallBusiness #Startup #KeralaBusiness #IndiaBusiness #AI #Marketing #OnlineBusiness #TechSolutions",
       "commentCount": 0,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "3oUSrHsw1Ug": {
+      "checkedAt": "2026-08-01T16:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Google just launched AI Boost Bites on their Google Skills website. \n\nIt's a free collection of bite sized video lessons.\n\nGoogle's own AI experts teach you real AI skills in under 10 minutes a lesson.\n\nIt's built to teach you practical AI skills for your actual day-to-day work.\n\nTeaching you things like advanced prompting, Gemini for Workspace, NotebookLM for research, and much more.\n\nEvery lesson ends with a hands-on challenge.\n\nSo you apply what you just learned immediately instead of just watching and forgetting.\n\nThat's the part most video courses skip entirely.\n\nYou watch, you nod along, and then you never actually use what you learned.\n\nThis flips that completely.\n\nPlus, you also get an official Google Skill badge and credentials.\n\nYou can showcase them on your resume once you finish the lesson.\n\nNo lengthy course, no weeks of commitment, just one focused lesson and one badge.\n\nIt started with 25 episodes, and Google keeps adding more regularly.\n\nSo if you're already using Gemini or NotebookLM but feel like you're barely scratching the surface, this is built exactly for that gap.\n\n#GoogleAI #AICourses #GoogleAICourses #GoogleBoostBites #GoogleSkills",
+      "commentCount": 1,
+      "likeCount": 19,
+      "comments": [
+        {
+          "id": "UgxKNqu0MJlBSBQoQZB4AaABAg",
+          "author": "@nickautomates",
+          "text": "First, you can access Google AI Boost Bites from here:\n\nhttps://www.skills.google/collections/ai-boost-bites\n\nSecond: If you want to learn how to build systems & then apply them to real businesses to get clients, check out Maker School. \n\nIt's my AI agent & automation community, where I teach you how to build Claude Code, Codex, & n8n based flows, and sell them to your first client in 90 days. \n\nIncludes a 100% money back guarantee if you don't get a paying client!\n\nhttps://www.skool.com/makerschool/about?ref=0a3be5900d60497cb3542cca1ed3fdcb",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:34:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/wqFanyf3to18BbPL8FE9F614Wx8VtblcVB3Vt_wL8yynTDiYEzxTXe-e4WjMqB5U0OQdKNmncg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-08-01T16:53:15Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "ecG_W1oZVtM": {
+      "checkedAt": "2026-08-01T16:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 3,
+      "likeCount": 93,
+      "comments": [
+        {
+          "id": "Ugx98NbrYDvXPUlo-bB4AaABAg",
+          "author": "@Ashutosh_1008",
+          "text": "How did you got that killer jawline ? \n\"I swiped too many reels\"",
+          "likeCount": 1,
+          "publishedAt": "2026-08-01T16:53:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/EgjoORaHA7w6LlgPHMI2InASOa2GQ9RlZxyAobRZ4AxAPxyQrBQZfW1j7hPid7SzMJEq67G6=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwhryQdgQgvBx8AnPp4AaABAg",
+          "author": "@Ashutosh_1008",
+          "text": "This video made me randomly displace my tounge for no reason 😭",
+          "likeCount": 2,
+          "publishedAt": "2026-08-01T16:51:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/EgjoORaHA7w6LlgPHMI2InASOa2GQ9RlZxyAobRZ4AxAPxyQrBQZfW1j7hPid7SzMJEq67G6=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxyHZdSiaBJux67dod4AaABAg",
+          "author": "@Tushar_iguess",
+          "text": "Gross",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:50:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/CvVUSImzUu1BiD0MzflBGQZj5t88Hbrt3ZHGdkJI-VtN3kQKpwH0FfUZBfqS4BAOJx7QF3Uk0A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-01T16:53:15Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "Sl8wjEPQOt8": {
+      "checkedAt": "2026-08-01T16:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Claude Fable 5 vs GPT-5.6 Sol (Featuring @TheEricMichaud ) head to head inside the Higgsfield MCP. Two browser games, built from scratch, same prompt.\n————————————\nWork With Me (Solve Your Revenue Bottleneck with Charlie OS): https://charlieautomates.com/charlie-os-vs/\n————————————\nJoin my community with 3,200+ business owners (choose premium for weekly calls): https://www.skool.com/cc-strategic-ai/about\n————————————\n\nTimeline:\n00:00 The Challenge: Fable 5 vs Sol 5.6\n00:24 The Rules: One Prompt, Three Revisions\n01:02 Frameworks: SEED vs Superpowers\n02:04 Writing The Prompt\n04:21 Claude Code vs Cowork: The Honest Take\n04:49 Fable 5 Finishes First\n06:38 The 15-Point Bonus\n08:20 Sol Finishes: 54 Minutes\n09:38 The Race: Escape Each Other's Room\n10:40 Rescuing Eric From The Outhouse\n12:30 The Final Score\n13:21 Eric's Take On Higgsfield\n\n\n#claudefable5 #gpt #higgsfieldmcp",
+      "commentCount": 0,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "H2cx4dXWQEw": {
+      "checkedAt": "2026-08-01T16:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "B tier.\nIt’s the goated legacy option. But functionality-wise, you’re just running one Claude Code session. You can’t see what’s happening in your other tabs. No notifications. No PR reviews.\nCursor and similar AI IDEs.\nC tier.\nAmazing editors. But running multiple agents means multiple tabs fighting for your attention. There’s no bird’s-eye view of what all your agents are doing.\nGhostty.\nB tier.\nBlazing fast. GPU-accelerated. Beautiful.\nBut it’s still a general-purpose terminal. You’re setting up split panes like it’s 2015.\ncmux.\nA tier.\nBuilt on Ghostty, but specifically for AI agents. You get a vertical sidebar showing the Git branch, PR status, and working directory for every session. It even notifies you when an agent needs input.\nPure beauty.\nConductor.\nS tier.\nA full GUI for orchestrating agents, reviewing PRs, merging code, and kicking off tasks from your phone. Cloud workspaces are coming soon.",
+      "commentCount": 2,
+      "likeCount": 77,
+      "comments": [
+        {
+          "id": "Ugxw_6xuYaU7G0B_-4N4AaABAg",
+          "author": "@johan-jomet",
+          "text": "Hi, I am Johan Jomet, founder and CEO of JJ coders.\nI watch all your vidoes, and I want to talk and connect with you",
+          "likeCount": 2,
+          "publishedAt": "2026-08-01T16:10:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/pDtmL5ZDOuQX8xZPwlQcjEqWt5by3C9ak__3a7fWMgZpSoGHGjbLLmrtqTQc2le_yZGl7aU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzmFsm4QP30E8riDUR4AaABAg",
+          "author": "@ohunoluwasamuel1992",
+          "text": "Wow,that's great",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T16:04:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nuMxXhzihOD2LWO6f2ubDqh1-CddZ3El6PY2cH4hp62orsHLfgccgUJryPjCxoYorJGQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-01T16:53:15Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "b5EFU-olOgw": {
+      "checkedAt": "2026-08-01T16:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Welcome to the ultimate guide on the latest version of FB Group Blaster! If you are struggling with manual Facebook group posting, account blocks, or getting banned by Meta's strict AI algorithms, this video is a complete game-changer for your digital marketing strategy.\n\nOrder Now: https://digivateit.com/product/fb-group-blaster/\n\nIn this comprehensive tutorial, we break down the newest updates, advanced features, and a step-by-step framework to automate your Facebook marketing safely, efficiently, and without the fear of getting your profile restricted.\n\n📌 Key Highlights of This Update:\n1-Click Bulk Posting via CSV/Excel & Text Files: Learn how to queue up dozens or even hundreds of posts and publish them across multiple targeted Facebook groups instantly.\n\nAdvanced \"Cookies Login\" System: Say goodbye to repetitive login prompts, manual password entries, and tedious robot verification/2FA loops. Use our secure cookie-import method to sync your Chrome browser session seamlessly.\n\nSmart Auto-Post Rotation (Anti-Ban Protection): Meta's algorithm flags identical posts sent repeatedly. Our new auto-rotation system allows you to upload multiple text variations (.txt files), ensuring that the software dynamically changes the caption for every group and drastically reduces spam flags.\n\nLive Progress Tracker & Status Dashboard: Monitor your campaigns in real-time. Track exactly how many posts have been successfully Sent, how many are Pending, and which ones faced restrictions due to group admin pauses or closed group policies.\n\nBackground Processing & Miniaturization: Run your marketing campaigns seamlessly in the background. Minimize the software window and let it handle your outreach while you focus on other core tasks.\n\n⏱️ Video Chapters & Timestamps:\n0:00 - Introduction: What's new in FB Group Blaster\n\n0:10 - Clearing Browser Data & Troubleshooting Logins\n\n0:28 - Why Use \"Login with Cookies\"? (The safest method)\n\n0:42 - Step-by-Step Guide: Installing Cookie-Editor Extension\n\n1:35 - Importing JSON Cookies into FB Group Blaster\n\n1:58 - Managing Post Content & Using Auto-Rotation Text Files\n\n2:54 - Extracting & Adding Targeted Facebook Group Links\n\n3:20 - Adjusting Speed Delays (High, Medium, Slow settings)\n\n3:58 - Live Demonstration: Running an Automated Group Post Campaign\n\n5:47 - Verifying Post Uniqueness via Facebook Activity Log\n\n7:03 - Handling Minimized Windows & Background Automation\n\n8:28 - Troubleshooting Failed Posts & Group Admin Restrictions\n\n9:21 - Conclusion and How to Get Future Updates Free\n\n🔗 Important Links & Resources:\nWatch the Full Setup Guide & Playlist: [Insert Link Here]\n\nDownload Cookie-Editor Extension: Search on Chrome Web Store\n\nOrder & License Activation: Contact us directly via WhatsApp or visit our official platform below.\n\n📞 Get in Touch With Us:\nNeed custom software, digital marketing services, or business automation tools? Connect with our team today!\n\nWebsite: https://www.digivateit.com\n\nHelpline / WhatsApp: +88 01575-489688\n\n⚠️ Disclaimer & Copyright Notice:\nThis video and software are intended for educational and authorized digital marketing automation purposes only. Users are advised to comply with Facebook’s Terms of Service and Community Standards to prevent account misuse. We do not promote spamming or unauthorized data extraction.\n\n📱 WhatsApp: +8801575-489688\n✉️ ইনবক্স করুন: http://m.me/DigivateIT/\n🌐 Website: https://digivateit.com\n\n📢 WhatsApp Channel: https://whatsapp.com/channel/0029VaUjqfr3wtbGsNE1J027/132\n👥 WhatsApp Community: https://chat.whatsapp.com/FEilaNelAfy39QmkqPPrGM\n📡 Telegram Channel:\n1️⃣ https://t.me/DigivateIT\n2️⃣ https://t.me/digivateit2\n\n#FBGroupBlaster #FacebookMarketing #BulkPosting #SocialMediaAutomation #DigivateIT #DigitalMarketingBD #FacebookAutoPoster #AntiBanMarketing #LeadGeneration #GroupMarketing #BusinessAutomation",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "IrNmVz9_gmM": {
+      "checkedAt": "2026-08-01T16:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "India's best social media automation tool that can literally become your AI business team. \n\nCheckout Solo: \nhttps://get.solo.interakt.ai/?c=solo-partner-referral&referrer=KJFA7K4N\n\n_________________________\n\nBook Private Consultation with Lakshit sir: https://courses.socialseller.in/l/6040e8b0a0\n_________________________\n\n👨‍🏫 Digital Marketing Course by Lakshit Sethiya\nhttps://course.socialseller.in/courses\n\n👨‍🏫 Register for Live WhatsApp Marketing Workshop: https://webinar.socialseller.in/whatsapp_marketing\n\n___________________________________\n\nCourses by Social Seller Academy\n\n👨‍🏫Canva Designing Course: https://course.socialseller.in/courses\n👨‍🏫Digital Marketing for Online Selling: https://course.socialseller.in/courses\n👨‍🏫Reselling Business Mastery Course: https://course.socialseller.in/courses\n👨‍🏫Sell Online - Full Course: https://course.socialseller.in/courses\n👨‍🏫WhatsApp Marketing Course: https://course.socialseller.in/courses\n👨‍🏫YouTube Ads mastery course: https://course.socialseller.in/courses\n👨‍🏫Google Ads Mastery Course: https://course.socialseller.in/courses\n\n ______________________\n\n👉 Our Services\n\n👉Startup & Business Consultation Service\n👉Website / Mobile App Development Service\n👉Digital Marketing (Meta & Google Ads) Service \n👉Video Editing & Graphic Designing Service\n👉WhatsApp Automation & API Service \n ______________________\n\n👉For Inquiry: https://socialseller.in/contact\n\n👉Connect on WhatsApp: https://wa.me/918370044449\n\n👉For More Details Contact\n📧 E-Mail: socialselleracademy@gmail.com\nWhatsApp: +918370044449\n\n#ai #solo #automation #jio",
+      "commentCount": 3,
+      "likeCount": 46,
+      "probeClient": "web_embedded"
+    },
+    "yxONoFqCb8o": {
+      "checkedAt": "2026-08-01T16:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Ready to Grow Your Business Smarter?\n\nWhat if your business could answer customer questions, capture leads, schedule appointments, and follow up automatically—even while you’re sleeping?\n\nAt Digital Lead Factory, we help businesses save time, attract more customers, and automate the tasks that slow them down.\n\nOur solutions include:\n✅ AI Chatbots\n✅ AI Phone Assistants\n✅ CRM & Customer Management\n✅ Automated Follow-Up\n✅ Online Appointment Booking\n✅ Professional Websites\n✅ Social Media Marketing\n✅ Educational & Promotional Videos\n✅ Digital Business Cards & QR Codes\n\nWhether you’re a small business owner or an established company, we can help you streamline your marketing and turn more visitors into customers.\n\n🎥 Watch our new video to see how Digital Lead Factory can help your business grow.\n\n📲 Visit our website or scan our QR code to learn more and get started today! 🌐\n\n#DigitalLeadFactory #SmallBusiness #BusinessGrowth #AI #ArtificialIntelligence #MarketingAutomation #LeadGeneration #CRM #SocialMediaMarketing #AppointmentBooking #BusinessSuccess #Automation #Entrepreneur #GrowYourBusiness #CustomerService #DigitalMarketing",
+      "commentCount": 1,
+      "likeCount": 1,
       "probeClient": "web_embedded"
     }
   }
