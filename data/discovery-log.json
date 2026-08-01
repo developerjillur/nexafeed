@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T07:53:12Z",
+  "updatedAt": "2026-08-01T08:53:17Z",
   "items": [
+    {
+      "id": "g_ZPt498INU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NextMind",
+      "publishedAt": "2026-08-01T08:49:17Z",
+      "firstSeenAt": "2026-08-01T08:53:17Z"
+    },
+    {
+      "id": "I9CDfpaUP74",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NextMind",
+      "publishedAt": "2026-08-01T07:53:17Z",
+      "firstSeenAt": "2026-08-01T08:53:17Z"
+    },
+    {
+      "id": "3YYq34fx5Pc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vivos AI Ind Automation ",
+      "publishedAt": "2026-08-01T02:53:17Z",
+      "firstSeenAt": "2026-08-01T08:53:17Z"
+    },
+    {
+      "id": "yVX8KOTDE8U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Liqui AI",
+      "publishedAt": "2026-08-01T00:53:17Z",
+      "firstSeenAt": "2026-08-01T08:53:17Z"
+    },
+    {
+      "id": "FBpGiKDZlnI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WION",
+      "publishedAt": "2026-07-31T23:53:17Z",
+      "firstSeenAt": "2026-08-01T08:53:17Z"
+    },
     {
       "id": "-dXsBzU1-DU",
       "type": "short",
@@ -7649,6 +7689,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-01T08:53:17Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
