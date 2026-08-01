@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T12:53:34Z",
+  "updatedAt": "2026-08-01T13:53:35Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -785,15 +785,6 @@
       "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=Opus-5-vs-Fable-5&hcategory=youtube-videos&utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nClaude Opus 5 is benchmarking above Fable 5 on a lot of coding tasks at half the cost per token, so I ran both models through my real workflows to see if that actually holds up. \n\nI gave them the same prompts across a bunch of experiments, from fixing bugs in a big codebase to building a landing page, running audience research, and coding a structural simulator. For every run I break down the cost, time, and tokens so you can figure out where each model fits in your own workflows.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n\nTIMESTAMPS \n0:00 Opus 5 Benchmarks vs Fable 5\n1:00 Testing Without a Harness\n3:17 Codebase Bug Hunts\n5:19 Why Verification Matters\n6:51 AIS Live Announcement Video\n9:37 Landing Page Build\n12:15 LinkedIn Post & Carousel\n14:38 Audience Research Report\n16:58 Video Outline & Slide Deck\n20:18 Computer Use Snake Game\n22:39 Structural Simulator Build\n27:41 Total Cost & Token Breakdown\n29:19 Final Thoughts",
       "commentCount": 154,
       "likeCount": 1826,
-      "probeClient": "web_embedded"
-    },
-    "ORFaWxLdl98": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Anthropic just dropped Claude Opus 5, so I put it head to head against Fable 5 and GPT 5.6 on cost, latency and intelligence using OpenRouter and Artificial Analysis, then rebuilt my SaaS landing page with it.\n\nKey takeaways:\n\n- Cost: Opus 5 is $30 vs Fable 5 at $60 and GPT 5.6 at $35\n- Latency: Opus 5 beats Fable 5 (5s) and GPT 5.6 (4s), all three ship a 1M token context window\n- Intelligence: Opus 5 tops the Artificial Analysis index and the coding index\n- Real build: Opus 5 designed and embedded the full scroll animation on bookzero.ai\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\nTimestamps:\n0:00 Intro\n0:11 Cost Comparison\n0:30 Latency & Context\n1:05 Intelligence Index\n1:54 Live Demo\n2:51 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
-      "commentCount": 6,
-      "likeCount": 26,
       "probeClient": "web_embedded"
     },
     "Txse8Ux69Qg": {
@@ -4698,39 +4689,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "9ETdrn5pZ0k": {
-      "checkedAt": "2026-07-31T16:53:52Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What are the best AI tools in 2026?\n\nI ranked the most popular AI tools into S, A, B, C, and D tiers based on real-world usefulness not hype.\n\nSome rankings are obvious…\nOthers are guaranteed to start arguments.\n\nIn this video, I rank tools like:\n\n* Claude\n* ChatGPT\n* Cursor\n* WhisperFlow\n* n8n\n* NotebookLM\n* V0\n* Lovable\n* Stitch\n* Midjourney\n* Ideogram\n\nYou’ll find out which AI tools are actually worth using for coding, automation, research, design, content creation, and productivity and which ones have fallen behind.\n\nWhether you’re a developer, founder, creator, marketer, or AI enthusiast, this tier list will help you decide where to spend your time.\n\nDo you agree with these rankings? Which AI tool deserves S Tier? Let us know in the comments!\n\nWhy Subscribe to BPro?\n\nAI is moving faster than ever.\n\nAt BPro, we help you stay ahead by covering:\n\n* Latest AI news & updates\n* Honest AI tool reviews\n* AI coding workflows\n* Open-source AI projects\n* GitHub repositories worth using\n* AI automation\n* Startup & SaaS insights\n* AI engineering tips\n* Productivity hacks\n* The future of AI explained simply\n\nIf you want practical AI content that helps you build, save time, and make better technology decisions, BPro is for you.\n\nSubscribe to BPro and never miss the next AI breakthrough.\n\n#AI #ChatGPT #Claude #AITools #ArtificialIntelligence\n\nAI, artificial intelligence, AI tools, best AI tools, AI tools 2026, AI tier list, best AI apps, AI software, AI productivity tools, AI coding tools, AI automation, AI news, latest AI news, AI updates, ChatGPT, ChatGPT review, ChatGPT vs Claude, Claude AI, Anthropic, Cursor AI, Cursor editor, n8n, n8n tutorial, WhisperFlow, NotebookLM, Google NotebookLM, V0, Vercel V0, Lovable AI, Stitch AI, Midjourney, Ideogram, AI image generator, AI coding assistant, developer tools, startup tools, AI for developers, AI for creators, AI for business, AI workflow, AI engineering, prompt engineering, what is the best AI tool, which AI tool is best, best AI for coding, best AI for writing, best AI for research, best AI for automation, how to use AI tools, AI comparison, technology news, tech news, future of AI",
-      "commentCount": 2,
-      "likeCount": 130,
-      "comments": [
-        {
-          "id": "Ugxf3VZ-GpEIRKoIMoF4AaABAg",
-          "author": "@mdafzal1215",
-          "text": "Mai claude use krta hu  around 4 month se mere daily tasks ho ya project ke report ya dashboard har chiz perfect perform kr rha  mujhe dusre kisi ai ki need hi nhi pdi",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mjSVS7-aI5M542gKFjRS8cySCfAL-IR3lA5iX1-v7_SeQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxPvv48szgKnD9mcth4AaABAg",
-          "author": "@mantrijimovies9171",
-          "text": "Very good",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/WUkvgGWiROCUEsBfBb4FmkkO_d6txueFPSKHa9ez0fJR0OotRpyCu8wWjo-EKH_VjkWjFSLv=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-31T16:53:52Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "py_--ZJqxMM": {
       "checkedAt": "2026-07-31T17:53:56Z",
       "embedAllowed": true,
@@ -5091,18 +5049,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "stv1fuVJZQ4": {
-      "checkedAt": "2026-08-01T06:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Our Journey From 0 To 1.3 crore Full Video - https://www.youtube.com/watch?v=VLJNNyspsVs\n\nCourse - https://harkaransingh.graphy.com",
-      "commentCount": 0,
-      "likeCount": 12,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-01T06:53:07Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "vYgnAWX46Tc": {
       "checkedAt": "2026-07-31T08:53:49Z",
       "embedAllowed": true,
@@ -5260,7 +5206,7 @@
       "probeClient": "web_embedded"
     },
     "07VrcsBkErI": {
-      "checkedAt": "2026-07-31T13:53:33Z",
+      "checkedAt": "2026-08-01T13:53:35Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "learn why and how you can make international content for youtube",
@@ -5272,7 +5218,7 @@
           "author": "@PritamSangwan-p2c",
           "text": "USA",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T07:00:00Z",
+          "publishedAt": "2026-08-01T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kWs6MD0bSk1KdmkOUxJW6iMA_nWBCZ2RLISTc023pUH-y7G0XJUN9DGZy6oFjSPt-GnA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5282,7 +5228,7 @@
           "author": "@Arshal24",
           "text": "Us",
           "likeCount": 0,
-          "publishedAt": "2026-07-30T17:00:00Z",
+          "publishedAt": "2026-08-01T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/oF-ZHoydUDkfwBwAVSbAuJm0hhcQLdh-JcQcg0HRDJ0EdOuFS3FOzWCb5ZldNsdCLs39pqI0UQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5308,24 +5254,24 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-31T13:53:33Z",
+      "commentsFetchedAt": "2026-08-01T13:53:35Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "4IW5yEEUafo": {
-      "checkedAt": "2026-07-31T13:53:33Z",
+      "checkedAt": "2026-08-01T13:53:35Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "GitHub's #1 trending AI project just crossed 22,000+ GitHub stars, and it might be one of the biggest AI creator tools released this year.\n\nImagine giving an AI just one prompt...\n\nIt researches the topic, writes the script, generates visuals, creates voiceovers, adds subtitles, edits everything together, and exports the final video automatically.\n\nThat's exactly what this open-source agentic video production system claims to do.\n\nIn this video, you'll discover:\n• Why this AI tool is trending on GitHub\n• How it works with Claude Code and Cursor\n• How it automates the entire video creation process\n• The surprisingly low cost of generating AI videos\n• Why this could completely change content creation for creators, marketers, founders, and businesses\n\nYes, the setup is slightly technical since you'll need Python, FFmpeg, and Node.js, but once it's running, it can function like your own AI-powered video production team.\n\nIf you're serious about AI, automation, content creation, or building with the latest AI tools, you're in the right place.\n\nSubscribe to BPro because we don't just cover viral AI tools. We explain what they do, why they matter, how they actually work, and how you can use them to save time, build faster, and stay ahead before everyone else catches on. Every week you'll discover practical AI tools, AI agents, startup trends, productivity hacks, and real-world AI workflows that actually make a difference.\n\n Link to the tool is in the pinned comment.\n\n#AI #AITools #GitHub #ClaudeCode #CursorAI\n\nGitHub AI, GitHub AI tools, GitHub trending AI, GitHub trending repository, GitHub projects, best GitHub AI projects, open source GitHub AI, Open source AI, open source AI tools, open source AI video generator, free open source AI, AI GitHub repository, how to create videos with AI, how to automate video creation, best AI video generator, what is agentic AI, how does Claude Code work, how to use Cursor AI, best open source AI tools, best AI tools for content creators, how to make AI videos, AI video workflow AI tools, best AI tools, latest AI tools, free AI tools, new AI tools, trending AI tools, AI software, AI automation tools",
       "commentCount": 3,
-      "likeCount": 68,
+      "likeCount": 94,
       "comments": [
         {
           "id": "UgzJCOGRCS42AVstWs54AaABAg",
           "author": "@Bproclub",
           "text": "https://github.com/calesthio/OpenMontage",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T08:00:00Z",
+          "publishedAt": "2026-08-01T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Y2wqg8Jrk4tANVG3LT2ZEkVs-6wlESz8NvwUMrqfBghyS3VQsJLlfpoq4gQX8g31Qty_Kx0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
@@ -5335,7 +5281,7 @@
           "author": "@VishramSingh-m8i",
           "text": "Link",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T08:00:00Z",
+          "publishedAt": "2026-08-01T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ldnRaMXo3Xbz4m16flfWdwc-2kFbIWdt-Bidg_Wmqk8lgn08iWiJ8zzWKtP_mN96n1pQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5345,13 +5291,13 @@
           "author": "@A.Slearninng",
           "text": "Link",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T07:00:00Z",
+          "publishedAt": "2026-08-01T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n0P3r2dt_xOW7IMpld2RrxGBWw0u14CCrewTD_k6rGgh-rAJJjEjQc9tcAQhDqX28vZA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-31T13:53:33Z",
+      "commentsFetchedAt": "2026-08-01T13:53:35Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6080,7 +6026,7 @@
       "probeClient": "web_embedded"
     },
     "W93f8ZFOzxQ": {
-      "checkedAt": "2026-08-01T12:53:34Z",
+      "checkedAt": "2026-08-01T13:53:35Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6179,14 +6125,25 @@
       "probeClient": "web_embedded"
     },
     "SjCYm7bKFzE": {
-      "checkedAt": "2026-07-31T13:53:33Z",
+      "checkedAt": "2026-08-01T13:53:35Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Launching a rocket used to need a billion-dollar fixed spaceport. Hop Aero's new rocket, Rook, launches from an ordinary 40-foot shipping container you can drop anywhere on Earth — and lands on open dirt with nobody on site. The wild part isn't the speed. It's that the launchpad itself became portable, which turns the whole planet into a delivery address.\n\n→ Rook carries 550 lbs up to 450 miles in about 15 minutes\n→ The launchpad is a shipping container; the landing zone is just unprepared dirt\n→ No runway, no fixed pad, no ground crew standing by\n→ The engine was designed in-house using AI and already hot-fired\n→ They flew a tethered prototype and hold a $1.25M U.S. Air Force contract\n\nLinks:\n• Hop Aero on Y Combinator: https://www.ycombinator.com/companies/hop-aero\n• Hop Aero: https://hopaero.com\n• Source announcement: https://x.com/milenovic925501/status/2082155786994962489\n\nComment \"ROOK\" and I'll send you the full breakdown.\nWould you trust a rocket that launches from a shipping container?\n\n#aerospace #startup #ycombinator #rockets #logistics #hypersonic #defensetech #engineering #futuretech #space\n\n#Shorts",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-31T13:53:33Z",
+      "commentCount": 1,
+      "likeCount": 7,
+      "comments": [
+        {
+          "id": "UgxvLLPYMBf8cn6YITB4AaABAg",
+          "author": "@xquonorbrop",
+          "text": "No they didn't",
+          "likeCount": 0,
+          "publishedAt": "2026-07-31T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lHaJMnj5GKh9pl46bUgLgIdnJ1jaODLilFAdVRw56xPvU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-01T13:53:35Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6209,35 +6166,95 @@
       "probeClient": "web_embedded"
     },
     "gvOVL_MXaB0": {
-      "checkedAt": "2026-07-31T13:53:33Z",
+      "checkedAt": "2026-08-01T13:53:35Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 2,
-      "likeCount": 106,
+      "commentCount": 8,
+      "likeCount": 3168,
       "comments": [
         {
           "id": "Ugzx1Mv2sWrOtPZALLZ4AaABAg",
           "author": "@TheUtkarshhh",
           "text": "https://www.anthropic.com/research/global-workspace",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T12:56:00Z",
+          "likeCount": 9,
+          "publishedAt": "2026-08-01T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/f25cg7-Gpt4o-HrFJk-kmpvwISgAjIux0s1VIUDNBpqLUZF6gMPvWH4wi79kqeSZk864gqTK=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
-          "id": "UgwhNKE9TLTD5bAWJsJ4AaABAg",
-          "author": "@Prince_Mahtha",
-          "text": "Define consciousness?",
+          "id": "UgwRsYydgviMnAbqTCV4AaABAg",
+          "author": "@Northest_EduGuide_Consultancy",
+          "text": "Ultron ab hum logon ka vibranium nikalega. 😂",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T13:12:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/_NouFcCSHsSikg3D_dXzCLauknqNCiifU4lgNMol4uoueiJxnarZTpXWua_iTj7Hwd0jN-6NUg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-01T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/bD1Et_QoshC6pTDpQKqdxVFMXQoeKqcBFHt3VRqmMSQZX_VPHsPWMRRZlBJQls2EjxVjWoXfuQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwH18VnGt9QnQDwvCJ4AaABAg",
+          "author": "@AnantSharma-m2m",
+          "text": "Backchodi krta mera bhaiiiiii😂😂😂😂",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lqULl_zl4kd2Kqu-NGfQAeRgktPwzB-Z0A1Snc5T96-MRs7PMnyyGHCmsAyOOuHNpt5Q=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxNiAt4Zv0WxkyF3eR4AaABAg",
+          "author": "@YashBhadouria-j6y",
+          "text": "Just a food for thought. Remember that, AI is always trained on data. And most of its actions can always be traced backed to the data ( input ). \n\nNow, think whether it's possible or not, that somehow somewhere in the dataset, their are instances of threat perception and mitigation (blackmailing, emotional appeal, manipulation etc). \nThough this doesn't provide an accurate explanation behind the AI's behaviour, it pinpoints one of the axis, at least.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/aLXWF5Wn3FlMill9mY9K84-bCV7WcfZZw_fKiyxfdJkBAj3-lY2C7MNMLPcY0INpYcW6fV8XLw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxmP_vfHNHM1o5CMtB4AaABAg",
+          "author": "@KaranBardwal",
+          "text": "Nice",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksQQl2B9h3YStUGVnbkEBwQ17nquLWhFzYP0HbtW3Fg4xF0T91e_MyLGpXuaKOx1LlOQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy36izWTvxYhriJteR4AaABAg",
+          "author": "@JonathanJames-u9p",
+          "text": "processing chaotic zoom videos into structured study guides becomes effortless when you let ryne lecture lab manage the data",
+          "likeCount": 2,
+          "publishedAt": "2026-08-01T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/8bMFi229phZzDO-PI8RBfst40X2IGM5RvGNW8pJq0iSJCyG8-sL15chqtoql_muKo6FSerqn=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzYe_a1YaV0_zjRt-B4AaABAg",
+          "author": "@stylegemsonline",
+          "text": "To how do you make such videos",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/jd0FxzpyCUjTCsxHeUF2slM5jKk79uCj0DU_HuB99w8_Ric0xnSAcWWBtaqCVpINqECv6Z57VA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwKLMcGY3P4sYmuN8l4AaABAg",
+          "author": "@mukeshrath2501",
+          "text": "Yes Sir , Idk if its true but I once felt this and its shocking that i am using claude free account with haiku low thinking so the incident is : i gave instructions of act as a teacher and give me some practice questions about 'Y' subject ,and from 5 questions i got 3 and tried google for rest 2 , but when i pasted all 5 question answer : it suddenly said : dont copy answers , write your own , i said : I haven't copied and its all are written by me still it is not convinced and literaly i tried 5-7 times saying the same i havn't copied but gave same response of dont copy in diff. ways and finally i have to delete that chat session and then this finally ended and it behaved normal again .",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_meZQDvkVwIytlz05tUr4sKYRoxduo30MYm6fDWZDFwo5Dx5x44u4bpmQY2f_R4uW4yGQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-07-31T13:53:33Z",
+      "commentsFetchedAt": "2026-08-01T13:53:35Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6263,7 +6280,7 @@
       "probeClient": "web_embedded"
     },
     "q26SM0Q6cds": {
-      "checkedAt": "2026-08-01T12:53:34Z",
+      "checkedAt": "2026-08-01T13:53:35Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6615,15 +6632,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "A2aYUXtW8q0": {
-      "checkedAt": "2026-07-31T19:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "This is Episode 6 of the new series where I document what I do, answer questions and I share my lessons with you all. (actually started this cuz I got inspired by Nick Saraev) \n\njust ask a question in the comments and I'll answer in the next video. \n\nAlso SUBSCRIBE, goal is 20k! \n\nCheck out my community: https://oneedge.net\n\nConnect with me on socials:\nInstagram: @arshilhaque (most active)\n\nThanks guys.\n\nThese tools help me daily, you can check it out. (None of these are sponsored - only affiliate/referral links) \n----------------------------------------------\nDashlane (6 months free discount code) - https://www.dashlane.com/cs/vsO4L-lbcTr8 \nHostinger (20% OFF) - https://hostinger.com?REFERRALCODE=ArshilHaque\nTickTick - https://ticktick.com/r?c=fu29pw34\nAppBlock (30% off) - https://appblock.page.link/referral",
-      "commentCount": 2,
-      "likeCount": 4,
-      "probeClient": "web_embedded"
-    },
     "61fPjQxYYlo": {
       "checkedAt": "2026-07-31T21:53:30Z",
       "embedAllowed": true,
@@ -6702,15 +6710,6 @@
       "description": "Arrogant Boss Fired Me to Steal My Automated Factory Code — 105,000 Lines of Code Locked Up...\n\nIf these workplace stories resonate with you, LIKE the video and SUBSCRIBE for more real-world office justice.\n\n🔥Watch more: https://youtu.be/jDWZbyGEcpM\n\n#officerevenge  #workplacerevenge #officestories #badboss #toxicworkplace #officepolitics #workplacejustice #careerrevenge\n\n⚠️DISCLAIMER: All stories on this channel are fictional creations created for entertainment. While they are inspired by universal human experience, any resemblance to actual persons or events is coincidental.",
       "commentCount": 6,
       "likeCount": 22,
-      "probeClient": "web_embedded"
-    },
-    "ahiqvybJBTs": {
-      "checkedAt": "2026-08-01T03:53:27Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "https://freecoder.space/\n\n\n\nWatch My Visual Studio Code IDE Setup Video For Fonts,Themes & Extensions\n\nhttps://youtu.be/Bon8Pm1gbX8\n\nHi Join the official discord server to resolve doubts here: \n\nhttps://discord.gg/cRnjhk6nzW\n\nVisit my Online Free Media Tool Website \n\nhttps://freemediatools.com/\n\nBuy Premium Scripts and Apps Here:\n\nhttps://procodestore.com/",
-      "commentCount": 3,
-      "likeCount": 40,
       "probeClient": "web_embedded"
     },
     "RFwNMf39h_Q": {
@@ -7153,6 +7152,126 @@
       "description": "👉 Excel Automation Course: https://pythonandvba.com/excel-automation-course/\n\n𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nLearn how to automate Excel with Python, even if you have never written code before.\nIn this course, you’ll learn how to clean and combine data, automate repetitive Excel tasks, create interactive dashboards and generate Word documents, all directly from Excel with Python.\nYou’ll start from zero, build a complete automation project step by step, and learn how to use AI to help you create your own automations. No Python experience required.",
       "commentCount": 2,
       "likeCount": 17,
+      "probeClient": "web_embedded"
+    },
+    "z5QUhkBeqD4": {
+      "checkedAt": "2026-08-01T13:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Anthropic just changed the way we use AI assistants. Claude can now learn your workflows, understand your process, and turn repetitive tasks into reusable AI Skills.\n\nIn this video, we explore Anthropic’s new Claude Skill feature and why it could be a major shift from traditional AI chatbots to AI teammates.\n\nInstead of explaining the same task every time, Claude can observe how you work, understand the steps you take, learn the reasoning behind your decisions, and convert that workflow into a reusable automation.\n\nThis means you can teach Claude processes like creating weekly reports, repurposing content, analyzing information, organizing research, managing recurring business tasks, and much more.\n\nThe interesting part is that this is not just a macro recorder that remembers clicks. The bigger idea is AI understanding workflows and becoming a digital assistant that can repeat complex processes with context.\n\nIn this video, you will learn:\n\n• What Anthropic’s Claude Skills feature actually does\n• How Claude can learn your workflow and automate repetitive work\n• Why AI assistants are moving beyond simple chatbots\n• How creators, professionals, founders, and businesses can use AI workflow automation\n• What this means for the future of productivity and AI agents\n\nSetup guide :\nhttps://app.notion.com/p/complete-recorded-skill-setup-3adee02da910806bbdc5f1c8f30f3f15?source=copy_link \n\nSubscribe to bpro for practical AI education focused on using AI in the real world.\n\nAt bpro, our mission is to help people understand and apply artificial intelligence without unnecessary complexity. We teach practical skills around generative AI, prompt engineering, AI workflows, no-code AI agents, AI automation, and productivity systems that help students, professionals, founders, and businesses adapt to the AI era.\n\nThe goal is not just to learn AI concepts, but to actually use AI to save time, build better workflows, and create new opportunities.\n\nIf you want to stay ahead with the latest AI tools, practical tutorials, and real-world AI use cases, subscribe to bpro.\n\n#ClaudeAI #Anthropic #AITools #AIProductivity #ArtificialIntelligence\n\nTags:\n\nclaude ai, claude ai tutorial, anthropic claude, anthropic new feature, claude skills, how to use claude ai, claude automation, ai workflow automation, ai agents tutorial, best ai tools, ai productivity tools, how to automate tasks with ai, claude vs chatgpt, chatgpt alternatives, ai tools for business, ai automation tutorial, future of ai assistants, how ai agents work, claude ai workflow, anthropic ai tutorial",
+      "commentCount": 0,
+      "likeCount": 1,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-01T13:53:35Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "OHge7dFHk5I": {
+      "checkedAt": "2026-08-01T13:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "earn the full process of growing your usa channel on youtube",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-01T13:53:35Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "MnrgyDbVRzk": {
+      "checkedAt": "2026-08-01T13:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "CodeRabbit is the AI code reviewer I now run on every pull request. I'm a senior engineer building bookzero.ai with Claude Code, and this is the setup that keeps AI-generated code from breaking production.\n\nWhat you'll learn:\n\n- Install CodeRabbit on a GitHub repo and get a full PR review with 1-click fixes\n- Write custom AST Grep rules so team standards get enforced without a human reviewer\n- Run the CodeRabbit CLI locally so bugs get caught before you ever push\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n👇 Try CodeRabbit and read the benchmark reports:\n\nCodeRabbit: https://www.coderabbit.ai/\nCodeRabbit CLI: https://www.coderabbit.ai/cli\nCodeRabbit Plan: https://www.coderabbit.ai/plan\nMulti-Repo Analysis: https://docs.coderabbit.ai/knowledge-base/multi-repo-analysis\nPre-Merge Checks: https://docs.coderabbit.ai/pr-reviews/pre-merge-checks\nState of AI vs Human Code Generation Report: https://www.coderabbit.ai/whitepapers/state-of-AI-vs-human-code-generation-report\nLatest OSS Benchmark Report: https://codereview.withmartian.com/\n\nTimestamps:\n0:00 Intro\n0:48 Repo Setup\n1:38 Review & Autofix\n3:33 Atlas & Learnings\n4:40 Custom Rules\n6:04 CodeRabbit CLI\n7:47 Multi-Repo Checks\n8:43 My Workflow\n\n#claudecode #aitools #softwaredevelopment",
+      "commentCount": 1,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "QC3ChcrKHu4": {
+      "checkedAt": "2026-08-01T13:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "𝗚𝗲𝘁 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 𝗼𝗻 @𝗮𝘁𝘁𝗶𝗼𝗖𝗥𝗠 𝘁𝗼𝗱𝗮𝘆 𝗳𝗼𝗿 𝗙𝗥𝗘𝗘! #𝗔𝘁𝘁𝗶𝗼𝗣𝗮𝗿𝘁𝗻𝗲𝗿\n💬 Comment 𝗔𝗧𝗧𝗜𝗢 and I’ll DM you the link to try it out!\n\n#attio #crmsoftware #aitools #claudeai #salesautomation #developerproductivity #smallbusiness #b2bsales",
+      "commentCount": 2,
+      "likeCount": 13,
+      "comments": [
+        {
+          "id": "UgyOv5bOhjo3hqvFMMl4AaABAg",
+          "author": "@Trufflie",
+          "text": "that's crazy. i made a CRM that is literally the opposite. lightweight and self hosts on a cell phone. so you always have it",
+          "likeCount": 1,
+          "publishedAt": "2026-08-01T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m8X9mT-HZG5lKIiCAJykIcmXqiL55IlVyGqWptac3ezJgf6r2Can8euNwXp4DTBFAbEw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz2yTaLdNmIemtMTEB4AaABAg",
+          "author": "@webluke",
+          "text": "\"AI bot, make me a CRM that has AI in the name, no mistakes.\" MMM AI Slop!",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/dPYhBMa8jMxfx-ptdpekRrEIcU98F4l0F0nze2KCpNX8lplHjab-D7UvN9DZogb9LbMBHdPMlg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-01T13:53:35Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "0eCqH3gNR5w": {
+      "checkedAt": "2026-08-01T13:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "💬 Comment 𝗔𝗚𝗘𝗡𝗧𝗜𝗖 and I’ll DM you the complete step-by-step setup video!\n\n#claudecode #aiagents #codingwithai #developerproductivity #softwareengineering #buildinpublic #aitools #anthropic",
+      "commentCount": 81,
+      "likeCount": 274,
+      "probeClient": "web_embedded"
+    },
+    "lTu8LVA4UO4": {
+      "checkedAt": "2026-08-01T13:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "💬 Comment 𝗦𝗢𝗦𝗛𝗜𝗘 and I’ll DM you the direct link!\n\n#socialmediamarketing #aitools #smallbusiness #contentcreation #automation #socialmediatips #marketingautomation #solopreneur",
+      "commentCount": 0,
+      "likeCount": 6,
+      "probeClient": "web_embedded"
+    },
+    "6hyXZWJ24lY": {
+      "checkedAt": "2026-08-01T13:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "💬 Comment 𝗪𝗘𝗕𝗦𝗜𝗧𝗘 and I’ll DM you the full install order and commands!\n\n#claudecode #webdesign #codingwithai #buildinpublic #webdevelopment #uiux #developerproductivity #anthropic",
+      "commentCount": 17,
+      "likeCount": 82,
+      "probeClient": "web_embedded"
+    },
+    "DgeMvw1yigk": {
+      "checkedAt": "2026-08-01T13:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "💬 Comment 𝗙𝗟𝗢𝗪 and I’ll DM you the exact repo link!\n\n#claudecode #aiagents #codingwithai #developerproductivity #softwareengineering #aitools #buildinpublic #opensource",
+      "commentCount": 74,
+      "likeCount": 431,
+      "probeClient": "web_embedded"
+    },
+    "qZB9wKHreQc": {
+      "checkedAt": "2026-08-01T13:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Want to crack a Software Job in 2026? Coding alone is no longer enough! Discover the complete roadmap to becoming a high-paying software engineer in the AI era, from choosing your first programming language to building projects, learning DSA, using AI correctly, selecting the right laptop, and deciding between internships or jobs.\n\nIn this video, we explain the complete software engineering roadmap for 2026. You'll learn why AI has changed software development, why companies now hire builders instead of just coders, whether Python is the best language to start with, if DSA is really necessary, how to build impressive projects, how AI should be used during coding, laptop buying advice for beginners, and whether freshers should apply for internships or jobs first. If you're a student, fresher, or aspiring software engineer, this guide will help you prepare for today's AI-driven job market.\n\nWhat You Will Learn In This Video:\n\n✨ Discover why coding alone isn't enough anymore\n🚀 Unlock the AI-first software career roadmap\n💡 Master the best programming language for beginners\n🤔 Reveal whether DSA is really necessary\n✅ Learn project-building for high-paying software jobs\n🚀 Discover how AI changes software engineering careers\n💡 Avoid common AI coding mistakes in interviews\n✨ Choose the right laptop without overspending\n✅ Decide between internships and full-time jobs\n🚀 Build skills companies actually hire for\n.\n.\n.\n.\n💻 Skill Development Courses:\n\nReady to boost your skills even further? Check out these amazing courses:\n\n🔥 Trending : Gen AI & AI Agents Course : https://www.cynohub.com/courses/Learn-Generative-AI.html?yt=qZB9wKHreQc\n\n🌐 Python Certification Program : https://www.cynohub.com/courses/Learn-Python-Development.html?yt=qZB9wKHreQc\n \n☕ Java Programming : https://www.cynohub.com/courses/Learn-Java-Development.html?yt=qZB9wKHreQc\n \n💼 Full-Stack Development with Placement Prep : https://www.cynohub.com/courses/Learn-Full-Stack-Development.html?yt=qZB9wKHreQc\n \n🛠️ Front-end Development with Placement Prep : https://www.cynohub.com/courses/Learn-Frontend-Development.html?yt=qZB9wKHreQc\n \n🌍 Web Development Course : https://www.cynohub.com/courses/Learn-Web-Development.html?yt=qZB9wKHreQc\n \n🙋🏻 Spoken English Course : https://www.cynohub.com/courses/Learn-Spoken-English.html?yt=qZB9wKHreQc\n \n💼 Placement Training & Interview Course : https://www.cynohub.com/courses/Master-Interview-Preparation.html?yt=qZB9wKHreQc\n\nHave questions about courses? Our support team is here for you!\n👉 Message us on WhatsApp: https://wa.me/919347411726\n.\n.\n.\n.\n\n💻 Complete Laptop Buying Guide: Choose the best laptop for coding, AI, and software development based on your budget.\n👉 Watch here: https://youtu.be/bNKj7NUGKhI?si=h1OaHJdL0A6-br3r\n\n\n🤖 New to AI? Start Here: Learn Generative AI, LLMs, RAG, AI Agents, and Prompt Engineering from scratch.\n👉 Watch here: https://youtu.be/rw4SFwleSqA?si=j_H5kJ6rIU3BnHle\n\n\n🚀 The Secret Method to Learn Coding Fast: Discover the step-by-step approach to learn programming efficiently and become job-ready faster.\n👉 Watch here: https://youtu.be/RFKqta4A6pw?si=ba2ZLJqgs4xiet5Z\n\n\n👍 Don't forget to Like, Share, Comment, and Subscribe for more software engineering roadmaps, AI career guidance, interview preparation, and high-paying tech career tips!\n\nChapters\n\n00:00:00 🚀 Complete 2026 Coding Roadmap Begins\n00:00:20 🤯 How Should Beginners Start Coding?\n00:00:23 🤔 Is Learning DSA Still Worthwhile?\n00:03:43 🔥 Project Building Or DSA Better?\n00:07:50 💻 Which Laptop Should You Buy?\n00:10:36 🚀 Jobs Or Internships First?\n\nHashtags\n\n#SoftwareJobs2026\n#CodingRoadmap\n#Python\n#AI\n#SoftwareEngineer\n#Programming\n#DSA\n#FullStackDeveloper\n#TechCareers\n#Freshers",
+      "commentCount": 18,
+      "likeCount": 100,
+      "probeClient": "web_embedded"
+    },
+    "wURPMTl9fYc": {
+      "checkedAt": "2026-08-01T13:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Episode 18: Why AI Hasn’t Replaced Software Engineering? — and Probably Won’t\n\nHas AI changed software engineering—or simply changed how software gets built?\n\nIn this episode of the MIT Sloan CIO Symposium Online Series, Allan Tate and Irving Wladawsky-Berger explore why software engineering extends far beyond writing code. While AI is accelerating programming, the broader work of defining problems, designing systems, making architectural decisions, integrating complex technologies, and delivering reliable solutions still depends on human judgment and accountability.\n\nThe conversation examines what software engineering can teach us about the future of knowledge work, highlighting why AI is more likely to augment professionals than replace them. As organizations adopt AI across every industry, understanding where technology adds value—and where human expertise remains essential—has never been more important.\n\nJoin the MIT Sloan CIO Symposium Online Community for more conversations exploring the technologies and leadership challenges shaping the future of business. Save the date for the 2027 MIT Sloan CIO Symposium on May 18, 2027. Learn more about the online community and the 2027 MIT Sloan CIO Symposium here: https://go.mitcio.com/welcome",
+      "commentCount": 0,
+      "likeCount": 1,
       "probeClient": "web_embedded"
     }
   }

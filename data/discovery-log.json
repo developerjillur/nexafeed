@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T12:53:34Z",
+  "updatedAt": "2026-08-01T13:53:35Z",
   "items": [
+    {
+      "id": "OHge7dFHk5I",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-01T13:38:09Z",
+      "firstSeenAt": "2026-08-01T13:53:35Z"
+    },
+    {
+      "id": "z5QUhkBeqD4",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-01T13:00:59Z",
+      "firstSeenAt": "2026-08-01T13:53:35Z"
+    },
+    {
+      "id": "MnrgyDbVRzk",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-01T13:00:35Z",
+      "firstSeenAt": "2026-08-01T13:53:35Z"
+    },
+    {
+      "id": "qZB9wKHreQc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CynoHub",
+      "publishedAt": "2026-08-01T11:53:35Z",
+      "firstSeenAt": "2026-08-01T13:53:35Z"
+    },
+    {
+      "id": "wURPMTl9fYc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "MIT Sloan CIO Symposium Videos",
+      "publishedAt": "2026-07-31T18:53:35Z",
+      "firstSeenAt": "2026-08-01T13:53:35Z"
+    },
     {
       "id": "TyB7kLZPVKo",
       "type": "long",
@@ -7878,6 +7918,15 @@
       "channelsChecked": 33,
       "warnings": 1,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-01T13:53:35Z",
+      "new": 10,
+      "long": 3,
+      "shorts": 7,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
