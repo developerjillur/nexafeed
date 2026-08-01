@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T06:53:07Z",
+  "updatedAt": "2026-08-01T07:53:12Z",
   "items": [
+    {
+      "id": "-dXsBzU1-DU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-01T07:09:19Z",
+      "firstSeenAt": "2026-08-01T07:53:12Z"
+    },
+    {
+      "id": "QC3ChcrKHu4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-01T07:01:43Z",
+      "firstSeenAt": "2026-08-01T07:53:12Z"
+    },
+    {
+      "id": "lBGVsMEJkc8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-01T06:55:33Z",
+      "firstSeenAt": "2026-08-01T07:53:12Z"
+    },
+    {
+      "id": "A9NNHf4nOX0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nick Saraev Daily Updates",
+      "publishedAt": "2026-07-31T18:53:12Z",
+      "firstSeenAt": "2026-08-01T07:53:12Z"
+    },
     {
       "id": "R6anmE7sJmk",
       "type": "short",
@@ -7608,6 +7640,15 @@
       "channelsChecked": 33,
       "warnings": 33,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-01T07:53:12Z",
+      "new": 4,
+      "long": 1,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
