@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-01T04:53:30Z",
+  "updatedAt": "2026-08-01T05:53:30Z",
   "items": [
+    {
+      "id": "xuXFt2_ZBms",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Joshua Mba",
+      "publishedAt": "2026-08-01T04:57:30Z",
+      "firstSeenAt": "2026-08-01T05:53:30Z"
+    },
+    {
+      "id": "gFCLA27WdMM",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Graga Tech ",
+      "publishedAt": "2026-08-01T02:53:30Z",
+      "firstSeenAt": "2026-08-01T05:53:30Z"
+    },
+    {
+      "id": "lFhCIRgUUEI",
+      "type": "short",
+      "source": "secondary",
+      "channel": "America's Best Shops",
+      "publishedAt": "2026-07-31T22:53:30Z",
+      "firstSeenAt": "2026-08-01T05:53:30Z"
+    },
+    {
+      "id": "FZLfIF6H0Us",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Power Source: Generator Marketing Solutions",
+      "publishedAt": "2026-07-31T19:53:30Z",
+      "firstSeenAt": "2026-08-01T05:53:30Z"
+    },
     {
       "id": "RFwNMf39h_Q",
       "type": "short",
@@ -7534,6 +7566,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-01T05:53:30Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 15,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
