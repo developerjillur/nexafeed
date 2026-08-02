@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T07:53:31Z",
+  "updatedAt": "2026-08-02T08:53:32Z",
   "items": [
+    {
+      "id": "W2xCO5EICDM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-02T08:34:28Z",
+      "firstSeenAt": "2026-08-02T08:53:32Z"
+    },
+    {
+      "id": "67VFCBoiss8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Parikh Jain",
+      "publishedAt": "2026-08-02T05:53:32Z",
+      "firstSeenAt": "2026-08-02T08:53:32Z"
+    },
+    {
+      "id": "H_HjjSow69M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Cloud Codes",
+      "publishedAt": "2026-08-01T19:53:32Z",
+      "firstSeenAt": "2026-08-02T08:53:32Z"
+    },
+    {
+      "id": "fdvOPvuctb8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AIM Network",
+      "publishedAt": "2026-08-01T15:53:32Z",
+      "firstSeenAt": "2026-08-02T08:53:32Z"
+    },
     {
       "id": "4mV2nvS9JjM",
       "type": "short",
@@ -8607,6 +8639,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-02T08:53:32Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
