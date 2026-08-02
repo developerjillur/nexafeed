@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T14:53:36Z",
+  "updatedAt": "2026-08-02T15:53:14Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -917,15 +917,6 @@
       "description": "Hey everyone, In this video, we are going to talk about Thundering Herd Problem. We will understand what Thundering Herd Problem is and how to solve it. We will also talk about solutions such as adding jitter, cache inflight requests etc.\n\nCheckout My Courses:\n- Master Docker Containerization: https://pro.piyushgarg.dev/learn/docker\n- Master DSA with Java: https://piyushgarg.pro/udemy-java-dsa\n- Master GenAI with Python: https://piyushgarg.pro/udemy-genai\n- Master Backend with NodeJS: https://piyushgarg.pro/udemy-nodejs\n\nFollow Me:\n- Instagram: https://www.instagram.com/piyushgarg.official\n- X (Formerly Twitter): https://x.com/piyushgarg_dev\n- Personal Website: https://www.piyushgarg.dev\n- LinkedIn: https://www.linkedin.com/in/piyushgarg195\n\nFounder / Creator of:\n- Teachyst: https://www.teachyst.com\n- WisprType: https://wisprtype.com\n- SkyPing: https://skyping.app\n\nMy Gears:\n- Standing Desk: https://amzn.to/4cUN6PL\n- Chair: https://amzn.to/429Q38S\n- MacBook Pro: https://amzn.to/4djTYGf\n- Keyboard: https://amzn.to/4w228KQ\n- Mouse: https://amzn.to/42Hxw3J\n\nVideo Titles\n- What is Thundering Herd Problem?\n- Thundering Herd Problem in System Design\n- System Design for Beginners.\n\nHashtags\n#nodejs #javascript #webdevelopment #systemdesign #backenddeveloper #fullstackwebdevelopment #javascript #coding #programming #systemdesign #htmlcss #webdevelopment",
       "commentCount": 17,
       "likeCount": 348,
-      "probeClient": "web_embedded"
-    },
-    "c-dfy353364": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Higgsfield Shorts Studio - https://higgsfield.ai/?fpr=greg12",
-      "commentCount": 1,
-      "likeCount": 9,
       "probeClient": "web_embedded"
     },
     "Joqh7Tui9B8": {
@@ -5589,19 +5580,29 @@
       "probeClient": "web_embedded"
     },
     "c_fP7hu9v-8": {
-      "checkedAt": "2026-08-01T15:53:05Z",
+      "checkedAt": "2026-08-02T15:53:14Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "learn the full process making cartoon video with one prompt",
-      "commentCount": 2,
-      "likeCount": 22,
+      "commentCount": 3,
+      "likeCount": 31,
       "comments": [
+        {
+          "id": "Ugx5zfhPu68MLVdMk8p4AaABAg",
+          "author": "@HS.docs0.1",
+          "text": "Proces",
+          "likeCount": 0,
+          "publishedAt": "2026-08-01T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/cvtSkzQML1SfbY0Aq4zsqtt5tHxV2Sb5qySXIPe-iRW2OfmdEXIyr8V0CHwG3yb2VZlcHvWMcw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgzDhTm5ittlvh2t0B94AaABAg",
           "author": "@AWKhan-yn1bx",
           "text": "Process",
           "likeCount": 0,
-          "publishedAt": "2026-08-01T14:00:00Z",
+          "publishedAt": "2026-08-02T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nfoXQGLbpRZbKkatCfyVf9aLDCsAUEIX1_lefgvnc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -5611,18 +5612,18 @@
           "author": "@SanaZafar-dm3vn",
           "text": "Process",
           "likeCount": 0,
-          "publishedAt": "2026-07-31T22:00:00Z",
+          "publishedAt": "2026-08-02T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mA5iYFWQWr-erQfOrpRSPi7uAL1ykOBKRSbPBDp88Z1xyBT7Je5IKp6_AckwgwsDEc-Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-01T15:53:05Z",
+      "commentsFetchedAt": "2026-08-02T15:53:14Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "q26SM0Q6cds": {
-      "checkedAt": "2026-08-02T14:53:36Z",
+      "checkedAt": "2026-08-02T15:53:14Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7004,7 +7005,7 @@
       "probeClient": "web_embedded"
     },
     "X6U0U8BwAao": {
-      "checkedAt": "2026-08-02T14:53:36Z",
+      "checkedAt": "2026-08-02T15:53:14Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7171,15 +7172,6 @@
       "likeCount": 24,
       "probeClient": "web_embedded"
     },
-    "gOd_QxYkOn4": {
-      "checkedAt": "2026-08-01T17:53:22Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "► Register here to join YouTube Automation LIVE FREE Masterclass.\nhttps://www.saadrashid.net/masterclass\n\n► Download Wondershare Filmora for PC/Android/iOS for Content Creation:\n https://bit.ly/4g23vmK\n\n► Get Lifetime Plan for AI Voiceovers from Speaksay:\nhttps://www.speaksay.com\n\n► Buy Tools on Partner Rate From Syne Digitals (PROMO CODE: SAAD10)\nhttps://www.synedigitals.com | +92 310 1922320\nhttps://whatsapp.com/channel/0029VbBUUlJKgsNoEnx2bk1V\n\n► Try VidIQ in $1 for Amazing Titles & Thumbnails:\nhttps://www.vidiq.com/saad\n\n► Learn YouTube Automation From Saad Rashid:\n(Talk to My Team on WhatsApp)\nhttps://wa.link/1bi21h | +92 336 3668070\n\n► Join Our WhatsApp Channel for Quick Updates\nhttps://whatsapp.com/channel/0029VaCtUgsHrDZjDLK4CQ0w\n\n► Join YouTube Automation Mentorship Program at 50% Discount:\n[With 10 Premium Bonuses]\nhttps://www.saadrashid.net\n\n► Join The Biggest YouTube Automation Community on Facebook\nhttps://bit.ly/49ZrygP\n\n------------------------------------------\n\n“Saad Rashid” is the pioneer YouTube channel of Pakistan, which started talking about YouTube Automation and Faceless Channels back in 2022.\n\nHere, we talk about all of the AI tools used for content creation of faceless youtube channels.\n\nSubscribe if you want to be a faceless YouTube Creator.\n\nوَتُعِزُ مَن تَشَاء وَتُذِلُ مَن تَشَاء\n\n\n-------------------------------------------\n\nCONNECT ON OTHER NETWORKS:\n\nhttps://www.linkedin.com/in/saadrashid365 \nFacebook: https://www.facebook.com/thesaadrashid\nInstagram: https://www.instagram.com/saaadrashid\nTikTok: https://www.tiktok.com/@thesaadrashid\nMail: contact.saadrashid@gmail.com\n\n-------------------------------------------\n\nTime Stamps:\n0:00 Introduction\n3:34 What Is YouTube Automation?\n7:26 Case Studies \n9:29 Excuses\n16:22 Course Content\n22:04 Module 1- Foundation  \n23:12 Success Mindset \n28:30 YouTube Ecosystem\n32:06 Core Principles Of YouTube \n38:45 How To Target USA Audience?\n43:33 Channel Setup & Settings \n57:02 First Step In YouTube Automation\n1:01:15 Module 2 - Advanced Niche Selection \n1:03:16 What Is Niche?\n1:06:09 Right Way Of Finding Niche\n1:13:20 Zero Views Issue \n1:15:06 How To Create Unlimited Sub-Niches\n1:21:46 How To Validate Niches?\n1:25:38 Reverse Engineering \n1:27:25 Competitor Analysis \n1:34:52 Module 3 - Production Cycle\n1:35:28 Deadly Policies Of YouTube \n1:41:19  Free Tools For Beginners \n1:47:39 Art Of Video Packaging\n1:51:31 Advance Topic Research\n2:03:20 Title Selection \n2:07:47 Thumbnail \n2:10:41 Script Writing \n2:26:58 Unique AI Voiceover \n2:45:53 Visuals Generation \n2:57:23 Video Editing \n3:15:06 Module 4 - Busting Myths & Policies Guide\n3:18:29 Uploading Time\n3:20:31 IP Issues & Multiple Channels Management \n3:25:19 Frequently Asked Questions \n3:31:18 Module 5 - Bonuses \n3:36:19 90 Days Fast Growth Challenge \n3:48:06 Testimonials \n3:54:45 premium Bonuses \n\n\n\nDISCLAIMER:\nThis video course is created for educational and informational purposes only.\nAll techniques, methods, and tools shared are based on personal experience, public knowledge, and practical experimentation.\nThis is not a “get-rich-quick” scheme, nor does it guarantee any specific income, results, or success.\nYour outcomes will depend entirely on your effort, consistency, niche, content quality, and understanding of YouTube’s system.\nAny examples or demonstrations of revenue, monetization, or analytics are shown for learning purposes only and should not be interpreted as typical results.\nThe creators of this course do not promote or endorse any activity that violates YouTube’s Terms of Service, Community Guidelines, or Monetization Policies including spam, reused content, or prohibited forms of automation.\nSome websites, tools, or third-party services mentioned are shared for demonstration or reference only. We are not affiliated with, sponsored by, or partnered with these services unless clearly stated. Always do your own research before using any external tool or platform.\nAny external media, screenshots, or clips used in this course are included under Fair Use (Section 107, U.S. Copyright Act) for commentary, analysis, and educational illustration. All copyrights belong to their respective owners.\nThis course does not constitute financial, business, or legal advice. Viewers are responsible for how they apply the information provided.\nBy viewing this content, you acknowledge that the creators are not liable for any direct or indirect outcomes that may result from implementing the ideas discussed.\n\n#youtubeautomation #AiAutomation #YoutubeAutomationWithAI #FacelessChannel #YoutubeAutomation #YoutubeAutomationFullCourse #YoutubeAutomationWithAi",
-      "commentCount": 2000,
-      "likeCount": 2336,
-      "probeClient": "web_embedded"
-    },
     "AnErH0RJR6M": {
       "checkedAt": "2026-08-01T18:53:27Z",
       "embedAllowed": true,
@@ -7282,24 +7274,6 @@
       "description": "Support here (superchat onscreen): https://dropflares.com/Furqan\nConnect with me: LinkedIn → https://furqan.cc/linkedin \n\nWHAT AM I BUILDING? 💡 Xocial (https://xocial.io/) is one place for your whole business — post to all your social media at once, keep all customer chats in one inbox with AI helping you reply, and send reminders and campaigns on autopilot. You can also accept payments through Stripe and Square, and the money goes straight into your account.\n\nVibe Coding Crash Course : https://youtube.com/playlist?list=PLQbMldDbZG9o&si=hfI1q16TGknJgCyO\nClient Hunting: https://www.youtube.com/playlist?list=PLXfAWPUjbaMM\nRemote Job Series: https://www.youtube.com/playlist?list=PLOf2EZd0qf54\n\nOpenCode GO — $5https://opencode.ai/go?ref=6JW7FS2SNK\nCursor — $20 - https://cursor.com/referral?code=GRPAOAKZPS7T (With this link you will get 50% off first month on new account)\nCodex — $20 - https://developers.openai.com/codex/app \n\nIn this video, I’ll show you how to start vibe coding, how to learn vibe coding, and how to use vibe coding to build real apps faster. This is not just a vibe coding tutorial where we randomly generate code. I’ll explain what is vibe coding, here’s how I do it, how to use Claude Code for vibe coding, and how beginners can go from an idea to a real working app using AI tools, ChatGPT, and modern coding workflows.\n\nWe’ll also talk about vibe coding vs real coding, why vibe coding fails, and how to build apps with AI the right way. If you want to learn how to build an app, how to build iOS app with AI, how to build an AI app, how to build app with AI, or even how to build an app with ChatGPT in minutes, this video will give you a practical starting point. I’ll also share free vibe coding tool ideas, vibe coding apps, and the real mindset behind building software instead of only watching tutorials.\n\n\nSubscribe for more coding, app building, AI tools, SaaS development, and real developer journey videos.\n\nFollow karne walon ko geeli pappi 💋\n\nDiscord → furqan.cc/discord\nInstagram → furqan.cc/instagram\nTikTok → furqan.cc/tiktok\nX → furqan.cc/x\nAll links → furqan.cc/socials\nGithub : https://github.com/furqanistic/\nPortfolio : https://furqan.cc/",
       "commentCount": 0,
       "likeCount": 70,
-      "probeClient": "web_embedded"
-    },
-    "3YkMI7z_CWI": {
-      "checkedAt": "2026-08-02T01:53:16Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "I made 3 Free  AI Filmmaking Tools using Fable 5\nAdd Higgsfield MCP to Claude here  👉 https://higgsfield.ai/mcp?fpr=dankieft&fp_sid=fable5\n\nLinks to the free custom tools I made:\nTool 1: https://ai-world-builder-nine.vercel.app/\nTool 2: https://aicameracontrol.com/\nTool 3: https://aicameramovements.com/\n\nIn this video I show you 3 AI tools that I made using Fable 5 to improve AI filmmaking. Because using tools like Claude fable 5 or opus 5 you can easily make your own custom tools using ai. That's exactly what we did for ai filmmaking, I break down how to create your own tools and how to use the ones I made for you. You can access these 3 tools mentioned above for completely free.\n\nJoin my FREE community where you can find my prompts & chat about AI\n👉 https://www.skool.com/nextgenai\n\n\n👉My Ai Toolkit - https://dankieft.carrd.co/\nMy toolkit gives you over 30+ ai tools that I've gathered over the years and use daily. You'll also get access to my free newsletter that educates you about the latest ai tools.\n\n📧 For business inquiries: business@dankieft.com\nFollow me on Instagram: https://www.instagram.com/dan.kieft/",
-      "commentCount": 6,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "TIFiTQBL5vY": {
-      "checkedAt": "2026-08-02T01:53:16Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "*► Propmt + Code: https://t.me/You_B_Tech\n\nYou B Tech App: https://play.google.com/store/apps/details?id=com.youbtech.youbtech\n*==========================================*\n\n*[ VIDEO DESCRIPTION ]*\nKimi K3 is Moonshot AI's newest model, and it's already beating some of the biggest names in coding benchmarks — ranking #4 overall and #1 on frontend coding leaderboards. In this video, I'll show you how to access Kimi K3 completely FREE (no subscription needed) using Hugging Face, and then put it head-to-head against Claude in a real coding test — building a full interactive 3D solar system in HTML. The results might surprise you.\n\n*[ WHAT YOU WILL LEARN ]*\n✅ What is Kimi K3 and how it ranks against top AI models\n✅ Cost & speed comparison vs Claude and ChatGPT\n✅ How to access Kimi K3 100% FREE via Hugging Face\n✅ Live coding test: Solar System build (Kimi K3 vs Claude)\n✅ Full output comparison — realism, detailing & UI\n✅ Which model wins for coding & creative projects\n✅ Limitations of the free access method\n\n*[ TIMESTAMPS ]*\n0:00 Intro – New Model Beating Claude?\n0:41 Kimi K3 Ranking & Benchmarks\n1:16 Cost Comparison vs Claude\n1:20 How to Access Kimi K3 for Free\n2:29 Testing Prompt – Solar System Build\n3:46 Claude's Output Review\n5:34 Kimi K3's Output Review\n6:43 Final Comparison & Verdict\n7:20 Outro\n*==========================================*\n*► CONNECT WITH ME:*\n» YouTube: https://youtube.com/@You_B_Tech\n» GitHub: https://github.com/YouBTech01\n» Telegram: https://t.me/You_B_Tech\n» Blog: https://ybtshop.com\n*==========================================*\n*[ RELATED TUTORIALS ]*\n» Full eCommerce App & Web: https://youtu.be/RnElwUEigI8\n» AI Web Dev Masterclass: https://youtu.be/CFMbWinPAHg\n» Website to Android App: https://youtu.be/rWipnQ0IehQ\n» Windows App with Flutter & AI: https://youtu.be/9lOUI1hff1I\n\n*[ MORE TUTORIALS FOR BEGINNERS ]*\n» Best Free AI Coding Tools: https://youtu.be/kvPrUloMmnA\n» Flutter UI from PRD Guide: https://youtu.be/ZRE6w7tLEmE\n» Gemini Agent Mode Tutorial: https://youtu.be/0N5FW5IwJD4\n\n*==========================================*\n*If you found this video helpful, please Like, Share, and Subscribe!*\nThanks for watching!",
-      "commentCount": 8,
-      "likeCount": 106,
       "probeClient": "web_embedded"
     },
     "JoIdxjahI24": {
@@ -7528,15 +7502,6 @@
       "description": "Is Python actually losing popularity, or are programming language rankings like TIOBE completely broken in the AI era? In this data-driven deep dive, we break down why search engine hits for Python and JavaScript have crashed by 78% since ChatGPT launched—even as PyTorch and Hugging Face shatter GitHub contributor records and cross 43 million weekly npm/PyPI installs.\n\n🔔 Subscribe: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w?sub_confirmation=1\n\n💙 Become a Member: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w/join\n\n🐦 Twitter/X:\n https://x.com/cloud_codes\n\n💬 Discord: \nhttps://discord.gg/4kJqEBMMf\n\nWe analyze the massive shift in AI software engineering, explaining why Python’s newly released free-threaded GIL and massive library ecosystem give it total dominance over model training and inference servers like vLLM. But on the application layer, plain JavaScript is being rapidly replaced. Discover why GitHub reports TypeScript overtaking Python as the fastest-growing language, how \"agent-assisted vibe coding\" requires strict static typing to prevent runtime hallucinations, and how the release of TypeScript 7 (rebuilt in Go) dropped type-checking compile times from 125 seconds down to 10 seconds.\n\nIf you found this technical deep-dive into AI infrastructure and software engineering trends helpful, drop a like and subscribe for more content on system design, LLM architecture, and backend engineering!\n\n⏱️ TIMESTAMPS:\n⏱️ TIMESTAMPS:\n00:00 - The TIOBE Index Lie: Is Python Dying? \n00:39 - Why Stack Overflow Traffic Crashed \n01:34 - The Real AI Metrics: PyPI vs npm Installs\n02:29 - Why Python Dominates Model Infrastructure \n03:27 - Python 3.14: The End of the GIL\n03:58 - TypeScript Passes Python on GitHub\n04:49 - \"The Convenience Loop\": Why AI Agents Prefer TypeScript \n06:13 - Model Context Protocol (MCP) & AI SDKs \n07:00 - TypeScript 7: Rebuilt in Go (10x Faster) \n07:44 - WebGPU & Transformers.js (Browser AI) \n08:43 - The Verdict: Python (Model) vs TypeScript (Product) \n09:07 - The Real Casualty: Plain JavaScript\n\n#python #javascript #typescript #softwareengineering #machinelearning #artificialintelligence #systemdesign #programming\n\nUser Queries:\npython vs javascript for ai machine learning\npython vs typescript which is better for ai agents\nwhy typescript is growing faster than python github\ntypescript 7 go compiler performance benchmark\npython 3.14 free threaded gil optional performance\nwebgpu transformers js run local llm in browser\nwhy tiobe index is wrong about python popularity\nbest programming language to learn for ai in 2026\npython pytorch hugging face vs npm javascript\nanthropic mcp model context protocol python vs typescript",
       "commentCount": 11,
       "likeCount": 56,
-      "probeClient": "web_embedded"
-    },
-    "fdvOPvuctb8": {
-      "checkedAt": "2026-08-02T08:53:32Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Most engineering teams are racing to ship AI-generated code. Almost none of them know how much of it is quietly broken.\n\nIn this episode of Simulated Reality, our host Shalini Mondal sits down with Tariq Shaukat, CEO of Sonar and former President of Bumble and Google Cloud, to discuss why AI agents are generating code 8-15x faster than teams can verify it, how cognitive surrender is eroding engineering judgement across the developer workforce in India and abroad, and why Sonar's guide-verify-solve loop is the structural fix that helps teams scale AI adoption without giving back the productivity gains they hoped to achieve. \n \n✅ Cypher 2026: Join 5,000+ AI leaders. Book now → https://cypher.analyticsindiamag.com/tickets\n✅ Chess League: Test your skills → https://chess.analyticsindiamag.com/\n\nChapters00:00 Introduction\n00:54 Rapid-fire: AI, vibe coding and developers\n04:19 AI is generating 8–15x more code\n06:50 The risk of trading productivity for system fragility\n08:40 What companies get wrong about AI adoption\n10:53 The guide, verify, solve loop\n12:43 Why verification is the most important stage\n14:49 How verification can scale\n16:45 Zero-trust and multi-layered verification\n18:16 Integrating AI verification with DevOps\n19:50 How remediation agents work\n22:48 Will debugging become fully automated?\n24:29 Developers becoming editors and planners\n26:34 The risk of AI agents fixing AI-generated code\n27:35 Can APJ move into higher-value engineering?\n29:47 How universities should prepare developers\n32:29 What defines a great developer in an AI-first world\n33:31 Final thoughts\n\n#VibeCoding #AICoding #TechnicalDebt #AIAgents #SoftwareEngineering #AIMNetwork\n------------------------------------------------------------------------------------------\n📌 ABOUT FRONT PAGE\n\nFront Page is a daily live news briefing covering AI, enterprise tech, semiconductors, and India’s role in the global technology economy. Built for people who make decisions, not just consume headlines.\n------------------------------------------------------------------------------------------\n👋 ABOUT AIM NETWORK\nAIM Network is India's leading voice on the intersection of AI, Technology, and Business. We bring you sharp analysis, breaking news, and original perspectives on everything from Generative AI breakthroughs to geopolitical market shifts.\n\n🔔 Subscribe for daily insights: https://www.youtube.com/@aimmediahouse?sub_confirmation=1\n\n📺 WATCH OUR POPULAR SERIES:\n- Front Page (Daily Tech News): https://www.youtube.com/playlist?list=PL9Kc1zSa46OxR8h0ZgAfEENta0vaxfWrs\n- Tech Talks (Podcast): https://www.youtube.com/playlist?list=PL9Kc1zSa46OyXflFLWtmF5MN3jvdxDFE3\n-Simulated Reality (Podcast) - https://www.youtube.com/playlist?list=PL9Kc1zSa46OwqKv91j8W6vZ-V5DucIU4Y\n\n📰 STAY UPDATED:\nWebsite: https://analyticsindiamag.com/\nLinkedIn: https://in.linkedin.com/company/analytics-india-magazine\nTwitter/X: https://x.com/Analyticsindiam\nInstagram: https://www.instagram.com/aim.media.house/\n\n------------------------------------------------------------------------------------------",
-      "commentCount": 1,
-      "likeCount": 14,
       "probeClient": "web_embedded"
     },
     "FTVaxExDZvA": {
@@ -7859,6 +7824,51 @@
       "description": "What if you could create a digital product once and keep getting paid for it over and over again?\n\nIn this video, I reveal the exact AI-powered system I used to generate $10,000+ selling digital products online.\n\n You'll learn how to create ebooks and courses, automate your workflow with AI, and build a business that makes sales on autopilot—even as a complete beginner.\n\n\n📍Want the complete blueprint? Join my AI Sales Automation Program and learn everything step by step—from product creation to automation, marketing, and consistent sales.\n\n🔥📍GET STARTED HERE👇\nhttps://selar.com/57677m557i\nhttps://selar.com/57677m557i\n\n\n#Howtomakemoneyonline #aicontentgeneration \n#Ebookcreation \n#automation",
       "commentCount": 66,
       "likeCount": 71,
+      "probeClient": "web_embedded"
+    },
+    "Gx2QN7FvKAM": {
+      "checkedAt": "2026-08-02T15:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "HIGGSFIELD MCP - https://higgsfield.ai/?fpr=greg12\n\n\n\n\nYou can now create Vox-style motion graphics, Johnny Harris map-style motion graphics and any other graphics you can think of using this simple Higgsfield MCP method. When you try it you'll see that it's actually pretty mind-blowing. \n\n\n\n\n0:00 Higgsfield Motion Graphics\n1:03 Higgsfield MCP Setup\n2:06 Motion Graphics Tutorial\n4:40 Bonus Method",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "u29qvwRWGWk": {
+      "checkedAt": "2026-08-02T15:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Following are the topics covered in this tutorial on Agentic Ai roadmap 2026:\n\nThis video on Agentic AI Roadmap 2026 by Simplilearn explains how beginners can start learning Agentic AI step by step. You will understand what Agentic AI is and how it differs from Generative AI and normal AI chatbots. The video explains how AI agents understand goals, plan tasks, use tools, check results, and complete workflows. You will learn the basics of large language models, prompts, context, tokens, and model selection. It also covers the Python skills needed to build practical AI agents and connect them with real-world applications. You will understand prompt engineering, structured outputs, APIs, JSON, and automation. The video introduces Retrieval-Augmented Generation, or RAG, and explains how AI agents use external documents and business data. You will also learn about tool calling, agent memory, planning, human approval, and AI guardrails. Important Agentic AI frameworks such as LangGraph, CrewAI, AutoGen, OpenAI Agents SDK, and LlamaIndex are covered. The video also explains Model Context Protocol, or MCP, and how it connects AI applications with tools and data sources. You will explore beginner-friendly Agentic AI projects, including research assistants, study planners, customer support agents, and multi-agent systems. This Agentic AI tutorial is useful for students, developers, product managers, analysts, marketers, and working professionals. By the end, you will have a clear Agentic AI learning path, project roadmap, and understanding of career opportunities in AI automation and AI agent development.\n\n00:00:05 Introduction to Agentic AI Roadmap 2026\n00:01:15 Agenda\n00:03:47 Quiz Question\n00:04:03 What Is Agentic AI?\n00:05:54 Agentic AI in the Current Business Scenario\n00:07:40 How Agentic AI Works\n00:10:25 Generative AI vs AI Agents vs Agentic AI\n00:11:38 Why Agentic AI Matters in 2026\n00:14:43 Complete Agentic AI Roadmap\n00:15:51 AI and Large Language Model Basics\n00:17:04 Python Fundamentals\n00:18:17 Prompt Writing and Structured Outputs\n00:19:31 Retrieval-Augmented Generation\n00:20:38 Tool Calling\n00:21:49 Agent Design, Memory, and Human Approval\n00:23:37 AI Agent Frameworks\n00:24:44 Model Context Protocol\n00:26:02 Guardrails and AI Safety\n00:27:13 Agentic AI Project Ideas\n00:29:11 Three-Month Learning Plan\n00:30:04 Agentic AI Career Opportunities\n00:31:13 Skills Required for Agentic AI\n00:32:01 Agentic AI Business Use Cases\n00:33:00 Future of Agentic AI\n00:33:56 Roadmap Recap\n00:35:37 Outro \n\nRelated Videos:\n✅ 1. https://youtu.be/NRmAXDWJVnU?si=9ZwnLLqGhYEs13Pl\n✅ 2. https://youtu.be/M6sEuCrXovw?si=Bi8MoZSaHnWkxwVj\n✅ 3. https://youtu.be/s-kEA7XMAOY?si=YJSu1xJQxQQACiI4\n✅ 4. https://youtu.be/wF44ojmBQ2g?si=MZP-SQDOJYW6KOO0\n✅ 5. https://youtu.be/smSs8_eVgYg?si=mh-VWDuN7hUfJ3r_",
+      "commentCount": 0,
+      "likeCount": 25,
+      "probeClient": "web_embedded"
+    },
+    "aSiOykJEuvI": {
+      "checkedAt": "2026-08-02T15:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In 2017, AI meant complex coding. Only developers could build real systems.\n\nBy 2023, Generative AI made things easier — but true automation still needed technical skills.\nNow it’s the era of Agentic AI. AI doesn’t just answer — it takes action.\n\nLow-code tools have changed the game, and n8n is the most powerful one. Build real AI workflows visually, without heavy coding.\n\nMaster n8n by building 5 portfolio projects:\n\n🔵 Lead Generation Automation\n🔵 LinkedIn Automation\n🔵 AI-Powered News Summarizer\n🔵 End-to-End RAG Project\n🔵 Alexa-like Chat Assistant\n\nThe future belongs to those who can build intelligent agents fast. And right now, the smartest way to do that is by mastering n8n.\n\n𝐓𝐢𝐦𝐞𝐋𝐢𝐧𝐞: \n\n✅ 00:00 Introduction\n✅ 04:40 N8N Introduction\n✅ 09:46 N8N Template\n✅ 11:29 N8N Tool Demo\n✅ 19:24 Project Overview\n✅ 27:27 Workflow Overview\n✅ 54:02 Workflow From Scratch\n✅ 01:35:20 Lead Generation (Project 1)\n✅ 01:50:54 LinkedIn Part 1  (Project 2)\n✅ 01:56:40 LinkedIn Part 2 (Project 2)\n✅ 02:10:47 AI Power Intro  (Project 3)\n✅ 02:24:01 AI Power Workflow (Project 3)\n✅ 02:41:15 AI Power Project Setup (Project 3)\n✅ 02:42:49 RAG (Project 4)\n✅ 02:52:17 RAG Architecture (Project 4)\n✅ 02:56:27 Basic RAG (Project 4)\n✅ 03:04:54 Hugging Face (Project 4)\n✅ 03:10:15 RAG + Pinecone (Project 4)\n✅ 03:22:16 Build AI Introduction (Project 5)\n✅ 03:30:34 SA vs MA (Project 5)\n✅ 03:48:08 Guardrails with LangGraph (Project 5)\n✅ 03:55:25 Demo Project (Project 5)\n✅ 04:10:04 Demo Project (Alexa + Guardrails) (Project 5)\n\n🔴 Code: At 100 likes and 50 comments.\n\nSubscribe our YouTube Channel and press the bell icon to get regular updates👇: https://bit.ly/3tt2eNY\n\nJoin our Telegram Channel For Exclusive Data Science Resources👍 : \nhttps://bit.ly/3FzObsk\n\nCheck Out Our Other Helpful Videos:😍\n\n➮ Data Analyst vs Data Scientist vs Data Engineer - Roles || Responsibilities & Skills\nhttps://bit.ly/3qsg2pL\n➮Live Implementation of End To End Machine Learning Project With Deployment | Customer Churn\nhttps://bit.ly/3FqPQjF\n➮ Build your own Alexa in 30 minutes using Python | NLP | Data Science\nhttps://bit.ly/3FFBWdP\n\n✅✅✅ Follow us on: ✌️\n\n👥 FACEBOOK: https://bit.ly/3I89SB4\n📸 INSTAGRAM: https://bit.ly/3GLSvFn\n💬 LINKEDIN: https://bit.ly/3fmwmCa\n🔴 TELEGRAM: https://bit.ly/3MjBODX\n🔴 TELEGRAM Discussion Group: https://bit.ly/3mcusay\n\nHello Friends , I am Satyajit Pattnaik, In my channel you will find every information about Data Science & Analytics which will help you become an expert Data Scientist or a Data Analyst along with which you would enjoy a loads of interesting and useful projects. \n\nMore & more great stuffs coming soon, keep supporting & learning 🎓\n\nTHANKS FOR WATCHING 😊",
+      "commentCount": 6,
+      "likeCount": 29,
+      "probeClient": "web_embedded"
+    },
+    "D923v6SrcRw": {
+      "checkedAt": "2026-08-02T15:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I built a viral skeleton shorts channel using only AI, full course, step by step. This faceless YouTube automation niche is one of the easiest ways to grow a new channel in 2026, and new creators are pulling millions of views with these AI skeleton videos on YouTube Shorts and TikTok.\n\nIn this video, I show you 2 complete methods: one AI tool that creates the entire video for you in minutes, and a 100% free AI tools workflow so you can start today with zero budget. No experience, no camera, no editing skills needed.\n\n______________________________\n\n👉Telegram: https://t.me/moneydegreeai\n\n______________________________\n\n🧑‍💻Contact me: moneydegreebusiness@gmail.com\n\n______________________________\n\n📌Tools Used In This Video\n\nCrealix AI: https://www.crealix.ai\nClaude: https://claude.ai\nFlow: https://labs.google/fx/tools/flow\nElevenLabs: https://shorturl.at/15ga1\nCapCut: https://www.capcut.com \n\n\n______________________________\n\n⏱ Timestamps:\n0:00 – Introduction\n1:25 – Video Creation Setup (Method 1)\n4:35 – Scene Customization\n6:54 – How to Make the Video Look Better\n8:51 – Exporting the Video\n9:36 – Final Video (Method 1)\n10:36 – The Method 2 Plan\n10:50 – Competitor Research & Idea Creation\n11:48 – Creating a Reference Skeleton Image\n12:38 – Creating the Image Prompts & Generation\n14:17 – Creating the Video Prompts & Generation\n15:49 – Creating the Script & Voiceover\n17:06 – Full Editing Masterclass\n21:12 – Final Video (Method 2)\n22:08 – Important\n\n𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐭𝐢𝐦𝐞!\n  ❤️❤️𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞❤️❤️\n\n\n★ IGNORE ★\nmoney degree, faceless youtube channel, youtube automation, youtube automation step by step, faceless youtube channel ideas, youtube automation course, youtube automation ai, youtube automation for beginners, how to start youtube automation, faceless youtube channel ai, what is youtube automation, faceless youtube, youtube automation tutorial, youtube automation niches, skeleton shorts, viral shorts, skeleton video, youtube shorts, viral youtube videos, faceless youtube tips, youtube growth tips, ai tools for youtube, youtube automation 2026, how to grow on youtube, faceless content creation.",
+      "commentCount": 12,
+      "likeCount": 29,
+      "probeClient": "web_embedded"
+    },
+    "kLeePks8_0Y": {
+      "checkedAt": "2026-08-02T15:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "There are three AI automation platforms running the show in 2026. Zapier, Make, and n8n. They all claim to do the same thing, but they're built for completely different kinds of people.\n\nThe AI agent software market hit $206.5 billion this year. Companies are pouring money into automation. Most of them are using the wrong tool for their team.\n\nIn this video, I break down each platform — who it's for, where it excels, and where it breaks — so you can pick the right one for your team.\n\nTIMESTAMPS:\n0:00 — The 3 platforms\n0:20 — What AI automation actually means\n1:15 — Zapier: the no-code on-ramp\n2:30 — Make: the visual powerhouse\n3:45 — n8n: the open-source power move\n5:00 — The new challengers\n5:45 — The verdict\n6:15 — The bottom line\n\nSubscribe for weekly AI explainers. Drop a comment: which tool are you using — Zapier, Make, or n8n?",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

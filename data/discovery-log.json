@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T14:53:36Z",
+  "updatedAt": "2026-08-02T15:53:14Z",
   "items": [
+    {
+      "id": "Gx2QN7FvKAM",
+      "type": "long",
+      "source": "primary",
+      "channel": "Greg Preece",
+      "publishedAt": "2026-08-02T15:45:09Z",
+      "firstSeenAt": "2026-08-02T15:53:14Z"
+    },
+    {
+      "id": "u29qvwRWGWk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-02T15:29:14Z",
+      "firstSeenAt": "2026-08-02T15:53:14Z"
+    },
+    {
+      "id": "aSiOykJEuvI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Satyajit Pattnaik",
+      "publishedAt": "2026-08-02T12:53:14Z",
+      "firstSeenAt": "2026-08-02T15:53:14Z"
+    },
+    {
+      "id": "D923v6SrcRw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Money Degree",
+      "publishedAt": "2026-08-02T10:53:14Z",
+      "firstSeenAt": "2026-08-02T15:53:14Z"
+    },
+    {
+      "id": "kLeePks8_0Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "X-Truth-Tube",
+      "publishedAt": "2026-08-02T10:53:14Z",
+      "firstSeenAt": "2026-08-02T15:53:14Z"
+    },
     {
       "id": "00kEcNby86c",
       "type": "short",
@@ -8894,6 +8934,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-02T15:53:14Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
