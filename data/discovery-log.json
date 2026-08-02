@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T03:53:35Z",
+  "updatedAt": "2026-08-02T06:53:30Z",
   "items": [
+    {
+      "id": "4LwtuscILlc",
+      "type": "long",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-02T06:47:30Z",
+      "firstSeenAt": "2026-08-02T06:53:30Z"
+    },
+    {
+      "id": "G7KleuOfVtg",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-02T04:00:06Z",
+      "firstSeenAt": "2026-08-02T06:53:30Z"
+    },
     {
       "id": "_Wq3Z_DfAJ4",
       "type": "short",
@@ -8541,6 +8557,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-02T06:53:30Z",
+      "new": 2,
+      "long": 1,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
