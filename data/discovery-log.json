@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T12:53:27Z",
+  "updatedAt": "2026-08-02T13:53:35Z",
   "items": [
+    {
+      "id": "my1Wc9pBf7g",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-02T13:00:23Z",
+      "firstSeenAt": "2026-08-02T13:53:35Z"
+    },
+    {
+      "id": "D5pc8s3VLIY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Finn Harris",
+      "publishedAt": "2026-08-02T12:53:35Z",
+      "firstSeenAt": "2026-08-02T13:53:35Z"
+    },
+    {
+      "id": "TH-3oMBmwcA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "George Amine",
+      "publishedAt": "2026-08-02T11:53:35Z",
+      "firstSeenAt": "2026-08-02T13:53:35Z"
+    },
+    {
+      "id": "YrzwTN9nR0U",
+      "type": "short",
+      "source": "secondary",
+      "channel": "The Ai Code",
+      "publishedAt": "2026-08-01T17:53:35Z",
+      "firstSeenAt": "2026-08-02T13:53:35Z"
+    },
     {
       "id": "8tz6venwswo",
       "type": "short",
@@ -8804,6 +8836,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-02T13:53:35Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
