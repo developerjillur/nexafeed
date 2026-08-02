@@ -1,3 +1,5 @@
+import { createTransientDirectionalHistory } from "./short-history.mjs?v=20260802-player-controls";
+
 const app = document.querySelector("#app");
 const overlayRoot = document.querySelector("#overlayRoot");
 const sidebar = document.querySelector("#sidebar");
@@ -51,6 +53,7 @@ const state = {
   shortIndex: 0,
   shortPanel: null,
   recentPlayerHistory: [],
+  shortHistory: createTransientDirectionalHistory({ ttlMs: RECENT_PLAYER_BACKTRACK_MS, maxEntries: 8 }),
   unavailableVideos: new Set(),
   autoplay: localStorage.getItem(AUTOPLAY_KEY) !== "false",
 };
@@ -60,6 +63,7 @@ let progressTimer = null;
 let shortWheelLocked = false;
 let shortWheelDelta = 0;
 let shortWheelResetTimer = null;
+let shortHistoryExpiryTimer = null;
 let playerWheelLocked = false;
 let playerWheelDelta = 0;
 let playerWheelResetTimer = null;
@@ -627,7 +631,7 @@ function youtubeEmbedSrc(video, autoplay = true) {
 function floatingPopupUrl(video) {
   const popupUrl = new URL("float.html", window.location.href);
   const params = new URLSearchParams({
-    v: "20260802-player-clicks",
+    v: "20260802-player-controls",
     id: video.id,
     title: String(video.title || "YourTube video").slice(0, 180),
     type: video.type === "short" ? "short" : "long",
@@ -1623,6 +1627,63 @@ function playableShortVideos() {
   );
 }
 
+function shortVideoById(videoId) {
+  return playableShortVideos().find((item) => item.id === videoId) || null;
+}
+
+function isPlayableShortId(videoId) {
+  return Boolean(shortVideoById(videoId));
+}
+
+function shortQueueForTransientTarget(video, leavingVideoId) {
+  return [
+    video,
+    ...playableShortVideos().filter((item) => (
+      item.id !== video.id
+      && item.id !== leavingVideoId
+      && !isHiddenFromPlayback(item.id)
+    )),
+  ];
+}
+
+function canPreviousShort() {
+  const current = state.shortQueue[state.shortIndex];
+  if (!current) return false;
+  return Boolean(state.shortHistory.peekBack(current.id, isPlayableShortId));
+}
+
+function canNextShort() {
+  const current = state.shortQueue[state.shortIndex];
+  if (!current) return false;
+  return (
+    Boolean(state.shortHistory.peekForward(current.id, isPlayableShortId))
+    || state.shortIndex < state.shortQueue.length - 1
+  );
+}
+
+function clearShortHistoryExpiryTimer() {
+  clearTimeout(shortHistoryExpiryTimer);
+  shortHistoryExpiryTimer = null;
+}
+
+function scheduleShortHistoryExpiry() {
+  clearShortHistoryExpiryTimer();
+  const current = state.shortQueue[state.shortIndex];
+  if (!current) return;
+  const expiresAt = state.shortHistory.nextExpiryAt(current.id, isPlayableShortId);
+  if (!Number.isFinite(expiresAt)) return;
+  const delay = Math.max(1, expiresAt - Date.now() + 25);
+  shortHistoryExpiryTimer = setTimeout(refreshShortNavigationControls, delay);
+}
+
+function refreshShortNavigationControls() {
+  const previousButton = document.querySelector("#shortPrevious");
+  const nextButton = document.querySelector("#shortNext");
+  if (previousButton) previousButton.disabled = !canPreviousShort();
+  if (nextButton) nextButton.disabled = !canNextShort();
+  scheduleShortHistoryExpiry();
+}
+
 function nextUnwatchedShortAfter(video, allShorts) {
   const startIndex = allShorts.findIndex((item) => item.id === video?.id);
   const afterCurrent = startIndex >= 0 ? allShorts.slice(startIndex + 1) : allShorts;
@@ -1649,6 +1710,8 @@ function pruneWatchedShortQueue(keepVideoId) {
 }
 
 function openShort(video) {
+  clearShortHistoryExpiryTimer();
+  state.shortHistory.reset();
   state.shortQueue = shortPlaybackQueue(video);
   if (!state.shortQueue.length) {
     window.alert("All available Shorts are already watched. Clear Watch history if you want to replay them.");
@@ -1689,8 +1752,8 @@ function renderShort() {
           <aside id="shortDrawer" class="short-drawer ${state.shortPanel ? "open" : ""}">${state.shortPanel ? shortDrawerContent(video) : ""}</aside>
         </div>
         <div class="short-controls">
-          <button id="shortPrevious" aria-label="Previous Short" ${state.shortIndex === 0 ? "disabled" : ""}>↑</button>
-          <button id="shortNext" aria-label="Next Short" ${state.shortIndex === state.shortQueue.length - 1 ? "disabled" : ""}>↓</button>
+          <button id="shortPrevious" aria-label="Previous Short" ${!canPreviousShort() ? "disabled" : ""}>↑</button>
+          <button id="shortNext" aria-label="Next Short" ${!canNextShort() ? "disabled" : ""}>↓</button>
         </div>
       </div>
     </div>`;
@@ -1705,6 +1768,7 @@ function renderShort() {
       }, 900);
     },
   });
+  scheduleShortHistoryExpiry();
 }
 
 function nextShort() {
@@ -1713,8 +1777,19 @@ function nextShort() {
   pruneWatchedShortQueue(current.id);
   const currentAfterPrune = state.shortQueue[state.shortIndex];
   if (!currentAfterPrune || currentAfterPrune.id !== current.id) return renderShort();
+
+  const forwardEntry = state.shortHistory.forward(current.id, isPlayableShortId);
+  const forwardVideo = shortVideoById(forwardEntry?.id);
+  if (forwardVideo) {
+    finalizeVideoBeforeLeaving(current, { reason: "short-forward" });
+    state.shortQueue = shortQueueForTransientTarget(forwardVideo, current.id);
+    state.shortIndex = 0;
+    return renderShort();
+  }
+
   if (state.shortIndex < state.shortQueue.length - 1) {
     const currentIndex = state.shortIndex;
+    state.shortHistory.pushForNext(current.id);
     finalizeVideoBeforeLeaving(current, { reason: "short-next" });
     if (isHiddenFromPlayback(current.id)) {
       state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isHiddenFromPlayback(item.id));
@@ -1723,46 +1798,34 @@ function nextShort() {
       return renderShort();
     }
     state.shortIndex += 1;
-    renderShort();
-  } else {
-    finalizeVideoBeforeLeaving(current, { reason: "short-next" });
-    if (!isHiddenFromPlayback(current.id)) return;
-    state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isHiddenFromPlayback(item.id));
-    if (!state.shortQueue.length) return closeShort();
-    state.shortIndex = Math.min(state.shortIndex, state.shortQueue.length - 1);
-    renderShort();
+    return renderShort();
   }
+
+  finalizeVideoBeforeLeaving(current, { reason: "short-next" });
+  if (!isHiddenFromPlayback(current.id)) return refreshShortNavigationControls();
+  state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isHiddenFromPlayback(item.id));
+  if (!state.shortQueue.length) return closeShort();
+  state.shortIndex = Math.min(state.shortIndex, state.shortQueue.length - 1);
+  return renderShort();
 }
 
 function previousShort() {
   const current = state.shortQueue[state.shortIndex];
   if (!current) return closeShort();
-  pruneWatchedShortQueue(current.id);
-  const currentAfterPrune = state.shortQueue[state.shortIndex];
-  if (!currentAfterPrune || currentAfterPrune.id !== current.id) return renderShort();
-  if (state.shortIndex > 0) {
-    const currentIndex = state.shortIndex;
-    finalizeVideoBeforeLeaving(current, { reason: "short-previous" });
-    if (isHiddenFromPlayback(current.id)) {
-      state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isHiddenFromPlayback(item.id));
-      if (!state.shortQueue.length) return closeShort();
-      state.shortIndex = Math.max(0, currentIndex - 1);
-      return renderShort();
-    }
-    state.shortIndex -= 1;
-    renderShort();
-  } else {
-    finalizeVideoBeforeLeaving(current, { reason: "short-previous" });
-    if (!isHiddenFromPlayback(current.id)) return;
-    state.shortQueue = state.shortQueue.filter((item) => item.id !== current.id && !isHiddenFromPlayback(item.id));
-    if (!state.shortQueue.length) return closeShort();
-    state.shortIndex = 0;
-    renderShort();
-  }
+  const backEntry = state.shortHistory.back(current.id, isPlayableShortId);
+  const backVideo = shortVideoById(backEntry?.id);
+  if (!backVideo) return refreshShortNavigationControls();
+
+  finalizeVideoBeforeLeaving(current, { reason: "short-previous" });
+  state.shortQueue = shortQueueForTransientTarget(backVideo, current.id);
+  state.shortIndex = 0;
+  return renderShort();
 }
 
 function closeShort({ finalize = true } = {}) {
   if (finalize) finalizeVideoBeforeLeaving(state.shortQueue[state.shortIndex], { reason: "short-close" });
+  clearShortHistoryExpiryTimer();
+  state.shortHistory.reset();
   destroyPlayer();
   state.shortQueue = [];
   state.shortIndex = 0;

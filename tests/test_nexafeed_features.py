@@ -8,6 +8,7 @@ import importlib.util
 import json
 import os
 import re
+import subprocess
 import tempfile
 import unittest
 from pathlib import Path
@@ -65,8 +66,8 @@ class FrontendFeatureTests(unittest.TestCase):
             'data-view="ignored"',
             'id="ignoredCount"',
             "Ignored videos",
-            "app.js?v=20260802-player-clicks",
-            "style.css?v=20260802-player-clicks",
+            "app.js?v=20260802-player-controls",
+            "style.css?v=20260802-player-controls",
         ]:
             self.assertIn(marker, index_html)
 
@@ -94,8 +95,8 @@ class FrontendFeatureTests(unittest.TestCase):
         ]:
             self.assertIn(marker, app_js)
 
-        self.assertIn("app.js?v=20260802-player-clicks", index_html)
-        self.assertIn("style.css?v=20260802-player-clicks", index_html)
+        self.assertIn("app.js?v=20260802-player-controls", index_html)
+        self.assertIn("style.css?v=20260802-player-controls", index_html)
         self.assertIn("still present in the active feed is protected from pruning", readme)
 
     def test_skip_thresholds_do_not_recreate_old_five_second_watch_rule(self):
@@ -135,6 +136,75 @@ class FrontendFeatureTests(unittest.TestCase):
 
         self.assertNotIn("RECENT_PLAYER_BACKTRACK_MS = 60", app_js)
 
+    def test_short_navigation_history_is_directional_transient_and_skips_unavailable(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        history_module = ROOT / "short-history.mjs"
+        self.assertTrue(history_module.exists(), "Short history must be isolated for behavioral testing")
+
+        module_url = json.dumps(history_module.as_uri())
+        script = f"""
+          import {{ createTransientDirectionalHistory }} from {module_url};
+          let now = 100;
+          const playable = new Set(["A", "B", "C", "D", "X"]);
+          const isPlayable = (id) => playable.has(id);
+          const expect = (condition, message) => {{ if (!condition) throw new Error(message); }};
+          const history = createTransientDirectionalHistory({{ ttlMs: 10_000, maxEntries: 8, now: () => now }});
+
+          history.pushForNext("A");
+          now += 1_000;
+          history.pushForNext("B");
+          expect(history.peekBack("C", isPlayable)?.id === "B", "C should go back to B");
+          expect(history.back("C", isPlayable)?.id === "B", "first Up should open B");
+          expect(history.back("B", isPlayable)?.id === "A", "second Up should open A, not toggle to C");
+          expect(history.forward("A", isPlayable)?.id === "B", "Down after back should return to B");
+          expect(history.forward("B", isPlayable)?.id === "C", "second Down should return to C");
+
+          history.reset();
+          history.pushForNext("A");
+          now += 100;
+          history.pushForNext("X");
+          playable.delete("X");
+          expect(history.peekBack("C", isPlayable)?.id === "A", "unavailable newest entry must not mask A");
+
+          history.reset();
+          now = 500;
+          history.pushForNext("A");
+          now += 10_001;
+          expect(history.peekBack("B", isPlayable) === null, "back entry must expire after ten seconds");
+          expect(history.back("B", isPlayable) === null, "expired Up must be a no-op");
+
+          history.pushForNext("B");
+          history.reset();
+          expect(history.peekBack("C", isPlayable) === null, "new Short sessions must not inherit old history");
+        """
+        result = subprocess.run(
+            ["node", "--input-type=module", "-e", script],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+        self.assertIn(
+            'import { createTransientDirectionalHistory } from "./short-history.mjs?v=20260802-player-controls";',
+            app_js,
+        )
+        self.assertIn("shortHistory: createTransientDirectionalHistory", app_js)
+        for marker in [
+            "state.shortHistory.pushForNext(current.id)",
+            "state.shortHistory.back(current.id, isPlayableShortId)",
+            "state.shortHistory.forward(current.id, isPlayableShortId)",
+            "state.shortHistory.nextExpiryAt(current.id, isPlayableShortId)",
+            "function shortQueueForTransientTarget",
+            "function refreshShortNavigationControls",
+            "!canPreviousShort() ? \"disabled\" : \"\"",
+            "!canNextShort() ? \"disabled\" : \"\"",
+        ]:
+            self.assertIn(marker, app_js)
+        self.assertNotIn("recentShortHistory", app_js)
+        self.assertNotIn("rememberRecentShortVideo", app_js)
+        self.assertNotIn("recentShortBacktrackVideo", app_js)
+
     def test_ask_gemini_button_copies_prompt_and_opens_chat(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
         index_html = (ROOT / "index.html").read_text(encoding="utf-8")
@@ -165,8 +235,8 @@ class FrontendFeatureTests(unittest.TestCase):
 
         self.assertIn("gemini-button", style_css)
         self.assertIn("gemini-icon", style_css)
-        self.assertIn("app.js?v=20260802-player-clicks", index_html)
-        self.assertIn("style.css?v=20260802-player-clicks", index_html)
+        self.assertIn("app.js?v=20260802-player-controls", index_html)
+        self.assertIn("style.css?v=20260802-player-controls", index_html)
 
     def test_wheel_scroll_over_youtube_iframe_is_captured(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -345,8 +415,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn("YourTube - A personal YouTube Package", index_html)
         self.assertIn("Watch only those valuable for you", index_html)
-        self.assertIn("style.css?v=20260802-player-clicks", index_html)
-        self.assertIn("app.js?v=20260802-player-clicks", index_html)
+        self.assertIn("style.css?v=20260802-player-controls", index_html)
+        self.assertIn("app.js?v=20260802-player-controls", index_html)
         self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)
@@ -511,11 +581,10 @@ class EnvironmentConfigTests(unittest.TestCase):
         for email_secret in ["RESEND_API_KEY", "EMAIL_PASSWORD", "EMAIL_SMTP_HOST", "NEXAFEED_EMAIL_RECIPIENTS"]:
             self.assertNotIn(email_secret, update_workflow)
         for workflow in [update_workflow, deploy_workflow, settings_workflow]:
+            self.assertIn("cp index.html style.css app.js short-history.mjs float.html config.json _site/", workflow)
             for match in re.finditer(r"uses:\s+([^\s#]+)", workflow):
                 self.assertRegex(match.group(1), r"@[0-9a-f]{40}$")
-        self.assertIn("cp index.html style.css app.js float.html config.json _site/", deploy_workflow)
         self.assertIn("if [ -d docs ]; then cp -R docs _site/docs; fi", deploy_workflow)
-        self.assertIn("cp index.html style.css app.js float.html config.json _site/", settings_workflow)
         self.assertIn("if [ -d docs ]; then cp -R docs _site/docs; fi", settings_workflow)
 
         for public_file in ["LICENSE", "SECURITY.md", "docs/AI_SETUP_PROMPT.md", "docs/SCHEDULING.md"]:

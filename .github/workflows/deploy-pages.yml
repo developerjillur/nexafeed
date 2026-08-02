@@ -27,7 +27,7 @@ jobs:
       - name: Prepare static site
         run: |
           mkdir _site
-          cp index.html style.css app.js float.html config.json _site/
+          cp index.html style.css app.js short-history.mjs float.html config.json _site/
           cp -R data _site/data
           if [ -d docs ]; then cp -R docs _site/docs; fi
           touch _site/.nojekyll
