@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T11:53:18Z",
+  "updatedAt": "2026-08-02T12:53:27Z",
   "items": [
+    {
+      "id": "8tz6venwswo",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-02T12:32:44Z",
+      "firstSeenAt": "2026-08-02T12:53:27Z"
+    },
+    {
+      "id": "C8CcQr4rm9I",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-08-02T12:30:22Z",
+      "firstSeenAt": "2026-08-02T12:53:27Z"
+    },
+    {
+      "id": "2OkscJprecM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "HSM TECH",
+      "publishedAt": "2026-08-02T12:49:27Z",
+      "firstSeenAt": "2026-08-02T12:53:27Z"
+    },
+    {
+      "id": "V1khxZL-yVA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The AI Automators",
+      "publishedAt": "2026-08-02T11:53:27Z",
+      "firstSeenAt": "2026-08-02T12:53:27Z"
+    },
     {
       "id": "FbfdVRMgDYg",
       "type": "short",
@@ -8763,6 +8795,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-02T12:53:27Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
