@@ -66,8 +66,8 @@ class FrontendFeatureTests(unittest.TestCase):
             'data-view="ignored"',
             'id="ignoredCount"',
             "Ignored videos",
-            "app.js?v=20260802-player-controls",
-            "style.css?v=20260802-player-controls",
+            "app.js?v=20260802-history-replay",
+            "style.css?v=20260802-history-replay",
         ]:
             self.assertIn(marker, index_html)
 
@@ -95,8 +95,8 @@ class FrontendFeatureTests(unittest.TestCase):
         ]:
             self.assertIn(marker, app_js)
 
-        self.assertIn("app.js?v=20260802-player-controls", index_html)
-        self.assertIn("style.css?v=20260802-player-controls", index_html)
+        self.assertIn("app.js?v=20260802-history-replay", index_html)
+        self.assertIn("style.css?v=20260802-history-replay", index_html)
         self.assertIn("still present in the active feed is protected from pruning", readme)
 
     def test_skip_thresholds_do_not_recreate_old_five_second_watch_rule(self):
@@ -186,7 +186,7 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
         self.assertIn(
-            'import { createTransientDirectionalHistory } from "./short-history.mjs?v=20260802-player-controls";',
+            'import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260802-history-replay";',
             app_js,
         )
         self.assertIn("shortHistory: createTransientDirectionalHistory", app_js)
@@ -204,6 +204,58 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertNotIn("recentShortHistory", app_js)
         self.assertNotIn("rememberRecentShortVideo", app_js)
         self.assertNotIn("recentShortBacktrackVideo", app_js)
+
+    def test_watched_short_selected_from_history_opens_itself_and_can_be_backtracked(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        history_module = ROOT / "short-history.mjs"
+        module_url = json.dumps(history_module.as_uri())
+        script = f"""
+          import {{ buildShortPlaybackQueue, createTransientDirectionalHistory }} from {module_url};
+          const videos = [{{ id: "A" }}, {{ id: "B" }}, {{ id: "C" }}, {{ id: "D" }}];
+          const hiddenIds = new Set(["A", "C"]);
+          const isHidden = (id) => hiddenIds.has(id);
+          const expect = (condition, message) => {{ if (!condition) throw new Error(message); }};
+
+          const historyQueue = buildShortPlaybackQueue({{
+            videos,
+            requestedVideo: videos[0],
+            isHidden,
+            allowHiddenRequested: true,
+          }});
+          expect(historyQueue.map((item) => item.id).join(",") === "A,B,D", "History must open the watched Short that was clicked without leaking another hidden Short");
+
+          const transient = createTransientDirectionalHistory({{ ttlMs: 10_000 }});
+          transient.pushForNext(historyQueue[0].id);
+          expect(transient.back(historyQueue[1].id)?.id === "A", "Previous immediately after Next must return to the clicked watched Short");
+
+          const ignoredQueue = buildShortPlaybackQueue({{
+            videos,
+            requestedVideo: videos[2],
+            isHidden,
+            allowHiddenRequested: true,
+          }});
+          expect(ignoredQueue.map((item) => item.id).join(",") === "C,B,D", "Ignored view must replay its clicked Short without leaking watched items");
+
+          const normalQueue = buildShortPlaybackQueue({{
+            videos,
+            requestedVideo: videos[0],
+            isHidden,
+            allowHiddenRequested: false,
+          }});
+          expect(normalQueue.map((item) => item.id).join(",") === "B,D", "Normal playback must keep watched and ignored Shorts hidden");
+        """
+        result = subprocess.run(
+            ["node", "--input-type=module", "-e", script],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+        self.assertIn("buildShortPlaybackQueue", app_js)
+        self.assertIn('state.view === "history" && isWatched(selectedVideo.id)', app_js)
+        self.assertIn('state.view === "ignored" && isIgnored(selectedVideo.id)', app_js)
+        self.assertIn("allowHiddenRequested", app_js)
 
     def test_ask_gemini_button_copies_prompt_and_opens_chat(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -235,8 +287,8 @@ class FrontendFeatureTests(unittest.TestCase):
 
         self.assertIn("gemini-button", style_css)
         self.assertIn("gemini-icon", style_css)
-        self.assertIn("app.js?v=20260802-player-controls", index_html)
-        self.assertIn("style.css?v=20260802-player-controls", index_html)
+        self.assertIn("app.js?v=20260802-history-replay", index_html)
+        self.assertIn("style.css?v=20260802-history-replay", index_html)
 
     def test_wheel_scroll_over_youtube_iframe_is_captured(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -394,7 +446,7 @@ class FrontendFeatureTests(unittest.TestCase):
             "finalizeVideoBeforeLeaving(current",
             "function shortPlaybackQueue",
             "function pruneWatchedShortQueue",
-            "function nextUnwatchedShortAfter",
+            "return buildShortPlaybackQueue({",
             "const selectedVideo = allShorts.find((item) => item.id === video?.id);",
             "const currentAfterPrune = state.shortQueue[state.shortIndex];",
             "All available Shorts are already watched",
@@ -415,8 +467,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn("YourTube - A personal YouTube Package", index_html)
         self.assertIn("Watch only those valuable for you", index_html)
-        self.assertIn("style.css?v=20260802-player-controls", index_html)
-        self.assertIn("app.js?v=20260802-player-controls", index_html)
+        self.assertIn("style.css?v=20260802-history-replay", index_html)
+        self.assertIn("app.js?v=20260802-history-replay", index_html)
         self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)

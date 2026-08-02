@@ -1,4 +1,4 @@
-import { createTransientDirectionalHistory } from "./short-history.mjs?v=20260802-player-controls";
+import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260802-history-replay";
 
 const app = document.querySelector("#app");
 const overlayRoot = document.querySelector("#overlayRoot");
@@ -631,7 +631,7 @@ function youtubeEmbedSrc(video, autoplay = true) {
 function floatingPopupUrl(video) {
   const popupUrl = new URL("float.html", window.location.href);
   const params = new URLSearchParams({
-    v: "20260802-player-controls",
+    v: "20260802-history-replay",
     id: video.id,
     title: String(video.title || "YourTube video").slice(0, 180),
     type: video.type === "short" ? "short" : "long",
@@ -1684,24 +1684,19 @@ function refreshShortNavigationControls() {
   scheduleShortHistoryExpiry();
 }
 
-function nextUnwatchedShortAfter(video, allShorts) {
-  const startIndex = allShorts.findIndex((item) => item.id === video?.id);
-  const afterCurrent = startIndex >= 0 ? allShorts.slice(startIndex + 1) : allShorts;
-  return afterCurrent.find((item) => !isHiddenFromPlayback(item.id)) || allShorts.find((item) => !isHiddenFromPlayback(item.id)) || null;
-}
-
 function shortPlaybackQueue(video) {
   const allShorts = playableShortVideos();
   const selectedVideo = allShorts.find((item) => item.id === video?.id);
-  const canReplayIgnoredSelection = state.view === "ignored" && selectedVideo && isIgnored(selectedVideo.id);
-  const startVideo = selectedVideo && (!isHiddenFromPlayback(selectedVideo.id) || canReplayIgnoredSelection)
-    ? selectedVideo
-    : nextUnwatchedShortAfter(video, allShorts);
-  if (!startVideo) return [];
-  return [
-    startVideo,
-    ...allShorts.filter((item) => item.id !== startVideo.id && !isHiddenFromPlayback(item.id)),
-  ];
+  const allowHiddenRequested = Boolean(selectedVideo && (
+    (state.view === "history" && isWatched(selectedVideo.id))
+    || (state.view === "ignored" && isIgnored(selectedVideo.id))
+  ));
+  return buildShortPlaybackQueue({
+    videos: allShorts,
+    requestedVideo: video,
+    isHidden: isHiddenFromPlayback,
+    allowHiddenRequested,
+  });
 }
 
 function pruneWatchedShortQueue(keepVideoId) {

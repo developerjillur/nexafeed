@@ -1,3 +1,27 @@
+export function buildShortPlaybackQueue({
+  videos = [],
+  requestedVideo = null,
+  isHidden = () => false,
+  allowHiddenRequested = false,
+} = {}) {
+  const playable = Array.isArray(videos) ? videos.filter((video) => video?.id) : [];
+  const requestedId = requestedVideo?.id;
+  const requestedIndex = playable.findIndex((video) => video.id === requestedId);
+  const selectedVideo = requestedIndex >= 0 ? playable[requestedIndex] : null;
+  const afterRequested = requestedIndex >= 0 ? playable.slice(requestedIndex + 1) : playable;
+  const firstVisible = afterRequested.find((video) => !isHidden(video.id))
+    || playable.find((video) => !isHidden(video.id))
+    || null;
+  const startVideo = selectedVideo && (!isHidden(selectedVideo.id) || allowHiddenRequested)
+    ? selectedVideo
+    : firstVisible;
+  if (!startVideo) return [];
+  return [
+    startVideo,
+    ...playable.filter((video) => video.id !== startVideo.id && !isHidden(video.id)),
+  ];
+}
+
 export function createTransientDirectionalHistory({
   ttlMs = 10_000,
   maxEntries = 8,
