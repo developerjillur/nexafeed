@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T08:53:32Z",
+  "updatedAt": "2026-08-02T09:53:32Z",
   "items": [
+    {
+      "id": "FTVaxExDZvA",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-02T09:48:55Z",
+      "firstSeenAt": "2026-08-02T09:53:32Z"
+    },
+    {
+      "id": "lq4Z2FTKtGk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-02T09:22:04Z",
+      "firstSeenAt": "2026-08-02T09:53:32Z"
+    },
+    {
+      "id": "OrcBSpADCGk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Search",
+      "publishedAt": "2026-08-02T03:53:32Z",
+      "firstSeenAt": "2026-08-02T09:53:32Z"
+    },
+    {
+      "id": "qEUXagHtQRo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CNN",
+      "publishedAt": "2026-08-01T19:53:32Z",
+      "firstSeenAt": "2026-08-02T09:53:32Z"
+    },
+    {
+      "id": "N2lUu1Mg5B8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bloomberg Television",
+      "publishedAt": "2026-08-01T14:53:32Z",
+      "firstSeenAt": "2026-08-02T09:53:32Z"
+    },
     {
       "id": "W2xCO5EICDM",
       "type": "short",
@@ -8648,6 +8688,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-02T09:53:32Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
