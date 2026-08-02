@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T15:53:14Z",
+  "updatedAt": "2026-08-02T17:53:15Z",
   "items": [
+    {
+      "id": "BRB12bTKeEY",
+      "type": "short",
+      "source": "primary",
+      "channel": "VDM Social",
+      "publishedAt": "2026-08-02T17:24:44Z",
+      "firstSeenAt": "2026-08-02T17:53:15Z"
+    },
+    {
+      "id": "hSoC_eyfLlM",
+      "type": "short",
+      "source": "primary",
+      "channel": "H Gandotra",
+      "publishedAt": "2026-08-02T16:12:12Z",
+      "firstSeenAt": "2026-08-02T17:53:15Z"
+    },
+    {
+      "id": "CxOkKHxF0qk",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Adventurer",
+      "publishedAt": "2026-08-02T15:57:04Z",
+      "firstSeenAt": "2026-08-02T17:53:15Z"
+    },
+    {
+      "id": "B65UfFCGRuk",
+      "type": "short",
+      "source": "primary",
+      "channel": "VDM Social",
+      "publishedAt": "2026-07-30T09:05:19Z",
+      "firstSeenAt": "2026-08-02T17:53:15Z"
+    },
+    {
+      "id": "8plMYyQYnGs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "m365 Show by Mirko Peters",
+      "publishedAt": "2026-08-02T17:14:15Z",
+      "firstSeenAt": "2026-08-02T17:53:15Z"
+    },
+    {
+      "id": "EevUMH7eDpk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rayhan Tanjim",
+      "publishedAt": "2026-08-02T15:53:15Z",
+      "firstSeenAt": "2026-08-02T17:53:15Z"
+    },
+    {
+      "id": "0BhohWCZ_hg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Drug Safety Coach",
+      "publishedAt": "2026-08-02T13:53:15Z",
+      "firstSeenAt": "2026-08-02T17:53:15Z"
+    },
+    {
+      "id": "V0G43ESOXFE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Junhan Chin",
+      "publishedAt": "2026-08-02T10:53:15Z",
+      "firstSeenAt": "2026-08-02T17:53:15Z"
+    },
+    {
+      "id": "MkrTp2Kuv7Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ramesh Fadatare - AI & Tech",
+      "publishedAt": "2026-08-02T05:53:15Z",
+      "firstSeenAt": "2026-08-02T17:53:15Z"
+    },
+    {
+      "id": "ZWW1pIJFs5E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "KKRGENAI Innovations",
+      "publishedAt": "2026-08-01T18:53:15Z",
+      "firstSeenAt": "2026-08-02T17:53:15Z"
+    },
     {
       "id": "Gx2QN7FvKAM",
       "type": "long",
@@ -8943,6 +9023,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-02T17:53:15Z",
+      "new": 10,
+      "long": 6,
+      "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
