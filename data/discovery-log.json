@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T01:53:16Z",
+  "updatedAt": "2026-08-02T02:53:26Z",
   "items": [
+    {
+      "id": "JoIdxjahI24",
+      "type": "short",
+      "source": "secondary",
+      "channel": "PRISC Group",
+      "publishedAt": "2026-08-01T23:53:26Z",
+      "firstSeenAt": "2026-08-02T02:53:26Z"
+    },
+    {
+      "id": "VgK0yQmmu3Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nirvana | AI Automation",
+      "publishedAt": "2026-08-01T22:53:26Z",
+      "firstSeenAt": "2026-08-02T02:53:26Z"
+    },
+    {
+      "id": "pbcnhdpQ7IA",
+      "type": "short",
+      "source": "secondary",
+      "channel": "AI Digital Marketing Agency",
+      "publishedAt": "2026-08-01T19:53:26Z",
+      "firstSeenAt": "2026-08-02T02:53:26Z"
+    },
+    {
+      "id": "r6Yj4u_FDVg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GHL Wizard",
+      "publishedAt": "2026-08-01T16:53:26Z",
+      "firstSeenAt": "2026-08-02T02:53:26Z"
+    },
+    {
+      "id": "UdOK6t0W_W0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jeff Herschy",
+      "publishedAt": "2026-08-01T15:53:26Z",
+      "firstSeenAt": "2026-08-02T02:53:26Z"
+    },
+    {
+      "id": "-0QPa4C7uBI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Saifullah Saif",
+      "publishedAt": "2026-08-01T13:53:26Z",
+      "firstSeenAt": "2026-08-02T02:53:26Z"
+    },
+    {
+      "id": "Ge_d3NzBBJE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Tech Hub",
+      "publishedAt": "2026-08-01T13:53:26Z",
+      "firstSeenAt": "2026-08-02T02:53:26Z"
+    },
     {
       "id": "3YkMI7z_CWI",
       "type": "long",
@@ -8451,6 +8507,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-02T02:53:26Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
