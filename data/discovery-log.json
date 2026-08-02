@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T00:53:06Z",
+  "updatedAt": "2026-08-02T01:53:16Z",
   "items": [
+    {
+      "id": "3YkMI7z_CWI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dan Kieft",
+      "publishedAt": "2026-08-01T15:53:16Z",
+      "firstSeenAt": "2026-08-02T01:53:16Z"
+    },
+    {
+      "id": "TIFiTQBL5vY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "You B Tech",
+      "publishedAt": "2026-08-01T15:53:16Z",
+      "firstSeenAt": "2026-08-02T01:53:16Z"
+    },
+    {
+      "id": "-wJpoCmMcCY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WsCube Tech",
+      "publishedAt": "2026-08-01T13:53:16Z",
+      "firstSeenAt": "2026-08-02T01:53:16Z"
+    },
+    {
+      "id": "lDAdc0w2kAk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DataBeli",
+      "publishedAt": "2026-08-01T13:53:16Z",
+      "firstSeenAt": "2026-08-02T01:53:16Z"
+    },
     {
       "id": "injJEVRblpA",
       "type": "long",
@@ -8410,6 +8442,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-02T01:53:16Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
