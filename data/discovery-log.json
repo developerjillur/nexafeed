@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T09:53:32Z",
+  "updatedAt": "2026-08-02T10:53:10Z",
   "items": [
+    {
+      "id": "0Q2FgYHkLak",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-02T10:37:10Z",
+      "firstSeenAt": "2026-08-02T10:53:10Z"
+    },
+    {
+      "id": "Ut0i-SSEXY4",
+      "type": "long",
+      "source": "primary",
+      "channel": "Piyush Garg",
+      "publishedAt": "2026-08-02T10:00:03Z",
+      "firstSeenAt": "2026-08-02T10:53:10Z"
+    },
+    {
+      "id": "oou1W-YDIiQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tom's Smart Home",
+      "publishedAt": "2026-08-02T01:53:10Z",
+      "firstSeenAt": "2026-08-02T10:53:10Z"
+    },
     {
       "id": "FTVaxExDZvA",
       "type": "short",
@@ -8697,6 +8721,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-02T10:53:10Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }

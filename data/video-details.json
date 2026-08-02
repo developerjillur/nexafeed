@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T09:53:32Z",
+  "updatedAt": "2026-08-02T10:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-07-27T07:24:18Z",
@@ -985,15 +985,6 @@
       "description": "Big news! 🚀\n\nChatGPT Work is available today in ChatGPT on web and mobile for Pro, Enterprise, and Edu, with Plus and Business rolling out over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally to download on Windows and Mac.\n\n💻 How to get it:\nGo to chatgpt.com/download to get the app for your computer!\n\n🔗 Link in bio for 7-days!\n\n@ChatGPT #ChatGPT_Partner",
       "commentCount": 22,
       "likeCount": 601,
-      "probeClient": "web_embedded"
-    },
-    "T5pu0lH2Dwc": {
-      "checkedAt": "2026-07-27T07:46:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Hey everyone, In this video, we are going to talk about Transactional Outbox Pattern and how it works. The transactional outbox pattern guarantees that a local database update and the publishing of a message to an event broker (like Kafka) occur together atomically. It avoids the \"dual-write\" problem by storing outgoing messages in an \"outbox\" table in the same database, allowing a separate relay to publish them asynchronously.\n\nCheckout My Courses:\n- Master Docker Containerization: https://pro.piyushgarg.dev/learn/docker\n- Master DSA with Java: https://piyushgarg.pro/udemy-java-dsa\n- Master GenAI with Python: https://piyushgarg.pro/udemy-genai\n- Master Backend with NodeJS: https://piyushgarg.pro/udemy-nodejs\n\nFollow Me:\n- Instagram: https://www.instagram.com/piyushgarg.official\n- X (Formerly Twitter): https://x.com/piyushgarg_dev\n- Personal Website: https://www.piyushgarg.dev\n- LinkedIn: https://www.linkedin.com/in/piyushgarg195\n\nFounder / Creator of:\n- Teachyst: https://www.teachyst.com\n- WisprType: https://wisprtype.com\n- SkyPing: https://skyping.app\n\nMy Gears:\n- Standing Desk: https://amzn.to/4cUN6PL\n- Chair: https://amzn.to/429Q38S\n- MacBook Pro: https://amzn.to/4djTYGf\n- Keyboard: https://amzn.to/4w228KQ\n- Mouse: https://amzn.to/42Hxw3J\n\nVideo Titles\n- What is Transactional Outbox Pattern?\n- What is Outbox Pattern?\n- What is Distributed Systems and Async System Design?\n\nHashtags\n#nodejs #javascript #webdevelopment #systemdesign #backenddeveloper #fullstackwebdevelopment #javascript #coding #programming #systemdesign #htmlcss #webdevelopment",
-      "commentCount": 25,
-      "likeCount": 313,
       "probeClient": "web_embedded"
     },
     "XOao6GKPpsk": {
@@ -5250,18 +5241,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "rcspkbIIXLs": {
-      "checkedAt": "2026-08-02T06:53:30Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Our Journey From 0 To 1.3 crore Full Video - https://www.youtube.com/watch?v=VLJNNyspsVs\n\nCourse - https://harkaransingh.graphy.com",
-      "commentCount": 0,
-      "likeCount": 14,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-02T06:53:30Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "6P59bezqYUY": {
       "checkedAt": "2026-08-02T07:53:31Z",
       "embedAllowed": true,
@@ -5505,7 +5484,7 @@
       "probeClient": "web_embedded"
     },
     "W93f8ZFOzxQ": {
-      "checkedAt": "2026-08-02T09:53:32Z",
+      "checkedAt": "2026-08-02T10:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5780,7 +5759,7 @@
       "probeClient": "web_embedded"
     },
     "q26SM0Q6cds": {
-      "checkedAt": "2026-08-02T09:53:32Z",
+      "checkedAt": "2026-08-02T10:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6981,7 +6960,7 @@
       "probeClient": "web_embedded"
     },
     "X6U0U8BwAao": {
-      "checkedAt": "2026-08-02T09:53:32Z",
+      "checkedAt": "2026-08-02T10:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7155,15 +7134,6 @@
       "description": "Welcome to the ultimate guide on the latest version of FB Group Blaster! If you are struggling with manual Facebook group posting, account blocks, or getting banned by Meta's strict AI algorithms, this video is a complete game-changer for your digital marketing strategy.\n\nOrder Now: https://digivateit.com/product/fb-group-blaster/\n\nIn this comprehensive tutorial, we break down the newest updates, advanced features, and a step-by-step framework to automate your Facebook marketing safely, efficiently, and without the fear of getting your profile restricted.\n\n📌 Key Highlights of This Update:\n1-Click Bulk Posting via CSV/Excel & Text Files: Learn how to queue up dozens or even hundreds of posts and publish them across multiple targeted Facebook groups instantly.\n\nAdvanced \"Cookies Login\" System: Say goodbye to repetitive login prompts, manual password entries, and tedious robot verification/2FA loops. Use our secure cookie-import method to sync your Chrome browser session seamlessly.\n\nSmart Auto-Post Rotation (Anti-Ban Protection): Meta's algorithm flags identical posts sent repeatedly. Our new auto-rotation system allows you to upload multiple text variations (.txt files), ensuring that the software dynamically changes the caption for every group and drastically reduces spam flags.\n\nLive Progress Tracker & Status Dashboard: Monitor your campaigns in real-time. Track exactly how many posts have been successfully Sent, how many are Pending, and which ones faced restrictions due to group admin pauses or closed group policies.\n\nBackground Processing & Miniaturization: Run your marketing campaigns seamlessly in the background. Minimize the software window and let it handle your outreach while you focus on other core tasks.\n\n⏱️ Video Chapters & Timestamps:\n0:00 - Introduction: What's new in FB Group Blaster\n\n0:10 - Clearing Browser Data & Troubleshooting Logins\n\n0:28 - Why Use \"Login with Cookies\"? (The safest method)\n\n0:42 - Step-by-Step Guide: Installing Cookie-Editor Extension\n\n1:35 - Importing JSON Cookies into FB Group Blaster\n\n1:58 - Managing Post Content & Using Auto-Rotation Text Files\n\n2:54 - Extracting & Adding Targeted Facebook Group Links\n\n3:20 - Adjusting Speed Delays (High, Medium, Slow settings)\n\n3:58 - Live Demonstration: Running an Automated Group Post Campaign\n\n5:47 - Verifying Post Uniqueness via Facebook Activity Log\n\n7:03 - Handling Minimized Windows & Background Automation\n\n8:28 - Troubleshooting Failed Posts & Group Admin Restrictions\n\n9:21 - Conclusion and How to Get Future Updates Free\n\n🔗 Important Links & Resources:\nWatch the Full Setup Guide & Playlist: [Insert Link Here]\n\nDownload Cookie-Editor Extension: Search on Chrome Web Store\n\nOrder & License Activation: Contact us directly via WhatsApp or visit our official platform below.\n\n📞 Get in Touch With Us:\nNeed custom software, digital marketing services, or business automation tools? Connect with our team today!\n\nWebsite: https://www.digivateit.com\n\nHelpline / WhatsApp: +88 01575-489688\n\n⚠️ Disclaimer & Copyright Notice:\nThis video and software are intended for educational and authorized digital marketing automation purposes only. Users are advised to comply with Facebook’s Terms of Service and Community Standards to prevent account misuse. We do not promote spamming or unauthorized data extraction.\n\n📱 WhatsApp: +8801575-489688\n✉️ ইনবক্স করুন: http://m.me/DigivateIT/\n🌐 Website: https://digivateit.com\n\n📢 WhatsApp Channel: https://whatsapp.com/channel/0029VaUjqfr3wtbGsNE1J027/132\n👥 WhatsApp Community: https://chat.whatsapp.com/FEilaNelAfy39QmkqPPrGM\n📡 Telegram Channel:\n1️⃣ https://t.me/DigivateIT\n2️⃣ https://t.me/digivateit2\n\n#FBGroupBlaster #FacebookMarketing #BulkPosting #SocialMediaAutomation #DigivateIT #DigitalMarketingBD #FacebookAutoPoster #AntiBanMarketing #LeadGeneration #GroupMarketing #BusinessAutomation",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "IrNmVz9_gmM": {
-      "checkedAt": "2026-08-01T16:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "India's best social media automation tool that can literally become your AI business team. \n\nCheckout Solo: \nhttps://get.solo.interakt.ai/?c=solo-partner-referral&referrer=KJFA7K4N\n\n_________________________\n\nBook Private Consultation with Lakshit sir: https://courses.socialseller.in/l/6040e8b0a0\n_________________________\n\n👨‍🏫 Digital Marketing Course by Lakshit Sethiya\nhttps://course.socialseller.in/courses\n\n👨‍🏫 Register for Live WhatsApp Marketing Workshop: https://webinar.socialseller.in/whatsapp_marketing\n\n___________________________________\n\nCourses by Social Seller Academy\n\n👨‍🏫Canva Designing Course: https://course.socialseller.in/courses\n👨‍🏫Digital Marketing for Online Selling: https://course.socialseller.in/courses\n👨‍🏫Reselling Business Mastery Course: https://course.socialseller.in/courses\n👨‍🏫Sell Online - Full Course: https://course.socialseller.in/courses\n👨‍🏫WhatsApp Marketing Course: https://course.socialseller.in/courses\n👨‍🏫YouTube Ads mastery course: https://course.socialseller.in/courses\n👨‍🏫Google Ads Mastery Course: https://course.socialseller.in/courses\n\n ______________________\n\n👉 Our Services\n\n👉Startup & Business Consultation Service\n👉Website / Mobile App Development Service\n👉Digital Marketing (Meta & Google Ads) Service \n👉Video Editing & Graphic Designing Service\n👉WhatsApp Automation & API Service \n ______________________\n\n👉For Inquiry: https://socialseller.in/contact\n\n👉Connect on WhatsApp: https://wa.me/918370044449\n\n👉For More Details Contact\n📧 E-Mail: socialselleracademy@gmail.com\nWhatsApp: +918370044449\n\n#ai #solo #automation #jio",
-      "commentCount": 3,
-      "likeCount": 46,
       "probeClient": "web_embedded"
     },
     "2QCzGlaB_3Y": {
@@ -7624,99 +7594,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "lq4Z2FTKtGk": {
-      "checkedAt": "2026-08-02T09:53:32Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "KOI-5715.01 is a real candidate exoplanet detected by NASA's Kepler space telescope, located roughly 2,964 to 3,000 light-years away in the constellation Cygnus. It is estimated to be around twice the radius of Earth, orbiting within its star's habitable zone, meaning surface conditions could theoretically support liquid water.\n\nWhat makes this system genuinely remarkable is not the planet. It is the star. Our own sun is a yellow dwarf, a G-type main sequence star with a total lifespan of roughly 10 billion years, of which it has already burned through nearly half. KOI-5715.01 instead orbits a K-type orange dwarf, a class of star known for extraordinary stability and longevity, with some orange dwarfs capable of burning steadily for up to 70 billion years.\n\nFor comparison, life on Earth has had approximately 4 billion years to evolve from single-celled organisms into the full diversity we see today. A planet with a stable habitable zone lasting into the tens of billions of years raises a genuinely open scientific question: what could evolution produce given that much additional time? The reference to civilizations capable of building a Dyson sphere, a hypothetical megastructure that would encircle a star to capture its total energy output, is a speculative extrapolation used to illustrate the scale of that timeframe, not a claim about any confirmed observation.\n\nIt is important to note that KOI-5715.01 remains an unconfirmed planetary candidate. Kepler Objects of Interest require independent follow-up observation before being formally confirmed as planets, and this one has not yet received that confirmation.\n\nSource: NASA Exoplanet Archive, Kepler Objects of Interest. NASA, Kepler Mission Overview. Astronomical data on K-type main sequence star lifespans, stellar evolution models.\n#KeplerTelescope #OrangeDwarf #NASA #KOI571501 #Exoplanet",
-      "commentCount": 8,
-      "likeCount": 160,
-      "comments": [
-        {
-          "id": "UgzvnroMzj9W8TpDFzB4AaABAg",
-          "author": "@nileshwaghmode6169",
-          "text": "Nice information 👍",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T09:51:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nzvLEULFEdfGRaq1Dwj3H-YmIyOLJJeK-l3HlzYgDMO3U=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyPO1EEiR1NdV1tVcR4AaABAg",
-          "author": "@SatyamGupta_96",
-          "text": "I KNOW",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T09:46:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_meLtS1C8gl1i7ctdw977aqXq65ZlRYz3nJcpNHxhajLNpRpb2AVHlBghoDuIef2xu6gQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxZ3YYxK1jfY0Z8YVR4AaABAg",
-          "author": "@meehsanstory",
-          "text": "Bhi kis camera se record krte ho reply zroor krna big fan❤",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T09:45:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/4ylX_M8oBR_msqzbqdB-f1V_aIcegXZCt6PT19em8W2ahAc_ifSHDX0-Jewl0kFQMEkMDopcDg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxIR0enAckB2gQV8Qt4AaABAg",
-          "author": "@Kitex450",
-          "text": "How do you make this kind of videos can you please make a tutorial?",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T09:42:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/yp4cGthPgnBWJxRWOU8XprBUcNrQG5HrvMBNGb0jojYvgirMhyyFKlvNI-bxMET0iDjaYUDhOw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwfF80HuWclYmubLGZ4AaABAg",
-          "author": "@TheGlobalPrismHub",
-          "text": "Thanks For ( 324 SUBSCRIBE ) ❤",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T09:40:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/dmSdMPHlu1BhcOeUqSQumx1fcFRQaYcnn4upjq0ctoTbFaX-CRaEFSD9Vu6n5wOQuaLBocJ2mw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyOohAhm6NEqMBwuMp4AaABAg",
-          "author": "@Gw_Abh16",
-          "text": "Yah sochkar hi dar hota hai ki 5 billion sal ke bad kuchh nahin rahane wala na ma ma tum or ma earth 😵‍💫",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T09:33:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/YvaTM6dNF9ThOb55fzfLWxhq6a27gCudGePSec0_OcYUl-GwY7eMv_A81JFDJ4w0pMyD8Zgg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy8YsThC0YBWOCPst54AaABAg",
-          "author": "@Something-h1b",
-          "text": "Agar chess ke total possible games ki baat kare toh wo ∞ ( infinite) hai ? kyu ki illegal moves ko include kare toh every repeated move new game ban jayega??? \nAm i right or not?",
-          "likeCount": 1,
-          "publishedAt": "2026-08-02T09:31:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/R8946cIdtJvw_PbqRHlxeTjXdLLNzffrxzFJw8Ld5sh1-_yXA8dOMh6Kp4BGchKvD4_ROjJ6-yc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugys9VPoEnS5OPiWiOR4AaABAg",
-          "author": "@Something-h1b",
-          "text": "Kya boots void pe type 4 civilization ho sakti hai?\n And abhi kahi near me hi koi civilization ho to bhi pata nahi chal sakta kyu ki light ko aane me thousands of years lag sakte hai, am i right or not ?",
-          "likeCount": 1,
-          "publishedAt": "2026-08-02T09:29:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/R8946cIdtJvw_PbqRHlxeTjXdLLNzffrxzFJw8Ld5sh1-_yXA8dOMh6Kp4BGchKvD4_ROjJ6-yc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-02T09:53:32Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "OrcBSpADCGk": {
       "checkedAt": "2026-08-02T09:53:32Z",
       "embedAllowed": true,
@@ -7742,6 +7619,45 @@
       "description": "Following earnings this week that saw tech giants like Microsoft and Amazon report aggressive AI spending plans, EZ Primary Research CEO Ed Zitron gives his more skeptical take on the industry. In speaking about OpenAI and Anthropic Zitron argues \"everyone is buying into these stocks because they believe all of that CapEx is going towards diverse and spread out AI demand, when in fact, what it's actually doing is helping create infrastructure for two unprofitable, unsustainable companies.\"\r\n--------\r\nMore on Bloomberg Television and Markets\r\n \r\nLike this video? Subscribe and turn on notifications so you don't miss any videos from Bloomberg Markets & Finance: https://tinyurl.com/ysu5b8a9\r\nVisit http://www.bloomberg.com for business news & analysis, up-to-the-minute market data, features, profiles and more.\r\n \r\nConnect with Bloomberg Television on:\r\nX: https://twitter.com/BloombergTV\r\nFacebook: https://www.facebook.com/BloombergTelevision\r\nInstagram: https://www.instagram.com/bloombergtv/\r\n \r\nConnect with Bloomberg Business on:\r\nX: https://twitter.com/business\r\nFacebook: https://www.facebook.com/bloombergbusiness\r\nInstagram: https://www.instagram.com/bloombergbusiness/\r\nTikTok: https://www.tiktok.com/@bloombergbusiness?lang=en\r\nReddit: https://www.reddit.com/r/bloomberg/\r\nLinkedIn: https://www.linkedin.com/company/bloomberg-news/\r\n \r\nMore from Bloomberg:\r\nBloomberg Radio: https://twitter.com/BloombergRadio\r\n\r\nBloomberg Surveillance: https://twitter.com/bsurveillance\r\nBloomberg Politics: https://twitter.com/bpolitics\r\nBloomberg Originals: https://twitter.com/bbgoriginals\r\n \r\nWatch more on YouTube:\r\nBloomberg Technology: https://www.youtube.com/@BloombergTechnology\r\nBloomberg Originals: https://www.youtube.com/@business\r\nBloomberg Quicktake: https://www.youtube.com/@BloombergQuicktake\r\nBloomberg Espanol: https://www.youtube.com/@bloomberg_espanol\r\nBloomberg Podcasts: https://www.youtube.com/@BloombergPodcasts",
       "commentCount": 198,
       "likeCount": 925,
+      "probeClient": "web_embedded"
+    },
+    "0Q2FgYHkLak": {
+      "checkedAt": "2026-08-02T10:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "learn how to start from zero and what is the right approach",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-02T10:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "Ut0i-SSEXY4": {
+      "checkedAt": "2026-08-02T10:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Hey everyone, In this video, we are going to talk about CDC Change data capture pipeline in system design. we will talk about what CDC is in big systems and why it is important for building things like ETL Pipelines.\n\nCheckout My Courses:\n- Master Docker Containerization: https://pro.piyushgarg.dev/learn/docker\n- Master DSA with Java: https://piyushgarg.pro/udemy-java-dsa\n- Master GenAI with Python: https://piyushgarg.pro/udemy-genai\n- Master Backend with NodeJS: https://piyushgarg.pro/udemy-nodejs\n\nFollow Me:\n- Instagram: https://www.instagram.com/piyushgarg.official\n- X (Formerly Twitter): https://x.com/piyushgarg_dev\n- Personal Website: https://www.piyushgarg.dev\n- LinkedIn: https://www.linkedin.com/in/piyushgarg195\n\nFounder / Creator of:\n- Teachyst: https://www.teachyst.com\n- WisprType: https://wisprtype.com\n- SkyPing: https://skyping.app\n\nMy Gears:\n- Standing Desk: https://amzn.to/4cUN6PL\n- Chair: https://amzn.to/429Q38S\n- MacBook Pro: https://amzn.to/4djTYGf\n- Keyboard: https://amzn.to/4w228KQ\n- Mouse: https://amzn.to/42Hxw3J\n\nVideo Titles\n- What is CDC?\n- What is Change Data Capture?\n- How to Implement CDC - Change data capture\n\nHashtags\n#nodejs #javascript #webdevelopment #systemdesign #backenddeveloper #fullstackwebdevelopment #javascript #coding #programming #systemdesign #htmlcss #webdevelopment",
+      "commentCount": 6,
+      "likeCount": 39,
+      "probeClient": "web_embedded"
+    },
+    "fagSVgEtU2E": {
+      "checkedAt": "2026-08-02T10:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "The Demon Core was a 6.2 kilogram sphere of plutonium-gallium alloy, manufactured by the Manhattan Project in 1945 and originally intended for the third atomic bomb to be used against Japan. Japan surrendered before it was shipped, and the core remained at Los Alamos for testing.\nOn August 21, 1945, physicist Harry Daghlian was alone at the Omega Site, stacking tungsten carbide bricks around the core to study how close it could get to criticality. As he placed the final brick, neutron detectors indicated the assembly was going supercritical. He pulled his hand back, the brick slipped from his grip, and fell directly into the assembly. A flash of blue light filled the room. Daghlian dismantled the assembly by hand to stop the reaction, receiving an estimated whole-body dose of 290 to 310 rem, roughly 3 sieverts. He died 25 days later from acute radiation syndrome, the first person in history killed by a criticality accident.\nExperiments with the core continued. On May 21, 1946, exactly nine months later, physicist Louis Slotin was performing a similar demonstration, holding a beryllium reflector dome apart from the core using the blade of a screwdriver rather than the required safety shims, a practice Enrico Fermi had specifically warned him would get him killed within a year. The screwdriver slipped. The dome closed. The room lit up blue again. Slotin, standing closest to the assembly, received an estimated dose of around 880 rem, roughly 8.8 sieverts, one of the most severe acute radiation exposures ever recorded in a survivable timeframe. He died 9 days later.\nRemarkably, both accidents occurred on a Tuesday, both on the 21st of the month, and both men died in the same hospital room at the Los Alamos base hospital.\nAfter Slotin's death, the core was permanently retired. It was melted down in the summer of 1946 and its plutonium recycled into other weapon cores. It was never assembled again.\nSource: Atomic Heritage Foundation, Nuclear Museum. American Physical Society, This Month in Physics History (2014). Wikipedia, Harry Daghlian. Nevada Technical Associates, The Demon Core.\n#DemonCore #ManhattanProject #LouisSlotin #RadiationSickness #CriticalityAccident",
+      "commentCount": 348,
+      "likeCount": 78697,
+      "probeClient": "web_embedded"
+    },
+    "oou1W-YDIiQ": {
+      "checkedAt": "2026-08-02T10:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Master Home Assistant automations using this simple 3-step formula! This video will help you automate your devices using Home Assistant.  \n\n🔥Get started with the Aqara FP300 Presence Sensor: https://geni.us/B99TXA0   \n\n\n====================\nRelated Videos\n====================\n\n⚡https://www.youtube.com/playlist?list=PLH8ZiopP3KsY\n\n⚡https://www.youtube.com/watch?v=Ibi5rX2ZcVs&list=PLZ_iZ-o4__u0&index=1\n\n⚡https://www.youtube.com/watch?v=Nkq51_mVVdg&list=PLa_JGr3gZ9jEeoIGOe-Y-pufa0mBwATak&index=3\n\n====================\nDescription\n====================\n\nStop using Home Assistant as just a fancy remote control and unlock true smart home automation.\n\nLearn the core 3-step framework (Triggers, Conditions, Actions) to build reliable, local-first automations.\n\nPerfect for beginners setting up presence sensors, Zigbee hardware, and smart switches without overcomplicating their setup.\n\nBuild your first automation tonight and drop me a note with what you created!  \n\n====================\nTimestamps\n====================\n\n00:00 - Intro\n00:36 - The 3-Step Automation Formula Explained\n01:08 - You NEED This To Actually Get Started\n03:35 - What should it actually do?\n05:12 - Use this to help guide your automation\n06:38 - Finished setup\n08:07 - Homework Challenge & Next Steps\n\n\nThis video is NOT sponsored. Product links are affiliate links so if you buy something, I receive a small commission. As an Amazon Associate I earn from qualifying purchases. Thank you!",
+      "commentCount": 2,
+      "likeCount": 21,
       "probeClient": "web_embedded"
     }
   }
