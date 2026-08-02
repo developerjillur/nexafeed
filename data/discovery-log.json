@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T10:53:10Z",
+  "updatedAt": "2026-08-02T11:53:18Z",
   "items": [
+    {
+      "id": "FbfdVRMgDYg",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-02T11:32:52Z",
+      "firstSeenAt": "2026-08-02T11:53:18Z"
+    },
+    {
+      "id": "JZf_m_BVDaQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Better Stack",
+      "publishedAt": "2026-08-02T02:53:18Z",
+      "firstSeenAt": "2026-08-02T11:53:18Z"
+    },
+    {
+      "id": "cj5Iynj2-HI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-08-01T16:53:18Z",
+      "firstSeenAt": "2026-08-02T11:53:18Z"
+    },
     {
       "id": "0Q2FgYHkLak",
       "type": "short",
@@ -8730,6 +8754,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-02T11:53:18Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
