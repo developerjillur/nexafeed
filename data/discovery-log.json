@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T02:53:26Z",
+  "updatedAt": "2026-08-02T03:53:35Z",
   "items": [
+    {
+      "id": "_Wq3Z_DfAJ4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Professor of AI",
+      "publishedAt": "2026-08-02T03:33:12Z",
+      "firstSeenAt": "2026-08-02T03:53:35Z"
+    },
+    {
+      "id": "TKWmubQA-LI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rambling Rishika ",
+      "publishedAt": "2026-08-01T13:53:35Z",
+      "firstSeenAt": "2026-08-02T03:53:35Z"
+    },
     {
       "id": "JoIdxjahI24",
       "type": "short",
@@ -8516,6 +8532,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-02T03:53:35Z",
+      "new": 2,
+      "long": 1,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
