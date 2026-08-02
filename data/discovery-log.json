@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T06:53:30Z",
+  "updatedAt": "2026-08-02T07:53:31Z",
   "items": [
+    {
+      "id": "4mV2nvS9JjM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-02T07:53:15Z",
+      "firstSeenAt": "2026-08-02T07:53:31Z"
+    },
+    {
+      "id": "1RGc6gOAb5E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WorldofAI",
+      "publishedAt": "2026-08-02T04:53:31Z",
+      "firstSeenAt": "2026-08-02T07:53:31Z"
+    },
+    {
+      "id": "eI1IdFwMhJY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI for Basic People",
+      "publishedAt": "2026-08-01T22:53:31Z",
+      "firstSeenAt": "2026-08-02T07:53:31Z"
+    },
+    {
+      "id": "BuTIuFrveA4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-08-01T16:53:31Z",
+      "firstSeenAt": "2026-08-02T07:53:31Z"
+    },
     {
       "id": "4LwtuscILlc",
       "type": "long",
@@ -8566,6 +8598,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-02T07:53:31Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
