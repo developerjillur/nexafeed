@@ -316,8 +316,9 @@ function verticalWheelIntent(event) {
 }
 
 function bindWheelCaptureOverlay(kind, handler) {
-  const overlay = document.querySelector(`[data-wheel-capture="${kind}"]`);
-  overlay?.addEventListener("wheel", handler, { passive: false });
+  document.querySelectorAll(`[data-wheel-capture="${kind}"]`).forEach((overlay) => {
+    overlay.addEventListener("wheel", handler, { passive: false });
+  });
 }
 
 function handlePlayerWheel(event) {
@@ -626,7 +627,7 @@ function youtubeEmbedSrc(video, autoplay = true) {
 function floatingPopupUrl(video) {
   const popupUrl = new URL("float.html", window.location.href);
   const params = new URLSearchParams({
-    v: "20260801-retention-lock",
+    v: "20260802-player-clicks",
     id: video.id,
     title: String(video.title || "YourTube video").slice(0, 180),
     type: video.type === "short" ? "short" : "long",
@@ -1340,7 +1341,8 @@ function renderPlayer() {
       <div class="player-main">
         <div class="player-frame">
           <div id="youtubePlayer"></div>
-          <button class="wheel-capture-overlay" type="button" data-wheel-capture="long" aria-label="Scroll over the video area to switch long videos. Click to pause or resume."></button>
+          <button class="wheel-capture-overlay" type="button" data-wheel-capture="long" data-wheel-side="left" tabindex="-1" aria-label="Scroll on the left video edge to switch long videos. Click to pause or resume."></button>
+          <button class="wheel-capture-overlay" type="button" data-wheel-capture="long" data-wheel-side="right" tabindex="-1" aria-label="Scroll on the right video edge to switch long videos. Click to pause or resume."></button>
         </div>
         <div class="player-heading">
           <div>${sourceBadge(video.source)}<h1>${escapeHtml(video.title)}</h1></div>
@@ -1672,7 +1674,8 @@ function renderShort() {
         <div class="short-shell">
           <div class="short-player">
             <div id="shortYoutubePlayer"></div>
-            <button class="wheel-capture-overlay" type="button" data-wheel-capture="short" aria-label="Scroll over the video area to switch Shorts. Click to pause or resume."></button>
+            <button class="wheel-capture-overlay" type="button" data-wheel-capture="short" data-wheel-side="left" tabindex="-1" aria-label="Scroll on the left Short edge to switch Shorts. Click to pause or resume."></button>
+            <button class="wheel-capture-overlay" type="button" data-wheel-capture="short" data-wheel-side="right" tabindex="-1" aria-label="Scroll on the right Short edge to switch Shorts. Click to pause or resume."></button>
           </div>
           <div class="short-action-stack">
             <button id="shortLikeButton" class="short-like ${liked ? "active" : ""}" aria-label="Save this Short to local likes" aria-pressed="${liked}"><span>${liked ? "♥" : "♡"}</span><small data-default-label="${escapeHtml(likeLabel)}">${liked ? "Liked" : escapeHtml(likeLabel)}</small></button>

@@ -65,8 +65,8 @@ class FrontendFeatureTests(unittest.TestCase):
             'data-view="ignored"',
             'id="ignoredCount"',
             "Ignored videos",
-            "app.js?v=20260801-retention-lock",
-            "style.css?v=20260801-retention-lock",
+            "app.js?v=20260802-player-clicks",
+            "style.css?v=20260802-player-clicks",
         ]:
             self.assertIn(marker, index_html)
 
@@ -94,8 +94,8 @@ class FrontendFeatureTests(unittest.TestCase):
         ]:
             self.assertIn(marker, app_js)
 
-        self.assertIn("app.js?v=20260801-retention-lock", index_html)
-        self.assertIn("style.css?v=20260801-retention-lock", index_html)
+        self.assertIn("app.js?v=20260802-player-clicks", index_html)
+        self.assertIn("style.css?v=20260802-player-clicks", index_html)
         self.assertIn("still present in the active feed is protected from pruning", readme)
 
     def test_skip_thresholds_do_not_recreate_old_five_second_watch_rule(self):
@@ -165,8 +165,8 @@ class FrontendFeatureTests(unittest.TestCase):
 
         self.assertIn("gemini-button", style_css)
         self.assertIn("gemini-icon", style_css)
-        self.assertIn("app.js?v=20260801-retention-lock", index_html)
-        self.assertIn("style.css?v=20260801-retention-lock", index_html)
+        self.assertIn("app.js?v=20260802-player-clicks", index_html)
+        self.assertIn("style.css?v=20260802-player-clicks", index_html)
 
     def test_wheel_scroll_over_youtube_iframe_is_captured(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -178,10 +178,13 @@ class FrontendFeatureTests(unittest.TestCase):
             "function handleShortWheel",
             'data-wheel-capture="long"',
             'data-wheel-capture="short"',
+            'data-wheel-side="left"',
+            'data-wheel-side="right"',
             'bindWheelCaptureOverlay("long", handlePlayerWheel)',
             'bindWheelCaptureOverlay("short", handleShortWheel)',
             'event.target.closest("[data-wheel-capture]")',
-            "Scroll over the video area",
+            "Scroll on the left video edge",
+            "Scroll on the right Short edge",
         ]:
             self.assertIn(marker, app_js)
 
@@ -191,10 +194,50 @@ class FrontendFeatureTests(unittest.TestCase):
             ".short-player .wheel-capture-overlay",
             "pointer-events: auto;",
             "touch-action: none;",
-            "bottom: 72px;",
-            "bottom: 56px;",
+            'data-wheel-side="left"',
+            'data-wheel-side="right"',
+            "transform: translateY(-50%);",
         ]:
             self.assertIn(marker, style_css)
+
+    def test_youtube_native_controls_are_not_covered_by_full_player_overlay(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        style_css = (ROOT / "style.css").read_text(encoding="utf-8")
+
+        self.assertEqual(app_js.count('data-wheel-capture="long"'), 2)
+        self.assertEqual(app_js.count('data-wheel-capture="short"'), 2)
+        self.assertEqual(app_js.count('data-wheel-side="left"'), 2)
+        self.assertEqual(app_js.count('data-wheel-side="right"'), 2)
+        self.assertIn("document.querySelectorAll(`[data-wheel-capture=", app_js)
+        for marker in [
+            'id="shortPrevious"',
+            'id="shortNext"',
+            'event.target.closest("#shortPrevious")',
+            'event.target.closest("#shortNext")',
+        ]:
+            self.assertIn(marker, app_js)
+
+        overlay_rule = re.search(r"\.wheel-capture-overlay\s*\{(?P<body>.*?)\n\}", style_css, re.DOTALL)
+        self.assertIsNotNone(overlay_rule)
+        assert overlay_rule is not None
+        overlay_css = overlay_rule.group("body")
+        self.assertNotIn("inset: 0", overlay_css)
+        self.assertNotIn("width: 100%", overlay_css)
+        self.assertNotIn("height: 100%", overlay_css)
+        self.assertIn("top: 50%", overlay_css)
+        self.assertIn("transform: translateY(-50%)", overlay_css)
+        self.assertRegex(overlay_css, r"width:\s*(?:2[0-9]|3[0-9]|4[0-4])px")
+        self.assertIn("z-index: 2", overlay_css)
+        self.assertIn('.wheel-capture-overlay[data-wheel-side="left"]', style_css)
+        self.assertIn('.wheel-capture-overlay[data-wheel-side="right"]', style_css)
+        self.assertRegex(
+            style_css,
+            r"\.short-action-stack\s*\{[^}]*position:\s*absolute;[^}]*z-index:\s*5;",
+        )
+        self.assertRegex(
+            style_css,
+            r"\.short-controls\s*\{[^}]*position:\s*absolute;[^}]*z-index:\s*6;",
+        )
 
     def test_shorts_details_and_feed_manager_are_wired(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -302,8 +345,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn("YourTube - A personal YouTube Package", index_html)
         self.assertIn("Watch only those valuable for you", index_html)
-        self.assertIn("style.css?v=20260801-retention-lock", index_html)
-        self.assertIn("app.js?v=20260801-retention-lock", index_html)
+        self.assertIn("style.css?v=20260802-player-clicks", index_html)
+        self.assertIn("app.js?v=20260802-player-clicks", index_html)
         self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)
