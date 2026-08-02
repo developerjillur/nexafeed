@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T13:53:35Z",
+  "updatedAt": "2026-08-02T14:53:36Z",
   "items": [
+    {
+      "id": "00kEcNby86c",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-02T14:14:33Z",
+      "firstSeenAt": "2026-08-02T14:53:36Z"
+    },
+    {
+      "id": "zwxRneriXfs",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Systeme.io: The world's easiest marketing platform",
+      "publishedAt": "2026-08-02T14:28:36Z",
+      "firstSeenAt": "2026-08-02T14:53:36Z"
+    },
+    {
+      "id": "gTAKKoHoHyY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Riyaz Tech",
+      "publishedAt": "2026-08-02T13:53:36Z",
+      "firstSeenAt": "2026-08-02T14:53:36Z"
+    },
+    {
+      "id": "5PDN96876bY",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Digital Clics Marketing",
+      "publishedAt": "2026-08-02T01:53:36Z",
+      "firstSeenAt": "2026-08-02T14:53:36Z"
+    },
+    {
+      "id": "qek2JqrBdfY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sam Digitalz",
+      "publishedAt": "2026-08-01T19:53:36Z",
+      "firstSeenAt": "2026-08-02T14:53:36Z"
+    },
     {
       "id": "my1Wc9pBf7g",
       "type": "short",
@@ -8845,6 +8885,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-02T14:53:36Z",
+      "new": 5,
+      "long": 2,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
