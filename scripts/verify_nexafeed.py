@@ -32,6 +32,9 @@ required_files = [
     "index.html",
     "style.css",
     "app.js",
+    "short-history.mjs",
+    "video-actions.mjs",
+    "float.html",
     "config.json",
     ".env.example",
     ".github/workflows/deploy-pages.yml",
@@ -160,6 +163,9 @@ for video_id, detail in detail_items.items():
 
 index_html = (ROOT / "index.html").read_text(encoding="utf-8")
 app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+short_history_js = (ROOT / "short-history.mjs").read_text(encoding="utf-8")
+video_actions_js = (ROOT / "video-actions.mjs").read_text(encoding="utf-8")
+float_html = (ROOT / "float.html").read_text(encoding="utf-8")
 readme = (ROOT / "README.md").read_text(encoding="utf-8")
 ai_prompt_doc = (ROOT / "docs/AI_SETUP_PROMPT.md").read_text(encoding="utf-8")
 scheduling_doc = (ROOT / "docs/SCHEDULING.md").read_text(encoding="utf-8")
@@ -268,7 +274,7 @@ for relative in ["docs/screenshots/yourtube-home.png", "docs/screenshots/yourtub
     if path.is_file() and path.stat().st_size < 1000:
         fail(f"screenshot file looks too small: {relative}")
 
-public_text = "\n".join([index_html, app_js, json.dumps(config), readme, ai_prompt_doc, scheduling_doc, security_doc, contributing_doc, changelog_doc, env_example, update_workflow, deploy_workflow, settings_workflow])
+public_text = "\n".join([index_html, app_js, short_history_js, video_actions_js, float_html, json.dumps(config), readme, ai_prompt_doc, scheduling_doc, security_doc, contributing_doc, changelog_doc, env_example, update_workflow, deploy_workflow, settings_workflow])
 for suspicious in ["ghp_", "github_pat_", "smtp_password"]:
     if suspicious in public_text:
         fail(f"possible private marker in public files: {suspicious}")

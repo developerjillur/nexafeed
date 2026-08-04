@@ -121,20 +121,20 @@
     </section>
 
     <script>
+      try { window.opener = null; } catch { /* Same-origin popup hardening is best effort. */ }
       const params = new URLSearchParams(window.location.search);
       const video = {
         id: params.get("id") || "",
         title: params.get("title") || "YourTube video",
         type: params.get("type") === "short" ? "short" : "long",
         channel: params.get("channel") || "",
-        url: params.get("url") || "",
         start: Math.max(0, Number.parseInt(params.get("start") || "0", 10) || 0),
       };
       const WATCHED_KEY = "nexafeed-watched-v1";
       const PROGRESS_KEY = "nexafeed-progress-v1";
       const IGNORED_KEY = "nexafeed-ignored-v1";
       const WATCHED_SKIP_THRESHOLD_SECONDS = 30;
-      const idLooksSafe = (id = video.id) => /^[A-Za-z0-9_-]{6,}$/.test(id);
+      const idLooksSafe = (id = video.id) => /^[A-Za-z0-9_-]{11}$/.test(id);
       let watchUrl = floatWatchUrl(video);
       const statusNode = document.querySelector("#status");
       const titleNode = document.querySelector("#floatTitle");
@@ -145,6 +145,11 @@
       let player = null;
       let floatingQueue = [{ ...video }];
       let floatingQueueIndex = 0;
+      let progressTimer = null;
+      let playerInitialized = false;
+      let playbackBaseline = null;
+      let currentPlaybackFinalized = false;
+      let stoppedByExternalState = false;
 
       document.title = `${video.title} — YourTube Float`;
       titleNode.textContent = video.title;
@@ -152,16 +157,34 @@
       linkNode.href = watchUrl;
 
       document.querySelector("#closeButton").addEventListener("click", () => {
+        finalizeCurrentVideoBeforeLeaving("float-close");
+        stopProgressTimer();
         try { player?.destroy?.(); } catch {}
+        player = null;
         window.close();
       });
       previousButton.addEventListener("click", () => playRelative(-1, { reason: "float-previous" }));
       nextButton.addEventListener("click", () => playRelative(1, { reason: "float-next" }));
+      window.addEventListener("pagehide", () => finalizeCurrentVideoBeforeLeaving("float-close"));
+      window.addEventListener("storage", (event) => {
+        if (![WATCHED_KEY, IGNORED_KEY].includes(event.key)) return;
+        if (externalStopReason()) stopForExternalStateChange();
+      });
 
       function floatWatchUrl(item = video) {
-        return item.url && /^https:\/\/(www\.)?youtube\.com\//.test(item.url)
-          ? item.url
-          : `https://www.youtube.com/watch?v=${encodeURIComponent(item.id || "")}`;
+        const safeId = String(item?.id || "").trim();
+        return idLooksSafe(safeId)
+          ? `https://www.youtube.com/watch?v=${encodeURIComponent(safeId)}`
+          : "https://www.youtube.com/";
+      }
+
+      function safeWidgetReferrer() {
+        try {
+          const target = new URL(window.location.href);
+          return `${target.origin}${target.pathname}`;
+        } catch {
+          return window.location.origin;
+        }
       }
 
       function readJson(key, fallback) {
@@ -183,6 +206,62 @@
 
       function isHiddenFromPlayback(id) {
         return isWatched(id) || isIgnored(id);
+      }
+
+      function playbackTimestamp(value) {
+        if (typeof value === "number") return value;
+        if (typeof value === "string") return Number(value) || 0;
+        if (value && typeof value === "object") {
+          return Number(value.updatedAt || value.watchedAt || value.ignoredAt || 0) || 0;
+        }
+        return 0;
+      }
+
+      function capturePlaybackBaseline() {
+        playbackBaseline = {
+          id: video.id,
+          watchedAt: playbackTimestamp(readJson(WATCHED_KEY, {})[video.id]),
+          ignoredAt: playbackTimestamp(readJson(IGNORED_KEY, {})[video.id]),
+        };
+        currentPlaybackFinalized = false;
+        stoppedByExternalState = false;
+      }
+
+      function externalStopReason() {
+        if (!playbackBaseline || playbackBaseline.id !== video.id) return "video-replaced";
+        const watchedAt = playbackTimestamp(readJson(WATCHED_KEY, {})[video.id]);
+        const ignoredAt = playbackTimestamp(readJson(IGNORED_KEY, {})[video.id]);
+        if (ignoredAt > playbackBaseline.ignoredAt && !watchedAt) return "ignored";
+        if (playbackBaseline.watchedAt > 0 && watchedAt === 0) return "watch-history-reset";
+        return "";
+      }
+
+      function stopProgressTimer() {
+        if (progressTimer) clearInterval(progressTimer);
+        progressTimer = null;
+      }
+
+      function startProgressTimer() {
+        stopProgressTimer();
+        progressTimer = setInterval(() => {
+          if (externalStopReason()) {
+            stopForExternalStateChange();
+            return;
+          }
+          saveProgressForCurrent();
+        }, 1500);
+      }
+
+      function stopForExternalStateChange() {
+        if (stoppedByExternalState) return;
+        stoppedByExternalState = true;
+        currentPlaybackFinalized = true;
+        stopProgressTimer();
+        try { player?.pauseVideo?.(); } catch {}
+        try { player?.destroy?.(); } catch {}
+        player = null;
+        showStatus("Playback stopped.", "This video was ignored or removed from Watch History in another YourTube window.");
+        window.close();
       }
 
       function saveTimedState(key, id, reason = "") {
@@ -246,6 +325,7 @@
       }
 
       function saveProgressForCurrent() {
+        if (stoppedByExternalState || externalStopReason()) return;
         const duration = durationSecondsFor();
         if (!video.id || duration <= 0) return;
         const seconds = watchedSecondsForCurrent();
@@ -268,6 +348,12 @@
       }
 
       function finalizeCurrentVideoBeforeLeaving(reason) {
+        if (currentPlaybackFinalized || stoppedByExternalState) return;
+        if (externalStopReason()) {
+          stopForExternalStateChange();
+          return;
+        }
+        currentPlaybackFinalized = true;
         if (!video.id || isWatched(video.id)) return;
         saveProgressForCurrent();
         if (videoQualifiesAsWatched()) markWatched(video.id);
@@ -299,7 +385,6 @@
           title: item.title || video.title || "YourTube video",
           type: item.type === "short" ? "short" : "long",
           channel: item.channel || video.channel || "",
-          url: item.url || floatWatchUrl(item),
           duration: item.duration || video.duration || "",
           durationSeconds: item.durationSeconds || video.durationSeconds || 0,
           start: Math.max(0, Number(item.start || 0)),
@@ -338,6 +423,7 @@
 
       function playQueueVideo(item) {
         applyVideoMetadata(item);
+        capturePlaybackBaseline();
         hideStatus();
         updateNavigationButtons();
         if (!idLooksSafe(video.id)) {
@@ -364,10 +450,12 @@
       }
 
       function initPlayer() {
+        if (playerInitialized || player) return;
         if (!idLooksSafe() || !window.YT?.Player) {
           showStatus("This video cannot be loaded here.", "The video id is missing or invalid.");
           return;
         }
+        playerInitialized = true;
         const playerVars = {
           autoplay: 1,
           rel: 0,
@@ -375,30 +463,41 @@
           enablejsapi: 1,
           modestbranding: 1,
           origin: window.location.origin,
-          widget_referrer: document.referrer || window.location.href,
+          widget_referrer: safeWidgetReferrer(),
         };
         if (video.start > 0) playerVars.start = video.start;
-        player = new YT.Player("floatingYoutubePlayer", {
-          videoId: video.id,
-          width: "100%",
-          height: "100%",
-          playerVars,
-          events: {
-            onReady(event) {
-              hideStatus();
-              try { event.target.playVideo(); } catch {}
+        try {
+          player = new YT.Player("floatingYoutubePlayer", {
+            videoId: video.id,
+            width: "100%",
+            height: "100%",
+            playerVars,
+            events: {
+              onReady(event) {
+                if (stoppedByExternalState) return;
+                hideStatus();
+                startProgressTimer();
+                try { event.target.playVideo(); } catch {}
+              },
+              onError() {
+                stopProgressTimer();
+                showStatus("This floating player could not start.", "YouTube refused this popup embed. Open it directly on YouTube instead.");
+              },
+              onStateChange(event) {
+                if (stoppedByExternalState) return;
+                if (event.data === YT.PlayerState.ENDED) {
+                  markWatched(video.id);
+                  currentPlaybackFinalized = true;
+                  playRelative(1, { finalize: false, reason: "float-ended" });
+                }
+              },
             },
-            onError() {
-              showStatus("This floating player could not start.", "YouTube refused this popup embed. Open it directly on YouTube instead.");
-            },
-            onStateChange(event) {
-              if (event.data === YT.PlayerState.ENDED) {
-                markWatched(video.id);
-                playRelative(1, { finalize: false, reason: "float-ended" });
-              }
-            },
-          },
-        });
+          });
+        } catch {
+          playerInitialized = false;
+          player = null;
+          showStatus("This floating player could not start.", "YouTube refused this popup embed. Open it directly on YouTube instead.");
+        }
       }
 
       window.onYouTubeIframeAPIReady = initPlayer;
@@ -407,6 +506,7 @@
       tag.async = true;
       tag.onerror = () => showStatus("YouTube player failed to load.", "Your browser or an extension blocked the YouTube IFrame API.");
       document.head.appendChild(tag);
+      capturePlaybackBaseline();
       loadFloatingQueue();
       window.setTimeout(() => {
         if (!player && window.YT?.Player) initPlayer();

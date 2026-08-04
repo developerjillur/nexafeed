@@ -9,3 +9,7 @@ _site/
 .env.*
 !.env.example
 reports/
+node_modules/
+playwright-report/
+test-results/
+.hermes/

@@ -1,4 +1,5 @@
-import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260802-history-replay";
+import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260804-thumbnail-fix";
+import { buildPlaybackUrl, buildYouTubeChannelUrl, buildYouTubeWatchUrl, readPlaybackRequest } from "./video-actions.mjs?v=20260804-thumbnail-fix";
 
 const app = document.querySelector("#app");
 const overlayRoot = document.querySelector("#overlayRoot");
@@ -28,6 +29,7 @@ const STATE_RETENTION_BUFFER_DAYS = 1;
 const DAY_MS = 24 * 60 * 60 * 1000;
 const DEFAULT_STATE_RETENTION_DAYS = 8;
 const VALID_VIEWS = new Set(["home", "shorts", "long", "liked", "history", "ignored", "settings"]);
+const VIDEO_ACTION_MENU_BLOCKED_SHORTCUTS = new Set(["ArrowLeft", "ArrowRight", "PageUp", "PageDown", "n", "N", "p", "P"]);
 
 function initialViewFromUrl() {
   const params = new URLSearchParams(window.location.search);
@@ -56,10 +58,14 @@ const state = {
   shortHistory: createTransientDirectionalHistory({ ttlMs: RECENT_PLAYER_BACKTRACK_MS, maxEntries: 8 }),
   unavailableVideos: new Set(),
   autoplay: localStorage.getItem(AUTOPLAY_KEY) !== "false",
+  initialPlaybackRequest: readPlaybackRequest(window.location.href),
+  initialPlaybackHandled: false,
 };
 
 let player = null;
 let progressTimer = null;
+let playerGeneration = 0;
+let playerHistoryExpiryTimer = null;
 let shortWheelLocked = false;
 let shortWheelDelta = 0;
 let shortWheelResetTimer = null;
@@ -72,6 +78,9 @@ let floatingPopup = null;
 let floatingPipWindow = null;
 let floatingPlayer = null;
 let floatingProgressTimer = null;
+let floatingPlayerGeneration = 0;
+let floatingVideo = null;
+let videoActionMenuTrigger = null;
 
 document.documentElement.dataset.theme = state.theme;
 document.querySelector("#themeButton").textContent = state.theme === "dark" ? "☀" : "☾";
@@ -345,7 +354,7 @@ function handlePlayerWheel(event) {
 
 function handleShortWheel(event) {
   const overCaptureOverlay = event.target.closest("[data-wheel-capture]");
-  if (!overCaptureOverlay && event.target.closest(".short-drawer")) return;
+  if (!overCaptureOverlay && event.target.closest(".short-drawer, .short-action-stack")) return;
   if (!state.shortQueue.length || !verticalWheelIntent(event)) return;
   event.preventDefault();
   event.stopPropagation();
@@ -511,7 +520,11 @@ function playerNavButton(direction, video) {
 }
 
 function videoWatchUrl(video) {
-  return video?.url || `https://www.youtube.com/watch?v=${video?.id || ""}`;
+  return buildYouTubeWatchUrl(video?.id);
+}
+
+function channelWatchUrl(video) {
+  return buildYouTubeChannelUrl({ channelId: video?.channelId, handle: video?.handle });
 }
 
 function notebookLmImportUrl(video) {
@@ -566,12 +579,24 @@ function temporaryActionLabel(button, text) {
   setTimeout(() => { label.textContent = original; }, 1800);
 }
 
+function openExternalWithoutOpener(url) {
+  const opened = window.open("about:blank", "_blank");
+  if (!opened) return null;
+  try {
+    opened.opener = null;
+    opened.location.replace(url);
+    return opened;
+  } catch {
+    try { opened.close(); } catch { /* The blank popup may already be unavailable. */ }
+    return null;
+  }
+}
+
 async function openNotebookLm(video, button) {
   if (!video) return;
   const sourceUrl = videoWatchUrl(video);
   const notebookUrl = notebookLmImportUrl(video);
-  const opened = window.open(notebookUrl, "_blank");
-  if (opened) opened.opener = null;
+  const opened = openExternalWithoutOpener(notebookUrl);
   try {
     await copyText(sourceUrl);
     temporaryActionLabel(button, "URL copied");
@@ -585,8 +610,8 @@ async function openNotebookLm(video, button) {
 async function openGemini(video, button) {
   if (!video) return;
   const prompt = geminiPromptForVideo(video);
-  const opened = window.open(geminiChatUrl(prompt), "_blank");
-  if (opened) opened.opener = null;
+  const targetUrl = geminiChatUrl(prompt);
+  const opened = openExternalWithoutOpener(targetUrl);
   try {
     await copyText(prompt);
     temporaryActionLabel(button, "Gemini opened");
@@ -594,7 +619,7 @@ async function openGemini(video, button) {
     temporaryActionLabel(button, "Paste prompt");
     window.alert(`Gemini opened. If the prompt is not filled automatically, paste this copied-style prompt into Gemini:\n\n${prompt}`);
   }
-  if (!opened) window.location.href = geminiChatUrl(prompt);
+  if (!opened) window.location.href = targetUrl;
 }
 
 function floatingSize(video) {
@@ -610,7 +635,13 @@ function youtubeOrigin() {
 }
 
 function youtubeWidgetReferrer() {
-  return window.location.href.split("#")[0];
+  try {
+    const target = new URL(window.location.href);
+    if (!["http:", "https:"].includes(target.protocol) || target.origin === "null") return youtubeOrigin();
+    return `${target.origin}${target.pathname}`;
+  } catch {
+    return youtubeOrigin();
+  }
 }
 
 function youtubeEmbedSrc(video, autoplay = true) {
@@ -631,12 +662,11 @@ function youtubeEmbedSrc(video, autoplay = true) {
 function floatingPopupUrl(video) {
   const popupUrl = new URL("float.html", window.location.href);
   const params = new URLSearchParams({
-    v: "20260802-history-replay",
+    v: "20260804-thumbnail-fix",
     id: video.id,
     title: String(video.title || "YourTube video").slice(0, 180),
     type: video.type === "short" ? "short" : "long",
     channel: String(video.channel || "").slice(0, 100),
-    url: video.url || `https://www.youtube.com/watch?v=${video.id}`,
   });
   const saved = state.progress[video.id];
   if (saved?.seconds > 0 && Number(saved.ratio || 0) < 1) params.set("start", String(Math.floor(saved.seconds)));
@@ -673,7 +703,7 @@ function floatingPlayerBody(video, { draggable = false, apiMount = false } = {})
       <header class="float-titlebar" ${draggable ? 'data-float-drag="true"' : ""}>
         <div class="float-brand"><span class="float-dot">▶</span><span>${video.type === "short" ? "YourTube Short" : "YourTube Float"}</span><small class="float-title">${escapeHtml(video.title)}</small></div>
         <div class="float-actions">
-          <a class="float-youtube" href="${escapeHtml(video.url || `https://www.youtube.com/watch?v=${video.id}`)}" target="_blank" rel="noopener" aria-label="Open on YouTube">↗</a>
+          <a class="float-youtube" href="${escapeHtml(videoWatchUrl(video))}" target="_blank" rel="noopener" aria-label="Open on YouTube">↗</a>
           <button type="button" data-close-float aria-label="Close floating player">×</button>
         </div>
       </header>
@@ -692,11 +722,41 @@ function renderFloatingPlayerError(elementId, video) {
     <div id="${escapeHtml(elementId)}" class="player-error floating-error">
       <strong>This floating player could not start.</strong>
       <span>YouTube refused this embed configuration. The main player may still work.</span>
-      <a href="${escapeHtml(video.url || `https://www.youtube.com/watch?v=${video.id}`)}" target="_blank" rel="noopener">Watch video on YouTube</a>
+      <a href="${escapeHtml(videoWatchUrl(video))}" target="_blank" rel="noopener">Watch video on YouTube</a>
     </div>`;
 }
 
-function destroyFloatingPlayer(clearRoot = true) {
+function floatingPlaybackSnapshot() {
+  if (!floatingVideo?.id) return null;
+  let seconds = Number(state.progress[floatingVideo.id]?.seconds || 0);
+  let duration = durationSecondsFor(floatingVideo);
+  try {
+    const current = Number(floatingPlayer?.getCurrentTime?.());
+    const playerDuration = Number(floatingPlayer?.getDuration?.());
+    if (Number.isFinite(current) && current >= 0) seconds = current;
+    if (Number.isFinite(playerDuration) && playerDuration > 0) duration = playerDuration;
+  } catch {
+    // The floating iframe may be closing before its API is fully ready.
+  }
+  return { video: floatingVideo, seconds, duration };
+}
+
+function finalizeFloatingPlayerBeforeLeaving(reason = "float-close") {
+  const snapshot = floatingPlaybackSnapshot();
+  if (!snapshot) return "none";
+  const { video, seconds, duration } = snapshot;
+  if (duration > 0) saveProgress(video.id, seconds, duration);
+  if (isWatched(video.id) || seconds >= watchedThresholdSeconds(video, duration)) {
+    markWatched(video.id);
+    return "watched";
+  }
+  markIgnored(video.id, reason);
+  return "ignored";
+}
+
+function destroyFloatingPlayer(clearRoot = true, { finalize = false, reason = "float-close" } = {}) {
+  if (finalize) finalizeFloatingPlayerBeforeLeaving(reason);
+  floatingPlayerGeneration += 1;
   if (floatingProgressTimer) clearInterval(floatingProgressTimer);
   floatingProgressTimer = null;
   if (floatingPlayer?.destroy) {
@@ -704,6 +764,7 @@ function destroyFloatingPlayer(clearRoot = true) {
   }
   floatingPlayer = null;
   if (clearRoot) {
+    floatingVideo = null;
     const root = document.querySelector("#floatingRoot");
     if (root) root.innerHTML = "";
   }
@@ -711,8 +772,15 @@ function destroyFloatingPlayer(clearRoot = true) {
 
 async function createFloatingYoutubePlayer(elementId, video) {
   destroyFloatingPlayer(false);
+  const generation = floatingPlayerGeneration;
+  floatingVideo = video;
   try {
     const YT = await waitForYoutube();
+    if (
+      generation !== floatingPlayerGeneration
+      || floatingVideo?.id !== video.id
+      || !document.getElementById(elementId)
+    ) return;
     const playerVars = {
       autoplay: 1,
       rel: 0,
@@ -731,9 +799,14 @@ async function createFloatingYoutubePlayer(elementId, video) {
       playerVars,
       events: {
         onReady(event) {
+          if (generation !== floatingPlayerGeneration || floatingVideo?.id !== video.id) {
+            try { event.target.destroy?.(); } catch { /* stale floating player */ }
+            return;
+          }
           pauseInlinePlayer();
           event.target.playVideo();
           floatingProgressTimer = setInterval(() => {
+            if (generation !== floatingPlayerGeneration || floatingVideo?.id !== video.id) return;
             try {
               const duration = event.target.getDuration();
               const current = event.target.getCurrentTime();
@@ -744,9 +817,11 @@ async function createFloatingYoutubePlayer(elementId, video) {
           }, 1500);
         },
         onStateChange(event) {
+          if (generation !== floatingPlayerGeneration || floatingVideo?.id !== video.id) return;
           if (event.data === YT.PlayerState.ENDED) markWatched(video.id);
         },
         onError() {
+          if (generation !== floatingPlayerGeneration || floatingVideo?.id !== video.id) return;
           if (floatingProgressTimer) clearInterval(floatingProgressTimer);
           floatingProgressTimer = null;
           floatingPlayer = null;
@@ -755,6 +830,11 @@ async function createFloatingYoutubePlayer(elementId, video) {
       },
     });
   } catch {
+    if (
+      generation !== floatingPlayerGeneration
+      || floatingVideo?.id !== video.id
+      || !document.getElementById(elementId)
+    ) return;
     const node = document.getElementById(elementId);
     if (node) {
       node.innerHTML = `<iframe src="${escapeHtml(youtubeEmbedSrc(video))}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" title="${escapeHtml(video.title)}"></iframe>`;
@@ -778,6 +858,7 @@ function openPopupFloatingPlayer(video) {
   const features = `popup=yes,width=${size.width},height=${size.height},left=${left},top=${top},resizable=yes,scrollbars=no`;
   const popup = window.open(floatingPopupUrl(video), "nexafeedFloatingPlayer", features);
   if (!popup) return false;
+  try { popup.opener = null; } catch { /* Cross-browser best effort. */ }
   floatingPopup = popup;
   popup.focus();
   pauseInlinePlayer();
@@ -795,7 +876,13 @@ function ensureFloatingRoot() {
 }
 
 function closeInlineFloatingPlayer() {
+  destroyFloatingPlayer(true, { finalize: true, reason: "float-close" });
+}
+
+function stopMatchingInlineFloatingPlayer(videoId) {
+  if (floatingVideo?.id !== videoId) return false;
   destroyFloatingPlayer();
+  return true;
 }
 
 function startInlineFloatDrag(event) {
@@ -822,7 +909,7 @@ function startInlineFloatDrag(event) {
 }
 
 function openInlineFloatingPlayer(video) {
-  destroyFloatingPlayer(false);
+  destroyFloatingPlayer(false, { finalize: true, reason: "float-replaced" });
   const root = ensureFloatingRoot();
   root.innerHTML = floatingPlayerBody(video, { draggable: true, apiMount: true });
   const panel = root.querySelector("#inlineFloatingPlayer");
@@ -840,14 +927,354 @@ async function openFloatingVideo(video) {
   openInlineFloatingPlayer(video);
 }
 
+function videoPlaybackHref(video) {
+  const view = VALID_VIEWS.has(state.view) && state.view !== "settings" ? state.view : "home";
+  return buildPlaybackUrl(window.location.href, {
+    videoId: video.id,
+    type: video.type === "short" ? "short" : "long",
+    view,
+  });
+}
+
+function videoActionsButton(video, context = "player") {
+  if (context === "short") {
+    return `<button id="shortVideoActionsButton" type="button" data-open-video-menu-id="${escapeHtml(video.id)}" aria-label="More actions for ${escapeHtml(video.title)}"><span>•••</span><small>More</small></button>`;
+  }
+  if (context === "card" || context === "queue") {
+    return `<button class="action-button compact video-actions-button ${context}-video-actions" type="button" data-open-video-menu-id="${escapeHtml(video.id)}" aria-label="More actions for ${escapeHtml(video.title)}"><span aria-hidden="true">•••</span></button>`;
+  }
+  return `<button class="action-button compact video-actions-button" type="button" data-open-video-menu-id="${escapeHtml(video.id)}" aria-label="More actions for ${escapeHtml(video.title)}">••• More</button>`;
+}
+
+function videoActionMenuMarkup(video) {
+  const likedLabel = isLiked(video.id) ? "Remove from Liked" : "Like video";
+  const watchedLabel = isWatched(video.id) ? "Remove from Watch History" : "Mark watched";
+  const ignoredLabel = isIgnored(video.id) ? "Remove from Ignored" : "Ignore video";
+  const ignoreDisabled = isWatched(video.id);
+  return `
+    <section class="video-action-menu" role="menu" aria-label="Actions for ${escapeHtml(video.title)}">
+      <header class="video-action-menu-head">
+        <strong>Video actions</strong>
+        <button class="video-action-menu-close" type="button" data-close-video-menu aria-label="Close video actions">×</button>
+        <small>${escapeHtml(video.title)}</small>
+      </header>
+      <div class="video-action-group">
+        <button class="video-action-item" type="button" role="menuitem" data-video-action="open-tab"><span>↗</span><span data-action-label>Open in new tab</span></button>
+        <button class="video-action-item" type="button" role="menuitem" data-video-action="open-window"><span>▣</span><span data-action-label>Open in new window</span></button>
+        <button class="video-action-item" type="button" role="menuitem" data-video-action="open-youtube"><span>▶</span><span data-action-label>Open on YouTube</span></button>
+      </div>
+      <div class="video-action-separator" role="separator"></div>
+      <div class="video-action-group">
+        <button class="video-action-item" type="button" role="menuitem" data-video-action="copy-yourtube"><span>⧉</span><span data-action-label>Copy YourTube link</span></button>
+        <button class="video-action-item" type="button" role="menuitem" data-video-action="copy-youtube"><span>⧉</span><span data-action-label>Copy YouTube link</span></button>
+      </div>
+      <div class="video-action-separator" role="separator"></div>
+      <div class="video-action-group">
+        <button class="video-action-item" type="button" role="menuitem" data-video-action="toggle-like"><span>♥</span><span data-action-label>${escapeHtml(likedLabel)}</span></button>
+        <button class="video-action-item" type="button" role="menuitem" data-video-action="gemini"><span>AI</span><span data-action-label>Ask Gemini</span></button>
+        <button class="video-action-item" type="button" role="menuitem" data-video-action="notebooklm"><span>◫</span><span data-action-label>Chat with NotebookLM</span></button>
+        <button class="video-action-item" type="button" role="menuitem" data-video-action="float"><span>⧉</span><span data-action-label>Float player</span></button>
+      </div>
+      <div class="video-action-separator" role="separator"></div>
+      <div class="video-action-group">
+        <button class="video-action-item" type="button" role="menuitem" data-video-action="toggle-watched"><span>✓</span><span data-action-label>${escapeHtml(watchedLabel)}</span></button>
+        <button class="video-action-item ${ignoreDisabled ? "disabled" : ""}" type="button" role="menuitem" data-video-action="toggle-ignored" ${ignoreDisabled ? 'disabled title="Remove this video from Watch History before ignoring it"' : ""}><span>⊘</span><span data-action-label>${ignoreDisabled ? "Watched video cannot be ignored" : escapeHtml(ignoredLabel)}</span></button>
+      </div>
+      <footer>Tip: Shift + right-click keeps the browser’s native menu.</footer>
+    </section>`;
+}
+
+function ensureVideoActionMenuRoot() {
+  let root = document.querySelector("#videoActionMenuRoot");
+  if (!root) {
+    root = document.createElement("div");
+    root.id = "videoActionMenuRoot";
+    root.hidden = true;
+    document.body.appendChild(root);
+  }
+  return root;
+}
+
+function closeVideoActionMenu({ restoreFocus = false } = {}) {
+  const root = document.querySelector("#videoActionMenuRoot");
+  if (!root || root.hidden) return;
+  root.hidden = true;
+  root.innerHTML = "";
+  delete root.dataset.videoId;
+  if (restoreFocus && videoActionMenuTrigger?.isConnected) videoActionMenuTrigger.focus?.();
+  videoActionMenuTrigger = null;
+}
+
+function isVideoActionMenuOpenFor(videoId, trigger = null) {
+  const root = document.querySelector("#videoActionMenuRoot");
+  return Boolean(
+    root
+    && !root.hidden
+    && root.dataset.videoId === videoId
+    && (!trigger || videoActionMenuTrigger === trigger)
+  );
+}
+
+function openVideoActionMenu(video, { clientX = window.innerWidth / 2, clientY = window.innerHeight / 2, trigger = null } = {}) {
+  if (!video) return;
+  closeVideoActionMenu();
+  const root = ensureVideoActionMenuRoot();
+  root.hidden = false;
+  root.dataset.videoId = video.id;
+  root.innerHTML = videoActionMenuMarkup(video);
+  videoActionMenuTrigger = trigger;
+  const menu = root.querySelector(".video-action-menu");
+  menu.style.left = "8px";
+  menu.style.top = "8px";
+  menu.style.visibility = "hidden";
+  const bounds = menu.getBoundingClientRect();
+  const left = Math.max(8, Math.min(Number(clientX) || 8, window.innerWidth - bounds.width - 8));
+  const top = Math.max(8, Math.min(Number(clientY) || 8, window.innerHeight - bounds.height - 8));
+  menu.style.left = `${left}px`;
+  menu.style.top = `${top}px`;
+  menu.style.visibility = "visible";
+  menu.querySelector('[role="menuitem"]:not([disabled])')?.focus();
+}
+
+function openInNewTab(url) {
+  const link = document.createElement("a");
+  link.href = url;
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+}
+
+function openInNewWindow(url) {
+  const opened = window.open(url, "_blank", "noopener,noreferrer,popup=yes,width=1280,height=820");
+  try { if (opened) opened.opener = null; } catch { /* cross-origin window */ }
+}
+
+function refreshLikeControls(videoId) {
+  document.querySelectorAll("[data-like-id]").forEach((button) => {
+    if (button.dataset.likeId === videoId) updateLikeButton(button, isLiked(videoId));
+  });
+  const currentShort = state.shortQueue[state.shortIndex];
+  if (currentShort?.id === videoId) updateLikeButton(document.querySelector("#shortLikeButton"), isLiked(videoId));
+}
+
+function rerenderAfterMenuStateChange() {
+  if (state.activeVideo) {
+    refreshActivePlayerQueue();
+    return;
+  }
+  if (!state.shortQueue.length) render();
+}
+
+function leaveExplicitlyUnwatchedVideo(video) {
+  if (state.activeVideo?.id === video.id) {
+    const nextVideo = queueFor(video.id)[0] || null;
+    destroyPlayer();
+    if (state.autoplay && nextVideo) openLong(nextVideo, { finalizeCurrent: false });
+    else {
+      state.activeVideo = null;
+      render();
+    }
+    return true;
+  }
+
+  const currentShort = state.shortQueue[state.shortIndex];
+  if (currentShort?.id !== video.id) return false;
+  const currentIndex = state.shortIndex;
+  destroyPlayer();
+  clearShortHistoryExpiryTimer();
+  state.shortHistory.reset();
+  state.shortQueue = state.shortQueue.filter((item) => item.id !== video.id && !isHiddenFromPlayback(item.id));
+  state.shortPanel = null;
+  if (!state.shortQueue.length) closeShort({ finalize: false });
+  else {
+    state.shortIndex = Math.min(currentIndex, state.shortQueue.length - 1);
+    renderShort();
+  }
+  return true;
+}
+
+function toggleWatchedFromMenu(video) {
+  if (isWatched(video.id)) {
+    delete state.watched[video.id];
+    saveWatched();
+    const current = state.progress[video.id] || {};
+    state.progress[video.id] = { ...current, seconds: 0, ratio: 0, updatedAt: Date.now() };
+    localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress));
+    stopMatchingInlineFloatingPlayer(video.id);
+    if (leaveExplicitlyUnwatchedVideo(video)) return;
+  } else {
+    markWatched(video.id);
+  }
+  const markButton = document.querySelector("#markCurrentWatched");
+  if (markButton && state.activeVideo?.id === video.id) {
+    markButton.textContent = isWatched(video.id) ? "✓ Watched" : "✓ Mark watched";
+    markButton.disabled = isWatched(video.id);
+  }
+  rerenderAfterMenuStateChange();
+}
+
+function leaveExplicitlyIgnoredVideo(video) {
+  if (state.activeVideo?.id === video.id) {
+    const nextVideo = queueFor(video.id)[0] || null;
+    destroyPlayer();
+    if (state.autoplay && nextVideo) openLong(nextVideo, { finalizeCurrent: false });
+    else {
+      state.activeVideo = null;
+      render();
+    }
+    return true;
+  }
+
+  const currentShort = state.shortQueue[state.shortIndex];
+  if (currentShort?.id !== video.id) return false;
+  const currentIndex = state.shortIndex;
+  destroyPlayer();
+  clearShortHistoryExpiryTimer();
+  state.shortHistory.reset();
+  state.shortQueue = state.shortQueue.filter((item) => item.id !== video.id && !isHiddenFromPlayback(item.id));
+  state.shortPanel = null;
+  if (!state.shortQueue.length) closeShort({ finalize: false });
+  else {
+    state.shortIndex = Math.min(currentIndex, state.shortQueue.length - 1);
+    renderShort();
+  }
+  return true;
+}
+
+function toggleIgnoredFromMenu(video) {
+  if (isWatched(video.id)) return;
+  if (isIgnored(video.id)) {
+    delete state.ignored[video.id];
+    const current = state.progress[video.id];
+    if (current && typeof current === "object") {
+      delete current.ignoredAt;
+      delete current.ignoredReason;
+      current.updatedAt = Date.now();
+      localStorage.setItem(PROGRESS_KEY, JSON.stringify(state.progress));
+    }
+    saveIgnored();
+  } else {
+    markIgnored(video.id, "context-menu");
+    stopMatchingInlineFloatingPlayer(video.id);
+    if (leaveExplicitlyIgnoredVideo(video)) return;
+  }
+  rerenderAfterMenuStateChange();
+}
+
+async function runVideoAction(action, video, button) {
+  if (!video) return;
+  if (action === "copy-yourtube" || action === "copy-youtube") {
+    const value = action === "copy-yourtube" ? videoPlaybackHref(video) : videoWatchUrl(video);
+    try {
+      await copyText(value);
+      const label = button?.querySelector("[data-action-label]");
+      if (label) label.textContent = "Copied";
+      setTimeout(() => {
+        if (button?.isConnected) closeVideoActionMenu({ restoreFocus: true });
+      }, 700);
+    } catch {
+      window.alert("The link could not be copied. Please use Open in new tab instead.");
+    }
+    return;
+  }
+
+  closeVideoActionMenu({ restoreFocus: true });
+  if (action === "open-tab") return openInNewTab(videoPlaybackHref(video));
+  if (action === "open-window") return openInNewWindow(videoPlaybackHref(video));
+  if (action === "open-youtube") return openInNewTab(videoWatchUrl(video));
+  if (action === "toggle-like") {
+    toggleLikeVideo(video.id);
+    refreshLikeControls(video.id);
+    return;
+  }
+  if (action === "gemini") return openGemini(video, button);
+  if (action === "notebooklm") return openNotebookLm(video, button);
+  if (action === "float") return openFloatingVideo(video);
+  if (action === "toggle-watched") return toggleWatchedFromMenu(video);
+  if (action === "toggle-ignored") return toggleIgnoredFromMenu(video);
+}
+
+function contextVideoFromElement(element) {
+  const videoId = element?.dataset?.videoContextId || element?.dataset?.openVideoMenuId;
+  return state.feed?.items?.find((item) => item.id === videoId) || null;
+}
+
+function handleVideoActionMenuKeydown(event) {
+  const menu = document.querySelector(".video-action-menu");
+  if (menu) {
+    const items = [...menu.querySelectorAll('[role="menuitem"]:not([disabled])')];
+    const index = items.indexOf(document.activeElement);
+    if (event.key === "Escape") {
+      event.preventDefault();
+      event.stopPropagation();
+      closeVideoActionMenu({ restoreFocus: true });
+      return;
+    }
+    if (event.key === "Tab") {
+      event.preventDefault();
+      event.stopPropagation();
+      closeVideoActionMenu({ restoreFocus: true });
+      return;
+    }
+    if (["ArrowDown", "ArrowUp", "Home", "End"].includes(event.key) && items.length) {
+      event.preventDefault();
+      event.stopPropagation();
+      let nextIndex = index;
+      if (event.key === "ArrowDown") nextIndex = (index + 1 + items.length) % items.length;
+      if (event.key === "ArrowUp") nextIndex = (index - 1 + items.length) % items.length;
+      if (event.key === "Home") nextIndex = 0;
+      if (event.key === "End") nextIndex = items.length - 1;
+      items[nextIndex]?.focus();
+      return;
+    }
+    if (VIDEO_ACTION_MENU_BLOCKED_SHORTCUTS.has(event.key)) {
+      event.preventDefault();
+      event.stopPropagation();
+    }
+    return;
+  }
+
+  if (event.key !== "ContextMenu" && !(event.shiftKey && event.key === "F10")) return;
+  const focusedControl = document.activeElement;
+  if (focusedControl?.closest?.("a[href]")) return;
+  const contextTarget = focusedControl?.closest?.("[data-video-context-id], [data-open-video-menu-id]");
+  const video = contextVideoFromElement(contextTarget) || state.shortQueue[state.shortIndex] || state.activeVideo;
+  if (!video) return;
+  event.preventDefault();
+  event.stopPropagation();
+  const rect = focusedControl?.getBoundingClientRect?.();
+  openVideoActionMenu(video, {
+    clientX: rect ? rect.left + Math.min(rect.width, 36) : window.innerWidth / 2,
+    clientY: rect ? rect.top + Math.min(rect.height, 36) : window.innerHeight / 2,
+    trigger: focusedControl,
+  });
+}
+
+function youtubeThumbnailFallbackChain(videoId) {
+  return [
+    "hq720.jpg",
+    "hqdefault.jpg",
+    "mqdefault.jpg",
+    "default.jpg",
+  ].map((variant) => `https://i.ytimg.com/vi/${encodeURIComponent(videoId)}/${variant}`);
+}
+
+function thumbnailImage(video) {
+  const fallbackChain = youtubeThumbnailFallbackChain(video.id);
+  const fallbackSrc = fallbackChain.slice(1).join("','");
+  return `<img src="${escapeHtml(video.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-video-thumb-id="${escapeHtml(video.id)}" onerror="if(this.dataset.fallbackIndex==='done')return;const f=['${fallbackSrc}'];let i=Number(this.dataset.fallbackIndex||0);if(i<f.length){this.src=f[i];this.dataset.fallbackIndex=String(i+1);}else{this.dataset.fallbackIndex='done';this.onerror=null;this.src='${fallbackChain[fallbackChain.length-1]}';}">`;
+}
+
 function videoCard(video) {
   const watched = isWatched(video.id);
   const ignored = isIgnored(video.id);
   return `
-    <article class="video-card ${watched ? "watched-card" : ""} ${ignored ? "ignored-card" : ""}">
-      <button class="card-open" type="button" data-video-id="${escapeHtml(video.id)}" aria-label="Play ${escapeHtml(video.title)}">
+     <article class="video-card ${watched ? "watched-card" : ""} ${ignored ? "ignored-card" : ""}" data-video-context-id="${escapeHtml(video.id)}">
+      <a class="card-open" href="${escapeHtml(videoPlaybackHref(video))}" data-video-id="${escapeHtml(video.id)}" aria-label="Play ${escapeHtml(video.title)}">
         <span class="video-thumb">
-          <img src="${escapeHtml(video.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer">
+          ${thumbnailImage(video)}
           <span class="duration">${escapeHtml(video.duration || "Video")}</span>
           <span class="play-hover">▶</span>
           ${statusOverlay(video)}
@@ -862,8 +1289,9 @@ function videoCard(video) {
             ${sourceBadge(video.source)}
           </span>
         </span>
-      </button>
+      </a>
       ${saveButton(video, "card")}
+      ${videoActionsButton(video, "card")}
     </article>`;
 }
 
@@ -871,18 +1299,19 @@ function shortCard(video) {
   const watched = isWatched(video.id);
   const ignored = isIgnored(video.id);
   return `
-    <article class="short-card ${watched ? "watched-card" : ""} ${ignored ? "ignored-card" : ""}">
-      <button class="card-open" type="button" data-short-id="${escapeHtml(video.id)}" aria-label="Open Short ${escapeHtml(video.title)}">
+    <article class="short-card ${watched ? "watched-card" : ""} ${ignored ? "ignored-card" : ""}" data-video-context-id="${escapeHtml(video.id)}">
+      <a class="card-open" href="${escapeHtml(videoPlaybackHref(video))}" data-short-id="${escapeHtml(video.id)}" aria-label="Open Short ${escapeHtml(video.title)}">
         <span class="short-thumb">
-          <img src="${escapeHtml(video.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer">
+          ${thumbnailImage(video)}
           <span class="play-hover">▶</span>
           ${statusOverlay(video)}
           ${progressBar(video)}
         </span>
         <span class="short-title">${escapeHtml(video.title)}</span>
         <span class="short-meta">${escapeHtml(video.views || "Views unavailable")} • ${escapeHtml(video.channel)}</span>
-      </button>
+      </a>
       ${saveButton(video, "card")}
+      ${videoActionsButton(video, "card")}
     </article>`;
 }
 
@@ -1291,6 +1720,28 @@ function pruneRecentPlayerHistory(now = Date.now()) {
   ));
 }
 
+function clearPlayerHistoryExpiryTimer() {
+  clearTimeout(playerHistoryExpiryTimer);
+  playerHistoryExpiryTimer = null;
+}
+
+function schedulePlayerHistoryExpiry() {
+  clearPlayerHistoryExpiryTimer();
+  const current = state.activeVideo;
+  if (!current || current.type !== "long") return;
+  pruneRecentPlayerHistory();
+  const expiryAt = state.recentPlayerHistory
+    .filter((recent) => recent.id !== current.id)
+    .reduce((earliest, recent) => Math.min(earliest, recent.stamp + RECENT_PLAYER_BACKTRACK_MS), Infinity);
+  if (!Number.isFinite(expiryAt)) return;
+  const delay = Math.max(1, expiryAt - Date.now() + 25);
+  playerHistoryExpiryTimer = setTimeout(() => {
+    playerHistoryExpiryTimer = null;
+    pruneRecentPlayerHistory();
+    refreshActivePlayerQueue();
+  }, delay);
+}
+
 function rememberRecentPlayerVideo(video) {
   if (!video?.id || video.type !== "long") return;
   pruneRecentPlayerHistory();
@@ -1335,6 +1786,34 @@ function isTypingTarget(target) {
   return Boolean(target?.closest?.("input, textarea, select, [contenteditable='true']"));
 }
 
+function upNextQueueMarkup(queue) {
+  return queue.map((item) => `
+    <article class="queue-item" data-video-context-id="${escapeHtml(item.id)}">
+      <a class="queue-card" href="${escapeHtml(videoPlaybackHref(item))}" data-video-id="${escapeHtml(item.id)}">
+        <span class="queue-thumb">${thumbnailImage(item)}<span class="duration">${escapeHtml(item.duration || "Video")}</span>${progressBar(item)}</span>
+        <span><strong>${escapeHtml(item.title)}</strong><small>${escapeHtml(item.channel)}</small><small>${escapeHtml(item.views || "")}</small></span>
+      </a>
+      ${videoActionsButton(item, "queue")}
+    </article>`).join("") || '<div class="queue-empty">No unwatched long videos left.</div>';
+}
+
+function refreshActivePlayerQueue() {
+  const video = state.activeVideo;
+  if (!video || video.type !== "long") return;
+  const queueHadFocus = Boolean(document.activeElement?.closest?.("[data-up-next-list]"));
+  const queue = queueFor(video.id);
+  const previousVideo = playerNeighbor(video.id, -1);
+  const nextVideo = playerNeighbor(video.id, 1);
+  const count = document.querySelector("[data-up-next-count]");
+  const list = document.querySelector("[data-up-next-list]");
+  const navigation = document.querySelector("[data-player-navigation]");
+  if (count) count.textContent = `${queue.length} unwatched videos`;
+  if (list) list.innerHTML = upNextQueueMarkup(queue);
+  if (navigation) navigation.innerHTML = `${playerNavButton(-1, previousVideo)}${playerNavButton(1, nextVideo)}`;
+  if (queueHadFocus) document.querySelector(".player-main [data-open-video-menu-id]")?.focus();
+  schedulePlayerHistoryExpiry();
+}
+
 function renderPlayer() {
   const video = state.activeVideo;
   const queue = queueFor(video.id);
@@ -1342,7 +1821,7 @@ function renderPlayer() {
   const nextVideo = playerNeighbor(video.id, 1);
   app.innerHTML = `
     <section class="player-layout">
-      <div class="player-main">
+      <div class="player-main" data-video-context-id="${escapeHtml(video.id)}">
         <div class="player-frame">
           <div id="youtubePlayer"></div>
           <button class="wheel-capture-overlay" type="button" data-wheel-capture="long" data-wheel-side="left" tabindex="-1" aria-label="Scroll on the left video edge to switch long videos. Click to pause or resume."></button>
@@ -1356,7 +1835,7 @@ function renderPlayer() {
           <div class="author-info"><span class="avatar">${escapeHtml(initials(video.channel))}</span><div><strong>${escapeHtml(video.channel)}</strong><small>${escapeHtml(video.handle || "")}</small></div></div>
           <div class="player-actions">
             <span class="video-stats">${escapeHtml(video.views || "Views unavailable")} • ${escapeHtml(timeAgo(video.publishedAt))}</span>
-            <span class="player-nav-actions" aria-label="Video navigation">
+            <span class="player-nav-actions" data-player-navigation aria-label="Video navigation">
               ${playerNavButton(-1, previousVideo)}
               ${playerNavButton(1, nextVideo)}
             </span>
@@ -1364,39 +1843,38 @@ function renderPlayer() {
             ${floatButton(video, "player")}
             ${geminiButton(video, "player")}
             ${notebookLmButton(video, "player")}
+            ${videoActionsButton(video)}
             <button class="action-button compact" id="markCurrentWatched">✓ Mark watched</button>
           </div>
         </div>
       </div>
       <aside class="up-next">
         <div class="queue-head">
-          <div><strong>Up next</strong><small>${queue.length} unwatched videos</small></div>
+          <div><strong>Up next</strong><small data-up-next-count>${queue.length} unwatched videos</small></div>
           <label class="autoplay"><input id="autoplayToggle" type="checkbox" ${state.autoplay ? "checked" : ""}>Autoplay</label>
         </div>
-        <div class="queue-list">
-          ${queue.map((item) => `
-            <button class="queue-card" data-video-id="${escapeHtml(item.id)}">
-              <span class="queue-thumb"><img src="${escapeHtml(item.thumbnail)}" alt=""><span class="duration">${escapeHtml(item.duration || "Video")}</span>${progressBar(item)}</span>
-              <span><strong>${escapeHtml(item.title)}</strong><small>${escapeHtml(item.channel)}</small><small>${escapeHtml(item.views || "")}</small></span>
-            </button>`).join("") || '<div class="queue-empty">No unwatched long videos left.</div>'}
-        </div>
+        <div class="queue-list" data-up-next-list>${upNextQueueMarkup(queue)}</div>
       </aside>
     </section>`;
   bindWheelCaptureOverlay("long", handlePlayerWheel);
   createYoutubePlayer("youtubePlayer", video, {
     onEnded() {
-      if (state.autoplay && queue[0]) openLong(queue[0]);
+      if (state.activeVideo?.id !== video.id) return;
+      const currentNextVideo = queueFor(video.id)[0];
+      if (state.autoplay && currentNextVideo) openLong(currentNextVideo);
       else render();
     },
     onError() {
       state.unavailableVideos.add(video.id);
-      if (queue[0]) {
+      if (queueFor(video.id)[0]) {
         setTimeout(() => {
-          if (state.activeVideo?.id === video.id) openLong(queue[0]);
+          const currentNextVideo = queueFor(video.id)[0];
+          if (state.activeVideo?.id === video.id && currentNextVideo) openLong(currentNextVideo);
         }, 1600);
       }
     },
   });
+  schedulePlayerHistoryExpiry();
 }
 
 function waitForYoutube() {
@@ -1422,14 +1900,16 @@ function renderPlayerError(elementId, video) {
     <div id="${escapeHtml(elementId)}" class="player-error">
       <strong>This video could not be embedded.</strong>
       <span>The owner may have disabled playback outside YouTube.</span>
-      <a href="${escapeHtml(video.url || `https://www.youtube.com/watch?v=${video.id}`)}" target="_blank" rel="noopener">Open on YouTube</a>
+      <a href="${escapeHtml(videoWatchUrl(video))}" target="_blank" rel="noopener">Open on YouTube</a>
     </div>`;
 }
 
 async function createYoutubePlayer(elementId, video, options = {}) {
   destroyPlayer();
+  const generation = playerGeneration;
   try {
     const YT = await waitForYoutube();
+    if (generation !== playerGeneration || !document.getElementById(elementId)) return;
     player = new YT.Player(elementId, {
       videoId: video.id,
       width: "100%",
@@ -1445,6 +1925,10 @@ async function createYoutubePlayer(elementId, video, options = {}) {
       },
       events: {
         onReady(event) {
+          if (generation !== playerGeneration) {
+            try { event.target.destroy(); } catch { /* Superseded while the iframe booted. */ }
+            return;
+          }
           const saved = state.progress[video.id];
           if (saved?.seconds > 0 && Number(saved.ratio || 0) < 1) {
             event.target.seekTo(saved.seconds, true);
@@ -1461,12 +1945,17 @@ async function createYoutubePlayer(elementId, video, options = {}) {
           }, 1500);
         },
         onStateChange(event) {
+          if (generation !== playerGeneration) return;
           if (event.data === YT.PlayerState.ENDED) {
             markWatched(video.id);
             options.onEnded?.();
           }
         },
-        onError() {
+        onError(event) {
+          if (generation !== playerGeneration) {
+            try { event.target.destroy(); } catch { /* Superseded player. */ }
+            return;
+          }
           if (progressTimer) clearInterval(progressTimer);
           progressTimer = null;
           player = null;
@@ -1476,6 +1965,7 @@ async function createYoutubePlayer(elementId, video, options = {}) {
       },
     });
   } catch {
+    if (generation !== playerGeneration) return;
     const node = document.getElementById(elementId);
     if (node) {
       node.innerHTML = `<iframe src="${escapeHtml(youtubeEmbedSrc(video))}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin" title="${escapeHtml(video.title)}"></iframe>`;
@@ -1484,6 +1974,8 @@ async function createYoutubePlayer(elementId, video, options = {}) {
 }
 
 function destroyPlayer() {
+  playerGeneration += 1;
+  clearPlayerHistoryExpiryTimer();
   if (progressTimer) clearInterval(progressTimer);
   progressTimer = null;
   if (player?.destroy) {
@@ -1519,10 +2011,10 @@ async function shareCurrentShort(button) {
   if (!video) return;
   try {
     if (navigator.share) {
-      await navigator.share({ title: video.title, text: `${video.title} — ${video.channel}`, url: video.url });
+      await navigator.share({ title: video.title, text: `${video.title} — ${video.channel}`, url: videoWatchUrl(video) });
       return;
     }
-    await navigator.clipboard.writeText(video.url);
+    await navigator.clipboard.writeText(videoWatchUrl(video));
     const label = button?.querySelector("small");
     if (label) {
       const original = label.textContent;
@@ -1587,7 +2079,7 @@ function shortDrawerContent(video) {
         <strong>${escapeHtml(video.title)}</strong>
         <p>${escapeHtml(detail.description || "Description is not available in the current metadata cache.").replaceAll("\n", "<br>")}</p>
         <dl><div><dt>Channel</dt><dd>${escapeHtml(video.channel)}</dd></div><div><dt>Published</dt><dd>${escapeHtml(timeAgo(video.publishedAt))}</dd></div><div><dt>Views</dt><dd>${escapeHtml(video.views || "Unavailable")}</dd></div></dl>
-        <a href="${escapeHtml(video.url)}" target="_blank" rel="noopener">View original on YouTube ↗</a>
+        <a href="${escapeHtml(videoWatchUrl(video))}" target="_blank" rel="noopener">View original on YouTube ↗</a>
       </div>`;
   }
   const comments = detail.comments || [];
@@ -1597,9 +2089,9 @@ function shortDrawerContent(video) {
     <div class="short-drawer-head"><div><p class="eyebrow">Public YouTube discussion</p><h2>Comments <small>${visibleCount.toLocaleString()}</small></h2></div><button id="shortDrawerClose" aria-label="Close comments">×</button></div>
     <div class="short-comments">
       <div class="comments-cache-note">Showing ${comments.length} cached top comment${comments.length === 1 ? "" : "s"}</div>
-      ${comments.length ? comments.map(commentCard).join("") : `<div class="drawer-empty"><span>◯</span><strong>No cached comments</strong><p>Comments may be disabled, unavailable, or waiting for the next metadata refresh.</p><a href="${escapeHtml(video.url)}" target="_blank" rel="noopener">Open comments on YouTube ↗</a></div>`}
+      ${comments.length ? comments.map(commentCard).join("") : `<div class="drawer-empty"><span>◯</span><strong>No cached comments</strong><p>Comments may be disabled, unavailable, or waiting for the next metadata refresh.</p><a href="${escapeHtml(videoWatchUrl(video))}" target="_blank" rel="noopener">Open comments on YouTube ↗</a></div>`}
     </div>
-    <a class="comments-open-youtube" href="${escapeHtml(video.url)}" target="_blank" rel="noopener">Open YouTube to view all comments or reply ↗</a>`;
+    <a class="comments-open-youtube" href="${escapeHtml(videoWatchUrl(video))}" target="_blank" rel="noopener">Open YouTube to view all comments or reply ↗</a>`;
 }
 
 function toggleShortPanel(panel) {
@@ -1684,18 +2176,19 @@ function refreshShortNavigationControls() {
   scheduleShortHistoryExpiry();
 }
 
-function shortPlaybackQueue(video) {
+function shortPlaybackQueue(video, { allowHiddenRequested = false } = {}) {
   const allShorts = playableShortVideos();
   const selectedVideo = allShorts.find((item) => item.id === video?.id);
-  const allowHiddenRequested = Boolean(selectedVideo && (
-    (state.view === "history" && isWatched(selectedVideo.id))
+  const includeHiddenRequested = Boolean(selectedVideo && (
+    allowHiddenRequested
+    || (state.view === "history" && isWatched(selectedVideo.id))
     || (state.view === "ignored" && isIgnored(selectedVideo.id))
   ));
   return buildShortPlaybackQueue({
     videos: allShorts,
     requestedVideo: video,
     isHidden: isHiddenFromPlayback,
-    allowHiddenRequested,
+    allowHiddenRequested: includeHiddenRequested,
   });
 }
 
@@ -1704,10 +2197,10 @@ function pruneWatchedShortQueue(keepVideoId) {
   if (keepVideoId) state.shortIndex = Math.max(0, state.shortQueue.findIndex((item) => item.id === keepVideoId));
 }
 
-function openShort(video) {
+function openShort(video, { allowHiddenRequested = false } = {}) {
   clearShortHistoryExpiryTimer();
   state.shortHistory.reset();
-  state.shortQueue = shortPlaybackQueue(video);
+  state.shortQueue = shortPlaybackQueue(video, { allowHiddenRequested });
   if (!state.shortQueue.length) {
     window.alert("All available Shorts are already watched. Clear Watch history if you want to replay them.");
     return;
@@ -1729,7 +2222,7 @@ function renderShort() {
     <div class="short-overlay" id="shortOverlay">
       <button id="shortClose" class="icon-button short-close" aria-label="Close Shorts">×</button>
       <div class="short-stage">
-        <div class="short-shell">
+        <div class="short-shell" data-video-context-id="${escapeHtml(video.id)}">
           <div class="short-player">
             <div id="shortYoutubePlayer"></div>
             <button class="wheel-capture-overlay" type="button" data-wheel-capture="short" data-wheel-side="left" tabindex="-1" aria-label="Scroll on the left Short edge to switch Shorts. Click to pause or resume."></button>
@@ -1741,8 +2234,9 @@ function renderShort() {
             <button id="shortShareButton" aria-label="Share this Short"><span>↗</span><small>Share</small></button>
             ${geminiButton(video, "short")}
             <button id="shortFloatButton" aria-label="Open this Short in floating player"><span>⧉</span><small>Float</small></button>
+            ${videoActionsButton(video, "short")}
             <button id="shortDescriptionButton" class="${state.shortPanel === "description" ? "active" : ""}" aria-label="Show description"><span>i</span><small>About</small></button>
-            <a href="${escapeHtml(video.channelUrl || video.url)}" target="_blank" rel="noopener" aria-label="Open ${escapeHtml(video.channel)} on YouTube"><span class="action-avatar">${escapeHtml(initials(video.channel))}</span><small>Channel</small></a>
+            <a href="${escapeHtml(channelWatchUrl(video))}" target="_blank" rel="noopener" aria-label="Open ${escapeHtml(video.channel)} on YouTube"><span class="action-avatar">${escapeHtml(initials(video.channel))}</span><small>Channel</small></a>
           </div>
           <aside id="shortDrawer" class="short-drawer ${state.shortPanel ? "open" : ""}">${state.shortPanel ? shortDrawerContent(video) : ""}</aside>
         </div>
@@ -1862,6 +2356,16 @@ function selectView(view) {
   scrollToTop();
 }
 
+function shouldOpenCardInCurrentPage(event) {
+  return (
+    event.button === 0
+    && !event.metaKey
+    && !event.ctrlKey
+    && !event.shiftKey
+    && !event.altKey
+  );
+}
+
 function openCard(card, playbackOptions = {}) {
   if (!card) return;
   if (card.dataset.shortId) {
@@ -1873,6 +2377,19 @@ function openCard(card, playbackOptions = {}) {
     const video = state.feed.items.find((item) => item.id === card.dataset.videoId);
     if (video) openLong(video, playbackOptions);
   }
+}
+
+function openInitialPlaybackRequest() {
+  if (state.initialPlaybackHandled) return false;
+  state.initialPlaybackHandled = true;
+  const request = state.initialPlaybackRequest;
+  if (!request?.videoId) return false;
+  const video = state.feed?.items?.find((item) => item.id === request.videoId);
+  if (!video || (request.type && request.type !== video.type)) return false;
+  if (request.view && VALID_VIEWS.has(request.view)) state.view = request.view;
+  if (video.type === "short") openShort(video, { allowHiddenRequested: true });
+  else openLong(video);
+  return true;
 }
 
 function downloadJson(payload, filename) {
@@ -1906,7 +2423,7 @@ function exportLiked() {
     type: item.type,
     title: item.title,
     channel: item.channel,
-    url: item.url,
+    url: videoWatchUrl(item),
     likedAt: state.liked[item.id],
   }));
   downloadJson({ schemaVersion: 1, exportedAt: new Date().toISOString(), liked: state.liked, items }, `nexafeed-liked-${new Date().toISOString().slice(0, 10)}.json`);
@@ -1967,7 +2484,7 @@ async function loadFeed() {
     updatedLabel.innerHTML = Number.isFinite(updated.getTime())
       ? `<i></i>Updated ${updated.toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}`
       : "<i></i>Waiting for first refresh";
-    render();
+    if (!openInitialPlaybackRequest()) render();
   } catch {
     app.innerHTML = emptyState("Feed could not load", "Run this website through GitHub Pages or a local web server. Opening index.html directly cannot load JSON in some browsers.");
   }
@@ -1999,6 +2516,68 @@ function scrollShortCarousel(direction) {
   const step = Math.max(320, Math.floor(row.clientWidth * 0.82));
   row.scrollBy({ left: step * direction, behavior: "smooth" });
 }
+
+document.addEventListener("contextmenu", (event) => {
+  if (event.shiftKey) return;
+  const contextTarget = event.target.closest("[data-video-context-id]");
+  if (!contextTarget) return;
+  const nativeLink = event.target.closest("a[href]");
+  if (nativeLink) return;
+  const video = contextVideoFromElement(contextTarget);
+  if (!video) return;
+  event.preventDefault();
+  event.stopPropagation();
+  openVideoActionMenu(video, {
+    clientX: event.clientX,
+    clientY: event.clientY,
+    trigger: contextTarget,
+  });
+});
+
+document.addEventListener("click", (event) => {
+  const closeButton = event.target.closest("[data-close-video-menu]");
+  if (closeButton) {
+    event.preventDefault();
+    event.stopPropagation();
+    closeVideoActionMenu({ restoreFocus: true });
+    return;
+  }
+
+  const openButton = event.target.closest("[data-open-video-menu-id]");
+  if (openButton) {
+    event.preventDefault();
+    event.stopPropagation();
+    const video = contextVideoFromElement(openButton);
+    if (!video) return;
+    if (isVideoActionMenuOpenFor(video.id, openButton)) {
+      closeVideoActionMenu({ restoreFocus: true });
+      return;
+    }
+    const rect = openButton.getBoundingClientRect();
+    openVideoActionMenu(video, { clientX: rect.right, clientY: rect.bottom, trigger: openButton });
+    return;
+  }
+
+  const actionButton = event.target.closest("[data-video-action]");
+  if (actionButton) {
+    event.preventDefault();
+    event.stopPropagation();
+    const root = actionButton.closest("#videoActionMenuRoot");
+    const video = state.feed?.items?.find((item) => item.id === root?.dataset.videoId);
+    runVideoAction(actionButton.dataset.videoAction, video, actionButton).catch(() => {
+      closeVideoActionMenu({ restoreFocus: true });
+      window.alert("That video action could not be completed.");
+    });
+    return;
+  }
+
+  if (document.querySelector(".video-action-menu") && !event.target.closest(".video-action-menu")) {
+    closeVideoActionMenu();
+  }
+});
+
+document.addEventListener("keydown", handleVideoActionMenuKeydown);
+window.addEventListener("resize", () => closeVideoActionMenu());
 
 document.querySelector("#menuButton").addEventListener("click", toggleSidebar);
 scrim.addEventListener("click", () => {
@@ -2094,18 +2673,23 @@ app.addEventListener("click", (event) => {
     return;
   }
 
-  const shortButton = event.target.closest("[data-short-id]");
-  if (shortButton) {
-    openCard(shortButton);
+  const shortLink = event.target.closest("[data-short-id]");
+  if (shortLink) {
+    if (!shouldOpenCardInCurrentPage(event)) return;
+    event.preventDefault();
+    openCard(shortLink);
     return;
   }
 
-  const videoButton = event.target.closest("[data-video-id]");
-  if (videoButton) {
-    if (state.activeVideo?.id && videoButton.dataset.videoId !== state.activeVideo.id) {
+  const videoLink = event.target.closest("[data-video-id]");
+  if (videoLink) {
+    if (!shouldOpenCardInCurrentPage(event)) return;
+    event.preventDefault();
+    if (state.activeVideo?.id && videoLink.dataset.videoId !== state.activeVideo.id) {
+      rememberRecentPlayerVideo(state.activeVideo);
       finalizeVideoBeforeLeaving(state.activeVideo, { reason: "card-open" });
     }
-    openCard(videoButton, { finalizeCurrent: false });
+    openCard(videoLink, { finalizeCurrent: false });
     return;
   }
 
@@ -2235,7 +2819,7 @@ overlayRoot.addEventListener("click", (event) => {
 });
 overlayRoot.addEventListener("wheel", handleShortWheel, { passive: false });
 overlayRoot.addEventListener("touchstart", (event) => {
-  if (event.target.closest(".short-drawer")) {
+  if (event.target.closest(".short-drawer, .short-action-stack")) {
     touchStartY = null;
     return;
   }

@@ -66,8 +66,8 @@ class FrontendFeatureTests(unittest.TestCase):
             'data-view="ignored"',
             'id="ignoredCount"',
             "Ignored videos",
-            "app.js?v=20260802-history-replay",
-            "style.css?v=20260802-history-replay",
+            "app.js?v=20260804-thumbnail-fix",
+            "style.css?v=20260804-thumbnail-fix",
         ]:
             self.assertIn(marker, index_html)
 
@@ -95,8 +95,8 @@ class FrontendFeatureTests(unittest.TestCase):
         ]:
             self.assertIn(marker, app_js)
 
-        self.assertIn("app.js?v=20260802-history-replay", index_html)
-        self.assertIn("style.css?v=20260802-history-replay", index_html)
+        self.assertIn("app.js?v=20260804-thumbnail-fix", index_html)
+        self.assertIn("style.css?v=20260804-thumbnail-fix", index_html)
         self.assertIn("still present in the active feed is protected from pruning", readme)
 
     def test_skip_thresholds_do_not_recreate_old_five_second_watch_rule(self):
@@ -118,6 +118,208 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertNotIn("saved?.seconds > 5", app_js)
         self.assertNotIn("video.start > 5", float_html)
 
+    def test_playback_deep_links_round_trip_and_replay_the_exact_requested_video(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        actions_module = ROOT / "video-actions.mjs"
+        self.assertTrue(actions_module.exists(), "Playback URL helpers must be isolated for behavioral testing")
+
+        module_url = json.dumps(actions_module.as_uri())
+        script = f"""
+          import {{ buildPlaybackUrl, buildYouTubeChannelUrl, buildYouTubeWatchUrl, readPlaybackRequest }} from {module_url};
+          const expect = (condition, message) => {{ if (!condition) throw new Error(message); }};
+          const href = buildPlaybackUrl("https://developerjillur.github.io/nexafeed/?stale=1#shorts", {{
+            videoId: "00kEcNby86c",
+            type: "short",
+            view: "history",
+          }});
+          const url = new URL(href);
+          expect(url.origin === "https://developerjillur.github.io", "origin must stay same-origin");
+          expect(url.pathname === "/nexafeed/", "app pathname must be preserved");
+          expect(url.searchParams.get("play") === "00kEcNby86c", "clicked video ID must be encoded");
+          expect(url.searchParams.get("type") === "short", "video type must be encoded");
+          expect(url.searchParams.get("view") === "history", "collection view must be preserved");
+          expect(!url.searchParams.has("stale") && !url.hash, "stale query/hash state must not leak");
+
+          const request = readPlaybackRequest(href);
+          expect(request?.videoId === "00kEcNby86c", "playback request must recover exact ID");
+          expect(request?.type === "short", "playback request must recover type");
+          expect(request?.view === "history", "playback request must recover view");
+          expect(readPlaybackRequest("https://example.test/?play=<script>") === null, "invalid IDs must be rejected");
+          expect(readPlaybackRequest("https://example.test/?play=00kEcNby86c&type=bogus&view=history") === null, "an explicitly invalid type must reject the whole request");
+          expect(readPlaybackRequest("https://example.test/?play=00kEcNby86c&type=short&view=bogus") === null, "an explicitly invalid view must reject the whole request");
+          let rejectedInvalidType = false;
+          try {{ buildPlaybackUrl("https://example.test/", {{ videoId: "00kEcNby86c", type: "bogus", view: "home" }}); }} catch (error) {{ rejectedInvalidType = error instanceof TypeError; }}
+          expect(rejectedInvalidType, "the URL builder must reject an invalid explicit type");
+          let rejectedInvalidView = false;
+          try {{ buildPlaybackUrl("https://example.test/", {{ videoId: "00kEcNby86c", type: "short", view: "bogus" }}); }} catch (error) {{ rejectedInvalidView = error instanceof TypeError; }}
+          expect(rejectedInvalidView, "the URL builder must reject an invalid explicit view");
+          expect(buildYouTubeWatchUrl("00kEcNby86c") === "https://www.youtube.com/watch?v=00kEcNby86c", "YouTube links must be canonical");
+          expect(buildYouTubeWatchUrl("<script>") === "https://www.youtube.com/", "invalid feed IDs must not become active URLs");
+          expect(buildYouTubeWatchUrl("too-short") === "https://www.youtube.com/", "YouTube IDs must be exactly eleven characters");
+          expect(buildYouTubeChannelUrl({{ channelId: "UC501J-qOwU_7-EVlZK84lng" }}) === "https://www.youtube.com/channel/UC501J-qOwU_7-EVlZK84lng", "channel IDs must be canonical");
+          expect(buildYouTubeChannelUrl({{ handle: "@vdmsocial1" }}) === "https://www.youtube.com/@vdmsocial1", "safe handles may be canonicalized");
+          expect(buildYouTubeChannelUrl({{ handle: "javascript:alert(1)" }}) === "https://www.youtube.com/", "untrusted channel URLs must never survive");
+        """
+        result = subprocess.run(
+            ["node", "--input-type=module", "-e", script],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+        for marker in [
+            'import { buildPlaybackUrl, buildYouTubeChannelUrl, buildYouTubeWatchUrl, readPlaybackRequest } from "./video-actions.mjs?v=20260804-thumbnail-fix";',
+            "initialPlaybackRequest: readPlaybackRequest(window.location.href)",
+            "function openInitialPlaybackRequest",
+            "openShort(video, { allowHiddenRequested: true })",
+            "function shortPlaybackQueue(video, { allowHiddenRequested = false } = {})",
+            "function openShort(video, { allowHiddenRequested = false } = {})",
+        ]:
+            self.assertIn(marker, app_js)
+
+    def test_video_cards_are_real_links_and_preserve_modified_click_navigation(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+
+        for marker in [
+            "function videoPlaybackHref",
+            "return buildPlaybackUrl(window.location.href, {",
+            '<a class="card-open" href="${escapeHtml(videoPlaybackHref(video))}"',
+            '<a class="queue-card" href="${escapeHtml(videoPlaybackHref(item))}"',
+            "function shouldOpenCardInCurrentPage(event)",
+            "event.button === 0",
+            "!event.metaKey",
+            "!event.ctrlKey",
+            "!event.shiftKey",
+            "!event.altKey",
+            "if (!shouldOpenCardInCurrentPage(event)) return;",
+            "event.preventDefault();\n    openCard(shortLink);",
+            "event.preventDefault();\n    if (state.activeVideo?.id",
+        ]:
+            self.assertIn(marker, app_js)
+
+        self.assertNotIn('class="card-open" type="button"', app_js)
+        self.assertNotIn('<button class="queue-card"', app_js)
+
+    def test_video_action_menu_exposes_open_ai_copy_and_local_state_actions(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        style_css = (ROOT / "style.css").read_text(encoding="utf-8")
+
+        for marker in [
+            "function videoActionsButton",
+            "data-open-video-menu-id",
+            'id="shortVideoActionsButton"',
+            "function openVideoActionMenu",
+            "function closeVideoActionMenu",
+            "function runVideoAction",
+            "function handleVideoActionMenuKeydown",
+            'role="menu"',
+            'data-video-action="open-tab"',
+            'data-video-action="open-window"',
+            'data-video-action="open-youtube"',
+            'data-video-action="copy-yourtube"',
+            'data-video-action="copy-youtube"',
+            'data-video-action="toggle-like"',
+            'data-video-action="gemini"',
+            'data-video-action="notebooklm"',
+            'data-video-action="float"',
+            'data-video-action="toggle-watched"',
+            'data-video-action="toggle-ignored"',
+            "Open in new tab",
+            "Open in new window",
+            "Open on YouTube",
+            "Copy YourTube link",
+            "Copy YouTube link",
+            "Ask Gemini",
+            "Chat with NotebookLM",
+            "Float player",
+            'document.addEventListener("contextmenu"',
+            "if (event.shiftKey) return;",
+            'event.target.closest("[data-video-context-id]")',
+            'document.addEventListener("keydown", handleVideoActionMenuKeydown)',
+            "function openInNewTab",
+            "function openInNewWindow",
+            "function toggleWatchedFromMenu",
+            "function toggleIgnoredFromMenu",
+        ]:
+            self.assertIn(marker, app_js)
+
+        for marker in [
+            "#videoActionMenuRoot",
+            ".video-action-menu",
+            ".video-action-item",
+            ".video-action-separator",
+            "z-index: 300",
+            "pointer-events: none",
+            "pointer-events: auto",
+        ]:
+            self.assertIn(marker, style_css)
+
+        self.assertNotIn("video-context-overlay", app_js)
+        self.assertNotIn("video-context-overlay", style_css)
+
+    def test_video_actions_are_private_keyboard_isolated_and_mobile_safe(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        style_css = (ROOT / "style.css").read_text(encoding="utf-8")
+        verifier = (ROOT / "scripts/verify_nexafeed.py").read_text(encoding="utf-8")
+
+        for marker in [
+            "buildYouTubeWatchUrl",
+            'return `${target.origin}${target.pathname}`;',
+            "VIDEO_ACTION_MENU_BLOCKED_SHORTCUTS",
+            "VIDEO_ACTION_MENU_BLOCKED_SHORTCUTS.has(event.key)",
+            'data-close-video-menu',
+            "isVideoActionMenuOpenFor(video.id, openButton)",
+            "closeVideoActionMenu({ restoreFocus: true })",
+            "function refreshActivePlayerQueue",
+            'data-up-next-count',
+        ]:
+            self.assertIn(marker, app_js)
+
+        self.assertNotIn('return video?.url ||', app_js)
+        self.assertNotIn('return window.location.href.split("#")[0];', app_js)
+        self.assertIn("@media (max-width: 680px) and (max-height: 780px)", style_css)
+        self.assertIn("overflow-y: auto", style_css)
+        for module in ['"short-history.mjs"', '"video-actions.mjs"']:
+            self.assertIn(module, verifier)
+
+    def test_external_video_surfaces_popup_and_backtrack_are_hardened(self):
+        app_js = (ROOT / "app.js").read_text(encoding="utf-8")
+        float_html = (ROOT / "float.html").read_text(encoding="utf-8")
+        style_css = (ROOT / "style.css").read_text(encoding="utf-8")
+        verifier = (ROOT / "scripts/verify_nexafeed.py").read_text(encoding="utf-8")
+
+        for marker in [
+            "buildYouTubeChannelUrl",
+            "popup.opener = null",
+            "function openExternalWithoutOpener",
+            'window.open("about:blank", "_blank")',
+            "opened.location.replace(url)",
+            'if (event.key === "Tab")',
+            'rememberRecentPlayerVideo(state.activeVideo);',
+            "function leaveExplicitlyIgnoredVideo",
+            "if (leaveExplicitlyIgnoredVideo(video)) return;",
+        ]:
+            self.assertIn(marker, app_js)
+        self.assertNotIn('window.open(notebookUrl, "_blank")', app_js)
+        self.assertNotIn('window.open(geminiChatUrl(prompt), "_blank")', app_js)
+        self.assertNotIn("video.url", app_js)
+        self.assertNotIn("video.channelUrl", app_js)
+
+        for marker in [
+            "function safeWidgetReferrer",
+            'return `${target.origin}${target.pathname}`;',
+            "widget_referrer: safeWidgetReferrer()",
+            "window.opener = null",
+        ]:
+            self.assertIn(marker, float_html)
+        self.assertNotIn("document.referrer || window.location.href", float_html)
+        self.assertNotIn("item.url", float_html)
+
+        self.assertIn("@media (max-width: 680px) and (max-height: 780px)", style_css)
+        self.assertIn('"float.html"', verifier)
+        self.assertIn("float_html", verifier)
+
     def test_recent_watched_video_can_be_reopened_with_previous_for_ten_seconds(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
 
@@ -127,6 +329,9 @@ class FrontendFeatureTests(unittest.TestCase):
             "function rememberRecentPlayerVideo",
             "function recentPlayerBacktrackVideo",
             "function pruneRecentPlayerHistory",
+            "let playerHistoryExpiryTimer = null;",
+            "function schedulePlayerHistoryExpiry",
+            "playerHistoryExpiryTimer = setTimeout",
             "direction < 0 ? recentPlayerBacktrackVideo(currentId) : null",
             "rememberRecentPlayerVideo(state.activeVideo)",
             "recent.stamp && Date.now() - recent.stamp <= RECENT_PLAYER_BACKTRACK_MS",
@@ -186,7 +391,7 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
         self.assertIn(
-            'import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260802-history-replay";',
+            'import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260804-thumbnail-fix";',
             app_js,
         )
         self.assertIn("shortHistory: createTransientDirectionalHistory", app_js)
@@ -276,7 +481,8 @@ class FrontendFeatureTests(unittest.TestCase):
             "shortGeminiButton",
             "function openGemini",
             "await copyText(prompt)",
-            "window.open(geminiChatUrl(prompt), \"_blank\")",
+            "const targetUrl = geminiChatUrl(prompt);",
+            "openExternalWithoutOpener(targetUrl)",
             "event.target.closest(\"#shortGeminiButton\")",
             "openGemini(state.shortQueue[state.shortIndex]",
             "const geminiButtonElement = event.target.closest(\"[data-gemini-id]\")",
@@ -287,8 +493,8 @@ class FrontendFeatureTests(unittest.TestCase):
 
         self.assertIn("gemini-button", style_css)
         self.assertIn("gemini-icon", style_css)
-        self.assertIn("app.js?v=20260802-history-replay", index_html)
-        self.assertIn("style.css?v=20260802-history-replay", index_html)
+        self.assertIn("app.js?v=20260804-thumbnail-fix", index_html)
+        self.assertIn("style.css?v=20260804-thumbnail-fix", index_html)
 
     def test_wheel_scroll_over_youtube_iframe_is_captured(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -406,7 +612,7 @@ class FrontendFeatureTests(unittest.TestCase):
             "function exportLiked",
             "Export likes JSON",
             "Clear liked",
-            "class=\"card-open\" type=\"button\"",
+            "<a class=\"card-open\" href=",
             "function floatButton",
             "data-float-id",
             "function openFloatingVideo",
@@ -467,8 +673,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn("YourTube - A personal YouTube Package", index_html)
         self.assertIn("Watch only those valuable for you", index_html)
-        self.assertIn("style.css?v=20260802-history-replay", index_html)
-        self.assertIn("app.js?v=20260802-history-replay", index_html)
+        self.assertIn("style.css?v=20260804-thumbnail-fix", index_html)
+        self.assertIn("app.js?v=20260804-thumbnail-fix", index_html)
         self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)
@@ -633,7 +839,7 @@ class EnvironmentConfigTests(unittest.TestCase):
         for email_secret in ["RESEND_API_KEY", "EMAIL_PASSWORD", "EMAIL_SMTP_HOST", "NEXAFEED_EMAIL_RECIPIENTS"]:
             self.assertNotIn(email_secret, update_workflow)
         for workflow in [update_workflow, deploy_workflow, settings_workflow]:
-            self.assertIn("cp index.html style.css app.js short-history.mjs float.html config.json _site/", workflow)
+            self.assertIn("cp index.html style.css app.js short-history.mjs video-actions.mjs float.html config.json _site/", workflow)
             for match in re.finditer(r"uses:\s+([^\s#]+)", workflow):
                 self.assertRegex(match.group(1), r"@[0-9a-f]{40}$")
         self.assertIn("if [ -d docs ]; then cp -R docs _site/docs; fi", deploy_workflow)
