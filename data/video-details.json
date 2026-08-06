@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T22:53:14Z",
+  "updatedAt": "2026-08-06T23:53:13Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -4452,15 +4452,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "67VFCBoiss8": {
-      "checkedAt": "2026-08-02T08:53:32Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "#layoffs #jobs #engineering \n\nLink for free mentorhip session : https://tinyurl.com/44zzh5j8\n\nTech layoffs 2026 — kya hua, kyun hua, aur ab kya karein? Oracle (30K), Amazon (30K), Meta + Microsoft (20K), Uber (23%) — sab record profits ke beech mein layoffs kar rahe hain. Wajah? $700 billion AI infrastructure investment.\nIs video mein 7 practical pointers cover kiye hain jo aapki job ko AI-proof bana sakte hain — FDE roles, AI-native startups, contract work, T-shaped skills, aur zyada.\n✅ What you'll learn:\n\nThe real reason behind 2026's biggest tech layoff wave\n\nWhy \"Forward Deployed Engineer\" (FDE) is the hottest new job title\n\nWhere to find jobs at AI-native startups (and why they pay better)\n\nWhy contract & freelance work isn't a downgrade anymore\n\nHow to become \"layoff-proof\" with T-shaped skills\n\nHow AI is replacing developers — and what to do about it\n🎯 Free mentorship session: https://tinyurl.com/2zfjdckf\n\n🤝 Connect with me:\n\n→ LinkedIn: https://in.linkedin.com/in/parikh-jain-79568798\n\n→ Instagram: https://www.instagram.com/parikhjain/\n📺 Watch next:\n\n→ Top 5 Highest Pay Tech Skills: https://youtu.be/pXiZn3xn08I\n\n→ Complete DSA 251 Roadmap: https://youtu.be/qqvYFlBJMSw\nIf this video helped, hit like, subscribe, and share with a friend in tech.\n#TechLayoffs #TechLayoffs2026 #AI #ArtificialIntelligence #CareerAdvice #SoftwareEngineer #JobMarket2026 #ForwardDeployedEngineer #FDE #TechIndia #ParikhJain #ProPeers #AIJobs #FutureOfWork #JobSecurity\nTags: tech layoffs 2026, oracle layoffs 2026, amazon layoffs, meta layoffs, microsoft layoffs, uber layoffs, AI taking jobs, AI replacing software engineers, forward deployed engineer, FDE jobs, what is a forward deployed engineer, harness engineer, spec driven developer, layoff proof career, layoff proof job 2026, tech job market 2026, AI native startups hiring, AI startup jobs, contract jobs tech, freelance developer jobs, T-shaped skills, software engineer career advice, how to survive tech layoffs, future of software engineering jobs, AI job crisis, big tech layoffs explained, software developer career 2026, upskilling for AI era, parikh jain, propeers, tech layoffs hindi, tech layoffs hinglish",
-      "commentCount": 1,
-      "likeCount": 31,
-      "probeClient": "web_embedded"
-    },
     "FTVaxExDZvA": {
       "checkedAt": "2026-08-02T09:53:32Z",
       "embedAllowed": true,
@@ -4587,24 +4578,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "2OkscJprecM": {
-      "checkedAt": "2026-08-02T12:53:27Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Claude Code is changing the way developers write software—but what exactly is it, and why is everyone talking about it?\n\nIn this beginner-friendly guide, you'll learn what Claude Code is, how it works, and why it's becoming one of the most powerful AI coding assistants available today. We'll explore its key features, real-world use cases, advantages, limitations, and how it compares to traditional coding workflows.\n\nWhether you're a beginner learning to code or an experienced software developer, this video will help you understand how Claude Code can improve your productivity and simplify software development.\n\n📌 In this video:\n✅ What is Claude Code?\n✅ How Claude Code works\n✅ Key features and capabilities\n✅ Real-world coding examples\n✅ Advantages and limitations\n✅ Why developers are switching to AI coding assistants\n✅ The future of AI-powered software development\n\n🚀 If you enjoyed this video, don't forget to:\n👍 Like the video\n💬 Share your thoughts in the comments\n🔔 Subscribe to HSM Tech for more AI tutorials, coding tools, and technology explained in simple terms.\n\n📺 Coming Next:\n➡️ GitHub Copilot Explained\n➡️ Claude Code vs GitHub Copilot\n➡️ MCP (Model Context Protocol) Explained\n➡️ AI Coding Assistants Compared\n\n#claudecode  #claudeai  #anthropic  #aicoding  #artificialintelligence  #programming  #softwaredevelopment  #aitools  #HSMTech",
-      "commentCount": 1,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "V1khxZL-yVA": {
-      "checkedAt": "2026-08-02T12:53:27Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "👉 Access our AI Starter Apps & join hundreds of serious AI builders in our community: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=langfuse\n\n🔗 Langfuse\nWebsite: https://langfuse.com/\nGitHub (MIT licensed): https://github.com/langfuse/langfuse\n\n🔗 Coding Agent Plugins\nClaude Code: https://langfuse.com/integrations/developer-tools/claude-code\nPi Agent: https://langfuse.com/integrations/developer-tools/pi-agent\nHermes Agent: https://langfuse.com/integrations/other/hermes\nOur Instructions on patching the Hermes Langfuse plugin: https://github.com/theaiautomators/video-resources/blob/main/langfuse-hermes-setup.md\n\n🔗 Langfuse Agent Skill and MCP server\nAgent Skill: https://github.com/langfuse/skills\nMCP server: https://langfuse.com/docs/api-and-data-platform/features/mcp-server\n\n🔗 Setup Instructions\nOverview: https://langfuse.com/self-hosting\n\nSoftware with a model in the loop doesn't crash when it's wrong. It just carries on confidently. All of the logs are clean, the tests pass, there are no specific errors thrown, and the answer is still wrong. Meanwhile your costs may have tripled overnight, or response quality has dropped even though you haven't changed the model, and everything on the surface still looks fine.\n\nSo what you actually need is X-ray vision into the app. A complete record of every request showing you what the model was handed and when, what it did with that information, what that turn cost, and whether the answer was actually any good or not. That's essentially what Langfuse is. It's open source and MIT licensed, so it either runs on your own machine or free on their hosted tier, and it plugs straight into the coding agent you already work in.\n\nIn this video I go through everything you need to know about it. I get it up and running in Claude Code, in the Pi agent and in the Hermes agent, where you very much do not get the same visibility in all three, and then give it the full feature tour connected to the custom AI app we're building on this channel. This video isn't sponsored. We don't do sponsored content on this channel.\n\n⏱️ Timestamps:\n\n0:00 Pi Coding Agent\n5:25 Hermes Agent\n6:53 Claude Code\n8:23 Tracing A Custom AI App\n10:04 Why You Need This\n13:00 What A Good Trace Looks Like\n18:31 Prompt Management\n20:10 Scores, Feedback And Evals\n23:13 Sensitive Data\n23:59 Hosting Options\n\n#AI #AIAgents #Langfuse #LLMObservability #Observability #Evals #LLMEvaluation #Tracing #ClaudeCode #Codex #HermesAgent #PiAgent #AgenticRAG #PromptManagement #OpenSource #AIArchitects #AIBuilder",
-      "commentCount": 1,
-      "likeCount": 57,
-      "probeClient": "web_embedded"
-    },
     "my1Wc9pBf7g": {
       "checkedAt": "2026-08-02T13:53:35Z",
       "embedAllowed": true,
@@ -4624,15 +4597,6 @@
       "description": "The course I learnt from 👉https://www.skool.com/makerschool/about?ref=c2b9ac9336bd481b8510208532e310e7\nAi Automation Discord 👉 https://discord.gg/VpRxru5Xcm\nFollow me on insta 👉 https://www.instagram.com/finnharris10k/\nFollow me on X 👉 https://x.com/FinnHarris10k\nToday's thread on X 👉 https://x.com/FinnHarris10k/status/2083898902344835556\n\nDM me on Discord for a consultation\n\nfinn@qemoza.ai | https://qemoza.ai/\n\n--------------------\nAI automation, AI agency, automation agency, AI business, AI entrepreneur, documenting my journey, business journey, building an AI agency, starting an AI business, AI consulting, AI freelancer, financial freedom journey, making £20k per month, £20k/month goal, AI income journey, scaling to six figures, how to get clients, client acquisition, AI client acquisition, high-ticket clients, selling AI automations, AI workflows, no-code automation, automation for businesses, Zapier automation, Make.com automation, ChatGPT automation, AI tools for business, automate small business, AI side hustle, AI business model, scaling service business, online business journey, entrepreneurship documentary, startup journey, business automation, workflow automation, AI systems, solo entrepreneur, one-person business, automation tutorial, AI roadmap",
       "commentCount": 2,
       "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "TH-3oMBmwcA": {
-      "checkedAt": "2026-08-02T13:53:35Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI automation agencies solve individual tasks. Custom software agencies solve the bigger system underneath them.\n\nIn this video, I explain why custom software is the bigger opportunity.\n\nThe opportunity isn’t another disconnected automation. It’s becoming the technology partner who builds and runs the software a business relies on.\n\nJoin the free Custom Software Society community:\n\nhttps://www.skool.com/custom-software-society-4972/about\n\nI build custom software for 7-8 figure companies. If you want us to build something for you, book a call below:\n\nhttps://bit.ly/BookCallWithGeorge",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "zwxRneriXfs": {
@@ -4678,24 +4642,6 @@
       "description": "In 2017, AI meant complex coding. Only developers could build real systems.\n\nBy 2023, Generative AI made things easier — but true automation still needed technical skills.\nNow it’s the era of Agentic AI. AI doesn’t just answer — it takes action.\n\nLow-code tools have changed the game, and n8n is the most powerful one. Build real AI workflows visually, without heavy coding.\n\nMaster n8n by building 5 portfolio projects:\n\n🔵 Lead Generation Automation\n🔵 LinkedIn Automation\n🔵 AI-Powered News Summarizer\n🔵 End-to-End RAG Project\n🔵 Alexa-like Chat Assistant\n\nThe future belongs to those who can build intelligent agents fast. And right now, the smartest way to do that is by mastering n8n.\n\n𝐓𝐢𝐦𝐞𝐋𝐢𝐧𝐞: \n\n✅ 00:00 Introduction\n✅ 04:40 N8N Introduction\n✅ 09:46 N8N Template\n✅ 11:29 N8N Tool Demo\n✅ 19:24 Project Overview\n✅ 27:27 Workflow Overview\n✅ 54:02 Workflow From Scratch\n✅ 01:35:20 Lead Generation (Project 1)\n✅ 01:50:54 LinkedIn Part 1  (Project 2)\n✅ 01:56:40 LinkedIn Part 2 (Project 2)\n✅ 02:10:47 AI Power Intro  (Project 3)\n✅ 02:24:01 AI Power Workflow (Project 3)\n✅ 02:41:15 AI Power Project Setup (Project 3)\n✅ 02:42:49 RAG (Project 4)\n✅ 02:52:17 RAG Architecture (Project 4)\n✅ 02:56:27 Basic RAG (Project 4)\n✅ 03:04:54 Hugging Face (Project 4)\n✅ 03:10:15 RAG + Pinecone (Project 4)\n✅ 03:22:16 Build AI Introduction (Project 5)\n✅ 03:30:34 SA vs MA (Project 5)\n✅ 03:48:08 Guardrails with LangGraph (Project 5)\n✅ 03:55:25 Demo Project (Project 5)\n✅ 04:10:04 Demo Project (Alexa + Guardrails) (Project 5)\n\n🔴 Code: At 100 likes and 50 comments.\n\nSubscribe our YouTube Channel and press the bell icon to get regular updates👇: https://bit.ly/3tt2eNY\n\nJoin our Telegram Channel For Exclusive Data Science Resources👍 : \nhttps://bit.ly/3FzObsk\n\nCheck Out Our Other Helpful Videos:😍\n\n➮ Data Analyst vs Data Scientist vs Data Engineer - Roles || Responsibilities & Skills\nhttps://bit.ly/3qsg2pL\n➮Live Implementation of End To End Machine Learning Project With Deployment | Customer Churn\nhttps://bit.ly/3FqPQjF\n➮ Build your own Alexa in 30 minutes using Python | NLP | Data Science\nhttps://bit.ly/3FFBWdP\n\n✅✅✅ Follow us on: ✌️\n\n👥 FACEBOOK: https://bit.ly/3I89SB4\n📸 INSTAGRAM: https://bit.ly/3GLSvFn\n💬 LINKEDIN: https://bit.ly/3fmwmCa\n🔴 TELEGRAM: https://bit.ly/3MjBODX\n🔴 TELEGRAM Discussion Group: https://bit.ly/3mcusay\n\nHello Friends , I am Satyajit Pattnaik, In my channel you will find every information about Data Science & Analytics which will help you become an expert Data Scientist or a Data Analyst along with which you would enjoy a loads of interesting and useful projects. \n\nMore & more great stuffs coming soon, keep supporting & learning 🎓\n\nTHANKS FOR WATCHING 😊",
       "commentCount": 6,
       "likeCount": 29,
-      "probeClient": "web_embedded"
-    },
-    "D923v6SrcRw": {
-      "checkedAt": "2026-08-02T15:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "I built a viral skeleton shorts channel using only AI, full course, step by step. This faceless YouTube automation niche is one of the easiest ways to grow a new channel in 2026, and new creators are pulling millions of views with these AI skeleton videos on YouTube Shorts and TikTok.\n\nIn this video, I show you 2 complete methods: one AI tool that creates the entire video for you in minutes, and a 100% free AI tools workflow so you can start today with zero budget. No experience, no camera, no editing skills needed.\n\n______________________________\n\n👉Telegram: https://t.me/moneydegreeai\n\n______________________________\n\n🧑‍💻Contact me: moneydegreebusiness@gmail.com\n\n______________________________\n\n📌Tools Used In This Video\n\nCrealix AI: https://www.crealix.ai\nClaude: https://claude.ai\nFlow: https://labs.google/fx/tools/flow\nElevenLabs: https://shorturl.at/15ga1\nCapCut: https://www.capcut.com \n\n\n______________________________\n\n⏱ Timestamps:\n0:00 – Introduction\n1:25 – Video Creation Setup (Method 1)\n4:35 – Scene Customization\n6:54 – How to Make the Video Look Better\n8:51 – Exporting the Video\n9:36 – Final Video (Method 1)\n10:36 – The Method 2 Plan\n10:50 – Competitor Research & Idea Creation\n11:48 – Creating a Reference Skeleton Image\n12:38 – Creating the Image Prompts & Generation\n14:17 – Creating the Video Prompts & Generation\n15:49 – Creating the Script & Voiceover\n17:06 – Full Editing Masterclass\n21:12 – Final Video (Method 2)\n22:08 – Important\n\n𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐲𝐨𝐮𝐫 𝐭𝐢𝐦𝐞!\n  ❤️❤️𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞❤️❤️\n\n\n★ IGNORE ★\nmoney degree, faceless youtube channel, youtube automation, youtube automation step by step, faceless youtube channel ideas, youtube automation course, youtube automation ai, youtube automation for beginners, how to start youtube automation, faceless youtube channel ai, what is youtube automation, faceless youtube, youtube automation tutorial, youtube automation niches, skeleton shorts, viral shorts, skeleton video, youtube shorts, viral youtube videos, faceless youtube tips, youtube growth tips, ai tools for youtube, youtube automation 2026, how to grow on youtube, faceless content creation.",
-      "commentCount": 12,
-      "likeCount": 29,
-      "probeClient": "web_embedded"
-    },
-    "kLeePks8_0Y": {
-      "checkedAt": "2026-08-02T15:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "There are three AI automation platforms running the show in 2026. Zapier, Make, and n8n. They all claim to do the same thing, but they're built for completely different kinds of people.\n\nThe AI agent software market hit $206.5 billion this year. Companies are pouring money into automation. Most of them are using the wrong tool for their team.\n\nIn this video, I break down each platform — who it's for, where it excels, and where it breaks — so you can pick the right one for your team.\n\nTIMESTAMPS:\n0:00 — The 3 platforms\n0:20 — What AI automation actually means\n1:15 — Zapier: the no-code on-ramp\n2:30 — Make: the visual powerhouse\n3:45 — n8n: the open-source power move\n5:00 — The new challengers\n5:45 — The verdict\n6:15 — The bottom line\n\nSubscribe for weekly AI explainers. Drop a comment: which tool are you using — Zapier, Make, or n8n?",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "BRB12bTKeEY": {
@@ -4860,24 +4806,6 @@
       "description": "Reduce case processing time in drug safety using generative AI. See how new tools automate narrative writing for translated cases.\n\nDrug safety departments often face heavy backlogs when managing manual case processing. This video explains how AI tools, specifically generative AI, can be applied to streamline these workflows in 2025 and 2026. If you work in pharmacovigilance or clinical operations, this overview helps you understand the practical application of automation in your daily tasks.\n\nThe core focus is on how technology assists with complex narrative writing, particularly when handling translated cases that traditionally consume significant resources. By integrating AI in pharma processes, teams can improve efficiency without sacrificing quality or accuracy in reporting. Learn how these specific advancements are shifting the landscape for safety officers globally.\n\nSubscribe for weekly pharmacovigilance breakdowns, and comment below on which AI tools you are currently testing in your department.\n\nFree Narrative Writing Tool: https://narrativewritingcoach.netlify.app/",
       "commentCount": 14,
       "likeCount": 12,
-      "probeClient": "web_embedded"
-    },
-    "V0G43ESOXFE": {
-      "checkedAt": "2026-08-02T17:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Why is Generative AI tools like ChatGPT not enough? Understand the reason why you should use Agentic AI using the 3A framework.\n\nFor in-depth AI training and coaching for individuals and teams, reach out to Jun Han.",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "MkrTp2Kuv7Y": {
-      "checkedAt": "2026-08-02T17:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn what Generative AI is and how it creates new content such as text, images, audio, video, code, and presentations.\n\nIn this video, you will understand Generative AI in simple language with practical examples. You will see how AI tools such as ChatGPT, Claude, Gemini, image generators, audio tools, and video generators create useful content from user prompts.\n\nYou will also learn the difference between traditional AI and Generative AI, how Generative AI models learn patterns from large amounts of data, and how they generate new outputs based on your instructions.\n\nTopics covered:\n\n✅ What is Generative AI\n✅ How Generative AI works\n✅ Traditional AI vs Generative AI\n✅ Text generation using AI\n✅ AI image generation\n✅ AI audio and voice generation\n✅ AI video generation\n✅ AI code generation\n✅ Real-world Generative AI examples\n✅ Popular Generative AI tools\n✅ Benefits and limitations of Generative AI\n✅ Generative AI use cases for students, professionals, developers, and content creators\n\nThis beginner-friendly video is useful for anyone who wants to understand Generative AI and explore how modern AI tools can improve productivity, creativity, learning, and business workflows.\n\nSubscribe for more videos on Generative AI, ChatGPT, Claude AI, Gemini, Large Language Models, prompt engineering, AI agents, RAG, and popular AI tools.\n\n#GenerativeAI #ArtificialIntelligence #ChatGPT #AITools #LLM #PromptEngineering #AIForBeginners #MachineLearning #ContentCreation #AIExamples",
-      "commentCount": 0,
-      "likeCount": 4,
       "probeClient": "web_embedded"
     },
     "-05RlqnjOTM": {
@@ -6117,7 +6045,7 @@
       "probeClient": "web_embedded"
     },
     "0g1BRdHgIM0": {
-      "checkedAt": "2026-08-06T22:53:14Z",
+      "checkedAt": "2026-08-06T23:53:13Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6199,7 +6127,7 @@
       "probeClient": "web_embedded"
     },
     "jO2Rturffu8": {
-      "checkedAt": "2026-08-06T22:53:14Z",
+      "checkedAt": "2026-08-06T23:53:13Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7270,6 +7198,78 @@
       "description": "https://openmonoagent.ai/?v=MWUpBDFhfhU\n\nThe AI race is no longer just about building bigger models.\n\nOpen-weight AI is improving at a pace that few expected, with models small enough to run on consumer hardware now approaching the performance of frontier systems that required billions of dollars to develop. For businesses, that changes the conversation from renting intelligence to owning it.\nAs open-weight models become more capable, the real competitive advantage moves away from the model itself and toward the software, workflows, and infrastructure built around it. We'll explore why this shift is putting pressure on the largest AI labs, why companies are rethinking cloud-first AI strategies, and how organizations can take advantage of powerful local AI without sacrificing flexibility or control. \n\nLinks:\n\nhttps://StartupHakk.com/Spencer\n\nhttps://OpenMonoAgent.ai\n\nhttps://OpenMonoAgent.ai/landing-free\n\nhttps://github.com/StartupHakk/OpenMonoAgent.ai\n\n#innovation #coding #technology #codeyourfuture",
       "commentCount": 14,
       "likeCount": 38,
+      "probeClient": "web_embedded"
+    },
+    "s-MgHZ_oGl0": {
+      "checkedAt": "2026-08-06T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Go to https://ground.news/sabine  to get 40% off the Vantage plan and see through sensationalized reporting. Stay fully informed on events around the world with Ground News.\n\nOne popular answer to the Fermi Paradox is that advanced civilizations develop artificial intelligence and simply lose interest in space travel. A researcher now argues that's backwards: AI, robots, and cheap probes make space exploration easier, not pointless. Which means the paradox gets worse, not better. Let's take a look.\n\nCorrection: The author is not a physicist, but has a PhD in economics. Sorry for the mixup.\n\n#science #sciencenews #physics #space #aliens \n\nPaper: https://doi.org/10.48550/arXiv.2606.13914\n\n👕T-shirts, mugs, posters and more: ➜ https://sabines-store.dashery.com/\n💌 Support me on Donorbox ➜ https://donorbox.org/swtg\n👉 Transcript with links to references on Patreon ➜ https://www.patreon.com/Sabine\n📝 Transcripts and written news on Substack ➜ https://sciencewtg.substack.com/\n📩 Free weekly science newsletter  ➜ https://sabinehossenfelder.com/newsletter/\n👂 Audio only podcast ➜  https://open.spotify.com/show/0MkNfXlKnMPEUMEeKQYmYC\n🔗 Join this channel to get access to perks ➜ \nhttps://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw/join\n📚 Buy my book ➜ https://amzn.to/3HSAWJW",
+      "commentCount": 2400,
+      "likeCount": 10770,
+      "probeClient": "web_embedded"
+    },
+    "lj4H_8KdeME": {
+      "checkedAt": "2026-08-06T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "#ArtificialIntelligence #technology  #TechDiplomacy #BangladeshForeignPolicy\n\nওয়াশিংটন নাকি বেইজিং, কোন পথে বাংলাদেশ? | Bangladesh Foreign Policy | Artificial Intelligence\n\n*❈About Kaler Kantho❈* \nOfficial YouTube Channel of Kaler Kantho, a leading national daily from Bangladesh, established on January 10, 2010. We serve complete truth to our readers not the half.  Strongest panel of journalist in Bangladesh put their hands together to reveal the best out of the facts for the nation Kaler kantho.\n*Read more News:* https://www.kalerkantho.com\n\n*❈Find Us on Facebook:❈* \nKaler Kantho : https://www.facebook.com/kalerkantho\nKaler kantho Digital: https://www.facebook.com/kalerkanthodigital\nKaler Kantho News: https://www.facebook.com/kalerkanthonews\nKaler Kantho Entertainment: https://www.facebook.com/binodon.kalerkantho\nKaler Kantho Sports: https://www.facebook.com/KalerKanthoSports\nKaler Kantho Health: https://www.facebook.com/kalerkanthohealth\nKaler Kantho Islamic: https://www.facebook.com/KalerKanthoIslamic\nKaler Kantho Official Facebook Group: https://www.facebook.com/groups/kalerkantho\n\n*❈More on YouTube:❈* \nKaler kantho:▶️ https://www.youtube.com/@KalerKanthoChannel\nKaler Kantho Digital:▶️ https://www.youtube.com/@KalerKanthoDigital\nKaler Kantho Entertainment:🎦 https://www.youtube.com/@KalerKanthoEntertainment\nKaler Kantho Sports:⛹️♀️ https://www.youtube.com/@kalerKanthoSports2010\nKaler Kantho Health:🥦 https://www.youtube.com/@KalerKanthoHealth\nKaler Kantho Islamic:🕌 https://www.youtube.com/@kalerkanthoislamic\nKaler Kantho News:📰 https://www.youtube.com/@KalerKanthoNews24\n\n*❈Other Social Platforms:❈*\nInstagram: https://www.instagram.com/thekalerkantho/\nLinkedin: https://www.linkedin.com/company/kalerkantho \nTelegram: https://t.me/kalerkanthodigital\nWhatsApp: https://whatsapp.com/channel/0029VbAStb8GehEWhCIbUF09\nTikTok: https://www.tiktok.com/@kalerkanthodigital\nTwitter: https://x.com/TheKalerKantho \nThread: https://www.threads.com/@thekalerkantho\n\n*❈Fair Use Disclaimer:❈*  \nThis channel may use some copyrighted materials without specific authorization of the owner but contents used here falls under the “Fair Use” as described in The Copyright Act 2000 Law No. 28 of the year 2000 of Bangladesh under Chapter 6, Section 36 and Chapter 13 Section 72. According to that law allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\n\" *Copyright Disclaimer* Under Section 107 of the Copyright Act 1976, allowance is made for -fair use- for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"\n\n*Published by Moynal Hossain Chowdhury on behalf of East West Media Group Limited* Head Office: Plot-371/A, Block-D, Bashundhara, Baridhara and Printed from Plot-C/52, Block-K, Bashundhara, Khilkhet, Badda, Dhaka-1229 and Kalibala 2nd Bypass Road, Bogra. PABX: 09612120000, 8432372-75, News Department Fax: 8432368-69, Advertisement Phone: 8432048, Advertisement Mail: kkadvt2010@gmail.com, Circulation: 8432376\nE-mail : info@kalerkantho.com\n\n*❈Office Address:❈* \n*Kaler Kantho* \nEast West Media Group Limited\nPlot : 371/A, Block : D, \nBashundhara Residential Area, Baridhara Dhaka\n\n*❈For Advertising:❈*  8432048, email : kkadvt2010@gmail.com\n\n*❈Hashtags❈*\n#kalerkantho #kalerkanthonews #কালেরকণ্ঠ #news #নিউজ #banglanews #bdnews #kalerkanthoyoutube #politicalnews\n\n*❈Keywords❈*\nKaler Kantho, Kaler Kantho news, Kaler Kantho official, Bangla news, Bangladesh news, latest Bangla news, breaking news Bangladesh, Bangla newspaper, Kaler Kantho update, Bangla news today, বাংলা সংবাদ, বাংলাদেশের খবর, Kaler Kantho YouTube, political news Bangladesh, entertainment news, sports news Bangladesh, international news Bangladesh",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "JYgyvyCccHE": {
+      "checkedAt": "2026-08-06T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Are you already investing in AI without realising it? Even investors who have never bought an AI stock could already have significant exposure through their portfolios.\n\nArtificial intelligence has created some of the world's biggest companies, but the bigger question may be how much AI investors already own. Investment strategists explain why today's market optimism has fuelled debate over valuations, whether comparisons with previous technology booms are valid, and why identifying an investment bubble is rarely straightforward.\n\nThe video also looks at how broad market index funds and emerging market investments can concentrate exposure in AI-related companies such as Nvidia, TSMC and SK Hynix. It explores how hidden concentration can affect diversification, why portfolio construction matters, and what investors should understand before adding more AI investments.\n\n========================\nFor more of Money Mind: https://youtube.com/playlist?list=PLkMf14VQEvTZgHFM-uTxXiJ1Fll4SwL4y\n==========================\n#CNAInsider #MoneyMindCNA #Investment #Stocks #FinancialLiteracy  \n\nFor more, SUBSCRIBE to CNA INSIDER! \nhttps://cna.asia/insideryoutubesub\n\nFollow CNA INSIDER on:\nTelegram: https://t.me/CNAInsiderSG\nInstagram: https://www.instagram.com/cnainsider/\nFacebook: https://www.facebook.com/cnainsider/\nWebsite: https://cna.asia/cnainsider",
+      "commentCount": 6,
+      "likeCount": 33,
+      "probeClient": "web_embedded"
+    },
+    "IxwJ-0Xv8MY": {
+      "checkedAt": "2026-08-06T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Digital freedom tools by Mr Freeman | Freeland, VPN, eSIM, crypto cards, anonymous numbers — https://go.mf0.store/Yut\n\nLiving paintings from the Mr. Freeman project — https://mf0.gallery\n\nSecond digital brain and the most effective way to use AI models — https://mf0.ai\n\nMr Freeman’s digital twin, where you can get answers to any questions — https://pickmybrain.com/mr_freeman/\n\nTelegram — https://t.me/mrfreeman000  \nWeb — https://mf0.me  \nFacebook — https://facebook.com/mrfreeman000  \nInstagram — https://instagram.com/mrfreemanofficial/  \nWikipedia — https://ru.wikipedia.org/wiki/Mr._Freeman  \nFreeland — https://freeland.land\n\n======\n\nHey! Stop looking at the damn screen, will you? Look up there. Right up there in the sky. You see it? Ahhhhh! It is a comet. It is headed straight for us, and it's the size of the entire global job market. With every passing day, it's learning to do exactly what you got paid for yesterday. It's writing, programming, drawing, diagnosing, designing, selling, problem-solving. It never gets tired, never asks for time off. It never argues with the boss. And you're going, \"Relax. It's fear-mongering, that's all.\" While you keep on scrolling and scrolling a feed built by an algorithm that knows you better than you could possibly know yourself.\n\nEvery technological revolution of the past was about how you got to work harder, you got to work faster, you got to go, go, go. But this one says, \"Thanks. We'll take it from here.\" The AI business model is very simple. Take all of the skills that you had and resell them as a product. The less that they need people, the higher the valuation. You, the one that's out of a job, you're the product.\n\nYou got your degree and nobody wants you? Looks like you went and picked the wrong profession. Victim of downsizing? That's some bad luck. Your boss is a total moron. But the real reason is something else entirely. It is something so wide that you'll never be able to wrap your head around it. Nobody, nobody understands what goes on inside of those black boxes of these neural networks. We type in a prompt and out comes a result. Do you know what the term is for that? It's magic. Prompts are the new magic spells. The more precise the words submitted, the more powerful the generative output.\n\nYou go to work, you pay your mortgage, you insult some folks while you envy others. You grow spiritually, you play the games of senile old men, you suffer panic attacks, and you scroll, scroll, scroll this infinite fucking feed. And all the while, quietly unnoticed, they're taking away your future.\n\nFour billion years of evolution made human beings the most intelligent creatures on the planet, and we're proud of that. And then it turns out that humans are just a stepping stone toward a far more powerful, conscious form.\n\nAnd even if everybody woke up and screamed together as one, \"Stop!\" nothing would change. We're talking trillions of bucks, and money only listens to money. Every click, every prompt, every subscription is yet another brick in the wall, and you'll be standing outside it while you lay every brick yourself with enthusiasm. Hey, just take a look at what I can do. Heh-heh-heh!",
+      "commentCount": 94,
+      "likeCount": 766,
+      "probeClient": "web_embedded"
+    },
+    "j9_3TcUEVj0": {
+      "checkedAt": "2026-08-06T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Quantum computing is entering a new era as researchers achieve advances in logical qubits, quantum error correction, fault-tolerant architectures, and scalable quantum processors. These developments could eventually transform fields such as artificial intelligence, drug discovery, materials science, cryptography, and large-scale optimization. Headlines such as \"The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next\" are designed to capture attention but should not be interpreted as confirmation that quantum computers are about to replace AI data centers or make GPU-powered infrastructure obsolete. Today's AI models continue to depend on classical processors such as GPUs and CPUs, while quantum computers remain specialized systems suited to a limited set of computational problems. In this video, we examine the latest quantum breakthroughs, explain how quantum processors differ from traditional AI hardware, and explore why researchers are building hybrid quantum-classical computing systems rather than replacing existing data centers. We'll also separate verified scientific progress from sensational headlines, explaining what has actually been demonstrated, what remains experimental, and how quantum technology could gradually reshape the future of AI infrastructure over the coming years.\n\n👍 Like, Subscribe & Turn On Notifications\n\nIf you enjoy AI breakthroughs, quantum computing, NVIDIA technology, supercomputers, and future innovation, be sure to LIKE this video, SUBSCRIBE to the channel, and turn on the notification bell so you never miss our latest deep dives into artificial intelligence and breakthrough technologies.\n\nDisclaimer\n\nThis video is intended for educational and informational purposes only. Discussions regarding quantum computing, artificial intelligence, AI infrastructure, and emerging technologies are based on publicly available peer-reviewed research, official company announcements, technical publications, and expert analysis. Research milestones and commercialization timelines may evolve as additional testing and independent verification become available. This video does not claim that quantum computers have replaced AI data centers or that practical fault-tolerant quantum computing has already been achieved beyond verified public scientific evidence.",
+      "commentCount": 14,
+      "likeCount": 68,
+      "probeClient": "web_embedded"
+    },
+    "0r60naf8hBI": {
+      "checkedAt": "2026-08-06T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "0:00 Frequently Asked Question\n0:36 Learn the Backend Before Using AI\n2:44 Why Every Developer Must Be Full Stack\n4:08 Research Every Unknown Concept\n6:33 The Cost of Weak Fundamentals\n8:40 Develop More Than Technical Skills\n9:57 Technology and Investment Alone Won’t Make You Successful\n11:25 Six Months of Work in Six Minutes\n\nWatch What is Vibe Engineering: https://youtu.be/qaYVCVNyUws\n\n👉 For free online courses, Visit Irfan Malik's channel: http://youtube.com/@muhammadirfanmalik\n\nMuch more:\n\nFacebook: https://www.facebook.com/iamirfansaeedmalik/\nFacebook Groups\nFreelancing Group: https://www.facebook.com/groups/2763770613931485/\nAI Group: https://www.facebook.com/groups/1721947284991964/\nInstagram: https://www.instagram.com/muhammadirfanmalikofficial/\nThreads: https://www.threads.net/@muhammadirfanmalikofficial\nLinkedIn: https://www.linkedin.com/in/immuhammadirfan/\nX: https://x.com/IrfanMalikAI\nTiktok: http://www.tiktok.com/@irfansaeedmalikofficial\nMentoga: https://mentoga.com/irfanmalik\nWhatsApp Channel: https://whatsapp.com/channel/0029Va6jBtWEAKW9v7LbcJ0M\nWhatsApp Community: https://chat.whatsapp.com/BrRT0UCP9RT06O2Adk7hoA\n\nFor details regarding Xeven Solutions, visit: www.xevensolutions.com\n\n#AIwithIrfanMalik #IrfanMalik #ArtificialIntelligence #foundermindset #CareerGuidance #Mentorship #AITrends #muhamamadirfan #xevensolutions #coding #vibecoding",
+      "commentCount": 33,
+      "likeCount": 329,
+      "probeClient": "web_embedded"
+    },
+    "syfqiVCwy4A": {
+      "checkedAt": "2026-08-06T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "India and Israel have signed 17 landmark agreements covering defence, artificial intelligence, agriculture, water management, digital technology, healthcare, education, tourism, trade and innovation.\n\nBut are these merely diplomatic agreements—or the foundation of India's next strategic leap?\n\nIn this geopolitical analysis, Amber Zaidi explains why these agreements are far more important than headlines suggest. From defence cooperation to cutting-edge AI collaboration, semiconductor innovation, cybersecurity, food security, water technologies and digital transformation, India and Israel are building one of the world's fastest-growing strategic partnerships.\n\nThis video covers:\n\nIndia-Israel 17 strategic agreements\nDefence cooperation\nArtificial Intelligence partnership\nAgriculture and food security\nWater management technologies\nDigital transformation\nHealthcare collaboration\nEducation partnerships\nTourism cooperation\nSemiconductor ecosystem\nCybersecurity\nInnovation and startups\nIndo-Pacific strategy\nChina's strategic concerns\nFuture of India-Israel relations\nModi government's geopolitical vision\n\nIf you enjoy geopolitics, defence, foreign policy, technology and strategic affairs, subscribe to Amber Zaidi Official.\n\nChapters\n\n00:00 Introduction – Why These 17 Agreements Matter\n01:24 India-Israel Strategic Partnership Explained\n04:10 Defence Cooperation & Security Vision\n07:05 Artificial Intelligence & Technology Push\n10:12 Agriculture, Water & Food Security\n13:28 Healthcare, Education & Innovation\n16:14 Trade, Tourism & Economic Cooperation\n18:35 China's Strategic Concerns\n20:05 India's Long-Term Geopolitical Vision\n\nI decode the power moves shaping global politics, security, and strategy.\n\nhttps://www.youtube.com/@AmberZaidiOfficial/membership \n\nAmber Zaidi Official Channel.\nआपके समर्थन के लिए धन्यवाद.  कृपया यहां सहयोग करें--\nIf You liked the Video, Kindly Support Us: \n*PayPal--- https://www.paypal.me/amberzaidiofficial\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCgX-nwxANLWE1d087jWlKQQ/join\n*UPI ID--   amberzaidiofficial@ybl\nPatreon: https://www.patreon.com/amberzaidiofficial\n\n\n#indiaisrael #amberzaidi  #modi  #israel  #defence  #ai  #technology  #trade  #cybersecurity  #semiconductor  #geopolitics  #foreignpolicy  #strategicaffairs  #military  #innovation  #amberzaidiofficial #amberzaidishow #amberzaidilatest \n\n\n\nSubscribe now for daily updates.\n--------------------------------------\nEnjoy and stay connected with us!!\n☛ Follow us: https://twitter.com/Amberological\n☛ Like us: https://www.facebook.com/Amberological/\n☛Follow us: https://www.instagram.com/amberological\n☛Follow us:https://www.kooapp.com/profile/Amberological",
+      "commentCount": 91,
+      "likeCount": 2100,
+      "probeClient": "web_embedded"
+    },
+    "9ETxmOfw0JM": {
+      "checkedAt": "2026-08-06T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Nebula: https://go.nebula.tv/mancarryingthing\nLetterboxd: https://letterboxd.com/ManCarrying/\nTwitter: https://twitter.com/ManCarrying\nMerch: https://mancarryingthing.com\nOur second channel: https://www.youtube.com/channel/UC8aGE10t6QrcdRMpgorwkAA\nPatreon: https://www.patreon.com/mancarryingthing\nTikTok: https://www.tiktok.com/@mancarryingthing\nReddit: https://www.reddit.com/r/ManCarryingThing/\nDiscord: https://discord.gg/dz6zskP53w\nInstagram: https://www.instagram.com/mancarryingthing/",
+      "commentCount": 3200,
+      "likeCount": 28986,
       "probeClient": "web_embedded"
     }
   }

@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T22:53:14Z",
+  "updatedAt": "2026-08-06T23:53:13Z",
   "items": [
+    {
+      "id": "s-MgHZ_oGl0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sabine Hossenfelder",
+      "publishedAt": "2026-08-06T15:53:13Z",
+      "firstSeenAt": "2026-08-06T23:53:13Z"
+    },
+    {
+      "id": "lj4H_8KdeME",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Kaler Kantho",
+      "publishedAt": "2026-08-06T15:53:13Z",
+      "firstSeenAt": "2026-08-06T23:53:13Z"
+    },
+    {
+      "id": "JYgyvyCccHE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CNA Insider",
+      "publishedAt": "2026-08-06T14:53:13Z",
+      "firstSeenAt": "2026-08-06T23:53:13Z"
+    },
+    {
+      "id": "IxwJ-0Xv8MY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mr. Freeman (English)",
+      "publishedAt": "2026-08-06T14:53:13Z",
+      "firstSeenAt": "2026-08-06T23:53:13Z"
+    },
+    {
+      "id": "j9_3TcUEVj0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hardware Grid",
+      "publishedAt": "2026-08-06T14:53:13Z",
+      "firstSeenAt": "2026-08-06T23:53:13Z"
+    },
+    {
+      "id": "0r60naf8hBI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Irfan Malik",
+      "publishedAt": "2026-08-06T12:53:13Z",
+      "firstSeenAt": "2026-08-06T23:53:13Z"
+    },
+    {
+      "id": "syfqiVCwy4A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Amber Zaidi Official",
+      "publishedAt": "2026-08-06T09:53:13Z",
+      "firstSeenAt": "2026-08-06T23:53:13Z"
+    },
+    {
+      "id": "9ETxmOfw0JM",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Man Carrying Thing",
+      "publishedAt": "2026-08-05T23:53:13Z",
+      "firstSeenAt": "2026-08-06T23:53:13Z"
+    },
     {
       "id": "wJWO91mi5o0",
       "type": "long",
@@ -9868,6 +9932,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-06T23:53:13Z",
+      "new": 8,
+      "long": 6,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
