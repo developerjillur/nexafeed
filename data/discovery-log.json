@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T20:53:12Z",
+  "updatedAt": "2026-08-06T21:53:12Z",
   "items": [
+    {
+      "id": "NEcb0HseJv8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rob The AI Guy",
+      "publishedAt": "2026-08-06T20:53:12Z",
+      "firstSeenAt": "2026-08-06T21:53:12Z"
+    },
+    {
+      "id": "0EH6Kpq3LgU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Localization Fireside Chat",
+      "publishedAt": "2026-08-06T19:53:12Z",
+      "firstSeenAt": "2026-08-06T21:53:12Z"
+    },
+    {
+      "id": "KjvPhvQcDA4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Automate AI Consulting",
+      "publishedAt": "2026-08-06T19:53:12Z",
+      "firstSeenAt": "2026-08-06T21:53:12Z"
+    },
+    {
+      "id": "cATbiZvwlis",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The ThinkLab by Saurabh",
+      "publishedAt": "2026-08-06T17:53:12Z",
+      "firstSeenAt": "2026-08-06T21:53:12Z"
+    },
+    {
+      "id": "hC00Qdhfjww",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Foundations",
+      "publishedAt": "2026-08-06T15:53:12Z",
+      "firstSeenAt": "2026-08-06T21:53:12Z"
+    },
+    {
+      "id": "j5Wo1RCd0Bs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Digital Lab",
+      "publishedAt": "2026-08-06T13:53:12Z",
+      "firstSeenAt": "2026-08-06T21:53:12Z"
+    },
+    {
+      "id": "xJEFjE88wdw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Leon van Zyl",
+      "publishedAt": "2026-08-06T13:53:12Z",
+      "firstSeenAt": "2026-08-06T21:53:12Z"
+    },
+    {
+      "id": "Th9d-0Uwz8E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Automation Helpers",
+      "publishedAt": "2026-08-06T12:53:12Z",
+      "firstSeenAt": "2026-08-06T21:53:12Z"
+    },
     {
       "id": "-05RlqnjOTM",
       "type": "short",
@@ -9706,6 +9770,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-06T21:53:12Z",
+      "new": 8,
+      "long": 8,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
