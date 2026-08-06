@@ -94,7 +94,7 @@ LLM_PROVIDERS: dict[str, dict[str, Any]] = {
         "displayName": "Z.ai / GLM",
         "keyEnv": ["ZAI_API_KEY"],
         "baseUrl": "https://api.z.ai/api/paas/v4",
-        "defaultModel": "glm-4.5",
+        "defaultModel": "glm-5.2-ultra",
     },
     "ollama": {
         "displayName": "Ollama",

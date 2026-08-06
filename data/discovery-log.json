@@ -1,7 +1,663 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-02T17:53:15Z",
+  "updatedAt": "2026-08-06T20:02:45Z",
   "items": [
+    {
+      "id": "1KTnT5q4nPE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-08-06T17:54:24Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "lKs6Gl_dX8w",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-06T17:21:06Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "NClayXM8pU0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-06T17:00:14Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "s8Cuc8_KOSY",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-06T16:45:22Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "PvjmBSjsT-Y",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-06T16:00:17Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "QOrIt8x8esI",
+      "type": "long",
+      "source": "primary",
+      "channel": "Brendan Automation",
+      "publishedAt": "2026-08-06T15:26:39Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "FuCul8aD-Xo",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-06T14:54:12Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "OlZk1OPvAHU",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-06T13:26:13Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "VJvIZr53sEU",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-06T12:59:27Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "0CtisONmL4E",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-06T12:15:23Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "-YVQ2BmjXeQ",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Adventurer",
+      "publishedAt": "2026-08-06T11:31:14Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "4HqpvUtK00g",
+      "type": "long",
+      "source": "primary",
+      "channel": "Piyush Garg",
+      "publishedAt": "2026-08-06T11:30:06Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "8QWg-gN80Ik",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-06T10:45:31Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "V0XbuApxlhg",
+      "type": "long",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-06T04:43:10Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "23sUwit1PHM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-08-05T19:33:18Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "d-BGo-KJMs4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-05T18:36:23Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "wZnjPzPLBEk",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-05T18:08:12Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "moVXXLhCzx8",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-05T18:04:19Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "jZMBjAtSKi0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-05T17:39:33Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "0EwcCWbojfs",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-05T16:31:54Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "x7AJ2bytD1E",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-05T16:30:33Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "mwQhnZ32CeE",
+      "type": "long",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-05T15:58:06Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "2xS-uC5_Vso",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Adventurer",
+      "publishedAt": "2026-08-05T14:53:38Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "7Im2vez00So",
+      "type": "long",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-05T14:29:24Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "-fTbwV3FZkU",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-05T12:39:54Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "3i7tfrh08bM",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-05T12:30:17Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "GgHkM7EU40k",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-08-05T11:45:37Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "DBrWyiTgutE",
+      "type": "long",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-05T09:44:27Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "Rx7i0Rj85N8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-05T09:02:29Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "A_J0AyKXilk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-05T03:15:40Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "0g1BRdHgIM0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-08-05T00:00:11Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "zUGwfDCi9jc",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-04T21:47:41Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "6ydH45pA23I",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-04T20:18:18Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "jO2Rturffu8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-08-04T17:17:36Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "a_TMnJJisok",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-04T16:48:01Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "oKaEp8Qmsps",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-04T16:26:26Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "SrHN-obVLsg",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-04T16:23:05Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "bU5ZDdRnN2M",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-04T15:53:10Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "NuNDpeZYQ28",
+      "type": "long",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-04T15:29:03Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "GRuioEQxe40",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-08-04T14:33:09Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "tPVOvnWywiE",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-08-04T13:59:20Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "AbB7uD61x30",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-04T13:59:15Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "8l5jtNiCrZQ",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-04T12:59:20Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "7WZ6XldxX0U",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-04T12:54:44Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "6me5i-1p0Y8",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-04T12:44:01Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "b1ZanHq4lTI",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-04T10:38:54Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "zg5JqAYHtZo",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-04T10:30:37Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "BMgXxL2FjOM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-04T08:20:34Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "cRXE4yKNLco",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-04T08:15:39Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "cgDYvyz0PDA",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-08-04T06:00:23Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "c6GmVXI_g8c",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-04T04:00:38Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "RVeCbPg0liw",
+      "type": "long",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-04T03:09:41Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "OIkxxiH5SD4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-04T00:15:32Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "jzMkpdFCtMA",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-03T22:14:59Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "7cZ9PtKHXk8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-08-03T16:52:02Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "E-tJJOLiPfw",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-03T16:21:20Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "CFXjlwRPS-M",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-03T15:34:03Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "xoxM8Tt8rbE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-03T15:24:52Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "v4x3xmXXhjU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Insider Force",
+      "publishedAt": "2026-08-03T15:08:28Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "VzZaxKG-Zd4",
+      "type": "long",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-03T14:55:38Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "URmo4neqLX8",
+      "type": "short",
+      "source": "primary",
+      "channel": "VDM Social",
+      "publishedAt": "2026-08-03T14:21:13Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "OfCMtp_lKS0",
+      "type": "long",
+      "source": "primary",
+      "channel": "Brendan Automation",
+      "publishedAt": "2026-08-03T13:20:08Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "zgAuUdaVQjw",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-08-03T13:12:24Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "3vLfiGBg9io",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Adventurer",
+      "publishedAt": "2026-08-03T12:42:46Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "FdmpR0-XvvU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-03T12:38:28Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "EbfUdXD2qS4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-03T12:37:51Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "lHQ0yB_pc7c",
+      "type": "long",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-03T12:35:20Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "SEV4o6rxPS0",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-03T12:19:39Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "eis4k0cLqKo",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-03T12:15:42Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "kirhwCRg1JE",
+      "type": "long",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-03T10:30:38Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "SsNRQuLRz4Y",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-03T09:53:49Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "P_Foxss53bc",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-03T04:00:14Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "UbOcs3o6jz0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-03T02:00:15Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "vQP11pt0ADs",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-02T21:03:11Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "XyAh0SnQsgQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anu Sharma",
+      "publishedAt": "2026-08-06T16:02:45Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "66AtwcNd75I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Learn AI with Ritika",
+      "publishedAt": "2026-08-06T16:02:45Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "vr1xAzOFEkQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Great Learning",
+      "publishedAt": "2026-08-06T15:02:45Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "vXD_Zv58rhs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AICompu",
+      "publishedAt": "2026-08-06T15:02:45Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "JPAlR5TgTQ4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech with suprbcoder",
+      "publishedAt": "2026-08-06T15:02:45Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "AZYkS9KHBc0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Future",
+      "publishedAt": "2026-08-06T13:02:45Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "xm6PCH4i388",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Malva AI",
+      "publishedAt": "2026-08-06T11:02:45Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
+    {
+      "id": "rUGbh6hjijc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Curious Refuge",
+      "publishedAt": "2026-08-05T22:02:45Z",
+      "firstSeenAt": "2026-08-06T20:02:45Z"
+    },
     {
       "id": "BRB12bTKeEY",
       "type": "short",
@@ -7681,14 +8337,6 @@
       "channel": "Greg Preece",
       "publishedAt": "2026-05-11T17:28:43Z",
       "firstSeenAt": "2026-05-11T17:28:43Z"
-    },
-    {
-      "id": "9zegOfX_9LY",
-      "type": "short",
-      "source": "primary",
-      "channel": "Greg Preece",
-      "publishedAt": "2026-05-08T16:54:03Z",
-      "firstSeenAt": "2026-05-08T16:54:03Z"
     }
   ],
   "runs": [
@@ -9029,6 +9677,15 @@
       "new": 10,
       "long": 6,
       "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-06T20:02:45Z",
+      "new": 82,
+      "long": 21,
+      "shorts": 61,
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
