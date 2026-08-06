@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T21:53:12Z",
+  "updatedAt": "2026-08-06T22:53:14Z",
   "items": [
+    {
+      "id": "wJWO91mi5o0",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-08-06T22:13:21Z",
+      "firstSeenAt": "2026-08-06T22:53:14Z"
+    },
+    {
+      "id": "MWE9Okxsw_E",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-06T21:52:03Z",
+      "firstSeenAt": "2026-08-06T22:53:14Z"
+    },
+    {
+      "id": "sDVkzblq9jc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bloomberg Podcasts",
+      "publishedAt": "2026-08-06T15:53:14Z",
+      "firstSeenAt": "2026-08-06T22:53:14Z"
+    },
+    {
+      "id": "29e21-PAJt0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-08-06T14:53:14Z",
+      "firstSeenAt": "2026-08-06T22:53:14Z"
+    },
+    {
+      "id": "SuHlHFBmYq8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Startup Hustle",
+      "publishedAt": "2026-08-06T14:53:14Z",
+      "firstSeenAt": "2026-08-06T22:53:14Z"
+    },
+    {
+      "id": "dwCto2n-Tus",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Pynade",
+      "publishedAt": "2026-08-06T10:53:14Z",
+      "firstSeenAt": "2026-08-06T22:53:14Z"
+    },
+    {
+      "id": "EUWQXF_Mwrw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nabid In Motion",
+      "publishedAt": "2026-08-06T07:53:14Z",
+      "firstSeenAt": "2026-08-06T22:53:14Z"
+    },
+    {
+      "id": "6J8pE92Biko",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WorldofAI",
+      "publishedAt": "2026-08-06T04:53:14Z",
+      "firstSeenAt": "2026-08-06T22:53:14Z"
+    },
+    {
+      "id": "paKE4mAKP5k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DataExpert",
+      "publishedAt": "2026-08-06T02:53:14Z",
+      "firstSeenAt": "2026-08-06T22:53:14Z"
+    },
+    {
+      "id": "MWUpBDFhfhU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "STARTUP HAKK",
+      "publishedAt": "2026-08-05T23:53:14Z",
+      "firstSeenAt": "2026-08-06T22:53:14Z"
+    },
     {
       "id": "NEcb0HseJv8",
       "type": "long",
@@ -9779,6 +9859,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-06T22:53:14Z",
+      "new": 10,
+      "long": 8,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
