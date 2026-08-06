@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T20:02:45Z",
+  "updatedAt": "2026-08-06T20:53:12Z",
   "items": [
+    {
+      "id": "-05RlqnjOTM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-06T20:18:31Z",
+      "firstSeenAt": "2026-08-06T20:53:12Z"
+    },
     {
       "id": "1KTnT5q4nPE",
       "type": "short",
@@ -9686,6 +9694,15 @@
       "new": 82,
       "long": 21,
       "shorts": 61,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-06T20:53:12Z",
+      "new": 1,
+      "long": 0,
+      "shorts": 1,
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
