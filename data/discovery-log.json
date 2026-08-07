@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T12:53:26Z",
+  "updatedAt": "2026-08-07T13:53:27Z",
   "items": [
+    {
+      "id": "-IrWlbs3FGI",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-07T13:30:44Z",
+      "firstSeenAt": "2026-08-07T13:53:27Z"
+    },
+    {
+      "id": "WK9Z2FkksQ0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-07T13:30:29Z",
+      "firstSeenAt": "2026-08-07T13:53:27Z"
+    },
+    {
+      "id": "NtdZmUZ6PD4",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-08-07T13:22:05Z",
+      "firstSeenAt": "2026-08-07T13:53:27Z"
+    },
+    {
+      "id": "8D8ewFBJfFM",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-07T13:00:08Z",
+      "firstSeenAt": "2026-08-07T13:53:27Z"
+    },
+    {
+      "id": "bMTD4pxNj8o",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-07T12:58:11Z",
+      "firstSeenAt": "2026-08-07T13:53:27Z"
+    },
+    {
+      "id": "c8ESEFog3lY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Decoding Digital",
+      "publishedAt": "2026-08-07T13:07:27Z",
+      "firstSeenAt": "2026-08-07T13:53:27Z"
+    },
+    {
+      "id": "S2TJZodK2BE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mondo Startups",
+      "publishedAt": "2026-08-07T10:53:27Z",
+      "firstSeenAt": "2026-08-07T13:53:27Z"
+    },
+    {
+      "id": "exbBqOphyrA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Information",
+      "publishedAt": "2026-08-06T17:53:27Z",
+      "firstSeenAt": "2026-08-07T13:53:27Z"
+    },
     {
       "id": "OU_wL1PnwEM",
       "type": "long",
@@ -10538,6 +10602,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-07T13:53:27Z",
+      "new": 8,
+      "long": 4,
+      "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }

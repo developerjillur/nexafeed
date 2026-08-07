@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T12:53:26Z",
+  "updatedAt": "2026-08-07T13:53:27Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -570,15 +570,6 @@
       "description": "🚀 Stop applying to hundreds of jobs without getting interview calls!\n\nIn this video, I'll show you how I use Claude AI as a Career Coach to optimize my LinkedIn profile, create ATS-friendly resumes, tailor my resume for every job description, prepare for interviews, and even find relevant job opportunities.\n\nInstead of asking Claude to simply \"write my resume,\" you'll learn how to make it think like a Senior Technical Recruiter. We'll go through a complete live workflow:\n\n✅ Analyze your LinkedIn profile from a recruiter's perspective\n✅ Find missing keywords and improve your headline & experience\n✅ Create ATS-friendly resumes for specific job descriptions\n✅ Tailor your resume for every application in minutes\n✅ Discover relevant job opportunities with AI\n✅ Prepare for technical & behavioral interviews using Claude\n✅ Build a 30-day roadmap to improve your career profile\n\nWhether you're a Software Engineer, Developer, Student, or Working Professional, these prompts can help make your job search more structured and efficient.\n\n👍 If this video helped you, don't forget to Like, Subscribe, and Share it with someone preparing for placements or switching jobs.\n\n💬 Let me know in the comments: What's your biggest challenge while searching for a job?\n\nClaude AI, Claude AI Career Coach, Claude AI LinkedIn, LinkedIn Optimization, ATS Resume, ATS Friendly Resume, Resume Optimization, Resume Tailoring, AI Resume Builder, AI Career Coach, Job Search AI, Interview Preparation, LinkedIn Profile Review, Resume Review, Job Switch, Software Engineer Jobs, Tech Jobs, Developer Career, AI for Developers, Claude Browser, Anthropic Claude, Career Growth, Resume Keywords, ATS Keywords, LinkedIn Tips, Job Search Tips, Mock Interview, Technical Interview, Behavioral Interview, Microsoft Jobs, Software Engineering Careers, CodingSimplifiedSpace",
       "commentCount": 13,
       "likeCount": 41,
-      "probeClient": "web_embedded"
-    },
-    "T1RkiXpmhBU": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 147,
-      "likeCount": 5372,
       "probeClient": "web_embedded"
     },
     "EIgmXDQj3EI": {
@@ -1382,15 +1373,6 @@
       "likeCount": 607,
       "probeClient": "web_embedded"
     },
-    "l6nc0Vq3T8s": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI agents can write code faster than ever, but should they deploy it too? I built a safe, human-in-the-loop AI deployment pipeline that reviews every diff, flags production risks, and waits for your approval in Slack before shipping.\n\nInstead of handing an autonomous agent the keys to production, this setup lets AI do the repetitive review work while humans keep control of the critical call, all inside Superplane's open-source control plane.\n\nSuperPlane GitHub Repository: https://github.com/superplanehq/superplane\n\nOfficial Documentation: https://docs.superplane.com\n\nKey takeaways:\n\n- Gate every deploy behind a one-click human approval in Slack\n- Use an AI agent as a senior SRE to review diffs and write a risk report\n- Log every approved deploy to an auditable ops dashboard\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n⏳ Timestamps:\n0:00 Intro\n1:55 Building the Workflow\n3:36 Approval & Deploy\n6:24 Live Test\n7:13 Final Result\n\n#aiagents #aitools #devops",
-      "commentCount": 0,
-      "likeCount": 55,
-      "probeClient": "web_embedded"
-    },
     "nExo3f75EAs": {
       "checkedAt": "2026-08-06T20:53:12Z",
       "embedAllowed": true,
@@ -1601,89 +1583,6 @@
         }
       ],
       "commentsFetchedAt": "2026-07-29T12:53:11Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "cbfyOYTKUJE": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 13,
-      "likeCount": 1420,
-      "comments": [
-        {
-          "id": "UgwHGI8UdCGyCQR2bsh4AaABAg",
-          "author": "@TheUtkarshhh",
-          "text": "https://www.langchain.com/blog/3-years-of-graph-engineering-with-langgraph",
-          "likeCount": 7,
-          "publishedAt": "2026-07-29T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/f25cg7-Gpt4o-HrFJk-kmpvwISgAjIux0s1VIUDNBpqLUZF6gMPvWH4wi79kqeSZk864gqTK=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "UgzzCDzP37EqVamDFDd4AaABAg",
-          "author": "@bhartiya112",
-          "text": "okay keen to acquire this skill",
-          "likeCount": 0,
-          "publishedAt": "2026-07-29T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/byFF23vXxSW_kiAik5nKxfSisISiV75UT2jKXOi69K8POWs3L9Xs7a3rV9GrzTTFM4e_9p-CQmQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxztH-jpZcsAtR5nbp4AaABAg",
-          "author": "@ManishChoudhary-hy5ey",
-          "text": "It is very old ... Information",
-          "likeCount": 0,
-          "publishedAt": "2026-07-28T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nuSWuZeqQ-MFq62EzmKF4Sw_152Y4LBXKTJR5Or1RMg8o=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxSvKGBnDLWZdgDCDF4AaABAg",
-          "author": "@saicharanjogu",
-          "text": "2022 prompt engg?",
-          "likeCount": 1,
-          "publishedAt": "2026-07-28T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/BIVC6smIUjHqrP_n8FBzrp-S_VQXzMAX2VgDqjcXgnoLbkihqsX_up2JlMKlPt7uha39nlmLSxM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyYuUUVcddJCOV0gyd4AaABAg",
-          "author": "@aadya1944",
-          "text": "Please put more videos on these kind of",
-          "likeCount": 3,
-          "publishedAt": "2026-07-28T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/aQOsMObtSqoSEq4EnfdLuCcoEGc9RrbyyzZj9iuBpDIC1j2KMmtjFRdFjGgi38xGYAIqWEO3-TU=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzF9Q3hf-g9vhjTCgd4AaABAg",
-          "author": "@aadya1944",
-          "text": "Thanks sir very nyc video.",
-          "likeCount": 1,
-          "publishedAt": "2026-07-28T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/aQOsMObtSqoSEq4EnfdLuCcoEGc9RrbyyzZj9iuBpDIC1j2KMmtjFRdFjGgi38xGYAIqWEO3-TU=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzdR0jVHlMx6iUlcit4AaABAg",
-          "author": "@Sagar_Accessibility",
-          "text": "Video kuchh jyada hi technical ho gaya ❤",
-          "likeCount": 1,
-          "publishedAt": "2026-07-29T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/uHoNVgJbNRHApxqkJywlgd7GhqaxOFiZY11tS1wq7J1r2HV7NJF3ymetX0Kx3Z4-sHHlm5ET=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-29T14:53:13Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -1925,69 +1824,6 @@
       "description": "👉 Higgsfield (get discount + free credits): https://higgsfield.ai/?fpr=keith41\n👉 Free prompts + website templates: https://www.uiprompts.app/\n\nThis looks like a 3D website, but there's no 3D model and it's not a video player. The entire cinematic is broken into hundreds of individual frames — and your scroll wheel is the playhead.\nHiggsfield generated the visuals. Claude Code built the site. Fable 5 ran the whole process: generating assets, writing code, checking results, and fixing its own mistakes. Total cost: about $13 in Higgsfield credits.\nI'll show you the full process — 5 keyframes → 4 cinematic clips → a website that plays the film as you scroll. Including the mistakes I made, because the first results did NOT come out right.\n\n00:00 Scroll Controlled Cinema\n01:02 How The Tech Works\n01:59 Five Step Overview\n03:33 Hixfield Setup And Plans\n06:10 Connect The MCP Tools\n08:09 UI Prompts MCP Templates\n10:58 Keyframes Make Or Break\n12:14 Generate Five Keyframes\n14:59 Turn Clips Into Website\n16:21 Style Variations And Prompts\n17:15 Cost Breakdown And Credits\n18:32 Deploy Live With Railway\n20:53 Final Thoughts And Next Steps\n\n🔗 LINKS MENTIONED\nHiggsfield (discount + free credits): https://higgsfield.ai/?fpr=keith41\nUI Prompts — free keyframe prompts, video prompts, and 100+ website templates: https://www.uiprompts.app/\n\n📚 WHAT YOU'LL LEARN\n• Why keyframes matter more than anything else (and why generating one bad video costs 36x more than a bad image)\n• How to connect the Higgsfield MCP to Claude, Claude Code, ChatGPT, OpenClaw, and Hermes\n• The prompt structure that stops your keyframes looking like AI slop\n• Why chaining short clips beats generating one long video\n• How to break a video into hundreds of frames and scrub it with the scroll wheel\n• Publishing it live with Railway + GitHub instead of leaving it on localhost\n\n🤝 JOIN THE FREE COMMUNITY\nGot questions? Join my free Skool: https://www.skool.com/keith-ai-3958\n\n#AI #ClaudeCode #Higgsfield #WebDesign #AIVideo",
       "commentCount": 8,
       "likeCount": 39,
-      "probeClient": "web_embedded"
-    },
-    "yDdh1oZIlog": {
-      "checkedAt": "2026-08-07T10:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Paying monthly for a web scraper stopped making sense the day Claude learned to do it.\n\nOne free skill on GitHub turns Claude Code into a full scraping setup. Describe the list you want, get back a clean sheet of leads. The site changes its layout? It keeps working anyway.\n\nComment “SCRAPE” and I’ll send the GitHub link to your DMs 🚀",
-      "commentCount": 12,
-      "likeCount": 85,
-      "comments": [
-        {
-          "id": "UgwDBn6ZRblFKQXVZ4R4AaABAg",
-          "author": "@Idongesit_Effiong",
-          "text": "Scrape",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/y8c3ah8L_tJyZE4TMZJAj_cOk8EnWjUnNw8cjWaneo67UE76k81jXw3e6TGBKuPg1UW3LjO6=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw47rFD0vG4Qm2HhAB4AaABAg",
-          "author": "@Brahmaiah2002",
-          "text": "bro please make a full viedos how to connet to claude or don't make these kind of viedoes i bet 99% of the people can't connect this claude normally",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5ZIbBEgwtZgFkpa5rNV02u-8Vx6YggfmL2j0PeAXobTQsCm2wmmfwdUlmilBjHqr4mA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwP-3XjrGpWDPN8pCt4AaABAg",
-          "author": "@TheVarun08",
-          "text": "Scrape",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m4jg1sf_og_kQutviVOQ5KP9BZveTnViE6vBMuTAg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwzezyHsGfAOOsMo7l4AaABAg",
-          "author": "@ArunkumarB73",
-          "text": "Scrape",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_neao-Kwb--S-n2VdnaBAxK5Tm-XeL6oNJH-UQKo1ntnmYj=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyeQHPbuFwAJGxaSxh4AaABAg",
-          "author": "@AshishGupta-td5fv",
-          "text": "Scrape",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kdBCFoJRuhLrWXFDK5oD8fNHykVULUikHDdwISPpY=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-31T09:53:50Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "hhxdoOCvpZ4": {
@@ -2239,99 +2075,6 @@
         }
       ],
       "commentsFetchedAt": "2026-07-31T15:53:47Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "py_--ZJqxMM": {
-      "checkedAt": "2026-07-31T17:53:56Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "An object roughly the size of a four-story building is on a collision course with the Moon, and astronomers around the world are preparing to watch.\n\nThe object is the upper stage of a SpaceX Falcon 9 rocket, catalogued as 2025-010D, launched on January 15, 2025 to carry two private lunar landers toward the Moon, Firefly Aerospace's Blue Ghost and ispace's Hakuto-R Mission 2. Once its job was done, the spent stage was left drifting through the Earth-Moon system rather than being deliberately disposed of. For over a year, the combined gravitational pull of Earth, the Moon, and the Sun, along with solar radiation pressure, continuously reshaped its orbit, until astronomer Bill Gray of Project Pluto calculated in September 2025 that impact with the Moon had become inevitable.\n\nThe upper stage, about 13.8 metres tall and weighing roughly 4 metric tons, will strike the lunar surface at approximately 8,700 kilometres per hour, more than seven times the speed of sound. Because the Moon has no atmosphere, there is nothing to burn the object up before impact. It will hit near Einstein Crater on the Moon's western limb, carving out a new crater estimated at 20 to 30 metres wide and throwing up a multi-kilometre plume of ejected dust.\n\nWhether this will be visible from Earth is still uncertain among scientists. If the dust cloud is bright enough, ground and space-based telescopes could capture the impact in real time. The predicted window is 06:35 to 06:44 UTC on August 5, 2026, which is 12:05 to 12:14 PM IST.\n\nThis is a rare opportunity. No artificial object has ever been directly observed striking the Moon's sunlit side before, and scientists hope the event will provide real data on lunar subsurface structure and crater formation.\n\nSource: Fernando, B. et al. (2026). Observational Planning for the 2026 August 5 Falcon 9 Upper Stage Lunar Impact. arXiv. Scientific American, A SpaceX Rocket Is About to Crash Into the Moon (2026). BBC Sky at Night Magazine (2026). EarthSky (2026).\n\n#SpaceX #Falcon9 #MoonImpact #EinsteinCrater #LunarImpact",
-      "commentCount": 8,
-      "likeCount": 79372,
-      "comments": [
-        {
-          "id": "UgzZ_b9aN07wvA4FP354AaABAg",
-          "author": "@anubhavmondal8824",
-          "text": "Seriously man Humans are not even sparring the moon",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T17:53:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nghqOIWbH3plwbFJDyFaUb-wLHFeiH34vF4JcFCssG0WxV=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzJa7fcssifSAbUvfl4AaABAg",
-          "author": "@Robbie-Bravo",
-          "text": "It won't be visible from India because of the timing",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T17:50:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksQQl2B9h3YStUGVnbkEBwQ17nquLWhFzYP0HbtW3Fg4xF0T91e_MyLGpXuaKOx1LlOQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyCKCu4PScRuSnke0N4AaABAg",
-          "author": "@TabahidaarGaming-A",
-          "text": "Khaao maa kasam !",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T17:29:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/hGTBcQ6G8-ufkRG_i2uVfwkNjy2ORpC_x1ZZSV8Zxz1RsG44250ka21B7g4HvcQPfLWYqyKt=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxkTtGI_gNjT2HaUmN4AaABAg",
-          "author": "@himanshusharma2979",
-          "text": "12 : 14 pm pai konsa moon dikhta hai",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/NSBDopiV1FY0c3T-KkSGVfD7PLadNNp_6nlsNcXypDi3FV_ynT3OU2xXDCaZRMo9NFAhUZV2=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwI8YYgd-OA4cExjN94AaABAg",
-          "author": "@NamishGoyal-n2k",
-          "text": "Wait 12 14 pm \nAfternoon\nDikha ga hi nagin",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLKPfQfsYtfUyqqe6FpMayQRafZoRgOUnqIFjEi-enSreCJmiWcdakwZy3g21qd24UHw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwWyRk1WITEoO5Ujbt4AaABAg",
-          "author": "@JaimilPanchal",
-          "text": "Is it visible from india bcuz 12 15 pm toh noon mei kese??",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Y5TIgSjFQOijpPfKQ_P-5XaAoGa4KX34T6N5PleUASo1JZg4s_AYrYkluxMwofmQv-AmCBiRe-s=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz_Zxh0XY86YeLDhLt4AaABAg",
-          "author": "@ayaanwasgood",
-          "text": "Holdup 12:14 pm???  Or am",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T15:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lgOU0bWyWSw7RtW_yBOU4cfk0hAwUCLc0h8hPjSTs3RzM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzzIMeR117sb_61Pk54AaABAg",
-          "author": "@multiplyeditz5900",
-          "text": "Always that one terror country",
-          "likeCount": 0,
-          "publishedAt": "2026-07-31T15:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/JCFidroor14L0m5fl7pS8F_kgrOuFPOIDcLij1bgU_i2Y51x-NlX8y15GqR43dfr9mhj-5_oPQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-31T17:53:56Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6385,15 +6128,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "hC00Qdhfjww": {
-      "checkedAt": "2026-08-06T21:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Automate your social media with Blotato: https://blotato.com/?ref=drake0p\nWork with me: https://aifoundations.io/join\nVoice MD Prompt: https://aifoundations.io/resources/automated-content-system\n\nFor creating images: https://fal.ai/\n\nThis is the full build of a content system that writes, designs, and schedules your social posts out of Claude Code. One command turns a YouTube video into a LinkedIn post, an Instagram carousel, and an X thread, all scheduled, all in your voice, all using images that look designed instead of generated.\n\n--------------------\n⌚Chapters:\n0:00 - The Automated Content System\n0:34 - What The System Produces\n2:02 - Scheduling From Claude Code\n3:08 - Step 1: Your Environment\n4:02 - The Brand Guide Interview\n5:10 - The Three Tools You Need\n6:53 - What Blotato Does\n7:28 - What It All Costs\n9:18 - Creating Your Content Folder\n9:59 - The Assets Folder\n12:32 - Opening It In Claude Code\n13:36 - Setting Up fal.ai\n14:42 - Generating Your API Key\n16:41 - Your First Test Image\n17:39 - Connecting Blotato\n19:45 - Linking Your Platforms\n20:36 - Adding The API Key\n22:39 - Finding Your Visual Style\n24:23 - Borrowing What You Like\n25:53 - Telling Claude What You Want\n28:38 - Generating With GPT Image 2\n30:07 - Refining The Image\n32:26 - Locking In The Style\n35:45 - Posting Your First Image\n37:58 - Free Voice Prompt Resource\n39:34 - The Voice Interview\n41:18 - Correcting Claude's Writing\n44:45 - Building A Carousel\n46:12 - Designing The Cover Slide\n49:50 - The Rest Of The Slides\n51:57 - HTML vs fal For Slides\n53:48 - Posting The Carousel\n57:02 - Scheduling Everything\n59:01 - Automating The Whole Thing\n1:00:12 - Building The Repurpose Skill\n1:02:04 - Running It With One Command\n1:03:28 - Putting It On A Routine\n1:05:54 - Final Thoughts\n\n#claude #claudecode #blotato",
-      "commentCount": 8,
-      "likeCount": 79,
-      "probeClient": "web_embedded"
-    },
     "wJWO91mi5o0": {
       "checkedAt": "2026-08-06T22:53:14Z",
       "embedAllowed": true,
@@ -6444,17 +6178,8 @@
       "likeCount": 62,
       "probeClient": "web_embedded"
     },
-    "_FP1FdK2u2k": {
-      "checkedAt": "2026-08-07T00:53:16Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Best AI tool for VOX Style Crime Documentary Videos: https://cutt.ly/LyoWRx3j\nEnhance video quality online with AI: https://cutt.ly/6yoWRDDK\nHow to Remove Watermark from Video Online: https://cutt.ly/qyoWR000\n\nASSLAM O ALAIKUM\nMaster Prompt:\nhttps://theradiotv.net/viral-true-crime-documentaries/\n\n                               ^\n                            //^\\\\ \n                        //    ^    \\\\\n                     //     //|\\\\    \\\\\n                 //    //.This.\\\\    \\\\\n              //    //       is      \\\\    \\\\\n        Muhammad Sami Ramzan\n        //     //   Welcome to  \\\\    \\\\\n ....//.....//--THE RADIO TV --\\\\....\\\\........\n-------------------------------------------------------------\n\nAbout this video:\nLearn how to build a fully automated AI documentary video engine that turns any topic into a viral, faceless paper collage style YouTube video, from script to voiceover to image prompts to a final animated video and thumbnail.\n\nIn this tutorial, I show you the exact master prompt I use to generate:\n✅ 10 viral video ideas in any niche (crime, history, mysteries, disasters, and more)\n✅ A professionally written narration script using proven documentary storytelling techniques\n✅ An ElevenLabs ready voiceover script with voice settings\n✅ A full beat by beat breakdown for perfect visual pacing\n✅ Ready to use AI image prompts for a hand cut paper collage documentary look\n✅ A universal video animation prompt for stop motion style transitions\n✅ High CTR, scroll stopping thumbnail prompts\n\nThis method works for faceless YouTube channels, AI automation creators, and anyone wanting to scale content production without filming or editing manually. Whether you are building a crime documentary channel, a history channel, or exploring mysteries and unexplained topics, this AI workflow saves hours of work per video.\n\nPerfect for beginners and experienced faceless channel creators looking to automate their content pipeline with AI tools.\n\nTimestamps, prompt links, and resources in the comments below.\n\nIf this helped you, please like, subscribe, and share this with someone building a faceless YouTube channel.\nThis is all about that how to earn money online and online earning in Pakistan.\nSo if anybody wants to earn extra cash then follow all the steps and soon you will be able to earn some extra side income INSHALLAH.\n\nIf you have any questions then comment me below in the comments section. I will INSHALLAH solve your queries.\nPlease subscribe this channel and also hit the bell icon to get each and every notifications for all of my videos.\nTHANKS FOR WATCHING \n\nplease follow me on other social media :\n\nInstagram: https://www.instagram.com/theradiotv\nFacebook: https://www.facebook.com/profile.php?id=61558813303292",
-      "commentCount": 48,
-      "likeCount": 363,
-      "probeClient": "web_embedded"
-    },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-07T12:53:26Z",
+      "checkedAt": "2026-08-07T13:53:27Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6569,15 +6294,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "CBRUdUdpeg0": {
-      "checkedAt": "2026-08-07T03:53:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "HighLevel just released AI SuperAgents, and in this video, we show you how to set one up and use it inside your business.\n\nYou’ll see how to create an AI social media manager that can research topics, create posts, generate images, and schedule content inside HighLevel. We also show you how to and use SuperAgents for other business needs.\n\n#HighLevel #HighLevelTutorial #AIAgents\n\nTIMESTAMPS\n00:00 GoHighLevel AI Super Agents Overview\n00:30 Enable AI Super Agents Beta Feature\n01:42 Accessing Agent Studio\n02:05 Creating Your First AI Agent\n03:27 Building a Social Media Manager Agent\n04:42 Creating a Knowledge Base\n06:20 AI Tools, Triggers & Capabilities\n06:49 NEW Scheduled AI Tasks Feature\n07:55 Connecting Knowledge Bases\n09:25 Generating AI Social Media Posts\n11:11 AI Image Generation Results\n11:39 Scheduling Social Media Automatically\n12:43 Creating Scheduled AI Workflows\n14:18 Building AI Onboarding Agents\n15:30 Automating Voice & Chat AI Creation\n16:44 Testing Form Automation\n17:53 Watching the AI Agent Execute\n18:14 Future AI Memory Features\n19:15 Community Moderator AI\n20:04 Exploring All Available AI Actions\n20:59 AI Pricing & Beta Notes\n21:35 Reviewing AI Agent Results\n22:16 Final Thoughts & Business Opportunities\n\n🔥 30-Day FREE GoHighLevel Trial + Exclusive Bonuses\n       https://live.automatedmarketer.net/automated-marketer-ghl\n\n❌ IMPORTANT ❌: Don't use an ad blocker or chrome extension ad blocker when clicking on the link, it will block affiliate tracking and you will NOT receive any of my bonuses.\n\n🎓 GoHighLevel Masterclass + Plug-and-Play Templates. Enroll Now \n       https://www.udemy.com/course/gohighlevel-masterclass-from-beginner-to-expert/?couponCode=GHLMASTERCLASS\n\n📣 Join Our Free Skool Community For HighLevel, Claude, n8n, AI & Automation. \n       https://www.skool.com/automatedmarketer\n\n🚀 From Strategy to Deployment, We Build the Technology That Powers Scalable Growth\nhttps://rapidactivemarketing.com/\n\n🔥 Steal My Best Strategies\nhttps://substack.com/@nunotavares1\n\n🛠️ Want a Done-For-You HighLevel system or need staffing for your SaaS?\nLet our team do the heavy lifting for you →\n       https://arcytex.com/\n\n📩  Get our weekly newsletter – GHL, AI, Tech & Growth Tips \n       https://live.automatedmarketer.net/newsletter\n\n🚨 VIP Office Hours – Live Expert Help\n       https://live.automatedmarketer.net/vipaccess\n\n💡 Weekly Blog – Tools, Tips, Strategies\n       https://automatedmarketer.net/blog/\n\n👀 Full GHL Tutorial Playlist\n       https://youtube.com/playlist?list=PLouep20JDz2MDPra9KuNvIdpRbeoFocon&si=7sES7XO4evkvkqLV\n\n#nunotavares #nunomtavares #automatedmarketer #gohighlevel #gohighlevelexpert  #AI #techupdates \n\n🧠 Must-Have Tools We Use & Love\n💲 HighLevel (Main Tool)\n       https://live.automatedmarketer.net/automated-marketer-ghl\n😍 FGFunnels (for Coaches & Creators)\n       https://www.fgfunnels.com/backdoor?fpr=nuno-25\n🥇 HLProTools (Top 3rd-Party Add-ons)\n       https://go.hlprotools.com/hlpt?_go=nuno62\n🧠 Lovable AI (Build Smart AI Bots)\n       https://lovable.dev/?via=nuno-tavares\n🚀 Vibe Coding Incubator (AI Dev Skills)\n       https://vcinc.ai/\n📞 Wavv (Triple Calls, Block Spam) Get 10% off Your First Month, make sure to put in the promo code at the checkout: NEW-WUK2W\n       https://refer.wavv.com/?fpr=wuk2w\n💥 SocialBee (Social Media Scheduler)\n       https://get.socialbee.io/iiu661jano2g\n🛡️ AccessiBe (Instant ADA Compliance)\n       https://accessibe.com/a/a3e0cya\n\n⚡️ BUSINESS INQUIRIES ⚡️\nteam@automatedmarketer.net\n\n⚠ Disclosure: We are an independent entity from HighLevel. We are not agents or employees of HighLevel and have no authority to make binding contract or represent HighLevel. We receive referral payments from HighLevel. The opinions expressed here are Our own and shall NOT be interpreted or considered as representations, guarantees, or statements made by HighLevel Inc or any of its subsidiaries, agents, or assigns.\n\nResults not guaranteed.",
-      "commentCount": 2,
-      "likeCount": 35,
-      "probeClient": "web_embedded"
-    },
     "uUGyKspeocg": {
       "checkedAt": "2026-08-07T04:53:19Z",
       "embedAllowed": true,
@@ -6636,7 +6352,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-07T12:53:26Z",
+      "checkedAt": "2026-08-07T13:53:27Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6962,6 +6678,182 @@
       "description": "[Sponsored by Tailscale] Use code 'bashbunni' for 20% off tickets to TailscaleUp on August 26th in SF | https://link.bashbunni.dev/tailscaleup\nTailscale is a secure, identity-first networking platform that lets teams connect devices and services across environments, without the complexity of traditional VPNs. (aka the GOAT)\n\nIf you want to write better software, check out this project https://elm-lang.org/\n\n⟡˖ My other corners of the Internet:\nhttps://twitch.tv/bashbunni\nhttps://github.com/bashbunni\nhttps://discord.com/invite/Y3vbKS4K9j (come hang!)\nhttps://mastodon.social/@bashbunni\nhttps://twitter.com/sudobunni\nhttps://bsky.app/profile/bashbunni.dev\n\nChapters:\n00:00 - Introducing Elm: A Functional Web Framework\n00:40 - From JavaScript to Functional Programming\n01:53 - Core Principles: Types, Purity, and Immutability\n03:43 - Sponsor: Tailscale Up in San Francisco\n04:21 - Building Reliable Software: Debugging and Design\n07:15 - Performance, Rendering, and AI-Generated Code\n08:37 - Deep Dive: The Elm Architecture (TEA)\n09:37 - elm vs typescript\n09:37 - The TypeScript Comparison and Community Governance\n12:28 - The Stability Debate: Is Elm 'Dead' or 'Done'?\n13:32 - Quick Comparison: Elm vs. HTMX\n14:03 - Why Learning Elm Makes You a Better Developer\n15:27 - The TEA Ecosystem: Inspired Frameworks\n16:25 - The Trade-offs: When Elm Isn't the Right Fit\n19:19 - Gleam: A Powerful Alternative to Elm\n20:39 - Final Hypothesis: Can Functional Programming Fix AI Code?\n\nthe case for functional programming\nfunctional programming is just better\ntry this if you want to write better software\n\n#bashbunni #softwaredevelopment  #functionalprogramming",
       "commentCount": 97,
       "likeCount": 858,
+      "probeClient": "web_embedded"
+    },
+    "-IrWlbs3FGI": {
+      "checkedAt": "2026-08-07T13:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "We didn't have footage, but the images of the crash on the Moon have finally arrived, the upper stage of a SpaceX Falcon 9 rocket that struck the lunar surface, exactly as predicted in our earlier update.\n\nSouth Korea's Danuri orbiter, operated by the Korea Aerospace Research Institute, captured before-and-after images of the exact impact site, observing the location for about 30 minutes before the collision and another 30 minutes right after, eight observations total. The after-images clearly show a brand new crater that wasn't there before.\n\nIndependently, the European Southern Observatory's Very Large Telescope in Chile detected two distinct elements in the impact plume, sodium and lithium, each reflecting sunlight differently enough to be told apart. The lithium came from the rocket itself. The sodium came from the Moon's own surface, blasted out on impact.\n\nTwo completely independent confirmations, images and chemistry, of the exact same event.\n\nThe stage hit at 8,700 kilometres per hour. NASA's latest estimate puts the new crater at roughly 18 metres wide and nearly 4 metres deep. For scale, a natural meteoroid carrying the same energy hits the Moon about once every six days, this wasn't a rare event, we simply knew exactly when and where this one was coming.\n\nNASA and ESA are both still processing their own data, with more observations expected soon.\n\nSource: Korea Aerospace Research Institute (KARI), Danuri Mission. European Southern Observatory, Very Large Telescope Observations. NASA, Falcon 9 Upper Stage Lunar Impact Analysis.\n#MoonImpact #SpaceX #Falcon9 #Danuri #NASA",
+      "commentCount": 8,
+      "likeCount": 1371,
+      "comments": [
+        {
+          "id": "UgzhTDps64kGHlEJ2YV4AaABAg",
+          "author": "@TheGoodDoctor01",
+          "text": "Under 20 minutes gang",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T13:52:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/v9ycUsnIQ6m3eW7VKmbBm1jl0ejVL2n7l_GnG9kM5c-MdRTEkF1TcRRoL9QA6tlNlvS0tfDHsw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw6HmJmCkgzTrEqZ-h4AaABAg",
+          "author": "@indianindia-v4d1q",
+          "text": "Video Dekhne\nSe Pehele\nJaldi Jaldi\nComment Kar Leta Hu \nBohot Sare Likes Milenge 🎉\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n😂",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T13:49:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m5haELUg_NVNei9yPs334ar0tHeqoxdOyQwV17SEoZVwQwchwNuznoIBlsVGQpH9xupQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyNK2uUrdvhUV9EWDR4AaABAg",
+          "author": "@Op_gaming03",
+          "text": "Make a video on topic all rare moon crater",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T13:46:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/WuKahXtZo8TrEzPcxlcqWjr2K3VPqTQp50KhtFD_BrbXJpWiaEhYjDmCwJUw-j5HHFx2hfTJzQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxmXRgq_7kbZnRsUch4AaABAg",
+          "author": "@DeCoRz_editz",
+          "text": "Les goo\n👇If you saw it",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T13:46:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/M0Iy8SZXj0Q_7z1Quv4yz-dck96VMLsMIvzcQ1RDRNKcV8WdGgGWLmUbYDJUyyVxDZsJSwXwXQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugzs_bDdehGnyGevELZ4AaABAg",
+          "author": "@omprakashsoni7903",
+          "text": "Video aate hi dekh li😂😂😂",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T13:46:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/oK31VKmBOuYnJIy-bvI3Rwx74vALJnib3WFfN3tkXfgUMufbNGF2P-3VwwC_jYC5UCRUG8fCMA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx3YPWIbbJwNIAmuWd4AaABAg",
+          "author": "@AnkitKumar-r7v5n",
+          "text": "Thanks for information 🎉",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T13:44:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mIq3VHfPUrGhS9seKsJqeGzc2vC6doz0-nM2OENLkRxafGhMnaFzOjB0stCwcIPBngbw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwbCoucmYU5k7YGtaR4AaABAg",
+          "author": "@Redeye-l1w",
+          "text": "10000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T13:43:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/pxkDYfcATGHMVu4lGUqOF2czQstz_L_22ZHfUPcazNRBXwzhV6-_P-knCWzo5tPJw8rEtBbSZvE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxmI4cvRkKW54T6NDp4AaABAg",
+          "author": "@Rajuram2035_rr",
+          "text": "Thanks",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T13:42:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/UdQLaQabGKoBPhbr-R8uANMg4LU5tIZTFL2jokwFHMG2iOnzg-jAInngUAExxAXyRTJYdzo4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-07T13:53:27Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "WK9Z2FkksQ0": {
+      "checkedAt": "2026-08-07T13:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Here's how you can improve your communication skills using simple habits\n\n📸 Instagram: https://bit.ly/ishansharma7390ig\n\nJoin MarkitUpX Discord Server: https://discord.gg/fwSpTje4rh\n\nTimestamps\n\n😁 About Me: https://bit.ly/aboutishansharma\n📱 Twitter: https://bit.ly/ishansharma7390twt\n📝 LinkedIn: https://bit.ly/ishansharma7390li\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE for more AMAZING content! 🌟\n\n3 Books You Should Read\n📈Psychology of Money: https://amzn.to/30wx4bW\n👀Subtle Art of Not Giving a F: https://amzn.to/30zwWbP\n💼Rework: https://amzn.to/3ALsAuz\n\nTech I use every day\n💻MacBook Air M1: https://amzn.to/2YWKPjG\n📺LG 29' Ultrawide Monitor: https://amzn.to/3aG0p5p\n🎥Sony ZV1: https://amzn.to/3ANqgDb\n🎙Blue Yeti Mic: https://amzn.to/2YYbiNN\n⽴Tripod Stand: https://amzn.to/3mVUiQc\n🔅Ring Light: https://amzn.to/2YQlzLJ\n🎧Marshall Major II Headphone: https://amzn.to/3lLhTDQ\n🖱Logitech mouse: https://amzn.to/3p8edOC\n💺Green Soul Chair: https://amzn.to/3mWIxZP\n\n✨ Tags ✨\n\n\n✨ Hashtags ✨",
+      "commentCount": 0,
+      "likeCount": 78,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-07T13:53:27Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "NtdZmUZ6PD4": {
+      "checkedAt": "2026-08-07T13:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 1,
+      "likeCount": 32,
+      "comments": [
+        {
+          "id": "UgytzUvZ1-S5nX8QUZR4AaABAg",
+          "author": "@TheUtkarshhh",
+          "text": "https://openai.com/index/ten-advances-in-mathematics/",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T13:24:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/f25cg7-Gpt4o-HrFJk-kmpvwISgAjIux0s1VIUDNBpqLUZF6gMPvWH4wi79kqeSZk864gqTK=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-08-07T13:53:27Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "8D8ewFBJfFM": {
+      "checkedAt": "2026-08-07T13:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Matt Pocock's Claude Code skills passed 13M downloads, so I studied all 51. As an ex-Amazon engineer, here's what grill-me, to-spec and to-tickets really change about how AI builds your app.\n\nKey takeaways:\n\n- The 5 rules behind grill-me, and why they beat plan mode\n- to-spec keeps code OUT of the spec; to-tickets slices by feature, not layer\n- Code review runs 12 refactoring terms from Martin Fowler, fresh context\n- Deep modules and the deletion test cut token waste and dead code\n- My verdict: on frontier models, modular skills beat Superpowers\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\nTimestamps:\n0:00 Intro\n1:22 Why Matt's Skills\n4:12 /grill-me Rules\n7:06 /to-spec\n8:28 /to-tickets\n9:41 /implement & /tdd\n10:57 /code-review\n13:16 /writing-for-agents\n15:10 Deep Modules\n18:50 /improve-codebase-architecture\n20:46 My Verdict\n23:28 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
+      "commentCount": 0,
+      "likeCount": 14,
+      "probeClient": "web_embedded"
+    },
+    "bMTD4pxNj8o": {
+      "checkedAt": "2026-08-07T13:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-07T13:53:27Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "S2TJZodK2BE": {
+      "checkedAt": "2026-08-07T13:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Tech companies thought that AI coding tools would let them cut engineering teams and build software faster and cheaper. Instead, AI-generated code created new problems with reliability, security, and maintenance. Today, we'll discuss why Big Tech is secretly rehiring the same software engineers that were supposed to be replaced by AI.\n\nTimecodes:\n0:00 - Intro\n0:47 - Big Tech’s Layoff Dream\n3:13 - When AI Code Falls Apart\n6:51 - Companies Come Crawling Back\n\n#AI #ArtificialIntelligence #TechNews #Startups #Google #software #swe #layoffs #BusinessAnalysis #TechDocumentary",
+      "commentCount": 8,
+      "likeCount": 31,
+      "probeClient": "web_embedded"
+    },
+    "c8ESEFog3lY": {
+      "checkedAt": "2026-08-07T13:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Freebuff is a coding agent that makes AI-powered coding 100% free. It requires no subscription or API key, and gives developers access to powerful coding models, agentic workflows, and practical features without the usual monthly cost. See how it compares with Claude Code in real projects.\n\nTry FreeBuff : https://freebuff.com/?ref=ref-08998dcd-dc15-4c82-aa5d-98cd27292e24\n\n⏱️ Timestamps\n\n00:00 – Introduction\n01:00 – Freebuff CLI Installation and Demo\n05:15 – Freebuff Desktop App\n08:00 – Freebuff Web Version\n12:00 – Should You Try FreeBuff?\n\n🚀 Build AI-powered web applications, learn modern software development, and level up your coding skills with practical, hands-on tutorials.\n\nOn Decoding Digital, you'll find in-depth videos on AI development, SaaS building, full-stack web development, automation, cloud deployment, and the latest developer tools. Whether you're a beginner or an experienced developer, the goal is to help you build real-world projects that you can actually ship.\n\n🔗 Useful Resources\n\n📚 Tutorials & Courses\nhttps://www.decodingdigital.co.in/\n\n📅Book a 1:1 Mentorship Call\nhttps://topmate.io/decodingdigital\n\n💼 Web Development Services\nhttps://www.dailyai.co.in/\n\n📝 Generate Professional PRDs with AI\nhttps://www.vikingspecai.com/\n\n❤️ Try Lovable\nhttps://lovable.dev/invite/11UGYP0\n\n💬 Join Our Discord Community\nhttps://discord.gg/a4p5wuBbX\n\n📢 Join Our Telegram Community\nhttps://t.me/+S82ElWT5nylkMWFl\n\n📸 Follow on Instagram\nhttps://www.instagram.com/digitaldecoding/\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🎯 Topics Covered\n\n• AI App Development\n• SaaS Development\n• Full-Stack Web Development\n• Vibe Coding\n• AI Agents & Automation\n• React, Next.js & Modern Frameworks\n• Supabase & Firebase\n• Cloudflare & Deployments\n• No-Code & Low-Code Tools\n• Software Engineering Best Practices\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n👍 If you found this video helpful, don't forget to Like, Share, and Subscribe for more practical AI and software development content every week.\n\n#AICoding #freebuff #freeCodingAgent",
+      "commentCount": 2,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "exbBqOphyrA": {
+      "checkedAt": "2026-08-07T13:53:27Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Nvidia Reporter Phoebe Liu talks with guest TITV Host Stephanie Palazzolo about Nvidia's proposed solution to the high-bandwidth memory crunch for its next-generation Rubin chips. We also talk with Creative Strategies' Max Weinbach about Meta's new Muse Code agent and Muse Spark 1.2 model, The Information's Co-Executive Editor Martin Peers about Google DeepMind's executive shakeup and what it signals for Alphabet's future leadership, and Radical Ventures Partner Rob Toews about backing Discovery Loop, the new AI scientific research startup founded by Google's former chief scientist Jeff Dean.\r\n\r\nArticles discussed on this episode: \r\nhttps://www.theinformation.com/articles/dario-amodei-spread-anthropics-religion-stirred-silicon-valley\r\nhttps://www.theinformation.com/articles/nvidia-weighs-radical-idea-less-rubin-ultra-chip-memory\r\n\r\nSubscribe: \r\nYouTube: https://www.youtube.com/@theinformation \r\nThe Information: https://www.theinformation.com/subscribe_h\r\n\r\nSign up for the AI Agenda newsletter: https://www.theinformation.com/features/ai-agenda\r\nTITV airs weekdays on YouTube, X and LinkedIn at 10AM PT / 1PM ET. Or check us out wherever you get your podcasts.\r\n\r\nFollow us:\r\nX: https://x.com/theinformation\r\nIG: https://www.instagram.com/theinformation/\r\nTikTok: https://www.tiktok.com/@titv.theinformation\r\nLinkedIn: https://www.linkedin.com/company/theinformation/\r\n\r\n\r\nChapters:\r\n00:00 - Introduction\r\n\r\n00:01 - Nvidia Weighs Putting Less Memory in Rubin Chips\r\n\r\n00:09 - Meta Debuts New AI Coding Tools\r\n\r\n00:20 - What Google’s AI Shakeup Means for Pichai Succession\r\n\r\n00:30 - Radical Ventures Backs AI Startup Founded by Ex-Google Leaders",
+      "commentCount": 2,
+      "likeCount": 21,
       "probeClient": "web_embedded"
     }
   }
