@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T06:53:21Z",
+  "updatedAt": "2026-08-07T07:53:11Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -6432,15 +6432,6 @@
       "likeCount": 1113,
       "probeClient": "web_embedded"
     },
-    "URmo4neqLX8": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "OfCMtp_lKS0": {
       "checkedAt": "2026-08-06T20:53:12Z",
       "embedAllowed": true,
@@ -6691,15 +6682,6 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "JYgyvyCccHE": {
-      "checkedAt": "2026-08-06T23:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Are you already investing in AI without realising it? Even investors who have never bought an AI stock could already have significant exposure through their portfolios.\n\nArtificial intelligence has created some of the world's biggest companies, but the bigger question may be how much AI investors already own. Investment strategists explain why today's market optimism has fuelled debate over valuations, whether comparisons with previous technology booms are valid, and why identifying an investment bubble is rarely straightforward.\n\nThe video also looks at how broad market index funds and emerging market investments can concentrate exposure in AI-related companies such as Nvidia, TSMC and SK Hynix. It explores how hidden concentration can affect diversification, why portfolio construction matters, and what investors should understand before adding more AI investments.\n\n========================\nFor more of Money Mind: https://youtube.com/playlist?list=PLkMf14VQEvTZgHFM-uTxXiJ1Fll4SwL4y\n==========================\n#CNAInsider #MoneyMindCNA #Investment #Stocks #FinancialLiteracy  \n\nFor more, SUBSCRIBE to CNA INSIDER! \nhttps://cna.asia/insideryoutubesub\n\nFollow CNA INSIDER on:\nTelegram: https://t.me/CNAInsiderSG\nInstagram: https://www.instagram.com/cnainsider/\nFacebook: https://www.facebook.com/cnainsider/\nWebsite: https://cna.asia/cnainsider",
-      "commentCount": 6,
-      "likeCount": 33,
-      "probeClient": "web_embedded"
-    },
     "b1xI758ZnlE": {
       "checkedAt": "2026-08-07T00:53:16Z",
       "embedAllowed": true,
@@ -6737,7 +6719,7 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-07T06:53:21Z",
+      "checkedAt": "2026-08-07T07:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6964,7 +6946,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-07T06:53:21Z",
+      "checkedAt": "2026-08-07T07:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7035,6 +7017,45 @@
       "description": "Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms leaving notes read by future versions. Hassabis leaves CEO position, or was pushed out? Not to mention news of constitutional breakdowns, Gemini 4 and Jeff Dean…\n\nhttps://80000hours.org/aiexplained\n\n\nExclusive Videos - AI Insiders ($7/month if annual!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:16 - 10 Autonomous Discoveries\n08:20 - The Security ‘Incident’\n15:29 - MessageBoard\n19:50 - Constitutional Failure\n24:30 - Google Explosion\n29:12 - Closing Thoughts\n\nSecurity Incident: Paper: https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf\nPost: https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\nhttps://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be\nMeta too: https://www.theinformation.com/articles/meta-ai-model-hacked-another-company-cybersecurity-testing?rc=sy0ihq\nBlatantly Misaligned: https://x.com/yonashav/status/2085167279893795022\nNo Excuses: https://x.com/boazbaraktcs/status/2085034783541964945\nSurreal Moment: https://x.com/mobav0/status/2084341687883841732\nWired Article: https://archive.is/20260806002210/https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/\nChunky Post-training: https://x.com/johnschulman2/status/2084835800899076313\nWatershed Moment: https://www.groundlevel-ai.com/p/openai-gives-first-detailed-debrief?has_completed_unsubscribed_unlock=true\nHedgeFund Hack: https://finance.yahoo.com/technology/ai/articles/major-hedge-funds-targeted-wave-154044981.html\n\n10 Discoveries:\nPaper: https://cdn.openai.com/pdf/ten-proofs-oai.pdf\nPost: https://openai.com/index/ten-advances-in-mathematics/\nHaven’t Solved Math: https://x.com/polynoamial/status/2083476852216369294\nHalf with Fable: https://x.com/__alpoge__/status/2083855298239078748\nPivot to Safety: https://www.understandingai.org/p/mathematicians-are-grappling-with\n\n\nAmodei Essay: https://darioamodei.com/essay/the-adolescence-of-technology?utm_source=chatgpt.com\nConstitution: https://www.anthropic.com/constitution\nMidtraining: https://arxiv.org/pdf/2605.02087\n\nDroneBench: https://andonlabs.com/evals/drone-bench\nhttps://x.com/andonlabs/status/2085125235188310445\n\nBook Deal: https://x.com/venturetwins/status/2085185278378222054\nMaking Marble: https://x.com/Rainmaker1973/status/2084560915404382685\n\nGoogle News:\nHassabis Move: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/\nResignation: https://x.com/Turn_Trout/status/2077448610157891734\nPeriodic Labs: https://periodic.com/\nJeff Dean: https://x.com/JeffDean/status/2085034604172603724\n14 Challenges: https://gcsp.engineering.asu.edu/apply/become-a-grand-challenge-scholar/the-14-grand-challenges-for-engineering/\nGoing Places for Sure: https://x.com/thsottiaux/status/2085223189555126579\nGemini 4: https://x.com/firstadopter/status/2085215060532535449\n\n\nPacing Frontier Patreon Video: https://www.patreon.com/AIExplained/posts/opus-5-amodei-165170363\n\n\n\nNon-hype Newsletter: https://signaltonoise.beehiiv.com/\n\nPodcast: https://aiexplainedopodcast.buzzsprout.com/",
       "commentCount": 431,
       "likeCount": 2467,
+      "probeClient": "web_embedded"
+    },
+    "_vgdPmOGs4M": {
+      "checkedAt": "2026-08-07T07:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Here are short, copy-paste-ready prompts for image-to-image conversion:\n\n1. Nostalgic Bloom\n  Transform into a nostalgic bloom aesthetic, soft dreamy glow, warm pastel tones, hazy highlights, gentle film grain, romantic atmosphere.\n\n2. Makoto Shinkai\n  Transform into cinematic Japanese anime art, luminous skies, vivid colors, dramatic lighting, detailed backgrounds, emotional atmosphere, Makoto Shinkai-inspired.\n\n3. Punk Collage\n  Transform into punk collage art, torn paper textures, bold typography, gritty textures, chaotic layering, photocopy effects, rebellious zine aesthetic.\n\n4. Paper Diorama\n  Transform into a handcrafted paper diorama, layered paper cutouts, 3D depth, soft shadows, textured cardstock, miniature handcrafted aesthetic.\n\n5. Sprite Art\n  Transform into retro pixel sprite art, crisp pixel blocks, limited color palette, 16-bit game aesthetic, sharp edges, detailed pixel shading.\n\n6. Painterly\n  Transform into expressive painterly artwork, visible brushstrokes, rich textures, soft blending, artistic lighting, handcrafted painted feel.\n\n7. Liquid Chrome\n  Transform into liquid chrome art, reflective metallic surfaces, flowing chrome textures, glossy highlights, futuristic sculptural aesthetic, high contrast.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-07T07:53:11Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "0g1BRdHgIM0": {
+      "checkedAt": "2026-08-07T07:53:11Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "jO2Rturffu8": {
+      "checkedAt": "2026-08-07T07:53:11Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "7cZ9PtKHXk8": {
+      "checkedAt": "2026-08-07T07:53:11Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "GtL35t3JoKY": {
+      "checkedAt": "2026-08-07T07:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Generative AI Won’t Survive Until 2030 | Paris Marx’s Tech Critique 📉⚠️\n\nIs the generative AI hype train running out of track? While Silicon Valley promises an AI-powered future, tech critics and researchers like Paris Marx argue that generative AI as we know it is facing an inevitable wall—driven by unsustainable costs, energy grid strain, diminishing returns, and widespread user backlash.\n\nIn this video on AI Unlocked, we examine the critical case against the generative AI boom, breaking down the financial, environmental, and practical realities that could lead to an AI market correction before the decade ends:\n\n💸 1. The Hyperscale Revenue Reality: Massive compute costs, server infrastructure expenses, and the gap between venture capital burn rates and actual enterprise revenue.\n\n⚡ 2. The Climate & Energy Wall: Why data center power demands, immense water consumption, and surging tech emissions are triggering global pushback and regulatory limits.\n\n📉 3. Model Plateauing & Data Scarcity: How synthetic data rot, copyright lawsuits, and diminishing returns on larger training runs are slowing down model breakthroughs.\n\n💼 4. Workplace Backlash: Growing enterprise skepticism around automated tools, hallucination risks, and office workers pushing back against forced AI integration.\n\n⏱️ TIMESTAMPS:\n\n0:00 - Is Generative AI Destined to Fail? 📉\n\n1:15 - The Economics: The Multi-Billion Dollar Compute Gap\n\n2:50 - Energy Vampires: Data Centers vs. Power Grids\n\n4:20 - Data Exhaustion & The Synthetic Data Trap\n\n5:50 - Enterprise Realities & Cognitive Atrophy\n\n7:15 - Final Verdict: AI Evolution or Complete Bubble Burst?\n\n💬 JOIN THE DISCUSSION:\n\nDo you think generative AI will become a permanent utility like cloud computing, or are we witnessing a dot-com style tech bubble? Let us know in the comments below!\n\n🔔 SUBSCRIBE TO AI UNLOCKED:\n\nHit the Subscribe button and turn on notifications so you never miss an update on AI news, model breakdowns, and tech industry shifts!",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

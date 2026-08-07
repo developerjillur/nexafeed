@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T06:53:21Z",
+  "updatedAt": "2026-08-07T07:53:11Z",
   "items": [
+    {
+      "id": "_vgdPmOGs4M",
+      "type": "short",
+      "source": "primary",
+      "channel": "VDM Social",
+      "publishedAt": "2026-08-07T07:51:47Z",
+      "firstSeenAt": "2026-08-07T07:53:11Z"
+    },
+    {
+      "id": "GtL35t3JoKY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Unlocked",
+      "publishedAt": "2026-08-07T05:53:11Z",
+      "firstSeenAt": "2026-08-07T07:53:11Z"
+    },
     {
       "id": "JwkDaB0OcZc",
       "type": "short",
@@ -10324,6 +10340,15 @@
       "channelsChecked": 33,
       "warnings": 32,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-07T07:53:11Z",
+      "new": 2,
+      "long": 1,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
