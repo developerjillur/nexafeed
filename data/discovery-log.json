@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T21:53:29Z",
+  "updatedAt": "2026-08-07T22:53:30Z",
   "items": [
+    {
+      "id": "ZbawXiYm4Go",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rob The AI Guy",
+      "publishedAt": "2026-08-07T21:53:30Z",
+      "firstSeenAt": "2026-08-07T22:53:30Z"
+    },
+    {
+      "id": "WA8WDR30u9Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Make Smart Matter",
+      "publishedAt": "2026-08-07T20:53:30Z",
+      "firstSeenAt": "2026-08-07T22:53:30Z"
+    },
+    {
+      "id": "0Jd6flJ-9Gc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Knowledge AI",
+      "publishedAt": "2026-08-07T12:53:30Z",
+      "firstSeenAt": "2026-08-07T22:53:30Z"
+    },
+    {
+      "id": "YzGi0MBeWF4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Technical Venture",
+      "publishedAt": "2026-08-07T12:53:30Z",
+      "firstSeenAt": "2026-08-07T22:53:30Z"
+    },
     {
       "id": "qEuxFsK7apk",
       "type": "long",
@@ -11075,6 +11107,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-07T22:53:30Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T21:53:29Z",
+  "updatedAt": "2026-08-07T22:53:30Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -6069,30 +6069,50 @@
       "probeClient": "web_embedded"
     },
     "MWE9Okxsw_E": {
-      "checkedAt": "2026-08-06T22:53:14Z",
+      "checkedAt": "2026-08-07T22:53:30Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 1,
-      "likeCount": 14,
+      "commentCount": 3,
+      "likeCount": 242,
       "comments": [
+        {
+          "id": "UgzkTvt7XmF8VKQabiV4AaABAg",
+          "author": "@RecipeTrier",
+          "text": "I have created a tool that does something like this and does a lot more than just converting to md files, and it's not LLM dependent it's fast and efficient and it's token saver. The link of the repo is /gistline. Check it out, use it, and create a video on it if you like it. Best of all is that it's dependency free and works with any CLIs or IDEs. It also works on any OS.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T22:28:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nkjDY4VPa-AvgellUMr2fdWuTEAKaxtqOEB4u4UV-mAg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwH-DGwA7VnNSIABB54AaABAg",
+          "author": "@MisterK-YT",
+          "text": "PERSONALLY I had better results with Markitdown (Microsoft’s version of this). I tried it only on one pdf and one docx tho so far.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/oNu4rUy8dc98jUAmIeCKpqACqdR35ojJQrC-LvjHAjNzgttZeZpPDPWnfiOftAER1LjR_jLK6jw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgwW7FuBf5b-oUiL2RF4AaABAg",
           "author": "@danielhova7826",
           "text": "The accuracy and integrity is the most important to me, but the speed is an incredible leap!",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T22:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kyFOljSj6fpHWzsWhGx3Jp4UfjVzNENaGhQ2Slkzo=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T22:53:14Z",
+      "commentsFetchedAt": "2026-08-07T22:53:30Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-07T21:53:29Z",
+      "checkedAt": "2026-08-07T22:53:30Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6157,7 +6177,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-07T21:53:29Z",
+      "checkedAt": "2026-08-07T22:53:30Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6302,15 +6322,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "KaptX19GZ1s": {
-      "checkedAt": "2026-08-07T09:53:23Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "☕ Build a Personalized AI Assistant with Google Agent Development Kit (ADK) & RAG on Cloud Run\n\nIn this hands-on workshop, you will learn how to create a personalized AI assistant for a coffee shop using the Google Agent Development Kit (ADK) and Retrieval-Augmented Generation (RAG). Integrate an AI Agent into a coffee shop application to deliver tailored recommendations on what customers should order, and deploy the entire app live to Google Cloud Run!\n\n🔗 ESSENTIAL LAB & WORKSHOP LINKSCodelab Instructions: https://goo.gle/cloud-run-ai-lab-1Claim Billing Credits: \nhttps://me.developers.google.com/benefits/claim/gen-ai-apac-cloud-run-1Virtual Teaching Assistant (VTA): https://vta-eqa2rttr.gca-americas.dev/\n\n🤖 VIRTUAL TA INSTRUCTIONS: Need help during the workshop? Use our Virtual Teaching Assistant: For help with the lab $\\rightarrow$ select the course cloud-run-ai-1. For help with billing credits $\\rightarrow$ select credit-claim-apac",
-      "commentCount": 0,
-      "likeCount": 208,
-      "probeClient": "web_embedded"
-    },
     "GuXOwpmwyOQ": {
       "checkedAt": "2026-08-07T11:53:25Z",
       "embedAllowed": true,
@@ -6330,15 +6341,6 @@
       "description": "After recreating my own, real-life car in Automation, I slightly tune it and take the Nordschleife laptimes driving it in BeamNG. \n\nGames: Automation The Car Company Tyoon Game, with driving parts done in BeamNG.drive\n\n#automation #beamngdrive #car \n\nMy Discord Server: https://discord.gg/cgqDJ6WeVn\nMy Email: hello.der.bayer@gmail.com\n\nMy Automation mod collection: https://steamcommunity.com/sharedfiles/filedetails/?id=3117557093\n\nTimestamps:\n00:00 Recap & Fixes\n03:18 Standard Car Lap\n08:20 Realistic Tune\n11:05 Realistic Tune Lap\n14:04 M73 V12 Swap\n18:24 V12 Lap Time\n22:33 V12 SC Build\n26:59 V12 SC Lap Time\n32:19 Summary",
       "commentCount": 5,
       "likeCount": 52,
-      "probeClient": "web_embedded"
-    },
-    "fnbaOJKPscM": {
-      "checkedAt": "2026-08-07T11:53:25Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Want to start Facebook Automation and earn money from Facebook Reels? In this video, I share my complete 10-day Facebook Automation Challenge, where I uploaded reels consistently to a new Facebook page and tracked the real results every single day. You'll see how many views, followers, reach, engagement, and monetization progress I achieved, along with the exact strategy I used. If you're searching for Facebook Automation, Facebook Reels Monetization, Facebook Page Growth, Facebook Reels Challenge, how to earn money from Facebook, or Facebook Page Monetization, this video will help you understand what actually happens in the first 10 days and whether Facebook Automation is worth starting in 2026.\n\n\n\nKeywords:\nfacebook automation\nfacebook automation challenge\nfacebook automation for beginners\nfacebook page monetization\nfacebook page growth\nfacebook reels monetization\nfacebook reels challenge\nfacebook reels growth\nfacebook reels strategy\nhow to monetize facebook page\nhow to grow facebook page\nfacebook reels viral\nfacebook reels views\nearn money from facebook\nfacebook earning\nfacebook page kaise grow kare\nfacebook page monetize kaise kare\nfacebook reels kaise viral kare\nfacebook automation in hindi\nfacebook automation pakistan\nfacebook automation india\nfacebook reels income\nfacebook creator monetization\nfacebook content creation\nfacebook page challenge\n#facebookautomation #monetization",
-      "commentCount": 1,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "OU_wL1PnwEM": {
@@ -6497,15 +6499,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-07T13:53:27Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "S2TJZodK2BE": {
-      "checkedAt": "2026-08-07T13:53:27Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Tech companies thought that AI coding tools would let them cut engineering teams and build software faster and cheaper. Instead, AI-generated code created new problems with reliability, security, and maintenance. Today, we'll discuss why Big Tech is secretly rehiring the same software engineers that were supposed to be replaced by AI.\n\nTimecodes:\n0:00 - Intro\n0:47 - Big Tech’s Layoff Dream\n3:13 - When AI Code Falls Apart\n6:51 - Companies Come Crawling Back\n\n#AI #ArtificialIntelligence #TechNews #Startups #Google #software #swe #layoffs #BusinessAnalysis #TechDocumentary",
-      "commentCount": 8,
-      "likeCount": 31,
       "probeClient": "web_embedded"
     },
     "c8ESEFog3lY": {
@@ -6766,15 +6759,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-07T16:53:24Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "WkWSSwo4mAU": {
-      "checkedAt": "2026-08-07T16:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Long AI Video Kaise Banaye (14 Min) Using Just 1 Prompt🔥|| Ai Automation 2026\n\nOur App Link :- https://play.google.com/store/apps/details?id=co.diy18.xnfim\n\nTopics Covered in this Video:\n\nLong Ai Video 1 click me kaise banaye\n\n1 click me long ai video kaise banae\n\nAI se video kaise banaye\n\nText to Video AI free tools\n\nBest AI video maker websites\n\nAI Courses for beginners\n\nMobile se AI video banane ka tarika\n\nYouTube Shorts ke liye AI video kaise banaye\n\n\nExpanded Keywords:\n\n1. Free AI video maker\n\n2. Text to video AI tools\n\n3. AI video banane ka software\n\n4. AI tools for content creation\n\n5. Beginners AI video editing course\n\n6. Mobile se AI video kaise banaye\n\n7. Best AI tools 2026\n\n8. Hindi mein AI video banana\n\n9. AI se YouTube video kaise banaye\n\n10. long ai banane ka tarika\n\n\nQueries Answered in this Video:\n\nLong ai video 1 click me kaise banaye\n1 click me long ai video kaise banaye\nLong ai video kaise banaye 1 click me\nNotebooklm se video kaise banaye\nAi se cartoon video kaise banaye\nAi long video kaise banaye\nCartoon video kaise banaye ai se\nFree AI video generator app\nText to video AI app for mobile\nYouTube ke liye AI video kaise banaye\nAI video editing app for beginners\nAI voice ke sath video kaise banaye\nMobile se AI reel kaise banaye\nBest free AI tools for video creation\nShorts banane ke liye AI tool kaunsa hai\nAI se cartoon video kaise banaye\nAI me background music kaise lagaye\nBina face dikhaye AI video kaise banaye\nText to speech AI video generator\nReels banane wala best AI app\nFree AI animation video kaise banaye\nAI se educational video kaise banaye\nTrending AI video ideas for YouTube\nAI video banane ke liye best website\nAI face animation video kaise banaye\nAI tools se viral short video kaise banaye\nBeginner ke liye AI video creation guide\nAI app se YouTube ke liye video kaise banaye\nAI tools for faceless YouTube channel\nAI reels ka background kaise change kare\nVideo ke liye AI script kaise banaye\nBest AI video editor for Android\nShorts viral karne ke liye AI tips\nAI story video kaise banaye\nAI tools for content creators\nReels viral karne wale AI hacks\nAI YouTube channel kaise grow kare\nAI tools for beginners without coding\nFree mein AI learning kaise kare\nAI YouTube automation kya hai\nAI se shorts video viral kaise kare\nAI ke saath YouTube career kaise start kare\nai video kaise banaye free main\nai se video kaise banaye\nhow to make videos with chatgpt\nhow to create a faceless youtube channel\nstory video kaise banaye\nai video generator\nai se cartoon video kaise banaye\nai video kaise banaye\nhow to make animation video\nhow to create 3d animation video\nanimation video kaise banaye\n3d animation video\nai cartoon video generator free\nai animation\nhorror story video kaise banaye\nai animated video kaise banaye\nfaceless youtube channel ideas\nfree ai video tools\n3d animation video kaise banaye\nanimated stories\nanimation\nai video\nai animation video\nhow to create animated videos in mobile \nhow to make cartoon short video \ncopy paste cartoon video on youtube\ncartoon video maker app\nmobile animation video \nanimation video banane wala app\nhow to make cartoon in mobile \nmake cartoon video and earn money\nanimation cartoon short video \nhow to create best cartoon video \nhow to edit animation video in mobile \nmobile se cartoon video kaise banaye\nhow to make cartoon video in mobile\napne phone se cartoon video kaise banaye\ncartoon video\nanimation video kaise banaye\nhow to make cartoon animation video in mobile\ncopy paste channel ideas 2024\nfaceless youtube channel ideas 2024\ncopy paste youtube channel ai\nyoutube channel ideas\ncopy paste video\nhow to create animated videos in mobile \n\n\n\nHashtags:\n#AIVideo #TextToVideoAI #FreeAIVideoMaker #aiautomation  #AIForBeginners  #NoFaceNoVoice #AIContentCreation\n#withoutfacechannelidea #aivideo #aivideokaisebanaye #ai \n\n# ⚠️ Educational Disclaimer\n\nThis video is intended solely for educational and informational purposes.\n\nAll AI tools, software, and platforms featured in this tutorial are the property of their respective owners and are subject to their own terms of service and usage policies. Viewers are responsible for using these tools ethically and in compliance with each platform's guidelines.\n\nThis channel does not guarantee any specific financial or business results. Any earnings or success mentioned are based on individual effort, experience, market conditions, and other factors beyond our control. Your results may vary.",
-      "commentCount": 18,
-      "likeCount": 178,
       "probeClient": "web_embedded"
     },
     "iii3fcfQL8M": {
@@ -7055,6 +7039,38 @@
       "description": "What if the web browser—the software we've used for more than 30 years—is about to become obsolete?\n\nArtificial intelligence is changing the way we search, browse, shop, learn, and make decisions. Instead of opening dozens of tabs, comparing websites, and spending hours researching, AI browsers could do all the work for us.\n\nIn this documentary, we explore how AI-powered browsers could transform the internet, what this means for Google Chrome, websites, businesses, content creators, and why this may become one of the biggest technological shifts of the decade.\n\nCould AI eventually replace the browser itself?\n\nWatch until the end and let us know what you think.\n\n👍 If you enjoyed this video, please Like, Subscribe, and turn on notifications for more documentaries about artificial intelligence and future technology.\n\n💙 Become a FutureLens Member:\nClick the Join button to support the channel and unlock exclusive member perks.\n\nSpecial Thanks to Our Founding Members:\n• Tim Daniels\n• Armond Wright\n• Inglourious Bradsterd\n• Emiliana Chávez\n\n#AI\n#ArtificialIntelligence\n#AIBrowser\n#FutureTechnology\n#GoogleChrome\n#FutureLens\n#Technology\n#Internet\n#MachineLearning\n#Innovation\n#AITools\n#TechNews\n#DigitalFuture\n#AIRevolution\n#Future",
       "commentCount": 25,
       "likeCount": 117,
+      "probeClient": "web_embedded"
+    },
+    "ZbawXiYm4Go": {
+      "checkedAt": "2026-08-07T22:53:30Z",
+      "embedAllowed": true,
+      "description": "Claude & Claude Code just got a bunch of brand new upgrades that allow you to automate any task you can think of from your phone OR your computer. You can now record yourself doing anything and Claud will build a skill to automate it. In addition, you can schedule routines that use your skills and connectors to automate tasks on Claude Code.\n\nLink Claude to 9,000+ Apps For Free with Zapier: https://bit.ly/4giPktB",
+      "commentCount": 1,
+      "likeCount": 23,
+      "probeClient": "web_embedded"
+    },
+    "WA8WDR30u9Y": {
+      "checkedAt": "2026-08-07T22:53:30Z",
+      "embedAllowed": true,
+      "description": "🏠 This is the finale of the Homey Matter trilogy, and we’re ending with the part of Homey that has impressed me the most: Advanced Flows. I’m breaking down how Homey automations work, showing some of the more ridiculous logic running in my house, and pushing all of that compatibility as far as I possibly can.\n\n⚙️ We’re getting into smart switches, lighting scenes, variables, presence sensors, conditional logic, and why Homey becomes so powerful when all of those devices start sharing context.\n\nRelevant Videos\n\nMatter Vs Homey https://youtu.be/HrdtrbaYlns?si=0OQoeubVf7BQUF42\n\nHomey Day 1 https://youtu.be/B_Jliq1E0s4?si=A4_3FJig9Stf-PUP\n\nMy Smart Home Water Leak Automation https://youtu.be/Y9uoiK3w9eI?si=3qgVN_sUGN0_EpfT\n\nSmart Night Lights with Motion Sensors https://youtu.be/o5q-vNLGtDo?si=cNACcdxZZObcEYIS\n\nChapters\n\n0:00 Intro\n1:14 What Are Flow Cards?\n2:42 Flows vs. Advanced Flows\n3:25 Smart Switch + Smart Bulb Automations\n6:10 Cycling Scenes with Variables\n7:44 My Ceiling Fan Automation\n9:09 Building the “Turn Stuff Off” Flow\n10:43 My Biggest Problem With Homey Flows\n12:00 Pushing Homey Way Too Far\n\n#Homey #HomeyPro #SmartHome #HomeAutomation #Matter #AppleHome #MakeSmartMatter",
+      "commentCount": 3,
+      "likeCount": 37,
+      "probeClient": "web_embedded"
+    },
+    "0Jd6flJ-9Gc": {
+      "checkedAt": "2026-08-07T22:53:30Z",
+      "embedAllowed": true,
+      "description": "Tool Link \nhttps://claude.ai/public/artifacts/a7a7d65c-22fd-41d8-bd73-7507d26c7c42\n\n🤖 Welcome to KNOWLEDGE AI!\nYouTube Automation kya hota hai aur kaise tum bina khud camera pe aaye ek profitable YouTube channel run kar sakte ho – yahi is video mein explain kiya gaya hai.\nIs video mein hum cover karenge: niche selection, script writing, voiceover, editing, aur upload – sab kuch automate kaise karo tools aur team ki madad se.\nAgr tum 2025 mein YouTube se passive income banana chahte ho, toh yeh video tumhare liye must-watch hai.\n\n#YouTubeAutomation #PassiveIncome #YouTubeSeKamaao #FacelessYouTube #YoutubeHindi #OnlineEarning2025\n\nDisclaimer:\nThis video is created purely for educational and informational purposes only. All content, clips, or references used fall under Section 107 of the Copyright Act (Fair Use) for commentary, education, and informational use. We have no intent to harm, mislead, or infringe upon the rights of any individual or organization. Viewer discretion is advised — results may vary based on individual effort and execution.\n\nTags:\nYouTube Automation\nYouTube Automation kya hai\nYouTube se paise kaise kamaye\nFaceless YouTube channel\nPassive income YouTube Hindi\nYouTube automation 2025\nBina face dikhaye YouTube\nYouTube automation setup\nYouTube niche selection\nYouTube script writing\nAI YouTube automation\nYouTube automation tools\nYouTube channel grow kaise kare\nOnline earning 2025\nGhar baithe paise kamao\nYouTube monetization Hindi\nYouTube automation guide\nFaceless channel ideas Hindi\nYouTube passive income\nAutomated YouTube channel\nYouTube content creation tips\nYouTube voiceover tools\nYouTube editing automation\nHow to automate YouTube\nYouTube business model\nDigital income Hindi\nYouTube channel without showing face\nMake money online Hindi\nYouTube growth strategy\nYouTube automation for beginners\nOn this channel, you will find videos about Artificial Intelligence (AI), YouTube Growth Tips, Tech Tutorials, Free AI Tools, Cyber Security, Online Safety, Automation, and the latest technology updates in simple Hindi.\n\nIf you enjoy learning about AI and technology, don't forget to Like, Share & Subscribe to KNOWLEDGE AI.\n\n🔔 Subscribe for more AI & Tech Updates!\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n⚠️ Disclaimer:\nThis video is created for educational and informational purposes only. The information shared is based on research, publicly available sources, and personal experience. Please verify important information from official sources before making any decision.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📜 Copyright Disclaimer:\nCopyright Disclaimer under Section 107 of the Copyright Act 1976, allowance is made for \"Fair Use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, education, and research. Fair Use is permitted by copyright law that might otherwise be infringing.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n⚠️ Fair Use Notice:\nAny images, videos, logos, music, or graphics used in this video belong to their respective owners. They are used only for educational, informational, review, commentary, or demonstration purposes under the Fair Use principle. No copyright infringement is intended.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📌 Note:\nThe creator is not responsible for any loss or damage resulting from the use of the information provided in this video. Viewers are advised to do their own research before taking any action.\n\nThank you for watching! ❤️",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "YzGi0MBeWF4": {
+      "checkedAt": "2026-08-07T22:53:30Z",
+      "embedAllowed": true,
+      "description": "🚀 Want to learn Network Automation but don't know where to start?\n\nIn this video, I share a complete learning roadmap designed specifically for Cisco Collaboration Engineers, Microsoft Teams Engineers, Webex Calling Engineers, and UC Professionals who want to automate repetitive tasks using Python, REST APIs, JSON, Postman, and Authentication.\n\nInstead of learning random programming concepts, this roadmap focuses on the skills that matter in real enterprise environments.\n\n📚 In this roadmap you'll learn:\n\n✅ Why Network Automation is important for UC Engineers\n\n✅ REST APIs & HTTP Methods\n\n✅ JSON Fundamentals\n\n✅ Python for Network Automation\n\n✅ Authentication (OAuth, Tokens, Service Apps)\n\n✅ Postman Deep Dive\n\n✅ Your First Python API Script\n\n✅ Bulk User Provisioning\n\n✅ Real Enterprise Automation Examples\n\n✅ The Complete UC Automation Career Roadmap\n\nWhether you work with:\n\nCisco Collaboration\nMicrosoft Teams\nWebex Calling\nMicrosoft Graph API\nCisco APIs\nWebex APIs\n\nthis roadmap will help you start your automation journey from scratch.\n\n📌 Upcoming Videos\n\n📅 Day 29 – Why Automation Exists\n\n📅 Day 30 – REST APIs, JSON & HTTP\n\n📅 Day 31 – Python Fundamentals\n\n📅 Day 32 – JSON Explained\n\n📅 Day 33 – REST APIs & HTTP Methods\n\n📅 Day 34 – Authentication\n\n📅 Day 35 – Your First API Call\n\n📅 Day 36 – Postman Deep Dive\n\n📅 Day 37 – Bulk User Provisioning\n\n📅 Day 38 – Real Enterprise Scripts\n\n📅 Day 39 – The Complete UC Automation Roadmap\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCM_V2yG3q3tGEc3d0ZJy-SA/join\n\nSIP Video - https://youtu.be/aYtopzpMvHg\n\nCUCM Playlist - https://youtube.com/playlist?list=PLo4vaqmPtSBZ_MVfwJLwCePAlOi3X5WAO\n\nCUC Playlist - https://youtube.com/playlist?list=PLo4vaqmPtSBb2FFdeuMn9lNWxvuCUrT4T\n\nWebEx Playlist - https://youtube.com/playlist?list=PLo4vaqmPtSBYxzoocR7WCSdJP7p7fRKoz",
+      "commentCount": 0,
+      "likeCount": 4,
       "probeClient": "web_embedded"
     }
   }
