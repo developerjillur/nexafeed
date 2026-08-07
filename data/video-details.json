@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T22:53:30Z",
+  "updatedAt": "2026-08-07T23:53:12Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -2978,7 +2978,7 @@
       "probeClient": "web_embedded"
     },
     "ZE1KEgsm_80": {
-      "checkedAt": "2026-07-31T22:53:39Z",
+      "checkedAt": "2026-08-07T23:53:12Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Uber just shipped an AI agent that builds your whole grocery cart from a photo of a handwritten list — and the interesting part for builders is how little the LLM actually does.\n\nTheir real architecture is a multi-prompt state graph, and most of the boxes are plain deterministic code. The LLM only handles the fuzzy stuff: reading what you meant, judging which product fits. Everything that has to be correct — prices, arithmetic, availability, the cart total — is code the model never touches.\n\n→ The planner LLM doesn't \"go shopping\" — it emits a structured CartPlan (item, search_terms, item_context, price constraints), then hands it to code\n→ \"12 eggs\" resolves to one carton of twelve via a deterministic quantity step, not free LLM arithmetic\n→ A deterministic guardrail can veto a bad output and fall back before it ever reaches your cart\n→ The lesson: when an agent is unreliable, the fix usually isn't a bigger model — it's taking responsibility away from the model and moving anything exact into code\n\nThe rule to steal: LLM handles meaning, code handles truth.\n\nComment \"CART\" and I'll send you the full breakdown.\nWhat's the one thing you'd never let an AI decide?\n\n#AI #AIagents #LLM #systemdesign #softwareengineering #promptengineering #buildinpublic #Uber #machinelearning #agents\n\nLinks:\n• The LLM/code boundary playbook: https://github.com/sunchitanand/ai-builder-resources/blob/main/cart.md\n\n#Shorts",
@@ -2987,7 +2987,7 @@
       "probeClient": "web_embedded"
     },
     "fJcFP6J6X5k": {
-      "checkedAt": "2026-07-31T22:53:39Z",
+      "checkedAt": "2026-08-07T23:53:12Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Meta's Muse Spark 1.1 is not automatically the best model for everything. The useful vibe-coder question is different: can it lower the cost of boring AI app chores like research, browser steps, docs, PDFs, screenshots, and tool calls? Meta Model API is OpenAI-compatible, starts with $20 in credits, and launches at $1.25 per 1M input tokens and $4.25 per 1M output tokens.\n\n• Use your best model as the project manager\n• Test Spark on the repetitive middle work\n• Good candidates: research, browser chores, file reading, screenshots, and tool calls\n• Do not move the whole app; the benchmark table is mixed\n• Compare cost per finished result, not cost per token\n\nComment SPARK and I'll send you the quick-start links.\n\nWould you let Meta be the cheap helper inside your AI app?\n\n#AI #MetaAI #MuseSpark #AIApps #VibeCoding #LLM #ModelAPI #BuildInPublic #Shorts",
@@ -6112,7 +6112,7 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-07T22:53:30Z",
+      "checkedAt": "2026-08-07T23:53:12Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6177,7 +6177,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-07T22:53:30Z",
+      "checkedAt": "2026-08-07T23:53:12Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6332,15 +6332,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-07T11:53:25Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "5-kz22bkmTk": {
-      "checkedAt": "2026-08-07T11:53:25Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "After recreating my own, real-life car in Automation, I slightly tune it and take the Nordschleife laptimes driving it in BeamNG. \n\nGames: Automation The Car Company Tyoon Game, with driving parts done in BeamNG.drive\n\n#automation #beamngdrive #car \n\nMy Discord Server: https://discord.gg/cgqDJ6WeVn\nMy Email: hello.der.bayer@gmail.com\n\nMy Automation mod collection: https://steamcommunity.com/sharedfiles/filedetails/?id=3117557093\n\nTimestamps:\n00:00 Recap & Fixes\n03:18 Standard Car Lap\n08:20 Realistic Tune\n11:05 Realistic Tune Lap\n14:04 M73 V12 Swap\n18:24 V12 Lap Time\n22:33 V12 SC Build\n26:59 V12 SC Lap Time\n32:19 Summary",
-      "commentCount": 5,
-      "likeCount": 52,
       "probeClient": "web_embedded"
     },
     "OU_wL1PnwEM": {
@@ -7071,6 +7062,14 @@
       "description": "🚀 Want to learn Network Automation but don't know where to start?\n\nIn this video, I share a complete learning roadmap designed specifically for Cisco Collaboration Engineers, Microsoft Teams Engineers, Webex Calling Engineers, and UC Professionals who want to automate repetitive tasks using Python, REST APIs, JSON, Postman, and Authentication.\n\nInstead of learning random programming concepts, this roadmap focuses on the skills that matter in real enterprise environments.\n\n📚 In this roadmap you'll learn:\n\n✅ Why Network Automation is important for UC Engineers\n\n✅ REST APIs & HTTP Methods\n\n✅ JSON Fundamentals\n\n✅ Python for Network Automation\n\n✅ Authentication (OAuth, Tokens, Service Apps)\n\n✅ Postman Deep Dive\n\n✅ Your First Python API Script\n\n✅ Bulk User Provisioning\n\n✅ Real Enterprise Automation Examples\n\n✅ The Complete UC Automation Career Roadmap\n\nWhether you work with:\n\nCisco Collaboration\nMicrosoft Teams\nWebex Calling\nMicrosoft Graph API\nCisco APIs\nWebex APIs\n\nthis roadmap will help you start your automation journey from scratch.\n\n📌 Upcoming Videos\n\n📅 Day 29 – Why Automation Exists\n\n📅 Day 30 – REST APIs, JSON & HTTP\n\n📅 Day 31 – Python Fundamentals\n\n📅 Day 32 – JSON Explained\n\n📅 Day 33 – REST APIs & HTTP Methods\n\n📅 Day 34 – Authentication\n\n📅 Day 35 – Your First API Call\n\n📅 Day 36 – Postman Deep Dive\n\n📅 Day 37 – Bulk User Provisioning\n\n📅 Day 38 – Real Enterprise Scripts\n\n📅 Day 39 – The Complete UC Automation Roadmap\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCM_V2yG3q3tGEc3d0ZJy-SA/join\n\nSIP Video - https://youtu.be/aYtopzpMvHg\n\nCUCM Playlist - https://youtube.com/playlist?list=PLo4vaqmPtSBZ_MVfwJLwCePAlOi3X5WAO\n\nCUC Playlist - https://youtube.com/playlist?list=PLo4vaqmPtSBb2FFdeuMn9lNWxvuCUrT4T\n\nWebEx Playlist - https://youtube.com/playlist?list=PLo4vaqmPtSBYxzoocR7WCSdJP7p7fRKoz",
       "commentCount": 0,
       "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "i1eIQ1Gc3n8": {
+      "checkedAt": "2026-08-07T23:53:12Z",
+      "embedAllowed": true,
+      "description": "#bigtech #ai #softwareengineer \n\nMany software engineers and IT professionals are quitting their tech jobs due to layoffs, burnout, AI automation, work pressure, low salary growth, and changing career goals. Is the tech industry really in crisis, or is this just a shift in the job market?\n\nWatch this short to understand why more developers, QA engineers, and IT employees are leaving their jobs and what it means for the future of tech careers.\n\n💬 What's your opinion? Would you leave your tech job? Comment below!\n\n👍 Like, Share & Subscribe for more tech career, AI, layoffs, and corporate life updates\n\nwhy is everyone leaving tech jobs, tech job crisis, software engineer quitting, IT employees leaving jobs, tech layoffs, AI replacing jobs, AI automation, software developer career, IT industry news, corporate life, work stress, burnout in tech, software engineer burnout, QA engineer career, coding jobs, programming jobs, future of software jobs, tech industry trends, developer life, tech career advice, software jobs, IT jobs India, software engineer India, recession in tech, AI jobs, Gen AI, layoffs 2026, software testing, automation testing, career growth, work life balance, high paying jobs, programming career, developer burnout, office life, startup jobs, MNC jobs, job switching, coding career, technology news\n\nwhy is everyone leaving tech jobs, tech jobs, software engineer, software developer, developer, programmer, coding, IT jobs, layoffs, AI, artificial intelligence, GenAI, tech layoffs, burnout, corporate life, software testing, QA engineer, automation testing, selenium, java, programming, coding life, tech career, career advice, recession, startup, MNC, office life, work life balance, developer life, software industry, IT industry, tech news, youtube shorts, viral shorts\n\n#techjobs #softwareengineer #developer #itjobs #techlayoffs #ai #ArtificialIntelligence #genai #career #corporatelife #burnout #coding #programming #softwaredeveloper  #qaengineer #automationtesting #selenium #java #jobswitch #worklifebalance  #techcareers #layoffs #technews #shorts #youtubeshorts #viralshorts #trending  #itindustry #futureofwork #aijobs \n\nAI disruption, AI replacing developers, software engineer salary, IT recession, coding future, future of programming, software engineering career, developer productivity, remote work, hybrid work, software company layoffs, engineering manager, full stack developer, backend developer, frontend developer, cloud engineer, DevOps engineer, SDET, software testing career, career switch, upskilling, reskilling, tech hiring freeze, hiring trends, interview preparation, software jobs 2026, AI in software development, coding interview, software career growth, digital transformation\n\n#TechBurnout #WhyICode #bigtech #codingcareer #QuitCoding #ai #developerlife  #csmajor #softwareengineer #MimeticDesire #careerchange #workculture \n\ntech career crisis, IT career growth, software engineer resignation, mass resignation tech, why developers quit, IT employee burnout, coding burnout, software engineer stress, engineering career, developer productivity, AI revolution, AI impact on jobs, automation in IT, future of developers, future of coding, tech hiring slowdown, hiring freeze, recession jobs, white collar jobs, corporate burnout, toxic workplace, employee resignation, career transition, software industry trends, IT sector news, developer motivation, coding career tips, software engineer lifestyle, startup culture, MNC culture, job market 2026, IT hiring, software company, engineering jobs, digital careers, remote developer, hybrid office, productivity at work, work pressure, office politics, career decisions, professional growth, career planning, salary negotiation, employee retention, engineering culture, developer community, coding profession, future workplace, next generation jobs\n\ntech career crisis, software engineer resignation, employee burnout, IT sector, engineering jobs, career transition, AI revolution, AI impact, future workplace, future careers, job market, coding community, developer community, engineering life, software profession, career planning, office culture, startup life, employee experience, career development, hiring slowdown, hiring freeze, tech recruitment, digital transformation, engineering culture, IT professionals, software companies, work pressure, productivity, technology careers, future skills, career opportunities, work stress, programming career, software engineer life, developer career, software engineering,trending\n\n#TechCareer #SoftwareEngineering #DeveloperCommunity #EngineeringLife #CareerGrowth #CareerSwitch #JobMarket #HiringFreeze #FutureOfJobs #TechIndustry #SoftwareIndustry #CodingLife #DeveloperLife #Engineering #WorkCulture #OfficeLife #CareerDevelopment #ProfessionalGrowth #DigitalTransformation #FutureSkills #AIRevolution #EmployeeBurnout #Resignation #TechCommunity #ProgrammerLife #Innovation #Technology #SoftwareJobs #CorporateCulture #CareerAdvice",
+      "commentCount": 18,
+      "likeCount": 26,
       "probeClient": "web_embedded"
     }
   }

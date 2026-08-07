@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T22:53:30Z",
+  "updatedAt": "2026-08-07T23:53:12Z",
   "items": [
+    {
+      "id": "i1eIQ1Gc3n8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Soumya Vibes",
+      "publishedAt": "2026-08-07T13:53:12Z",
+      "firstSeenAt": "2026-08-07T23:53:12Z"
+    },
     {
       "id": "ZbawXiYm4Go",
       "type": "long",
@@ -11116,6 +11124,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-07T23:53:12Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
