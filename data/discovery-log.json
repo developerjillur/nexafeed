@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T10:53:24Z",
+  "updatedAt": "2026-08-07T11:53:25Z",
   "items": [
+    {
+      "id": "GuXOwpmwyOQ",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Adventurer",
+      "publishedAt": "2026-08-07T11:49:42Z",
+      "firstSeenAt": "2026-08-07T11:53:25Z"
+    },
+    {
+      "id": "5-kz22bkmTk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Der Bayer",
+      "publishedAt": "2026-08-07T10:53:25Z",
+      "firstSeenAt": "2026-08-07T11:53:25Z"
+    },
+    {
+      "id": "fnbaOJKPscM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Net niche",
+      "publishedAt": "2026-08-07T10:53:25Z",
+      "firstSeenAt": "2026-08-07T11:53:25Z"
+    },
+    {
+      "id": "WTKQ9HWgUek",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ImranX ",
+      "publishedAt": "2026-08-07T06:53:25Z",
+      "firstSeenAt": "2026-08-07T11:53:25Z"
+    },
+    {
+      "id": "fuYbUWjxig4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "9x",
+      "publishedAt": "2026-08-06T20:53:25Z",
+      "firstSeenAt": "2026-08-07T11:53:25Z"
+    },
     {
       "id": "uD0nZqCa1ik",
       "type": "short",
@@ -10464,6 +10504,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-07T11:53:25Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
