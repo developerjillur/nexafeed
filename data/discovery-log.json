@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T04:53:19Z",
+  "updatedAt": "2026-08-07T05:53:20Z",
   "items": [
+    {
+      "id": "mssNUJmMJRg",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-07T05:30:15Z",
+      "firstSeenAt": "2026-08-07T05:53:20Z"
+    },
+    {
+      "id": "4g2Vuj8SCR0",
+      "type": "short",
+      "source": "secondary",
+      "channel": "ACCELQ - AI-Powered Codeless Test Automation",
+      "publishedAt": "2026-08-07T05:43:20Z",
+      "firstSeenAt": "2026-08-07T05:53:20Z"
+    },
+    {
+      "id": "xiNb_Pnj-dA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nick Puru | AI Automation",
+      "publishedAt": "2026-08-06T17:53:20Z",
+      "firstSeenAt": "2026-08-07T05:53:20Z"
+    },
     {
       "id": "uUGyKspeocg",
       "type": "long",
@@ -10234,6 +10258,15 @@
       "channelsChecked": 33,
       "warnings": 21,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-07T05:53:20Z",
+      "new": 3,
+      "long": 1,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 31,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
