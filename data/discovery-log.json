@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T18:53:31Z",
+  "updatedAt": "2026-08-07T19:53:27Z",
   "items": [
+    {
+      "id": "H86StfGSEgk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rayane B.",
+      "publishedAt": "2026-08-07T17:53:27Z",
+      "firstSeenAt": "2026-08-07T19:53:27Z"
+    },
+    {
+      "id": "CLnp1g3elD8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Deep K.",
+      "publishedAt": "2026-08-07T16:53:27Z",
+      "firstSeenAt": "2026-08-07T19:53:27Z"
+    },
+    {
+      "id": "vyyvNB-DZ3E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "PromptRoute",
+      "publishedAt": "2026-08-07T13:53:27Z",
+      "firstSeenAt": "2026-08-07T19:53:27Z"
+    },
+    {
+      "id": "2ZJGb8SZsS8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vedakarna",
+      "publishedAt": "2026-08-07T11:53:27Z",
+      "firstSeenAt": "2026-08-07T19:53:27Z"
+    },
     {
       "id": "PwIM33ajJCs",
       "type": "short",
@@ -10928,6 +10960,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-07T19:53:27Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
