@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T13:53:27Z",
+  "updatedAt": "2026-08-07T14:53:06Z",
   "items": [
+    {
+      "id": "PDViU_7WSj8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Professor of AI",
+      "publishedAt": "2026-08-07T14:51:54Z",
+      "firstSeenAt": "2026-08-07T14:53:06Z"
+    },
+    {
+      "id": "Qgd9LdIXb3k",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-07T14:37:56Z",
+      "firstSeenAt": "2026-08-07T14:53:06Z"
+    },
+    {
+      "id": "2rHzSUa1RaQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WP TotalCraft",
+      "publishedAt": "2026-08-07T14:36:06Z",
+      "firstSeenAt": "2026-08-07T14:53:06Z"
+    },
+    {
+      "id": "Hr6zNXE_7po",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jonathan Probert",
+      "publishedAt": "2026-08-07T13:53:06Z",
+      "firstSeenAt": "2026-08-07T14:53:06Z"
+    },
+    {
+      "id": "NUX502ONNgc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Fire",
+      "publishedAt": "2026-08-07T11:53:06Z",
+      "firstSeenAt": "2026-08-07T14:53:06Z"
+    },
+    {
+      "id": "XIs3A_eRvEk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CTR Cash",
+      "publishedAt": "2026-08-07T09:53:06Z",
+      "firstSeenAt": "2026-08-07T14:53:06Z"
+    },
     {
       "id": "-IrWlbs3FGI",
       "type": "short",
@@ -10611,6 +10659,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-07T14:53:06Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
