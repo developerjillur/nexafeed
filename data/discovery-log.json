@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T14:53:06Z",
+  "updatedAt": "2026-08-07T15:53:15Z",
   "items": [
+    {
+      "id": "l1qzs85Ftpg",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-07T15:43:50Z",
+      "firstSeenAt": "2026-08-07T15:53:15Z"
+    },
+    {
+      "id": "RhKMAIJny3Q",
+      "type": "short",
+      "source": "primary",
+      "channel": "Insider Force",
+      "publishedAt": "2026-08-07T15:06:29Z",
+      "firstSeenAt": "2026-08-07T15:53:15Z"
+    },
+    {
+      "id": "du90qkd__D4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vivek Mishra",
+      "publishedAt": "2026-08-07T15:20:15Z",
+      "firstSeenAt": "2026-08-07T15:53:15Z"
+    },
+    {
+      "id": "QY4PmgK7l9E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Intellipaat",
+      "publishedAt": "2026-08-07T14:53:15Z",
+      "firstSeenAt": "2026-08-07T15:53:15Z"
+    },
+    {
+      "id": "BN_fzfFiP8w",
+      "type": "short",
+      "source": "secondary",
+      "channel": "SR Digital Academy-Sap Data Science & AI Training ",
+      "publishedAt": "2026-08-07T14:53:15Z",
+      "firstSeenAt": "2026-08-07T15:53:15Z"
+    },
+    {
+      "id": "9Dg3vPUZvrI",
+      "type": "short",
+      "source": "secondary",
+      "channel": "OHO SOLUTIONS",
+      "publishedAt": "2026-08-07T11:53:15Z",
+      "firstSeenAt": "2026-08-07T15:53:15Z"
+    },
+    {
+      "id": "Tm4XmJgmph8",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Total VDO",
+      "publishedAt": "2026-08-07T07:53:15Z",
+      "firstSeenAt": "2026-08-07T15:53:15Z"
+    },
+    {
+      "id": "NsQpFu0fyhY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "H2HUNT",
+      "publishedAt": "2026-08-07T02:53:15Z",
+      "firstSeenAt": "2026-08-07T15:53:15Z"
+    },
     {
       "id": "PDViU_7WSj8",
       "type": "short",
@@ -10668,6 +10732,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-07T15:53:15Z",
+      "new": 8,
+      "long": 3,
+      "shorts": 5,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
