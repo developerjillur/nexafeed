@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-06T23:53:13Z",
+  "updatedAt": "2026-08-07T00:53:16Z",
   "items": [
+    {
+      "id": "b1xI758ZnlE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "MIZU TECH",
+      "publishedAt": "2026-08-06T17:53:16Z",
+      "firstSeenAt": "2026-08-07T00:53:16Z"
+    },
+    {
+      "id": "Ja-3HgFCb8A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sean Standberry",
+      "publishedAt": "2026-08-06T16:53:16Z",
+      "firstSeenAt": "2026-08-07T00:53:16Z"
+    },
+    {
+      "id": "_FP1FdK2u2k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "THE RADIO TV",
+      "publishedAt": "2026-08-06T15:53:16Z",
+      "firstSeenAt": "2026-08-07T00:53:16Z"
+    },
+    {
+      "id": "CRvsVQs2hmM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Orbital Potato",
+      "publishedAt": "2026-08-06T14:53:16Z",
+      "firstSeenAt": "2026-08-07T00:53:16Z"
+    },
+    {
+      "id": "NBu9kwzzpGI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Coupler․io Academy",
+      "publishedAt": "2026-08-06T13:53:16Z",
+      "firstSeenAt": "2026-08-07T00:53:16Z"
+    },
+    {
+      "id": "FJsCJrimUQw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fabian Markl",
+      "publishedAt": "2026-08-06T13:53:16Z",
+      "firstSeenAt": "2026-08-07T00:53:16Z"
+    },
+    {
+      "id": "eNFi15r0Gm0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NextGen Nature",
+      "publishedAt": "2026-08-06T12:53:16Z",
+      "firstSeenAt": "2026-08-07T00:53:16Z"
+    },
+    {
+      "id": "Fj_5uQJaxH0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "      The Factory Vision",
+      "publishedAt": "2026-08-06T10:53:16Z",
+      "firstSeenAt": "2026-08-07T00:53:16Z"
+    },
     {
       "id": "s-MgHZ_oGl0",
       "type": "long",
@@ -9941,6 +10005,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-07T00:53:16Z",
+      "new": 8,
+      "long": 8,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
