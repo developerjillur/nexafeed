@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T01:53:17Z",
+  "updatedAt": "2026-08-07T02:53:18Z",
   "items": [
+    {
+      "id": "Q_gapwQPGpY",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-07T02:17:38Z",
+      "firstSeenAt": "2026-08-07T02:53:18Z"
+    },
+    {
+      "id": "X9M8VlHYl8Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-07T01:53:18Z",
+      "firstSeenAt": "2026-08-07T02:53:18Z"
+    },
+    {
+      "id": "tQX7VS8iP4Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Next New Thing",
+      "publishedAt": "2026-08-06T20:53:18Z",
+      "firstSeenAt": "2026-08-07T02:53:18Z"
+    },
+    {
+      "id": "kREyNoEMCnI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "HMA WebCode",
+      "publishedAt": "2026-08-06T18:53:18Z",
+      "firstSeenAt": "2026-08-07T02:53:18Z"
+    },
+    {
+      "id": "S3xxW-fQp2A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Him-eesh Madaan",
+      "publishedAt": "2026-08-06T14:53:18Z",
+      "firstSeenAt": "2026-08-07T02:53:18Z"
+    },
+    {
+      "id": "NB0ZX44IVDg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mikey Vibe Coding",
+      "publishedAt": "2026-08-06T14:53:18Z",
+      "firstSeenAt": "2026-08-07T02:53:18Z"
+    },
+    {
+      "id": "KAHwtr3uj60",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vivek Mishra",
+      "publishedAt": "2026-08-06T14:53:18Z",
+      "firstSeenAt": "2026-08-07T02:53:18Z"
+    },
+    {
+      "id": "9z-L0JBeito",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Christian Peverelli - WeAreNoCode",
+      "publishedAt": "2026-08-06T13:53:18Z",
+      "firstSeenAt": "2026-08-07T02:53:18Z"
+    },
     {
       "id": "AncgOoIdHaE",
       "type": "short",
@@ -10079,6 +10143,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-07T02:53:18Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 10,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
