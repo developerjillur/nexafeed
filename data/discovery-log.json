@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T16:53:24Z",
+  "updatedAt": "2026-08-07T17:53:30Z",
   "items": [
+    {
+      "id": "zl5_PrTLWqs",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-07T17:14:39Z",
+      "firstSeenAt": "2026-08-07T17:53:30Z"
+    },
+    {
+      "id": "HXzkdO7UbDk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-08-07T17:00:43Z",
+      "firstSeenAt": "2026-08-07T17:53:30Z"
+    },
+    {
+      "id": "mZU0KZ7Kc7k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Creator Magic",
+      "publishedAt": "2026-08-07T16:53:30Z",
+      "firstSeenAt": "2026-08-07T17:53:30Z"
+    },
+    {
+      "id": "M3gHlwHKsBI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The AI Automators",
+      "publishedAt": "2026-08-07T16:53:30Z",
+      "firstSeenAt": "2026-08-07T17:53:30Z"
+    },
+    {
+      "id": "4emJCTXpfR4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jake One Page",
+      "publishedAt": "2026-08-07T14:53:30Z",
+      "firstSeenAt": "2026-08-07T17:53:30Z"
+    },
+    {
+      "id": "lC0EK8RCwxk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CNBC",
+      "publishedAt": "2026-08-07T14:53:30Z",
+      "firstSeenAt": "2026-08-07T17:53:30Z"
+    },
+    {
+      "id": "8vUCjYsWeSU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Prompt Engineering",
+      "publishedAt": "2026-08-07T13:53:30Z",
+      "firstSeenAt": "2026-08-07T17:53:30Z"
+    },
     {
       "id": "n_KywlModrE",
       "type": "short",
@@ -10790,6 +10846,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-07T17:53:30Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }

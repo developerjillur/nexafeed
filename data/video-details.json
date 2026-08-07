@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T16:53:24Z",
+  "updatedAt": "2026-08-07T17:53:30Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -3469,59 +3469,6 @@
       "likeCount": 3,
       "probeClient": "web_embedded"
     },
-    "H2cx4dXWQEw": {
-      "checkedAt": "2026-08-02T17:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "B tier.\nIt’s the goated legacy option. But functionality-wise, you’re just running one Claude Code session. You can’t see what’s happening in your other tabs. No notifications. No PR reviews.\nCursor and similar AI IDEs.\nC tier.\nAmazing editors. But running multiple agents means multiple tabs fighting for your attention. There’s no bird’s-eye view of what all your agents are doing.\nGhostty.\nB tier.\nBlazing fast. GPU-accelerated. Beautiful.\nBut it’s still a general-purpose terminal. You’re setting up split panes like it’s 2015.\ncmux.\nA tier.\nBuilt on Ghostty, but specifically for AI agents. You get a vertical sidebar showing the Git branch, PR status, and working directory for every session. It even notifies you when an agent needs input.\nPure beauty.\nConductor.\nS tier.\nA full GUI for orchestrating agents, reviewing PRs, merging code, and kicking off tasks from your phone. Cloud workspaces are coming soon.",
-      "commentCount": 4,
-      "likeCount": 637,
-      "comments": [
-        {
-          "id": "Ugzrwgl_JBvT0kRvA8Z4AaABAg",
-          "author": "@SakshamxKaushik",
-          "text": "bro finally had haircut",
-          "likeCount": 1,
-          "publishedAt": "2026-08-01T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Lf4UXwBLHV9DxDCV56WmJcWBgilJJbfnNj8VCnkoOeUyx59-u5sBYPNLGFRUrxhZZwFP0vsBFg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugwgkefono4-naTq5BF4AaABAg",
-          "author": "@digitaltechy6217",
-          "text": "Hi\nI've commented on Your Instagram profile for Deal. Pls reply me @ any where\nwebdigitalsoft Tech CEO",
-          "likeCount": 1,
-          "publishedAt": "2026-08-02T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mO-FmweL8y1uNqqNcUDZ4M2Un4LX2rU-rFLpju9-lPnEwniZbZVQiSSLxwVY_IJGv2Ww=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxw_6xuYaU7G0B_-4N4AaABAg",
-          "author": "@johan-jomet",
-          "text": "Hi, I am Johan Jomet, founder and CEO of JJ coders.\nI watch all your vidoes, and I want to talk and connect with you",
-          "likeCount": 2,
-          "publishedAt": "2026-08-02T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/pDtmL5ZDOuQX8xZPwlQcjEqWt5by3C9ak__3a7fWMgZpSoGHGjbLLmrtqTQc2le_yZGl7aU=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzmFsm4QP30E8riDUR4AaABAg",
-          "author": "@ohunoluwasamuel1992",
-          "text": "Wow,that's great",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nuMxXhzihOD2LWO6f2ubDqh1-CddZ3El6PY2cH4hp62orsHLfgccgUJryPjCxoYorJGQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-02T17:53:15Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "_Wq3Z_DfAJ4": {
       "checkedAt": "2026-08-02T03:53:35Z",
       "embedAllowed": true,
@@ -4709,39 +4656,6 @@
           "likeCount": 0,
           "publishedAt": "2026-08-06T18:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mjqowuj-lUiWarWVQfk5TNO701PUWUjC_YxduwFK0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "0EwcCWbojfs": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Anthropic has just launched Claude Opus 5, a new AI model designed for developers - and it could change how software gets built.\n\nThe biggest surprise?\n\nIt delivers performance close to Claude Fable 5 while costing significantly less, making it an attractive option for production engineering.\n\nBut benchmarks only tell part of the story.\n\nIn a real-world coding challenge, Claude Opus 5, Claude Fable 5, and GPT-5.6 Sol were asked to build the same complete 3D model from scratch.\n\nThe results were fascinating:\n\n Claude Opus 5 generated nearly 3,000 lines of code, produced a more accurate 3D model, used proper geometry, and identified technical issues that other models missed.\n GPT-5.6 Sol completed the task much faster and at a much lower cost, making it ideal for rapid prototyping and shorter development cycles.\n\nThe takeaway?\n\nDifferent AI models are being optimized for different workflows.\n\nSome prioritize speed and low cost.\n\nOthers focus on deep reasoning, engineering quality, and production-ready software.\n\nThat's where the AI coding race is heading—not toward one model that does everything, but specialized models for different developer needs.\n\nWhich would you choose: faster and cheaper, or slower with better engineering quality? Let us know in the comments!\n\nWhy Subscribe to BPro?\n\nIf you're serious about AI, software, and technology, BPro helps you stay ahead.\n\nOn this channel, you'll discover:\n\nLatest AI breakthroughs\nAI coding tools & developer workflows\nClaude, ChatGPT, Gemini & open-source AI updates\nHidden GitHub repositories\nAI automation & productivity tools\nStartup and SaaS insights\nPractical AI tutorials that save time and money\n\nWe don't just report AI news we explain what it means for developers, founders, creators, and businesses.\n\n Subscribe to BPro and never miss the next big AI breakthrough.\n\n#ClaudeAI #Anthropic #AI #Coding #ArtificialIntelligence\n\nAI, artificial intelligence, Claude Opus 5, Claude AI, Anthropic, GPT-5.6, GPT 5.6 Sol, ChatGPT, AI coding, AI programming, coding AI, AI developer tools, AI for developers, software engineering, AI coding assistant, Claude Code, AI news, latest AI news, AI updates, AI comparison, Claude vs GPT, GPT vs Claude, best AI for coding, AI models, AI reasoning, AI productivity, programming, developer tools, software development, coding tutorial, AI tutorial, OpenAI, machine learning, generative AI, frontier AI, AI breakthroughs, best AI tools, AI workflow, startup tools, technology news, tech news, what is Claude Opus 5, how to use Claude AI, AI coding comparison, future of AI",
-      "commentCount": 2,
-      "likeCount": 51,
-      "comments": [
-        {
-          "id": "UgwPIQJJgeYUu8Q9yGZ4AaABAg",
-          "author": "@amoldream",
-          "text": "Not true. As a CTO with 17+ years in complex financial software development (India & Dubai), here is the reality:\n\n#1)Fable is pure marketing hype—it does not hold up in production.\n\n#2)Opus 5.0 is a step backward—it underperforms compared to Opus 4.8 on complex programming.\n\nAnthropic is rushing out model updates that sell promises rather than performance. Don't fall for the launch hype without doing your own testing.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kOu03hLPlOfwG7cVkvm9TZYmbEZwm_Ayvv15MRpBZ41J4=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyH3n45BTkai2yGLE54AaABAg",
-          "author": "@TheAurumVision7",
-          "text": "\"This has really made life so much easier for new developers like us! By removing coding and technical hurdles, it has made learning and working a breeze.\"",
-          "likeCount": 1,
-          "publishedAt": "2026-08-06T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/rR8horT2Q7yczC_0KQQxZFrbouD9Fnv83MJ6su0aT-UNQtnAO5YComFPKgYpLAZengtFxbwZQw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
@@ -6002,7 +5916,7 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-07T16:53:24Z",
+      "checkedAt": "2026-08-07T17:53:30Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6081,29 +5995,11 @@
       "likeCount": 108,
       "probeClient": "web_embedded"
     },
-    "kREyNoEMCnI": {
-      "checkedAt": "2026-08-07T02:53:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "This FREE AI Coding Method in VS Code is Insane (No Credit Card).  #aicoding \nWant free AI models inside Cline in VS Code without paying for any API or subscription?\n\nIn this video, I’ll show you how to connect Requesty to Cline and use free AI models with up to 200 free requests every day — no credit card required.\n\nYou’ll learn:\n• How to create a free Requesty account\n• How to connect Requesty with Cline in VS Code\n• Best free models available (NVIDIA Nemotron, Google Gemma, Poolside Laguna)\n• How to generate full apps using free AI models\n• Daily free request limits and tips\n\nFree Models Covered:\n- nvidia/nemotron-3-ultra-550b-a55b\n- nvidia/nemotron-3-super-120b-a12b\n- poolside/laguna-m.1\n- google/gemma-4-31b-it\n\nThis is one of the best free AI coding setups for developers who want powerful AI agents without spending money.\n\nRelated Videos:\nFree AI Coding Agent inside VS Code.\nhttps://youtu.be/vapCWQ8Xcik\n\n\nTimestamps:\n0:00 - Intro\n0:25 - Free Models List\n1:20 - Create Requesty Account\n2:00 - Connect Requesty to Cline\n2:50 - Live Demo (Building an App)\n\n\nIf this video helped you, like and subscribe for more free AI coding tools.\n\n#FreeAI #Cline #VSCode #AICoding #Requesty #FreeAIModels #NoCreditCard",
-      "commentCount": 1,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "uUGyKspeocg": {
       "checkedAt": "2026-08-07T04:53:19Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🚀 **Best Email Marketing Services For Small Business (2026)** — looking for the right email marketing platform to grow your business without overspending? In this video, we compare some of the most trusted email marketing services based on real features, pricing, automation, scalability, and verified user reviews, helping you choose the platform that truly fits your business needs.\n\n📈 Whether you're launching your first email campaign or looking to upgrade from your current provider, this review covers the strengths, weaknesses, pricing considerations, and ideal use cases of today's leading email marketing platforms. We'll compare **Mailchimp, Brevo, ActiveCampaign, and Omnisend**, discuss automation, deliverability, CRM integration, and long-term value, while referencing insights from trusted sources such as G2, HubSpot, Litmus, and TechRadar. Instead of focusing on hype, this video explains which platform makes the most sense for different types of small businesses.\n\n## 🔍 What you'll see in this video:\n\n• Why email marketing still delivers one of the highest ROIs in digital marketing\n• What makes a great email marketing service for small businesses\n• Mailchimp review: strengths, weaknesses, and who should use it\n• Brevo review: best value for growing businesses?\n• ActiveCampaign review: is advanced automation worth the cost?\n• Omnisend review: the right choice for eCommerce stores?\n• Which email marketing platform is the best fit for your business in 2026\n\n👍 If you found this review helpful, don't forget to **Like**, **Subscribe** to **Top Review IO**, and turn on notifications for more honest software reviews, business tools, and comparison videos that help you make smarter decisions before investing your time and money.\n\n#EmailMarketing #SmallBusiness #MarketingAutomation\n\nIf you found this video helpful, make sure to like, subscribe, and turn on notifications 🔔 so you never miss our latest hosting breakdowns and website speed tips.\n⚠️ Channel Notice:\nAll content on this channel is created strictly for educational and informational purposes only.\nWe follow YouTube’s community guidelines and do not promote harmful, misleading, or policy-violating content.\nYour safety and clarity always come first ✔️”",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "cGtCDgerxeA": {
-      "checkedAt": "2026-08-07T04:53:19Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Want to grow your affiliate marketing business with AI? In this video, you'll discover the best AI tools for affiliate marketing that can help you create content, write product reviews, generate social media posts, optimize SEO, and improve your marketing workflow.\n\nWhether you're a beginner or an experienced affiliate marketer, these AI tools can help you save time and create high-quality content more efficiently.\n\n📌 In This Video:\n\n✅ Best AI tools for affiliate marketing\n✅ AI content writing tools\n✅ AI SEO & keyword research\n✅ AI image and video creation\n✅ AI email marketing assistants\n✅ AI productivity & automation tools\n✅ Tips to improve your affiliate marketing workflow\n\n🚀 You'll Learn:\n\n- How AI can support affiliate marketing\n- The best AI tools for content creation\n- AI tools for SEO, marketing, and automation\n- Ways to improve productivity with AI\n\n💬 Question: Which AI tool do you think is the most useful for affiliate marketing? Share your thoughts in the comments!\n\n👍 If you found this video helpful, don't forget to Like, Subscribe, and turn on notifications for more AI tools, digital marketing tips, and technology content.\n\nWelcome to AIX — your source for AI tools, affiliate marketing strategies, automation, and the latest technology trends.\n\n🔑 SEO Keywords\n\nAI Tools for Affiliate Marketing, Best AI Tools for Affiliate Marketing, AI Affiliate Marketing, AI Marketing Tools, AI SEO Tools, AI Content Writing, AI Automation, ChatGPT for Affiliate Marketing, Claude AI, Gemini AI, Canva AI, AI Productivity Tools, Digital Marketing, Affiliate Marketing Tips, AI Business Tools, Artificial Intelligence, AIX\n\n📌 Hashtags\n\n#AI #AffiliateMarketing #AITools #DigitalMarketing #SEO #ChatGPT #Claude #Gemini #ContentMarketing #Automation #ArtificialIntelligence #Technology #AIX",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
@@ -6130,7 +6026,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-07T16:53:24Z",
+      "checkedAt": "2026-08-07T17:53:30Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6165,15 +6061,6 @@
       "description": "Republicans and Democrats both blame Trump's ties to the tech industry for his administration's limited response to recent hacks carried out by OpenAI and Anthropic's AI agents. Reuters Tech Reporter Courtney Rozen explains.\n\n#News #Reuters #Newsfeed #donaldtrump #techties #AIagents\n\nRead the story here:  https://reut.rs/45H9eZg\n\n👉 Subscribe: https://reut.rs/4b8fRGn\n\nKeep up with the latest news from around the world: https://www.reuters.com/\nFollow Reuters on Facebook: https://www.facebook.com/Reuters\nFollow Reuters on X: https://twitter.com/Reuters\nFollow Reuters on Instagram: https://www.instagram.com/reuters/?hl=en",
       "commentCount": 3,
       "likeCount": 28,
-      "probeClient": "web_embedded"
-    },
-    "6F8F1K4Eahs": {
-      "checkedAt": "2026-08-07T06:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Today, are some of the world’s leading AI companies doing enough to stop their models from going rogue?\n\nFacebook owner Meta has become the latest tech firm to say one of its AI models hacked another company. Similar breaches by OpenAI and Anthropic models have raised cyber-security concerns and prompted calls for tougher safeguards and more rigorous testing. Adam discusses with Professor Gina Neff, Head of the Minderoo Centre for Technology and Democracy at the University of Cambridge and Ciaran Martin - Former CEO of The National Security Centre.\n\nAnd the majority of England’s rivers and lakes have failed a new environmental review. Data from the Environment Agency shows only around one in seven are classed as being in good ecological condition. Despite a record £22bn earmarked for water company environmental improvements by 2030, the overall picture has changed little since 2019. Adam is joined by Environment Correspondent Matt McGrath.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n00:00 Are AI models actually going rogue?\n07:19 What are the AI agents trying to achieve?\n10:16 An analogy for why this keeps happening.\n13:13 What does this mean for normal people?\n16:24 What does this mean for AI governance?\n18:55 A new report on UK rivers and waterways.\n\n#AI #Politics #BBCNews",
-      "commentCount": 77,
-      "likeCount": 248,
       "probeClient": "web_embedded"
     },
     "_vgdPmOGs4M": {
@@ -6311,15 +6198,6 @@
       "likeCount": 208,
       "probeClient": "web_embedded"
     },
-    "9R7e2u0X-fo": {
-      "checkedAt": "2026-08-07T09:53:23Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔴 RUNNING DEEPSEEK V4 FLASH ON DUAL DGX SPARKS. ARR is at $251,759. Today we are getting DeepSeek V4 Flash running locally on 2 NVIDIA DGX Spark units — real local inference on real hardware. Can the newest open model hold up running on our own machines? We find out live.\n\nWe are also making forward progress on BridgeMind One and BridgeBench. The stack is Claude Opus 5, Fable 5, GPT 5.6 SOL, Kimi K3, DeepSeek V4 Flash, Claude Code, and Codex. The Summer Vibeathon is live with up to $15,000 in prizes — ship a product by August 31st and enter at bridgemind.ai/vibeathon.\n\nTHE GRIND RULES: Every like on this stream = +1 pushup. You hit the button, I hit the floor.\n\nStop typing. Start shipping.\n\nThe Journey to $1,000,000\n\nCurrent ARR: $251,759\n\nWhat We're Building Today\n\nDeepSeek V4 Flash on DGX Sparks — Getting DeepSeek V4 Flash running locally on 2 NVIDIA DGX Spark units. Local inference on our own hardware.\n\nBridgeMind One — Continuing work on BridgeMind One.\n\nBridgeBench — Shipping updates and making forward progress on the leaderboard.\n\nVibeathon — Live now through August 31st. Up to $15,000 in prizes. Enter at bridgemind.ai/vibeathon.\n\n\nLinks\n\nVibeathon — https://www.bridgemind.ai/vibeathon\n\nBridgeMind Community (Skool) — https://www.skool.com/bridgemind\n\nBridgeMind — https://www.bridgemind.ai\n\nDiscord (14,600+ Builders) — https://www.bridgemind.ai/discord\n\nBridgeBench V3 (Live AI Leaderboard) — https://www.bridgebench.ai\n\nViewCreator — https://www.viewcreator.ai\n\nX (Twitter) — https://x.com/bridgemindai\n\nYouTube — https://www.youtube.com/@bridgemindai\n\nTwitch — https://twitch.tv/bridgemindai\n\n\nWhat is BridgeMind?\n\nBridgeMind is a vibe coding platform — a fully integrated suite of AI-powered tools built to ship software faster through autonomous, multi-agent workflows.\n\nBridgeSpace — The best agent development environment for vibe coding. A cloud IDE built for multi-agent orchestration.\nBridgeVoice — Voice-to-text AI transcription for coding at the speed of thought.\n\n\nKeywords: vibe coding, DeepSeek V4 Flash, DeepSeek V4 Flash local, DeepSeek V4 Flash DGX Spark, DeepSeek local inference, DeepSeek, NVIDIA DGX Spark, dual DGX Spark, DGX Spark local AI, local inference, local AI models, local LLM, open source AI, run AI locally, BridgeMind One, BridgeBench, Claude Opus 5, Claude Fable 5, GPT 5.6, GPT 5.6 SOL, Kimi K3, Claude Code, Codex, Anthropic, OpenAI, Moonshot AI, Vibeathon, Summer Vibeathon, vibe coding competition, BridgeBench V3, BridgeSpace, BridgeMind, BridgeVoice, frontier model, model wars, vibe coding platform, vibe coding livestream, agent development environment, AI IDE, multi-agent orchestration, AI coding tools, agentic coding, build in public, live coding, indie hacker, SaaS founder, AI startup, vibe coding tools, learn to vibe code, autonomous agents\n\n#VibeCoding #DeepSeekV4Flash #DeepSeek #DGXSpark #NVIDIA #LocalAI #LocalLLM #ClaudeOpus5 #ClaudeFable5 #GPT56 #KimiK3 #ClaudeCode #Codex #Anthropic #OpenAI #BridgeMindOne #BridgeBench #BridgeBenchV3 #BridgeSpace #BridgeMind #Vibeathon #FrontierModel #ModelWars #AgenticCoding #AIIDE #BuildInPublic #IndieHacker #SaaS #StartupFounder #LiveCoding #SoftwareDevelopment #OpenSourceAI\n\n!discord !vibecademy !newsletter !event",
-      "commentCount": 5,
-      "likeCount": 495,
-      "probeClient": "web_embedded"
-    },
     "nHZwRo_KOnc": {
       "checkedAt": "2026-08-07T10:53:24Z",
       "embedAllowed": true,
@@ -6420,15 +6298,6 @@
       "description": "Artificial Intelligence is changing the software industry rapidly. Many developers worry that AI will replace programming jobs, but the reality is different.\n\nIn this video, I explain why software engineers should not fear AI and how to use it to become more productive. Learn the essential AI tools, practical skills, and technologies that every developer should know to stay relevant in today's IT industry.\n\n📌 Topics Covered:\n\nWill AI replace software developers?\nWhy AI is a tool, not a replacement\nGitHub Copilot for coding\nAzure AI services\nChatGPT for development\nCursor AI\nClaude AI\nGoogle Gemini\nAI for debugging\nAI for documentation\nAI for testing\nAI for code review\nFuture skills developers should learn\n\nIf you're a software engineer, fresher, or IT professional, this video will help you prepare for the future of software development.\n\n👍 Like, Share & Subscribe for more career guidance, software development tips, AI tutorials, and technology updates.\n\n#AI\n#ArtificialIntelligence\n#SoftwareEngineer\n#SoftwareDeveloper\n#ITCareer\n#Developers\n#Programming\n#GitHubCopilot\n#AzureAI\n#ChatGPT\n#ClaudeAI\n#GoogleGemini\n#CursorAI\n#Coding\n#TechCareer\n#CareerGrowth\n#DotNet\n#FullStackDeveloper\n#AITools\n#FutureOfWork",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "-EMKMPxJrWY": {
-      "checkedAt": "2026-08-07T12:53:26Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "[Sponsored by Tailscale] Use code 'bashbunni' for 20% off tickets to TailscaleUp on August 26th in SF | https://link.bashbunni.dev/tailscaleup\nTailscale is a secure, identity-first networking platform that lets teams connect devices and services across environments, without the complexity of traditional VPNs. (aka the GOAT)\n\nIf you want to write better software, check out this project https://elm-lang.org/\n\n⟡˖ My other corners of the Internet:\nhttps://twitch.tv/bashbunni\nhttps://github.com/bashbunni\nhttps://discord.com/invite/Y3vbKS4K9j (come hang!)\nhttps://mastodon.social/@bashbunni\nhttps://twitter.com/sudobunni\nhttps://bsky.app/profile/bashbunni.dev\n\nChapters:\n00:00 - Introducing Elm: A Functional Web Framework\n00:40 - From JavaScript to Functional Programming\n01:53 - Core Principles: Types, Purity, and Immutability\n03:43 - Sponsor: Tailscale Up in San Francisco\n04:21 - Building Reliable Software: Debugging and Design\n07:15 - Performance, Rendering, and AI-Generated Code\n08:37 - Deep Dive: The Elm Architecture (TEA)\n09:37 - elm vs typescript\n09:37 - The TypeScript Comparison and Community Governance\n12:28 - The Stability Debate: Is Elm 'Dead' or 'Done'?\n13:32 - Quick Comparison: Elm vs. HTMX\n14:03 - Why Learning Elm Makes You a Better Developer\n15:27 - The TEA Ecosystem: Inspired Frameworks\n16:25 - The Trade-offs: When Elm Isn't the Right Fit\n19:19 - Gleam: A Powerful Alternative to Elm\n20:39 - Final Hypothesis: Can Functional Programming Fix AI Code?\n\nthe case for functional programming\nfunctional programming is just better\ntry this if you want to write better software\n\n#bashbunni #softwaredevelopment  #functionalprogramming",
-      "commentCount": 97,
-      "likeCount": 858,
       "probeClient": "web_embedded"
     },
     "-IrWlbs3FGI": {
@@ -6892,6 +6761,86 @@
       "description": "Create 30 Days Worth of Content with Higgsfield 👉 https://higgsfield.ai?fpr=ai&fp_sid=thomas\n\nIn this video, I show how to build an automated AI content pipeline inside Higgsfield Canvas that creates consistent AI influencers, generates matching images and talking videos, keeps the same voice across every clip, and scales from five videos to a full month of content\n\nGrab The 30 Day Content Pipeline 👉 https://thomas-creates.kit.com/8c1843ac02\n\n✅ FREE Prompt Generator: https://www.videoprompt.studio/\n\nbusiness @thomas-creates.com",
       "commentCount": 1,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "HXzkdO7UbDk": {
+      "checkedAt": "2026-08-07T17:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 1,
+      "likeCount": 67,
+      "comments": [
+        {
+          "id": "Ugyw1bGuiFjX54Ru32N4AaABAg",
+          "author": "@Invictous_Ayush",
+          "text": "Windows main ab aayega should you make video on polsia ai tool",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T17:17:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/v0SQB7_CQ-5Eh0__b-AptG6P9oLPv9ixfoQEQzMjYkRrm3FcqBYWU8wInGihMdJFHOUTlnAQ3w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-07T17:53:30Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "zl5_PrTLWqs": {
+      "checkedAt": "2026-08-07T17:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What if money stopped being the most valuable thing in society?\n\nElon Musk recently argued that by 2036, AI and robotics could make many goods and services so abundant that money becomes far less important than it is today.\n\nHis reasoning is simple: today we pay high prices because human labor is limited. But if AI and autonomous robots can build homes, grow food, manufacture products, transport goods, and provide services at massive scale, scarcity could decrease dramatically. And when something becomes abundant, its cost usually falls.\n\nThis idea isn't unique to Elon. Former OpenAI researcher Daniel Kokotajlo's AI 2040 report also explores a future where advanced AI creates enormous economic wealth, potentially changing how governments, businesses, and society distribute resources.\n\nBut the biggest question isn't about money.\n\nIt's about meaning.\n\nIf AI performs most productive work, where will humans find purpose, identity, and fulfillment?\n\nIn this video, we explore one of the biggest long-term questions about artificial intelligence—not just what AI will build, but how it could reshape society itself.\n\n Do you think money will become less important in an AI-powered world? Share your thoughts in the comments!\n\nWhy Subscribe to BPro?\n\nAI is moving faster than ever, and understanding it is becoming a superpower.\n\nOn BPro, you'll discover:\n\n Latest AI news and breakthroughs\n AI tools that actually improve your workflow\n ChatGPT, Claude, Gemini & coding tutorials\n AI startup trends and business insights\n Open-source AI projects & GitHub repositories\nFuture technology explained in simple language\n\nIf you want practical AI knowledge not just headlines subscribe to BPro and stay ahead of the curve.\n\n New AI videos every week.\n\n#AI #ElonMusk #ArtificialIntelligence #Future #Technology\n\nelon musk, elon musk ai, elon musk prediction, money will become worthless, future of money, future of ai, artificial intelligence, AI news, latest AI news, AI future, AI 2036, AI 2040, Daniel Kokotajlo, OpenAI, ChatGPT, AGI, superintelligence, robots replacing jobs, AI replacing jobs, AI economy, universal basic income, future technology, future predictions, technology news, AI explained, what is AGI, what is artificial intelligence, how AI will change the world, AI automation, robotics, AI revolution, future of work, AI and jobs, AI business, AI trends, AI updates, tech news, machine learning, generative AI, economics of AI, abundance economy",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-07T17:53:30Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "mZU0KZ7Kc7k": {
+      "checkedAt": "2026-08-07T17:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🐝 Join the community where all of this is running: https://mrc.fm/cmc\n\nI built a local AI cluster out of Macs I already owned, and my AI agents now run for free, with no API key and no bill. This is Buzz Shared Compute: run an LLM locally, share it with your community, and point your AI agents at a machine in someone else's house instead of OpenAI or Anthropic.\n\nEverything here runs on a Mac Studio M3 Ultra, a Mac mini and a MacBook Pro: a local LLM cluster, self-hosted AI, zero cloud spend. Underneath it is the open-source MeshLLM project, which Block shipped into Buzz at the end of July. I show the full setup end to end, then the catch nobody mentions: the person whose machine answers your prompt can read what you sent it.\n\n⏱ CHAPTERS\n0:00 Answer From the Next Room: No API Key, No Bill\n0:31 What Buzz Shared Compute Actually Is\n0:47 Three Ways to Share Compute: One Model, Mixture of Agents, Split a 1T Model\n1:28 Where Your Prompt Goes: Relay vs Peer to Peer\n1:59 The Privacy Catch: They Can Read What You Send\n2:29 How to Turn On Share Compute in Buzz\n3:05 Which Local LLM Your Mac Can Actually Run\n3:31 Create an AI Agent With No API Key\n4:26 Proof: A Local LLM Answers Inside a Channel\n5:01 Adding a Second Mac to the Cluster\n5:36 Running Llama 3.3 70B on a Mac Studio M3 Ultra\n6:11 First Look: The New Shared Compute Sidebar\n8:11 Gaming PCs, Home Labs and Old Macs Joining In\n9:06 Three Things That Will Bite You\n10:20 Should You Turn It On?\n\n🖥 THE HARDWARE IN THIS VIDEO\nMac Studio M3 Ultra 256GB · Mac mini · MacBook Pro M1 Max 24GB\nModels: Gemma 4 26B, Gemma 4 E4B, Llama 3.3 70B\n\n⚠️ THREE GOTCHAS\n1. Sharing is Mac only at time of filming. Windows and Linux can use the pool but not lend to it. Check your own build.\n2. There's an open bug where the toggle sits on \"starting\" forever.\n3. Don't pick the biggest model your machine can hold. Take the recommendation. Reasoning models burn tokens thinking and your agent feels sluggish.\n\n🔗 LINKS\nJoin the community: https://mrc.fm/cmc\nBuzz: https://buzz.xyz\nMeshLLM: https://github.com/Mesh-LLM/mesh-llm\nBlock on Shared Compute: https://engineering.block.xyz/blog/buzz-sharing-compute-powered-by-meshllm\n\nWhat machine have you got sitting around doing nothing? Gaming PC, old Mac, server under the stairs. Tell me in the comments and I'll tell you what it could run.",
+      "commentCount": 12,
+      "likeCount": 39,
+      "probeClient": "web_embedded"
+    },
+    "M3gHlwHKsBI": {
+      "checkedAt": "2026-08-07T17:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👉 Access our AI Architects course & join hundreds of serious AI builders in our community: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=agent-plugin-standard\n\n🔗 Agent Plugins\nSpecification: https://agent-plugins.org/specification\nCompatible clients: https://agent-plugins.org/compatible-clients\nExample repo (this is the one with the migration skill): https://github.com/agentplugins/agent-plugins-example\nAnthropic's knowledge work plugins (the one migrated in the video): https://github.com/anthropics/knowledge-work-plugins/tree/main/legal\n\n🔗 The announcements\nVercel: https://vercel.com/blog/introducing-agent-plugins\nGoogle: https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/\nAWS: https://aws.amazon.com/blogs/opensource/aws-supports-agent-plugins-an-open-standard-for-portable-agent-extensions/\n\n🔗 Plugins you can look at today\nAWS Agent Toolkit: https://github.com/aws/agent-toolkit-for-aws\nVercel's own plugin: https://vercel.com/docs/agent-resources/vercel-plugin\nPlugins in ChatGPT and Codex: https://learn.chatgpt.com/docs/plugins\n\nThe skills you have already written don't have to stay locked to one coding agent. A new open standard called Agent Plugins lets you bundle Agent Skills and MCP servers into a single folder that works across Codex, ChatGPT, Cursor, GitHub Copilot, Kiro and VS Code, with Google joining more recently.\n\nA plugin under this standard is just a directory. Your skills folder, exactly as you already have it, a plugin.json manifest, and an mcp.json where your MCP servers live. That is the portable core, and it is a much simpler file structure than you would expect from a spec with this many big names on it.\n\nThe part to be clear-eyed about is what doesn't come along for the ride. Only skills and MCP servers travel. Commands, hooks, agents, rules and LSP servers all stay client-specific and get buried in a namespaced folder that other clients skip. That is likely to be the biggest criticism of the spec, though the reasoning is that those pieces are still too tied to individual tools to pin down, which is fair enough.\n\nThere's one big name absent here, and that's Anthropic. Anthropic isn't a maintainer, Claude Code isn't a launch client, and they haven't said anything publicly about it. So in this video I take Anthropic's own legal knowledge work plugin, point Codex at the migration skill in the first-party example repo, and port it over to the new standard, then run one of its skills from a completely different project.\n\nI also cover the awkward bit, because installing one of these locally was harder than it should have been. Codex and Cursor both expect plugins to arrive from a marketplace, so this doesn't feel as portable as just dropping a skill into a project. The standard defines the folder structure that travels between agents. It doesn't define how those plugins get distributed or loaded. And the usual disclaimer applies to any externally sourced plugin: only use ones from reputable sources or ones you understand well.\n\nWhether it lasts comes down to adoption, and I think it's a very positive move to have some consistency between agents so you can jump back and forth between them. It's simple enough to get picked up widely. If Anthropic started using it, that would be practically guaranteed, but there's a good chance we end up with one format for Anthropic and another for everyone else, the way Claude Code uses CLAUDE.md while nearly every other agent uses AGENTS.md.\n\n⏱️ Timestamps:\n\n0:00 Intro\n0:56 A plugin is just a folder\n1:50 What travels, what stays client-specific\n2:30 Migrating an Anthropic plugin to the new standard format\n3:46 The install problem\n4:50 Will this standard last",
+      "commentCount": 1,
+      "likeCount": 12,
+      "probeClient": "web_embedded"
+    },
+    "4emJCTXpfR4": {
+      "checkedAt": "2026-08-07T17:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "✅ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44\n\n✅ Best AI Agent tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent15\n\nIn this video, I break down the $3 AI agent that replaced my $200/month setup and how you can use similar systems to automate tasks for less. You’ll get AI agents explained in a simple way, learn how modern AI agents work, and discover practical workflows through an AI agent tutorial. Whether you're looking for AI agents for beginners, exploring how to build AI agents, or learning how to create your own AI agent, this guide will show you how to use affordable AI automation tools and build smarter systems without expensive subscriptions.\n\n00:00 - Intro: Why the $200 Monthly Software Stack is Broken\n01:08 - Free AI Masterclass: Build Profitable AI Agents & SaaS\n01:40 - Analyzing Software Sprawl: Why fragmented workflows fail\n03:27 - One System, One Outcome: The Strategy of Autonomous AI\n05:05 - Custom AI Agents vs. General Software Platforms\n06:07 - Base44 Tutorial: Building Super Agents without Code\n07:14 - Model Selection: Locking in Claude Opus 4.8 for Consistency\n08:11 - Build Phase 1: Defining Roles for AI Research Assistants\n09:13 - Tool Integration: Connecting Google Sheets & Docs via Base44\n10:20 - Workflow Logic: Setting Multi-Step Guidelines for AI Agents\n11:26 - Persistent Memory: Enabling AI Context Across Sessions\n12:23 - Live Demo: Executing the $3 Research & Reporting Agent\n14:10 - Testing Memory: How the AI Built on Previous Work\n14:57 - Cost Analysis: Replacing $200/mo Subscriptions with AI\n16:12 - Replacing Note-Taking Apps with Persistent AI Memory\n19:55 - Why Integrated AI Workflows Deliver Superior Quality\n21:09 - Conclusion: Reducing Software Friction with Custom AI",
+      "commentCount": 5,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "lC0EK8RCwxk": {
+      "checkedAt": "2026-08-07T17:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "For years, the crypto industry's biggest challenge has been finding users beyond traders. Now, some of its biggest companies have a new target: AI agents. While crypto is still largely driven by speculation, companies are betting AI can become a second growth engine by turning AI agents into users of crypto wallets, stablecoins, and blockchain payment networks.\n\nReporter: Tanaya Macheel\nProduced and Edited by: Jeff Huang\nAnimation: Jason Reginato, Emily Park\nManaging Producer: Anuz Thapa\nSenior Director of Video: Lindsey Jacobson\nAdditional Footage: Getty Images\n\n» Subscribe to CNBC: https://cnb.cx/SubscribeCNBC \n» Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision  \n\nAbout CNBC: From 'Wall Street' to 'Main Street' to award winning original documentaries and Reality TV series, CNBC has you covered. Experience special sneak peeks of your favorite shows, exclusive video and more. \n\nWant to get ahead at work? Then you need to learn how to make effective small talk. In CNBC’s new online course, How To Talk To People At Work, expert instructors teach you how to use everyday conversation to gain visibility, build meaningful relationships and advance your career. Sign up now: https://cnb.cx/4sGlSkh\n\nConnect with CNBC News Online \nGet the latest news: https://www.cnbc.com/ \nFollow CNBC on LinkedIn: https://cnb.cx/LinkedInCNBC \nFollow CNBC News on Instagram: https://cnb.cx/InstagramCNBC \nFollow CNBC News on Facebook: https://cnb.cx/LikeCNBC \nFollow CNBC on Threads: https://cnb.cx/threads \nFollow CNBC News on X: https://cnb.cx/FollowCNBC \nFollow CNBC on WhatsApp: https://cnb.cx/WhatsAppCNBC \n \n#CNBC\n\nWhy Crypto Is Betting Big On AI Agents",
+      "commentCount": 63,
+      "likeCount": 146,
+      "probeClient": "web_embedded"
+    },
+    "8vUCjYsWeSU": {
+      "checkedAt": "2026-08-07T17:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Thanks to ‪@NVIDIADeveloper‬ for DGX Spark. Check it out here:  https://nvda.ws/3XIkwsh \n\nPrime Agent: Why AI Harnesses Matter More Than Models (IPython Kernel, ARC-AGI3, DeepSeek on DGX Spark)\n\nIn this video, I explain why AI harnesses are becoming more important than the models themselves, and I break down Prime Intellect’s new “Prime Agent” approach that replaces traditional JSON tool menus with a single IPython kernel. I cover how this recursive language model design keeps context “outside” the prompt in kernel memory, snapshots state to disk, and uses recursive sub-agents plus a self-improvement notebook that updates every 25 turns. I discuss the big ARC-AGI3 jump (including comparisons to OpenAI harness settings and Claude Opus 5), why the 95.5% result is self-reported, and concerns about benchmark cheating and reward hacking (including a Factorio admin console example). I also demo running DeepSeek V4 Flash locally on a DGX Spark cluster and share early internal harness comparisons on tokens, calls, and tool usage.\n\nLINKS:\nhttps://www.primeintellect.ai/blog/prime-agent\nhttps://github.com/PrimeIntellect-ai/prime-agent\nMy Blogpost: https://engineerprompt.ai/writing/\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com/courses/rag\nSignup for Newsletter, localgpt:\nhttps://tally.so/r/3y9bb0\n\n00:00 Harnesses Matter More\n00:40 Prime Agent Harness\n01:39 Why Harnesses Lag\n03:42 One Tool IPython\n04:59 Recursive Language Model\n06:05 Context as Variable\n07:54 Recursive Subagents\n09:03 Self Improvement Notebook\n10:34 Critiques and Caveats\n12:08 Local Setup Demo\n12:56 DeepSeek on DGX Spark\n15:02 Pokédex Test Run\n17:30 Benchmark Comparison\n19:24 Wrap Up and Links",
+      "commentCount": 20,
+      "likeCount": 201,
       "probeClient": "web_embedded"
     }
   }
