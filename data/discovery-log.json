@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T19:53:27Z",
+  "updatedAt": "2026-08-07T20:53:28Z",
   "items": [
+    {
+      "id": "2pqwu41UdJU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Modern Software Engineering",
+      "publishedAt": "2026-08-07T18:53:28Z",
+      "firstSeenAt": "2026-08-07T20:53:28Z"
+    },
+    {
+      "id": "ZAom6f4-vh0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dan & Jun",
+      "publishedAt": "2026-08-07T17:53:28Z",
+      "firstSeenAt": "2026-08-07T20:53:28Z"
+    },
+    {
+      "id": "JZuUyjmF5rg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Genie Ashwani",
+      "publishedAt": "2026-08-07T14:53:28Z",
+      "firstSeenAt": "2026-08-07T20:53:28Z"
+    },
+    {
+      "id": "Yh4eL60Ncxs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Boundary",
+      "publishedAt": "2026-08-07T14:53:28Z",
+      "firstSeenAt": "2026-08-07T20:53:28Z"
+    },
+    {
+      "id": "xEBSV-M-qFk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "JavaScript Mastery",
+      "publishedAt": "2026-08-07T12:53:28Z",
+      "firstSeenAt": "2026-08-07T20:53:28Z"
+    },
+    {
+      "id": "S4hxaTPBPls",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-07T07:53:28Z",
+      "firstSeenAt": "2026-08-07T20:53:28Z"
+    },
     {
       "id": "H86StfGSEgk",
       "type": "long",
@@ -10969,6 +11017,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-07T20:53:28Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }

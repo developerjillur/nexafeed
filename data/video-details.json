@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T19:53:27Z",
+  "updatedAt": "2026-08-07T20:53:28Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -3880,268 +3880,379 @@
       "probeClient": "web_embedded"
     },
     "-05RlqnjOTM": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment “Claude” for the book to skill repo link and 70+ Free Claude Code Guides/Templates\n\nYou fed Claude a PDF and it made up half the answer.\n\nNot your fault.\nRaw books hallucinate.\n\nHere’s the thing.\nBook to skill fixes it.\n\nPoint it at a book you own.\nIt builds a real skill from the source.\n\nLoad it, ask your question, Claude pulls the right chapter and quotes it.\n\nEvery Hormozi framework, one command, any session.\n\nThat’s the unlock, fam.\n\n#ClaudeCode\n#AItools\n#AIAgents\n#Automation\n#BuildInPublic",
-      "commentCount": 2,
-      "likeCount": 12,
+      "commentCount": 8,
+      "likeCount": 178,
       "comments": [
         {
           "id": "UgxY7huMFehLryKvDLh4AaABAg",
           "author": "@charlieautomates",
           "text": "🚨🚨 Free Resource and Repo Link attached here: https://charlieautomates.com/free-resources/#book-to-skill",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:20:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
-          "id": "UgyxXPGU3I50vjm2gcJ4AaABAg",
-          "author": "@AlexandreNascimento0",
+          "id": "Ugzv7PvGHW6d3W-5P8x4AaABAg",
+          "author": "@taketesh1592",
+          "text": "Coaude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lcn0TQlcsBNxeDWUjb5jDmoGljOszBUo_Ys4pdjyp1VuI=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy2Um5G7DwvAH6aZrR4AaABAg",
+          "author": "@derfy4u",
           "text": "Claude",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:45:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nuoK8CQh3RI5DGuEOFQB_BoRVyprp_NPlcaG4AbXjA7e9z=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lo4EE5Vqt3sNxgEDit5fTmqre_PcCyCI5R30UcyiT5qTA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwPVq1-TX023q_bY7J4AaABAg",
+          "author": "@akkintouch",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_npTKDKadAIVVFcci-rmZLc9VXyQWEFYzFMjjvawGKGbaFu=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwnj_cX6Y2iFfWOGIV4AaABAg",
+          "author": "@gordonhealis9998",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mlD7MCVC2rQLY_oyFj7V30yV7KI87ZVEt1iVYhCZ-dJNH7=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzFOKWUvOdT5ykmMGV4AaABAg",
+          "author": "@matias01melam",
+          "text": "CLAUDE",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m8FneOhwspb7Rnzv69uK_nzdV4fgTXskcagAVQ6U0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzTZxcwqt_mV5ripKR4AaABAg",
+          "author": "@spicemeshop",
+          "text": "CLAUDE",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/AHPyDiTeYBlontIA-6rRsnMtZUOvLNvRnKY37K9pqOf2-n_CgHHWcKiioNmnoTPa4xaqfWhB=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugze6qouuCmlWAsi7R14AaABAg",
+          "author": "@spicemeshop",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/AHPyDiTeYBlontIA-6rRsnMtZUOvLNvRnKY37K9pqOf2-n_CgHHWcKiioNmnoTPa4xaqfWhB=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "1KTnT5q4nPE": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "You can now use Claude Code... almost completely FREE.\nSeriously.\nSomeone on GitHub just built a tool called OmniRoute...\nand it connects Claude Code to 200+ free AI providers.\nThat means you get access to up to 1.6 billion free tokens every month.\nBut here's the best part...\nWhen you hit Claude's usage limit...\nyour session doesn't stop.\nOmniRoute automatically switches to the next best AI model...\nso you can keep coding without interruption.\nAnd it gets even better.\nIt compresses your prompts before sending them to the AI...\nreducing token usage by up to 90%...\nwhile giving you virtually the same output.\nIf you want to try it yourself...",
-      "commentCount": 1,
-      "likeCount": 206,
+      "commentCount": 4,
+      "likeCount": 933,
       "comments": [
+        {
+          "id": "UgyOBV5mRpCUIOTBYf54AaABAg",
+          "author": "@kingsleydcosta5648",
+          "text": "Bro I'm new to GitHub, can you suggest something that I can build with it with Ai which is simple and completely free?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kvK1N5uJ2jMHtbK-1c_LrTuTs6-_94CSXn7bmy-Di8wQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxe4Sh38QuApKgwIr14AaABAg",
+          "author": "@rsiva871",
+          "text": "OmniRoute installation guidelines please",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lXjrSFS7sdB1Kq6MW3KRQQOPSWiD_yahtW42zdWwxwYec=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyrAE-98YbxUUi20Hh4AaABAg",
+          "author": "@Agnimitra-h6e",
+          "text": "Idiot guy having trouble to speak as well",
+          "likeCount": 0,
+          "publishedAt": "2026-08-06T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/zOVzOqH0NFiEmxXJwPMZ_JfkV_WuTEQWMfUQNY4VWidKc8jS1RYC8Q-g73nfXjg-TDYkU6OQRUw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgxlLCNsMWOdhMM_EbF4AaABAg",
           "author": "@User1.1s1",
           "text": "Really good content man, keep it up ❤❤\nLuv ur vids",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T19:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ls05GlP4-DsvOy8revtK45pPgUL1kFgh4LGuYfvV-O3nyWoRp3CJzDqI8Ctf7Dywg_LQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "lKs6Gl_dX8w": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 8,
-      "likeCount": 925,
+      "likeCount": 2710,
       "comments": [
         {
-          "id": "UgwncpizXuz3DnPqboN4AaABAg",
-          "author": "@AmaX29",
-          "text": "Sword art online... Is not so far",
+          "id": "Ugxr1a72ZRulM6hgEIt4AaABAg",
+          "author": "@TheMith1990",
+          "text": "I think YT algo already does that, whatever I think same video or ad is shown even when I'm alone for days!",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:26:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nNDjDQEyo3s0wukT81USkPtec0pOoULvAggebVh_x0=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l7nsJw7ZG88Ft3hGtStSNQq9Zj2lIXOBjHcAoE5W5eLgSQb1DV2lr7jrN4KhRHdqW_uWw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugy5LVfLXzofdKtgjzN4AaABAg",
-          "author": "@sun_beam_1998",
-          "text": "Hahahah. Initially they utilized our attention & time, so they know about us more now they want to hijack our thoughts. Good keep it up. We are all experimenting rats the big companies can do this by giving us free access trap.",
+          "id": "UgxixxY47vXo2Cwt5tp4AaABAg",
+          "author": "@siddharthmukkanawar4510",
+          "text": "This is what I imagined  should happen , think something in your mind  and it's typed ...wow it become true",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:14:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/GVd7BqQHgjJKWPTEGkljWeeYOxc-Xqa4RgPM93TQJDKFLawEgfO-mm0Dr4qir1ae82SsDSCQXxA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n54Q6BxiArpdqPWvNAmfRzDSMBpzbwLtV3Y1KDDSdQ6Ig=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugx1SjRVxhXNPKAMSoF4AaABAg",
-          "author": "@jatinbhatodara1946",
-          "text": "Thought prompting coming soon 😮",
+          "id": "UgygFTCqucZY3VkBEK54AaABAg",
+          "author": "@MASKM333",
+          "text": "Big hero 6 irl",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_klb6i9fzuO6ApWCojCjcVz4L3RbGhfDMmTsyWunBONtQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/3IjblV4g8fqte1CyOIRLmR4pOn2ry1jFye95lzUhNYr7ldKP5HbW5hW2E-3ZURKgB7VFyoWMU3I=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxbxBe3xkyhaVI6A654AaABAg",
-          "author": "@nasatingsdotcom",
-          "text": "infact that we think massively fast but our fingers type 40 words a min But still for mass consumers , how you are gonna speed up the computers or ai to process that fast",
+          "id": "UgzLspPlnNe_jAL_3eR4AaABAg",
+          "author": "@manideepguntha3113",
+          "text": "Then we won't be able to think of weird thoughts (and situations that never happen) even in our minds. Or on the upside, we would learn how to control our thoughts and mind and become yogi😅",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T19:56:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Zcq9mW-F2eIUlnSSD1IuvTwbHJbRzOwyyCxyex1b-7u9p3QXxNdfvCjsrv4msWT_NIEjVaLX9Q=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kVe1UvB4M1VRyXw9vKBBs11CN-twHHK-6fCrSL_GH5GmE=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyXB_X88k9UniMAldZ4AaABAg",
-          "author": "@mixedorange",
-          "text": "I have a feeling this will make \"lazy\" people even more non productive. \n\nLike a lot of people have started depending completely on autocorrect, AI apps for school/uni projects, even for simple messages, etc. Instead of actually trying to improve their skills.\n\nThis kind of tech will be really good for the talented, ambitious, hard working people. But a massive bane for the stupid. \n\nCertainly a \"boon or bane\" topic",
+          "id": "Ugx-lk2b_5dueZPHgAF4AaABAg",
+          "author": "@silentghost9710",
+          "text": "i think so one of the problems will be the privacy of thought, what if my thought goes some where private stuff that i don't want the model to be trained on",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lIkbYSU27XHUCNbWGXi1P8OpfXVMqzo7vw3jxIBlhwdg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/FfBuvOWm79ErF1cnfGN4E0J94-dOrcz4-ioO0y62PinxCxYZ38JViy-8znGsMbCiHvwj4-0saw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugzdb99W7VYS__yqisR4AaABAg",
-          "author": "@ChakkaYashwanth",
-          "text": "Wow u just solved 'Hard problem of consciousness' that object is basis for all subjectivity. They might as well apply for 2027 Nobel Prize 😂😂",
+          "id": "UgwAP66ZSOliBIPNSE14AaABAg",
+          "author": "@CodevraX",
+          "text": "It is guaranteed that non invasive neurotechs can't achieve more than 85% accuracy",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_md-eExeQ9us0hulxCZkHCntc5cXboJONRP_4_azDklgV0=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/KfJfsP2JkZ9SVrp46wuU1Dff0mgnLZguANaaz6fcmDzVvj0PtRql95TrFSw0ubVC2ZNqhbUm=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyPp3SYrAhaHdrod5J4AaABAg",
-          "author": "@dakshkumard5241",
-          "text": "Didnt think Thalapathy would be real.",
-          "likeCount": 1,
-          "publishedAt": "2026-08-06T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/W2WLOUlxeesfa-Zfkxi0wHk0MI0kv3m1-NrO4n9BsMOyDrmahzyd07kwZSF7YB2ufVMKa73y1g=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgzXrocRxkSbgI5NmOV4AaABAg",
+          "author": "@souravkar2004",
+          "text": "Intersting ❤",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/SRIgr2GvnFVjGycHxxii6jkKU3robCl1x5VEfaZwWjwvjpnyPv_aRcQtIMt-AE7QpVqLOewCW5E=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwnpC177ij94ZhdNPN4AaABAg",
-          "author": "@soumyajitsarkar4614",
-          "text": "People will forget to speak now, just like their ability to think and write",
-          "likeCount": 24,
-          "publishedAt": "2026-08-06T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mRW4Ty41lX68uyLS44kS1Bu-9S0_7-pnm1GMa30Oh_mZ0=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgxBylRUNVFg3h9h75R4AaABAg",
+          "author": "@Michallover",
+          "text": "Lol. What could possibly go wrong?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nqspzk6GUs-YwA5KC_qr8kx8BpaxgR3u2djb6ZFCs=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "NClayXM8pU0": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Walrus Memory gives your AI portable memory, so Claude, ChatGPT, and your other agents can all share the same context. No starting over, no repeating yourself. It's encrypted and fully under your control, so you decide exactly what each model can access. \n\nGo to my Instagram, DM me the word \"MEMORY\" and I'll send it over.",
       "commentCount": 8,
-      "likeCount": 209,
+      "likeCount": 876,
       "comments": [
         {
-          "id": "UgwIIY_KlxuWCpjklit4AaABAg",
-          "author": "@tabletopleads2024",
+          "id": "UgwPP98FBKwOwMpIZKZ4AaABAg",
+          "author": "@alirezamirataei1246",
           "text": "Memory",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:54:03Z",
-          "authorThumbnail": "https://yt3.ggpht.com/G_UV_cP7I3PYo8wL_9qSryekXXcLKVOBPCBOiYEean1HIZS9eCGx0Bli_aBiNsTRBIUqQD9cDA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T20:49:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_llJ99lPbtfqIXDwgk_7iI1_aFX_TODaOKee-_lj5LUjg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxA0p8KCQyBcJ590EJ4AaABAg",
-          "author": "@MshLvy",
+          "id": "UgzWR-59rxU46NhNdUF4AaABAg",
+          "author": "@nunoogaming",
           "text": "Memory",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:46:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m5evfCF_YxC_lDCZai6PdDPi8RLB_PVhrL3a1ARTLFBM2x9-KClsWFWW2FfUzwIrVBkQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/onsZNX2T5oGGROiGewvIYsrwfqZVbg6aqIj_jyKC5rLLAKjzdgD7fpk6Eqf862Z4gGgyOhaenw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxQ5kzc95_NdQQj18t4AaABAg",
-          "author": "@TaylorTresselt-w9k",
+          "id": "Ugygcuj2J-DpRM38RJB4AaABAg",
+          "author": "@arturoponcedeleon2695",
+          "text": "Memory",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mQ6KPbmktnrhPJwJXOA00OSu1TJWOtL0_mDMgayXc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyTe8s1DPJ3rRdvuGt4AaABAg",
+          "author": "@benstone3973",
+          "text": "Memory",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lrQ3-DxqHi6W8Zhz42ZdmQmzoy_vjtVI1FaQlOJ5pQ8faT=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwVop8eXPWyKS6K9aV4AaABAg",
+          "author": "@Amr-Elsayed111",
           "text": "MEMORY",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:30:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nsrz4zSg5dCaCCnEm7_KS4-_Sfa1doGWI7EyxUDUrudZ1ahvhxsdDwvXeOce18W0Drwg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nVrnePQGO9OQZF08foXt0i8u28ims3bC_bLQT3KCghy0M=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwClwftRsEjsg0W_JZ4AaABAg",
-          "author": "@tlwn5196",
-          "text": "Bs, ive had codex read claudes memory for ages",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T20:30:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k6kmn7cBxVjb-WQkOQlyVQgyVoTNvNbj6EBOTviNU=s88-c-k-c0x00ffffff-no-rj",
+          "id": "Ugz8yCrI2aPTzhKW6t54AaABAg",
+          "author": "@MircoBlumenthal",
+          "text": "Don't jump models, just use one, you're not that kind of guy.",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/6mlzKPhTs0lKl-IyT3SUYEPh1txhoIncHde4MKfKxwp-1bEQLyktn7Vps0KqJ163eY8_KLVwdw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugxg-T4hIf3KQtqbJCJ4AaABAg",
-          "author": "@MohdRashidKhan",
+          "id": "UgyVurs55qbL3_9EcPJ4AaABAg",
+          "author": "@carmenolmedofelizcasisiempre",
           "text": "Memory",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:08:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kzSte2Kqy9radzzFW_-8w_96-UGscynFa-zK86nwQV9nQr=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/G-4gFPLuBzOXbrHL_HbzWrZ0z4S2342qALZmKJYrZNivi8hP_eMFQLbChs2THebx_X_lxWrGQD4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugy82re5DgdHjc13mIh4AaABAg",
-          "author": "@Abdiiofficial-y9g",
-          "text": "MEMORY",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/v8u57SKPjJqfKQS42ctOGrnKXGXsEqe0v1BulYIka1f67z-PK6hTaxgPX6oDRZzLxM9tSU5gLYo=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwE8zXAR40eciKLpsB4AaABAg",
-          "author": "@aditya.yadav24",
+          "id": "UgxIYk1LfMZvHs8h7lp4AaABAg",
+          "author": "@dawaynecleckley8673",
           "text": "Memory",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nLOZiVoOnOY9sRG6PEfbeJQZgNEc94Ld_-R0YhapW-QHpFlNNHtQIwpPu8VJKX5wVYKg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzLANHysPWFXQNigs54AaABAg",
-          "author": "@SuperMarioAIPro",
-          "text": "Memory",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/x9vVXTIV5DcJOM3rEkHMdABdVL6D85BSi4LuIYxNSMPfi8SjxbJ1gjWn6YU6iDLkqf0SR2ykVQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lkMTTlsjDDJjBRFTNrUINB-dSOFHgVdhOvuRu0R6bCs7c=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "s8Cuc8_KOSY": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 22,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentCount": 2,
+      "likeCount": 118,
+      "comments": [
+        {
+          "id": "UgzymxHk8_CnOI4XOBx4AaABAg",
+          "author": "@TommyWalker1",
+          "text": "Glad the algorithm recommended you because I've been binging your videos. I'm working on a massive project right now and I'll start on Saturday and max out on Wednesday (I'm on the 200 plan) \n\nYour caching video prompted me to redesign my memory structure, and while it's not implemented yet, I have a feeling it is going to be so much better.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k8OFQJ5Xn7VmMj9I1Ff6-x36Nho64YyA4y05tdTVs8q1AC=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx3dz50I6UQLNRU35h4AaABAg",
+          "author": "@lazarov729",
+          "text": "So much Token lol :D",
+          "likeCount": 1,
+          "publishedAt": "2026-08-06T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/JmfFU9-ggxHUVwEXsVuFhuD1hzo4TyC7YJ0Ry-mXGTNGIiezBSjix2ofrq3RdUFqnqFgm7Pwsw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "PvjmBSjsT-Y": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment BUZZ and I'll send you the link.\n\nJack Dorsey just dropped a free open-source replacement for Slack and GitHub, and AI agents sit in the channels right next to people. It's called Buzz, built by his company Block. You hand a task to an agent in the channel like a coworker, and it breaks it down in the thread, passes part to another agent, and opens a pull request. Claude Code and Codex already run inside.\n\nHere's the clever part: every agent carries its own cryptographic key, so you can always see which human is behind each thing it does. Slack bots can't do that. It's free, open source, and you can self-host it.\n\n#AI #opensource #Slack #GitHub #agents",
       "commentCount": 0,
-      "likeCount": 3,
+      "likeCount": 11,
       "comments": [],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -4155,19 +4266,49 @@
       "probeClient": "web_embedded"
     },
     "FuCul8aD-Xo": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 2,
-      "likeCount": 81,
+      "commentCount": 5,
+      "likeCount": 350,
       "comments": [
+        {
+          "id": "UgxE9E75h9mSlkMgzDp4AaABAg",
+          "author": "@B-MAN421",
+          "text": "Others : 😒👎\n\nFreelancers : 🥹🔥\n\nContent Creators : 😲😱🤯🔥",
+          "likeCount": 2,
+          "publishedAt": "2026-08-07T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nSY3SKVIB-lh59yGyZKnSBMStdyKAx-ey6Y__AoaVIck-hLXmMGqnd_XiRQfZveTs5Jg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwNt4TFyjx9jHkB33N4AaABAg",
+          "author": "@MartianAcademyOfficial",
+          "text": "AI Jindabad 😅😅😅😅",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/u7vmUOwcs0ojpCzJtqkH86phlIESaDeqYFqpwASvl42lbL77_A3IvJET_WtmOFxthZs8FyGjWw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxephiTSBg2dwQaVy54AaABAg",
+          "author": "@LaxmanMurmu-x6h",
+          "text": "No one cares about ai filmmaking",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nZhB8D-pmLw0DqfYYSJFmO6XZZYdn3UbwQeS1q0z1D58l2icD3fRIfUNwuWHdj8M2-MA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgzBMYoqAlyIBoz3smt4AaABAg",
           "author": "@the_echoing_dark9000",
           "text": "Literally who cares about AI film making",
-          "likeCount": 1,
-          "publishedAt": "2026-08-06T18:00:00Z",
+          "likeCount": 4,
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/VXYv6L1PDmuqD9ppRinzoObQ_FSt0JzIzWRW5N8WN-jWlFmpsSKGjE94806Gbxqx0Zu1J-DO=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4177,65 +4318,85 @@
           "author": "@Scorxop",
           "text": "❤❤",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T16:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/9Eh5GRXbZcogDQESAC33mPsk1en33EsOSY-X_8O2KOet2_FbNk-zF3QiMOSa1e3v3rAAMpwUTw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "OlZk1OPvAHU": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 1,
-      "likeCount": 231,
+      "commentCount": 3,
+      "likeCount": 712,
       "comments": [
         {
           "id": "UgwbJpvtqeowuRtWX-Z4AaABAg",
           "author": "@100xEngineers",
           "text": "LINKS:\n\nhttps://bytez.com/models\n\nhttps://openrouter.ai/models?q=free\n\nhttps://build.nvidia.com/models",
           "likeCount": 2,
-          "publishedAt": "2026-08-06T14:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/lmQHSNqoTiUYSQmAD6ddVNxeMLwuezSj7JGn681txsIgDlDnHZrQU-JDaUSzGiSwnSZS7gFS=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "Ugx7xjC91B_mJhX6T754AaABAg",
+          "author": "@asrakhan2681",
+          "text": "can you share the github repo",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_miW0_VvhuDT-z5cg-0GqlJIrC_7ErIta9_8t_enDsK6Ao=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwKn6viHeGsBGTEZTt4AaABAg",
+          "author": "@DevSharma-ez1gx",
+          "text": "all not free",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nSiZ0Fdr-TS1iDdYGMqGH3WpirOzHiZ2nuRashGWhqznbO=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "VJvIZr53sEU": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "What if your ChatGPT or Claude conversation wasn't as private as you thought?\n\nA recent discovery by a Reddit user revealed that some shared Claude conversations were appearing in Google Search, raising important questions about AI privacy and how shared chat links work.\n\nHere's the important distinction:\n\nWhen you create a share link for an AI conversation, it may become a public webpage. If that page is discoverable, search engines can potentially index it. Many users don't realize this and have unknowingly exposed sensitive information such as:\n\nAPI keys\nCrypto wallet details\nInternal company discussions\nPersonal documents\nLegal conversations\n\nIn this video, we explain:\n\nWhy shared AI chats can become public\nHow AI share links work\nHow to unshare old conversations\nBest practices to protect your privacy when using ChatGPT and Claude\n\nIf you use AI for work, coding, business, or personal projects, this is an important privacy tip you shouldn't ignore.\n\nHave you ever shared an AI conversation? Did you know it could become publicly accessible? Let us know in the comments!\n\nWhy Subscribe to BPro?\n\nAI is evolving fast—but so are the privacy risks.\n\nOn BPro, you'll learn:\n\nLatest AI news and breakthroughs\nAI privacy and security tips\nHidden GitHub repositories\nAI tools that improve your workflow\nProductivity hacks for developers and creators\nAI automation and coding tools\n Practical technology insights you can actually use\n\nWe don't just cover AI updates - we help you use AI smarter and more safely.\n\nSubscribe to BPro for practical AI tips, security insights, and the latest technology updates.\n\n#AI #ChatGPT #ClaudeAI #Privacy #CyberSecurity\n\nAI, artificial intelligence, ChatGPT, Claude AI, AI privacy, ChatGPT privacy, Claude privacy, AI security, AI chat privacy, ChatGPT shared chats, Claude shared chats, Google Search, Google indexing, AI safety, cybersecurity, API keys, data privacy, online privacy, ChatGPT tips, Claude tips, AI tools, latest AI news, AI updates, technology news, ChatGPT tutorial, Claude tutorial, how to protect ChatGPT privacy, how to remove shared chats, AI security tips, OpenAI, Anthropic, AI chatbot, generative AI, AI risks, internet privacy, privacy settings, how to use ChatGPT safely, AI best practices, tech tips, developer security",
       "commentCount": 0,
-      "likeCount": 2,
+      "likeCount": 3,
       "comments": [],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "0CtisONmL4E": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 3,
-      "likeCount": 42,
+      "likeCount": 86,
       "comments": [
         {
           "id": "UgzgO-jYHSPJeh7V1a54AaABAg",
           "author": "@matan24",
           "text": "What about codex? How does it work there?",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T16:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kaKyb6inZCJBFA2KTyGGYRpd_rclmN2heoM14gqiQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4245,7 +4406,7 @@
           "author": "@afrighost",
           "text": "Thank you for this insight, what about compacting the conversation within that hour?",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T15:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4xdLhfSzEomdIlf8fmBSrUw-6yQ1WWW_2Sipc-OU7x6ZbZNieuf5v-fMA5AL1W9lIXXmMaIW6g=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4255,30 +4416,80 @@
           "author": "@vinblack85",
           "text": "So are u saying if I am working in a project folder on a sales flyer and tweaking it - I need to finish it 1 shot and not revisit next day? Or will projects be changed?",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T14:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nkKEFoizTfHSh5TfI85plQLyt1Cnsq8L1ztCvU9aBzzM0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "-YVQ2BmjXeQ": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Poolside Desktop Assistant brings all your AI coding agents into one workspace.\n\nInstead of juggling multiple terminals, you can run Claude Code, Codex, and other coding agents in parallel across separate Git worktrees, keeping every task isolated and preventing conflicts between agents.\n\nIf you're building with AI every day, this is a cleaner way to manage multiple agents, repositories, and long-running coding workflows from a single desktop app.\n\n#ai #coding #claudecode #codex #developer #aiagents",
-      "commentCount": 3,
-      "likeCount": 63,
+      "commentCount": 8,
+      "likeCount": 109,
       "comments": [
+        {
+          "id": "UgxTXGFW8nCydu8QHmR4AaABAg",
+          "author": "@omar_i2319",
+          "text": "Agent",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mQxTM58JSkdNeF48L46Oy4LkM8Z5GnMHTXXMOByRgJBh4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzoYIeWEBWJxcCrMaV4AaABAg",
+          "author": "@elevate-analytics",
+          "text": "Agent",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/UVD8247R6Y8Qs78TkL5Zdl7lvqZ8SVkKV_D3Gd1wJiUSJ5Joy_9t-73UJCG1yT77YfEetzYGrA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzZtbWwJFahfsfdHcV4AaABAg",
+          "author": "@vlaacademy5096",
+          "text": "Agent",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l5A258jzVObQGH6HJDU-5zc--Fwd7jBJuCxdfGktrYNQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx9L6j1-o1Qvoo8wpF4AaABAg",
+          "author": "@ahmadgani8616",
+          "text": "Agent",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/0nYpndfHj5jR9-qeNWGALXJ4P13yWy6iFn2tbbTza9i3G99YZlhlTzhY_USFcNFgw4Y21h_Z6g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzFbbYVsq_GRJkpLwl4AaABAg",
+          "author": "@mybest1kvideos",
+          "text": "Agent",
+          "likeCount": 0,
+          "publishedAt": "2026-08-06T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/VhvIfmlk0sWdtG5mx2iNx0bw-dRE7dC9ysM-UJEWdlj95IPYkQWqXUMip3-INXWaQ7vDrYmt=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgzYHoUX9S-d-plATw14AaABAg",
           "author": "@recrep52",
           "text": "Agent",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T15:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mSme6wBu6UjrU2L5alBRWeaWWehtzpHJBf7z-_GfUW87Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4288,7 +4499,7 @@
           "author": "@MeetSaboo",
           "text": "Agent",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T15:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/gnOteNDoMgWpI20KwoJ8mUkhU1-uyhNE0dbmEyW7NTMJJWVADXYglD0ZS7qmSf-SA0S4dCBP=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4298,13 +4509,13 @@
           "author": "@pullelachandrasekhar",
           "text": "Agent",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T12:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l2dGr3XQHmc2_sMYgeTFBtQU-bE74a0F6IqXqZuwyf5MM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -4318,19 +4529,29 @@
       "probeClient": "web_embedded"
     },
     "8QWg-gN80Ik": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Anthropic has introduced **Claude Code Artifacts**, a new feature that turns Claude Code's output into a **live interactive HTML page**.\n\nInstead of sharing screenshots or PDFs, you can now share a live page with your team using a private link. The best part? The page updates automatically as Claude continues working.\n\n\n\nClaude Code, Claude Code Artifacts, Anthropic, Claude AI, AI coding, AI developer tools, interactive HTML, live web pages, developer workflow, software development, coding assistant, developer productivity, AI programming, team collaboration, AI artifacts, Claude Team, Claude Enterprise, AI automation, coding workflow, web development, programming tools, engineering productivity, software engineering, app development, developer tools",
-      "commentCount": 2,
-      "likeCount": 28,
+      "commentCount": 3,
+      "likeCount": 46,
       "comments": [
+        {
+          "id": "UgyyI0ENo1qe-Tgk6Vd4AaABAg",
+          "author": "@flexpanda21",
+          "text": "Artifacts",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/T3wgyVsRyVlMI-E8Uul_BWumLQpaOr-VvEeCWpwFAfGYm-SNL4JJA2n-Y_QDS2ciBTdaevboVQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugwj6l-vi8yqFsU3Og14AaABAg",
           "author": "@bhavanashapawale1394",
           "text": "Anthropic",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T14:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kJePe_bO_mLSc4h3SwojnE-t84i0tBZPSuVyeOxPc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4340,13 +4561,13 @@
           "author": "@RajivGuptaji-v3r",
           "text": "Anthropic",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T14:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nBiBza47xrVI22HQqbI5vVMSjOKCrypMV0wpODLhDTVe4Nl2G7EKpFmagMA2FW4bucAg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -4360,35 +4581,35 @@
       "probeClient": "web_embedded"
     },
     "23sUwit1PHM": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Vercel open-sourced its security harness that uses coding agents to find vulnerabilities in your codebase.\nIt is called deepsec.\nAnd the CEO just said that Claude Fable 5 is so locked down for cybersecurity that it couldn't even complete a defensive security scan.\nAn open-source model just did it better.\nYou can use this GitHub repo from here and just run it on your laptop with no cloud access needed.\nJust your existing Claude or Codex subscription.\nIt scans your code, identifies security-sensitive files, traces data flows, checks for mitigations, and produces actionable findings with severity ratings. Then a second agent validates the results to remove false positives.\nVercel runs this on their own monorepos. Sometimes scaling to 1,000+ concurrent sandboxes.\nHere's what's most interesting here.\nWhen people tested different models on actual cybersecurity tasks, Kimi K3, the open-weight model, performed top-tier. GPT-5.6 Sol was the best but expensive.\nAnd Fable 5 refused to complete the run at all. The best model in the world didn't work. What's funnier than that? Its safety classifiers blocked everything, even defensive work.",
       "commentCount": 1,
-      "likeCount": 259,
+      "likeCount": 425,
       "comments": [
         {
           "id": "UgxR_mVCHcGmGrWu28B4AaABAg",
           "author": "@NamedSoni",
           "text": "The same Vercel ?? 😂",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T10:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Ldfibv8xGtBrdccgfeSf5mtJnDGm0aCwd717l5m_Xcn_4J7pVPtq4fh1f94-Q52uAgdDUbduNtE=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "d-BGo-KJMs4": {
-      "checkedAt": "2026-08-06T20:53:12Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"SEO\" for the link and my free playbook\n\nClaude can build the site. It can't guess what people actually type into Google.\n\nSo you rank for nothing.\n\nHere's the thing: OpenSEO pipes real keyword data into your agent. Fraction of Semrush.\n\nSign up free. Grab the MCP. Grab the skills. Type /mcp to confirm.\n\nThen tell it: pull the top keywords and interview me before you build anything.\n\nGoogle and ChatGPT, fam.\n\n#AItools\n#ClaudeCode\n#SEO\n#Automation\n#AIAgents",
       "commentCount": 8,
-      "likeCount": 57,
+      "likeCount": 82,
       "comments": [
         {
           "id": "Ugx7Rk9E98Ut83sMMXl4AaABAg",
@@ -4401,11 +4622,51 @@
           "isUploader": true
         },
         {
+          "id": "UgwG_kIdzlGLhu8t3Rx4AaABAg",
+          "author": "@adamjames1525",
+          "text": "Seo",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T20:16:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mjcEtFkue8vXZ3s4xKxtqNd5KevP4BTAU8ElNLE4g0lOhm=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyT-WlXvfvH-8ahNlB4AaABAg",
+          "author": "@SellingRussellville",
+          "text": "SEO",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mWyvh8dEqZfGX6_22He-Ac2J7NNBHo6ZWzyRxYh_6tt8xO=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw1U8fkFJxMWNzyQ8x4AaABAg",
+          "author": "@hillhill1717",
+          "text": "Seo",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4--cLLwGFXfv5ICY3-pw-5o0-kJ8rlv8CJPXVrfPPPDmQr4xLkphfU1DzDJg3F2_iId-N6oofQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxtdmuq1zW_9-zyUcl4AaABAg",
+          "author": "@jamescollier1273",
+          "text": "Seo",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mfnLYY1nnKEYyPzZfDEIgSsIPFhxOKrcn-iEOnFXAsUw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
           "id": "UgxmTMn05lI1pZFklaJ4AaABAg",
           "author": "@pastorwhitfield",
           "text": "SEO",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T19:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lWONSyBo7spGQrrByNKN1D34LoPHigdMNyYucb02O7XJQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4415,7 +4676,7 @@
           "author": "@pkealoha76",
           "text": "SEO",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T18:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k__sB2HstR8PgEN6CJrztwuhILbsQjFtasFVWlFvkQI-z_=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -4425,53 +4686,13 @@
           "author": "@fliproars",
           "text": "SEO",
           "likeCount": 0,
-          "publishedAt": "2026-08-06T18:00:00Z",
+          "publishedAt": "2026-08-07T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/RuZbLiz3pRS6yV31WIfby40i5VzL7NoOG7lk2w2yEO0TSA9AfTkTwuMVhQqNtJe8IVrSO2acjw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz4cVWRZ8wekWdLBR14AaABAg",
-          "author": "@dfowler281",
-          "text": "Seo",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T12:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lSb3le44lQxtxwPFEd0keH_TBA_Un78LqsUCSFEhhjExs=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxCVjxlN49Of4FMDOp4AaABAg",
-          "author": "@Kenny-lp4qz",
-          "text": "seo",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nThW3536XzXSzjTVkojlnLihtNswHhG_9pWvuAoYBcY7k=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwqDHKBpj6JIXn_YAR4AaABAg",
-          "author": "@spicemeshop",
-          "text": "SEO",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/AHPyDiTeYBlontIA-6rRsnMtZUOvLNvRnKY37K9pqOf2-n_CgHHWcKiioNmnoTPa4xaqfWhB=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwfhOZG88AFpso45gR4AaABAg",
-          "author": "@IBRAHIMAFALL-e8m",
-          "text": "Seo",
-          "likeCount": 0,
-          "publishedAt": "2026-08-05T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kfBWzgfHn_NOhyxXs3rKlvQuHZKqfA1ZMrxZMUGQkjW8Dqu0CswMyWj8F3pmGfexqucg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
+      "commentsFetchedAt": "2026-08-07T20:53:28Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5880,7 +6101,7 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-07T19:53:27Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5944,17 +6165,8 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "4g2Vuj8SCR0": {
-      "checkedAt": "2026-08-07T05:53:20Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Hear directly from Sandeep Dwadasi, QA Analyst at Clariti, as he shares how ACCELQ transformed their Salesforce testing strategy with AI-powered automation.\n \nIn this customer testimonial, Sandeep discusses how his team successfully automated dynamic Salesforce applications while significantly reducing manual testing effort and accelerating software delivery.\n \nIn this video, you'll learn how ACCELQ helps teams:\n\nAutomate dynamic Salesforce applications with AI\nReduce manual testing time\nIntegrate seamlessly with CI/CD tools like Jenkins and GitHub\nConnect with test management platforms such as Xray\nMinimize maintenance using intelligent self-healing and label-based element identification\nScale automation with a no-code, AI-powered platform\n \nWhether you're looking to modernize your Salesforce testing or accelerate quality engineering with AI, this real-world success story shows what's possible with ACCELQ.\n \n🚀 Learn more about ACCELQ: https://www.accelq.com\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \nFollow us on social media:\nLinkedIn: https://www.linkedin.com/company/accelq\nTwitter: https://twitter.com/ACCELQ\nFacebook: https://www.facebook.com/ACCELQ\nInstagram: https://www.instagram.com/accelq_inc/\nPinterest: https://in.pinterest.com/accelq/\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n#ACCELQ #TestAutomation #AutomationTesting #EnterpriseQA #CodelessAutomation #CustomerSuccess",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-07T19:53:27Z",
+      "checkedAt": "2026-08-07T20:53:28Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6011,15 +6223,6 @@
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
-    },
-    "GtL35t3JoKY": {
-      "checkedAt": "2026-08-07T07:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Generative AI Won’t Survive Until 2030 | Paris Marx’s Tech Critique 📉⚠️\n\nIs the generative AI hype train running out of track? While Silicon Valley promises an AI-powered future, tech critics and researchers like Paris Marx argue that generative AI as we know it is facing an inevitable wall—driven by unsustainable costs, energy grid strain, diminishing returns, and widespread user backlash.\n\nIn this video on AI Unlocked, we examine the critical case against the generative AI boom, breaking down the financial, environmental, and practical realities that could lead to an AI market correction before the decade ends:\n\n💸 1. The Hyperscale Revenue Reality: Massive compute costs, server infrastructure expenses, and the gap between venture capital burn rates and actual enterprise revenue.\n\n⚡ 2. The Climate & Energy Wall: Why data center power demands, immense water consumption, and surging tech emissions are triggering global pushback and regulatory limits.\n\n📉 3. Model Plateauing & Data Scarcity: How synthetic data rot, copyright lawsuits, and diminishing returns on larger training runs are slowing down model breakthroughs.\n\n💼 4. Workplace Backlash: Growing enterprise skepticism around automated tools, hallucination risks, and office workers pushing back against forced AI integration.\n\n⏱️ TIMESTAMPS:\n\n0:00 - Is Generative AI Destined to Fail? 📉\n\n1:15 - The Economics: The Multi-Billion Dollar Compute Gap\n\n2:50 - Energy Vampires: Data Centers vs. Power Grids\n\n4:20 - Data Exhaustion & The Synthetic Data Trap\n\n5:50 - Enterprise Realities & Cognitive Atrophy\n\n7:15 - Final Verdict: AI Evolution or Complete Bubble Burst?\n\n💬 JOIN THE DISCUSSION:\n\nDo you think generative AI will become a permanent utility like cloud computing, or are we witnessing a dot-com style tech bubble? Let us know in the comments below!\n\n🔔 SUBSCRIBE TO AI UNLOCKED:\n\nHit the Subscribe button and turn on notifications so you never miss an update on AI news, model breakdowns, and tech industry shifts!",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
     },
     "vVu2zfW9nMc": {
       "checkedAt": "2026-08-07T08:53:17Z",
@@ -6126,33 +6329,6 @@
       "likeCount": 30,
       "probeClient": "web_embedded"
     },
-    "Y_FVykFD15I": {
-      "checkedAt": "2026-08-07T10:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "South Korea’s artificial intelligence boom is not just changing the technology industry, it is reshaping careers, social status, and even the country’s dating culture. Employees at chip giants Samsung electronics and SK Hynix are becoming some of the most sought-after professionals in South Korea, as the global race for AI chips sends profits, salaries, and demand for semiconductor talent soaring.\n\n#southkorea #artificialintelligence #wion \n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to world politics. People are tired of biased reportage and we stand for a globalized united world. So for us, the World is truly One.\n \nPlease keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs and personal insults.\n\nSubscribe to our channel at https://goo.gl/JfY3NI\nCheck out our website: http://www.wionews.com\nJoin our WhatsApp Channel: https://bit.ly/455YOQ0\nConnect with us on our social media handles:\nFacebook: https://www.facebook.com/WIONews\nTwitter: https://twitter.com/WIONews\nInstagram: https://www.instagram.com/wionews/\nFollow us on Google News for the latest updates\n\nZee News:- https://bit.ly/2Ac5G60\nZee Business:- https://bit.ly/36vI2xa\nDNA India:- https://bit.ly/2ZDuLRY\nWION: https://bit.ly/3gnDb5J\nZee News Apps: https://bit.ly/ZeeNewsApps",
-      "commentCount": 0,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "tUZfFYhocwM": {
-      "checkedAt": "2026-08-07T10:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "South Korea's Kospi index has swung wildly this year, more than doubling to pass 9,000 points before crashing 40 percent, triggering automatic trading suspensions over 50 times. Analysts point to a combination of government intervention, deregulation of exchange-traded funds and heavy reliance on AI chipmakers Samsung and SK Hynix, which now account for over half the market. Small investors, including teenagers borrowing to buy shares, say they are bearing the brunt of the volatility, fuelling public anger and calls for the government to step back.\n\nAl Jazeera’s Jack Barton reports from Seoul, South Korea.\n\nSubscribe to our channel: http://bit.ly/AJSubscribe\nFollow us on X : https://X.com/AJEnglish\nFind us on Facebook: https://www.facebook.com/aljazeera\nCheck our website: http://www.aljazeera.com/\nCheck out our Instagram page: https://www.instagram.com/aljazeeraenglish/\nDownload AJE Mobile App: https://aje.news/AJEMobile\n\n#SouthKorea #Kospi #StockMarket #SouthKoreaStocks #Samsung #SKHynix #ArtificialIntelligence #AIStocks #Semiconductors #StockMarketCrash #MarketVolatility #RetailInvestors #LeeJaeMyung #SouthKoreaEconomy",
-      "commentCount": 3,
-      "likeCount": 22,
-      "probeClient": "web_embedded"
-    },
-    "qD3cYZVm1Uc": {
-      "checkedAt": "2026-08-07T10:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Scientists used an artificial intelligence program to create new viral genomes that are different from any known natural viruses and that targeted specific hosts, according to a new study. The development is a hopeful step toward medical advances, but it also raises concerns around the potential for misuse.\n\n0:00 What scientists achieved\n0:53 How AI made this possible\n4:05 Meta AI model goes rogue as Trump administration considers AI regulation\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\n#AI #Science #News",
-      "commentCount": 142,
-      "likeCount": 234,
-      "probeClient": "web_embedded"
-    },
     "GuXOwpmwyOQ": {
       "checkedAt": "2026-08-07T11:53:25Z",
       "embedAllowed": true,
@@ -6181,15 +6357,6 @@
       "description": "Want to start Facebook Automation and earn money from Facebook Reels? In this video, I share my complete 10-day Facebook Automation Challenge, where I uploaded reels consistently to a new Facebook page and tracked the real results every single day. You'll see how many views, followers, reach, engagement, and monetization progress I achieved, along with the exact strategy I used. If you're searching for Facebook Automation, Facebook Reels Monetization, Facebook Page Growth, Facebook Reels Challenge, how to earn money from Facebook, or Facebook Page Monetization, this video will help you understand what actually happens in the first 10 days and whether Facebook Automation is worth starting in 2026.\n\n\n\nKeywords:\nfacebook automation\nfacebook automation challenge\nfacebook automation for beginners\nfacebook page monetization\nfacebook page growth\nfacebook reels monetization\nfacebook reels challenge\nfacebook reels growth\nfacebook reels strategy\nhow to monetize facebook page\nhow to grow facebook page\nfacebook reels viral\nfacebook reels views\nearn money from facebook\nfacebook earning\nfacebook page kaise grow kare\nfacebook page monetize kaise kare\nfacebook reels kaise viral kare\nfacebook automation in hindi\nfacebook automation pakistan\nfacebook automation india\nfacebook reels income\nfacebook creator monetization\nfacebook content creation\nfacebook page challenge\n#facebookautomation #monetization",
       "commentCount": 1,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "WTKQ9HWgUek": {
-      "checkedAt": "2026-08-07T11:53:25Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Gemini Spark AI Tutorial. Gemini Spark kya hai aur kaise use kare?\nKya aap bhi apna kaam automate karna chahte hain? 🚀 Aaj ke is video mein main aapko dikhaunga How to use Gemini Spark AI jo ki aapka personal AI assistant ban sakta hai. Sirf 7 minutes mein seekhiye ki kaise aap boring tasks ko AI ki madad se khatam kar sakte hain!\n\nIs Gemini Spark Tutorial mein hum cover karenge: \n✅ Gemini Spark AI setup kaise karein. \n✅ AI Video Automation ka poora process. \n✅ Images ko Excel mein convert karne ka asan tarika. \n✅ Gmail aur Google Docs ke saath integration.\n\nGemini Spark AI sirf ek tool nahi, balki ek productivity powerhouse hai. Agar aap ek student, working professional ya creator hain, toh ye video aapke bahut kaam aane wali hai!\n\nAgar aapko ye video helpful lagi toh LIKE zaroor karein aur channel ko SUBSCRIBE karna na bhoolein aise hi informative AI tutorials ke liye! 🔔\n\n#GeminiSpark #AITutorial #Automation #GoogleGemini #ProductivityTips #ImranX #AIVideoAutomation #SmartWork\n\n🔗 **Follow Me On Social Media**\n\n📸 Instagram ► https://www.instagram.com/imran.ali662/\n🐦 X (Twitter) ► https://x.com/TheImranXAI\n📘 Facebook ► https://www.facebook.com/profile.php?id=61583676902703\n🟢 WhatsApp Channel ► https://whatsapp.com/channel/0029Va9K8hIAInPfKygw3d1f",
-      "commentCount": 11,
-      "likeCount": 53,
       "probeClient": "web_embedded"
     },
     "OU_wL1PnwEM": {
@@ -6844,6 +7011,54 @@
       "description": "👉 Free Download the Master Prompt:\nhttps://drive.google.com/uc?export=download&id=1XAbWB6A1rNZrS7-oJth6pe_JTpDqpBE5\n📊 Download the Data File: https://drive.google.com/uc?export=download&id=1bv-nHMf_z9nGK8YE2CxcDYWwi8vb-9up\n\n💬 WhatsApp: https://whatsapp.com/channel/0029VbCIu9XHVvTSpnBDWr0e   \n📢 Telegram: https://t.me/+aBQXL9Kwg_FhM2Jl   \n \nLearn how to build a fully automated HR Analysis Dashboard in Excel using Qwen Studio AI and VBA with just one click. Generate VBA code using AI and automatically create Pivot Tables, KPI cards, dynamic slicers, professional charts, and a complete interactive HR dashboard in seconds.\n \n📈 Take Your Excel Skills to the Next Level! \n💡 Subscribe for more tutorials to help you master Excel and other essential tools. Hit the bell icon to get notified about our latest videos! Follow Us on Social Media: \n\n AI Tools | Claude AI | Excel | Dashboards | Data Analysis | Automation | Productivity\n \n📲 Follow Us on Social Media:   \n📸 Instagram: https://www.instagram.com/vedakarna_/   \n💼 LinkedIn:  https://www.linkedin.com/company/vedakarna/ \n👍 Facebook: https://www.facebook.com/profile.php?id=61584493776530   \n \n\n#Qwen #QwenAI #how to create excel dashboard #ExcelDashboard #AIDashboard #ExcelAutomation #AITools #NoCode #DataVisualization #Dashboard #Excel #AIAutomation #BusinessDashboard #GenerativeAI #productivitytrap  #AITutorial #ExcelTutorial #DashboardDesign #ai2026 #Vedakarna",
       "commentCount": 3,
       "likeCount": 59,
+      "probeClient": "web_embedded"
+    },
+    "2pqwu41UdJU": {
+      "checkedAt": "2026-08-07T20:53:28Z",
+      "embedAllowed": true,
+      "description": "Stop vibe coding blind! Dave Farley and Sam Newman discuss why you can't trust AI guardrails in software development. Learn how to sandbox your coding with AI using Docker & microVMs to prevent lethal exploits in modern software engineering.\n\n-\n\n⭐ SPONSORED BY DOCKER: \n\nUse Docker Sandboxes for FREE ➡️ https://utm.io/urZBk\nDocker Sandboxes run AI coding agents in isolated microVM sandboxes. Each sandbox gets its own Docker daemon, filesystem, and network; the agent can build containers, install packages, and modify files without touching your host system.\n\n-\n\n🧠 OUR SOFTWARE ENGINEERING TRAINING COURSES: https://courses.cd.training/ \n\n-\n\nDave on X ➡️ https://x.com/davefarley77\nDave on LinkedIn ➡️ https://www.linkedin.com/in/dave-farley-a67927/\nDave on bluesky ➡️ https://bsky.app/profile/davefarley77.bsky.social\n\nSam Newman's Website ➡️ https://samnewman.io/ \nSam Newman on LinkedIn ➡️ https://www.linkedin.com/in/samnewman/\n\nModern Software Engineering on X ➡️ https://x.com/ModernSoftwareX\nModern Software Engineering on LinkedIn ➡️ https://www.linkedin.com/company/modern-software-engineering\nModern Software Engineering on bluesky ➡️ https://bsky.app/profile/modernswe.bsky.social\n\n-\n\n⭐ PATREON:\n\nJoin the Continuous Delivery community and access extra perks & content! ➡️ https://bit.ly/ContinuousDeliveryPatreon \n\n🎥 Join Us On TikTok ➡️ https://www.tiktok.com/@modern.s.engineering\n\n-\n\n👕 T-SHIRTS:\n\nA fan of the T-shirts I wear in my videos? Grab your own, at reduced prices EXCLUSIVE TO CONTINUOUS DELIVERY FOLLOWERS! Get money off the already reasonably priced t-shirts!\n\n🔗 Check out their collection HERE: ➡️ https://bit.ly/3Uby9iA\n🚨 DON'T FORGET TO USE THIS DISCOUNT CODE: ContinuousDelivery\n\n-\n\n#softwareengineering #devops #docker #developer",
+      "commentCount": 2,
+      "likeCount": 26,
+      "probeClient": "web_embedded"
+    },
+    "ZAom6f4-vh0": {
+      "checkedAt": "2026-08-07T20:53:28Z",
+      "embedAllowed": true,
+      "description": "Hey guys, Jun here. I was laid off from Amazon as part of their recent mass AI Department (AGI) layoffs & restructuring. Decided to make a video to talk about both my personal feelings and explain a little bit of the context surrounding this situation.\n\n00:17 - I got laid off from Amazon\n00:47 - This layoff was different\n02:42 - Our very own west world\n05:18 - The honeymoon phase was over\n06:47 - Why them and not me?\n08:13 - Just as things were starting to get good\n10:01 - Check your email before coming into the office\n12:52 - Severance\n14:28 - So what's next?\n\nSocials:\nhttps://www.instagram.com/danjuntech/\n\nDisclaimer:\nOpinions expressed in this video do not reflect our employers.",
+      "commentCount": 5,
+      "likeCount": 19,
+      "probeClient": "web_embedded"
+    },
+    "JZuUyjmF5rg": {
+      "checkedAt": "2026-08-07T20:53:28Z",
+      "embedAllowed": true,
+      "description": "SPARK 6.0 : https://codeforsuccess.in/courses/java6.0\n\nFollow me on social media for more updates:\n📢 Telegram: https://t.me/+1mgeTabsRk4zZjQ1\n📸 Instagram: https://www.instagram.com/genie_ashwani/\n💼 LinkedIn: https://www.linkedin.com/in/ashwani-kumar-7b986a14b/\n\n\n\nLet me know in the comments section what else you want to see on this channel. Your feedback matters a lot! If you have any questions please comment below.\n\nags:\nroadmap for coding\ndata structures and algorithms\ndsa\ndata structures\ncoding\ndevelopment\narrays\nstrings\nlinked list\ngraphs\ndp\ndynamic programming\nfront end developer\nback end developer\n2023 coding\n\nrecursion\ntrees\nbst\nbinary trees\nhashmaps\nsorting\nc++\njava\npython\ncompetitive programming\nweb development\nfull stack development\nmachine learning\namazon sde\nmicrosoft sde\ngoogle sde\nsoftware engineer\nfaang\nmaang\nhow to become software engineer\nbecome great in dsa\nsoftware developer\njob in coding\namazon software engineer\nmicrosoft software engineer\ngoogle software engineer\nhow to learn dsa\nlearn oops\nlearn c++\nlearn java\nlearn python\nlearn coding\nstart coding\ninternships\nplacements\nhow to start programming\n1 crore package\nroadmap to learn dsa\nroadmap to learn full stack web development\nroadmap to learn coding",
+      "commentCount": 27,
+      "likeCount": 112,
+      "probeClient": "web_embedded"
+    },
+    "Yh4eL60Ncxs": {
+      "checkedAt": "2026-08-07T20:53:28Z",
+      "embedAllowed": true,
+      "description": "AI coding agents can solve increasingly difficult problems. But can they keep solving them after the codebase starts fighting back?\n\nIn this episode of AI That Works, Dex and Vaibhav dig into Slop Code Bench, a benchmark designed to test something traditional coding benchmarks often miss: what happens when an agent has to keep extending the same codebase without knowing what requirements are coming next. Instead of judging a single solution in isolation, the benchmark adds new challenges over time and measures whether models can make progress without accumulating defects, regressions, and unmaintainable code.\n\nThey break down new results across models including Sol, Fable, Kimi, and GPT, looking at strict pass rates, cost, defects, code complexity, and the surprising relationship between spending more and producing better results. The conversation also moves beyond the leaderboard into a bigger question: what would an AI coding agent actually have to prove before engineers could trust it to work without constant human supervision?\n\nTIMESTAMPS\n00:00 How Much AI-Generated Code Do You Need to Read?\n00:28 Episode Overview: Putting Slop Code Bench to the Test\n01:21 Why AI Coding Benchmarks Matter\n03:10 AI That Works Unconference Announcement\n04:59 How Slop Code Bench Tests Real Software Development\n08:09 A Real Example of Requirements Getting More Complex\n09:25 Strict Pass Rate vs. Solving the Current Problem\n13:13 How Sol, Fable, Kimi, and GPT Actually Performed\n15:20 What Happens If AI Gets the Problem Upfront?\n18:18 Why Sol's Benchmark Results Don't Match Real-World Experience\n20:37 Does Spending More Money Produce Better Code?\n21:56 Why AI Planning May Matter Less Now\n25:39 Comparing Cost, Defects, and Model Performance\n28:05 Measuring the Slop AI Leaves Behind\n30:03 Can AI Recognize When Its Architecture Needs to Change?\n32:14 Comparing Code Quality Across Models and Harnesses\n35:00 The Real Cost of Running AI Coding Benchmarks\n37:10 How Should Slop Code Bench Evolve Next?\n39:02 What Makes You Trust AI to Work Lights Off?\n41:17 Three Ways to Make Coding Benchmarks More Realistic\n43:07 How Do You Avoid Disaster When Humans Stop Reading?\n44:00 How MCPs and Skills Change Coding Agent Performance\n45:38 Should You Delete Agent Instructions for Every New Model?\n49:16 When AI Skills Actually Belong in Your Codebase\n51:32 Making Claude and Codex Review Each Other's Work\n\n#AIThatWorks #AICoding #CodingAgents #AIEngineering #SoftwareEngineering #SlopCodeBench #CodeQuality #LLMs #DeveloperTools",
+      "commentCount": 17,
+      "likeCount": 31,
+      "probeClient": "web_embedded"
+    },
+    "xEBSV-M-qFk": {
+      "checkedAt": "2026-08-07T20:53:28Z",
+      "embedAllowed": true,
+      "description": "Ever wonder which AI model is actually the best? In this video, we're building the LLM Arena: a Next.js app that races open-source models side-by-side in real-time to track exact performance metrics like latency and cost. Vote on the winner to update a public leaderboard. Best of all, we'll build this entire full-stack app completely agentically using Claude Code.\n\nTry Greptile for FREE: https://jsm.dev/arena-greptile\nTry Clerk for FREE: https://jsm.dev/arena-clerk\nTry Arcjet for FREE: https://jsm.dev/arena-arcjet\nTry PostHog for FREE: https://jsm.dev/arena-posthog\n\nOpenRouter: https://openrouter.ai\nPrisma: https://www.prisma.io\n\n📋 Join the Agentic Course Waitlist: https://jsm.dev/arena-agentic\n🎁 Video Kit (Code, Assets, Prompts): https://jsm.dev/arena-kit\n\n⭐ Get my Pro Courses: https://jsm.dev/arena-jsm\n\n➤ Links not working? Some regions may need a VPN.\n\nhttps://discord.com/invite/n6EdbFJ https://twitter.com/jsmasterypro https://instagram.com/javascriptmastery https://linkedin.com/company/javascriptmastery\n\nBusiness Inquiries: contact@jsmastery.pro\n\nTimestamps: \n00:00:00 — Introduction\n00:05:44 — Scaffold & Tools Setup\n00:09:03 — Repository & Code Review\n00:15:58 — Foundation & Decision Process\n00:45:21 — Coding Standards, Tooling, & Data Model\n00:51:49 — Design & Look\n01:04:54 — Model Picker\n01:09:52 — Send a Prompt, Parallel Streams, and Voting\n01:25:01 — Thread History\n01:25:53 — Public Thread Visibility & Sharing\n01:34:07 — Arcjet: Abuse Protection\n01:40:48 — Leaderboard\n01:43:06 — PostHog: What Actually Happened\n02:03:02 — Wrap-up",
+      "commentCount": 34,
+      "likeCount": 185,
+      "probeClient": "web_embedded"
+    },
+    "S4hxaTPBPls": {
+      "checkedAt": "2026-08-07T20:53:28Z",
+      "embedAllowed": true,
+      "description": "Get the Agent OS & AI AGENT Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nPrime Agent: The Smartest Self-Improving AI Coding Tool Yet\n\nDiscover Prime Agent, a revolutionary open-source AI tool from Prime Intellect that can plan, code, and fix its own mistakes autonomously. This video breaks down how its multi-agent system and self-improving harness outperform traditional AI tools on complex, long-running projects.\n\n00:00 - Intro: Meet Prime Agent\n00:33 - What is Prime Intellect's Prime Agent?\n01:31 - How Self-Improving AI Works\n01:50 - Recursive Language Models Explained\n03:43 - Efficiency and Programmatic Tool Calling\n05:01 - The Multi-Agent Messaging System\n06:23 - Prime Agent vs Claude Code & Cursor\n07:25 - The Future of AI Coding Agents",
+      "commentCount": 21,
+      "likeCount": 181,
       "probeClient": "web_embedded"
     }
   }
