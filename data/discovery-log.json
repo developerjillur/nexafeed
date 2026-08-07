@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T00:53:16Z",
+  "updatedAt": "2026-08-07T01:53:17Z",
   "items": [
+    {
+      "id": "AncgOoIdHaE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-07T01:30:34Z",
+      "firstSeenAt": "2026-08-07T01:53:17Z"
+    },
+    {
+      "id": "QTnjsoQ9srg",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-07T01:00:29Z",
+      "firstSeenAt": "2026-08-07T01:53:17Z"
+    },
+    {
+      "id": "1WYzoIZkazg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Abhishek Sharma",
+      "publishedAt": "2026-08-06T21:53:17Z",
+      "firstSeenAt": "2026-08-07T01:53:17Z"
+    },
+    {
+      "id": "8XA4n7r5yK0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "MindBridge Concept and Born To Code",
+      "publishedAt": "2026-08-06T17:53:17Z",
+      "firstSeenAt": "2026-08-07T01:53:17Z"
+    },
+    {
+      "id": "PS15AyJfFNg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mastra",
+      "publishedAt": "2026-08-06T17:53:17Z",
+      "firstSeenAt": "2026-08-07T01:53:17Z"
+    },
+    {
+      "id": "kmwIC2zHhWw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Engineer dude learning ",
+      "publishedAt": "2026-08-06T07:53:17Z",
+      "firstSeenAt": "2026-08-07T01:53:17Z"
+    },
+    {
+      "id": "FdGgdb6gFFw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fredrik Christenson",
+      "publishedAt": "2026-08-06T04:53:17Z",
+      "firstSeenAt": "2026-08-07T01:53:17Z"
+    },
     {
       "id": "b1xI758ZnlE",
       "type": "long",
@@ -10014,6 +10070,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-07T01:53:17Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
