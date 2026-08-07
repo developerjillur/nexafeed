@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T17:53:30Z",
+  "updatedAt": "2026-08-07T18:53:31Z",
   "items": [
+    {
+      "id": "PwIM33ajJCs",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-07T18:40:18Z",
+      "firstSeenAt": "2026-08-07T18:53:31Z"
+    },
+    {
+      "id": "it6Z0nKqrTI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-07T16:53:31Z",
+      "firstSeenAt": "2026-08-07T18:53:31Z"
+    },
+    {
+      "id": "8tGJyBO9FpY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-07T15:53:31Z",
+      "firstSeenAt": "2026-08-07T18:53:31Z"
+    },
+    {
+      "id": "YM_2PYIy0FA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jack Vs. AI",
+      "publishedAt": "2026-08-07T15:53:31Z",
+      "firstSeenAt": "2026-08-07T18:53:31Z"
+    },
+    {
+      "id": "bbd5KvMr_8k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Qwairy",
+      "publishedAt": "2026-08-07T14:53:31Z",
+      "firstSeenAt": "2026-08-07T18:53:31Z"
+    },
+    {
+      "id": "P-vPlQ7GmTw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nico | AI Ranking",
+      "publishedAt": "2026-08-07T13:53:31Z",
+      "firstSeenAt": "2026-08-07T18:53:31Z"
+    },
+    {
+      "id": "BAX76ZDjRy8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AIM Network",
+      "publishedAt": "2026-08-07T10:53:31Z",
+      "firstSeenAt": "2026-08-07T18:53:31Z"
+    },
+    {
+      "id": "JS9KfU6eGfg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Generative AI Masters",
+      "publishedAt": "2026-08-07T10:53:31Z",
+      "firstSeenAt": "2026-08-07T18:53:31Z"
+    },
     {
       "id": "zl5_PrTLWqs",
       "type": "short",
@@ -10855,6 +10919,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-07T18:53:31Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
