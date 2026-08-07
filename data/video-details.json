@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T20:53:28Z",
+  "updatedAt": "2026-08-07T21:53:29Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -1455,15 +1455,6 @@
       ],
       "commentsFetchedAt": "2026-07-28T16:53:36Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "weoV4dm-X1A": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Grab Higgsfield 👉 https://bit.ly/4fjvSg0\n📈 ALL Systems: https://bit.ly/4kol0y5\n🩵 Free Resources: https://bit.ly/3RNNDLa\n\nKimi K3 is the new number one for design, and this video walks you through building genuinely gorgeous websites with it, the kind that look like the top 3%. I'll show you the exact free skill I built after hours and a lot of dollars getting it right, so you can just download it and follow along. We go through three levels: a beautiful one-scroll story site, a mobile optimised version, and a fully personalised brand site that pulls real logos and colours in with Firecrawl. You'll also see how to bring in Higgsfield for the video and imagery, and how to host the whole thing on Vercel. Works even if you're a complete beginner.\n\n*Core Software:*\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n🔀 OpenRouter: https://openrouter.ai/\n☁️ Claude: https://claude.ai/\nGrab Higgsfield 👉 https://bit.ly/4fjvSg0\n🔥 Firecrawl: https://firecrawl.link/jack-roberts\n💬 ChatGPT: https://chatgpt.com/\n\n⌚️ *Stamps:*\n0:00 - The 97% Problem\n0:50 - Why Kimmi K3 Wins\n1:16 - Beating The Competition\n1:32 - 30% The Price Of Claude\n1:39 - Three Levels Overview\n1:54 - Download The Free Skill\n2:15 - Installing The Skill\n2:49 - Getting Your API Key\n2:55 - The Agentic OS Setup\n3:03 - Selecting Kimmy K3 Model\n3:19 - Confirming The Model\n3:53 - Three Things You Need\n4:23 - Connecting To Higgsfield\n4:38 - Higgsfield CLI Install\n5:53 - Pre-Flight Status Check\n6:19 - Enabling Video Generation\n6:37 - The Honey Website Idea\n7:31 - First Website Result\n7:39 - The Honey Drop Animation\n8:57 - The Mobile Problem\n9:04 - Level Two: Mobile Design\n9:33 - Reshoot For Mobile\n10:23 - Prompting Mobile Version\n10:49 - Mobile Result Revealed\n11:29 - Responsive Breakpoints Demo\n11:58 - Why Mobile Traffic Matters\n12:22 - Level Three Incoming\n12:36 - Personalized Client Websites\n13:14 - Auto Brand Extraction\n13:38 - Fritz Cola Case Study\n14:17 - Using Firecrawl For Branding\n15:45 - Why Firecrawl Beats Search\n16:18 - Handling Model Errors\n16:49 - Bulletproofing The Skill\n17:24 - Fritz Cola Result Demo\n18:11 - Hosting With Vercel\n18:30 - Connecting Vercel Via CLI\n18:45 - What's Next\n\nBuild beautiful 3D websites with Kimi K3 using Claude Code, Higgsfield for video and imagery, Firecrawl for brand extraction, OpenRouter for model access and Vercel for hosting, including mobile optimised and fully personalised brand sites.\n\n#KimiK3 #ClaudeCode #AIWebDesign #Higgsfield #Firecrawl #Vercel",
-      "commentCount": 41,
-      "likeCount": 677,
       "probeClient": "web_embedded"
     },
     "ZW38bkluwlY": {
@@ -6101,7 +6092,7 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-07T20:53:28Z",
+      "checkedAt": "2026-08-07T21:53:29Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6166,7 +6157,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-07T20:53:28Z",
+      "checkedAt": "2026-08-07T21:53:29Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6318,15 +6309,6 @@
       "description": "☕ Build a Personalized AI Assistant with Google Agent Development Kit (ADK) & RAG on Cloud Run\n\nIn this hands-on workshop, you will learn how to create a personalized AI assistant for a coffee shop using the Google Agent Development Kit (ADK) and Retrieval-Augmented Generation (RAG). Integrate an AI Agent into a coffee shop application to deliver tailored recommendations on what customers should order, and deploy the entire app live to Google Cloud Run!\n\n🔗 ESSENTIAL LAB & WORKSHOP LINKSCodelab Instructions: https://goo.gle/cloud-run-ai-lab-1Claim Billing Credits: \nhttps://me.developers.google.com/benefits/claim/gen-ai-apac-cloud-run-1Virtual Teaching Assistant (VTA): https://vta-eqa2rttr.gca-americas.dev/\n\n🤖 VIRTUAL TA INSTRUCTIONS: Need help during the workshop? Use our Virtual Teaching Assistant: For help with the lab $\\rightarrow$ select the course cloud-run-ai-1. For help with billing credits $\\rightarrow$ select credit-claim-apac",
       "commentCount": 0,
       "likeCount": 208,
-      "probeClient": "web_embedded"
-    },
-    "nHZwRo_KOnc": {
-      "checkedAt": "2026-08-07T10:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this podcast we wanted to talk about AI and how it impacts the job market. Many thanks to Merl Chandana for accepting my invitation. Merl leads the Data, Algorithms and Policy (DAP) team at LIRNEasia. He spends his days working with government and civil society partners to build practical tools for operational challenges and make responsible AI principles usable in real-world projects. An avid reader, he is especially interested in how AI can be integrated into society in ways that maximize public benefit while averting its downsides. He holds a Bachelor of Science in Chemical and Process Engineering from the University of Moratuwa.\n\nHere are the topics that we discussed:\n1) Absolute crazy claims made by Tech CEOs \n2) Common fears and narratives by AI: \n- People don’t know how jobs operate \n- Tasks are related to each other\n- Companies are doing large scale layoffs (nothing to do with AI)\n- Huge hiring during the pandemic \n- Companies are down-sizing before moving into AI, later hiring \n3) The jagged frontier: AI fails in some easy tasks which are done by humans \n4) Jevon’s paradox \n5) How can you be intelligent in observing patterns: mental models \n6) What are the skills that will be enduring\n- Idea of agency\n- Curiosity \n- Using tools in your everyday life \n\nTime stamps\n00:00 About video\n03:42 About Merl\n05:43 Merl’s posts on Social Media\n06:15 Crazy claims about AI\n13:25 Layoffs due to AI - true or false? \n16:55 How AI affects companies\n20:04 Sci-Fi movies\n21:53 What’s the solution?\n22:42 What is a job?\n30:14 Self driving cars\n35:49 Lump of labour fallacy\n42:23 Mico-learning\n48:47 AI related jobs: data centres \n52:50 There will always be problems\n\nIf you would like to support IQ Labs, please consider donating the price of a cup of coffee. It helps me cover up the running costs of this channel: https://buymeacoffee.com/iqlabs \n\nIQ Labs covers a wide range of topics. Please check my playlists - I try my best to keep things organized. Check out my website!\nhttps://www.iqlabs.edu.lk/\n\nPhDs and Scholarships\nhttps://www.youtube.com/playlist?list=PLuiDzxVT78sRJk6b5Gbl7_czBRa7vb6hh\n\nResearch Advice\nhttps://www.youtube.com/playlist?list=PLuiDzxVT78sTlfv2sW0j2l9sZ3gbtwToV\n\nCommunication Advice\nhttps://www.youtube.com/playlist?list=PLuiDzxVT78sSMs0ZgiHKdn6feh_rWMGbx\n\n#ScienceTalks\nhttps://www.youtube.com/playlist?list=PLuiDzxVT78sSs9hKjstFNnDFaOMNDMt6l\n\nPython for Scientists\nhttps://www.youtube.com/playlist?list=PLuiDzxVT78sSk9jEuiJAb9xLkeBbC5ap3\n\nHow I make these videos? Check this video:\nhttps://youtu.be/zUTy48ry5Dc\n\nMy equipment:\nhttps://youtu.be/D0W8pEEme6w\n\n#PhDAdvice #SriLanka #Research #Sinhala #Science #Engineering #ResearchAdvice",
-      "commentCount": 5,
-      "likeCount": 30,
       "probeClient": "web_embedded"
     },
     "GuXOwpmwyOQ": {
@@ -6617,15 +6599,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "XIs3A_eRvEk": {
-      "checkedAt": "2026-08-07T14:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Ever wondered how people are making money with AI without knowing how to code? In this video, I break down exactly how to start an AI Automation Agency (AAA) from scratch — even if you're a complete beginner.\nYou'll learn:\n✅ What an AI Automation Agency actually is (and how it's different from a regular agency)\n✅ The exact tools you need to get started (no coding required)\n✅ How to find your first clients — even with zero experience\n✅ How to price your services and land high-ticket deals\n✅ Common mistakes beginners make (and how to avoid them)\nAI automation is one of the fastest-growing online business models right now, and businesses are paying thousands of dollars a month for people who can automate their workflows using tools like Make, Zapier, and ChatGPT. If you want to build a real business around AI in 2026, this video is your starting point.\n\n#AIAutomationAgency #AIAgency #MakeMoneyWithAI #AIautomation #OnlineBusiness #AISideHustle #StartABusiness #NoCodeAI #ChatGPT #DigitalMarketing #Entrepreneur #AIBusiness2026 #PassiveIncome #BusinessTips #AITools",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "l1qzs85Ftpg": {
       "checkedAt": "2026-08-07T15:53:15Z",
       "embedAllowed": true,
@@ -6734,15 +6707,6 @@
       "embedAllowed": true,
       "availability": "public",
       "description": "Welcome to the Zoho Marketing Automation tutorial series by OHO Solutions.\n\nIn this first tutorial, we introduce Zoho Marketing Automation and walk you through the sign-up process. This video is designed for beginners who want to understand how to get started with Zoho Marketing Automation and access the platform.\n\nZoho Marketing Automation is a marketing automation platform that helps businesses manage and automate their marketing activities, engage with customers, nurture leads, and improve their overall marketing processes.\n\nIn this video, you will learn how to get started with Zoho Marketing Automation and create your account.\n\nTimestamps:\n\n00:00 - Introduction\n00:08 - Introduction to Zoho Marketing Automation\n00:22 - Accessing Zoho Marketing Automation\n00:35 - Getting Started\n00:48 - Sign-Up Process\n01:05 - Creating Your Account\n01:25 - Accessing the Platform\n01:40 - Conclusion\n\nWhat you will learn:\n\nIntroduction to Zoho Marketing Automation\nHow to access Zoho Marketing Automation\nHow to sign up for an account\nHow to get started with the platform\nBasic overview for new users\n\nThis tutorial is part of our Zoho Marketing Automation tutorial series. Subscribe to OHO Solutions to follow the complete series and learn more about Zoho products, business automation, digital marketing, and business solutions.\n\nAbout OHO Solutions:\n\nOHO Solutions is a Zoho Premium Partner providing Zoho implementation, customization, integration, and business automation solutions to help businesses streamline their operations and improve productivity.\n\nFor more information about our services, visit OHO Solutions.\n\n#ZohoMarketingAutomation #Zoho #ZohoTutorial #MarketingAutomation #ZohoTraining #DigitalMarketing #BusinessAutomation #OHOsolutions",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "Tm4XmJgmph8": {
-      "checkedAt": "2026-08-07T15:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Stop chasing leads. Start automating them. 🚀\n\nWe are building high-converting websites + AI-powered marketing automations inside GoHighLevel – so your business runs on autopilot.\n\n✅ Websites that convert\n✅ Automated follow-ups (SMS + email)\n✅ AI chatbots & voice agents\n✅ Lead scoring & nurturing\n✅ Funnel management\n✅ CRM setup & migration\n\nPerfect for:\n🏡 Real Estate Agents\n🎯 Online Coaches\n📈 Service-based Businesses\n🛍️ E-commerce Brands\n\n👇 Comment \"AUTO\" and I'll send you a FREE automation snapshot – ready to install in your GHL account!\n\n🌐 IntegratedGHL.com\n🌐 Total VDO Solution – www.totalvdo.com",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
@@ -7053,12 +7017,44 @@
       "likeCount": 185,
       "probeClient": "web_embedded"
     },
-    "S4hxaTPBPls": {
-      "checkedAt": "2026-08-07T20:53:28Z",
+    "qEuxFsK7apk": {
+      "checkedAt": "2026-08-07T21:53:29Z",
       "embedAllowed": true,
-      "description": "Get the Agent OS & AI AGENT Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nPrime Agent: The Smartest Self-Improving AI Coding Tool Yet\n\nDiscover Prime Agent, a revolutionary open-source AI tool from Prime Intellect that can plan, code, and fix its own mistakes autonomously. This video breaks down how its multi-agent system and self-improving harness outperform traditional AI tools on complex, long-running projects.\n\n00:00 - Intro: Meet Prime Agent\n00:33 - What is Prime Intellect's Prime Agent?\n01:31 - How Self-Improving AI Works\n01:50 - Recursive Language Models Explained\n03:43 - Efficiency and Programmatic Tool Calling\n05:01 - The Multi-Agent Messaging System\n06:23 - Prime Agent vs Claude Code & Cursor\n07:25 - The Future of AI Coding Agents",
-      "commentCount": 21,
-      "likeCount": 181,
+      "description": "🏆 Hostinger: http://hostinger.com/jackhermes\n📈 ALL Systems: https://bit.ly/4kol0y5\n🩵 Free Resources: https://bit.ly/3RNNDLa\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n\n*👋 Howdy*\n\nHey, I'm Jack, I built and sold my last tech startup with a Gazillion customers, now I'm building AI startups and I share stuff that works. I quit my corporate job to do my start-up and have never looked back since.\n\n*💬 Overview*\n\nAfter testing hundreds of Hermes agent skills, these are the 13 that genuinely earn their place. You and I go through them in order, and each one is more powerful than the last. We start with the bouncer that vets every skill before it enters your agent, then grill me for sharper questions, handover documents for moving between agents, the teach me skill, and a skill creator that writes new skills properly. Then we set up Hermes 24/7 on a Hostinger VPS, run the context doctor, pull real research from X, Reddit and YouTube with the last 30 days skill, build designs with 21st.dev, wire up a morning brief through Zapier, generate images with Higgsfield, and finish with the Ministry of Experts mixing Claude, DeepSeek and GLM. It works whether you run Hermes locally or fully hosted.\n\n*Links*\n🏆 Hostinger: http://hostinger.com/jackhermes\n⚡ Hermes: https://nousresearch.com/\n🎨 Higgsfield: https://bit.ly/4fjvSg0\n🔥 Firecrawl: https://bit.ly/4feyw72\n🧩 21st.dev: https://21st.dev/\n⚙️ Zapier: https://bit.ly/4pJhh0K\n🤖 OpenAI: https://openai.com/\n☁️ Claude: https://claude.ai/\n🐳 DeepSeek: https://www.deepseek.com/\n🧊 GLM: https://z.ai/\n📁 GitHub: https://github.com/\n\n⌚️ *Stamps:*\n0:00 - Stop Wasting Time On Bad Skills\n0:34 - Skill 1\n0:48 - Only Best Skills Get In\n1:22 - Skill 2\n1:32 - AI Finally Understands You\n2:04 - Hermes Teaches You Deeply\n2:32 - Skill 3\n2:43 - Perfect Agent Handover Doc\n3:26 - Skill 4\n4:23 - Skill 5\n4:31 - Build Better Skills Automatically\n5:50 - Skill 6\n6:36 - Hermes Runs 24/7 Online\n8:19 - VPS Setup In Minutes\n10:43 - Skill 7\n11:13 - Agent Runs Leaner And Faster\n12:32 - Skill 8\n14:19 - Skill 9\n15:04 - Hermes Learns Anything Instantly\n15:40 - Level 10\n16:19 - Stunning Designs Every Time\n17:32 - Skill 11\n17:38 - Your Perfect Morning Brief\n19:11 - Skill 12\n19:45 - Images And Video On Demand\n20:45 - Skill 13\n21:19 - Multiple AI Experts Collaborate\n23:00 - What's Next\n\nIf you're searching for the best Hermes agent skills, how to run Hermes agent 24/7 on a VPS with Hostinger, connect Higgsfield and Firecrawl, build a morning brief with Zapier, or set up a mixture of agents with Claude, DeepSeek and GLM, this video walks through all 13 step by step.\n\n#HermesAgent #AIAgents #AISkills #Hostinger #Claude #AIAutomation",
+      "commentCount": 1,
+      "likeCount": 8,
+      "probeClient": "web_embedded"
+    },
+    "2iN75PZGb6Y": {
+      "checkedAt": "2026-08-07T21:53:29Z",
+      "embedAllowed": true,
+      "description": "Artificial intelligence is set to transform politics in ways the world has never seen before — and the 2028 election could become the first true AI-driven election. From AI-generated content and political messaging to deepfakes, voter influence, and the future of campaigning, technology is changing how candidates connect with the public.\n------------ \n▶️ WATCH FULL: https://youtube.com/live/o46moS2-5Nk\n\n🎟️ SECURE YOUR 2026 VAULT TICKETS: https://bit.ly/4xU2SCW\n\n👞 GET THE FLB1's: https://bit.ly/4mC4uf6\n\n🧢 SHOP THE BLACK & GOLD FUTURE LOOKS BRIGHT HAT: https://bit.ly/4pe7gZh\n\n🦁 SPONSOR THE VAULT 2026: https://bit.ly/4mFBPpw\n\nⓂ️ CONNECT ON MINNECT: ⁠⁠https://bit.ly/4kSVkso \n\nⓂ️ PBD PODCAST CIRCLES: https://bit.ly/4mAWQAP\n\n👔 BET-DAVID CONSULTING: https://bit.ly/4lzQph2 \n\n🥃 BOARDROOM CIGAR LOUNGE: https://bit.ly/4pzLEXj\n\n🇰 KALSHI: ⁠http://kalshi.com/pbd⁠\n\nSUBSCRIBE TO:\n @VALUETAINMENT    \n @ValuetainmentComedy \n\nABOUT US:\nPatrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal Bestseller “Your Next Five Moves” (Simon & Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida.",
+      "commentCount": 34,
+      "likeCount": 259,
+      "probeClient": "web_embedded"
+    },
+    "EdbSZMpJq8A": {
+      "checkedAt": "2026-08-07T21:53:29Z",
+      "embedAllowed": true,
+      "description": "Scientists at Stanford University successfully used artificial intelligence to create new viruses, which may have some worrisome implications. CBS News' Dr. Celine Gounder reports.\n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.\n\nSubscribe to the CBS News YouTube channel: https://youtube.com/cbsnews\nWatch CBS News 24/7: https://cbsnews.com/live/\nDownload the CBS News app: https://cbsnews.com/mobile/\nFollow CBS News on Instagram: https://instagram.com/cbsnews/\nLike CBS News on Facebook: https://facebook.com/cbsnews\nFollow CBS News on X: https://twitter.com/cbsnews\nSubscribe to our newsletters: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+      "commentCount": 18,
+      "likeCount": 32,
+      "probeClient": "web_embedded"
+    },
+    "QN22t8cREpg": {
+      "checkedAt": "2026-08-07T21:53:29Z",
+      "embedAllowed": true,
+      "description": "Artificial intelligence is influencing how engineers design, develop, verify, and validate complex systems. In this presentation, Mehran Mestchian, who leads control design automation and verification technology development at MathWorks, examines how AI is being integrated into engineering workflows through embedded intelligence, generative AI, and agent-based design. \n\nThe talk outlines the progression from traditional machine learning methods toward AI systems that support iterative, goal-directed design processes. These systems can generate candidate solutions, evaluate results, and refine designs in closed-loop workflows. Rather than replacing established engineering practices, these approaches extend principles such as data-driven development, simulation, testing, and optimization. \n\nA key theme is the integration of AI into engineering design loops while keeping production code generation deterministic. The presentation illustrates how generative and agent-based AI can support earlier design activities—such as concept exploration, model creation from requirements, tradeoff studies, and evaluation-loop setup—before validated models are used to generate traceable, qualifiable production code. It emphasizes that trust depends on rigorous evaluation through simulation, validation, benchmarking, testing, and quality checks. \n\nThe session explores how Model-Based Design evolves as generative AI and agent-based AI become part of engineering work. The emphasis is on where AI is useful: helping engineers explore options, structure design tasks, and run evaluation cycles at a higher level of abstraction. Engineers still define the goals, constraints, guardrails, and acceptance criteria, while simulation, testing, validation, and verification provide the evidence needed to decide whether an AI-suggested result is usable.\n\nWatch to gain insight into how workflows are evolving as AI enters engineering work: where agent-based design can accelerate iteration, where deterministic and verifiable methods remain essential, and where AI can be adopted without weakening engineering discipline.\n\nLearn more about Generative AI with MATLAB and Simulink: https://bit.ly/4foLM8P\n\nChapters:\n00:00 How AI Is Changing Engineering Design\n02:17 MATLAB, Simulink, and Neural Networks\n04:50 Four AI Epochs from Research to Generative AI\n06:27 How AI Reimagines Engineering Design Loops\n09:36 Agentic AI and Engineering Workflow Automation\n12:53 Probabilistic AI vs. Deterministic Engineering Systems\n14:07 Model-Based Design and Generative AI\n20:46 AI with Model-Based Design, MCP Servers, and Simulink\n\n--------------------------------------------------------------------------------------------------------\nGet a free product trial: https://goo.gl/ZHFb5u\nLearn more about MATLAB: https://goo.gl/8QV7ZZ\nLearn more about Simulink: https://goo.gl/nqnbLe\nSee what's new in MATLAB and Simulink: https://goo.gl/pgGtod\n\n© 2026 The MathWorks, Inc. MATLAB and Simulink are registered trademarks of The MathWorks, Inc. \nSee www.mathworks.com/trademarks for a list of additional trademarks. Other product or brand names may be trademarks or registered trademarks of their respective holders.",
+      "commentCount": 0,
+      "likeCount": 26,
+      "probeClient": "web_embedded"
+    },
+    "enaZkrusaV4": {
+      "checkedAt": "2026-08-07T21:53:29Z",
+      "embedAllowed": true,
+      "description": "What if the web browser—the software we've used for more than 30 years—is about to become obsolete?\n\nArtificial intelligence is changing the way we search, browse, shop, learn, and make decisions. Instead of opening dozens of tabs, comparing websites, and spending hours researching, AI browsers could do all the work for us.\n\nIn this documentary, we explore how AI-powered browsers could transform the internet, what this means for Google Chrome, websites, businesses, content creators, and why this may become one of the biggest technological shifts of the decade.\n\nCould AI eventually replace the browser itself?\n\nWatch until the end and let us know what you think.\n\n👍 If you enjoyed this video, please Like, Subscribe, and turn on notifications for more documentaries about artificial intelligence and future technology.\n\n💙 Become a FutureLens Member:\nClick the Join button to support the channel and unlock exclusive member perks.\n\nSpecial Thanks to Our Founding Members:\n• Tim Daniels\n• Armond Wright\n• Inglourious Bradsterd\n• Emiliana Chávez\n\n#AI\n#ArtificialIntelligence\n#AIBrowser\n#FutureTechnology\n#GoogleChrome\n#FutureLens\n#Technology\n#Internet\n#MachineLearning\n#Innovation\n#AITools\n#TechNews\n#DigitalFuture\n#AIRevolution\n#Future",
+      "commentCount": 25,
+      "likeCount": 117,
       "probeClient": "web_embedded"
     }
   }

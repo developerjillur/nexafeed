@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T20:53:28Z",
+  "updatedAt": "2026-08-07T21:53:29Z",
   "items": [
+    {
+      "id": "qEuxFsK7apk",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-08-07T21:42:28Z",
+      "firstSeenAt": "2026-08-07T21:53:29Z"
+    },
+    {
+      "id": "2iN75PZGb6Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Valuetainment",
+      "publishedAt": "2026-08-07T17:53:29Z",
+      "firstSeenAt": "2026-08-07T21:53:29Z"
+    },
+    {
+      "id": "EdbSZMpJq8A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CBS News",
+      "publishedAt": "2026-08-07T16:53:29Z",
+      "firstSeenAt": "2026-08-07T21:53:29Z"
+    },
+    {
+      "id": "QN22t8cREpg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "MATLAB",
+      "publishedAt": "2026-08-07T13:53:29Z",
+      "firstSeenAt": "2026-08-07T21:53:29Z"
+    },
+    {
+      "id": "enaZkrusaV4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "FutureLens",
+      "publishedAt": "2026-08-07T12:53:29Z",
+      "firstSeenAt": "2026-08-07T21:53:29Z"
+    },
     {
       "id": "2pqwu41UdJU",
       "type": "long",
@@ -11026,6 +11066,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-07T21:53:29Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
