@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T09:53:23Z",
+  "updatedAt": "2026-08-07T10:53:24Z",
   "items": [
+    {
+      "id": "uD0nZqCa1ik",
+      "type": "short",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-07T09:30:11Z",
+      "firstSeenAt": "2026-08-07T10:53:24Z"
+    },
+    {
+      "id": "nHZwRo_KOnc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "IQ Labs",
+      "publishedAt": "2026-08-07T08:53:24Z",
+      "firstSeenAt": "2026-08-07T10:53:24Z"
+    },
+    {
+      "id": "Y_FVykFD15I",
+      "type": "short",
+      "source": "secondary",
+      "channel": "WION",
+      "publishedAt": "2026-08-07T06:53:24Z",
+      "firstSeenAt": "2026-08-07T10:53:24Z"
+    },
+    {
+      "id": "tUZfFYhocwM",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Al Jazeera English",
+      "publishedAt": "2026-08-07T04:53:24Z",
+      "firstSeenAt": "2026-08-07T10:53:24Z"
+    },
+    {
+      "id": "qD3cYZVm1Uc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CNN",
+      "publishedAt": "2026-08-07T02:53:24Z",
+      "firstSeenAt": "2026-08-07T10:53:24Z"
+    },
+    {
+      "id": "ctDtDtkqKZA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CBN News",
+      "publishedAt": "2026-08-06T20:53:24Z",
+      "firstSeenAt": "2026-08-07T10:53:24Z"
+    },
     {
       "id": "KaptX19GZ1s",
       "type": "long",
@@ -10407,6 +10455,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-07T10:53:24Z",
+      "new": 6,
+      "long": 3,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
