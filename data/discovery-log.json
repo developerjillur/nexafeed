@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T15:53:15Z",
+  "updatedAt": "2026-08-07T16:53:24Z",
   "items": [
+    {
+      "id": "n_KywlModrE",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-07T16:38:04Z",
+      "firstSeenAt": "2026-08-07T16:53:24Z"
+    },
+    {
+      "id": "0pjlIkFpFmg",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-07T16:27:10Z",
+      "firstSeenAt": "2026-08-07T16:53:24Z"
+    },
+    {
+      "id": "Dt5mPCucbPc",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-07T16:00:11Z",
+      "firstSeenAt": "2026-08-07T16:53:24Z"
+    },
+    {
+      "id": "iii3fcfQL8M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Thomas Creates",
+      "publishedAt": "2026-08-07T14:53:24Z",
+      "firstSeenAt": "2026-08-07T16:53:24Z"
+    },
+    {
+      "id": "WkWSSwo4mAU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Talk Money With Pavan",
+      "publishedAt": "2026-08-07T09:53:24Z",
+      "firstSeenAt": "2026-08-07T16:53:24Z"
+    },
     {
       "id": "l1qzs85Ftpg",
       "type": "short",
@@ -10741,6 +10781,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-07T16:53:24Z",
+      "new": 5,
+      "long": 2,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
