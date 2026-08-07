@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T11:53:25Z",
+  "updatedAt": "2026-08-07T12:53:26Z",
   "items": [
+    {
+      "id": "OU_wL1PnwEM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Life's Little Moments ",
+      "publishedAt": "2026-08-07T11:53:26Z",
+      "firstSeenAt": "2026-08-07T12:53:26Z"
+    },
+    {
+      "id": "-EMKMPxJrWY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "bashbunni",
+      "publishedAt": "2026-08-06T18:53:26Z",
+      "firstSeenAt": "2026-08-07T12:53:26Z"
+    },
     {
       "id": "GuXOwpmwyOQ",
       "type": "short",
@@ -10513,6 +10529,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-07T12:53:26Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
