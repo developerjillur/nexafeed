@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T15:53:44Z",
+  "updatedAt": "2026-08-08T16:53:10Z",
   "items": [
+    {
+      "id": "ag3J9c4nrTo",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-08T16:50:29Z",
+      "firstSeenAt": "2026-08-08T16:53:10Z"
+    },
+    {
+      "id": "Bxn5xG2N5-U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-08T16:30:10Z",
+      "firstSeenAt": "2026-08-08T16:53:10Z"
+    },
+    {
+      "id": "1GkWze_wL6g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "PythonLife Academy ",
+      "publishedAt": "2026-08-08T12:53:10Z",
+      "firstSeenAt": "2026-08-08T16:53:10Z"
+    },
+    {
+      "id": "ukeZWprbaBk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "KNOWLEDGE SHARING",
+      "publishedAt": "2026-08-08T11:53:10Z",
+      "firstSeenAt": "2026-08-08T16:53:10Z"
+    },
+    {
+      "id": "LFJtYZBwnx8",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Absurd Truths & Blatant Lies of the Beaumonts ",
+      "publishedAt": "2026-08-08T03:53:10Z",
+      "firstSeenAt": "2026-08-08T16:53:10Z"
+    },
+    {
+      "id": "57BkUyVbRng",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AIplified ",
+      "publishedAt": "2026-08-07T19:53:10Z",
+      "firstSeenAt": "2026-08-08T16:53:10Z"
+    },
     {
       "id": "kPISGTI62fk",
       "type": "long",
@@ -11733,6 +11781,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-08T16:53:10Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
