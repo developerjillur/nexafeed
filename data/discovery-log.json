@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T00:53:21Z",
+  "updatedAt": "2026-08-08T01:53:29Z",
   "items": [
+    {
+      "id": "3JoMCyRR8rg",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-08T01:00:04Z",
+      "firstSeenAt": "2026-08-08T01:53:29Z"
+    },
+    {
+      "id": "zgkSy29g7vs",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Jorden",
+      "publishedAt": "2026-08-07T18:53:29Z",
+      "firstSeenAt": "2026-08-08T01:53:29Z"
+    },
+    {
+      "id": "CLJpqhKavEY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ali Amin | AI Web Development",
+      "publishedAt": "2026-08-07T18:53:29Z",
+      "firstSeenAt": "2026-08-08T01:53:29Z"
+    },
+    {
+      "id": "1u7iDGphXHs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sean Standberry",
+      "publishedAt": "2026-08-07T16:53:29Z",
+      "firstSeenAt": "2026-08-08T01:53:29Z"
+    },
+    {
+      "id": "oXonq_loJto",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Optimist (Tam Walsh)",
+      "publishedAt": "2026-08-07T15:53:29Z",
+      "firstSeenAt": "2026-08-08T01:53:29Z"
+    },
+    {
+      "id": "Yk2rzG7FhGc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Agency Giants",
+      "publishedAt": "2026-08-07T14:53:29Z",
+      "firstSeenAt": "2026-08-08T01:53:29Z"
+    },
     {
       "id": "__nHgoxrb_I",
       "type": "long",
@@ -11174,6 +11222,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-08T01:53:29Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
