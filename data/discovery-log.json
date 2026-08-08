@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T03:53:34Z",
+  "updatedAt": "2026-08-08T04:53:35Z",
   "items": [
+    {
+      "id": "K-1EgrEVd-o",
+      "type": "long",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-08T04:39:35Z",
+      "firstSeenAt": "2026-08-08T04:53:35Z"
+    },
+    {
+      "id": "aQBHkGLxsek",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-08T04:27:59Z",
+      "firstSeenAt": "2026-08-08T04:53:35Z"
+    },
+    {
+      "id": "zIpVsTrmpds",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-08T01:53:35Z",
+      "firstSeenAt": "2026-08-08T04:53:35Z"
+    },
+    {
+      "id": "yi-XZnAVFJg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "LangChain",
+      "publishedAt": "2026-08-07T17:53:35Z",
+      "firstSeenAt": "2026-08-08T04:53:35Z"
+    },
+    {
+      "id": "FoA9RHUX5IA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-07T17:53:35Z",
+      "firstSeenAt": "2026-08-08T04:53:35Z"
+    },
     {
       "id": "wnkdn9OvKc0",
       "type": "long",
@@ -11305,6 +11345,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-08T04:53:35Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
