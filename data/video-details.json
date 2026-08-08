@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T11:53:31Z",
+  "updatedAt": "2026-08-08T12:53:40Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -3007,12 +3007,12 @@
       "probeClient": "web_embedded"
     },
     "TyB7kLZPVKo": {
-      "checkedAt": "2026-08-01T12:53:34Z",
+      "checkedAt": "2026-08-08T12:53:40Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Sign up for the 100x Applied AI Cohort Waitlist : https://class.100xengineers.com/8ovO5t\nLearn more about the Applied AI cohort : https://www.100xengineers.com/\n\n\nTime stamps:\n\n00:00 - 00:57 - Intro\n00:57 - 02:16 - What is a Claude skill?\n02:16 - 03:51 - How to use a Claude skill?\n03:51 - 06:34 - Level 1: of using Claude skill?\n06:34 - 09:25 - Level 2: Modifying a Claude skill\n09:25 - 15:19 - Level 3: Using partner skills and plugins\n15:19 - 21:52 - Level 4: Creating your own custom skill\n21:52 - 22:44 - Cohort waitlist\n22:44 - 25:15 - Pro tip for making custom Claude skill\n25:15 - 25:45 - Conclusion",
-      "commentCount": 0,
-      "likeCount": 4,
+      "commentCount": 8,
+      "likeCount": 444,
       "probeClient": "web_embedded"
     },
     "MnrgyDbVRzk": {
@@ -5879,10 +5879,10 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-08T11:53:31Z",
+      "checkedAt": "2026-08-08T12:53:40Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "AncgOoIdHaE": {
       "checkedAt": "2026-08-08T01:53:29Z",
@@ -6055,7 +6055,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-08T11:53:31Z",
+      "checkedAt": "2026-08-08T12:53:40Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7190,15 +7190,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "0EwcCWbojfs": {
-      "checkedAt": "2026-08-08T11:53:31Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Anthropic has just launched Claude Opus 5, a new AI model designed for developers - and it could change how software gets built.\n\nThe biggest surprise?\n\nIt delivers performance close to Claude Fable 5 while costing significantly less, making it an attractive option for production engineering.\n\nBut benchmarks only tell part of the story.\n\nIn a real-world coding challenge, Claude Opus 5, Claude Fable 5, and GPT-5.6 Sol were asked to build the same complete 3D model from scratch.\n\nThe results were fascinating:\n\n Claude Opus 5 generated nearly 3,000 lines of code, produced a more accurate 3D model, used proper geometry, and identified technical issues that other models missed.\n GPT-5.6 Sol completed the task much faster and at a much lower cost, making it ideal for rapid prototyping and shorter development cycles.\n\nThe takeaway?\n\nDifferent AI models are being optimized for different workflows.\n\nSome prioritize speed and low cost.\n\nOthers focus on deep reasoning, engineering quality, and production-ready software.\n\nThat's where the AI coding race is heading—not toward one model that does everything, but specialized models for different developer needs.\n\nWhich would you choose: faster and cheaper, or slower with better engineering quality? Let us know in the comments!\n\nWhy Subscribe to BPro?\n\nIf you're serious about AI, software, and technology, BPro helps you stay ahead.\n\nOn this channel, you'll discover:\n\nLatest AI breakthroughs\nAI coding tools & developer workflows\nClaude, ChatGPT, Gemini & open-source AI updates\nHidden GitHub repositories\nAI automation & productivity tools\nStartup and SaaS insights\nPractical AI tutorials that save time and money\n\nWe don't just report AI news we explain what it means for developers, founders, creators, and businesses.\n\n Subscribe to BPro and never miss the next big AI breakthrough.\n\n#ClaudeAI #Anthropic #AI #Coding #ArtificialIntelligence\n\nAI, artificial intelligence, Claude Opus 5, Claude AI, Anthropic, GPT-5.6, GPT 5.6 Sol, ChatGPT, AI coding, AI programming, coding AI, AI developer tools, AI for developers, software engineering, AI coding assistant, Claude Code, AI news, latest AI news, AI updates, AI comparison, Claude vs GPT, GPT vs Claude, best AI for coding, AI models, AI reasoning, AI productivity, programming, developer tools, software development, coding tutorial, AI tutorial, OpenAI, machine learning, generative AI, frontier AI, AI breakthroughs, best AI tools, AI workflow, startup tools, technology news, tech news, what is Claude Opus 5, how to use Claude AI, AI coding comparison, future of AI",
-      "commentCount": 5,
-      "likeCount": 73,
-      "probeClient": "web_embedded"
-    },
     "bX-eeXvGRjM": {
       "checkedAt": "2026-08-08T11:53:31Z",
       "embedAllowed": true,
@@ -7215,6 +7206,17 @@
       "description": "Notion : https://actually-hygienic-25a.notion.site/Deepseek-V4-Flash-3b4d71053bda805e98d3cb00742d81e2?pvs=143\n\n🚀 DeepSeek V4 Flash FREE! Claude Desktop + VS Code + OpenCode + 30 MILLION FREE TOKENS 🤯\n\nWant to use DeepSeek V4 Flash FREE inside Claude Desktop, Claude Code, VS Code, and OpenCode without paying for expensive AI subscriptions?\n\nIn this complete 2026 working tutorial, I'll show you how to configure DeepSeek V4 Flash inside Claude Desktop, Claude Code CLI, VS Code, and OpenCode using the latest setup method. You'll learn how to create your account, generate API keys, configure everything step by step, verify your setup, troubleshoot common issues, and unlock an additional 30 MILLION FREE TOKENS for AI coding workflows.\n\nIf you're looking for the latest working method to use DeepSeek V4 Flash with Claude Desktop, Claude Code, VS Code, and OpenCode, this end-to-end guide covers everything from installation to testing.\n\n📚 What You'll Learn\n✅ Install Claude Desktop\n✅ Install Claude Code CLI\n✅ Configure VS Code\n✅ Configure OpenCode\n✅ Configure DeepSeek V4 Flash\n✅ Generate API Keys\n✅ Configure Gateway\n✅ Update settings.json\n✅ Test DeepSeek V4 Flash\n✅ Connect Claude Desktop\n✅ Connect OpenCode\n✅ Verify API Requests\n✅ Fix Common Errors\n✅ Unlock 30 Million FREE Tokens\n✅ Complete AI Coding Workflow\n\n🔥 Why This Setup Is Powerful\n\n✔ DeepSeek V4 Flash FREE\n✔ Claude Desktop Integration\n✔ Claude Code Workflow\n✔ VS Code Integration\n✔ OpenCode Integration\n✔ AI Coding Workflow\n✔ 30 Million FREE Tokens\n✔ Beginner Friendly\n✔ Latest 2026 Working Method\n✔ Real AI Coding Demo\n✔ End-to-End Setup\n\n🎯 Perfect For People Searching\n\n👉 DeepSeek V4 Flash\n👉 DeepSeek V4 Flash Tutorial\n👉 DeepSeek V4 Flash FREE\n👉 DeepSeek V4 Flash Setup\n👉 Claude Desktop Tutorial\n👉 Claude Desktop Setup\n👉 Claude Desktop FREE\n👉 Claude Code Tutorial\n👉 Claude Code Setup\n👉 Claude Desktop VS Code\n👉 Claude Code VS Code\n👉 OpenCode Tutorial\n👉 OpenCode Setup\n👉 VS Code AI Coding\n👉 AI Coding Assistant\n👉 Free AI Coding Tools\n👉 AI Developer Workflow\n👉 Claude Desktop 2026\n👉 DeepSeek AI Coding\n👉 DeepSeek Claude Desktop\n\n\n👉 Claude Desktop : https://claude.ai/download\n👉 VS Code Download : https://code.visualstudio.com/download\n\n⏱️ Chapters\n\n00:00 DeepSeek V4 Flash FREE + 30M Tokens\n01:15 Overview\n02:35 Create Account\n05:20 Generate API Key\n07:10 Configure Gateway\n09:45 Install Claude Code CLI\n12:20 Configure VS Code\n15:30 Configure OpenCode\n18:40 Update settings.json\n21:30 Test DeepSeek V4 Flash\n23:45 Unlock 30 Million Tokens\n25:55 Final Thoughts\n\nPerfect for:\n\nDevelopers using Claude API\nAI / Data Science learners\nBeginners exploring LLMs\nPeople looking for free AI tools\nAnyone wanting to reduce AI API cost\n\n🎥 Gear & Products I Use (Affiliate Links)\n\n🎙️ Hollyland Lark M2 Combo : https://amzn.to/4nqWpst\n💡 Digitek Ring Light : https://amzn.to/4oLDauW\n📷 Digitek Tripod : https://amzn.to/43BjscY\n💻 My Laptop Lenovo LOQ 2025 AMD Ryzen 7 250| NVIDIA RTX 5050 8GB : https://amzn.to/4ocqbCp\n🎬 My Gaming Chair: https://amzn.to/4qAYrsI\n\n🔎 Keywords\nDeepSeek V4 Flash, DeepSeek V4 Flash FREE, DeepSeek V4 Flash tutorial, DeepSeek V4 Flash setup, DeepSeek AI, free ai coding assistant, claude code alternative, opencode tutorial, opencode setup, vscode ai coding, antigravity tutorial, ai coding tools, cloudflare workers ai, coding with ai, ai developer workflow, free coding model, ai coding assistant 2026, glm ai model, ai agents, ai coding workflow, developer ai tools , \nclaude code free, claude code models free, claude opus 4.8 free, claude fable 5, glm 5.2, claude code tutorial, claude code setup, claude code vscode, free ai coding assistant, ai coding workflow, api key setup, vscode ai extension, claude alternative, glm tutorial, ai developer tools, coding with ai, llm coding, free llm, ai agents , claude fable 5 free, claude desktop setup 2026, free claude api key, claude code vs code, claude opus 4.8 free, claude ai hindi, anthropic claude free, claude desktop tutorial, free ai coding assistant, claude code cli setup\n\n\n📌 Hashtags\n#DeepSeek #DeepSeekV4\n#GLM52 #ClaudeCode #OpenCode #VSCode #Antigravity #AICoding #GenerativeAI #LLM  #ArtificialIntelligence #ClaudeCode #ClaudeOpus #GLM52 #VSCode #AICoding #GenerativeAI #ClaudeAI #AIAgents #LLM #DeveloperTools #ArtificialIntelligence #ClaudeFable5 #ClaudeDesktop #FreeClaudeAPI #ClaudeCode #ClaudeOpus #FreeAI #anthropic \n\n📢 Disclaimer\nThis video is created for educational purposes and demonstrates the use of officially available AI software, APIs, and developer tools. All trademarks belong to their respective owners. Please use these services in accordance with their official Terms of Service and licensing policies. Any free credits, trial offers, or promotional programs mentioned are offered by the respective providers and may change, expire, or become unavailable at any time. This video does not promote unauthorized access, circumvention of payment systems, or misuse of any platform.",
       "commentCount": 13,
       "likeCount": 49,
+      "probeClient": "web_embedded"
+    },
+    "scXxe-79Qb0": {
+      "checkedAt": "2026-08-08T12:53:40Z",
+      "embedAllowed": true,
+      "description": "A 24-year-old AI researcher reportedly turned his belief in the AI infrastructure boom into a $45 million hedge fund and at one point, the fund was up an astonishing 439%.\n\nHis thesis was simple: as AI models become more powerful, the world will need enormous amounts of GPUs, chips, memory, data centers, and electricity.\n\nAnd for a while, the bet worked.\n\nThen the market turned.\n\nAfter Meta signaled that it had more AI computing capacity than it currently needed, investors began questioning whether the massive demand for AI infrastructure could continue at the same pace.\n\nThe bigger problem was leverage.\n\nThe fund had borrowed money to make larger bets. When AI infrastructure stocks fell, lenders demanded additional capital. When that money couldn't be raised quickly enough, positions were forcibly sold.\n\nThe result?\n\nA fund worth around $45 million was effectively wiped out in roughly 36 hours.\n\nAnd that's the uncomfortable lesson behind the story:\n\nBeing right about the future isn't enough. You also need enough capital and risk management to survive the present.\n\nThe AI boom may still be one of the biggest technological shifts in history — but that doesn't mean every AI investment will win.\n\nSo what do you think?\n\nWas this simply bad risk management, or does this story expose something deeper about the AI investment bubble?\n\n Comment your take below.\n\n Why Subscribe to BPro?\n\nAt BPro, we go beyond the headlines to explain the bigger picture behind AI, startups, technology, investing, AI infrastructure, and the businesses being built around the next technological revolution.\n\nSubscribe for:\n\nAI breakthroughs and major developments\nAI startup and business stories\nAI infrastructure and chip trends\nOpenAI, Anthropic, Google and NVIDIA updates\nAI tools and technologies\nStartup strategy and market shifts\nThe bigger picture behind the AI hype\n\nDon't just follow the AI news. Understand what it actually means.\n\nSubscribe to BPro for more AI stories, technology insights, and future-focused analysis.\n\n#AI #ArtificialIntelligence #AIBoom #NVIDIA #TechNews\n\nAI news, latest AI news, AI news 2026, artificial intelligence, AI investing, AI investment, AI stocks, AI bubble, AI boom, AI market, AI infrastructure, AI chips, AI chip boom, NVIDIA AI, NVIDIA news, Meta AI, AI startups, AI companies, AI technology, technology news, latest technology news, future of AI, what is AI, why is AI important, how AI works, AI explained, AI business, AI economy, AI industry, AI trends, AI predictions, AI future, AI revolution, AI data centers, AI GPUs, semiconductor stocks, semiconductor industry, GPU shortage, AI computing, data center boom, AI investment strategy, hedge fund, hedge fund story, investing explained, stock market news, finance news, tech investing, startup news, billionaire stories, business news, AI business news, AI market crash, AI stocks crash, AI bubble explained, what happened to AI stocks, why are AI stocks falling, AI investment news, latest AI updates, AI breakthrough, AI technology updates",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-08T12:53:40Z",
+      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     }
   }

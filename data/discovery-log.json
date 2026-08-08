@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T11:53:31Z",
+  "updatedAt": "2026-08-08T12:53:40Z",
   "items": [
+    {
+      "id": "scXxe-79Qb0",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-08T11:59:42Z",
+      "firstSeenAt": "2026-08-08T12:53:40Z"
+    },
     {
       "id": "92Z5ZyRor58",
       "type": "short",
@@ -11577,6 +11585,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-08T12:53:40Z",
+      "new": 1,
+      "long": 0,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
