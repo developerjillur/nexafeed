@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T04:53:35Z",
+  "updatedAt": "2026-08-08T05:53:35Z",
   "items": [
+    {
+      "id": "KcWMEClciv4",
+      "type": "short",
+      "source": "secondary",
+      "channel": "AI with Senthil Rajamarthandan",
+      "publishedAt": "2026-08-08T05:23:35Z",
+      "firstSeenAt": "2026-08-08T05:53:35Z"
+    },
+    {
+      "id": "dCw_gU9tc5o",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jayasim Jayakumar",
+      "publishedAt": "2026-08-08T04:58:35Z",
+      "firstSeenAt": "2026-08-08T05:53:35Z"
+    },
+    {
+      "id": "135loN-IbeA",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Washera Academy",
+      "publishedAt": "2026-08-08T04:53:35Z",
+      "firstSeenAt": "2026-08-08T05:53:35Z"
+    },
+    {
+      "id": "RZAYs47SHmQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Business Microlearning",
+      "publishedAt": "2026-08-07T23:53:35Z",
+      "firstSeenAt": "2026-08-08T05:53:35Z"
+    },
     {
       "id": "K-1EgrEVd-o",
       "type": "long",
@@ -11354,6 +11386,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-08T05:53:35Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 20,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }

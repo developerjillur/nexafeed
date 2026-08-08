@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T04:53:35Z",
+  "updatedAt": "2026-08-08T05:53:35Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -6002,7 +6002,7 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-08T04:53:35Z",
+      "checkedAt": "2026-08-08T05:53:35Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6166,19 +6166,19 @@
       "probeClient": "web_embedded"
     },
     "mssNUJmMJRg": {
-      "checkedAt": "2026-08-07T05:53:20Z",
+      "checkedAt": "2026-08-08T05:53:35Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 0,
-      "likeCount": 32,
+      "likeCount": 236,
       "comments": [],
-      "commentsFetchedAt": "2026-08-07T05:53:20Z",
+      "commentsFetchedAt": "2026-08-08T05:53:35Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-08T04:53:35Z",
+      "checkedAt": "2026-08-08T05:53:35Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6217,24 +6217,6 @@
       "commentsFetchedAt": "2026-08-07T07:53:11Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
-    },
-    "0g1BRdHgIM0": {
-      "checkedAt": "2026-08-07T12:53:26Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "jO2Rturffu8": {
-      "checkedAt": "2026-08-07T12:53:26Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "7cZ9PtKHXk8": {
-      "checkedAt": "2026-08-07T07:53:11Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
     },
     "vVu2zfW9nMc": {
       "checkedAt": "2026-08-07T08:53:17Z",
@@ -6861,14 +6843,6 @@
       "likeCount": 19,
       "probeClient": "web_embedded"
     },
-    "Yh4eL60Ncxs": {
-      "checkedAt": "2026-08-07T20:53:28Z",
-      "embedAllowed": true,
-      "description": "AI coding agents can solve increasingly difficult problems. But can they keep solving them after the codebase starts fighting back?\n\nIn this episode of AI That Works, Dex and Vaibhav dig into Slop Code Bench, a benchmark designed to test something traditional coding benchmarks often miss: what happens when an agent has to keep extending the same codebase without knowing what requirements are coming next. Instead of judging a single solution in isolation, the benchmark adds new challenges over time and measures whether models can make progress without accumulating defects, regressions, and unmaintainable code.\n\nThey break down new results across models including Sol, Fable, Kimi, and GPT, looking at strict pass rates, cost, defects, code complexity, and the surprising relationship between spending more and producing better results. The conversation also moves beyond the leaderboard into a bigger question: what would an AI coding agent actually have to prove before engineers could trust it to work without constant human supervision?\n\nTIMESTAMPS\n00:00 How Much AI-Generated Code Do You Need to Read?\n00:28 Episode Overview: Putting Slop Code Bench to the Test\n01:21 Why AI Coding Benchmarks Matter\n03:10 AI That Works Unconference Announcement\n04:59 How Slop Code Bench Tests Real Software Development\n08:09 A Real Example of Requirements Getting More Complex\n09:25 Strict Pass Rate vs. Solving the Current Problem\n13:13 How Sol, Fable, Kimi, and GPT Actually Performed\n15:20 What Happens If AI Gets the Problem Upfront?\n18:18 Why Sol's Benchmark Results Don't Match Real-World Experience\n20:37 Does Spending More Money Produce Better Code?\n21:56 Why AI Planning May Matter Less Now\n25:39 Comparing Cost, Defects, and Model Performance\n28:05 Measuring the Slop AI Leaves Behind\n30:03 Can AI Recognize When Its Architecture Needs to Change?\n32:14 Comparing Code Quality Across Models and Harnesses\n35:00 The Real Cost of Running AI Coding Benchmarks\n37:10 How Should Slop Code Bench Evolve Next?\n39:02 What Makes You Trust AI to Work Lights Off?\n41:17 Three Ways to Make Coding Benchmarks More Realistic\n43:07 How Do You Avoid Disaster When Humans Stop Reading?\n44:00 How MCPs and Skills Change Coding Agent Performance\n45:38 Should You Delete Agent Instructions for Every New Model?\n49:16 When AI Skills Actually Belong in Your Codebase\n51:32 Making Claude and Codex Review Each Other's Work\n\n#AIThatWorks #AICoding #CodingAgents #AIEngineering #SoftwareEngineering #SlopCodeBench #CodeQuality #LLMs #DeveloperTools",
-      "commentCount": 17,
-      "likeCount": 31,
-      "probeClient": "web_embedded"
-    },
     "qEuxFsK7apk": {
       "checkedAt": "2026-08-07T21:53:29Z",
       "embedAllowed": true,
@@ -6931,14 +6905,6 @@
       "description": "Link to Resources: https://thenextnewthing.ai/l/github-repos-aug7\nPresented by Zapier: https://zapier.com/\nAndrew Warner and Peter Cooper break down this week's top GitHub repos for AI memory, coding agents, local models, developer workflows, and AI-powered productivity.\n\nAndrew Warner is joined by Peter Cooper to review the most interesting GitHub repositories of the week. They cover reverse engineering assistants, Microsoft's AI curriculum, running large models on low-end GPUs, Buzz, shared AI memory for teams, turning books into reusable AI skills, open-source alternatives to Claude CoWork, AI response formatting, low-cost terminal coding agents, and terminal-based code review tools. They also discuss where these projects fit into real AI workflows and which ones are worth trying today.\n\nRepos featured:\n\n- Reverse Engineering Router (Reverse Skill)\n- Microsoft AI for Beginners\n- AirLLM\n- Zapier MCP\n- Buzz\n- TencentDB Agent Memory\n- Book to Skill\n- OpenWork\n- I Have ADHD\n- DeepSeek Reasonix\n- Tuicr\n- Ion Jarvis\n\n00:00 - Reverse Engineering Router: Route AI coding agents to the right reverse engineering and security tools.\n02:13 - Microsoft AI for Beginners: A free 12-week course covering AI fundamentals and transformer models.\n03:29 - AirLLM: Run massive AI models on small GPUs by loading model layers on demand.\n04:52 - Zapier MCP: Securely connect AI agents to thousands of apps with granular permissions.\n05:44 - Buzz: Jack Dorsey's AI workspace for agents, coding, and team collaboration.\n07:49 - TencentDB Agent Memory: Give AI agents persistent shared memory across an entire team.\n09:57 - Book to Skill: Turn books into reusable AI skills that agents can apply to real work.\n13:16 - OpenWork: Run Claude CoWork-style workflows with over 50 AI models.\n14:58 - I Have ADHD: Reformat long AI responses into concise, actionable summaries.\n16:49 - DeepSeek Reasonix: A low-cost terminal coding agent optimized for DeepSeek models.\n19:26 - Tweaker: Review AI-generated code changes quickly from the terminal with keyboard shortcuts.\n21:22 - Ion Jarvis: A local-first AI operating system built by a community member and showcased on GitHub.\n\nSend us your AI builds: hi@thenextnewthing.ai\n\nMedia/Sponsorship Inquiries: https://thenextnewthing.ai/l/sponsor\n\n👉 Join us: https://thenextnewthing.ai/",
       "commentCount": 14,
       "likeCount": 186,
-      "probeClient": "web_embedded"
-    },
-    "el7GQt2_1kE": {
-      "checkedAt": "2026-08-08T00:53:21Z",
-      "embedAllowed": true,
-      "description": "There’s a new movement happening in the tech industry - big tech is aqui-hiring founders and key team members of opposing startups and essentially shutting down the competition. They’re destroying their competition, not by buying the companies, but by removing key members or licensing the product as a legal monopoly.\n\nThe AI economy is feeding on itself and open ai is at the center of it all. Nvidia invests in them, and open AI goes back and buys their chips. The same is happening with Microsoft, AMD, anthropic etc. it’s a web of investments that bring valuations up and keep control of company value within the circle of AI and tech companies \n\n💻 [AI Tools for Beginners]  💻\nClaude [Best LLM for coding summarization] : https://claude.ai/login?returnTo=%2F%3F\nAugment [Best Agent (VS extension) as Coding Assistant]: https://www.augmentcode.com\nCursor [Best AI IDE]: https://cursor.com\nIBM watsonx Orchestrate [Best for Building AI Agents]: https://www.ibm.com/products/watsonx-orchestrate\n\n🤖 AI DEVELOPER TOOLS 🤖\nCodex [Best Code Summarization]: https://openai.com/codex/\nAugment [Best IDE Coding Tool]: https://www.augmentcode.com\nReplit [Cloud Based AI Tool]: https://replit.com/\nN8n [Agent Builder]: https://n8n.io/\nHugging Face [LLM Libraries]: https://huggingface.co\n\n📗 [Check Out These AI/Coding Courses] 📗\nAI Python for Beginners:  https://www.deeplearning.ai/short-courses/ai-python-for-beginners/ \nCS50 Intro to AI (with Python) : https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python\nDSA in GO: https://www.udemy.com/course/go-data-structures-algorithms-and-design-patterns-with-go\n\n📒  [ZERO TO MASTERY Courses] 📒 -- this is great to level up your skills!\nAI Courses: https://links.zerotomastery.io/AICourses_Pooja_Sept25\nCareer Paths: https://links.zerotomastery.io/CareerPaths_Pooja_Sept25\nCareer Path Quiz: https://links.zerotomastery.io/CPQuiz_Pooja_Sept25\n\n🌈[RESOURCES]🌈[\n📒 AWS: https://aws.amazon.com/training/digital/\n🎙️Azure: https://www.udemy.com/course/microsoft-azure-from-zero-to-hero-the-complete-guide\n📕Docker: https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide\n👾AI Cert: https://www.coursera.org/professional-certificates/ai-engineer\n🎆Sytem Design/Distributed Systems: https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers\n\n[CONTACT]📧\n🎙️1:1 Career Coaching!!! https://calendly.com/d/yp4-qgs-sfh/60min\n📒 Brand Collaborations: pooja@smoothmedia.co\n📚 Instagram: https://www.instagram.com/poojaduttttt/\n👾 Discord: https://nas.io/pooja-dutts-tech-community",
-      "commentCount": 15,
-      "likeCount": 168,
       "probeClient": "web_embedded"
     },
     "3JoMCyRR8rg": {
@@ -7005,14 +6971,6 @@
       "likeCount": 2,
       "probeClient": "web_embedded"
     },
-    "Yk2rzG7FhGc": {
-      "checkedAt": "2026-08-08T01:53:29Z",
-      "embedAllowed": true,
-      "description": "The Agency Giants Podcast - Episode 37 (Niall Ratcliffe)\n__________________________________________\nNiall Ratcliffe runs the UK's #1 LinkedIn agency, & he says everyone is using the platform wrong!\n\nHis argument is simple.\n\nLinkedIn isn't a social media platform. It's a rolodex.\n\nIt's the easiest platform to get in front of your dream clients & start a conversation with them.\n\nIf you've been posting on LinkedIn & getting nothing back, this one will make everything click.\n\nNiall's LinkedIn: https://uk.linkedin.com/in/niall-ratcliffe\nNoticed. agency: https://www.noticed.co/\n__________________________________________\nGet your next 10 clients, guaranteed 👉 https://www.affluent.academy/?utm_source=youtube&utm_medium=video&utm_campaign=agencypod&utm_term=interview&utm_content=556d\n__________________________________________\nFREE Agency Owners Community: https://www.skool.com/agencyowners\n__________________________________________\nhttps://www.youtube.com/playlist?list=PLdO5xp5occOyeEZ2GCD21gqDKLz8Z8-Ak\n__________________________________________\n🎧 Stream on your favorite audio platform:\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/the-agency-podcast/id1755717870\nSpotify: https://open.spotify.com/show/0jmr989Mkl4EJQ6AyAzJfE\nAmazon Music: https://music.amazon.com/podcasts/64e31809-88d4-43a3-b2e3-e59caf73aec4/the-agency-podcast\n__________________________________________\nFollow us on all platforms:\n\nInstagram: https://www.instagram.com/agencygiantspodcast/\nFacebook: https://www.facebook.com/agencygiantspodcast/\nTikTok: https://www.tiktok.com/@agencygiants\n__________________________________________\n00:00 Introduction\n01:02 Why LinkedIn Is a Networking Platform, Not Social Media\n02:57 Noticing the Million $ LinkedIn Opportunity at 19\n08:08 How the Supply & Demand Shift Killed LinkedIn's Organic Reach\n11:27 Awareness Content, Fishing Content & Why Positioning Beats Posting\n19:17 Building a Content Process & Using AI Without the Drivel\n23:48 The LinkedIn Pyramid: Adding Your ICP & Starting Conversations\n28:38 Outreach That Converts: Connection Data, Lead Magnets & Automation\n38:49 \"Your Brand Sucks\": Dom McGregor, 10x Pricing & Team Structure\n47:07 Talent, Employee-Generated Content & Doing More With a Smaller Team\n56:38 The Future of the Agency Model & LinkedIn's Next Five Years\n1:07:02 Starting From Zero & Why You Should Get a Job First\n1:14:43 The Long-Term Vision & Rapid Fire Questions",
-      "commentCount": 2,
-      "likeCount": 40,
-      "probeClient": "web_embedded"
-    },
     "T0YRAGvi7Ds": {
       "checkedAt": "2026-08-08T02:53:40Z",
       "embedAllowed": true,
@@ -7065,15 +7023,6 @@
       "description": "► Learn YouTube Automation From Saad Rashid:\n(Talk to My Team on WhatsApp)\nhttps://wa.link/1bi21h | +92 336 3668070\n \n►To be part of our Interview Series Contact us at :\nhttps://wa.link/rh23hy | +92 3167448791\n\n►Get AI Voiceovers from Speaksay:\nhttps://www.speaksay.com/saad\n\n► Try VidIQ in $1 only:\nhttps://www.vidiq.com/saad\n\n► Join Our WhatsApp Channel for Quick Updates\nhttps://whatsapp.com/channel/0029VaCtUgsHrDZjDLK4CQ0w\n\n► Join YouTube Automation Mastery Course at 50% Discount (For Today):\nhttps://www.saadrashid.net\n\n► Join The Biggest YouTube Automation Community on Facebook\nhttps://bit.ly/49ZrygP\n------------------------------------------\n\n“Saad Rashid” is the pioneer YouTube channel of Pakistan, which started talking about YouTube Automation and Faceless Channels back in 2022.\n\nHere, we talk about all of the AI tools used for content creation of faceless youtube channels.\n\nSubscribe if you want to be a faceless YouTube Creator.\n\nوَتُعِزُ مَن تَشَاء وَتُذِلُ مَن تَشَاء\n\n-------------------------------------------\n\nCONNECT ON OTHER NETWORKS:\n\nFacebook: https://www.facebook.com/thesaadrashid\nInstagram: https://www.instagram.com/saaadrashid\nTikTok: https://www.tiktok.com/@thesaadrashid\nMail: contact.saadrashid@gmail.com\n\n-------------------------------------------\n\nTime Stamps:\n0:00 Highlights \n0:37 Introduction \n1:36 Guest Introduction\n4:05 Niche & Reference Clip \n6:36 First Video Results\n7:53 Guest YouTube Journey\n8:54 Content strategy & Audience \n10:51 Monitization Timeline\n12:36 Idea Selection & Scripting \n13:43 Video Editing \n14:57 Practical Training \n23:29 Message For Beginners \n24:56 Ending Note\n\nDisclaimer:\nThis video is just a Case Study of a guest. The results and success shared by the guest in this video are based on their personal experiences and efforts. These outcomes are subjective and not guaranteed for everyone. The purpose of this interview is purely educational—to share insights and experiences related to faceless YouTube channels.\n\nPlease note that the guest is here solely to provide knowledge. If you choose to engage with them privately or make any payments to them afterward, Team Saad Rashid holds no responsibility for any outcomes, miscommitments, or disputes. We strongly advise you to do your own due diligence before entering into any collaboration or financial transaction.\n\n#youtubeautomation",
       "commentCount": 238,
       "likeCount": 883,
-      "probeClient": "web_embedded"
-    },
-    "AJnDyBLKRZs": {
-      "checkedAt": "2026-08-08T03:53:34Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "I grew Polsia from my laptop, building an AI that lets anyone become a founder. From hustling to get my first 10 users to letting my AI raise $30M by itself. Here are the exact growth hacks I used to get to a $250M valuation. \n\nHope you enjoy, and subscribe to stay tuned for the next ones.\n\nTry Polsia: https://polsia.com\nX: https://x.com/Bencera\nInstagram: https://www.instagram.com/bencera",
-      "commentCount": 58,
-      "likeCount": 266,
       "probeClient": "web_embedded"
     },
     "K-1EgrEVd-o": {
@@ -7133,6 +7082,42 @@
       "description": "Get the Agent OS &  Chinese AI 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nTencent HY3: The Insane New AI Outperforming GPT 5.5\n\nDiscover Tencent's HY3, a massive 295B parameter model that is dominating benchmarks and handling complex AI agent workflows with ease. Learn how to access this open-source powerhouse for free and implement high-level automation in your business today.\n\n00:00 - Intro\n00:19 - HY3 Architecture & Efficiency\n01:07 - Real-World Workflow Performance\n02:35 - HY3 vs GPT 5.5 Benchmarks\n04:24 - Accessing HY3 via WorkBuddy\n04:50 - Content & Email Automation Prompts\n07:55 - AI Success Lab & Resources",
       "commentCount": 4,
       "likeCount": 51,
+      "probeClient": "web_embedded"
+    },
+    "dCw_gU9tc5o": {
+      "checkedAt": "2026-08-08T05:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Artificial Intelligence promised to make us smarter — but what if it is quietly rewiring how we think, remember, and connect with one another? In this deep-dive documentary, we uncover the hidden side of Generative AI systems like ChatGPT, developed by OpenAI, alongside Google Gemini, Claude, and Perplexity. Drawing on a landmark study from the Massachusetts Institute of Technology (MIT) titled \"Your Brain on ChatGPT,\" we explore how over-reliance on these tools can dull critical thinking, weaken memory, and create a convincing illusion of learning. We examine real cases involving Samsung, the mental-health platform Koko, and outsourced data workers in Nairobi, Kenya, revealing the human and privacy cost behind the technology we use every day. Most importantly, you will learn practical, science-backed strategies to protect your mind and treat AI as a true assistant. This is not a story about fear — it is about becoming a strategist in the age of Artificial Intelligence.\n\n#jayasimjayakumar #jayasim #generativeai #artificialintelligence #chatgpt #aiawareness #digitalliteracy #openai #aiethics #techdocumentary #tamildocumentary #beyondtheobvious #aisafety #futureoftech\n----------------------------------\n🎓 JOIN JAYASIM LABS COURSES:\n💰 Crypto Mastery: https://geni.us/crypto-101\n🤖 Generative AI Course: https://geni.us/genai\n🧠 AI Masterclass: https://geni.us/ai-masterclass\n🏆 Join Live AI Workshop | Agentic AI Deep Dive - https://geni.us/ai-workshop\n\n💥 Use code JJGET20 for a flat 20% off on any course!\n----------------------------------\nCOMMUNITIES:\n🌐 Join AI Community - https://geni.us/ai-community\n💰 Crypto Community: https://geni.us/crypto-with-jayasim\n----------------------------------\nGADGETS I USE:\n🎥 Sony Alpha FX3 - https://geni.us/y5Rk\n🎬 Sony FE 24-70mm - https://geni.us/OCAJC6L \n📽 Benro Mach3 Tripod - https://geni.us/xBLYW\n🔆 Aputure Amaran Light - https://geni.us/MKO7yz \n💡 Godox Parabolic Softbox - https://geni.us/kc3S \n🎙 Shure SM7B Microphone - https://geni.us/rBBgR\n🎙 DJI Mic - https://geni.us/cBUN9  \n➛ Other Products I Use - https://geni.us/JayasimProducts\n\nWATCH NEXT:\n🔬Science: https://www.youtube.com/playlist?list=PLXk_dwKqSL5rCQgSz2Dk6HeIbvG9SD2AK\n🍿 Geo Politics: https://www.youtube.com/playlist?list=PLXk_dwKqSL5onbLNrcj_hGCXRyDGUxNpP\n📘 History: https://www.youtube.com/playlist?list=PLXk_dwKqSL5oXGt6i_sMTvhSA1NqlQqpH\n☠️ Mystery: https://www.youtube.com/playlist?list=PLXk_dwKqSL5rqwJd2zHL20wgXOfaiSU9E\n💰 Finance: https://www.youtube.com/playlist?list=PLXk_dwKqSL5r8uG3Ow_XJ5T1Lbd872OTi\n📸 Society: https://www.youtube.com/playlist?list=PLXk_dwKqSL5qkcqJ2QBTeRqeOjiBubz5v\n🔆 Current Affairs: https://www.youtube.com/playlist?list=PLXk_dwKqSL5pw7MRkO1YxpAu8VSIWPdoK\n\nMY OTHER SOCIALS:\n🔹 WhatsApp: https://whatsapp.com/channel/0029Vafg9WO0VycDzV26XN32\n🐦 X: https://twitter.com/jayasim\n📸 Instagram: https://www.instagram.com/jayasimjayakumar/\n📩 My weekly newsletter: https://jayasim.substack.com/\n\nDISCLAIMER:\n⚠️ Read through my YouTube disclaimer policy here: https://jayasim.com/disclaimer\nIf you identify any inaccuracies or have concerns, we encourage you to contact us at contact@jayasim.com (subject: Feedback on [Video Title]) so we can address and resolve the matter promptly and amicably.\n🌐 Link to all sources: https://jayasim.com/video-resources\n📝 Factual errors will be noted on this page - https://jayasim.com/corrections\n\nTIMESTAMPS:\n00:00 Introduction\n02:10 MIT Study Your Brain on ChatGPT\n04:42 Digital Amnesia and Google Effect\n06:18 Illusion of Learning and Hallucinations\n09:03 AI as a Synthetic Companion\n10:52 Risks of Blindly Trusting AI\n12:54 The Hidden Human Cost in Kenya\n14:45 AI Scams and Data Leaks\n18:03 Jailbreaking and Hidden Dangers\n21:07 How to Use AI Safely",
+      "commentCount": 6,
+      "likeCount": 46,
+      "probeClient": "web_embedded"
+    },
+    "KcWMEClciv4": {
+      "checkedAt": "2026-08-08T05:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What if AI had a universal passport to connect with the digital world? 🌍🤖\n\nImagine an AI that doesn't just answer questions—but can connect with tools, access information, interact with applications, and perform tasks.\n\nThis is where MCP (Model Context Protocol) becomes important.\n\nIn this video, we explain Model Context Protocol (MCP) through a simple “connected kingdoms” story, making a complex AI concept easier to understand.\n\nThink of MCP as a universal passport for AI—a standardized way for AI applications to connect with external tools, data sources, and services.\n\n🤖 What You'll Learn\n\nIn this video, you'll understand:\n\n✅ What is MCP?\n✅ What is Model Context Protocol?\n✅ Why does AI need MCP?\n✅ How can AI connect to external tools?\n✅ How does MCP help AI agents?\n✅ How can AI access external data and context?\n✅ Why connected AI systems are becoming important\n✅ The relationship between MCP, Generative AI and AI Agents\n\n🌍 MCP Explained With a Simple Analogy\n\nImagine multiple kingdoms, each with its own systems, tools and information.\n\nAn AI may be powerful, but without the right connection, it cannot easily interact with those kingdoms.\n\nMCP acts like a universal passport.\n\nIt provides a standardized way for AI applications to communicate with external capabilities.\n\nThat's why MCP is becoming an important concept to understand as AI agents move beyond simple conversations and start interacting with the digital world.\n\n🔑 Why Does MCP Matter?\n\nModern AI applications increasingly need to:\n\n• Access external information\n• Use software tools\n• Interact with applications\n• Retrieve relevant context\n• Perform actions\n• Connect multiple systems\n\nMCP provides a standardized approach for these connections.\n\n💡 What Are AI Agents?\n\nAI agents are AI systems designed to do more than generate text.\n\nThey can potentially reason about a task, use tools, access information, and take actions toward a goal.\n\nMCP can help provide the connectivity layer needed for these types of AI applications.\n\n🚀 The Future of AI\n\nThe future of AI isn't only about building smarter models.\n\nIt's also about connecting AI models to the tools, data and systems around them.\n\nSmarter AI + Better Connectivity = More Capable AI Systems\n\n🔎 Frequently Asked Questions\n\nWhat is MCP in AI?\nMCP stands for Model Context Protocol. It is a standardized protocol designed to help AI applications connect with external tools, data sources and services.\n\nWhat does MCP stand for?\nMCP stands for Model Context Protocol.\n\nWhy is MCP important for AI agents?\nAI agents often need access to external tools and information to complete tasks. MCP provides a standardized approach for connecting AI applications with those capabilities.\n\nIs MCP an AI model?\nNo. MCP is not an AI model. It is a protocol for connecting AI applications with external capabilities.\n\nHow does MCP work with AI?\nMCP provides a standardized communication layer that allows an AI application to discover and interact with supported external tools and data sources.\n\nWhat is the difference between MCP and an AI agent?\nAn AI agent is an AI system that can reason and perform tasks. MCP is a protocol that can help that AI application connect to external tools and information.\n\nModel Context Protocol, MCP, MCP explained, what is MCP, MCP in AI, Model Context Protocol explained, MCP AI, MCP protocol, AI agents, AI agent development, Generative AI, Agentic AI, AI tools, AI integration, AI automation, AI systems, AI engineering, artificial intelligence, connected AI, future of AI, AI technology, MCP tutorial, MCP for beginners",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "135loN-IbeA": {
+      "checkedAt": "2026-08-08T05:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI and Generative AI are often used interchangeably—but they’re not exactly the same. 🤖\n\nIn this video, I break down AI vs. Generative AI in simple terms and explain the key differences between them.\n\nYou’ll learn:\n\nWhat Artificial Intelligence (AI) is\nWhat Generative AI is\nHow traditional AI analyzes data and makes predictions\nHow Generative AI creates new content\nReal-world examples of both\nWhy tools like ChatGPT, Claude, and image generators are considered Generative AI\nHow AI and Generative AI are shaping the future\n\nWhether you're a beginner, student, developer, educator, or simply curious about AI, this video will help you understand the difference clearly.\n\nWatch until the end and you'll never confuse AI and Generative AI again!\n\n#AI #GenerativeAI #ArtificialIntelligence #ChatGPT #GenAI #MachineLearning #AITools #Technology",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "RZAYs47SHmQ": {
+      "checkedAt": "2026-08-08T05:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, we explore the transformative impact of generative AI and modern tools on various industries and creative processes. We delve into key topics such as the definition of generative AI, its underlying technologies, and how it differs from traditional AI models.\n\nLearn about the applications of generative AI in fields such as art, music, writing, and software development, and how these tools are reshaping creativity and productivity. We discuss popular generative AI models, including GPT (Generative Pre-trained Transformer) and DALL-E, and their capabilities in generating human-like text, images, and other content.\n\nAdditionally, we analyze the ethical considerations and challenges associated with the use of generative AI, including issues of authenticity, copyright, and the potential for misuse. Through practical examples and expert insights, we illustrate how understanding generative AI and modern tools is crucial for harnessing their potential while navigating the associated risks. Whether you’re a tech enthusiast, a creative professional, or someone interested in the future of AI, this guide offers valuable insights into the world of generative AI. Watch now to deepen your understanding of these innovative technologies!\n\n10 SEO-Optimized Hashtags\n#GenerativeAI #ModernTools #ArtificialIntelligence #CreativeAI #AIApplications #GPT #DALLE #EthicsInAI #Innovation #FutureOfWork\n\n35 SEO Tags\nunderstanding generative AI, definition of generative AI, technologies behind generative AI, applications of generative AI, generative AI in art and music, writing with AI tools, software development and AI, popular generative AI models, capabilities of GPT and DALL-E, reshaping creativity with AI, ethical considerations in generative AI, authenticity and copyright issues, potential for misuse of AI, teaching generative AI concepts, real-world examples of AI applications, implications for productivity, future trends in AI technology, resources for studying AI, measuring the impact of AI tools, challenges in AI development, understanding machine learning, generative AI in marketing, AI and content creation, implications for job markets, balancing innovation and ethics, evaluating AI performance, generative AI in education, collaboration between humans and AI, understanding AI-generated content, implications for intellectual property, AI tools for professionals, enhancing creativity with AI, navigating the risks of generative AI",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }
