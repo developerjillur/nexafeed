@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T09:53:12Z",
+  "updatedAt": "2026-08-08T10:53:21Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -1761,18 +1761,6 @@
       "description": "👉 Higgsfield (get discount + free credits): https://higgsfield.ai/?fpr=keith41\n👉 Free prompts + website templates: https://www.uiprompts.app/\n\nThis looks like a 3D website, but there's no 3D model and it's not a video player. The entire cinematic is broken into hundreds of individual frames — and your scroll wheel is the playhead.\nHiggsfield generated the visuals. Claude Code built the site. Fable 5 ran the whole process: generating assets, writing code, checking results, and fixing its own mistakes. Total cost: about $13 in Higgsfield credits.\nI'll show you the full process — 5 keyframes → 4 cinematic clips → a website that plays the film as you scroll. Including the mistakes I made, because the first results did NOT come out right.\n\n00:00 Scroll Controlled Cinema\n01:02 How The Tech Works\n01:59 Five Step Overview\n03:33 Hixfield Setup And Plans\n06:10 Connect The MCP Tools\n08:09 UI Prompts MCP Templates\n10:58 Keyframes Make Or Break\n12:14 Generate Five Keyframes\n14:59 Turn Clips Into Website\n16:21 Style Variations And Prompts\n17:15 Cost Breakdown And Credits\n18:32 Deploy Live With Railway\n20:53 Final Thoughts And Next Steps\n\n🔗 LINKS MENTIONED\nHiggsfield (discount + free credits): https://higgsfield.ai/?fpr=keith41\nUI Prompts — free keyframe prompts, video prompts, and 100+ website templates: https://www.uiprompts.app/\n\n📚 WHAT YOU'LL LEARN\n• Why keyframes matter more than anything else (and why generating one bad video costs 36x more than a bad image)\n• How to connect the Higgsfield MCP to Claude, Claude Code, ChatGPT, OpenClaw, and Hermes\n• The prompt structure that stops your keyframes looking like AI slop\n• Why chaining short clips beats generating one long video\n• How to break a video into hundreds of frames and scrub it with the scroll wheel\n• Publishing it live with Railway + GitHub instead of leaving it on localhost\n\n🤝 JOIN THE FREE COMMUNITY\nGot questions? Join my free Skool: https://www.skool.com/keith-ai-3958\n\n#AI #ClaudeCode #Higgsfield #WebDesign #AIVideo",
       "commentCount": 8,
       "likeCount": 39,
-      "probeClient": "web_embedded"
-    },
-    "hhxdoOCvpZ4": {
-      "checkedAt": "2026-08-07T11:53:25Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Let’s be honest — learning AI can feel overwhelming when most courses are either too simple or way too advanced. That’s why Simplilearn AI Courses stand out. They’re practical, easy to follow, and focused on helping you build real-world skills.\nIf you’re serious about learning AI the right way, this is worth checking out. Tap the link below and tell me in the comments where you’re starting from.\nCheck out Simplilearn AI courses through the link below.\n🔥Top AI Courses - https://www.simplilearn.com/courses/ai\n🔥Top Generative AI Courses - https://www.simplilearn.com/courses/generative-ai\n🔥Top Machine Learning Courses - https://www.simplilearn.com/courses/machine-learning\n\n#Simplilearn #SimplilearnAICourses #AICourses",
-      "commentCount": 0,
-      "likeCount": 21,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-31T11:53:16Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "D4fxcACCdEc": {
@@ -5914,7 +5902,7 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-08T09:53:12Z",
+      "checkedAt": "2026-08-08T10:53:21Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6090,10 +6078,10 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-08T09:53:12Z",
+      "checkedAt": "2026-08-08T10:53:21Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "JwkDaB0OcZc": {
       "checkedAt": "2026-08-08T06:53:36Z",
@@ -6730,24 +6718,6 @@
       "likeCount": 42,
       "probeClient": "web_embedded"
     },
-    "8tGJyBO9FpY": {
-      "checkedAt": "2026-08-07T18:53:31Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥Microsoft Applied Agentic AI: Systems Design & Impact - https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=8tGJyBO9FpY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥AI Accelerator Program - From Prompts to Agentic Workflows - https://www.simplilearn.com/ai-accelerator-program?utm_campaign=8tGJyBO9FpY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Microsoft Applied Generative AI and Agentic AI Specialization - https://www.simplilearn.com/microsoft-applied-ai-course?utm_campaign=8tGJyBO9FpY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Virginia Tech Applied Agentic AI: Systems Design & Impact - https://www.simplilearn.com/vt-applied-agentic-ai-course?utm_campaign=8tGJyBO9FpY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Michigan Engineering Generative AI Applications for Leaders - https://www.simplilearn.com/generative-ai-for-business-transformation?utm_campaign=8tGJyBO9FpY&utm_medium=DescriptionFF&utm_source=Youtube\n\nThis video on **Gen AI Application Development Tutorial 2026 by Simplilearn** will help you understand how Generative AI applications are designed, developed, and deployed from the ground up.\nYou’ll learn the fundamentals of Generative AI application development and how modern AI-powered applications work.\nThe tutorial explains how Large Language Models (LLMs) can be integrated into real-world applications.\nYou’ll explore prompt engineering techniques for improving the quality and accuracy of AI-generated responses.\nWe’ll also look at APIs, AI models, frameworks, and tools commonly used for building Gen AI applications.\nYou’ll understand how developers can connect AI models with external data sources and application workflows.\nThe video also covers important concepts such as Retrieval-Augmented Generation (RAG), embeddings, and vector databases.\nYou’ll discover how Gen AI can be used to build chatbots, AI assistants, content-generation tools, and intelligent business applications.\nPractical examples will help you understand the complete Gen AI application development workflow.\nYou’ll also learn key considerations around model selection, application performance, scalability, and responsible AI development.\nWhether you are a beginner, developer, student, or working professional, this tutorial will help you build a strong foundation in Generative AI application development.\nWatch till the end to understand how you can start building powerful Gen AI applications in 2026.\n\n\nRelated Videos:\n✅ 1. https://youtu.be/uWueU6hcgLE?si=9IasSJLhegGvBDDV\n✅ 2.https://youtu.be/M6sEuCrXovw?si=lSbrZswOtb6KNw8e\n✅ 3. https://youtu.be/eMhSj4ZRDkg?si=y_09pK2BGiSpUQIB\n✅ 4. https://youtu.be/4KtXOgGyipM?si=eJ8rHcgIY7_PyNtM\n✅ 5. https://youtu.be/BGQvgO9blgs?si=hnVYrCDcilWAYLGj\n\n✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More AI Videos By Simplilearn: https://youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq   \n\n#whatisagenticai #agenticai #agenticaiexplained #agenticaitutorial #agenticaicourse #agenticaicourse #agenticairoadmap #agenticaivsgenerativeai #agenticaiarchitecture #agenticaitutorialforbeginners #agenticaibasics #agenticaifundamentals #2026 #simplilearn\n\n➡️ About Applied Generative AI Specialization\n\nThe Applied Gen AI Course equips learners with the skills to build AI-driven solutions. Learn to design, train, and deploy models while addressing ethics, bias, and compliance. Gain industry-relevant experience through hands-on projects to drive innovation and stay competitive in an AI-powered world.\n\nKey Features\n\n✅ Get a program completion certificate from Michigan Engineering Professional Education\n✅ Engage in 70+ hours of live online sessions led by industry experts\n✅ Access a comprehensive curriculum covering Python, AI literacy, and GenAI principles (VAEs, GANs, and LLMs)\n✅ Explore agentic frameworks and create adaptive AI agents using LangChain\n✅ Implement advanced prompt engineering, RAG, and fine-tune models for domain-specific AI solutions\n✅ Apply best practices for AI transparency, fairness, security, and regulatory compliance\n✅ Work with 12+ modern AI tools, including OpenAI, Stable Diffusion, Microsoft Copilot, and Streamlit\n✅ Earn a course completion certificate hosted on the Microsoft Learn portal for Microsoft courses\n✅ Experience flexible learning with session recordings\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n✅ Gain 24/7 access to Simplilearn’s Learning Management System (LMS)\nSkills Covered\n✅ Prompt Engineering\n✅ Agentic Frameworks\n✅ AI Agents\n✅ LangChain for Workflow Design\n✅ Retrieval Augmented Generation RAG\n✅ LLM Fine Tuning\n✅ Stable Diffusion\n✅ Variational Autoencoders VAEs\n✅ Generative Adversarial Networks GANs\n✅ Attention Mechanisms\n✅ Transformers\n✅ GenAI Application Development\n✅ LLM Benchmarking\n✅ GenAI Governance\n✅ AI Image Generation\n\n👉 Enroll Now: https://www.simplilearn.com/applied-ai-course?utm_campaign=l_Zg237msTg&utm_medium=Description&utm_source=Youtube",
-      "commentCount": 1,
-      "likeCount": 7,
-      "probeClient": "web_embedded"
-    },
-    "YM_2PYIy0FA": {
-      "checkedAt": "2026-08-07T18:53:31Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Try Seedance 2.5 (unlimited) on Higgsfield 👉 https://higgsfield.ai/s/jackvsai-MsbAnG\n\nSeedance 2.5 just moved the goalposts for AI filmmaking. 30-second generations. Up to 50 image, video and audio references. A level of creative control we've simply never had before. In today's video I built an entire short film, and used each scene to stress-test a different new feature of Bytedance's new AI video tool. \n\nThis isn't about running random prompts to see what sticks. This is about building a real production workflow, one that holds consistent characters, props and locations across every single shot, and tells you exactly where this model shines and where it breaks.\n\nFREE Prompts and materials on my Skool Community 👉 https://www.skool.com/jack-vs-ai-workflows-8360\n\n✅ We'll cover:\n▸ Pre-production done right \n▸ Building reference sheets that give Seedance 2.5 the right context to nail your results\n▸ Advanced motion (building a full fight sequence) \n▸ World understanding & prompt adherence (a chase scene) \n▸ Pushing 50 references to breaking point\n▸ How to combine separate generations to build one seamless two-minute film\n▸ My honest take (and limitations of the model) \n\n🔗 Tools used:\n▸ Higgsfield AI \n▸ Seedance 2.5\n▸ Claude\n▸ Suno \n▸ Topaz \n\n⏱️ Timestamps:\n00:00 Intro\n01:13 Character, prop & location references \n01:55 Building a fight sequence \n05:34 Crafting a chase sequence \n07:55 50 complex references \n12:44 Finished short film \n15:12 My honest take \n\nThank you to Higgsfield AI for sponsoring today's video! \n\n#googlenanobanana  #ai #aivideo #aivideotutorial #higgsfieldai #creativeai #aifilmmaking #aivideogeneration #cinematicai #seedance2",
-      "commentCount": 11,
-      "likeCount": 106,
-      "probeClient": "web_embedded"
-    },
     "H86StfGSEgk": {
       "checkedAt": "2026-08-07T19:53:27Z",
       "embedAllowed": true,
@@ -7151,6 +7121,81 @@
       "description": "Read the essay here:\nhttps://www.dwarkesh.com/p/era-of-continual-learning",
       "commentCount": 153,
       "likeCount": 813,
+      "probeClient": "web_embedded"
+    },
+    "u_Lx6i8K2wE": {
+      "checkedAt": "2026-08-08T10:53:21Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "✅ OpenAI launched its first branded hardware — Codex Micro\n\n✅ $230 keyboard built specifically for Codex agents\n\n✅ RGB keys show live agent status: thinking, running, waiting, done\n\n✅ Joystick for PR reviews & debugging\n\n✅ Dial to control how much the AI \"thinks\"\n\n✅ Is it actually worth it? Watch till the end\n\nSubscribe to Coding Simplified Space for daily AI + coding updates 🚀\n\nOpenAI Codex Micro, OpenAI keyboard, Codex hardware, AI coding agent keyboard, OpenAI first hardware, Codex agent status keys, AI dev tools 2026, coding agent hardware, Coding Simplified Space",
+      "commentCount": 0,
+      "likeCount": 5,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-08T10:53:21Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "DBrWyiTgutE": {
+      "checkedAt": "2026-08-08T10:53:21Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn more about Vibe Coding: https://www.skool.com/ai-inner-circle/about\n\nGit & GitHub Explained for Vibe Coders (Never Lose Your Project Again)\n\nCoding agents like Claude Code and Codex change dozens of files in a single prompt, and one bad prompt can wipe out weeks of work. In this beginner-friendly guide I explain Git, GitHub, GitLab, and CI/CD in plain English and show the exact auto-commit workflow I use on TiltIt, PenAnywhere, and Impromptly AI. No terminal skills needed, everything runs through simple prompts.\n\nIn this video you'll learn:\n• Why one bad prompt can wipe your whole project\n• Git commits, reverts, and branches in plain English\n• The auto-commit hook that saves every Claude Code change\n• Git vs GitHub vs GitLab plus CI/CD with GitHub Actions\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"GIT\" and I'll DM you the full checklist with the auto-commit hook and every setup command.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 Why vibe coders lose projects without Git\n0:22 What Git actually does (commits, snapshots, safe zones)\n1:09 Live demo — remove and restore a footer with Git revert\n3:09 Auto-commit hooks so every Claude Code change saves itself\n5:49 Branches — build new features without breaking main\n7:43 Installing Git + Git vs GitHub explained\n8:37 GitHub — push, pull, fork straight from Claude Code (GitHub CLI)\n11:59 GitLab, CI/CD, GitHub Actions + your implementation checklist\n\n#git #vibecoding #claudecode",
+      "commentCount": 1,
+      "likeCount": 7,
+      "probeClient": "web_embedded"
+    },
+    "lHQ0yB_pc7c": {
+      "checkedAt": "2026-08-08T10:53:21Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Airtop for Google Ads: https://www.producthunt.com/products/airtop?launch=airtop-for-google-ads\n\nI Automated My Entire Google Ads Campaign With AI (Zero PPC Experience)\n\nI built a full Google Ads campaign for TiltIt without opening the Google Ads dashboard once. Airtop AI handled keyword research, ad groups, ad copy, negative keywords, conversion tracking checks, and geo targeting from a single chat. Everything stays in draft until I approve it, so nothing spends without my OK.\n\nIn this video you'll learn:\n• Launch a full Google Ads campaign without touching the dashboard\n• Keyword research with real CPC and competition data\n• Negative keywords and geo targeting picked for you\n• Approval-first workflow so no budget burns silently\n\nMY SAAS PRODUCTS\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\n\nComment \"ADS\" and I'll DM you the full step-by-step guide with the exact setup order and prompts.\n\nIf this saved you weeks of trial-and-error, hit subscribe — I drop one builder-to-builder tutorial every week.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 Full Google Ads campaign with zero PPC experience\n0:45 Auditing existing accounts + Mark's knowledge base\n1:21 One-time OAuth connect + real keyword planner data\n2:01 Two ad groups + which keywords to skip completely\n2:44 Conversion tracking flag + campaign built in my voice\n3:42 Approval flow, nothing runs until you say so\n4:20 Negative keywords + geo targeting on autopilot\n4:57 Optimization, weekly reports, and what comes next\n\n#googleads #aiautomation #leadgenman",
+      "commentCount": 0,
+      "likeCount": 7,
+      "probeClient": "web_embedded"
+    },
+    "ZW38bkluwlY": {
+      "checkedAt": "2026-08-08T10:53:21Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn more abt lead gen: https://www.skool.com/ai-inner-circle/about\n\nHow I Built a 24,000 Email Lead List on Full Autopilot\n\nEvery funnel starts with an email lead list you actually own, not followers a platform can take away tomorrow. Here is the exact top of funnel system I use to turn Instagram comments into verified email subscribers automatically.\n\nIn this video you'll learn:\n• How to automate Instagram DMs into lead magnets\n• Why gating your lead magnets captures every email\n• How to verify emails before they hit your list\n• The 3 day welcome drip that upsells on autopilot\n\nTOOLS I USE IN THIS VIDEO\nBeehiiv (20% off): https://www.beehiiv.com/?via=manthan-patel\nGoHighLevel (30-day free trail): https://www.gohighlevel.com/?fp_ref=manthan\nn8n: https://n8n.partnerlinks.io/manthan\nSubpage: https://subpage.co/?via=manthan\nReoon Email Verifier: https://www.reoon.com/email-verifier/?inv=r2gq93fm\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"FUNNEL\" and I'll DM you the full checklist with the n8n workflow, every tool, and the exact setup order.\n\nIf this saved you weeks of trial-and-error, hit subscribe — I drop one builder-to-builder tutorial every week.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 Why every funnel starts with an email list\n1:39 What an email lead list actually looks like\n2:16 STEP 1 — Your traffic source (Instagram)\n3:05 What makes a good lead magnet\n4:24 STEP 2 — DM automation setup (GoHighLevel)\n6:08 STEP 3 — Capturing emails with gated pages (subpage.co)\n8:20 Alternative platforms and custom domains (Tally.so, GoDaddy)\n9:55 STEP 4 — The n8n automation layer\n11:15 Email verification in action (Reoon)\n12:14 Why 37,000 leads became 24,000 after cleaning\n12:54 Never buy or scrape an email list\n13:47 STEP 5 — Beehiiv and the 3 day welcome drip\n15:58 Building the entire drip with Claude Code and Beehiiv MCP\n17:43 Connecting n8n to Beehiiv with the API\n19:39 Full workflow walkthrough end to end\n21:15 Warm leads vs cold leads, when to sell\n23:39 Real examples (Liam Ottley, Ben AI, Nick Saraev)\n25:45 How to reverse engineer anyone's email platform\n\n#emaillist #leadgeneration #leadgenman",
+      "commentCount": 2,
+      "likeCount": 9,
+      "probeClient": "web_embedded"
+    },
+    "sd9YNG-V6xA": {
+      "checkedAt": "2026-08-08T10:53:21Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn more about 5 AI building blocks: https://www.skool.com/ai-inner-circle/about\n\nSkills, MCP, Plugins, CLI & Artifacts Explained (With Live Demos)\n\nAgent skills, MCP, plugins, CLI, and artifacts, all explained in one video with live demos of each. This is the exact system I use to give Claude real capabilities and connect it to my whole tool stack.\n\nIn this video you'll learn:\n• What skills, MCP, plugins, CLI, and artifacts each do\n• When to use a CLI instead of an MCP server\n• How to connect Claude to your entire tool stack\n• How to build custom skills in plain English\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"BLOCKS\" and I'll DM you the full checklist with every building block, when to use it, and how to set it up.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 The 5 building blocks of any AI system\n0:37 What a skill is (and how it loads on demand)\n0:46 Running skills live (LinkedIn post reviewer demo)\n2:42 Inside the SKILL.md file (tools, instructions, output format)\n4:41 Installing skills from the Anthropic directory and marketplace\n7:10 Building a custom skill by chatting with Claude\n8:45 Running skills in Claude Code and any AI agent\n10:01 MCP explained (the universal connector)\n11:03 Connecting an MCP server live (Canva demo)\n12:08 How tool calling actually works\n14:17 Connecting Supabase with zero API keys\n16:34 Custom connectors and MCP inside Claude Code (Sandcastles)\n18:09 Plugins explained (skills + MCP + hooks + commands)\n19:04 Installing and building your own plugins\n20:29 CLI explained (and why it beats MCP on tokens)\n22:19 Installing CLIs live (Higgsfield image demo)\n24:09 Artifacts explained (live interactive previews)\n26:03 Inline visualization vs live artifacts (solar system demo)\n27:14 Recap of all 5 building blocks\n\n#claudeai #claudecode #aiagents",
+      "commentCount": 15,
+      "likeCount": 195,
+      "probeClient": "web_embedded"
+    },
+    "TZ3pRAEzmOY": {
+      "checkedAt": "2026-08-08T10:53:21Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Level up your Claude Code: https://www.skool.com/ai-inner-circle/about\n\nThe 7 Layers of Claude Code Users (Which One Are You?)\n\nMost people use Claude Code at level one and never touch its real power. In this video I break down all seven layers, from copy-pasting into a chat to fully autonomous loops that prompt Claude for you, with live examples at every step.\n\nIn this video you'll learn:\n• The 7 layers of Claude Code mastery explained\n• Why claude.md memory changes everything\n• How to spawn sub-agents with their own context\n• Designing autonomous loops that need zero prompting\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"LAYERS\" and I'll DM you the full checklist with every level, tool, and setup order.\n\nIf this saved you weeks of trial-and-error, hit subscribe — I drop one builder-to-builder tutorial every week.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 The 7 layers of Claude Code users\n0:16 Level 0 — Copy-pasting into a chat (Claude AI, ChatGPT)\n1:15 Level 1 — Default Claude Code, no config (VS Code)\n2:43 Level 2 — claude.md memory and persistent context\n3:53 Universal memory with agents.md (Codex, Cursor)\n4:22 Level 3 — Spawning sub-agents with their own context\n5:51 Level 4 — You orchestrate multiple agent sessions\n6:40 Level 5 — Dynamic workflows and thousands of sub-agents (Opus 4.8, Fable 5)\n8:28 Level 6 — Fully autonomous loops that prompt Claude (GitHub)\n11:28 The full seven-layer ladder recap\n\n#claudecode #aiagents #leadgenman",
+      "commentCount": 2,
+      "likeCount": 39,
+      "probeClient": "web_embedded"
+    },
+    "3RX4sa5U-eo": {
+      "checkedAt": "2026-08-08T10:53:21Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Welcome to The Network Fixer – Your Ultimate Tech & Networking Hub!\n\nDive into the world of networking, cybersecurity, and IT infrastructure with expert-level tutorials, troubleshooting guides, and real-world fixes. Whether you're a beginner trying to understand how networks function or a seasoned pro looking for advanced solutions, The Network Fixer is your go-to destination.\n\n🔧 Let’s decode the network – one fix at a time!\n\n👉 Subscribe now: https://www.youtube.com/@TheNetworkFixer?sub_confirmation=1\n\n🚨 Is this the beginning of the end for traditional software development?\n\nIn this video, I use Claude AI to build a complete Windows desktop application (.EXE) from scratch—even though I'm not a professional software developer.\n\nThe application, ByteBroom, scans temporary files, browser cache, Windows cache, recycle bin, crash dumps, GPU shader cache, and many other safe-to-delete locations. It also identifies the applications consuming the most CPU, memory, disk, and network resources while performing an offline security analysis of your Windows PC.\n\nThe most surprising part? It took around one hour.\n\nTraditionally, building software like this could take 6 months to a year of development, testing, debugging, documentation, and packaging. Today, AI agents like Claude can dramatically reduce that timeline.\n\nIn this video, we discuss:\n✅ Building Windows software using AI\n✅ Creating a standalone EXE application\n✅ Cleaning Windows safely\n✅ Displaying files before deletion\n✅ Resource usage monitoring\n✅ Security analysis\n✅ AI agents for software development\n✅ Why every IT engineer should learn AI\n✅ Thinking like a CEO instead of only an Operations Engineer\n✅ The future of software engineering\n✅ Claude review\n✅ AI coding assistants\n✅ Prompt engineering\n✅ Token usage and costs\n✅ Windows optimization\n✅ Productivity with AI\n\nWhether you're a Network Engineer, System Administrator, DevOps Engineer, Cloud Engineer, Cybersecurity Professional, IT Support Engineer, or Software Developer, this video demonstrates how AI is transforming the way software is created.\n\n⚠️ AI doesn't eliminate the need for engineering knowledge—but it can significantly accelerate development. Human judgment, testing, architecture, and security reviews remain essential.\n\nIf you enjoy practical AI projects, networking, cybersecurity, Windows tools, automation, and real-world IT tutorials, subscribe to The Network Fixer.\n\n🔔 Subscribe for more AI, Networking, Windows, Automation, Cybersecurity, and IT Engineering videos!\n\n#Claude #AI #ArtificialIntelligence #SoftwareEngineer #Programming #Coding #Windows #Windows11 #Windows10 #Automation #AITools #AgenticAI #AIAgents #PromptEngineering #Python #Developer #Tech #Technology #CodingLife #Productivity #WindowsOptimization #SystemAdministrator #NetworkEngineer #DevOps #CyberSecurity #ITSupport #WindowsCleaner #PCOptimization #ClaudeAI #TheNetworkFixer",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "NAIC9sjBgZA": {
+      "checkedAt": "2026-08-08T10:53:21Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "TypeScript has become the default for modern web development, but does that mean JavaScript is becoming obsolete? Let's talk about it.\n\nTry code rabbit today: https://coderabbit.link/ad-brad-traversy-media-001\n\nCheckout \"Typescript fundamentals\" on start.dev: http://startdev.link/2a1IOpB, and use code TRAVERSY for 20% off\n\nTimestamps:\n\n- 00:00 Does Anyone Use JavaScript Anymore?\n- 1:47 JavaScript Isn't Dead\n- 2:20 TypeScript Is Taking Over\n- 3:00 TypeScript Across the Modern Stack\n- 4:30 TypeScript in the Age of AI\n- 5:26 Why Developers Prefer TypeScript\n- 7:20 Why I Changed My Mind About TypeScript\n- 8:19 Should Beginners Learn JavaScript First?\n- 9:17 Learn TypeScript with Start.dev\n- 10:14 When JavaScript Is Still the Better Choice\n- 11:09 Final Thoughts",
+      "commentCount": 137,
+      "likeCount": 727,
       "probeClient": "web_embedded"
     }
   }

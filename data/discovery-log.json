@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T09:53:12Z",
+  "updatedAt": "2026-08-08T10:53:21Z",
   "items": [
+    {
+      "id": "u_Lx6i8K2wE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-08T10:30:23Z",
+      "firstSeenAt": "2026-08-08T10:53:21Z"
+    },
+    {
+      "id": "3RX4sa5U-eo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Network Fixer",
+      "publishedAt": "2026-08-08T06:53:21Z",
+      "firstSeenAt": "2026-08-08T10:53:21Z"
+    },
+    {
+      "id": "NAIC9sjBgZA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Traversy Media",
+      "publishedAt": "2026-08-07T16:53:21Z",
+      "firstSeenAt": "2026-08-08T10:53:21Z"
+    },
     {
       "id": "MEw7TrAUEPQ",
       "type": "long",
@@ -11511,6 +11535,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-08T10:53:21Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
