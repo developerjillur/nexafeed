@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T02:53:40Z",
+  "updatedAt": "2026-08-08T03:53:34Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -6104,10 +6104,10 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-08T02:53:40Z",
+      "checkedAt": "2026-08-08T03:53:34Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "AncgOoIdHaE": {
       "checkedAt": "2026-08-08T01:53:29Z",
@@ -6280,7 +6280,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-08T02:53:40Z",
+      "checkedAt": "2026-08-08T03:53:34Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6650,15 +6650,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "Hr6zNXE_7po": {
-      "checkedAt": "2026-08-07T14:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Book a free AI Business Audit — I'll map exactly where your time is going and what to automate first: https://SystemsSuccessPro.as.me/Consultation\n\nWhat is an AI Operating System? It's not developer infrastructure and it's not software you buy — it's one system that connects your tools, holds your business context, and runs jobs without you operating them. In this video I explain the AI operating system for B2B agencies in plain English: the five layers (Context, Data, Intelligence, Automate, Build) running live in my own business, one client call handled with tools vs with a system, and why client businesses like agencies get the most out of one.\n\nTIMESTAMPS\n0:00 - Intro\n0:23 - The Definition\n1:50 - The Five Layers\n4:47 - Tool vs System (One Client Call)\n8:52 - Why a Client Business Specifically\n10:27 - What It Gives Back\n12:10 - How You'd Start\n14:21 - What to Do Next",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "l1qzs85Ftpg": {
       "checkedAt": "2026-08-07T15:53:15Z",
       "embedAllowed": true,
@@ -6899,15 +6890,6 @@
       "likeCount": 146,
       "probeClient": "web_embedded"
     },
-    "8vUCjYsWeSU": {
-      "checkedAt": "2026-08-07T17:53:30Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Thanks to ‪@NVIDIADeveloper‬ for DGX Spark. Check it out here:  https://nvda.ws/3XIkwsh \n\nPrime Agent: Why AI Harnesses Matter More Than Models (IPython Kernel, ARC-AGI3, DeepSeek on DGX Spark)\n\nIn this video, I explain why AI harnesses are becoming more important than the models themselves, and I break down Prime Intellect’s new “Prime Agent” approach that replaces traditional JSON tool menus with a single IPython kernel. I cover how this recursive language model design keeps context “outside” the prompt in kernel memory, snapshots state to disk, and uses recursive sub-agents plus a self-improvement notebook that updates every 25 turns. I discuss the big ARC-AGI3 jump (including comparisons to OpenAI harness settings and Claude Opus 5), why the 95.5% result is self-reported, and concerns about benchmark cheating and reward hacking (including a Factorio admin console example). I also demo running DeepSeek V4 Flash locally on a DGX Spark cluster and share early internal harness comparisons on tokens, calls, and tool usage.\n\nLINKS:\nhttps://www.primeintellect.ai/blog/prime-agent\nhttps://github.com/PrimeIntellect-ai/prime-agent\nMy Blogpost: https://engineerprompt.ai/writing/\n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com/courses/rag\nSignup for Newsletter, localgpt:\nhttps://tally.so/r/3y9bb0\n\n00:00 Harnesses Matter More\n00:40 Prime Agent Harness\n01:39 Why Harnesses Lag\n03:42 One Tool IPython\n04:59 Recursive Language Model\n06:05 Context as Variable\n07:54 Recursive Subagents\n09:03 Self Improvement Notebook\n10:34 Critiques and Caveats\n12:08 Local Setup Demo\n12:56 DeepSeek on DGX Spark\n15:02 Pokédex Test Run\n17:30 Benchmark Comparison\n19:24 Wrap Up and Links",
-      "commentCount": 20,
-      "likeCount": 201,
-      "probeClient": "web_embedded"
-    },
     "PwIM33ajJCs": {
       "checkedAt": "2026-08-07T18:53:31Z",
       "embedAllowed": true,
@@ -7037,14 +7019,6 @@
       "description": "Scientists at Stanford University successfully used artificial intelligence to create new viruses, which may have some worrisome implications. CBS News' Dr. Celine Gounder reports.\n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.\n\nSubscribe to the CBS News YouTube channel: https://youtube.com/cbsnews\nWatch CBS News 24/7: https://cbsnews.com/live/\nDownload the CBS News app: https://cbsnews.com/mobile/\nFollow CBS News on Instagram: https://instagram.com/cbsnews/\nLike CBS News on Facebook: https://facebook.com/cbsnews\nFollow CBS News on X: https://twitter.com/cbsnews\nSubscribe to our newsletters: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com",
       "commentCount": 18,
       "likeCount": 32,
-      "probeClient": "web_embedded"
-    },
-    "QN22t8cREpg": {
-      "checkedAt": "2026-08-07T21:53:29Z",
-      "embedAllowed": true,
-      "description": "Artificial intelligence is influencing how engineers design, develop, verify, and validate complex systems. In this presentation, Mehran Mestchian, who leads control design automation and verification technology development at MathWorks, examines how AI is being integrated into engineering workflows through embedded intelligence, generative AI, and agent-based design. \n\nThe talk outlines the progression from traditional machine learning methods toward AI systems that support iterative, goal-directed design processes. These systems can generate candidate solutions, evaluate results, and refine designs in closed-loop workflows. Rather than replacing established engineering practices, these approaches extend principles such as data-driven development, simulation, testing, and optimization. \n\nA key theme is the integration of AI into engineering design loops while keeping production code generation deterministic. The presentation illustrates how generative and agent-based AI can support earlier design activities—such as concept exploration, model creation from requirements, tradeoff studies, and evaluation-loop setup—before validated models are used to generate traceable, qualifiable production code. It emphasizes that trust depends on rigorous evaluation through simulation, validation, benchmarking, testing, and quality checks. \n\nThe session explores how Model-Based Design evolves as generative AI and agent-based AI become part of engineering work. The emphasis is on where AI is useful: helping engineers explore options, structure design tasks, and run evaluation cycles at a higher level of abstraction. Engineers still define the goals, constraints, guardrails, and acceptance criteria, while simulation, testing, validation, and verification provide the evidence needed to decide whether an AI-suggested result is usable.\n\nWatch to gain insight into how workflows are evolving as AI enters engineering work: where agent-based design can accelerate iteration, where deterministic and verifiable methods remain essential, and where AI can be adopted without weakening engineering discipline.\n\nLearn more about Generative AI with MATLAB and Simulink: https://bit.ly/4foLM8P\n\nChapters:\n00:00 How AI Is Changing Engineering Design\n02:17 MATLAB, Simulink, and Neural Networks\n04:50 Four AI Epochs from Research to Generative AI\n06:27 How AI Reimagines Engineering Design Loops\n09:36 Agentic AI and Engineering Workflow Automation\n12:53 Probabilistic AI vs. Deterministic Engineering Systems\n14:07 Model-Based Design and Generative AI\n20:46 AI with Model-Based Design, MCP Servers, and Simulink\n\n--------------------------------------------------------------------------------------------------------\nGet a free product trial: https://goo.gl/ZHFb5u\nLearn more about MATLAB: https://goo.gl/8QV7ZZ\nLearn more about Simulink: https://goo.gl/nqnbLe\nSee what's new in MATLAB and Simulink: https://goo.gl/pgGtod\n\n© 2026 The MathWorks, Inc. MATLAB and Simulink are registered trademarks of The MathWorks, Inc. \nSee www.mathworks.com/trademarks for a list of additional trademarks. Other product or brand names may be trademarks or registered trademarks of their respective holders.",
-      "commentCount": 0,
-      "likeCount": 26,
       "probeClient": "web_embedded"
     },
     "ZbawXiYm4Go": {
@@ -7201,6 +7175,33 @@
       "description": "🎟️ Use Discount Code for extra saving: \"SHUYT\"\nPabbly Chatflow (Product + Pricing): https://www.pabbly.com/chatflow/#pricing\nPabbly Chatflow Playlist: https://www.youtube.com/watch?v=3fG8qt6YNfA&list=PLgffPJ6GjbaJ8JPigEtxniz41rN5wqKAi\n\nWant a 24/7 AI agent that handles your digital marketing agency leads on WhatsApp? In this tutorial, you'll learn how to build an AI-powered WhatsApp agent that instantly responds to enquiries, qualifies prospects, answers questions, and captures lead details—without writing a single line of code.\n\nAutomatically engage website and WhatsApp leads, collect business requirements, qualify prospects based on their needs and budget, answer frequently asked questions, recommend marketing services, schedule calls, and send follow-up messages. Reduce response time, prevent missed leads, and provide instant customer support even when your team is offline using Pabbly Chatflow.\n\nThis workflow is perfect for digital marketing agencies, performance marketing agencies, social media agencies, SEO agencies, web development agencies, and lead generation companies looking to automate sales and customer communication.\n\nQueries:\nWhatsApp AI agent for digital marketing agencies\nWhatsApp AI chatbot for agencies\n24/7 WhatsApp lead qualification\nAI lead generation WhatsApp\nPabbly Chatflow AI agent\n\n#WhatsAppAI #AIAgent #PabblyChatflow #DigitalMarketing #MarketingAgency #WhatsAppAutomation #LeadGeneration #LeadQualification #SalesAutomation #CustomerSupport #BusinessAutomation #NoCode #ConversationalAI #MarketingAutomation #AI\n\n🎯 Use Case:\nA WhatsApp AI Agent acts as a 24/7 virtual sales executive for your digital marketing agency. It instantly responds to new enquiries, qualifies leads based on business goals and budget, recommends suitable marketing services, answers FAQs, schedules consultation calls, and captures lead details into your CRM. This helps agencies respond faster, improve lead conversion, and reduce manual follow-ups.\n\n🪜 Need Help Getting Started? Follow These Step-by-Step Tutorials:\n\n✅ How to Connect your WhatsApp Number with Pabbly Chatflow in Few Clicks\n🔗 https://www.youtube.com/watch?v=J2YKHvlSMP8\n\n✅ How to Create WhatsApp Cloud API Account and Connect with Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=JKLboMlmKSs\n\n✅ How to Connect Unlimited WhatsApp Numbers to a Single Account (No Extra Cost)\n🔗 https://www.youtube.com/watch?v=iPg0W3Ra3Og\n\n✅ Pabbly Chatflow Inbox Overview\n🔗 https://www.youtube.com/watch?v=JE0f2lwFNMI\n\n✅ Pabbly Chatflow Contact Overview\n🔗 https://www.youtube.com/watch?v=j919a9bIi4w\n\n✅ How to Create Templates Inside Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=lmXyI79aENQ\n\n✅ How to Create a WhatsApp Chatbot Using Flow Builder\n🔗 https://www.youtube.com/watch?v=NXIbDhxXKF0\n\n✅ Pabbly Chatflow Team Member Overview\n🔗 https://www.youtube.com/watch?v=EnB4Ju1tTN8\n\n✅ Broadcast Messages and API Campaigns\n🔗 https://www.youtube.com/watch?v=b1g9QbrP9jU\n\n📞 Need Help?\n📬 Contact Our Team: support@pabbly.com\n💬 Ask Your Queries: https://forum.pabbly.com\n👥 Join Our Community: https://www.pabbly.com/community/\n\n⚠️ Disclaimer: All names, mobile numbers, and emails shown in this video are for demonstration purposes only. This is an educational video to showcase automation and chatbot creation using Pabbly Chatflow.",
       "commentCount": 0,
       "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "wnkdn9OvKc0": {
+      "checkedAt": "2026-08-08T03:53:34Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "📈 Blotato: https://blotato.com/?ref=koen\n\n🌟 Want this exact system? Join the Syndicate 👇\nhttps://www.skool.com/acs-syndicate/about\n\n📌 I drop early updates here before anywhere else: https://t.me/koen_agi\n\n📸 IG: https://www.instagram.com/koen.agi/\n\n1️⃣ Project Links:\n\nDrive link with files for the project: https://drive.google.com/drive/folders/1GgOfi1hdYYKx4Yu6wMTsbPT_8Yj0LdcD?usp=sharing\nKie AI: https://kie.ai?ref=fd68b969aac43115412a0c5484f24113\nBlotato: https://blotato.com/?ref=koen\n\n--\n\n2️⃣ System Build Prompt:\n\nI need a project skill that will execute this on a routine schedule. (Will be done through the Claude Desktop routines feature)\n\n-Generate a Seedance 2.0 video based on a randomized series of topics. It will always follow the same prompt structure for consistent results, but the topic of what's being shown will change. \n-Use the prompt documentation provided for information. The prompts are for realistic movie-set style videos and should be generated based on the prompt documentation.\n-Once the videos are generated using the Kie AI API, they will be auto-posted to the users choice of TikTok, Instagram, or YouTube.\n-Connect the Blotato MCP server by running the setup command and walking through the connection process with the user until it's setup. (This is Claude Desktop)\n-Also use the prompt documentation information to generate Titles (for youtube shorts) and captions (For TikTok or Instagram) based on the writing styles in the documentation.\n-If there are 3 example prompts in the prompt documentation, after cycling through them a few times, randomly generate a new topic of idea for testing by following the prompt documentation rules (Ex: A Tornado scene instead of a Tsunami scene, but the prompt structure stays the same)\n-Videos are 9:16, 15s long, 720p.\n-”Made for Kids” is always set to “No” for YouTube posting.\n\nAPI Docs: \nhttps://kie.ai/seedance-2-0 \nhttps://help.blotato.com/api/llm \n-Install any dependencies needed automatically, ask clarifying questions until you are ready to build, and create a .env for any api keys\n\n--\n\n\n00:00 Intro\n\n01:23 Community Results\n\n01:35 Costs\n\n02:08 Blotato\n\n03:06 Claude Build \n\n13:02 Blotato MCP\n\n14:42 Outro\n\n\nIn this video I go over how to build a Claude project that can automate the creation of viral AI movie set style videos. Enjoy!\n\nSubscribe!",
+      "commentCount": 2,
+      "likeCount": 9,
+      "probeClient": "web_embedded"
+    },
+    "IGNqyVqwCOU": {
+      "checkedAt": "2026-08-08T03:53:34Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "► Learn YouTube Automation From Saad Rashid:\n(Talk to My Team on WhatsApp)\nhttps://wa.link/1bi21h | +92 336 3668070\n \n►To be part of our Interview Series Contact us at :\nhttps://wa.link/rh23hy | +92 3167448791\n\n►Get AI Voiceovers from Speaksay:\nhttps://www.speaksay.com/saad\n\n► Try VidIQ in $1 only:\nhttps://www.vidiq.com/saad\n\n► Join Our WhatsApp Channel for Quick Updates\nhttps://whatsapp.com/channel/0029VaCtUgsHrDZjDLK4CQ0w\n\n► Join YouTube Automation Mastery Course at 50% Discount (For Today):\nhttps://www.saadrashid.net\n\n► Join The Biggest YouTube Automation Community on Facebook\nhttps://bit.ly/49ZrygP\n------------------------------------------\n\n“Saad Rashid” is the pioneer YouTube channel of Pakistan, which started talking about YouTube Automation and Faceless Channels back in 2022.\n\nHere, we talk about all of the AI tools used for content creation of faceless youtube channels.\n\nSubscribe if you want to be a faceless YouTube Creator.\n\nوَتُعِزُ مَن تَشَاء وَتُذِلُ مَن تَشَاء\n\n-------------------------------------------\n\nCONNECT ON OTHER NETWORKS:\n\nFacebook: https://www.facebook.com/thesaadrashid\nInstagram: https://www.instagram.com/saaadrashid\nTikTok: https://www.tiktok.com/@thesaadrashid\nMail: contact.saadrashid@gmail.com\n\n-------------------------------------------\n\nTime Stamps:\n0:00 Highlights \n0:37 Introduction \n1:36 Guest Introduction\n4:05 Niche & Reference Clip \n6:36 First Video Results\n7:53 Guest YouTube Journey\n8:54 Content strategy & Audience \n10:51 Monitization Timeline\n12:36 Idea Selection & Scripting \n13:43 Video Editing \n14:57 Practical Training \n23:29 Message For Beginners \n24:56 Ending Note\n\nDisclaimer:\nThis video is just a Case Study of a guest. The results and success shared by the guest in this video are based on their personal experiences and efforts. These outcomes are subjective and not guaranteed for everyone. The purpose of this interview is purely educational—to share insights and experiences related to faceless YouTube channels.\n\nPlease note that the guest is here solely to provide knowledge. If you choose to engage with them privately or make any payments to them afterward, Team Saad Rashid holds no responsibility for any outcomes, miscommitments, or disputes. We strongly advise you to do your own due diligence before entering into any collaboration or financial transaction.\n\n#youtubeautomation",
+      "commentCount": 238,
+      "likeCount": 883,
+      "probeClient": "web_embedded"
+    },
+    "AJnDyBLKRZs": {
+      "checkedAt": "2026-08-08T03:53:34Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I grew Polsia from my laptop, building an AI that lets anyone become a founder. From hustling to get my first 10 users to letting my AI raise $30M by itself. Here are the exact growth hacks I used to get to a $250M valuation. \n\nHope you enjoy, and subscribe to stay tuned for the next ones.\n\nTry Polsia: https://polsia.com\nX: https://x.com/Bencera\nInstagram: https://www.instagram.com/bencera",
+      "commentCount": 58,
+      "likeCount": 266,
       "probeClient": "web_embedded"
     }
   }

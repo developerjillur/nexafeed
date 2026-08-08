@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T02:53:40Z",
+  "updatedAt": "2026-08-08T03:53:34Z",
   "items": [
+    {
+      "id": "wnkdn9OvKc0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Koen | AI Content Systems",
+      "publishedAt": "2026-08-07T21:53:34Z",
+      "firstSeenAt": "2026-08-08T03:53:34Z"
+    },
+    {
+      "id": "IGNqyVqwCOU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Saad Rashid - YouTube Automation",
+      "publishedAt": "2026-08-07T15:53:34Z",
+      "firstSeenAt": "2026-08-08T03:53:34Z"
+    },
+    {
+      "id": "AJnDyBLKRZs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ben Cera",
+      "publishedAt": "2026-08-07T14:53:34Z",
+      "firstSeenAt": "2026-08-08T03:53:34Z"
+    },
     {
       "id": "T0YRAGvi7Ds",
       "type": "long",
@@ -11272,6 +11296,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-08T03:53:34Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
