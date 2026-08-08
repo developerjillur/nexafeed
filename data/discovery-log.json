@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T22:53:50Z",
+  "updatedAt": "2026-08-08T23:53:09Z",
   "items": [
+    {
+      "id": "6HS6_nsRM2I",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-08T23:03:16Z",
+      "firstSeenAt": "2026-08-08T23:53:09Z"
+    },
+    {
+      "id": "nQLsOGn9jC4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Giggly Vibes",
+      "publishedAt": "2026-08-08T19:53:09Z",
+      "firstSeenAt": "2026-08-08T23:53:09Z"
+    },
+    {
+      "id": "Bwax9_27MZA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "James Pelton",
+      "publishedAt": "2026-08-08T15:53:09Z",
+      "firstSeenAt": "2026-08-08T23:53:09Z"
+    },
+    {
+      "id": "yulWjh3rq28",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nick Saraev",
+      "publishedAt": "2026-08-08T14:53:09Z",
+      "firstSeenAt": "2026-08-08T23:53:09Z"
+    },
+    {
+      "id": "0vz2osGl0Ic",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Antek Automation",
+      "publishedAt": "2026-08-08T07:53:09Z",
+      "firstSeenAt": "2026-08-08T23:53:09Z"
+    },
+    {
+      "id": "ThtKLGuRvRo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Veridical Ed",
+      "publishedAt": "2026-08-08T07:53:09Z",
+      "firstSeenAt": "2026-08-08T23:53:09Z"
+    },
+    {
+      "id": "vmuLMbEPSPo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AfricanDev | Backend Engineer & AI Automation",
+      "publishedAt": "2026-08-08T06:53:09Z",
+      "firstSeenAt": "2026-08-08T23:53:09Z"
+    },
+    {
+      "id": "Vnv0x57o_Bc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Media Lab",
+      "publishedAt": "2026-08-08T06:53:09Z",
+      "firstSeenAt": "2026-08-08T23:53:09Z"
+    },
     {
       "id": "81khUfBg_6Y",
       "type": "long",
@@ -12036,6 +12100,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-08T23:53:09Z",
+      "new": 8,
+      "long": 6,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
