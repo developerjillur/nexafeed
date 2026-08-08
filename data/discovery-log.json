@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T10:53:21Z",
+  "updatedAt": "2026-08-08T11:53:31Z",
   "items": [
+    {
+      "id": "92Z5ZyRor58",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Adventurer",
+      "publishedAt": "2026-08-08T11:10:56Z",
+      "firstSeenAt": "2026-08-08T11:53:31Z"
+    },
+    {
+      "id": "bX-eeXvGRjM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "VARINDIA",
+      "publishedAt": "2026-08-08T10:53:31Z",
+      "firstSeenAt": "2026-08-08T11:53:31Z"
+    },
+    {
+      "id": "aKcp8TuXAok",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI with FZ",
+      "publishedAt": "2026-08-08T04:53:31Z",
+      "firstSeenAt": "2026-08-08T11:53:31Z"
+    },
     {
       "id": "u_Lx6i8K2wE",
       "type": "short",
@@ -11544,6 +11568,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-08T11:53:31Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
