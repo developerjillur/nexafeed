@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T17:53:19Z",
+  "updatedAt": "2026-08-08T18:53:28Z",
   "items": [
+    {
+      "id": "tBXEl3GhDpo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Raghav",
+      "publishedAt": "2026-08-08T18:36:28Z",
+      "firstSeenAt": "2026-08-08T18:53:28Z"
+    },
+    {
+      "id": "f4G54j4EO3Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Technical Suneja",
+      "publishedAt": "2026-08-08T13:53:28Z",
+      "firstSeenAt": "2026-08-08T18:53:28Z"
+    },
+    {
+      "id": "z2ZyCnZiBFk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Coach John (Tamil)",
+      "publishedAt": "2026-08-08T13:53:28Z",
+      "firstSeenAt": "2026-08-08T18:53:28Z"
+    },
+    {
+      "id": "3f8cnztbt3s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "College Wallah",
+      "publishedAt": "2026-08-08T12:53:28Z",
+      "firstSeenAt": "2026-08-08T18:53:28Z"
+    },
+    {
+      "id": "R3x8uEJjjA4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Techie Cony",
+      "publishedAt": "2026-08-08T12:53:28Z",
+      "firstSeenAt": "2026-08-08T18:53:28Z"
+    },
     {
       "id": "JDiAQp63WB4",
       "type": "long",
@@ -11823,6 +11863,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-08T18:53:28Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
