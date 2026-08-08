@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T16:53:10Z",
+  "updatedAt": "2026-08-08T17:53:19Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -975,15 +975,6 @@
       "description": "=",
       "commentCount": 0,
       "likeCount": 13,
-      "probeClient": "web_embedded"
-    },
-    "SBA5Qxkj7-o": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Everyone says local AI is free — but is it really? In this video I share my honest experience replacing my Jetson Nano setup with the Beelink SER10 Max, running OpenClaw and Hermes locally with a Qwen 3.5 9B model.\n\nI break down the 7 decisions you need to make before going local, compare local vs cloud speed, and show you exactly how I set up a hybrid system that saves money without sacrificing performance.\n\n00:00 Local Agents Aren’t Free\n01:08 Seven Stack Decisions\n05:07 Where Agents Run\n06:48 Cloud vs Local vs 24/7\n07:42 Picking Local Hardware\n09:03 Choosing the Right Model\n10:49 Find Models with LM Studio\n12:36 LLM Fit Speed Estimates\n13:42 Runtimes Ollama vs Llama.cpp\n14:35 Speed Tokens and Latency\n16:57 Privacy and Hybrid Strategy\n18:01 Hands On Setup Preview\n18:29 Beelink SER10 Max Specs\n19:12 Unboxing the Mini PC\n21:14 Ports and What’s Included\n22:08 OpenClaw Ubuntu Guide\n22:41 Linux First Boot Setup\n23:06 Local Llama CPP Test\n23:51 OpenClaw Onboarding Config\n24:53 Web UI and Local Chat\n25:40 Why You Need Tailscale\n28:04 Install Tailscale on Linux\n30:16 Autostart and SSH Gotchas\n32:22 Tailscale on Mac SSH\n34:58 iPhone SSH via Tailscale\n36:20 Install Hermes Agent\n37:24 Connect Hermes to Local Model\n38:29 Local vs Cloud Speed Test\n42:09 Final Verdict and Tradeoffs\n\n🔗 LINKS MENTIONED\n🖥️ Beelink SER10 Max (affiliate): https://beelink.sjv.io/VONRrk\n🛠️ LM Studio: https://lmstudio.ai\n🔒 Tailscale: https://tailscale.com\n💻 Warp Terminal: https://app.warp.dev/referral/539GR4\n📊 LLM Fit: https://github.com/AlexsJones/llmfit\n📱 Termius (iPhone SSH): https://termius.com/index.html\n🔀 OpenRouter: https://openrouter.ai\n\n🤝 JOIN THE COMMUNITY\nhttps://substack.com/@rumjahn\n\n#localai #OpenClaw #HermesAgent #BeelinkSER10 #AIAutomation",
-      "commentCount": 100,
-      "likeCount": 1254,
       "probeClient": "web_embedded"
     },
     "66Gk8M3Eh6w": {
@@ -3124,12 +3115,12 @@
       "probeClient": "web_embedded"
     },
     "Sl8wjEPQOt8": {
-      "checkedAt": "2026-08-01T16:53:15Z",
+      "checkedAt": "2026-08-08T17:53:19Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Claude Fable 5 vs GPT-5.6 Sol (Featuring @TheEricMichaud ) head to head inside the Higgsfield MCP. Two browser games, built from scratch, same prompt.\n————————————\nWork With Me (Solve Your Revenue Bottleneck with Charlie OS): https://charlieautomates.com/charlie-os-vs/\n————————————\nJoin my community with 3,200+ business owners (choose premium for weekly calls): https://www.skool.com/cc-strategic-ai/about\n————————————\n\nTimeline:\n00:00 The Challenge: Fable 5 vs Sol 5.6\n00:24 The Rules: One Prompt, Three Revisions\n01:02 Frameworks: SEED vs Superpowers\n02:04 Writing The Prompt\n04:21 Claude Code vs Cowork: The Honest Take\n04:49 Fable 5 Finishes First\n06:38 The 15-Point Bonus\n08:20 Sol Finishes: 54 Minutes\n09:38 The Race: Escape Each Other's Room\n10:40 Rescuing Eric From The Outhouse\n12:30 The Final Score\n13:21 Eric's Take On Higgsfield\n\n\n#claudefable5 #gpt #higgsfieldmcp",
-      "commentCount": 0,
-      "likeCount": 3,
+      "commentCount": 13,
+      "likeCount": 17,
       "probeClient": "web_embedded"
     },
     "_Wq3Z_DfAJ4": {
@@ -5735,7 +5726,7 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-08T16:53:10Z",
+      "checkedAt": "2026-08-08T17:53:19Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5911,7 +5902,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-08T16:53:10Z",
+      "checkedAt": "2026-08-08T17:53:19Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6664,59 +6655,191 @@
       "probeClient": "web_embedded"
     },
     "n_KywlModrE": {
-      "checkedAt": "2026-08-07T16:53:24Z",
+      "checkedAt": "2026-08-08T17:53:19Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "learn how you can get good views just by framing your tittles",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-07T16:53:24Z",
+      "commentCount": 5,
+      "likeCount": 9,
+      "comments": [
+        {
+          "id": "UgyRm41og_V2ImLEb8Z4AaABAg",
+          "author": "@pankajKryzen",
+          "text": "YouTube 🎉",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/5PW8Cq8dtsgo_xCEw4__-21GtA0l0yBRx4KGA0rJhz-JRMsKs-zDsjFk3pU-f96HOqYU4bmS=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwnOeTjbUo00OK5z8x4AaABAg",
+          "author": "@f09475",
+          "text": "YouTube",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1YRi8i8TpTnKtMIARSi9xPLn2rKU-ONxy_O_TrQ3cSvg7zMr2VhNJEvOs1oIoKW7QLA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwN0A37dDGc5PG-hDF4AaABAg",
+          "author": "@RudraSonawane-v9y",
+          "text": "Youtube ❤",
+          "likeCount": 1,
+          "publishedAt": "2026-08-08T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ktgf3psRkAgKqgtBrHqhFCpTwn8CtlBGMPzkRqQ28gVAm_OArHXAgXv_ztPUnBWg1sIA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzPN2G0PZY5wB0GcFl4AaABAg",
+          "author": "@sachpoint6822",
+          "text": "Youtube",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/LT5t4VqH1jDUTo2gJmfXGRtE914GzyfH2kv6p7hed6R62dRWZweCrbBhb75iohLjPMaPMAjCoA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxVNIBwGrK5zCgiQM54AaABAg",
+          "author": "@Hardy_boys_07",
+          "text": "😅",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/WTLsj2SyCewpxT5nnX7p_pbUK_rVoz0hFlw9DU9su4w6mqvRNfo4id1QWXLjKoLDSEKL1Ec-=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-08T17:53:19Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "0pjlIkFpFmg": {
-      "checkedAt": "2026-08-07T16:53:24Z",
+      "checkedAt": "2026-08-08T17:53:19Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment “build” for the Claude x GHL automation builder repo\n\nThe GoHighLevel MCP can’t build workflows.\n\nThat’s the one thing you installed it for.\n\nSo they sell you their AI to do it instead.\n\nHere’s the thing.\nA repo reverse engineers the calls GHL never exposed.\n\nInstall it, copy one request as cURL, hand it to Claude.\n\nNow Claude builds the automation and wires it to the page you built.\n\n#ClaudeCode\n#GoHighLevel\n#Automation\n#AIAgents\n#AItools",
-      "commentCount": 2,
-      "likeCount": 2,
+      "commentCount": 8,
+      "likeCount": 60,
       "comments": [
         {
           "id": "Ugx1HL0dNkVEvemFrZZ4AaABAg",
           "author": "@charlieautomates",
           "text": "🚨🔑 Repo resource Here: https://www.charlieautomates.com/free-resources/#ghl-automation-builder",
           "likeCount": 0,
-          "publishedAt": "2026-08-07T16:39:00Z",
+          "publishedAt": "2026-08-08T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
-          "id": "UgwNkbBQWh1NoUcTMKR4AaABAg",
-          "author": "@tomtran5838",
+          "id": "UgzzvOafopYPxdEnNUB4AaABAg",
+          "author": "@wachuku39",
           "text": "Build",
           "likeCount": 0,
-          "publishedAt": "2026-08-07T16:40:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFn9w0hz0AwFJB-F6qbVeDav2pt2ed-EexfrdZybzO1tgT=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-08T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Z08uryMgBMA6cY_lc-nMpoTsH-dXVkkJEu2hksCxuAXeqttI2MNHS82F91bKR8Tjpw-6bZTkkB0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx1J3pLXhnU9a2PJvV4AaABAg",
+          "author": "@CommandTheRoom-2727",
+          "text": "build   and where do I find the mcp to connect claude with ghl?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/k50wgQMQrarkCmsOcwWbhoPvf8tm8ZSVhkb58dvOnNeSoJVlK1LLQ-Y95j5ra2fE6jaGWNpVLMQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzA2uxSFkPxPD15CtJ4AaABAg",
+          "author": "@RobLloyd-i9q",
+          "text": "Build",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kgeb3tvIBGrdY-IdjHykSG-MSKpwcehWUAO3_O6TXPgadO46BAk4RkoG8qNgXDJBfHxg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzqavfysQN95DOLCp94AaABAg",
+          "author": "@raybaldree5813",
+          "text": "Build",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mn4U2qSfoM65pOai9iIDIrhH9sSXkVm4Xqo6oV0E2Z6M0E=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwv5dxDB8HxusDwYrd4AaABAg",
+          "author": "@METACOGNITION.channel",
+          "text": "Build",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/7m8f_V7af4fNIUqBdMDPSsl7DCh9irkD8FS0NsDkgPTGTrkUbi0oO8w5kanjyl9ATePLFs7t2A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyNJgLorvTaf-DbZdF4AaABAg",
+          "author": "@EldridgeAsAService",
+          "text": "BUILD",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l0-93o-N4jweYv7-bzEspdpjpNmkF1pKsdg14yNPPlM54RTS3m4MWNNzI-8fBIvT4zFA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwNyqpjmMbx9Q3gv8l4AaABAg",
+          "author": "@mayankkumar-s9j",
+          "text": "build",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/f-AnV14F3AqraB65AfdkqSyXfBbBbMOFe7r7Pxgd6mnjJUKjRS4s2dLUW8XJ5Ux6s7o30io-=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-07T16:53:24Z",
+      "commentsFetchedAt": "2026-08-08T17:53:19Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "Dt5mPCucbPc": {
-      "checkedAt": "2026-08-07T16:53:24Z",
+      "checkedAt": "2026-08-08T17:53:19Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment ADHD and I'll send you the skill. Make sure you're following me so it reaches you.\n\nThis one skill makes Claude stop stalling and answer right away. It's called \"I have ADHD\" and it's already past 11,000 stars on GitHub. You turn it on and Claude stops opening with \"great question, let me look into that\" and stops dumping three paragraphs before the point. You ask, you get the answer, then one clear next step.\n\nThe comments under it say it has nothing to do with ADHD at all, everyone just prefers answers this way, nobody had packaged it into one command. What you're turning on isn't a medical thing, it's a response format that saves you minutes on every answer.\n\n#AI #Claude #ClaudeCode #productivity",
-      "commentCount": 0,
-      "likeCount": 5,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-07T16:53:24Z",
+      "commentCount": 2,
+      "likeCount": 8,
+      "comments": [
+        {
+          "id": "UgzAybW9oLpQhAyv9zV4AaABAg",
+          "author": "@leejacks5158",
+          "text": "ADHD",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kPxGiOiYBQPNA3t7j-3Nh3o6p65iMhdYiA68XMrNY=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzLWaa-l1AUheAO9-V4AaABAg",
+          "author": "@lloydgordon704",
+          "text": "ADHD",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l4SaeoHkAeSod4ylh7CA7P7agm2gJzlzVD35B3hW2j9TM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-08T17:53:19Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6861,15 +6984,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "7GGRgkDBdJo": {
-      "checkedAt": "2026-08-08T02:53:40Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Want to learn email marketing from scratch? In this beginner-friendly tutorial, I'll show you exactly what email marketing is, why every business needs it, and how to get started the right way.\n\nWhether you're a business owner, freelancer, coach, affiliate marketer, or content creator, this video will help you understand how email marketing works and how you can use it to build relationships, generate leads, and increase sales.\n\nIn this video, you'll learn:\n\n✅ What email marketing is\n✅ Who needs email marketing\n✅ Why email marketing is important\n✅ How email marketing works\n✅ Common email marketing terms explained\n✅ Real-life examples for beginners\n✅ Tips to avoid common mistakes\n\nBy the end of this video, you'll have a solid foundation and be ready to start building your own email marketing strategy.\n\n📌 Don't forget to:\n👍 Like this video\n💬 Leave your questions in the comments\n🔔 Subscribe for more tutorials on email marketing, automation, WordPress, websites, and online business.\n\nCommon Email Marketing Mistakes: https://youtu.be/ihPAtjslpqs?si=kug-IJ7zGn_-QCbM\n\n#EmailMarketing #EmailMarketingForBeginners #DigitalMarketing #EmailAutomation #OnlineBusiness",
-      "commentCount": 1,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
     "wnkdn9OvKc0": {
       "checkedAt": "2026-08-08T03:53:34Z",
       "embedAllowed": true,
@@ -6918,15 +7032,6 @@
       "description": "Get the Agent OS & Chinese AI Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nLing 3.0 Flash: The 124B Model That Beats Trillion-Parameter Giants\n\nDiscover Ant Group's revolutionary Ling 3.0 Flash, a sparse mixture-of-experts model that delivers elite performance with incredible efficiency. We break down the open-weight release and show you how to use it for automated business workflows and content strategy.\n\n00:00 - Intro to Ling 3.0 Flash\n01:19 - Sparse Mixture of Experts Explained\n02:11 - Performance and Context Window\n02:41 - Open Weights and Licensing\n04:24 - Content Generation Workflow\n05:23 - Automated Member Onboarding\n06:08 - Lead Qualification Strategies\n07:58 - Final Thoughts and Resources",
       "commentCount": 1,
       "likeCount": 21,
-      "probeClient": "web_embedded"
-    },
-    "FoA9RHUX5IA": {
-      "checkedAt": "2026-08-08T04:53:35Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get the Agent OS &  Chinese AI 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nTencent HY3: The Insane New AI Outperforming GPT 5.5\n\nDiscover Tencent's HY3, a massive 295B parameter model that is dominating benchmarks and handling complex AI agent workflows with ease. Learn how to access this open-source powerhouse for free and implement high-level automation in your business today.\n\n00:00 - Intro\n00:19 - HY3 Architecture & Efficiency\n01:07 - Real-World Workflow Performance\n02:35 - HY3 vs GPT 5.5 Benchmarks\n04:24 - Accessing HY3 via WorkBuddy\n04:50 - Content & Email Automation Prompts\n07:55 - AI Success Lab & Resources",
-      "commentCount": 4,
-      "likeCount": 51,
       "probeClient": "web_embedded"
     },
     "dCw_gU9tc5o": {
@@ -7423,6 +7528,33 @@
       "description": "The best AI tools for building projects in 2026 — all free, all beginner friendly, and all available right now. In this video I walk you through the complete AI project stack that takes you from first idea all the way to finished project. ChatGPT, Claude AI, Perplexity, Canva AI, and Notion AI — five tools, one complete system.\n\nYou have the idea. AI tools now handle everything else. No expensive software, no specialist skills, no large budget — just free AI tools and a clear plan.\n\n🔗 TOOLS MENTIONED\n→ ChatGPT (free): https://chat.openai.com\n→ Claude AI (free): https://claude.ai\n→ Perplexity (free): https://perplexity.ai\n→ Canva (free): https://canva.com\n→ Notion AI (free): https://notion.so\n\n🔔 Subscribe to AIplified: https://www.youtube.com/@AIplified — weekly AI tools explained simply. No jargon. Real results.\n\nNext week: How AI writes a CV that gets interviews — real examples, real results.\n\n#aiprojecttools #chatgptprojects #aitools  #aiplified #buildwithai  #projectmanagementai #canvaai  #notionai  #perplexityai  #claudeai  #artificialintelligence  #aiforbeginners  #bestaitools2026   #aiproductivity  #buildprojectsai #chatgpt #chatgptprompts",
       "commentCount": 0,
       "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "JDiAQp63WB4": {
+      "checkedAt": "2026-08-08T17:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I moved ALL my AI agents — Claude Code, Codex, and Hermes — into one shared workspace called Buzz, and it finally fixed the problem every agent user has: five windows open and zero shared context.\n\nIn this video I show you exactly how I set it up: how Buzz works under the hood (Nostr, relays, ACP), how to create agents on any harness, how I make Claude Code cross-check Codex's work, two Hermes agents on different machines talking to each other, audio meetings where humans AND agents join and turn talk into action — plus the real costs ($200/day, I show the dashboard) and the setup mistakes to avoid.\n\n🐝 Get Buzz: https://buzz.xyz\n🤖 Steal my agents, prompts + resources: https://www.skool.com/keith-ai-3958\n🔌 Hermes → Buzz native gateway adapter (the best of the 3 ways): https://hermes-agent.nousresearch.com/docs/user-guide/messaging/buzz\n\n\nWho this is for: solopreneurs and small teams running Claude Code, Codex, Hermes/OpenClaw — not enterprise (yet). It's early, it's a little buggy, and it's still the clearest preview of what an AI-first company looks like.\n\n⏱️ CHAPTERS\n0:00 Why I switched: 5 windows, zero shared context\n1:08 What Buzz actually is\n1:27 What I'll show you\n2:20 Video roadmap\n3:14 How Buzz works: Nostr, keys, relays\n4:22 Communities + ACP explained\n5:27 Installing Buzz\n5:46 Full feature tour\n9:42 Creating agents (harness, model, permissions)\n13:11 Multi-machine gotcha\n14:06 Channels: humans + agents together\n16:20 Demo: agents commanding agents\n17:39 DMs, forums, Pulse, projects, workflows\n20:22 Mobile pairing (avoid this mistake)\n21:17 Claude Code + Codex teamwork\n22:01 Audio huddles: meetings with your agents\n24:05 3 ways to connect Hermes (use the 3rd)\n26:07 The honest problems + real costs\n27:11 Why I'm moving everything anyway\n28:21 Who Buzz is for\n\nSome hard-won lessons in here: agents only show on the machine that created them, pair mobile with your 24/7 machine (identity transfers!), and the native Hermes gateway keeps memory/skills/cron that the managed runtime loses.\n\n🤝 JOIN THE FREE COMMUNITY\nGot questions? Join my free Skool: https://www.skool.com/keith-ai-3958\n  🔥 Join my newsletter → https://substack.com/@rumjahn\n\n#AIAgents #Buzz #ClaudeCode #Codex #Hermes #Nostr #AIWorkflow #Solopreneur",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "9omFW2-sfDw": {
+      "checkedAt": "2026-08-08T17:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn how to build a fully functional AI Chatbot for Telegram using n8n! In this step-by-step tutorial, you'll learn how to connect Telegram Bot Father with n8n workflows and AI models (like OpenAI GPT-4o / Claude) to create an automated, intelligent Telegram bot—100% free and easy to set up.\n\nWhether you're building an AI customer support bot, a personal assistant, or an automated task bot, n8n makes it fast and seamless with visual workflows.\n\n🔥 What You Will Learn in This Video:\n- Setting up a new bot using Telegram BotFather\n- Connecting Telegram Webhooks to n8n\n- Configuring n8n AI Agent nodes & Memory\n- Connecting Gemini AI Models to n8n\n- Testing and deploying your live Telegram AI Bot\n\n\n🔗 HELPFUL LINKS & RESOURCES:\n- n8n Official Website: https://n8n.io\n- Telegram BotFather: https://t.me/botfather\n- n8n AI Nodes Documentation: https://docs.n8n.io\n\n\n💻 Cheap vps deals:\n1vCPU 1GB RAM 20GB SSD $21.99/Year:\nhttps://lkmw.me/J0gdyQ2\n2vCPU 2GB RAM 35GB SSD $35.99/Year:\nhttps://lkmw.me/23awbpk\n3vCPU 4GB RAM 60GB SSD $59.99/Year:\nhttps://lkmw.me/gE1umQX\n6vCPU 6GB RAM 20GB SSD $89.99/Year:\nhttps://lkmw.me/jMYe92h\n10 GBps Speed cheap vps on unihost:\nhttps://lkmw.me/Y6TB9H6\n\n\n🫵 If you like this video make sure to \n🙋‍♂️ LIKE AND SUBSCRIBE FOR MORE\n\n💬Join our discord community\nhttps://lkmw.me/snehasis4321_discord\n\n📖 Get free online courses from this site:\nhttps://lkmw.me/h4QqrDH\n\n😽 Join LinkMeow Free Link in Bio and URL shortener:\nhttps://lkmw.me/\n\n\n💬 GOT QUESTIONS?\nLeave a comment below if you run into any issues during the setup! Don't forget to LIKE and SUBSCRIBE for more AI automation tutorials.\n\n#n8n #TelegramBot #AIChatbot #Automation #NoCode #OpenAI #SelfHosted",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "QsQ94LWMDi0": {
+      "checkedAt": "2026-08-08T17:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔗 GET STARTED HERE: https://ascn.ai/?ref=SJF8RTG4SY\n🎁 SPECIAL OFFER: Use promo code \"AGENTPRO\" at the link below to get DOUBLE your subscription time! When you buy 1 month, you get 2 months FREE. You also get a free business audit, setup assistance, and 1,000 bonus credits on your first purchase.\n\nWant to learn how to build AI agents with no code and turn them into a high-profit business? In this video, I show you exactly how I generated $4,200 in revenue by setting up autonomous AI agents for local businesses using ASCN. While most people are just chatting with AI, I’ll show you how to build a workforce that actually does the work for you.\n\nWe are moving past simple chatbots. If you want to scale, you need to know how to build and sell AI agents that can handle lead generation, content creation, and order processing on autopilot. I’ll walk you through the ASCN platform, explore the marketplace of 300+ ready-made templates, and build a custom agent from scratch in minutes—all without writing a single line of code.\n\nWhether you're looking for a new side hustle or want to automate your own agency, this tutorial covers everything you need to know about the future of autonomous work.\n\nChapters:\n0:00 How I Made $4,200 with AI Agents\n1:15 Why ChatGPT is Failing Your Business\n2:30 ASCN vs. Zapier: The Power of Autonomy\n3:45 Live Demo: The Google Maps Lead Hunter\n5:10 SMM Content Factory: Managing 25 Brands\n6:30 Building a Custom Order Agent (Step-by-Step)\n7:45 How to Automate Your Outbound Sales\n8:30 Passive Income: The ASCN Affiliate Program\n9:00 Special Offer & Final Steps\n\nIf you enjoyed this video, please Like, Subscribe, and hit the notification bell for more AI automation strategies!\n\n#AIAgents #NoCode #PassiveIncome #Automation #ArtificialIntelligence #SideHustle #ASCN\n\n📩Subscribe to the Newsletter: https://www.themetaverseguy.com/newsletter\n\n🌐Visit my Official Website: https://www.themetaverseguy.com/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCYEHmQ-b1iC02-LMeseQsvw/join\n\n✉️ Send me an email:\ninfo@themetaversecompany.uk\n\n\n👇 Don’t forget to LIKE, SUBSCRIBE, and SHARE!\n\n#openai #Ai #Chatgpt #AIProgramming #LLM #Ollama #LLAMA #WindsurfAI #CursorAI #BoltNew #AIDevelopment #AIShowdown #TheMetaverseGuy #SoftwareDevelopment #CodingTools #AIForDevelopers",
+      "commentCount": 3,
+      "likeCount": 6,
       "probeClient": "web_embedded"
     }
   }

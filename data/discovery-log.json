@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T16:53:10Z",
+  "updatedAt": "2026-08-08T17:53:19Z",
   "items": [
+    {
+      "id": "JDiAQp63WB4",
+      "type": "long",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-08-08T17:46:19Z",
+      "firstSeenAt": "2026-08-08T17:53:19Z"
+    },
+    {
+      "id": "9omFW2-sfDw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Snehasis Ghosh",
+      "publishedAt": "2026-08-08T16:53:19Z",
+      "firstSeenAt": "2026-08-08T17:53:19Z"
+    },
+    {
+      "id": "QsQ94LWMDi0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Metaverse Guy",
+      "publishedAt": "2026-08-08T13:53:19Z",
+      "firstSeenAt": "2026-08-08T17:53:19Z"
+    },
     {
       "id": "ag3J9c4nrTo",
       "type": "short",
@@ -11790,6 +11814,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-08T17:53:19Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
