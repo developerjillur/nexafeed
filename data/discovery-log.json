@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T20:53:47Z",
+  "updatedAt": "2026-08-08T21:53:49Z",
   "items": [
+    {
+      "id": "s5UXfDiDLSk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Code Rant",
+      "publishedAt": "2026-08-08T18:53:49Z",
+      "firstSeenAt": "2026-08-08T21:53:49Z"
+    },
+    {
+      "id": "EjhPoS1wFgc",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Robotics Humans",
+      "publishedAt": "2026-08-08T15:53:49Z",
+      "firstSeenAt": "2026-08-08T21:53:49Z"
+    },
+    {
+      "id": "3sU636O09_Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "An Hour of Innovation with Vit Lyoshin",
+      "publishedAt": "2026-08-08T13:53:49Z",
+      "firstSeenAt": "2026-08-08T21:53:49Z"
+    },
     {
       "id": "uRTnxzg3C-0",
       "type": "long",
@@ -11938,6 +11962,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-08T21:53:49Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
