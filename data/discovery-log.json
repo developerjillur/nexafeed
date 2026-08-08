@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T05:53:35Z",
+  "updatedAt": "2026-08-08T06:53:36Z",
   "items": [
+    {
+      "id": "e-8fZOPBLn0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-08-08T06:30:36Z",
+      "firstSeenAt": "2026-08-08T06:53:36Z"
+    },
+    {
+      "id": "cFQWNcBcJP4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NetHyTech",
+      "publishedAt": "2026-08-08T05:53:36Z",
+      "firstSeenAt": "2026-08-08T06:53:36Z"
+    },
+    {
+      "id": "yc5Z09m3VPU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech Builder Akash",
+      "publishedAt": "2026-08-08T03:53:36Z",
+      "firstSeenAt": "2026-08-08T06:53:36Z"
+    },
+    {
+      "id": "2od7tPirPYE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Zubair Trabzada | AI Workshop",
+      "publishedAt": "2026-08-07T19:53:36Z",
+      "firstSeenAt": "2026-08-08T06:53:36Z"
+    },
+    {
+      "id": "FI4NdYXltA4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Austin Marchese",
+      "publishedAt": "2026-08-07T16:53:36Z",
+      "firstSeenAt": "2026-08-08T06:53:36Z"
+    },
     {
       "id": "KcWMEClciv4",
       "type": "short",
@@ -11395,6 +11435,15 @@
       "channelsChecked": 33,
       "warnings": 20,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-08T06:53:36Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 32,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
