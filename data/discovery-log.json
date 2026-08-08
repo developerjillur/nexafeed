@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T19:53:38Z",
+  "updatedAt": "2026-08-08T20:53:47Z",
   "items": [
+    {
+      "id": "uRTnxzg3C-0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Miklos Kovacs | AI & Leverage",
+      "publishedAt": "2026-08-08T19:53:47Z",
+      "firstSeenAt": "2026-08-08T20:53:47Z"
+    },
+    {
+      "id": "vhNV3j0uFDE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hablu Programmer",
+      "publishedAt": "2026-08-08T15:53:47Z",
+      "firstSeenAt": "2026-08-08T20:53:47Z"
+    },
     {
       "id": "P052ouQqHUU",
       "type": "short",
@@ -11913,6 +11929,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-08T20:53:47Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
