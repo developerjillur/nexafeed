@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T13:53:42Z",
+  "updatedAt": "2026-08-08T14:53:43Z",
   "items": [
+    {
+      "id": "SDJD85dLWwk",
+      "type": "long",
+      "source": "primary",
+      "channel": "Hasan Aboul Hasan",
+      "publishedAt": "2026-08-08T14:37:52Z",
+      "firstSeenAt": "2026-08-08T14:53:43Z"
+    },
+    {
+      "id": "ZxOog5EIqi0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hasan Skill Zone",
+      "publishedAt": "2026-08-08T13:53:43Z",
+      "firstSeenAt": "2026-08-08T14:53:43Z"
+    },
+    {
+      "id": "7FZKnoceR-g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SpotLight",
+      "publishedAt": "2026-08-08T12:53:43Z",
+      "firstSeenAt": "2026-08-08T14:53:43Z"
+    },
+    {
+      "id": "o1BcA-a2gpA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Global Factory Process",
+      "publishedAt": "2026-08-08T10:53:43Z",
+      "firstSeenAt": "2026-08-08T14:53:43Z"
+    },
+    {
+      "id": "D0bTj86-Cyw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Liqui AI",
+      "publishedAt": "2026-08-07T23:53:43Z",
+      "firstSeenAt": "2026-08-08T14:53:43Z"
+    },
     {
       "id": "gxaRaopYk4w",
       "type": "long",
@@ -11667,6 +11707,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-08T14:53:43Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 1,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
