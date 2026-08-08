@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T12:53:40Z",
+  "updatedAt": "2026-08-08T13:53:42Z",
   "items": [
+    {
+      "id": "gxaRaopYk4w",
+      "type": "long",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-08T13:28:24Z",
+      "firstSeenAt": "2026-08-08T13:53:42Z"
+    },
+    {
+      "id": "72zrUOzf1C8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-08T13:05:33Z",
+      "firstSeenAt": "2026-08-08T13:53:42Z"
+    },
+    {
+      "id": "17t0nG2VShI",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-08T06:19:59Z",
+      "firstSeenAt": "2026-08-08T13:53:42Z"
+    },
+    {
+      "id": "XSLFA3N2Z-k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Freelancer Tofayel",
+      "publishedAt": "2026-08-08T13:29:42Z",
+      "firstSeenAt": "2026-08-08T13:53:42Z"
+    },
+    {
+      "id": "NyRHalWlDQs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "VELYON AI Institute",
+      "publishedAt": "2026-08-08T11:53:42Z",
+      "firstSeenAt": "2026-08-08T13:53:42Z"
+    },
+    {
+      "id": "x9VYCxS-H2E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "VELYON AI Institute",
+      "publishedAt": "2026-08-08T11:53:42Z",
+      "firstSeenAt": "2026-08-08T13:53:42Z"
+    },
+    {
+      "id": "eQrvzH_t-c0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Skills With Ashwin",
+      "publishedAt": "2026-08-08T10:53:42Z",
+      "firstSeenAt": "2026-08-08T13:53:42Z"
+    },
+    {
+      "id": "dxNE1N-UcP0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Profitable Creators",
+      "publishedAt": "2026-08-08T07:53:42Z",
+      "firstSeenAt": "2026-08-08T13:53:42Z"
+    },
     {
       "id": "scXxe-79Qb0",
       "type": "short",
@@ -11594,6 +11658,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-08T13:53:42Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }

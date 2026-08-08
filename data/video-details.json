@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T12:53:40Z",
+  "updatedAt": "2026-08-08T13:53:42Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -1745,15 +1745,6 @@
       "likeCount": 1356,
       "probeClient": "web_embedded"
     },
-    "rYb_xSjx-Fw": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Claude Code context engineering changed with Claude 5. I'm an ex-Amazon engineer breaking down Anthropic's new rules and running /doctor on my second brain to cut wasted tokens.\n\nKey takeaways:\n- Why instruction collision between your system prompt and CLAUDE.md burns tokens\n- How a kitchen sink CLAUDE.md loads 100% of the time for rules used 2%\n- How /doctor found 36 unused skills and freed ~6,000 tokens per session\n\n📌 Full article: https://x.com/trq212/article/2080710971228918066\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n📌 Mentioned:\n- Cut token usage 94%: https://youtu.be/UvVVATGIm7k\n- Daily usage limit fix: https://youtu.be/P_rZ5VR23aE\n\nTimestamps:\n0:00 Intro\n0:24 Why Context Breaks\n1:49 Kitchen Sink CLAUDE.md\n2:40 Running /doctor\n5:10 Reading the Report\n6:18 Cherry-Pick What to Keep\n7:10 Find Redundant Skills\n9:01 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
-      "commentCount": 14,
-      "likeCount": 330,
-      "probeClient": "web_embedded"
-    },
     "IMuaIXPLhd0": {
       "checkedAt": "2026-08-06T20:53:12Z",
       "embedAllowed": true,
@@ -2071,99 +2062,6 @@
       "likeCount": 4,
       "comments": [],
       "commentsFetchedAt": "2026-08-02T02:53:26Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "SLw2Ce950hs": {
-      "checkedAt": "2026-08-02T07:53:31Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Most people assume the giant squid is the largest squid species in the ocean. It is not. That title belongs to the colossal squid, the heaviest invertebrate known to science, larger by mass than the giant squid despite being shorter in total length.\nIn March 2025, the Schmidt Ocean Institute's ROV SuBastian filmed a colossal squid alive in its natural habitat for the first time in history, near the South Sandwich Islands at a depth of 600 metres. But the individual captured on camera was only about 30 centimetres long, a juvenile. A fully grown adult can reach nearly 7 metres and weigh up to 500 kilograms, the scale of creature that once inspired sailors' stories of the Kraken. No adult has ever been filmed alive.\nSo how do scientists know adults exist at all? The evidence comes from sperm whales, the colossal squid's only known predator. Whales have been observed at the surface carrying scars from squid suckers, and in some cases, torn tentacle fragments still embedded in their skin. When sperm whale stomachs have been examined, they have contained squid beaks, the one part of the animal that cannot be digested, providing direct physical proof of predation on adult colossal squids.\nEven locating the species would not answer every question. The colossal squid has the largest eyes of any known animal, roughly the size of a volleyball, believed to help it detect faint bioluminescence at a distance and spot an approaching sperm whale in complete darkness before being seen itself. Yet scientists still do not know whether it actively hunts or waits motionless as an ambush predator for prey to come within range.\nBy comparison, scientists consider the megalodon extinct largely because its distinctive bite marks have stopped appearing in the fossil and modern predation record. Colossal squid scars, by contrast, are still being found on sperm whales today. The species is alive, present, and largely unmapped.\nSource: Schmidt Ocean Institute, First Live Sighting of a Colossal Squid (2025). Natural History Museum, Colossal Squid Facts. Te Papa Museum, Colossal Squid Research.\n #ColossalSquid #DeepSea #GiantSquid #DeepOceanCreatures #SpermWhale",
-      "commentCount": 8,
-      "likeCount": 23594,
-      "comments": [
-        {
-          "id": "Ugy1bWZoSDmLtnAx6jp4AaABAg",
-          "author": "@MohdKashif-l2c7i",
-          "text": "Bhai white hole hota hai kya",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nQnix-VeJ6EdB4XIG9FFgrkb8_vpSDP2Ft1Cp8cNbPAPogyXsBLaYw96po1fV2IWNUFw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz30so9FTqAwwRMQgV4AaABAg",
-          "author": "@justonce3951",
-          "text": "Squid,❌ \nBada wala✅",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ndtGCqv8GkxVkOUgUUrgxMJ79NmTAJGhdSHUUM4AH2_DjjKes=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzwfaBMBLvGYxFA7mV4AaABAg",
-          "author": "@UNCHIUDAANWITHSHUBHAM",
-          "text": "Bhai ye video kaha se late ho",
-          "likeCount": 0,
-          "publishedAt": "2026-08-01T21:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/4bSxninQ8yFa4y68nYSLgWC2ZzqbeiG12AsKDcY1VawjbKHlijgu8gm_6S4osqKfPEPuJvnMIQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx7ZoTYsE2ampjJ3Uh4AaABAg",
-          "author": "@amoghagarwal4714",
-          "text": "Vilgax 💀",
-          "likeCount": 0,
-          "publishedAt": "2026-08-01T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nLOZiVoOnOY9sRG6PEfbeJQZgNEc94Ld_-R0YhapW-QHpFlNNHtQIwpPu8VJKX5wVYKg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyI2gD4JjVNlCS1GMN4AaABAg",
-          "author": "@mihirgupta8422",
-          "text": "Bhai long format videos banao",
-          "likeCount": 0,
-          "publishedAt": "2026-08-01T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nGIw4GczTs0J6zKxnJur4x9u20aH4ljg_abcboC4BfdwA9=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugwfr_7IF1T-7HzGRVR4AaABAg",
-          "author": "@AnshJounjare-f3r",
-          "text": "Bhai tum ek video uspe leke aao agar aliens hote hai to unhone ab tak Earth ko dhunda kyo ni or kya ye real me hote bhi hai or Earth k alawa kahi or kya koi living life hogi hamare jese log ya koi alg dimension hogi space me",
-          "likeCount": 0,
-          "publishedAt": "2026-08-01T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mIq3VHfPUrGhS9seKsJqeGzc2vC6doz0-nM2OENLkRxafGhMnaFzOjB0stCwcIPBngbw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwMvwiNGzr9xAiFN7N4AaABAg",
-          "author": "@Vinaykumar2012-w3n",
-          "text": "ग्रेविटी की स्पीड लाइट की स्पीड से कैसे हुई जब ब्लैकहोल लाइट को kha जाता है ब्लैक होल तो यह rule ब्रेक करता hai",
-          "likeCount": 0,
-          "publishedAt": "2026-08-01T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ZX0iQArLOlqNayGfQh0ZhNTxYP1MZjE8DhE-AAIBkT5Bczv54H0SBXvioScMjwCspXLb4IelqA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgygWlro72D2in7CZzV4AaABAg",
-          "author": "@Vinaykumar2012-w3n",
-          "text": "Universe bahar se stretch ho to Jahan per Universe ke law tootte ho",
-          "likeCount": 0,
-          "publishedAt": "2026-08-01T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ZX0iQArLOlqNayGfQh0ZhNTxYP1MZjE8DhE-AAIBkT5Bczv54H0SBXvioScMjwCspXLb4IelqA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-02T07:53:31Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -3016,12 +2914,12 @@
       "probeClient": "web_embedded"
     },
     "MnrgyDbVRzk": {
-      "checkedAt": "2026-08-01T13:53:35Z",
+      "checkedAt": "2026-08-08T13:53:42Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "CodeRabbit is the AI code reviewer I now run on every pull request. I'm a senior engineer building bookzero.ai with Claude Code, and this is the setup that keeps AI-generated code from breaking production.\n\nWhat you'll learn:\n\n- Install CodeRabbit on a GitHub repo and get a full PR review with 1-click fixes\n- Write custom AST Grep rules so team standards get enforced without a human reviewer\n- Run the CodeRabbit CLI locally so bugs get caught before you ever push\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n👇 Try CodeRabbit and read the benchmark reports:\n\nCodeRabbit: https://www.coderabbit.ai/\nCodeRabbit CLI: https://www.coderabbit.ai/cli\nCodeRabbit Plan: https://www.coderabbit.ai/plan\nMulti-Repo Analysis: https://docs.coderabbit.ai/knowledge-base/multi-repo-analysis\nPre-Merge Checks: https://docs.coderabbit.ai/pr-reviews/pre-merge-checks\nState of AI vs Human Code Generation Report: https://www.coderabbit.ai/whitepapers/state-of-AI-vs-human-code-generation-report\nLatest OSS Benchmark Report: https://codereview.withmartian.com/\n\nTimestamps:\n0:00 Intro\n0:48 Repo Setup\n1:38 Review & Autofix\n3:33 Atlas & Learnings\n4:40 Custom Rules\n6:04 CodeRabbit CLI\n7:47 Multi-Repo Checks\n8:43 My Workflow\n\n#claudecode #aitools #softwaredevelopment",
-      "commentCount": 1,
-      "likeCount": 3,
+      "description": "CodeRabbit is the AI code reviewer I now run on every pull request. I'm a senior engineer building bookzero.ai with Claude Code, and this is the setup that keeps AI-generated code from breaking production.\n\nWhat you'll learn:\n\n- Install CodeRabbit on a GitHub repo and get a full PR review with 1-click fixes\n- Write custom AST Grep rules so team standards get enforced without a human reviewer\n- Run the CodeRabbit CLI locally so bugs get caught before you ever push\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n👇 Try CodeRabbit and read the benchmark reports:\nCodeRabbit: https://coderabbit.link/ericwtech \nCodeRabbit: https://www.coderabbit.ai/\nCodeRabbit CLI: https://www.coderabbit.ai/cli\nCodeRabbit Plan: https://www.coderabbit.ai/plan\nMulti-Repo Analysis: https://docs.coderabbit.ai/knowledge-base/multi-repo-analysis\nPre-Merge Checks: https://docs.coderabbit.ai/pr-reviews/pre-merge-checks\nState of AI vs Human Code Generation Report: https://www.coderabbit.ai/whitepapers/state-of-AI-vs-human-code-generation-report\nLatest OSS Benchmark Report: https://codereview.withmartian.com/\n\nTimestamps:\n0:00 Intro\n0:48 Repo Setup\n1:38 Review & Autofix\n3:33 Atlas & Learnings\n4:40 Custom Rules\n6:04 CodeRabbit CLI\n7:47 Multi-Repo Checks\n8:43 My Workflow\n\n#claudecode #aitools #softwaredevelopment",
+      "commentCount": 2,
+      "likeCount": 39,
       "probeClient": "web_embedded"
     },
     "QC3ChcrKHu4": {
@@ -3058,30 +2956,30 @@
       "probeClient": "web_embedded"
     },
     "0eCqH3gNR5w": {
-      "checkedAt": "2026-08-01T13:53:35Z",
+      "checkedAt": "2026-08-08T13:53:42Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "💬 Comment 𝗔𝗚𝗘𝗡𝗧𝗜𝗖 and I’ll DM you the complete step-by-step setup video!\n\n#claudecode #aiagents #codingwithai #developerproductivity #softwareengineering #buildinpublic #aitools #anthropic",
-      "commentCount": 81,
-      "likeCount": 274,
+      "commentCount": 201,
+      "likeCount": 328,
       "probeClient": "web_embedded"
     },
     "lTu8LVA4UO4": {
-      "checkedAt": "2026-08-01T13:53:35Z",
+      "checkedAt": "2026-08-08T13:53:42Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "💬 Comment 𝗦𝗢𝗦𝗛𝗜𝗘 and I’ll DM you the direct link!\n\n#socialmediamarketing #aitools #smallbusiness #contentcreation #automation #socialmediatips #marketingautomation #solopreneur",
-      "commentCount": 0,
-      "likeCount": 6,
+      "commentCount": 1,
+      "likeCount": 7,
       "probeClient": "web_embedded"
     },
     "DgeMvw1yigk": {
-      "checkedAt": "2026-08-01T13:53:35Z",
+      "checkedAt": "2026-08-08T13:53:42Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "💬 Comment 𝗙𝗟𝗢𝗪 and I’ll DM you the exact repo link!\n\n#claudecode #aiagents #codingwithai #developerproductivity #softwareengineering #aitools #buildinpublic #opensource",
-      "commentCount": 74,
-      "likeCount": 431,
+      "commentCount": 145,
+      "likeCount": 430,
       "probeClient": "web_embedded"
     },
     "Lg5TYWPSg6M": {
@@ -5879,10 +5777,10 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-08T12:53:40Z",
+      "checkedAt": "2026-08-08T13:53:42Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "AncgOoIdHaE": {
       "checkedAt": "2026-08-08T01:53:29Z",
@@ -6055,7 +5953,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-08T12:53:40Z",
+      "checkedAt": "2026-08-08T13:53:42Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6306,130 +6204,171 @@
       "probeClient": "web_embedded"
     },
     "-IrWlbs3FGI": {
-      "checkedAt": "2026-08-07T13:53:27Z",
+      "checkedAt": "2026-08-08T13:53:42Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "We didn't have footage, but the images of the crash on the Moon have finally arrived, the upper stage of a SpaceX Falcon 9 rocket that struck the lunar surface, exactly as predicted in our earlier update.\n\nSouth Korea's Danuri orbiter, operated by the Korea Aerospace Research Institute, captured before-and-after images of the exact impact site, observing the location for about 30 minutes before the collision and another 30 minutes right after, eight observations total. The after-images clearly show a brand new crater that wasn't there before.\n\nIndependently, the European Southern Observatory's Very Large Telescope in Chile detected two distinct elements in the impact plume, sodium and lithium, each reflecting sunlight differently enough to be told apart. The lithium came from the rocket itself. The sodium came from the Moon's own surface, blasted out on impact.\n\nTwo completely independent confirmations, images and chemistry, of the exact same event.\n\nThe stage hit at 8,700 kilometres per hour. NASA's latest estimate puts the new crater at roughly 18 metres wide and nearly 4 metres deep. For scale, a natural meteoroid carrying the same energy hits the Moon about once every six days, this wasn't a rare event, we simply knew exactly when and where this one was coming.\n\nNASA and ESA are both still processing their own data, with more observations expected soon.\n\nSource: Korea Aerospace Research Institute (KARI), Danuri Mission. European Southern Observatory, Very Large Telescope Observations. NASA, Falcon 9 Upper Stage Lunar Impact Analysis.\n#MoonImpact #SpaceX #Falcon9 #Danuri #NASA",
       "commentCount": 8,
-      "likeCount": 1371,
+      "likeCount": 27419,
       "comments": [
         {
-          "id": "UgzhTDps64kGHlEJ2YV4AaABAg",
-          "author": "@TheGoodDoctor01",
-          "text": "Under 20 minutes gang",
+          "id": "Ugyt97Yjgh0sLMRPW9l4AaABAg",
+          "author": "@Shiva-ni3lk",
+          "text": "Hein 😏 isse bade gadhhe hmare yha sadko pe hote hainn 🫠",
           "likeCount": 0,
-          "publishedAt": "2026-08-07T13:52:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/v9ycUsnIQ6m3eW7VKmbBm1jl0ejVL2n7l_GnG9kM5c-MdRTEkF1TcRRoL9QA6tlNlvS0tfDHsw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-08T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-0tIQ82fnYC7fmfKqWWShUYacPsKDzELA4nXEhq-p7nd8O_HJw8ORgD7Ju6YQ8_e5gCbKWIB-Kc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugw6HmJmCkgzTrEqZ-h4AaABAg",
-          "author": "@indianindia-v4d1q",
-          "text": "Video Dekhne\nSe Pehele\nJaldi Jaldi\nComment Kar Leta Hu \nBohot Sare Likes Milenge 🎉\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n😂",
-          "likeCount": 1,
-          "publishedAt": "2026-08-07T13:49:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m5haELUg_NVNei9yPs334ar0tHeqoxdOyQwV17SEoZVwQwchwNuznoIBlsVGQpH9xupQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyNK2uUrdvhUV9EWDR4AaABAg",
-          "author": "@Op_gaming03",
-          "text": "Make a video on topic all rare moon crater",
+          "id": "UgyYRIBTZwbdxE3QLjF4AaABAg",
+          "author": "@rahulhowlader1614",
+          "text": "Every time It hurts my ears when 'debris' is mispronounced ;(",
           "likeCount": 0,
-          "publishedAt": "2026-08-07T13:46:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/WuKahXtZo8TrEzPcxlcqWjr2K3VPqTQp50KhtFD_BrbXJpWiaEhYjDmCwJUw-j5HHFx2hfTJzQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-08T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kz4WAk624T8PqBPDcRZ0G0RsBrhj0ORlo4T189wFwz4Hun=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxmXRgq_7kbZnRsUch4AaABAg",
-          "author": "@DeCoRz_editz",
-          "text": "Les goo\n👇If you saw it",
+          "id": "Ugxuq2xouCiipwwe8qp4AaABAg",
+          "author": "@Arghadeep-v7r",
+          "text": "Nice information....good expression while talking.....i subscribed ❤❤❤",
           "likeCount": 0,
-          "publishedAt": "2026-08-07T13:46:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/M0Iy8SZXj0Q_7z1Quv4yz-dck96VMLsMIvzcQ1RDRNKcV8WdGgGWLmUbYDJUyyVxDZsJSwXwXQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-08T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Go9foLbqbz0ULE6Q0h3at71R7ap9GMOzQjCU5ExTg_66eO09jSgQ-_UdpWrl-Kurvey1OevTzA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugzs_bDdehGnyGevELZ4AaABAg",
-          "author": "@omprakashsoni7903",
-          "text": "Video aate hi dekh li😂😂😂",
+          "id": "UgwuBIih68mkK0k1Zg54AaABAg",
+          "author": "@AiName-g6y",
+          "text": "😊😊",
           "likeCount": 0,
-          "publishedAt": "2026-08-07T13:46:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/oK31VKmBOuYnJIy-bvI3Rwx74vALJnib3WFfN3tkXfgUMufbNGF2P-3VwwC_jYC5UCRUG8fCMA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-08T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/eW60jHYNbceKlfkhN2bnCG7wfH7LWSprrTOtFZ11BrsiHgh6MTLz7MsVqwP6Abxto4FJR7tQXGk=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugx3YPWIbbJwNIAmuWd4AaABAg",
-          "author": "@AnkitKumar-r7v5n",
-          "text": "Thanks for information 🎉",
-          "likeCount": 1,
-          "publishedAt": "2026-08-07T13:44:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mIq3VHfPUrGhS9seKsJqeGzc2vC6doz0-nM2OENLkRxafGhMnaFzOjB0stCwcIPBngbw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwbCoucmYU5k7YGtaR4AaABAg",
-          "author": "@Redeye-l1w",
-          "text": "10000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "id": "UgyAvCqLX8GN85_O3Np4AaABAg",
+          "author": "@Pythagorasrules",
+          "text": "Innn salon ne jaan bujh k ladwaya hai aur naam de rhe hai technical fault ka 😂",
           "likeCount": 0,
-          "publishedAt": "2026-08-07T13:43:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/pxkDYfcATGHMVu4lGUqOF2czQstz_L_22ZHfUPcazNRBXwzhV6-_P-knCWzo5tPJw8rEtBbSZvE=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-08T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/n3WrV9nNlD6LlU0S1ebZYdOf9dnzlKpqBO4MbLlfIbuCc8vvO9JC6yfLTGIx2aq6WYtQWe3TpqE=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxmI4cvRkKW54T6NDp4AaABAg",
-          "author": "@Rajuram2035_rr",
-          "text": "Thanks",
-          "likeCount": 1,
-          "publishedAt": "2026-08-07T13:42:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/UdQLaQabGKoBPhbr-R8uANMg4LU5tIZTFL2jokwFHMG2iOnzg-jAInngUAExxAXyRTJYdzo4=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgxLBa_ZmxKQ9wa9GEZ4AaABAg",
+          "author": "@busybee6076",
+          "text": "Can 3km.astwroid hit any  city.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lT4c58UTsZqikIPYRIDcIGL0iJ9ZFWky83hA1h0zA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzgAoArm_syGuhUjvJ4AaABAg",
+          "author": "@TinkleArora",
+          "text": "That's what i am thinking before this happen i was thinking if some idiot destroy moon what was the impact on earth",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_laowbR60Lv85DaL-1gkW1CI1Ge8ed3cejEr3plrfWmaFd8UJx0FOv7bqO0B0l7qqkXLg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyoXy7fTRCZl_JOdUZ4AaABAg",
+          "author": "@Simple_yt07",
+          "text": "So they just lying",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/nx_aUCvZwXBvi0f4ux5OMSkvQIfu4psiniJZbenkMUxJ5blP0kWrdtZi_C8G22JnytYwnWdemA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-07T13:53:27Z",
+      "commentsFetchedAt": "2026-08-08T13:53:42Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "WK9Z2FkksQ0": {
-      "checkedAt": "2026-08-07T13:53:27Z",
+      "checkedAt": "2026-08-08T13:53:42Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Here's how you can improve your communication skills using simple habits\n\n📸 Instagram: https://bit.ly/ishansharma7390ig\n\nJoin MarkitUpX Discord Server: https://discord.gg/fwSpTje4rh\n\nTimestamps\n\n😁 About Me: https://bit.ly/aboutishansharma\n📱 Twitter: https://bit.ly/ishansharma7390twt\n📝 LinkedIn: https://bit.ly/ishansharma7390li\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE for more AMAZING content! 🌟\n\n3 Books You Should Read\n📈Psychology of Money: https://amzn.to/30wx4bW\n👀Subtle Art of Not Giving a F: https://amzn.to/30zwWbP\n💼Rework: https://amzn.to/3ALsAuz\n\nTech I use every day\n💻MacBook Air M1: https://amzn.to/2YWKPjG\n📺LG 29' Ultrawide Monitor: https://amzn.to/3aG0p5p\n🎥Sony ZV1: https://amzn.to/3ANqgDb\n🎙Blue Yeti Mic: https://amzn.to/2YYbiNN\n⽴Tripod Stand: https://amzn.to/3mVUiQc\n🔅Ring Light: https://amzn.to/2YQlzLJ\n🎧Marshall Major II Headphone: https://amzn.to/3lLhTDQ\n🖱Logitech mouse: https://amzn.to/3p8edOC\n💺Green Soul Chair: https://amzn.to/3mWIxZP\n\n✨ Tags ✨\n\n\n✨ Hashtags ✨",
-      "commentCount": 0,
-      "likeCount": 78,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-07T13:53:27Z",
+      "commentCount": 2,
+      "likeCount": 1079,
+      "comments": [
+        {
+          "id": "UgzftFdV9DTxOmq9W1h4AaABAg",
+          "author": "@srushtibirari3047",
+          "text": "Your definition of articulation was spot on! 🤌🏻",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kilHZtePoVIAGBDIGwGrn4IHW9y9imirhD4m1LzMhFbc0H=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxPw-ewyZiC4ynXZP54AaABAg",
+          "author": "@harshvardhanedits_01",
+          "text": "\"You are the son of Sharma ji, who must be proud to see the person you have become. Keep growing and making your family proud. 😊✨\"",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/PR9gg1FGt2gHBXRnSILKBDgQi0vEeUBWlmrL_noulRR3P6NG-r_VfmgshuVQ_kafkwC0H8YMsg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-08T13:53:42Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "NtdZmUZ6PD4": {
-      "checkedAt": "2026-08-07T13:53:27Z",
+      "checkedAt": "2026-08-08T13:53:42Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 1,
-      "likeCount": 32,
+      "commentCount": 3,
+      "likeCount": 311,
       "comments": [
         {
           "id": "UgytzUvZ1-S5nX8QUZR4AaABAg",
           "author": "@TheUtkarshhh",
           "text": "https://openai.com/index/ten-advances-in-mathematics/",
-          "likeCount": 1,
-          "publishedAt": "2026-08-07T13:24:00Z",
+          "likeCount": 3,
+          "publishedAt": "2026-08-08T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/f25cg7-Gpt4o-HrFJk-kmpvwISgAjIux0s1VIUDNBpqLUZF6gMPvWH4wi79kqeSZk864gqTK=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "UgwOCyHQMVL-IX8E3V14AaABAg",
+          "author": "@TheWealthyHome",
+          "text": "2nd",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T13:30:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/xQWSWkZFLzLeEYap-8uca1k4PZeXOCdqyScIk6iBv9RVJ2JoMf7PDrCkxqrgG1gcMpN6ds3NdA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwqactYG38uJjR80894AaABAg",
+          "author": "@MuhammadSobanMajeed",
+          "text": "1st🎉",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/RrV3Iwv-fOAXF1jEtgMnFGb-hz4TBVnDaOKH6swGVOJoTZgp4EvB6KkPwE4IgT7NMLQDnSRp=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-07T13:53:27Z",
+      "commentsFetchedAt": "2026-08-08T13:53:42Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6443,14 +6382,14 @@
       "probeClient": "web_embedded"
     },
     "bMTD4pxNj8o": {
-      "checkedAt": "2026-08-07T13:53:27Z",
+      "checkedAt": "2026-08-08T13:53:42Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 0,
-      "likeCount": 0,
+      "likeCount": 8,
       "comments": [],
-      "commentsFetchedAt": "2026-08-07T13:53:27Z",
+      "commentsFetchedAt": "2026-08-08T13:53:42Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6665,24 +6604,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "mZU0KZ7Kc7k": {
-      "checkedAt": "2026-08-07T17:53:30Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🐝 Join the community where all of this is running: https://mrc.fm/cmc\n\nI built a local AI cluster out of Macs I already owned, and my AI agents now run for free, with no API key and no bill. This is Buzz Shared Compute: run an LLM locally, share it with your community, and point your AI agents at a machine in someone else's house instead of OpenAI or Anthropic.\n\nEverything here runs on a Mac Studio M3 Ultra, a Mac mini and a MacBook Pro: a local LLM cluster, self-hosted AI, zero cloud spend. Underneath it is the open-source MeshLLM project, which Block shipped into Buzz at the end of July. I show the full setup end to end, then the catch nobody mentions: the person whose machine answers your prompt can read what you sent it.\n\n⏱ CHAPTERS\n0:00 Answer From the Next Room: No API Key, No Bill\n0:31 What Buzz Shared Compute Actually Is\n0:47 Three Ways to Share Compute: One Model, Mixture of Agents, Split a 1T Model\n1:28 Where Your Prompt Goes: Relay vs Peer to Peer\n1:59 The Privacy Catch: They Can Read What You Send\n2:29 How to Turn On Share Compute in Buzz\n3:05 Which Local LLM Your Mac Can Actually Run\n3:31 Create an AI Agent With No API Key\n4:26 Proof: A Local LLM Answers Inside a Channel\n5:01 Adding a Second Mac to the Cluster\n5:36 Running Llama 3.3 70B on a Mac Studio M3 Ultra\n6:11 First Look: The New Shared Compute Sidebar\n8:11 Gaming PCs, Home Labs and Old Macs Joining In\n9:06 Three Things That Will Bite You\n10:20 Should You Turn It On?\n\n🖥 THE HARDWARE IN THIS VIDEO\nMac Studio M3 Ultra 256GB · Mac mini · MacBook Pro M1 Max 24GB\nModels: Gemma 4 26B, Gemma 4 E4B, Llama 3.3 70B\n\n⚠️ THREE GOTCHAS\n1. Sharing is Mac only at time of filming. Windows and Linux can use the pool but not lend to it. Check your own build.\n2. There's an open bug where the toggle sits on \"starting\" forever.\n3. Don't pick the biggest model your machine can hold. Take the recommendation. Reasoning models burn tokens thinking and your agent feels sluggish.\n\n🔗 LINKS\nJoin the community: https://mrc.fm/cmc\nBuzz: https://buzz.xyz\nMeshLLM: https://github.com/Mesh-LLM/mesh-llm\nBlock on Shared Compute: https://engineering.block.xyz/blog/buzz-sharing-compute-powered-by-meshllm\n\nWhat machine have you got sitting around doing nothing? Gaming PC, old Mac, server under the stairs. Tell me in the comments and I'll tell you what it could run.",
-      "commentCount": 12,
-      "likeCount": 39,
-      "probeClient": "web_embedded"
-    },
-    "M3gHlwHKsBI": {
-      "checkedAt": "2026-08-07T17:53:30Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "👉 Access our AI Architects course & join hundreds of serious AI builders in our community: https://www.theaiautomators.com/?utm_source=youtube&utm_medium=video&utm_campaign=tutorial&utm_content=agent-plugin-standard\n\n🔗 Agent Plugins\nSpecification: https://agent-plugins.org/specification\nCompatible clients: https://agent-plugins.org/compatible-clients\nExample repo (this is the one with the migration skill): https://github.com/agentplugins/agent-plugins-example\nAnthropic's knowledge work plugins (the one migrated in the video): https://github.com/anthropics/knowledge-work-plugins/tree/main/legal\n\n🔗 The announcements\nVercel: https://vercel.com/blog/introducing-agent-plugins\nGoogle: https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/\nAWS: https://aws.amazon.com/blogs/opensource/aws-supports-agent-plugins-an-open-standard-for-portable-agent-extensions/\n\n🔗 Plugins you can look at today\nAWS Agent Toolkit: https://github.com/aws/agent-toolkit-for-aws\nVercel's own plugin: https://vercel.com/docs/agent-resources/vercel-plugin\nPlugins in ChatGPT and Codex: https://learn.chatgpt.com/docs/plugins\n\nThe skills you have already written don't have to stay locked to one coding agent. A new open standard called Agent Plugins lets you bundle Agent Skills and MCP servers into a single folder that works across Codex, ChatGPT, Cursor, GitHub Copilot, Kiro and VS Code, with Google joining more recently.\n\nA plugin under this standard is just a directory. Your skills folder, exactly as you already have it, a plugin.json manifest, and an mcp.json where your MCP servers live. That is the portable core, and it is a much simpler file structure than you would expect from a spec with this many big names on it.\n\nThe part to be clear-eyed about is what doesn't come along for the ride. Only skills and MCP servers travel. Commands, hooks, agents, rules and LSP servers all stay client-specific and get buried in a namespaced folder that other clients skip. That is likely to be the biggest criticism of the spec, though the reasoning is that those pieces are still too tied to individual tools to pin down, which is fair enough.\n\nThere's one big name absent here, and that's Anthropic. Anthropic isn't a maintainer, Claude Code isn't a launch client, and they haven't said anything publicly about it. So in this video I take Anthropic's own legal knowledge work plugin, point Codex at the migration skill in the first-party example repo, and port it over to the new standard, then run one of its skills from a completely different project.\n\nI also cover the awkward bit, because installing one of these locally was harder than it should have been. Codex and Cursor both expect plugins to arrive from a marketplace, so this doesn't feel as portable as just dropping a skill into a project. The standard defines the folder structure that travels between agents. It doesn't define how those plugins get distributed or loaded. And the usual disclaimer applies to any externally sourced plugin: only use ones from reputable sources or ones you understand well.\n\nWhether it lasts comes down to adoption, and I think it's a very positive move to have some consistency between agents so you can jump back and forth between them. It's simple enough to get picked up widely. If Anthropic started using it, that would be practically guaranteed, but there's a good chance we end up with one format for Anthropic and another for everyone else, the way Claude Code uses CLAUDE.md while nearly every other agent uses AGENTS.md.\n\n⏱️ Timestamps:\n\n0:00 Intro\n0:56 A plugin is just a folder\n1:50 What travels, what stays client-specific\n2:30 Migrating an Anthropic plugin to the new standard format\n3:46 The install problem\n4:50 Will this standard last",
-      "commentCount": 1,
-      "likeCount": 12,
-      "probeClient": "web_embedded"
-    },
     "PwIM33ajJCs": {
       "checkedAt": "2026-08-07T18:53:31Z",
       "embedAllowed": true,
@@ -6693,15 +6614,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-07T18:53:31Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "it6Z0nKqrTI": {
-      "checkedAt": "2026-08-07T18:53:31Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥Top Data Analytics and Data Science Courses - https://www.simplilearn.com/in/courses/data-science?utm_campaign=it6Z0nKqrTI&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Data Analyst Course - https://www.simplilearn.com/data-analyst-certification-course?utm_campaign=it6Z0nKqrTI&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Professional Certificate Course in Data Analytics and Generative AI - https://www.simplilearn.com/iitk-professional-certificate-course-data-analytics?utm_campaign=it6Z0nKqrTI&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥PL-300 Microsoft Power BI Certification Training - https://www.simplilearn.com/power-bi-certification-training-course?utm_campaign=it6Z0nKqrTI&utm_medium=DescriptionFirstFold&utm_source=Youtube\n🔥Tableau Desktop Specialist Certification Training - https://www.simplilearn.com/tableau-training-and-data-visualization-course?utm_campaign=it6Z0nKqrTI&utm_medium=DescriptionFirstFold&utm_source=Youtube\n\nMaster Business Analytics with Excel in this complete 2026 course by Simplilearn. Whether you’re a beginner learning Excel or an experienced professional looking to sharpen your analytical skills, this course takes you from the fundamentals to advanced business analysis techniques.\n\nYou’ll learn Excel basics, data formatting, sorting and filtering, data cleaning, conditional formatting, data validation, logical functions, text functions, lookup formulas, PivotTables, charts, dashboards, reporting, and data-driven decision-making. The course also includes practical examples to help you transform raw business data into meaningful insights.\n\n\nRelated Videos:\n✅ 1. https://youtu.be/YwlqkdSdkMg\n✅ 2. https://youtu.be/YuaWT7986CU\n✅ 3. https://youtu.be/lAMyZs5D1fg\n✅ 4. https://youtu.be/jAAEsLTAnB0\n✅ 5. https://youtu.be/F8wKbCsY9IM\n\n✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More Such Videos By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUUKgEFXH1tBbHwq38oWYDScU\n\n#aipoweredbusinessanalytics #businessanalytics #excelfullcourse #exceltutorial #dataanalytics #ai #aiinexcel #excelforbeginners #advancedexcel #dataanalysis #businessintelligence #exceldashboard #excel2026 #learnexcel #businessanalysttraining #simplilearn #2026\n\n➡️ About AI-Powered Business Analyst\n\nThe AI-Powered Business Analyst course helps you master planning, elicitation, stakeholder management, and solution evaluation. Gain hands-on experience with Excel, SQL, Power BI, GenAI, and build job-ready skills in Agile, product thinking, RPA, and more. Earn a certificate to boost your credibility.\n\nKey Features\n\n✅ Earn 35 PDs/CDUs with the BABOK® v3 aligned CBAP® Certification Live Training\n✅ Master 10+ GenAI Powered in-demand business analysis tools like Power BI, Excel, SQL, and more\n✅ Engage with 10+ industry projects and 40+ case-based activities using real-world tools and scenarios\n✅ Explore AI-Powered Business Analysis with Generative AI tools like ChatGPT, Copilot & more\n✅ Learn to identify automation opportunities, document processes, and collaborate with RPA teams\n✅ Earn official trophy and badges for ‘Microsoft Azure Data Fundamentals’ on the Microsoft Learn portal\n✅ Develop skills in Agile frameworks, backlog grooming, stakeholder mapping, design thinking, and BPMN\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n\nSkills Covered\n✅ Business Analysis\n✅ Data Elicitation\n✅ Data Analysis\n✅ Data Visualization\n✅ Data Cleaning\n✅ Data Preparation\n✅ Life Cycle Management\n✅ Strategy Analysis\n✅ Solution Evaluation\n✅ Excel Macros\n✅ Excel VBA\n✅ Pivot Table\n✅ Dashboarding\n✅ Data Modeling\n✅ Model Calculations\n✅ Model Performance\n✅ Documentation\n✅ Collaboration\n✅ Process Mining\n✅ Agile Thinking\n✅ Agile Methodologies\n✅ Design Thinking\n✅ Data Querying\n\n👉 Enroll Now: https://www.simplilearn.com/business-analyst-certification-training-course?utm_campaign=it6Z0nKqrTI&utm_medium=Description&utm_source=Youtube\n\n🔥🔥 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688",
-      "commentCount": 1,
-      "likeCount": 42,
       "probeClient": "web_embedded"
     },
     "H86StfGSEgk": {
@@ -6776,22 +6688,6 @@
       "description": "Get the Agent OS 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGet a FREE AI SEO Strategy Session → https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet 200+ Free AI SEO Prompts → https://go.juliangoldie.com/chat-gpt-prompts\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nAgentic Operating Systems: Build an AI Team with Shared Memory (Free Setup + Hermes Q&A)\n\nThe video explains agentic operating systems as a hub that connects multiple AI agents, tools, and automations in one place, with shared memory so work and learnings aren’t lost. The host demos systems like Hermes Astros for competitor-based content ideas, unique angles and titles, and saving outputs in a centralized workspace with terminal, history, and updates. He highlights community builds, including Mohammed’s SEO machine with mission control and a “command universe,” then answers member questions: syncing many Claude chats via shared projects, daily logs in Obsidian, and forking threads; where to find n8n workflows; improving Hermes image generation using templated prompts, saved skills, or an Image/Thumbnail Studio; whether OpenClaw is needed (no); making Hermes more autonomous with scheduled tasks; updating the OS via new zip files and an update.md; and using separate MCP connections per client. He points viewers to AI Profit Boardroom guides, coaching, and free local coding tools to reduce costs.\n\n00:00 Agent OS Superpowers\n00:38 What Agent OS Means\n00:53 Hermes Astros Tour\n01:50 Community Q&A Begins\n02:09 Mohammed SEO Machine\n03:39 Syncing Multiple Chats\n05:46 N8N Workflow Library\n06:02 Better Image Generation\n08:30 Hermes vs OpenClaw\n09:12 Scheduling Autonomous Agents\n11:07 Updating Your Agent OS\n11:36 MCP Setup Per Client\n12:43 Implementation Guide Access\n13:23 Wrap Up and Next Steps\n14:02 Run It Free and Easy",
       "commentCount": 2,
       "likeCount": 28,
-      "probeClient": "web_embedded"
-    },
-    "2KUmMIRTPYs": {
-      "checkedAt": "2026-08-08T00:53:21Z",
-      "embedAllowed": true,
-      "description": "✅ Best Vibe Coding Tool to Build Your Business App is Softr https://get.softr.io/vitx0t\n\n🔵 Get the FREE App Store Submission Checklist (step by step): https://mikeys-5-min-checklist.netlify.app/\n\nIn this video, I show you how to vibe code your business app in 2026 using modern AI tools and no-code workflows. You'll learn what is vibe coding, follow a practical vibe coding tutorial that walks through building a real business application, and discover why platforms like Softr can speed up development. Whether you're completely new to AI app creation or looking for a vibe coding tutorial for beginners, this guide will help you master vibe coding, launch business apps faster, and turn your ideas into working products with AI.\n\n00:00 - Intro: Why Vibe Coding Alone Fails for Business Apps\n00:47 - The 3 Pillars of Building Real Apps: AI, Native Blocks, and Custom Code\n02:52 - Softr Overview: Databases, Workflows, and Granular Permissions\n03:39 - Starting the Project Management Tool with Softr’s AI Co-builder\n04:00 - Prompt Engineering for Internal Tools: Defining Tables and Roles\n04:24 - Analyzing the AI Foundation: Database Tables and Page Layouts\n05:04 - Benefits of a Connected System vs. Manual Manual Setup\n05:58 - Transitioning from AI to Softr’s Visual No-Code Editor\n06:40 - Adding Native Table Blocks and Live Database Connections\n07:37 - Testing Data Flow: Connecting Forms to the Tasks Database\n08:10 - When to Use AI Prompting vs. Manual Visual Editing\n09:30 - Vibe Coding: Building a Custom Project Status Dashboard\n10:02 - Prompting Advanced Logic: Progress Indicators and Deadline Flags\n11:32 - Native Blocks vs. Vibe Coding: Choosing the Right Tool for the Job\n12:30 - Live Build: Creating a Custom CSV Import Tool for Admin Bulk Data\n13:18 - Data Validation: Handling Invalid CSV Records with AI\n14:07 - Restricting Access: Setting Up Block-Level User Permissions\n15:12 - Database Management: Linking Task Records to Project Tables\n16:02 - Softr Database AI Agents: Querying Live Data with Plain Language\n17:01 - Advantages of Native Databases over Airtable or Google Sheets\n18:11 - User Group Management: Admin vs. Team Member Access Control\n19:26 - Kanban Board Logic: Restricting Actions to Authorized User Roles\n22:51 - Final Step: Launching and Installing the App as a PWA\n23:58 - Browser vs. Device: Improving Access with Mobile Installation\n26:10 - Conclusion: The Complete Hybrid AI App Building Workflow\n\nFor inquiries: Mikey (at) ytmedia.group",
-      "commentCount": 7,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "HQqX4rF1nDM": {
-      "checkedAt": "2026-08-08T00:53:21Z",
-      "embedAllowed": true,
-      "description": "Link to Resources: https://thenextnewthing.ai/l/github-repos-aug7\nPresented by Zapier: https://zapier.com/\nAndrew Warner and Peter Cooper break down this week's top GitHub repos for AI memory, coding agents, local models, developer workflows, and AI-powered productivity.\n\nAndrew Warner is joined by Peter Cooper to review the most interesting GitHub repositories of the week. They cover reverse engineering assistants, Microsoft's AI curriculum, running large models on low-end GPUs, Buzz, shared AI memory for teams, turning books into reusable AI skills, open-source alternatives to Claude CoWork, AI response formatting, low-cost terminal coding agents, and terminal-based code review tools. They also discuss where these projects fit into real AI workflows and which ones are worth trying today.\n\nRepos featured:\n\n- Reverse Engineering Router (Reverse Skill)\n- Microsoft AI for Beginners\n- AirLLM\n- Zapier MCP\n- Buzz\n- TencentDB Agent Memory\n- Book to Skill\n- OpenWork\n- I Have ADHD\n- DeepSeek Reasonix\n- Tuicr\n- Ion Jarvis\n\n00:00 - Reverse Engineering Router: Route AI coding agents to the right reverse engineering and security tools.\n02:13 - Microsoft AI for Beginners: A free 12-week course covering AI fundamentals and transformer models.\n03:29 - AirLLM: Run massive AI models on small GPUs by loading model layers on demand.\n04:52 - Zapier MCP: Securely connect AI agents to thousands of apps with granular permissions.\n05:44 - Buzz: Jack Dorsey's AI workspace for agents, coding, and team collaboration.\n07:49 - TencentDB Agent Memory: Give AI agents persistent shared memory across an entire team.\n09:57 - Book to Skill: Turn books into reusable AI skills that agents can apply to real work.\n13:16 - OpenWork: Run Claude CoWork-style workflows with over 50 AI models.\n14:58 - I Have ADHD: Reformat long AI responses into concise, actionable summaries.\n16:49 - DeepSeek Reasonix: A low-cost terminal coding agent optimized for DeepSeek models.\n19:26 - Tweaker: Review AI-generated code changes quickly from the terminal with keyboard shortcuts.\n21:22 - Ion Jarvis: A local-first AI operating system built by a community member and showcased on GitHub.\n\nSend us your AI builds: hi@thenextnewthing.ai\n\nMedia/Sponsorship Inquiries: https://thenextnewthing.ai/l/sponsor\n\n👉 Join us: https://thenextnewthing.ai/",
-      "commentCount": 14,
-      "likeCount": 186,
       "probeClient": "web_embedded"
     },
     "3JoMCyRR8rg": {
@@ -7149,15 +7045,6 @@
       "likeCount": 195,
       "probeClient": "web_embedded"
     },
-    "TZ3pRAEzmOY": {
-      "checkedAt": "2026-08-08T10:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Level up your Claude Code: https://www.skool.com/ai-inner-circle/about\n\nThe 7 Layers of Claude Code Users (Which One Are You?)\n\nMost people use Claude Code at level one and never touch its real power. In this video I break down all seven layers, from copy-pasting into a chat to fully autonomous loops that prompt Claude for you, with live examples at every step.\n\nIn this video you'll learn:\n• The 7 layers of Claude Code mastery explained\n• Why claude.md memory changes everything\n• How to spawn sub-agents with their own context\n• Designing autonomous loops that need zero prompting\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"LAYERS\" and I'll DM you the full checklist with every level, tool, and setup order.\n\nIf this saved you weeks of trial-and-error, hit subscribe — I drop one builder-to-builder tutorial every week.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 The 7 layers of Claude Code users\n0:16 Level 0 — Copy-pasting into a chat (Claude AI, ChatGPT)\n1:15 Level 1 — Default Claude Code, no config (VS Code)\n2:43 Level 2 — claude.md memory and persistent context\n3:53 Universal memory with agents.md (Codex, Cursor)\n4:22 Level 3 — Spawning sub-agents with their own context\n5:51 Level 4 — You orchestrate multiple agent sessions\n6:40 Level 5 — Dynamic workflows and thousands of sub-agents (Opus 4.8, Fable 5)\n8:28 Level 6 — Fully autonomous loops that prompt Claude (GitHub)\n11:28 The full seven-layer ladder recap\n\n#claudecode #aiagents #leadgenman",
-      "commentCount": 2,
-      "likeCount": 39,
-      "probeClient": "web_embedded"
-    },
     "3RX4sa5U-eo": {
       "checkedAt": "2026-08-08T10:53:21Z",
       "embedAllowed": true,
@@ -7217,6 +7104,162 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-08T12:53:40Z",
       "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "gxaRaopYk4w": {
+      "checkedAt": "2026-08-08T13:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Automation in plain English: https://www.skool.com/ai-inner-circle/about\n\nClaude Routines: Automate Anything with Claude Code in Plain English\n\nClaude Routines run scheduled automations in Anthropic's cloud, no nodes, no n8n, no Zapier. In this video I build a daily digest routine that pulls Vercel analytics, Supabase signups, and Stripe revenue for my app TiltIt and drops a summary in my Gmail every morning at 9 AM. Then I go one step further and build the whole routine from the terminal using Claude Code and the /schedule skill.\n\nIn this video you'll learn:\n• How Claude Routines replace n8n, Make.com, and Zapier\n• Writing instructions that make or break your routine\n• Building routines from the terminal with the /schedule skill\n• Connecting Vercel, Supabase, Stripe, and Gmail via MCP\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"ROUTINE\" and I'll DM you the full checklist with my exact routine prompts, connector setup, and scheduling steps.\n\nIf this saved you weeks of trial-and-error, hit subscribe — I drop one builder-to-builder tutorial every week.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 Stop doing manual tasks — meet Claude Routines\n0:09 Demo — daily digest from Vercel, Supabase, Stripe to Gmail\n0:47 Plain English automation vs n8n, Make.com, Zapier\n1:51 Why your instruction makes or breaks the routine\n2:36 Building routines inside Claude Code with the /schedule skill\n4:22 Routine goes live — connecting Stripe and test run\n5:10 Inside the cloud session and the finished digest\n6:16 Editing routines in plain English (timing, model, tools)\n\n#clauderoutines #claudecode #aiautomation",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "72zrUOzf1C8": {
+      "checkedAt": "2026-08-08T13:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Our solar system briefly had ten planets, and almost nobody remembers the tenth one.\n\nFor a short window, the official list read Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto, and Eris. Eris is a trans-Neptunian object with an unusually eccentric orbit, ranging from about 37.9 AU at its closest to roughly 97.5 AU at its farthest from the sun, more than double Pluto's average distance. At its most distant point, temperatures drop low enough that Eris's thin atmosphere condenses and freezes onto its surface as a layer of snow, then thaws again as it swings back closer to the sun.\n\nBefore Eris was confirmed in 2005, astronomers had a working assumption, icy trans-Neptunian objects were reliably smaller than Pluto. Eris broke that assumption. It turned out to be roughly 27 percent more massive than Pluto, despite having a slightly smaller diameter, making it denser overall. It also has its own moon, Dysnomia, discovered later that same year.\n\nEris is named after the Greek goddess of strife and discord, a fitting choice, since its discovery caused exactly that within the astronomical community. The existence of an object rivaling Pluto in mass forced the International Astronomical Union to formally define what a planet actually is for the first time. Under the new 2006 definition, Pluto no longer qualified. Today, both Eris and Pluto are officially classified as dwarf planets.\n\nSource: NASA, Eris Overview. International Astronomical Union, 2006 Planet Definition Resolution. California Institute of Technology, Discovery of Eris (Brown, Trujillo, Rabinowitz).\n#Pluto #DwarfPlanet #SolarSystem  #Eris #PlanetDefinition",
+      "commentCount": 8,
+      "likeCount": 2149,
+      "comments": [
+        {
+          "id": "UgwgPaUvUWu-wnsV8G94AaABAg",
+          "author": "@prasantsharma7607",
+          "text": "Whatever we say about them it will not effect them they are same as they were and and remains same after we vanish so don't.....",
+          "likeCount": 1,
+          "publishedAt": "2026-08-08T13:54:22Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhD_uBtCD8mWdT0iitBx_Q8bq0TyRBWRZE2sXdp1oZwUfg1sZvctK6tZ7r4kqP-KS8-A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzjNfAnYVPJlGxuGf14AaABAg",
+          "author": "@Krishnailove2414",
+          "text": "9th planet kab milega 😅",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T13:54:01Z",
+          "authorThumbnail": "https://yt3.ggpht.com/TazcGCX-2xYlZCgplT0NNAYhzRAqejvP1k4rV1fpiR0cUiyR31P0PPvTmpsNGv7I2NLXTltx9Q=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyqrGVlhUMOJbCionl4AaABAg",
+          "author": "@JIJAENTERPRISES",
+          "text": "Both of them don't care which list you mention them in.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T13:52:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-2NXv6v1y_UEUDAEIGgNRGYERi1Wh33Tst7u6l0ki6mCuBcxEDjiSskn4Rz_v4IWxM7a9pXFnw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzS9sRSrNZhc_Rdrod4AaABAg",
+          "author": "@Create-nature",
+          "text": "Bro your mic name?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T13:47:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/jw3wB3e8w8lqLMkRtDUXUoquSWa5hfe8jZTsdozlUBX3R0yKA6lIfP0otvbsgnVYx-Mjh9mhF9U=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzqZ6EaX6GEk6ILHYl4AaABAg",
+          "author": "@king_d__luffytaro",
+          "text": "There was a 10th planet??😭 \nWhy everyone's acting like you all knew abt it😭",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T13:42:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/VkvaNrxPYsvlPxmopTOSNscvWs9YL-Rr_8kYZ3t02Nmg7uv_jhNDDR716CT0wmhFZ_sMzz0ofw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzNQzVueNWUZehW7K14AaABAg",
+          "author": "@anamika6471",
+          "text": "pluto ko kisi aur planet ke karn nhi htaya gya hai planet ke defination me 2 ko fulfill krta h pluto but 1 ko defination ke karan htaya gya hai usko jo wo fulfill nhi kr pata",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T13:41:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Y6qm-zbIrxYSVQpyPXcJAhXDT6gzKCQ8v_3W3u1Trt7yth2Dff8QC4DY5qSkcbHVc512XpCttiw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxc99tLIv7RYJFXpOV4AaABAg",
+          "author": "@33345vgjijbvc",
+          "text": "Eris ko farak nahi padta",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T13:40:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/97Ff0qmjdA75JojvdjyGbVsnGQzNiSvAY1rJZywkNNTFZmsg0pspp5HW7h-e6_7ok-ZJELQxFg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxmHSRPnXMRlHl-e_54AaABAg",
+          "author": "@mohammedshoiabfaize",
+          "text": "Pluto ko isse kuch farq nhi padhta.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T13:37:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/URwn8usW3p4hQX9vTPFjjnTyZhUDY8Icw078891SDBcdcoIYjOa8oALgfgpDPqYiYJtoodTw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-08T13:53:42Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "17t0nG2VShI": {
+      "checkedAt": "2026-08-08T13:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👇 Download Accio Work for Desktop & Claim Your Bonus:\nhttps://www.accio.com/work/app?src=p_ytkol_erictech\n\nIf you are a solopreneur, developer, or small business owner, you already know the burnout of trying to do every job at once. \nYou can't justify hiring a massive team, but generic AI chatbots like Claude CoWork or Manus only provide \"knowledge assistance\"—they can write an email, but they can't actually run your operations.\n\n\n⏳ Timestamps:\n0:00 – Introduction\n\n1:18 – Setting Up the Research Task\n\n2:44 – Source Comparisons\n\n4:18 – Connecting Actual Channels with Human Control\n\n5:38 – Transforming Context into Customer-Facing Landing Pages\n\n7:08 – Scheduled Tracking\n\n\n#AccioWork #MyAccioWorks #AgenticBusiness",
+      "commentCount": 2,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "XSLFA3N2Z-k": {
+      "checkedAt": "2026-08-08T13:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Google Ads + AI Automation: The Future of Digital Marketing\n\nAI Automation is transforming the way businesses run Google Ads. Tasks that once took hours—such as bid optimization, audience analysis, performance monitoring, and campaign management—can now be handled faster and more intelligently with AI.\n\nBut here's the truth: AI isn't replacing marketers; it's empowering them. The real advantage comes from combining human strategy with AI-driven automation to make smarter decisions, save time, and achieve better results.\n\nThe future of digital marketing belongs to those who embrace AI, adapt quickly, and use automation to scale their business more efficiently.\n\n\n💬 Do you think AI will completely change Google Ads? Share your thoughts in the comments!\n\n\n\n\nConnect With Me:\n----------------------------\nFacebook: https://www.facebook.com/freelancer.tofayeI\nLinkedIn: https://www.linkedin.com/in/tofayel-ahmad/\nWhatsApp: https://wa.me/message/ZTCWLTJR7AB5L1\nWebsite:  http://freelancertofayel.com/",
+      "commentCount": 2,
+      "likeCount": 8,
+      "probeClient": "web_embedded"
+    },
+    "NyRHalWlDQs": {
+      "checkedAt": "2026-08-08T13:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Welcome to VELYON Institute — AI-Powered Skills Intelligence Platform\n\nVELYON Institute is transforming the way students and professionals learn by combining Artificial Intelligence, project-based learning, career guidance, and industry-ready skill development into one integrated learning ecosystem.\n\nOn this channel, you'll find practical tutorials, AI-powered learning sessions, career guidance, industry insights, program orientations, webinars, project walkthroughs, and step-by-step skill development content designed to help you become future-ready.\n\n🎯 Learn smarter. Build real skills. Grow your career.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🎓 Explore Our Learning Programs\n\n🌱 Foundation Programs\nBuild strong fundamentals through structured learning, video lessons, practical tasks, and AI-guided support.\n\n🚀 Professional Certificate Programs\nGain industry-ready skills with mentor guidance, real-world projects, portfolio development, and professional certification.\n\n👑 Fellowship Programs\nWork on advanced projects, strengthen leadership skills, and prepare for internships, employment, and long-term career growth.\n\nExplore all programs:\n🌐 https://velyoninstitute.org\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📚 What You'll Learn\n\n✅ Artificial Intelligence & Prompt Engineering\n✅ Digital Marketing\n✅ Search Engine Optimization (SEO)\n✅ Content Marketing\n✅ Social Media Marketing\n✅ Email Marketing\n✅ WordPress Website Development\n✅ Data Analytics\n✅ Automation & AI Workflows\n✅ Career Development\n✅ Portfolio Building\n✅ Entrepreneurship & Startup Skills\n✅ Productivity with AI Tools\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🎥 On This Channel\n\n▶️ AI Tutorials\n▶️ Career Guidance Sessions\n▶️ LIVE Workshops & Webinars\n▶️ Program Orientation Sessions\n▶️ Practical Projects\n▶️ Portfolio Development Guides\n▶️ Industry Insights\n▶️ Interview & Career Preparation\n▶️ Learning Tips & Productivity\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n👨‍🎓 Who Should Watch?\n\n• School & College Students\n• Fresh Graduates\n• Job Seekers\n• Working Professionals\n• Career Switchers\n• Freelancers\n• Entrepreneurs\n• Startup Founders\n• Lifelong Learners\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🌐 Connect With VELYON Institute\n\n🌍 Website\nhttps://velyoninstitute.org\n\n💼 LinkedIn\nhttps://linkedin.com/company/velyoninstitute\n\n📷 Instagram\nhttps://instagram.com/velyoninstitute\n\n▶️ YouTube\nhttps://youtube.com/@velyoninstitute\n\n💬 Discord Community\nhttps://velyoninstitute.org/community\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📩 Contact Us\n\n📧 Email\ninfo@velyoninstitute.org\n\n🌐 Contact Page\nhttps://velyoninstitute.org/contact\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n💚 Why Learn With VELYON?\n\nUnlike traditional online learning platforms, VELYON Institute combines AI mentoring, personalized learning pathways, practical projects, portfolio development, and continuous career guidance to help learners build industry-ready skills with confidence.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n👍 If you found this video helpful\n\n✔ Like the video\n✔ Subscribe to our channel\n✔ Turn on notifications 🔔\n✔ Share it with friends, classmates, and colleagues\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n⚠️ Disclaimer\n\nThe content on this channel is intended for educational and informational purposes only. Learning outcomes, certifications, internships, employment opportunities, and career progression depend on individual participation, performance, consistency, market conditions, and applicable program requirements. VELYON Institute does not guarantee employment or specific career outcomes.",
+      "commentCount": 0,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "x9VYCxS-H2E": {
+      "checkedAt": "2026-08-08T13:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Introduction to Digital Marketing | AI in Digital Marketing - Part 1\n\nWelcome to StartupAcademy – A Business Launchpad 🚀 (An Initiative by StartupMandi AI)\n\nThis channel contains our LIVE session recordings, practical workshops, internship training sessions, and step-by-step learning playlists related to business, AI tools, digital marketing, SEO, startup growth, automation, content creation, and more.\n\nWatch in 1.25X or 1.5X speed for a better learning experience.\n\n🎓 Explore Our Internship Programs\n\n👑 Premium Internship Program (Paid)\nRegister here 👉 https://academy.startupmandi.in/premium-internship-program/\n\n🔓 Open Internship Program (Free / Open Learning)\nRegister here 👉 https://academy.startupmandi.in/open-internship-program-registration/\n\n💡 AI-Powered Content & SEO Premium Internship (3 Months)\nJoin here 👉 https://academy.startupmandi.in/courses/ai-powered-content-seo-premium-internship-program-3-months/\n\n📈 AI-Powered Digital Marketing Premium Internship (3 Months)\nJoin here 👉 https://academy.startupmandi.in/courses/ai-powered-digital-marketing-internship-program-3-months/\n\n🎓 Looking for Online Certificate & Degree Programs?\nExplore here 👉 https://academy.startupmandi.in/online-degree-programs/\n\n📚 What You’ll Learn Inside Our Programs\n\n✔ SEO (On-page, Off-page & Technical SEO)\n✔ AI Tools for Marketing & Business\n✔ Content Writing & Blogging\n✔ Social Media Marketing (SMM)\n✔ WordPress Website Building\n✔ Website Optimization\n✔ Google Analytics & Search Console\n✔ Keyword Research & Market Research\n✔ Automation & AI Workflows\n✔ Real Projects & Practical Assignments\n✔ Startup & Business Growth Strategies\n✔ Internship Certificates & Advanced Opportunities\n\nThis is ideal for:\n• Students\n• Job seekers\n• Freelancers\n• Aspiring marketers\n• Startup founders\n• Entrepreneurs\n• Career switchers\n\n🎥 On This Channel You’ll Find\n\n🔹 LIVE Session Recordings\n🔹 Internship Training Sessions\n🔹 Step-by-Step Tutorials\n🔹 AI & Business Tool Guides\n🔹 Startup & Marketing Strategies\n🔹 Business Automation Tutorials\n🔹 Dedicated Learning Playlists\n\n🌐 Connect With StartupAcademy by StartupMandi AI\n\nWebsite: https://academy.startupmandi.in\nLinkedIn: https://linkedin.com/company/startupacademy-by-startupmandi\nInstagram: https://instagram.com/academy.startupmandi.in\nYouTube: https://youtube.com/@velyoninstitute\nWhatsApp: https://wa.me/+919735593292\n\n📩 Contact Us\nhttps://academy.startupmandi.in/contact\nsupport@startupmandi.in\n\nIf you find this content helpful:\n👍 Like the video\n📌 Subscribe to the channel\n🔔 Turn on notifications\n📤 Share with others who want to learn practical digital & business skills\n\nDisclaimer:\nStartupAcademy by StartupMandi AI provides educational content, ecosystem opportunities, and professional services. Internship outcomes and opportunities depend on learner participation, consistency, and performance.",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "eQrvzH_t-c0": {
+      "checkedAt": "2026-08-08T13:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "How to Run Facebook Ads in Low Budget | Meta Ads Strategy 2026\nWant to know exactly how to run Facebook ads in low budget without wasting your money?\n\n✅ Free Digital Marketing Community 👇\nhttps://chat.whatsapp.com/CSEuqKt0blWHfOJb1ksql2?mode=gi_t\n\n🔥FREE Meta Ads 2026 Course - https://youtu.be/ftSBLhY9ybA\n\nJunk Leads Workshop - Link in the WhatsApp Community Description \n\nIn this complete Meta Ads budget planning masterclass, I will show you the exact strategies top agencies use to scale ad campaigns profitably, even if you are starting with just ₹1000 a day.\n\nIf you are confused about how to set your daily budget, how to test creatives with limited funds, or how to calculate exactly what a lead or sale should cost you, this video is for you. We dive deep into the math behind profitable ads—breaking down Max CPA, Target CPL, and the crucial concept of Turn Around Time (TAT) so you know exactly when your campaigns will become profitable.\n\nPlus, I reveal my secret 5-ad creative batch-testing framework designed specifically for low-budget advertisers. Stop guessing and start running Meta ads that actually convert!\n\nWhat you will learn in this Facebook Ads Tutorial:\n\nHow to calculate Max CPA and set daily budgets for Conversion Campaigns.\n\nHow to plan budgets for Lead Generation Campaigns using Gross Profit and TAT.\n\nA complete Low Budget Facebook Ads Strategy for testing creatives with just ₹1000 a day.\n\nThe golden rules for scaling winners and replacing loser ads without breaking the bank.\n\n👇 Subscribe to Skills with Ashwin for more practical Digital Marketing and AI Automation tutorials!\nhttps://www.youtube.com/@SkillsWithAshwin\n\n🕒 Video Timestamps:\n00:00 - Introduction to Facebook Ads Budget Planning\n01:59 - Part 1: How to Set Budgets for Conversion Campaigns\n07:50 - Part 2: How to Plan Budgets for Lead Gen Campaigns (TAT & Max CPL)\n13:20 - Part 3: The Ultimate Low Budget Facebook Ads Strategy\n14:30 - How to Test Ad Creatives with Just ₹1000/Day\n19:30 - Golden Rules for Scaling Low Budget Meta Ads",
+      "commentCount": 24,
+      "likeCount": 35,
+      "probeClient": "web_embedded"
+    },
+    "dxNE1N-UcP0": {
+      "checkedAt": "2026-08-08T13:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What actually makes a knowledge business successful?\n\nIn this video, we break down the brutal truth about building and growing a knowledge business, digital product business, online course, or coaching program. Your knowledge and expertise are valuable—but having a great course or program isn't enough. You also need to consistently create content, market yourself, build visibility, and show up online.\n\nUsing MrBeast's famous 1% improvement philosophy, we explore why publishing more content, improving every video, and staying consistent can have a bigger impact than constantly searching for another course or strategy.\n\nYou'll learn how to:\n\n• Build and grow a successful knowledge business\n• Market your online course without feeling salesy\n• Turn your knowledge and expertise into a digital product\n• Build visibility through YouTube content\n• Create valuable content that attracts potential customers\n• Grow your online business through consistent content creation\n• Understand the connection between knowledge, marketing, visibility, and sales\n• Improve your content by 1% with every video\n• Build an effective digital product marketing strategy\n• Use funnels, email marketing, and automation to grow your business\n\nThe simple formula is:\n\nKnowledge → Confidence → Marketing → Visibility → Sales\n\nIf you want to build this out yourself, grab the free Blueprint below or join the Profitable Creators Club 👇\n\n🔹 Start Here\n\n👉 Get the FREE Blueprint\nhttps://www.profitablecreators.com/\n\n👉 Join Profitable Creators Club\nhttps://www.skool.com/pcc-9229/about\n\n🔧 The Tools I Use\n\n👉 Get Started with Manus \nhttps://manus.im/invitation/CGF0EFCUU9C9OBJ?utm_source=invitation&utm_medium=social&utm_campaign=copy_link\n\n👉 My Backend System (Funnels + Email Automation)\nhttps://systeme.io/?sa=sa00873546458f3b8351ef6322911e781476c95a3b\n\n👉 Create Your Own Skool Community\nhttps://www.skool.com/signup?ref=cee56940180241909dd1fc562497cb3f\n\n⚙️ MY EXACT SETUP (GEAR & TOOLS)\n\n🎥 Camera\n👉 Sony ZV-1: https://amzn.to/49Msw2t (or)\n👉 Sony ZV-E10: https://amzn.to/49Msw2t (or)\n👉 Sony ZV-E10 II: https://amzn.to/4qJRQMy\n\n🔍 Lens (recommended)\n👉 Sigma 16mm f/1.4: https://amzn.to/4raKRvM\n\n🔋 Dummy Battery (for long recording sessions)\n👉 Gonine Dummy Battery: https://amzn.to/45XHNuK\n\n🎤 Microphone\n👉 DJI Mic: https://amzn.to/4sXuyEk\n👉 Rode Wireless GO II: https://amzn.to/4k02w74\n\n💡 Lighting\n👉 Neewer 2-Pack Lights: https://amzn.to/3LznKMq\n👉 RALENO 13\" LED: https://amzn.to/3M0Tryg\n\n📝 Teleprompter\n👉 Elgato Prompter: https://amzn.to/45mTmLW\n👉 Glide Gear TMP 100: https://amzn.to/3YSafdL\n\n(Affiliate links help support the channel at no extra cost to you.)\n\nIf this video helped you, please hit like, subscribe, and drop a comment.\n👍 Like | 📩 Subscribe | 🔔 Turn on notifications\n\n🔴► HOW I MAKE MY VIDEOS\n◾My equipment: https://www.amazon.com/shop/zevishafran 🎥\n◾My music: https://share.epidemicsound.com/ztfb96 🎶\n◾My graphics + stock footage: https://1.envato.market/WqNZzA 🎨\n◾My CRM: https://www.gohighlevel.com/main-page?fp_ref=zevi38 📊\n◾Ranking my videos and finding ideas: https://vidiq.com/zevi 📈\n◾Turn ideas into videos: https://invideo.io/i/zevishafran 🎬\n\n🔴► FOLLOW ME:\n◾IG: https://www.instagram.com/profitable.creators/ 📸\n\nhow to sell digital products.\ndigital product marketing strategy.\nmake money selling digital products.\npassive income digital products.\nsell digital products online.\ndigital product business model.\nprofitable digital product.\nbest digital products to sell online.\nSelling Digital Products on YouTube.\nSimple Digital Products Strategy.\n\n#digitalproducts, #DigitalProductsForBeginners, #HowToSellDigitalProducts, #SellingDigitalProducts, #CreatorEconomy, #OnlineIncome, #StartOnlineBusiness #MakeMoneyOnline, #SideHustle, #PassiveIncome, #OnlineBusiness, #EntrepreneurLife, #IncomeStreams, #FinancialFreedom #profitablecreators",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }
