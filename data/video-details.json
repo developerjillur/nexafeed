@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T18:53:28Z",
+  "updatedAt": "2026-08-08T19:53:38Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -5665,14 +5665,6 @@
       "likeCount": 1027,
       "probeClient": "web_embedded"
     },
-    "UbOcs3o6jz0": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "description": "Free AI video generation just opened in Gemini, and it closes August 4. Grab it now.\n\nOpen the tools menu, hit Create video, describe what you want in words, and you get ten finished clips, the kind you normally need a paid plan for. No Google AI subscription, just a free account. The window ends 11:59pm PT on August 4, and free windows like this close fast.\n#AI #Gemini #AIvideo #Veo",
-      "commentCount": 0,
-      "likeCount": 20,
-      "probeClient": "web_embedded"
-    },
     "wJWO91mi5o0": {
       "checkedAt": "2026-08-06T22:53:14Z",
       "embedAllowed": true,
@@ -5726,7 +5718,7 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-08T18:53:28Z",
+      "checkedAt": "2026-08-08T19:53:38Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -5902,7 +5894,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-08T18:53:28Z",
+      "checkedAt": "2026-08-08T19:53:38Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6907,14 +6899,25 @@
       "probeClient": "web_embedded"
     },
     "PwIM33ajJCs": {
-      "checkedAt": "2026-08-07T18:53:31Z",
+      "checkedAt": "2026-08-08T19:53:38Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "how to prepare for gta 6",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-07T18:53:31Z",
+      "commentCount": 1,
+      "likeCount": 16,
+      "comments": [
+        {
+          "id": "Ugyd279V_VXIch6Qvg94AaABAg",
+          "author": "@newhacker142",
+          "text": "Gta",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/VanPY5Quj3A1UPSyzWRX-w3I7o_IvqeKpixibhyKmPGhvlW__uUc9FTeGhH2bED1nhnrWFoveLg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-08T19:53:38Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -6932,14 +6935,6 @@
       "description": "Claude & Claude Code just got a bunch of brand new upgrades that allow you to automate any task you can think of from your phone OR your computer. You can now record yourself doing anything and Claud will build a skill to automate it. In addition, you can schedule routines that use your skills and connectors to automate tasks on Claude Code.\n\nLink Claude to 9,000+ Apps For Free with Zapier: https://bit.ly/4giPktB",
       "commentCount": 1,
       "likeCount": 23,
-      "probeClient": "web_embedded"
-    },
-    "WA8WDR30u9Y": {
-      "checkedAt": "2026-08-07T22:53:30Z",
-      "embedAllowed": true,
-      "description": "🏠 This is the finale of the Homey Matter trilogy, and we’re ending with the part of Homey that has impressed me the most: Advanced Flows. I’m breaking down how Homey automations work, showing some of the more ridiculous logic running in my house, and pushing all of that compatibility as far as I possibly can.\n\n⚙️ We’re getting into smart switches, lighting scenes, variables, presence sensors, conditional logic, and why Homey becomes so powerful when all of those devices start sharing context.\n\nRelevant Videos\n\nMatter Vs Homey https://youtu.be/HrdtrbaYlns?si=0OQoeubVf7BQUF42\n\nHomey Day 1 https://youtu.be/B_Jliq1E0s4?si=A4_3FJig9Stf-PUP\n\nMy Smart Home Water Leak Automation https://youtu.be/Y9uoiK3w9eI?si=3qgVN_sUGN0_EpfT\n\nSmart Night Lights with Motion Sensors https://youtu.be/o5q-vNLGtDo?si=cNACcdxZZObcEYIS\n\nChapters\n\n0:00 Intro\n1:14 What Are Flow Cards?\n2:42 Flows vs. Advanced Flows\n3:25 Smart Switch + Smart Bulb Automations\n6:10 Cycling Scenes with Variables\n7:44 My Ceiling Fan Automation\n9:09 Building the “Turn Stuff Off” Flow\n10:43 My Biggest Problem With Homey Flows\n12:00 Pushing Homey Way Too Far\n\n#Homey #HomeyPro #SmartHome #HomeAutomation #Matter #AppleHome #MakeSmartMatter",
-      "commentCount": 3,
-      "likeCount": 37,
       "probeClient": "web_embedded"
     },
     "__nHgoxrb_I": {
@@ -7116,15 +7111,6 @@
       "likeCount": 43,
       "probeClient": "web_embedded"
     },
-    "2od7tPirPYE": {
-      "checkedAt": "2026-08-08T06:53:36Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🧠 Want the finished JARVIS — the 5-minute install 👉  https://www.skool.com/aiworkshop\n\n⚡ FREE JARVIS PROMPT PACK (build your own) 👉 https://www.skool.com/aiworkshop-lite\n\n\nI built a REAL JARVIS with Claude Fable 5 + Claude Code — a personal AI assistant with a voice, a 3D second brain built from my own notes, live web research, and full Mac control. In this video I show you exactly how it works AND give you the free prompt pack that builds a mini version tonight.\n\nClaude Fable 5 is Anthropic's newest and most powerful AI model — and it's the perfect brain for a JARVIS-style AI assistant. In this Claude Code tutorial you'll see the full build: how to turn any folder of notes into a talking AI second brain, give it a free voice, watch the 3D knowledge galaxy fly to the exact note it's answering from, research the internet by voice (\"Jarvis, research…\"), get morning briefings from your real Gmail + Calendar, control your Mac by voice, and hot-swap its brain to Grok or GPT mid-conversation.\n\nWHAT YOU'LL LEARN\n• How to create a JARVIS AI assistant with Claude Fable 5 + Claude Code (no coding required)\n• The AI second brain: your notes → a 3D knowledge galaxy → spoken answers with sources\n• Live web research by voice, morning briefings, Mac control, wake word + barge-in\n• How the personality works (TARS-style humor dials, personas)\n• The exact prompts I used — free download above\n\nI'm Zubair — I build AI tools with Claude Code and show you how to turn them into income: real builds, real demos, and the exact systems inside the AI Workshop.\n\nWhat should JARVIS learn next? Tell me in the comments — I build the top request in the next video.\n\nChapters:\n\n00:00 Jarvis Roasts and Tasks\n00:56 Meet Jarvis Overview\n01:21 Models and Brain Switching\n01:42 Hands Free Voice Mode\n02:28 Local Files Search Demo\n03:07 Phone Calls and Reservations\n04:25 Calendar Access Demo\n05:25 Telegram Invoice Workflow\n06:08 Invoice Details and Email Drafts\n08:10 Screen Share and Browser Actions\n09:07 Get the Free Prompt Pack\n09:56 Paid Version and Wrap Up\n\n#ClaudeFable5 #JARVIS #ClaudeCode",
-      "commentCount": 7,
-      "likeCount": 61,
-      "probeClient": "web_embedded"
-    },
     "0g1BRdHgIM0": {
       "checkedAt": "2026-08-08T07:53:37Z",
       "embedAllowed": false,
@@ -7150,15 +7136,6 @@
       "description": "China just pushed the AI race into a new league. ByteDance is reportedly training a massive 10 trillion parameter model, Meta launched a new coding agent to challenge Claude Code, and OpenAI made GPT-5.6 Luna unlimited for free users while its next major model moves closer.\n\nGet the free 7-agent guide here: https://go.aiskool.io/7agents\n\n📩 Brand Deals & Partnerships: collabs@nouralabs.com\n✉️ General Inquiries: airevolutionofficial@gmail.com\n\n📌 What You’ll See:\nByteDance is reportedly training a 10 trillion parameter AI model\nSOURCE: https://www.reuters.com/technology/bytedance-targets-mega-ai-model-nearing-anthropics-mythos-ft-reports-2026-08-07/\nMeta launches Muse Code powered by Muse Spark 1.2\nSOURCE: https://www.reuters.com/technology/meta-launches-new-ai-coding-tool-powered-by-muse-spark-12-2026-08-05/\nOpenAI gives free users unlimited GPT-5.6 Luna text chats\nSOURCE: https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats\n\n🚨 Why It’s Important:\nThe AI race is scaling fast. China is targeting unprecedented model size, Meta is entering the coding-agent battle, and OpenAI is putting increasingly capable AI in front of massive numbers of users. The competition is shifting from individual models toward scale, agents, cost, and accessibility.\n\n#ai #chinaai #chatgpt",
       "commentCount": 105,
       "likeCount": 911,
-      "probeClient": "web_embedded"
-    },
-    "z9FXO6_0Nv0": {
-      "checkedAt": "2026-08-08T08:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Artificial Intelligence has been used to design brand new viruses that are fully functional and can replicate in the laboratory, say US researchers.\n \nIt is the first time whole genomes have been successfully designed by AI.\n \nThe resulting 16 novel viruses were created to infect bacteria and pose no threat to people. But experts have also warned AI-designed viruses raise \"urgent\" safety and security concerns.\n \nIn this video...\n\n0:00 - 00:43 - Intro\n00:43 - 01:39 - How were the viruses created\n01:39 - 02:47 - What's the significance\n02:47 - 04:09 - What are the benefits\n04:09 - 05:15 - What are the concerns\n05:15 - 06:38 - Impact of AI on healthcare\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#AI #Science #BBCNews",
-      "commentCount": 1100,
-      "likeCount": 2515,
       "probeClient": "web_embedded"
     },
     "u_Lx6i8K2wE": {
@@ -7598,6 +7575,66 @@
       "description": "AI revolution එකත් එක්ක Software Engineering field එක වේගයෙන් වෙනස් වෙමින් තියෙනවා. 🤖💻\n\nඉස්සර Software Developer කෙනෙක් වීම ලංකාවේ තරුණයන්ට ලෝකයත් එක්ක සම්බන්ධ වෙන්න තිබුණු හොඳම career paths වලින් එකක් වුණා. නමුත් අද AI tools වලට code ලියන්න, bugs හඳුනාගන්න, code explain කරන්න සහ applications build කරන්න පවා පුළුවන්.\n\nඒත් ඇත්තටම ප්‍රශ්නය “AI programmers ලාව replace කරයිද?” කියන එක විතරක් නෙවෙයි.\n\n👉 AI යුගයේ Software Engineers ලාගෙන් ලෝකය බලාපොරොත්තු වෙන්නේ මොනවාද?\n👉 Sri Lanka වගේ outsourcing-based IT market එකකට මේ වෙනස බලපාන්නේ කොහොමද?\n👉 AI නිසා Junior Developers ලාට opportunities අඩු වෙයිද?\n👉 Reshoring, Nearshoring සහ වෙනස්වන global IT market එක ලංකාවට බලපාන්නේ කොහොමද?\n👉 ඉදිරියේදී Sri Lankan developers ලා තමන්ගේ value එක වැඩි කරගන්නේ කොහොමද?\n👉 AI-assisted development, Cloud, DevOps, Kubernetes සහ Next-Gen technologies ඉගෙනගැනීම වැදගත් වෙන්නේ ඇයි?\n\nමේ වීඩියෝ එකෙන් මේ ගැන විවෘතව කතා කරමු.\n\nමෙය කිසිවෙකු අධෛර්යමත් කිරීම සඳහා කරන වීඩියෝ එකක් නෙවෙයි. අරමුණ වන්නේ ලෝකයේ සිදුවෙමින් පවතින වෙනස්කම් තේරුම්ගෙන, අනාගතයට සූදානම් වීම ගැන සාකච්ඡාවක් ආරම්භ කිරීමයි. 🇱🇰\n\n💬 ඔබ Software Developer කෙනෙක් නම්, AI නිසා ඔබේ career එකට බලපෑමක් දැනෙනවාද? ඔබේ අදහස Comment එකකින් කියන්න.\n\n\n#AI #SoftwareEngineering #SriLanka #SriLankanDevelopers #AIJobs #TechJobs #SoftwareEngineer #ArtificialIntelligence #ITJobs #TechieCony #AIRevolution #FutureOfWork",
       "commentCount": 35,
       "likeCount": 228,
+      "probeClient": "web_embedded"
+    },
+    "P052ouQqHUU": {
+      "checkedAt": "2026-08-08T19:53:38Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment CLONE and I'll send you the link.\n\nOne of the most slept-on repos on GitHub right now. You screenshot any website and AI rebuilds it into working code in front of you. Usually you hand Claude a link or a screenshot and get back something that barely resembles the original. This one, screenshot-to-code, finally nailed it. It turns a screenshot, a Figma design or even a screen recording into clean working code in minutes.\n\nAnd it doesn't just copy the layout. It pulls the real logos and images out of your screenshot and rebuilds the page around them. You run it through Claude, pick your output format like HTML, React or Vue, feed it a screenshot and get a working prototype, then preview it live and refine in a couple of passes. It's noticeably better than what Claude does on its own, and it's easy to set up.\n\n#AI #coding #frontend #opensource",
+      "commentCount": 2,
+      "likeCount": 6,
+      "comments": [
+        {
+          "id": "UgypoUsGGQ9r0l57sK94AaABAg",
+          "author": "@AOOA926",
+          "text": "Clone",
+          "likeCount": 1,
+          "publishedAt": "2026-08-08T19:48:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/RTaBaHis-LLKFOzVeAvN4ZIVVHp5-rJ3yBjpD4Q6EREHn1udA5DPIlidBZOf5gEUlKjkkhyR6w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzKzcJfUFwMyPn6sHd4AaABAg",
+          "author": "@AyeItsAycie",
+          "text": "You people can't do anything anymore",
+          "likeCount": 0,
+          "publishedAt": "2026-08-08T19:26:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/JHvr1htC7cHPKNYOKs0grZJHuJK4pCitcxd59QFG6xNII3H9BSv8gWNYloRTuzpJG67K5qrDhQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-08T19:53:38Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "IEFbPer8Nfk": {
+      "checkedAt": "2026-08-08T19:53:38Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, Dr. Akmal Soomro dives deep into the escalating \"AI Cold War\" between the United States and China. As Artificial Intelligence becomes the cornerstone of future economic and military power, both nations are racing to achieve dominance in this transformative technology.\n\nWe explore the strategic moves, the technological breakthroughs, and the geopolitical implications of this rivalry. From semiconductor bans to the race for supercomputing, understand how this tech-driven conflict is reshaping global alliances and the future of innovation.\n\n#AIColdWar #USvsChina #ArtificialIntelligence #Geopolitics #TechRace #VlogCentral #AkmalSoomro #FutureTech #GlobalPower #TechWar\n\n\nCheck Out Our Other Videos:\n1: https://youtu.be/G2QmlpNqWiA\n2: https://youtu.be/zdxOeLhZoxk\n3: https://youtu.be/IexGvJobma4\n\nVlog Central Team:\nEjaz Virk — Director of Production\nUmair Qadeer — Digital Creator\nAbdurrab Afzal — NLE\nDil Nasheen — NLE\nZeeshan Khalid — NLE\nTauqeer Abbas — Cameraman\nAsim Malik — Cameraman\n\nFollow Us On Social Media:\nFacebook: https://www.facebook.com/VlogCentralpk\nInstagram: https://www.instagram.com/VlogCentralPk\nTikTok: https://www.tiktok.com/@vlogcentralpk\nTwitter: https://x.com/VlogCentralPk\n\nGet In Touch:\nContact us at vlogcentralpk@gmail.com\n\nCheck out our channel here:\nhttps://www.youtube.com/@VlogCentralTv\nDon't forget to subscribe!",
+      "commentCount": 5,
+      "likeCount": 280,
+      "probeClient": "web_embedded"
+    },
+    "BThiONABge4": {
+      "checkedAt": "2026-08-08T19:53:38Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Artificial intelligence is transforming everything from cyber security to critical infrastructure. \n\nFormer Director General of the Australian Signals Directorate, Rachel Noble explains what's at stake, why Australia needs to move faster, and how the global AI race could reshape our national security.\n\nSubscribe: https://ab.co/3yqPOZ5   Read more here:\n\nWelcome to ABC News In-depth, where you'll find our long-form journalism and other videos to help you understand what's going on in the world around you.\n\nWatch more ABC News content ad-free on ABC iview: https://ab.co/2OB7Mk1\n\nFor more from ABC News, click here: https://ab.co/2kxYCZY\n\nGet breaking news and livestreams from our ABC News channel: https://www.youtube.com/user/NewsOnABC\nLike ABC News on Facebook: http://facebook.com/abcnews.au\nFollow ABC News on Instagram: http://instagram.com/abcnews_au\nFollow ABC News on Twitter: http://twitter.com/abcnews\n\nNote: In most cases, our captions are auto-generated.\n\n#ABCNewsIndepth #ABCNewsAustralia",
+      "commentCount": 0,
+      "likeCount": 98,
+      "probeClient": "web_embedded"
+    },
+    "OV6oFI_dSeM": {
+      "checkedAt": "2026-08-08T19:53:38Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "#ai #artificialintelligence #trafficmanagement #trafficjam #china #dhakabeijing #channel24 \n\nযানজটের সমাধান এআই?\n\n\nWelcome to the Official YouTube Channel of Channel24 \n»» One-Click Subscription Link: https://cutt.ly/Channel24\n»» Read more news on https://www.channel24bd.tv\n\n»» About Channel24\nChannel 24 Limited is one the most popular, top-rated, and Leading News Based Satellite Television Channel of Bangladesh. Our every news is not only confirmed by source but also investigated by our highly trained professional journalists. Besides news, we have a huge volume of Infotainment, Sports, Lifestyle, Talk Show and more.\n\n»» Our Facebook Pages: \nChannel 24: https://fb.me/channel24bd.tv\nChannel 24 News: https://fb.me/channel24live\nChannel 24 Sports: https://fb.me/sports24team\nChannel 24 Lifestyle: https://fb.me/ch24lifestyle\nChannel 24 Entertainment: https://fb.me/channel24program\nChannel 24 Drama: https://facebook.com/channel24drama\nChannel 24 Music: https://fb.me/channel24music\nChannel 24 Krishi: https://fb.me/channel24krishi\nChannel 24 Business: https://fb.me/channel24biz\nChannel 24 Health for All: https://fb.me/channel24health\nChannel 24 Islamic Show: https://fb.me/ch24islamicshow\n\n»» Our FaceBook Group:\nChannel 24: https://facebook.com/groups/channel24family\nChattogram 24: https://facebook.com/groups/chattogram24/\n\n»» Our YouTube Channel:\nChannel 24: www.youtube.com/channel24digital\nOne-Click Subscription Link »» https://cutt.ly/Channel24\n\nChannel 24 Entertainment: www.youtube.com/channel24program\nOne-Click Subscription Link »» https://cutt.ly/Channel24Entertainment\n\nChannel 24 Drama: www.youtube.com/channel24drama\nOne-Click Subscription Link »» https://cutt.ly/channel24drama\n\nChannel 24 Bulletin:\nOne-Click Subscription Link »» https://cutt.ly/Channel24Bulletin\n\n»» Our Other Social Platforms:\nInstagram: www.instagram.com/channel24online\nTikTok: www.tiktok.com/@channel24digital\nLikee: https://likee.video/@channel24\nLinkedIn: www.linkedin.com/company/channel24\nTwitter: www.twitter.com/channel24online\n\n»» Download Channel24 Official Android App \nAndroid App Link: https://cutt.ly/channel24andriodapp\nOR\nhttps://play.google.com/store/apps/details?id=channel24.bd&hl=en&pli=1\n\niOS App Link: https://apps.apple.com/us/app/channel-24-bd/id6443854734\n\n»» Office Address:\nChannel 24, Level 10, 387 South, \nTejgaon Industrial Area, Dhaka-1208\nBangladesh.\nTel: +8802 550 29724\n\n»» For Digital Advertising:\nE-mail: digitalmedia24@channel24bd.tv\n\n»» Disclaimer:\nChannel 24 Limited has the sole rights of all contents and it does not give permission to any business entity or individual to use these contents except Channel 24. This Channel is the Based on News and Current Affairs. Every single content is created and managed by our team. And if needed Third-Party materials were also being used with specific authorization and permission to use this on YouTube. \n\n»» Fair Usage Policy: \nThis channel may use some copyrighted materials without specific authorization of the owner but contents used here fall under the “Fair Use” as described in The Copyright Act 2000 Law No. 28 of the year 2000 of Bangladesh under Chapter 6, Section 36, and Chapter 13 Section 72. According to that law, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statutes that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use. \"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for -fair use- for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statutes that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use.\"\n#Channel24 #News #নিউজ #চ্যানেল24 #news",
+      "commentCount": 4,
+      "likeCount": 79,
       "probeClient": "web_embedded"
     }
   }

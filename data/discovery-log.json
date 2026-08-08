@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T18:53:28Z",
+  "updatedAt": "2026-08-08T19:53:38Z",
   "items": [
+    {
+      "id": "P052ouQqHUU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-08T19:00:31Z",
+      "firstSeenAt": "2026-08-08T19:53:38Z"
+    },
+    {
+      "id": "IEFbPer8Nfk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vlog Central",
+      "publishedAt": "2026-08-08T10:53:38Z",
+      "firstSeenAt": "2026-08-08T19:53:38Z"
+    },
+    {
+      "id": "BThiONABge4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ABC News In-depth",
+      "publishedAt": "2026-08-08T04:53:38Z",
+      "firstSeenAt": "2026-08-08T19:53:38Z"
+    },
+    {
+      "id": "OV6oFI_dSeM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Channel 24",
+      "publishedAt": "2026-08-08T03:53:38Z",
+      "firstSeenAt": "2026-08-08T19:53:38Z"
+    },
     {
       "id": "tBXEl3GhDpo",
       "type": "long",
@@ -11872,6 +11904,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-08T19:53:38Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
