@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-07T23:53:12Z",
+  "updatedAt": "2026-08-08T00:53:21Z",
   "items": [
+    {
+      "id": "__nHgoxrb_I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-07T20:53:21Z",
+      "firstSeenAt": "2026-08-08T00:53:21Z"
+    },
+    {
+      "id": "2KUmMIRTPYs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mikey No Code",
+      "publishedAt": "2026-08-07T16:53:21Z",
+      "firstSeenAt": "2026-08-08T00:53:21Z"
+    },
+    {
+      "id": "HQqX4rF1nDM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Next New Thing",
+      "publishedAt": "2026-08-07T16:53:21Z",
+      "firstSeenAt": "2026-08-08T00:53:21Z"
+    },
+    {
+      "id": "el7GQt2_1kE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pooja Dutt",
+      "publishedAt": "2026-08-07T14:53:21Z",
+      "firstSeenAt": "2026-08-08T00:53:21Z"
+    },
     {
       "id": "i1eIQ1Gc3n8",
       "type": "long",
@@ -11133,6 +11165,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-08T00:53:21Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
