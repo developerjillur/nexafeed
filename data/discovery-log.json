@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T01:53:29Z",
+  "updatedAt": "2026-08-08T02:53:40Z",
   "items": [
+    {
+      "id": "T0YRAGvi7Ds",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Giantwire",
+      "publishedAt": "2026-08-08T01:53:40Z",
+      "firstSeenAt": "2026-08-08T02:53:40Z"
+    },
+    {
+      "id": "N0tZnFkUwuU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lillian Pierson, 𝗙𝗿𝗮𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗠𝗢",
+      "publishedAt": "2026-08-08T00:53:40Z",
+      "firstSeenAt": "2026-08-08T02:53:40Z"
+    },
+    {
+      "id": "7GGRgkDBdJo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Online Hustle With Samuel",
+      "publishedAt": "2026-08-07T17:53:40Z",
+      "firstSeenAt": "2026-08-08T02:53:40Z"
+    },
+    {
+      "id": "dTVhRn5__00",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-08-07T16:53:40Z",
+      "firstSeenAt": "2026-08-08T02:53:40Z"
+    },
     {
       "id": "3JoMCyRR8rg",
       "type": "short",
@@ -11231,6 +11263,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-08T02:53:40Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
