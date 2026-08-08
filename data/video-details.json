@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T08:53:06Z",
+  "updatedAt": "2026-08-08T09:53:12Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -63,15 +63,6 @@
       "description": "🎓 Full course — build real products with AI: \nhttps://learnwithhasan.com/courses/solo-builder-10/\n\nThe Claude Video Editor (free & open source, always maintained):\nhttps://learnwithhasan.com/guide/claude-code-video-editing/\n\n💻 GitHub repo (skills + code) 👇\nhttps://github.com/hassancs91/claude-youtube-editor\n\nIf this helped, smash 👍 and subscribe for more.\n\n\n🧰 MY FAVOURITE TOOLS:👉 https://learnwithhasan.com/tools-i-use/\n\n🔗 MY KEY LINKS\n👉 Website - learnwithhasan.com\n👉 Follow on X - https://x.com/hasan_ab_hasan\n\n\n#AIVideo #ClaudeCode #VideoEditing",
       "commentCount": 221,
       "likeCount": 2617,
-      "probeClient": "web_embedded"
-    },
-    "sd9YNG-V6xA": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn more about 5 AI building blocks: https://www.skool.com/ai-inner-circle/about\n\nSkills, MCP, Plugins, CLI & Artifacts Explained (With Live Demos)\n\nAgent skills, MCP, plugins, CLI, and artifacts, all explained in one video with live demos of each. This is the exact system I use to give Claude real capabilities and connect it to my whole tool stack.\n\nIn this video you'll learn:\n• What skills, MCP, plugins, CLI, and artifacts each do\n• When to use a CLI instead of an MCP server\n• How to connect Claude to your entire tool stack\n• How to build custom skills in plain English\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"BLOCKS\" and I'll DM you the full checklist with every building block, when to use it, and how to set it up.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 The 5 building blocks of any AI system\n0:37 What a skill is (and how it loads on demand)\n0:46 Running skills live (LinkedIn post reviewer demo)\n2:42 Inside the SKILL.md file (tools, instructions, output format)\n4:41 Installing skills from the Anthropic directory and marketplace\n7:10 Building a custom skill by chatting with Claude\n8:45 Running skills in Claude Code and any AI agent\n10:01 MCP explained (the universal connector)\n11:03 Connecting an MCP server live (Canva demo)\n12:08 How tool calling actually works\n14:17 Connecting Supabase with zero API keys\n16:34 Custom connectors and MCP inside Claude Code (Sandcastles)\n18:09 Plugins explained (skills + MCP + hooks + commands)\n19:04 Installing and building your own plugins\n20:29 CLI explained (and why it beats MCP on tokens)\n22:19 Installing CLIs live (Higgsfield image demo)\n24:09 Artifacts explained (live interactive previews)\n26:03 Inline visualization vs live artifacts (solar system demo)\n27:14 Recap of all 5 building blocks\n\n#claudeai #claudecode #aiagents",
-      "commentCount": 15,
-      "likeCount": 191,
       "probeClient": "web_embedded"
     },
     "M1E4ZzdpOco": {
@@ -633,15 +624,6 @@
       "description": "Our Journey From 0 To 1.3 crore Full Video - https://www.youtube.com/watch?v=VLJNNyspsVs\n\nCourse - https://harkaransingh.graphy.com\n\nIntroduction and Backstory: (0:00 - 0:42)\n• Getting Started: Profiles vs. Pages: (0:42 - 1:26)\n• How to Turn on Professional Mode & Create a Page: (1:26 - 2:30)\n• Linking Facebook to Instagram: (2:30 - 6:08)\n• Setting up Monetization: (6:08 - 6:39)\n• Monetization Requirements & Expectations: (6:39 - 7:40)\n• How Much You Can Earn: (7:40 - 9:50)\n• Finding Your Niche & Content Topic: (9:50 - 11:13)\n• Creating Image Posts (Tips & Templates): (11:13 - 14:41)\n• Video Content Strategies: (14:41 - 15:43)\n• Understanding Facebook Algorithm & Follower Growth: (15:43 - 17:15)\n• Posting Frequency: (17:15 - 17:57)\n• Content Strategy: Trending Topics vs. Timeless Content: (17:57 - 20:25)\n• How to Find Trends & Outliers: (20:25 - 23:43)\n• Facebook Performance Rules: (23:43 - 24:14)\n• Using Analytics to Improve: (24:14 - 25:01)\n• Using AI for Content Ideas: (25:01 - 27:02)",
       "commentCount": 19,
       "likeCount": 246,
-      "probeClient": "web_embedded"
-    },
-    "TZ3pRAEzmOY": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Level up your Claude Code: https://www.skool.com/ai-inner-circle/about\n\nThe 7 Layers of Claude Code Users (Which One Are You?)\n\nMost people use Claude Code at level one and never touch its real power. In this video I break down all seven layers, from copy-pasting into a chat to fully autonomous loops that prompt Claude for you, with live examples at every step.\n\nIn this video you'll learn:\n• The 7 layers of Claude Code mastery explained\n• Why claude.md memory changes everything\n• How to spawn sub-agents with their own context\n• Designing autonomous loops that need zero prompting\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"LAYERS\" and I'll DM you the full checklist with every level, tool, and setup order.\n\nIf this saved you weeks of trial-and-error, hit subscribe — I drop one builder-to-builder tutorial every week.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 The 7 layers of Claude Code users\n0:16 Level 0 — Copy-pasting into a chat (Claude AI, ChatGPT)\n1:15 Level 1 — Default Claude Code, no config (VS Code)\n2:43 Level 2 — claude.md memory and persistent context\n3:53 Universal memory with agents.md (Codex, Cursor)\n4:22 Level 3 — Spawning sub-agents with their own context\n5:51 Level 4 — You orchestrate multiple agent sessions\n6:40 Level 5 — Dynamic workflows and thousands of sub-agents (Opus 4.8, Fable 5)\n8:28 Level 6 — Fully autonomous loops that prompt Claude (GitHub)\n11:28 The full seven-layer ladder recap\n\n#claudecode #aiagents #leadgenman",
-      "commentCount": 2,
-      "likeCount": 39,
       "probeClient": "web_embedded"
     },
     "UPkzsr8apq8": {
@@ -1446,15 +1428,6 @@
       ],
       "commentsFetchedAt": "2026-07-28T16:53:36Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "ZW38bkluwlY": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn more abt lead gen: https://www.skool.com/ai-inner-circle/about\n\nHow I Built a 24,000 Email Lead List on Full Autopilot\n\nEvery funnel starts with an email lead list you actually own, not followers a platform can take away tomorrow. Here is the exact top of funnel system I use to turn Instagram comments into verified email subscribers automatically.\n\nIn this video you'll learn:\n• How to automate Instagram DMs into lead magnets\n• Why gating your lead magnets captures every email\n• How to verify emails before they hit your list\n• The 3 day welcome drip that upsells on autopilot\n\nTOOLS I USE IN THIS VIDEO\nBeehiiv (20% off): https://www.beehiiv.com/?via=manthan-patel\nGoHighLevel (30-day free trail): https://www.gohighlevel.com/?fp_ref=manthan\nn8n: https://n8n.partnerlinks.io/manthan\nSubpage: https://subpage.co/?via=manthan\nReoon Email Verifier: https://www.reoon.com/email-verifier/?inv=r2gq93fm\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"FUNNEL\" and I'll DM you the full checklist with the n8n workflow, every tool, and the exact setup order.\n\nIf this saved you weeks of trial-and-error, hit subscribe — I drop one builder-to-builder tutorial every week.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 Why every funnel starts with an email list\n1:39 What an email lead list actually looks like\n2:16 STEP 1 — Your traffic source (Instagram)\n3:05 What makes a good lead magnet\n4:24 STEP 2 — DM automation setup (GoHighLevel)\n6:08 STEP 3 — Capturing emails with gated pages (subpage.co)\n8:20 Alternative platforms and custom domains (Tally.so, GoDaddy)\n9:55 STEP 4 — The n8n automation layer\n11:15 Email verification in action (Reoon)\n12:14 Why 37,000 leads became 24,000 after cleaning\n12:54 Never buy or scrape an email list\n13:47 STEP 5 — Beehiiv and the 3 day welcome drip\n15:58 Building the entire drip with Claude Code and Beehiiv MCP\n17:43 Connecting n8n to Beehiiv with the API\n19:39 Full workflow walkthrough end to end\n21:15 Warm leads vs cold leads, when to sell\n23:39 Real examples (Liam Ottley, Ben AI, Nick Saraev)\n25:45 How to reverse engineer anyone's email platform\n\n#emaillist #leadgeneration #leadgenman",
-      "commentCount": 2,
-      "likeCount": 9,
       "probeClient": "web_embedded"
     },
     "rkbacGroezI": {
@@ -5024,15 +4997,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "DBrWyiTgutE": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn more about Vibe Coding: https://www.skool.com/ai-inner-circle/about\n\nGit & GitHub Explained for Vibe Coders (Never Lose Your Project Again)\n\nCoding agents like Claude Code and Codex change dozens of files in a single prompt, and one bad prompt can wipe out weeks of work. In this beginner-friendly guide I explain Git, GitHub, GitLab, and CI/CD in plain English and show the exact auto-commit workflow I use on TiltIt, PenAnywhere, and Impromptly AI. No terminal skills needed, everything runs through simple prompts.\n\nIn this video you'll learn:\n• Why one bad prompt can wipe your whole project\n• Git commits, reverts, and branches in plain English\n• The auto-commit hook that saves every Claude Code change\n• Git vs GitHub vs GitLab plus CI/CD with GitHub Actions\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"GIT\" and I'll DM you the full checklist with the auto-commit hook and every setup command.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 Why vibe coders lose projects without Git\n0:22 What Git actually does (commits, snapshots, safe zones)\n1:09 Live demo — remove and restore a footer with Git revert\n3:09 Auto-commit hooks so every Claude Code change saves itself\n5:49 Branches — build new features without breaking main\n7:43 Installing Git + Git vs GitHub explained\n8:37 GitHub — push, pull, fork straight from Claude Code (GitHub CLI)\n11:59 GitLab, CI/CD, GitHub Actions + your implementation checklist\n\n#git #vibecoding #claudecode",
-      "commentCount": 1,
-      "likeCount": 4,
-      "probeClient": "web_embedded"
-    },
     "Rx7i0Rj85N8": {
       "checkedAt": "2026-08-06T20:53:12Z",
       "embedAllowed": true,
@@ -5864,15 +5828,6 @@
       "likeCount": 436,
       "probeClient": "web_embedded"
     },
-    "lHQ0yB_pc7c": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Airtop for Google Ads: https://www.producthunt.com/products/airtop?launch=airtop-for-google-ads\n\nI Automated My Entire Google Ads Campaign With AI (Zero PPC Experience)\n\nI built a full Google Ads campaign for TiltIt without opening the Google Ads dashboard once. Airtop AI handled keyword research, ad groups, ad copy, negative keywords, conversion tracking checks, and geo targeting from a single chat. Everything stays in draft until I approve it, so nothing spends without my OK.\n\nIn this video you'll learn:\n• Launch a full Google Ads campaign without touching the dashboard\n• Keyword research with real CPC and competition data\n• Negative keywords and geo targeting picked for you\n• Approval-first workflow so no budget burns silently\n\nMY SAAS PRODUCTS\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\n\nComment \"ADS\" and I'll DM you the full step-by-step guide with the exact setup order and prompts.\n\nIf this saved you weeks of trial-and-error, hit subscribe — I drop one builder-to-builder tutorial every week.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 Full Google Ads campaign with zero PPC experience\n0:45 Auditing existing accounts + Mark's knowledge base\n1:21 One-time OAuth connect + real keyword planner data\n2:01 Two ad groups + which keywords to skip completely\n2:44 Conversion tracking flag + campaign built in my voice\n3:42 Approval flow, nothing runs until you say so\n4:20 Negative keywords + geo targeting on autopilot\n4:57 Optimization, weekly reports, and what comes next\n\n#googleads #aiautomation #leadgenman",
-      "commentCount": 0,
-      "likeCount": 7,
-      "probeClient": "web_embedded"
-    },
     "eis4k0cLqKo": {
       "checkedAt": "2026-08-06T20:53:12Z",
       "embedAllowed": true,
@@ -5959,7 +5914,7 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-08T08:53:06Z",
+      "checkedAt": "2026-08-08T09:53:12Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6135,10 +6090,10 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-08T08:53:06Z",
+      "checkedAt": "2026-08-08T09:53:12Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "JwkDaB0OcZc": {
       "checkedAt": "2026-08-08T06:53:36Z",
@@ -6226,55 +6181,95 @@
       "probeClient": "web_embedded"
     },
     "vVu2zfW9nMc": {
-      "checkedAt": "2026-08-07T08:53:17Z",
+      "checkedAt": "2026-08-08T09:53:12Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
-      "commentCount": 4,
-      "likeCount": 54,
+      "commentCount": 8,
+      "likeCount": 1452,
       "comments": [
         {
-          "id": "Ugw_VAtsBVWFgItOlJx4AaABAg",
-          "author": "@ShadowStateUnredacted",
-          "text": "Are u real this time if not then probably it's over in knowing what is real or ai avatar anymore",
+          "id": "Ugxfi0wKpywN_N2J4YF4AaABAg",
+          "author": "@nidhinkn9331",
+          "text": "He your content are really good.keep  up the good work😊",
           "likeCount": 0,
-          "publishedAt": "2026-08-07T08:48:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/BBjRZC54x924u74fL3FkF3EynZ7bKLN171oL8j2puSsF3k-YsjfYH_wsB4FgwrjRoWJw6EiQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-08T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lVlR6hlGRHuwvQmCKw7d00vG_-Hp_iQUPKPmdeRSDsLo2c=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgypI8V7q7SASgCpUq14AaABAg",
-          "author": "@fewedits55",
-          "text": "First view' ❤",
-          "likeCount": 0,
-          "publishedAt": "2026-08-07T08:47:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/GGudqNwWjQrK61qlSb5bB1otpYUoS-9US2ncKPOe2Abom163gwhcYCxk0aEmFhGCzokKaSwokQ=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgyYY_i7C_5cT3Ug0d54AaABAg",
+          "author": "@DigitalWorld-s3c",
+          "text": "Why is this AI guy looking so alive?🤯🤯",
+          "likeCount": 1,
+          "publishedAt": "2026-08-07T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/jQ1UVXgzCOkmUyfg2UJ4SdkwJ9-EgBbcQD1e2crAf477DLgbfkgKUBzcyMSOcFTwBjIwXitdAw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyrOf_HCHnQmVcpJhB4AaABAg",
-          "author": "@ZeelNayak-p5t",
-          "text": "Big fan sir😊😊😊❤❤",
+          "id": "UgyjCCWmBZPzBsrnd814AaABAg",
+          "author": "@KungligR",
+          "text": "This Elon Musk Statement Only for American 🇺🇸✅ \nNot for other country like India 🇮🇳❌",
           "likeCount": 0,
-          "publishedAt": "2026-08-07T08:46:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n7hfHJxB62ul3LGY4kMLES4Hk1ixQPm4NUBdiajA-rDa28y_nNub-lnpFutYltrKlekg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/E6zAZ-mKnryYMhm0b_OpHW6Nyuax9ZfMoCAIqSqE_kAuxAVFkD8a5gccg2avaGEYEuOIZPx8fg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyFKV6yLetiWhS0tnt4AaABAg",
-          "author": "@ZeelNayak-p5t",
-          "text": "Great sir",
+          "id": "UgzeWjkWSeI1kxpqptp4AaABAg",
+          "author": "@abhimanyuladha6293",
+          "text": "So AI Companies will pay taxes to the goverment so that Goverment can distribute it into public to pay again it to AI companies.",
           "likeCount": 0,
-          "publishedAt": "2026-08-07T08:46:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n7hfHJxB62ul3LGY4kMLES4Hk1ixQPm4NUBdiajA-rDa28y_nNub-lnpFutYltrKlekg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-07T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nm8DD98BAVSq3qxkBAkLrTuu2p0gi4IkMD4TwV_XXpfvjb=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzQLjEFLNnTcK7fGTt4AaABAg",
+          "author": "@SpirutualJourneyIndia",
+          "text": "AI companies can black mail countries and control them and make humans slaves",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mJWnsy-4D0HHK7e70lAjKZZtXkBBcCBOJGArgGB83flQAgJc3mP46709hKr12KPbfx0A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwHxFY9MvsN-FCL4nx4AaABAg",
+          "author": "@ChetanSharma-p9f",
+          "text": "He himself researched for the video using AI only",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nEaD_Rk3gYEqhmikjMp7vwgj1kjo_1clhZVFPoWzf4kyAVnj5RvUUogQGgDuScZLz2rA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwo1hHbQNCZrv44GW94AaABAg",
+          "author": "@jkaduda",
+          "text": "How many possibilities? - Dr Strange",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lPCKyieJ6P2LgXgAWdBDexMoMW7jEcimZEzZeFJXSEDOI=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy3JQUO3G8A7bUymep4AaABAg",
+          "author": "@OjasPrasad-p4h",
+          "text": "Bro did u changed the gen ai model for ur videos ? It's much better now",
+          "likeCount": 0,
+          "publishedAt": "2026-08-07T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mV9ZEac7RzPRT41iu9zNSTiFISmS-SrX6vMoce38cTiomZA5hxEIgjyjP4YaOPJfc6DQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-07T08:53:17Z",
+      "commentsFetchedAt": "2026-08-08T09:53:12Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
