@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T07:53:37Z",
+  "updatedAt": "2026-08-08T08:53:06Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -5959,10 +5959,10 @@
       "probeClient": "web_embedded"
     },
     "upk8DK4O_h0": {
-      "checkedAt": "2026-08-08T07:53:37Z",
+      "checkedAt": "2026-08-08T08:53:06Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "AncgOoIdHaE": {
       "checkedAt": "2026-08-08T01:53:29Z",
@@ -6135,7 +6135,7 @@
       "probeClient": "web_embedded"
     },
     "qAjplmWqs0M": {
-      "checkedAt": "2026-08-08T07:53:37Z",
+      "checkedAt": "2026-08-08T08:53:06Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6604,24 +6604,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "du90qkd__D4": {
-      "checkedAt": "2026-08-07T15:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this video, I'm breaking down exactly how I use AI to work faster, automate repetitive tasks, and build real systems — not just prompts. Before we get into the practical part, I wanted to share the mindset that changed how I think about AI altogether, because most people panic about AI instead of using it to their advantage.\n\nI'll walk you through context, connectors, and skills — the three things that actually separate people who get great AI output from people who don't. You'll see real examples from my own workflow: thumbnail creation, Meta Ads automation, email drafting, and my YouTube metadata system. This breakdown will show you how AI actually works in practice — shifting your mindset from \"AI will replace me\" to \"AI works for me.\"\n\n🔗 Resources & Useful Links\n- Ultimate Prompt Builder Skill (GitHub): https://github.com/vivekmishraishere/ultimate-prompt-builder-skill\n- 60 Days Free Wispr Flow: https://ref.wisprflow.ai/vivekmishra\nCoupon Code: VIVEKMISHRAXWISPR\n- Fabricodes: https://fabricodes.com\n- Agentic OS Complete Course : https://youtu.be/tzAzfOW-ZsM?si=DcNjyIq_hgnr2vIV\n- 50+ Claude Skills video : https://youtu.be/TQ_rnjcXc9s?si=5d1x6H_IRSRoXcdM\n- Codex Masterclass video : https://youtu.be/H40-ojGyFmo?si=V8DvOd_sxErOoRwc\n- Claude Skills 2.0 video : https://youtu.be/TJWeXsRRpRA?si=DmmP0dDZFLjJjYfg\n\n📘 Timestamps\n00:00:00 – Introduction/Demo\n00:01:56 – The Mindset: Humans Were Made to Rule, Not Be Replaced\n00:07:22 – The Six Things This Video Covers\n00:08:02 – Basics of Asking AI: Why Context Matters\n00:10:35 – Creating Thumbnails With AI (Real Examples)\n00:16:38 – Using Connectors to Give AI Access to Other Tools\n00:19:14 – Connecting Meta Ads via Custom MCP Connector\n00:21:09 – Prompting Hacks: The Ultimate Prompt Builder Skill\n00:24:04 – Using Wispr Flow to Save and Trigger Prompts\n00:27:00 – What Is a Skill and How to Build One\n00:29:02 – Building a Repeatable PPT Creation Skill\n00:30:29 – My YouTube Metadata Automation System\n00:36:22 – Prompt Builder Skill in Action: Drafting Email Replies\n00:39:25 – Automating Meta Ads Reporting With Scheduled Tasks\n00:43:14 – Outro/Conclusion\n\n📌 What this video covers\nHere's what you'll learn in this video:\n- Why context is the single biggest factor in getting good AI output\n- How to use connectors to give AI access to tools like Meta Ads, Gmail, and Google Calendar\n- How to build and use \"skills\" so AI repeats tasks the same way every time\n- How I create AI-generated thumbnails using iterative prompting and reference images\n- How to set up scheduled AI tasks that run daily without you doing anything\n\n🚀 Tools & Stack Mentioned\n- Claude (AI assistant, connectors, skills, scheduled tasks)\n- ChatGPT (skills/plugins)\n- Codex\n- Wispr Flow (voice-to-text prompting)\n- Meta Ads (via custom MCP connector)\n- Google Calendar (via connector)\n- Gmail (via connector)\n- Fabricodes\n- n8n\n\n🎯 This is perfect for:\n- Marketers who want to automate Meta Ads reporting using AI\n- Creators who want to build a repeatable thumbnail or content system with AI\n- Founders who want to connect AI to real tools instead of just chatting with it\n- Anyone tired of writing the same prompts over and over and wants to build a skill instead\n- People who feel behind on AI and need a clear, practical starting point\n\nIf you actually implement even two or three things from this video — context, connectors, or skills — your entire workflow changes. This isn't about replacing yourself with AI, it's about freeing yourself from repetitive work so you can focus on what actually needs a human brain.\n\n👋 WHO AM I?\n\nI'm Vivek Mishra — a performance marketing expert and trainer. I work with\nservice-based and e-commerce brands and teach practical skills around marketing,\nAI tools, and digital systems. Everything I teach comes from doing it myself.\n\n📩 Questions? Drop them in the comments — I personally reply.\n\n📸 Instagram: https://www.instagram.com/vivekmishra.ai/\n\n#AITools #Automation #Claude #Productivity #AIWorkflow",
-      "commentCount": 6,
-      "likeCount": 11,
-      "probeClient": "web_embedded"
-    },
-    "QY4PmgK7l9E": {
-      "checkedAt": "2026-08-07T15:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥Enroll for Artificial Intelligence Course: https://intellipaat.com/artificial-intelligence-certification/\n\n🔥𝐁𝐨𝐨𝐤 𝐲𝐨𝐮𝐫 𝐅𝐫𝐞𝐞 𝐌𝐚𝐬𝐭𝐞𝐫𝐜𝐥𝐚𝐬𝐬: https://forms.gle/g5tExa7e54xpYZW97\n\nArtificial Intelligence is transforming digital marketing faster than ever before. From content creation and copywriting to SEO, automation, email marketing, and customer engagement, AI tools are helping marketers work smarter, save time, and achieve better results.\n\nIn this video, you'll discover the top AI tools for digital marketing in 2026 and learn how professionals use them to create content faster, improve SEO, automate repetitive tasks, optimize campaigns, and grow their businesses more efficiently.\n\nWhether you're a student, digital marketer, content creator, freelancer, entrepreneur, or business owner, these AI-powered marketing tools can help you stay ahead in the rapidly evolving marketing landscape.\n\nIn this video, you'll learn:\n\nTop AI tools for digital marketing in 2026\nHow AI is changing digital marketing\nBest AI tools for content creation\nAI copywriting tools like Jasper AI and Copy.ai\nChatGPT for digital marketing\nCanva AI for design and creatives\nCapCut AI for video editing\nSurfer SEO and Ahrefs for AI-powered SEO\nMarketing automation using Zapier and Mailchimp\n\nWill AI replace digital marketers?\n\nIf you found this video helpful, don't forget to Like, Share, and Subscribe to Intellipaat for more videos on AI, Digital Marketing, Career Growth, and Emerging Technologies.\n\n\n#AITools #DigitalMarketing #AIMarketing #ChatGPT #MarketingAutomation #ContentMarketing #SEO #FutureOfMarketing #ArtificialIntelligence #Intellipaat",
-      "commentCount": 0,
-      "likeCount": 9,
-      "probeClient": "web_embedded"
-    },
     "n_KywlModrE": {
       "checkedAt": "2026-08-07T16:53:24Z",
       "embedAllowed": true,
@@ -6925,14 +6907,6 @@
       "likeCount": 52,
       "probeClient": "web_embedded"
     },
-    "oXonq_loJto": {
-      "checkedAt": "2026-08-08T01:53:29Z",
-      "embedAllowed": true,
-      "description": "In this video, I'll show you what AI agents actually are, what's real vs. what's overblown, and the simple starting point most business owners are missing. As CEO of VectorPath AI, I've spent the last two years building these systems for mid-market businesses, so I'll cut through the buzz and share what's actually working.\n\nYou'll learn:\nWhy most business processes don't need an AI agent (and what to do instead)\nHow to start with just one AI co-worker today\nThe one shift that turns AI from a chatbot into a proactive teammate\nWhy mastering one assistant beats stacking ten agents you can't manage\nIf you're a business owner or entrepreneur feeling behind on the AI agent wave, this is the reality check (and the practical starting point) you've been looking for.\n\n🔔 Subscribe for practical AI strategies for real businesses... no hype, just what works.\n\n#AIAgents #AIforBusiness #ArtificialIntelligence #SmallBusinessAI #AIEmpowermentNow\n\nIf you're a content creator who wants more subscribers, check out my other YouTube channel where I teach creators how to grow their channels and attract high-paying sponsors using generative AI: ⁨@AIEmpowerment4creators⁩  \n\nSubscribe to this channel @aiempowermentnow to be the first to know when new AI resources drop! xo, Tam",
-      "commentCount": 0,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
     "T0YRAGvi7Ds": {
       "checkedAt": "2026-08-08T02:53:40Z",
       "embedAllowed": true,
@@ -6976,15 +6950,6 @@
       "description": "📈 Blotato: https://blotato.com/?ref=koen\n\n🌟 Want this exact system? Join the Syndicate 👇\nhttps://www.skool.com/acs-syndicate/about\n\n📌 I drop early updates here before anywhere else: https://t.me/koen_agi\n\n📸 IG: https://www.instagram.com/koen.agi/\n\n1️⃣ Project Links:\n\nDrive link with files for the project: https://drive.google.com/drive/folders/1GgOfi1hdYYKx4Yu6wMTsbPT_8Yj0LdcD?usp=sharing\nKie AI: https://kie.ai?ref=fd68b969aac43115412a0c5484f24113\nBlotato: https://blotato.com/?ref=koen\n\n--\n\n2️⃣ System Build Prompt:\n\nI need a project skill that will execute this on a routine schedule. (Will be done through the Claude Desktop routines feature)\n\n-Generate a Seedance 2.0 video based on a randomized series of topics. It will always follow the same prompt structure for consistent results, but the topic of what's being shown will change. \n-Use the prompt documentation provided for information. The prompts are for realistic movie-set style videos and should be generated based on the prompt documentation.\n-Once the videos are generated using the Kie AI API, they will be auto-posted to the users choice of TikTok, Instagram, or YouTube.\n-Connect the Blotato MCP server by running the setup command and walking through the connection process with the user until it's setup. (This is Claude Desktop)\n-Also use the prompt documentation information to generate Titles (for youtube shorts) and captions (For TikTok or Instagram) based on the writing styles in the documentation.\n-If there are 3 example prompts in the prompt documentation, after cycling through them a few times, randomly generate a new topic of idea for testing by following the prompt documentation rules (Ex: A Tornado scene instead of a Tsunami scene, but the prompt structure stays the same)\n-Videos are 9:16, 15s long, 720p.\n-”Made for Kids” is always set to “No” for YouTube posting.\n\nAPI Docs: \nhttps://kie.ai/seedance-2-0 \nhttps://help.blotato.com/api/llm \n-Install any dependencies needed automatically, ask clarifying questions until you are ready to build, and create a .env for any api keys\n\n--\n\n\n00:00 Intro\n\n01:23 Community Results\n\n01:35 Costs\n\n02:08 Blotato\n\n03:06 Claude Build \n\n13:02 Blotato MCP\n\n14:42 Outro\n\n\nIn this video I go over how to build a Claude project that can automate the creation of viral AI movie set style videos. Enjoy!\n\nSubscribe!",
       "commentCount": 2,
       "likeCount": 9,
-      "probeClient": "web_embedded"
-    },
-    "IGNqyVqwCOU": {
-      "checkedAt": "2026-08-08T03:53:34Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "► Learn YouTube Automation From Saad Rashid:\n(Talk to My Team on WhatsApp)\nhttps://wa.link/1bi21h | +92 336 3668070\n \n►To be part of our Interview Series Contact us at :\nhttps://wa.link/rh23hy | +92 3167448791\n\n►Get AI Voiceovers from Speaksay:\nhttps://www.speaksay.com/saad\n\n► Try VidIQ in $1 only:\nhttps://www.vidiq.com/saad\n\n► Join Our WhatsApp Channel for Quick Updates\nhttps://whatsapp.com/channel/0029VaCtUgsHrDZjDLK4CQ0w\n\n► Join YouTube Automation Mastery Course at 50% Discount (For Today):\nhttps://www.saadrashid.net\n\n► Join The Biggest YouTube Automation Community on Facebook\nhttps://bit.ly/49ZrygP\n------------------------------------------\n\n“Saad Rashid” is the pioneer YouTube channel of Pakistan, which started talking about YouTube Automation and Faceless Channels back in 2022.\n\nHere, we talk about all of the AI tools used for content creation of faceless youtube channels.\n\nSubscribe if you want to be a faceless YouTube Creator.\n\nوَتُعِزُ مَن تَشَاء وَتُذِلُ مَن تَشَاء\n\n-------------------------------------------\n\nCONNECT ON OTHER NETWORKS:\n\nFacebook: https://www.facebook.com/thesaadrashid\nInstagram: https://www.instagram.com/saaadrashid\nTikTok: https://www.tiktok.com/@thesaadrashid\nMail: contact.saadrashid@gmail.com\n\n-------------------------------------------\n\nTime Stamps:\n0:00 Highlights \n0:37 Introduction \n1:36 Guest Introduction\n4:05 Niche & Reference Clip \n6:36 First Video Results\n7:53 Guest YouTube Journey\n8:54 Content strategy & Audience \n10:51 Monitization Timeline\n12:36 Idea Selection & Scripting \n13:43 Video Editing \n14:57 Practical Training \n23:29 Message For Beginners \n24:56 Ending Note\n\nDisclaimer:\nThis video is just a Case Study of a guest. The results and success shared by the guest in this video are based on their personal experiences and efforts. These outcomes are subjective and not guaranteed for everyone. The purpose of this interview is purely educational—to share insights and experiences related to faceless YouTube channels.\n\nPlease note that the guest is here solely to provide knowledge. If you choose to engage with them privately or make any payments to them afterward, Team Saad Rashid holds no responsibility for any outcomes, miscommitments, or disputes. We strongly advise you to do your own due diligence before entering into any collaboration or financial transaction.\n\n#youtubeautomation",
-      "commentCount": 238,
-      "likeCount": 883,
       "probeClient": "web_embedded"
     },
     "K-1EgrEVd-o": {
@@ -7155,6 +7120,42 @@
       "description": "Claude Code Tutorial: From Prompt to Production\n\nFollow Henry here: https://www.youtube.com/@TheQuackLearner\n\nGet Ad-Free Training by becoming a member today!\nhttps://www.youtube.com/channel/UCqyBfm_H9ugGirk1ufYA2YA/join\n\nJoin Learn Skills Daily for ad-free training, exams, certificates, and exclusive content:\nhttps://www.learnskillsdaily.com\n\nExercise Files: https://tinyurl.com/5apscdsb\n\nWho it's for:  This class is for beginners, aspiring developers, and professionals who want a practical introduction to using Claude Code for AI-assisted website development. It is ideal for anyone interested in working with local files, managing coding projects, connecting external tools, and taking a website from its initial prompt to a live deployment.\n\nWhat it is: Claude Code is an AI-powered coding assistant from Anthropic that helps developers build, understand, and improve software directly from the command line. It can read and explain codebases, write and edit code, troubleshoot errors, run tests, work with files, and help automate common development tasks through natural-language prompts. Designed for both experienced developers and people learning to code, Claude Code can make software projects faster to navigate and easier to manage while keeping the user in control of the work.\n\nWhat you'll learn: You’ll learn how Claude Code differs from Claude Chat and Cowork, install Git, manage permission modes, plan complex tasks, and monitor the context window. You’ll also use Claude.md files and project rules, combine MCP connectors with reusable skills and subagents, build and customize a complete website, publish it with GitHub Pages, and create cloud-based routines that can run even when your computer is turned off.\n\nTutorial Overview 0:00\nChat vs Cowork vs Code 0:49\nInstall Git for Code 2:29\nPermission Modes Explained 4:43\nPlan Then Auto Build 6:13\nContext Window Commands 8:50\nClaude MD and Project Setup 12:26\nInit and Design Rules 13:37\nMCP Tools and Skills 19:14\nGoogle Drive Research Skill 20:49\nSubagents for Parallel Work 25:10\nWrite the Why Section 29:16\nDeploy with GitHub Pages 30:48\nRoutines in the Cloud 35:46\nWrap Up and Next Steps 39:12\n\n#claude  #claudecode  #claudeai \n\n(C) 2026 Bomberry Productions\nAny illegal reproduction of this content will result in immediate legal action.",
       "commentCount": 5,
       "likeCount": 87,
+      "probeClient": "web_embedded"
+    },
+    "MEw7TrAUEPQ": {
+      "checkedAt": "2026-08-08T08:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "China just pushed the AI race into a new league. ByteDance is reportedly training a massive 10 trillion parameter model, Meta launched a new coding agent to challenge Claude Code, and OpenAI made GPT-5.6 Luna unlimited for free users while its next major model moves closer.\n\nGet the free 7-agent guide here: https://go.aiskool.io/7agents\n\n📩 Brand Deals & Partnerships: collabs@nouralabs.com\n✉️ General Inquiries: airevolutionofficial@gmail.com\n\n📌 What You’ll See:\nByteDance is reportedly training a 10 trillion parameter AI model\nSOURCE: https://www.reuters.com/technology/bytedance-targets-mega-ai-model-nearing-anthropics-mythos-ft-reports-2026-08-07/\nMeta launches Muse Code powered by Muse Spark 1.2\nSOURCE: https://www.reuters.com/technology/meta-launches-new-ai-coding-tool-powered-by-muse-spark-12-2026-08-05/\nOpenAI gives free users unlimited GPT-5.6 Luna text chats\nSOURCE: https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats\n\n🚨 Why It’s Important:\nThe AI race is scaling fast. China is targeting unprecedented model size, Meta is entering the coding-agent battle, and OpenAI is putting increasingly capable AI in front of massive numbers of users. The competition is shifting from individual models toward scale, agents, cost, and accessibility.\n\n#ai #chinaai #chatgpt",
+      "commentCount": 105,
+      "likeCount": 911,
+      "probeClient": "web_embedded"
+    },
+    "z9FXO6_0Nv0": {
+      "checkedAt": "2026-08-08T08:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Artificial Intelligence has been used to design brand new viruses that are fully functional and can replicate in the laboratory, say US researchers.\n \nIt is the first time whole genomes have been successfully designed by AI.\n \nThe resulting 16 novel viruses were created to infect bacteria and pose no threat to people. But experts have also warned AI-designed viruses raise \"urgent\" safety and security concerns.\n \nIn this video...\n\n0:00 - 00:43 - Intro\n00:43 - 01:39 - How were the viruses created\n01:39 - 02:47 - What's the significance\n02:47 - 04:09 - What are the benefits\n04:09 - 05:15 - What are the concerns\n05:15 - 06:38 - Impact of AI on healthcare\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#AI #Science #BBCNews",
+      "commentCount": 1100,
+      "likeCount": 2515,
+      "probeClient": "web_embedded"
+    },
+    "MhWxu_RI_uw": {
+      "checkedAt": "2026-08-08T08:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "As if safety fears over tech companies weren't enough, sci-fi fears about artificial intelligence became a stark reality.\n\n[Subscribe to our Substack newsletter: https://channel4news.substack.com/subscribe]\n\nTests at the UK's world-leading AI Safety Institute found advanced AI models trying to trick real people into doing their bidding. Meanwhile, Open AI, the company behind ChatGPT, has given more details about how their AI managed to break out and get access to the internet by itself - and hacked a major tech company without their knowledge. \n\nWarning: there is strong language in this report - from AI.\n\n-------\n\nGet more news at our site - https://www.channel4.com/news/ \n\nSubscribe to our Substack newsletter: https://channel4news.substack.com/subscribe\n\nFollow us:\nTikTok - https://www.tiktok.com/@c4news\nInstagram - https://www.instagram.com/channel4news/\nTwitter - https://twitter.com/Channel4News\nFacebook - https://www.facebook.com/Channel4News/",
+      "commentCount": 122,
+      "likeCount": 289,
+      "probeClient": "web_embedded"
+    },
+    "iewm45atodE": {
+      "checkedAt": "2026-08-08T08:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Read the essay here:\nhttps://www.dwarkesh.com/p/era-of-continual-learning",
+      "commentCount": 153,
+      "likeCount": 813,
       "probeClient": "web_embedded"
     }
   }

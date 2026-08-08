@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T07:53:37Z",
+  "updatedAt": "2026-08-08T08:53:06Z",
   "items": [
+    {
+      "id": "MEw7TrAUEPQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Revolution",
+      "publishedAt": "2026-08-08T00:53:06Z",
+      "firstSeenAt": "2026-08-08T08:53:06Z"
+    },
+    {
+      "id": "z9FXO6_0Nv0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BBC News",
+      "publishedAt": "2026-08-07T20:53:06Z",
+      "firstSeenAt": "2026-08-08T08:53:06Z"
+    },
+    {
+      "id": "MhWxu_RI_uw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Channel 4 News",
+      "publishedAt": "2026-08-07T18:53:06Z",
+      "firstSeenAt": "2026-08-08T08:53:06Z"
+    },
+    {
+      "id": "iewm45atodE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dwarkesh Patel",
+      "publishedAt": "2026-08-07T17:53:06Z",
+      "firstSeenAt": "2026-08-08T08:53:06Z"
+    },
     {
       "id": "71iM7mXsOUo",
       "type": "long",
@@ -11461,6 +11493,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-08T08:53:06Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
