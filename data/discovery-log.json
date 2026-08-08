@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T06:53:36Z",
+  "updatedAt": "2026-08-08T07:53:37Z",
   "items": [
+    {
+      "id": "71iM7mXsOUo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Learn Skills Daily and Quacklearner",
+      "publishedAt": "2026-08-07T16:53:37Z",
+      "firstSeenAt": "2026-08-08T07:53:37Z"
+    },
     {
       "id": "e-8fZOPBLn0",
       "type": "short",
@@ -11444,6 +11452,15 @@
       "channelsChecked": 33,
       "warnings": 32,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-08T07:53:37Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
