@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T21:53:49Z",
+  "updatedAt": "2026-08-08T22:53:50Z",
   "items": [
+    {
+      "id": "81khUfBg_6Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Code Unpacked",
+      "publishedAt": "2026-08-08T17:53:50Z",
+      "firstSeenAt": "2026-08-08T22:53:50Z"
+    },
+    {
+      "id": "0itignMhqnc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pavithra’s Podcast",
+      "publishedAt": "2026-08-08T16:53:50Z",
+      "firstSeenAt": "2026-08-08T22:53:50Z"
+    },
+    {
+      "id": "Gy9HXerieQM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CS CORNER Sunita Rai",
+      "publishedAt": "2026-08-08T15:53:50Z",
+      "firstSeenAt": "2026-08-08T22:53:50Z"
+    },
+    {
+      "id": "UHw7_5NVAco",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vivek Mishra",
+      "publishedAt": "2026-08-08T14:53:50Z",
+      "firstSeenAt": "2026-08-08T22:53:50Z"
+    },
+    {
+      "id": "-kWuzqUDW0s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Er Suraj Verma",
+      "publishedAt": "2026-08-08T13:53:50Z",
+      "firstSeenAt": "2026-08-08T22:53:50Z"
+    },
+    {
+      "id": "IVEoaywfoZ8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hired In IT",
+      "publishedAt": "2026-08-08T13:53:50Z",
+      "firstSeenAt": "2026-08-08T22:53:50Z"
+    },
+    {
+      "id": "v5JD0Yhps7I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pro Coder",
+      "publishedAt": "2026-08-08T11:53:50Z",
+      "firstSeenAt": "2026-08-08T22:53:50Z"
+    },
     {
       "id": "s5UXfDiDLSk",
       "type": "long",
@@ -11971,6 +12027,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-08T22:53:50Z",
+      "new": 7,
+      "long": 7,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
