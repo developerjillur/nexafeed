@@ -1,7 +1,487 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-08T23:53:09Z",
+  "updatedAt": "2026-08-11T17:53:14Z",
   "items": [
+    {
+      "id": "bzSN73XXiC4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-11T17:00:06Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "CpdoIZzHRWg",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-11T16:55:56Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "iUE6Z1ilQj4",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-11T15:04:50Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "w_JVgQnkU6E",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-11T14:02:27Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "58XBAOauu4o",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-11T13:51:24Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "LVAHYV4Xrto",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-11T13:31:57Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "XYXcwjgPCr4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-11T13:07:03Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "c8sIKMnsQLI",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-11T12:48:24Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "xlaSgpb_9hg",
+      "type": "long",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-11T12:43:08Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "79YJ4pBATtw",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-08-11T12:37:02Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "b65br2idvyU",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-11T11:39:47Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "DWDI75o3_wY",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-08-11T11:38:10Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "bBahMxQcMW8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-11T10:30:20Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "vFyvzJLcCR8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-11T10:22:00Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "LRJnkGyae_Q",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-11T09:41:46Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "-EHayv-9I0A",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-11T07:32:26Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "iTbGNhmAJGk",
+      "type": "short",
+      "source": "primary",
+      "channel": "VDM Social",
+      "publishedAt": "2026-08-11T06:53:30Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "KTBwagD3Jm8",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-11T06:38:38Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "eZn87SFf30U",
+      "type": "short",
+      "source": "primary",
+      "channel": "Professor of AI",
+      "publishedAt": "2026-08-11T05:55:44Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "YVHRAK8DMkk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-11T03:52:04Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "o-h5Z6XS81Q",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-11T00:37:54Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "vE0jPwMnKf0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-10T22:05:46Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "EYsNn6V1q8k",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-10T19:00:35Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "jq9LRwE0-GQ",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-08-10T18:55:44Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "edVVnAwDgSo",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-10T17:58:45Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "LQFAYfxJedE",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-10T16:58:26Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "IVx8OSMbTss",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-10T16:43:31Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "1YTkHnGbn7Y",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-10T15:40:37Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "qNzPa857fBU",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-10T15:40:11Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "Dx5BQtMlPYs",
+      "type": "short",
+      "source": "primary",
+      "channel": "Insider Force",
+      "publishedAt": "2026-08-10T15:03:00Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "xAkKngrQMyM",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-10T13:35:42Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "sB_Y7ViXdMo",
+      "type": "short",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-10T13:30:08Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "7YDEhqAqH0E",
+      "type": "long",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-10T12:00:13Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "olMheGgn9Pg",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-10T11:17:13Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "twn1PI2J0AM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-10T09:11:43Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "BtT3EC7EfT4",
+      "type": "short",
+      "source": "primary",
+      "channel": "VDM Social",
+      "publishedAt": "2026-08-10T05:49:43Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "TZKKRUhlJ38",
+      "type": "short",
+      "source": "primary",
+      "channel": "Professor of AI",
+      "publishedAt": "2026-08-10T05:13:34Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "NOMjZXYSDjM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-08-10T05:08:41Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "qjNNHg7Oxqk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-10T05:08:29Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "5b6ag4z99Ic",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-10T01:00:36Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "mxAIM5EoC1o",
+      "type": "short",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-08-09T22:43:42Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "JowUBVKbCB0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-09T21:47:26Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "GmK8btBliRo",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-09T19:25:54Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "TkGloSFjhVY",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-09T17:39:18Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "N9_ZtZI70yw",
+      "type": "short",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-09T17:04:58Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "KE2F1ueYP-o",
+      "type": "short",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-08-09T14:39:26Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "A-2WKQxhI_8",
+      "type": "long",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-09T14:38:26Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "xVnsVms_U-s",
+      "type": "long",
+      "source": "primary",
+      "channel": "H Gandotra",
+      "publishedAt": "2026-08-09T14:13:51Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "_xcftdmJS9Q",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-09T13:59:00Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "TkB1buugGQM",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-09T12:34:14Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "GeXNJt3v6FU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-08-09T12:30:38Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "PdBmM--N9UQ",
+      "type": "short",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-09T10:07:41Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "JA_RFeavWL4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-09T09:58:05Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "L64__qgq0M4",
+      "type": "long",
+      "source": "primary",
+      "channel": "Creative Pad Media",
+      "publishedAt": "2026-08-09T09:41:59Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "MVd0hzJMM8I",
+      "type": "short",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-08-09T09:04:47Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "G2RYpfubluQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Aidelly and Wilzer Jean-Baptiste 🦾",
+      "publishedAt": "2026-08-11T16:53:14Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "qCbd4UTIvtU",
+      "type": "short",
+      "source": "secondary",
+      "channel": "How to Tutor",
+      "publishedAt": "2026-08-11T12:53:14Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "JrtD1UN3JLg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Amazon Tools League w/ David Zimmermann",
+      "publishedAt": "2026-08-11T09:53:14Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "cZoTKmiHHuU",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Digiant Media",
+      "publishedAt": "2026-08-11T06:53:14Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
+    {
+      "id": "oP4cCGTqTFs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Adnan Kaiser",
+      "publishedAt": "2026-08-11T02:53:14Z",
+      "firstSeenAt": "2026-08-11T17:53:14Z"
+    },
     {
       "id": "6HS6_nsRM2I",
       "type": "short",
@@ -10281,341 +10761,9 @@
       "channel": "Hasan Aboul Hasan",
       "publishedAt": "2026-05-18T12:31:43Z",
       "firstSeenAt": "2026-05-18T12:31:43Z"
-    },
-    {
-      "id": "eLtyyibO8n8",
-      "type": "short",
-      "source": "primary",
-      "channel": "Greg Preece",
-      "publishedAt": "2026-05-11T17:28:43Z",
-      "firstSeenAt": "2026-05-11T17:28:43Z"
     }
   ],
   "runs": [
-    {
-      "runAt": "2026-07-27T06:01:51Z",
-      "new": 291,
-      "long": 133,
-      "shorts": 158,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
-      "runAt": "2026-07-27T06:28:09Z",
-      "new": 9,
-      "long": 1,
-      "shorts": 8,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
-      "runAt": "2026-07-27T06:53:24Z",
-      "new": 0,
-      "long": 0,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 2,
-      "secondaryQuery": "AI agents"
-    },
-    {
-      "runAt": "2026-07-27T07:24:18Z",
-      "new": 7,
-      "long": 7,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
-      "runAt": "2026-07-27T07:46:18Z",
-      "new": 1,
-      "long": 1,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
-      "runAt": "2026-07-27T08:53:42Z",
-      "new": 8,
-      "long": 7,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
-      "runAt": "2026-07-27T09:53:51Z",
-      "new": 7,
-      "long": 7,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
-      "runAt": "2026-07-27T10:53:51Z",
-      "new": 9,
-      "long": 9,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
-      "runAt": "2026-07-27T11:53:25Z",
-      "new": 7,
-      "long": 6,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
-      "runAt": "2026-07-27T12:53:14Z",
-      "new": 7,
-      "long": 5,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
-      "runAt": "2026-07-27T13:53:40Z",
-      "new": 9,
-      "long": 6,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
-      "runAt": "2026-07-27T14:53:48Z",
-      "new": 8,
-      "long": 5,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
-      "runAt": "2026-07-27T15:53:58Z",
-      "new": 7,
-      "long": 3,
-      "shorts": 4,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
-      "runAt": "2026-07-27T16:53:08Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
-    {
-      "runAt": "2026-07-27T17:53:17Z",
-      "new": 9,
-      "long": 8,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
-      "runAt": "2026-07-27T18:53:25Z",
-      "new": 7,
-      "long": 5,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
-      "runAt": "2026-07-27T19:53:33Z",
-      "new": 8,
-      "long": 7,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
-      "runAt": "2026-07-27T20:53:46Z",
-      "new": 5,
-      "long": 4,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
-      "runAt": "2026-07-27T21:53:04Z",
-      "new": 5,
-      "long": 3,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
-      "runAt": "2026-07-27T22:53:05Z",
-      "new": 6,
-      "long": 6,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
-      "runAt": "2026-07-27T23:53:05Z",
-      "new": 5,
-      "long": 3,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
-      "runAt": "2026-07-28T00:53:07Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
-      "runAt": "2026-07-28T01:53:07Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
-      "runAt": "2026-07-28T02:53:09Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
-      "runAt": "2026-07-28T03:53:09Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 14,
-      "secondaryQuery": "AI automation"
-    },
-    {
-      "runAt": "2026-07-28T04:53:10Z",
-      "new": 3,
-      "long": 2,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 15,
-      "secondaryQuery": "AI agents"
-    },
-    {
-      "runAt": "2026-07-28T05:53:11Z",
-      "new": 2,
-      "long": 2,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 30,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
-      "runAt": "2026-07-28T06:53:12Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 33,
-      "secondaryQuery": "no-code automation"
-    },
-    {
-      "runAt": "2026-07-28T07:53:06Z",
-      "new": 1,
-      "long": 1,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
-      "runAt": "2026-07-28T09:53:13Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
-      "runAt": "2026-07-28T11:53:15Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
-      "runAt": "2026-07-28T12:53:08Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
-      "runAt": "2026-07-28T13:53:14Z",
-      "new": 10,
-      "long": 6,
-      "shorts": 4,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
-      "runAt": "2026-07-28T14:53:19Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
-    {
-      "runAt": "2026-07-28T15:53:27Z",
-      "new": 6,
-      "long": 3,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
-      "runAt": "2026-07-28T16:53:36Z",
-      "new": 9,
-      "long": 4,
-      "shorts": 5,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
     {
       "runAt": "2026-07-28T17:53:43Z",
       "new": 8,
@@ -12106,6 +12254,15 @@
       "new": 8,
       "long": 6,
       "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-11T17:53:14Z",
+      "new": 60,
+      "long": 11,
+      "shorts": 49,
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
