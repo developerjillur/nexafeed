@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T20:53:39Z",
+  "updatedAt": "2026-08-12T21:53:49Z",
   "items": [
+    {
+      "id": "EfVhmf9N1BQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Circuit Stream",
+      "publishedAt": "2026-08-12T21:50:49Z",
+      "firstSeenAt": "2026-08-12T21:53:49Z"
+    },
+    {
+      "id": "6deDU-JeRuI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Modern Software Engineering and Sam Newman",
+      "publishedAt": "2026-08-12T18:53:49Z",
+      "firstSeenAt": "2026-08-12T21:53:49Z"
+    },
+    {
+      "id": "cce7Q0sF2LQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WsCube AI & Tech School",
+      "publishedAt": "2026-08-12T17:53:49Z",
+      "firstSeenAt": "2026-08-12T21:53:49Z"
+    },
+    {
+      "id": "HC8T1OlgYi0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Pragmatic Engineer",
+      "publishedAt": "2026-08-12T16:53:49Z",
+      "firstSeenAt": "2026-08-12T21:53:49Z"
+    },
+    {
+      "id": "hFTod7QlP4E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ArthaMatrix",
+      "publishedAt": "2026-08-12T13:53:49Z",
+      "firstSeenAt": "2026-08-12T21:53:49Z"
+    },
+    {
+      "id": "IPnkGJHuh8c",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Saumya Singh",
+      "publishedAt": "2026-08-12T13:53:49Z",
+      "firstSeenAt": "2026-08-12T21:53:49Z"
+    },
+    {
+      "id": "DiyyU9l23Bc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Beyond Coding and JavaScript Conferences by GitNation",
+      "publishedAt": "2026-08-12T12:53:49Z",
+      "firstSeenAt": "2026-08-12T21:53:49Z"
+    },
+    {
+      "id": "7H--tn8RLSc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Awesome",
+      "publishedAt": "2026-08-12T10:53:49Z",
+      "firstSeenAt": "2026-08-12T21:53:49Z"
+    },
     {
       "id": "dPScBnXaNdc",
       "type": "short",
@@ -13032,6 +13096,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-12T21:53:49Z",
+      "new": 8,
+      "long": 8,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
