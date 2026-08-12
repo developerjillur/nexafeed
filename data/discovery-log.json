@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-11T17:53:14Z",
+  "updatedAt": "2026-08-12T04:10:14Z",
   "items": [
+    {
+      "id": "d4wTMkC5Snc",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-08-12T04:07:28Z",
+      "firstSeenAt": "2026-08-12T04:10:14Z"
+    },
+    {
+      "id": "PQBYZQqan2g",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-12T01:48:13Z",
+      "firstSeenAt": "2026-08-12T04:10:14Z"
+    },
+    {
+      "id": "-Dxkost8GHU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-11T21:04:02Z",
+      "firstSeenAt": "2026-08-12T04:10:14Z"
+    },
+    {
+      "id": "U6k4MeVks_Y",
+      "type": "long",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-11T20:19:56Z",
+      "firstSeenAt": "2026-08-12T04:10:14Z"
+    },
+    {
+      "id": "6dRdPVSSYx0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-11T19:22:58Z",
+      "firstSeenAt": "2026-08-12T04:10:14Z"
+    },
     {
       "id": "bzSN73XXiC4",
       "type": "short",
@@ -10765,105 +10805,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-28T17:53:43Z",
-      "new": 8,
-      "long": 7,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
-      "runAt": "2026-07-28T18:53:48Z",
-      "new": 7,
-      "long": 5,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
-      "runAt": "2026-07-28T19:53:57Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
-      "runAt": "2026-07-28T20:53:05Z",
-      "new": 6,
-      "long": 6,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
-      "runAt": "2026-07-28T21:53:14Z",
-      "new": 1,
-      "long": 1,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
-      "runAt": "2026-07-28T22:53:23Z",
-      "new": 4,
-      "long": 4,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
-      "runAt": "2026-07-28T23:53:33Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
-      "runAt": "2026-07-29T00:53:41Z",
-      "new": 3,
-      "long": 2,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
-      "runAt": "2026-07-29T01:53:46Z",
-      "new": 6,
-      "long": 5,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
-    {
-      "runAt": "2026-07-29T02:53:04Z",
-      "new": 3,
-      "long": 2,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
-      "runAt": "2026-07-29T03:53:04Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 5,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
       "runAt": "2026-07-29T04:53:05Z",
       "new": 3,
       "long": 1,
@@ -12263,6 +12204,15 @@
       "new": 60,
       "long": 11,
       "shorts": 49,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-12T04:10:14Z",
+      "new": 5,
+      "long": 2,
+      "shorts": 3,
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
