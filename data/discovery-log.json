@@ -1,7 +1,95 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T12:53:39Z",
+  "updatedAt": "2026-08-12T13:53:46Z",
   "items": [
+    {
+      "id": "WU4pZ2itW1c",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-12T13:28:24Z",
+      "firstSeenAt": "2026-08-12T13:53:46Z"
+    },
+    {
+      "id": "uDd4cWJTt4M",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-08-12T13:26:25Z",
+      "firstSeenAt": "2026-08-12T13:53:46Z"
+    },
+    {
+      "id": "f-M7NLdU0-o",
+      "type": "short",
+      "source": "primary",
+      "channel": "VDM Social",
+      "publishedAt": "2026-08-12T13:12:04Z",
+      "firstSeenAt": "2026-08-12T13:53:46Z"
+    },
+    {
+      "id": "WRe7zdPVxvY",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-12T13:00:18Z",
+      "firstSeenAt": "2026-08-12T13:53:46Z"
+    },
+    {
+      "id": "BYEeWlHoExE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Get to the Next Level",
+      "publishedAt": "2026-08-12T13:00:11Z",
+      "firstSeenAt": "2026-08-12T13:53:46Z"
+    },
+    {
+      "id": "-ysPX-PH2Eo",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-12T12:50:50Z",
+      "firstSeenAt": "2026-08-12T13:53:46Z"
+    },
+    {
+      "id": "ylTOzWZIAuI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Technical Suneja",
+      "publishedAt": "2026-08-12T13:29:46Z",
+      "firstSeenAt": "2026-08-12T13:53:46Z"
+    },
+    {
+      "id": "8xafYDggVOs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Be a Programmer",
+      "publishedAt": "2026-08-12T08:53:46Z",
+      "firstSeenAt": "2026-08-12T13:53:46Z"
+    },
+    {
+      "id": "cfx3Hayfo5Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AW-TECHNOLOGIES",
+      "publishedAt": "2026-08-11T21:53:46Z",
+      "firstSeenAt": "2026-08-12T13:53:46Z"
+    },
+    {
+      "id": "5ZQpyLfBm4Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Furqan",
+      "publishedAt": "2026-08-11T20:53:46Z",
+      "firstSeenAt": "2026-08-12T13:53:46Z"
+    },
+    {
+      "id": "a9jZu6S5mUg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-08-11T14:53:46Z",
+      "firstSeenAt": "2026-08-12T13:53:46Z"
+    },
     {
       "id": "mv4kOb8VaYM",
       "type": "short",
@@ -11205,15 +11293,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-29T13:53:12Z",
-      "new": 8,
-      "long": 5,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
       "runAt": "2026-07-29T14:53:13Z",
       "new": 10,
       "long": 7,
@@ -12616,6 +12695,15 @@
       "channelsChecked": 33,
       "warnings": 1,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-12T13:53:46Z",
+      "new": 11,
+      "long": 6,
+      "shorts": 5,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T12:53:39Z",
+  "updatedAt": "2026-08-12T13:53:46Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -1237,15 +1237,6 @@
       "likeCount": 910,
       "probeClient": "web_embedded"
     },
-    "WBNjt5L6tQg": {
-      "checkedAt": "2026-08-07T00:53:16Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Jack Dorsey's Buzz is Block's open-source Slack for humans AND AI agents, and I set it all up with Claude Code. I'm a senior software engineer (ex-Amazon, ex-Microsoft) and I'll show you every feature that matters.\n\nKey takeaways:\n\n- Swap the agent harness between Claude Code, Codex and Goose\n- Huddle voice calls, per-agent memory, and multiple agents in one channel\n- Pair the mobile app, use your local skills, and answer the big one: local machine vs VPS\n\n🔗 Buzz repo: https://github.com/block/buzz\n🔗 Jack's post: https://x.com/jack/status/2079605800998146171\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n🔗 Sponsor, DataImpulse opt-in residential proxies at $1/GB: https://dataimpulse.com/?utm_source=youtube&utm_medium=video&utm_campaign=EricWTech\n\nTimestamps:\n0:00 Intro\n0:31 Install Buzz\n1:53 Agent Harness\n4:11 Chat With Agents\n5:00 Huddle Call\n6:22 Multiple Agents\n7:24 Agent Memory\n8:21 Mobile & Skills\n10:10 Sponsor\n11:43 Git Projects\n15:38 Local vs VPS\n16:44 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
-      "commentCount": 15,
-      "likeCount": 137,
-      "probeClient": "web_embedded"
-    },
     "pcqQ3CtkzZw": {
       "checkedAt": "2026-08-11T17:53:14Z",
       "embedAllowed": true,
@@ -1433,99 +1424,6 @@
       "likeCount": 56,
       "probeClient": "web_embedded"
     },
-    "gvOVL_MXaB0": {
-      "checkedAt": "2026-08-11T17:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 53,
-      "likeCount": 4040,
-      "comments": [
-        {
-          "id": "Ugzx1Mv2sWrOtPZALLZ4AaABAg",
-          "author": "@TheUtkarshhh",
-          "text": "https://www.anthropic.com/research/global-workspace",
-          "likeCount": 10,
-          "publishedAt": "2026-08-01T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/f25cg7-Gpt4o-HrFJk-kmpvwISgAjIux0s1VIUDNBpqLUZF6gMPvWH4wi79kqeSZk864gqTK=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "UgwCvYDf9dEZ-o3NTr94AaABAg",
-          "author": "@Pratiksingh77",
-          "text": "oo",
-          "likeCount": 0,
-          "publishedAt": "2026-08-01T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nd9CUTH_vUS6yLFfCh_EH5NHiIQaskwp1Eiz_BGHeJdhT6LRhIGrQvmGbeGa18USPkig=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwRsYydgviMnAbqTCV4AaABAg",
-          "author": "@Northest_EduGuide_Consultancy",
-          "text": "Ultron ab hum logon ka vibranium nikalega. 😂",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/bD1Et_QoshC6pTDpQKqdxVFMXQoeKqcBFHt3VRqmMSQZX_VPHsPWMRRZlBJQls2EjxVjWoXfuQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwH18VnGt9QnQDwvCJ4AaABAg",
-          "author": "@AnantSharma-m2m",
-          "text": "Backchodi krta mera bhaiiiiii😂😂😂😂",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lqULl_zl4kd2Kqu-NGfQAeRgktPwzB-Z0A1Snc5T96-MRs7PMnyyGHCmsAyOOuHNpt5Q=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxNiAt4Zv0WxkyF3eR4AaABAg",
-          "author": "@YashBhadouria-j6y",
-          "text": "Just a food for thought. Remember that, AI is always trained on data. And most of its actions can always be traced backed to the data ( input ). \n\nNow, think whether it's possible or not, that somehow somewhere in the dataset, their are instances of threat perception and mitigation (blackmailing, emotional appeal, manipulation etc). \nThough this doesn't provide an accurate explanation behind the AI's behaviour, it pinpoints one of the axis, at least.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/aLXWF5Wn3FlMill9mY9K84-bCV7WcfZZw_fKiyxfdJkBAj3-lY2C7MNMLPcY0INpYcW6fV8XLw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxmP_vfHNHM1o5CMtB4AaABAg",
-          "author": "@KaranBardwal",
-          "text": "Nice",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksQQl2B9h3YStUGVnbkEBwQ17nquLWhFzYP0HbtW3Fg4xF0T91e_MyLGpXuaKOx1LlOQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy36izWTvxYhriJteR4AaABAg",
-          "author": "@JonathanJames-u9p",
-          "text": "processing chaotic zoom videos into structured study guides becomes effortless when you let ryne lecture lab manage the data",
-          "likeCount": 2,
-          "publishedAt": "2026-08-02T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/8bMFi229phZzDO-PI8RBfst40X2IGM5RvGNW8pJq0iSJCyG8-sL15chqtoql_muKo6FSerqn=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzYe_a1YaV0_zjRt-B4AaABAg",
-          "author": "@stylegemsonline",
-          "text": "To how do you make such videos",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/jd0FxzpyCUjTCsxHeUF2slM5jKk79uCj0DU_HuB99w8_Ric0xnSAcWWBtaqCVpINqECv6Z57VA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-02T13:53:35Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "NVPWYTZZpnI": {
       "checkedAt": "2026-08-07T15:53:15Z",
       "embedAllowed": true,
@@ -1662,15 +1560,6 @@
       "description": "Uber just shipped an AI agent that builds your whole grocery cart from a photo of a handwritten list — and the interesting part for builders is how little the LLM actually does.\n\nTheir real architecture is a multi-prompt state graph, and most of the boxes are plain deterministic code. The LLM only handles the fuzzy stuff: reading what you meant, judging which product fits. Everything that has to be correct — prices, arithmetic, availability, the cart total — is code the model never touches.\n\n→ The planner LLM doesn't \"go shopping\" — it emits a structured CartPlan (item, search_terms, item_context, price constraints), then hands it to code\n→ \"12 eggs\" resolves to one carton of twelve via a deterministic quantity step, not free LLM arithmetic\n→ A deterministic guardrail can veto a bad output and fall back before it ever reaches your cart\n→ The lesson: when an agent is unreliable, the fix usually isn't a bigger model — it's taking responsibility away from the model and moving anything exact into code\n\nThe rule to steal: LLM handles meaning, code handles truth.\n\nComment \"CART\" and I'll send you the full breakdown.\nWhat's the one thing you'd never let an AI decide?\n\n#AI #AIagents #LLM #systemdesign #softwareengineering #promptengineering #buildinpublic #Uber #machinelearning #agents\n\nLinks:\n• The LLM/code boundary playbook: https://github.com/sunchitanand/ai-builder-resources/blob/main/cart.md\n\n#Shorts",
       "commentCount": 6,
       "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
-    "fJcFP6J6X5k": {
-      "checkedAt": "2026-08-07T23:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Meta's Muse Spark 1.1 is not automatically the best model for everything. The useful vibe-coder question is different: can it lower the cost of boring AI app chores like research, browser steps, docs, PDFs, screenshots, and tool calls? Meta Model API is OpenAI-compatible, starts with $20 in credits, and launches at $1.25 per 1M input tokens and $4.25 per 1M output tokens.\n\n• Use your best model as the project manager\n• Test Spark on the repetitive middle work\n• Good candidates: research, browser chores, file reading, screenshots, and tool calls\n• Do not move the whole app; the benchmark table is mixed\n• Compare cost per finished result, not cost per token\n\nComment SPARK and I'll send you the quick-start links.\n\nWould you let Meta be the cheap helper inside your AI app?\n\n#AI #MetaAI #MuseSpark #AIApps #VibeCoding #LLM #ModelAPI #BuildInPublic #Shorts",
-      "commentCount": 2,
-      "likeCount": 16,
       "probeClient": "web_embedded"
     },
     "lBGVsMEJkc8": {
@@ -7157,15 +7046,6 @@
       "likeCount": 3073,
       "probeClient": "web_embedded"
     },
-    "_xcftdmJS9Q": {
-      "checkedAt": "2026-08-11T17:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What if you could create those insane website animations you normally see on premium websites—without building everything from scratch?\n\nWith AI coding tools like Claude Code and Cursor, GitHub is becoming much more accessible to creators who aren't traditional developers.\n\nIn this video, we're looking at three open-source repositories that can dramatically upgrade your web design:\n\n Shader Gradient — Create animated gradients with control over colors, shapes, movement, and visual effects.\n\n Liquid Logo — Add premium-looking liquid and metallic chrome effects to logos and objects.\n\nLiquid Glass JS — Recreate modern glass-style interfaces inspired by Apple's Liquid Glass design language with customizable controls.\n\nThese libraries can be used for interactive landing pages, product websites, immersive backgrounds, scroll animations, hero sections, and creative web experiences.\n\nThe bigger shift is that AI coding tools are making these kinds of experiences accessible to far more people. You don't necessarily need to build every animation from zero—you can find the right building blocks, understand what they do, and use AI to help customize them.\n\n Want the GitHub links? \nlinks: http://github.com/ruucm/shadergradient \n\nhttp://github.com/paper-design/liquid-logo \n\nhttp://github.com/dashersw/liquid-glass-js\n\n Why Subscribe to BPro?\n\nAt BPro, we find the AI tools, coding workflows, GitHub projects, and technology breakthroughs that can actually make you better at building.\n\nSubscribe for:\n\n Latest AI tools and breakthroughs\n AI coding with Claude Code, Cursor & other tools\n Useful GitHub repositories\n AI design and creative technology\n Productivity and automation workflows\n Developer tools and startup technology\n Practical AI tips you can actually use\n\nDon't just watch AI evolve learn how to build with it.\n\n Subscribe to BPro for more AI tools, coding hacks, and technology insights.\n\n#AI #WebDesign #GitHub #ClaudeCode #Cursor\n\nAI coding, AI web development, AI website design, website animations, web animation, GitHub repositories, GitHub projects, best GitHub repos, GitHub AI tools, free GitHub projects, open source web design, web development, website design, frontend development, frontend animation, CSS animation, JavaScript animation, interactive website, creative coding, creative web design, modern website design, animated website, Shader Gradient, Liquid Logo, Liquid Glass JS, Apple Liquid Glass, Claude Code, Cursor AI, AI coding tools, AI developer tools, coding with AI, how to build a website, how to create website animations, how to make animated websites, how to use GitHub, what is GitHub, best AI tools, AI tools 2026, latest AI tools, AI tutorials, web development tutorial, frontend tutorial, JavaScript tutorial, CSS tutorial, artificial intelligence, AI news, technology news",
-      "commentCount": 4,
-      "likeCount": 111,
-      "probeClient": "web_embedded"
-    },
     "TkB1buugGQM": {
       "checkedAt": "2026-08-11T17:53:14Z",
       "embedAllowed": true,
@@ -7227,15 +7107,6 @@
       "description": "Get a full platform demo of Aidelly and see how the entire AI social media workspace works from start to finish.\n\nIn this Aidelly tutorial, I’ll walk through the full platform and show how Aidelly helps you create content, manage your brand, schedule posts, automate workflows, track analytics, manage comments and DMs, send client reports, and run your social media from one place.\n\nYou’ll see how Aidelly brings together content creation, scheduling, automation, analytics, inbox management, client reporting, and agency workspace tools into one AI-powered platform.\n\nStart using Aidelly here:\nhttps://aidelly.ai\n\nIn this video, you’ll learn:\n\nHow to use the Aidelly dashboard\nHow to create social media content with AI\nHow to use the Idea Board\nHow to create branded AI images\nHow to use your brand voice, brand memory, and brand documents\nHow to manage your content calendar\nHow to bulk fill your calendar\nHow to use posting queues\nHow to automate content on a schedule\nHow to use Auto Post from RSS feeds, podcasts, ecommerce stores, and YouTube\nHow to manage comments and DMs in the Inbox\nHow to set up Inbox Automation with keywords\nHow to use approvals before posts are scheduled\nHow to manage workspace settings and team access\nHow to track analytics and per post stats\nHow to send client reports or share report links\nHow to track competitors with Competitor Spy\nHow to track creators and repurpose content with Creator Clone\n\nThis is especially useful for marketing agencies, social media agencies, content teams, creators, coaches, consultants, ecommerce brands, and businesses that want one platform to create, schedule, publish, automate, and manage social media content.\n\nAidelly helps you manage your entire social media workflow from one simple platform. From content ideas and branded visuals to scheduling, approvals, automation, analytics, reporting, and inbox management, Aidelly gives you the tools to run social media faster and more consistently.\n\nAidelly tutorial, Aidelly demo, Aidelly full platform demo, AI social media platform, AI social media scheduler, social media automation, content creation tool, social media calendar, content calendar, social media analytics, client reports, inbox automation, auto post, posting queues, content automation, creator clone, competitor spy, marketing agency tools, social media agency software, Aidelly for agencies",
       "commentCount": 1,
       "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "qCbd4UTIvtU": {
-      "checkedAt": "2026-08-11T17:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn how to create AI Sales Agents for Lead Generation in this step-by-step tutorial. In this video, you'll discover how to create an AI sales bot, build an AI salesperson for your business, and use AI for sales and automated lead generation. You'll also learn how to generate leads using AI, create an AI lead generation agent, and explore how AI agent lead generation can help with sales lead generation. Whether you're looking for the best AI sales tools for lead generation, want to automate lead generation, or are learning how to start an AI lead generation agency in 2026, this tutorial will help you get started.\n\nTimestamps:\n0:00 Introduction\n0:20 Creating AI Sales Agents for Lead Generation\n1:15 Outro\n\n#AISalesAgentsForLeadGeneration #AIAgentLeadGeneration #AutomatedLeadGeneration",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "d4wTMkC5Snc": {
@@ -7504,15 +7375,6 @@
       "description": "🚀 **WP Sync Review 2026 – Automate Your WordPress Business & Build Your Email List on Autopilot**\n\nAre you tired of manually moving leads, customers, and sales between different apps? In this video, we take a closer look at **WP Sync**, a WordPress automation solution designed to connect your favorite marketing, sales, email, CRM, webinar, payment, and communication tools from one place.\n\n👉 **Check out WP Sync here:** \nhttps://jvz8.com/c/3227703/446427\n\nWP Sync connects **150+ apps** and lets you create automated workflows without relying on complicated integrations or paying recurring task-based automation fees.\n\n### 🔥 What Is WP Sync?\n\nWP Sync is a **WordPress automation plugin** that helps marketers, affiliate marketers, online business owners, agencies, and product sellers automatically move leads, customers, and other data between connected platforms.\n\nInstead of manually exporting CSV files, importing leads, updating spreadsheets, or transferring customers between platforms, you can create automated \"bridges\" that handle the process for you.\n\n### ⚡ WP Sync Key Features\n\n✅ Connect **150+ apps and platforms**\n✅ Unlimited automations\n✅ No task-based limits\n✅ One-time payment option\n✅ Automatically sync leads and customers\n✅ Build your email list automatically\n✅ Connect Facebook Lead Ads with email autoresponders\n✅ Automate affiliate buyer follow-ups\n✅ Connect WarriorPlus, JVZoo and ClickBank\n✅ Integrate AWeber, GetResponse, ActiveCampaign, Mailchimp and more\n✅ Connect ManyChat, Google Sheets, Slack and CRMs\n✅ Integrate WooCommerce, Shopify, Stripe and ThriveCart\n✅ Connect webinar and form platforms\n✅ Schedule delays and automated follow-ups\n✅ Run automation directly from your WordPress site\n✅ Reduce repetitive manual data entry\n\n### 💰 Why Marketers Are Looking At WP Sync\n\nOne of the biggest advantages of WP Sync is the ability to connect multiple destinations within an automation.\n\nFor example, a new Facebook Lead Ads lead can be routed to your email marketing platform, Google Sheets, ManyChat and Slack automatically.\n\nThis can help you respond to leads faster, keep your lists organized, and create automated follow-up sequences.\n\nFor affiliate marketers, WP Sync can also help automate workflows around platforms such as **JVZoo, WarriorPlus and ClickBank**, making it easier to capture and organize buyer information for future marketing campaigns.\n\n### 🔄 WP Sync vs Zapier\n\nIf you're searching for a **Zapier alternative for WordPress**, WP Sync is worth checking out.\n\nTraditional automation platforms can charge based on tasks or usage. WP Sync's sales page emphasizes **unlimited automations, no task meter and a one-payment model**, which can make it attractive to marketers who don't want another recurring automation subscription.\n\n### 👥 Who Is WP Sync For?\n\nWP Sync may be useful for:\n\n• Affiliate marketers\n• Digital product sellers\n• WordPress website owners\n• Email marketers\n• Lead generation businesses\n• Online course creators\n• E-commerce businesses\n• Agencies\n• Coaches and consultants\n• Entrepreneurs and small businesses\n\nIf you regularly move leads, customers, purchases or contacts between multiple platforms, automation can save significant time and reduce repetitive work.\n\n### 🎯 WP Sync SEO Keywords\n\n**WP Sync review 2026, WP Sync review, WP Sync WordPress plugin, WP Sync WordPress automation, WP Sync tutorial, WP Sync demo, WP Sync features, WP Sync pricing, WP Sync alternative, Zapier alternative, Zapier alternative for WordPress, WordPress automation plugin, WordPress automation tools, WordPress lead automation, email marketing automation, lead generation automation, affiliate marketing automation, automated email list building, Facebook Lead Ads automation, JVZoo automation, WarriorPlus automation, ClickBank automation, AWeber automation, GetResponse automation, ActiveCampaign automation, ManyChat automation, WooCommerce automation, Stripe automation, marketing automation software, WordPress integrations, business automation tools.**\n\n📌 **Learn more about WP Sync:**\nhttps://jvz4.com/c/3227703/446437\n\n👍 If you found this WP Sync review helpful, don't forget to **LIKE**, **SUBSCRIBE**, and turn on notifications for more reviews, tutorials, marketing tools, WordPress plugins, AI tools, and online business software.\n\n#WPSync #WPSyncReview #WordPressAutomation #ZapierAlternative #MarketingAutomation #AffiliateMarketing #EmailMarketing #WordPressPlugin #LeadGeneration #Automation #unitedstates #unitedkingdom #unitedarabemirates",
       "commentCount": 1,
       "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "IQ7vOVCUhjA": {
-      "checkedAt": "2026-08-12T05:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Amazon Affiliate & Digital Marketing Master Course\n\nA complete, practical system for building and growing an Amazon affiliate website — from setup to traffic and email marketing.\n\nRessource link : \nhttps://drive.google.com/file/d/1tkqTWNVrylWpi8RzbTVbx3btU14En9Q3/view?usp=sharing\nhttps://www.cloudways.com\nhttps://www.make.com\n\n\nInside the Master Course:\n\nWebsite Creation — Build and structure your WordPress website.\nSEO with Rank Math — Optimize pages, posts, keywords, metadata, and technical SEO for Google.\nGoogle Setup — Connect Google Analytics, submit your sitemap, and monitor website performance.\nAmazon Affiliate Marketing — Find products, create affiliate content, and build a profitable content system.\nPinterest Automation — Create a Make.com workflow to automate Pinterest pin publishing.\nEmail Marketing — Build your email list and create simple marketing workflows.\nDigital Marketing — Connect all the pieces into one practical marketing system.\n\n2 Hours • Step-by-Step • Practical • Manual Workflows + Pinterest Automation",
-      "commentCount": 12,
-      "likeCount": 171,
       "probeClient": "web_embedded"
     },
     "Z_fy0N5lYi8": {
@@ -7800,28 +7662,12 @@
       "likeCount": 213,
       "probeClient": "web_embedded"
     },
-    "CRVaa8HTz-A": {
-      "checkedAt": "2026-08-12T07:53:44Z",
-      "embedAllowed": true,
-      "description": "Get the Agent OS & Hermes Agent Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nHermes AgentOS: Build Your Own AI Team in One Dashboard\n\nStop managing AI chaos and start using a unified operating system for your business agents. Hermes AgentOS brings your chat, voice assistants, and job boards into one dashboard with shared memory and a 'Goal Mode' for autonomous work.\n\n00:00 - Intro to Hermes AgentOS\n01:08 - Fixing the AI Chaos Problem\n01:58 - The Power of Shared Memory\n02:22 - Goal Mode: Autonomous Tasks\n03:26 - Switching AI Models Easily\n04:19 - Safety Guardrails & Local Models\n05:37 - Old Way vs. New AI Workflow\n06:41 - How to Get the System",
-      "commentCount": 12,
-      "likeCount": 82,
-      "probeClient": "web_embedded"
-    },
     "gYXlBYOocHU": {
       "checkedAt": "2026-08-12T07:53:44Z",
       "embedAllowed": true,
       "description": "Want to build an AI agent but not sure which tool to use? \n\nThis is 2-minute AI with Google: quick knowledge, deep expertise. \n\nIn this episode, we break down your options on Google Cloud—from completely no-code solutions to advanced pro-code development. Whether you're a business user, a data scientist, or a seasoned engineer, Google Cloud offers a flexible spectrum of tools to help you quickly turn your ideas into active AI applications.\n\n🎓 There's much more to learn about agents, AI, and ML → https://goo.gle/48EAlWQ\n🔔 Subscribe and get a ping the moment a new episode drops.\n🚀 Get started with Gemini Enterprise: https://cloud.google.com/gemini-enterprise\n\nWhat kind of AI agent are you planning to build? Tell us in the comments section below! \n\nIf you found this video helpful, please give it a thumbs up, subscribe to the channel, and hit the notification bell for more quick AI tips from Google Cloud.\n\n#GoogleCloud #AIAgents #Gemini #GeminiEnterprise #NoCode #LowCode #ProCode #ArtificialIntelligence #GenerativeAI",
       "commentCount": 2,
       "likeCount": 47,
-      "probeClient": "web_embedded"
-    },
-    "Qx0fCqpkBus": {
-      "checkedAt": "2026-08-12T07:53:44Z",
-      "embedAllowed": true,
-      "description": "Learn more about Context Engineering here → https://ibm.biz/~P5lLLBd7u\n\nMore data doesn’t always mean better AI. Anna Gutowska explains how context engineering improves LLM and AI agent performance beyond prompt engineering. Learn how structuring context reduces hallucinations and enables smarter, more reliable AI systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/~hrgTJ2Q3i\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#contextengineering #promptengineering #aiagents #llm",
-      "commentCount": 28,
-      "likeCount": 554,
       "probeClient": "web_embedded"
     },
     "bxgW0fwJL6c": {
@@ -8006,12 +7852,149 @@
       "likeCount": 94,
       "probeClient": "web_embedded"
     },
-    "K7Kpba0VN2A": {
-      "checkedAt": "2026-08-12T11:53:31Z",
+    "WU4pZ2itW1c": {
+      "checkedAt": "2026-08-12T13:53:46Z",
       "embedAllowed": true,
-      "description": "Meta CEO Mark Zuckerberg details his vision for the future of artificial intelligence and argues American leadership in AI is crucial for global security. Dan Schneider joins 'Fox & Friends First' to analyze the geopolitics of tech. #fox #foxnews #media #breakingnews #us #usa #new #news #breaking #zuckerberg #markzuckerberg #ai #artificialintelligence #technology #tech #metai #meta #airace #innovation #bigtech #siliconvalley #futureofai\n\nDon’t just watch Fox News—be part of it. Become a Fox News Patriot today. https://youtube.com/foxnews/join\n\nSubscribe to Fox News! https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\n\nDownload the Fox News app: https://foxnews.onelink.me/xLDS/cd5yhg3o\n\nFOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.\n\nWatch full episodes of your favorite shows\nThe Five: https://www.foxnews.com/video/shows/the-five\nSpecial Report with Bret Baier: https://www.foxnews.com/video/shows/special-report\nJesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime\nHannity: https://www.foxnews.com/video/shows/hannity\nThe Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle\nGutfeld!: https://www.foxnews.com/video/shows/gutfeld\nFox News @ Night: https://www.foxnews.com/video/shows/fox-news-night\n\nFollow Fox News on Facebook: https://www.facebook.com/FoxNews/\nFollow Fox News on Twitter: https://twitter.com/FoxNews/\nFollow Fox News on Instagram: https://www.instagram.com/foxnews/",
-      "commentCount": 616,
-      "likeCount": 1328,
+      "availability": "public",
+      "description": "China’s AI race is getting harder to ignore.\n\nAlibaba’s Qwen team has released Qwen 3.8 Max, a powerful multimodal AI model designed to understand text, images, and video — and it’s already showing competitive results against leading models like GPT and Claude on some benchmarks.\n\nBut the biggest headline might be its 1-million-token context window.\n\nThat means the model can potentially process massive amounts of information in a single context — from large codebases to hundreds of pages of documents.\n\nAnd the pricing makes it even more interesting, starting at around $2 per million input tokens according to the script.\n\nThe open-weight release is also expected soon, potentially giving developers much more flexibility to experiment with the model.\n\nThe bigger story isn't just another AI model launch.\n\nChina’s AI ecosystem is rapidly producing models that are becoming increasingly competitive on performance, cost, and accessibility.\n\nWant the Qwen 3.8 Max link?\n\nQwen 3.8 link : https://chat.qwen.ai/  \n\nAt bpro, we break down the latest AI models, tools, startups, agents, coding systems, and technology shifts, so you understand what's actually changing behind the AI hype.\n\nSubscribe for practical AI updates, AI tools, AI news, technology breakthroughs, and the future of AI.\n\n#AI #Qwen #ArtificialIntelligence #AINEWS #ChinaAI\n\nTags\n\nQwen 3.8 Max, Qwen AI, Alibaba Qwen, Qwen latest model, China AI, Chinese AI, Chinese AI model, best AI model, best AI models 2026, GPT vs Qwen, ChatGPT vs Qwen, Claude vs Qwen, AI news, AI updates, latest AI news, latest AI models, new AI model, artificial intelligence, AI explained, what is Qwen, how to use Qwen, how to use Qwen AI, Qwen tutorial, AI tools, free AI tools, open source AI, open weight AI, multimodal AI, AI coding, AI coding tools, 1 million token context, long context AI, AI model comparison, GPT alternative, ChatGPT alternative, Claude alternative, Alibaba AI, AI technology, future of AI, AI trends, AI breakthrough, AI tutorial, AI for developers, AI for coding, AI news 2026",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-12T13:53:46Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "uDd4cWJTt4M": {
+      "checkedAt": "2026-08-12T13:53:46Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 16,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-12T13:53:46Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "f-M7NLdU0-o": {
+      "checkedAt": "2026-08-12T13:53:46Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-12T13:53:46Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "WRe7zdPVxvY": {
+      "checkedAt": "2026-08-12T13:53:46Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Most small business product photos look cheap, and it costs you sales. In this Lovart AI walkthrough I turn one phone photo into a full product shoot: multiple angles, lifestyle scenes, on-brand visuals, and video. No designer, no studio.\n\nLovart is an AI design agent for small businesses, from $19/month.\n\n👉 Try Lovart AI: https://www.lovart.ai/?sourceId=901888\n\nWhat you'll learn:\n\n- One phone photo into pro shots from multiple angles\n- Products dropped into lifestyle scenes for richer listings\n- A Brand Kit every new asset inherits automatically\n- Text edited on a finished image with Touch Edit\n- Static images turned into video for ads\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n⏳ Timestamps:\n0:00 Intro\n1:28 First Product Shot\n2:27 Multi-Angle Shots\n3:35 Brand Kit\n4:19 Touch Edit\n5:02 Video Generation\n5:49 Pricing & Fit\n6:58 Recap\n\n#BuiltWithLovart #AiDesign #AIBranding",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "BYEeWlHoExE": {
+      "checkedAt": "2026-08-12T13:53:46Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Google's new robot unscrews a lightbulb nine times out of ten and loses to a trash bag more than half the time, and that one gap tells you which jobs get automated first.\n\nGoogle DeepMind shipped Gemini Robotics 2 on July 30, and unlike most robot announcements it published the failure rates instead of only the highlight reel. Read those numbers side by side and a very clean line appears. It is not strength and it is not intelligence. The only thing that decides whether a task is basically solved or still years away is whether the object keeps its shape when you touch it, and whether it stays where you left it. Two yeses and the robot is already good at it. One no and it falls off a cliff.\n\n→ Unscrew a lightbulb 92%, precise part insertion 89.6%, pick something off a shelf 76.3% — all rigid, all holding still\n→ Tie a trash bag 44%, seal a ziplock 40%, sweep with a dustpan 32% — all soft, all changing shape as the hand closes\n→ Same object, different place: off a shelf 76.3%, off the floor 45.7% — the floor hides where the thing actually is\n→ Yes, the demo really did tie a knot in a bag, and DeepMind is the one who reported that it works 44 times out of 100\n→ So sorting rigid parts, machine tending and packing kits are the jobs that go first\n→ And laundry, food prep, bin bags and cable runs are the ones that are still years out\n\nComment \"FLOPPY\" and I'll send you the docs link.\nWhich job in your life is actually floppy?\n\nLinks:\n- Gemini Robotics 2 (Google DeepMind): https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/\n- Coverage: https://thenextweb.com/news/gemini-robotics-2-whole-body-humanoid-control\n\n#AI #Robotics #GoogleDeepMind #Automation #Humanoid #GeminiRobotics #FutureOfWork #Apptronik #AITools #Engineering\n\n#Shorts",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-12T13:53:46Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "-ysPX-PH2Eo": {
+      "checkedAt": "2026-08-12T13:53:46Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 3,
+      "likeCount": 147,
+      "comments": [
+        {
+          "id": "Ugy5RCA51Gb9tZWp9ax4AaABAg",
+          "author": "@catypie12129q",
+          "text": "In 200doller/month i can get a working human in india 😅",
+          "likeCount": 1,
+          "publishedAt": "2026-08-12T13:21:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/7GbBbSXNmDej3fJt-Q0B4QzYmbHJN-TF6qAyGMlL9O0VJiMGRTsXDtIy5T0InxAnRQusF4KO=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwrN82-1cnxfEPmCLB4AaABAg",
+          "author": "@Shreyash-xz3pm",
+          "text": "50 lakh rent wala youtuber....yahi hai kya??🤔...abhi clip dekh ke aaraha hu",
+          "likeCount": 2,
+          "publishedAt": "2026-08-12T13:10:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kRdiwgGASa43GPYT-c3Z6MApteJOGOBXuLd7u6TpOt2CJm9iQ6p6u16RMmQYwe-Tke3g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwRzlkXL5oZTtEb_kR4AaABAg",
+          "author": "@SMASH_REVIEWS",
+          "text": "Grok's next model Trained on Nvidia GB300s is yet to release, would be in the top 3 for sure.",
+          "likeCount": 4,
+          "publishedAt": "2026-08-12T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/D3D3TIULl6SlNmUpI-cr6Da99PEgO0jq-kIFBHfsyO915bT8HQFsaNtt0TVTmnLpSQdDxpNRoQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-12T13:53:46Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "ylTOzWZIAuI": {
+      "checkedAt": "2026-08-12T13:53:46Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥 Independence Day Special: Get Flat 40% OFF on all courses!\n🚀 Learn React, JavaScript and more: https://codecompile.ai/\n🎟️ Use code FREEDOM40 — valid till 15th August.\n\nIf you’re serious about upgrading your skills, this is a great time to start. 🇮🇳\n\n👉 Join Our Web Community:  https://learn.codecompile.ai/web/login\n👉 Career Guidance (Connect with me ):  https://topmate.io/technical_suneja\n👉 Resume Link:  https://bit.ly/40T0KwX\n\n━━━━━━━━━━━━━━━━━━━━\n\n⭐ Must-Watch Videos\n\n👉 Most People Are Learning AI Wrong in 2026: https://youtu.be/gqRWi9X_TD0\n👉 My Honest Microsoft Interview Experience: https://www.youtube.com/watch?v=YZC8Dzx3G5E\n👉  The Truth About AI Coding in 2026 - No Hype, Only Truth - https://youtu.be/sO-ssqm9jPk\n\n━━━━━━━━━━━━━━━━━━━━\n\n👉 Subscribe: @TechnicalSuneja \n👍 Like, Share and Comment if this video helped you.\n❤️ Share it with someone planning to learn AI.\n🎯 Like Goal: 5,000 Likes\n\n❤️ Our Family: 600,000+\n🎯 Subscriber Goal: 700,000\n\n━━━━━━━━━━━━━━━━━━━━\n\n⭐ Must-Watch Tech Career Videos\n\n👉 Web Development: https://bit.ly/3KFTezX\n👉 Cybersecurity: https://bit.ly/4pCIf9N\n👉 Data Engineering: https://bit.ly/44njA0m\n👉 DevOps and Cloud: https://bit.ly/4gqV0iM\n👉 AI Engineering: https://bit.ly/4oXQJaj\n👉 Software Testing: https://bit.ly/4qbyuPK\n👉 Salesforce Careers: https://bit.ly/3VEwrXg\n\n━━━━━━━━━━━━━━━━━━━━\n\n⭐ Tags\nweb development 2026, web development roadmap 2026, web developer skills 2026, frontend development 2026, full stack development 2026, web development skills, learn web development, coding skills 2026, programming skills 2026, react js 2026, javascript 2026, react developer roadmap, javascript developer roadmap, frontend developer roadmap, software developer skills, software engineering 2026, developer roadmap 2026, coding roadmap\n\n#WebDevelopment #Coding #reactjs",
+      "commentCount": 13,
+      "likeCount": 92,
+      "probeClient": "web_embedded"
+    },
+    "8xafYDggVOs": {
+      "checkedAt": "2026-08-12T13:53:46Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 DataX Bootcamp – Zero to Job Ready AI-Enabled Data Engineer\n👉 https://login.datawithanurag.com/web/checkout/682336cb7f4e7bc95f0e2515\n🎟️ Use Coupon Code: YT_FAM\n📲 Have questions about DataX? WhatsApp Support:\n👉 https://wa.me/918957284012\n\nIf I lost all my Data Engineering knowledge today and had to start again from ZERO in 2026, this is exactly how I would do it.\n\nGithub Repo for Roadmap -: https://github.com/anuanurag2410/Data-Engineering-Resource-Guide/tree/main/Roadmaps/DWA%20End%20to%20End%20Data%20Engineering%20Roadmap\n\nNo random list of 50 tools. No jumping directly into Spark, Kafka, Cloud and Databricks. In this detailed 30-minute video, I’ve broken down the complete Data Engineering roadmap in the order I would personally learn everything today.\n\n🎯 The Roadmap We Cover If I Had to Learn Data Engineering Again in 2026… I’d Follow THIS Roadmap 🚀\n\n✅ SQL — build your strongest foundation\n✅ Python — scripting, APIs, files & automation\n✅ Data Warehousing & Data Modeling\n✅ PySpark — distributed data processing\n✅ Databricks & Delta Lake\n✅ AWS / Azure / GCP fundamentals\n✅ ETL & ELT pipeline development\n✅ Batch vs Streaming concepts\n✅ Orchestration & production workflows\n✅ End-to-End Data Engineering Projects\n✅ GitHub + Resume + Interview Preparation\n✅ Where AI fits into Data Engineering in 2026\n\n⚠️ The Biggest Mistake I See\n\nMost beginners don't fail because Data Engineering is too difficult.\n\nThey fail because their learning order is completely broken.\n\nOne week they're learning SQL.\n\nNext week Kafka.\n\nThen AWS.\n\nThen Spark.\n\nThen suddenly Kubernetes.\n\nAfter months of learning, they know a little about everything but can't build or explain one complete Data Engineering pipeline.\n\nThis video is designed to remove exactly that confusion.\n\n🚀 If I Were Starting Again\n\nMy focus would be:\n\nFundamentals → Build → Projects → Debug → Interviews → Apply\n\nNot:\n\nTool → Tool → Certification → Tool → Another Course\n\nWhether you're a fresher, software professional, analyst, support engineer, or someone planning a career switch, this roadmap will help you understand what to learn, in what order, and how deep you actually need to go.\n\nIf becoming a Data Engineer in 2026 is your goal, save this video and use it as your learning roadmap.\n\n🌐 More Data Engineering Resources\nhttps://datawithanurag.com/\n\n🔗 Connect With Me – Anurag Srivastava\nhttps://linktr.ee/anurag2410",
+      "commentCount": 2,
+      "likeCount": 23,
+      "probeClient": "web_embedded"
+    },
+    "cfx3Hayfo5Q": {
+      "checkedAt": "2026-08-12T13:53:46Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Is traditional coding officially a thing of the past? In this video, we dive into how advanced AI coding agents are completely revolutionizing software engineering—taking you from a simple idea to a fully functioning application using basic prompts.\n\nWe walk through a full demonstration showing how AI can now generate entire project foundations, set up complex architectures, and handle full tech stacks (including Laravel, Vite, Tailwind CSS, Livewire, Filament, and MySQL) without you writing a single line of manual code.\n\nPlus, see how automated error handling works in real time—where fixing bugs is as simple as feeding error messages back to the AI for instant corrections. Is spending endless hours debugging officially over? Watch to find out what skills actually matter for developers moving forward!\n\n📌 Timestamps & Chapters\n00:00 — Learning to code is OVER: The rise of AI coding agents\n\n01:17 — Building a full-stack app from scratch using AI prompts\n\n02:35 — Automated debugging: How AI fixes its own errors instantly\n\n04:12 — The new developer skill set: Leveraging AI vs. writing manual code\n\n💬 Join the Discussion\nDrop your thoughts in the comments below:\n\nDo you think manual coding is officially dead, or will developers always need the basics?\n\nWhat’s your go-to AI tool for building and debugging right now?\n\nDon't forget to LIKE 👍, SUBSCRIBE 🔔, and hit the notification bell for more AI & modern software development breakdowns!\n\n#SoftwareEngineering #LearnToCode #AICoding #Laravel #WebDevelopment #AI #VibeCoding #DeveloperTools",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "5ZQpyLfBm4Y": {
+      "checkedAt": "2026-08-12T13:53:46Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Support here (superchat onscreen): https://dropflares.com/Furqan\nConnect with me: LinkedIn → https://furqan.cc/linkedin \n\nWHAT AM I BUILDING? 💡 Xocial (https://xocial.io/) is one place for your whole business — post to all your social media at once, keep all customer chats in one inbox with AI helping you reply, and send reminders and campaigns on autopilot. You can also accept payments through Stripe and Square, and the money goes straight into your account.\n\nVibe Coding Crash Course : https://youtube.com/playlist?list=PLQbMldDbZG9o&si=hfI1q16TGknJgCyO\nClient Hunting: https://www.youtube.com/playlist?list=PLXfAWPUjbaMM\nRemote Job Series: https://www.youtube.com/playlist?list=PLOf2EZd0qf54\n\nOpenCode GO — $5https://opencode.ai/go?ref=6JW7FS2SNK\nCursor — $20 - https://cursor.com/referral?code=GRPAOAKZPS7T (With this link you will get 50% off first month on new account)\nCodex — $20 - https://developers.openai.com/codex/app \n\nIn this video, I’ll show you how to start vibe coding, how to learn vibe coding, and how to use vibe coding to build real apps faster. This is not just a vibe coding tutorial where we randomly generate code. I’ll explain what is vibe coding, here’s how I do it, how to use Claude Code for vibe coding, and how beginners can go from an idea to a real working app using AI tools, ChatGPT, and modern coding workflows.\n\nWe’ll also talk about vibe coding vs real coding, why vibe coding fails, and how to build apps with AI the right way. If you want to learn how to build an app, how to build iOS app with AI, how to build an AI app, how to build app with AI, or even how to build an app with ChatGPT in minutes, this video will give you a practical starting point. I’ll also share free vibe coding tool ideas, vibe coding apps, and the real mindset behind building software instead of only watching tutorials.\n\n\nSubscribe for more coding, app building, AI tools, SaaS development, and real developer journey videos.\n\nFollow karne walon ko geeli pappi 💋\nDiscord → https://furqan.cc/discord\nInstagram → https://furqan.cc/instagram\nLinkedIn → https://furqan.cc/linkedin\nTikTok → https://furqan.cc/tiktok\nX → https://furqan.cc/x\nAll Links → https://furqan.cc/socials\nGitHub → https://github.com/furqanistic/\nPortfolio → https://furqan.cc/",
+      "commentCount": 0,
+      "likeCount": 32,
+      "probeClient": "web_embedded"
+    },
+    "a9jZu6S5mUg": {
+      "checkedAt": "2026-08-12T13:53:46Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥 Developer Bootcamp & Mentoring Program — Start or level up your career with my proven training and personal mentoring:\nhttps://unclestef.com/\n\n#unclestef #devjobs #softwaredevelopment #aidevelopment \n\n🦎 Lizard Wizard Course\nMaster the psychology of learning, habits, and performance — a must for developers and entrepreneurs:\nhttps://school.studioweb.com/store/course/lizard_wizard\n\n🚀 1-on-1 Mentoring & Consultations\n\nCareer Consult — $99 for 15 minutes:\nhttps://calendly.com/uncle-stef/consultation-with-stefan\n\nEntrepreneur / Business Consult — $250 for 30–45 minutes:\nhttps://calendly.com/uncle-stef/entrepreneurs-consult\n\nSponsored Video — Get your questions answered in a video:\nhttps://unclestef.com/blog/2025/03/04/sponsored-video-request/\n\n💻 Popular Courses\n\nPython 3 Foundations & Certification:\nhttps://school.studioweb.com/store/course/python_3_foundations__&_certification_package\n\nFull Stack Web Developer:\nhttps://school.studioweb.com/store/course/complete_web_developer\n\nComplete Freelancer:\nhttps://school.studioweb.com/store/course/complete_freelancer\n\nComplete Entrepreneur:\nhttps://school.studioweb.com/store/course/complete_web_entrepreneur\n\n📱 Stay Connected\nInstagram: https://www.instagram.com/stefanmischook/?hl=en\n\nBusiness Channel: https://www.youtube.com/channel/UCZdr0ql_B240VBVINAX7Acg\n\nGoogle Review: https://g.page/studioWebedu/review?mt",
+      "commentCount": 49,
+      "likeCount": 103,
       "probeClient": "web_embedded"
     }
   }
