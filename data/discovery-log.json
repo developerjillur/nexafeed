@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T22:53:06Z",
+  "updatedAt": "2026-08-12T23:53:14Z",
   "items": [
+    {
+      "id": "6kpzCdsuRNE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DomgodHilarious",
+      "publishedAt": "2026-08-12T16:53:14Z",
+      "firstSeenAt": "2026-08-12T23:53:14Z"
+    },
+    {
+      "id": "P2_tNVro7gk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-12T16:53:14Z",
+      "firstSeenAt": "2026-08-12T23:53:14Z"
+    },
+    {
+      "id": "sSVXtrptFIc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Accounts Advice",
+      "publishedAt": "2026-08-12T13:53:14Z",
+      "firstSeenAt": "2026-08-12T23:53:14Z"
+    },
     {
       "id": "M3_BX0BodOo",
       "type": "long",
@@ -13162,6 +13186,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-12T23:53:14Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
