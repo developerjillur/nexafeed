@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T11:53:31Z",
+  "updatedAt": "2026-08-12T12:53:39Z",
   "items": [
     {
       "id": "mv4kOb8VaYM",
@@ -11205,15 +11205,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-29T12:53:11Z",
-      "new": 4,
-      "long": 1,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
-    {
       "runAt": "2026-07-29T13:53:12Z",
       "new": 8,
       "long": 5,
@@ -12616,6 +12607,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-12T12:53:39Z",
+      "new": 0,
+      "long": 0,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 1,
+      "secondaryQuery": "Automation"
     }
   ]
 }
