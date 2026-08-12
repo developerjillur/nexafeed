@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T07:53:44Z",
+  "updatedAt": "2026-08-12T08:53:08Z",
   "items": [
+    {
+      "id": "bxgW0fwJL6c",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-12T08:51:02Z",
+      "firstSeenAt": "2026-08-12T08:53:08Z"
+    },
+    {
+      "id": "awvdorZGu0M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anil Raju's VFX",
+      "publishedAt": "2026-08-12T06:53:08Z",
+      "firstSeenAt": "2026-08-12T08:53:08Z"
+    },
+    {
+      "id": "2G2u7JOZ-fg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Tech Circuit",
+      "publishedAt": "2026-08-11T21:53:08Z",
+      "firstSeenAt": "2026-08-12T08:53:08Z"
+    },
+    {
+      "id": "c_dBgZb9l7Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Code Hack",
+      "publishedAt": "2026-08-11T21:53:08Z",
+      "firstSeenAt": "2026-08-12T08:53:08Z"
+    },
+    {
+      "id": "8Azng8yUKOY",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Course Decoded ",
+      "publishedAt": "2026-08-11T18:53:08Z",
+      "firstSeenAt": "2026-08-12T08:53:08Z"
+    },
+    {
+      "id": "AgIApVGE4ZM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nick Ponte",
+      "publishedAt": "2026-08-11T14:53:08Z",
+      "firstSeenAt": "2026-08-12T08:53:08Z"
+    },
+    {
+      "id": "-1f6ETcRF7k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Komal Verse",
+      "publishedAt": "2026-08-11T14:53:08Z",
+      "firstSeenAt": "2026-08-12T08:53:08Z"
+    },
+    {
+      "id": "WkjqbJYrKhU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Prathap Varma",
+      "publishedAt": "2026-08-11T13:53:08Z",
+      "firstSeenAt": "2026-08-12T08:53:08Z"
+    },
+    {
+      "id": "eXzltqJuByU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Law Subscribed",
+      "publishedAt": "2026-08-11T11:53:08Z",
+      "firstSeenAt": "2026-08-12T08:53:08Z"
+    },
     {
       "id": "IiXc5QMXWsk",
       "type": "short",
@@ -11005,15 +11077,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-29T08:53:08Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
       "runAt": "2026-07-29T09:53:09Z",
       "new": 4,
       "long": 2,
@@ -12416,6 +12479,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-12T08:53:08Z",
+      "new": 9,
+      "long": 7,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
