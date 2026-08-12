@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T16:53:10Z",
+  "updatedAt": "2026-08-12T18:53:21Z",
   "items": [
+    {
+      "id": "sakMrVvsr8Y",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-12T18:32:50Z",
+      "firstSeenAt": "2026-08-12T18:53:21Z"
+    },
+    {
+      "id": "uERpN_ay4KA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Your Average Tech Bro",
+      "publishedAt": "2026-08-12T15:53:21Z",
+      "firstSeenAt": "2026-08-12T18:53:21Z"
+    },
+    {
+      "id": "WzH4BzTBqnk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jason Lee",
+      "publishedAt": "2026-08-12T12:53:21Z",
+      "firstSeenAt": "2026-08-12T18:53:21Z"
+    },
+    {
+      "id": "UOCTcA3mA_g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AICodeKing",
+      "publishedAt": "2026-08-12T09:53:21Z",
+      "firstSeenAt": "2026-08-12T18:53:21Z"
+    },
+    {
+      "id": "memKbUVRYyA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI News Today | Julian Goldie Podcast",
+      "publishedAt": "2026-08-12T04:53:21Z",
+      "firstSeenAt": "2026-08-12T18:53:21Z"
+    },
     {
       "id": "2JUn0WwfcXE",
       "type": "short",
@@ -11469,33 +11509,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-29T16:53:14Z",
-      "new": 9,
-      "long": 6,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
-      "runAt": "2026-07-29T17:53:15Z",
-      "new": 7,
-      "long": 5,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
-      "runAt": "2026-07-29T18:53:16Z",
-      "new": 5,
-      "long": 3,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
       "runAt": "2026-07-29T19:53:17Z",
       "new": 2,
       "long": 2,
@@ -12889,6 +12902,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-12T18:53:21Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
