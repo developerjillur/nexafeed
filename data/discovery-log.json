@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T21:53:49Z",
+  "updatedAt": "2026-08-12T22:53:06Z",
   "items": [
+    {
+      "id": "M3_BX0BodOo",
+      "type": "long",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-12T22:51:06Z",
+      "firstSeenAt": "2026-08-12T22:53:06Z"
+    },
+    {
+      "id": "5JqxYFqjHKQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "India Today Global",
+      "publishedAt": "2026-08-12T19:53:06Z",
+      "firstSeenAt": "2026-08-12T22:53:06Z"
+    },
+    {
+      "id": "27bhd57rDD4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "LastWeekTonight",
+      "publishedAt": "2026-08-12T16:53:06Z",
+      "firstSeenAt": "2026-08-12T22:53:06Z"
+    },
+    {
+      "id": "Odj5fcwgoic",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Intellipaat",
+      "publishedAt": "2026-08-12T13:53:06Z",
+      "firstSeenAt": "2026-08-12T22:53:06Z"
+    },
+    {
+      "id": "ABs9NtxDqLk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "THE INTELLiGENT THINKER",
+      "publishedAt": "2026-08-12T13:53:06Z",
+      "firstSeenAt": "2026-08-12T22:53:06Z"
+    },
+    {
+      "id": "R8D0_wT9Qxk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pro Know",
+      "publishedAt": "2026-08-12T13:53:06Z",
+      "firstSeenAt": "2026-08-12T22:53:06Z"
+    },
     {
       "id": "EfVhmf9N1BQ",
       "type": "long",
@@ -13105,6 +13153,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-12T22:53:06Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
