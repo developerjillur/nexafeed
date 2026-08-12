@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T14:53:50Z",
+  "updatedAt": "2026-08-12T15:53:51Z",
   "items": [
+    {
+      "id": "XNQBCRcwXV4",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-12T15:39:14Z",
+      "firstSeenAt": "2026-08-12T15:53:51Z"
+    },
+    {
+      "id": "9zxDEXFH7cc",
+      "type": "short",
+      "source": "primary",
+      "channel": "Insider Force",
+      "publishedAt": "2026-08-12T15:04:42Z",
+      "firstSeenAt": "2026-08-12T15:53:51Z"
+    },
+    {
+      "id": "UFnFXYFrreg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vedantu Upskill Academy",
+      "publishedAt": "2026-08-12T14:53:51Z",
+      "firstSeenAt": "2026-08-12T15:53:51Z"
+    },
+    {
+      "id": "WiSSH6XLI4s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kushal Arora and Jitendra Vaswani",
+      "publishedAt": "2026-08-12T08:53:51Z",
+      "firstSeenAt": "2026-08-12T15:53:51Z"
+    },
+    {
+      "id": "p4O2Godb6Nw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kazi Raihan",
+      "publishedAt": "2026-08-12T07:53:51Z",
+      "firstSeenAt": "2026-08-12T15:53:51Z"
+    },
+    {
+      "id": "W4VNa9HGmDQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Noah Haupt",
+      "publishedAt": "2026-08-11T17:53:51Z",
+      "firstSeenAt": "2026-08-12T15:53:51Z"
+    },
+    {
+      "id": "DJSk-vBJFIA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Andy Lo",
+      "publishedAt": "2026-08-11T15:53:51Z",
+      "firstSeenAt": "2026-08-12T15:53:51Z"
+    },
     {
       "id": "GqIBYTAGdXs",
       "type": "short",
@@ -11349,15 +11405,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-29T15:53:10Z",
-      "new": 5,
-      "long": 3,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
       "runAt": "2026-07-29T16:53:14Z",
       "new": 9,
       "long": 6,
@@ -12760,6 +12807,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-12T15:53:51Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
