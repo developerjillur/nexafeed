@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T15:53:51Z",
+  "updatedAt": "2026-08-12T16:53:10Z",
   "items": [
+    {
+      "id": "2JUn0WwfcXE",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-12T16:28:01Z",
+      "firstSeenAt": "2026-08-12T16:53:10Z"
+    },
+    {
+      "id": "4_elRrIKjAU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Coach Denis",
+      "publishedAt": "2026-08-12T16:48:10Z",
+      "firstSeenAt": "2026-08-12T16:53:10Z"
+    },
+    {
+      "id": "CmReYunm4FM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WsCube Tech",
+      "publishedAt": "2026-08-12T13:53:10Z",
+      "firstSeenAt": "2026-08-12T16:53:10Z"
+    },
+    {
+      "id": "fTDQWQ08gAE",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Shahorin Nafiz | Digital Marketing",
+      "publishedAt": "2026-08-12T13:53:10Z",
+      "firstSeenAt": "2026-08-12T16:53:10Z"
+    },
+    {
+      "id": "cNvjk8RTxD8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Leado Marketing",
+      "publishedAt": "2026-08-12T12:53:10Z",
+      "firstSeenAt": "2026-08-12T16:53:10Z"
+    },
+    {
+      "id": "w8oszvp9Xa4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Somebody Digital",
+      "publishedAt": "2026-08-12T07:53:10Z",
+      "firstSeenAt": "2026-08-12T16:53:10Z"
+    },
+    {
+      "id": "wr-6sa9NKpY",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Pepper - The Agentic Organic Growth Engine",
+      "publishedAt": "2026-08-12T06:53:10Z",
+      "firstSeenAt": "2026-08-12T16:53:10Z"
+    },
+    {
+      "id": "9Ti3Bx5ORA4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sparkfy",
+      "publishedAt": "2026-08-11T21:53:10Z",
+      "firstSeenAt": "2026-08-12T16:53:10Z"
+    },
     {
       "id": "XNQBCRcwXV4",
       "type": "long",
@@ -12816,6 +12880,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-12T16:53:10Z",
+      "new": 8,
+      "long": 5,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
