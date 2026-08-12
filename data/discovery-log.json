@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T04:10:14Z",
+  "updatedAt": "2026-08-12T04:53:41Z",
   "items": [
+    {
+      "id": "lLi8iy5k-_0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "KoleRiggs",
+      "publishedAt": "2026-08-11T21:53:41Z",
+      "firstSeenAt": "2026-08-12T04:53:41Z"
+    },
+    {
+      "id": "cyING-9eZ_M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Gino Fracchiolla | True Pay 4 Performance",
+      "publishedAt": "2026-08-11T19:53:41Z",
+      "firstSeenAt": "2026-08-12T04:53:41Z"
+    },
+    {
+      "id": "IQ8ZJGq0clk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hamza Automates",
+      "publishedAt": "2026-08-11T18:53:41Z",
+      "firstSeenAt": "2026-08-12T04:53:41Z"
+    },
     {
       "id": "d4wTMkC5Snc",
       "type": "short",
@@ -10805,15 +10829,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-29T04:53:05Z",
-      "new": 3,
-      "long": 1,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 5,
-      "secondaryQuery": "no-code automation"
-    },
-    {
       "runAt": "2026-07-29T05:53:06Z",
       "new": 0,
       "long": 0,
@@ -12213,6 +12228,15 @@
       "new": 5,
       "long": 2,
       "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-12T04:53:41Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
