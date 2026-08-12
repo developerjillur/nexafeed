@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T08:53:08Z",
+  "updatedAt": "2026-08-12T09:53:13Z",
   "items": [
     {
       "id": "bxgW0fwJL6c",
@@ -11077,15 +11077,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-29T09:53:09Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
       "runAt": "2026-07-29T10:53:10Z",
       "new": 2,
       "long": 1,
@@ -12488,6 +12479,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-12T09:53:13Z",
+      "new": 0,
+      "long": 0,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }

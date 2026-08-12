@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T08:53:08Z",
+  "updatedAt": "2026-08-12T09:53:13Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -6656,10 +6656,10 @@
       "probeClient": "web_embedded"
     },
     "toVxUaUg5Mc": {
-      "checkedAt": "2026-08-12T08:53:08Z",
+      "checkedAt": "2026-08-12T09:53:13Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "BtT3EC7EfT4": {
       "checkedAt": "2026-08-11T17:53:14Z",
