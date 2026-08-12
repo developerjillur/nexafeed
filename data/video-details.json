@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T19:53:30Z",
+  "updatedAt": "2026-08-12T20:53:39Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -1887,99 +1887,6 @@
         }
       ],
       "commentsFetchedAt": "2026-08-02T17:53:15Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "-05RlqnjOTM": {
-      "checkedAt": "2026-08-08T20:53:47Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment “Claude” for the book to skill repo link and 70+ Free Claude Code Guides/Templates\n\nYou fed Claude a PDF and it made up half the answer.\n\nNot your fault.\nRaw books hallucinate.\n\nHere’s the thing.\nBook to skill fixes it.\n\nPoint it at a book you own.\nIt builds a real skill from the source.\n\nLoad it, ask your question, Claude pulls the right chapter and quotes it.\n\nEvery Hormozi framework, one command, any session.\n\nThat’s the unlock, fam.\n\n#ClaudeCode\n#AItools\n#AIAgents\n#Automation\n#BuildInPublic",
-      "commentCount": 8,
-      "likeCount": 285,
-      "comments": [
-        {
-          "id": "UgxY7huMFehLryKvDLh4AaABAg",
-          "author": "@charlieautomates",
-          "text": "🚨🚨 Free Resource and Repo Link attached here: https://charlieautomates.com/free-resources/#book-to-skill",
-          "likeCount": 0,
-          "publishedAt": "2026-08-07T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "Ugxz1gJoBM81mKhr4k14AaABAg",
-          "author": "@kobyharel7774",
-          "text": "CLAUDE",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ku23mSdF61hOk87uO7Q_Mt5xcH1RhbSda3ObdH1Vg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy2LwvHIEtmLuFqF6B4AaABAg",
-          "author": "@albertofernandez6255",
-          "text": "CLAUDE    Thanks",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lsck9n6Gn5Fcxa1rDV3g-RzmIrEopQXCfD921-dee61U4=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxdouBS9SBQC9QS-1V4AaABAg",
-          "author": "@cyberace-369",
-          "text": "CLAUDE",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/MTpCkCk5wOIVtpe4D9_nVnLjiU4Fdrdt7LcGzXfz7-jaX2M7x0tQao8vZ6C5IkShqnuVkPWSlQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwGaNSb7f4y6cfAk0x4AaABAg",
-          "author": "@DavidBrooks-l2q",
-          "text": "Claude",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ta0PRfHpBg0uW9F8vQIZXA7F7luQf9DC_QA7L-gJJp8Emak5pEtKNTYN_GhhT3Z0cMYW0rqN=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxPsBpST-oIRxtgqDB4AaABAg",
-          "author": "@Jeffspallax",
-          "text": "Claude",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_na-6ggU0uKS2AfnuPNzVdSDpsML2q4xDr2JC8hOXsYQ2I=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxBbGM7Tw93iIBZUsV4AaABAg",
-          "author": "@DuanJae",
-          "text": "Awesome!!",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T15:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/glUSq-az7MHHkRunsqDaIf3aq34sVW12SerRSss4vkPUHjaT4t_Dd-Xg8NlZtisyqr1mOH8yZX0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxsuLRy86A88aGpFNF4AaABAg",
-          "author": "@ehoerdemann",
-          "text": "Claude",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T13:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lafOcDCRihOfNAsO5dnlAY6NDxOBYblPPyYx55IWs=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-08T20:53:47Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7330,15 +7237,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "lLi8iy5k-_0": {
-      "checkedAt": "2026-08-12T04:53:41Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "You don't have an AI problem: you have a \"where do I even start\" problem. I answered 11 of the most common questions real business owners are asking about AI and automation, straight, with the actual first steps for each.\n\nNo hype, no 400-tool stack. Just what to automate first, what to leave alone, and how to use AI without losing the human parts of your business that clients actually pay for. Questions are pulled from real Reddit and Quora threads from owners like you.\n\nWho this is for: service business owners, agencies, and consultants who want to use AI to grow without turning into a faceless company.\n\n⏱ Chapters\n0:00 Intro\n1:25 Where to start with AI without getting overwhelmed\n3:25 What to automate first (and whether it pays for itself)\n4:58 The one task that saves the most time\n6:45 Which workflows are actually worth automating\n8:14 How to use AI without a tech team\n9:50 AI call answering — does it save money or annoy customers?\n11:15 How to never miss a client follow-up again\n12:13 Does using AI in marketing make your brand feel fake?\n13:12 Is an \"AI business\" actually profitable?\n14:16 How to get clients in 2026\n15:21 How to price and sell your AI workflows\n16:45 The one principle to take away\n\nThe one line to remember: automate the boring, protect the human.\n\n📌 Have a question about AI in your business? Drop it in the comments — it might be in the next video.\n\n#AIforbusiness #automation #smallbusiness #servicebusiness #AItools #businessgrowth #agency #entrepreneur\n\nai for small business, ai automation, automate my business, ai for service business, how to use ai in business, small business ai tools, ai for agencies, business automation 2026, ai follow up system, ai call answering, pricing ai services, ai without a tech team, kole riggs, business support",
-      "commentCount": 1,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "81dFlPneh88": {
       "checkedAt": "2026-08-12T05:53:43Z",
       "embedAllowed": true,
@@ -7594,14 +7492,6 @@
       "availability": "unavailable",
       "failureReason": "unavailable"
     },
-    "QTcZPI-g7is": {
-      "checkedAt": "2026-08-12T07:53:44Z",
-      "embedAllowed": true,
-      "description": "Download Grok Bot: https://x.ai/bot\n\nGrok Bot gives each AI agent its own role, always-on computer, browser, files, logins, and routines so a team of bots can handle work together. This walkthrough covers setup, plugins, mobile access, scheduled tasks, what works well, and the biggest limitations.\n\nSome features in this video may not be available in your region or on your plan yet.\n\n0:00 Intro\n0:16 Meet the Bots\n1:23 First Bot\n4:26 Always-On Computers\n5:39 Plugins \n6:35 The Bot's Computer\n7:11 Teach Tasks\n7:46 Routines\n8:31 Mobile App\n9:32 What I Like\n11:08 What I Dislike",
-      "commentCount": 79,
-      "likeCount": 379,
-      "probeClient": "web_embedded"
-    },
     "bxgW0fwJL6c": {
       "checkedAt": "2026-08-12T08:53:08Z",
       "embedAllowed": true,
@@ -7621,24 +7511,6 @@
       "description": "Get ₹4,000 Value Google Gemini AI Plus FREE for 1 Year! 🔥 In this video, I’ll show you how to claim the Google Gemini AI Plus 12-month free offer and explore the powerful Google AI tools included with the plan.\n\nWEBSITE LINK: https://internshala.com/login/student/%2Fgoogle-gemini-ai-plus\n\n➟ 🔥 Google AI Premium FREE! Get Gemini Omni: https://youtu.be/CBKa81OJHU4\n\n➟ Gemini Omni AI: Create Videos with Your Avatar : https://youtu.be/BM5voMLy0QI\n\n➟ ChatGPT AI Full Course Telugu: https://youtu.be/0PIA7KmPmjE\n\n➟ ChatGPT Images 2.0 Tutorial : https://youtu.be/nUfG7dGMLcY\n\n➟ Create Google Veo 3 Videos: https://youtu.be/Q9CCLfsDdNI\n\n➟ What is Whisk AI Telugu : https://youtu.be/7SLpaMBDIGM\n\n➟ Grok AI in Telugu 🔥 Unlimited AI Video Generator Free | Full Guide 2026:\nhttps://youtu.be/b3_7qDOn1Cw\n\n➟ 💥 JIO’s Shocking Update: Free Gemini AI Pro Plan Now Live! | Unlimited Flow + Veo 3.1 Videos: https://youtu.be/iGJzBGqhX1M\n\n➟ 🔹 Google Veo 3 & Flow Account Creation:\n\n➤ GOOGLE VEO 3 Launched in India: https://youtu.be/ecSoeMyDrTY\n\n➤ Get Google Gemini AI Pro 1 YEAR Plan : https://youtu.be/3dMAakl2Q1U\n\n➤ Google’s New NANO BANANA AI Image Editing Tool in Telugu : https://youtu.be/D9aB59jgRNE\n\n--------------------------------------------------------------------------------\n\n🔹 Full Prompts Links: \n\n➤ WhatsApp: https://whatsapp.com/channel/0029Vb6Vo9x9xVJg5P8eyH0v\n\n➤ Telegram : https://t.me/anilrajuvfx\n\n➤ Instagram : https://www.instagram.com/anilrajusvfx?utm_source=qr&igsh=M2ZlNXZ2MDdkMGgx\n\nFor Works: crazyvids02@gmail.com\n\n\n\nWith this offer, you can get access to multiple Google AI tools and premium features, including:\n\n✅ Google Gemini AI Plus\n✅ Google Flow\n✅ Gemini\n✅ Gemini Notebook\n✅ Google AI Studio\n✅ Google Flow Music\n✅ Nano Banana\n✅ 400 GB Free Storage\n✅ Other Google AI features and benefits\n\nIn this complete Telugu tutorial, I’ll explain who is eligible, how to activate the 1-year free offer, what you get with the plan, and how to use the included AI tools.\n\nIf you're interested in Generative AI, AI video generation, AI image generation, AI music, Google Gemini, Google Flow, Nano Banana, and AI productivity tools, this offer is worth checking out.\n\n🔥 Watch the complete video before activating the offer so you don't miss any important steps.\n\nTopics Covered:\nGoogle Gemini AI Plus Free 1 Year\nGoogle Gemini AI Plus Offer 2026\n₹4,000 Google AI Offer\nGoogle AI Plus Free Offer\nGoogle Flow AI\nGemini Notebook\nGoogle AI Studio\nGoogle Flow Music\nNano Banana AI\n400GB Google Storage\nGoogle AI Tools\nGenerative AI Tools Telugu\nGemini AI Tutorial Telugu\n\n#GoogleGemini #GeminiAI #GoogleAI #GoogleFlow #NanoBanana #AIStudio #GeminiNotebook #AItools #GenerativeAI #TeluguTech #AI2026",
       "commentCount": 2,
       "likeCount": 39,
-      "probeClient": "web_embedded"
-    },
-    "2G2u7JOZ-fg": {
-      "checkedAt": "2026-08-12T08:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI Agents are no longer just chatbots—they're becoming digital teammates that can plan, decide, and complete real work.\nDiscover how this new wave of Artificial Intelligence is transforming jobs, productivity, and the future of technology.\n\nArtificial Intelligence is entering a new era with powerful AI Agents that can plan, automate, and complete complex tasks with minimal human input. In this video, you'll discover how AI Agents work, why they're becoming the next major breakthrough in Artificial Intelligence, and how they're transforming businesses, content creation, software development, and digital productivity.\nLearn how leading AI companies are shaping the future, why automation is accelerating, and what skills will matter most in the age of intelligent systems. Whether you're a creator, entrepreneur, student, or technology enthusiast, this documentary explains the future of AI in a simple and engaging way.\nLike • Subscribe • Comment\n\nAI Agents, Artificial Intelligence, AI, ChatGPT, OpenAI, AI Tools, Future of AI, AI Automation, AI Technology, Machine Learning, Generative AI, AI Productivity, AI for Business, AI for Creators, AI Software, Automation Tools, Digital Transformation, Future Technology, Tech Documentary, Technology Explained, AI News, AI Trends, Productivity Tools, Smart Automation, Software Innovation, Cloud Computing, AI Assistant, Tech Innovation, Digital Future, Technology\n\n#AIAgents #ArtificialIntelligence #AITools #ChatGPT #FutureTech #Automation #Technology #AI",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "c_dBgZb9l7Y": {
-      "checkedAt": "2026-08-12T08:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Ever wondered how ChatGPT, Midjourney, or AI image generators actually create content out of nowhere? In this video, we break down Generative AI and AI Fundamentals in the simplest way possible — no coding, no jargon, just clear explanations anyone can follow.\n\nYou'll learn the real difference between AI, Machine Learning, Deep Learning, and Generative AI, how these models actually \"think\" and generate text or images, plus where they shine and where they can seriously mess up (hallucinations, bias, and more).\n\n⏱️ TIMESTAMPS\n0:00 – Intro: What You'll Learn Today\n0:27 – Warm-Up: Have You Used AI Already?\n1:08 – AI vs ML vs Deep Learning vs Generative AI (Explained Simply)\n2:26 – How Does Generative AI Actually Work?\n3:38 – What AI Is Good At (and Where It Fails)\n4:14 – Try It Yourself: Live AI Prompt Challenge\n5:14 – Recap + 3 Questions to Test Yourself\n\n📌 If this helped you understand Generative AI better, hit LIKE and SUBSCRIBE for more simple, beginner-friendly AI explainers every week!\n\nFOR SLIDES MESSAGE ME ON WHATSAPP +92 3023347027\n\n💬 Drop a comment: What's one thing you still want explained about AI?\n\n#generativeai  #artificialintelligence  #aiforbeginners  #ai #ml  #machinelearning  #deeplearning",
-      "commentCount": 0,
-      "likeCount": 3,
       "probeClient": "web_embedded"
     },
     "c9Iftx2s7d0": {
@@ -7801,15 +7673,6 @@
       "description": "Is traditional coding officially a thing of the past? In this video, we dive into how advanced AI coding agents are completely revolutionizing software engineering—taking you from a simple idea to a fully functioning application using basic prompts.\n\nWe walk through a full demonstration showing how AI can now generate entire project foundations, set up complex architectures, and handle full tech stacks (including Laravel, Vite, Tailwind CSS, Livewire, Filament, and MySQL) without you writing a single line of manual code.\n\nPlus, see how automated error handling works in real time—where fixing bugs is as simple as feeding error messages back to the AI for instant corrections. Is spending endless hours debugging officially over? Watch to find out what skills actually matter for developers moving forward!\n\n📌 Timestamps & Chapters\n00:00 — Learning to code is OVER: The rise of AI coding agents\n\n01:17 — Building a full-stack app from scratch using AI prompts\n\n02:35 — Automated debugging: How AI fixes its own errors instantly\n\n04:12 — The new developer skill set: Leveraging AI vs. writing manual code\n\n💬 Join the Discussion\nDrop your thoughts in the comments below:\n\nDo you think manual coding is officially dead, or will developers always need the basics?\n\nWhat’s your go-to AI tool for building and debugging right now?\n\nDon't forget to LIKE 👍, SUBSCRIBE 🔔, and hit the notification bell for more AI & modern software development breakdowns!\n\n#SoftwareEngineering #LearnToCode #AICoding #Laravel #WebDevelopment #AI #VibeCoding #DeveloperTools",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "5ZQpyLfBm4Y": {
-      "checkedAt": "2026-08-12T13:53:46Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Support here (superchat onscreen): https://dropflares.com/Furqan\nConnect with me: LinkedIn → https://furqan.cc/linkedin \n\nWHAT AM I BUILDING? 💡 Xocial (https://xocial.io/) is one place for your whole business — post to all your social media at once, keep all customer chats in one inbox with AI helping you reply, and send reminders and campaigns on autopilot. You can also accept payments through Stripe and Square, and the money goes straight into your account.\n\nVibe Coding Crash Course : https://youtube.com/playlist?list=PLQbMldDbZG9o&si=hfI1q16TGknJgCyO\nClient Hunting: https://www.youtube.com/playlist?list=PLXfAWPUjbaMM\nRemote Job Series: https://www.youtube.com/playlist?list=PLOf2EZd0qf54\n\nOpenCode GO — $5https://opencode.ai/go?ref=6JW7FS2SNK\nCursor — $20 - https://cursor.com/referral?code=GRPAOAKZPS7T (With this link you will get 50% off first month on new account)\nCodex — $20 - https://developers.openai.com/codex/app \n\nIn this video, I’ll show you how to start vibe coding, how to learn vibe coding, and how to use vibe coding to build real apps faster. This is not just a vibe coding tutorial where we randomly generate code. I’ll explain what is vibe coding, here’s how I do it, how to use Claude Code for vibe coding, and how beginners can go from an idea to a real working app using AI tools, ChatGPT, and modern coding workflows.\n\nWe’ll also talk about vibe coding vs real coding, why vibe coding fails, and how to build apps with AI the right way. If you want to learn how to build an app, how to build iOS app with AI, how to build an AI app, how to build app with AI, or even how to build an app with ChatGPT in minutes, this video will give you a practical starting point. I’ll also share free vibe coding tool ideas, vibe coding apps, and the real mindset behind building software instead of only watching tutorials.\n\n\nSubscribe for more coding, app building, AI tools, SaaS development, and real developer journey videos.\n\nFollow karne walon ko geeli pappi 💋\nDiscord → https://furqan.cc/discord\nInstagram → https://furqan.cc/instagram\nLinkedIn → https://furqan.cc/linkedin\nTikTok → https://furqan.cc/tiktok\nX → https://furqan.cc/x\nAll Links → https://furqan.cc/socials\nGitHub → https://github.com/furqanistic/\nPortfolio → https://furqan.cc/",
-      "commentCount": 0,
-      "likeCount": 32,
       "probeClient": "web_embedded"
     },
     "LmY-2w_P8-o": {
@@ -7988,10 +7851,10 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-12T19:53:30Z",
+      "checkedAt": "2026-08-12T20:53:39Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "2JUn0WwfcXE": {
       "checkedAt": "2026-08-12T16:53:10Z",
@@ -8057,15 +7920,6 @@
       "description": "Most marketing is not strategy. It is repetition, and winning AI search only created more of it.\n\nIn this video: how Workflows work inside Pepper’s GEO platform. Set up a piece of content or SEO work once and run it whenever you need it. Build it by describing the job in plain language and letting the copilot assemble it, or drag the steps in yourself. Test against your draft with every Task’s output visible, publish when it is right, and let the whole team run it on a single page or on a list of two hundred.\n\nThe audit that waits for a free afternoon. The refresh that happens when someone remembers. This is how those stop depending on anyone having a spare week.\n\nFor anyone searching “SEO workflow automation,” “how to automate content briefs,” or “marketing automation for AI search,” press play.\n\n🔗 Get access: https://www.pepper.inc/platform/\n\n⏱️ Chapters \n0:00 Most of marketing is repetition \n0:15 What a workflow actually is \n0:26 Where your workflows live \n0:40 Build it just by describing it \n1:00 Test as you go, publish when it is right \n1:10 Set up once, running on its own\n\nAbout Pepper: Pepper helps brands win AI search. Our GEO platform tracks how often AI engines mention, cite, and recommend your brand, then tells you exactly how to improve it. It is the system we have used to run content and SEO for 250+ enterprises.\n\n#Workflows #AISearch #GEO #GenerativeEngineOptimization #MarketingAutomation #ContentOps #SEOAutomation #AEO #MarketingOps",
       "commentCount": 0,
       "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "9Ti3Bx5ORA4": {
-      "checkedAt": "2026-08-12T16:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Want to start making money with AI without spending a fortune?\n\nIn this video, you will discover 5 AI side hustles you can start with little to no upfront investment, including content creation, video repurposing, digital products, freelancing, and AI automation.\n\nThe key is not simply using AI. It is using AI to solve real problems faster and turning those solutions into services or products people are willing to pay for.\n\n🔥 Ready to sell your own digital products?\nCreate your store with Sparkfy:\nhttps://sparkfy.me/\n\nSubscribe for more practical strategies about AI, online business, digital products, social media growth, and making money online.\n\n#ai  #aisidehustle #digitalmarketing  #makemoneyonline  #onlinebusiness  #aitools  #sidehustle  #digitalproducts",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "sakMrVvsr8Y": {
@@ -8176,6 +8030,86 @@
       "description": "🔗 Make Your AI Film here: https://www.topview.ai/?via=HAIG\n\n🎁 Topview Ultra Annual Offer:\nGet 60 days of unlimited Seedance 2.5 generations, plus 365 days of unlimited Wan 3.0, MiniMax H3, and GPT Image 2.\n\n🎬 How to Make Cinematic Films With AI | Complete AI Filmmaking Workflow\n\nWhat if you could go from a simple story idea to a complete cinematic film using AI — without constantly generating random clips and hoping they work?\n\nIn this video, I’m showing you my complete AI filmmaking workflow using Topview AI Film Studio and how I use its filmmaking tools to actually direct and build a film.\n\nI’ll start with an idea and use Agent Mode to help generate the complete film scene-by-scene. Then, I’ll use AI Skills designed for filmmaking, create storyboards for each scene, and control the visual direction of the shots.\n\nI’ll also show how I use the Actor Expression Enhancer to improve subtle facial expressions, reactions, eyelines, and overall acting — making the performances feel more natural and cinematic.\n\nAnd if there’s something I don’t like in a generated clip, I don’t have to throw the entire shot away and start over. With Clip Edit, I can target the specific part I want to change — whether I want to remove something, add something, or modify an element of the shot.\n\nThe goal is simple:\n\nLess random generation. Less endless iteration. More actual filmmaking. 🎥\n\nFrom story → storyboard → direction → generation → performance → editing → final cinematic shot, this is how I approach AI filmmaking with Topview Film Studio.\n\n👉Join Membership: https://www.youtube.com/channel/UC7SwCtUnwLSoTfb-JgMZSOQ/join \n\n 🛒Buy your AI Filmaking: 2026 Edition below! 👇🏻 https://superprofile.bio/vp/6a1c1742cd6be500137de9da \n\n ▶️ Join our Telegram: https://t.me/hindiaigyaan\n\n📌Your Queries:\nai filmmaking, ai filmmaking tutorial, ai film making, ai filmmaking workflow, how to make cinematic films with ai, how to make films with ai, how to make movies with ai, ai movie making, ai video generation, ai cinematic video, cinematic ai videos, ai filmmaking tools, ai film tutorial, ai movie tutorial, ai video tutorial, topview ai, topview film studio, topview ai tutorial, topview film studio tutorial, ai storyboard, ai storyboard generator, ai storyboard to video, ai filmmaking 2026, ai film production, cinematic video ai, how to make cinematic videos with ai, ai se film kaise banaye, ai se movie kaise banaye, ai se video kaise banaye, ai se cinematic video kaise banaye, ai se film kaise banaye, ai filmmaking hindi, ai video kaise banaye, ai movie kaise banaye, ai short film, ai short film kaise banaye, ai se realistic video kaise banaye, cinematic film ai, filmmaking with ai, ai se cinematic film kaise banaye, ai se short film kaise banaye, ai se realistic video kaise banaye\n\n#TopviewAI #TopviewFilmStudio #AIVideo #AIFilmmaking #AIContentCreation",
       "commentCount": 39,
       "likeCount": 310,
+      "probeClient": "web_embedded"
+    },
+    "dPScBnXaNdc": {
+      "checkedAt": "2026-08-12T20:53:39Z",
+      "embedAllowed": true,
+      "description": "Comment \"Agentic\" for my FREE Agentic OS Playbook\n\nPolishing the dashboard is the trap.\n\nThe leverage sits underneath it.\nYour skills. Your agent brain.\n\nMine saves 31 hours a week and I never open it.\n\nBuild skills around what's already profitable.\nWire a Graphify brain into Obsidian.\nTurn those skills into scheduled tasks.\n\nThen build the dashboard.\n\nWrong order and you built a toy, fam.\n\n#AIAgents\n#ClaudeCode\n#Automation\n#BuildInPublic\n#AIWorkflow",
+      "commentCount": 2,
+      "likeCount": 3,
+      "comments": [
+        {
+          "id": "Ugy1PRcI42MyczLwB6l4AaABAg",
+          "author": "@charlieautomates",
+          "text": "🔑🔑🔑3 Step Agentic Playbook here -> https://charlieautomates.com/free-resources/#build-agentic-os",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T20:52:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "Ugxhbv2UpYJmMwLVXgJ4AaABAg",
+          "author": "@phoem2k",
+          "text": "Agentic",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T20:27:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/o4Hb-qyNrGdQ1xhtM3nRSaq13USjwywZPr6B13q6yUOP1iz4HRjnpNtcs1z3Eo0WVEip7njk_w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-12T20:53:39Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "TJEwRXsbFU0": {
+      "checkedAt": "2026-08-12T20:53:39Z",
+      "embedAllowed": true,
+      "description": "Build a No-Code AI Agent | Turn Ideas Into Working Tools Without Coding*\r\n\r\nAI development doesn’t have to mean walls of code. In this masterclass, we’ll show you how to build a fully working AI agent using a no-code approach — assembly over programming.\r\n\r\nYou’ll learn how to create a *Content Research Agent* that takes a topic, analyzes it, organizes research, and hands you a ready-to-use content brief. No programming required.\r\n\r\n*What you’ll learn in this video:*\r\n*01. No-Code Revolution* - Think in terms of assembly: goals, tools, memory, instructions  \r\n*02. Designing Your Workflow* - Blueprint 6 stages: Trigger → AI Model → Research Tool → Quality Check → Human Review → Output  \r\n*03. Assembling The Agent* - Define the AI identity, give it tools, and set strict boundaries: \"Never invent facts\"  \r\n*04. Human In The Loop* - Why controlled autonomy beats unrestricted automation. Add safety checks to prevent errors  \r\n*05. Testing & Troubleshooting* - Stress test with specific vs vague inputs. Fix generic info, unsupported claims, and format issues  \r\n*06. Practical Assignment* - Build your own no-code agent: YouTube Research, Email Assistant, Study Assistant, Business Research, or Customer Support\r\n\r\n*Key idea:* Human-in-the-loop design is often better than unrestricted autonomy.\r\n\r\nBy the end, you’ll understand how to snap together AI building blocks to create agents that save hours of manual research.\r\n\r\nReady for Lesson 13? We’ll build an advanced research agent with multi-source search and structured reports.  \r\nSubscribe so you don’t miss it 👉 \r\n\r\n#NoCode #AIAgent #Automation #AITools #ContentCreation #AIGlobal\r\n\r\n---\r\n\r\n*Short Social Caption Option*\r\nWhat if you could build an AI agent without writing a single line of code?  \r\nIn this video we break down how to assemble one: Trigger → AI Model → Research Tool → Human Review.  \r\nWe’ll even build a Content Research Agent together.  \r\nStop coding. Start assembling.  \r\n#NoCodeAI #AIAgent #BuildInPublic\r\n\r\n---\r\n\r\nWant me to also write:\r\n1. *SEO Tags/Keywords* for YouTube\r\n2. *Thumbnail text ideas* based on your slides\r\n3. *Chapter timestamps* from the transcript\r\n\r\nWhich one do you want next?",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "HIJrjj3vuSY": {
+      "checkedAt": "2026-08-12T20:53:39Z",
+      "embedAllowed": true,
+      "description": "How many listings are you up against? Every eBay search shows a result count at the top of the page. This bot reads a list of eBay searches from a Google Sheet, opens each one, scrapes that count, and writes it back to the right row. Great for checking how crowded a niche is before you list, or tracking listing counts over time.\n\nBuilt with axiom.ai, no code and no API. Follow along and pause at any step, the chapters below match the written guide.\n\nFull written guide with every setting:\n\nhttp://axiom.ai/guides/ebay-scraper-count-search-results-in-google-sheets\n\nCustom selector used in the scrape step (eBay may change its layout, see the guide if it stops matching): [class*=\"center-top\"] h1 .BOLD:first-child\n\nDocs mentioned in the video: \n\nBypass bot detection: https://axiom.ai/docs/no-code-tool/reference/settings/chrome/bypass-bot-detection/ \n\nCustom CSS selectors: https://axiom.ai/docs/no-code-tool/the-builder/selector-tool/custom-css-selectors/",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "Izxjcyvigz4": {
+      "checkedAt": "2026-08-12T20:53:39Z",
+      "embedAllowed": true,
+      "description": "👍  Try today: https://www.make.com/en?&promo=bmfmedia&utm_source=youtube&utm_medium=influencer&utm_campaign=bmfmedia-video-dedicated-jun26  \n\n\nIn this video, I show how I used Make to automate a small e-commerce business, even though I don’t personally run an online store. The owner was manually checking inventory, updating spreadsheets, emailing suppliers, logging orders, and handling returns every single day. Instead of treating it like an e-commerce problem, I looked at it as an automation problem: trigger, condition, action. \n\nA new order comes in, Make checks the stock, updates the inventory tracker, sends a supplier email if stock is low, logs the order, and gives the owner a clear view of what happened. I also show how Make AI Agents can help classify return requests and explain decisions through the Reasoning Panel. This is a real example of how one simple automation can remove repetitive work, reduce stress, and make a messy business easier to manage. Start with one task, build one scenario, then automate more.\n\n#MakeAutomation #MakeCom #Automation #EcommerceAutomation #NoCode #AIagents #SmallBusiness #WorkflowAutomation #GoogleSheets #Shopify",
+      "commentCount": 137,
+      "likeCount": 210,
+      "probeClient": "web_embedded"
+    },
+    "6XXg-fh0BFQ": {
+      "checkedAt": "2026-08-12T20:53:39Z",
+      "embedAllowed": true,
+      "description": "🎟️ Use Discount Code for extra saving: \"STUYT\"\nPabbly Chatflow (Product + Pricing): https://www.pabbly.com/chatflow/#pricing\nPabbly Chatflow Playlist: https://www.youtube.com/watch?v=3fG8qt6YNfA&list=PLgffPJ6GjbaJ8JPigEtxniz41rN5wqKAi\n\nWant to build a complete WhatsApp automation system without writing any code? In this tutorial, you'll learn how to automate your WhatsApp conversations, lead management, customer support, follow-ups, notifications, and marketing campaigns from one workflow.\n\nAutomatically capture leads, answer customer questions, send personalized WhatsApp messages, follow up with prospects, share updates, collect customer details, and keep your communication running 24/7. Use Pabbly Chatflow to create automated WhatsApp workflows and reduce repetitive manual work.\n\nThis setup is perfect for businesses, ecommerce stores, agencies, real estate companies, restaurants, coaches, consultants, educational institutes, and service providers looking to scale their WhatsApp communication.\n\nQueries:\nWhatsApp automation system\nbuild WhatsApp automation without coding\ncomplete WhatsApp automation\nWhatsApp business automation\nPabbly Chatflow WhatsApp automation\n\nHashtags:\n#WhatsAppAutomation #PabblyChatflow #WhatsAppBusiness #BusinessAutomation #AIAutomation #NoCode #WhatsAppMarketing #LeadAutomation #CustomerSupport #MarketingAutomation\n\n🎯 Use Case: Automate customer conversations, lead collection, FAQs, follow-ups, and notifications on WhatsApp using a single workflow. This helps businesses save time while keeping customers engaged throughout the journey.\n\n🪜 Need Help Getting Started? Follow These Step-by-Step Tutorials:\n\n✅ How to Connect your WhatsApp Number with Pabbly Chatflow in Few Clicks\n🔗 https://www.youtube.com/watch?v=J2YKHvlSMP8\n\n✅ How to Create WhatsApp Cloud API Account and Connect with Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=JKLboMlmKSs\n\n✅ How to Connect Unlimited WhatsApp Numbers to a Single Account (No Extra Cost)\n🔗 https://www.youtube.com/watch?v=iPg0W3Ra3Og\n\n✅ Pabbly Chatflow Inbox Overview\n🔗 https://www.youtube.com/watch?v=JE0f2lwFNMI\n\n✅ Pabbly Chatflow Contact Overview\n🔗 https://www.youtube.com/watch?v=j919a9bIi4w\n\n✅ How to Create Templates Inside Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=lmXyI79aENQ\n\n✅ How to Create a WhatsApp Chatbot Using Flow Builder\n🔗 https://www.youtube.com/watch?v=NXIbDhxXKF0\n\n✅ Pabbly Chatflow Team Member Overview\n🔗 https://www.youtube.com/watch?v=EnB4Ju1tTN8\n\n✅ Broadcast Messages and API Campaigns\n🔗 https://www.youtube.com/watch?v=b1g9QbrP9jU\n\n📞 Need Help?\n📬 Contact Our Team: support@pabbly.com\n💬 Ask Your Queries: https://forum.pabbly.com\n👥 Join Our Community: https://www.pabbly.com/community/\n\n⚠️ Disclaimer: All names, mobile numbers, and emails shown in this video are for demonstration purposes only. This is an educational video to showcase automation and chatbot creation using Pabbly Chatflow.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "8I8YMEJV-s4": {
+      "checkedAt": "2026-08-12T20:53:39Z",
+      "embedAllowed": true,
+      "description": "Google Gemini Spark vs n8n — which one is actually better for AI automation?\n\nI tested Gemini Spark and n8n across real-world automation scenarios to see how they compare when it comes to AI agents, workflow automation, integrations, ease of use, flexibility, and control.\n\nGemini Spark takes a completely different approach to automation. Instead of manually building every workflow, you can give the AI a goal and let it work through multi-step tasks.\n\nn8n takes the opposite approach — giving you visual workflows, integrations, AI agents, custom logic, code, human approval steps, and much more control over how your automation works.\n\nSo which one should you use?\n\nGemini Spark or n8n?\n\nIf you're a creator, freelancer, developer, AI enthusiast, or business owner trying to automate repetitive tasks, this comparison will help you decide which approach makes more sense.\n\nGemini Spark is built around telling AI what you want.\n\nn8n is built around controlling exactly how the workflow works.\n\nWatch until the end for my final verdict.\n\nbuild ai agents,n8n workflow,ai automation,gemini spark,google gemini spark,n8n,gemini ai,n8n automation,n8n ai agents,ai agents,workflow automation,ai workflow automation,google ai,gemini agent,gemini ai agent,google gemini agent,automation tools,best ai automation tools,n8n tutorial,n8n ai agent,n8n workflows,ai agents 2026,google gemini 2026,ai automation tools,workflow automation tools,no code automation,ai productivity\n\n\n\n#GeminiSpark #n8n #AIAutomation",
+      "commentCount": 1,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "n3xTJ8Pqmmk": {
+      "checkedAt": "2026-08-12T20:53:39Z",
+      "embedAllowed": true,
+      "description": "In this video, I show you how to fully automate your Facebook Page posting using Airtable and Make.com (Integromat). Learn how to set up an Airtable base to manage your post captions, connect it to Make.com, and automatically publish posts to your Facebook Page without doing it manually every time — perfect for content creators, social media managers, and small businesses who want to save time and stay consistent.\n\n🔹 What you'll learn:\n✅ How to create an Airtable base for post scheduling\n✅ How to connect Airtable with Make.com\n✅ How to link your Facebook Page and auto-post content\n✅ How to run the automation on a schedule (every 15 minutes / custom trigger)\n\n👉 Follow this step-by-step tutorial and set up your own Facebook automation workflow today!\n\n⏱️ Timestamps:\n0:00 Intro\n0:30 Setting up Airtable Base\n3:00 Connecting Make.com\n7:30 Facebook Pages Integration\n12:00 Testing the Automation\n\n💬 Got questions? Drop them in the comments below!\n🔔 Don't forget to subscribe and hit the bell icon for more automation tutorials.\n\n#Automation #Airtable #MakeDotCom #FacebookMarketing #NoCode",
+      "commentCount": 0,
+      "likeCount": 1,
       "probeClient": "web_embedded"
     }
   }

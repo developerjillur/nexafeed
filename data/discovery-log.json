@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T19:53:30Z",
+  "updatedAt": "2026-08-12T20:53:39Z",
   "items": [
+    {
+      "id": "dPScBnXaNdc",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-12T20:23:50Z",
+      "firstSeenAt": "2026-08-12T20:53:39Z"
+    },
+    {
+      "id": "TJEwRXsbFU0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Global ",
+      "publishedAt": "2026-08-12T17:53:39Z",
+      "firstSeenAt": "2026-08-12T20:53:39Z"
+    },
+    {
+      "id": "HIJrjj3vuSY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Browser automation for humans & AI",
+      "publishedAt": "2026-08-12T16:53:39Z",
+      "firstSeenAt": "2026-08-12T20:53:39Z"
+    },
+    {
+      "id": "Izxjcyvigz4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BMF MEDIA",
+      "publishedAt": "2026-08-12T16:53:39Z",
+      "firstSeenAt": "2026-08-12T20:53:39Z"
+    },
+    {
+      "id": "6XXg-fh0BFQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-08-12T15:53:39Z",
+      "firstSeenAt": "2026-08-12T20:53:39Z"
+    },
+    {
+      "id": "8I8YMEJV-s4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NasBuilds",
+      "publishedAt": "2026-08-12T06:53:39Z",
+      "firstSeenAt": "2026-08-12T20:53:39Z"
+    },
+    {
+      "id": "n3xTJ8Pqmmk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "MultiAcademia",
+      "publishedAt": "2026-08-12T02:53:39Z",
+      "firstSeenAt": "2026-08-12T20:53:39Z"
+    },
     {
       "id": "NAumQObJEwM",
       "type": "long",
@@ -12967,6 +13023,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-12T20:53:39Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
