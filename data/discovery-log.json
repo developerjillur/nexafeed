@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T09:53:13Z",
+  "updatedAt": "2026-08-12T10:53:21Z",
   "items": [
+    {
+      "id": "c9Iftx2s7d0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SLIITtube",
+      "publishedAt": "2026-08-12T10:23:21Z",
+      "firstSeenAt": "2026-08-12T10:53:21Z"
+    },
+    {
+      "id": "2ZU3j4GQ4K8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Brett Codes",
+      "publishedAt": "2026-08-11T19:53:21Z",
+      "firstSeenAt": "2026-08-12T10:53:21Z"
+    },
+    {
+      "id": "DCYu-1sp8UA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Caleb Curry",
+      "publishedAt": "2026-08-11T17:53:21Z",
+      "firstSeenAt": "2026-08-12T10:53:21Z"
+    },
+    {
+      "id": "waDJBkB2iqo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Malewicz",
+      "publishedAt": "2026-08-11T15:53:21Z",
+      "firstSeenAt": "2026-08-12T10:53:21Z"
+    },
+    {
+      "id": "uFKfB_PVl20",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Let's Get Rusty",
+      "publishedAt": "2026-08-11T11:53:21Z",
+      "firstSeenAt": "2026-08-12T10:53:21Z"
+    },
+    {
+      "id": "k2LLUKj6piE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "IBM Developer and IBM Technology",
+      "publishedAt": "2026-08-11T11:53:21Z",
+      "firstSeenAt": "2026-08-12T10:53:21Z"
+    },
     {
       "id": "bxgW0fwJL6c",
       "type": "short",
@@ -11077,15 +11125,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-29T10:53:10Z",
-      "new": 2,
-      "long": 1,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
       "runAt": "2026-07-29T11:53:10Z",
       "new": 3,
       "long": 2,
@@ -12488,6 +12527,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-12T10:53:21Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }

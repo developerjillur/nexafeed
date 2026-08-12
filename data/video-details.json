@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T09:53:13Z",
+  "updatedAt": "2026-08-12T10:53:21Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -4868,15 +4868,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "tBXEl3GhDpo": {
-      "checkedAt": "2026-08-08T18:53:28Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI coding is moving beyond simple prompts.\n\nIn this video, we'll explain **Loop Engineering** — a new way of thinking about AI-powered software development where AI doesn't just generate code, but continuously **builds, tests, verifies, fixes, and improves** its work.\n\nInstead of the traditional workflow:\n\n**Prompt → Code → Done**\n\nthe AI engineering loop looks more like:\n\n**Goal → Plan → Build → Test → Verify → Fix → Repeat**\n\nIn this video, you'll learn:\n\n✅ What is Loop Engineering?\n✅ Why normal AI coding workflows are limited\n✅ How AI agents create feedback loops\n✅ How agents plan and execute tasks\n✅ How automated testing fits into the loop\n✅ How AI detects and fixes its own mistakes\n✅ Verification and evaluation explained\n✅ How tools and code execution make the loop possible\n✅ Loop Engineering vs Prompt Engineering\n✅ Loop Engineering vs Context Engineering\n✅ How Claude Code, Codex and other AI coding agents fit into this workflow\n✅ Why autonomous software development needs continuous feedback\n✅ What this could mean for the future of developers\n\nThe important idea is simple:\n\nAI doesn't become reliable just because the model gets smarter.\n\nIt becomes more useful when you give it a system where it can **take an action, observe the result, detect mistakes, and try again.**\n\nThat's the foundation behind increasingly autonomous AI coding workflows.\n\nInstead of asking AI to write perfect code on the first attempt, Loop Engineering gives the agent an environment where it can continuously improve its output.\n\nAnd this could become one of the biggest shifts in software development as AI agents become more capable.\n\nIf you want a practical breakdown of how to build an AI coding loop using agents, tools, tests, and verification, comment **\"LOOP\"** and follow for more AI engineering videos.\n\n#LoopEngineering #AIEngineering #AIAgents #AIcoding #ClaudeCode #Codex #Cursor #AIEngineer #SoftwareEngineering #ArtificialIntelligence #LLM #GenerativeAI #AgenticAI #Coding #Programming #Developer #Automation #ContextEngineering #PromptEngineering #FutureOfCoding",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "P052ouQqHUU": {
       "checkedAt": "2026-08-08T19:53:38Z",
       "embedAllowed": true,
@@ -4910,41 +4901,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "uRTnxzg3C-0": {
-      "checkedAt": "2026-08-08T20:53:47Z",
-      "embedAllowed": true,
-      "description": "Make vs Zapier vs n8n: choose the AI automation platform your team can actually own.\nThis practical comparison shows when speed, a visual process map, or technical control matters most.\n\nZapier, Make, and n8n can often automate the same business process. The important difference is the system left behind: how it is understood, maintained, secured, monitored, and handed over. In this video, one realistic client-intake workflow becomes the lens for comparing the three operating models.\n\nWhat you will learn:\n• Why Zapier is often the fastest route for common apps and simple trigger-action workflows.\n• Why Make is useful when branches, filters, and data transformations need to stay visible.\n• When n8n's custom logic, self-hosting, and control justify the added technical responsibility.\n• The six-part workflow map to create before comparing pricing pages.\n\nChapters:\n00:00 Same workflow, three systems\n00:10 The real comparison\n00:18 Start with one workflow\n00:40 Zapier: speed\n01:14 Make: visual control\n01:33 The maintainability trap\n01:43 n8n: ownership and control\n02:17 The decision map\n02:47 The simplest reliable platform\n\nRead the full comparison:\nhttps://mikloskovacs.io/make-vs-zapier-vs-n8n-ai-automation/?utm_source=youtube&utm_medium=organic_video&utm_campaign=make_vs_zapier_vs_n8n&utm_content=2026-08-08_article\n\nMiklosKovacs.io resources:\nWebsite: https://mikloskovacs.io/\nFree AI Workflow Assessment: https://mikloskovacs.io/free-ai-assessment/\nAI Vendor Matchmaker: https://mikloskovacs.io/ai-tool-finder/\nAI Workflow Assessment: https://mikloskovacs.io/full-ai-business-assessment/\nAI Workflow Implementation Sprint: https://mikloskovacs.io/ai-workflow-implementation-sprint/\nAI Insights: https://mikloskovacs.io/ai-insights/\nLinkedIn: https://www.linkedin.com/in/a-miklos-kovacs/\n\nOfficial sources:\nMiklosKovacs.io comparison: https://mikloskovacs.io/make-vs-zapier-vs-n8n-ai-automation/\nZapier pricing: https://zapier.com/pricing\nZapier task rates: https://zapier.com/pricing/rates\nMake pricing: https://www.make.com/en/pricing\nMake MCP Server: https://www.make.com/en/mcp\nn8n documentation: https://docs.n8n.io/\nn8n pricing: https://n8n.io/pricing/\n\nDisclosure: This video uses Miklos Kovacs' approved AI avatar and synthetic voice. The script, sources, edit, and final publication package were human-reviewed.\n\n#AIAutomation #Zapier #n8n",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "s5UXfDiDLSk": {
-      "checkedAt": "2026-08-08T21:53:49Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🎙 Speaker: Md Abdul Munim\nSoftware Development Manager III at AWS, based in Dublin, with experience leading software engineering teams and building large-scale technology solutions.\nJoin us for an engaging discussion on how AI agents are transforming software development—from writing code to planning, reasoning, reviewing, and making better engineering decisions.\n\nOrganized by: CodeRant, Bangladeshi Tech Community in Malaysia\nhttps://www.coderant.org\ninfo@coderant.org",
-      "commentCount": 0,
-      "likeCount": 3,
-      "probeClient": "web_embedded"
-    },
-    "81khUfBg_6Y": {
-      "checkedAt": "2026-08-08T22:53:50Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI coding tools, open-source coding agents, GitHub repositories, Cursor alternatives, Copilot alternatives, Claude Code alternatives, and local AI models—compared in one video.\n\nCan open-source GitHub projects replace major parts of the paid AI coding workflow?\n\nIn this video, I compare seven open-source AI coding agents that can inspect repositories, edit files, run terminal commands, execute tests, review diffs, work from GitHub issues, and connect to cloud or local AI models.\n\nTHE SEVEN REPOSITORIES\n\n7. Aider — A Git-native AI pair programmer for the terminal\n6. Kilo Code — A feature-heavy, multi-surface coding agent\n5. Gemini CLI — A lesson about open clients and paid backends\n4. goose — A general-purpose agent for coding and automation\n3. Cline — A visible Plan-to-Act workflow inside your IDE\n2. OpenHands — An autonomous issue-to-tested-fix software worker\n1. OpenCode — A terminal-first agent supporting 75+ model providers\n\nThere is one important catch:\n\nOpen source does not automatically make the intelligence free.\n\nYou may still pay for API tokens, cloud infrastructure, or the hardware required to run capable local models. What these projects make optional is the subscription layer surrounding the model.\n\nThe real advantage is control. You can own the agent workflow, choose the model, manage permissions, and pay only for the layers you actually need.\n\nCHAPTERS\n\n0:00 AI coding subscriptions and monthly costs\n0:16 The strange part about paid coding tools\n0:30 What open-source coding agents replace\n1:08 #7 — Aider\n2:00 #6 — Kilo Code\n2:49 #5 — Gemini CLI\n3:41 #4 — goose\n4:36 #3 — Cline\n5:37 #2 — OpenHands\n6:42 #1 — OpenCode\n7:49 All seven repositories compared\n8:09 Should you cancel your paid AI tools?\n8:31 Local models, hardware, and the real cost\n8:59 Which AI coding agent should you try?\n9:14 The final takeaway\n\nGitHub stars, pricing, licenses, product access, and model-provider support can change over time. Always check the latest project documentation before using a tool in production.\n\nIf this video saved you a subscription—or at least made you question one—subscribe.\n\nCode Unpacked breaks down the AI tools, open-source repositories, coding agents, and developer systems people are actually using.\n\n#AICoding #CodingAgents #OpenSource #GitHub #CursorAlternative #ClaudeCode #DeveloperTools",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "0itignMhqnc": {
-      "checkedAt": "2026-08-08T22:53:50Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "A new free AI coding tool claims to be 245X faster — but what does that actually mean? 🤯\n\nIn this video, we explore JCode, an AI coding agent designed to work directly with your codebase, and look at how it compares with popular AI coding tools like Claude Code, Gemini CLI, and GitHub Copilot.\n\nYou'll learn:\n\n✔️ What JCode is and how it works\n✔️ Why JCode claims to be 245X faster\n✔️ How AI coding agents work with entire codebases\n✔️ JCode vs Claude Code vs Gemini CLI vs Copilot\n✔️ AI-powered code generation and modification\n✔️ Codebase navigation and understanding\n✔️ Whether JCode is actually useful for developers\n✔️ What to consider when evaluating AI coding tools\n\nIf you're a developer, AI engineer, ML engineer, software engineer, or coding enthusiast, this video gives you a quick look at one of the newer AI coding tools entering the rapidly evolving agentic coding space.\n\n⚠️ The 245X figure is a claim to investigate, not a guarantee of real-world performance. Actual speed can vary depending on the task, model, hardware, codebase, and workflow.\n\n🔗 Connect With Me & Resources\n\n💬 Discord Community: https://discord.gg/NymgnUrP\n📸 Instagram: https://www.instagram.com/pavithravbhuvan/\n💼 LinkedIn: https://www.linkedin.com/in/pavithra-vijayan-6a68379a/\n🎯 Topmate: https://topmate.io/pavithra_vijayan\n📁 GitHub: https://github.com/pavithra20august/pavithraspodcast-files",
-      "commentCount": 3,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "6HS6_nsRM2I": {
       "checkedAt": "2026-08-08T23:53:09Z",
       "embedAllowed": true,
@@ -4965,14 +4921,6 @@
       ],
       "commentsFetchedAt": "2026-08-08T23:53:09Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "nQLsOGn9jC4": {
-      "checkedAt": "2026-08-08T23:53:09Z",
-      "embedAllowed": true,
-      "description": "🔴 LIVE NOW — Pakistan's Biggest Agentic AI Webinar 2026\n\nWelcome to the LIVE coverage of Tech 7 Academy's Pakistan's Biggest Agentic AI Webinar.\n\nIn this exciting webinar, explore how Agentic AI, AI Agents, Automation and AI-powered technologies are changing the future of business and technology.\n\n🤖 WHAT YOU'LL LEARN:\n✅ How to Build AI Calling Agents\n✅ How to Build AI Chatbots\n✅ How to Make AI Automations\n✅ How to Develop AI-Powered Websites & SaaS Products\n✅ How to Start Your Own AI Agency\n✅ How to Build an AI-Powered E-commerce Business\n✅ AI-Powered Digital Marketing\n\n📅 Date: Saturday, 8 August 2026\n⏰ Live Time: 8:45 PM PKT\n🏢 Tech 7 Academy\n\nStay tuned for this exciting Agentic AI session and discover the future of AI.\n\n👍 LIKE the livestream\n🔔 SUBSCRIBE for more AI & technology content\n💬 SHARE your thoughts in the LIVE chat\n\n#Tech7Academy #AgenticAI #AIWebinar #AIAgents #ArtificialIntelligence #AI2026 #PakistanAI #AIAutomation #AILive",
-      "commentCount": 0,
-      "likeCount": 4,
       "probeClient": "web_embedded"
     },
     "bzSN73XXiC4": {
@@ -6656,7 +6604,7 @@
       "probeClient": "web_embedded"
     },
     "toVxUaUg5Mc": {
-      "checkedAt": "2026-08-12T09:53:13Z",
+      "checkedAt": "2026-08-12T10:53:21Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8047,6 +7995,54 @@
       "description": "Sign up for Practi (https://practi.ai), a new platform that helps law firms use subscription billing.\n\nHere are the top 5 takeaways from this episode:\n\n1. Treat AI like a brilliant entry-level employee. AI tools are incredibly knowledgeable (having “read everything on the internet”), but they work best when given clear context, iterated on, and never blindly trusted as a source of truth. Think of each new conversation as their first day on the job.\n\n2. Use a structured, perspective-driven prompt. Always tell the AI who you are, who your client is, what document is being analyzed, and from whose perspective. This prevents generic, both-sides analysis and produces targeted, actionable output.\n\n3. Run the same analysis across multiple AI tools. Using Paxton (legal-specific), Gemini Notebook (broad research), and Perplexity (internet + multi-model) in parallel surfaces different insights. Each tool catches things the others may miss, providing a more comprehensive review in minutes rather than hours.\n\n4. Iterate the output and don’t stop at the first result. After the initial analysis, follow up with prompts like “draft this as a letter to my client” or “simplify the language.” This refines the output into polished, client-ready work product without starting from scratch.\n\n5. Always verify citations against the source document. Tools like Paxton and Gemini Notebook link their analysis points back to the specific clauses they reference. Always click through and read the actual contract language, trust but verify, since AI is not infallible and your legal judgment is still essential.\n__________________________\nWant your question to be answered on a future show? Fill out this short survey (https://forms.gle/ZybE8Ha8trZSDDxF8).\n\nSign up for Paxton, my all-in-one AI legal assistant, helping me with legal research, analysis, drafting, and enhancing existing legal work product (https://www.paxton.ai/?utm_source=partnerships&utm_medium=podcast&utm_campaign=lawsubscribed).\n\nGet Connected with SixFifty⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠, a business and employment legal document automation tool (https://www.lawsubscribed.com/p/sixfifty).\n\nSign up for ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Gavel⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠, an automation platform for law firms (https://start.gavel.io/pay/?ref=lawsubscribed).\n\nVisit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Law Subscribed⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ to subscribe to the weekly newsletter to listen from your web browser (https://www.lawsubscribed.com/subscribe).\n\nPrefer monthly updates? Sign up for the Law Subscribed Monthly Digest on LinkedIn (https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7252802794242355201).\n\nCheck out ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Mathew Kerbis'⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ law firm ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Subscription Attorney LLC⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ (https://subscriptionattorney.com).\n\nWant to use the subscription model for your law firm? Click here (https://www.practi.ai/) to sign up for a new platform that helps law firms use subscription billing.",
       "commentCount": 0,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "c9Iftx2s7d0": {
+      "checkedAt": "2026-08-12T10:53:21Z",
+      "embedAllowed": true,
+      "description": "The latest episode of Building Tomorrow is here! 🎙️\n\nJoin us as Niroshan Dharmakantha, Director – Project Delivery at Millennium IT ESP (BSc Computing ’09), and Isuru Sirinimal, Strategic ICT Leader & Director of Edge Tech Innovation (BSc Computing ’05), share their insights on what it takes to lead as AI reshapes software delivery.\n\nFrom the future of software development to the role of Sri Lanka’s tech talent, this conversation explores what’s next for the industry — and how we can prepare for it.\n\n🎧 Listen to the latest episode of Building Tomorrow now!\n\n#BuildingTomorrow #SLIIT #AI #TechInnovation #SoftwareEngineering #SriLankaTech #FutureOfTechnology #SLIITAlumni",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "2ZU3j4GQ4K8": {
+      "checkedAt": "2026-08-12T10:53:21Z",
+      "embedAllowed": true,
+      "description": "I decided to stop using AI for coding at my job, even if it costs me that job. I don't know what the future will bring, but I know it will be one where I don't use AI for anything, especially coding at my day job.\n\nRead my less ramble-y thoughts: https://brettcodes.com/im-done-using-ai/\n\nI've been coding for 20 years, and the last 18 months have made me question the career and craft I enjoy so much. Using AI for coding led me to apathy, existential dread, and depression. It made me a worse developer, and it leads to worse software. The way that we as an industry and the entirety of humanity are largely approaching this technology is extremely concerning, and I want to share my experiences and thoughts on it.\n\nChapters:\n00:00 - Intro\n01:19 - My History with AI\n06:10 - The Mandate\n08:58 - Chat Delusions\n11:15 - The Result of a Year of Agentic Coding\n17:17 - The Trade-Offs Aren't Worth It",
+      "commentCount": 1700,
+      "likeCount": 4478,
+      "probeClient": "web_embedded"
+    },
+    "DCYu-1sp8UA": {
+      "checkedAt": "2026-08-12T10:53:21Z",
+      "embedAllowed": true,
+      "description": "FREE - Get my video notes: https://www.codebreakthrough.com/products/63765398-fb1e\nhttps://www.coursecatalyst.com/elite\n\nTimestamps\n00:00 - Intro\n0:31 - How AI has changed software development\n2:05 - AI written vs AI generated\n2:45 - How to use AI as a developer\n3:05 - Learning AI vs fundamentals\n3:42 - The importance of testing\n5:13 - Should you still learn how to code?\n6:33 - A bad example\n8:35 - How to learn to code in the age of AI\n10:56 - The value of learning how to code\n13:09 - Summary\n\n⚙️ Backend Engineering Mind Map - https://calcur.tech/mindmap\n\n💯 FREE Courses (100+ hours) - https://calcur.tech/free-courses\n🏆 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n🐍 Backend Python Course - https://calcur.tech/backend-python\n🥇 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n✉️ Newsletter - https://calcur.tech/newsletter\n📸 Instagram - https://www.instagram.com/CalebCurry\n🐦 Twitter - https://twitter.com/calebCurry\n🔗 LinkedIn - https://www.linkedin.com/in/calebcurry\n▶️ Subscribe - http://calcur.tech/subscribe\n👨🏻‍🎓 Courses - https://www.codebreakthrough.com\n🅿 Patreon - http://calcur.tech/patreon-calebcurry",
+      "commentCount": 12,
+      "likeCount": 163,
+      "probeClient": "web_embedded"
+    },
+    "waDJBkB2iqo": {
+      "checkedAt": "2026-08-12T10:53:21Z",
+      "embedAllowed": true,
+      "description": "You can get my app right here, try it free: https://square.one\n\nAnd don't forget to grab the blueprint before this tier runs out so we can grow together in the community:\nhttps://squareblackblueprint.com \n\nSaaS is dying. No. Scratch that. SaaS is already mostly dead. Is it AI? Is it vibe coders? Is it something else? I believe it is something else and we're in the end of an era. If you plan on making money with software charging monthly is NOT the way for most businesses.\n\nWhich is funny, as most vibe coders are obsessed by how much they'll make vibe coding. The hilarious part is that in this coming future nobody will be making money, no matter how they code. \n\nI love when reality is ironic like that. Let's break it down how I analyze my apps on a 4 point scale and if they miss even a single point and I fail to fix it, I kill the product. Most of my ideas will be killed right now.\n\n#saas #softwaredevelopment #ai \n\n00:00 SaaS died in 2026\n00:51 Why is it dying?\n01:22 Reason 1: AI\n03:02 Reason 2: Vibe coding\n06:19 Reason 3: Greed vs fatigue\n10:35 The 4 step evaluation process",
+      "commentCount": 31,
+      "likeCount": 164,
+      "probeClient": "web_embedded"
+    },
+    "uFKfB_PVl20": {
+      "checkedAt": "2026-08-12T10:53:21Z",
+      "embedAllowed": true,
+      "description": "👉Join the Rust Live Accelerator waitlist: https://letsgetrusty.com/join/wv-uFKfB_PVl20\n\nIs it too late to become a software developer in the age of AI, layoffs, and a brutal entry-level market? This video breaks down what has actually changed, why mediocre code-typing is becoming less valuable, and which skills still matter. We’ll also look at how fundamentals, difficult projects, AI-assisted learning, and systems programming can help aspiring developers stand out.\n\nChapters:\n0:00 Intro\n0:59 What changed in software development\n2:30 Will AI replace software engineers?\n4:06 Is the job market too saturated?\n4:50 How to future-proof your skills\n5:57 Why Rust and systems programming\n6:25 Is it too late to become a developer?",
+      "commentCount": 54,
+      "likeCount": 309,
+      "probeClient": "web_embedded"
+    },
+    "k2LLUKj6piE": {
+      "checkedAt": "2026-08-12T10:53:21Z",
+      "embedAllowed": true,
+      "description": "Want to try for yourself? Find the code here → https://ibm.biz/~z0864Quoc\nGet started with IBM Bob here → https://ibm.biz/~jwTD1sFnP\n\nHave you been vibe coding? 🤖 Ash Minhas demonstrates how Spec Kit uses constitutions, specs, plans, and tasks to guide AI coding agents. Learn spec-driven development, reduce AI guesswork, and build more reliable apps with structured AI workflows in IBM Bob. \n\nExplore more technical tutorials, articles, and learning resources here → https://ibm.biz/~tG2az4XHH\n\nSubscribe → https://ibm.biz/~vwHszHcFZ\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#aicoding #promptengineering #sdd #specdrivendevelopment",
+      "commentCount": 9,
+      "likeCount": 104,
       "probeClient": "web_embedded"
     }
   }
