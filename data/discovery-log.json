@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T13:53:46Z",
+  "updatedAt": "2026-08-12T14:53:50Z",
   "items": [
+    {
+      "id": "GqIBYTAGdXs",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-12T14:43:47Z",
+      "firstSeenAt": "2026-08-12T14:53:50Z"
+    },
+    {
+      "id": "LmY-2w_P8-o",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TECH GPT",
+      "publishedAt": "2026-08-12T14:10:50Z",
+      "firstSeenAt": "2026-08-12T14:53:50Z"
+    },
+    {
+      "id": "8WppW2ImqMw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Creator Magic",
+      "publishedAt": "2026-08-12T14:10:50Z",
+      "firstSeenAt": "2026-08-12T14:53:50Z"
+    },
+    {
+      "id": "ftNYhk3RQ-M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Parker Prompts",
+      "publishedAt": "2026-08-12T13:59:50Z",
+      "firstSeenAt": "2026-08-12T14:53:50Z"
+    },
+    {
+      "id": "e1wX5CNPa7U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Easy AI Coding",
+      "publishedAt": "2026-08-12T13:53:50Z",
+      "firstSeenAt": "2026-08-12T14:53:50Z"
+    },
+    {
+      "id": "fgM06XtZGqQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Moxus Ai",
+      "publishedAt": "2026-08-12T12:53:50Z",
+      "firstSeenAt": "2026-08-12T14:53:50Z"
+    },
+    {
+      "id": "qGaJjeEEpFQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Grow with Google",
+      "publishedAt": "2026-08-11T14:53:50Z",
+      "firstSeenAt": "2026-08-12T14:53:50Z"
+    },
     {
       "id": "WU4pZ2itW1c",
       "type": "short",
@@ -11293,15 +11349,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-29T14:53:13Z",
-      "new": 10,
-      "long": 7,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
       "runAt": "2026-07-29T15:53:10Z",
       "new": 5,
       "long": 3,
@@ -12704,6 +12751,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-12T14:53:50Z",
+      "new": 7,
+      "long": 4,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
