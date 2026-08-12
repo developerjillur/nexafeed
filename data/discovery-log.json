@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T06:53:43Z",
+  "updatedAt": "2026-08-12T07:53:44Z",
   "items": [
+    {
+      "id": "IiXc5QMXWsk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Professor of AI",
+      "publishedAt": "2026-08-12T06:54:30Z",
+      "firstSeenAt": "2026-08-12T07:53:44Z"
+    },
+    {
+      "id": "QTcZPI-g7is",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Paul J Lipsky",
+      "publishedAt": "2026-08-11T21:53:44Z",
+      "firstSeenAt": "2026-08-12T07:53:44Z"
+    },
+    {
+      "id": "JQ97GiDwPxc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Two Minute Papers",
+      "publishedAt": "2026-08-11T15:53:44Z",
+      "firstSeenAt": "2026-08-12T07:53:44Z"
+    },
+    {
+      "id": "tEORX_PevRM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Marina Wyss - AI & Machine Learning",
+      "publishedAt": "2026-08-11T14:53:44Z",
+      "firstSeenAt": "2026-08-12T07:53:44Z"
+    },
+    {
+      "id": "gYXlBYOocHU",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Google Cloud",
+      "publishedAt": "2026-08-11T12:53:44Z",
+      "firstSeenAt": "2026-08-12T07:53:44Z"
+    },
+    {
+      "id": "CRVaa8HTz-A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-11T12:53:44Z",
+      "firstSeenAt": "2026-08-12T07:53:44Z"
+    },
+    {
+      "id": "Qx0fCqpkBus",
+      "type": "long",
+      "source": "secondary",
+      "channel": "IBM Technology",
+      "publishedAt": "2026-08-11T11:53:44Z",
+      "firstSeenAt": "2026-08-12T07:53:44Z"
+    },
     {
       "id": "Z_fy0N5lYi8",
       "type": "short",
@@ -10949,15 +11005,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-29T07:53:08Z",
-      "new": 2,
-      "long": 1,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
       "runAt": "2026-07-29T08:53:08Z",
       "new": 4,
       "long": 2,
@@ -12360,6 +12407,15 @@
       "channelsChecked": 33,
       "warnings": 21,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-12T07:53:44Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }

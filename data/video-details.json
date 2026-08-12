@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T06:53:43Z",
+  "updatedAt": "2026-08-12T07:53:44Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -1122,99 +1122,6 @@
       "description": "👉 Higgsfield (get discount + free credits): https://higgsfield.ai/?fpr=keith41\n👉 Free prompts + website templates: https://www.uiprompts.app/\n\nThis looks like a 3D website, but there's no 3D model and it's not a video player. The entire cinematic is broken into hundreds of individual frames — and your scroll wheel is the playhead.\nHiggsfield generated the visuals. Claude Code built the site. Fable 5 ran the whole process: generating assets, writing code, checking results, and fixing its own mistakes. Total cost: about $13 in Higgsfield credits.\nI'll show you the full process — 5 keyframes → 4 cinematic clips → a website that plays the film as you scroll. Including the mistakes I made, because the first results did NOT come out right.\n\n00:00 Scroll Controlled Cinema\n01:02 How The Tech Works\n01:59 Five Step Overview\n03:33 Hixfield Setup And Plans\n06:10 Connect The MCP Tools\n08:09 UI Prompts MCP Templates\n10:58 Keyframes Make Or Break\n12:14 Generate Five Keyframes\n14:59 Turn Clips Into Website\n16:21 Style Variations And Prompts\n17:15 Cost Breakdown And Credits\n18:32 Deploy Live With Railway\n20:53 Final Thoughts And Next Steps\n\n🔗 LINKS MENTIONED\nHiggsfield (discount + free credits): https://higgsfield.ai/?fpr=keith41\nUI Prompts — free keyframe prompts, video prompts, and 100+ website templates: https://www.uiprompts.app/\n\n📚 WHAT YOU'LL LEARN\n• Why keyframes matter more than anything else (and why generating one bad video costs 36x more than a bad image)\n• How to connect the Higgsfield MCP to Claude, Claude Code, ChatGPT, OpenClaw, and Hermes\n• The prompt structure that stops your keyframes looking like AI slop\n• Why chaining short clips beats generating one long video\n• How to break a video into hundreds of frames and scrub it with the scroll wheel\n• Publishing it live with Railway + GitHub instead of leaving it on localhost\n\n🤝 JOIN THE FREE COMMUNITY\nGot questions? Join my free Skool: https://www.skool.com/keith-ai-3958\n\n#AI #ClaudeCode #Higgsfield #WebDesign #AIVideo",
       "commentCount": 8,
       "likeCount": 39,
-      "probeClient": "web_embedded"
-    },
-    "D4fxcACCdEc": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 81,
-      "likeCount": 8080,
-      "comments": [
-        {
-          "id": "UgxLDStshbzJOkTUegJ4AaABAg",
-          "author": "@Amit-zxr2.0",
-          "text": "Pepper hindi me hoga",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ALnPcjauAX00uIVjhWqmkQdUsQ_-BpATfVM4ehkxHWZToLdQVJJqtZ_Nn6wIEWbFp-zT5e1Zqg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz1wG3UdWGVAcMbOF94AaABAg",
-          "author": "@statusshorts785",
-          "text": "Galgotiya come on my boy 😅",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/8Kl6Kkkk7HL01_ItUlDuM60bPO3ptiOJBl_E5DxbYJG2TGqP1xrU_Tvm6E7-bQIisFc43sMmMQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwDjq9xy-G4zF-lxTR4AaABAg",
-          "author": "@Nixanroy",
-          "text": "मै ai हु रे india मे यही होता है 😅😢",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T10:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/9YIvfFArWjoQOVTdmRWOEe06lRWm_gHkkdirGzM0OB80BN_sj5aXZ4szebf6VqGizK1DsK56-yw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwRijuZzyGgNooNMVB4AaABAg",
-          "author": "@AjitKumar95-w7l",
-          "text": "Sir mai abhi 11th me hu aur maine commerce stream li hai mai CA bhir ACCA karna chahata hu kya ye sahi rahega future ke hisab se",
-          "likeCount": 1,
-          "publishedAt": "2026-07-30T10:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/I9JglPoo3wjbe1Ctu7ZxYRpH8RuGjoI0ZtYUzYLzOkMDUu-Plz5fkZdK0znoZjCxJOsIk2ybIhk=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxQLr-0YNAbkfZ6YxZ4AaABAg",
-          "author": "@Technotreon",
-          "text": "Robot: 6 m/s pe bhaag raha hai\nMe: stairs dekh ke lift dhund raha hoon 😂",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/mtUX-s25j_ZGy1lhb8l3e4Myfaw-YWRoiNoSroK8nJ4C6ywNrulzXsYhYSaJIq1P9rmCu8DIeg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyGpUTWGo87SdofZdR4AaABAg",
-          "author": "@i-am-a-nooob",
-          "text": "Price ??",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/qgV6lwNYB_gIhpDKnwxt-0qGjmYvwUvxGWG8T9Herqff8AQTD7P1DYoMXvCflPeknbBQ0SH_jg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy2q51LWaXSMD1HrOd4AaABAg",
-          "author": "@manuelrodrick2998",
-          "text": "Sab loot ne mai lage huye hai.",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mr68xVtwCG59pwmahbvxeUcHUl64CSuCgVw8ACQsQ8kw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxcntdS_mDthGV99dJ4AaABAg",
-          "author": "@jayeshchari2741",
-          "text": "Us ai summit ki wajah se chinese robot company ki marketing mast hogai 😂😂😂😂",
-          "likeCount": 0,
-          "publishedAt": "2026-07-30T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mtExry_HtR49WFFW_ZenAsF87Ex5LMTfSqZj1Cd3l5vsk=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-30T12:53:48Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "Df2HYYjz9IU": {
@@ -4942,15 +4849,6 @@
       "likeCount": 2,
       "probeClient": "web_embedded"
     },
-    "XSLFA3N2Z-k": {
-      "checkedAt": "2026-08-08T13:53:42Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Google Ads + AI Automation: The Future of Digital Marketing\n\nAI Automation is transforming the way businesses run Google Ads. Tasks that once took hours—such as bid optimization, audience analysis, performance monitoring, and campaign management—can now be handled faster and more intelligently with AI.\n\nBut here's the truth: AI isn't replacing marketers; it's empowering them. The real advantage comes from combining human strategy with AI-driven automation to make smarter decisions, save time, and achieve better results.\n\nThe future of digital marketing belongs to those who embrace AI, adapt quickly, and use automation to scale their business more efficiently.\n\n\n💬 Do you think AI will completely change Google Ads? Share your thoughts in the comments!\n\n\n\n\nConnect With Me:\n----------------------------\nFacebook: https://www.facebook.com/freelancer.tofayeI\nLinkedIn: https://www.linkedin.com/in/tofayel-ahmad/\nWhatsApp: https://wa.me/message/ZTCWLTJR7AB5L1\nWebsite:  http://freelancertofayel.com/",
-      "commentCount": 2,
-      "likeCount": 8,
-      "probeClient": "web_embedded"
-    },
     "SDJD85dLWwk": {
       "checkedAt": "2026-08-08T14:53:43Z",
       "embedAllowed": true,
@@ -4958,15 +4856,6 @@
       "description": "How I save $790+ a month with Self Hosting:\n👉 https://learnwithhasan.com/courses/self-hosting/\n\nSame AI model, same prompt, one reply is generic AI slop, the other sounds exactly like me, because it is connected to my brain. That brain is just a private GitHub repo of markdown files that holds who you are, how you write and what you believe, and it runs two ways: locally with Claude Code, and online on your own server over MCP so any AI can read it. Free, open source, self hosted, here is how to build yours.\n\nFull Step By Step Guide:\n👉 http://learnwithhasan.com/guide/ai-second-brain/\n\nStar the GitHub Repo: \n👉 https://github.com/hassancs91/brainoutside\n\n\n🔗 MY KEY LINKS\n👉 Website - learnwithhasan.com\n👉 My newsletter: https://learnwithhasan.com/newsletter/\n👉 Follow on X - https://x.com/hasan_ab_hasan\n🧰 MY FAVOURITE TOOLS:👉 https://learnwithhasan.com/tools-i-use/\n\n\nCHAPTERS\n0:00 Same AI, same prompt, one big difference\n1:42 My brain told the AI what not to make up\n2:13 What I built: an AI brain called BrainOutside\n3:17 How it works: markdown files in a git repo, 2 heads\n4:38 Build the local brain (Claude Code)\n6:18 The second head: taking your brain online\n6:55 Self-host it: VPS, Coolify, and the setup wizard\n9:37 Local and online: one repo, two doors\n10:16 Dashboard tour: rings, graph, queue, chat\n11:02 Claude reads my brain over MCP\n11:44 What I use it for every day\n12:11 Books, courses, and building with AI\n12:45 The rule: read always, feed always\n13:15 The ladder: voice, avatar, humanoid (simulated)\n14:41 Free and open source: go build yours\n\n\n#ClaudeAI #SecondBrain #OpenSource",
       "commentCount": 2,
       "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
-    "ZxOog5EIqi0": {
-      "checkedAt": "2026-08-08T14:53:43Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "এক ক্লিকে ৩০ মিনিটের  Slow English  ভিডিও বানান | Full AI Automation Workflow AI   | Slow English Story Videos | English Learning Channel Using AI \n\nmaster Prompt :https://docs.google.com/document/d/1pyLh09M0Cs56DTEdIGTSc1ui4iGjneSAMpHtSbcR_U8/edit?usp=sharing\n\nআমার সাথে যোগাযোগ করতে\nTelegram: https://t.me/hasanskillzone\nFacebook Page: https://www.facebook.com/profile.php?...\nFacebook Group:    / 3854671071438805\nwebsite : https://www.hasanskillzone.com/\nWhatappps : 01843661826\n\nAI ব্যবহার করে কীভাবে অটোমেশনের মাধ্যমে professional Slow English ভিডিও তৈরি করবেন—এই ভিডিওতে আমি সম্পূর্ণ process step-by-step দেখিয়েছি। Script ও story তৈরি করা থেকে শুরু করে character, image, voice-over, video generation, editing এবং final YouTube upload—পুরো workflow সহজভাবে জানতে পারবেন।\n\nবর্তমানে Slow English এবং English-learning story content আন্তর্জাতিক audience-এর মধ্যে বেশ জনপ্রিয়। বিশেষ করে beginner English learners-এর জন্য সহজ vocabulary, ধীরগতির narration এবং engaging visual story ব্যবহার করে faceless YouTube channel তৈরি করা সম্ভব।\n\nএই ভিডিওতে আপনি শিখবেন:\n\n✅ Profitable Slow English niche research করার পদ্ধতি\n✅ AI দিয়ে unique English story ও script তৈরি\n✅ Consistent character এবং scene generation\n✅ Natural Slow English voice-over তৈরি\n✅ Image থেকে engaging video বানানো\n✅ সম্পূর্ণ ভিডিও automation workflow\n✅ Thumbnail এবং YouTube SEO করার পদ্ধতি\n✅ Copyright ও reused content-এর ঝুঁকি কমানোর উপায়\n\nএই tutorial-টি beginners, content creators এবং YouTube automation নিয়ে কাজ করতে আগ্রহীদের জন্য তৈরি করা হয়েছে। আপনি যদি USA, UK, Canada বা অন্যান্য international audience টার্গেট করে English-learning channel তৈরি করতে চান, তাহলে ভিডিওটি শেষ পর্যন্ত দেখুন।\n\n⚠️ গুরুত্বপূর্ণ: ভিডিও বা thumbnail-এ প্রদর্শিত earnings তৃতীয় পক্ষের estimated data। এটি নিশ্চিত বা guaranteed income নয়। Channel-এর ফলাফল content quality, originality, audience retention, consistency এবং YouTube policies-এর ওপর নির্ভর করবে।\n\nভিডিওটি উপকারী মনে হলে Like করুন, আপনার মতামত Comment-এ জানান এবং AI, YouTube Automation ও Content Creation-এর আরও practical tutorial পেতে Hasan Skill Zone Subscribe করুন।\n\nHasan Skill Zone-এর সাথে থাকুন, আপনার Digital Skill বাড়ান। slow english video, slow english channel, AI slow english video, slow english story video, AI দিয়ে slow english ভিডিও, slow english youtube channel, youtube automation bangla, AI video generation bangla, faceless youtube channel, english learning channel, AI story video, slow english listening, english story channel, youtube automation tutorial 2026, AI দিয়ে ভিডিও বানান, faceless channel idea, AI content creation, english learning videos, youtube channel ideas 2026, Hasan Skill Zone\n\n#SlowEnglish #YouTubeAutomation #AIVideo #SlowEnglish #YouTubeAutomation #AIVideo #FacelessYouTubeChannel #EnglishLearning #AIContentCreation #AITutorialBangla #YouTubeTips #HasanSkillZone",
-      "commentCount": 11,
-      "likeCount": 31,
       "probeClient": "web_embedded"
     },
     "ag3J9c4nrTo": {
@@ -5015,15 +4904,6 @@
       "description": "AI coding is moving beyond simple prompts.\n\nIn this video, we'll explain **Loop Engineering** — a new way of thinking about AI-powered software development where AI doesn't just generate code, but continuously **builds, tests, verifies, fixes, and improves** its work.\n\nInstead of the traditional workflow:\n\n**Prompt → Code → Done**\n\nthe AI engineering loop looks more like:\n\n**Goal → Plan → Build → Test → Verify → Fix → Repeat**\n\nIn this video, you'll learn:\n\n✅ What is Loop Engineering?\n✅ Why normal AI coding workflows are limited\n✅ How AI agents create feedback loops\n✅ How agents plan and execute tasks\n✅ How automated testing fits into the loop\n✅ How AI detects and fixes its own mistakes\n✅ Verification and evaluation explained\n✅ How tools and code execution make the loop possible\n✅ Loop Engineering vs Prompt Engineering\n✅ Loop Engineering vs Context Engineering\n✅ How Claude Code, Codex and other AI coding agents fit into this workflow\n✅ Why autonomous software development needs continuous feedback\n✅ What this could mean for the future of developers\n\nThe important idea is simple:\n\nAI doesn't become reliable just because the model gets smarter.\n\nIt becomes more useful when you give it a system where it can **take an action, observe the result, detect mistakes, and try again.**\n\nThat's the foundation behind increasingly autonomous AI coding workflows.\n\nInstead of asking AI to write perfect code on the first attempt, Loop Engineering gives the agent an environment where it can continuously improve its output.\n\nAnd this could become one of the biggest shifts in software development as AI agents become more capable.\n\nIf you want a practical breakdown of how to build an AI coding loop using agents, tools, tests, and verification, comment **\"LOOP\"** and follow for more AI engineering videos.\n\n#LoopEngineering #AIEngineering #AIAgents #AIcoding #ClaudeCode #Codex #Cursor #AIEngineer #SoftwareEngineering #ArtificialIntelligence #LLM #GenerativeAI #AgenticAI #Coding #Programming #Developer #Automation #ContextEngineering #PromptEngineering #FutureOfCoding",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "f4G54j4EO3Q": {
-      "checkedAt": "2026-08-08T18:53:28Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥 Independence Day Special: Get Flat 40% OFF on all courses!\n🚀 Learn React, JavaScript and more: https://codecompile.ai/\n🎟️ Use code FREEDOM40 — valid till 15th August.\n\n👉 Join Our Web Community:  https://learn.codecompile.ai/web/login\n👉 Career Guidance (Connect with me ):  https://topmate.io/technical_suneja\n👉 Resume Link:  https://bit.ly/40T0KwX\n\nIs the IT industry simply changing, or is AI actually killing software engineering jobs?\n\nIn this video, I explain the real IT job market for 2026–27, why freshers and experienced developers are struggling, and what companies now expect from software engineers.\n\nNo fake motivation or overnight-success promises—only practical advice based on my 9+ years of experience in the software industry.\n\nWatch till the end - the final part can help you avoid common mistakes and choose the right learning path. 🚀\n\n🔥 Don’t forget to Like, Share and Subscribe for more practical tech and career content.\n\n━━━━━━━━━━━━━━━━━━━━\n\n⭐ Must-Watch Videos\n\n👉 Most People Are Learning AI Wrong in 2026: https://youtu.be/gqRWi9X_TD0\n👉 My Honest Microsoft Interview Experience: https://www.youtube.com/watch?v=YZC8Dzx3G5E\n👉  The Truth About AI Coding in 2026 - No Hype, Only Truth - https://youtu.be/sO-ssqm9jPk\n\n━━━━━━━━━━━━━━━━━━━━\n\n👉 Subscribe: @TechnicalSuneja \n👍 Like, Share and Comment if this video helped you.\n❤️ Share it with someone planning to learn AI.\n🎯 Like Goal: 5,000 Likes\n\n❤️ Our Family: 600,000+\n🎯 Subscriber Goal: 700,000\n\n━━━━━━━━━━━━━━━━━━━━\n\n⭐ Must-Watch Tech Career Videos\n\n👉 Web Development: https://bit.ly/3KFTezX\n👉 Cybersecurity: https://bit.ly/4pCIf9N\n👉 Data Engineering: https://bit.ly/44njA0m\n👉 DevOps and Cloud: https://bit.ly/4gqV0iM\n👉 AI Engineering: https://bit.ly/4oXQJaj\n👉 Software Testing: https://bit.ly/4qbyuPK\n👉 Salesforce Careers: https://bit.ly/3VEwrXg\n\n━━━━━━━━━━━━━━━━━━━━\n\n1) IT Job Market 2026 – No Hype, Only Truth | Reality of Tech Jobs\n2) IT Job Market 2026 – No Hype, Just the Real Truth\n3) IT Job Market 2026 – The Real Reality of Tech Jobs\n4) IT Job Market 2026 – No Hype, Real Picture of Tech Careers\n5) IT Job Market 2026 – Truth Behind the Tech Job Reality\n6) IT Job Market 2026 – What’s Really Happening in Tech Jobs\n7) IT Job Market Reality in 2026 – No Hype, Only Truth | Reality of Tech Jobs\n\n⭐ Tags\nIT job market 2026,tech jobs 2026,IT jobs future,tech layoffs,when will tech layoffs end,IT layoffs 2025,software engineer jobs,IT job reality,tech job market,IT career future,AI impact on jobs,software jobs in India,IT jobs India,IT industry 2026,tech career guidance,fresher IT jobs,experienced IT jobs,IT jobs truth,job market reality,technical suneja\n\n#jobs #ai  #market",
-      "commentCount": 158,
-      "likeCount": 1031,
       "probeClient": "web_embedded"
     },
     "P052ouQqHUU": {
@@ -5093,15 +4973,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "3sU636O09_Y": {
-      "checkedAt": "2026-08-08T21:53:49Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Which jobs will AI replace first? Will AI software development replace human engineers?\n\nUnderstand how AI agents are changing coding automation and what to expect. AI may not eliminate every worker, but it could automate repetitive work, shrink entire departments, and fundamentally change what professionals are paid to do.\n\nIn this clip from An Hour of Innovation, AI strategy expert Sid Bharath explains which business processes are most likely to be replaced by AI agents. Data reconciliation, administrative work, document management, calendar management, and moving information between business systems are among the tasks most exposed to automation.\n\nEven software development is changing. AI coding tools can automate more engineering work, but human engineers are still needed to define architecture, guide technical decisions, and review AI-generated code.\n\nFor operations-heavy companies, the real opportunity may be greater productivity rather than simple job elimination. A marketer who once produced one campaign per day could produce four with AI while using human judgment to review, improve, and direct the work.\n\nKey takeaways:\n• Which jobs and departments could AI affect first\n• Will AI replace software development\n• Why repetitive operations work is highly exposed\n• How AI agents automate business processes\n• Why software engineers will remain important\n• How AI can increase workplace productivity\n• Why automation may transform jobs instead of eliminating them\n\nWill AI replace entire departments, or will it create more valuable work for people? Share your perspective in the comments below on how you are currently using AI in your own development workflow.\n\n👉 Subscribe to An Hour of Innovation for practical conversations about AI, business automation, product management, startups, software engineering, and the future of work.\n\n🔗 Full episode: https://youtu.be/-uyq4x94X_c\n\n#AINative #AIAgents #AgenticAI #ArtificialIntelligence #AIWorkflows #GenerativeAI #FutureOfWork #AIAutomation #aijobs #softwaredevelopment #softwareengineering #AI #aitrends #BusinessAutomation #TechCareers \n\nConnect with Sid\nWebsite: https://refoundai.com/ \nLinkedIn: https://www.linkedin.com/in/sidbharath/ \nX: https://x.com/Siddharth87 \nOther: https://sidbharath.com/ \n\nConnect with Vit\nSubstack: https://anhourofinnovation.substack.com/\nLinkedIn: https://www.linkedin.com/in/vit-lyoshin/ \nX: https://x.com/vitlyoshin \nWebsite: https://vitlyoshin.com/ \nX: https://x.com/vitlyoshin \n\nTo support our work, please check out our sponsors and get discounts: https://www.anhourofinnovation.com/sponsors/ \n\nFor inquiries about sponsoring An Hour of Innovation, email iris@anhourofinnovation.com",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "81khUfBg_6Y": {
       "checkedAt": "2026-08-08T22:53:50Z",
       "embedAllowed": true,
@@ -5136,24 +5007,6 @@
       "description": "Use AI for free, unlimited — no cash, no catch. In this video I show you Arena, a website where you can generate images, videos, and code, chat with top models like Claude Sonnet 5, GPT, GLM, Kimi K2.7, and more — all without paying a rupee.\n\n🔗 RESOURCES\nArena AI (official website): https://arena.ai\n\n⏱️ TIMESTAMPS\n00:00 – Intro: Use AI free & unlimited (images, video, code)\n00:11 – Is Arena really free? How the usage limit works\n00:33 – Why it's free (leaderboard + training data model)\n01:06 – Platform overview: file upload, web/app building, search\n01:27 – Image generation comparison demo begins\n01:58 – Limitations: no top-tier models like Claude Sonnet 5 / Fable\n02:03 – Battle Mode vs Side-by-Side Mode explained\n02:25 – How to pick a model (vision support, image-upload requirement)\n02:52 – Available image models: Seedream, GPT Image, Nano Banana\n03:23 – Live demo: generating images with Seedream 5 Pro vs Nano Banana\n03:58 – Comparing the two generated results\n04:31 – Mini-game demo built with Claude Sonnet 5 (Battle Royale)\n04:39 – Claude models on Arena (Sonnet 4.5, Sonnet 5 High)\n04:53 – GLM 5.2 Max and Kimi K2.7 models\n05:19 – Gameplay demo of the AI-built battle game\n06:16 – Downloading the generated game's full source code\n06:32 – Comparing the same game built with GLM\n06:53 – More 3D battle games built with different models\n07:15 – Why using coding \"skills\" improves results\n07:23 – Cloning a Dribbble UI design as a landing page\n08:09 – Comparing the landing page built with Claude vs Kimi K2.7\n08:20 – Publishing and sharing a live link\n08:47 – Side-by-side comparison of both landing pages\n09:16 – Video generation option (availability varies)\n09:39 – Document/PDF analysis demo\n09:55 – Upload limit note (90-page PDF cap)\n10:07 – Resume analysis output example\n10:39 – Recap: unlimited free access to top AI models\n10:56 – Outro: try Arena, like, subscribe & related videos\n\n📌 WHAT THIS VIDEO COVERS\n- What Arena is and how it's actually free (leaderboard/training data model)\n- Generating and comparing AI images (Seedream, GPT Image, Nano Banana)\n- Battle Mode vs Side-by-Side Mode\n- Building mini-games with Claude Sonnet 5, GLM, and Kimi K2.7\n- Downloading and running the AI-generated game code\n- Cloning UI designs from Dribbble into working landing pages\n- Publishing a shareable live link\n- Analyzing PDFs and documents (with upload limits explained)\n\n🛠️ TOOLS MENTIONED\nArena, Claude Sonnet 5, GPT Image, GLM 5.2 Max, Kimi K2.7, Seedream 5 Pro, Nano Banana, Qwen\n\n👥 WHO THIS IS FOR\nFounders, freelancers, marketers, and anyone who wants free, unlimited access to top AI models for images, code, and video without paying for multiple subscriptions.\n\n👋 WHO AM I?\n\nI'm Vivek Mishra — a performance marketing expert and trainer. I work with service-based and e-commerce brands and teach practical skills around marketing, AI tools, and digital systems. Everything I teach comes from doing it myself.\n\n📩 Questions? Drop them in the comments — I personally reply.\n\n📱 Instagram: https://www.instagram.com/vivekmishra.ai/\n💬 Discord: https://discord.gg/d2AJgeGN8x\n\n#AITools #ArenaAI #FreeAI #ClaudeAI #AIforBeginners #unlimitedai",
       "commentCount": 28,
       "likeCount": 172,
-      "probeClient": "web_embedded"
-    },
-    "-kWuzqUDW0s": {
-      "checkedAt": "2026-08-08T22:53:50Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "I built a stunning, scroll-animated luxury real estate website for a breathtaking oceanfront mansion using FREE AI tools — without writing a single line of code. 🤯\n\nIn this tutorial, I'll show you my complete workflow for creating a cinematic real estate website from scratch using AI-generated visuals, Google Flow, video-to-image sequences, and Antigravity IDE.\n\nThe final website features a cinematic underwater-to-drone animation, luxury oceanfront mansion visuals, smooth scroll animations, immersive transitions, and a premium real estate design.\n\nThis workflow is perfect for:\nWebsite  Developers In USA \nFreelancers\nAgencies In USA\nElementor Users\nBeginners\nWeb Designers\nAI Website Builders\nHVAC & Local Business Website Designers\n\n💼 Need a Website Like This?\nIf you want me to create a professional website for your business, agency, real estate company, or personal brand, you can contact me here:\n\nContact Me for Website Projects: https://ersurajverma.in/#esv-contact\n\n🌐 Domain & Hosting Guide: https://hostingguide.thestyles.shop/\n\n🛠️ Resources & Tools Used\n\n1. Pinterest — Inspiration\nhttps://www.pinterest.com/\n\n2. ChatGPT — Image Generation & Creative Workflow\nhttps://chatgpt.com/\n\n3. Google Flow — Cinematic AI Video Generation\nhttps://labs.google/fx/tools/flow\n\n4. Clipchamp — Join & Edit Videos\nhttps://clipchamp.com/en/\n\n5. Ezgif — Video to JPEG/Image Sequence\nhttps://ezgif.com/\n\n6. Google Antigravity IDE — Build the Website\nhttps://antigravity.google/product/antigravity-ide\n\n🌊 The Workflow\nPinterest Inspiration → AI Image Generation → First/Middle/Last Frames → Google Flow → Cinematic Videos → Clipchamp → JPEG Image Sequence → Antigravity IDE → Scroll-Animated Website\nThe goal is to show how modern AI tools can dramatically speed up the process of creating high-end, interactive websites without starting everything from scratch or manually coding every animation.\nWhether you're a web designer, developer, freelancer, UI/UX designer, agency owner, or someone learning AI-powered web development, this workflow can help you create much more visually impressive websites in less time.\n\nIf you enjoyed the video, Like 👍, Share 📤 and Subscribe 🔔 for more AI-powered website development tutorials, web design workflows, and ways to build professional websites faster using AI.\n\n#googleflow  #antigravity  #clipchamp #webdesign #websitedesign #realestatewebsite #luxuryrealestate #scrollanimation #webdevelopment #aidesign #aiwebsite #nocode #websiteanimation #realestate",
-      "commentCount": 9,
-      "likeCount": 21,
-      "probeClient": "web_embedded"
-    },
-    "IVEoaywfoZ8": {
-      "checkedAt": "2026-08-08T22:53:50Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "You keep hearing about AI coding assistants. But Claude Code is different. It doesn't just suggest code—it reads your entire project, plans changes, and executes them. In this video, I'll show you exactly what Claude Code is, how it works, and how to start using it for real IT tasks.\n\n📚 Full series: Claude Masterclass\n▶ Part 1: Claude Code Explained: The AI Tool That Actually Fixes Your Code (IT Guide)\n  Part 2: Claude Code Installation: The Missing Guide for IT Pros\n  Part 3: Claude Code CLI: Automate Scripts, Configs, and Code Reviews (IT Guide)\n  Part 4: Build Full-Stack Apps That Actually Ship: Claude Code + Real Tools\n  Part 5: Master Git & GitHub: The IT Pro's Guide to Version Control and Collaboration\n  Part 6: Debug Large Codebases Faster with Claude Code\n  Part 7: Claude Code Best Practices: The IT Pro’s Guide to Working Smarter\n\n🔔 Subscribe and hit the bell so you never miss a new video.\n📥 Download the free IT Career Roadmap at the link below.\nhttps://bit.ly/4yjWjcY\n💬 Don't see the IT topic you're looking for? Drop it in the comments — we'll research it and make a video on it.",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "6HS6_nsRM2I": {
@@ -6883,7 +6736,7 @@
       "probeClient": "web_embedded"
     },
     "toVxUaUg5Mc": {
-      "checkedAt": "2026-08-12T06:53:43Z",
+      "checkedAt": "2026-08-12T07:53:44Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8032,6 +7885,164 @@
       "description": "Try Higgsfeild MCP - https://higgsfield.ai/s/higgsfield-mcp-3-0-yt-aiman.creator-DHgpNE\n\nPrompt - https://docs.google.com/document/d/1eRNC7HnBTLm_1MlUnR-DlXN23tc2LUNfmfq4jBGiOXg/edit?usp=drivesdk\n\nI Used Claude AI + Higgsfield MCP to build a powerful faceless YouTube content pipeline.\n\nClaude handles research and script writing, while Higgsfield MCP creates the visuals, voiceover, and thumbnails—turning the entire video production process into an AI-powered workflow.\n\nIn this video, I’ll show you how this AI automation workflow works and how you can use it to create faceless YouTube videos faster.\n\n#ClaudeAI #HiggsfieldMCP #FacelessYouTube #YouTubeAutomation #AIContentCreation #AITools",
       "commentCount": 33,
       "likeCount": 103,
+      "probeClient": "web_embedded"
+    },
+    "IiXc5QMXWsk": {
+      "checkedAt": "2026-08-12T07:53:44Z",
+      "embedAllowed": true,
+      "description": "",
+      "commentCount": 8,
+      "likeCount": 272,
+      "comments": [
+        {
+          "id": "Ugzvln-_mAZ2ODBrMoF4AaABAg",
+          "author": "@RajendraExplainYT",
+          "text": "Ai day by day 📉 Meri Age 14 year h or me bhi fact video banata hu 😊",
+          "likeCount": 1,
+          "publishedAt": "2026-08-12T07:44:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/xan5_KsQumQNukw6w_k5Biw_gA65b9ZUOxVUvLsckNlP_M3oky3REzLo_WELXgH1fCfjEgW9dQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyuJCrIh0YutnzYkWB4AaABAg",
+          "author": "@veersingh-zo3yd",
+          "text": "Ai data center mean brain of ai",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T07:30:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lRyZgrhWv-LIOus8-gEhxZZQEgIzEy5-4n93AN8knpMFxwJXoPBYmGQvCGEg0BDsNrSA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx1acDEmVwY6Pp9B1p4AaABAg",
+          "author": "@DesigneshYT",
+          "text": "Fun fact: Video edited by Claude 😮",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T07:20:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/at77NTtHO8-6aKmf5DHmivngN5XezkXI6zTvZag3rIUM_-2jKgvc9YtZAf6KEZoZtwlkbbl2pg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugzq1vEage2nH5JphzB4AaABAg",
+          "author": "@CLUTCHnova-d8i",
+          "text": "Hello bro",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T07:15:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/jP6BnC02HzaON1gY5dRHEU8uaOXBejst-Fugg-r8yKXI2f-blUO-90Lus8c2qizHxDnjBLAlQg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx1tk-cWJvshQPTlIZ4AaABAg",
+          "author": "@Satyam_up01",
+          "text": "UV vali machhardani 😂😂",
+          "likeCount": 2,
+          "publishedAt": "2026-08-12T07:08:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ig0PcIWrvZt0C1pjTlHabNFRET83En6Dyjmbg-3p4H6Yhhlkj3dbBZX5hAqV6ULpbmOOA470=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw0-1984etUgEdniz94AaABAg",
+          "author": "@ArslanShahzad-b1e",
+          "text": "❤❤❤❤",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T07:06:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Uxy6Pd64QvqpTMfuur5AzFS4YFsHeY6tp1uO0QCLZUf43t-e6-2UVCWOHoEviituzvl_sb_KThM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxZToXM4-pRMvftbV94AaABAg",
+          "author": "@Satyam_up01",
+          "text": "The person who will have only a few jealous people 😊😅",
+          "likeCount": 1,
+          "publishedAt": "2026-08-12T07:05:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ig0PcIWrvZt0C1pjTlHabNFRET83En6Dyjmbg-3p4H6Yhhlkj3dbBZX5hAqV6ULpbmOOA470=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxbye6kTOKURTd6SPl4AaABAg",
+          "author": "@Chaudharyc8k",
+          "text": "Indian media ❌ \nProfessor of How ✅ \nRespect for professor ♥️",
+          "likeCount": 7,
+          "publishedAt": "2026-08-12T06:57:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/DuEGoxafwYq6kAUXHtHigubqbre3l2fNI_-gRox0C-Xfq3fmpPB7e9225zDSDOC-Ucnzx9EhkA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-12T07:53:44Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "0g1BRdHgIM0": {
+      "checkedAt": "2026-08-12T07:53:44Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "upk8DK4O_h0": {
+      "checkedAt": "2026-08-12T07:53:44Z",
+      "embedAllowed": false,
+      "availability": "unavailable",
+      "failureReason": "unavailable"
+    },
+    "jO2Rturffu8": {
+      "checkedAt": "2026-08-12T07:53:44Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "QTcZPI-g7is": {
+      "checkedAt": "2026-08-12T07:53:44Z",
+      "embedAllowed": true,
+      "description": "Download Grok Bot: https://x.ai/bot\n\nGrok Bot gives each AI agent its own role, always-on computer, browser, files, logins, and routines so a team of bots can handle work together. This walkthrough covers setup, plugins, mobile access, scheduled tasks, what works well, and the biggest limitations.\n\nSome features in this video may not be available in your region or on your plan yet.\n\n0:00 Intro\n0:16 Meet the Bots\n1:23 First Bot\n4:26 Always-On Computers\n5:39 Plugins \n6:35 The Bot's Computer\n7:11 Teach Tasks\n7:46 Routines\n8:31 Mobile App\n9:32 What I Like\n11:08 What I Dislike",
+      "commentCount": 79,
+      "likeCount": 379,
+      "probeClient": "web_embedded"
+    },
+    "JQ97GiDwPxc": {
+      "checkedAt": "2026-08-12T07:53:44Z",
+      "embedAllowed": true,
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 More reports are available here:\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/\nhttps://huggingface.co/blog/security-incident-july-2026\nhttps://huggingface.co/blog/agent-intrusion-technical-timeline\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, Taras Bobrovytsky, Tazaur Sagenclaw, Tybie Fitzhugh, Ueli Gallizzi",
+      "commentCount": 368,
+      "likeCount": 2207,
+      "probeClient": "web_embedded"
+    },
+    "tEORX_PevRM": {
+      "checkedAt": "2026-08-12T07:53:44Z",
+      "embedAllowed": true,
+      "description": "Check out Supabase Agent Skills here! https://supabase.plug.dev/ay6XDB1\n\nTimestamps ⏰\n00:00 AI Agents are simple.... kinda\n00:52 How agents take action\n02:23 The core agentic loop\n03:58 Agent skills\n05:34 Ensuring consistent output\n07:27 Context engineering\n10:39 Errors and evaluation\n---------------------------------------\nWant to become an AI Engineer? Download my AI Engineering Skills Checklist here: https://newsletter.marinawyss.com/ai-engineering-checklist?utm_source=youtube&utm_medium=Youtube&utm_campaign=agents%20are%20simple\n\n💬 Interested in working with me 1:1? Learn more about my strategic advisory sessions: https://www.marinawyss.com/coaching?utm_source=youtube&utm_medium=Youtube&utm_campaign=agents%20are%20simple\n\n🚀 Want to level up your AI/ML career? Join the AI/ML Career Launchpad community: https://launchpad.marinawyss.com/aiml-launchpad?utm_source=youtube&utm_medium=Youtube&utm_campaign=agents%20are%20simple\n\n👨🏻‍💻 Looking for freelance AI jobs? Check out LocalAISource: https://localaisource.com/r/MARINA\n\n🩷 Join the channel membership community for priority comment replies and early access to videos! https://www.youtube.com/@MarinaWyssAI/join\n---------------------------------------\n🎥 Other videos you might like:\n\nAI Agents in 38 Minutes - Complete Course from Beginner to Pro\nhttps://www.youtube.com/watch?v=sNvuH-iTi4c&t=4s\n\nContext Engineering in 29 Minutes: Complete Course\nhttps://www.youtube.com/watch?v=-h9VVJIqtvA&t=826s\n----------------------------------------\n✉️ Contact\nBusiness email: business@gratitudedriven.com\nInstagram: https://www.instagram.com/marina.wyss/\nLinkedIn: https://www.linkedin.com/in/marina-wyss/\nTwitter/X: https://x.com/iammarinawyss\nTikTok: https://www.tiktok.com/@marina_wyss\nLeave me a comment here on YouTube!\n---------------------------------------\n❤️ My favorite things\n\nLearn Python and AI engineering with JavaScript (perfect for software engineers): https://scrimba.com/?via=MarinaWyss\n\nLearn AI system design: https://www.educative.io/courses/generative-ai-system-design?aff=VOR0\n\nLearn ML and AI fundamentals hands-on: https://datacamp.pxf.io/6kDBPQ\n\nMy favorite technical books: https://www.amazon.com/shop/marinawyss-gratitudedriven/list/114EEM9BPBSWS\n---------------------------------------\n⚖️ Disclaimer\nThe views and opinions expressed in this video are my own and do not reflect the official policy or position of Twitch/Amazon or any other company I have worked for. All advice and insights shared here are based on my personal experiences and should be considered as such.\n\nThank you to Supabase! for sponsoring this video!\n\nThis description may contain affiliate links. If you make a purchase I may make a small commission at no cost to you.\n\n#aiagents #agenticai #aiengineering",
+      "commentCount": 20,
+      "likeCount": 213,
+      "probeClient": "web_embedded"
+    },
+    "CRVaa8HTz-A": {
+      "checkedAt": "2026-08-12T07:53:44Z",
+      "embedAllowed": true,
+      "description": "Get the Agent OS & Hermes Agent Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nGet out SEO link building book here 👉 https://go.juliangoldie.com/opt-in?utm=julian\n\nHermes AgentOS: Build Your Own AI Team in One Dashboard\n\nStop managing AI chaos and start using a unified operating system for your business agents. Hermes AgentOS brings your chat, voice assistants, and job boards into one dashboard with shared memory and a 'Goal Mode' for autonomous work.\n\n00:00 - Intro to Hermes AgentOS\n01:08 - Fixing the AI Chaos Problem\n01:58 - The Power of Shared Memory\n02:22 - Goal Mode: Autonomous Tasks\n03:26 - Switching AI Models Easily\n04:19 - Safety Guardrails & Local Models\n05:37 - Old Way vs. New AI Workflow\n06:41 - How to Get the System",
+      "commentCount": 12,
+      "likeCount": 82,
+      "probeClient": "web_embedded"
+    },
+    "gYXlBYOocHU": {
+      "checkedAt": "2026-08-12T07:53:44Z",
+      "embedAllowed": true,
+      "description": "Want to build an AI agent but not sure which tool to use? \n\nThis is 2-minute AI with Google: quick knowledge, deep expertise. \n\nIn this episode, we break down your options on Google Cloud—from completely no-code solutions to advanced pro-code development. Whether you're a business user, a data scientist, or a seasoned engineer, Google Cloud offers a flexible spectrum of tools to help you quickly turn your ideas into active AI applications.\n\n🎓 There's much more to learn about agents, AI, and ML → https://goo.gle/48EAlWQ\n🔔 Subscribe and get a ping the moment a new episode drops.\n🚀 Get started with Gemini Enterprise: https://cloud.google.com/gemini-enterprise\n\nWhat kind of AI agent are you planning to build? Tell us in the comments section below! \n\nIf you found this video helpful, please give it a thumbs up, subscribe to the channel, and hit the notification bell for more quick AI tips from Google Cloud.\n\n#GoogleCloud #AIAgents #Gemini #GeminiEnterprise #NoCode #LowCode #ProCode #ArtificialIntelligence #GenerativeAI",
+      "commentCount": 2,
+      "likeCount": 47,
+      "probeClient": "web_embedded"
+    },
+    "Qx0fCqpkBus": {
+      "checkedAt": "2026-08-12T07:53:44Z",
+      "embedAllowed": true,
+      "description": "Learn more about Context Engineering here → https://ibm.biz/~P5lLLBd7u\n\nMore data doesn’t always mean better AI. Anna Gutowska explains how context engineering improves LLM and AI agent performance beyond prompt engineering. Learn how structuring context reduces hallucinations and enables smarter, more reliable AI systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/~hrgTJ2Q3i\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#contextengineering #promptengineering #aiagents #llm",
+      "commentCount": 28,
+      "likeCount": 554,
       "probeClient": "web_embedded"
     }
   }
