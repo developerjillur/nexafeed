@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T18:53:21Z",
+  "updatedAt": "2026-08-12T19:53:30Z",
   "items": [
+    {
+      "id": "NAumQObJEwM",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-08-12T19:26:18Z",
+      "firstSeenAt": "2026-08-12T19:53:30Z"
+    },
+    {
+      "id": "PD1hz4osO2k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sarah Afflerbach",
+      "publishedAt": "2026-08-12T18:53:30Z",
+      "firstSeenAt": "2026-08-12T19:53:30Z"
+    },
+    {
+      "id": "3vBlYa_p3gc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GreatLearning AI",
+      "publishedAt": "2026-08-12T16:53:30Z",
+      "firstSeenAt": "2026-08-12T19:53:30Z"
+    },
+    {
+      "id": "7leexbhWYnk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Synopsis 360",
+      "publishedAt": "2026-08-12T16:53:30Z",
+      "firstSeenAt": "2026-08-12T19:53:30Z"
+    },
+    {
+      "id": "YWcBjLFf2d4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-12T13:53:30Z",
+      "firstSeenAt": "2026-08-12T19:53:30Z"
+    },
+    {
+      "id": "yBMML0SXAcM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Edapt ",
+      "publishedAt": "2026-08-12T11:53:30Z",
+      "firstSeenAt": "2026-08-12T19:53:30Z"
+    },
+    {
+      "id": "X37JfI89Qmc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hindi AI Gyaan",
+      "publishedAt": "2026-08-12T02:53:30Z",
+      "firstSeenAt": "2026-08-12T19:53:30Z"
+    },
     {
       "id": "sakMrVvsr8Y",
       "type": "short",
@@ -11509,15 +11565,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-29T19:53:17Z",
-      "new": 2,
-      "long": 2,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
       "runAt": "2026-07-30T01:40:56Z",
       "new": 7,
       "long": 4,
@@ -12911,6 +12958,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-12T19:53:30Z",
+      "new": 7,
+      "long": 7,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
