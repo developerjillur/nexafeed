@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T14:53:05Z",
+  "updatedAt": "2026-08-13T15:53:11Z",
   "items": [
+    {
+      "id": "hINGU1P9Xtw",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-13T15:31:18Z",
+      "firstSeenAt": "2026-08-13T15:53:11Z"
+    },
+    {
+      "id": "GWFkpnapqdI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hablu Programmer",
+      "publishedAt": "2026-08-13T15:12:11Z",
+      "firstSeenAt": "2026-08-13T15:53:11Z"
+    },
+    {
+      "id": "rzs9q9X0BNs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Invisible Gyan",
+      "publishedAt": "2026-08-13T11:53:11Z",
+      "firstSeenAt": "2026-08-13T15:53:11Z"
+    },
+    {
+      "id": "CxvYzF8eGL0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jacksons AI",
+      "publishedAt": "2026-08-13T08:53:11Z",
+      "firstSeenAt": "2026-08-13T15:53:11Z"
+    },
+    {
+      "id": "A8VTvdKDAz4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mint",
+      "publishedAt": "2026-08-13T03:53:11Z",
+      "firstSeenAt": "2026-08-13T15:53:11Z"
+    },
     {
       "id": "ekT5hIExty0",
       "type": "short",
@@ -12181,15 +12221,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T14:53:06Z",
-      "new": 3,
-      "long": 2,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
       "runAt": "2026-07-30T15:53:16Z",
       "new": 5,
       "long": 2,
@@ -13628,6 +13659,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-13T15:53:11Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
