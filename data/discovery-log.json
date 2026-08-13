@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T10:53:44Z",
+  "updatedAt": "2026-08-13T11:53:08Z",
   "items": [
+    {
+      "id": "UjJWdjwrqpM",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Adventurer",
+      "publishedAt": "2026-08-13T11:34:19Z",
+      "firstSeenAt": "2026-08-13T11:53:08Z"
+    },
+    {
+      "id": "aJnm3MqNoLE",
+      "type": "long",
+      "source": "primary",
+      "channel": "Piyush Garg",
+      "publishedAt": "2026-08-13T11:30:34Z",
+      "firstSeenAt": "2026-08-13T11:53:08Z"
+    },
+    {
+      "id": "QjetA7FyqI0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NDC Conferences",
+      "publishedAt": "2026-08-13T11:17:08Z",
+      "firstSeenAt": "2026-08-13T11:53:08Z"
+    },
+    {
+      "id": "Mx6bmZUwRcI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sharpener Tech Reviews by Students",
+      "publishedAt": "2026-08-13T05:53:08Z",
+      "firstSeenAt": "2026-08-13T11:53:08Z"
+    },
+    {
+      "id": "v-QaYR7bGe4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Abhishek Sharma",
+      "publishedAt": "2026-08-12T21:53:08Z",
+      "firstSeenAt": "2026-08-13T11:53:08Z"
+    },
     {
       "id": "c65S-LZLbv0",
       "type": "short",
@@ -13475,6 +13515,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-13T11:53:08Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
