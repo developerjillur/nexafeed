@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T05:53:08Z",
+  "updatedAt": "2026-08-13T06:53:14Z",
   "items": [
+    {
+      "id": "EopcX6IqufQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": "MA MR",
+      "publishedAt": "2026-08-13T04:53:14Z",
+      "firstSeenAt": "2026-08-13T06:53:14Z"
+    },
+    {
+      "id": "Sm_AkFcysRw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ai Apex",
+      "publishedAt": "2026-08-13T01:53:14Z",
+      "firstSeenAt": "2026-08-13T06:53:14Z"
+    },
+    {
+      "id": "15DHBBrcNP4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ZaranTech DotCom",
+      "publishedAt": "2026-08-12T21:53:14Z",
+      "firstSeenAt": "2026-08-13T06:53:14Z"
+    },
+    {
+      "id": "mnbERkIp6Wo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hostinger Academy",
+      "publishedAt": "2026-08-12T16:53:14Z",
+      "firstSeenAt": "2026-08-13T06:53:14Z"
+    },
     {
       "id": "kckD1hgkYvk",
       "type": "long",
@@ -11877,15 +11909,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T05:53:43Z",
-      "new": 3,
-      "long": 2,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 33,
-      "secondaryQuery": "Automation"
-    },
-    {
       "runAt": "2026-07-30T06:53:18Z",
       "new": 1,
       "long": 1,
@@ -13324,6 +13347,15 @@
       "channelsChecked": 33,
       "warnings": 22,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-13T06:53:14Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 32,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
