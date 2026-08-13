@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T04:53:41Z",
+  "updatedAt": "2026-08-13T05:53:08Z",
   "items": [
+    {
+      "id": "kckD1hgkYvk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The AI Daily Brief: Artificial Intelligence News",
+      "publishedAt": "2026-08-13T00:53:08Z",
+      "firstSeenAt": "2026-08-13T05:53:08Z"
+    },
+    {
+      "id": "tiv7Zhie-BQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mervin Praison",
+      "publishedAt": "2026-08-12T23:53:08Z",
+      "firstSeenAt": "2026-08-13T05:53:08Z"
+    },
+    {
+      "id": "VKhW4QnQMts",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Revolution",
+      "publishedAt": "2026-08-12T22:53:08Z",
+      "firstSeenAt": "2026-08-13T05:53:08Z"
+    },
+    {
+      "id": "EzQAgnjTq2k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Greg Isenberg",
+      "publishedAt": "2026-08-12T21:53:08Z",
+      "firstSeenAt": "2026-08-13T05:53:08Z"
+    },
     {
       "id": "d-XgQvTHC94",
       "type": "long",
@@ -11845,15 +11877,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T04:53:43Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 10,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
       "runAt": "2026-07-30T05:53:43Z",
       "new": 3,
       "long": 2,
@@ -13292,6 +13315,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-13T05:53:08Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 22,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
