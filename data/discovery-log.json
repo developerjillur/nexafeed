@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T09:53:36Z",
+  "updatedAt": "2026-08-13T10:53:44Z",
   "items": [
+    {
+      "id": "c65S-LZLbv0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-13T10:30:23Z",
+      "firstSeenAt": "2026-08-13T10:53:44Z"
+    },
+    {
+      "id": "K9Yal9NxbP4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Duke Pan",
+      "publishedAt": "2026-08-13T10:03:44Z",
+      "firstSeenAt": "2026-08-13T10:53:44Z"
+    },
+    {
+      "id": "eli0DEW9Xpo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CBS 17",
+      "publishedAt": "2026-08-13T03:53:44Z",
+      "firstSeenAt": "2026-08-13T10:53:44Z"
+    },
+    {
+      "id": "jnymd-vTQIE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "digiblur DIY",
+      "publishedAt": "2026-08-12T20:53:44Z",
+      "firstSeenAt": "2026-08-13T10:53:44Z"
+    },
+    {
+      "id": "jidUThxw4WE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "mostlychris",
+      "publishedAt": "2026-08-12T20:53:44Z",
+      "firstSeenAt": "2026-08-13T10:53:44Z"
+    },
+    {
+      "id": "OcUKpA0z6Yo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jason On Firms",
+      "publishedAt": "2026-08-12T16:53:44Z",
+      "firstSeenAt": "2026-08-13T10:53:44Z"
+    },
     {
       "id": "0zgDQ8pjbmc",
       "type": "short",
@@ -11989,15 +12037,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T10:53:39Z",
-      "new": 3,
-      "long": 3,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
-    {
       "runAt": "2026-07-30T11:53:45Z",
       "new": 8,
       "long": 7,
@@ -13427,6 +13466,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-13T10:53:44Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
