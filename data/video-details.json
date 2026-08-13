@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T20:53:14Z",
+  "updatedAt": "2026-08-13T21:53:15Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -7216,36 +7216,67 @@
       "probeClient": "web_embedded"
     },
     "dPScBnXaNdc": {
-      "checkedAt": "2026-08-12T20:53:39Z",
+      "checkedAt": "2026-08-13T21:53:15Z",
       "embedAllowed": true,
       "description": "Comment \"Agentic\" for my FREE Agentic OS Playbook\n\nPolishing the dashboard is the trap.\n\nThe leverage sits underneath it.\nYour skills. Your agent brain.\n\nMine saves 31 hours a week and I never open it.\n\nBuild skills around what's already profitable.\nWire a Graphify brain into Obsidian.\nTurn those skills into scheduled tasks.\n\nThen build the dashboard.\n\nWrong order and you built a toy, fam.\n\n#AIAgents\n#ClaudeCode\n#Automation\n#BuildInPublic\n#AIWorkflow",
-      "commentCount": 2,
-      "likeCount": 3,
+      "commentCount": 5,
+      "likeCount": 34,
       "comments": [
         {
           "id": "Ugy1PRcI42MyczLwB6l4AaABAg",
           "author": "@charlieautomates",
           "text": "🔑🔑🔑3 Step Agentic Playbook here -> https://charlieautomates.com/free-resources/#build-agentic-os",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T20:52:00Z",
+          "publishedAt": "2026-08-13T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "UgwonMJHwbkMw7jVRFt4AaABAg",
+          "author": "@_Joker_909",
+          "text": "Agentic",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nodmu60EWbNNVbNI1X_zzTkUDLaMIXOlN5bUKCSmFHHZc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx7MmtuvPft4izOR894AaABAg",
+          "author": "@shavkat-xx7",
+          "text": "Agentic",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/RNDiuX_Uymfq5DzBaZBxqaph7v4ED0JWBqaqDBkF1MdMwdrOGsT3QiGFKDT6FHh30wm3XY6OMw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwOTTHKjGbQcy-CMmt4AaABAg",
+          "author": "@asanghani",
+          "text": "Agentic",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n-bl4ssytFuXMqJLE_mTq8iBQb70fZLnt3KnVRwfS5ZfDahfPaoXAuHqFcGXYykvGDzKw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         },
         {
           "id": "Ugxhbv2UpYJmMwLVXgJ4AaABAg",
           "author": "@phoem2k",
           "text": "Agentic",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T20:27:00Z",
+          "publishedAt": "2026-08-13T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/o4Hb-qyNrGdQ1xhtM3nRSaq13USjwywZPr6B13q6yUOP1iz4HRjnpNtcs1z3Eo0WVEip7njk_w=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-12T20:53:39Z",
+      "commentsFetchedAt": "2026-08-13T21:53:15Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
+      "probeClient": "web_embedded",
+      "availability": "public"
     },
     "M3_BX0BodOo": {
       "checkedAt": "2026-08-12T22:53:06Z",
@@ -7265,15 +7296,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-13T01:53:30Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "d-XgQvTHC94": {
-      "checkedAt": "2026-08-13T04:53:41Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🤖 Make AI Agents: https://www.make.com/en?&promo=sharknumbers&utm_source=youtube&utm_medium=influencer&utm_campaign=sharknumbers-video-dedicated-aug26\nGet a one-month free Make Pro plan with 10,000 operations through the link above.\n\nCan AI automation understand an issue, decide what should happen next, and take action across multiple apps?\n\nIn this Make AI Agent review, I build an automated issue-management workflow using Make, webhooks, GitHub, Slack, Google Sheets, and Gmail.\n\nThe AI Agent reviews incoming system alerts, classifies each issue as P0, P1, P2, or P3, and sends it through the correct workflow. High-priority issues create a GitHub ticket, notify the team in Slack, update the issue log, and generate a customer email draft in Gmail. Lower-priority issues are simply recorded without triggering the full escalation process.\n\nI also test the Make Reasoning Panel to see how the AI analyzes an issue and explains its decision before the rest of the automation runs.\n\nIn this video, I’ll show you:\n\n* How to build a Make AI Agent workflow\n* AI issue analysis and priority routing\n* GitHub, Slack, Google Sheets, and Gmail automation\n* High-priority and lower-priority issue handling\n* AI-generated customer replies with human approval\n* Make AI Agent reasoning and workflow testing\n\nThe test includes a failed checkout issue, possible duplicate payment risk, P1 classification, automatic engineering escalation, customer response generation, and a separate lower-priority workflow.\n\nWhat could normally take 10–15 minutes of manual triage can be completed in under a minute while still keeping a human in control before any customer message is sent.\n\nWith more than 3,000 app integrations, Make AI Agents can be used for software development, customer support, store operations, marketing, finance, reporting, hiring, and other business automation workflows.\n\nTimestamps:\n00:00 - What happens when automation can think?\n01:45 - Building the Make AI Agent workflow | Setting up the webhook | AI issue analysis and classification\n02:45 - P0, P1, P2, and P3 routing\n03:15 - GitHub and Slack automation\n03:51 - Google Sheets issue logging\n04:11 - AI customer reply and Gmail draft\n05:35 - Testing the high-priority workflow\n06:10 - Make AI Agent Reasoning Panel\n07:27 - Testing the lower-priority workflow\n07:56 - Final thoughts on Make AI Agents\n\nLinks:\n🤖 Make AI Agents: https://www.make.com/en?&promo=sharknumbers&utm_source=youtube&utm_medium=influencer&utm_campaign=sharknumbers-video-dedicated-aug26\n📫 Contact: https://sharknumbers.com\n\nIvan Kv out.\n\n#Make #MakeAI #MakeAIAgents #Automation #AIAgent #WorkflowAutomation #AIAutomation #NoCode #MakeAutomation #GitHub #Slack #GoogleSheets #Gmail #DeveloperTools #BusinessAutomation #CustomerSupport #AITools #Productivity #SharkNumbers",
-      "commentCount": 94,
-      "likeCount": 1410,
       "probeClient": "web_embedded"
     },
     "EopcX6IqufQ": {
@@ -7388,10 +7410,10 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-13T20:53:14Z",
+      "checkedAt": "2026-08-13T21:53:15Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "egHFR4gY_R8": {
       "checkedAt": "2026-08-13T07:53:21Z",
@@ -7415,23 +7437,6 @@
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
-    },
-    "CZoZv2Zv0hQ": {
-      "checkedAt": "2026-08-13T07:53:21Z",
-      "embedAllowed": true,
-      "description": "Description with hashtags:\nWelcome back to another massive AI episode in our ultimate n8n workflow automation series! Artificial Intelligence is the driving force of modern business, and OpenAI's ChatGPT (running models like GPT-4o) remains the absolute industry standard. If you are still manually copying and pasting data into the ChatGPT web interface, you are losing hours of valuable time! In this fully updated 2026 comprehensive tech tutorial, we are going to show you exactly how to integrate OpenAI ChatGPT with n8n, authenticate your API keys, and deploy incredibly smart, autonomous AI workflows!\n\nIn the first section of this complete video guide, we will tackle the core connection and the standard OpenAI Node. We will walk you through navigating to the OpenAI Developer Platform, generating a secure API key, and injecting it into n8n's Credentials Manager. You will learn how to drop the standard OpenAI node onto your canvas, select your desired model (like gpt-4o or gpt-4-turbo), and pass dynamic variables into the prompt. We will show you a live example of taking an incoming customer email, routing it through ChatGPT to analyze the sentiment, and generating a perfectly formatted response!\n\nNext, we take a deep dive into the absolute cutting-edge of n8n: The Advanced AI Nodes! We will leave the basic nodes behind and construct a true LangChain-powered AI architecture. You will learn how to connect the \"OpenAI Chat Model\" to a \"Basic LLM Chain.\" We will show you how to leverage System Messages to give your AI a strict persona, and how to attach \"Window Buffer Memory\" so your ChatGPT bot actually remembers previous messages in a multi-turn Slack or Discord conversation!\n\nMoving into the second half of our tutorial, we will explore building a fully Autonomous AI Agent. We will show you how to swap the Basic Chain for an \"AI Agent\" node and arm your OpenAI model with custom Tools! You will watch as we give ChatGPT the ability to search Wikipedia, read Google Docs, and execute custom JavaScript directly inside your n8n server, allowing the AI to problem-solve and execute multi-step tasks without any human intervention.\n\nMastering the integration of OpenAI ChatGPT with n8n is the ultimate key to developing highly capable, hyper-efficient AI automations that can revolutionize your business operations!\n\nThank you so much for tuning in to this complete n8n OpenAI integration tutorial! If this 2026 tech guide helped you build your first ChatGPT automation today, please make sure to smash that like button and share this video with a fellow developer or operations manager who is scaling their AI infrastructure! Subscribe to the channel and turn on the notification bell so you never miss out on our upcoming n8n tutorials, AI agent builds, and API integration guides. Drop a comment down below letting us know what incredible task you just automated with ChatGPT, and we will see you in the next video!\n\n#n8n #n8nTutorial #OpenAI #ChatGPT #WorkflowAutomation #AIAgents #TechTutorial2026 #LangChain #ArtificialIntelligence #SelfHosted #DevOps #NoCode\n\nyoutube tags:\nhow to integrate openai with n8n,n8n chatgpt tutorial,n8n openai node,n8n advanced ai nodes,connect chatgpt to n8n,n8n ai agent,n8n langchain integration,gpt-4o automation,n8n openai api key,n8n tutorial 2026,zapier alternative,make.com alternative,workflow automation,open source automation,self hosted n8n,build ai agent without code,automate business processes,n8n memory node,n8n ai tools,chatgpt api integration",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "1eJF3pkIow4": {
-      "checkedAt": "2026-08-13T08:53:29Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "The biggest opportunity for artificial intelligence in software development may extend far beyond writing code.\n\nMatthew Graviss, Public Sector CTO at Atlassian, discusses how agencies can embed specialized AI agents across discovery, requirements development, design, testing and other stages of the software-development lifecycle.\n\nDrawing on nearly 20 years of federal service, including his tenure as Chief Data and AI Officer at the Department of State, Graviss explains why agencies are moving from stand-alone chatbots toward AI capabilities embedded directly within the tools and workflows employees use every day.\n\nHe also examines the characteristics of high-performing DevSecOps teams and the importance of connecting everyday development work to agency strategy and mission outcomes.\n\nThis conversation was recorded at the Carahsoft DevSecOps Conference for Innovation in Government.\n\nWatch more at InnovationInGov.com.",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
     },
     "0zgDQ8pjbmc": {
       "checkedAt": "2026-08-13T09:53:36Z",
@@ -7470,15 +7475,6 @@
       "description": "To learn more about AI (Community + Direct Calls) ► https://www.skool.com/ai-automation-lab-5849/about\n\nInstagram ► https://www.instagram.com/fryingpan.ig\nVibecoding livestreams (weekly Sunday 3pm EST, also live on YT) ► https://twitch.tv/fryingpan\n\nDuke talks with an aspiring entrepreneur working part-time at a restaurant about how to get a first AI automation client. The main lesson: stop scattering energy across too many AI tools, build one useful demo for a local business, and use that proof to start real client conversations.\n\nThis is a live coaching clip, not a guaranteed-client or income formula.\n\n#AIAutomation #AIClients #DukePan\n\n[About Me]\nI’m Duke Pan, a software engineer and creator. I didn't grow up privileged, went to a no name school in Canada, and did computer science after transferring from acting and business, but I was always a hard worker. After years of attempt at content with hundreds of videos, and mostly self-learning coding throughout college, the same year I got my first internship at big tech, my YouTube also blew up and got over 6 million views in a week.\n\nI kept working hard and landed software engineering jobs at Meta, Tesla AI, and Coinbase, then cofounded a YC-backed startup building one of the early AI code editors before Claude Code existed.\n\nThat startup didn’t beat the giants that came after, but it taught me a lot about where AI tools actually create value and entrepreneurship. Now I help companies implement real AI systems and agents inside their existing workflows, including agent infrastructure across massive enterprise data systems for big tech.\n\nI also make videos about coding, AI, startups, lifestyle, and whatever I’m building next.",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "eli0DEW9Xpo": {
-      "checkedAt": "2026-08-13T10:53:44Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "A look at Raleigh new automated parking garage",
-      "commentCount": 3,
-      "likeCount": 12,
       "probeClient": "web_embedded"
     },
     "UjJWdjwrqpM": {
@@ -7682,7 +7678,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-13T20:53:14Z",
+      "checkedAt": "2026-08-13T21:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7846,15 +7842,6 @@
       "likeCount": 82,
       "probeClient": "web_embedded"
     },
-    "A8VTvdKDAz4": {
-      "checkedAt": "2026-08-13T15:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Oracle's aggressive AI expansion is putting its workforce under fresh scrutiny after the company cut about 21,000 employees, or 13% of its workforce, in fiscal 2026. The company is now reportedly preparing another round of job cuts as it continues pouring billions into AI infrastructure and data centres, adding to questions over how the company is balancing its AI ambitions with workforce costs. Watch.\n\n#Oracle #OracleLayoffs #OracleJobs #Layoffs #JobCuts #AI #ArtificialIntelligence #AIBoom #AIJobs #AIJobsCrisis #TechLayoffs #TechJobs #TechIndustry #OracleAI #AIInvestment #AIInfrastructure #DataCenters #Technology #BigTech #SiliconValley #Jobs #Employment #JobLoss #Workforce #CorporateNews #BusinessNews #TechNews #AIRevolution #Automation #FutureOfWork #AIandJobs #AIImpact #TechLayoffs2026 #LayoffNews #LayoffUpdate #OracleNews #LarryEllison #CloudComputing #CloudInfrastructure #DataCenter #Business #Economy #GlobalEconomy #USJobs #USEconomy #BreakingNews #LatestNews #TrendingNews #WorldNews #MintNews #News #YouTubeNews #YouTubeShorts #Shorts #Trending #ViralNews\n\nMint is an Indian financial daily newspaper published by HT Media. The Mint YT Channel brings you cutting edge analysis of the latest business news and financial news. With in-depth market coverage, explainers and expert opinions, we break down and simplify business news for you. \n\nClick here to download the Mint App: https://livemint.onelink.me/MrDS/p0kx3pdg\n\nNow make Mint your preferred source on Google and get business & finance updates first. \nAdd here - https://www.google.com/preferences/source?q=mint\n\nSubscribe to Mint Premium Now: https://www.read.ht/Scaq\n\nSubscribe to Mint's WhatsApp Channel: https://whatsapp.com/channel/0029Va91YSeGehEM6oMesj3d",
-      "commentCount": 2,
-      "likeCount": 16,
-      "probeClient": "web_embedded"
-    },
     "eWdvFbDxkJE": {
       "checkedAt": "2026-08-13T16:53:12Z",
       "embedAllowed": true,
@@ -7915,7 +7902,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-13T20:53:14Z",
+      "checkedAt": "2026-08-13T21:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8171,6 +8158,48 @@
       "description": "Artificial intelligence is rapidly becoming a new layer of strategic infrastructure, but it's hungry for power. In this episode of Emerging, Bloomberg's Menaka Doshi explores how the AI boom is reshaping electricity demand and whether it could strain power grids already challenged by rising temperatures and rapid economic growth. Featuring Tata Power CEO Praveer Sinha and Mohit Bhargava of the India Energy & Climate Center, the conversation examines whether India can generate enough power for the AI era.\n\n00:00 India's coming AI boom and the power challenge\n01:54 How India powered through one of its hottest summers\n05:38 The hidden problems with renewable energy\n10:24 Can India run on green power alone?\n13:02 What's holding India's power sector back\n21:05 India's solar bottleneck: Power with nowhere to go\n24:47 The race for batteries, storage and nuclear\n32:04 AI's massive power appetite and the future grid\r\nWatch Bloomberg Vodcasts: https://www.youtube.com/playlist?list=PLe4PRejZgr0MS0Tqk_zQl1LVVTdWuH2Di\n\nSubscribe to Bloomberg Podcasts: https://bit.ly/BloombergPodcasts\n\nVisit us: https://www.bloomberg.com/podcasts\n\nVisit our other YouTube channels:\nBloomberg Television: https://www.youtube.com/@markets \nBloomberg Originals: https://www.youtube.com/bloomberg\n\nFor coverage on news, markets and more: http://www.bloomberg.com/video",
       "commentCount": 2,
       "likeCount": 12,
+      "probeClient": "web_embedded"
+    },
+    "GucVYMCgy7U": {
+      "checkedAt": "2026-08-13T21:53:15Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "9sRBCSOyukw": {
+      "checkedAt": "2026-08-13T21:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Start Your AI Agency: https://www.skool.com/automate\n\nWork With Me 1:1: https://start.hamzaautomates.com/arbitrage\n\nSelling AI to businesses is hard because most owners don't actually understand what AI is or why they need it. The easiest way to sell AI automation is to not lead with AI at all. In this video I show you how to lead with an offer businesses already understand, like a website or lead generation, close the deal, and then upsell AI automation once you're already in the door and they trust you.\n\nIf you're trying to sell AI to local businesses, start an AI automation agency, or you keep getting blank stares every time you pitch AI, this is the shift that changes everything. Instead of trying to educate a business owner on why they need an AI agent, you sell them something they already want, get them as a client, and expand into higher ticket AI automation and AI services from there. It's the fastest way to actually close deals and build recurring revenue as an AI agency.\n\nEverything I use to run and grow an agency, including my snapshots, offers, systems, and full course, is free when you start your trial through my link below. You get a 30-day free trial, two weeks longer than the standard, plus my private community and weekly calls. \n\nI'm Hamza, a Diamond and Platinum award winning GoHighLevel partner and the founder of Hexona Systems. I came from years in SaaS sales before building this, and now I help people turn AI and automation into a real business they own.\n\nDisclosure: I am an independent affiliate and may earn a commission if you sign up through my link, at no extra cost to you. I do not make income claims. Your results depend on your own effort.\n\n#sellAI #AIautomation #AIagency #AIautomationagency #makemoneywithAI",
+      "commentCount": 2,
+      "likeCount": 14,
+      "probeClient": "web_embedded"
+    },
+    "xKPav7OzH7g": {
+      "checkedAt": "2026-08-13T21:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Suno Studio v2.0 is here. A full walkthrough of the new UI, where the v1.0 controls moved, plus Studio Chat, track effects and automation. Not sponsored — early access for release day.\nGet Suno - https://suno.pxf.io/6kzxGm\n👍 Thanks for watching! Please like, comment, & subscribe.\n\n=============================\nTable of Contents:\n=============================\n00:00 Intro\n00:26 Overview\n01:08 Studio 2.0 UI Overview\n01:34 Project Menu\n02:02 Drag audio in sync\n02:35 Further controls at the top\n03:47 Track Controls\n04:13 Clip Controls\n04:57 Add Tracks\n05:11 Main Track\n05:53 Audio Effects\n06:48 Automation\n07:15 Clip Editor\n07:34 Take Lanes\n07:55 Playable Keyboard\n08:15 Studio Chat\n10:52 Advanced Stems in Suno Studio\n12:01 Add a new keyboard part\n15:01 Tame the keys with FX\n16:33 Modify the vox processing\n18:45 Add automation\n20:18 Conclusion\n21:02 Outro\n\n=============================\nRelevant Links:\n=============================\nGet Suno - https://suno.pxf.io/6kzxGm\nSuno Advanced Stems - https://youtu.be/0gu8qPe75cM\n\n=============================\nAffiliate Links:\n=============================\nSome of the links in my video descriptions are affiliate links, which means at no extra cost to you, I will make a small commission if you click them and make a qualifying purchase. If you have a different purchase in mind, you can also click one of these links and search for another product.\nOr use the storewide links below:\nPlugin Boutique - https://fanlink.lanewoodstudios.com/pluginboutique\nAmazon -  https://www.amazon.com/shop/lanewoodstudios\nThomann online music store - https://fanlink.lanewoodstudios.com/thomann\nSweetwater - https://sweetwater.sjv.io/NkdXqP\nBax Music (NL) - https://fanlink.lanewoodstudios.com/BaxMusic\nWaves Plugins - https://waves.alzt.net/nLzD9M\nhttps://kitplugins.com\nUse LANEWOOD10 as voucher code at checkout to get a 10% discount on any plugin at KIT Plugins!\nGIK acoustics - https://gikacoustics.net/ref/39863/\nSuno - https://suno.pxf.io/0GmenO\n\n=============================\nGear Used to Make This Video:\n=============================\nCamera (paid link) - https://geni.us/fenwfH\nLens (paid link) - https://geni.us/wuLwBx\nMicrophone (paid link) - https://geni.us/L6VJ\nActivator (paid link) - https://geni.us/QV0btW\nMic Arm (paid link) - https://geni.us/GYyfD2c\nLighting (paid link) - https://geni.us/3FDnMM\nVideo editor (paid link) - https://geni.us/chWtEAl\nDisplay calibration (paid link) - https://geni.us/TwAqR\nMouse (paid link) - https://geni.us/dwGar6\nKeyboard (paid link) - https://geni.us/wQoYAm\n\n=============================\nOther Studio Gear:\n=============================\nDAW software (paid link) - https://geni.us/CjRlex\niOS Microphone (paid link) - https://geni.us/hPTh\nMonitors (paid link) - https://thmn.to/thoprod/540739?offid=1&affid=2554\nAlternate monitors (paid link) - https://geni.us/Os8KKI\nAudio Interface (paid link) - https://geni.us/cAqoP\nAD/DA Converter (paid link) - https://geni.us/C7MzC\nAnalog Compressor 1 (paid link) - https://geni.us/zxBq7\nAnalog Compressor 2 (paid link) - https://geni.us/ioKNN\nAnalog EQ (paid link) - https://geni.us/vaYDP\nVocal Microphone (paid link) - https://geni.us/M8AMSJ\nSpeaker calibration (paid link USD) - https://bit.ly/3mi5kjo\nSpeaker calibration (paid link EUR) - https://bit.ly/3e5mo7y\nReverb plugin (paid link) - https://geni.us/V2k6h\nKomplete control (paid link) - https://geni.us/4jz20g\nDJI Mic (paid link) - https://geni.us/F2pmV\nElgato Stream Deck (paid link) - https://geni.us/fxx1VF\nTegeler Creme (paid link) - https://thmn.to/thoprod/364291?partner_id=80313\nTegeler Magnetismus 2 (paid link) - https://thmn.to/thoprod/273479?partner_id=80313\nSSL UF1 - https://thmn.to/thoprod/567897?offid=1&affid=2554\n\n=============================\nRecommended reading:\n=============================\nThe mixing engineer's handbook (paid link) - https://geni.us/Lhy8\nMixing secrets for the small studio (paid link) - https://geni.us/EbL0\n\n=============================\nFollow Me On:\n=============================\nYouTube - https://www.youtube.com/LanewoodStudios\nFacebook - https://www.facebook.com/lanewoodstudios\nInstagram - https://www.instagram.com/lanewoodstudios/\nTikTok - https://www.tiktok.com/@lanewoodstudios\n\n=============================\nCheck out my band Awash on:\n=============================\nFacebook - https://www.facebook.com/awash.me\nYouTube - https://www.youtube.com/user/awashmusic\nWebsite - http://awash.me/\nSpotify - https://fanlink.awash.me/follow\n\n#homerecording #sunoai #sunostudio",
+      "commentCount": 6,
+      "likeCount": 69,
+      "probeClient": "web_embedded"
+    },
+    "ICnamOFC0PI": {
+      "checkedAt": "2026-08-13T21:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "To learn more about AI (Community + Direct Calls) ► https://www.skool.com/ai-automation-lab-5849/about\n\nInstagram ► https://www.instagram.com/fryingpan.ig\nVibecoding livestreams (weekly Sunday 3pm EST, also live on YT) ► https://twitch.tv/fryingpan\n\nDuke reviews Gab's AI automation website and breaks down how to make an AI service offer simple enough for business owners to understand and buy. The main lesson: stop adding more sections and AI jargon, make the offer clear, and sell a low-risk 30-minute workflow review that gives the client a useful report with problems and solutions.\n\nHe also maps out practical automations for a Discord-based coaching business, including meeting summaries, client personas, Google Drive/Calendar workflows, and follow-up posts in Discord.\n\nThis is a live coaching clip, not a guaranteed-client or income formula.\n\n#AIAutomation #AIClients #DukePan\n\n[About Me]\nI’m Duke Pan, a software engineer and creator. I didn't grow up privileged, went to a no name school in Canada, and did computer science after transferring from acting and business, but I was always a hard worker. After years of attempt at content with hundreds of videos, and mostly self-learning coding throughout college, the same year I got my first internship at big tech, my YouTube also blew up and got over 6 million views in a week.\n\nI kept working hard and landed software engineering jobs at Meta, Tesla AI, and Coinbase, then cofounded a YC-backed startup building one of the early AI code editors before Claude Code existed.\n\nThat startup didn’t beat the giants that came after, but it taught me a lot about where AI tools actually create value and entrepreneurship. Now I help companies implement real AI systems and agents inside their existing workflows, including agent infrastructure across massive enterprise data systems for big tech.\n\nI also make videos about coding, AI, startups, lifestyle, and whatever I’m building next.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "bAiBtxa6j0I": {
+      "checkedAt": "2026-08-13T21:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Master Software Testing & Automation — Explore My Udemy Courses\n\nPlaywright Courses\n🎭 Playwright with TypeScript\n👉 https://www.udemy.com/course/learn-playwright-web-api-testing-with-typescript/\n\n🎭 Playwright with JavaScript\n👉 https://www.udemy.com/course/learn-playwright-with-javascript\n\n🐍 Playwright with Python\n👉 https://www.udemy.com/course/learn-playwright-with-python-web-api-automation/\n\nAI & Manual Testing\n🧠 Generative AI for Software Testing\n👉 https://shorturl.at/Uk2eM\n\n📋 Manual Testing + Agile with Jira Tool\n👉 https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool\n\nSelenium Courses\n☕ Selenium with Java + Cucumber\n👉 https://www.udemy.com/course/learn-selenium-with-java-live-project\n\n🐍 Selenium with Python & PyTest\n👉 https://www.udemy.com/course/learn-selenium-with-python-d/\n\n🤖 Selenium with Python using Robot Framework\n👉 https://www.udemy.com/course/learn-selenium-with-python-using-robot-framework\n\nAPI & Performance Testing\n🔌 API Testing (Postman, RestAssured & SoapUI)\n👉 https://www.udemy.com/course/learn-selenium-with-python-using-robot-framework/\n\n📊 JMeter – Performance Testing\n👉 https://www.udemy.com/course/learn-jmeter-m/learn/\n\nOther Automation Tools\n🌐 Cypress with JavaScript\n👉 https://www.udemy.com/course/learn-cypress-with-typescript/\n\n📱 Appium – Mobile Automation Testing\n👉 https://www.udemy.com/course/learn-appium-latest-1110-mobile-automation-testing/\n\n🛠️ Protractor with JavaScript\n👉 https://www.udemy.com/course/learn-protractorangular-testing-with-javascript/\n\nDeveloper Essentials\n📚 Java Collections\n👉 https://www.udemy.com/course/learn-java-collections/\n\n🥒 Cucumber BDD Framework\n👉 https://www.udemy.com/course/learn-cucumber-bdd-framework\n\n🧩 SDET Essentials (Full Stack QA)\n👉 https://www.udemy.com/course/learn-sdet-essentials/\n\n💥 Free YouTube Courses for Software Testers 💥\n Learn Automation from scratch with real-time examples and frameworks.\n🎥 Join here → https://www.youtube.com/@sdetpavan/courses\n ✅ 100% Free | Beginner Friendly | Step-by-Step Tutorials\n \n\n#SoftwareTesting #AutomationTesting #SDET #QATraining #LearnTesting #TestingCommunity #ManualTesting #SoftwareTester #QATester #AutomationEngineer #TestAutomation #SDETTraining #QALife #TestingTools #TestingCareer #BugLife #QualityAssurance #TestingSkills #TestEngineer #AutomationFramework #SeleniumWebDriver #SeleniumWithJava #SeleniumWithPython #SeleniumAutomation #CucumberBDD #TestNGLearning #JUnitTesting #PageObjectModel #JavaForTesters #RobotFramework #UIAutomation #WebTesting #FunctionalTesting #CrossBrowserTesting #PlaywrightTesting #PlaywrightAutomation #PlaywrightWithTypeScript #PlaywrightWithPython #PlaywrightWithJavaScript #PlaywrightFramework #PlaywrightTutorial #EndToEndTesting #WebAutomationTesting #PlaywrightAPI #ModernTesting #HeadlessTesting #APITesting #RestAssured #PostmanAPI #SoapUI #WebServicesTesting #BackendTesting #JSONValidation #APIAutomation #RestAPI #APITestingTutorial #SwaggerTesting #HTTPMethods #APITestingForBeginners #PerformanceTesting #LoadTesting #JMeter #ETLTesting #DataWarehouseTesting #DatabaseTesting #DataValidation #SQLForTesters #DataQualityTesting #SourceToTargetMapping #ETLProcess #DataTransformationTesting #AppiumTesting #MobileAutomation #AndroidTesting #iOSTesting #MobileAppTesting #AppiumWithJava #AppiumWithPython #AITesting #GenerativeAIForTesting #ChatGPTForTesting #AIAutomation #AIInQA #AIDrivenTesting #PromptEngineeringForTesters #TestAutomationAI #FutureOfTesting #CICD #DevOpsTesting #JenkinsPipeline #DockerForTesters #GitHubActions #ContinuousTesting #SeleniumGrid #CloudTesting #TestReporting #AllureReports #ExtentReports #LearnAutomation #TestingTutorials #OnlineTestingCourses #QACareer #UpskillQA #LearnPlaywright #LearnSelenium #LearnAPITesting #CodingForTesters #AutomationJourney",
+      "commentCount": 10,
+      "likeCount": 167,
       "probeClient": "web_embedded"
     }
   }

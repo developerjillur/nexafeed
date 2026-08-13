@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T20:53:14Z",
+  "updatedAt": "2026-08-13T21:53:15Z",
   "items": [
+    {
+      "id": "9sRBCSOyukw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hamza Automates",
+      "publishedAt": "2026-08-13T18:53:15Z",
+      "firstSeenAt": "2026-08-13T21:53:15Z"
+    },
+    {
+      "id": "xKPav7OzH7g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lanewood Studios",
+      "publishedAt": "2026-08-13T17:53:15Z",
+      "firstSeenAt": "2026-08-13T21:53:15Z"
+    },
+    {
+      "id": "ICnamOFC0PI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Duke Pan",
+      "publishedAt": "2026-08-13T17:53:15Z",
+      "firstSeenAt": "2026-08-13T21:53:15Z"
+    },
+    {
+      "id": "bAiBtxa6j0I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SDET- QA",
+      "publishedAt": "2026-08-13T15:53:15Z",
+      "firstSeenAt": "2026-08-13T21:53:15Z"
+    },
     {
       "id": "4hY8PO0KTv8",
       "type": "short",
@@ -12469,15 +12501,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T20:53:24Z",
-      "new": 6,
-      "long": 5,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
       "runAt": "2026-07-30T21:53:33Z",
       "new": 1,
       "long": 1,
@@ -13916,6 +13939,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-13T21:53:15Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
