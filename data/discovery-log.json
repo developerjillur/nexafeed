@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T11:53:08Z",
+  "updatedAt": "2026-08-13T12:53:09Z",
   "items": [
+    {
+      "id": "3XHLnsCbPUE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Professor of AI",
+      "publishedAt": "2026-08-13T12:42:57Z",
+      "firstSeenAt": "2026-08-13T12:53:09Z"
+    },
+    {
+      "id": "ss6Msm7A7i8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-13T12:42:15Z",
+      "firstSeenAt": "2026-08-13T12:53:09Z"
+    },
+    {
+      "id": "MbiMwgbGdxw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Cole Medin",
+      "publishedAt": "2026-08-13T00:53:09Z",
+      "firstSeenAt": "2026-08-13T12:53:09Z"
+    },
     {
       "id": "UjJWdjwrqpM",
       "type": "short",
@@ -12077,15 +12101,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T11:53:45Z",
-      "new": 8,
-      "long": 7,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
       "runAt": "2026-07-30T12:53:48Z",
       "new": 4,
       "long": 1,
@@ -13524,6 +13539,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-13T12:53:09Z",
+      "new": 3,
+      "long": 1,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
