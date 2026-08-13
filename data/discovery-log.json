@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T13:53:10Z",
+  "updatedAt": "2026-08-13T14:53:05Z",
   "items": [
+    {
+      "id": "ekT5hIExty0",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-13T14:46:16Z",
+      "firstSeenAt": "2026-08-13T14:53:05Z"
+    },
+    {
+      "id": "T9vjPC7i6kw",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-08-13T14:18:49Z",
+      "firstSeenAt": "2026-08-13T14:53:05Z"
+    },
+    {
+      "id": "_riDyABRv6o",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-13T14:01:27Z",
+      "firstSeenAt": "2026-08-13T14:53:05Z"
+    },
+    {
+      "id": "aLisVy_xUsE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fosters Marketing",
+      "publishedAt": "2026-08-13T14:38:05Z",
+      "firstSeenAt": "2026-08-13T14:53:05Z"
+    },
+    {
+      "id": "X0PcQL3Ayyo",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Rudy McCormick",
+      "publishedAt": "2026-08-13T14:05:05Z",
+      "firstSeenAt": "2026-08-13T14:53:05Z"
+    },
+    {
+      "id": "Ue96FV_AdBs",
+      "type": "short",
+      "source": "secondary",
+      "channel": "OHO SOLUTIONS",
+      "publishedAt": "2026-08-13T13:53:05Z",
+      "firstSeenAt": "2026-08-13T14:53:05Z"
+    },
+    {
+      "id": "ubUZXj8CW4I",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Innoture Digital Edge",
+      "publishedAt": "2026-08-13T04:53:05Z",
+      "firstSeenAt": "2026-08-13T14:53:05Z"
+    },
+    {
+      "id": "AKveQe_8Ko4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "P's Corner (Business Life + Strategy Lounge)",
+      "publishedAt": "2026-08-13T00:53:05Z",
+      "firstSeenAt": "2026-08-13T14:53:05Z"
+    },
     {
       "id": "CB5bG4mvnS0",
       "type": "long",
@@ -12117,15 +12181,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T13:53:49Z",
-      "new": 7,
-      "long": 5,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
       "runAt": "2026-07-30T14:53:06Z",
       "new": 3,
       "long": 2,
@@ -13564,6 +13619,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-13T14:53:05Z",
+      "new": 8,
+      "long": 2,
+      "shorts": 6,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
