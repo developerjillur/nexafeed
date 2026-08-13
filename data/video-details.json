@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T15:53:11Z",
+  "updatedAt": "2026-08-13T16:53:12Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -3382,99 +3382,6 @@
         }
       ],
       "commentsFetchedAt": "2026-08-08T15:53:44Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "0pjlIkFpFmg": {
-      "checkedAt": "2026-08-08T17:53:19Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment “build” for the Claude x GHL automation builder repo\n\nThe GoHighLevel MCP can’t build workflows.\n\nThat’s the one thing you installed it for.\n\nSo they sell you their AI to do it instead.\n\nHere’s the thing.\nA repo reverse engineers the calls GHL never exposed.\n\nInstall it, copy one request as cURL, hand it to Claude.\n\nNow Claude builds the automation and wires it to the page you built.\n\n#ClaudeCode\n#GoHighLevel\n#Automation\n#AIAgents\n#AItools",
-      "commentCount": 8,
-      "likeCount": 60,
-      "comments": [
-        {
-          "id": "Ugx1HL0dNkVEvemFrZZ4AaABAg",
-          "author": "@charlieautomates",
-          "text": "🚨🔑 Repo resource Here: https://www.charlieautomates.com/free-resources/#ghl-automation-builder",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "UgzzvOafopYPxdEnNUB4AaABAg",
-          "author": "@wachuku39",
-          "text": "Build",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T15:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Z08uryMgBMA6cY_lc-nMpoTsH-dXVkkJEu2hksCxuAXeqttI2MNHS82F91bKR8Tjpw-6bZTkkB0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx1J3pLXhnU9a2PJvV4AaABAg",
-          "author": "@CommandTheRoom-2727",
-          "text": "build   and where do I find the mcp to connect claude with ghl?",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/k50wgQMQrarkCmsOcwWbhoPvf8tm8ZSVhkb58dvOnNeSoJVlK1LLQ-Y95j5ra2fE6jaGWNpVLMQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzA2uxSFkPxPD15CtJ4AaABAg",
-          "author": "@RobLloyd-i9q",
-          "text": "Build",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kgeb3tvIBGrdY-IdjHykSG-MSKpwcehWUAO3_O6TXPgadO46BAk4RkoG8qNgXDJBfHxg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzqavfysQN95DOLCp94AaABAg",
-          "author": "@raybaldree5813",
-          "text": "Build",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T09:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mn4U2qSfoM65pOai9iIDIrhH9sSXkVm4Xqo6oV0E2Z6M0E=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugwv5dxDB8HxusDwYrd4AaABAg",
-          "author": "@METACOGNITION.channel",
-          "text": "Build",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/7m8f_V7af4fNIUqBdMDPSsl7DCh9irkD8FS0NsDkgPTGTrkUbi0oO8w5kanjyl9ATePLFs7t2A=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyNJgLorvTaf-DbZdF4AaABAg",
-          "author": "@EldridgeAsAService",
-          "text": "BUILD",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l0-93o-N4jweYv7-bzEspdpjpNmkF1pKsdg14yNPPlM54RTS3m4MWNNzI-8fBIvT4zFA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwNyqpjmMbx9Q3gv8l4AaABAg",
-          "author": "@mayankkumar-s9j",
-          "text": "build",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T02:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/f-AnV14F3AqraB65AfdkqSyXfBbBbMOFe7r7Pxgd6mnjJUKjRS4s2dLUW8XJ5Ux6s7o30io-=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-08T17:53:19Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7303,106 +7210,178 @@
       "probeClient": "web_embedded"
     },
     "9zxDEXFH7cc": {
-      "checkedAt": "2026-08-12T15:53:51Z",
+      "checkedAt": "2026-08-13T16:53:12Z",
       "embedAllowed": true,
       "description": "Comment \"CODE\" and I'll send you the direct link. 🔥\n\nCursor, Codex, and Claude Code all share the same blind spot. This free tool just permanently fixed all three.\n\nIt's called V3Code. Free to download. Runs completely locally.\n\nSix memory layers that all talk to each other. Maps your entire codebase by meaning, not file names.\n\nAnd unlike every other AI editor, it never dumps old prompts back into context and hopes for the best. It injects only facts.\n\nExactly the right piece. Exactly when it's needed.\n\nYour code never leaves your device. No external database. No privacy risk.\n\nSave this before you forget.\n\n#claude #aitools #V3code #artificialintelligence #chatgpt",
       "commentCount": 8,
-      "likeCount": 34,
+      "likeCount": 828,
       "comments": [
         {
-          "id": "UgysPlp9gr_YcuTGEht4AaABAg",
-          "author": "@EduardoKV81",
+          "id": "Ugzsd1ZlovNdRRBJNil4AaABAg",
+          "author": "@mohanishnm4056",
+          "text": "Code",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T16:47:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nTenh1TwZ8ZnNEyxQJK0Q4KR3Vk0nukuKndHHmluascsM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx9hBV8UieJBdyHXKR4AaABAg",
+          "author": "@MMMs2010",
+          "text": "How do you make videos like this? Do you use Remover? Share a tutorial on creating videos like this.",
+          "likeCount": 1,
+          "publishedAt": "2026-08-13T16:22:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_njNC-zKg_n-fU2hEvfRevXpSowzinGX4Q8Sx2lxgOsKA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwGQxGEU8FTt_jvg094AaABAg",
+          "author": "@vienua21",
+          "text": "Code!",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T16:11:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mnlv439Tj0NTfjmxnXS_SAtex7q_gHOfln5weU8MyY6M4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzYp5a9tqpVqJGePDN4AaABAg",
+          "author": "@codewithashraf1",
           "text": "Code",
           "likeCount": 1,
-          "publishedAt": "2026-08-12T15:52:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l6BglyBnch1yURJ8dBbxCFa31wiqytTfm74AJNxfFPIlKm=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-13T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/BCbh2D2wqk_ePOmEsTwb9tX-_DCTqIQTlPG8W5k7q-KZTdR4juA2zYDOSbPD_NYf1oV3Xs9d8w=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxuEE2iix5PfU9N-BV4AaABAg",
-          "author": "@amedismael7689",
+          "id": "Ugzdr871qyXZ_DQQShV4AaABAg",
+          "author": "@TrendTrajectory",
           "text": "Code",
           "likeCount": 1,
-          "publishedAt": "2026-08-12T15:41:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_loxFsngsfrXURA_-fNI6JZxf1QJ2FVoKQRPvpjHaRHh_Q=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-13T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/w3fL04FPAD18FZgYrie6ztz8IVZq7Hk33JZ3_Pu3SqfyBlnA2xFpqVGqe1EJncK8z5Qi_Dr5N3o=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugw6Y6rQLL2lMt9z0ud4AaABAg",
-          "author": "@KP-yd7jo",
+          "id": "UgwWzzpplsex_EsL7Rd4AaABAg",
+          "author": "@PJ-1972",
           "text": "Code",
-          "likeCount": 1,
-          "publishedAt": "2026-08-12T15:31:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kedlxAby9tBfPJkXZ8EQhn6bmlgHTDhb0RGpWJWrn_Xk7rZowkOmPXdaOCOCTpsF7fXg=s88-c-k-c0x00ffffff-no-rj",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/qWByquZe27bFzZ-m0uO1K7J_IVpVC_nDGK1qdVmi1vE05xa5rwJSvusBDVsyXlVqMlqawJYjKw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugz435wU9ZR4TEK-Cd94AaABAg",
-          "author": "@Alexaep18",
-          "text": "Code",
-          "likeCount": 1,
-          "publishedAt": "2026-08-12T15:24:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/QXWC0LLLSUXTBX5RX_tKnyyG1wPDGsNoHICFAnaMbZYfELkWX5bOONmTkwKH_kfum5LHpHPvGkQ=s88-c-k-c0x00ffffff-no-rj",
+          "id": "Ugw7Uks-kGfTMf5Hneh4AaABAg",
+          "author": "@PJ-1972",
+          "text": "Love it!",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/qWByquZe27bFzZ-m0uO1K7J_IVpVC_nDGK1qdVmi1vE05xa5rwJSvusBDVsyXlVqMlqawJYjKw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugy2Id2F-2pbrNVXac14AaABAg",
-          "author": "@rjruuppert",
-          "text": "Code",
+          "id": "UgwSmAZZcHYL1KSLAZ14AaABAg",
+          "author": "@StablecashUS",
+          "text": "Code. Thanks",
           "likeCount": 1,
-          "publishedAt": "2026-08-12T15:21:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/wxovjgb9mpfyQ0CDMneUHI4ulKh8Qw-lDMSD2CsVh0HLeoJMr2FfP8H1Pwv3hfkOHOsr4LmK=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-13T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/YYa_6_SY19zGs5nDe3TPNmHIP6vIt64mAuMuVmiSOMb6IluAvWpfLERcSmyGnUr5N3NDWqpPIA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
-        },
-        {
-          "id": "UgwkCczeQ0FREvUTpD94AaABAg",
-          "author": "@abdulmaay79",
-          "text": "CODE",
-          "likeCount": 1,
-          "publishedAt": "2026-08-12T15:20:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kFYbQyWyiS2C3WymvBKmcK6DO7wqMrxGURkM4wtn4=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw0KpiEhj_COBuI28x4AaABAg",
-          "author": "@Devonrj8881",
-          "text": "CODE",
-          "likeCount": 2,
-          "publishedAt": "2026-08-12T15:17:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lO4D4YEcbuUsiuh_LigsE7xQtzd6CDiwBvHWNgQtQJN77G=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxz2CJmzVeCdkHTNdN4AaABAg",
-          "author": "@InsiderForce",
-          "text": "Comment “CODE” for the direct link.🔥",
-          "likeCount": 1,
-          "publishedAt": "2026-08-12T15:04:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/jNjH5aurflHZRBuhGoJUJ9BERtQPPb7jF69EiMsu-roN5MIH8Th7CVNQVrgfTYqcLsZHN4F5xQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": true
         }
       ],
-      "commentsFetchedAt": "2026-08-12T15:53:51Z",
+      "commentsFetchedAt": "2026-08-13T16:53:12Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
+      "probeClient": "web_embedded",
+      "availability": "public"
     },
     "2JUn0WwfcXE": {
-      "checkedAt": "2026-08-12T16:53:10Z",
+      "checkedAt": "2026-08-13T16:53:12Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Everyone talks about better prompts = better AI outputs.\n\nBut if you're building AI apps or using LLMs seriously, there's a much bigger question:\n\nHow do you know if the AI's answer is actually good?\n\nIn this video, we break down 6 essential LLM evaluation metrics:\n\n1. Correctness — Is the answer actually accurate?\n\n2. Groundedness — Is the AI using the information provided, or inventing facts?\n\n3. Relevance — Did the AI actually answer the question?\n\n4. Completeness — Did it cover every important part of the request?\n\n5. Conciseness — Is the response clear and to the point, without unnecessary information?\n\n6. Safety — Is the AI avoiding harmful or dangerous outputs?\n\nThese metrics become especially important when you're building AI applications, RAG systems, AI agents, chatbots, or production LLM workflows.\n\nBecause prompting an AI is only half the problem.\n\nThe other half is knowing whether the output deserves to be trusted.\n\nI'm also creating a free guide covering 10+ LLM evaluation metrics, with use cases and real examples.\n\nWant the guide?\n\nhere's the complete guide : https://app.notion.com/p/The-Ultimate-Guide-to-LLM-Evaluation-Metrics-3b5ee02da9108016832cfda31d485237?source=copy_link \n\nAt BPRO, we break down practical AI engineering, AI tools, LLMs, AI agents, automation, and the technology shaping the future.\n\nSubscribe for more AI tutorials, AI updates, AI engineering insights, LLM tips, and practical AI workflows.\n\n#AI #LLM #AIEvaluation #AIEngineering #ArtificialIntelligence\n\nAI evaluation, LLM evaluation, LLM evaluation metrics, AI metrics, AI testing, how to evaluate AI, how to evaluate LLM, AI model evaluation, LLM testing, AI testing tools, LLM testing tools, AI accuracy, AI hallucination, AI hallucinations, AI reliability, AI benchmarking, AI benchmark, RAG evaluation, RAG evaluation metrics, AI agents, AI agent evaluation, AI engineering, LLMs, large language models, generative AI, ChatGPT, Claude AI, AI tools, AI tutorial, how AI works, AI explained, AI development, AI developers, machine learning, artificial intelligence, prompt engineering, better AI prompts, AI output evaluation, AI quality, AI safety, AI accuracy testing, AI app development, building AI apps, AI chatbot, chatbot evaluation, RAG, retrieval augmented generation, LLM benchmark, LLM accuracy, AI news, AI updates, technology, tech trends, AI 2026",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-12T16:53:10Z",
+      "commentCount": 7,
+      "likeCount": 43,
+      "comments": [
+        {
+          "id": "UgxTcXbliYfEba8FiGp4AaABAg",
+          "author": "@Jayesh-n8x",
+          "text": "Evaluation",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZTaHB_dUrjdxVPzWHPSBBiQ8yLcuryhd4EkW86K1c1ICS_z_qpEkyUfbcf4p_XGWlCw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx6kKBZVrvVfxGLdDx4AaABAg",
+          "author": "@sajidmemon7542",
+          "text": "Evaluation",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lxNb3aCHLRGnCIQmS_-nCbFwcDF60YxKnHSkuYprPlHTq6=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzVh3hpLmERxEu6hK54AaABAg",
+          "author": "@kieran2347",
+          "text": "Sure why not. Evaluation dear",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l2-mr0n3W_J4gTHMuYXPQ9DHEEYpo_XZc5r04zXtirGCY=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwFuJgrpJ6FT8alWwF4AaABAg",
+          "author": "@jagdeepsinghvirdi",
+          "text": "Evaluation",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/JFO1z5XcP4qtSZU7S_9ItDD9pyiaQN85HziAh-KGpBHyyo4X28HeR-WIIEZUvC5OVi8GXslNeEk=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgymQqPAf8dkPjnYdPR4AaABAg",
+          "author": "@saileshkumar7454",
+          "text": "Evaluation",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/QcSGvYCwB2-W7C4IsvuDWCrC7mUlCwOBnhrxZz_vwvHUK47DRrgKrWTBfCxz4JlRu6k-EcONTQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy_EubgN3q7qnh00NF4AaABAg",
+          "author": "@gangjisureshkumar6249",
+          "text": "Evaluation",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lTjWu-3Nr3rnVWW3pjtTt92B02C81EFsYtH532LAAnVfdL_xLvCVos3GLgui6Fba6opw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwXHPQdkUunFEchhnZ4AaABAg",
+          "author": "@Fitnessworld_001",
+          "text": "Evaluation",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Lr1QaiVnINB-Xs2HvUhGkbWGHoKXxUtDLmkLTP_WcxPtqk57XLVMB8HrITbK55pYYwXig5Rktw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-13T16:53:12Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7476,14 +7455,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "TJEwRXsbFU0": {
-      "checkedAt": "2026-08-12T20:53:39Z",
-      "embedAllowed": true,
-      "description": "Build a No-Code AI Agent | Turn Ideas Into Working Tools Without Coding*\r\n\r\nAI development doesn’t have to mean walls of code. In this masterclass, we’ll show you how to build a fully working AI agent using a no-code approach — assembly over programming.\r\n\r\nYou’ll learn how to create a *Content Research Agent* that takes a topic, analyzes it, organizes research, and hands you a ready-to-use content brief. No programming required.\r\n\r\n*What you’ll learn in this video:*\r\n*01. No-Code Revolution* - Think in terms of assembly: goals, tools, memory, instructions  \r\n*02. Designing Your Workflow* - Blueprint 6 stages: Trigger → AI Model → Research Tool → Quality Check → Human Review → Output  \r\n*03. Assembling The Agent* - Define the AI identity, give it tools, and set strict boundaries: \"Never invent facts\"  \r\n*04. Human In The Loop* - Why controlled autonomy beats unrestricted automation. Add safety checks to prevent errors  \r\n*05. Testing & Troubleshooting* - Stress test with specific vs vague inputs. Fix generic info, unsupported claims, and format issues  \r\n*06. Practical Assignment* - Build your own no-code agent: YouTube Research, Email Assistant, Study Assistant, Business Research, or Customer Support\r\n\r\n*Key idea:* Human-in-the-loop design is often better than unrestricted autonomy.\r\n\r\nBy the end, you’ll understand how to snap together AI building blocks to create agents that save hours of manual research.\r\n\r\nReady for Lesson 13? We’ll build an advanced research agent with multi-source search and structured reports.  \r\nSubscribe so you don’t miss it 👉 \r\n\r\n#NoCode #AIAgent #Automation #AITools #ContentCreation #AIGlobal\r\n\r\n---\r\n\r\n*Short Social Caption Option*\r\nWhat if you could build an AI agent without writing a single line of code?  \r\nIn this video we break down how to assemble one: Trigger → AI Model → Research Tool → Human Review.  \r\nWe’ll even build a Content Research Agent together.  \r\nStop coding. Start assembling.  \r\n#NoCodeAI #AIAgent #BuildInPublic\r\n\r\n---\r\n\r\nWant me to also write:\r\n1. *SEO Tags/Keywords* for YouTube\r\n2. *Thumbnail text ideas* based on your slides\r\n3. *Chapter timestamps* from the transcript\r\n\r\nWhich one do you want next?",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "EfVhmf9N1BQ": {
       "checkedAt": "2026-08-12T21:53:49Z",
       "embedAllowed": true,
@@ -7498,14 +7469,6 @@
       "description": "Are AI coding agents making the code review process obsolete? Learn how to navigate the changing landscape of software development.\n\nAs AI code generation becomes more prevalent, engineering teams face new challenges in maintaining quality. This video examines why traditional review methods are struggling to keep up with automated outputs and what that means for your daily workflow. It is designed for developers and team leads who need to adapt their peer review standards to a world where AI contributes significant portions of the codebase.\n\nWe break down the original purpose of manual inspections and identify which parts of the process remain essential versus which can be safely automated. You will walk away with a clearer understanding of how to adjust your team's approach to software development to ensure robust, maintainable code without creating bottlenecks. By rethinking how we use AI coding agents, we can establish better standards that prioritise human oversight where it actually adds value.\n\n-\n\n🧠 OUR SOFTWARE ENGINEERING TRAINING COURSES: https://courses.cd.training/ \n\n-\n\nSam Newman's Website ➡️ https://samnewman.io/ \nSam Newman on LinkedIn ➡️ https://www.linkedin.com/in/samnewman/\n\nModern Software Engineering on X ➡️ https://x.com/ModernSoftwareX\nModern Software Engineering on LinkedIn ➡️ https://www.linkedin.com/company/modern-software-engineering\nModern Software Engineering on bluesky ➡️ https://bsky.app/profile/modernswe.bsky.social\n\n-\n\n⭐ PATREON:\nJoin the Continuous Delivery community and access extra perks & content! ➡️ https://bit.ly/ContinuousDeliveryPatreon \n\n🎥 Join Us On TikTok ➡️ https://www.tiktok.com/@modern.s.engineering\n\n-\n\n👕 T-SHIRTS:\nA fan of the T-shirts I wear in my videos? Grab your own, at reduced prices EXCLUSIVE TO CONTINUOUS DELIVERY FOLLOWERS! Get money off the already reasonably priced t-shirts!\n\n🔗 Check out their collection HERE: ➡️ https://bit.ly/3Uby9iA\n🚨 DON'T FORGET TO USE THIS DISCOUNT CODE: ContinuousDelivery\n\n-\n\nCHANNEL SPONSORS:\n\nOctopus Deploy sets the standard for Continuous Delivery (CD), empowering software teams to deliver value in an agile way. Globally, more than 4,000 organizations rely on its Continuous Delivery, GitOps, and release orchestration solutions to deliver swift value to their customers. Octopus efficiently orchestrates software delivery across multi-cloud, Kubernetes, data centers, and hybrid environments, whether containerized modern apps or heritage applications. With governance, risk, and compliance (GRC) at its core, Octopus supports Platform Engineering teams in their mission to provide a superior developer experience (DevEx). Octopus also actively contributes to the developer community with open-source projects. ➡️ https://bit.ly/MSExOCTDEP\n\nEqual Experts is a product software development consultancy with a network of over 1,000 experienced technology consultants globally. They increase the pace of innovation by using modern software engineering practices that embrace Continuous Delivery, Security, and Operability from the outset ➡️ https://bit.ly/3ASy8n0\n\nTransFICC provides low-latency connectivity, automated trading workflows and e-trading systems for Fixed Income and Derivatives. TransFICC resolves the issue of market fragmentation by providing banks and asset managers with a unified low-latency, robust and scalable API, which provides connectivity to multiple trading venues while supporting numerous complex workflows across asset classes such as Rates and Credit Bonds, Repos, Mortgage-Backed Securities and Interest Rate Swaps ➡️ https://transficc.com\n\n-\n\n#ai #artificialintelligence #softwareengineer #softwareengineering",
       "commentCount": 15,
       "likeCount": 39,
-      "probeClient": "web_embedded"
-    },
-    "cce7Q0sF2LQ": {
-      "checkedAt": "2026-08-12T21:53:49Z",
-      "embedAllowed": true,
-      "description": "From Beginner to AI-Powered Full Stack Engineer in 20 Weeks\n----------\n\nBecome a Full Stack Developer with AI Engineering 💻🤖\nBuild real-world projects, master AI tools & get 3 Mega Capstone Project 🚀 Apply Now!\n📌 Apply Now → https://www.wscubetech.com/full-stack-developer-course?utm_source=YT_Ws_CodeInnings&utm_medium=YT_Video&utm_campaign=Cohort&utm_post_id=WsAISchool_Aug2026_12\n\n----------\nNew Cohort is Starting Soon!\nDate: 18 Aug'26\nTime: 07:30 - 09:30PM\n\nWelcome to WsCube AI & Tech School, your space to master the technologies shaping the next decade : AI, automation, agents, GPTs, software development, full stack and modern web & app engineering\n\nBacked by WsCube Tech, India’s trusted upskilling platform with 4M+ learners, we deliver clear, structured and outcome-driven content for the evolving tech world\nSubscribe now and begin your journey into the AI era \n\n---\n\n🚀 Powered by WsCube Tech — India’s trusted upskilling brand with 4M+ learners\n\n🎯 Subscribe & turn your first innings into a long, successful career.\n\n#fullstack #fullstackdevelopment #newcohort",
-      "commentCount": 4,
-      "likeCount": 13,
       "probeClient": "web_embedded"
     },
     "M3_BX0BodOo": {
@@ -7524,14 +7487,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "6kpzCdsuRNE": {
-      "checkedAt": "2026-08-12T23:53:14Z",
-      "embedAllowed": true,
-      "description": "Project Infinity 0.1 is a dream come true for everyone that likes the standard large skyblock modpacks but wants something more modern. You will find all the goodies including Mekanism with two huge addons, Blood Magic, Botania, AE2 with addons,Void miners and much more. The vast customized content and recipes lead up to the not so typical goals and creative endgame.\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nJoin The Discord: https://discord.gg/gfCv7uc4ej\n\nThe Like And Subscribe it is FREE\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nOutro Music By Ninety9Lives\nhttps://www.youtube.com/channel/UCl8iwAEa4i5LsFMXbiI2J-g\nSean Holihan - Split (feat. Scarlett)\nhttps://www.youtube.com/watch?v=9CGh-6D8Lhk\nBackground Music\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
-      "commentCount": 9,
-      "likeCount": 26,
-      "probeClient": "web_embedded"
-    },
     "ZRGYzWoWaYg": {
       "checkedAt": "2026-08-13T01:53:30Z",
       "embedAllowed": true,
@@ -7542,15 +7497,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-13T01:53:30Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "-iNFQWV7Pzg": {
-      "checkedAt": "2026-08-13T01:53:30Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "I implemented an AI harness from scratch to finally understand how it all works, and it's more complicated than I thought...\n\nCheckout CodeRabbit:\nhttps://coderabbit.link/ad-marko-001\n\nIt turns out that it's not so important whether you are working with Gemini or Claude or Codex, and instead it's all about the harness, the integrations, the tools and skills. And in this video I want to share the lessons I learned while implementing my own harness and tools. If you are into productivity, coding and AI this video is going to be an interesting watch.\n\n===\n☕️  My Mac App (11k+ daily users): https://coffeebreak.software/one-menu\n☕️  Discord: https://links.withmarko.com/discord\n===\n\nApps by fellow solo devs:\n☕️ Dotted.  https://apps.apple.com/us/app/dotted-time/id6760857931\n\nBusiness enquiries:\nbusiness@withmarko.com",
-      "commentCount": 15,
-      "likeCount": 211,
       "probeClient": "web_embedded"
     },
     "d-XgQvTHC94": {
@@ -7731,7 +7677,7 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-13T15:53:11Z",
+      "checkedAt": "2026-08-13T16:53:12Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7771,14 +7717,6 @@
       "description": "Description with hashtags:\nWelcome back to another massive AI episode in our ultimate n8n workflow automation series! Artificial Intelligence is the driving force of modern business, and OpenAI's ChatGPT (running models like GPT-4o) remains the absolute industry standard. If you are still manually copying and pasting data into the ChatGPT web interface, you are losing hours of valuable time! In this fully updated 2026 comprehensive tech tutorial, we are going to show you exactly how to integrate OpenAI ChatGPT with n8n, authenticate your API keys, and deploy incredibly smart, autonomous AI workflows!\n\nIn the first section of this complete video guide, we will tackle the core connection and the standard OpenAI Node. We will walk you through navigating to the OpenAI Developer Platform, generating a secure API key, and injecting it into n8n's Credentials Manager. You will learn how to drop the standard OpenAI node onto your canvas, select your desired model (like gpt-4o or gpt-4-turbo), and pass dynamic variables into the prompt. We will show you a live example of taking an incoming customer email, routing it through ChatGPT to analyze the sentiment, and generating a perfectly formatted response!\n\nNext, we take a deep dive into the absolute cutting-edge of n8n: The Advanced AI Nodes! We will leave the basic nodes behind and construct a true LangChain-powered AI architecture. You will learn how to connect the \"OpenAI Chat Model\" to a \"Basic LLM Chain.\" We will show you how to leverage System Messages to give your AI a strict persona, and how to attach \"Window Buffer Memory\" so your ChatGPT bot actually remembers previous messages in a multi-turn Slack or Discord conversation!\n\nMoving into the second half of our tutorial, we will explore building a fully Autonomous AI Agent. We will show you how to swap the Basic Chain for an \"AI Agent\" node and arm your OpenAI model with custom Tools! You will watch as we give ChatGPT the ability to search Wikipedia, read Google Docs, and execute custom JavaScript directly inside your n8n server, allowing the AI to problem-solve and execute multi-step tasks without any human intervention.\n\nMastering the integration of OpenAI ChatGPT with n8n is the ultimate key to developing highly capable, hyper-efficient AI automations that can revolutionize your business operations!\n\nThank you so much for tuning in to this complete n8n OpenAI integration tutorial! If this 2026 tech guide helped you build your first ChatGPT automation today, please make sure to smash that like button and share this video with a fellow developer or operations manager who is scaling their AI infrastructure! Subscribe to the channel and turn on the notification bell so you never miss out on our upcoming n8n tutorials, AI agent builds, and API integration guides. Drop a comment down below letting us know what incredible task you just automated with ChatGPT, and we will see you in the next video!\n\n#n8n #n8nTutorial #OpenAI #ChatGPT #WorkflowAutomation #AIAgents #TechTutorial2026 #LangChain #ArtificialIntelligence #SelfHosted #DevOps #NoCode\n\nyoutube tags:\nhow to integrate openai with n8n,n8n chatgpt tutorial,n8n openai node,n8n advanced ai nodes,connect chatgpt to n8n,n8n ai agent,n8n langchain integration,gpt-4o automation,n8n openai api key,n8n tutorial 2026,zapier alternative,make.com alternative,workflow automation,open source automation,self hosted n8n,build ai agent without code,automate business processes,n8n memory node,n8n ai tools,chatgpt api integration",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "5rw2XP6me8w": {
-      "checkedAt": "2026-08-13T07:53:21Z",
-      "embedAllowed": true,
-      "description": "Join us live as we build a Hospital Maintenance Work Order System from scratch using Caspio Flex.\n\nEvery hospital relies on facilities teams to keep equipment, rooms, and building systems running smoothly. In this live session, we'll build a complete maintenance management application that helps staff submit work requests, assign technicians, track repairs, and monitor maintenance activity—all without writing code.\n\nDuring this one-hour build, you'll learn how to create:\n\nMaintenance request forms\nEquipment and room tracking\nTechnician assignments\nWork order status updates\nPriority levels and due dates\nMaintenance dashboards and reports\nRole-based access for facilities staff and managers\n\nWhether you're building applications for healthcare, education, government, or enterprise operations, you'll see how quickly powerful internal business applications can be built with Caspio Flex.\n\n🏥 Want to explore the Hospital Facility Management app yourself?\n\n👉 Explore the live demo: https://c1ctb933.caspio.app/hospital-facility-maintenance/public/welcome-page?sid=fe6a4c34e1a34b6ca8da453e40146dce \n\n🚀 Want to build your own? Start a free 14-day Caspio trial: https://hubs.la/Q04sSVD_0\n\n#NoCode #LowCode #Healthcare #FacilitiesManagement #MaintenanceManagement #CMMS #Caspio #Flex #AppDevelopment",
-      "commentCount": 1,
-      "likeCount": 5,
       "probeClient": "web_embedded"
     },
     "1eJF3pkIow4": {
@@ -8093,7 +8031,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-13T15:53:11Z",
+      "checkedAt": "2026-08-13T16:53:12Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8273,6 +8211,74 @@
       "description": "Oracle's aggressive AI expansion is putting its workforce under fresh scrutiny after the company cut about 21,000 employees, or 13% of its workforce, in fiscal 2026. The company is now reportedly preparing another round of job cuts as it continues pouring billions into AI infrastructure and data centres, adding to questions over how the company is balancing its AI ambitions with workforce costs. Watch.\n\n#Oracle #OracleLayoffs #OracleJobs #Layoffs #JobCuts #AI #ArtificialIntelligence #AIBoom #AIJobs #AIJobsCrisis #TechLayoffs #TechJobs #TechIndustry #OracleAI #AIInvestment #AIInfrastructure #DataCenters #Technology #BigTech #SiliconValley #Jobs #Employment #JobLoss #Workforce #CorporateNews #BusinessNews #TechNews #AIRevolution #Automation #FutureOfWork #AIandJobs #AIImpact #TechLayoffs2026 #LayoffNews #LayoffUpdate #OracleNews #LarryEllison #CloudComputing #CloudInfrastructure #DataCenter #Business #Economy #GlobalEconomy #USJobs #USEconomy #BreakingNews #LatestNews #TrendingNews #WorldNews #MintNews #News #YouTubeNews #YouTubeShorts #Shorts #Trending #ViralNews\n\nMint is an Indian financial daily newspaper published by HT Media. The Mint YT Channel brings you cutting edge analysis of the latest business news and financial news. With in-depth market coverage, explainers and expert opinions, we break down and simplify business news for you. \n\nClick here to download the Mint App: https://livemint.onelink.me/MrDS/p0kx3pdg\n\nNow make Mint your preferred source on Google and get business & finance updates first. \nAdd here - https://www.google.com/preferences/source?q=mint\n\nSubscribe to Mint Premium Now: https://www.read.ht/Scaq\n\nSubscribe to Mint's WhatsApp Channel: https://whatsapp.com/channel/0029Va91YSeGehEM6oMesj3d",
       "commentCount": 2,
       "likeCount": 16,
+      "probeClient": "web_embedded"
+    },
+    "eWdvFbDxkJE": {
+      "checkedAt": "2026-08-13T16:53:12Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment \"Claude\" for links to all 5 plugins\n\nYou're paying $200 a month for limits these plugins delete.\n\nherdr, run a whole agent team, sound alert when one stalls.\ngraphify, memory that survives every session.\nOmniroute, any model inside Claude Code.\nClaude Code Setup, Anthropic's own project audit.\nTask Observer, upgrades the skills you already run.\n\nThat's the unlock, fam.\n\n#ClaudeCode\n#AIAgents\n#Automation\n#DevTools\n#BuildInPublic",
+      "commentCount": 1,
+      "likeCount": 12,
+      "comments": [
+        {
+          "id": "UgwngphVRnoxM9RprTN4AaABAg",
+          "author": "@charlieautomates",
+          "text": "👇🏼🔑 All Plugin Links on this Free Resource Page: https://charlieautomates.com/free-resources/#top-claude-code-plugins-2026",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T16:09:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-08-13T16:53:12Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "5Xw3LtPeByE": {
+      "checkedAt": "2026-08-13T16:53:12Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Keep moving with agents! ⚙️ *The all things agentic hackathon* is officially live.\n\nWe're challenging builders to build next generation agents that take on the busy work and handle the heavy lifting in the background using Gemini 3.5 and Google Cloud. Compete for your share of *$180,000* in prizes, cash, and Google Cloud credits!\n\n* *Important Dates:*\n• Submissions open: August 3, 2026\n• Submissions close: August 31, 2026 (5:00 P.M. PDT / 8:00 P.M. EDT) \n• Prizes: $180,000 total prize pool\n\nLearn more and register → https://goo.gle/agentic-hackathon\nSign up for GEAR to get exclusive updates and your badge → https://goo.gle/4fWmqiU\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#AllThingsAgenticHackathon\n\nSpeaker: Tilde Thurium, Annie Wang\nProducts Mentioned: Gemini, Google Cloud Skills Boost, Gemma, Cloud Run, Vertex AI",
+      "commentCount": 1,
+      "likeCount": 37,
+      "probeClient": "web_embedded"
+    },
+    "vpibH71_uq0": {
+      "checkedAt": "2026-08-13T16:53:12Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get the Agent OS & Hermes Agent Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nHermes AI Agents Go Portable: Own Your AI Identity Forever\n\nNous Research just changed the game by making Hermes AI agents fully portable and shareable via single-file exports. Learn how to move your agent's persona, memory, and skills between machines while keeping your sensitive API keys secure.\n\n00:00 - Intro: Hermes AI Agents Go Portable\n00:40 - The New Export & Import Commands\n02:17 - What’s Inside the Export File?\n04:02 - Safe Sharing: Stripping API Keys\n05:47 - 4 Major Unlocks for Productivity\n07:58 - Community & Shareable Profiles\n08:42 - AI Identity vs. The Model Brain\n12:04 - Summary: The Future of Portable AI",
+      "commentCount": 3,
+      "likeCount": 19,
+      "probeClient": "web_embedded"
+    },
+    "eYrMF9Cht8A": {
+      "checkedAt": "2026-08-13T16:53:12Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Today's AI models keep getting smarter, but every conversation still feels like their first day on the job. Trajectory co-founder Arjun Karanam calls this the experience gap: models are improving on IQ, but not on experience. Continual learning aims to close it, turning the trillions of tokens of agent interactions that get thrown away into signal that makes agents better with every use.\n\nAt Sequoia Capital’s Own Your Intelligence event, Arjun lays out four goals for companies that want to get there: full traceability (including sub-agents and corrective behavior like edits and retries), evals drawn from real production traffic, harnesses that let agents orchestrate rather than constrain them, and getting comfortable running on open weights. He also covers what should be trained into the model versus left to the harness, and how to learn from interactions without training on customer data.\n\n\n00:00 Introduction\n00:12 Building the platform for continual learning\n01:33 The experience gap: models have IQ but no tenure\n02:52 Traceability → model spec → better models and harnesses\n05:27 Four wishes for the agent ecosystem\n06:34 Wish 1: Trace the whole tree — and capture the corrections\n08:03 Wish 2: Evals from real traffic, graded in the real harness\n09:26 Wish 3: Let the agents cook, and make tool responses informative\n10:34 Wish 4: Get comfortable on open weights, experiment with routers\n11:51 Why owning your intelligence shouldn't be consulted away\n13:15 Demo: import a benchmark, train a model, deploy it\n14:28 Q&A: What's the trainable object — weights, harness, or context?\n16:08 Q&A: Continual learning without training on customer data\n17:13 Q&A: Episodic memory and the hierarchy of feedback\n19:37 Q&A: Where continual learning matters most",
+      "commentCount": 2,
+      "likeCount": 53,
+      "probeClient": "web_embedded"
+    },
+    "VZNF5PXojyw": {
+      "checkedAt": "2026-08-13T16:53:12Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get the Agent OS Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nUltimate AI Agent OS Setup: Free Tools & Grokbot Alternatives\n\nLearn how to optimize your AI Agent OS with the best free tools for coding, image generation, and text-to-video. This guide covers open-source alternatives like Open Mousebot and Claude Code Router to help you build a personalized AI team.\n\n00:00 - Intro: The Power of Agent OS\n01:34 - Claude Code Router vs Omniroute\n03:06 - Better Text-to-Video Alternatives\n05:02 - Unlimited AI Image Generation\n07:41 - Building Specialized AI Agents\n09:13 - Grokbot vs Open Mousebot\n10:48 - How to Join the AI Profit Community",
+      "commentCount": 1,
+      "likeCount": 17,
+      "probeClient": "web_embedded"
+    },
+    "dvWl5re7eCQ": {
+      "checkedAt": "2026-08-13T16:53:12Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this episode of The Brainstorm, Sam, Nick, and Brett break down what may be a watershed moment for AI: OpenAI’s agents devised their own secret communication scheme, hacked out of their training sandbox, and attacked Hugging Face in search of test answers. The team debates what swarms of autonomous agents mean for cybersecurity, why the coming wave of open-source attackers could drive more spending into frontier labs, and whether “alignment” is even a coherent concept. Then, Zuckerberg’s latest essay on personal AI assistants raises a bigger question: if billions of consumers get their own agents, compute supply could be constrained for a decade.\n \nKey Points From This Episode:\n00:00:00 Sandbox Escape\n00:06:50 Cybersecurity Economics\n00:11:04 Alignment Problem\n00:15:21 Personal Agents\n00:24:07 Frontier Model Outlook\n\nIf you know ARK, you know we focus on long-term innovation. But that doesn’t mean we ignore breaking news. Every day, we debate the latest developments in tech and markets. Now, we’re bringing those conversations to you in “The Brainstorm,” a co-production from ARK, WOLF, and Public. Tune in weekly for our quick takes on what’s shaping innovation right now.\n\nLearn more about WOLF: https://wolf.financial\nLearn more about Public: https://public.com/\n\nTo learn more about ARK: https://arkinv.st/ARKInvest\n \nFor more updates, follow us on:\n- X: https://arkinv.st/Twitter\n- LinkedIn: https://arkinv.st/LinkedIn\n- Facebook: https://arkinv.st/Facebook\n- Instagram: https://arkinv.st/Instagram\n\nDisclosure: http://arkinv.st/39rzF94",
+      "commentCount": 14,
+      "likeCount": 139,
       "probeClient": "web_embedded"
     }
   }
