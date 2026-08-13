@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T00:53:23Z",
+  "updatedAt": "2026-08-13T01:53:30Z",
   "items": [
+    {
+      "id": "ZRGYzWoWaYg",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-13T01:15:39Z",
+      "firstSeenAt": "2026-08-13T01:53:30Z"
+    },
+    {
+      "id": "-iNFQWV7Pzg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Marko",
+      "publishedAt": "2026-08-12T18:53:30Z",
+      "firstSeenAt": "2026-08-13T01:53:30Z"
+    },
+    {
+      "id": "1Qilff8el14",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Junoverse",
+      "publishedAt": "2026-08-12T14:53:30Z",
+      "firstSeenAt": "2026-08-13T01:53:30Z"
+    },
+    {
+      "id": "QID-QHVLYYc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech With Tim",
+      "publishedAt": "2026-08-12T13:53:30Z",
+      "firstSeenAt": "2026-08-13T01:53:30Z"
+    },
+    {
+      "id": "Ef5zPm7U7So",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Edward Donner",
+      "publishedAt": "2026-08-12T13:53:30Z",
+      "firstSeenAt": "2026-08-13T01:53:30Z"
+    },
     {
       "id": "8Q8KGCyfhYs",
       "type": "long",
@@ -11781,24 +11821,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T01:40:56Z",
-      "new": 7,
-      "long": 4,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
-      "runAt": "2026-07-30T01:53:26Z",
-      "new": 0,
-      "long": 0,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
       "runAt": "2026-07-30T02:53:32Z",
       "new": 4,
       "long": 3,
@@ -13228,6 +13250,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-13T01:53:30Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
