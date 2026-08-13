@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T18:53:14Z",
+  "updatedAt": "2026-08-13T19:53:15Z",
   "items": [
+    {
+      "id": "0v1MKQDr7d8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Harkirat Singh",
+      "publishedAt": "2026-08-13T15:53:15Z",
+      "firstSeenAt": "2026-08-13T19:53:15Z"
+    },
+    {
+      "id": "5FcHP22u0zs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jan-Niklas Wortmann",
+      "publishedAt": "2026-08-13T13:53:15Z",
+      "firstSeenAt": "2026-08-13T19:53:15Z"
+    },
+    {
+      "id": "POgGZ__yFRA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "QUASA",
+      "publishedAt": "2026-08-13T13:53:15Z",
+      "firstSeenAt": "2026-08-13T19:53:15Z"
+    },
+    {
+      "id": "tyHhBuaDguU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Parikh Jain",
+      "publishedAt": "2026-08-13T12:53:15Z",
+      "firstSeenAt": "2026-08-13T19:53:15Z"
+    },
+    {
+      "id": "ryiHn7vrt6I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dr AI",
+      "publishedAt": "2026-08-13T11:53:15Z",
+      "firstSeenAt": "2026-08-13T19:53:15Z"
+    },
+    {
+      "id": "Mu5a8ErscIE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bijan Bowen",
+      "publishedAt": "2026-08-13T00:53:15Z",
+      "firstSeenAt": "2026-08-13T19:53:15Z"
+    },
     {
       "id": "IB1QVQUXV6M",
       "type": "short",
@@ -12365,15 +12413,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T19:53:15Z",
-      "new": 6,
-      "long": 5,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
       "runAt": "2026-07-30T20:53:24Z",
       "new": 6,
       "long": 5,
@@ -13803,6 +13842,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-13T19:53:15Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
