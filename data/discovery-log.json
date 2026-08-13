@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T17:53:13Z",
+  "updatedAt": "2026-08-13T18:53:14Z",
   "items": [
+    {
+      "id": "IB1QVQUXV6M",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-13T18:31:40Z",
+      "firstSeenAt": "2026-08-13T18:53:14Z"
+    },
+    {
+      "id": "De2tqUkw660",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-13T18:03:39Z",
+      "firstSeenAt": "2026-08-13T18:53:14Z"
+    },
+    {
+      "id": "n8mnSyH-Yso",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Geekflare",
+      "publishedAt": "2026-08-13T18:30:14Z",
+      "firstSeenAt": "2026-08-13T18:53:14Z"
+    },
+    {
+      "id": "az1dspimrJA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "edureka!",
+      "publishedAt": "2026-08-13T13:53:14Z",
+      "firstSeenAt": "2026-08-13T18:53:14Z"
+    },
+    {
+      "id": "RmGPmSzcFp4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-08-13T13:53:14Z",
+      "firstSeenAt": "2026-08-13T18:53:14Z"
+    },
+    {
+      "id": "A2xlnKSgIaQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Astro K Joseph",
+      "publishedAt": "2026-08-13T11:53:14Z",
+      "firstSeenAt": "2026-08-13T18:53:14Z"
+    },
+    {
+      "id": "mOAHWk24D28",
+      "type": "short",
+      "source": "secondary",
+      "channel": "OpenAI",
+      "publishedAt": "2026-08-13T11:53:14Z",
+      "firstSeenAt": "2026-08-13T18:53:14Z"
+    },
     {
       "id": "LHFqw7Znk_Y",
       "type": "short",
@@ -12309,24 +12365,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T17:53:38Z",
-      "new": 2,
-      "long": 2,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
-      "runAt": "2026-07-30T18:53:10Z",
-      "new": 7,
-      "long": 5,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
       "runAt": "2026-07-30T19:53:15Z",
       "new": 6,
       "long": 5,
@@ -13756,6 +13794,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-13T18:53:14Z",
+      "new": 7,
+      "long": 4,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }

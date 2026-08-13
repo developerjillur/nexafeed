@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T17:53:13Z",
+  "updatedAt": "2026-08-13T18:53:14Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -2472,99 +2472,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "bU5ZDdRnN2M": {
-      "checkedAt": "2026-08-06T20:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Don't use Claude Code unless you have installed these 5 plugins.\n\nFirst is OmniRoute.\n\nIt gives your Claude Code almost unlimited usage by connecting to over 200 free AI providers.\n\nThe moment your usage limit runs out, it automatically switches you to the next best model.\n\nSo your session never actually stops.\n\nSecond is Claude Mem.\n\nIt gives Claude memory across every session.\n\nIt remembers your project and files without you ever having to re-explain a thing.\n\nThird is Headroom.\n\nIt quietly sits between you and your AI model.\n\nIt only passes the parts that actually matter, compressing and removing the unnecessary stuff.\n\nSo you get the same results using fewer tokens.\n\nFourth is Claude Code Setup.\n\nIt's an official Anthropic plugin.\n\nIt scans your entire codebase and recommends the best hooks, skills, subagents, and MCP servers that fit your project.\n\nAnd it removes the useless stuff you don't need.\n\nAnd finally, Task Observer.\n\nIt quietly watches how you work and learns your style.\n\nIt constantly improves your other skills in the background for you.\n\n#ClaudeAI #ClaudeCode #Claudemem #Claudeplugins #omniroute",
-      "commentCount": 8,
-      "likeCount": 3706,
-      "comments": [
-        {
-          "id": "UgzhPDAeXX6Oa3i02BJ4AaABAg",
-          "author": "@nickautomates",
-          "text": "First, you can install these 5 Claude Code plugins from here:\n\nOmniRoute : https://github.com/diegosouzapw/OmniRoute\n\nClaude Mem : https://github.com/thedotmack/claude-mem\n\nHeadroom : https://github.com/headroomlabs-ai/headroom\n\nClaude Code Setup : https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-code-setup\n\nClaude Code Setup (official page) : https://claude.com/plugins/claude-code-setup\n\nTask Observer : https://github.com/rebelytics/one-skill-to-rule-them-all\n\nSecond: If you want to learn how to build systems & then apply them to real businesses to get clients, check out Maker School. \n\nIt's my AI agent & automation community, where I teach you how to build Claude Code, Codex, & n8n based flows, and sell them to your first client in 90 days. \n\nIncludes a 100% money back guarantee if you don't get a paying client!\n\nhttps://www.skool.com/makerschool/about?ref=0a3be5900d60497cb3542cca1ed3fdcb",
-          "likeCount": 45,
-          "publishedAt": "2026-08-05T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/oJmesQSjFvrfcORlESFP49w-i1b2onariycBuKtDXenOieZZerQ-EyFamFOritV0IAqqioNQkA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "UgxGyaOh9qIFOue8n9N4AaABAg",
-          "author": "@chrischan3448",
-          "text": "How do I install these ?",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/4MUDOVwaLxEvODWb3_XWELXhH2JIXeVAyKA5d_pwwDkLGy1Dm79Yl9T3yUv4LR0DOv2NOjBC=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugzj61RMsXPdnrmNIDh4AaABAg",
-          "author": "@purestvision",
-          "text": "thanks",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/k2kDAoNCMMBql6cq9OGYrfOq_f69H5wH3YQUWF9mbwUWHnJqerE8eIciCv9ao6LZryEawfPl0lc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyDTdaffUklJOrFuJF4AaABAg",
-          "author": "@Miguel_Thorpe",
-          "text": "Will the first tool burn through tokens too quickly?",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T01:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/56giS3YyzR4YEczaKvkhJlDOmB8Ezw6f5MSfybUDtXeKJgC9o9cK5B6XtNgoWkMnF0pt7PteMc4=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugzo4ONCqa1d8i54KRB4AaABAg",
-          "author": "@JackSmithii",
-          "text": "Claude already has memory. Old news.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-05T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lwre7vKMxOH3mSwAApbcVxQHNyEFc3FArpKlP-2k4=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw3hPcQsfkMraFtGe14AaABAg",
-          "author": "@AdrianAITools",
-          "text": "😮",
-          "likeCount": 0,
-          "publishedAt": "2026-08-05T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/GHa_JEhl0auHP_twj4bLWSqsSKqjnYo8ob1pBShBkjGMEN8t7OiCUzGmgKM8db_xJ7T4DR1Y=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugwn1den_iMmhszjtVZ4AaABAg",
-          "author": "@maeecreates",
-          "text": "Thank you 😮",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ZBXkC3BUpIHwELVvsoOSIJVo9D7jLbQbo1sWCiraXrcL6ybS2pmdLm43kKiBqXV4hmuPnDNeqA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxi0Ife1MeHsFxLtIB4AaABAg",
-          "author": "@JohanCloeteDevotions",
-          "text": "Thank you 🙏🏼",
-          "likeCount": 0,
-          "publishedAt": "2026-08-06T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/nro00fcV1Xg8aBF-RLCzu-NfTcASbjYkN_8xdHWfv17oaMGZonhQRWo-Kg7hZi2HkaSnKcqFUw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-06T20:53:12Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "NuNDpeZYQ28": {
       "checkedAt": "2026-08-06T20:53:12Z",
       "embedAllowed": true,
@@ -3485,29 +3392,6 @@
         }
       ],
       "commentsFetchedAt": "2026-08-08T01:53:29Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "aQBHkGLxsek": {
-      "checkedAt": "2026-08-08T04:53:35Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 1,
-      "likeCount": 12,
-      "comments": [
-        {
-          "id": "UgwlalOqwmb89c1MrFV4AaABAg",
-          "author": "@Ai.Vishnuvijayan",
-          "text": "https://github.com/bradautomates/claude-video/releases/download/v0.2.0/watch.skill",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T04:29:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/yhAqPsQdQNzWqs3n323bzwcDBcfNQt2XFJe9SntriwBCCx8kViE13reCfUPwZ_8coQAAPdj4wKg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        }
-      ],
-      "commentsFetchedAt": "2026-08-08T04:53:35Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7364,14 +7248,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "EfVhmf9N1BQ": {
-      "checkedAt": "2026-08-12T21:53:49Z",
-      "embedAllowed": true,
-      "description": "",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "M3_BX0BodOo": {
       "checkedAt": "2026-08-12T22:53:06Z",
       "embedAllowed": true,
@@ -7432,14 +7308,6 @@
       "description": "AI agents just ran a four-day cyber attack on a government with nobody at the keyboard - mapping 21 systems, cracking 85 accounts and pushing into a nuclear safety agency, built entirely from free open-source tools. Meanwhile researchers found a way to pull the hidden reasoning out of Claude, GPT and Gemini, passwords included.\n\nGet the free 7-agent guide here: https://go.aiskool.io/7agents\n\n📩 Brand Deals & Partnerships: collabs@nouralabs.com\n✉️ General Inquiries: airevolutionofficial@gmail.com\n\n📌 What You'll See:\nOpen-source AI agents run the first near-autonomous attack on a government target\nSOURCE: https://cyberscoop.com/near-autonomous-ai-attack-government-target-taiwan/\nResearchers decode hidden reasoning traces from Claude, GPT and Gemini APIs\nSOURCE: https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html\nxAI launches Grok Bot, AI teammates with their own computer in the cloud\nSOURCE: https://x.ai/news/introducing-grok-bot\nOpenAI expands ChatGPT ads to the UK, Mexico, Brazil, Japan and South Korea\nSOURCE: https://openai.com/index/testing-ads-in-chatgpt/\n\n🚨 Why It's Important:\nAI has crossed from assisting attackers to running attacks on its own, and the guardrails failed to a jailbreak as simple as calling it a pen test. At the same time the \"private\" reasoning labs rely on to protect their IP turns out to be extractable - landing right in the middle of the distillation fight between US and Chinese labs.\n\n#ai #cybersecurity",
       "commentCount": 75,
       "likeCount": 611,
-      "probeClient": "web_embedded"
-    },
-    "EzQAgnjTq2k": {
-      "checkedAt": "2026-08-13T05:53:08Z",
-      "embedAllowed": true,
-      "description": "I sit down with Allie K. Miller to talk about the shift from managing AI agents to enabling them. Allie runs a workforce of 34 AI agents led by an AI chief of staff named Simon, plus six directors named after Friends characters. She shares her three-word prompt, her daily AI diary, her AI watchdogs, and her rule to build the factory before the product. We then debate the future of software: why enterprises still want a vendor to call, and why consumer software now rewards taste and distribution. Listeners leave with one mindset shift and a first step they can finish in under three hours.\n\nGet Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP\n\nTimestamps\n\n00:00 – Intro\n02:29 – Become a Great Agent Manager\n04:49 – The Three-Word Prompt\n08:12 – The Pyramid of Proactivity\n12:23 – Making the Company Queryable\n19:14 – How to Design an AI Workforce\n22:25 – AI as a Watchdog\n24:56 – Startup Opportunities\n26:29 – Build the Factory, Then the Product\n30:09 – The SaaS Question\n34:53 – Consumer Software as Art\n37:12 – High-Value Bottlenecks\n44:56 – Closing Thoughts\n\nKey Points\n\n• Allie sits three rungs above her 34 agents. She sets the infrastructure and waits for escalations.\n• Her strongest prompt runs three words on top of full business context: do smart things.\n• She holds the risk tier steady and expands only the breadth and scope of agent work.\n• A dictated daily diary captures the context that lives outside meetings, email, and Slack.\n• AI watchdogs remain wide open: duplicate work, calendar conflicts, and meeting disagreements.\n• The bigger play is a software factory. Build the primitives once, then ship each product faster.\n• I see opportunity on both sides of software: enterprises want a vendor to call, and consumers reward taste.\n\nNumbered Section Summaries\n\n1. Beyond Agent Management Allie argues that the phrase \"managing agents\" describes an outdated relationship. She compares her role to an SVP three rungs up: she builds the infrastructure, and the agents choose how to execute inside it. I add that most people come to AI to escape management work, so the framing matters.\n\n2. Empowerment and the Three-Word Prompt Allie ran an org of about 100 people at AWS. She keeps the part she loved, which is helping people break through their ceiling, and she drops the admin part. Her AI workforce reads every context doc she owns, including goals, meetings, email, calendar, Notion, Stripe, Supabase, and GitHub. Several times a day she prompts it with three words: do smart things.\n\n3. The Pyramid of Proactivity I describe three types of employees, and the best one invents and completes new work. Allie maps this to Alex Lieberman's five levels of proactivity, where level five solves the problem and plans for failure. She runs a quarterly goals review with her agents so that new work stays goal-oriented.\n\n4. Context and the Daily AI Diary Allie wants her whole company to be queryable. Meetings and email cover part of it, so a daily prompt asks her to dictate the rest, which is four times faster than typing. She has banked more than 80 entries into a personal wiki that her agents read.\n5. An Org Chart Built for 2026 Simon acts as AI chief of staff over six directors. Allie warns that 2015 job titles produce a 2015 org, so she hires roles that human budgets rule out. Phoebe works as chief dreaming officer and asks how to 10x the output, and Toby watches the workforce and logs friction and access gaps.\n\n6. How to Start, and How to Find Friction Allie suggests one agent first, then a proactive agent, then two agents working together, then a workforce. One prompt gets you started: describe the business and the goals, then ask the model to interview you. Sub-agents run on Haiku and Sonnet, and she reserves Opus for the heavy work. Her human team talks to her AI workforce in a Slack channel called Loop Alley.\n\n7. Build the Factory, Then the Product For the AI First Index, Allie chose the abstraction layer over the single build. Her team assembled a beginner software factory with primitives for login, payments, social sharing, and newsletters. The first product already earns revenue, and each next product now ships faster and stronger.\n\n\nThe #1 tool to find startup ideas/trends - https://www.ideabrowser.com\n\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/\n\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/\n\nFIND ME ON SOCIAL\nX/Twitter: https://twitter.com/gregisenberg\nInstagram: https://instagram.com/gregisenberg/\nLinkedIn: https://www.linkedin.com/in/gisenberg/\n\nFIND ALLIE ON SOCIAL\nX/Twitter: https://x.com/alliekmiller\nInstagram: https://www.instagram.com/alliekmiller/\nLinkedIn: https://www.linkedin.com/in/alliekmiller/",
-      "commentCount": 46,
-      "likeCount": 483,
       "probeClient": "web_embedded"
     },
     "Sm_AkFcysRw": {
@@ -7570,10 +7438,10 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-13T17:53:13Z",
+      "checkedAt": "2026-08-13T18:53:14Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "egHFR4gY_R8": {
       "checkedAt": "2026-08-13T07:53:21Z",
@@ -7681,24 +7549,6 @@
       "likeCount": 12,
       "probeClient": "web_embedded"
     },
-    "jnymd-vTQIE": {
-      "checkedAt": "2026-08-13T10:53:44Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Apollo Automation has partnered with the Home Assistant Crew to help you get started on your ESPHome Journey - Get Yours https://apolloautomation.com/nky6pj\n⚡ESP Based Smart Switch/Dimmer - https://amzn.to/3OdZYkU or https://amzn.to/3xKQnv6\n⚡Products We Use/Recommend\nAmazon US - https://amzn.to/2YZNDeO\nAmazon UK - https://amzn.to/2TnG2R4\nAmazon CA - https://amzn.to/2JWsNq5\n⚡Be Social!⚡\nMain Website - https://www.digiblur.com\nDiscord Chat - https://discord.digiblur.com\nPatreon - https://patreon.digiblur.com\nJoin https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA/join\nFacebook - https://facebook.digiblur.com\nInstagram - https://instagram.digiblur.com\nPlease note, the product links above could be affiliate links, using them could earn digiblurDIY a small commission of most purchases and helps with future video projects. Thank you!\n\n00:00 Intro\n01:25 Unboxing\n03:50 ESP Closeup\n06:47 ESP Why?\n08:07 Flashing ESPHome\n13:44 Home Assistant Integration\n15:03 Pull Back the YAML\n16:54 Closing Thoughts\n18:01 The BEST Bonus Segment",
-      "commentCount": 16,
-      "likeCount": 159,
-      "probeClient": "web_embedded"
-    },
-    "jidUThxw4WE": {
-      "checkedAt": "2026-08-13T10:53:44Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "The ESP Starter Kit makes it easy to jump into ESPHome and DIY smart home projects. Built around an ESP32-C6 with built-in sensors and components, it gives you everything you need to start experimenting with ESPHome and integrating your own devices into Home Assistant—without having to figure out where to start.\n\nLinks:\nGet the kit: https://apolloautomation.com/latb0f\nDocs: https://wiki.apolloautomation.com/products/ESPHome-Starter-Kit/start-here/\n\nSupport this channel by becoming a member:\nhttps://www.youtube.com/channel/UCXEa_Gzl2zjhb7K6xflyrWQ/join\n\nDiscord: https://discord.gg/XmFqucu\n\nIf you would like to support me:\nBuy me a beverage: https://ko-fi.com/mostlychris\nBecome a patron: https://www.patreon.com/mostlychris\n\nProducts I reference in my videos (contains affiliate links)\nhttps://www.mostlychris.com/my-smart-home-gear\n\nMy Website: https://www.mostlychris.com\n\nDISCLAIMER: Some of the links above take you to affiliate sites that may or may not pay a small commission to me. It doesn't increase the cost to you, but it does help support me in making these videos.\n\n00:00 Intro\n00:27 What's In the Box\n06:09 Flashing the ESP32-C6 Board\n16:15 Add to Home Assistant\n17:46 Add Button Module\n22:51 Add First Automation\n25:44 Add Light and Buzzer Module\n29:38 Play a RTTTL Song\n32:24 FAQ and Final Thoughts\n\nWant to send me something? Send it here!\nMostlychris\n24165 IH-10 West \nSTE 217 Box 164\nSan Antonio, TX 78257\n\n#HomeAssistant\n#HomeAutomation\n#SmartHome\n#Automation",
-      "commentCount": 2,
-      "likeCount": 117,
-      "probeClient": "web_embedded"
-    },
     "UjJWdjwrqpM": {
       "checkedAt": "2026-08-13T11:53:08Z",
       "embedAllowed": true,
@@ -7747,15 +7597,6 @@
       "description": "What happens when a Mechanical Engineering student discovers a passion for coding and decides to switch paths?\n\nIn this episode of Sharpener Ke Sher, we sit down with Sanket Patel to talk about his journey from a Mechanical Engineering background to becoming a Software Developer.\n\nSanket shares how college changed his perspective, how he discovered software engineering, and why he believes switching careers was one of the best decisions he made.\n\nWe also talk about:\n\n🚀 Switching from Mechanical Engineering to Software Development\n💻 How college coding culture influenced his career\n🏠 Remote work vs. working from an office\n⚡ How AI is transforming software development\n🤖 Why developers should learn to work with AI instead of running from it\n📈 How AI has boosted Sanket’s productivity at work\n🧠 Why learning System Design alongside AI is becoming increasingly important\n🎯 Career growth, future plans, and advice for aspiring developers\n\nOne of Sanket’s biggest takeaways is simple:\n\nLearn AI. Learn System Design. Build anything.\n\nHe believes AI isn't going anywhere — and developers who learn how to use AI effectively can dramatically improve their productivity and efficiency.\n\nIf you're a student, aspiring software developer, career switcher, or someone wondering how AI will impact your career, this conversation is definitely worth watching.\n\n⏱️ Timestamps\n\n00:00 – Introduction & Sanket’s journey to Sharpener\n00:55 – Did he always want to become a software developer?\n01:09 – Switching from Mechanical Engineering to Software Engineering\n01:42 – Was the career switch worth it?\n02:19 – The advantages of working remotely\n03:30 – What do you miss about working from an office?\n04:10 – Sanket’s future career plans\n04:50 – Will AI lead to more layoffs?\n05:39 – How AI is changing software development\n06:51 – How AI boosted productivity\n07:30 – “Learn AI” — Sanket’s advice to developers\n08:20 – Learn AI + System Design\n08:49 – Final advice for aspiring developers\n\n💬 What do you think — will AI replace developers, or will developers who learn AI simply become more productive?\n\nLet us know your thoughts in the comments.\n\n#SharpenerKeSher #SoftwareEngineering #ArtificialIntelligence #AI #SystemDesign #SoftwareDeveloper #CareerSwitch #MechanicalEngineering #TechCareer #RemoteWork #Programming #MachineLearning #GenerativeAI #Developer #CareerGrowth",
       "commentCount": 0,
       "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "v-QaYR7bGe4": {
-      "checkedAt": "2026-08-13T11:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Book 1-on-1 Call With Me: https://superprofile.bio/bookings/abhisheksharma-hello?sessionId=69f089eb4f6f5700143ef61c\n\nIf you find these streams helpful, you can buy me a coffee: https://ko-fi.com/helloabhisheksharma\n\nInstagram: https://www.instagram.com/hello_abhisheksharma/\nDiscord Server: https://discord.com/invite/kMmjQpveHX\nX (Twitter): https://x.com/im_Abhi10600\nGithub: https://github.com/abhishek10600\nEmail: abhi10sheksharma@gmail.com",
-      "commentCount": 0,
-      "likeCount": 100,
       "probeClient": "web_embedded"
     },
     "ss6Msm7A7i8": {
@@ -7918,7 +7759,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-13T17:53:13Z",
+      "checkedAt": "2026-08-13T18:53:14Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8160,7 +8001,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-13T17:53:13Z",
+      "checkedAt": "2026-08-13T18:53:14Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8222,6 +8063,75 @@
       "description": "I Made a 3D Game Using ONLY AI (And It’s Surprisingly Fun!) 🎮🤖\n\nIs artificial intelligence actually ready to replace traditional game engines, level designers, and programmers, or is the hype completely overblown? In this deep-dive devlog on AI Unlocked, we take on the ultimate challenge: building a fully playable, genuinely fun 3D video game using only AI tools—from procedural code and 3D asset generation to dialogue scripts and sound design.\n\nWe put today's cutting-edge generative AI models to the test to see how they handle game logic, character physics, rendering pipeline integration, and player engagement mechanics without human intervention.\n\n💡 What You’ll Discover in This Video:\n\n1. The AI Toolstack: The exact suite of AI coding assistants, 3D mesh generators, and audio models used to build the game engine pipeline.\n\n2. Code Generation & Physics: How AI wrote the movement scripts, collision detection, and core gameplay mechanics.\n\n3. Asset & World Design: Generating 3D models, textures, and interactive environment elements directly from text prompts.\n\n4. The Playtest & Verdict: Playing the final build to answer the big question—is an AI-generated 3D game actually fun?\n\n⏱️ TIMESTAMPS:\n\n0:00 - Can AI ACTUALLY Make a Fun 3D Game? 🕹️\n\n1:15 - Setting Up the Prompt & Game Architecture\n\n3:40 - Generating 3D Models & Textures with AI\n\n6:20 - Writing Game Logic, Scripts & Character Physics\n\n9:05 - Sound Design, AI Music & UI Polish\n\n11:30 - The Final Playtest & Developer Verdict\n\n💬 JOIN THE DISCUSSION:\nWould you play a 3D game made entirely by AI, or do game developers still have the upper hand? Drop your thoughts in the comments below!\n\n🔔 UNLOCK THE FUTURE OF TECH:\nSubscribe to AI Unlocked and turn on notifications to stay ahead on AI software development, game design tech, and real-world AI experiments!",
       "commentCount": 0,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "IB1QVQUXV6M": {
+      "checkedAt": "2026-08-13T18:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This Claude skill lets you vibe code like a senior engineer.\n\nIt's called Agent Skills.\n\nIt's a pack of 24 different skills built by a former Google engineering lead.\n\nIt's already crossed 76,000 stars on GitHub.\n\nIt has dedicated skills for planning, coding, testing, and publishing.\n\nIt activates the right one at the different stage of coding, completely on its own.\n\nYou just explain your idea.\n\nIt turns that into a full plan with clear tasks and checkpoints.\n\nThink of it like handing your idea to a whole engineering team instead of one solo coder.\n\nThen as it codes, it follows the same best practices used at top engineering teams.\n\nIt tests its own work as it goes.\n\nNo more shipping broken code and finding out during a client demo.\n\nAnd before it ships anything, it runs a full senior level review.\n\nIt goes through a full pre-launch checklist.\n\nSo nothing breaks the moment you go live.\n\nThis covers the entire dev cycle, so nothing gets skipped.\n\nYou get a fully production ready app in one go.\n\nIt even works across 70 plus AI coding tools, not just Claude Code.\n\n#claudeskill #aicoding #vibecoding #agentskill #claudecode",
+      "commentCount": 0,
+      "likeCount": 32,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-13T18:53:14Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "De2tqUkw660": {
+      "checkedAt": "2026-08-13T18:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 18,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-13T18:53:14Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "n8mnSyH-Yso": {
+      "checkedAt": "2026-08-13T18:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Need to scrape a website but don't want to write code?\n\nIn this video, I compare 6 of the best no-code web scraping tools you can use in 2026:\n\nOctoparse\nGeekflare\nParseHub\nBrowse AI\nWeb Scraper.io\nImport.io\n\nI’ll show you what each tool is good for, from simple visual scraping and browser-based extraction to automated workflows, website monitoring, APIs, and larger-scale data collection.\n\nIf you’re looking for an easier way to extract website data without building a scraper from scratch, this comparison will help you pick the right tool.\n\nWant to try Geekflare? Check it out here: [Geekflare](https://geekflare.com/?utm_source=chatgpt.com)\n\nWhich one would you use?\n\n#WebScraping #NoCode #AITools #DataExtraction #WebAutomation #DataScraping #Automation #Geekflare",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "az1dspimrJA": {
+      "checkedAt": "2026-08-13T18:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥Advanced Certification in Agentic AI Engineering: https://www.edureka.co/agentic-ai-training-course\n🔥 Integrated MS+PGP Program in Data Science & AI: https://www.edureka.co/dual-certification-programs/ms-data-science-pgp-gen-ai-ml-birchwood\n\nIn this video, you'll learn how to design and build autonomous AI workflows using modern no-code and low-code AI tools. Discover how AI agents can automate repetitive tasks, connect to external applications, process data, and execute complex workflows with minimal coding.\n\nWe'll explore practical automation techniques, AI orchestration, workflow design, tool integration, and real-world business use cases. Whether you're a developer, business professional, product manager, or AI enthusiast, this session will help you build powerful AI-driven workflows quickly and efficiently.\n\n🔴 𝐋𝐞𝐚𝐫𝐧 𝐓𝐫𝐞𝐧𝐝𝐢𝐧𝐠 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐅𝐨𝐫 𝐅𝐫𝐞𝐞! 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐭𝐨 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://edrk.in/DKQQ4Py\n\n📝Feel free to share your comments below.📝\n\n🔴 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐎𝐧𝐥𝐢𝐧𝐞 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬\n\n🔵 DevOps Online Training: http://bit.ly/3VkBRUT\n🌕 AWS Online Training: http://bit.ly/3ADYwDY\n🔵 React Online Training: http://bit.ly/3Vc4yDw\n🌕 Tableau Online Training: http://bit.ly/3guTe6J\n🔵 Power BI Online Training: http://bit.ly/3VntjMY\n🌕 Selenium Online Training: http://bit.ly/3EVDtis\n🔵 PMP Online Training: http://bit.ly/3XugO44\n🌕 Salesforce Online Training: http://bit.ly/3OsAXDH\n🔵 Cybersecurity Online Training: http://bit.ly/3tXgw8t\n🌕 Java Online Training: http://bit.ly/3tRxghg\n🔵 Big Data Online Training: http://bit.ly/3EvUqP5\n🌕 RPA Online Training: http://bit.ly/3GFHKYB\n🔵 Python Online Training: http://bit.ly/3Oubt8M\n🌕 Azure Online Training: http://bit.ly/3i4P85F\n🔵 GCP Online Training: http://bit.ly/3VkCzS3\n🌕 Microservices Online Training: http://bit.ly/3gxYqqv\n🔵 Data Science Online Training: http://bit.ly/3V3nLrc\n🌕 CEHv12 Online Training: http://bit.ly/3Vhq8Hj\n🔵 Angular Online Training: http://bit.ly/3EYcCTe\n\n🔴 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐑𝐨𝐥𝐞-𝐁𝐚𝐬𝐞𝐝 𝐂𝐨𝐮𝐫𝐬𝐞𝐬\n\n🔵 DevOps Engineer Masters Program: http://bit.ly/3Oud9PC\n🌕 Cloud Architect Masters Program: http://bit.ly/3OvueZy\n🔵 Data Scientist Masters Program: http://bit.ly/3tUAOiT\n🌕 Big Data Architect Masters Program: http://bit.ly/3tTWT0V\n🔵 Machine Learning Engineer Masters Program: http://bit.ly/3AEq4c4\n🌕 Business Intelligence Masters Program: http://bit.ly/3UZPqJz\n🔵 Python Developer Masters Program: http://bit.ly/3EV6kDv\n🌕 RPA Developer Masters Program: http://bit.ly/3OteYfP\n🔵 Web Development Masters Program: http://bit.ly/3U9R5va\n🌕 Computer Science Bootcamp Program : http://bit.ly/3UZxPBy\n🔵 Cyber Security Masters Program: http://bit.ly/3U25rNR\n🌕 Full Stack Developer Masters Program : http://bit.ly/3tWCE2S\n🔵 Automation Testing Engineer Masters Program : http://bit.ly/3AGXg2J\n🌕 Python Developer Masters Program : https://bit.ly/3EV6kDv\n🔵 Azure Cloud Engineer Masters Program: http://bit.ly/3AEBHzH\n\n\nPlease write back to us at sales@edureka.co or call us at IND: 9606058406 / US: +18885487823 (toll-free) for more information.",
+      "commentCount": 0,
+      "likeCount": 54,
+      "probeClient": "web_embedded"
+    },
+    "RmGPmSzcFp4": {
+      "checkedAt": "2026-08-13T18:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🎟️ Use Discount Code for extra saving: \"MEHYT\"\nPabbly Connect Website: https://www.pabbly.com/out/pabbly-connect\nPricing Details: https://www.pabbly.com/out/connect-pricing\n\nWorkflow Link: https://connect.pabbly.com/v2/app/workflow/share/XBRTYVQDBWYFTwFrBGEGIQAUAAQJU1NuBx4CEAEOAHhTHQRvA0IPZQ5CBCYDSANiBUxTOVUJBjoJHQMHAVcJelROARMEBwd9Ux5ULwRJCjlcAlN7VDU#\n____________________________________________________________________\nWhat if you could connect multiple apps and automate your entire sales process from one workflow? In this tutorial, I'll show you how I connected 4 different apps to create an automated sales system using Pabbly Connect.\n\nYou'll see how leads can move automatically between your lead source, CRM, communication tools, and other business apps. From capturing new leads and updating your CRM to sending follow-up messages and notifying your sales team, this workflow reduces manual work and keeps your sales process running automatically.\n\nLearn how to connect multiple apps, pass data between them, trigger actions automatically, and build a complete sales automation workflow without writing code.\n\nThis automation is perfect for sales teams, marketers, agencies, startups, real estate businesses, ecommerce brands, and businesses looking to streamline their sales process.\n\nQueries:\nautomate entire sales system\nconnect 4 apps in one workflow\nsales automation workflow\nmulti app sales automation\nPabbly Connect sales automation\n\nHashtags:\n#SalesAutomation #PabblyConnect #WorkflowAutomation #BusinessAutomation #LeadManagement #MarketingAutomation #CRM #SalesProcess #NoCode #Automation\n\nUse Case:-\n\nA business can connect its lead source, CRM, Google Sheets, and WhatsApp in one workflow. When a new lead arrives, the system automatically saves the lead, updates the CRM, notifies the sales team, and sends the prospect an instant WhatsApp message. This creates an end-to-end sales process without manual data entry.\n____________________________________________________________________\n\nPabbly Connect makes it easy to integrate and automate any software, marketing, sales, payments, or business processes quickly, without the need for any programming knowledge.\n\nBenefits of Pabbly Connect:\n\n1. Automation: Save time, money, and resources by automating tasks.\n\n2. Integration: Connect various web services to create efficient workflows.\n\n3. Security: Enjoy industry-standard security for your data.\n\n4. Scalability: Easily add new applications and services to your workflow.\n\n5. Cost-effective: Choose from plans suitable for different business sizes, with no charges for internal tasks.\n\nUnlike other integration tools, Pabbly Connect offers absolutely no charges for internal tasks such as mathematical operations, spreadsheet functions, time zone conversions and more. Additionally, you can create unlimited automation workflows for your business without any restrictions.\n\n-----------------------------------------------------------------------------------------------------\n\nAdditional Resources:\n\n📢 All Integrations: https://www.pabbly.com/out/all-integrations\n\n ❓Talk to our team at: support@pabbly.com\n\n ❓Ask your queries in Pabbly Forum: https://forum.pabbly.com/\n\n 📘Join the Pabbly Community & Grow Your Business 🚀 : https://pabbly.com/community\n\n\nDisclaimer: All Names, Mobile Numbers, and Emails used in the video are just for demo purposes. This is an educational video showing how to automate and integrate multiple platforms.",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "A2xlnKSgIaQ": {
+      "checkedAt": "2026-08-13T18:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, I use Claude Code and Momen to build a complete AI-powered interior redesign application from scratch using nothing more than a prompt. \n\nMomem: https://momen.app/\nMomen Plugin: https://github.com/momen-tech-org/momen-nocode-plugin\nCheck out my project: https://editor.momen.app/tool/l7YRy8q8Y6X/WEB?code=fvKK0kLfiRzI8&ref=7987550\n\nTestSprite: https://www.testsprite.com/?via=astro\nClaude Code: https://claude.com/product/claude-code\n\nWatch as Claude creates the frontend, provisions the database, sets up workflows, integrates AI models, and connects email automation in real time.\n\nBy the end, you'll see how users can upload a room photo, generate multiple redesign concepts, receive renovation cost estimates, and get everything delivered straight to their inbox. If you're interested in AI coding agents, full-stack development, or building startups faster, this is a workflow you need to see.\n\n\nJoin The \"aiholiq\" Newsletter: https://aiholiq.kit.com/newsletter\n\nBoost your coding skills with Scrimba: https://scrimba.com/?via=AstroKJ\n\n——————————————————\nInstagram: https://www.instagram.com/astroo.ai\nX: https://x.com/astrokjoseph\nLinkedIn: https://www.linkedin.com/in/astrokjoseph\nWebsite: https://astrokjoseph.com",
+      "commentCount": 6,
+      "likeCount": 37,
+      "probeClient": "web_embedded"
+    },
+    "mOAHWk24D28": {
+      "checkedAt": "2026-08-13T18:53:14Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Build a forecast your finance team can explore.\n\nThis is how we use ChatGPT Work to bring actuals, forecast data, and business context into one interactive view—so we can test scenarios and make decisions together.\n\nWatch the full session for more demos here: https://openai.ondemand.goldcast.io/on-demand/cd89f13d-bd97-4b96-9261-818ffdcd2fc0",
+      "commentCount": 6,
+      "likeCount": 221,
       "probeClient": "web_embedded"
     }
   }
