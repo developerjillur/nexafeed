@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T12:53:09Z",
+  "updatedAt": "2026-08-13T13:53:10Z",
   "items": [
+    {
+      "id": "CB5bG4mvnS0",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-13T13:39:02Z",
+      "firstSeenAt": "2026-08-13T13:53:10Z"
+    },
+    {
+      "id": "CeDAT-bViAM",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-13T13:06:32Z",
+      "firstSeenAt": "2026-08-13T13:53:10Z"
+    },
     {
       "id": "3XHLnsCbPUE",
       "type": "short",
@@ -12101,15 +12117,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T12:53:48Z",
-      "new": 4,
-      "long": 1,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
       "runAt": "2026-07-30T13:53:49Z",
       "new": 7,
       "long": 5,
@@ -13548,6 +13555,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-13T13:53:10Z",
+      "new": 2,
+      "long": 1,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
