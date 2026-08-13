@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T08:53:29Z",
+  "updatedAt": "2026-08-13T09:53:36Z",
   "items": [
+    {
+      "id": "0zgDQ8pjbmc",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Durga Software Solutions",
+      "publishedAt": "2026-08-13T05:53:36Z",
+      "firstSeenAt": "2026-08-13T09:53:36Z"
+    },
+    {
+      "id": "IsqaWhGt9xQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fed Gov Today",
+      "publishedAt": "2026-08-13T01:53:36Z",
+      "firstSeenAt": "2026-08-13T09:53:36Z"
+    },
+    {
+      "id": "7p4jIBuWAiA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "This Is The World",
+      "publishedAt": "2026-08-12T22:53:36Z",
+      "firstSeenAt": "2026-08-13T09:53:36Z"
+    },
+    {
+      "id": "L2aBH_UXzSE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Opinions Podcast and 2 more",
+      "publishedAt": "2026-08-12T15:53:36Z",
+      "firstSeenAt": "2026-08-13T09:53:36Z"
+    },
     {
       "id": "1eJF3pkIow4",
       "type": "long",
@@ -11957,15 +11989,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T09:53:31Z",
-      "new": 3,
-      "long": 3,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
       "runAt": "2026-07-30T10:53:39Z",
       "new": 3,
       "long": 3,
@@ -13395,6 +13418,15 @@
       "channelsChecked": 33,
       "warnings": 1,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-13T09:53:36Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }

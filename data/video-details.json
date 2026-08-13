@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T08:53:29Z",
+  "updatedAt": "2026-08-13T09:53:36Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -7455,14 +7455,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "LmY-2w_P8-o": {
-      "checkedAt": "2026-08-12T14:53:50Z",
-      "embedAllowed": true,
-      "description": "I built my own AI coding assistant called ALTREX CODE — an AI designed to understand projects, write code, fix bugs, run tests, and even use multiple AI models together on the same coding task.\n\nIn this video, I build ALTREX CODE from scratch and test whether my own coding AI can actually compete with powerful AI coding tools like OpenAI Codex, Claude Code, and Cursor AI.\n\nUnlike a heavy local AI setup, ALTREX CODE is designed around AI APIs, which means you don't need an extremely powerful PC just to run huge AI models locally.\n\nThe idea is simple:\n\nOne AI writes the code.\nAnother AI can check it.\nOther agents can debug, test, review, and improve the result.\n\nBut does using multiple AI models actually create better code?\n\nThat's what we're going to find out.\n\nIn this video:\nBuilding ALTREX CODE\nCreating my own AI coding assistant\nAI API integration\nMulti-agent AI coding\nMultiple AI models working together\nAI code generation\nAutomatic debugging\nAI code review\nTesting generated code\nCodex vs ALTREX\nClaude Code vs ALTREX\nCursor vs ALTREX\nBuilding a free-first coding AI\n\nALTREX CODE is one of my biggest AI experiments yet.\n\nIf you enjoy AI, coding, JARVIS-style assistants, AI agents, automation, and crazy tech projects, subscribe for the next build.",
-      "commentCount": 58,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "GqIBYTAGdXs": {
       "checkedAt": "2026-08-12T14:53:50Z",
       "embedAllowed": true,
@@ -7474,28 +7466,12 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "8WppW2ImqMw": {
-      "checkedAt": "2026-08-12T14:53:50Z",
-      "embedAllowed": true,
-      "description": "Build the same Zapier notification layer I use in this video: https://mrc.fm/xirp\n\nSpotify just launched Xirp, a free Mac app that runs Claude Code, OpenAI Codex and Gemini CLI side by side. Up to 50 agent sessions at once, each in its own git worktree, so nothing collides. 1,300 Spotify engineers and 36,000 sessions before they opened the beta. I got in and tested it against the setup I already run.\n\nTry Xirp: https://xirp.spotify.com\nSpotify's write-up: https://portal.spotify.com/blog/introducing-xirp\n\nEverything I run day to day is in my community: https://www.skool.com/creatormagic",
-      "commentCount": 1,
-      "likeCount": 19,
-      "probeClient": "web_embedded"
-    },
     "ftNYhk3RQ-M": {
       "checkedAt": "2026-08-12T14:53:50Z",
       "embedAllowed": true,
       "description": "Go from ABSOLUTE ZERO to using AI like the people who do this for a living👇\nhttps://join.parker-prompts.com/?vid=chatgpt-vs-claude-vs-gemini-which\n\nIn this video, I compare ChatGPT Plus, Claude Pro, and Google AI Pro across video, images, intelligence, writing, integrations, agents, coding, extra tools, and usage limits. I break down where each one wins, where it falls behind, and which subscription makes the most sense for creators, developers, everyday users, and people using AI for work.\n\nGrab The $20 AI Plan Scorecard 👉 https://parker-prompts.com/20dollarscorecard\n\nI'm Parker. I started this YouTube Channel with the goal to learn more about AI myself and to then pass on the knowledge to anyone willing to listen.\n\nlet's work together: partnerships @ parker-prompts.com",
       "commentCount": 1,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "e1wX5CNPa7U": {
-      "checkedAt": "2026-08-12T14:53:50Z",
-      "embedAllowed": true,
-      "description": "Learn how to use BASE 44  step by step in this beginner-friendly tutorial.\n\nIn this video, I’ll walk you through the entire process from scratch, showing you how the AI works, the most important features you need to know, and how you can use it to create your own projects without complicated tools or advanced technical experience.\n\nWe’ll start with the basics, build everything step by step, test the results, and make improvements along the way so you can understand the complete workflow and start using the tool yourself.\n\nWhether you’re completely new to AI or just looking for an easier way to bring your ideas to life, this tutorial will help you get started.\n\n🔗 Try the tool here: https://base44.pxf.io/c/4790390/2049275/25619?trafcat=base\n\nIf you found this tutorial helpful, make sure to LIKE the video, SUBSCRIBE to Easy AI Coding, and let me know in the comments what AI tool you want me to test next!\n\n#AITutorial #AITools #AIForBeginners #NoCode #EasyAICoding\n\nFollow for more!\n\nFor inquiries: helloeasyaicoding@gmail.com\nFollow for more!\n\nFor inquiries: helloeasyaicoding@gmail.com",
-      "commentCount": 0,
-      "likeCount": 537,
       "probeClient": "web_embedded"
     },
     "XNQBCRcwXV4": {
@@ -7833,14 +7809,6 @@
       "likeCount": 61,
       "probeClient": "web_embedded"
     },
-    "kbmGRAEEjdA": {
-      "checkedAt": "2026-08-13T00:53:23Z",
-      "embedAllowed": true,
-      "description": "If you're a CS student in India, you've probably heard the same advice again and again:\n\nLearn DSA → crack FAANG/Big Tech → get a high-paying job.\n\nAnd there's nothing wrong with that path.\n\nBut what if you don't enjoy DSA?\n\nWhat if you love building things, design, animation, 3D, and creative websites instead?\n\nThat's where Creative Development comes in.\n\nIn this video, I want to show you a different path—one focused on building highly interactive digital experiences using technologies like GSAP, Three.js, WebGL, WebGPU, and modern frontend development.\n\nThis is not a get-rich-quick scheme.\n\nYou still need to become genuinely good at what you do.\n\nYou need to understand JavaScript, animation, design, 3D, performance, and user experience. You need to build projects, develop taste, learn from great work, and create a portfolio that proves what you can do.\n\nBut if traditional DSA-heavy software engineering isn't the path you want, Creative Development is a legitimate path worth exploring.\n\nAnd that's what this channel is about.\n\nHelping you learn how to create things—not just solve problems.\n\n\n#creativedevelopment  #webdevelopment  #frontenddevelopment  #webdesign  #javascript  #gsap  #threejs  #creativecoding  #webgl  #webgpu  #careeradvice  #softwareengineering",
-      "commentCount": 13,
-      "likeCount": 84,
-      "probeClient": "web_embedded"
-    },
     "ZRGYzWoWaYg": {
       "checkedAt": "2026-08-13T01:53:30Z",
       "embedAllowed": true,
@@ -8066,7 +8034,7 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-13T08:53:29Z",
+      "checkedAt": "2026-08-13T09:53:36Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8129,6 +8097,42 @@
       "description": "The biggest opportunity for artificial intelligence in software development may extend far beyond writing code.\n\nMatthew Graviss, Public Sector CTO at Atlassian, discusses how agencies can embed specialized AI agents across discovery, requirements development, design, testing and other stages of the software-development lifecycle.\n\nDrawing on nearly 20 years of federal service, including his tenure as Chief Data and AI Officer at the Department of State, Graviss explains why agencies are moving from stand-alone chatbots toward AI capabilities embedded directly within the tools and workflows employees use every day.\n\nHe also examines the characteristics of high-performing DevSecOps teams and the importance of connecting everyday development work to agency strategy and mission outcomes.\n\nThis conversation was recorded at the Carahsoft DevSecOps Conference for Innovation in Government.\n\nWatch more at InnovationInGov.com.",
       "commentCount": 0,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "0zgDQ8pjbmc": {
+      "checkedAt": "2026-08-13T09:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "FULL STACK DATA SCIENCE with Artificial Intelligence (Generative AI & Agentic AI) Online Training @ DURGASOFT\n========================================================\nFULL STACK DATA SCIENCE with Artificial Intelligence (Generative AI & Agentic AI) Online Training \n\nBy Mr. N. Vijay Sunder Sagar (20+ Yrs of Exp,..)\n\nDate & Time: 18th Aug @11AM (IST)\n\nRegister Now: https://shorturl.at/iKDDt\n\nCourse Content: https://tinyurl.com/37r695b5\n\nContact for More Info:\nEmail: durgasoftonlinetraining@gmail.com\nPhone: +91 - 8885252627, 7207212427/28\n\nYoutube Channel: Durga Software Solutions\n10000+ Technical Software Training Videos on all Technologies.\nJust Subscribe Link: https://www.youtube.com/durgasoftware\n\nTo get latest DURGASOFT updates on trending Technologies,\nPlease Subscribe to Our Telegram Channel:\nLINK: https://t.me/durgasoftupdates\n\n#DURGASOFTWARE #DURGASOFT #FULLSTACKDATASCIENCE",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "IsqaWhGt9xQ": {
+      "checkedAt": "2026-08-13T09:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "How must DevSecOps change when artificial intelligence moves from generating information to controlling vehicles, drones and other physical systems?\n\nAnil Chaudhry, Senior Advisor for AI, Autonomy, and National Security at the Department of Transportation, examines how agentic AI and autonomous technologies are changing software development, testing and security.\n\nChaudhry explains why government must account for commercial technologies that can be adapted for public safety and national-security missions. He also discusses the shift from deterministic, rules-based software toward probabilistic systems that pursue goals without following a completely prescribed series of steps.\n\nLearn why agencies may need continuous security assessment, new validation practices and meaningful human oversight as AI-generated code and autonomous decisions become increasingly complex.\n\nThis conversation was recorded at the Carahsoft DevSecOps Conference for Innovation in Government.\n\nWatch more at InnovationInGov.com.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "7p4jIBuWAiA": {
+      "checkedAt": "2026-08-13T09:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Pracuj.pl has become a partner of Bison Fellowship — a program supporting Central Europe’s brightest young scientific talent.\n\nGlobal Speakers Bureau: https://www.gspeakers.com/\n\nMichio Kaku joins us for a wide-ranging conversation about artificial intelligence, quantum computing, the future of humanity, free will, God, and the possibility that machines may one day become a new form of intelligent life.\n\nWe discuss whether AI will truly replace humans, why Kaku believes today’s robots are still far from human-level intelligence, and why merging with machines could eventually become humanity’s next evolutionary step. We also explore the coming quantum revolution — including the possibility that powerful quantum computers could break today’s encryption and transform medicine, science, and technology.\n\nLater in the conversation, Kaku explains why he does not believe we live in a simulation, how quantum mechanics relates to free will, and what science can — and cannot — tell us about God and the ultimate nature of reality.\n\nChapters\n\n00:00 – The future of AI, jobs and automation\n05:36 – Can machines become more intelligent than humans?\n07:24 – Quantum computers and the end of Moore’s Law\n15:41 – Could quantum computers break global encryption?\n23:17 – Is AI more dangerous than nuclear weapons?\n24:42 – Will robots become a new species?\n31:01 – Human enhancement and merging with machines\n34:55 – Science, God and the nature of the universe\n37:44 – Why Michio Kaku rejects simulation theory\n42:15 – Free will: are humans just biological machines?\n\nDon't forget to subscribe to our channel and turn on notifications so you won't miss any of our future episodes ► https://www.youtube.com/@UCHzNtQ4KyLbfEZhiKnHHRiw \n\nMatt Kawecki (host) on LinkedIn: https://www.linkedin.com/in/maciejkawecki/\nThis is The World: https://www.thisisworld.org/\nThis is The World on Instagram: https://www.instagram.com/thisistheworld_podcast/",
+      "commentCount": 65,
+      "likeCount": 104,
+      "probeClient": "web_embedded"
+    },
+    "L2aBH_UXzSE": {
+      "checkedAt": "2026-08-13T09:53:36Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Billions of dollars are flooding into — and out of — artificial intelligence, sparking concerns of a 2008-style economic bubble. The Opinion writer David Wallace-Wells is joined by the Yale economics professor and contributing Opinion writer Natasha Sarin to talk about whether the A.I. hype is exaggerated and if the fears of an impending economic crash-out are valid.\n\n00:00 – The Near Collapse of a 24-Year-Old’s A.I. Fund\n06:46 – Did the A.I. Hype Machine Break?\n11:05 – Open-Source Threat & Hyperscalers in Debt\n18:55 – Rogue Models and A.I. Security Threats\n23:40 – Populists vs. Data Centers: America’s A.I. Backlash\n32:44 — How to Spot an A.I. Crash\n36:52 — The Aftermath: Pension Funds, Elites and Public Resentment\n\nRead the full transcript here: https://nytimes.com/2026/08/12/opinion/ai-bubble-economy-crash.html\n\nFollow us:\nApple Podcasts: https://podcasts.apple.com/us/podcast/the-opinions/id1762898126\nSpotify: https://open.spotify.com/show/581OhiIm69lqSyNRbBkXnf\nTikTok: https://www.tiktok.com/@nytopinion\n\nPublish Schedule:\nTuesdays, Wednesdays and Saturdays\n\nThe Opinions podcast: \"You've heard the news, here's what to make of it.\"",
+      "commentCount": 63,
+      "likeCount": 175,
       "probeClient": "web_embedded"
     }
   }
