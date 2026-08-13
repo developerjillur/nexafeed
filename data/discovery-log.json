@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T06:53:14Z",
+  "updatedAt": "2026-08-13T07:53:21Z",
   "items": [
+    {
+      "id": "Xnj5ta_JxLE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-13T06:52:47Z",
+      "firstSeenAt": "2026-08-13T07:53:21Z"
+    },
+    {
+      "id": "f7lmXVae6hU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-13T06:30:19Z",
+      "firstSeenAt": "2026-08-13T07:53:21Z"
+    },
+    {
+      "id": "egHFR4gY_R8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-08-13T06:00:30Z",
+      "firstSeenAt": "2026-08-13T07:53:21Z"
+    },
+    {
+      "id": "CZoZv2Zv0hQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ProgrammingKnowledge2",
+      "publishedAt": "2026-08-13T02:53:21Z",
+      "firstSeenAt": "2026-08-13T07:53:21Z"
+    },
+    {
+      "id": "5rw2XP6me8w",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CaspioInc",
+      "publishedAt": "2026-08-12T18:53:21Z",
+      "firstSeenAt": "2026-08-13T07:53:21Z"
+    },
     {
       "id": "EopcX6IqufQ",
       "type": "short",
@@ -11909,24 +11949,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T06:53:18Z",
-      "new": 1,
-      "long": 1,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 33,
-      "secondaryQuery": "Software Development"
-    },
-    {
-      "runAt": "2026-07-30T07:53:15Z",
-      "new": 6,
-      "long": 5,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
       "runAt": "2026-07-30T08:53:23Z",
       "new": 6,
       "long": 5,
@@ -13356,6 +13378,15 @@
       "channelsChecked": 33,
       "warnings": 32,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-13T07:53:21Z",
+      "new": 5,
+      "long": 2,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
