@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T01:53:30Z",
+  "updatedAt": "2026-08-13T02:53:39Z",
   "items": [
     {
       "id": "ZRGYzWoWaYg",
@@ -11821,15 +11821,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T02:53:32Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
       "runAt": "2026-07-30T03:53:42Z",
       "new": 5,
       "long": 4,
@@ -13259,6 +13250,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-13T02:53:39Z",
+      "new": 0,
+      "long": 0,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 27,
+      "secondaryQuery": "agency automation"
     }
   ]
 }

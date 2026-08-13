@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T01:53:30Z",
+  "updatedAt": "2026-08-13T02:53:39Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -3284,12 +3284,6 @@
       "commentsFetchedAt": "2026-08-08T01:53:29Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
-    },
-    "qAjplmWqs0M": {
-      "checkedAt": "2026-08-12T18:53:21Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
     },
     "JwkDaB0OcZc": {
       "checkedAt": "2026-08-08T06:53:36Z",
@@ -7412,18 +7406,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "0g1BRdHgIM0": {
-      "checkedAt": "2026-08-12T07:53:44Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "upk8DK4O_h0": {
-      "checkedAt": "2026-08-12T07:53:44Z",
-      "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
-    },
     "bxgW0fwJL6c": {
       "checkedAt": "2026-08-12T08:53:08Z",
       "embedAllowed": true,
@@ -7724,10 +7706,10 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-13T01:53:30Z",
+      "checkedAt": "2026-08-13T02:53:39Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "2JUn0WwfcXE": {
       "checkedAt": "2026-08-12T16:53:10Z",
