@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T23:53:14Z",
+  "updatedAt": "2026-08-13T00:53:23Z",
   "items": [
+    {
+      "id": "8Q8KGCyfhYs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Maddy Kim and AWS Developers",
+      "publishedAt": "2026-08-12T15:53:23Z",
+      "firstSeenAt": "2026-08-13T00:53:23Z"
+    },
+    {
+      "id": "kbmGRAEEjdA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sheryians Creative School",
+      "publishedAt": "2026-08-12T14:53:23Z",
+      "firstSeenAt": "2026-08-13T00:53:23Z"
+    },
+    {
+      "id": "y00gqVDwbv8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Chai aur Code",
+      "publishedAt": "2026-08-12T12:53:23Z",
+      "firstSeenAt": "2026-08-13T00:53:23Z"
+    },
     {
       "id": "6kpzCdsuRNE",
       "type": "long",
@@ -13195,6 +13219,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-13T00:53:23Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }

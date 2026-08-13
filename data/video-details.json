@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T23:53:14Z",
+  "updatedAt": "2026-08-13T00:53:23Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -7459,14 +7459,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "c9Iftx2s7d0": {
-      "checkedAt": "2026-08-12T10:53:21Z",
-      "embedAllowed": true,
-      "description": "The latest episode of Building Tomorrow is here! 🎙️\n\nJoin us as Niroshan Dharmakantha, Director – Project Delivery at Millennium IT ESP (BSc Computing ’09), and Isuru Sirinimal, Strategic ICT Leader & Director of Edge Tech Innovation (BSc Computing ’05), share their insights on what it takes to lead as AI reshapes software delivery.\n\nFrom the future of software development to the role of Sri Lanka’s tech talent, this conversation explores what’s next for the industry — and how we can prepare for it.\n\n🎧 Listen to the latest episode of Building Tomorrow now!\n\n#BuildingTomorrow #SLIIT #AI #TechInnovation #SoftwareEngineering #SriLankaTech #FutureOfTechnology #SLIITAlumni",
-      "commentCount": 0,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
     "NgarVWM9QYc": {
       "checkedAt": "2026-08-12T11:53:31Z",
       "embedAllowed": true,
@@ -7755,7 +7747,7 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-12T23:53:14Z",
+      "checkedAt": "2026-08-13T00:53:23Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7844,14 +7836,6 @@
       "description": "Check Out Yorby, the social media marketing tool for startups: https://www.yorby.ai?utm_source=yatb-yt\n\nHow I built a better AI agent after my first version completely failed.\n\nI spent the past month building an AI agent inside my startup, and the first version was honestly pretty bad. In this video, I break down what went wrong, what I changed, and how I rebuilt the agent to actually produce useful results.\n\nI cover how I think about AI agent architecture, tool calling, planning modes, clarifying questions, context gathering, and why the quality of your input matters more than the agent framework you choose. I also walk through the real AI carousel agent I built for Yorby, my AI social media marketing app, and show how it plans, asks questions, gathers context, and creates better output for users.\n\nIf you are building AI agents, working with the Vercel AI SDK, adding tool calling to your app, or trying to build better AI products in 2026, this is the practical breakdown of what actually worked for me.\n\nChapters: \n00:00 I Built an AI Agent for My Startup\n00:54 Why Agent Frameworks Don’t Matter\n01:48 The Biggest Mistake I Made\n02:42 The AI Agent I Built for Yorbi\n04:03 Why One-Shot Prompting Failed\n04:57 Plan Mode and Context Gathering\n05:08 Asking Clarifying Questions\n05:55 How the Agent Reviews, Plans, and Iterates\n07:01 Why Input Quality Matters Most\n07:21 General Purpose Tools vs Overbuilt Tools\n07:58 Copying What Works From AI Coding Tools\n08:40 How to Build Better AI Agents in 2026\n\nWant to work with me 1:1? Book some time with me at https://www.youraveragetechbro.com\n\nCheck out my AI-powered interview prepping tool: http://perfectinterview.ai/?utm_source=yatb-yt\n\nCheck out my latest SaaS product to start automating your job: http://montee.ai/?utm_source=yatb-yt\n\nFollow me on TikTok: https://tiktok.com/@youraveragetechbro\nFollow me on Instagram: https://instagram.com/youraveragetechbro\n\n#AIAgents #AICoding #BuildInPublic",
       "commentCount": 3,
       "likeCount": 36,
-      "probeClient": "web_embedded"
-    },
-    "UOCTcA3mA_g": {
-      "checkedAt": "2026-08-12T18:53:21Z",
-      "embedAllowed": true,
-      "description": "Try Ottermind AI here: https://ottermind.ai/?utm_source=YT&utm_medium=DED-EN&utm_campaign=AICodeKing \n\nDiscover how Ottermind AI helps you automate tasks, conduct AI-powered research, analyze files, generate reports, and complete real work with autonomous AI agents.\n\nIn this video, I'll be telling you about Ottermind AI, an AI-powered workspace built around autonomous AI agents that can turn messy inputs like PDFs, spreadsheets, notes, and prompts into finished deliverables such as presentations, reports, websites, images, and automated workflows.\n\n--\nKey Takeaways:\n\n🚀 Ottermind AI is an autonomous AI workspace designed to generate outcomes, not just answers.\n🤖 It includes multiple built-in AI models like Ottermind Lite, Ottermind Pro, GPT-5.6 models, Claude models, and GLM-5.2 with no API key setup required.\n📊 You can create slides, summarize files, generate images, analyze spreadsheets, and build websites from one simple prompt.\n🎨 The Slides workflow supports Professional mode and AI-generated visuals using models like Nano Banana and GPT Image 2.\n📁 The multi-file workflow can analyze PDFs, spreadsheets, and notes together to create polished reports or executive presentations.\n⏰ Scheduled automations let you generate recurring deliverables like weekly reports, market summaries, and research briefs automatically.\n🧠 Project memory, reusable AI skills, and workspace organization make Ottermind AI feel more like an AI teammate than a basic chatbot.",
-      "commentCount": 12,
-      "likeCount": 72,
       "probeClient": "web_embedded"
     },
     "NAumQObJEwM": {
@@ -8022,14 +8006,6 @@
       "likeCount": 45,
       "probeClient": "web_embedded"
     },
-    "7H--tn8RLSc": {
-      "checkedAt": "2026-08-12T21:53:49Z",
-      "embedAllowed": true,
-      "description": "Find out more about Clay - https://clay.link/7s6zWp0\n\nA quick look at modern memory management in Rust and Zig.\n\n💬 Topics:\n- Memory management remains fundamentally unsolved\n- Borrow checker rejects safe programs\n- Rust's new Polonius tracks loans more precisely\n- Polonius costs 2% compile time\n- Zig proposes fil-c style runtime safety\n- Rust spends compilation, zig spends cycles\n\n🥇 Join the community https://www.youtube.com/channel/UCXzw-OdotBUcNA9yhuYQBwA/join",
-      "commentCount": 413,
-      "likeCount": 1473,
-      "probeClient": "web_embedded"
-    },
     "M3_BX0BodOo": {
       "checkedAt": "2026-08-12T22:53:06Z",
       "embedAllowed": true,
@@ -8100,6 +8076,30 @@
       "description": "#accountsadvice #todiyapatel\n\nJoin India’s 1st  Certified AI Accountant Program: https://www.todiyapatel.com/courses/AI-for-Accountant-691d572c41346f4cc37f5e78\nAccounting Interview Preparation Course Link: https://www.todiyapatel.com/courses/skillup-crack-accounting-jobs-interviews-get-hired-fast-diya-patel-67babe958ffb8357b78c0356\nDownload Automated Excel Bundle formats:- https://diyapatel.myinstamojo.com/\n----------------------------------------------------\nZell Education for ACCA- https://forms.gle/Dn34PNXTFFrDVEoR6\n----------------------------------------------------\nPractice file- https://imojo.in/mbQ13f\n----------------------------------------------------\nWhatsApp Group: https://whatsapp.com/channel/0029Va5r0tFJZg4BCrHroz1z\nFollow Diya Patel on LinkedIn: https://www.linkedin.com/in/todiyapatel/\n\n\nWant to earn part-time income using your accounting skills?\nIn this video, I’ll show you how Excel Automation can help accountants explore part-time work opportunities and work on real-world automation projects.\nWe’ll cover:\nHow accountants can use Excel Automation\nWhy automation is a high-demand skill\nHow to find and work on part-time projects\nA real project explained step by step\nSkills you need to get started\nHow automation can help you save time and increase your earning potential\nIf you are an accountant and want to upgrade your Excel skills, this video is for you.\nWatch till the end and start learning Excel Automation today.\nSubscribe to Accounts Advice for more practical videos on Accounting, Excel, GST, TDS, Automation and AI.\n\nVideo Chapters \n\n00:00 – Introduction\n01:27 – Understand Client Requirements\n02:53 – Understand Invoice for Automation\n06:46 – Write VBA Code for Number to Words\n08:23 – Zell Education – Sponsored Segment\n09:20 – Automate Master Data from Invoice\n23:29 – Automate Invoice PDF Saving to Folder\n25:56 – How to Fix Errors in VBA Automation\n29:23 – Clear Data Automatically Using VBA\n32:29 – How to Earn ₹50K with Automation Ideas\n35:12 – Fiverr Automation Earning Opportunities\n36:37 – Where to Learn Automation for Part-Time Work\n\nConnect with Us:\nWhatsApp Group: https://whatsapp.com/channel/0029Va5r0tFJZg4BCrHroz1z\nLinkedIn: https://www.linkedin.com/in/todiyapatel/\nAccounting Solutions 4U: https://www.youtube.com/@AccountingSolutions4U\nAccounts Advice: https://www.youtube.com/@AccountsAdvice\nWebsite: Home | todiyapatel.com\nInstagram: https://www.instagram.com/todiyapatel\nFacebook: https://www.facebook.com/todiyapatel\nTwitter: @todiyapatel\nTelegram: https://t.me/todiyapatel\nBusiness Query: infoacsolutions4u@gmail.com\n\n✔️Free Courses:-\nGST Basic to advance course\nhttps://www.youtube.com/playlist?list=PLaiIhBhdwACdmLuw0eV6efCNWOFiPjqzu\n\nDS Basic to advance course\nhttps://www.youtube.com/playlist?list=PLaiIhBhdwACf81t1kMiNYy61cv7enFS8B\nTally Basic to the Advance course:-\nhttps://www.youtube.com/playlist?list=PLaiIhBhdwACc_i0EFcnhwMz-eal65lHHS\nPayroll Management course( Salary Management) in Tally Prime\nhttps://www.youtube.com/playlist?list=PLaiIhBhdwACfMZF3i1k-VA5Jw5Ds4Pq3F\nTally Prime Advance features\nhttps://www.youtube.com/playlist?list=PLaiIhBhdwACd49QfyKFI7ntPQZu6yBXlG\n\n\n#ExcelAutomation #PartTimeWork #Accountants #ExcelForAccountants #Automation #AccountingJobs #WorkFromHome #excelskills \n\n\n\nRegards,\nDiya Patel\nDon’t miss this opportunity to upskill for free and stay ahead in your accounting journey!\n🔔 Subscribe to our channel for more videos in this series.\n📢 Share this video with your friends and colleagues who want to learn GST.",
       "commentCount": 75,
       "likeCount": 307,
+      "probeClient": "web_embedded"
+    },
+    "8Q8KGCyfhYs": {
+      "checkedAt": "2026-08-13T00:53:23Z",
+      "embedAllowed": true,
+      "description": "Starting a new tech role or team soon and curious what to expect so you can prepare?\n\nI walk through a day of joining a new team and remind how humbling it can be, no matter how experienced you are, having to adapt to new systems, tools and ways of working.\n\nHere are onboarding habits worth stealing:\n→ Read before you build. Much of week one is checklists, docs and exposure to new tools.\n→ Draw how systems connect. It builds understanding faster than re-reading docs.\n→ Drop important notes into a doc so you've got context ready to feed your AI agent.\n→ Meet your teammates early. They will help you ramp up faster.\n\nYou'll never feel like you know everything, but staying curious is what'll keep you growing.\n\nShare your personal tips for joining a new team in the comments.\n\nbusiness inquiries: maddyykiim@gmail.com\ninstagram: maddykiim\n\nTags:\nsoftware engineer job, career, swe, realistic, productive, motivational, faang, tech corporate companies, computer science, seattle, ai, machine learning, software development, 9 to 5, 5 to 9, morning routine, artificial intelligence, productive, productivity, work vlog, corporate life, work life balance, oncall, software developer, vibe code",
+      "commentCount": 4,
+      "likeCount": 61,
+      "probeClient": "web_embedded"
+    },
+    "kbmGRAEEjdA": {
+      "checkedAt": "2026-08-13T00:53:23Z",
+      "embedAllowed": true,
+      "description": "If you're a CS student in India, you've probably heard the same advice again and again:\n\nLearn DSA → crack FAANG/Big Tech → get a high-paying job.\n\nAnd there's nothing wrong with that path.\n\nBut what if you don't enjoy DSA?\n\nWhat if you love building things, design, animation, 3D, and creative websites instead?\n\nThat's where Creative Development comes in.\n\nIn this video, I want to show you a different path—one focused on building highly interactive digital experiences using technologies like GSAP, Three.js, WebGL, WebGPU, and modern frontend development.\n\nThis is not a get-rich-quick scheme.\n\nYou still need to become genuinely good at what you do.\n\nYou need to understand JavaScript, animation, design, 3D, performance, and user experience. You need to build projects, develop taste, learn from great work, and create a portfolio that proves what you can do.\n\nBut if traditional DSA-heavy software engineering isn't the path you want, Creative Development is a legitimate path worth exploring.\n\nAnd that's what this channel is about.\n\nHelping you learn how to create things—not just solve problems.\n\n\n#creativedevelopment  #webdevelopment  #frontenddevelopment  #webdesign  #javascript  #gsap  #threejs  #creativecoding  #webgl  #webgpu  #careeradvice  #softwareengineering",
+      "commentCount": 13,
+      "likeCount": 84,
+      "probeClient": "web_embedded"
+    },
+    "y00gqVDwbv8": {
+      "checkedAt": "2026-08-13T00:53:23Z",
+      "embedAllowed": true,
+      "description": "Visit https://Chaicode.com for Udemy courses and cohort\n\nWelcome to chai aur code, a coding/programming dedicated channel in Hindi language. Now you can learn best of programming concepts with industry standard practical guide in Hindi language.\n\nAll source code is available at my Github account:\nhttps://github.com/hiteshchoudhary\n\nOur Open-Source Project is here: https://freeapi.app\n\nJoin me at whatsapp: https://hitesh.ai/whatsapp\n\nfor community discord: https://hitesh.ai/discord\n\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/\n\nHTML video series:  https://www.youtube.com/watch?v=XmLOwJHFHf0&list=PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI\n\nComplete javascript series: https://www.youtube.com/watch?v=Hr5iLG7sUa0&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37\n\nComplete Reactjs series: https://www.youtube.com/watch?v=vz1RlUyrc3w&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige\n\nJavascript and react interview series: https://www.youtube.com/watch?v=1wqCyz7XrV4&list=PLu71SKxNbfoCy_MsA98SBfvUKF5eQit6L\n\nBackend development with Javascript: https://www.youtube.com/watch?v=EH3vGeqeIAo&list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW\n\nPython Series: https://www.youtube.com/watch?v=Ca5DLSDfPec&list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s",
+      "commentCount": 61,
+      "likeCount": 646,
       "probeClient": "web_embedded"
     }
   }
