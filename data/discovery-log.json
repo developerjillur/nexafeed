@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T03:53:40Z",
+  "updatedAt": "2026-08-13T04:53:41Z",
   "items": [
+    {
+      "id": "d-XgQvTHC94",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Shark Numbers",
+      "publishedAt": "2026-08-13T01:53:41Z",
+      "firstSeenAt": "2026-08-13T04:53:41Z"
+    },
+    {
+      "id": "aHHyUaq3rqA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fed Gov Today",
+      "publishedAt": "2026-08-13T00:53:41Z",
+      "firstSeenAt": "2026-08-13T04:53:41Z"
+    },
+    {
+      "id": "-Rh5No0dBNI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lakshit Ukani | AI Automation",
+      "publishedAt": "2026-08-12T14:53:41Z",
+      "firstSeenAt": "2026-08-13T04:53:41Z"
+    },
     {
       "id": "ZRGYzWoWaYg",
       "type": "short",
@@ -11821,15 +11845,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T03:53:42Z",
-      "new": 5,
-      "long": 4,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 23,
-      "secondaryQuery": "AI software development"
-    },
-    {
       "runAt": "2026-07-30T04:53:43Z",
       "new": 4,
       "long": 2,
@@ -13268,6 +13283,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-13T04:53:41Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }

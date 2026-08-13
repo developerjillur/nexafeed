@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T03:53:40Z",
+  "updatedAt": "2026-08-13T04:53:41Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-06T20:53:12Z",
@@ -7004,14 +7004,25 @@
       "probeClient": "web_embedded"
     },
     "d4wTMkC5Snc": {
-      "checkedAt": "2026-08-12T04:10:14Z",
+      "checkedAt": "2026-08-13T04:53:41Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "shadcn, the god of UI on the internet, just dropped new chat interface components. And before building them, he published 15 rules for what makes a great streaming chat experience.\nAlmost every single one is about scroll behavior.\nHere are some of my favorite rules.\nNever move the reader against their intent. If someone’s reading, don’t pull them somewhere else. Auto-scroll should never be the default.\nIf they’re at the live edge, keep the stream in view. If they scroll away, leave them there.\nWhen images load, markdown expands, or code blocks render, none of that should make the reader lose their place.\nHe turned all of this into a single component called MessageScroller.\nIt handles anchored threads, streamed replies, restored conversations, prepended history, jump-to-message, scroll controls, and visibility tracking.\nAll the scroll behavior that almost every AI chat app gets wrong.\nInstall it with this one command and you're good to go.",
-      "commentCount": 0,
-      "likeCount": 2,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-12T04:10:14Z",
+      "commentCount": 1,
+      "likeCount": 404,
+      "comments": [
+        {
+          "id": "UgyynVT5zba5dBINrs94AaABAg",
+          "author": "@VishramSingh-m8i",
+          "text": "Please share the doc or any related link",
+          "likeCount": 1,
+          "publishedAt": "2026-08-12T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ldnRaMXo3Xbz4m16flfWdwc-2kFbIWdt-Bidg_Wmqk8lgn08iWiJ8zzWKtP_mN96n1pQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-13T04:53:41Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7025,19 +7036,59 @@
       "probeClient": "web_embedded"
     },
     "-Dxkost8GHU": {
-      "checkedAt": "2026-08-12T04:10:14Z",
+      "checkedAt": "2026-08-13T04:53:41Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "💬 Comment 𝗙𝗥𝗘𝗘 and I’ll DM you the repo and setup video!\n\n#freellm #claudecode #cursor #aiagents #codingwithai #developerproductivity #aitools #opensource #buildinpublic",
-      "commentCount": 6,
-      "likeCount": 31,
+      "commentCount": 8,
+      "likeCount": 53,
       "comments": [
+        {
+          "id": "UgwMzfiAKPOga-bZtEl4AaABAg",
+          "author": "@EricWTech",
+          "text": "📌 Watch the full video Here:\nhttps://www.youtube.com/watch?v=rYb_xSjx-Fw 👈🏻\n\nLink to the repository: \nhttps://github.com/nejib1/Free-LLM 👈🏻",
+          "likeCount": 1,
+          "publishedAt": "2026-08-12T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-fAZCNoiUQ0xrOaqyCUPXW4MRRTNbJyWSN-KFzFSJlWNrl36J0h5EwfMKJi3GaNY0A5Ml1mLbS0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "Ugw3_IuDqe87KTDlljJ4AaABAg",
+          "author": "@deacreator",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mj_q-ynPFggnYjo8S7EnWwRuQaXcuByR5KUdTTGUHRgaJD=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzsxiZa2JQjYZ5lvW54AaABAg",
+          "author": "@AliKodak-t6n",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_njMp9P5pDrqRaj4oHRodXslSma01EB2tIA4mBbGR7rDJoi92M1smujcI3N84wSKYdkGA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxkI8FRkjq6FSqPRNJ4AaABAg",
+          "author": "@sanamtanamal",
+          "text": "Free",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/F2-ukLY7FgqvM376_jbSA4OjTXX-e4P6aqRfeQjiGHxj9NVO99DF3RG8R6S9LlQC68nXv5oqGMQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugy1HWwFXB9Pi4tlOKF4AaABAg",
           "author": "@pullelachandrasekhar",
           "text": "Free",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T03:29:00Z",
+          "publishedAt": "2026-08-12T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l2dGr3XQHmc2_sMYgeTFBtQU-bE74a0F6IqXqZuwyf5MM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -7047,7 +7098,7 @@
           "author": "@SundbybergsBangolfklubb",
           "text": "Free",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T03:28:00Z",
+          "publishedAt": "2026-08-12T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/YBpWBfq17y_xUGci3TXdR3ECAne9mkypcmPyYxIF9mRC3bp7ypj0-dZ6WJ8NcRKgz4MvW8X8=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -7057,7 +7108,7 @@
           "author": "@zendomus",
           "text": "free",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T03:00:00Z",
+          "publishedAt": "2026-08-12T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lujKMIqBtpU7lK49TYdwlk7Hdh2D5XS6H50Lxk9a7OABs6=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -7067,33 +7118,13 @@
           "author": "@Hanish9",
           "text": "Free",
           "likeCount": 0,
-          "publishedAt": "2026-08-11T23:00:00Z",
+          "publishedAt": "2026-08-12T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ks3yQ3ZPp9wm88C2KCqAqypN_tQj0a9mkWcseIyjBM-w=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzCMeXPfJtqgnJQ3AF4AaABAg",
-          "author": "@ellsworthwilson4473",
-          "text": "Free",
-          "likeCount": 0,
-          "publishedAt": "2026-08-11T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-4bsb3g6FCWtugNiIlAcdT7aSkQMpygZ7rlunTFAO-GLtvDFLSaQGq4RYBW2RfrH8tg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwW8EFdJ2p-2eR37aR4AaABAg",
-          "author": "@amazeworld",
-          "text": "Free plz",
-          "likeCount": 0,
-          "publishedAt": "2026-08-11T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lqz1d588DhnduRBgjzFSsHED_WAIfo1RnWMXY31VK8wJw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-12T04:10:14Z",
+      "commentsFetchedAt": "2026-08-13T04:53:41Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7107,29 +7138,69 @@
       "probeClient": "web_embedded"
     },
     "6dRdPVSSYx0": {
-      "checkedAt": "2026-08-12T04:10:14Z",
+      "checkedAt": "2026-08-13T04:53:41Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"Ads\" for the full Facebook Ads MCP setup guide and link\n\nYou're still building campaigns by hand in Ads Manager.\n\nThat's the whole reason agencies bill you 15%.\n\nHere's the thing: Meta has an API, and Claude can drive it.\n\nMake an app at developers.facebook.com.\nAdd a system user, give it admin.\nAssign your assets.\nHand Claude the MCP link and token.\n\nThen prompt it. Campaigns, creatives, copy, live.\n\nThat's the unlock, fam.\n\n#AItools\n#ClaudeCode\n#Automation\n#Marketing\n#AIAgents",
       "commentCount": 8,
-      "likeCount": 19,
+      "likeCount": 52,
       "comments": [
         {
           "id": "UgwGPfzNNC4ICpHfY9p4AaABAg",
           "author": "@charlieautomates",
           "text": "🚨🔑Free resource page with links found here: https://charlieautomates.com/free-resources/#meta-ads-mcp",
           "likeCount": 0,
-          "publishedAt": "2026-08-11T20:00:00Z",
+          "publishedAt": "2026-08-12T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "UgyKlIzwM6cIshva86h4AaABAg",
+          "author": "@AmeenStemmet",
+          "text": "Ads",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T04:44:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lqybv1ymmQZzV-g7nROuYqYvRtqWJrzgIBL02smStPjjYqrzc547dVBcr4Ak5lP7MDAg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwoK1ShdUXE3TxUbi14AaABAg",
+          "author": "@brunofortin475",
+          "text": "ADS",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ldyyml-q2hnHym7vgpGUoM7_hJo0y7bMMUHNwrrFhJ6hE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwM6n-spNPKyHQ4NSB4AaABAg",
+          "author": "@theroadahead1105",
+          "text": "Ads",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nwDcdp0lXpEACPVoU7X0LIIBdpR_hQ3kY5LTabqjl_rEo=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy1ER0UEtcK4jVSTjx4AaABAg",
+          "author": "@TheEricMichaud",
+          "text": "Bro! So good!",
+          "likeCount": 0,
+          "publishedAt": "2026-08-12T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/N8mad7vbf53kcGFWiCAEX9YB9ONDpq4YS4Lt3BnDS_rAzLdS9Q29iMfAlo_21qvLbBVSxDNgTA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         },
         {
           "id": "Ugw2pxXTcqiJW0Q_L6l4AaABAg",
           "author": "@somtruthnews",
           "text": "Ads",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T04:01:00Z",
+          "publishedAt": "2026-08-12T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/XZiNWYoE0YxnjUDDYCDiLETI147sSAaAQzAJ3Lh0cRt2vAs8UH6uuQ437WC5LfxUJcJnHKByGw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -7139,7 +7210,7 @@
           "author": "@ProtonAve",
           "text": "Ads",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T04:01:00Z",
+          "publishedAt": "2026-08-12T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mudJBOukNXf6EwU9s9qkSmrQeXVMInDb6nJZWhI4Ee75BBlCMMDWOLtD2fTJpyUniYrg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -7149,53 +7220,13 @@
           "author": "@saifuddinilyas3635",
           "text": "Ads",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T03:00:00Z",
+          "publishedAt": "2026-08-12T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Ss2jOc7AW8tVeaPWEGegszNDV6kMz_SYrSFTyV0dHUpZ_qkooQNFj09DgemJrmGdu2QcIfx8OWE=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwfGhT2XqGwovwjh2t4AaABAg",
-          "author": "@MalcolmTan-j5m",
-          "text": "ads",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nWBkhs3XZcENi1MSPCdcXzpUjnMm2sZJbVobSifX-nvmmNb8bXfpOmj_RTnLGbL03qbA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyvO7gjoBY6NOMRoMd4AaABAg",
-          "author": "@joaquinrodriguez-f2l",
-          "text": "Ads",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m803QGbUkfuDHVEPFdcWmcFL79e1aEofZx8RetfOxLTWE4__BwePMK0hFcJZ3dRKoIVg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzFmt4vBVGLpJaJrH14AaABAg",
-          "author": "@doreenmccarthy9009",
-          "text": "Ads. Thank you, my friend.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksOF9cJw6Aaagqi0ktCjgqqvdei_kxInkStR8SF52k1ZMR=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyH8vywx35RSlj9Oat4AaABAg",
-          "author": "@Jorn-g5x",
-          "text": "Ads",
-          "likeCount": 0,
-          "publishedAt": "2026-08-11T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lT8Qu4LCD_pf9EwiAYpLW0gk_IeN8X9SN8VrwEe_FldWB8_Tdy3pM5DhTGCs4a8PJ_Cg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-12T04:10:14Z",
+      "commentsFetchedAt": "2026-08-13T04:53:41Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7589,14 +7620,6 @@
       "likeCount": 537,
       "probeClient": "web_embedded"
     },
-    "fgM06XtZGqQ": {
-      "checkedAt": "2026-08-12T14:53:50Z",
-      "embedAllowed": true,
-      "description": "AI coding tools are multiplying.\nCursor, Claude Code, Codex, and more all need the same provider keys, model settings, and routing rules.\nMoxus gives them one shared AI config layer.",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "XNQBCRcwXV4": {
       "checkedAt": "2026-08-12T15:53:51Z",
       "embedAllowed": true,
@@ -7706,7 +7729,7 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-13T03:53:40Z",
+      "checkedAt": "2026-08-13T04:53:41Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7932,14 +7955,6 @@
       "likeCount": 510,
       "probeClient": "web_embedded"
     },
-    "DiyyU9l23Bc": {
-      "checkedAt": "2026-08-12T21:53:49Z",
-      "embedAllowed": true,
-      "description": "AI is changing what developers build, but code alone is no longer enough to prove what you can do. Wes Bos explains why engineers need to solve problems beyond syntax, how agent workflows are reshaping software development, and what still requires human thinking.\n\nIn this conversation:\n- The limits of generative UI and AI-generated design\n- Agent loops, harnesses, and cheaper AI models\n- The rising cost of AI coding and the case for local hardware\n- Why developer education is shifting from syntax to problem-solving\n- Personal branding, conferences, newsletters, and AI-generated content\n\nFor developers navigating AI-assisted coding, this episode explores the skills and signals that still help you stand out.\n\nThis podcast was recorded at JSNation, the key web dev conference.\n\nOUTLINE\n00:00:00 - Code Is Not Enough for Developers\n00:00:32 - Why Generative UI Still Feels Unfinished\n00:04:35 - How Agent Loops Improve AI Coding\n00:07:06 - When Agent Workflows Become Standard Tools\n00:08:19 - Are Cheaper AI Models Good Enough?\n00:10:44 - Can AI Coding Costs Stay Sustainable?\n00:12:24 - What Engineers Need To Learn Now\n00:14:23 - Why Fundamentals Matter Beyond Syntax\n00:15:34 - How Non-Coders Are Building Production Tools\n00:16:21 - Why In-Person Conferences Still Matter\n00:18:11 - Personal Branding When Code Isn't Enough\n00:20:37 - Can Newsletters Beat The Attention Crisis?\n00:22:02 - Why AI-Generated Content Feels Insulting\n00:24:12 - Use AI To Scaffold, Not Think\n\n#Software #Programming #Podcast\n\nConnect with Patrick Akil:\nhttps://www.linkedin.com/in/patrick-akil\nhttps://twitter.com/PatrickAkil_",
-      "commentCount": 5,
-      "likeCount": 45,
-      "probeClient": "web_embedded"
-    },
     "M3_BX0BodOo": {
       "checkedAt": "2026-08-12T22:53:06Z",
       "embedAllowed": true,
@@ -7978,14 +7993,6 @@
       "description": "Artificial Intelligence is rapidly transforming the automobile industry—but what does the rise of AI-powered cars actually mean for ordinary people?\n\nIn this video, we explore how AI in cars can benefit everyday drivers, from improving road safety and reducing accidents to smarter navigation, predictive maintenance, better fuel efficiency, personalized driving experiences, voice assistants, intelligent parking, driver monitoring, and advanced safety features.\n\nAI is no longer just a futuristic concept found in self-driving cars. It is already becoming part of modern vehicles, helping cars understand their surroundings, recognize potential dangers, predict mechanical problems, optimize performance, and assist drivers in making better decisions.\n\nBut the biggest question is: Will AI-powered cars really make life easier for the average person? And could AI eventually change the way we drive, maintain, buy, and even own cars?\n\nIn this video, we break down the real-world benefits of Artificial Intelligence in cars in simple language, including how AI could help reduce driving stress, improve safety, save money on maintenance and fuel, and make everyday transportation more convenient.\n\nWe’ll also look at the future of AI-powered vehicles, smart cars, autonomous driving, connected cars, ADAS, AI safety systems, and intelligent automotive technology—and what these developments could mean for millions of everyday car owners.\n\nIf you’re interested in AI, cars, automotive technology, self-driving cars, smart vehicles, and the future of transportation, this video is for you.\n\nWatch until the end to understand how AI could change the everyday driving experience—and why the cars of the future may be much more intelligent than today’s cars.",
       "commentCount": 0,
       "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "R8D0_wT9Qxk": {
-      "checkedAt": "2026-08-12T22:53:06Z",
-      "embedAllowed": true,
-      "description": "नमस्कार मित्रों (Namaskar Mitro),\n\nIn this project, I built my first AI-powered self-driving RC car using the D-Robotics RDK X5.\n\nThe goal was to turn a 1/10-scale RC car into an autonomous vehicle capable of following a road, detecting objects and stop signs, and making basic driving decisions using AI and computer vision.\n\nThe RDK X5 acts as the main computer, handling the vision and high-level decision-making, while an ESP32-C3 handles the low-level steering and throttle control.\n\nThe system uses OpenCV for lane detection and YOLOv11 for object and stop-sign detection, with both perception pipelines running from the same camera input. A ROS 2-based architecture connects the different components and sends the final driving commands to the ESP32-C3.\n\nThis project was also developed as part of the D-Robotics Robotics Dream Keeper Challenge 2026.\n\n🚗 Features\n\n✔ Autonomous road/lane following\n✔ YOLOv11 object detection\n✔ Stop-sign detection\n✔ Automatic stopping when an obstacle is detected\n✔ ROS 2-based modular architecture\n✔ RDK X5 BPU acceleration for AI processing\n✔ ESP32-C3 for low-level vehicle control\n✔ Manual ↔ Autonomous mode switching\n✔ Real-time camera and AI processing\n\n🧠 System\n\nMain Computer: D-Robotics RDK X5\nAI: YOLOv11\nLane Detection: OpenCV\nCamera: D-Robotics Stereo Vision MIPI Camera\nVehicle Controller: DFRobot Beetle ESP32-C3\nChassis: 1/10-scale RC vehicle\nESC: Radiolink CL9030 90A Brushed ESC\nSteering: MG996R Servo\nPower: 3S LiPo + 5V/5A Buck Converter\n\n💻 Source Code\n\nThe complete project, including the ROS 2 workspace, source code, documentation, architecture, parts list and CAD Files is available on GitHub:\n\nRDK X5 Autonomous Vehicle — GitHub: https://github.com/proknowdiy/RDK-X5-Autonomous-Vehicle\n\n🤖 About D-Robotics RDK X5\n\nThe RDK X5 is an edge-AI development platform featuring the Sunrise 5 BPU, designed for robotics and computer vision applications.\n\nD-Robotics Developer Resources: https://developer.d-robotics.cc/rdk_doc/en/Robot_development/boxs/detection/yolo/\n\n🏆 Robotics Dream Keeper Challenge 2026\n\nThis project was developed as part of the Robotics Dream Keeper Challenge 2026 by D-Robotics.\n\nI was also selected as one of the challengers for the RDK Challenge Final Roadshow & Awards 2026 Summer, where I'll be presenting this project during the Challengers Show & Tell.\n\n📅 13 August 2026\n⏰ 14:30 GMT\n🌐 Online Event\n\n🔗 Getting started with RDK-X5:\nhttps://youtu.be/mKs4PMVIh3Y\nhttps://youtu.be/BDjmQBQjuLo\n\n🎵 Want free music for your videos?\n\nThen click here: https://share.epidemicsound.com/4fpau4\n\nThank you for watching! If you enjoyed this project, don't forget to Like, Share and Subscribe.\n\nIf you have any suggestions for the next version of this autonomous vehicle, let me know in the comments! 🚗🤖\n\n✉️ Business Email: proknowdiy@gmail.com\n🙂 Instagram: @proknow_diy\n\n#ProKnow #RDKX5 #DRobotics #AutonomousVehicle #SelfDrivingCar #RCCar #Robotics #ArtificialIntelligence #ComputerVision #YOLOv11 #ROS2 #ESP32 #OpenCV #DIYRobotics",
-      "commentCount": 15,
-      "likeCount": 112,
       "probeClient": "web_embedded"
     },
     "6kpzCdsuRNE": {
@@ -8093,6 +8100,33 @@
       "embedAllowed": false,
       "availability": "unavailable",
       "failureReason": "unavailable"
+    },
+    "d-XgQvTHC94": {
+      "checkedAt": "2026-08-13T04:53:41Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🤖 Make AI Agents: https://www.make.com/en?&promo=sharknumbers&utm_source=youtube&utm_medium=influencer&utm_campaign=sharknumbers-video-dedicated-aug26\nGet a one-month free Make Pro plan with 10,000 operations through the link above.\n\nCan AI automation understand an issue, decide what should happen next, and take action across multiple apps?\n\nIn this Make AI Agent review, I build an automated issue-management workflow using Make, webhooks, GitHub, Slack, Google Sheets, and Gmail.\n\nThe AI Agent reviews incoming system alerts, classifies each issue as P0, P1, P2, or P3, and sends it through the correct workflow. High-priority issues create a GitHub ticket, notify the team in Slack, update the issue log, and generate a customer email draft in Gmail. Lower-priority issues are simply recorded without triggering the full escalation process.\n\nI also test the Make Reasoning Panel to see how the AI analyzes an issue and explains its decision before the rest of the automation runs.\n\nIn this video, I’ll show you:\n\n* How to build a Make AI Agent workflow\n* AI issue analysis and priority routing\n* GitHub, Slack, Google Sheets, and Gmail automation\n* High-priority and lower-priority issue handling\n* AI-generated customer replies with human approval\n* Make AI Agent reasoning and workflow testing\n\nThe test includes a failed checkout issue, possible duplicate payment risk, P1 classification, automatic engineering escalation, customer response generation, and a separate lower-priority workflow.\n\nWhat could normally take 10–15 minutes of manual triage can be completed in under a minute while still keeping a human in control before any customer message is sent.\n\nWith more than 3,000 app integrations, Make AI Agents can be used for software development, customer support, store operations, marketing, finance, reporting, hiring, and other business automation workflows.\n\nTimestamps:\n00:00 - What happens when automation can think?\n01:45 - Building the Make AI Agent workflow | Setting up the webhook | AI issue analysis and classification\n02:45 - P0, P1, P2, and P3 routing\n03:15 - GitHub and Slack automation\n03:51 - Google Sheets issue logging\n04:11 - AI customer reply and Gmail draft\n05:35 - Testing the high-priority workflow\n06:10 - Make AI Agent Reasoning Panel\n07:27 - Testing the lower-priority workflow\n07:56 - Final thoughts on Make AI Agents\n\nLinks:\n🤖 Make AI Agents: https://www.make.com/en?&promo=sharknumbers&utm_source=youtube&utm_medium=influencer&utm_campaign=sharknumbers-video-dedicated-aug26\n📫 Contact: https://sharknumbers.com\n\nIvan Kv out.\n\n#Make #MakeAI #MakeAIAgents #Automation #AIAgent #WorkflowAutomation #AIAutomation #NoCode #MakeAutomation #GitHub #Slack #GoogleSheets #Gmail #DeveloperTools #BusinessAutomation #CustomerSupport #AITools #Productivity #SharkNumbers",
+      "commentCount": 94,
+      "likeCount": 1410,
+      "probeClient": "web_embedded"
+    },
+    "aHHyUaq3rqA": {
+      "checkedAt": "2026-08-13T04:53:41Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "DevSecOps is becoming a critical foundation for faster, safer and more adaptive mission delivery across government.\n\nRecorded at the Carahsoft DevSecOps Conference, this episode of Innovation in Government explores how federal leaders are applying artificial intelligence, automation, platform engineering, modular architectures, open-source security and continuous authorization across the technology lifecycle.\n\nHost George Jackson speaks with:\n\n- Anil Chaudhry, Senior Advisor for AI, Autonomy, and National Security, Department of Transportation\n- Kevin Whittle, Principal Solution Engineer, Microsoft\n- Dave Raley, Chief Digital Services Officer, Operation StormBreaker, U.S. Marine Corps\n- Matthew Graviss, Public Sector CTO, Atlassian\n- Rosie Bauer, Assistant Deputy for Data, Engineering, and Software, ASA(ALT), U.S. Army\n- Steve Stemmer, Federal Civilian Mission Support Director, Chainguard\n- Justin Fanelli, Chief Technology Officer, Department of the Navy\n- MaryGrace Wajda, Federal Solutions Architect, GitLab\n\nLearn how agencies are adapting DevSecOps for agentic AI, organizing teams around mission outcomes, modernizing acquisition through digital engineering, strengthening the software supply chain and creating continuous visibility into cyber risk.\n\nWatch more episodes of Innovation in Government at InnovationInGov.com.",
+      "commentCount": 0,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "-Rh5No0dBNI": {
+      "checkedAt": "2026-08-13T04:53:41Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, I'll show you exactly what Meta's new Developer Tools MCP can do, what it cannot do, and whether it's actually worth connecting — no hype, just what's real.\n\n 00:00 – Intro\n 0:43 – Meta's Developer Tool MCP (Beta Rollout)\n 1:08 – What MCP Actually Means\n 1:21 – Connect Meta MCP to Claude\n 2:07 – Listing All Your Meta Apps\n 2:24 – Checking App Permissions\n 3:22 – What It Cannot Do\n 4:06 – All 9 Tools Explained\n 6:39 – Should You Actually Connect It?\n 7:11 – Outro\n\n• how to connect Meta developer MCP to Claude\n• meta developer tools MCP tutorial\n• what is meta MCP server for developers\n• connect meta developer account to claude ai\n• meta MCP webhook management explained\n\n🚀 Join my Skool Community: https://www.skool.com/ai-automation-club-7843\n\n✅ Want AI Integration for Your Business?\n🔹 WhatsApp Automation: https://www.chatsyncs.com/?utm_source=youtube&utm_medium=video_desc\n🔹 AI & Automation Agency: https://www.neuriqai.com/?utm_source=youtube&utm_medium=video_desc\n🔹 Work Mail : hello@lakshitukani.com\n🔹 Schedule Call : https://topmate.io/lakshit_ukani77\n\n🔗 Tool I use Everyday 🔗\n👉 Apify: https://www.apify.com?fpr=lakshit \n👉 n8n workflow platform: https://bit.ly/lakshit_n8n\n👉 Hostinger VPS Link: https://hostinger.com/in/lakshit\n👉 Wispr Pro Speech-to-Text: https://wisprflow.ai/r?FREELANCE2\n👉 Supbase: https://supabase.link/AP4Q530 \n\n✨ Connect With Me ✨\n🔹 LinkedIn: https://www.linkedin.com/in/lakshit-ukani/\n🔹 Instagram: https://www.instagram.com/lakshit.ai/\n\n💡 Don't Forget to Subscribe 💡\nI teach n8n workflow automation with this step-by-step tutorial - build powerful no-code automations and streamline your processes with n8n's visual workflow builder\n\nEnjoyed this video?🔥 Hit the \"LIKE\" button and SUBSCRIBE for more such videos! Don’t forget to turn on notifications🔔 so you never miss an update.\n\n👉 Comment below and let me know: What do you want to learn next? Let's build a smarter, more efficient future together! 🚀",
+      "commentCount": 4,
+      "likeCount": 19,
+      "probeClient": "web_embedded"
     }
   }
 }
