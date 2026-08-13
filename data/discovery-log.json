@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T07:53:21Z",
+  "updatedAt": "2026-08-13T08:53:29Z",
   "items": [
+    {
+      "id": "1eJF3pkIow4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fed Gov Today",
+      "publishedAt": "2026-08-13T01:53:29Z",
+      "firstSeenAt": "2026-08-13T08:53:29Z"
+    },
     {
       "id": "Xnj5ta_JxLE",
       "type": "short",
@@ -11949,15 +11957,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T08:53:23Z",
-      "new": 6,
-      "long": 5,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
       "runAt": "2026-07-30T09:53:31Z",
       "new": 3,
       "long": 3,
@@ -13387,6 +13386,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-13T08:53:29Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 1,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
