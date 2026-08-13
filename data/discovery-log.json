@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T21:53:15Z",
+  "updatedAt": "2026-08-13T22:53:16Z",
   "items": [
+    {
+      "id": "Q9VhGGfeHP0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-13T22:15:18Z",
+      "firstSeenAt": "2026-08-13T22:53:16Z"
+    },
+    {
+      "id": "6fk-3DWWSU8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dan & Jun",
+      "publishedAt": "2026-08-13T21:53:16Z",
+      "firstSeenAt": "2026-08-13T22:53:16Z"
+    },
+    {
+      "id": "ikqJf69T_aA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-08-13T20:53:16Z",
+      "firstSeenAt": "2026-08-13T22:53:16Z"
+    },
+    {
+      "id": "nPpvkQ3zxSA",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Google Antigravity and Google for Developers",
+      "publishedAt": "2026-08-13T17:53:16Z",
+      "firstSeenAt": "2026-08-13T22:53:16Z"
+    },
+    {
+      "id": "YAXiUzTBB2I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Better Code with Alex",
+      "publishedAt": "2026-08-13T13:53:16Z",
+      "firstSeenAt": "2026-08-13T22:53:16Z"
+    },
     {
       "id": "9sRBCSOyukw",
       "type": "long",
@@ -12501,15 +12541,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T21:53:33Z",
-      "new": 1,
-      "long": 1,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
-    {
       "runAt": "2026-07-30T22:53:42Z",
       "new": 4,
       "long": 4,
@@ -13948,6 +13979,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-13T22:53:16Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }

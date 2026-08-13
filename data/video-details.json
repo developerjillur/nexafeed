@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T21:53:15Z",
+  "updatedAt": "2026-08-13T22:53:16Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1871,59 +1871,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "s8Cuc8_KOSY": {
-      "checkedAt": "2026-08-08T20:53:47Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 4,
-      "likeCount": 245,
-      "comments": [
-        {
-          "id": "UgwWLZjK5qmBKPmTywN4AaABAg",
-          "author": "@coderider3022",
-          "text": "Don’t use Claude",
-          "likeCount": 1,
-          "publishedAt": "2026-08-08T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ktqy1O9ZMmtieFCVhktcadGmGeip91BZeI6raorAXQdqX547fkG-1ICr6To3C9zosJlQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxAwNxRgLOpgI8OYy94AaABAg",
-          "author": "@ericanton4792",
-          "text": "SERENA",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l4B4Et88vx1Nh-zoDUEExgQBXEzbfzBCApObVOvXyroAdDDlnOOH5OFkBTiMvJuqH4ng=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzymxHk8_CnOI4XOBx4AaABAg",
-          "author": "@TommyWalker1",
-          "text": "Glad the algorithm recommended you because I've been binging your videos. I'm working on a massive project right now and I'll start on Saturday and max out on Wednesday (I'm on the 200 plan) \n\nYour caching video prompted me to redesign my memory structure, and while it's not implemented yet, I have a feeling it is going to be so much better.",
-          "likeCount": 3,
-          "publishedAt": "2026-08-08T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k8OFQJ5Xn7VmMj9I1Ff6-x36Nho64YyA4y05tdTVs8q1AC=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx3dz50I6UQLNRU35h4AaABAg",
-          "author": "@lazarov729",
-          "text": "So much Token lol :D",
-          "likeCount": 1,
-          "publishedAt": "2026-08-08T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/JmfFU9-ggxHUVwEXsVuFhuD1hzo4TyC7YJ0Ry-mXGTNGIiezBSjix2ofrq3RdUFqnqFgm7Pwsw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-08T20:53:47Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "QOrIt8x8esI": {
       "checkedAt": "2026-08-13T20:53:14Z",
       "embedAllowed": true,
@@ -2589,12 +2536,12 @@
       "probeClient": "web_embedded"
     },
     "wJWO91mi5o0": {
-      "checkedAt": "2026-08-06T22:53:14Z",
+      "checkedAt": "2026-08-13T22:53:16Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "💎 Unlock Higgsfield: https://bit.ly/4w5AmvH\n🩵 FREE Resources: https://bit.ly/4fI8DMP\n📈 ALL Systems: https://bit.ly/4kol0y5\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n\n*👋 Howdy*\n\nHey, I'm Jack, I built and sold my last tech startup with a Gazillion customers, now I'm building AI startups and I share stuff that works. I quit my corporate job to do my start-up and have never looked back since.\n\n*💬 Overview*\n\nClaude Design gets genuinely useful once you stop prompting from scratch and build a proper design system first, and that is exactly what this walkthrough covers using a made up burger brand as the example. We start by creating a design system inside Claude Design, letting Claude interview us about the brand, then connect a skill to Higgsfield to generate logos, textures and hero images in one go. From there we build a full website on those assets, export the project and hand it over to Claude Code, where a 3D website skill adds a scroll animated showstopper section. There is also UI sniping from 21st.dev, Aceternity UI and React Bits, plus reusing the same system for animated video graphics. It works even if you are a complete beginner who just wants designs that do not look like AI slop.\n\n*Links*\n☁️ Claude: https://claude.ai/\n🎬 Higgsfield: https://bit.ly/4w5AmvH\n🔥 Firecrawl: https://bit.ly/4feyw72\n🧩 21st.dev: https://21st.dev/\n✨ Aceternity UI: https://ui.aceternity.com/\n⚛️ React Bits: https://reactbits.dev/\n📁 GitHub: https://github.com/\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n\n⌚️ *Stamps:*\n0:00 - Stop AI Slop Forever\n0:32 - The Five-Step System\n1:12 - Level 1\n1:43 - Design System Created\n2:12 - Higsfield Skill Unlocked\n2:53 - Claude Builds Your Brand\n3:19 - Your Brand Identity Ready\n3:42 - Full Asset Pack Generated\n3:59 - Level 2\n4:29 - Brand Assets Loaded In\n4:55 - Brand Blurb Applied\n5:11 - Best Model For Results\n5:52 - Beautiful Website Born\n6:18 - Endless Iterations Possible\n6:35 - Level 3\n6:52 - The Design Handover\n7:20 - Export Your Project\n7:37 - Site Live In Claude Code\n9:34 - The Showstopping Feature\n10:09 - 3D Website Skill Ready\n10:25 - 3D Animation Triggered\n12:01 - Perfect Clip Length Tips\n12:12 - Trending UI Components Found\n12:48 - Distortion Shaders Added\n13:05 - Premium Edgy Components\n13:31 - Burger Site Comes Alive\n14:12 - Level 4\n14:57 - Your Style PDF Uploaded\n15:15 - Animated Text Components Built\n15:37 - Prompt Refined By AI\n16:01 - Real Workflow Revealed\n16:41 - Animation Rendered Live\n17:06 - Iterating Toward Perfection\n17:45 - What's Next\n\nThis tutorial shows you how to build a Claude Design system, generate brand assets with Higgsfield, hand your project over to Claude Code and create beautiful AI websites with 3D animations and UI components from 21st.dev, Aceternity UI and React Bits.\n\n#ClaudeDesign #ClaudeCode #Higgsfield #AIWebsiteBuilder #DesignSystem #WebDesign",
-      "commentCount": 7,
-      "likeCount": 32,
+      "description": "💎 Unlock Higgsfield: https://bit.ly/4w5AmvH\n🩵 FREE Resources: https://bit.ly/4fI8DMP\n📈 ALL Systems: https://bit.ly/4kol0y5\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n\n*👋 Howdy*\nHey, I'm Jack, I built and sold my last tech startup with a Gazillion customers, now I'm building AI startups and I share stuff that works. I quit my corporate job to do my start-up and have never looked back since.\n\n*💬 Overview*\nClaude Design gets genuinely useful once you stop prompting from scratch and build a proper design system first, and that is exactly what this walkthrough covers using a made up burger brand as the example. We start by creating a design system inside Claude Design, letting Claude interview us about the brand, then connect a skill to Higgsfield to generate logos, textures and hero images in one go. From there we build a full website on those assets, export the project and hand it over to Claude Code, where a 3D website skill adds a scroll animated showstopper section. There is also UI sniping from 21st.dev, Aceternity UI and React Bits, plus reusing the same system for animated video graphics. It works even if you are a complete beginner who just wants designs that do not look like AI slop.\n\n*Links*\n☁️ Claude: https://claude.ai/\n🎬 Higgsfield: https://bit.ly/4w5AmvH\n🔥 Firecrawl: https://bit.ly/4feyw72\n🧩 21st.dev: https://21st.dev/\n✨ Aceternity UI: https://ui.aceternity.com/\n⚛️ React Bits: https://reactbits.dev/\n📁 GitHub: https://github.com/\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n\n⌚️ *Stamps:*\n0:00 - Stop AI Slop Forever\n0:32 - The Five-Step System\n1:12 - Level 1\n1:43 - Design System Created\n2:12 - Higsfield Skill Unlocked\n2:53 - Claude Builds Your Brand\n3:19 - Your Brand Identity Ready\n3:42 - Full Asset Pack Generated\n3:59 - Level 2\n4:29 - Brand Assets Loaded In\n4:55 - Brand Blurb Applied\n5:11 - Best Model For Results\n5:52 - Beautiful Website Born\n6:18 - Endless Iterations Possible\n6:35 - Level 3\n6:52 - The Design Handover\n7:20 - Export Your Project\n7:37 - Site Live In Claude Code\n9:34 - The Showstopping Feature\n10:09 - 3D Website Skill Ready\n10:25 - 3D Animation Triggered\n12:01 - Perfect Clip Length Tips\n12:12 - Trending UI Components Found\n12:48 - Distortion Shaders Added\n13:05 - Premium Edgy Components\n13:31 - Burger Site Comes Alive\n14:12 - Level 4\n14:57 - Your Style PDF Uploaded\n15:15 - Animated Text Components Built\n15:37 - Prompt Refined By AI\n16:01 - Real Workflow Revealed\n16:41 - Animation Rendered Live\n17:06 - Iterating Toward Perfection\n17:45 - What's Next\n\nThis tutorial shows you how to build a Claude Design system, generate brand assets with Higgsfield, hand your project over to Claude Code and create beautiful AI websites with 3D animations and UI components from 21st.dev, Aceternity UI and React Bits.\n\n#ClaudeDesign #ClaudeCode #Higgsfield #AIWebsiteBuilder #DesignSystem #WebDesign",
+      "commentCount": 117,
+      "likeCount": 1617,
       "probeClient": "web_embedded"
     },
     "MWE9Okxsw_E": {
@@ -7298,14 +7245,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "EopcX6IqufQ": {
-      "checkedAt": "2026-08-13T06:53:14Z",
-      "embedAllowed": true,
-      "description": "Welcome to The Complete AI Guide — your shortcut to mastering Generative AI.\n\nWe make ChatGPT, Claude, and every new AI tool actually useful. No hype, no confusing jargon. Just clear tutorials, real prompts, and workflows you can use today.\n\nWhat you'll learn here:\n🤖 ChatGPT & Claude Mastery - prompting, plugins, custom GPTs\n🎨 Generative AI - images, video, icons (like our 98x98 AI brain), music & more\n⚡️ Productivity & Workflows - automate your job, studies & business with AI\n🔍 AI News & Tools - we test them so you don't have to\n\nWhether you're a complete beginner or leveling up, this is your complete guide from 0 to pro.\n\nLearn More: https://invl.me/clnrj4d\n\nSubscribe and turn on the bell — the future is moving fast. Let's learn it together.\n\n#ChatGPT #ClaudeAI #GenerativeAI",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "f7lmXVae6hU": {
       "checkedAt": "2026-08-13T07:53:21Z",
       "embedAllowed": true,
@@ -7410,7 +7349,7 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-13T21:53:15Z",
+      "checkedAt": "2026-08-13T22:53:16Z",
       "embedAllowed": false,
       "availability": "unavailable",
       "failureReason": "unavailable"
@@ -7516,15 +7455,6 @@
       "description": "This talk was recorded at NDC Toronto in Toronto, Canada. #ndctoronto #ndcconferences #developer #softwaredeveloper    \n\nAttend the next NDC conference near you: \nhttps://ndcconferences.com\nhttps://ndctoronto.com\n\nSubscribe to our YouTube channel and learn every day:   \n/          @NDC \n\nFollow our Social Media!\n\nhttps://www.facebook.com/ndcconferences\nhttps://twitter.com/NDC_Conferences\nhttps://www.instagram.com/ndc_conferences/\n\n#genai #workskills #ai #llm \n\nThe introduction of generative AI has been a watershed moment for the Software Engineering profession. Much has been said about its effect on quality, productivity, and hiring of software engineers. In fact, so much has been said that it can be difficult to tell what is hype, what is hate, and what is real.\n\nIn this cross-disciplinary talk, co-created by a Software Engineering Manager and a Sociologist of Professions and Expertise, we present the results of a preliminary study we conducted among software engineers about the impact code-generating LLMs have on their daily work, perceived skill levels, professional training (this aspect?), and career trajectory. We also review other related research and show how these results apply to established models for the development of expertise.\n\nPut together, this talk provides insight into the impact of LLMs on skill acquisition and expertise in software engineering and the far-reaching consequences they have on the junior-to-senior progression in software engineering. By doing so, as well as by providing context from other professions, we explore potential futures for the discipline of software engineering.\n\nThis talk is presented in collaboration with Dr. Netta Avnoon - a sociologist of professions and expertise. Netta is interested in the emergence of Data Science and Artificial Intelligence (AI) as a type of expertise and their integration into expert labor. Her articles have been published in Big Data and Society, New Media and Society, Work, Employment and Society, Nature Reviews Urology, the Journal of Professions and Organization and more.",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "Mx6bmZUwRcI": {
-      "checkedAt": "2026-08-13T11:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What happens when a Mechanical Engineering student discovers a passion for coding and decides to switch paths?\n\nIn this episode of Sharpener Ke Sher, we sit down with Sanket Patel to talk about his journey from a Mechanical Engineering background to becoming a Software Developer.\n\nSanket shares how college changed his perspective, how he discovered software engineering, and why he believes switching careers was one of the best decisions he made.\n\nWe also talk about:\n\n🚀 Switching from Mechanical Engineering to Software Development\n💻 How college coding culture influenced his career\n🏠 Remote work vs. working from an office\n⚡ How AI is transforming software development\n🤖 Why developers should learn to work with AI instead of running from it\n📈 How AI has boosted Sanket’s productivity at work\n🧠 Why learning System Design alongside AI is becoming increasingly important\n🎯 Career growth, future plans, and advice for aspiring developers\n\nOne of Sanket’s biggest takeaways is simple:\n\nLearn AI. Learn System Design. Build anything.\n\nHe believes AI isn't going anywhere — and developers who learn how to use AI effectively can dramatically improve their productivity and efficiency.\n\nIf you're a student, aspiring software developer, career switcher, or someone wondering how AI will impact your career, this conversation is definitely worth watching.\n\n⏱️ Timestamps\n\n00:00 – Introduction & Sanket’s journey to Sharpener\n00:55 – Did he always want to become a software developer?\n01:09 – Switching from Mechanical Engineering to Software Engineering\n01:42 – Was the career switch worth it?\n02:19 – The advantages of working remotely\n03:30 – What do you miss about working from an office?\n04:10 – Sanket’s future career plans\n04:50 – Will AI lead to more layoffs?\n05:39 – How AI is changing software development\n06:51 – How AI boosted productivity\n07:30 – “Learn AI” — Sanket’s advice to developers\n08:20 – Learn AI + System Design\n08:49 – Final advice for aspiring developers\n\n💬 What do you think — will AI replace developers, or will developers who learn AI simply become more productive?\n\nLet us know your thoughts in the comments.\n\n#SharpenerKeSher #SoftwareEngineering #ArtificialIntelligence #AI #SystemDesign #SoftwareDeveloper #CareerSwitch #MechanicalEngineering #TechCareer #RemoteWork #Programming #MachineLearning #GenerativeAI #Developer #CareerGrowth",
-      "commentCount": 0,
-      "likeCount": 1,
       "probeClient": "web_embedded"
     },
     "ss6Msm7A7i8": {
@@ -7678,7 +7608,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-13T21:53:15Z",
+      "checkedAt": "2026-08-13T22:53:16Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7739,15 +7669,6 @@
       "embedAllowed": true,
       "availability": "public",
       "description": "In this tutorial, we explore the Marketing Campaigns section in Zoho Marketing Automation and learn how businesses can create, organize, and manage marketing campaigns across multiple channels.\n\nThe Marketing Campaigns module helps businesses plan promotional activities, engage customers through email, SMS, WhatsApp, and social media, while tracking campaign performance from one centralized platform.\n\nIn this video, we provide an overview of Marketing Campaigns and explain how to create and manage campaigns effectively in Zoho Marketing Automation.\n\nTimestamps\n\n00:00 – Introduction\n\n00:10 – Introduction to Marketing Campaigns\n\n00:30 – Marketing Campaigns Overview\n\n01:00 – Accessing the Campaigns Module\n\n01:30 – Creating a New Campaign\n\n02:00 – Configuring Campaign Details\n\n02:30 – Managing Campaign Activities\n\n03:00 – Monitoring Campaign Performance\n\n03:30 – Organizing Multiple Campaigns\n\n04:00 – Campaign Review\n\n04:20 – Conclusion\n\nWhat you will learn\nIntroduction to Marketing Campaigns in Zoho Marketing Automation\nUnderstanding the Campaigns module\nHow to create a new marketing campaign\nConfiguring campaign details and settings\nManaging multi-channel marketing campaigns\nMonitoring campaign performance\nOrganizing and reviewing marketing campaigns effectively\n\nThis tutorial is part of our Zoho Marketing Automation tutorial series. Follow the complete series to learn how to use Zoho Marketing Automation and explore its features step by step.\n\nSubscribe to OHO Solutions for more Zoho tutorials, product guides, business automation solutions, digital marketing content, and practical guides for Zoho products.\n\nAbout OHO Solutions\n\nOHO Solutions is a Zoho Premium Partner providing Zoho implementation, customization, integration, and business automation solutions to help businesses streamline their operations and improve productivity.\n\nContact OHO Solutions\n\n📞 +91 95674 43377\n\n🌐 www.ohosolutions.com\n\n#ZohoMarketingAutomation #Zoho #ZohoTutorial #MarketingCampaigns #MarketingAutomation #ZohoTraining #DigitalMarketing #BusinessAutomation #EmailMarketing #OHOSolutions",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "ubUZXj8CW4I": {
-      "checkedAt": "2026-08-13T14:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Digital Marketing Is More Than Just Marketing\n\nIt’s about Reach. Automation. Influence. Outreach.\n\nOur Digital Marketing Services include:\n✔ SEO\n✔ Social Media Marketing\n✔ Google Ads\n✔ Meta Ads\n✔ Content Marketing\n✔ Video Editing & Reels\n✔ Website Promotion\n✔ Lead Generation\n\n📩 Contact Us:\nEmail: trainings@innoture.co.in\n🌐 Website: www.innoture.in\n📞 Phone: +91 7996682999\n\n#InnotureDigitalEdge #DigitalMarketingCourse #DigitalMarketing #DigitalMarketingTraining #DigitalMarketingSkills #SEO #SEM #SocialMediaMarketing #ContentMarketing #GoogleAds #GoogleAnalytics #EmailMarketing #OnlineMarketing #MarketingStrategy",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
@@ -7902,7 +7823,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-13T21:53:15Z",
+      "checkedAt": "2026-08-13T22:53:16Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8160,12 +8081,6 @@
       "likeCount": 12,
       "probeClient": "web_embedded"
     },
-    "GucVYMCgy7U": {
-      "checkedAt": "2026-08-13T21:53:15Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "9sRBCSOyukw": {
       "checkedAt": "2026-08-13T21:53:15Z",
       "embedAllowed": true,
@@ -8200,6 +8115,54 @@
       "description": "🚀 Master Software Testing & Automation — Explore My Udemy Courses\n\nPlaywright Courses\n🎭 Playwright with TypeScript\n👉 https://www.udemy.com/course/learn-playwright-web-api-testing-with-typescript/\n\n🎭 Playwright with JavaScript\n👉 https://www.udemy.com/course/learn-playwright-with-javascript\n\n🐍 Playwright with Python\n👉 https://www.udemy.com/course/learn-playwright-with-python-web-api-automation/\n\nAI & Manual Testing\n🧠 Generative AI for Software Testing\n👉 https://shorturl.at/Uk2eM\n\n📋 Manual Testing + Agile with Jira Tool\n👉 https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool\n\nSelenium Courses\n☕ Selenium with Java + Cucumber\n👉 https://www.udemy.com/course/learn-selenium-with-java-live-project\n\n🐍 Selenium with Python & PyTest\n👉 https://www.udemy.com/course/learn-selenium-with-python-d/\n\n🤖 Selenium with Python using Robot Framework\n👉 https://www.udemy.com/course/learn-selenium-with-python-using-robot-framework\n\nAPI & Performance Testing\n🔌 API Testing (Postman, RestAssured & SoapUI)\n👉 https://www.udemy.com/course/learn-selenium-with-python-using-robot-framework/\n\n📊 JMeter – Performance Testing\n👉 https://www.udemy.com/course/learn-jmeter-m/learn/\n\nOther Automation Tools\n🌐 Cypress with JavaScript\n👉 https://www.udemy.com/course/learn-cypress-with-typescript/\n\n📱 Appium – Mobile Automation Testing\n👉 https://www.udemy.com/course/learn-appium-latest-1110-mobile-automation-testing/\n\n🛠️ Protractor with JavaScript\n👉 https://www.udemy.com/course/learn-protractorangular-testing-with-javascript/\n\nDeveloper Essentials\n📚 Java Collections\n👉 https://www.udemy.com/course/learn-java-collections/\n\n🥒 Cucumber BDD Framework\n👉 https://www.udemy.com/course/learn-cucumber-bdd-framework\n\n🧩 SDET Essentials (Full Stack QA)\n👉 https://www.udemy.com/course/learn-sdet-essentials/\n\n💥 Free YouTube Courses for Software Testers 💥\n Learn Automation from scratch with real-time examples and frameworks.\n🎥 Join here → https://www.youtube.com/@sdetpavan/courses\n ✅ 100% Free | Beginner Friendly | Step-by-Step Tutorials\n \n\n#SoftwareTesting #AutomationTesting #SDET #QATraining #LearnTesting #TestingCommunity #ManualTesting #SoftwareTester #QATester #AutomationEngineer #TestAutomation #SDETTraining #QALife #TestingTools #TestingCareer #BugLife #QualityAssurance #TestingSkills #TestEngineer #AutomationFramework #SeleniumWebDriver #SeleniumWithJava #SeleniumWithPython #SeleniumAutomation #CucumberBDD #TestNGLearning #JUnitTesting #PageObjectModel #JavaForTesters #RobotFramework #UIAutomation #WebTesting #FunctionalTesting #CrossBrowserTesting #PlaywrightTesting #PlaywrightAutomation #PlaywrightWithTypeScript #PlaywrightWithPython #PlaywrightWithJavaScript #PlaywrightFramework #PlaywrightTutorial #EndToEndTesting #WebAutomationTesting #PlaywrightAPI #ModernTesting #HeadlessTesting #APITesting #RestAssured #PostmanAPI #SoapUI #WebServicesTesting #BackendTesting #JSONValidation #APIAutomation #RestAPI #APITestingTutorial #SwaggerTesting #HTTPMethods #APITestingForBeginners #PerformanceTesting #LoadTesting #JMeter #ETLTesting #DataWarehouseTesting #DatabaseTesting #DataValidation #SQLForTesters #DataQualityTesting #SourceToTargetMapping #ETLProcess #DataTransformationTesting #AppiumTesting #MobileAutomation #AndroidTesting #iOSTesting #MobileAppTesting #AppiumWithJava #AppiumWithPython #AITesting #GenerativeAIForTesting #ChatGPTForTesting #AIAutomation #AIInQA #AIDrivenTesting #PromptEngineeringForTesters #TestAutomationAI #FutureOfTesting #CICD #DevOpsTesting #JenkinsPipeline #DockerForTesters #GitHubActions #ContinuousTesting #SeleniumGrid #CloudTesting #TestReporting #AllureReports #ExtentReports #LearnAutomation #TestingTutorials #OnlineTestingCourses #QACareer #UpskillQA #LearnPlaywright #LearnSelenium #LearnAPITesting #CodingForTesters #AutomationJourney",
       "commentCount": 10,
       "likeCount": 167,
+      "probeClient": "web_embedded"
+    },
+    "Q9VhGGfeHP0": {
+      "checkedAt": "2026-08-13T22:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 11,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-13T22:53:16Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "6fk-3DWWSU8": {
+      "checkedAt": "2026-08-13T22:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Jun here, taking you all through my initial strides following getting laid off from my software engineering job.\n\n0:00 - a little bit of catch up\n1:18 - applying for internal roles\n2:30 - getting ready for an interview\n3:31 - rejection and impact from leave\n4:27 - updating my resume\n5:11 - lunch\n5:48 - applying to external roles\n6:55 - paving the backyard\n8:19 - leetcode study time\n10:33 - some thoughts on approaching life after layoffs\n12:18 - party time\n\nSocials:\nhttps://www.instagram.com/danjuntech/\n\nDisclaimer:\nOpinions expressed in this video do not reflect our employers.",
+      "commentCount": 2,
+      "likeCount": 21,
+      "probeClient": "web_embedded"
+    },
+    "ikqJf69T_aA": {
+      "checkedAt": "2026-08-13T22:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥 Developer Bootcamp & Mentoring Program — Start or level up your career with my proven training and personal mentoring:\nhttps://unclestef.com/\n\n#SoftwareDevelopment #AI #Programming #Developers #UncleStef\n\nStudioweb AI Literacy curriculum:\nhttps://blog.studioweb.com/2026/08/12/studioweb-ai-principles/\n\n🦎 Lizard Wizard Course\nMaster the psychology of learning, habits, and performance — a must for developers and entrepreneurs:\nhttps://school.studioweb.com/store/course/lizard_wizard\n\n🚀 1-on-1 Mentoring & Consultations\n\nCareer Consult — $99 for 15 minutes:\nhttps://calendly.com/uncle-stef/consultation-with-stefan\n\nEntrepreneur / Business Consult — $250 for 30–45 minutes:\nhttps://calendly.com/uncle-stef/entrepreneurs-consult\n\nSponsored Video — Get your questions answered in a video:\nhttps://unclestef.com/blog/2025/03/04/sponsored-video-request/\n\n💻 Popular Courses\n\nPython 3 Foundations & Certification:\nhttps://school.studioweb.com/store/course/python_3_foundations__&_certification_package\n\nFull Stack Web Developer:\nhttps://school.studioweb.com/store/course/complete_web_developer\n\nComplete Freelancer:\nhttps://school.studioweb.com/store/course/complete_freelancer\n\nComplete Entrepreneur:\nhttps://school.studioweb.com/store/course/complete_web_entrepreneur\n\n📱 Stay Connected\nInstagram: https://www.instagram.com/stefanmischook/?hl=en\n\nBusiness Channel: https://www.youtube.com/channel/UCZdr0ql_B240VBVINAX7Acg\n\nGoogle Review: https://g.page/studioWebedu/review?mt",
+      "commentCount": 8,
+      "likeCount": 47,
+      "probeClient": "web_embedded"
+    },
+    "nPpvkQ3zxSA": {
+      "checkedAt": "2026-08-13T22:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn more about Gemini 3.7 Flash: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/ \n\nSubscribe to Google Antigravity →  https://youtube.com/@googleantigravity\n\nGoogle Antigravity is an agent-first software development platform designed to help developers build, orchestrate, and monitor AI agents. It connects AI agents directly to code editors, terminals, and browsers so they can perform development tasks autonomously. \n\nTo learn more:\nWebsite: https://antigravity.google/\nX: https://x.com/antigravity\nLinkedIn: https://www.linkedin.com/showcase/google-antigravity/",
+      "commentCount": 91,
+      "likeCount": 709,
+      "probeClient": "web_embedded"
+    },
+    "YAXiUzTBB2I": {
+      "checkedAt": "2026-08-13T22:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "After 35 years of building software, I think AI has changed a lot — but maybe not the things people think it has.\n\nTools like Claude, Cursor, and other AI coding agents can build software incredibly fast. You can describe an idea and have something running on your laptop hours later.\n\nBut that doesn't mean the fundamentals of software development disappeared.\n\nYou still need to think about requirements, architecture, infrastructure, databases, security, testing, deployment, maintainability, and what happens when real users actually start using your application.\n\nAI changed **how quickly we can build software**. It did not eliminate the need to understand **what we're building or how it should be built**.\n\nIn this video, I talk about what AI actually changed, what it didn't, and why the software development process still matters even when AI is doing much of the coding.\n\nIf you want to learn more about my background and where I'm coming from, I cover that here:\n\n👉 https://www.youtube.com/watch?v=xT94YGB24Jk\n\nAnd if you're building software with AI and want a more structured process for taking an idea from prompt to production, you can find my workshop here:\n\n👉 https://ctrlaltcreateacademy.com",
+      "commentCount": 0,
+      "likeCount": 2,
       "probeClient": "web_embedded"
     }
   }
