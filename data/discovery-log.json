@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T16:53:12Z",
+  "updatedAt": "2026-08-13T17:53:13Z",
   "items": [
+    {
+      "id": "LHFqw7Znk_Y",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-13T17:04:29Z",
+      "firstSeenAt": "2026-08-13T17:53:13Z"
+    },
+    {
+      "id": "obMeAGNfFIk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AnimFX",
+      "publishedAt": "2026-08-13T14:53:13Z",
+      "firstSeenAt": "2026-08-13T17:53:13Z"
+    },
+    {
+      "id": "eehHWbytTFA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nishant Chahar",
+      "publishedAt": "2026-08-13T13:53:13Z",
+      "firstSeenAt": "2026-08-13T17:53:13Z"
+    },
+    {
+      "id": "kGarXGSi6Ik",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Aksh Verma",
+      "publishedAt": "2026-08-13T11:53:13Z",
+      "firstSeenAt": "2026-08-13T17:53:13Z"
+    },
+    {
+      "id": "h8vR71w0UeQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Unlocked",
+      "publishedAt": "2026-08-13T07:53:13Z",
+      "firstSeenAt": "2026-08-13T17:53:13Z"
+    },
     {
       "id": "eWdvFbDxkJE",
       "type": "short",
@@ -12269,15 +12309,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T16:53:37Z",
-      "new": 7,
-      "long": 6,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
       "runAt": "2026-07-30T17:53:38Z",
       "new": 2,
       "long": 2,
@@ -13716,6 +13747,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-13T17:53:13Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
