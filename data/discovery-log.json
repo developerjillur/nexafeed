@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-13T23:53:06Z",
+  "updatedAt": "2026-08-14T00:53:16Z",
   "items": [
+    {
+      "id": "tALspcgE1cE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jad M.H  | AI Automation",
+      "publishedAt": "2026-08-13T20:53:16Z",
+      "firstSeenAt": "2026-08-14T00:53:16Z"
+    },
+    {
+      "id": "X1joV_5hbk8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Comfort Joe | AI Automations for Businesses",
+      "publishedAt": "2026-08-13T19:53:16Z",
+      "firstSeenAt": "2026-08-14T00:53:16Z"
+    },
+    {
+      "id": "SGRQZxiOmwI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Chris Bradley",
+      "publishedAt": "2026-08-13T18:53:16Z",
+      "firstSeenAt": "2026-08-14T00:53:16Z"
+    },
+    {
+      "id": "rKlRH9-TzQc",
+      "type": "short",
+      "source": "secondary",
+      "channel": "AI for Business",
+      "publishedAt": "2026-08-13T17:53:16Z",
+      "firstSeenAt": "2026-08-14T00:53:16Z"
+    },
+    {
+      "id": "zsU_k2Pk1w8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "YusufAspire",
+      "publishedAt": "2026-08-13T13:53:16Z",
+      "firstSeenAt": "2026-08-14T00:53:16Z"
+    },
     {
       "id": "9nfC9043Xgg",
       "type": "long",
@@ -12581,15 +12621,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-30T23:53:43Z",
-      "new": 7,
-      "long": 6,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
       "runAt": "2026-07-31T00:53:44Z",
       "new": 2,
       "long": 1,
@@ -14028,6 +14059,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-14T00:53:16Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
