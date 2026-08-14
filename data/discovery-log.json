@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T11:53:29Z",
+  "updatedAt": "2026-08-14T12:53:29Z",
   "items": [
+    {
+      "id": "8WgipmPSPKk",
+      "type": "long",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-14T12:49:29Z",
+      "firstSeenAt": "2026-08-14T12:53:29Z"
+    },
+    {
+      "id": "14t701zn6NQ",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-14T12:41:03Z",
+      "firstSeenAt": "2026-08-14T12:53:29Z"
+    },
+    {
+      "id": "wIt4V1W9ucA",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-14T12:40:35Z",
+      "firstSeenAt": "2026-08-14T12:53:29Z"
+    },
+    {
+      "id": "BpuI3LetPm8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Indie Visuality",
+      "publishedAt": "2026-08-14T06:53:29Z",
+      "firstSeenAt": "2026-08-14T12:53:29Z"
+    },
+    {
+      "id": "C13EZQxSEq0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BotBee AI | Business Automation",
+      "publishedAt": "2026-08-14T05:53:29Z",
+      "firstSeenAt": "2026-08-14T12:53:29Z"
+    },
+    {
+      "id": "Djk0y0cVXQM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "OHO SOLUTIONS",
+      "publishedAt": "2026-08-14T03:53:29Z",
+      "firstSeenAt": "2026-08-14T12:53:29Z"
+    },
     {
       "id": "iYygll8N2CQ",
       "type": "long",
@@ -12957,15 +13005,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T12:53:25Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
       "runAt": "2026-07-31T13:53:33Z",
       "new": 8,
       "long": 5,
@@ -14395,6 +14434,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-14T12:53:29Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }

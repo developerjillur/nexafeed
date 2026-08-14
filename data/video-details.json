@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T11:53:29Z",
+  "updatedAt": "2026-08-14T12:53:29Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -426,15 +426,6 @@
       "description": "Ever wondered why Claude Code keeps re-reading the same files every time you start a new session?\n\nIn this video, I'll show you how to setup Graphify with Claude Code and create a knowledge graph for your project. We'll cover installation, Claude integration, graph visualization, Free vs Pro usage, automatic updates, and whether Graphify actually reduces token usage.\n\n📌 What you'll learn:\n\n- What Graphify is\n- How to install Graphify\n- How to integrate Graphify with Claude Code\n- How to generate your first project graph\n- How to visualize your codebase\n- Free Tier vs Pro Tier\n- Does Graphify really save tokens?\n- Auto-updating graphs with Git hooks\n\n### Commands Used\n\npip install graphifyy\ngraphify install\ngraphify claude install\n\n/graphify\n\ngraphify update\ngraphify hook install\n\n\n#ClaudeCode #Graphify #AIAgents #CodingTools #DeveloperTools #Anthropic #AIProgramming #Programming #SoftwareEngineering #codingsimplifiedspace",
       "commentCount": 13,
       "likeCount": 80,
-      "probeClient": "web_embedded"
-    },
-    "me3YV5P2M1M": {
-      "checkedAt": "2026-08-13T20:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "The new trailer for Unleash the Avatar has had an incredible response. It's gone viral with millions of views across India and China, and we're truly humbled by all the love and support.\n\nBut along with that, we also saw a lot of your feedback. So in this video, I'm going through some of the feedback you guys have shared, in the comments and in general on the internet. I'll show you what we've already fixed, what's intentional design and what we're still working on.",
-      "commentCount": 1200,
-      "likeCount": 4448,
       "probeClient": "web_embedded"
     },
     "wg8AS26vp3o": {
@@ -3814,49 +3805,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "b65br2idvyU": {
-      "checkedAt": "2026-08-12T18:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "learn how you can fullfil the youtube criteria before 1st feb 2027",
-      "commentCount": 3,
-      "likeCount": 31,
-      "comments": [
-        {
-          "id": "UgzNwvV0ZhifwE27cwx4AaABAg",
-          "author": "@k.s_shortsk.s_short",
-          "text": "YouTube",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/10pw_O5ejRXV5iUyR9KO1MMjNjuNygTTqiQSOJOllAS7Dn_uX4Mmr_npgSt_mrNq6sRNW1pd=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyMSO2y3SlQSIrLf7F4AaABAg",
-          "author": "@siddharthgauns2819",
-          "text": "YouTube",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lpiLdMXctjvi7fVUP3p1AKBdNWs2MCHjOtqeK2oIx_KTlP=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwDrdn4Yl1XWGDUQEd4AaABAg",
-          "author": "@BhateriKumari-g5b",
-          "text": "Youtube ❤😊",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lotwq9kZ-zhxXUPYTHDURWd2bPVUP7N6Lmrz_CAiHeSQgwSE_79junSbEt4Q9YRbEFbA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-12T18:53:21Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "DWDI75o3_wY": {
       "checkedAt": "2026-08-12T18:53:21Z",
       "embedAllowed": true,
@@ -4300,69 +4248,6 @@
       "commentCount": 0,
       "likeCount": 24,
       "comments": [],
-      "commentsFetchedAt": "2026-08-12T18:53:21Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "KTBwagD3Jm8": {
-      "checkedAt": "2026-08-12T18:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "learn the exact process of how you can monetize your channel in the given time period before 1st Feb",
-      "commentCount": 5,
-      "likeCount": 12,
-      "comments": [
-        {
-          "id": "Ugy7jUjBXGV-oWiPMF94AaABAg",
-          "author": "@nikubhuyan2779",
-          "text": "YouTube 😊",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T17:56:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nfaS9vjq2Wu5GonnDUIOhRL2y6pnzLaoMqhU-6dfu7LLR1aLU8I2-k3XCvlqvcw0YKRQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgytH0PGhocf7C6ko_F4AaABAg",
-          "author": "@ToonStateComedy",
-          "text": "Youtube",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/uUJAyb91rzhy-KRjxFw_MWInVj-feXEB7JoVDmkJOl7leo8PwVwjT0vA7P_amZqyq2s7GMPRiQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw38Fxz76pU5MSEAB94AaABAg",
-          "author": "@TusharSinha-f2r",
-          "text": "Searies",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ru7GfqjxvsEXNt-XfDcbwzo4c6lkVt1194KiEWA6yCuHVzMvg4GuMzG7qv49OsaXP1xhzqnJYQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz1fNQ2VB8tttdfZUJ4AaABAg",
-          "author": "@SauravKumar-b4c7z",
-          "text": "series",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kRdiwgGASa43GPYT-c3Z6MApteJOGOBXuLd7u6TpOt2CJm9iQ6p6u16RMmQYwe-Tke3g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwRyRQrtS8chH-6Fql4AaABAg",
-          "author": "@eztech8179",
-          "text": "series",
-          "likeCount": 0,
-          "publishedAt": "2026-08-11T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kQh6rzoq83YiPoQZQSDPnImDjZShK1aYYJb5-GwI6cLQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
       "commentsFetchedAt": "2026-08-12T18:53:21Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
@@ -7255,107 +7140,118 @@
       "probeClient": "web_embedded"
     },
     "ss6Msm7A7i8": {
-      "checkedAt": "2026-08-13T12:53:09Z",
+      "checkedAt": "2026-08-14T12:53:29Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Everyone's still clicking through prospecting filters like it's 2020. \n\nBuilding a lead list used to mean an hour of dropdowns and guesswork. \n\nNow a five-node n8n agent reads your sentence, runs it against Lusha's data with 290M+ verified contacts, and replies in the same chat before you've switched tabs.\n\nComment \"n8n\" and the full workflow file lands in your DMs.\n\n#lushapartner @LushaData",
-      "commentCount": 0,
-      "likeCount": 2,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-13T12:53:09Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "3XHLnsCbPUE": {
-      "checkedAt": "2026-08-13T12:53:09Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 8,
-      "likeCount": 137,
+      "commentCount": 1,
+      "likeCount": 17,
       "comments": [
         {
-          "id": "Ugx7NG_qsQAsDFUsUDh4AaABAg",
-          "author": "@Aryan-o7n2z",
-          "text": "Koi kamay na kamay magar padane wala jarur kamayge 😂",
-          "likeCount": 1,
-          "publishedAt": "2026-08-13T12:53:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/M8OtzB99iCCsIBPHQQiyzLaPsto9477V_qHY9K07ovSPKhTwogoXUsfSH_DlXUPNlmHxrROptw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxigVmPZqyU7zgfwnN4AaABAg",
-          "author": "@bzsr3101",
-          "text": "Patna Bihar 😊😊😊",
-          "likeCount": 1,
-          "publishedAt": "2026-08-13T12:52:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/a8Qnb1qj3VEj5OXqDHhkKxysxQJ1Ofzn6RpUsIlYJrYCG029KX2X4-hr-ZmxB73mf_RUDW70vG0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxqHt6OsS5_UMnPovh4AaABAg",
-          "author": "@PiyushDubey1079",
-          "text": "Please pin 📍 this comment",
-          "likeCount": 1,
-          "publishedAt": "2026-08-13T12:49:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/kRZCjYjDrPWGxkvNFHd6eUKyu3CwUGgdO4rlqdtXf6EHdwNgdscx_i3xfQdkfgRJtJut4uohgg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz8pMKr9H9jHsRrVWt4AaABAg",
-          "author": "@udaanfacts-jm",
-          "text": "Itna berojgar hu ki video aate hi dekh leta hu😂",
+          "id": "Ugxn9RtI9lN9U8Yfjf94AaABAg",
+          "author": "@deep.b1106",
+          "text": "N8N",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T12:48:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/-BObdkvzuHvkuOFeFJPCT_1-vcAIoDKMaa08fqQGfRq-hge5xCDwxVvv_B2xVhNcMqzYeoqIkQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgztEervzZOG9JTZ76F4AaABAg",
-          "author": "@BhushanKulung-t2p",
-          "text": "First comment 😁",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T12:45:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/lr57vaMP1GMRxeA8NiY6rc3LJow1hhBE7kOb0T7EYe8bd6tThspqsY4J7GakX_R2wuA7_C1f9g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw2nRhIXII368y2GtJ4AaABAg",
-          "author": "@factsworldofficial.",
-          "text": "Like kardo ❤❤❤😂😂😂",
-          "likeCount": 1,
-          "publishedAt": "2026-08-13T12:45:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/CW3mDFgq3U7HdF6ouQTI92uTBImNNf20KRwxicGGjE0QuMgzb7cMq_v0Fm4elft157hz3zvnSw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwQRDnQSAS3EcUM21N4AaABAg",
-          "author": "@NASEEM_WITH_AI",
-          "text": "First comment bro❤",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T12:44:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/HNnUw9hVzzvMGgDbUytIT1_3ZV-d5G_h-X0-VoyexFwVPkM2ZWAdtdgJ0B6PpolQfdbXRIXH_yI=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzivViAdrRjG9a1cAd4AaABAg",
-          "author": "@SauravKumar-r9n5h",
-          "text": "Fast comment in 🎉🎉🎉",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T12:44:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/sjwpJ6tSXo9dcqkn_NGHK_1D97bDuZfoPvG-yfqfK_sMxoOsOzTsoqlMyBB5lfMm8mrrqosMu9A=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/rRUTaXhbdqTUe4QdwrcsnDGMyhzdSB9KnpnP7tMAAISu4gzwvhQJ7ZbNEWAlh2NE6kDNvU1g1w=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-13T12:53:09Z",
+      "commentsFetchedAt": "2026-08-14T12:53:29Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "3XHLnsCbPUE": {
+      "checkedAt": "2026-08-14T12:53:29Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 8,
+      "likeCount": 6172,
+      "comments": [
+        {
+          "id": "UgzDCBg1M0t_a7k8OD94AaABAg",
+          "author": "@dostkahoyadushman",
+          "text": "Babaj company aur  student pr video banak",
+          "likeCount": 1,
+          "publishedAt": "2026-08-14T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/0ND85nxNIkRqCklzStiOSLeTLQIqeY6E3JAg8J0mJSM-YvIusWKbR4qHXEwolvVeFiDVGWg7rg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwbrWdK3OPrLboBXDt4AaABAg",
+          "author": "@rajeshkumarmalakar7571",
+          "text": "Patna 😅",
+          "likeCount": 1,
+          "publishedAt": "2026-08-14T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/WmXjy4HQm92L2mFdX9UH9StQHusnMLMuF9YN4JLlapg49WFP_ErPCOzwWYPCSJFLcbKTYccqxg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwpFEE9BmfI4r7XD-l4AaABAg",
+          "author": "@AbhayRaj-vi7px",
+          "text": "❤❤❤❤❤❤❤❤❤❤",
+          "likeCount": 1,
+          "publishedAt": "2026-08-14T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4zNamuafHGNYebETGTRhcV2ePAAFsw3-KX5Sa51JEUlGKwOIQRWwf1McuYbqpbT2KNxX8C-Bzxc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw-eGW-yxn3Puw0-VZ4AaABAg",
+          "author": "@wowfacts-no.1",
+          "text": "Bhai logon  mera content kaisa hai 👇❤",
+          "likeCount": 1,
+          "publishedAt": "2026-08-13T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/fzHoQB9_aClPlZ-KxfBUvoFvhtXlaf3ZI7cjotYoTdVIyAMFxm-rrb2Cu_4YH8uDfewaZAHglw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyY2vwYiz7q8r8ps3l4AaABAg",
+          "author": "@aitechwithabis",
+          "text": "So great bro❤",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/laknrwNSeQbvikxj1NdWhVzfL9t5ByKbJ9Jf7hiQf9DLJJXDodBAKyKyXEH86RPmZIOGfHJg5U4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyGb1GtRqd37rC2PMR4AaABAg",
+          "author": "@kingdarkness-7",
+          "text": "Bhai 10th fail ke liye Hai yah",
+          "likeCount": 1,
+          "publishedAt": "2026-08-13T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/WMuRWwWBoHepW4VPNg_oK7Npk1j4RwZ_1DfpRF7zcLaW6GpY-_kXuQIs4kw4RdamGqxzp1yN5w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwjnDagxhVU2KwqrU14AaABAg",
+          "author": "@anupampaul8986",
+          "text": "🌟🌟",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/JGcnnTxTsfiKXsWJrBQijGave-A_hyOjHjHgHLhU7dbC9NtcsXCFpe3KeGTUl-rMshrBAg0Cy9w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw_O635CZ3b9IgYjk94AaABAg",
+          "author": "@ProfessorProMan",
+          "text": "Victor 😂Rai Bareilly 😅😅😅",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/rPjDDddtoWyEOoJniq8LSB2-MAZwE49EPcvzkrdTFh4pN7FlNj6bIYYhO8zBykSsQx3xyDEt=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-14T12:53:29Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7405,7 +7301,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-14T11:53:29Z",
+      "checkedAt": "2026-08-14T12:53:29Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7529,17 +7425,8 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "5Xw3LtPeByE": {
-      "checkedAt": "2026-08-13T16:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Keep moving with agents! ⚙️ *The all things agentic hackathon* is officially live.\n\nWe're challenging builders to build next generation agents that take on the busy work and handle the heavy lifting in the background using Gemini 3.5 and Google Cloud. Compete for your share of *$180,000* in prizes, cash, and Google Cloud credits!\n\n* *Important Dates:*\n• Submissions open: August 3, 2026\n• Submissions close: August 31, 2026 (5:00 P.M. PDT / 8:00 P.M. EDT) \n• Prizes: $180,000 total prize pool\n\nLearn more and register → https://goo.gle/agentic-hackathon\nSign up for GEAR to get exclusive updates and your badge → https://goo.gle/4fWmqiU\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#AllThingsAgenticHackathon\n\nSpeaker: Tilde Thurium, Annie Wang\nProducts Mentioned: Gemini, Google Cloud Skills Boost, Gemma, Cloud Run, Vertex AI",
-      "commentCount": 1,
-      "likeCount": 37,
-      "probeClient": "web_embedded"
-    },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-14T11:53:29Z",
+      "checkedAt": "2026-08-14T12:53:29Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7598,15 +7485,6 @@
       "description": "Need to scrape a website but don't want to write code?\n\nIn this video, I compare 6 of the best no-code web scraping tools you can use in 2026:\n\nOctoparse\nGeekflare\nParseHub\nBrowse AI\nWeb Scraper.io\nImport.io\n\nI’ll show you what each tool is good for, from simple visual scraping and browser-based extraction to automated workflows, website monitoring, APIs, and larger-scale data collection.\n\nIf you’re looking for an easier way to extract website data without building a scraper from scratch, this comparison will help you pick the right tool.\n\nWant to try Geekflare? Check it out here: [Geekflare](https://geekflare.com/?utm_source=chatgpt.com)\n\nWhich one would you use?\n\n#WebScraping #NoCode #AITools #DataExtraction #WebAutomation #DataScraping #Automation #Geekflare",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "0v1MKQDr7d8": {
-      "checkedAt": "2026-08-13T19:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this video, Harkirat takes you through his thoughts on how AI is changing the software engineering career. From why software development feels easier than ever to what companies may expect from engineers as AI becomes more capable, he breaks down the changing landscape of the industry. He also talks about AI agents, learning with AI, the future of technical interviews, and how engineers can stay ahead. Finally, he shares a project that reflects how he believes engineers will build software in the AI era.\n\n\n00:00 – Software Engineering Has Become Too Easy\n01:06 – No One Is Born a Coder\n06:14 – If Not Coding, Then What?\n07:26 – The Most Lucrative AI Engineering Niches\n09:26 – The New Mindset: Replace Yourself\n11:14 – AI Has Made Learning Almost Free\n13:49 – How Engineers Will Build Software With AI\n18:30 – LeetCode Is Dying\n\n\n🔗 𝗟𝗶𝗻𝗸𝘀:\nCohort → https://100xdevs.com\nTwitter → https://twitter.com/kirat_tw\nLinkedin → https://linkedin.com/in/kirat-li\nInstagram → https://www.instagram.com/kirat_ins\nDiscord → https://discord.com/invite/WAaXacK9bh\nTelegram → https://t.me/kirat_internal_group\nWhatsApp → https://whatsapp.com/channel/0029Va98SYeHrDZhfxCT6s0a",
-      "commentCount": 48,
-      "likeCount": 692,
       "probeClient": "web_embedded"
     },
     "t6kDH-Z1R_E": {
@@ -8048,7 +7926,7 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-14T11:53:29Z",
+      "checkedAt": "2026-08-14T12:53:29Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8260,12 +8138,63 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "_g1FtUeR9Xo": {
-      "checkedAt": "2026-08-14T11:53:29Z",
+    "8WgipmPSPKk": {
+      "checkedAt": "2026-08-14T12:53:29Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "Start Using Smartlead for Free: https://app.smartlead.ai/sign-up\n\nIn this video, we walk through how to use Claude Code connected to Smartlead to find new clients in a single prompt, covering the setup, the prompt that pulls a verified lead list from SmartProspect, and how to launch a campaign with that list in minutes.\n\nRead our guides and ebooks: https://www.smartlead.ai/ebook-and-guide\n\nLearn more about Smartlead: https://www.smartlead.ai\n\nFollow us on LinkedIn: https://www.linkedin.com/company/smartlead-ai/\n\nIf you liked this video, subscribe to the channel!",
-      "commentCount": 1,
+      "description": "In this Kata, we discuss wealth, risk, and how rich people think about money and constraints. We talk about how money changes the way you think about time, attention, risk, and opportunity. We look at why some expenses are worth paying when they remove a major problem, and why the real question is often not “how much does this cost?” but “what does this give me back?”\n\nWe also discuss ownership, investing, and why building wealth is ultimately about separating your time and energy from the money you create. Along the way, we look at how wealthy people think about risk, where they choose to place their bets, and how they decide what is actually worth owning. \n\nFinally, we talk about opportunity, access, and how to think about the things that limit you. The goal is not simply to have more money, but to use it in ways that give you more time, freedom, and room to do the things that matter.\n\n00:00 - Intro\n02:39 - \"Blinking\" — teleporting into people's minds\n03:48 - What rich people actually want\n08:36 - Traits of every successful person\n14:34 - The 4 wealth zones\n15:23 - ₹1 Cr — security & status\n18:26 - ₹10 Cr — freedom & recognition\n22:57 - ₹100 Cr — influence & access\n30:15 - ₹1,000 Cr — legacy & trust\n36:56 - Free market participation\n39:53 - Rich people buy freedom, not things\n48:31 - How the rich take risks\n54:55 - How to actually reach the rich\n1:02:06 - Trust & proximity to power\n1:10:35 - Final summary",
+      "commentCount": 3,
+      "likeCount": 17,
+      "probeClient": "web_embedded"
+    },
+    "14t701zn6NQ": {
+      "checkedAt": "2026-08-14T12:53:29Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "earn how to manage your time for best results",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-14T12:53:29Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "wIt4V1W9ucA": {
+      "checkedAt": "2026-08-14T12:53:29Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "learn the full process of how to grow on youtube",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-14T12:53:29Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "BpuI3LetPm8": {
+      "checkedAt": "2026-08-14T12:53:29Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Welcome to Day 12 of the 15 Days Digital Marketing Mastery Course!\nআজকের ক্লাসে আমরা শিখব কীভাবে Marketing Automation ব্যবহার করে repetitive marketing tasks automate করা যায়, leads manage করা যায় এবং AI-এর সাহায্যে marketing আরও smart ও efficient করা যায়। 🤖📈\n\n📚 আজকের ক্লাসে যা শিখবেন:\n🔹 What is Marketing Automation?\n🔹 Email Automation Workflows\n🔹 Triggers & Actions\n🔹 Lead Capture & Segmentation\n🔹 Lead Scoring\n🔹 CRM & Marketing Automation\n🔹 Tools: Mailchimp, Brevo & HubSpot\n🔹 Zapier & No-Code Automation\n🔹 AI in Marketing Automation\n🔹 Analytics, Tracking & Optimization\n🎯 কার জন্য এই ক্লাস?\n✅ Digital Marketing Beginners\n✅ Freelancers\n✅ Business Owners\n✅ Content Creators\n✅ Social Media Marketers\n✅ যারা AI ও Automation ব্যবহার করে marketing করতে চান\n\n\n👉 Study material Link: https://docs.google.com/document/d/1rMZ3efRk_wxWRSM8UmfM2tNaV9UxHeN-Vu38LxiONUk/edit?tab=t.0\n\n▶️ Complete 15 Days Digital Marketing Course\n👉 Playlist: https://youtube.com/playlist?list=PLPvNm3h16Pas&si=Uh7NpNyBTlUXldmv\n\n📌 Also Check Out My 10 Days SEO Course\nhttps://youtube.com/playlist?list=PLWlB32RXJ5V0&si=YWzrFggj-t6SCUt4\n\n💡 Practice + Consistency + Value = Growth!\n\n#DigitalMarketing #MarketingAutomation #AIMarketing #DigitalMarketingCourse #MarketingAutomationTools #EmailMarketing #AIinMarketing #HubSpot #Zapier #DigitalMarketingMastery #15DaysDigitalMarketing",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "C13EZQxSEq0": {
+      "checkedAt": "2026-08-14T12:53:29Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn how to automate your Facebook DMs, comments and customer engagement with BotBee.\n\nIn this tutorial, discover how BotBee helps businesses automate Facebook communication and turn social media interactions into leads and customers.\n\n00:00 Dashboard Introduction\n00:43 Connect Facebook Page with BotBee\n01:26 Facebook DM Automation\n03:05 Facebook Auto Comment & Comment Reply\n08:08 Facebook Get Started & Ice Breakers\n09:17 Facebook Persistent Menu\n\n🚀 What you can automate:\n\n✅ Facebook account connection\n✅ Messenger DM automation\n✅ Automated replies\n✅ Comment automation\n✅ Customer engagement\n✅ Lead generation\n✅ Follow-ups\n✅ AI-powered conversations\n\nInstead of manually responding to every customer, let BotBee automate your Facebook interactions and help your business respond faster.\n\n🌐 Get started: www.botbee.io\n\n#facebookautomation #facebookmarketing #messengerautomation #dmmarketing #commentautomation #socialmediaautomation #aiautomation #aichatbot #whatsappautomation #businessautomation #leadgeneration #salesautomation #botbee #digitalmarketing #businessgrowth",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "Djk0y0cVXQM": {
+      "checkedAt": "2026-08-14T12:53:29Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this tutorial, we explore the Web Analytics section in Zoho Marketing Automation and learn how businesses can track visitor behavior, measure website performance, and gain valuable insights to improve their marketing strategies.\n\nThe Web Analytics module helps you monitor website traffic, analyze user engagement, identify high-performing pages, and understand how visitors interact with your website—all from one powerful dashboard.\n\nIn this video, we provide an overview of Web Analytics and explain how to access, interpret, and use website data to make smarter marketing decisions.\n\nTimestamps\n\n00:00 – Introduction\n\n00:10 – Introduction to Web Analytics\n\n00:30 – Web Analytics Overview\n\n01:00 – Accessing Web Analytics\n\n01:30 – Understanding Visitor Data\n\n02:00 – Analyzing Website Traffic\n\n02:30 – Tracking User Engagement\n\n03:00 – Reviewing Performance Reports\n\n03:30 – Using Insights for Marketing\n\n04:00 – Conclusion\n\nWhat you will learn\nIntroduction to Web Analytics in Zoho Marketing Automation\nUnderstanding website visitor analytics\nHow to track website traffic and engagement\nAnalyzing visitor behavior and page performance\nReviewing web analytics reports\nUsing data-driven insights to improve marketing campaigns\n\nThis tutorial is part of our Zoho Marketing Automation tutorial series. Follow the complete series to learn every feature step by step.\n\nSubscribe to OHO Solutions for more Zoho tutorials, business automation guides, and digital marketing content.\n\nAbout OHO Solutions\n\nOHO Solutions is a Zoho Premium Partner providing Zoho implementation, customization, integration, and business automation solutions to help businesses streamline operations and improve productivity.\n\nContact OHO Solutions\n\n📞 +91 95674 43377\n\n🌐 www.ohosolutions.com\n\n#ZohoMarketingAutomation #Zoho #ZohoTutorial #WebAnalytics #MarketingAutomation #WebsiteAnalytics #DigitalMarketing #BusinessAutomation #ZohoTraining #OHOSolutions",
+      "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
     }
