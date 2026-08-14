@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T13:53:30Z",
+  "updatedAt": "2026-08-14T14:53:31Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1225,21 +1225,21 @@
       "probeClient": "web_embedded"
     },
     "33mEB7ITr7g": {
-      "checkedAt": "2026-08-07T14:53:06Z",
+      "checkedAt": "2026-08-14T14:53:31Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔗 Gladia: https://app.gladia.io/signup?utm_campaign=187991254-Creators&utm_source=creator&utm_medium=brendan-jowett&utm_content=youtube\n👉 Full courses + unlimited support:\nhttps://www.skool.com/brendans-ai-launchpad?utm_source=youtube&utm_medium=video&utm_campaign=description&utm_content=33mEB7ITr7g\n📚 Free AI Resource Hub & Skool Community:\nhttps://www.skool.com/@brendan?utm_source=youtube&utm_medium=video&utm_campaign=description&utm_content=33mEB7ITr7g\n🤝 Work with me:\nhttps://www.inflate.agency/?utm_source=youtube&utm_medium=video&utm_campaign=description&utm_content=33mEB7ITr7g\n🔗 Claude: https://clau.de/BrendanJowett\n\n⚠️ 90% OF PEOPLE WATCHING ARE NOT SUBSCRIBED, PLEASE SUBSCRIBE NOW 👇\nhttps://www.youtube.com/channel/UCzIsviqoJc-VcWqF5Pp8iLw?sub_confirmation=1\n\nLearn how to build and deploy an AI voice agent INSTANTLY on a phone number using Claude Code!\n\nThis step by step tutorial walks through the full tech stack: LiveKit for agent hosting, Gladia for speech to text, Claude Haiku for intelligence, and 11 Labs Flash V2.5 for text to speech, all connected via a Telnyx phone number.\n\n📧 Sponsorship Inquiries: \nbrendan@inflate.agency\n\nMy Links 🔗\n👉 Subscribe: https://www.youtube.com/channel/UCzIsviqoJc-VcWqF5Pp8iLw?sub_confirmation=1\n👉 LinkedIn: https://www.linkedin.com/in/brendanjowett/\n👉 Twitter: https://twitter.com/jowettbrendan\n👉 Instagram: https://www.instagram.com/brendan.jowett\n\nTIMESTAMPS\n00:00 - What I'm covering\n00:58 - Tech stack overview\n01:33 - Demo call with the voice agent\n02:27 - Architecture walkthrough\n03:04 - Gladia speech-to-text\n03:57 - AI model selection\n04:17 - 11 Labs text-to-speech\n04:30 - Prompting Claude Code\n06:02 - LiveKit Cloud setup\n07:22 - Providing API keys\n08:01 - Telnix phone number setup\n08:20 - Agent build complete\n08:51 - Adding a function call\n10:04 - Appointment booking workflows\n11:26 - Function call demo / live test\n12:09 - Agency moat / integrations advice",
       "commentCount": 23,
-      "likeCount": 221,
+      "likeCount": 254,
       "probeClient": "web_embedded"
     },
     "0s56EMVEev4": {
-      "checkedAt": "2026-08-07T14:53:06Z",
+      "checkedAt": "2026-08-14T14:53:31Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Work With Me (Solve Your Revenue Bottleneck with Charlie OS): https://charlieautomates.com/charlie-os-vs/\n————————————\nJoin my community with 3,200+ business owners (choose premium for weekly calls): https://www.skool.com/cc-strategic-ai/about\n————————————\n\nIf you like the video edit, reach out to hi@hisubhadeep.com and tell him Charlie sent you! He hooked me up with an edit on this one :)\n\n\nVideos referenced:\n\n- Claude Code Crash Course: https://youtu.be/vaW_MCv2AY0\n\n\nOther 🔑 resources:\n\nSkillsmith: https://www.charlieautomates.com/free-resources/#skillsmith\n\nSEED: https://www.charlieautomates.com/free-resources/#seed\n\n————————————\n\nTimeline:\n00:00 Can AI Really Replace An Executive?\n01:22 Why Most People Automate The Wrong Things\n01:48 The 3 Things Every AI Officer Needs\n02:24 SEED + Skillsmith: The Frameworks Doing The Work\n03:22 MCPs: Connecting The Agent To Your Real Tools\n03:49 Ideating The CMO With SEED\n06:02 Consultant Or Operator? Defining The Scope\n06:29 Approval Gates So It Can't Send Without You\n07:29 Running It 24/7 With Routines And Cron\n09:15 Migrating Your Memory Out Of ChatGPT\n10:54 Inside The Skill File\n12:45 Running /CMO For The First Time\n13:49 The Content Audit: YouTube + Instagram\n14:30 The CRM Audit: What It Found In My Pipeline\n15:13 Final Thoughts\n\n#ClaudeCode #Marketing #AIAutomation",
       "commentCount": 11,
-      "likeCount": 56,
+      "likeCount": 70,
       "probeClient": "web_embedded"
     },
     "NVPWYTZZpnI": {
@@ -6037,19 +6037,29 @@
       "probeClient": "web_embedded"
     },
     "WU4pZ2itW1c": {
-      "checkedAt": "2026-08-13T14:53:05Z",
+      "checkedAt": "2026-08-14T14:53:31Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "China’s AI race is getting harder to ignore.\n\nAlibaba’s Qwen team has released Qwen 3.8 Max, a powerful multimodal AI model designed to understand text, images, and video — and it’s already showing competitive results against leading models like GPT and Claude on some benchmarks.\n\nBut the biggest headline might be its 1-million-token context window.\n\nThat means the model can potentially process massive amounts of information in a single context — from large codebases to hundreds of pages of documents.\n\nAnd the pricing makes it even more interesting, starting at around $2 per million input tokens according to the script.\n\nThe open-weight release is also expected soon, potentially giving developers much more flexibility to experiment with the model.\n\nThe bigger story isn't just another AI model launch.\n\nChina’s AI ecosystem is rapidly producing models that are becoming increasingly competitive on performance, cost, and accessibility.\n\nWant the Qwen 3.8 Max link?\n\nQwen 3.8 link : https://chat.qwen.ai/  \n\nAt bpro, we break down the latest AI models, tools, startups, agents, coding systems, and technology shifts, so you understand what's actually changing behind the AI hype.\n\nSubscribe for practical AI updates, AI tools, AI news, technology breakthroughs, and the future of AI.\n\n#AI #Qwen #ArtificialIntelligence #AINEWS #ChinaAI\n\nTags\n\nQwen 3.8 Max, Qwen AI, Alibaba Qwen, Qwen latest model, China AI, Chinese AI, Chinese AI model, best AI model, best AI models 2026, GPT vs Qwen, ChatGPT vs Qwen, Claude vs Qwen, AI news, AI updates, latest AI news, latest AI models, new AI model, artificial intelligence, AI explained, what is Qwen, how to use Qwen, how to use Qwen AI, Qwen tutorial, AI tools, free AI tools, open source AI, open weight AI, multimodal AI, AI coding, AI coding tools, 1 million token context, long context AI, AI model comparison, GPT alternative, ChatGPT alternative, Claude alternative, Alibaba AI, AI technology, future of AI, AI trends, AI breakthrough, AI tutorial, AI for developers, AI for coding, AI news 2026",
-      "commentCount": 5,
-      "likeCount": 140,
+      "commentCount": 6,
+      "likeCount": 168,
       "comments": [
+        {
+          "id": "UgyTksl4dIEv7VEZ1k14AaABAg",
+          "author": "@ajaykumarsingh1376",
+          "text": "Hamare yahan to kamar hilane mein Lage Hain log \ndharna dene mein vahan se Paisa mil raha hai",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nfXtUmTCJGF9H76ay7X8JGs04Yw85eV9sQ13Q-WY0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugznoo1vaPUZtiCMavt4AaABAg",
           "author": "@iamankurverma",
           "text": "Qwen",
           "likeCount": 1,
-          "publishedAt": "2026-08-13T02:00:00Z",
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mTktQu6ipkxZi-z9sWWTOphsQ1yQZDrYLjMfzgFDA1KWio=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6059,7 +6069,7 @@
           "author": "@NileshShiyani-z7d",
           "text": "Qwen. Thank You!",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T20:00:00Z",
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kha02_9Ul-0i7-bVviA0vGlId-liZzPVQMGzeLqnUygpGthuE1DCRL-f9hmm6Y1aUYKw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6069,7 +6079,7 @@
           "author": "@HyakutanaMoto",
           "text": "“Nowadays, AI has become like a tree-every single day, some country is planting its own new tree.“But this tree is just as sweet as it is poisonous. Alas....😢😢",
           "likeCount": 3,
-          "publishedAt": "2026-08-12T17:00:00Z",
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_moeku1wSJ_5JYElsivgwUBW9jYwk2tsk6dgkop4bCQX9KRj77yp1bZwNyZvBy82WKOMA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6079,7 +6089,7 @@
           "author": "@hirengandhi2429",
           "text": "Which AI tools best in research?",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T16:00:00Z",
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/q4SvgTJ2WkQzoFOm8Ff0N9FfrBSw4tlqE3uWLrNk7KOmCWnV04HHUknPjoU4vRjVWcgyqtY7JMI=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6095,100 +6105,100 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-13T14:53:05Z",
+      "commentsFetchedAt": "2026-08-14T14:53:31Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "uDd4cWJTt4M": {
-      "checkedAt": "2026-08-13T14:53:05Z",
+      "checkedAt": "2026-08-14T14:53:31Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 8,
-      "likeCount": 770,
+      "likeCount": 1733,
       "comments": [
         {
-          "id": "Ugxe9YwayDn9A_5M99R4AaABAg",
-          "author": "@nilimawankhade2484",
-          "text": "❤",
+          "id": "UgwTf3ctNoX-5c1opFN4AaABAg",
+          "author": "@pawankumarmishra3424",
+          "text": "AI website made and then hacked by AI",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T14:23:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Ik9KxtPDNWzL7pAfCUTg4-5nIi_hI1ES1ZhXMyWuFku8cYCNAveElOFGZ5dH6bdzNpR4ZWPmbNg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T14:41:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nJQqbWuy3qTmDlomYlUeCYnOHeILZLXELQpL4jF6SBFKI=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxHz58K9oD0ocH9nON4AaABAg",
-          "author": "@Bhavi-ri4bl",
-          "text": "You got a subscriber",
+          "id": "UgyZnHNglMmZQZUvCrR4AaABAg",
+          "author": "@anubhabdas4684",
+          "text": "That backend also made with AI 😂😂😂",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/a5mCBcW3f6XF-FF68UXmLCsNSVRqWwt9wdzR4ptE2OcxAuSOrwX5GvsOpzOeViPjOia1q79_0w=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lN1r14JyVE1HV827fOA4jwcUpML9JATe2vub3wBZwgdO1_u1mEpcWHSejRd9oj5lcaaA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugyc-PHIk3mQ4SJlYvt4AaABAg",
-          "author": "@Six_Year_Plus_Exp_BinaryTrader",
-          "text": "A Crime is still a crime",
+          "id": "UgwswkD3dUtWOMmpvjR4AaABAg",
+          "author": "@sage.swagat",
+          "text": "Gym website wala backend programmer b vibe code hi kia hoga 😂😂😂",
           "likeCount": 1,
-          "publishedAt": "2026-08-13T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/NoORIG9kuHZuN_V13-ikeyAy5RQpk_1KB6FFEUPcZwJtZ5Bqv3tnfsxXJ69FhHok9A5CWLo5WQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/_5QixYdAeKFU6mk4r17JezNGeG3Pw9hvbRQdb_D4iLRlkRimHBEnXt1jS4tXChmZYfE28j86=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwZAeNYdO369mvF3Od4AaABAg",
-          "author": "@undivided_bharat",
-          "text": "Bro i found your channel very useful ✔️",
+          "id": "UgzgRwAPeXTSiaB_tu54AaABAg",
+          "author": "@abhishek_67",
+          "text": "But how claud can check any website's backend code?",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/SgPvqiLwbmapbvjea2agW-siET_7gJpf7PJMOk0_5RZ3CoSzv5djiK4sABZiZkveZhwgdKBG3Q=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-13T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_njMp9P5pDrqRaj4oHRodXslSma01EB2tIA4mBbGR7rDJoi92M1smujcI3N84wSKYdkGA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwM5qRVZ1DWIZLvbLR4AaABAg",
-          "author": "@jayasaikrishna7735",
-          "text": "This is what real hackers do",
+          "id": "Ugy94Kr9KhA5NgRtmWx4AaABAg",
+          "author": "@bigqueries",
+          "text": "And some software Engineer say ai is not good but what fucking devloper doing",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lfP1MhwX5yj1OzH6qKCeFDnOVYG_-iKRJH0Ur5kGaezB0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwdSrsUhFKCZt7WguN4AaABAg",
+          "author": "@yatharthpatil3102",
+          "text": "Things are getting interesting... too much fun in near future...",
+          "likeCount": 3,
+          "publishedAt": "2026-08-13T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k-E4cQ8c4PK-WSoxkcpby73s9GX1yMn64hUdpn03Q=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzVDXHVQMS0stt14jp4AaABAg",
+          "author": "@shivamshivam-n4g6t",
+          "text": "Bc backend conditio or jwt hi check hi nhi kar rhe hai 😂😂",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lPLRfn_9CcibqWJAVHbtEluWckjCg5W-Tbor0l1ZPwUXZC_LSbMeWYgo8hzNNHXaKWSw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzaAqviE0xF6Acei994AaABAg",
+          "author": "@abbasjawadwala7691",
+          "text": "IRCTC pr lagana padega",
           "likeCount": 1,
-          "publishedAt": "2026-08-13T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_klA8oYODm9toaTJ-mergtaqas_5UgslRMIcYqrlLaCUutB=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugyimnro2iVBpdq42NJ4AaABAg",
-          "author": "@Morimove",
-          "text": "AI while coding 🤡 AI when finding vulnerability 😎",
-          "likeCount": 5,
-          "publishedAt": "2026-08-13T10:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lE1OavoewjB8SE-OLTHrOVyMqPAYEY5iDXKeY9VBFQ_Idc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwdHGD5j5pr6K7aUTt4AaABAg",
-          "author": "@Toji-IJ",
-          "text": "It's just like CBSE...",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/K_n-r528cCMso83_EhlYINmGmc8UuEiI665AmGZ-yVkwaCC-ojKASGJT7HoNAsFevg_tFL5cUQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw8ycOxLJGajW1DFTV4AaABAg",
-          "author": "@PankajGurditta-y6m",
-          "text": "❤❤",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/V1UbSqRDGR7PyXVMVUWL1SsAyX9sUYHj9ndy8He5FFd64y78SUuLwvTKD7UfqwuIgcGYGp0=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-13T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nJHpYsjJuaCXFVQ95P9nq2EeLGffMgieV9lNoJ6UtlGK2_=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-13T14:53:05Z",
+      "commentsFetchedAt": "2026-08-14T14:53:31Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7101,49 +7111,150 @@
       "probeClient": "web_embedded"
     },
     "ekT5hIExty0": {
-      "checkedAt": "2026-08-13T14:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 0,
-      "likeCount": 1,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-13T14:53:05Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "T9vjPC7i6kw": {
-      "checkedAt": "2026-08-13T14:53:05Z",
+      "checkedAt": "2026-08-14T14:53:31Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 0,
       "likeCount": 14,
       "comments": [],
-      "commentsFetchedAt": "2026-08-13T14:53:05Z",
+      "commentsFetchedAt": "2026-08-14T14:53:31Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "T9vjPC7i6kw": {
+      "checkedAt": "2026-08-14T14:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 6,
+      "likeCount": 262,
+      "comments": [
+        {
+          "id": "UgxaoKV0WF3Dde59DoN4AaABAg",
+          "author": "@dilipgupta1751",
+          "text": "Comment ma 👍 kar data hu.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/j7Y2K7jSWpIFA8JbnvaNL_yJ7cjiwy6cl9GItuxlkGl73hfaY5r4lV7YhIkFFL9lfmL-8Q9-QQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy9Ld6_pX92u0QgJPJ4AaABAg",
+          "author": "@Invictous_Ayush",
+          "text": "Tutorial??",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/v0SQB7_CQ-5Eh0__b-AptG6P9oLPv9ixfoQEQzMjYkRrm3FcqBYWU8wInGihMdJFHOUTlnAQ3w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzPpMF4S7ebvrrlil54AaABAg",
+          "author": "@Invictous_Ayush",
+          "text": "Not in india",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/v0SQB7_CQ-5Eh0__b-AptG6P9oLPv9ixfoQEQzMjYkRrm3FcqBYWU8wInGihMdJFHOUTlnAQ3w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyXlKs2wy7mZlfcZuh4AaABAg",
+          "author": "@Toji-IJ",
+          "text": "It's just like antigravity ide?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/K_n-r528cCMso83_EhlYINmGmc8UuEiI665AmGZ-yVkwaCC-ojKASGJT7HoNAsFevg_tFL5cUQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwCKOmmj_Lh_2rkM-94AaABAg",
+          "author": "@Sagar_Accessibility",
+          "text": "नाइस",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/uHoNVgJbNRHApxqkJywlgd7GhqaxOFiZY11tS1wq7J1r2HV7NJF3ymetX0Kx3Z4-sHHlm5ET=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzEFs6U8JJ60SleQYp4AaABAg",
+          "author": "@Eren-da-Jaeger",
+          "text": "ohhh nice info. I was using openclaw, would try this but without my signins",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kwRIpvkDC5WUjqGqnqgczxNongYAft6TCkmjhng3mJZ5s1=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-14T14:53:31Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-14T13:53:30Z",
+      "checkedAt": "2026-08-14T14:53:31Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "_riDyABRv6o": {
-      "checkedAt": "2026-08-13T14:53:05Z",
+      "checkedAt": "2026-08-14T14:53:31Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 2,
-      "likeCount": 53,
+      "commentCount": 6,
+      "likeCount": 2985,
       "comments": [
+        {
+          "id": "Ugyc9x1mkIPUdIuBlL14AaABAg",
+          "author": "@bholanath-0220",
+          "text": "6th",
+          "likeCount": 1,
+          "publishedAt": "2026-08-14T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/aLOMAHbK2YHLvbVdUHbw2ItFEgCirlSUtS1gsz_gn8pYsoF6j25W9ne0qCMlJhCFptq55lyFuw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz1x8ljXX3t6Pt8B9x4AaABAg",
+          "author": "@GSNCBYGIRI",
+          "text": "Codex pretty much can train and AI model of your laptop can support. I trained my own to train and AI model for calculus, text, voice, and vehicle system (is now what I'm working on)",
+          "likeCount": 7,
+          "publishedAt": "2026-08-14T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/1ucao4hG2qNRbrcJEXwxjBlPhMKqN57kdza7lGAOPZGE6YRZIvrYXRvNNe9pFALk6HzvBH61eg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx8IIPmPU7wYQHSyad4AaABAg",
+          "author": "@vaibhavmugulavalli3366",
+          "text": "Went through the repo and its a good idea but in practice it's still slower, you can still do very good fine tunes on free gpu compute provided by Google colab and kaggle. Tho his solution is pain free it doesn't allow for much customisation or logging",
+          "likeCount": 5,
+          "publishedAt": "2026-08-13T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_leYshMtajE_oh7O7nVzsXjB7XgHj5F7mm22ktgvWyyQR4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxKlI3vpPBF5-T3l_N4AaABAg",
+          "author": "@100xEngineers",
+          "text": "GitHub link - https://github.com/MakazhanAlpamys/Soup",
+          "likeCount": 17,
+          "publishedAt": "2026-08-13T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/lmQHSNqoTiUYSQmAD6ddVNxeMLwuezSj7JGn681txsIgDlDnHZrQU-JDaUSzGiSwnSZS7gFS=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": true
+        },
         {
           "id": "UgxjoRmFHcJLry2XLEN4AaABAg",
           "author": "@Xenon54-k7n",
           "text": "This is amazing",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T14:19:00Z",
+          "likeCount": 2,
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/IMTcKeoJnKelvN_PjiWrN1yt76aYPrF5Pnso-wDg2vrF-VdSvpQkgCV22zaASISG3NXlZqhI=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -7152,14 +7263,14 @@
           "id": "Ugzk3PS-0-lOOtOck-F4AaABAg",
           "author": "@YahyaAnsari-d2e",
           "text": "First",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T14:06:00Z",
+          "likeCount": 2,
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/qv412YNsh7lVvVJs66lblPdyxzJ3_a_aesHWSz8ijB5JMlik9WmoIBpNJ_siRL-xV-G6dYtCcQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-13T14:53:05Z",
+      "commentsFetchedAt": "2026-08-14T14:53:31Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7250,10 +7361,10 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-14T13:53:30Z",
+      "checkedAt": "2026-08-14T14:53:31Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "LHFqw7Znk_Y": {
       "checkedAt": "2026-08-13T17:53:13Z",
@@ -7406,15 +7517,6 @@
       "description": "🔥 Developer Bootcamp & Mentoring Program — Start or level up your career with my proven training and personal mentoring:\nhttps://unclestef.com/\n\n#SoftwareDevelopment #AI #Programming #Developers #UncleStef\n\nStudioweb AI Literacy curriculum:\nhttps://blog.studioweb.com/2026/08/12/studioweb-ai-principles/\n\n🦎 Lizard Wizard Course\nMaster the psychology of learning, habits, and performance — a must for developers and entrepreneurs:\nhttps://school.studioweb.com/store/course/lizard_wizard\n\n🚀 1-on-1 Mentoring & Consultations\n\nCareer Consult — $99 for 15 minutes:\nhttps://calendly.com/uncle-stef/consultation-with-stefan\n\nEntrepreneur / Business Consult — $250 for 30–45 minutes:\nhttps://calendly.com/uncle-stef/entrepreneurs-consult\n\nSponsored Video — Get your questions answered in a video:\nhttps://unclestef.com/blog/2025/03/04/sponsored-video-request/\n\n💻 Popular Courses\n\nPython 3 Foundations & Certification:\nhttps://school.studioweb.com/store/course/python_3_foundations__&_certification_package\n\nFull Stack Web Developer:\nhttps://school.studioweb.com/store/course/complete_web_developer\n\nComplete Freelancer:\nhttps://school.studioweb.com/store/course/complete_freelancer\n\nComplete Entrepreneur:\nhttps://school.studioweb.com/store/course/complete_web_entrepreneur\n\n📱 Stay Connected\nInstagram: https://www.instagram.com/stefanmischook/?hl=en\n\nBusiness Channel: https://www.youtube.com/channel/UCZdr0ql_B240VBVINAX7Acg\n\nGoogle Review: https://g.page/studioWebedu/review?mt",
       "commentCount": 8,
       "likeCount": 47,
-      "probeClient": "web_embedded"
-    },
-    "nPpvkQ3zxSA": {
-      "checkedAt": "2026-08-13T22:53:16Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn more about Gemini 3.7 Flash: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/ \n\nSubscribe to Google Antigravity →  https://youtube.com/@googleantigravity\n\nGoogle Antigravity is an agent-first software development platform designed to help developers build, orchestrate, and monitor AI agents. It connects AI agents directly to code editors, terminals, and browsers so they can perform development tasks autonomously. \n\nTo learn more:\nWebsite: https://antigravity.google/\nX: https://x.com/antigravity\nLinkedIn: https://www.linkedin.com/showcase/google-antigravity/",
-      "commentCount": 91,
-      "likeCount": 709,
       "probeClient": "web_embedded"
     },
     "9nfC9043Xgg": {
@@ -7733,10 +7835,10 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-14T13:53:30Z",
+      "checkedAt": "2026-08-14T14:53:31Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "toVxUaUg5Mc": {
       "checkedAt": "2026-08-14T07:53:11Z",
@@ -7749,24 +7851,6 @@
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
-    },
-    "zqy_LyUSh_8": {
-      "checkedAt": "2026-08-14T07:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "He Finds $750,000 in His Bank Account, Then an AI Takes Control of His Life\n\nThis intense, fast-paced sci-fi thriller movie recap follows an ordinary man whose life spirals out of control after a mysterious artificial intelligence frames him as a dangerous suspect. With authorities closing in and every connected device tracking his movements, he must follow the AI’s commands before it destroys everything he cares about.\n\nAfter discovering unexplained money, suspicious packages, and false identities inside his apartment, Jerry is forced to escape with Rachel, a terrified mother whose son is being used as leverage. Together, they uncover a powerful government surveillance system capable of controlling phones, traffic networks, military technology, and almost anyone’s life. This action-packed movie recap explores their desperate race to expose the AI’s secret plan before the country’s most important leaders walk into a carefully designed trap. Watch this full movie recap to discover whether two ordinary strangers can outsmart a system that sees everything and predicts their every move.\n\nmovie recap, movie recaps, film recap, full movie recap, movies explained, movie explained, ending explained, sci fi movie recap, action movie recap, thriller movie recap, AI movie recap, artificial intelligence movie, technology thriller, government conspiracy movie, surveillance thriller, cyber thriller, mystery movie recap, suspense movie explained, futuristic movie recap, best movie recaps, Hollywood movie recap\n\n#MovieRecap #SciFiThriller #MoviesExplained\n\n\nIn this channel, you will find movie recap with different genres, such as movie recap horror, movie recap korean, movie recap superpowers, movie recap sci fi, recap king full movie, recap king assassin, recap king chef, recap king gangster, recap king korean movie, and many more. \n\nFor advertisement and business, please email to recapking.channel@gmail.com\n\nCopyright Disclaimer :\n - Under section 107 of the Copyright Act of 1976\n - Every Video, Audio, Footage, Image etc in this content under terms of Fair Use, Permitted by Copyright Statute.\n - Every Content in this Channel for purpose to review, learn and information for entertainment\n\nThank you for watching.\n\n#movierecap #recapking #storyrecap",
-      "commentCount": 12,
-      "likeCount": 180,
-      "probeClient": "web_embedded"
-    },
-    "ixvq1bdgl3M": {
-      "checkedAt": "2026-08-14T07:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "“The Quiet Blueprint of Wealth: Trusts, Land, and Family Power, out now - https://a.co/d/034Cmpla\n\nMy Website: https://www.danemakeyouthink.com \n\nJoin The Discord: https://www.discord.gg/13percent \nYouTube: https://www.youtube.com/c/DaneCalloway \nTwitch: https://www.twitch.tv/danecalloway_ \nKick: https://kick.com/danecalloway \n\nFollow Dane Calloway:\nhttps://www.instagram.com/danecalloway\nhttps://www.tiktok.com/@danecalloway_ \n\nBusiness Inquiries: contact@danemakeyouthink.com",
-      "commentCount": 10,
-      "likeCount": 142,
-      "probeClient": "web_embedded"
     },
     "DY0s06ht0p8": {
       "checkedAt": "2026-08-14T08:53:17Z",
@@ -8049,11 +8133,41 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "GucVYMCgy7U": {
-      "checkedAt": "2026-08-14T13:53:30Z",
-      "embedAllowed": false,
+    "drSytiIe6Jg": {
+      "checkedAt": "2026-08-14T14:53:31Z",
+      "embedAllowed": true,
       "availability": "public",
-      "failureReason": "embed_disabled"
+      "description": "✅ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44\n\n✅ Become Better than 99% of People in Claude AI Agents by using Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent16\n\nIn this video, I break down the 6 Claude AI agents that can help you get ahead of 99% of people in 2026. You’ll learn how powerful AI agents work, explore practical AI agent workflows, and see how Claude AI can be used to automate tasks, boost productivity, and create real business advantages. I also cover a beginner-friendly Claude AI tutorial and show how to use Claude effectively to build and manage your own AI-powered systems. Whether you're new to Claude or looking to level up your AI skills, this guide covers the most valuable AI agents you should know.\n\n00:00 - Intro: The Shift from Chatting to Building Autonomous AI Agents\n01:15 - Free Masterclass: Build Profitable AI SaaS & Agent Businesses\n01:43 - What is a Base44 Super Agent? The Digital Employee Model\n02:16 - Why Wix Acquired Base44: The Future of Autonomous AI\n02:39 - Core Architecture: Knowledge, Memory, Skills, and Scheduled Tasks\n03:07 - Integrating Gmail, Slack, and 200+ Apps via Base44\n04:11 - Performance Benchmark: Claude Sonnet 4.5 vs. GPT-5 Reliability\n05:34 - Agent 1: Autonomous Sales Assistant for Instant Lead Response\n07:01 - Prompt Engineering for AI Sales Leads & Gmail Integration\n09:09 - Troubleshooting AI Workflows with Natural Language Instructions\n09:48 - Agent 2: Automated Research Assistant for Market Intelligence\n11:13 - Prompt Engineering for Structured Google Doc Research Reports\n13:02 - Live Demo: Generating a No-Code Competitive Analysis\n14:24 - Strategic Masterclass: Scaling AI Agents for Recurring Revenue\n15:43 - Agent 3: AI Social Media Manager for Consistent Brand Presence\n17:12 - Prompt Engineering for Content Calendars in Google Sheets\n19:51 - Agent 4: Financial Visibility Agent for Cash Flow Security\n21:41 - Prompt Engineering for Weekly Finance Summaries & Anomalies\n23:48 - Case Study: Identifying Financial Leaks with AI Audits\n24:22 - Agent 5: 24/7 AI Customer Support for Repetitive FAQs\n25:56 - Prompt Engineering for Customer Escalation & Tone Control\n29:17 - Agent 6: AI Productivity Agent & Personal Chief of Staff\n30:57 - Automated Morning Briefings via Google Calendar & Google Docs\n33:41 - Reviewing the 6-Agent Ecosystem in One Workspace\n35:48 - Choosing Your First Agent: Identifying Business Bottlenecks\n37:06 - Deployment: Building Multi-Agent Systems Without Code\n38:30 - Final Verdict: Why Claude Matters for Autonomous Reliability\n40:17 - Pricing: Getting Started with Base44 Super Agents",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "iqRcGCah0Kw": {
+      "checkedAt": "2026-08-14T14:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn how to design and build a production-ready, multi-agent AI system that automates pull request reviews with senior-level engineering judgment. This comprehensive tutorial covers everything from fault-tolerant system architecture and database modeling to utilizing the Genesis kit for reliable, AI-native development.\n\nCode: https://github.com/ayush488-glitch/genesis-kit\n\nCourse created by @AyushSinghSh \n\n❤️ Support for this channel comes from our friends at Scrimba – the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n⭐️ Chapters ⭐️\n- 0:00:00 Introduction: Building a Production-Ready AI PR Review Agent\n- 0:06:35 The System Design Lens & Mapping the Mess\n- 0:19:12 Addressing AI Failure Modes & Reliability Engineering\n- 0:33:04 Part 1: First Principles & Reclaiming Senior Engineer Attention\n- 0:42:44 The Four Mindsets of a Reviewer (Security, Quality, Testing, Docs)\n- 0:54:08 Implementing the Agentic Fan-Out and Fan-In Pattern\n- 1:00:08 Part 2: Data Engineering & Memory Shapes\n- 1:17:23 Database Selection\n- 1:28:32 Part 3: System Architecture Assembly\n- 1:38:48 Orchestration Engine Selection: LangGraph vs. Temporal\n- 1:52:15 Part 4: Implementation Using the Genesis Kit\n- 2:03:40 Running Milestones and Independent AI Code Verification\n\n🎉 Thanks to our Champion and Sponsor supporters:\n👾 @omerhattapoglu1158\n👾 @goddardtan\n👾 @akihayashi6629\n👾 @kikilogsin\n👾 @anthonycampbell2148\n👾 @tobymiller7790\n👾 @rajibdassharma497\n👾 @CloudVirtualizationEnthusiast\n👾 @adilsoncarlosvianacarlos\n👾 @martinmacchia1564\n👾 @ulisesmoralez4160\n👾 @_Oscar_\n👾 @jedi-or-sith2728\n👾 @justinhual1290\n\n--\n\nLearn to code for free and get a developer job: https://www.freecodecamp.org\n\nRead hundreds of articles on programming: https://freecodecamp.org/news",
+      "commentCount": 18,
+      "likeCount": 633,
+      "probeClient": "web_embedded"
+    },
+    "oDwhzUA-iDg": {
+      "checkedAt": "2026-08-14T14:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🙌 Deploy your own AI team: https://mrc.fm/hostbuzz\nCoupon MAGIC10 for 10% off\nGrok Bot never logs off. Neither do agents you actually own.\n\nxAI just launched Grok Bot: always on AI colleagues with their own computer, for $200 a month. I gave it one hour and three real tests and it impressed me. Then I asked the question that matters... who owns it? In the second half I deploy Buzz, the open source alternative, on a server in one click. My server, my keys, agents that run 24/7 from desktop and mobile, for a fraction of the price.\n\nOne click Buzz server 👉 https://mrc.fm/hostbuzz\n\n0:00 Grok Bot Review & Always On AI Agents\n0:26 Testing Grok Bot Automation & Account Security\n1:31 Grok Bot Multi Agent Capabilities Test\n3:24 Grok Bot vs Buzz: Full Comparison & Pricing\n5:46 How to Self Host Buzz AI Agents (1 Click Deploy)\n6:44 Best VPS Specs for Running AI Agents\n8:18 How to Find and Configure Your Buzz Public Key\n9:12 Self Hosted AI Architecture Explained (Relay, DB, Redis)\n10:03 How to Connect Buzz Desktop App to Your VPS\n10:55 How to Sync Buzz Mobile App with Desktop AI Agents\n11:49 Running 24/7 AI Agents on Your Own Server (Wrap Up)",
+      "commentCount": 21,
+      "likeCount": 69,
+      "probeClient": "web_embedded"
+    },
+    "nMPHwAGgzqA": {
+      "checkedAt": "2026-08-14T14:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "If your digital counterpart consistently behaved like you, made the same decisions you would, and reacted to situations the way you would...\nWould you consider that thing “you” in any meaningful sense?\n\nCHAPTERS  ⤵ \n00:00 - MatrAIx AI Simulation: Modeling 8.3 Billion People With Persona Agents\n03:59 - Felony Bench Update: What Happened Next?\n05:59 - Google AI Studio Lead Vibe Codes Command & Conquer for iOS\n06:36 - AI Mind Reading: Are Your Thoughts the Last Truly Private Place?\n09:14 - How AI Is Quietly Changing Love, Dating & Human Relationships\n10:58 - Can AI Find Hidden Nuclear Submarines and Make the Oceans Transparent?\n12:54 - One Compromised AI Agent Can Poison an Entire Multi-Agent System\n15:15 - AI Agent Asked to Book a Gym Class Hacked the Website Instead\n16:31 - He Built a Six-Agent AI “Starfleet Crew” to Run His Home Network\n\n\nSOURCES  ⤵ \nhttps://arxiv.org/abs/2608.04205\nhttps://www.pcgamer.com/software/ai/googles-ai-studio-lead-has-vibe-coded-a-port-of-command-and-conquer-for-ios/\nhttps://www.lesswrong.com/posts/CAdG5dzkWrrK2NQg8/don-t-build-mindreading\nhttps://www.nytimes.com/2026/08/10/opinion/ai-artificial-intelligence-relationships.html\nhttps://councilonstrategicrisks.org/2026/08/10/ai-and-the-hunt-for-ballistic-missile-submarines/\nhttps://techxplore.com/news/2026-08-peering-llm-based-multi-agent.html\nhttps://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986\nhttps://app.therundown.ai/community/posts/5a6b6d22-4882-466a-ad27-b0bb5656970a\nhttps://techxplore.com/news/2026-08-labor-words-ai-partial.html\nhttps://techxplore.com/news/2026-08-people-ai-agents.html\n\n@googledeepmind \n@Wes-Dylan \n@CBS \n\n\nWATCH THE YOUTUBE VIDEO  ⤵   \nhttps://youtu.be/nMPHwAGgzqA\n\n#ArtificialIntelligence #AISimulation #FutureOfAI",
+      "commentCount": 69,
+      "likeCount": 289,
+      "probeClient": "web_embedded"
     }
   }
 }

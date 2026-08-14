@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T13:53:30Z",
+  "updatedAt": "2026-08-14T14:53:31Z",
   "items": [
+    {
+      "id": "drSytiIe6Jg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jake One Page",
+      "publishedAt": "2026-08-14T14:12:31Z",
+      "firstSeenAt": "2026-08-14T14:53:31Z"
+    },
+    {
+      "id": "iqRcGCah0Kw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "freeCodeCamp.org",
+      "publishedAt": "2026-08-14T10:53:31Z",
+      "firstSeenAt": "2026-08-14T14:53:31Z"
+    },
+    {
+      "id": "oDwhzUA-iDg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Creator Magic",
+      "publishedAt": "2026-08-14T09:53:31Z",
+      "firstSeenAt": "2026-08-14T14:53:31Z"
+    },
+    {
+      "id": "nMPHwAGgzqA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dylan Curious",
+      "publishedAt": "2026-08-13T17:53:31Z",
+      "firstSeenAt": "2026-08-14T14:53:31Z"
+    },
     {
       "id": "nOkA7HJM-r0",
       "type": "short",
@@ -13037,15 +13069,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T13:53:33Z",
-      "new": 8,
-      "long": 5,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
       "runAt": "2026-07-31T14:53:40Z",
       "new": 5,
       "long": 4,
@@ -14484,6 +14507,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-14T14:53:31Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
