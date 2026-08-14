@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T03:53:21Z",
+  "updatedAt": "2026-08-14T04:53:22Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -3413,18 +3413,6 @@
       "description": "How I save $790+ a month with Self Hosting:\n👉 https://learnwithhasan.com/courses/self-hosting/\n\nSame AI model, same prompt, one reply is generic AI slop, the other sounds exactly like me, because it is connected to my brain. That brain is just a private GitHub repo of markdown files that holds who you are, how you write and what you believe, and it runs two ways: locally with Claude Code, and online on your own server over MCP so any AI can read it. Free, open source, self hosted, here is how to build yours.\n\nFull Step By Step Guide:\n👉 http://learnwithhasan.com/guide/ai-second-brain/\n\nStar the GitHub Repo: \n👉 https://github.com/hassancs91/brainoutside\n\n\n🔗 MY KEY LINKS\n👉 Website - learnwithhasan.com\n👉 My newsletter: https://learnwithhasan.com/newsletter/\n👉 Follow on X - https://x.com/hasan_ab_hasan\n🧰 MY FAVOURITE TOOLS:👉 https://learnwithhasan.com/tools-i-use/\n\n\nCHAPTERS\n0:00 Same AI, same prompt, one big difference\n1:42 My brain told the AI what not to make up\n2:13 What I built: an AI brain called BrainOutside\n3:17 How it works: markdown files in a git repo, 2 heads\n4:38 Build the local brain (Claude Code)\n6:18 The second head: taking your brain online\n6:55 Self-host it: VPS, Coolify, and the setup wizard\n9:37 Local and online: one repo, two doors\n10:16 Dashboard tour: rings, graph, queue, chat\n11:02 Claude reads my brain over MCP\n11:44 What I use it for every day\n12:11 Books, courses, and building with AI\n12:45 The rule: read always, feed always\n13:15 The ladder: voice, avatar, humanoid (simulated)\n14:41 Free and open source: go build yours\n\n\n#ClaudeAI #SecondBrain #OpenSource",
       "commentCount": 2,
       "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
-    "ag3J9c4nrTo": {
-      "checkedAt": "2026-08-08T16:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Claude Routines: Automate Anything with Claude Code in Plain English\n\nClaude Routines run scheduled automations in Anthropic's cloud, no nodes, no n8n, no Zapier. In this video I build a daily digest routine that pulls Vercel analytics, Supabase signups, and Stripe revenue for my app TiltIt and drops a summary in my Gmail every morning at 9 AM. Then I go one step further and build the whole routine from the terminal using Claude Code and the /schedule skill.\n\nComment \"ROUTINE\" and I'll DM you the full checklist with my exact routine prompts, connector setup, and scheduling steps.",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-08T16:53:10Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "JDiAQp63WB4": {
@@ -7291,12 +7279,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "CTkKoz-TieY": {
-      "checkedAt": "2026-08-14T03:53:21Z",
-      "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
-    },
     "egHFR4gY_R8": {
       "checkedAt": "2026-08-13T07:53:21Z",
       "embedAllowed": true,
@@ -7307,18 +7289,6 @@
       "commentsFetchedAt": "2026-08-13T07:53:21Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
-    },
-    "toVxUaUg5Mc": {
-      "checkedAt": "2026-08-13T07:53:21Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "qAjplmWqs0M": {
-      "checkedAt": "2026-08-13T07:53:21Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
     },
     "c65S-LZLbv0": {
       "checkedAt": "2026-08-13T10:53:44Z",
@@ -7524,7 +7494,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-14T03:53:21Z",
+      "checkedAt": "2026-08-14T04:53:22Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7703,7 +7673,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-14T03:53:21Z",
+      "checkedAt": "2026-08-14T04:53:22Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7782,15 +7752,6 @@
       "likeCount": 54,
       "probeClient": "web_embedded"
     },
-    "RmGPmSzcFp4": {
-      "checkedAt": "2026-08-13T18:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🎟️ Use Discount Code for extra saving: \"MEHYT\"\nPabbly Connect Website: https://www.pabbly.com/out/pabbly-connect\nPricing Details: https://www.pabbly.com/out/connect-pricing\n\nWorkflow Link: https://connect.pabbly.com/v2/app/workflow/share/XBRTYVQDBWYFTwFrBGEGIQAUAAQJU1NuBx4CEAEOAHhTHQRvA0IPZQ5CBCYDSANiBUxTOVUJBjoJHQMHAVcJelROARMEBwd9Ux5ULwRJCjlcAlN7VDU#\n____________________________________________________________________\nWhat if you could connect multiple apps and automate your entire sales process from one workflow? In this tutorial, I'll show you how I connected 4 different apps to create an automated sales system using Pabbly Connect.\n\nYou'll see how leads can move automatically between your lead source, CRM, communication tools, and other business apps. From capturing new leads and updating your CRM to sending follow-up messages and notifying your sales team, this workflow reduces manual work and keeps your sales process running automatically.\n\nLearn how to connect multiple apps, pass data between them, trigger actions automatically, and build a complete sales automation workflow without writing code.\n\nThis automation is perfect for sales teams, marketers, agencies, startups, real estate businesses, ecommerce brands, and businesses looking to streamline their sales process.\n\nQueries:\nautomate entire sales system\nconnect 4 apps in one workflow\nsales automation workflow\nmulti app sales automation\nPabbly Connect sales automation\n\nHashtags:\n#SalesAutomation #PabblyConnect #WorkflowAutomation #BusinessAutomation #LeadManagement #MarketingAutomation #CRM #SalesProcess #NoCode #Automation\n\nUse Case:-\n\nA business can connect its lead source, CRM, Google Sheets, and WhatsApp in one workflow. When a new lead arrives, the system automatically saves the lead, updates the CRM, notifies the sales team, and sends the prospect an instant WhatsApp message. This creates an end-to-end sales process without manual data entry.\n____________________________________________________________________\n\nPabbly Connect makes it easy to integrate and automate any software, marketing, sales, payments, or business processes quickly, without the need for any programming knowledge.\n\nBenefits of Pabbly Connect:\n\n1. Automation: Save time, money, and resources by automating tasks.\n\n2. Integration: Connect various web services to create efficient workflows.\n\n3. Security: Enjoy industry-standard security for your data.\n\n4. Scalability: Easily add new applications and services to your workflow.\n\n5. Cost-effective: Choose from plans suitable for different business sizes, with no charges for internal tasks.\n\nUnlike other integration tools, Pabbly Connect offers absolutely no charges for internal tasks such as mathematical operations, spreadsheet functions, time zone conversions and more. Additionally, you can create unlimited automation workflows for your business without any restrictions.\n\n-----------------------------------------------------------------------------------------------------\n\nAdditional Resources:\n\n📢 All Integrations: https://www.pabbly.com/out/all-integrations\n\n ❓Talk to our team at: support@pabbly.com\n\n ❓Ask your queries in Pabbly Forum: https://forum.pabbly.com/\n\n 📘Join the Pabbly Community & Grow Your Business 🚀 : https://pabbly.com/community\n\n\nDisclaimer: All Names, Mobile Numbers, and Emails used in the video are just for demo purposes. This is an educational video showing how to automate and integrate multiple platforms.",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "0v1MKQDr7d8": {
       "checkedAt": "2026-08-13T19:53:15Z",
       "embedAllowed": true,
@@ -7798,24 +7759,6 @@
       "description": "In this video, Harkirat takes you through his thoughts on how AI is changing the software engineering career. From why software development feels easier than ever to what companies may expect from engineers as AI becomes more capable, he breaks down the changing landscape of the industry. He also talks about AI agents, learning with AI, the future of technical interviews, and how engineers can stay ahead. Finally, he shares a project that reflects how he believes engineers will build software in the AI era.\n\n\n00:00 – Software Engineering Has Become Too Easy\n01:06 – No One Is Born a Coder\n06:14 – If Not Coding, Then What?\n07:26 – The Most Lucrative AI Engineering Niches\n09:26 – The New Mindset: Replace Yourself\n11:14 – AI Has Made Learning Almost Free\n13:49 – How Engineers Will Build Software With AI\n18:30 – LeetCode Is Dying\n\n\n🔗 𝗟𝗶𝗻𝗸𝘀:\nCohort → https://100xdevs.com\nTwitter → https://twitter.com/kirat_tw\nLinkedin → https://linkedin.com/in/kirat-li\nInstagram → https://www.instagram.com/kirat_ins\nDiscord → https://discord.com/invite/WAaXacK9bh\nTelegram → https://t.me/kirat_internal_group\nWhatsApp → https://whatsapp.com/channel/0029Va98SYeHrDZhfxCT6s0a",
       "commentCount": 48,
       "likeCount": 692,
-      "probeClient": "web_embedded"
-    },
-    "5FcHP22u0zs": {
-      "checkedAt": "2026-08-13T19:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "You can't get 10x with AI coding. Not today. Dex Horthy (Human Layer) makes the case for 2-3x if you refuse to ship slop, and why a perfect spec still produces garbage if you give the model permission to skip quality. That permission is how you burn a codebase into ash.\nWe get into context engineering, where AI coding actually fails, why PR review is the bottleneck, how to use specs without worshipping them, cheap models vs Opus, compaction and sub-agents, and what to tell a 20-year engineer who is not living on Twitter.\nDex is the founder of Human Layer. https://humanlayer.dev\n\n\n00:00:00 You can't get 10x (not today)\n00:07:41 Is software engineering disappearing?\n00:13:50 Where AI coding actually fails\n00:19:21 Review is the bottleneck\n00:24:34 The new software factory\n00:29:12 Specs that give leverage\n00:43:02 Stop chasing engineering metrics\n00:48:13 Cheap models and shipping slop\n01:01:15 Compaction, context windows, sub-agents\n01:14:01 Vibe coding vs production loops\n01:21:24 What juniors still need to learn\n01:28:02 What Human Layer is building\n01:36:50 Advice for working engineers",
-      "commentCount": 6,
-      "likeCount": 13,
-      "probeClient": "web_embedded"
-    },
-    "POgGZ__yFRA": {
-      "checkedAt": "2026-08-13T19:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Cortex is an Engineering Operations (EngOps) platform designed as mission control for modern software organizations. It helps engineering teams maintain reliability, security, and velocity as AI multiplies output and the number of services, tools, and agents grows.\n\nCortex aggregates data from existing tools into a unified service catalog and context graph. Teams can define ownership, enforce standards through Scorecards, automate workflows and golden paths, measure production readiness, and track AI impact. The platform supports self-service actions, reduces friction for developers, and gives leaders clear visibility into engineering health and maturity.\n\nKey outcomes reported by users include significantly lower MTTR, faster service creation, and improved cycle times. Cortex is used by engineering leaders, platform teams, SREs, and developers at companies ranging from startups to Fortune 500 organizations.\n\nCortex is ideal for engineering organizations that want to scale AI-assisted development without losing control over reliability, ownership, and operational excellence.\n\nHighlights:\n• Unified service catalog and ownership model\n• Scorecards and standards for production readiness and AI maturity\n• Automated workflows and self-service golden paths\n• Engineering Intelligence and AI Impact insights\n• Strong focus on reducing MTTR and developer friction\n\nPotential Considerations:\n• Requires integration with existing tools to deliver full value\n• Best results come from consistent adoption of ownership and Scorecard practices\n• Platform continues to expand AI-native capabilities\n\nOverall Verdict: 4.7/5 stars. \nCortex provides a practical and increasingly AI-aware layer of operational control for engineering teams. As organizations become “AI software factories,” it offers a clear way to keep reliability, standards, and visibility in sync with accelerating delivery.\n\nEarn 1 QUA reward by reviewing on Quasa.io too!\nGet started: https://quasa.io/projects/cortex\n#Quasa #QUA #cortex  #QuasaRewards",
-      "commentCount": 1,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "t6kDH-Z1R_E": {
@@ -8010,15 +7953,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "zsU_k2Pk1w8": {
-      "checkedAt": "2026-08-14T00:53:16Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Apply for 1-1 Mentorship: https://yusufaspire.com/\n\nI am breaking down exactly how to start a halal AI agency from £0 in 2026. No office, no employees, no technical background required. Just a phone, a laptop, and the willingness to have conversations with business owners.\n\nI built a six figure agency from nothing and in this video I give you the exact roadmap I would follow if I was starting again today.",
-      "commentCount": 2,
-      "likeCount": 6,
-      "probeClient": "web_embedded"
-    },
     "9McAge0lGwc": {
       "checkedAt": "2026-08-14T01:53:20Z",
       "embedAllowed": true,
@@ -8164,6 +8098,54 @@
       "description": "Connor Heggie spent his early career on a fifteen-person self-driving startup run like a research lab, then moved to Scale AI's mapping team, before becoming the co-founder and CTO at Unify. Unify builds agents for go-to-market teams, and for the last two years, one of AI's big mainstream narratives has been automating away the sales rep entirely. Connor and his team built the opposite: an agent that gives every sales rep \"an engineer in their back pocket.\" He walks through how Unify's harness evolved from million-agent batch jobs to a chat product, and unpacks the engineering that makes it cost-effective to run at scale.\n\nWe also discuss:\n• How Unify cut 90-95% of costs two weeks before launch\n• The 15-requests-per-second ceiling inside OpenAI's prompt cache\n• Why your LLM judge must be a different model family\n• The Speed Audit: why one at a time beats a table of 1,000\n• Why Unify's subagents are just a function call\n• What working on self-driving taught Connor about running evals\n\nTimestamps:\n00:00 Introduction\n01:30 \"Go-to-market is a search problem\"\n06:10 The old workflow: drag-and-drop nodes over a million-row table\n09:40 Why the harness is similar to a coding agent's\n10:50 Running durable agents in the cloud without a full VM\n13:15 Giving models pandas-like superpowers over a live table\n15:50 Why Unify's subagents are just a function call\n18:25 The 15-requests-per-second limit hiding inside OpenAI's cache\n24:20 Optimizing for prompt caching hit rates\n28:20 Fork versus child subagents\n32:35 The Speed Audit: why one at a time beats a table of 1,000\n37:50 Locking memory to keys instead of letting the agent freestyle\n44:15 Why AI isn't taking over sales\n49:00 What working on self-driving taught Connor about running evals\n52:46 Why your LLM judge must be a different model family\n54:45 Ditching full VMs for Monty, a Python REPL that suspends\n58:55 Semantic merge sort: why Connor is obsessed with RLMs\n59:53 How Unify cut 90-95% of costs two weeks before launch\n1:01:15 The case for \"semantic linters\" over skill files\n1:04:55 Why Unify runs mostly on OpenAI, their first investor\n1:06:12 Why 10x cheaper tokens still lose on tool efficiency\n1:07:24 Why open-source models don't make economic sense (yet)\n\nReferenced:\n• Anthropic: https://www.anthropic.com/\n• ChatGPT: https://chatgpt.com/\n• Claude: https://claude.ai/\n• Claude Fable 5: https://www.anthropic.com/claude/fable\n• Claude Sonnet 5: https://www.anthropic.com/news/claude-sonnet-5\n• Context Hub: https://www.langchain.com/blog/introducing-context-hub\n• Deep Agents: https://www.langchain.com/deep-agents\n• GLM-5.2: https://huggingface.co/zai-org/GLM-5.2\n• GPT-5.4: https://openai.com/index/introducing-gpt-5-4/\n• Helm.ai: http://helm.ai/\n• LangSmith: https://smith.langchain.com/\n• OpenAI: https://openai.com/\n• QuickJS: https://bellard.org/quickjs/\n• Recursive Language Models (RLM): https://arxiv.org/abs/2512.24601\n• Salesforce: https://www.salesforce.com/\n• Scale AI: https://scale.com/\n• Scaling Managed Agents: https://www.anthropic.com/engineering/managed-agents\n• Unify: https://www.unifygtm.com/\n\nWhere to find Connor:\n• Twitter/X: https://x.com/HeggieConnor\n• LinkedIn: https://www.linkedin.com/in/connor-heggie/\n\nWhere to find Harrison:\n• Twitter/X: https://x.com/hwchase17\n• LinkedIn: https://www.linkedin.com/in/harrison-chase-961287118/\n\nWhere to find LangChain:\n• Twitter/X: https://x.com/LangChain\n• LinkedIn: https://www.linkedin.com/company/langchain\n\nSend feedback or questions to maxagency@langchain.dev",
       "commentCount": 2,
       "likeCount": 46,
+      "probeClient": "web_embedded"
+    },
+    "Wni5EePIj7Q": {
+      "checkedAt": "2026-08-14T04:53:22Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Meet Sai. Your autonomous computer — an AI that gets its own machine and does the work end-to-end.\n\nI gave it one prompt and went to grab a coffee. Ten minutes later it was done.\n\n20 SaaS founders in my city. In a sheet — name, title, company, email, what they actually sell. And a cold email in my Gmail for every single one. Not templates. Look at this one — it opens with the pricing page they shipped last week. That's the part that normally kills my whole morning.\n\nFour hours of prospecting. All I did was approve it. And it saved the steps, so now it runs every week.\n\nGive Sai a task in plain language. It works on a private remote desktop and checks with you before anything risky goes out.\n\nComment \"SAI\" and I'll DM you the invite code and the exact prompt",
+      "commentCount": 0,
+      "likeCount": 3,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-14T04:53:22Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "tx6ktPCeDmU": {
+      "checkedAt": "2026-08-14T04:53:22Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Safety & responsible use\n\nGenerative AI can feel remarkably capable, but using it responsibly means understanding a few limits. First, bias. These systems learn from huge amounts of human-made material, and that material reflects human choices. So the output can quietly favor some groups, views, or ways of speaking over others. Next, privacy. Many tools can absorb whatever you type, so be careful. Avoid sharing personal, confidential, or identifying details you wouldn't want stored or reused elsewhere. There's also misuse. The same tools that help you write or brainstorm can be turned toward harm, like creating convincing false information, impersonating real people, or producing manipulative content. And finally, the big one: verify. Generative AI predicts likely words. It doesn't actually check facts, so it can state wrong things with total confidence. For anything important, confirm it against trusted sources, and keep a human in the loop for any decision that really matters. Think of these systems as capable assistants, not authorities. When you understand where they fall short, you can enjoy their benefits while protecting yourself and the people around you from real harm.\n\nPart of the Gen AI Literacy series · presented by Rohan.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "J7lkobsfVJA": {
+      "checkedAt": "2026-08-14T04:53:22Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What Gen AI can do\n\nSo what is generative AI actually good at? Start with transformation: give it messy notes and it returns a clean summary; give it a paragraph and it can translate, rewrite, or pull out just the facts you need. Next, reasoning — for harder problems it can work step by step, thinking through a chain rather than blurting a single answer. It can also use tools: connect it to a calculator, a database, or the web, and it doesn't just talk about a task — it takes action to complete it. The big idea tying these together: it's one general-purpose tool that adapts to many jobs, instead of a separate narrow program for each. A useful mental model: it's an engine for transforming language and ideas — not a search engine that fetches a stored page.\n\nPart of the Gen AI Literacy series · presented by Rohan.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "-1trCiNJutk": {
+      "checkedAt": "2026-08-14T04:53:22Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Want to master ChatGPT, Claude 3.5, and Google Gemini without spending weeks on lengthy courses? In just 4 minutes, we break down the core takeaways from top-rated Udemy Generative AI masterclasses so you can start 10x-ing your productivity today.\n\n🎓 Check out the original Udemy Course: [\n\ntrk.udemy.com/aNDYOQ\n\n(Affiliate Link)\n\n===============================\n⚡ TIMESTAMPS\n===============================\n0:00 - Why Generative AI is Mandatory in 2026\n0:42 - ChatGPT vs. Claude vs. Gemini: Which One Wins?\n1:35 - Master Prompt Engineering in 60 Seconds\n2:20 - Top AI Automation Tools for Business & Work\n3:15 - How to Monetize AI Skills (Passive Income & Freelancing)\n3:50 - The 3-Step AI Strategy You Need Right Now\n\n===============================\n💡 WHAT YOU’LL LEARN IN THIS 4-MINUTE SUMMARY\n===============================\nIn this condensed breakdown of \"The Complete AI Guide,\" you’ll get actionable strategies for:\n\n• Prompt Engineering Frameworks: How to write prompts that produce 3x better results in half the time.\n• Model Comparisons: When to use ChatGPT (OpenAI), Claude (Anthropic), or Google Gemini for maximum efficiency.\n• Workflow Automation: Streamline daily tasks, research, coding, content creation, and email management.\n• AI Monetization: Real-world methods to scale freelance output, launch digital products, and automate client outreach.\n\n===============================\n🔗 RECOMMENDED AI TOOLS & RESOURCES\n===============================\n🔹 Try ChatGPT Plus: https://chat.openai.com\n🔹 Try Claude 3.5 Sonnet: https://claude.ai\n🔹 Try Google Gemini Advanced: https://gemini.google.com\n🔹 Best AI Automation Tool (Zapier/Make)\n\n===============================\n💬 JOIN THE COMMUNITY\n===============================\nWhich AI tool are you using the most right now—ChatGPT, Claude, or Gemini? Drop a comment below! \n\n👍 Like this video if it saved you hours of watch time, and SUBSCRIBE for 4-minute breakdowns of the world’s best courses!\n\n#ChatGPT #GenerativeAI #ClaudeAI #GeminiAI #PromptEngineering #Udemy #ArtificialIntelligence #Productivity",
+      "commentCount": 1,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "eehHWbytTFA": {
+      "checkedAt": "2026-08-14T04:53:22Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, discover how AI video generation is creating new money-making opportunities for freelancers, creators, agencies, and brands. Learn how generative AI, AI video tools, UGC videos, and faceless YouTube channels are changing the content creation industry.\n\nGet 60 days of unlimited Seedance 2.5 generations on Topview AI and start creating your own AI videos!\n\nExplore Topview AI: https://www.topview.ai/?via=nishant-chahar\n\nWe break down how to create high-quality AI videos using filmmaking principles like shot grammar, reference locking, storyboarding, prompt-to-shot translation, repair, and finishing. You’ll also see a step-by-step AI video ad workflow using Topview Canvas to create cinematic product videos with consistent visuals.\n\nLearn how to use AI video generation to create professional ads, build a portfolio, and potentially earn money as an AI video creator. From AI filmmaking and cinematic prompts to storyboarding and final editing, this video shows how to turn AI tools into a practical content creation workflow.\n\n\n\n#ai #aivideo #generativeai #aivideogeneration #aitools #aifilmmaking #contentcreation #aivideotools  #facelessyoutube  #aitools2026 \n\nTimestamps:\n\n00:00 - Intro\n1:46 - Who Is Making Money With AI Videos?\n5:26 - Skill You Need to Learn Before Generating AI Videos\n8:20 - How to Generate AI Videos for Brands (Full Tutorial)\n22:18 - Conclusion\n\n🔴 Check out some other really cool videos too:\n- https://youtube.com/watch?v=MD_awvlTZxA\n- https://www.youtube.com/watch?v=GkkzrLqGT5s\n- https://www.youtube.com/watch?v=eEAEB8qM7Ds\n- https://www.youtube.com/watch?v=P5G6IcG4Uqo\n- https://www.youtube.com/watch?v=z6VhdFdyY1o\n\n🔴 Subscribe to https://www.youtube.com/channel/UClYcYuuwLqTPmH74-xRxZhQ/ https://www.youtube.com/channel/UCmG04ueQlOQwjDtXaemLxvQ/ https://www.youtube.com/channel/UCHPtt-X3mg-d8TiLUHmirPA\n\n❌ Don't Click this link! https://bit.ly/381DYq6\n\n🎯 Connect with me here:  \n‒ Instagram: https://www.instagram.com/nishantchahar.11/\n-- X, Formerly Twitter: https://x.com/nishantchahar11\n‒ LinkedIn: https://in.linkedin.com/in/chaharnishant11\n‒ Telegram Channel:  https://t.me/chahar_nishant\n\n-----------------------------------------------------------------\n🔥 Placement Diaries: http://bit.ly/3KxFF2G\n-----------------------------------------------------------------\n\n✅ Products I use: 💻📷\nGreen Soul Vision Gaming Chair: https://amzn.to/3g0yT5K\nInsta360 Go 2: https://amzn.to/3xOXC39\nBlue Ice Mic: https://amzn.to/3m2a8Kn\nSSD: https://amzn.to/2SyDyDA\nMacBook: https://amzn.to/3A361Cp\nTripod: https://amzn.to/3qYPV7m\nOld Chair: https://amzn.to/3r5cebo\nSmartphone: https://amzn.to/30Kv0tP\nOld Laptop: https://amzn.to/3j0hP0a\nRing Light: https://amzn.to/3givuP9",
+      "commentCount": 5,
+      "likeCount": 79,
       "probeClient": "web_embedded"
     }
   }

@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T03:53:21Z",
+  "updatedAt": "2026-08-14T04:53:22Z",
   "items": [
+    {
+      "id": "Wni5EePIj7Q",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-14T04:05:43Z",
+      "firstSeenAt": "2026-08-14T04:53:22Z"
+    },
+    {
+      "id": "tx6ktPCeDmU",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Edukator(dot)AI",
+      "publishedAt": "2026-08-14T00:53:22Z",
+      "firstSeenAt": "2026-08-14T04:53:22Z"
+    },
+    {
+      "id": "J7lkobsfVJA",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Edukator(dot)AI",
+      "publishedAt": "2026-08-13T22:53:22Z",
+      "firstSeenAt": "2026-08-14T04:53:22Z"
+    },
+    {
+      "id": "-1trCiNJutk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GMP GUIDE | Your Career Guide ",
+      "publishedAt": "2026-08-13T21:53:22Z",
+      "firstSeenAt": "2026-08-14T04:53:22Z"
+    },
     {
       "id": "T76AnLgAxS4",
       "type": "long",
@@ -14147,6 +14179,15 @@
       "channelsChecked": 33,
       "warnings": 21,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-14T04:53:22Z",
+      "new": 5,
+      "long": 2,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 28,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
