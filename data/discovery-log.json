@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T02:53:20Z",
+  "updatedAt": "2026-08-14T03:53:21Z",
   "items": [
+    {
+      "id": "T76AnLgAxS4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mark Savant",
+      "publishedAt": "2026-08-13T22:53:21Z",
+      "firstSeenAt": "2026-08-14T03:53:21Z"
+    },
+    {
+      "id": "PvGr7tm0Hes",
+      "type": "long",
+      "source": "secondary",
+      "channel": "PCWorld and Level1Techs",
+      "publishedAt": "2026-08-13T18:53:21Z",
+      "firstSeenAt": "2026-08-14T03:53:21Z"
+    },
+    {
+      "id": "6898VdRtKDE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "LangChain",
+      "publishedAt": "2026-08-13T14:53:21Z",
+      "firstSeenAt": "2026-08-14T03:53:21Z"
+    },
     {
       "id": "T0fDgDHa46A",
       "type": "short",
@@ -12685,15 +12709,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T03:53:16Z",
-      "new": 2,
-      "long": 2,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 14,
-      "secondaryQuery": "Automation"
-    },
-    {
       "runAt": "2026-07-31T04:53:24Z",
       "new": 6,
       "long": 4,
@@ -14123,6 +14138,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-14T03:53:21Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 21,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
