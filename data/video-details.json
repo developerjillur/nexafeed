@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T12:53:29Z",
+  "updatedAt": "2026-08-14T13:53:30Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -2762,12 +2762,12 @@
       "probeClient": "web_embedded"
     },
     "8D8ewFBJfFM": {
-      "checkedAt": "2026-08-07T13:53:27Z",
+      "checkedAt": "2026-08-14T13:53:30Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Matt Pocock's Claude Code skills passed 13M downloads, so I studied all 51. As an ex-Amazon engineer, here's what grill-me, to-spec and to-tickets really change about how AI builds your app.\n\nKey takeaways:\n\n- The 5 rules behind grill-me, and why they beat plan mode\n- to-spec keeps code OUT of the spec; to-tickets slices by feature, not layer\n- Code review runs 12 refactoring terms from Martin Fowler, fresh context\n- Deep modules and the deletion test cut token waste and dead code\n- My verdict: on frontier models, modular skills beat Superpowers\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\nTimestamps:\n0:00 Intro\n1:22 Why Matt's Skills\n4:12 /grill-me Rules\n7:06 /to-spec\n8:28 /to-tickets\n9:41 /implement & /tdd\n10:57 /code-review\n13:16 /writing-for-agents\n15:10 Deep Modules\n18:50 /improve-codebase-architecture\n20:46 My Verdict\n23:28 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
-      "commentCount": 0,
-      "likeCount": 14,
+      "commentCount": 80,
+      "likeCount": 1339,
       "probeClient": "web_embedded"
     },
     "PDViU_7WSj8": {
@@ -6028,99 +6028,6 @@
       "probeClient": "web_embedded",
       "availability": "public"
     },
-    "bxgW0fwJL6c": {
-      "checkedAt": "2026-08-14T09:53:22Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What if you could give Claude specialized skills for almost every department in your company?\n\nThis video covers 5 Claude Skills packs worth checking out:\n\nMarketing — 45 skills covering areas like ad creatives and copywriting.\n\nSocial Media — 17 skills for scripts, content creation, and thumbnail improvement.\n\nDesign — including UI/UX Pro and Taste, designed to help create more professional-looking AI-generated designs.\n\nFinance — 8 skills covering financial statements, budgeting, and variance analysis.\n\nLegal — 9 specialized skills for tasks like contract review, legal documents, and legal briefs.\n\nBut there's an important step most people miss.\n\nDon't simply download the skills and leave them unchanged.\n\nImport them into Claude Code and customize them around your company's workflow, processes, brand, and specific needs.\n\nThat's where generic AI skills can become much more useful — when they're adapted to how your business actually operates.\n\n The download links + the customization guide: https://app.notion.com/p/84-FREE-Claude-Skills-3afee02da9108014acefec4b179fe2f4?source=copy_link \n\nWhy Subscribe to BPro?\n\nAt BPro, we break down practical AI tools, workflows, agents, coding tools, automation, and the latest developments in AI — so you can actually use them instead of just hearing about them.\n\nSubscribe for:\n\nPractical AI tools and workflows\nClaude Code tips and skills\nAI automation\nAI agents\nAI productivity hacks\nAI startup and technology updates\nNew tools that can save you time and money\n\nDon't just watch AI evolve. Learn how to use it.\n\n\n#AI #Claude #ClaudeCode #AITools #AIProductivity\n\nAI tools, best AI tools, free AI tools, Claude AI, Claude Code, Claude skills, Claude Code skills, AI skills, free Claude skills, how to use Claude, how to use Claude Code, Claude Code tutorial, Claude tutorial, AI automation, AI agents, AI workflow, AI workflows, AI productivity, AI for business, AI tools for business, AI tools for work, AI marketing tools, AI social media tools, AI design tools, AI finance tools, AI legal tools, AI copywriting, AI content creation, AI coding tools, AI productivity tools, best AI tools 2026, latest AI tools, new AI tools, AI tools you need, AI tools for startups, AI tools for entrepreneurs, AI tools for developers, how to automate business with AI, how to use AI for business, how to automate work with AI, what is Claude Code, what can Claude Code do, why use Claude Code, how Claude Code works, AI automation tutorial, AI agent tutorial, AI workflow tutorial, free AI tools 2026, best Claude skills, Claude Code automation, Claude Code tutorial for beginners",
-      "commentCount": 8,
-      "likeCount": 74,
-      "comments": [
-        {
-          "id": "UgzLcm2vUltIamP34L94AaABAg",
-          "author": "@mohitgoswami9522",
-          "text": "Department",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kBojGhe_7IhNJv-_7pnsU9CqOxo_Qaa_dXZqt3Vw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugyu07UFm6mckb_X9vh4AaABAg",
-          "author": "@avinashshetty4093",
-          "text": "Department",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k5wsqkuAYwj9fdPBTqQ6UYuMvhyf1KT-IrO0IFFQI=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwbbDpUcFsiBHHFJwd4AaABAg",
-          "author": "@hiren.parsiya",
-          "text": "Department",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mCDZ5XylcicpeXrRRpjh-2nqK6ZZ87aLhLqolQixo=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyHgMGgXhKt3QIrG0V4AaABAg",
-          "author": "@hirengandhi2429",
-          "text": "Department",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/q4SvgTJ2WkQzoFOm8Ff0N9FfrBSw4tlqE3uWLrNk7KOmCWnV04HHUknPjoU4vRjVWcgyqtY7JMI=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwV74BXp50o95WRO4F4AaABAg",
-          "author": "@mahendarrajchawlastore",
-          "text": "Department",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/5P-7-L7SuQ8U0wPkg_sYzHOotae-ABbam04tAwigPgtVuZ-HDdFGD8tHmNVbEboR149pjlmhPA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwNjoPXU6ZluGgEU_54AaABAg",
-          "author": "@kieran2347",
-          "text": "You are doing an amazing job dear! It's remarkable and inspiring. God bless and thanks for the resources mentioned. It will definitely help in my campaign",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l2-mr0n3W_J4gTHMuYXPQ9DHEEYpo_XZc5r04zXtirGCY=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy3iIjcZfomDLlbMXx4AaABAg",
-          "author": "@VishramSingh-m8i",
-          "text": "Department",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ldnRaMXo3Xbz4m16flfWdwc-2kFbIWdt-Bidg_Wmqk8lgn08iWiJ8zzWKtP_mN96n1pQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyrR-AkQWYHxjwSSXR4AaABAg",
-          "author": "@jyotimehta2155",
-          "text": "Department",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_na3KDkKxiWMGXB1rDSI-PM-efgdKiatfM3UB1oFv0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-14T09:53:22Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "NgarVWM9QYc": {
       "checkedAt": "2026-08-12T11:53:31Z",
       "embedAllowed": true,
@@ -6128,89 +6035,6 @@
       "commentCount": 0,
       "likeCount": 5,
       "probeClient": "web_embedded"
-    },
-    "mv4kOb8VaYM": {
-      "checkedAt": "2026-08-13T12:53:09Z",
-      "embedAllowed": true,
-      "description": "learn how to make high quality ai content that you can monetize easily",
-      "commentCount": 7,
-      "likeCount": 24,
-      "comments": [
-        {
-          "id": "Ugx36d4pgVp2XIlqgB54AaABAg",
-          "author": "@AuraAnimationIN",
-          "text": "Quality",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T10:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/R9IwtqvS5bisi2SmwCidzY52IIHpfCyKMzSG-hutjEVA-JgPPoeVtg-GaK_HnhsrYU-D3_XRJA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz9ekTDPVjG4J4lONZ4AaABAg",
-          "author": "@Tanvirstudio211",
-          "text": "Quality ❤",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ZbwW_ttPZfeXLNmbNrZRCtlaN7TSkXLLZ-nYOZudIppr97d4JjAMuIIIuWJTK46Exst3bt01hg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwZ_YLx33wZzNi4Pup4AaABAg",
-          "author": "@eztech8179",
-          "text": "quality",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kQh6rzoq83YiPoQZQSDPnImDjZShK1aYYJb5-GwI6cLQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzHjhJ_gPbsdrC-y6p4AaABAg",
-          "author": "@Bebotails",
-          "text": "Quality",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/RxWJp0NkkM6maEPsiWgYtRaTaPG7-VT6pKGVdrvO7G5yxBbkzg3ogwTxyeNeSOXdqd1GjXAbtbM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw7Y9qy9kZXrYWiCJp4AaABAg",
-          "author": "@vabsrockin",
-          "text": "quality",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nRoI-C_hUQnYtKKVMyEI3Jp6rfcDVVU_MSSHKiYWY=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzYgDf3gY44IXrNt1x4AaABAg",
-          "author": "@SUFI-GIRI",
-          "text": "Quality",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/BvpcowfMVfjFl0Ub1LLDuPj-M5Qste58z9QlD_ew0K53uzU5OlO5PwSpMGp4J1ngiwjrRWUq8Q=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyVPgiuhSEss0S1iGN4AaABAg",
-          "author": "@sahilmalik6734",
-          "text": "Quality",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nVqgHIF-0yAZQqhC96V9PRFgFZj5qRBllVablpXvK-WQwp9-rjoV7djAFuHieo5_t8ZA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-13T12:53:09Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded",
-      "availability": "public"
     },
     "WU4pZ2itW1c": {
       "checkedAt": "2026-08-13T14:53:05Z",
@@ -7265,14 +7089,14 @@
       "probeClient": "web_embedded"
     },
     "CeDAT-bViAM": {
-      "checkedAt": "2026-08-13T13:53:10Z",
+      "checkedAt": "2026-08-14T13:53:30Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Want to become a Data Scientist in 2026? Knowing Python and machine learning is no longer enough.\n\nIn this video, we break down 5 skills that can help you stand out as a modern Data Scientist:\n\nAI tools: Learn tools like Cursor, Claude Code, and Codex to write code faster, debug efficiently, and automate repetitive work.\nModern AI: Understand concepts like RAG, AI agents, tool calling, and AI evaluation, and how these systems work together.\nProblem-solving: Companies don't just need people who can build models. They need people who can use data to solve real business problems and improve decisions.\nModel evaluation: Go beyond simply training a model. Understand metrics like precision, recall, F1, R², along with concepts such as groundedness and hallucinations.\nBusiness understanding: The strongest Data Scientists can connect technical work to business outcomes and turn data into better decisions.\n\nIf you're serious about becoming a Data Scientist in 2026, these skills can give you a much stronger foundation for the modern AI-driven job market.\n\nWant the complete Data Scientist roadmap for 2026?\n\nAt BPro, we focus on practical AI education and upskilling, including generative AI, prompt engineering, AI workflows, no-code agents, and AI for business. Bverse Labs focuses on practical AI execution, including AI agents, LLM integration, RAG, and production AI systems.\n\nSubscribe to BPro for more practical AI, Data Science, career, and technology content.\n\n#DataScience #DataScientist #AI\n\nhow to become a data scientist, how to become a data scientist in 2026, how to learn data science, how to learn data science in 2026, how to start data science, what is data science, what does a data scientist do, what skills does a data scientist need, why learn data science, why become a data scientist, data scientist roadmap, data science roadmap 2026, data scientist skills, data science skills, AI skills for data scientists, machine learning for data science",
       "commentCount": 0,
-      "likeCount": 0,
+      "likeCount": 9,
       "comments": [],
-      "commentsFetchedAt": "2026-08-13T13:53:10Z",
+      "commentsFetchedAt": "2026-08-14T13:53:30Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7301,10 +7125,10 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-14T12:53:29Z",
+      "checkedAt": "2026-08-14T13:53:30Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "_riDyABRv6o": {
       "checkedAt": "2026-08-13T14:53:05Z",
@@ -7426,7 +7250,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-14T12:53:29Z",
+      "checkedAt": "2026-08-14T13:53:30Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7609,14 +7433,6 @@
       "likeCount": 2,
       "probeClient": "web_embedded"
     },
-    "rXyfYIwrSbM": {
-      "checkedAt": "2026-08-13T23:53:06Z",
-      "embedAllowed": true,
-      "description": "Try Mobbin MCP - https://mobbin.com/mcp\n\nMobbin just released Mobbin MCP, which is a powerful AI tool to get access to 600,000+ UX/UI designs and user flows with one prompt. You can then train your AI tools and provide direction to your AI workflows, based on proven designs and patterns.\n\nIn this video, I'll show you how to connect Mobbin MCP to your favourite AI agent - Claude Code, Figma Agent or any other and then access screens from top companies like Duolingo, Uber and others.\n\nCheck out Mobbin MCP - https://mobbin.com/mcp\n\nFor Sponsorship: punitwebdeveloper@gmail.com\n\nFollow Me on Instagram: \nhttps://www.instagram.com/punitchawlaofficial/\nFollow me on Medium: \nhttps://medium.com/@punitweb\nMy Behance Profile: \nhttps://www.behance.net/punitweb\n\n#uidesign #uxdesign #ai",
-      "commentCount": 1,
-      "likeCount": 25,
-      "probeClient": "web_embedded"
-    },
     "tALspcgE1cE": {
       "checkedAt": "2026-08-14T00:53:16Z",
       "embedAllowed": true,
@@ -7669,15 +7485,6 @@
       "description": "Digital marketing is undergoing its biggest structural shift in two decades. From Google AI Overviews and Generative Engine Optimization (GEO) to agentic campaign management, AI is no longer just an autocomplete tool—it's driving core strategy.\n\nIn this video, we break down how modern AI workflows are replacing old SEO tactics, automating ad campaigns, and enabling hyper-personalized customer journeys. Whether you're an agency owner, freelancer, or startup founder, you’ll learn how to combine AI automation with human storytelling to dominate your niche.\n\n💬 Are you using AI tools primarily for content creation or for campaign strategy? Drop your stack in the comments below!\n\n🚀 Subscribe to Compow for research-backed deep dives into AI, emerging technology, and future digital trends!\n\n#AIDigitalMarketing #AIMarketing #GenerativeEngineOptimization #DigitalMarketing2026 #MarketingAutomation #AIAgents #Compow #TechDocumentary",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "qM-FmQlIFLQ": {
-      "checkedAt": "2026-08-14T01:53:20Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥SP Jain - AI-Powered Digital Marketing Certificate Program - https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=qM-FmQlIFLQ&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Meta - Digital Marketing Specialist - https://www.simplilearn.com/master-in-digital-marketing?utm_campaign=qM-FmQlIFLQ&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Online MBA by Amrita Vishwa Vidyapeetham - https://www.simplilearn.com/online-mba?utm_campaign=qM-FmQlIFLQ&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Search Engine Optimization (SEO) Course - https://www.simplilearn.com/digital-marketing/search-engine-optimization-seo-certification-training?utm_campaign=qM-FmQlIFLQ&utm_medium=DescriptionFF&utm_source=Youtube\n\n\n\n\nIn this video, Search Engine Optimization 2026, you’ll learn how to optimize your website to rank higher on Google and other search engines. This complete SEO guide for beginners covers everything from keyword research and on-page optimization to technical SEO, link building, and AI-powered search strategies for 2026.\n\nYou’ll start with SEO fundamentals, including how search engines crawl, index, and rank web pages. Then you’ll learn how to perform keyword research, optimize title tags, meta descriptions, headers, URLs, and images, and create high-quality content that matches search intent.\n\nThe course also covers technical SEO essentials such as site speed, mobile optimization, XML sitemaps, robots.txt, schema markup, and Core Web Vitals. You’ll also explore off-page SEO strategies like backlink building, guest posting, and local SEO, along with tools like Google Search Console, Google Analytics 4, Ahrefs, and SEMrush.\n\n\n✅ Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More Videos By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULa5aOQmO_al2VVmhC-eqeI\n\n#DigitalMarketingAnalytics #DigitalMarketingAnalyticsFullCourse2026 #MeasureAndOptimizeCampaigns #MarketingAnalyticsTutorial #DigitalMarketingMetrics #CampaignPerformanceAnalysis #ROIMeasurement #MarketingKPIs #GoogleAnalytics4 #GA4Tutorial #ABTesting #AttributionModeling #ConversionRateOptimization #CRO #CustomerLifetimeValue #CAC #LTVCACRatio #ROAS #MarketingDashboards #DataDrivenMarketing #Simplilearn #MarketingReporting #PPCMetrics #SEOAnalytics #SocialMediaAnalytics #EmailMarketingMetrics #UTMTracking #FunnelAnalysis #CohortAnalysis #MarketingOptimization\n\n➡️ About AI-Powered Digital Marketing Certificate Program\n\nIn a world where creativity meets code, learn to turn digital complexity into strategic clarity. Through 100% live sessions, masterclasses by SP Jain Global faculty and real-world projects, master AI, Automation and Analytics using 50+ tools like ChatGPT, Canva, SEMrush and Power BI\n\nKey Features:\n✅ Learn directly from SP Jain Global faculty in live, interactive masterclasses\n✅ Learn to integrate automation, analytics, and generative AI tools into every stage of the marketing process\n✅ Gain hands-on experience with 24+ standard marketing tools, 20+ AI-powered platforms, and 8+ analytics and automation tools\n✅ Get dedicated, mentor-led project support to help you complete every project on time\n✅ Progress from foundational concepts to advanced strategies across SEO, SEM, social media, content, and analytics\n✅ Apply your learning through live projects, guided practice, real-world case studies, and an industry-aligned capstone project\n✅ Attend live sessions led by Meta Blueprint experts, and receive a $99 Meta voucher to deepen your social media marketing expertise\n✅ Get complimentary Google Ad Credits during the SEM module to create and manage your first live campaign\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n \nSkills Covered\n✅ Digital marketing strategy\n✅ Website creation\n✅ AI content creation and optimization\n✅ Automated content workflows\n✅ AI driven SEO\n✅ Generative Engine Optimization GEO\n✅ Answer Engine Optimization AEO\n✅ Google Ads management\n✅ Smart bidding and budgeting\n✅ AI audience targeting and remarketing\n✅ Campaign optimization with AI\n✅ Programmatic advertising\n✅ AI social media creatives\n✅ AI storytelling and engagement\n✅ Creative automation\n✅ AI Ecommerce personalization\n✅ AI mobile marketing\n✅ AI email automation\n✅ Predictive marketing analytics\n✅ AI forecasting\n✅ Ethical AI use\n\n👉 Learn More At: https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=qM-FmQlIFLQ&utm_medium=DescriptionFF&utm_source=Youtubeube",
-      "commentCount": 0,
-      "likeCount": 15,
       "probeClient": "web_embedded"
     },
     "T0fDgDHa46A": {
@@ -7926,7 +7733,7 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-14T12:53:29Z",
+      "checkedAt": "2026-08-14T13:53:30Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7959,15 +7766,6 @@
       "description": "“The Quiet Blueprint of Wealth: Trusts, Land, and Family Power, out now - https://a.co/d/034Cmpla\n\nMy Website: https://www.danemakeyouthink.com \n\nJoin The Discord: https://www.discord.gg/13percent \nYouTube: https://www.youtube.com/c/DaneCalloway \nTwitch: https://www.twitch.tv/danecalloway_ \nKick: https://kick.com/danecalloway \n\nFollow Dane Calloway:\nhttps://www.instagram.com/danecalloway\nhttps://www.tiktok.com/@danecalloway_ \n\nBusiness Inquiries: contact@danemakeyouthink.com",
       "commentCount": 10,
       "likeCount": 142,
-      "probeClient": "web_embedded"
-    },
-    "KIo9qL2LD90": {
-      "checkedAt": "2026-08-14T07:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Subscribe to Socrates in the City\nhttps://www.youtube.com/@socratesinthecity?sub_confirmation=1\n\nInterested in attending a Socrates in the City event? Sign up for our newsletter https://socratesinthecity.com/sign-up/\n\nHow can we learn to use AI creatively and responsibly for human flourishing? In this episode of Socrates in Oxford, host Eric Metaxas is joined by John Lennox, long-time friend of SITC, mathematician, philosopher, and author of 2084: Artificial Intelligence and the Future of Humanity, for a timely conversation about one of the most consequential technologies of our age. As artificial intelligence rapidly reshapes the world around us, how do we separate the realities of AI from the science-fiction scenarios that increasingly seem less fictional? \n\nLennox demystifies the mathematical and technological language surrounding AI, exploring its different forms and the extraordinary rise of large language models—and asking what their growing influence means for education, human creativity, and the way we think. From the frightening possibilities of AI’s capabilities to the profound questions it raises about what it means to be human, Lennox considers the surprising connections between artificial intelligence and the biblical book of Revelation, and how imagery, metaphor, and prophetic language may offer a framework for understanding the world taking shape before us. The conversation asks if we are already beginning to see hints and traces of Revelation playing out across the world,  and what kind of spiritual battle might be unfolding alongside the technological revolution, and what wisdom will we need to navigate it?",
-      "commentCount": 33,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "DY0s06ht0p8": {
@@ -8197,6 +7995,65 @@
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
+    },
+    "nOkA7HJM-r0": {
+      "checkedAt": "2026-08-14T13:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "learn how to make content for usa audience",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-14T13:53:30Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "H99jTrGc4cA": {
+      "checkedAt": "2026-08-14T13:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Elon Musk recently posted: “Welcome to the Singularity. How’s the temperature?”\n\nBut what exactly is the AI Singularity?\n\nIn simple terms, the Singularity refers to a hypothetical point where AI becomes more intelligent than humans and can potentially improve its own capabilities.\n\nImagine an AI creating a better version of itself.\n\nThat version creates an even more capable AI.\n\nThen that AI improves itself again.\n\nLike a snowball rolling downhill, the cycle could potentially become faster, bigger, and smarter dramatically accelerating technological progress.\n\nThings that might take humans decades could potentially happen in months.\n\nBut here's the unsettling part:\n\nWe don't really know what happens after that point.\n\nScientists, governments, and even the people building advanced AI can't confidently predict what an intelligence explosion could mean for humanity.\n\nSome people see the Singularity as a potentially dangerous scenario.\n\nOthers see it as one of the biggest breakthroughs in human history.\n\nThe real question isn't just “Will AI become smarter than humans?”\n\nIt's:\n\nWhat happens when AI can help create something smarter than itself?\n\nPersonally, I'm more excited than scared.\n\nWhat do you think  breakthrough or danger?\n\nWhy subscribe to bpro?\n\nAt bpro, we go beyond the headlines to explain the AI breakthroughs, emerging technologies, AI companies, future trends, and ideas that could reshape how we work and live.\n\nSubscribe for more AI insights, technology stories, future predictions, and the bigger picture behind the AI revolution.\n\n#AI #ArtificialIntelligence #Singularity #FutureOfAI #ElonMusk\n\nAI, artificial intelligence, AI singularity, what is AI singularity, what is singularity, AI future, future of AI, Elon Musk AI, Elon Musk singularity, Elon Musk latest, AI explained, artificial intelligence explained, how AI works, how AI will change the world, future of artificial intelligence, AI revolution, AGI, what is AGI, AGI explained, AI superintelligence, AI self improvement, AI intelligence explosion, AI safety, future technology, emerging technology, AI predictions, AI news, latest AI news, AI breakthrough, AI technology, AI trends, why AI matters, what will happen with AI, how AI will change humanity, AI and humanity, technology future, BPRO, Beyond AI, AI future explained",
+      "commentCount": 1,
+      "likeCount": 5,
+      "comments": [
+        {
+          "id": "UgzmiEnfAv3F6HwZeeN4AaABAg",
+          "author": "@Healernaveetasingh",
+          "text": "fir humans wapas se kheti bari kar sakte haen.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T13:40:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/HlLhSnRQCCLoOApM-Ol6CetgcYjltZGzE_ICldXXsh-At_sDlN4h_GTe4KUqXZhymRf73SDmesc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-14T13:53:30Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "_s20i3UX15M": {
+      "checkedAt": "2026-08-14T13:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "With AI tools like ChatGPT, GitHub Copilot, and AI coding agents, writing automation scripts has become much easier. But does this mean you can become an automation tester without learning programming?\n\nIn this video, we will discuss:\n\nHow AI is changing automation testing\nWhether manual testers can transition into automation\nHow AI helps generate and debug automation scripts\nThe coding knowledge you still need\nLimitations of relying completely on AI\nA practical learning roadmap for non-coders\nThe future of automation testing in the AI era\n\nAI can accelerate your journey, but understanding programming fundamentals, testing concepts, and automation tools remains important. Use AI as your learning partner—not as a replacement for knowledge.\n\nGet Started With TestRigor\nhttps://testrigor.com/l/test-automation/?utm_source=MukeshOtwaniInfluencer&utm_medium=influencer\n\nPrevious videos\nhttps://www.youtube.com/playlist?list=PL6flErFppaj3okMFJM84Ay4XyJ_M_ElsR\n\nGet in-depth automation tutorials and personalized notes at:\nVisit: https://learn-automation.com/\n\nFor more valuable and exclusive learnings on automation visit:\nVisit: https://academy.learn-automation.com/learn\n\nContact Mukesh Otwani at:\nEmail - mukeshotwani@learn-automation.com\n\nMukesh Otwani Social Media Handles:\nLinkedin - https://www.linkedin.com/in/mukesh-otwani-93631b99/\nInstagram - https://www.instagram.com/mukeshotwaniofficial/\nFacebook - https://www.facebook.com/SeleniumWebdriverMukesh/\nFacebook Group - https://www.facebook.com/groups/256655817858291\nTwitter - https://twitter.com/MukeshOtwani\nTelegram - https://t.me/+V5wUIO3hAGUS13hs\nTopmate - https://topmate.io/mukesh_otwani\n\nRead Our Latest Blogs On Automation:\nBlog - https://learn-automation.com/\n\nWatch Latest Videos : https://youtu.be/4Ie4cPQELQs?si=MgfAvIS0uhQ6zhjG\n\nWatch All Playlists Here: https://www.youtube.com/@Mukeshotwani/playlists\n\nGenerative AI-based Test Automation Tool - TestRigor: \nhttps://youtube.com/playlistlist=PL6flErFppaj3okMFJM84Ay4XyJ_M_ElsR&si=VYqGy6xxVN4UCfg_\n\nPlaywright with Java: Complete Web & API Automation Framework Series: \nhttps://youtube.com/playlist?list=PL6flErFppaj0pscPIPA_Cxhil6ZDeFuJJ&si=JBt45CG7K9hFb0yr\n\nQA & Tech Essentials: Career, Tools, and Quick Tips: \nhttps://youtube.com/playlist?list=PL6flErFppaj1JS_IlSLcfGC6lUH2KAfVn&si=kk_LXVUQ6KBKIJ5v\n\nPlaywright With JavaScript Tutorials - From Basic To Advanced: \nhttps://youtube.com/playlist?list=PL6flErFppaj0iQG2_Dd72Jz0bfrzZwMZH&si=j_aOyUrGrrCUvH7a\n\nAbout Mukesh Otwani and Test Automation: \nHi, I’m Mukesh Otwani, A passionate working professional based in the vibrant city of Bangalore, India. This channel is dedicated to helping manual testers and aspiring QA professionals transition smoothly into the world of automation testing. With years of hands-on experience, I share practical and beginner-friendly tutorials covering a wide range of tools and technologies including Selenium WebDriver, TestNG, Maven, Appium, Sikuli, AutoIT, Jenkins, Git, GitHub, RPA, Playwright, and more. Whether you're starting your automation journey or looking to upgrade your skills with real-world project insights and framework development, you’re in the right place. Subscribe and join a growing community of learners committed to mastering automation and staying ahead in the ever-evolving tech industry.\n\nGet Exclusive & Premium Automation Courses Here  - \nhttps://academy.learn-automation.com/learn\n\nWatch the complete video and share your opinion in the comments:\n\nCan AI make anyone an automation tester?\n\nLike the video\nShare your thoughts\nSubscribe for more videos on Automation Testing, Playwright, Selenium, GenAI, AI Agents, and Quality Engineering.\n\n#testRigor #GenerativeAI #AITestAutomation #SoftwareTesting #NoCodeTesting #QAautomation #AIinQA",
+      "commentCount": 1,
+      "likeCount": 7,
+      "probeClient": "web_embedded"
+    },
+    "T8nUnf2XtSQ": {
+      "checkedAt": "2026-08-14T13:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Moxt.ai: \n\nhttps://moxt.ai/\n\n\n\n0:00 Beyond the Single AI Assistant\n1:02 Building an Automated AI Production Team\n3:52 Automating the Weekly Content Pipeline\n6:20 Persistent Memory and Custom Databases\n\n\n\n📩 Business & Partnerships:\nlexaicollab@gmail.com\n\n📢 Disclaimer:\nSome links may be affiliate links. They help support the channel at no extra cost to you.\n\n🔁 Hashtags:  #Moxt #AITeammates #AIAgents",
+      "commentCount": 26,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "GucVYMCgy7U": {
+      "checkedAt": "2026-08-14T13:53:30Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
     }
   }
 }

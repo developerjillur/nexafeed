@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T12:53:29Z",
+  "updatedAt": "2026-08-14T13:53:30Z",
   "items": [
+    {
+      "id": "nOkA7HJM-r0",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-14T13:42:52Z",
+      "firstSeenAt": "2026-08-14T13:53:30Z"
+    },
+    {
+      "id": "H99jTrGc4cA",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-14T13:16:33Z",
+      "firstSeenAt": "2026-08-14T13:53:30Z"
+    },
+    {
+      "id": "_s20i3UX15M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mukesh otwani",
+      "publishedAt": "2026-08-14T13:28:30Z",
+      "firstSeenAt": "2026-08-14T13:53:30Z"
+    },
+    {
+      "id": "T8nUnf2XtSQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lex AI",
+      "publishedAt": "2026-08-14T00:53:30Z",
+      "firstSeenAt": "2026-08-14T13:53:30Z"
+    },
     {
       "id": "8WgipmPSPKk",
       "type": "long",
@@ -14443,6 +14475,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-14T13:53:30Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
