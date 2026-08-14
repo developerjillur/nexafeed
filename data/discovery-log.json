@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T07:53:11Z",
+  "updatedAt": "2026-08-14T08:53:17Z",
   "items": [
+    {
+      "id": "DY0s06ht0p8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "MIZU TECH",
+      "publishedAt": "2026-08-13T22:53:17Z",
+      "firstSeenAt": "2026-08-14T08:53:17Z"
+    },
     {
       "id": "zqy_LyUSh_8",
       "type": "long",
@@ -12877,15 +12885,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T07:53:48Z",
-      "new": 1,
-      "long": 1,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
       "runAt": "2026-07-31T08:53:49Z",
       "new": 2,
       "long": 2,
@@ -14324,6 +14323,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-14T08:53:17Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
