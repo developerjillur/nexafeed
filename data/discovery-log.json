@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T09:53:22Z",
+  "updatedAt": "2026-08-14T10:53:27Z",
   "items": [
+    {
+      "id": "_WjLKDD2FS8",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-14T09:59:10Z",
+      "firstSeenAt": "2026-08-14T10:53:27Z"
+    },
+    {
+      "id": "EJUoy9Ka-UE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "You B Builder",
+      "publishedAt": "2026-08-14T10:31:27Z",
+      "firstSeenAt": "2026-08-14T10:53:27Z"
+    },
+    {
+      "id": "xldHyMBB17U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Panda Making Money",
+      "publishedAt": "2026-08-14T04:53:27Z",
+      "firstSeenAt": "2026-08-14T10:53:27Z"
+    },
+    {
+      "id": "Ci7ZDQ3m8cc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sajjaad Khader",
+      "publishedAt": "2026-08-13T22:53:27Z",
+      "firstSeenAt": "2026-08-14T10:53:27Z"
+    },
     {
       "id": "3yL7rYKYSvY",
       "type": "short",
@@ -12901,24 +12933,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T09:53:50Z",
-      "new": 2,
-      "long": 2,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
-      "runAt": "2026-07-31T10:53:08Z",
-      "new": 3,
-      "long": 2,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
       "runAt": "2026-07-31T11:53:16Z",
       "new": 4,
       "long": 3,
@@ -14348,6 +14362,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-14T10:53:27Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
