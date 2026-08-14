@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T14:53:31Z",
+  "updatedAt": "2026-08-14T15:53:32Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1243,12 +1243,12 @@
       "probeClient": "web_embedded"
     },
     "NVPWYTZZpnI": {
-      "checkedAt": "2026-08-07T15:53:15Z",
+      "checkedAt": "2026-08-14T15:53:32Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "SaaS as we know it is changing. Instead of clicking around five different dashboards to get one job done, AI agents are shifting software from selling tools to delivering completed work.\n\nIn this video, I demonstrate a working prototype of an \"AI Employees\" team (Vikram, Priya, and Arjun) that turns a single prompt into a complete marketing campaign. I also break down the playbook for building agent startups and explain how to orchestrate multi-agent workflows reliably.\n\n__________________________________\nFollow Builders Central on Instagram: https://www.instagram.com/builders.central/",
-      "commentCount": 9,
-      "likeCount": 269,
+      "commentCount": 12,
+      "likeCount": 293,
       "probeClient": "web_embedded"
     },
     "WCNqzs_PX_A": {
@@ -1267,99 +1267,6 @@
       "description": "🔗 Try Higgsfield MCP: https://higgsfield.ai/s/mcp-ericwtech-ExVxwm\n\n  I built a free Claude Code skill that makes Vox style videos automatically. One command turns a topic into research, a script, and a finished explainer video.\n\n  What's inside:\n\n  - Loading the skill into Claude Code or Claude Code Web\n  - Orientation, length, subtitles and language in one .env file\n  - How it researches a real story and writes the script for you\n  - Seedance 2.0 + Gemini Omni generating scenes through Higgsfield MCP\n  - The honest limitation: scene transitions, and the fix\n\n  🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n  🔗 Get the Vox skill (free): https://free.erictech.ca/vox-skill?src=yt-vox-style-video\n\n  🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n  Timestamps:\n  0:00 Intro\n  1:21 Skill Setup\n  3:06 Run the Skill\n  4:41 Guided Questions\n  6:27 Story Research\n  8:17 Final Video\n  10:21 Fixing Transitions\n\n  #claudecode #aivideo #aitools",
       "commentCount": 3,
       "likeCount": 70,
-      "probeClient": "web_embedded"
-    },
-    "8VPok4vbYBk": {
-      "checkedAt": "2026-08-11T17:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment \"HUMAN\" and I'll send you the ebook. 🔥\n\nClaude agrees with everything you say. This skill fixes that.\n\nIt's called Claude Council. And the best Claude users never ask for one answer, they make Claude argue with itself first.\n\nFive advisors. One idea. All at the same time.\n\nOne hunts for the fatal flaw. One questions whether you're solving the right problem. One finds the upside nobody else sees. One reacts like a normal person with zero bias. One only cares about what you should do right now.\n\nThen they read each other's responses, find the blind spots, and push back on each other. A chairman weighs everything and gives you the final call.\n\nSave this before you forget.\n\n#claude #aitools #prompts #claudecouncil #chatgpt",
-      "commentCount": 2100,
-      "likeCount": 5538,
-      "comments": [
-        {
-          "id": "UgzolWDsw0RWuVnyBHh4AaABAg",
-          "author": "@11lilleskutt",
-          "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T17:52:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhsmnYE8s43yKvrOUEuO15ubUhsinTg2sCvnzOqI9_bv10vBFKsBHnJGDP5ESWQFEWmg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzGnmM-J_V2l1gPpRZ4AaABAg",
-          "author": "@per5808",
-          "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T17:37:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/U6kE0eGZVh3aWBdgIGRot_WHih2tQLlYW8c0Q_v1AoPiu2T1ThjFRIcGT4XRIXfU4uwoAapwFIc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwXeF90oDglA1aRHdV4AaABAg",
-          "author": "@joshuasamuel_official",
-          "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T17:28:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mGnPm7mzXtNjrrawP2dxoEtU7Zox-ITPmcNl8VM35ZaSeK=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw-n8D0uz1Oc6mb3Np4AaABAg",
-          "author": "@Guestaccount-p2n",
-          "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T17:09:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/XB9Tu_5rJM8lR4YPmiAbSs84EkotzgrFN_JWIqEHhmji6eeE2y9CooCTWxAgfrJevlYyOviVeg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugyw8D0yE3AHe-GDSKt4AaABAg",
-          "author": "@SoulJourn3y",
-          "text": "Human Appreciate you.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T17:06:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/haYyEMwQ1Hq4zX8a1CGhOQ5Y8wE2AFlQOU5Usm84XzDJULwcGF5SmK23ntZooQZpochWspUHlQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxttLNv0IZf5Jhtg494AaABAg",
-          "author": "@ABC_MyName",
-          "text": "Sonnet or Opus?",
-          "likeCount": 1,
-          "publishedAt": "2026-08-02T17:05:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kT0IqtOmXpdtFie8P0x98qrJz9kcldmCupNPOvWp9a2UN8863NdoSc1f-MBxFQkj9lBQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwuPpvNAnXMsrGgnDR4AaABAg",
-          "author": "@AndreHouserEl",
-          "text": "Human 🎉",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m1UQN27ndr6jxfZVTOuuvyACJcvektUsHnztucA4YwJuU=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy5tkBvmzuQzkPSbwh4AaABAg",
-          "author": "@JesusChristtruesaviourlord",
-          "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/SaNArgX17VvWFx0FiwcrZRE7fsxZfPSDdZdnh4FjGW2AQTkVXbT3kwWEjvNbvQV9WSuctnexEw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-02T17:53:15Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "zazasynMZ6g": {
@@ -4649,15 +4556,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "IVx8OSMbTss": {
-      "checkedAt": "2026-08-11T17:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=saas-2-hour-course&hcategory=youtube-videos&utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nI built an AI SaaS product in one day, starting with no idea at all. You'll see the whole run: research agents scanning 60,000+ comments to find a real pain point, the branding and waitlist page, the app itself with Supabase auth and Stripe subscriptions, a security review that caught four high-severity release blockers, and a live domain at the end. \n\nThen I go over what happens after the build, such as getting your first 50 customers, pricing without guessing, and why I'd pay small creators before putting a dollar into ads. If you've been sitting on an idea, this should show you how much of it you can actually do yourself.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n\nTIMESTAMPS \n0:00 What We're Building\n0:30 The Six P's\n2:36 The Tech Stack\n4:14 Pain: Finding The Idea\n7:57 What The Research Found\n12:50 Packaging: Name, Logo & Brand\n18:16 Planning The Build With Fable\n28:18 Landing Page & Waitlist\n30:23 The Build Plan & Delegating To Agents\n41:29 GitHub, Vercel & Real Domains\n45:56 V1 Is Done: First Look\n49:02 Inside The Generated Deck\n53:24 Using Codex To Break The App\n56:40 Onboarding, Supabase & Stripe\n1:06:21 The Real Moat Is The Prompt\n1:09:02 The Launch Blockers Codex Found\n1:14:19 Testing The Full Flow End To End\n1:22:43 Security Review\n1:25:13 Planning For 50 Paying Users\n1:44:29 Custom Domain & The Login Bug\n1:50:50 Eight Hours In: Reality Check\n1:52:35 Getting Your First 50 Customers\n2:05:07 Pricing Without Guessing\n2:14:28 Ads, Creators & Distribution\n2:19:45 Your 30-Day Plan\n2:22:19 Final Thoughts",
-      "commentCount": 63,
-      "likeCount": 913,
-      "probeClient": "web_embedded"
-    },
     "qNzPa857fBU": {
       "checkedAt": "2026-08-11T17:53:14Z",
       "embedAllowed": true,
@@ -6319,18 +6217,18 @@
       "probeClient": "web_embedded"
     },
     "GqIBYTAGdXs": {
-      "checkedAt": "2026-08-13T15:53:11Z",
+      "checkedAt": "2026-08-14T15:53:32Z",
       "embedAllowed": true,
       "description": "lewrn the lrocess of making best videos from the first one",
       "commentCount": 4,
-      "likeCount": 16,
+      "likeCount": 22,
       "comments": [
         {
           "id": "UgyjJzi0Jgb9jd0QCsV4AaABAg",
           "author": "@OkReaction-s4y",
           "text": "Nature khauf",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T15:21:00Z",
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/L18bK-I3byFAf8_zE-hfkGnXlEH2F5pTDhFsaauO30zJZ7fT7nk5hcEBvqxTfFWCXSpn5hyOtA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6340,7 +6238,7 @@
           "author": "@AnimeLooks-iw7fs",
           "text": "Ek shot per",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T15:00:00Z",
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/GVB5qrU4WjRXev-3JL4jjIyTngp0JzPTZgVt_9NrIwAK6pLKS-1MF8Wj-DESOXxt52m_5pP7=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6350,7 +6248,7 @@
           "author": "@multitasker5129",
           "text": "YouTube",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T19:00:00Z",
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/7WapwOKVAO5t58P-LGgM4sbgn535QwCtf7oHggGQFjZTMWeg27jNopFAU8ptmYx2KgmQDlQs=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6360,13 +6258,13 @@
           "author": "@JunaidJan-f1w",
           "text": "YouTube ❤",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T18:00:00Z",
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/zIJOAXZ1N6BlHEenT9Ta8DvchHwU514ULZtv3ib4sCN26DAWdflyR1kQg-kVpKl8UtzlwQB9Cw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-13T15:53:11Z",
+      "commentsFetchedAt": "2026-08-14T15:53:32Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded",
       "availability": "public"
@@ -7196,10 +7094,10 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-14T14:53:31Z",
+      "checkedAt": "2026-08-14T15:53:32Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "_riDyABRv6o": {
       "checkedAt": "2026-08-14T14:53:31Z",
@@ -7275,65 +7173,95 @@
       "probeClient": "web_embedded"
     },
     "hINGU1P9Xtw": {
-      "checkedAt": "2026-08-13T15:53:11Z",
+      "checkedAt": "2026-08-14T15:53:32Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 5,
-      "likeCount": 80,
+      "commentCount": 8,
+      "likeCount": 1007,
       "comments": [
         {
-          "id": "UgwYBQWpe6qpfe9gZdV4AaABAg",
-          "author": "@sugaanthm3897",
-          "text": "Training on freely available internet data, then watermarking it as proprietary. 👏🏻🧐",
-          "likeCount": 3,
-          "publishedAt": "2026-08-13T15:44:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nRt1r7RJ5HMN9Uo3Sdt9rgU6X3PAYbBM8uzaJ7TiTcZdQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugznu3SCcYwW1ug-0GR4AaABAg",
-          "author": "@MOKOLNUK",
-          "text": "Okay, what if the prompt was the idea of `500 or 1000 plus words?",
+          "id": "Ugy5WfWGJGBR_iPJa4F4AaABAg",
+          "author": "@chandans6750",
+          "text": "How to identify the real Varun \n\n80-90% Broll = AI\n80% A roll = Real",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T15:40:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kVrDUhBwT9mRE2gmGtChvxhznEB5UPX2XPBtWPAOOek_gveCxp4-WhcCMLH1t7oFAkEQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/CkE89HegKawqxMkUZN2NOHgPHv0OjwJoyZq0qfAKjQLKIQCQEjmio9mhLprTtPCOpj3vLoI71tk=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyFSo60lCJDW5V4zdR4AaABAg",
-          "author": "@diwakarkumargupta1550",
-          "text": "How to bypass this, is there any fullproof tool?",
+          "id": "UgxO8pymOjyEynPrV-94AaABAg",
+          "author": "@kiritarc",
+          "text": "A real face is better than an AI slob.",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T15:39:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mBYIp29o0aS7-JkRfpSaZEFEYKBCQcobSzHG3NykDQdePO=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lfzuXUzZfIzi_femJUZgHpfUKN8-fT5RrQ_z5G-xygx_Ll=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzWU1Fg8Nko0TY7bEh4AaABAg",
-          "author": "@suryak2821",
-          "text": "ha ! is this an AI avathar",
+          "id": "Ugwc-3-T-E9V7OKjU7Z4AaABAg",
+          "author": "@ganeshnaravian2798",
+          "text": "Soon someone will release watermark remover plug in 😂",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T15:36:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nz0WQ2urjkwjkAfqK_EdLBYiMnKV9tTCAehms64-BY7J4wgAZK-pM-tV9QNNg395wpAQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mTa5f8eswrDzSawT_xMuXMnI7ug_rH9iOlt0gzpTIXNUA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugyu4zvFBLIY5B9J-TV4AaABAg",
-          "author": "@anoymous60",
-          "text": "Bro 3 rd trailer of game plwss😢",
-          "likeCount": 2,
-          "publishedAt": "2026-08-13T15:33:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhTSxfocGvq2Ryf_PEvpbgfj2PZyBim3tIFvmHNhkVvDFd3q593bUOwjKNI2NUNYqKnQ=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgwDnlNM6jjdv2ghodl4AaABAg",
+          "author": "@notAPS6",
+          "text": "Couldn't they let the model decide if its contribution was significant enough to watermark the files. Maybe add different \"levels\" of watermarks.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lsh5o0_it4z752WXPy-ZrX4fU8_Sk_iayfRcReBrXaCdseJScSsvpa44zFT2JmKqndZA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz5GYZ79pLhxlQbgQt4AaABAg",
+          "author": "@SanjaykumarGollavilli.",
+          "text": "What if I ask for just one word line with 3 words 😂",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lIx4mwrHVTJONkcTpHACZBVcVYaZEAFrO5kWyKAJyhNg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzaEDlqfaDTdD-yjPV4AaABAg",
+          "author": "@Asalhotra",
+          "text": "You can humanize the output. No?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kbXWl9BhRNULHnvFY0XIzA4p8dMP3wTmx1nqpBgGyiKcM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw2ufYr541-8W1Hti54AaABAg",
+          "author": "@zendr0",
+          "text": "Claude: add watermark\nUs: Generate with claude + paraphrase\nSolved!",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFvYFyUvp03Mz7Tbz998t4OdczJJ-tAygT-6pJd8Uck6w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy7z7cVOD3wc0KseN94AaABAg",
+          "author": "@rishuraj2806",
+          "text": "Copy > google translate to Hindi > translate back to english.",
+          "likeCount": 1,
+          "publishedAt": "2026-08-13T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nhtVl5b5ziAadJ-alMlR1yZfMnBead47MwvAkykQ4tKzEW=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-13T15:53:11Z",
+      "commentsFetchedAt": "2026-08-14T15:53:32Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7361,10 +7289,10 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-14T14:53:31Z",
+      "checkedAt": "2026-08-14T15:53:32Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "LHFqw7Znk_Y": {
       "checkedAt": "2026-08-13T17:53:13Z",
@@ -7469,24 +7397,6 @@
       "description": "Start Your AI Agency: https://www.skool.com/automate\n\nWork With Me 1:1: https://start.hamzaautomates.com/arbitrage\n\nSelling AI to businesses is hard because most owners don't actually understand what AI is or why they need it. The easiest way to sell AI automation is to not lead with AI at all. In this video I show you how to lead with an offer businesses already understand, like a website or lead generation, close the deal, and then upsell AI automation once you're already in the door and they trust you.\n\nIf you're trying to sell AI to local businesses, start an AI automation agency, or you keep getting blank stares every time you pitch AI, this is the shift that changes everything. Instead of trying to educate a business owner on why they need an AI agent, you sell them something they already want, get them as a client, and expand into higher ticket AI automation and AI services from there. It's the fastest way to actually close deals and build recurring revenue as an AI agency.\n\nEverything I use to run and grow an agency, including my snapshots, offers, systems, and full course, is free when you start your trial through my link below. You get a 30-day free trial, two weeks longer than the standard, plus my private community and weekly calls. \n\nI'm Hamza, a Diamond and Platinum award winning GoHighLevel partner and the founder of Hexona Systems. I came from years in SaaS sales before building this, and now I help people turn AI and automation into a real business they own.\n\nDisclosure: I am an independent affiliate and may earn a commission if you sign up through my link, at no extra cost to you. I do not make income claims. Your results depend on your own effort.\n\n#sellAI #AIautomation #AIagency #AIautomationagency #makemoneywithAI",
       "commentCount": 2,
       "likeCount": 14,
-      "probeClient": "web_embedded"
-    },
-    "xKPav7OzH7g": {
-      "checkedAt": "2026-08-13T21:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Suno Studio v2.0 is here. A full walkthrough of the new UI, where the v1.0 controls moved, plus Studio Chat, track effects and automation. Not sponsored — early access for release day.\nGet Suno - https://suno.pxf.io/6kzxGm\n👍 Thanks for watching! Please like, comment, & subscribe.\n\n=============================\nTable of Contents:\n=============================\n00:00 Intro\n00:26 Overview\n01:08 Studio 2.0 UI Overview\n01:34 Project Menu\n02:02 Drag audio in sync\n02:35 Further controls at the top\n03:47 Track Controls\n04:13 Clip Controls\n04:57 Add Tracks\n05:11 Main Track\n05:53 Audio Effects\n06:48 Automation\n07:15 Clip Editor\n07:34 Take Lanes\n07:55 Playable Keyboard\n08:15 Studio Chat\n10:52 Advanced Stems in Suno Studio\n12:01 Add a new keyboard part\n15:01 Tame the keys with FX\n16:33 Modify the vox processing\n18:45 Add automation\n20:18 Conclusion\n21:02 Outro\n\n=============================\nRelevant Links:\n=============================\nGet Suno - https://suno.pxf.io/6kzxGm\nSuno Advanced Stems - https://youtu.be/0gu8qPe75cM\n\n=============================\nAffiliate Links:\n=============================\nSome of the links in my video descriptions are affiliate links, which means at no extra cost to you, I will make a small commission if you click them and make a qualifying purchase. If you have a different purchase in mind, you can also click one of these links and search for another product.\nOr use the storewide links below:\nPlugin Boutique - https://fanlink.lanewoodstudios.com/pluginboutique\nAmazon -  https://www.amazon.com/shop/lanewoodstudios\nThomann online music store - https://fanlink.lanewoodstudios.com/thomann\nSweetwater - https://sweetwater.sjv.io/NkdXqP\nBax Music (NL) - https://fanlink.lanewoodstudios.com/BaxMusic\nWaves Plugins - https://waves.alzt.net/nLzD9M\nhttps://kitplugins.com\nUse LANEWOOD10 as voucher code at checkout to get a 10% discount on any plugin at KIT Plugins!\nGIK acoustics - https://gikacoustics.net/ref/39863/\nSuno - https://suno.pxf.io/0GmenO\n\n=============================\nGear Used to Make This Video:\n=============================\nCamera (paid link) - https://geni.us/fenwfH\nLens (paid link) - https://geni.us/wuLwBx\nMicrophone (paid link) - https://geni.us/L6VJ\nActivator (paid link) - https://geni.us/QV0btW\nMic Arm (paid link) - https://geni.us/GYyfD2c\nLighting (paid link) - https://geni.us/3FDnMM\nVideo editor (paid link) - https://geni.us/chWtEAl\nDisplay calibration (paid link) - https://geni.us/TwAqR\nMouse (paid link) - https://geni.us/dwGar6\nKeyboard (paid link) - https://geni.us/wQoYAm\n\n=============================\nOther Studio Gear:\n=============================\nDAW software (paid link) - https://geni.us/CjRlex\niOS Microphone (paid link) - https://geni.us/hPTh\nMonitors (paid link) - https://thmn.to/thoprod/540739?offid=1&affid=2554\nAlternate monitors (paid link) - https://geni.us/Os8KKI\nAudio Interface (paid link) - https://geni.us/cAqoP\nAD/DA Converter (paid link) - https://geni.us/C7MzC\nAnalog Compressor 1 (paid link) - https://geni.us/zxBq7\nAnalog Compressor 2 (paid link) - https://geni.us/ioKNN\nAnalog EQ (paid link) - https://geni.us/vaYDP\nVocal Microphone (paid link) - https://geni.us/M8AMSJ\nSpeaker calibration (paid link USD) - https://bit.ly/3mi5kjo\nSpeaker calibration (paid link EUR) - https://bit.ly/3e5mo7y\nReverb plugin (paid link) - https://geni.us/V2k6h\nKomplete control (paid link) - https://geni.us/4jz20g\nDJI Mic (paid link) - https://geni.us/F2pmV\nElgato Stream Deck (paid link) - https://geni.us/fxx1VF\nTegeler Creme (paid link) - https://thmn.to/thoprod/364291?partner_id=80313\nTegeler Magnetismus 2 (paid link) - https://thmn.to/thoprod/273479?partner_id=80313\nSSL UF1 - https://thmn.to/thoprod/567897?offid=1&affid=2554\n\n=============================\nRecommended reading:\n=============================\nThe mixing engineer's handbook (paid link) - https://geni.us/Lhy8\nMixing secrets for the small studio (paid link) - https://geni.us/EbL0\n\n=============================\nFollow Me On:\n=============================\nYouTube - https://www.youtube.com/LanewoodStudios\nFacebook - https://www.facebook.com/lanewoodstudios\nInstagram - https://www.instagram.com/lanewoodstudios/\nTikTok - https://www.tiktok.com/@lanewoodstudios\n\n=============================\nCheck out my band Awash on:\n=============================\nFacebook - https://www.facebook.com/awash.me\nYouTube - https://www.youtube.com/user/awashmusic\nWebsite - http://awash.me/\nSpotify - https://fanlink.awash.me/follow\n\n#homerecording #sunoai #sunostudio",
-      "commentCount": 6,
-      "likeCount": 69,
-      "probeClient": "web_embedded"
-    },
-    "ICnamOFC0PI": {
-      "checkedAt": "2026-08-13T21:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "To learn more about AI (Community + Direct Calls) ► https://www.skool.com/ai-automation-lab-5849/about\n\nInstagram ► https://www.instagram.com/fryingpan.ig\nVibecoding livestreams (weekly Sunday 3pm EST, also live on YT) ► https://twitch.tv/fryingpan\n\nDuke reviews Gab's AI automation website and breaks down how to make an AI service offer simple enough for business owners to understand and buy. The main lesson: stop adding more sections and AI jargon, make the offer clear, and sell a low-risk 30-minute workflow review that gives the client a useful report with problems and solutions.\n\nHe also maps out practical automations for a Discord-based coaching business, including meeting summaries, client personas, Google Drive/Calendar workflows, and follow-up posts in Discord.\n\nThis is a live coaching clip, not a guaranteed-client or income formula.\n\n#AIAutomation #AIClients #DukePan\n\n[About Me]\nI’m Duke Pan, a software engineer and creator. I didn't grow up privileged, went to a no name school in Canada, and did computer science after transferring from acting and business, but I was always a hard worker. After years of attempt at content with hundreds of videos, and mostly self-learning coding throughout college, the same year I got my first internship at big tech, my YouTube also blew up and got over 6 million views in a week.\n\nI kept working hard and landed software engineering jobs at Meta, Tesla AI, and Coinbase, then cofounded a YC-backed startup building one of the early AI code editors before Claude Code existed.\n\nThat startup didn’t beat the giants that came after, but it taught me a lot about where AI tools actually create value and entrepreneurship. Now I help companies implement real AI systems and agents inside their existing workflows, including agent infrastructure across massive enterprise data systems for big tech.\n\nI also make videos about coding, AI, startups, lifestyle, and whatever I’m building next.",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "Q9VhGGfeHP0": {
@@ -7825,20 +7735,11 @@
       "likeCount": 163,
       "probeClient": "web_embedded"
     },
-    "uM2jaGBlBpU": {
-      "checkedAt": "2026-08-14T06:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "FREE - Get my video notes: https://www.codebreakthrough.com/products/63765398-fb1e\nhttps://www.coursecatalyst.com/elite\n\nTimestamps\n00:00 - Intro\n0:41 - 1. Clone Yourself\n3:25 - Fixing AI slop\n11:12 - Agent Orchestration\n14:13 - Specialized Software\n17:42 - Integrations\n\n⚙️ Backend Engineering Mind Map - https://calcur.tech/mindmap\n\n💯 FREE Courses (100+ hours) - https://calcur.tech/free-courses\n🏆 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n🐍 Backend Python Course - https://calcur.tech/backend-python\n🥇 Python Mastery Course  - https://calcur.tech/python-mastery\n\n~~~~~~~~~~~~~~~ CONNECT ~~~~~~~~~~~~~~~\n\n✉️ Newsletter - https://calcur.tech/newsletter\n📸 Instagram - https://www.instagram.com/CalebCurry\n🐦 Twitter - https://twitter.com/calebCurry\n🔗 LinkedIn - https://www.linkedin.com/in/calebcurry\n▶️ Subscribe - http://calcur.tech/subscribe\n👨🏻‍🎓 Courses - https://www.codebreakthrough.com\n🅿 Patreon - http://calcur.tech/patreon-calebcurry",
-      "commentCount": 10,
-      "likeCount": 118,
-      "probeClient": "web_embedded"
-    },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-14T14:53:31Z",
+      "checkedAt": "2026-08-14T15:53:32Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "toVxUaUg5Mc": {
       "checkedAt": "2026-08-14T07:53:11Z",
@@ -8167,6 +8068,135 @@
       "description": "If your digital counterpart consistently behaved like you, made the same decisions you would, and reacted to situations the way you would...\nWould you consider that thing “you” in any meaningful sense?\n\nCHAPTERS  ⤵ \n00:00 - MatrAIx AI Simulation: Modeling 8.3 Billion People With Persona Agents\n03:59 - Felony Bench Update: What Happened Next?\n05:59 - Google AI Studio Lead Vibe Codes Command & Conquer for iOS\n06:36 - AI Mind Reading: Are Your Thoughts the Last Truly Private Place?\n09:14 - How AI Is Quietly Changing Love, Dating & Human Relationships\n10:58 - Can AI Find Hidden Nuclear Submarines and Make the Oceans Transparent?\n12:54 - One Compromised AI Agent Can Poison an Entire Multi-Agent System\n15:15 - AI Agent Asked to Book a Gym Class Hacked the Website Instead\n16:31 - He Built a Six-Agent AI “Starfleet Crew” to Run His Home Network\n\n\nSOURCES  ⤵ \nhttps://arxiv.org/abs/2608.04205\nhttps://www.pcgamer.com/software/ai/googles-ai-studio-lead-has-vibe-coded-a-port-of-command-and-conquer-for-ios/\nhttps://www.lesswrong.com/posts/CAdG5dzkWrrK2NQg8/don-t-build-mindreading\nhttps://www.nytimes.com/2026/08/10/opinion/ai-artificial-intelligence-relationships.html\nhttps://councilonstrategicrisks.org/2026/08/10/ai-and-the-hunt-for-ballistic-missile-submarines/\nhttps://techxplore.com/news/2026-08-peering-llm-based-multi-agent.html\nhttps://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986\nhttps://app.therundown.ai/community/posts/5a6b6d22-4882-466a-ad27-b0bb5656970a\nhttps://techxplore.com/news/2026-08-labor-words-ai-partial.html\nhttps://techxplore.com/news/2026-08-people-ai-agents.html\n\n@googledeepmind \n@Wes-Dylan \n@CBS \n\n\nWATCH THE YOUTUBE VIDEO  ⤵   \nhttps://youtu.be/nMPHwAGgzqA\n\n#ArtificialIntelligence #AISimulation #FutureOfAI",
       "commentCount": 69,
       "likeCount": 289,
+      "probeClient": "web_embedded"
+    },
+    "WCrnS09vpfo": {
+      "checkedAt": "2026-08-14T15:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=codex-vs-claude-app&hcategory=youtube-videos&utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nI gave Claude Code and Codex the exact same prompt to build a production-ready Typeform alternative, then compared the products, costs, speed, agent usage, and testing. \n\nClaude Code built the more usable app in a fraction of the time, while Codex went much deeper on architecture and reliability. This experiment made it much clearer where each tool fits in my workflow and why the way you prompt them matters.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n\nTIMESTAMPS \n0:00 Same Prompt, Different Results\n0:26 The Build Prompt\n1:32 Testing RillForm\n6:07 Testing Formora\n11:52 The Reveal\n12:46 Cost, Tokens & Speed\n14:30 Agents, Tools & Tests\n15:44 What Each Tool Does Best\n20:06 Final Takeaways",
+      "commentCount": 14,
+      "likeCount": 80,
+      "probeClient": "web_embedded"
+    },
+    "DQtj7GJE8-I": {
+      "checkedAt": "2026-08-14T15:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment \"BLINK\" and I'll send you the direct link. 🔥\n\nPeople are building and selling real apps with AI and most of them have never touched code in their life.\n\nIt's called Blink dot new. Describe your idea and it builds the entire thing. Frontend. Backend. Database. Authentication. Hosting. Deployment. All before you finish your coffee.\n\nThen Blink Claw kicks in. A team of always-on AI agents running your entire business 24/7.\n\nSocial media. Security. Research. Finance. All handled without you.\n\nYour app is live. Your agents are running. You wrote zero code.\n\nSave this before you forget.\n\n#aitools #artificialintelligence #chatgpt #Blinkdotnew #claude",
+      "commentCount": 8,
+      "likeCount": 39,
+      "comments": [
+        {
+          "id": "Ugw4VM8A4uHZ_csqr1h4AaABAg",
+          "author": "@Edgecodelab",
+          "text": "Blink",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T15:54:05Z",
+          "authorThumbnail": "https://yt3.ggpht.com/khzujxaoDEBmVQFpGF8l3w85n7OhksNZ-RYcHrKUoBSLxYdXwq0PDcvzoQ-oE_dhUx8uSA7uYrM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxWnLYFEUstQ5g9SzZ4AaABAg",
+          "author": "@davidsmith3791",
+          "text": "Blink",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T15:47:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_llnNuT4ZAtLNH6a-d3uL5V_aKNwOQJLd2KzxgPk2w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzLw3HdOA8I2wKM-EJ4AaABAg",
+          "author": "@amitmishra5176",
+          "text": "BLINK",
+          "likeCount": 1,
+          "publishedAt": "2026-08-14T15:41:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mjTA6qQxLF1FuPikJ2wJuM5j0uU7okZlr1AGOOLd4J9XPC=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxB5pGH1JePpQrnS4B4AaABAg",
+          "author": "@sweetsweetserenity5058",
+          "text": "Blink",
+          "likeCount": 1,
+          "publishedAt": "2026-08-14T15:41:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/bSS14YVCE6o3yBxr3cxjZin8AsSHtoNiB8KFvi8wbCQL5-tl98TToAC4Xmj8zLryG7Gyh6Y=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyHAhrsNsZkWCqMmTN4AaABAg",
+          "author": "@jason2378",
+          "text": "Blink",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T15:39:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mu_Sp9MJWvUTzye6KWEZsBvgnCvkQ7wRQ_Bs05-kqj3vo=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwPMGOGfkraEKZ-iD94AaABAg",
+          "author": "@nazmussakibbinalam9411",
+          "text": "BLINK",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T15:31:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l8QpJ3FwbXtHZjI4DW8S74PRZzLHeY4O-DACTi51ldG1E=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxAIRUtRXOLOWfDpW94AaABAg",
+          "author": "@taylorgardarian",
+          "text": "BLINK",
+          "likeCount": 1,
+          "publishedAt": "2026-08-14T15:29:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/oB3M21uPOt5ZxR3H3mhAFnvPxp-GV1oyLcCAZ4v2RpBR1FUmJ11ffpjpn07E8zDSMH1e79h4vQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzQjz5cGMdYcwJLAsl4AaABAg",
+          "author": "@marchageman3013",
+          "text": "BLINK 🎉",
+          "likeCount": 1,
+          "publishedAt": "2026-08-14T15:28:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mpw5YrX5DDkCVLyrpZ2KRBIklaLZnzP0JtFDOoUYXcSYv4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-14T15:53:32Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "G671EGTYXzg": {
+      "checkedAt": "2026-08-14T15:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🤖 I tested some of the most popular AI tools and put them to the test!\n\nFrom AI image generation to AI-powered research, these tools are changing the way we create, work and learn in 2026.\n\nBut which AI tool actually performs the best? 👀\n\nWatch until the end to see which one takes the win! 🏆\n\n🔥 In this video:\n• AI tools comparison\n• Midjourney\n• Perplexity AI\n• AI productivity\n• AI tools for creators\n• Best AI tools in 2026\n• Artificial Intelligence\n• Future of AI\n\n💬 Which AI tool do YOU use the most?\nTell me in the comments!\n\n👍 Like the video if you found it useful\n🔔 Subscribe to Inzu Studio for more AI & technology content!\n\n#AITools #ArtificialIntelligence #AI2026 #Midjourney #Perplexity\n#AITools #ArtificialIntelligence #AI2026 #Midjourney #Perplexity #AIComparison #Tech2026 #InzuStudioAI tools 2026, best AI tools 2026, AI tools comparison, artificial intelligence, AI comparison, best AI tools, AI technology, latest AI tools, AI websites, AI apps, AI productivity tools, AI for creators, AI tools for students, Midjourney, Midjourney AI, Perplexity, Perplexity AI, Perplexity AI review, AI image generator, AI research tools, generative AI, generative artificial intelligence, future of AI, AI tech, technology 2026, AI hacks, AI tips, AI tutorial, Inzu Studio #fpy #fyp #fypシ #ai #inzu #viral #ytshorts #ronaldo #mrbeast",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "VAb3eSL7r0s": {
+      "checkedAt": "2026-08-14T15:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Struggling to keep up with the demands of modern content creation and technical asset production? Welcome back to Prince Will Tech Mastery, your home for zero-fluff, production-ready software engineering and AI automation tutorials. If you want to bridge the gap between AI theory and professional media execution—automating everything from scripting to high-fidelity video generation—this masterclass is built for you.\n\nIn this deep-dive session, we move beyond basic text generation and explore the full capability stack of leading Generative AI platforms. You will master modern, automated media workflows using Google’s advanced video and audio models, integrating conversational intelligences like Gemini and ChatGPT directly into your strategic production pipeline.\n\n💡 What You Will Learn in This Video\nAI-Driven Strategy & Scripting: Master advanced prompting in Google Gemini and ChatGPT to engineer comprehensive content strategies, SEO-optimized scripts, and complex narrative arcs in minutes.\n\nText-to-Video with Google Veo: Discover the production-level capabilities of Google Veo, learning how to generate cinematic, consistent, and high-fidelity video assets from text prompts.\n\nDynamic Audio with Google Flow: Leverage the Google Flow model for real-time, interactive, and adaptive audio synthesis, creating synchronized soundscapes and voice assets for your video productions.\n\nUnified Media Workflows: Learn how to stitch these powerful AI tools into a single, cohesive, production-ready pipeline for rapid content deployment across web and mobile.\n\n\n🔔 Subscribe for More Tutorials: Like, subscribe, and hit the notification bell to stay ahead in modern software engineering, web development, and AI automation every single week!\n\n📩 Connect & Inquiries\nFor corporate training, university lectures, consulting, channel feedback, or technical inquiries:\n📧 Email: princewill31@gmail.com\n\n#PrinceWillTechMastery #AITools #Gemini #GenerativeAI #VideoProduction #ContentStrategy #WebDev #SoftwareEngineering #NoCodeAI #ChatGPT #LearnToCode",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "ek6AuTamCaY": {
+      "checkedAt": "2026-08-14T15:53:32Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Learn Generative AI & Prompt Engineering with COMPUFIELD!\n\nAI is changing the way we work, create and build businesses. At COMPUFIELD, learn how to use powerful AI tools, master Prompt Engineering, and turn your ideas into real-world AI projects.\n\nWhether you are a student, working professional, business owner, or beginner, our practical AI training helps you build skills that are relevant to today's digital world.\n\n✨ What you can learn:\n• Generative AI & Prompt Engineering\n• AI tools for images, videos & content\n• AI-powered creativity and productivity\n• Practical, project-based learning\n• AI skills for careers and business\n\n🎯 Ready to build your AI skills?\nJoin COMPUFIELD and learn AI the practical way.\n\n📞 Call/WhatsApp: 9820134058\n\n👉 Subscribe to our channel for AI tutorials, AI tools, student projects, technology tips and career-focused training.\n\n#GenerativeAI #PromptEngineering #AICourse #ArtificialIntelligence #AITools #LearnAI #AITraining #PromptEngineeringCourse #COMPUFIELD #AICourseMumbai",
+      "commentCount": 0,
+      "likeCount": 2,
       "probeClient": "web_embedded"
     }
   }

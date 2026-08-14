@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T14:53:31Z",
+  "updatedAt": "2026-08-14T15:53:32Z",
   "items": [
+    {
+      "id": "WCrnS09vpfo",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-14T15:22:34Z",
+      "firstSeenAt": "2026-08-14T15:53:32Z"
+    },
+    {
+      "id": "DQtj7GJE8-I",
+      "type": "short",
+      "source": "primary",
+      "channel": "Insider Force",
+      "publishedAt": "2026-08-14T15:02:13Z",
+      "firstSeenAt": "2026-08-14T15:53:32Z"
+    },
+    {
+      "id": "G671EGTYXzg",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Inzu Studio",
+      "publishedAt": "2026-08-14T13:53:32Z",
+      "firstSeenAt": "2026-08-14T15:53:32Z"
+    },
+    {
+      "id": "VAb3eSL7r0s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Prince Will Tech Mastery",
+      "publishedAt": "2026-08-14T11:53:32Z",
+      "firstSeenAt": "2026-08-14T15:53:32Z"
+    },
+    {
+      "id": "ek6AuTamCaY",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Compufield",
+      "publishedAt": "2026-08-14T06:53:32Z",
+      "firstSeenAt": "2026-08-14T15:53:32Z"
+    },
     {
       "id": "drSytiIe6Jg",
       "type": "long",
@@ -13069,15 +13109,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T14:53:40Z",
-      "new": 5,
-      "long": 4,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
       "runAt": "2026-07-31T15:53:47Z",
       "new": 11,
       "long": 8,
@@ -14516,6 +14547,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-14T15:53:32Z",
+      "new": 5,
+      "long": 2,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
