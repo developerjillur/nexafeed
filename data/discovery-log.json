@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T16:53:05Z",
+  "updatedAt": "2026-08-14T17:53:15Z",
   "items": [
+    {
+      "id": "ePBbqZBYp-s",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-14T17:46:21Z",
+      "firstSeenAt": "2026-08-14T17:53:15Z"
+    },
+    {
+      "id": "MmrKvQxtlwE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-14T17:00:07Z",
+      "firstSeenAt": "2026-08-14T17:53:15Z"
+    },
+    {
+      "id": "pfvhE4Q1yLw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "m365 Show by Mirko Peters",
+      "publishedAt": "2026-08-14T15:53:15Z",
+      "firstSeenAt": "2026-08-14T17:53:15Z"
+    },
+    {
+      "id": "GrMgRj06qaA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Chris Morancie",
+      "publishedAt": "2026-08-14T15:53:15Z",
+      "firstSeenAt": "2026-08-14T17:53:15Z"
+    },
+    {
+      "id": "OONT4hOXNec",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-08-14T14:53:15Z",
+      "firstSeenAt": "2026-08-14T17:53:15Z"
+    },
+    {
+      "id": "h-fncG5fxdI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The AI Girl",
+      "publishedAt": "2026-08-14T13:53:15Z",
+      "firstSeenAt": "2026-08-14T17:53:15Z"
+    },
     {
       "id": "R72XyFMUPQY",
       "type": "short",
@@ -13141,15 +13189,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T16:53:52Z",
-      "new": 7,
-      "long": 5,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
       "runAt": "2026-07-31T17:53:56Z",
       "new": 8,
       "long": 7,
@@ -14588,6 +14627,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-14T17:53:15Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
