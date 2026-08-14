@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T10:53:27Z",
+  "updatedAt": "2026-08-14T11:53:29Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -140,15 +140,6 @@
       "description": "Learn how to use GPT Image 2 to transform ordinary real estate photos into premium listing images while preserving the property's original architecture, layout, furniture placement, and overall consistency.\n\nPrompt shown in the video:\n\nYou are a professional real estate photo retoucher. Enhance the uploaded images while preserving the exact architecture, layout, furniture placement, and overall composition. Do not redesign or alter the property. Improve the images to a premium real estate standard. For exterior shots, convert the lighting to a warm golden hour with soft natural light, realistic illuminated windows, balanced exposure, rich colours, and a welcoming atmosphere. For interior shots, enhance lighting, colours, materials, furnishings, and styling where appropriate (e.g., neatly made beds, polished surfaces, tidy décor), while keeping the room consistent with the original. Maintain a realistic, high-end look throughout. Keep the original 9:16 aspect ratio. Edit only the image I request, and wait for my next instruction before editing the next one. Start with the first one.\n\nImportant Links:\n\nHiggsfield - https://higgsfield.ai/?fpr=kush87\n\nGPT Image 2.0 Full Course on Udemy - https://www.creativepadmedia.com/udemy-gpt-image-2-0-course-for-beginners/\n\nAll our premium online courses - https://www.creativepadmedia.com/online-courses\n\nAffiliate Disclosure - Some of the links above may be affiliate links. If you subscribe to or purchase the product using those links, we may earn a small commission.",
       "commentCount": 5,
       "likeCount": 34,
-      "probeClient": "web_embedded"
-    },
-    "OfUA0vUzl9w": {
-      "checkedAt": "2026-08-13T20:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Hey everyone, In this video, we are going to talk about APM, Application performance monitoring in nodejs and how it is different from simple logging and tracing. We will also setup Site24x7 for APM in nodejs.\n\nCheckout Site24x7 https://www.manageengine.com/it-operations-management/download.html?YTI=&utm_source=piyush&utm_medium=video\n\nCheckout My Courses:\n- Master Docker Containerization: https://pro.piyushgarg.dev/learn/docker\n- Master DSA with Java: https://piyushgarg.pro/udemy-java-dsa\n- Master GenAI with Python: https://piyushgarg.pro/udemy-genai\n- Master Backend with NodeJS: https://piyushgarg.pro/udemy-nodejs\n\nFollow Me:\n- Instagram: https://www.instagram.com/piyushgarg.official\n- X (Formerly Twitter): https://x.com/piyushgarg_dev\n- Personal Website: https://www.piyushgarg.dev\n- LinkedIn: https://www.linkedin.com/in/piyushgarg195\n\nFounder / Creator of:\n- Teachyst: https://www.teachyst.com\n- WisprType: https://wisprtype.com\n- SkyPing: https://skyping.app\n\nMy Gears:\n- Standing Desk: https://amzn.to/4cUN6PL\n- Chair: https://amzn.to/429Q38S\n- MacBook Pro: https://amzn.to/4djTYGf\n- Keyboard: https://amzn.to/4w228KQ\n- Mouse: https://amzn.to/42Hxw3J\n\nVideo Titles\n- What is APM?\n- What is Application Performance Monitoring?\n- How to monitor Nodejs Applications?\n\nHashtags\n#nodejs #backendwebdevelopment #webdevelopment #fullstackdevelopment #systemdesign #devops #javascript #faang #coding #programming",
-      "commentCount": 20,
-      "likeCount": 296,
       "probeClient": "web_embedded"
     },
     "yaJAMagc_sE": {
@@ -7180,14 +7171,25 @@
       "availability": "public"
     },
     "c65S-LZLbv0": {
-      "checkedAt": "2026-08-13T10:53:44Z",
+      "checkedAt": "2026-08-14T11:53:29Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Anthropic has released **Plugins for Claude Co-work**, allowing Claude to specialize in different roles like **HR, Finance, Legal, Sales, Marketing, Design, and Operations**.\n\nEach plugin includes pre-built **skills, commands, and connectors**, so Claude is ready to perform that role as soon as it's installed.\n\nThe best part? They're just **plain text files**—no coding or complex setup required.\n\nAnthropic has also **open-sourced 11 plugins on GitHub**.\n\nClaude Co-work, Claude plugins, Anthropic, Claude AI, AI plugins, AI productivity, AI workflow, HR plugin, finance plugin, legal plugin, sales plugin, marketing plugin, design plugin, operations plugin, AI agents, AI skills, AI commands, AI connectors, developer tools, workplace AI, enterprise AI, automation, artificial intelligence, GitHub, open source AI, Claude tutorials",
-      "commentCount": 0,
-      "likeCount": 2,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-13T10:53:44Z",
+      "commentCount": 1,
+      "likeCount": 18,
+      "comments": [
+        {
+          "id": "UgzGt67P7cGBlFWkAKR4AaABAg",
+          "author": "@TheRaghavluthra",
+          "text": "Plugins",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nanSswCNEqiNnq3upnP9kwUO4qtiYNEmVnmJsye_vIGR0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-14T11:53:29Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7201,25 +7203,45 @@
       "probeClient": "web_embedded"
     },
     "UjJWdjwrqpM": {
-      "checkedAt": "2026-08-13T11:53:08Z",
+      "checkedAt": "2026-08-14T11:53:29Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Claude Code sessions can now communicate with each other using cross-session messaging.\n\nThat means you can run multiple Claude Code sessions in parallel and let them send messages, share updates, and react to changes without you manually coordinating every step.\n\nOne session can notify another when its work affects their task, turning separate coding agents into a coordinated team.\n\nOnly the message is shared between sessions, keeping your files and conversation history separate.\n\nIf you're running multiple Claude Code agents, this can seriously change how you manage parallel development.\n\n#claudecode #anthropic #aiagents #coding #developer #ai",
-      "commentCount": 1,
-      "likeCount": 3,
+      "commentCount": 3,
+      "likeCount": 19,
       "comments": [
+        {
+          "id": "Ugz4mXpMoRp7hO3bcOl4AaABAg",
+          "author": "@robertfox3156",
+          "text": "Code",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lp9OQ-_ykMGuXZ9KrcKyPSm9kA9vB9cMF5T5UXie-0OmMMmgygTjG1BuATiGxiSrkuCQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgynWFNUt371OJAzvGV4AaABAg",
+          "author": "@Devil_REDACTED",
+          "text": "Can I get Claude and Gemini to work together?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Y3SQM0Bx8QrBDN9CC2cIl3Jb6ABIL06AwOk_olVl125-kaoF0f0rWhgaw60G1TP6D6QQu9VdvA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgwjJ2MU2AEJ858XUdJ4AaABAg",
           "author": "@cryptowilde7584",
           "text": "Code",
           "likeCount": 1,
-          "publishedAt": "2026-08-13T11:38:00Z",
+          "publishedAt": "2026-08-13T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/EnLrDgMO5f9kC8TAIr26HYEX9hb0gOknHOWzxERbGjIe75SBGuJS2J_Ue0dCPva5JEidq22q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-13T11:53:08Z",
+      "commentsFetchedAt": "2026-08-14T11:53:29Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7383,7 +7405,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-14T10:53:27Z",
+      "checkedAt": "2026-08-14T11:53:29Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7516,17 +7538,8 @@
       "likeCount": 37,
       "probeClient": "web_embedded"
     },
-    "vpibH71_uq0": {
-      "checkedAt": "2026-08-13T16:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get the Agent OS & Hermes Agent Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nHermes AI Agents Go Portable: Own Your AI Identity Forever\n\nNous Research just changed the game by making Hermes AI agents fully portable and shareable via single-file exports. Learn how to move your agent's persona, memory, and skills between machines while keeping your sensitive API keys secure.\n\n00:00 - Intro: Hermes AI Agents Go Portable\n00:40 - The New Export & Import Commands\n02:17 - What’s Inside the Export File?\n04:02 - Safe Sharing: Stripping API Keys\n05:47 - 4 Major Unlocks for Productivity\n07:58 - Community & Shareable Profiles\n08:42 - AI Identity vs. The Model Brain\n12:04 - Summary: The Future of Portable AI",
-      "commentCount": 3,
-      "likeCount": 19,
-      "probeClient": "web_embedded"
-    },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-14T10:53:27Z",
+      "checkedAt": "2026-08-14T11:53:29Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8035,7 +8048,7 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-14T10:53:27Z",
+      "checkedAt": "2026-08-14T11:53:29Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8229,11 +8242,32 @@
       "likeCount": 281,
       "probeClient": "web_embedded"
     },
-    "hKFv6qqFjTk": {
-      "checkedAt": "2026-08-14T10:53:27Z",
-      "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+    "iYygll8N2CQ": {
+      "checkedAt": "2026-08-14T11:53:29Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Hey everyone, In this video, we are going to see if claude can fully access to my hostinger VPS.\n\nCheckout Hostinger: https://piyushgarg.pro/hostinger\nCheckout Hostinger Integration: https://www.hostg.xyz/SHJt9\n\nCheckout My Courses:\n- Master Docker Containerization: https://pro.piyushgarg.dev/learn/docker\n- Master DSA with Java: https://piyushgarg.pro/udemy-java-dsa\n- Master GenAI with Python: https://piyushgarg.pro/udemy-genai\n- Master Backend with NodeJS: https://piyushgarg.pro/udemy-nodejs\n\nFollow Me:\n- Instagram: https://www.instagram.com/piyushgarg.official\n- X (Formerly Twitter): https://x.com/piyushgarg_dev\n- Personal Website: https://www.piyushgarg.dev\n- LinkedIn: https://www.linkedin.com/in/piyushgarg195\n\nFounder / Creator of:\n- Teachyst: https://www.teachyst.com\n- WisprType: https://wisprtype.com\n- SkyPing: https://skyping.app\n\nMy Gears:\n- Standing Desk: https://amzn.to/4cUN6PL\n- Chair: https://amzn.to/429Q38S\n- MacBook Pro: https://amzn.to/4djTYGf\n- Keyboard: https://amzn.to/4w228KQ\n- Mouse: https://amzn.to/42Hxw3J\n\nHashtags\n#nodejs #javascript #webdevelopment #systemdesign #backenddeveloper #fullstackwebdevelopment #javascript #coding #programming #systemdesign #htmlcss #webdevelopment",
+      "commentCount": 5,
+      "likeCount": 31,
+      "probeClient": "web_embedded"
+    },
+    "75jxGuFNajI": {
+      "checkedAt": "2026-08-14T11:53:29Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "If you've been on TikTok lately, you've seen the thumbnail: \"I made $300 a day with an AI automation agency, no experience needed.\" I didn't try to run one — I checked what actually happens when real people do. The gap is bigger than you'd think.\n\n⏱️ CHAPTERS\n0:00 The TikTok claim\n0:17 The real business model (it IS real)\n0:32 $300/day translated to real beginner numbers\n0:49 What experienced operators actually report\n1:07 The part hype videos don't mention: the FTC\n1:28 The honest version\n\n📊 THE REAL NUMBERS\nBeginners (first 6 months): $500–$1,000/month, not $9,000\nMid-tier (6–12 months in, real clients): $3,000–$8,000/month\nTop operators (rare, a year+ in): $10,000–$25,000/month\nFTC enforcement: shut down multiple AI \"passive income\" schemes in 2025–2026, totaling $40M+ in consumer losses\n\n💬 The honest version: this can be a real business — client acquisition, retainers, actual service delivered. It's just not passive, and it's not day one. If a video promises $300/day starting out, that's the tell, not the AI part.\n\nSources for all of this are linked below.\n\n#AIProfitLab #AISideHustle #FactCheck #AIAutomation #TikTokDebunk #SmallBusiness",
+      "commentCount": 1,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "_g1FtUeR9Xo": {
+      "checkedAt": "2026-08-14T11:53:29Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Start Using Smartlead for Free: https://app.smartlead.ai/sign-up\n\nIn this video, we walk through how to use Claude Code connected to Smartlead to find new clients in a single prompt, covering the setup, the prompt that pulls a verified lead list from SmartProspect, and how to launch a campaign with that list in minutes.\n\nRead our guides and ebooks: https://www.smartlead.ai/ebook-and-guide\n\nLearn more about Smartlead: https://www.smartlead.ai\n\nFollow us on LinkedIn: https://www.linkedin.com/company/smartlead-ai/\n\nIf you liked this video, subscribe to the channel!",
+      "commentCount": 1,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
     }
   }
 }

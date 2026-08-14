@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T10:53:27Z",
+  "updatedAt": "2026-08-14T11:53:29Z",
   "items": [
+    {
+      "id": "iYygll8N2CQ",
+      "type": "long",
+      "source": "primary",
+      "channel": "Piyush Garg",
+      "publishedAt": "2026-08-14T11:00:01Z",
+      "firstSeenAt": "2026-08-14T11:53:29Z"
+    },
+    {
+      "id": "75jxGuFNajI",
+      "type": "short",
+      "source": "secondary",
+      "channel": "aiprofitlab",
+      "publishedAt": "2026-08-13T18:53:29Z",
+      "firstSeenAt": "2026-08-14T11:53:29Z"
+    },
+    {
+      "id": "_g1FtUeR9Xo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Smartlead",
+      "publishedAt": "2026-08-13T15:53:29Z",
+      "firstSeenAt": "2026-08-14T11:53:29Z"
+    },
     {
       "id": "_WjLKDD2FS8",
       "type": "short",
@@ -12933,15 +12957,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T11:53:16Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
       "runAt": "2026-07-31T12:53:25Z",
       "new": 4,
       "long": 3,
@@ -14371,6 +14386,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-14T11:53:29Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
