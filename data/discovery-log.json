@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T00:53:16Z",
+  "updatedAt": "2026-08-14T01:53:20Z",
   "items": [
+    {
+      "id": "9McAge0lGwc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "reachmarketingllc",
+      "publishedAt": "2026-08-13T21:53:20Z",
+      "firstSeenAt": "2026-08-14T01:53:20Z"
+    },
+    {
+      "id": "8up0OT5-tUU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Compow ",
+      "publishedAt": "2026-08-13T17:53:20Z",
+      "firstSeenAt": "2026-08-14T01:53:20Z"
+    },
+    {
+      "id": "qM-FmQlIFLQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-13T16:53:20Z",
+      "firstSeenAt": "2026-08-14T01:53:20Z"
+    },
+    {
+      "id": "BiYoVVesf1s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Noor Alam",
+      "publishedAt": "2026-08-13T15:53:20Z",
+      "firstSeenAt": "2026-08-14T01:53:20Z"
+    },
+    {
+      "id": "F8KDSsjGw-I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CryptoCashMike",
+      "publishedAt": "2026-08-13T14:53:20Z",
+      "firstSeenAt": "2026-08-14T01:53:20Z"
+    },
+    {
+      "id": "CZm7UCGiUBI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WsCube Tech",
+      "publishedAt": "2026-08-13T13:53:20Z",
+      "firstSeenAt": "2026-08-14T01:53:20Z"
+    },
     {
       "id": "tALspcgE1cE",
       "type": "long",
@@ -12621,15 +12669,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T00:53:44Z",
-      "new": 2,
-      "long": 1,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
       "runAt": "2026-07-31T01:53:44Z",
       "new": 3,
       "long": 2,
@@ -14068,6 +14107,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-14T01:53:20Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
