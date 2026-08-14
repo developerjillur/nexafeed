@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T01:53:20Z",
+  "updatedAt": "2026-08-14T02:53:20Z",
   "items": [
+    {
+      "id": "T0fDgDHa46A",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-14T02:15:06Z",
+      "firstSeenAt": "2026-08-14T02:53:20Z"
+    },
+    {
+      "id": "srR4PEEqlAA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jake Dawson",
+      "publishedAt": "2026-08-13T19:53:20Z",
+      "firstSeenAt": "2026-08-14T02:53:20Z"
+    },
     {
       "id": "9McAge0lGwc",
       "type": "long",
@@ -12669,24 +12685,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T01:53:44Z",
-      "new": 3,
-      "long": 2,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
-      "runAt": "2026-07-31T02:53:10Z",
-      "new": 3,
-      "long": 3,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
       "runAt": "2026-07-31T03:53:16Z",
       "new": 2,
       "long": 2,
@@ -14116,6 +14114,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-14T02:53:20Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }

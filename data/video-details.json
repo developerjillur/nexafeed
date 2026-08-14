@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T01:53:20Z",
+  "updatedAt": "2026-08-14T02:53:20Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -2497,49 +2497,6 @@
       "description": "💎 Unlock Higgsfield: https://bit.ly/4w5AmvH\n🩵 FREE Resources: https://bit.ly/4fI8DMP\n📈 ALL Systems: https://bit.ly/4kol0y5\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n\n*👋 Howdy*\nHey, I'm Jack, I built and sold my last tech startup with a Gazillion customers, now I'm building AI startups and I share stuff that works. I quit my corporate job to do my start-up and have never looked back since.\n\n*💬 Overview*\nClaude Design gets genuinely useful once you stop prompting from scratch and build a proper design system first, and that is exactly what this walkthrough covers using a made up burger brand as the example. We start by creating a design system inside Claude Design, letting Claude interview us about the brand, then connect a skill to Higgsfield to generate logos, textures and hero images in one go. From there we build a full website on those assets, export the project and hand it over to Claude Code, where a 3D website skill adds a scroll animated showstopper section. There is also UI sniping from 21st.dev, Aceternity UI and React Bits, plus reusing the same system for animated video graphics. It works even if you are a complete beginner who just wants designs that do not look like AI slop.\n\n*Links*\n☁️ Claude: https://claude.ai/\n🎬 Higgsfield: https://bit.ly/4w5AmvH\n🔥 Firecrawl: https://bit.ly/4feyw72\n🧩 21st.dev: https://21st.dev/\n✨ Aceternity UI: https://ui.aceternity.com/\n⚛️ React Bits: https://reactbits.dev/\n📁 GitHub: https://github.com/\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n\n⌚️ *Stamps:*\n0:00 - Stop AI Slop Forever\n0:32 - The Five-Step System\n1:12 - Level 1\n1:43 - Design System Created\n2:12 - Higsfield Skill Unlocked\n2:53 - Claude Builds Your Brand\n3:19 - Your Brand Identity Ready\n3:42 - Full Asset Pack Generated\n3:59 - Level 2\n4:29 - Brand Assets Loaded In\n4:55 - Brand Blurb Applied\n5:11 - Best Model For Results\n5:52 - Beautiful Website Born\n6:18 - Endless Iterations Possible\n6:35 - Level 3\n6:52 - The Design Handover\n7:20 - Export Your Project\n7:37 - Site Live In Claude Code\n9:34 - The Showstopping Feature\n10:09 - 3D Website Skill Ready\n10:25 - 3D Animation Triggered\n12:01 - Perfect Clip Length Tips\n12:12 - Trending UI Components Found\n12:48 - Distortion Shaders Added\n13:05 - Premium Edgy Components\n13:31 - Burger Site Comes Alive\n14:12 - Level 4\n14:57 - Your Style PDF Uploaded\n15:15 - Animated Text Components Built\n15:37 - Prompt Refined By AI\n16:01 - Real Workflow Revealed\n16:41 - Animation Rendered Live\n17:06 - Iterating Toward Perfection\n17:45 - What's Next\n\nThis tutorial shows you how to build a Claude Design system, generate brand assets with Higgsfield, hand your project over to Claude Code and create beautiful AI websites with 3D animations and UI components from 21st.dev, Aceternity UI and React Bits.\n\n#ClaudeDesign #ClaudeCode #Higgsfield #AIWebsiteBuilder #DesignSystem #WebDesign",
       "commentCount": 117,
       "likeCount": 1617,
-      "probeClient": "web_embedded"
-    },
-    "MWE9Okxsw_E": {
-      "checkedAt": "2026-08-08T22:53:50Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 3,
-      "likeCount": 518,
-      "comments": [
-        {
-          "id": "UgzkTvt7XmF8VKQabiV4AaABAg",
-          "author": "@RecipeTrier",
-          "text": "I have created a tool that does something like this and does a lot more than just converting to md files, and it's not LLM dependent it's fast and efficient and it's token saver. The link of the repo is /gistline. Check it out, use it, and create a video on it if you like it. Best of all is that it's dependency free and works with any CLIs or IDEs. It also works on any OS.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nkjDY4VPa-AvgellUMr2fdWuTEAKaxtqOEB4u4UV-mAg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwH-DGwA7VnNSIABB54AaABAg",
-          "author": "@MisterK-YT",
-          "text": "PERSONALLY I had better results with Markitdown (Microsoft’s version of this). I tried it only on one pdf and one docx tho so far.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/oNu4rUy8dc98jUAmIeCKpqACqdR35ojJQrC-LvjHAjNzgttZeZpPDPWnfiOftAER1LjR_jLK6jw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwW7FuBf5b-oUiL2RF4AaABAg",
-          "author": "@danielhova7826",
-          "text": "The accuracy and integrity is the most important to me, but the speed is an incredible leap!",
-          "likeCount": 1,
-          "publishedAt": "2026-08-07T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kyFOljSj6fpHWzsWhGx3Jp4UfjVzNENaGhQ2Slkzo=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-08T22:53:50Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "AncgOoIdHaE": {
@@ -7189,14 +7146,45 @@
       "probeClient": "web_embedded"
     },
     "ZRGYzWoWaYg": {
-      "checkedAt": "2026-08-13T01:53:30Z",
+      "checkedAt": "2026-08-14T02:53:20Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 2,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-13T01:53:30Z",
+      "commentCount": 3,
+      "likeCount": 35,
+      "comments": [
+        {
+          "id": "UgxweaztMDyk83SK6T94AaABAg",
+          "author": "@Monkeyfrommars69",
+          "text": "You can launch cursor cloud agents directly from grok bot using any model you have access to. Also I am able to use the 300.00 grok heavy plan that I’m paying 99 dollars for thanks to the 3 month promo they had. It gives me access to cursor ultra included.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-13T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kIQd925lZn3kNvSQBuSIvxotU3QPyWJUGr6nl8J4Bbkl1bcFpzgHabStJf-LedxUFwQA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyxPSW2eIxJ5GdrLTt4AaABAg",
+          "author": "@KM-Tech-AI",
+          "text": "Thank you. You're the first person that has taken the stance. I have been using Claude code quite successfully to build several apps on the $20 a month plan. So paying $200 a month for something that I would use to learn about multi agent workflows is not in the cards immediately.",
+          "likeCount": 2,
+          "publishedAt": "2026-08-13T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/mxRA7r_a-gtD5CEcLgnn50urX8MPWNSTpeToTg1_nYl38hXZxWylQBZZfdO_d2oGeZ2T5oM1=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyW2jgTNds0ynyH06R4AaABAg",
+          "author": "@YoungMoneyInvestments",
+          "text": "Couldn’t disagree more. I’m one of the largest private users of AI compute on earth and this take really makes you look like you don’t know much about consumers or AI in general. \n\nGive it six months, you’ll see how much market share xAI will take from anthropic and OpenAI because of this decision.",
+          "likeCount": 1,
+          "publishedAt": "2026-08-13T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nbUkwXf8Winw_eNIrjvBjq2nP7pUtkuEfh_y6WJ_iniF4H=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-14T02:53:20Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7304,7 +7292,7 @@
       "probeClient": "web_embedded"
     },
     "CTkKoz-TieY": {
-      "checkedAt": "2026-08-14T01:53:20Z",
+      "checkedAt": "2026-08-14T02:53:20Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7536,7 +7524,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-14T01:53:20Z",
+      "checkedAt": "2026-08-14T02:53:20Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7588,15 +7576,6 @@
       "embedAllowed": true,
       "availability": "public",
       "description": "Digital marketing shouldn’t feel like a never-ending guessing game.\n\nSEO. Social media. Content. Email. Websites. Lead generation. Automation. AI. There are more ways than ever to market a business—and that can make it harder than ever to know what you should actually be doing.\n\nThat’s why we created the Digital Marketing Book + Workbook Bundle.\n\nThis isn’t about giving you another pile of marketing ideas to read and forget.\n\nThe goal is to help you understand digital marketing, think more strategically, and turn what you learn into an actionable plan for your business.\n\n📘 The Book: Learn the concepts, strategies, and thinking behind effective digital marketing.\n\n📝 The Workbook: Take those ideas and begin applying them to your own business, audience, goals, messaging, and marketing activities.\n\nTogether, they help bridge the gap between “I know I should be doing more marketing” and “I know what I need to work on next.”\n\nIf you’re a small business owner, entrepreneur, independent professional, or marketer who feels overwhelmed by all the moving pieces of digital marketing, this bundle was designed to help you bring more structure to the process.\n\nInstead of chasing every new tactic, start building a stronger marketing foundation.\n\nLearn it. Work through it. Apply it.\n\n👉 Get the Digital Marketing Book + Workbook Bundle here:\nhttps://www.web-search-pros.com/product/digital-marketing-growth-textbook-and-workbook-bundle/\n\nDigital marketing changes quickly. Strong marketing fundamentals don’t.\n\nStart building a strategy you can actually put to work.\n\nWeb Search Professionals\nDigital Marketing • Marketing Education • SEO • Content • Social Media • Marketing Automation\n\n#DigitalMarketing #SmallBusinessMarketing #MarketingStrategy #Entrepreneur #DigitalMarketingTips #SmallBusiness #MarketingPlan #SEO #ContentMarketing #SocialMediaMarketing\n\nWeb Search Professionals currently describes its work around digital marketing technology and services including marketing education, small-business marketing, social media management, automation/email marketing and related disciplines.",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "Ue96FV_AdBs": {
-      "checkedAt": "2026-08-13T14:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this tutorial, we explore the Marketing Campaigns section in Zoho Marketing Automation and learn how businesses can create, organize, and manage marketing campaigns across multiple channels.\n\nThe Marketing Campaigns module helps businesses plan promotional activities, engage customers through email, SMS, WhatsApp, and social media, while tracking campaign performance from one centralized platform.\n\nIn this video, we provide an overview of Marketing Campaigns and explain how to create and manage campaigns effectively in Zoho Marketing Automation.\n\nTimestamps\n\n00:00 – Introduction\n\n00:10 – Introduction to Marketing Campaigns\n\n00:30 – Marketing Campaigns Overview\n\n01:00 – Accessing the Campaigns Module\n\n01:30 – Creating a New Campaign\n\n02:00 – Configuring Campaign Details\n\n02:30 – Managing Campaign Activities\n\n03:00 – Monitoring Campaign Performance\n\n03:30 – Organizing Multiple Campaigns\n\n04:00 – Campaign Review\n\n04:20 – Conclusion\n\nWhat you will learn\nIntroduction to Marketing Campaigns in Zoho Marketing Automation\nUnderstanding the Campaigns module\nHow to create a new marketing campaign\nConfiguring campaign details and settings\nManaging multi-channel marketing campaigns\nMonitoring campaign performance\nOrganizing and reviewing marketing campaigns effectively\n\nThis tutorial is part of our Zoho Marketing Automation tutorial series. Follow the complete series to learn how to use Zoho Marketing Automation and explore its features step by step.\n\nSubscribe to OHO Solutions for more Zoho tutorials, product guides, business automation solutions, digital marketing content, and practical guides for Zoho products.\n\nAbout OHO Solutions\n\nOHO Solutions is a Zoho Premium Partner providing Zoho implementation, customization, integration, and business automation solutions to help businesses streamline their operations and improve productivity.\n\nContact OHO Solutions\n\n📞 +91 95674 43377\n\n🌐 www.ohosolutions.com\n\n#ZohoMarketingAutomation #Zoho #ZohoTutorial #MarketingCampaigns #MarketingAutomation #ZohoTraining #DigitalMarketing #BusinessAutomation #EmailMarketing #OHOSolutions",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
@@ -7724,10 +7703,10 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-14T01:53:20Z",
+      "checkedAt": "2026-08-14T02:53:20Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "LHFqw7Znk_Y": {
       "checkedAt": "2026-08-13T17:53:13Z",
@@ -7846,15 +7825,6 @@
       "description": "Cortex is an Engineering Operations (EngOps) platform designed as mission control for modern software organizations. It helps engineering teams maintain reliability, security, and velocity as AI multiplies output and the number of services, tools, and agents grows.\n\nCortex aggregates data from existing tools into a unified service catalog and context graph. Teams can define ownership, enforce standards through Scorecards, automate workflows and golden paths, measure production readiness, and track AI impact. The platform supports self-service actions, reduces friction for developers, and gives leaders clear visibility into engineering health and maturity.\n\nKey outcomes reported by users include significantly lower MTTR, faster service creation, and improved cycle times. Cortex is used by engineering leaders, platform teams, SREs, and developers at companies ranging from startups to Fortune 500 organizations.\n\nCortex is ideal for engineering organizations that want to scale AI-assisted development without losing control over reliability, ownership, and operational excellence.\n\nHighlights:\n• Unified service catalog and ownership model\n• Scorecards and standards for production readiness and AI maturity\n• Automated workflows and self-service golden paths\n• Engineering Intelligence and AI Impact insights\n• Strong focus on reducing MTTR and developer friction\n\nPotential Considerations:\n• Requires integration with existing tools to deliver full value\n• Best results come from consistent adoption of ownership and Scorecard practices\n• Platform continues to expand AI-native capabilities\n\nOverall Verdict: 4.7/5 stars. \nCortex provides a practical and increasingly AI-aware layer of operational control for engineering teams. As organizations become “AI software factories,” it offers a clear way to keep reliability, standards, and visibility in sync with accelerating delivery.\n\nEarn 1 QUA reward by reviewing on Quasa.io too!\nGet started: https://quasa.io/projects/cortex\n#Quasa #QUA #cortex  #QuasaRewards",
       "commentCount": 1,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "tyHhBuaDguU": {
-      "checkedAt": "2026-08-13T19:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Link of Bootcamp : https://tinyurl.com/3bx6866k\n\nIs web development dead in 2026? Every second comment on the internet says AI has killed web development — and every second fresher is now scared to open a React tutorial. In this video I break down what has actually happened to web development in 2026: what AI genuinely replaced, what it did not, why web developer hiring feels dead when it isn't, and the exact roadmap to stay relevant as a web developer in the AI era.\n\nCursor, Claude Code, v0, Lovable and Copilot can now generate a landing page in 40 seconds. So the honest question is not \"will AI replace web developers\" — it is \"which kind of web developer is AI replacing, and which kind is getting paid more than ever.\" Web development is not dead. The bottom 60% of it is. And that difference decides your entire career.\n\nSo if you're a student learning MERN, a fresher stuck applying to 300 web developer jobs with no response, a working frontend or backend developer wondering if you should switch to AI/ML, or someone in a service-based company watching AI tools do your daily work — this video tells you exactly where web development stands in 2026 and what you should do next.\n\nIn this video I have covered:\n\nIs web development dead in 2026 — the real answer with actual hiring data, not opinions What AI has actually automated in web development, and what it still cannot touch Why web developer jobs for freshers feel dead in 2026 (the real reason, and it's not AI alone) Cursor, Claude Code, v0, Lovable — what these AI coding tools changed about the job itself Why companies stopped hiring \"HTML CSS JavaScript React\" developers but are still paying for engineers The gap between a web developer and a software engineer — and why AI only killed one of them Complete web development roadmap 2026 — what to learn, in what order, and what to skip The AI skills every web developer must add now: APIs, LLM integration, RAG, agents, AI-assisted workflows Full stack developer roadmap 2026 — how MERN, Next.js, system design and AI fit together How much DSA a web developer actually needs in 2026 Should you switch from web development to AI/ML — the honest answer Web developer salary in India 2026 — realistic bands for freshers and experienced devs Who should NOT continue with web development\n\nConnect with me here:\n\nLinkedIn: https://in.linkedin.com/in/parikh-jain-79568798 Instagram: https://www.instagram.com/parikhjain/\n\nAll Resources At One Place - https://propeers.in/roadmaps\n\nImportant Roadmaps:\n\nComplete DSA 251 Roadmap - https://www.youtube.com/watch?v=qqvYFlBJMSw Recursion Roadmap - https://www.youtube.com/watch?v=Bfx7uq3qoFc\n\nImportant Videos For Your Career:\n\nDon't Learn DSA Like This - https://www.youtube.com/watch?v=RRjekv8D-O8 Is DSA Useless Now? - https://www.youtube.com/watch?v=TgGPkW91I00 How to Make Notes in DSA - https://www.youtube.com/watch?v=Ip0LcF5a1xQ Not Able to Solve DSA Problems? - https://www.youtube.com/watch?v=0kdXouOk_dI Manage DSA, Development, College, Office Like This - https://www.youtube.com/watch?v=TLAARB9v9IE\n\nInteresting Podcasts:\n\nPodcast With Striver - Reality About Software Engineering - https://www.youtube.com/watch?v=YmYlfYpuE7c Tier 3 College To Google - https://www.youtube.com/watch?v=63_Uo-cwm_s\n\nBeing an ex-software engineer at Amazon, and Ex-Founding Member at Coding Ninjas, I have seen how web development hiring actually works from the inside — so this is a practical breakdown, not a doom video and not a hype video.\n\nWould love to know your thoughts through comments, and any feedback is most welcome.\n\nDo like and share it if you loved it. And don't forget to subscribe to the channel :)\n\nTags: is web development dead, is web development dead in 2026, web development 2026, will ai replace web developers, is web development a good career, web developer jobs 2026, web development career 2026, should i learn web development in 2026, web development roadmap 2026, full stack developer roadmap 2026, mern stack 2026, is mern stack dead, is react dead, frontend developer jobs 2026, web developer salary, web developer salary in india, fresher web developer jobs, ai replacing developers, ai vs web developers, future of web development, cursor ai, ai coding tools, web development vs ai ml, should i switch to ai ml, is software engineering dead, software engineer jobs 2026, tech jobs 2026, dsa for placements, placements, off campus placements, parikh jain, propeers\n\n#webdevelopment #iswebdevelopmentdead #webdev2026 #fullstackdeveloper #aiengineer #reactjs #mernstack #softwareengineer #techjobs2026 #careerroadmap #placements #dsa\n\nis web development dead, is web development dead in 2026, web development 2026, will ai replace web developers, web developer jobs 2026, should i learn web development in 2026, web development roadmap 2026, full stack developer roadmap 2026, is mern stack dead, web developer salary in india",
-      "commentCount": 11,
-      "likeCount": 110,
       "probeClient": "web_embedded"
     },
     "t6kDH-Z1R_E": {
@@ -8118,6 +8088,78 @@
       "description": "High-Paying Jobs AI Still Can’t Replace!\n\n━━━━━━━━\n\n🚀 Digital Marketing is one of the fastest-growing and highest-paying skills in today’s AI era.\n\n🔴 Become a AI Powered Digital Marketer in 20 Weeks: 21+ Projects, and 20+ Case Study & More (👉 Apply Today): https://www.wscubetech.com/digital-marketing-course?utm_source=YouTube&utm_medium=YT_Video&utm_campaign=Random_Video&utm_post_id=WsAug2026_12\n\n📞 Want to enroll? Call Now: +91-9352976305\n\n━━━━━━━━\n\nIn this video, we rank different job roles based on their AI impact — from roles that are more resistant to AI to those facing higher automation risk.\n\nWe’ll break down the AI Job Tier List and compare career options based on AI impact, future demand, job stability, and career scope so you can make smarter career decisions in 2026.\n\nIf you’re a student, fresher, working professional, or planning a career switch, this video will help you understand which job roles could be safer in the AI era and which ones may require upskilling.\n\nWatch till the end to see where your job role ranks!\n\n━━━━━━━━\n\n🎯 Join Our AI Powered Digital Marketing Mentorship Program\n\n📅 Starting From: 22 August, 2026 \n🕘 Timing: 09:30 - 11:30 PM\n\nInside the Program:\n✅ 120+ Hours LIVE Sessions\n✅ 21 Real Industry Projects\n✅ SEO + AEO + AI Marketing\n✅ Meta Ads & Google Ads\n✅ Content & Influencer Marketing\n✅ AI Automation & Workflows\n✅ Portfolio Building & Career Support\n\n⚡ Seats are limited. Go fast and book your seat now!\n\n#AIJobs #FutureJobs #AIImpact #FutureOfJobs #Career2026 #JobRoles #AIandJobs #CareerAdvice #FutureProofJobs #AIJobs2026 #CareerGrowth #Upskilling #JobsOfTheFuture #Freshers #TechCareers",
       "commentCount": 7,
       "likeCount": 112,
+      "probeClient": "web_embedded"
+    },
+    "T0fDgDHa46A": {
+      "checkedAt": "2026-08-14T02:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 12,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-14T02:53:20Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "Gx2QN7FvKAM": {
+      "checkedAt": "2026-08-14T02:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "HIGGSFIELD MCP - https://higgsfield.ai/?fpr=greg12\n\n\n\n\nYou can now create Vox-style motion graphics, Johnny Harris map-style motion graphics and any other graphics you can think of using this simple Higgsfield MCP method. When you try it you'll see that it's actually pretty mind-blowing. \n\n\n\n\n0:00 Higgsfield Motion Graphics\n1:03 Higgsfield MCP Setup\n2:06 Motion Graphics Tutorial\n4:40 Bonus Method",
+      "commentCount": 13,
+      "likeCount": 27,
+      "probeClient": "web_embedded"
+    },
+    "Kh3b4pOhu_8": {
+      "checkedAt": "2026-08-14T02:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Here's How I'd Make $100k On YouTube With 4 Claude AI Plugins (If I Had to Start Over).\n\nHere's the 4 Claude Plugins (MCPs) I'd use to grow and monetize YouTube:\n\nOpusClip - https://www.opus.pro/?via=b6552a\n\nVidIQ - https://vidiq.com/gregpreece\n\nHeyGen - https://heygen.com/?sid=rewardful&via=gregory\n\nHiggsfield - https://higgsfield.ai/?fpr=greg12\n\n\n\n\n00:00 Making Money On YouTube\n00:22 Claude Plugin 1\n03:06 Claude Plugin 2\n05:00 Claude Plugin 3\n06:35 Bonus Claude Plugin\n07:05 Claude Plugin 4",
+      "commentCount": 2,
+      "likeCount": 11,
+      "probeClient": "web_embedded"
+    },
+    "pi4uvNiwz40": {
+      "checkedAt": "2026-08-14T02:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Here's the 4 best Claude AI video editing MCPs I've found so far in 2026. \n\nOpusClip MCP - https://www.opus.pro/?via=b6552a\n\nHeyGen MCP - https://heygen.com/?sid=rewardful&via=gregory\n\nDescript MCP - https://get.descript.com/gregpreece072025\n\nHiggsfield MCP - https://higgsfield.ai/?fpr=greg12\n\n\n\n\n0:00 Claude Video Editing MCPs\n0:09 Editing MCP 1\n1:17  Editing MCP 2\n2:12  Editing MCP 3\n4:12 Editing MCP 4",
+      "commentCount": 1,
+      "likeCount": 19,
+      "probeClient": "web_embedded"
+    },
+    "gZ2XFFvSq8k": {
+      "checkedAt": "2026-08-14T02:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Higgsfield MCP - https://higgsfield.ai/?fpr=greg12\n\nWhat is the Higgsfield MCP? This video explains what the Higgsfield AI MCP is, runs through a step-by-step setup tutorial to install it, and provides use cases (Claude, ChatGPT & More).",
+      "commentCount": 1,
+      "likeCount": 18,
+      "probeClient": "web_embedded"
+    },
+    "5-_GZcwtWSY": {
+      "checkedAt": "2026-08-14T02:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "ElevenLabs Dubbing V2 is a new AI voice cloning and dubbing technology that translates what is said in videos into multiple different languages. \n\nELEVENLABS - https://try.elevenlabs.io/z2qregx1qbg9\n\n\n\n\nGive this tutorial a watch and let me know what you think to the new ElevenLabs AI video translator in the comments!",
+      "commentCount": 0,
+      "likeCount": 8,
+      "probeClient": "web_embedded"
+    },
+    "GucVYMCgy7U": {
+      "checkedAt": "2026-08-14T02:53:20Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "srR4PEEqlAA": {
+      "checkedAt": "2026-08-14T02:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Grab the starter setups, skill files, and exact prompts from this video: https://www.skool.com/ai-automations-for-sales/\n\nI started over from zero and mapped the exact path I'd take to learn AI agents in 2026 — three platforms, easiest first, no code anywhere. By the end you'll have one real automation running.\nMost of this you can do on the free tier.\n\n📌 In this video:\n- What an AI agent actually is — a chatbot answers you, an agent does things for you\n- Step 1 — Claude Skills + Cowork: teach Claude how you work, then point it at a folder and get a real spreadsheet back\n- Step 2 — OpenClaw or Genspark Claw: graduate to an agent that lives in WhatsApp or Telegram and works around the clock\n- Build your first automation from scratch — the morning email briefing, five steps, plain English\n- The mistakes I'd skip: connecting too many tools, learning MCP internals, jumping platforms too early\n\n🔗 Links & Resources:\n- Claude → https://claude.ai\n- OpenClaw → https://openclaw.ai\n- Genspark Claw → https://www.genspark.ai\n\n⏱️ Timestamps:\n00:00 Intro\n00:47 What Agents Really Are\n01:34 MCP Explained\n02:17 3 Platforms Roadmap\n03:25 Claude Skills Basics\n04:31 Cowork\n05:47 OpenClaw\n07:16 Self Host vs Genspark\n09:41 Morning Briefing\n11:35 Five Step Tuning Loop\n12:29 Real Life Chief Of Staff\n13:28 Tips\n14:54 Wrap Up\n\n👇 Join the community:\nSkool: https://www.skool.com/ai-automations-for-sales/\n\n📱 Follow me:\nTikTok: https://www.tiktok.com/@jake.dawson\nInstagram: https://www.instagram.com/jakedawsonshorts/\nFacebook: https://www.facebook.com/jakedawsonshorts\n\n📺 More videos you'll like:\n- MCP Explained in Plain English → https://youtu.be/g6juH9Aw8WU\n- You NEED to Use OpenClaw RIGHT NOW!! → https://youtu.be/5XbvwBp0jlI\n\n#AIAgents #AITools #Claude #OpenClaw #NoCode",
+      "commentCount": 0,
+      "likeCount": 2,
       "probeClient": "web_embedded"
     }
   }
