@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T08:53:17Z",
+  "updatedAt": "2026-08-14T09:53:22Z",
   "items": [
+    {
+      "id": "3yL7rYKYSvY",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-14T09:26:59Z",
+      "firstSeenAt": "2026-08-14T09:53:22Z"
+    },
+    {
+      "id": "OQhN4VJmX20",
+      "type": "long",
+      "source": "secondary",
+      "channel": "MindBridge Concept and Born To Code",
+      "publishedAt": "2026-08-13T18:53:22Z",
+      "firstSeenAt": "2026-08-14T09:53:22Z"
+    },
     {
       "id": "DY0s06ht0p8",
       "type": "long",
@@ -12885,15 +12901,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T08:53:49Z",
-      "new": 2,
-      "long": 2,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
-    {
       "runAt": "2026-07-31T09:53:50Z",
       "new": 2,
       "long": 2,
@@ -14332,6 +14339,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-14T09:53:22Z",
+      "new": 2,
+      "long": 1,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
