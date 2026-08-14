@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T17:53:15Z",
+  "updatedAt": "2026-08-14T18:53:19Z",
   "items": [
+    {
+      "id": "6otF8nwoKzo",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-14T18:42:47Z",
+      "firstSeenAt": "2026-08-14T18:53:19Z"
+    },
+    {
+      "id": "RDytbVDzMF4",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-08-14T18:18:04Z",
+      "firstSeenAt": "2026-08-14T18:53:19Z"
+    },
+    {
+      "id": "IxIfSI06QYI",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Edulito Coding",
+      "publishedAt": "2026-08-14T15:53:19Z",
+      "firstSeenAt": "2026-08-14T18:53:19Z"
+    },
+    {
+      "id": "mGTxADIEymM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "UCLA Health",
+      "publishedAt": "2026-08-14T15:53:19Z",
+      "firstSeenAt": "2026-08-14T18:53:19Z"
+    },
+    {
+      "id": "IKlVLkl85xU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ai UNIVERSAL",
+      "publishedAt": "2026-08-14T14:53:19Z",
+      "firstSeenAt": "2026-08-14T18:53:19Z"
+    },
+    {
+      "id": "wmmqWCICTCk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Cutting Edge School",
+      "publishedAt": "2026-08-14T13:53:19Z",
+      "firstSeenAt": "2026-08-14T18:53:19Z"
+    },
+    {
+      "id": "ultQwLLKm40",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jagran HiTech - Auto & Personal Tech",
+      "publishedAt": "2026-08-14T11:53:19Z",
+      "firstSeenAt": "2026-08-14T18:53:19Z"
+    },
+    {
+      "id": "ImJTsp5hvLY",
+      "type": "short",
+      "source": "secondary",
+      "channel": "NDTV World",
+      "publishedAt": "2026-08-14T10:53:19Z",
+      "firstSeenAt": "2026-08-14T18:53:19Z"
+    },
+    {
+      "id": "qGrrcfIwjWM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DEVI Automation Solutions",
+      "publishedAt": "2026-08-14T07:53:19Z",
+      "firstSeenAt": "2026-08-14T18:53:19Z"
+    },
+    {
+      "id": "dYUa6nxzxFo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "What Would They Think About",
+      "publishedAt": "2026-08-14T05:53:19Z",
+      "firstSeenAt": "2026-08-14T18:53:19Z"
+    },
     {
       "id": "ePBbqZBYp-s",
       "type": "short",
@@ -13189,24 +13269,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T17:53:56Z",
-      "new": 8,
-      "long": 7,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
-      "runAt": "2026-07-31T18:53:06Z",
-      "new": 8,
-      "long": 5,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
       "runAt": "2026-07-31T19:53:11Z",
       "new": 7,
       "long": 6,
@@ -14636,6 +14698,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-14T18:53:19Z",
+      "new": 10,
+      "long": 7,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
