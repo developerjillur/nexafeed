@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T04:53:22Z",
+  "updatedAt": "2026-08-14T05:53:24Z",
   "items": [
+    {
+      "id": "Y6dJ0lt0Xz0",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-14T05:39:25Z",
+      "firstSeenAt": "2026-08-14T05:53:24Z"
+    },
+    {
+      "id": "AA6YW7JhmTQ",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-14T05:19:11Z",
+      "firstSeenAt": "2026-08-14T05:53:24Z"
+    },
+    {
+      "id": "g2ThjrZiMh0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Zapier",
+      "publishedAt": "2026-08-13T21:53:24Z",
+      "firstSeenAt": "2026-08-14T05:53:24Z"
+    },
+    {
+      "id": "-4IDHQ2fkPg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "James Pelton",
+      "publishedAt": "2026-08-13T19:53:24Z",
+      "firstSeenAt": "2026-08-14T05:53:24Z"
+    },
+    {
+      "id": "R790ZIfzmIU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Without the Hype",
+      "publishedAt": "2026-08-13T13:53:24Z",
+      "firstSeenAt": "2026-08-14T05:53:24Z"
+    },
+    {
+      "id": "N2Ogvx_U8uM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Leon van Zyl",
+      "publishedAt": "2026-08-13T13:53:24Z",
+      "firstSeenAt": "2026-08-14T05:53:24Z"
+    },
     {
       "id": "Wni5EePIj7Q",
       "type": "short",
@@ -12741,15 +12789,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T04:53:24Z",
-      "new": 6,
-      "long": 4,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 29,
-      "secondaryQuery": "Software Development"
-    },
-    {
       "runAt": "2026-07-31T05:53:33Z",
       "new": 3,
       "long": 3,
@@ -14188,6 +14227,15 @@
       "channelsChecked": 33,
       "warnings": 28,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-14T05:53:24Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 20,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
