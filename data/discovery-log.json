@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T01:53:09Z",
+  "updatedAt": "2026-08-15T02:53:10Z",
   "items": [
+    {
+      "id": "Zp-gB0vqcUs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Edukator(dot)AI",
+      "publishedAt": "2026-08-14T18:53:10Z",
+      "firstSeenAt": "2026-08-15T02:53:10Z"
+    },
+    {
+      "id": "WCB7NZOfOKg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Brennan McDonald",
+      "publishedAt": "2026-08-14T17:53:10Z",
+      "firstSeenAt": "2026-08-15T02:53:10Z"
+    },
+    {
+      "id": "_3ffd37I5MI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Great Learning",
+      "publishedAt": "2026-08-14T16:53:10Z",
+      "firstSeenAt": "2026-08-15T02:53:10Z"
+    },
+    {
+      "id": "2r0ozGQdg6g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lucas AI",
+      "publishedAt": "2026-08-14T14:53:10Z",
+      "firstSeenAt": "2026-08-15T02:53:10Z"
+    },
     {
       "id": "n7Gl4L9p_no",
       "type": "long",
@@ -13365,15 +13397,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T01:54:03Z",
-      "new": 2,
-      "long": 2,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
       "runAt": "2026-08-01T03:53:27Z",
       "new": 3,
       "long": 3,
@@ -14776,6 +14799,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-15T02:53:10Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }

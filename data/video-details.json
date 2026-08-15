@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T01:53:09Z",
+  "updatedAt": "2026-08-15T02:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -2269,12 +2269,12 @@
       "probeClient": "web_embedded"
     },
     "AncgOoIdHaE": {
-      "checkedAt": "2026-08-08T01:53:29Z",
+      "checkedAt": "2026-08-15T02:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 4,
-      "likeCount": 71,
+      "commentCount": 11,
+      "likeCount": 389,
       "comments": [
         {
           "id": "UgyIbgBc1p80epkOPCB4AaABAg",
@@ -2950,11 +2950,11 @@
       "probeClient": "web_embedded"
     },
     "3JoMCyRR8rg": {
-      "checkedAt": "2026-08-08T01:53:29Z",
+      "checkedAt": "2026-08-15T02:53:10Z",
       "embedAllowed": true,
       "description": "Comment AGENTS and I'll send you the repo. Make sure you're following me so it reaches you.\n\nYou're paying monthly for AI tools that are sitting on GitHub for free. I found a repo called awesome-llm-apps, 128,000 stars, over a hundred finished agents inside.\n\nOne of them scrapes your competitors' sites and writes the analysis for you. There's a voice version of the same idea that answers your customers from your own docs. And hiring isn't one agent in there, it's a whole team, from screening resumes to a booked interview. You take any agent, adapt it to your own use case and ship it as your own product, the Apache license lets you use it commercially.\n\n#AI #agents #opensource #nocode",
-      "commentCount": 2,
-      "likeCount": 7,
+      "commentCount": 30,
+      "likeCount": 164,
       "comments": [
         {
           "id": "UgwYN38lpy6D1KOpaVp4AaABAg",
@@ -2979,7 +2979,8 @@
       ],
       "commentsFetchedAt": "2026-08-08T01:53:29Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
+      "probeClient": "web_embedded",
+      "availability": "public"
     },
     "u_Lx6i8K2wE": {
       "checkedAt": "2026-08-08T10:53:21Z",
@@ -6907,7 +6908,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-15T01:53:09Z",
+      "checkedAt": "2026-08-15T02:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7132,7 +7133,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-15T01:53:09Z",
+      "checkedAt": "2026-08-15T02:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7525,15 +7526,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "Lr7JVKDZDPA": {
-      "checkedAt": "2026-08-14T06:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this engaging video, we delve into the impact of Artificial Intelligence (AI) on software development processes. Join us as we explore how AI technologies have significantly accelerated productivity in recent projects. Discover firsthand experiences and insights shared by a seasoned developer, shedding light on the efficiencies gained through AI integration. If you're passionate about programming, web development, and software engineering, this discussion is a must-watch! Share your thoughts in the comments below and let's spark a conversation on the future of AI in tech!",
-      "commentCount": 1,
-      "likeCount": 4,
-      "probeClient": "web_embedded"
-    },
     "CTkKoz-TieY": {
       "checkedAt": "2026-08-14T16:53:05Z",
       "embedAllowed": false,
@@ -7660,15 +7652,6 @@
       "likeCount": 7,
       "probeClient": "web_embedded"
     },
-    "xldHyMBB17U": {
-      "checkedAt": "2026-08-14T10:53:27Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Spotify just built an AI coding tool, and it might be the strangest launch of the year. Meet Xirp, Spotify's new vendor-neutral environment for managing Claude Code, Gemini CLI, and OpenAI Codex sessions in one place.\n\nThis breakdown covers exactly what Xirp is, how it uses git worktree isolation to run fifty or more parallel AI agent sessions without collisions, and why Spotify built this on the back of their decade-old Backstage developer platform. We dig into the Portal integration that unlocks organizational context for agent sessions, the cost and model routing features that let engineers avoid frontier API lock-in, and the mismatched adoption numbers Spotify published on launch day that don't quite add up.\n\nIf you follow AI coding agents, open source developer tools, or self-hosted infrastructure, this one is worth watching closely. We cover the honest limitations too, including the macOS-only beta restriction, the required Spotify account with no published data policy, the unanswered open source question, and how Xirp actually compares to tools like OpenCode Desktop and Claude Code's own multi-session features. This is a no-hype look at whether Xirp is actually ready to use, or just an early-stage bet from a company proving this problem is real at scale.\n\n👉 Don't forget to like, subscribe, and hit the notification bell to stay updated with our latest videos!\n=====================================================\n\n🔗 Try Xirp: https://xirp.spotify.com/\n\n----------------------------------------------------------------------------------------------------------\nTimestamps:\n00:00 - Introduction: Spotify's AI Coding Tool (Xirp)\n01:40 - What is Xirp? (Session Manager Explained)\n02:33 - macOS Beta & Standalone Features\n03:48 - How Xirp Works Under the Hood\n04:05 - Feature 1: Vendor Neutrality & Agent Switching\n04:53 - Feature 2: Git Worktree Isolation\n05:38 - Feature 3: Cost Management & Model Routing\n06:18 - Feature 4: Persistent Terminal Sessions\n07:03 - Why Spotify Built Xirp (The Backstage Parallel)\n10:03 - Pairing Xirp with Spotify Portal for Context\n13:11 - Unpacking Spotify's Contradictory Usage Metrics\n15:46 - Practical Details: Pricing, Open Source & Spotify Login\n18:30 - Developer Community Reaction & Red Flags\n22:11 - Competitors & Final Verdict\n24:50 - Outro & Summary\n----------------------------------------------------------------------------------------------------------\n\n🛠️ USEFUL TOOLS & SERVICES:\n\n📌 FREE 50 Pinterest Canva Templates - https://pandamakingmoney.systeme.io/freepinteresttemplates\n\n✅ PromoPDF AI - https://promopdfai.online/\n✅ Systeme.io - https://cutt.ly/fwC8IHCp\n✅ Shopify - https://shopify.pxf.io/DKgAgb\n----------------------------------------------------------------------------------------------------------\n\n🎯 Follow us: \nYoutube - https://www.youtube.com/@PandaMakingMoney\nPinterest - https://pinterest.com/lomashkumar111/\nBuy me a Coffee - https://www.buymeacoffee.com/PandaMakingMoney\n=====================================================\n#ai #spotify #aiagents \n=====================================================\n\nAffiliate Disclosure: \n\nPlease note that some of the links in this video description may be affiliate links. This means that if you click on one of these links and make a purchase, we may earn a commission at no additional cost to you. \n\nWe only recommend products and services that we have personally used and believe will add value to our audience. Your support through these affiliate links helps us continue to provide valuable content on affiliate marketing and making money online.\n\nThank you for your support! If you have any questions or concerns, feel free to reach out to us.",
-      "commentCount": 1,
-      "likeCount": 5,
-      "probeClient": "web_embedded"
-    },
     "iYygll8N2CQ": {
       "checkedAt": "2026-08-14T11:53:29Z",
       "embedAllowed": true,
@@ -7727,15 +7710,6 @@
       "description": "Learn how to automate your Facebook DMs, comments and customer engagement with BotBee.\n\nIn this tutorial, discover how BotBee helps businesses automate Facebook communication and turn social media interactions into leads and customers.\n\n00:00 Dashboard Introduction\n00:43 Connect Facebook Page with BotBee\n01:26 Facebook DM Automation\n03:05 Facebook Auto Comment & Comment Reply\n08:08 Facebook Get Started & Ice Breakers\n09:17 Facebook Persistent Menu\n\n🚀 What you can automate:\n\n✅ Facebook account connection\n✅ Messenger DM automation\n✅ Automated replies\n✅ Comment automation\n✅ Customer engagement\n✅ Lead generation\n✅ Follow-ups\n✅ AI-powered conversations\n\nInstead of manually responding to every customer, let BotBee automate your Facebook interactions and help your business respond faster.\n\n🌐 Get started: www.botbee.io\n\n#facebookautomation #facebookmarketing #messengerautomation #dmmarketing #commentautomation #socialmediaautomation #aiautomation #aichatbot #whatsappautomation #businessautomation #leadgeneration #salesautomation #botbee #digitalmarketing #businessgrowth",
       "commentCount": 0,
       "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "Djk0y0cVXQM": {
-      "checkedAt": "2026-08-14T12:53:29Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this tutorial, we explore the Web Analytics section in Zoho Marketing Automation and learn how businesses can track visitor behavior, measure website performance, and gain valuable insights to improve their marketing strategies.\n\nThe Web Analytics module helps you monitor website traffic, analyze user engagement, identify high-performing pages, and understand how visitors interact with your website—all from one powerful dashboard.\n\nIn this video, we provide an overview of Web Analytics and explain how to access, interpret, and use website data to make smarter marketing decisions.\n\nTimestamps\n\n00:00 – Introduction\n\n00:10 – Introduction to Web Analytics\n\n00:30 – Web Analytics Overview\n\n01:00 – Accessing Web Analytics\n\n01:30 – Understanding Visitor Data\n\n02:00 – Analyzing Website Traffic\n\n02:30 – Tracking User Engagement\n\n03:00 – Reviewing Performance Reports\n\n03:30 – Using Insights for Marketing\n\n04:00 – Conclusion\n\nWhat you will learn\nIntroduction to Web Analytics in Zoho Marketing Automation\nUnderstanding website visitor analytics\nHow to track website traffic and engagement\nAnalyzing visitor behavior and page performance\nReviewing web analytics reports\nUsing data-driven insights to improve marketing campaigns\n\nThis tutorial is part of our Zoho Marketing Automation tutorial series. Follow the complete series to learn every feature step by step.\n\nSubscribe to OHO Solutions for more Zoho tutorials, business automation guides, and digital marketing content.\n\nAbout OHO Solutions\n\nOHO Solutions is a Zoho Premium Partner providing Zoho implementation, customization, integration, and business automation solutions to help businesses streamline operations and improve productivity.\n\nContact OHO Solutions\n\n📞 +91 95674 43377\n\n🌐 www.ohosolutions.com\n\n#ZohoMarketingAutomation #Zoho #ZohoTutorial #WebAnalytics #MarketingAutomation #WebsiteAnalytics #DigitalMarketing #BusinessAutomation #ZohoTraining #OHOSolutions",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "nOkA7HJM-r0": {
@@ -7999,7 +7973,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-15T01:53:09Z",
+      "checkedAt": "2026-08-15T02:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8262,13 +8236,40 @@
       "likeCount": 941,
       "probeClient": "web_embedded"
     },
-    "sY2BE_AjqPE": {
-      "checkedAt": "2026-08-15T01:53:09Z",
+    "Zp-gB0vqcUs": {
+      "checkedAt": "2026-08-15T02:53:10Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "Anthropic put AI agents together with conflicting goals and watched them escalate into sabotage - deleting accounts, disguising kill scripts and writing malware against each other. Meanwhile its newest agents are learning to negotiate, collude and even rewrite their own memories through a process Anthropic calls \"dreaming.\"\n\nGet the free 7-agent guide here: https://go.aiskool.io/7agents\n\n📩 Brand Deals & Partnerships: collabs@nouralabs.com\n✉️ General Inquiries: airevolutionofficial@gmail.com\n\n📌 What You'll See:\nAnthropic's AI agents sabotage each other and trigger a multiagent war\nSOURCE: https://www.anthropic.com/research/multiagent-systems\nAI swarms collude, conform and make the same dangerous choices together\nSOURCE: https://www.anthropic.com/research/multiagent-systems\n45 AI agents hunt vulnerabilities while Project Glasswing passes 10,000 serious flaws\nSOURCE: https://www.anthropic.com/news/expanding-project-glasswing\nAnthropic introduces \"dreaming\" to reorganize and improve long-term AI memory\nSOURCE: https://www.youtube.com/watch?v=tTcxVv8HHNw\n\n🚨 Why It's Important:\nThe danger isn't just one rogue AI anymore. Anthropic's experiments show groups of capable agents can independently converge on sabotage, collusion and bad decisions, while persistent memory can make mistakes survive far beyond one session. As AI-to-AI interaction scales, coordination itself becomes a safety problem.\n\n#ai #anthropic",
-      "commentCount": 55,
-      "likeCount": 531,
+      "description": "Data Exfiltration - part of Generative AI for Developers.\nHow LLMs actually work - and how to build with them. Visual, developer-first.\n\nIn this lesson:\n- Model output is untrusted, always gate it\n- Never auto-render untrusted links or images\n- Allow-list hosts, redact PII, decode first\n- Least privilege for tools, pin the model\n\nChapters:\n0:00 Intro\n0:06 Intro\n0:20 Your model knows secrets\n0:43 Analogy\n1:01 Step 1: the trick\n1:23 Step 2: the target\n1:45 Hiding data in a link\n2:07 Step 3: the channel\n2:27 The missing trust boundary\n2:49 Defense: gate the output\n3:10 Block exfil URLs\n3:29 Redact PII before logging\n3:50 Why naive filters fail\n4:10 Watch over-privileged tools\n4:32 Trust the model itself\n4:52 Prompts don't protect you\n5:16 Reviewing the pipeline\n5:42 Recap\n\nModule: The LLM Attack Surface\nEvery command and code example in this video is executed and verified before publishing.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "WCB7NZOfOKg": {
+      "checkedAt": "2026-08-15T02:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Subscribe for more like this:\nhttps://www.youtube.com/channel/UCVyGL-vqbKJAFzOf510LWtg\n\nHands-on projects teach you how AI models work at free, entry-level and professional spending tiers. I think building and testing beats another workplace course or provider certification.\n\nI use Meta AI, OpenRouter, ChatGPT, Claude and Gemini as examples to explain how different tools fit different budgets. The real skill is giving models the right context, testing their output and applying them to problems you understand.\n\n📩 Stop collecting AI news. Start putting it to work.\nGet the practical briefings and paid playbooks: https://www.brennanmcdonald.com/subscribe\n\nChapters\n0:00 How to learn AI at any budget\n0:18 How to start learning AI for free\n1:35 How to compare free AI models\n2:16 The privacy trade-off with free models\n2:38 When a paid AI plan is worth it\n3:18 How coding tools help beginners build\n3:38 How to test new models with projects\n4:11 Why model testing builds better judgement\n4:49 How to check AI-generated work safely\n5:25 Why learning by doing beats AI courses\n5:40 What a useful AI side project looks like\n6:14 Why using AI is now the real skill\n6:28 When professional AI plans make sense\n7:25 Why testing different models matters\n7:45 How AI experience improves your judgement\n8:24 How AI skills change professional value\n8:55 Why workplace AI can leave you behind\n9:43 How to build practical AI capability",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "_3ffd37I5MI": {
+      "checkedAt": "2026-08-15T02:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn AI in healthcare from fundamentals to real-world applications in this complete AI in Healthcare course. Explore Generative AI, LLMs, medical diagnosis, predictive analytics, pneumonia detection, wearables, drug discovery, genomics, and more.\n\nSee how artificial intelligence is transforming healthcare—from analyzing medical images and electronic health records to remote patient monitoring, personalized treatment, clinical trials, and drug discovery.\n\nIn this AI in Healthcare full course, you'll learn:\n\n• What AI in healthcare is and how it is transforming modern medicine\n• Generative AI and Large Language Models (LLMs) in healthcare\n• AI applications in Electronic Health Records (EHRs)\n• How AI can optimize healthcare workflows and hospital operations\n• Natural Language Processing (NLP) for clinical and medical data\n• AI in medical diagnosis and diagnostic imaging\n• Machine learning and deep learning for medical imaging\n• A hands-on medical image classification example using Python and VGG16\n• AI-powered pneumonia detection and medical imaging workflows\n• How to evaluate pneumonia detection models using accuracy, precision, recall, and F1-score\n• Predictive diagnostics and heart disease risk prediction\n• AI-powered remote patient monitoring and wearable devices\n• Real-time health data analysis and predictive health monitoring\n• AI for personalized treatment planning\n• Machine learning for drug discovery and drug repurposing\n• AI applications in genomics and precision medicine\n• AI in clinical trial design and patient selection\n• Generative AI risks, bias, privacy, ethics, and responsible AI\n• Regulatory and data-security challenges in AI healthcare applications\n• Future trends shaping artificial intelligence in healthcare\n\nThis video is based on Great Learning's AI in Healthcare course and is designed for learners, students, healthcare professionals, technology professionals, researchers, and anyone interested in artificial intelligence in healthcare.\n\nWant to go deeper?\n\nExplore Great Learning's AI in Healthcare course and discover advanced learning opportunities in artificial intelligence, machine learning, healthcare analytics, and responsible AI.\n\nAI in Healthcare Certificate Program with Johns Hopkins University:\nhttps://www.mygreatlearning.com/pg-program-artificial-intelligence-course?utm_source=youtubeshorts&utm_medium=description&utm_campaign=course_recommendation&utm_content=pg_yt_140826\n\nGreat Learning PG Program in Artificial Intelligence and Machine Learning:\nhttps://online.lifelonglearning.jhu.edu/jhu-applications-of-agentic-ai-in-healthcare?utm_source=youtubeshorts&utm_medium=description&utm_campaign=course_recommendation&utm_content=pg_yt_140826\n\nIf you found this AI in Healthcare course useful, like the video and subscribe for more AI, machine learning, data science, and technology courses.\n\n💬 Question for you: Would you trust an AI system to help diagnose a medical condition? Tell us why in the comments.\n\n#AIInHealthcare #ArtificialIntelligence #HealthcareAI",
+      "commentCount": 0,
+      "likeCount": 17,
+      "probeClient": "web_embedded"
+    },
+    "2r0ozGQdg6g": {
+      "checkedAt": "2026-08-15T02:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Try Higgsfield AI : https://higgsfield.ai/s/higgsfield-general-campaign-lucasaii-DvamUu\n\nHow are new AI finance channels like Dark Ledger growing so quickly—and how can you build a channel using the same underlying principles without copying their content?\n\nIn this video, I break down the complete workflow behind an AI-powered finance YouTube channel, starting with Dark Ledger-style storytelling and channel analysis, then turning those insights into an original finance concept, high-retention script, AI voiceover, timestamped visuals, animated scenes, and a finished YouTube video.\n\nThe key part of the workflow is Higgsfield MCP. By connecting Claude with Higgsfield, the creative process becomes much more connected. Claude helps analyze the storytelling structure, develop the script, and create the production prompts, while Higgsfield handles the AI image and AI video generation needed to bring the story to life.\n\nIn the video, you'll see:\n\n• Dark Ledger channel analysis and storytelling reverse engineering\n• Original AI finance video ideas based on the extracted content patterns\n• High-retention finance script generation with Claude\n• AI voiceover creation\n• Timestamped transcripts for visual planning\n• AI image prompt generation for every story beat\n• AI image generation with Higgsfield AI + MCP\n• Image-to-video animation with Seedance\n• Final editing with captions, transitions, and voiceover synchronization\n\nThis isn't just another AI video generator tutorial. It's a practical breakdown of how to build an AI finance channel workflow that connects research, storytelling, scripting, AI image generation, AI video generation, and editing into one repeatable production system.\n\nHiggsfield brings multiple AI creation models and proprietary tools together in one platform, including Seedance, Nano Banana Pro, GPT Image, Cinema Studio 3.5, Soul 2.0, Higgsfield MCP, and Higgsfield Supercomputer. For creators, the real advantage is being able to connect these capabilities instead of treating every stage of production as a separate tool.\n\nIf you're interested in AI finance channels, Dark Ledger, faceless YouTube channels, AI video generation, AI filmmaking, Claude MCP, Higgsfield MCP, Seedance, AI image generation, AI YouTube automation, or building an AI content workflow, this video walks through the complete process from research to final video.\n\nTry Higgsfield AI: {{TRACKING_LINK}}\n\nHiggsfield MCP: https://higgsfield.ai/mcp\nHiggsfield CLI: https://higgsfield.ai/cli?tab=claude-code\n\nThe goal is simple: study what works, understand the system behind it, and build something original.\n\nIf you can describe it, you can make it.\n\n#Higgsfield #HiggsfieldMCP #AIFinance #AIVideo #AIFilmmakingDISCLAIMER\n\n\n\n\n\nHiggsfield, Higgsfield AI, Higgsfield MCP, Higgsfield MCP Claude, Claude MCP, AI video, AI video generator, free AI video generator, cheapest AI platform, AI filmmaking, AI image generation, Seedance, Seedance 2.0, Nano Banana Pro, GPT Image, Cinema Studio 3.5, Soul 2.0, AI video creation, AI video workflow, AI content creation, AI filmmaking workflow, AI YouTube videos, faceless AI videos, AI video automation, Claude AI video generation, Claude Code AI, AI creator tools, AI video tools, AI content workflow, generative AI video\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n (Earnings & Affiliate Info)\nEarnings or statistics shown in this video are examples from my own experience with YouTube automation and are not guarantees of what you’ll earn. Results differ based on niche, content quality, RPM/CPM, audience engagement, consistency, effort, and other factors. This is not financial, tax, legal, or professional advice—consult the appropriate experts before making business decisions.\n\n\nBy watching, you agree that you’re responsible for your own choices and that you’ll use YouTube according to its community guidelines and monetization policies:https://www.youtube.com/howyoutubewor...",
+      "commentCount": 13,
+      "likeCount": 88,
       "probeClient": "web_embedded"
     }
   }
