@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T08:53:12Z",
+  "updatedAt": "2026-08-15T13:53:38Z",
   "items": [
+    {
+      "id": "xo-7CZ0zyMw",
+      "type": "long",
+      "source": "primary",
+      "channel": "Piyush Garg",
+      "publishedAt": "2026-08-15T12:30:07Z",
+      "firstSeenAt": "2026-08-15T13:53:38Z"
+    },
+    {
+      "id": "bnzOiioEuJ4",
+      "type": "long",
+      "source": "primary",
+      "channel": "Brendan Automation",
+      "publishedAt": "2026-08-15T11:20:30Z",
+      "firstSeenAt": "2026-08-15T13:53:38Z"
+    },
+    {
+      "id": "VcmKZhnfqrs",
+      "type": "short",
+      "source": "primary",
+      "channel": "VDM Social",
+      "publishedAt": "2026-08-15T10:47:02Z",
+      "firstSeenAt": "2026-08-15T13:53:38Z"
+    },
+    {
+      "id": "FQ-Pq2yxNYw",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-15T10:30:37Z",
+      "firstSeenAt": "2026-08-15T13:53:38Z"
+    },
+    {
+      "id": "ayNB8W_h6g4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Skill Duniya",
+      "publishedAt": "2026-08-15T13:29:38Z",
+      "firstSeenAt": "2026-08-15T13:53:38Z"
+    },
+    {
+      "id": "BtTa6D8FkFQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Tech Timeline",
+      "publishedAt": "2026-08-15T09:53:38Z",
+      "firstSeenAt": "2026-08-15T13:53:38Z"
+    },
+    {
+      "id": "MPYCtpWRjZk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NETWORKING WITH H",
+      "publishedAt": "2026-08-15T08:53:38Z",
+      "firstSeenAt": "2026-08-15T13:53:38Z"
+    },
+    {
+      "id": "xtjQ_tRuHoo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "LearnAi",
+      "publishedAt": "2026-08-15T07:53:38Z",
+      "firstSeenAt": "2026-08-15T13:53:38Z"
+    },
+    {
+      "id": "N-HhArELpr4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vimas Tech",
+      "publishedAt": "2026-08-15T04:53:38Z",
+      "firstSeenAt": "2026-08-15T13:53:38Z"
+    },
     {
       "id": "4ZfJYAnbH8w",
       "type": "long",
@@ -13597,60 +13669,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T08:53:17Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
-      "runAt": "2026-08-01T09:53:25Z",
-      "new": 3,
-      "long": 2,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
-      "runAt": "2026-08-01T10:53:32Z",
-      "new": 5,
-      "long": 4,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
-      "runAt": "2026-08-01T11:53:35Z",
-      "new": 5,
-      "long": 3,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
-      "runAt": "2026-08-01T12:53:34Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 1,
-      "secondaryQuery": "Automation"
-    },
-    {
-      "runAt": "2026-08-01T13:53:35Z",
-      "new": 10,
-      "long": 3,
-      "shorts": 7,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
       "runAt": "2026-08-01T14:53:36Z",
       "new": 7,
       "long": 7,
@@ -15017,6 +15035,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-15T13:53:38Z",
+      "new": 9,
+      "long": 7,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
