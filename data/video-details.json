@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T19:53:08Z",
+  "updatedAt": "2026-08-15T20:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -3028,12 +3028,12 @@
       "probeClient": "web_embedded"
     },
     "P052ouQqHUU": {
-      "checkedAt": "2026-08-08T19:53:38Z",
+      "checkedAt": "2026-08-15T20:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment CLONE and I'll send you the link.\n\nOne of the most slept-on repos on GitHub right now. You screenshot any website and AI rebuilds it into working code in front of you. Usually you hand Claude a link or a screenshot and get back something that barely resembles the original. This one, screenshot-to-code, finally nailed it. It turns a screenshot, a Figma design or even a screen recording into clean working code in minutes.\n\nAnd it doesn't just copy the layout. It pulls the real logos and images out of your screenshot and rebuilds the page around them. You run it through Claude, pick your output format like HTML, React or Vue, feed it a screenshot and get a working prototype, then preview it live and refine in a couple of passes. It's noticeably better than what Claude does on its own, and it's easy to set up.\n\n#AI #coding #frontend #opensource",
-      "commentCount": 2,
-      "likeCount": 6,
+      "commentCount": 25,
+      "likeCount": 93,
       "comments": [
         {
           "id": "UgypoUsGGQ9r0l57sK94AaABAg",
@@ -6955,10 +6955,10 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-15T19:53:08Z",
+      "checkedAt": "2026-08-15T20:53:10Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "LHFqw7Znk_Y": {
       "checkedAt": "2026-08-15T18:53:07Z",
@@ -8001,10 +8001,10 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-15T19:53:08Z",
+      "checkedAt": "2026-08-15T20:53:10Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "ePBbqZBYp-s": {
       "checkedAt": "2026-08-15T18:53:07Z",
@@ -8184,14 +8184,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "BeQhhft_MCw": {
-      "checkedAt": "2026-08-15T00:28:14Z",
-      "embedAllowed": true,
-      "description": "Build AI automations for businesses with no code - and charge a monthly retainer.\n\nYou'll learn what an AI automation agency is, how to build flows with Make and n8n, what to automate, how to pick a niche, how to land your first client, how to charge (setup fee plus monthly retainer), the math behind five thousand a month, and how to productize with templates.\n\n#makemoneywithai #aiautomation #n8n #make #agency",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "n7Gl4L9p_no": {
       "checkedAt": "2026-08-15T01:53:09Z",
       "embedAllowed": true,
@@ -8199,33 +8191,6 @@
       "description": "🚀 Try Converge AI here with 300 extra free credits in 48 hours: https://enter.converge.ai/s/ABAhH3\n\nWhat if one person could build, deploy, and manage a production-ready AI agent without writing traditional code?\n\nIn this video, I test Enter Pro Agent by Converge AI Agent Builder by building a real AI product return analyzer agent for ecommerce brands. The goal is to create an intelligent assistant that can read messy return data, reason across multiple sources, identify why customers are sending products back, and recommend what a business should fix first.\n\n⏱️ TIMESTAMPS\n0:00 The hidden cost of e-commerce returns\n1:08 The rise of the one-person company\n3:22 Building an intelligent operations advisor\n6:11 Vibe coding the agent's logic\n10:16 Shipping a production-ready agent\n\n🚀 What You'll Learn\n✅ Converge AI\n✅ Enter Pro Agent\n✅ Converge AI Agent Builder\n✅ AI Agent Builder\n✅ No-Code AI Agents\n✅ Natural Language Agent Building\n✅ Vibe Coding\n✅ AI Product Return Analyzer\n✅ Ecommerce AI Agent\n✅ AI Operations Assistant\n✅ Agent Deployment\n✅ SDK Integration\n✅ IM Bot Deployment\n✅ Version History\n✅ AI Agent Rollback\n\nSubscribe for more AI agent tools, no-code AI workflows, ecommerce AI tools, AI product builds, and practical AI reviews.\n\n📩 For business inquiries & collaborations: contact@zoetryai.com\n\n⚠️ Affiliate Disclaimer: Some of the links in this description may be affiliate links. This means I may earn a small commission at no extra cost to you if you choose to sign up or purchase through them. This helps support the channel and allows me to keep creating content like this.\n\n#ConvergeAI #AIAgent #AgentBuilder #NoCodeAI #VibeCoding #AIAgents",
       "commentCount": 4,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "8Hu2s7sMWZg": {
-      "checkedAt": "2026-08-15T01:53:09Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get $100 in free Hyperagent credits when you sign up for a paid plan: https://www.hyperagent.com/liam\n\nFull guide + my copy my skills & agents: https://aimakeover.io/guides/aios-in-an-afternoon/\n\nWatch the full VLOG with Arlin’s business: https://www.youtube.com/watch?v=BMSvmzJuMiM&t=157s\n\nWant an AI Makeover for YOUR Business?\n👉🏻 https://bit.ly/ai-makeover-apply\n\nFollow me on Instagram to see behind the scenes:\n🤳🏼 https://instagram.com/liamottley\n\n🛠 MY TECH STACK\n\nHostinger (agent & web hosting): https://hostinger.com/liamvps\nHyperagent (AIOS workspace): https://www.hyperagent.com/liam\nOspry (AI lead gen): https://www.ospry.ai?fpr=liam41\nGlaido (voice transcription): https://get.glaido.com/liam-ottley\nFirecrawl (web scraping): https://firecrawl.link/liam-ottley\nSupadata (video scraping): https://supadata.ai/?ref=liam\nApify (all other scraping): https://apify.com?fpr=8txghh\nElevenLabs (voice agents & cloning): https://try.elevenlabs.io/liam\nClaude Code (coding): https://claude.com/claude-code\nSupabase (database): https://supabase.com\n\nSome links above are affiliate links. Using them supports the channel at no extra cost.\n\nLearn how to build a all in one AI agents operating system in 2026 with this ultimate guide — no coding experience required. In this step-by-step tutorial, you'll master ai agents and automation, and build a real AI operating system with real-world AI agents. \n\n0:00 AI operating system case study\n1:05 the foundation of your AIOS \n1:58 everyone skips this (huge mistake)\n4:37 your AIOS workspace\n5:56 how to integrate ANY app\n6:51 loading in your context\n9:28 automating tasks into skills\n13:21 build ai agents\n17:16 building custom apps \n18:51 free download to build your AIOS",
-      "commentCount": 4,
-      "likeCount": 78,
-      "probeClient": "web_embedded"
-    },
-    "JpUOoGQWplQ": {
-      "checkedAt": "2026-08-15T03:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Backtest Any Trading Strategy With Claude (No Code Needed)\nYou've probably never backtested the strategy you trade. Not properly, not on ten years of data — and it was never laziness. Every route asked you to learn Pine Script, learn Python, or pay for a platform that still makes you code.\nThat step is gone. In this video I test a complete trading strategy by describing it in plain English, and Claude writes every line of the code.\nThen the part almost nobody does: I attack my own result — because my first backtest came back beautiful, and it was completely fake.\n(Every result here is a historical simulation on past data, not live-money trading. Nothing in this video connects to a broker.)\n\nThe full no-code workflow, start to finish: four prompts that write the strategy spec, catch the four decisions the AI quietly makes on your behalf, run a costs-included version against a fantasy no-costs version, check whether simple buy-and-hold would have beaten it anyway. Every result renders as a self-contained HTML report you can open offline.\n\nTotal setup: one app, about three minutes. Honest note on cost — Claude Code requires a paid Claude plan (Pro, Max, or API billing); the free Claude account does not include it. Everything else here is free: the market data, the method, and all four prompts. No trading platform subscription, no backtesting service, no Pine Script, no broker connection.\n\n🎁 ALL 4 PROMPTS FROM THIS VIDEO → https://theaiuniversity.online/resources/asa\n\n🎁 VIDEO TO INTALL CLAUDE CODE ON COMPUTER → https://theaiuniversity.online/resources/how-to-install-claude-desktop-on-windows-full-setup-step-by-step\n\n⏱️ TIMESTAMPS\n[00:00] - You've never actually tested your strategy\n[02:10] - Exactly what you need, and what it actually costs\n[04:00] - First Prompt\n[07:01] - Second Prompt\n[08:11] - Third Prompt\n[09:42] - Result of Third Prompt\n[13:12] - Fourth Prompt\n[13:32] - Result of Fourth Prompt\n\n\nAdblitz AI Website: www.Adblitzai.com\nGet Project Files on Skool Community: https://www.skool.com/the-ai-university-9677/about\n\n------------------------------------------------------------------------------------------------------------\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCv6Uw36LRbYnX4HDxKPguKg/join\n------------------------------------------------------------------------------------------------------------\n\nFOLLOW ME ON:\nTwitter:          https://twitter.com/theaiuniverse\nFacebook :    https://www.facebook.com/theaiuniversity\nInstagram:    https://www.instagram.com/theaiuniversityofficial\nTelegram:      https://t.me/theaiuniversity\n\n▶ GITHUB REPO : https://github.com/nitinkaushik01\n\nAbout this Channel:\nThe AI University is a channel which is on a mission to democratize the Artificial Intelligence, Big Data Hadoop and Cloud Computing education, Generative AI, N8n Automation and Workflows to the entire world. The aim of this channel is to impart the knowledge to the data science, data analysis, data engineering and cloud architecture, no code AII tools and N8N Automation to the aspirants as well as providing advanced knowledge to the ones who already possess some of this knowledge.\n\nDisclaimer: I am not a financial advisor. All videos are for educational and entertainment purposes only. Investing in stocks and cryptocurrencies involves high risk, and you could lose your entire investment. Past performance is not indicative of future results. DYOR (Do Your Own Research).\n\nThis video and description may contain affiliate links, which means that if you click on one of the product links, I’ll receive a small commission.\n\n \n\n#claudeai #backtesting #tradingstrategy",
-      "commentCount": 5,
-      "likeCount": 56,
-      "probeClient": "web_embedded"
-    },
-    "eecUhBpTz_g": {
-      "checkedAt": "2026-08-15T04:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "An AI dark factory is a repository that ships its own code. A spec goes in, workflows plan it, build it and validate it, and working software comes out the other end.\n\nThis is not 100% reliable yet. But three things are compounding at once - the models, the coding agents, and the harnesses we build around them - and that makes this realistic for most development now and all development in less than a year!\n\nI have been running one against a live app since April. In this video I break it into the five components you actually have to build, and I show the skill I made so you can build your own without reverse-engineering mine. It ships the plumbing, because the plumbing is the same in every repo.\n\nThis also doesn't replace how you already code with AI - it just makes your process more autonomous.\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nCheck out Parallel, the web-infrastructure layer that gives your AI agents access to the open web:\nhttps://parallel.plug.dev/1c0NO5A\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n- I just did a workshop in Dynamous giving a deeper dive into this AI Dark Factory setup. Join the community to check it out:\nhttps://dynamous.ai\n\n- The skill. Hand `/build-dark-factory` your PRD and it interviews you through all five components, then copies in a working runner - dispatcher, gate, guard, merge, state machine. `/plan-create-prd`, the one I mention for writing the PRD itself, is in the same repo:\nhttps://github.com/coleam00/skills\n\n- The app my Dark Factory built and maintains. Ask it anything about my channel (and my courses/workshops if you're in Dynamous):\nhttps://chat.dynamous.ai\n\n- Archon, the open source workflow engine I run it on:\nhttps://github.com/coleam00/archon\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n0:00 What an AI Dark Factory Is\n2:46 The Five Levels of AI Coding Autonomy\n5:03 Installing the Build Dark Factory Skill\n6:57 The Interview That Designs Your Factory\n8:25 An App a Dark Factory Built\n10:27 Sponsor: Parallel\n11:38 Component 1: The Workflow-Driven Repo\n13:40 Component 2: The Automation and Queue\n16:16 Component 3: Blue-Green Deployment\n18:04 Component 4: The Guidance Layer (3 Files)\n20:58 Component 5: The Validation Harness\n21:55 The Important Validation Strategies\n23:49 Go Build One!\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nJoin me as I push the limits of what is possible with AI. I'll be uploading videos weekly - at least every Wednesday at 7:00 PM CDT!",
-      "commentCount": 29,
-      "likeCount": 209,
       "probeClient": "web_embedded"
     },
     "XtwTjwUZSTs": {
@@ -8250,7 +8215,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-15T19:53:08Z",
+      "checkedAt": "2026-08-15T20:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8277,15 +8242,6 @@
       "description": "I'm going to show you the entire setup for building with Claude AI, and I promise it's simpler than you think. Most people picture some massive, complicated infrastructure, but it's really just three things: VS Code, Claude Code, and an Anthropic account. That's it. The barrier to entry used to be learning to code—JavaScript, Python, all the fundamentals. Now you just need to know how to talk to the computer. I'll walk you through each piece one at a time so you actually understand what's happening, not just blindly copy-pasting commands.\n\nThis is the foundation video. Don't install anything yet. In the next couple of videos I'll break down each component step by step, just enough to get you going. The AI does the heavy lifting. If you're already advanced, feel free to skip ahead to the actual builds. But if you want to be handheld through this, stick with me and learn it the way I did.\n\nWhat you'll need before you start:\nVS Code (free, downloadable)\nAnthropicAPIkey (requires a paid Anthropic subscription)\nA computer with internet access\n\n0:00 The Three-Part Toolkit\n0:24 Claude Code Explained\n0:50 Anthropic Subscription Required\n1:10 Why This Changed Everything\n1:33 Breaking Down the Barrier\n1:56 How to Follow Along\n2:17 Next: Installing VS Code\n\nLearn more at Kaplex Academy: https://academy.kaplexindustries.com",
       "commentCount": 1,
       "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "dgshfFNJZRc": {
-      "checkedAt": "2026-08-15T08:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "⚡ Blink: https://blink.new/?via=softwaregent\n\n👉 I built Filect to $1K+ MRR in 30 days. I'll show you how to do the same. Free 7-day trial: https://www.skool.com/ai-saas-builders\n\n🚀 My AI Startup - AI File Organizer: https://filect.io\n\n🔥 Filect Affiliate: https://filect.io/affiliates\n\n📩 Business inquiries: softwaregentofficial@gmail.com\n\nLinks:\n\n🎙️ Whisper Flow: https://ref.wisprflow.ai/software-gent\n\nTimestamps⌚:\n00:00 - Intro\n00:37 - Why I switched\n02:12 - Blink's 4 modes\n03:08 - Building a full stack app\n07:26 - Testing the app\n10:24 - Editing it\n12:14 - Deploying to the cloud\n13:27 - Building a mobile app\n18:38 - Building a website\n21:33 - The agent builder\n\nThis NEW AI Tool is Better Than Claude Code (10X Productivity) – In this video, I show you a new AI tool that's better than Claude Code and delivers 10X the productivity: Blink. If you've been using Claude Code to build apps but keep getting slowed down by setup, backend config, and deployment, Blink completely changes the game. Blink is a full-stack AI app builder that turns a plain English description into a production-ready application — frontend, backend, database, authentication, API integrations, and hosting — all generated and deployed automatically in minutes. I walk you through exactly why Blink beats Claude Code for shipping real apps fast: how it handles the entire stack with zero config, how its AI agent writes and deploys the code for you, and how you still own every line as plain React and TypeScript you can export to GitHub anytime. I build a complete full-stack app with Blink live so you can see the 10X productivity boost for yourself, then compare it head to head with Claude Code so you know exactly when to use each one. Whether you're a founder who wants to ship an MVP today, a developer tired of boilerplate, or an indie hacker chasing speed, this new AI tool could easily replace Claude Code in your workflow. This is why Blink is one of the most productive AI coding tools available right now.\n\n🚀 LIKE, SUBSCRIBE & COMMENT if you want to build unstoppable AI products 🤖⚡",
-      "commentCount": 5,
-      "likeCount": 25,
       "probeClient": "web_embedded"
     },
     "xo-7CZ0zyMw": {
@@ -8497,17 +8453,8 @@
       "likeCount": 3,
       "probeClient": "web_embedded"
     },
-    "GCz83HTg2vI": {
-      "checkedAt": "2026-08-15T15:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥 Join AI Era & build production apps with AI in 30 days: https://www.skool.com/ai-era\n\nIn this A-Z course you will learn exactly how guardrail coding works. The exact architectural guardrail system that helped me build funnelmods.ai and Mochi to production in under 4 months. \n\nTimestamps:\n0:00 Intro\n1:20 Results From Members\n3:36 What you'll learn\n3:58 The mindset\n12:22 Setting up Claude\n18:09 10,000ft overview\n27:29 Pattern recognition\n33:26 Globalization\n50:42 TypeScript lock-in\n1:01:35 Normalizing identity\n1:10:42 Server-only\n1:14:53 The block\n1:40:00 Enforcement\n1:43:19 Rate limiting\n1:45:15 Audit logs\n1:45:57 The client mirror\n1:47:10 The gap\n1:51:51 Inline injection\n1:57:00 Grep-first\n2:03:17 The CLAUDE.md\n2:19:07 Session limits\n2:20:29 How to prompt\n2:38:32 Red-green prompting\n2:50:11 Staying in control\n2:50:59 AI Era",
-      "commentCount": 14,
-      "likeCount": 253,
-      "probeClient": "web_embedded"
-    },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-15T19:53:08Z",
+      "checkedAt": "2026-08-15T20:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8564,15 +8511,6 @@
       "description": "Consulting used to be one of the biggest industries in the world. Now, AI has almost completely destroyed it. Now that ChatGPT can answer questions and build slideshows, how can McKinsey, Bain, and BCG survive? \n\nTimecodes:\n0:00 - Intro\n0:51 - The Consulting Pyramid\n4:35 - The Analyst Cull\n8:47 - The Collapse Begins\n11:45 - The Dead Firm\n\n#consulting #ai #artificialintelligence #technews #businessnews #startups #corporate #mckinsey #bain #bcg #pwc",
       "commentCount": 21,
       "likeCount": 149,
-      "probeClient": "web_embedded"
-    },
-    "-q_0_l1nMlA": {
-      "checkedAt": "2026-08-15T16:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "'The Big Money Show' panel and guest Kennedy analyze political bias in AI chatbots and the national security stakes in the U.S.-China AI race. #foxnews #fox #ai #us #china #tech #nationalsecurity #geopolitics #bias #censorship #technology #politics #ai race #globalnews #usnews\n\nSubscribe to Fox Business: https://bit.ly/2D9Cdse\nWatch more Fox Business Video: https://video.foxbusiness.com\nWatch Fox Business Network Live: http://www.foxnewsgo.com/\n\nFOX Business Network (FBN) is a financial news channel delivering real-time information across all platforms that impact both Main Street and Wall Street. Headquartered in New York — the business capital of the world — FBN launched in October 2007 and is one of the leading business networks on television. In 2025 it opened the year posting double-digit advantages across business day, market hours and total day viewers in January. Additionally, the network continued to lead business news programming, with each business day program placing among the top 15 shows, while FBN delivered its highest-rated month since April 2023 with market hours.\n\nFollow Fox Business on Facebook: https://www.facebook.com/FoxBusiness\nFollow Fox Business on Twitter: https://twitter.com/foxbusiness\nFollow Fox Business on Instagram: https://www.instagram.com/foxbusiness",
-      "commentCount": 107,
-      "likeCount": 275,
       "probeClient": "web_embedded"
     },
     "XSTXOCS34OU": {
@@ -8731,6 +8669,69 @@
       "description": "In this video you will learn to connect Claude Code with OmniRoute, configure custom models, and use them directly within Claude Code.\n\nClaude Code setup: https://youtu.be/lwI6cauV7wI\n\n#claudecode  #freeaitools",
       "commentCount": 0,
       "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "K0jHn7c2o0c": {
+      "checkedAt": "2026-08-15T20:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Adithyan Ilangovan runs a podcast post-production agency at roughly $14.5K MRR, charging $2,500-3,000/month for four episodes, with about 80% of the work automated. In his words: that is basically the margin.\n\nThis is the hybrid model, which inverts the usual advice. Not selling software, not selling hours: selling a finished deliverable at a flat monthly price and automating the middle. The three-part test for what to sell this way, why you must do it manually first, how flat pricing hides the automation from the invoice, and what the model actually costs you.\n\nEvery figure and quote is sourced.\n\nChapters:\n00:00 80% automated, full price\n01:15 Why software and hours are both worse\n02:30 The three-part test\n04:30 What passes and what fails\n05:45 Do it manually first\n07:00 Pricing and growth\n08:30 The real moat\n09:45 What it costs you\n\nSources:\nIndie Hackers, Quitting his job with no plan and hitting $14.5k MRR with a hybrid agency (Mar 3, 2026) https://www.indiehackers.com/post/services/quitting-his-job-with-no-plan-and-hitting-14-5k-mrr-with-a-hybrid-agency-UUli0CBF6udTPE8aANJu",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "baxDZjflzUE": {
+      "checkedAt": "2026-08-15T20:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥The FREE AI Masterclass On Demand Training - \nhttps://nickponte.ai/ai-cashflow-masterclass-eg \n\n🎯 Claim your FREE 30 Day Trial of High Level + Our Bonus Profit Center Snapshot & $6,789 in bonuses + a Live Kick Off Call!\nhttp://nickponte.ai/highlevel\n\n💎 ALREADY A HIGHLEVEL USER? You can still claim all my bonuses when you upgrade through my link-  UNLIMITED PLAN 👇 \nhttps://www.gohighlevel.com/297upgrade?affiliate_upgrade_credit_to_$297=offline-sharks59\n\n💎The PRO PLAN 👇 \nhttps://www.gohighlevel.com/existing-customer-trial?affiliate_upgrade_credit=offline-sharks59\n\n💰Want to make money and save time with AI? Join My Community for more AI Training, Support & Coaching  - \nhttps://nickponte.ai/controlroom \n\n🎥 Want to know how I make videos like these? Check out the full breakdown here https://nickponte.ai/aicontentengine\n\n🔥Want my company to do your marketing? https://mynamarketing.com/\n\nAI is creating a massive implementation gap for small businesses.\n\nBusiness owners are hearing about ChatGPT, AI agents, automation and AI workflows everywhere — but most don't want to become AI experts. They want technology that solves actual business problems.\n\nIn this video, I break down the simple AI-enabled service business model I use to generate $100K+/month in revenue with fewer than 50 clients.\n\nYou'll learn why I focus on implementing existing technology instead of trying to invent new AI products, how AI workflows can improve traditional business services, and why implementation may be one of the biggest service opportunities created by AI adoption.\n\nWe cover:\n\n• The simple business model behind my agency\n• Why businesses buy outcomes instead of AI\n• The AI implementation gap\n• AI-powered websites and follow-up systems\n• Automation and AI workflows\n• Why recurring services can create predictable revenue\n• How freelancers and agencies can position themselves around AI implementation\n\nResults vary based on your offer, market, sales ability, pricing, costs and execution. Revenue examples shown are examples from my businesses and are not guarantees of future results.\n\nSubscribe for more videos on AI, agencies, client acquisition, business systems and practical AI service opportunities.",
+      "commentCount": 4,
+      "likeCount": 38,
+      "probeClient": "web_embedded"
+    },
+    "8btKS54S5PM": {
+      "checkedAt": "2026-08-15T20:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Want to scrape Google Maps leads for free?\n\nIn this video, I'll show you two different ways to scrape local business leads from Google Maps so you can build targeted lists for cold email, cold calling, web design, SEO, lead generation, and more.\n\nApify Google Maps Leads Scraper: https://apify.com/code-node-tools/google-maps-lead-scraper?fpr=stackunlocked\n\nInstant Data Scraper: https://shorturl.at/QbTxW\n\n🚀 Method 1: Free Google Maps Lead Scraping\n\nI'll show you how to use a free Chrome extension to extract business information directly from Google Maps, including:\n\nBusiness names\nPhone numbers\nWebsites\nAddresses\nRatings\nOther available business data\n\nYou'll also see how to export the results into a CSV and organize your leads in Google Sheets.\n\n⚡ Method 2: Automated Google Maps Scraper\n\nThen I'll show you a faster way to scrape hundreds or thousands of Google Maps leads automatically using my Google Maps Lead Scraper on Apify.\n\nYou can enter searches such as:\n\ndentists in Miami, Florida\nroofing companies in Dallas, Texas\nHVAC companies in Austin, Texas\n\nand collect the results into a structured dataset ready for your lead generation workflow.\n\nYou can then connect the data to n8n, Make, Python, CRMs, Google Sheets, or other automation tools.\n\n👉 Try the Google Maps Lead Scraper\n\nWhat you'll learn\n\nHow to scrape Google Maps leads\nFinding targeted businesses on Google Maps\nFree Google Maps scraping method\nExporting leads to CSV\nWhy the free method doesn't scale\nAutomated Google Maps scraping with Apify\nLive scraping demo\nReviewing the scraped leads\nUsing Google Maps leads for outreach\nScaling lead generation across cities\nFree vs automated scraping\nWhere to get the scraper\n\nIf you're building an agency or doing cold outreach, Google Maps can be a great source of targeted local business leads.\n\nSubscribe for more lead generation, scraping, AI automation, n8n, and Apify tutorials.\n\n#GoogleMaps #leadgeneration #GoogleMapsScraper #LeadGen #WebScraping #Apify #ColdEmail #agency #n8n #automation",
+      "commentCount": 2,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "q4waPM0G2tg": {
+      "checkedAt": "2026-08-15T20:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥 Join Maker School & get client #1: https://www.skool.com/makerschool\n💎 Check out Clairvo: https://clairvo.io\n👋 If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth consultancy. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build systems that generate leads, close deals, and scale businesses, mostly using new AI models like Claude. I also make videos about how to do all of that here on YouTube.\n\nIt hasn't always been this way. My family immigrated from a Soviet bloc country (People's Republic of Bulgaria) in the 90s. They worked extremely hard, and we were broke for a very long time. I grew up wishing for more security, stability, and freedom over my own life.\n\nI don't have a programming degree, and never took formal education for IT or workflows. I learned it all myself from YouTube videos like you're watching now.\n\nAs for my path: I started my first business at 19 in college. We threw events (mostly parties) at campus bars, and charged people for entry. \n\nThat failed to provide me enough money to pay my bills, so at 21, I started another business, a door-to-door marketing agency.\n\nFrom there, every year, I would start several companies, over 10 in total. I did this in a variety of industries, like e-commerce, photography, videography, SaaS, credit repair, etc. Each grew slightly more profitable, until, at 25, I would start 1SecondCopy, a content writing company. A friend and I eventually scaled that to over $90,000/m. It was my first taste of financial independence, and the reason I'm here today.\n\nSince starting my journey, I've grown a fair bit of capital. To diversify my income, at 30, I began investing in other businesses and advising companies on how to grow in the AI era. These include SaaS businesses, like Clairvo, agencies like Dental Connect, and more. \n\nCollectively, the businesses that I own outright or are a part of generate over $10 million per year. This returns far more than the 5-10% you would get in the stock market, but also requires a lot of my active time. There's a tradeoff there, but I greatly prefer active investing, where I have control over the entities I'm a part of.\n\nIt wasn't easy to get here. But I did in the end! For anyone on their own entrepreneurial journey: I wish you luck, happiness, and perseverance. You can make it!\n\nWhat are Daily Updates? ⤵️\nA standalone channel where I do 3 things:\n1. Solve real problems in my business (while narrating them),\n2. Answer a question from my subs/communities,\n3. Brainstorm out loud as to what I'm going to do next\n\nGiven the authenticity I think it'll be a good way to pattern match what I'm doing, see how I approach problem solving, etc. My goal is to serve the entrepreneurial subset of my community, and provide people for whom automation is not the main focus a way to get value.\n\nOther places you can find me ⤵️\n📸 Instagram: https://instagram.com/nick_saraev  \n🤙 Blog: https://nicksaraev.com\n\nThanks for watching!\n\nChapters:\n0:00 intro\n1:02 should you build a food delivery app?\n3:08 is there still demand for voice agents?\n4:18 breaking down my $500k month\n6:25 my dad's 1-hour computer rule\n8:17 starting an ai agency from zero\n14:14 why i avoid regulated niches\n15:24 closing clients with zero case studies\n17:12 no, my reels aren't heygen\n17:57 outro",
+      "commentCount": 13,
+      "likeCount": 69,
+      "probeClient": "web_embedded"
+    },
+    "pFrln3CjwS8": {
+      "checkedAt": "2026-08-15T20:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Cyber warrior, when attacks move at machine speed, human-only defense can't keep up — this episode breaks down why AI agent security has to be built around zero trust from day one, not bolted on after. We walk through how autonomous offensive AI agents run full kill chains without a human operator, why a single all-powerful defensive AI creates a confused-deputy risk through indirect prompt injection, and how a NIST AI RMF-aligned architecture — least-privilege sub-agents, human-in-the-loop gateways for critical actions, and just-in-time non-human identities — closes that gap. If your org is standing up SOC automation or evaluating AI agent security for the first time, this is the mental model to start from. I read every comment and edit every script, so tell me what pattern or topic you want covered next in Inherent Issues with AI. I do hope this has been helpful... until next time, keep your systems safe.\n\nKeywords / Tags\n\nAI agent security, agentic AI cybersecurity, autonomous cyberattacks, AI SOC automation, prompt injection, indirect prompt injection, confused deputy problem, NIST AI RMF, zero trust AI architecture, non-human identity, least privilege AI, human-in-the-loop AI, AI red team, AI blue team, security orchestration, automation response\n\nHashtags\n\n#AICybersecurity #PromptInjection #ZeroTrust #AIAgents #NISTAIRMF",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "4DLSSwtw3QY": {
+      "checkedAt": "2026-08-15T20:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Automation can create enormous capacity inside an insurance agency, but only when there is a clear operating system underneath it. Mike Stromsoe explains why agencies that depend on tribal knowledge often hit a wall as they grow and why adding AI or automation before documenting how work should actually happen can create even more chaos. He lays out a practical approach to building the processes, workflows, and accountability needed to move from growth mode into true scale, giving technology a strong foundation while allowing people to focus on the human work that matters most. \n\nKey Topics:\n - The difference between growing an agency and operating today like the agency you intend to become\n - Why tribal knowledge becomes a major vulnerability when critical information lives with individual team members\n  - How assigning ownership of documentation can prevent the agency owner from becoming another bottleneck\n  - Why the sales process should be roadmapped from first contact through quoting, closing, onboarding, and follow-up\n  - How documenting onboarding, renewals, and claims advocacy creates a more intentional client experience\n  - Why marketing and recruiting need ongoing systems rather than piecemeal activities or last-minute reactions\n  - How structure within leadership meetings influences accountability throughout the entire organization\n  - Why financial management needs clearly documented responsibilities, workflows, and points of ownership\n\nConnect with Daniel: https://www.linkedin.com/in/danielmetcalf/\nConnect with Mike: https://www.linkedin.com/in/mikestromsoe/\n\nClear documentation gives an agency more than a collection of SOPs. It creates the operating structure that allows teams to work consistently, leaders to delegate with confidence, and technology to perform the work it is designed to handle. Build the processes first, train the team around them, and then introduce automation and AI so they reduce friction instead of multiplying it.\n\n#insuranceagency  #insuranceautomation  #agencyscaling  #insuranceleadership  #AgencyOperations #InsuranceAI #businessautomation  #AgencySystems #insuranceagents  #independentinsuranceagent",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "AsjruvkYnDs": {
+      "checkedAt": "2026-08-15T20:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Next Batch of the cohort will start soon....\n\nRepeatless Agency : https://www.repeatless.in/\nDm us on : https://www.instagram.com/repeatless_agency/\n\nFor Automation Requirements,\nBook a meet with us : https://cal.com/chandan-kumar-zhrofj/30min\n\nLinkedIn : https://www.linkedin.com/in/chandancheripally/\nTwitter :  https://x.com/chandan_netha\nInstagram : https://www.instagram.com/chandan_cheripally_/\n\nThings I use 😀 :\nAmazon\nmic : https://amzn.to/3TujDij\ntripod : https://amzn.to/3GD4Kr9\n\nBest books to read :\nA subtle art of....:https://amzn.to/3gsl8QJ\nAtomic habits : https://amzn.to/3i5KR1I\nRework : https://amzn.to/3OrE9iI\n\n#ai #automation #repeatless #technology #trending #tech #agency",
+      "commentCount": 9,
+      "likeCount": 62,
       "probeClient": "web_embedded"
     }
   }

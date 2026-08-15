@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T19:53:08Z",
+  "updatedAt": "2026-08-15T20:53:10Z",
   "items": [
+    {
+      "id": "K0jHn7c2o0c",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Remote Ree",
+      "publishedAt": "2026-08-15T19:53:10Z",
+      "firstSeenAt": "2026-08-15T20:53:10Z"
+    },
+    {
+      "id": "baxDZjflzUE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nick Ponte",
+      "publishedAt": "2026-08-15T14:53:10Z",
+      "firstSeenAt": "2026-08-15T20:53:10Z"
+    },
+    {
+      "id": "8btKS54S5PM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The 100k Protocol",
+      "publishedAt": "2026-08-15T13:53:10Z",
+      "firstSeenAt": "2026-08-15T20:53:10Z"
+    },
+    {
+      "id": "q4waPM0G2tg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nick Saraev Daily Updates",
+      "publishedAt": "2026-08-15T13:53:10Z",
+      "firstSeenAt": "2026-08-15T20:53:10Z"
+    },
+    {
+      "id": "pFrln3CjwS8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI-InfoSec",
+      "publishedAt": "2026-08-15T12:53:10Z",
+      "firstSeenAt": "2026-08-15T20:53:10Z"
+    },
+    {
+      "id": "4DLSSwtw3QY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mike Stromsoe",
+      "publishedAt": "2026-08-15T11:53:10Z",
+      "firstSeenAt": "2026-08-15T20:53:10Z"
+    },
+    {
+      "id": "AsjruvkYnDs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CHANDAN KUMAR NETHA",
+      "publishedAt": "2026-08-15T05:53:10Z",
+      "firstSeenAt": "2026-08-15T20:53:10Z"
+    },
     {
       "id": "njHuj8OxIVI",
       "type": "long",
@@ -13949,15 +14005,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T19:53:32Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
       "runAt": "2026-08-01T20:53:37Z",
       "new": 6,
       "long": 6,
@@ -15333,6 +15380,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-15T20:53:10Z",
+      "new": 7,
+      "long": 7,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
