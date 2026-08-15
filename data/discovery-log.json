@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T07:53:14Z",
+  "updatedAt": "2026-08-15T08:53:12Z",
   "items": [
+    {
+      "id": "4ZfJYAnbH8w",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TechXter",
+      "publishedAt": "2026-08-15T08:43:12Z",
+      "firstSeenAt": "2026-08-15T08:53:12Z"
+    },
+    {
+      "id": "XNJ8GRplqC8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kaplex Academy",
+      "publishedAt": "2026-08-15T07:53:12Z",
+      "firstSeenAt": "2026-08-15T08:53:12Z"
+    },
+    {
+      "id": "dgshfFNJZRc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Damian Malliaros",
+      "publishedAt": "2026-08-14T21:53:12Z",
+      "firstSeenAt": "2026-08-15T08:53:12Z"
+    },
+    {
+      "id": "gt8k4bA01Mo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Zubair Trabzada | AI Workshop",
+      "publishedAt": "2026-08-14T18:53:12Z",
+      "firstSeenAt": "2026-08-15T08:53:12Z"
+    },
+    {
+      "id": "zC6vTLrEvzw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Easy AI Coding",
+      "publishedAt": "2026-08-14T16:53:12Z",
+      "firstSeenAt": "2026-08-15T08:53:12Z"
+    },
+    {
+      "id": "emnrBFteofA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Komal Verse",
+      "publishedAt": "2026-08-14T15:53:12Z",
+      "firstSeenAt": "2026-08-15T08:53:12Z"
+    },
     {
       "id": "IFPRCpaK1j0",
       "type": "short",
@@ -14960,6 +15008,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-15T08:53:12Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
