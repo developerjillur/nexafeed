@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T14:53:05Z",
+  "updatedAt": "2026-08-15T15:53:05Z",
   "items": [
+    {
+      "id": "CnZsAeFuDQw",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-15T15:18:59Z",
+      "firstSeenAt": "2026-08-15T15:53:05Z"
+    },
+    {
+      "id": "xMX3fzt1HY8",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Programmer",
+      "publishedAt": "2026-08-15T15:45:05Z",
+      "firstSeenAt": "2026-08-15T15:53:05Z"
+    },
+    {
+      "id": "dn_R8JnK68g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Faisal Khowaja Edu World",
+      "publishedAt": "2026-08-15T15:30:05Z",
+      "firstSeenAt": "2026-08-15T15:53:05Z"
+    },
+    {
+      "id": "eGpivJYqe_8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Creative Smart Tech",
+      "publishedAt": "2026-08-15T14:53:05Z",
+      "firstSeenAt": "2026-08-15T15:53:05Z"
+    },
+    {
+      "id": "IckFWVjgwK0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Updraft AI",
+      "publishedAt": "2026-08-15T11:53:05Z",
+      "firstSeenAt": "2026-08-15T15:53:05Z"
+    },
+    {
+      "id": "GCz83HTg2vI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Web Prodigies",
+      "publishedAt": "2026-08-14T19:53:05Z",
+      "firstSeenAt": "2026-08-15T15:53:05Z"
+    },
     {
       "id": "bDw4Y-r-Y74",
       "type": "long",
@@ -13709,24 +13757,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T14:53:36Z",
-      "new": 7,
-      "long": 7,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
-      "runAt": "2026-08-01T15:53:05Z",
-      "new": 1,
-      "long": 0,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
       "runAt": "2026-08-01T16:53:15Z",
       "new": 7,
       "long": 3,
@@ -15093,6 +15123,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-15T15:53:05Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
