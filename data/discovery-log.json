@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T18:53:07Z",
+  "updatedAt": "2026-08-15T19:53:08Z",
   "items": [
+    {
+      "id": "njHuj8OxIVI",
+      "type": "long",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-15T19:09:14Z",
+      "firstSeenAt": "2026-08-15T19:53:08Z"
+    },
+    {
+      "id": "TK1LvtX-Bqs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Better Stack",
+      "publishedAt": "2026-08-15T18:53:08Z",
+      "firstSeenAt": "2026-08-15T19:53:08Z"
+    },
+    {
+      "id": "aEH2-TD39lM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Engineers Hub",
+      "publishedAt": "2026-08-15T06:53:08Z",
+      "firstSeenAt": "2026-08-15T19:53:08Z"
+    },
     {
       "id": "3XAOfCS9HaU",
       "type": "long",
@@ -13925,15 +13949,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T18:53:27Z",
-      "new": 6,
-      "long": 5,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
       "runAt": "2026-08-01T19:53:32Z",
       "new": 4,
       "long": 3,
@@ -15309,6 +15324,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-15T19:53:08Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
