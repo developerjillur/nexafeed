@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T15:53:05Z",
+  "updatedAt": "2026-08-15T16:53:06Z",
   "items": [
+    {
+      "id": "OJDhImJxPvk",
+      "type": "long",
+      "source": "primary",
+      "channel": "Hasan Aboul Hasan",
+      "publishedAt": "2026-08-15T16:16:22Z",
+      "firstSeenAt": "2026-08-15T16:53:06Z"
+    },
+    {
+      "id": "5laY_lOIbdM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Agamir Somoy",
+      "publishedAt": "2026-08-15T12:53:06Z",
+      "firstSeenAt": "2026-08-15T16:53:06Z"
+    },
+    {
+      "id": "qae7NCvCZ1Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Learners India",
+      "publishedAt": "2026-08-15T10:53:06Z",
+      "firstSeenAt": "2026-08-15T16:53:06Z"
+    },
+    {
+      "id": "_XzIssTThWg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anu Sharma",
+      "publishedAt": "2026-08-15T07:53:06Z",
+      "firstSeenAt": "2026-08-15T16:53:06Z"
+    },
+    {
+      "id": "2x7FWPuRv7E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Tech Girl",
+      "publishedAt": "2026-08-15T05:53:06Z",
+      "firstSeenAt": "2026-08-15T16:53:06Z"
+    },
+    {
+      "id": "JhAwRs7Vwqs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mondo Startups",
+      "publishedAt": "2026-08-14T23:53:06Z",
+      "firstSeenAt": "2026-08-15T16:53:06Z"
+    },
+    {
+      "id": "-q_0_l1nMlA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fox Business",
+      "publishedAt": "2026-08-14T22:53:06Z",
+      "firstSeenAt": "2026-08-15T16:53:06Z"
+    },
+    {
+      "id": "2WT1kNnoyuU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Breaking Points",
+      "publishedAt": "2026-08-14T17:53:06Z",
+      "firstSeenAt": "2026-08-15T16:53:06Z"
+    },
     {
       "id": "CnZsAeFuDQw",
       "type": "short",
@@ -15132,6 +15196,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-15T16:53:06Z",
+      "new": 8,
+      "long": 8,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
