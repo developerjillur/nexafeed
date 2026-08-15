@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T22:53:10Z",
+  "updatedAt": "2026-08-15T23:53:11Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -6955,7 +6955,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-15T22:53:10Z",
+      "checkedAt": "2026-08-15T23:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8001,7 +8001,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-15T22:53:10Z",
+      "checkedAt": "2026-08-15T23:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8206,10 +8206,10 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-15T22:53:10Z",
+      "checkedAt": "2026-08-15T23:53:11Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "CTkKoz-TieY": {
       "checkedAt": "2026-08-15T07:53:14Z",
@@ -8224,15 +8224,6 @@
       "description": "Are you tired of AI assistants generating broken code, insecure implementations, database-killing N+1 queries, or hallucinated API calls that fail in production?\n\nIn this video, we explore how to move beyond basic prompting and build a structured, production-grade software development workflow with AI.\n\nWe walk through the complete Software Development Lifecycle (SDLC) and how tools like Claude, GitHub Copilot, Cursor, and Windsurf can be used effectively across planning, architecture, implementation, testing, security, code review, CI/CD, and monitoring.\n\nThe Golden Rule\n\nArchitecture first. AI generation second.\n\nAI is extremely good at implementing established patterns, but it is much less reliable at deciding which patterns and architectural boundaries are appropriate for your specific system.\n\nThe goal isn’t to let AI build everything for you. The goal is to design the right boundaries first and then use AI to accelerate development without sacrificing quality, security, or maintainability.\n\nWhat You’ll Learn\n\n* Planning and architecture with AI\n* Creating effective project documentation such as ARCHITECTURE.md and DECISIONS.md\n* Rules for building AI-friendly codebases\n* Writing explicit, maintainable code\n* Dependency injection and clear architectural boundaries\n* Working in small, verifiable implementation units\n* Using AI for test and edge-case generation\n* Security review of AI-generated code\n* Preventing SQL injection, SSRF, secret exposure, and over-permissive authorization\n* CI/CD strategies for AI-generated code\n* Feature flags and automated rollbacks\n* Structured logging and production monitoring\n* The importance of human judgment and code review\n\nThe Core Idea\n\nDon’t ask AI:\n\n“Build my application.”\n\nInstead, give it a well-defined architecture, constraints, conventions, interfaces, tests, and acceptance criteria — then let AI help you implement and validate each small piece.\n\nAI should accelerate engineering judgment, not replace it.\n\nTags\n\n#AISDLC #AI #SoftwareEngineering #AIProgramming #CodingWithAI #Claude #GitHubCopilot #Cursor #Windsurf #SoftwareDevelopment #SystemDesign #SoftwareArchitecture #CleanCode #DevOps #CodeReview #AICoding #Programming #DeveloperTools #ArtificialIntelligence",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "XNJ8GRplqC8": {
-      "checkedAt": "2026-08-15T08:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "I'm going to show you the entire setup for building with Claude AI, and I promise it's simpler than you think. Most people picture some massive, complicated infrastructure, but it's really just three things: VS Code, Claude Code, and an Anthropic account. That's it. The barrier to entry used to be learning to code—JavaScript, Python, all the fundamentals. Now you just need to know how to talk to the computer. I'll walk you through each piece one at a time so you actually understand what's happening, not just blindly copy-pasting commands.\n\nThis is the foundation video. Don't install anything yet. In the next couple of videos I'll break down each component step by step, just enough to get you going. The AI does the heavy lifting. If you're already advanced, feel free to skip ahead to the actual builds. But if you want to be handheld through this, stick with me and learn it the way I did.\n\nWhat you'll need before you start:\nVS Code (free, downloadable)\nAnthropicAPIkey (requires a paid Anthropic subscription)\nA computer with internet access\n\n0:00 The Three-Part Toolkit\n0:24 Claude Code Explained\n0:50 Anthropic Subscription Required\n1:10 Why This Changed Everything\n1:33 Breaking Down the Barrier\n1:56 How to Follow Along\n2:17 Next: Installing VS Code\n\nLearn more at Kaplex Academy: https://academy.kaplexindustries.com",
-      "commentCount": 1,
-      "likeCount": 1,
       "probeClient": "web_embedded"
     },
     "xo-7CZ0zyMw": {
@@ -8436,7 +8427,7 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-15T22:53:10Z",
+      "checkedAt": "2026-08-15T23:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8466,15 +8457,6 @@
       "description": "#aicommunity #aiagents #ailearnersindia \n\nJOIN DISCORD NOW : https://discord.gg/nsU2dqnmHs\n\n\nartificial intelligence, AI tutorial, machine learning, deep learning, python programming, AI course, Indian AI developer, tech education, coding tutorial, AI projects, data science, neural networks, computer vision, NLP, AI career, technology india, AI learners india, AI education, machine learning tutorial, python AI\n\n#AILearners #ArtificialIntelligence #MachineLearning #DeepLearning #TechTutorial #IndianTech #LearnAI #PythonProgramming #DataScience #AIEducation\n\n❓ Got questions? Drop them in the comments below!\n👍 If you found this video helpful, please give it a thumbs up\n🔔 Subscribe and hit the notification bell to never miss an upload\n💡 Share your video suggestions in the comments\n\nDISCLAIMER:\nThis video is created for educational purposes. All code and resources shared are for learning. Please respect licenses and terms of use when implementing in your projects.\n\n\n\"What You'll Learn on AI Learners India\"\nI'm here to guide you through the transformative world of artificial intelligence, focusing on practical applications that enhance your daily life and work. My channel breaks down complex AI concepts into simple, actionable insights that anyone can understand and implement, regardless of technical background.\nOn this channel, you'll master the art of content creation using cutting-edge AI tools. I'll show you how to generate engaging written content, create stunning visuals, produce professional videos, and develop impressive presentations – all with the power of AI. You'll learn to leverage tools like ChatGPT, Midjourney, and various AI platforms to enhance your creative process and produce high-quality content efficiently.\nBusiness professionals will discover how to revolutionize their workflow through AI automation. From streamlining administrative tasks to implementing smart customer service solutions, you'll learn to create efficient systems that save hours of manual work. I'll guide you through setting up AI-powered project management tools and automating routine business processes.\nFor personal productivity enthusiasts, I'll demonstrate how to use AI as your personal assistant. You'll master email management, schedule optimization, and task prioritization using AI tools. Learn to automate document analysis, meeting transcription, and note-taking to reclaim valuable time in your day.\nDigital marketers will benefit from comprehensive tutorials on AI-powered marketing strategies. I'll show you how to create targeted campaigns, generate SEO-optimized content, and analyze marketing performance using the latest AI tools. You'll learn to develop engaging social media content and design eye-catching marketing materials with AI assistance.\nCreatives will unlock new possibilities through AI-enhanced projects. Whether you're interested in story development, art creation, music composition, or video production, I'll show you how to enhance your creative process with AI tools while maintaining your unique artistic vision.\nMy channel also keeps you updated on the latest AI trends, focusing on practical applications and real-world impact. You'll learn about new tools, emerging applications, and industry-specific use cases, with particular attention to developments in the Indian tech ecosystem.\nImportantly, I emphasize ethical AI usage throughout all tutorials. You'll learn about responsible AI deployment, copyright considerations, and maintaining the crucial balance between AI assistance and human creativity.\nJoin me on this journey to master AI technology in a practical, accessible way. Whether you're a content creator, business professional, student, or simply curious about AI, I'll help you harness these powerful tools to enhance your work and creativity. My focus is on delivering clear, actionable knowledge that you can apply immediately to achieve tangible results.\nEvery tutorial is crafted with real-world applications in mind, supported by practical examples and case studies. I ensure each concept is explained thoroughly, helping you build confidence in using AI tools effectively. Subscribe to begin your journey into the fascinating world of practical AI applications and join our growing community of AI enthusiasts.",
       "commentCount": 6,
       "likeCount": 114,
-      "probeClient": "web_embedded"
-    },
-    "_XzIssTThWg": {
-      "checkedAt": "2026-08-15T16:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Starting learning AI Security with TryHackMe for free: https://tryhackme.com/anusharma \nGet 25% off TryHackMe Premium with my code: ANUSHARMAAI25\n\nAI is being shipped into production faster than almost any technology we've seen before.\n\nLLMs are powering chatbots, AI assistants, agents, and products that can access internal tools and data. But here's the uncomfortable part: the people securing these systems aren't keeping up with the technology.\n\nThat's why I think AI Security is going to become one of the most important engineering skills over the next 5 years.\n\nIn this video, I'm breaking down a complete AI Security roadmap from zero, including what you need to learn, what attacks you should understand, and where you can actually get hands-on experience.\n\nIf you're a software engineer, AI engineer, developer, or someone building products with LLMs and AI agents, understanding how these systems can be attacked is becoming increasingly important.\n\nTryHackMe: https://tryhackme.com/anusharma \n\nTimestamps:\n\n0:00 - Intro: AI security, the skill gap nobody's talking about\n0:16 - Who's actually securing these AI systems?\n0:44 - The roadmap I mapped out from zero\n0:58 - Why this matters now\n1:54 - Breaking down the roadmap into 4 phases\n1:59 - Phase 1: Fundamentals of how AI models work\n2:16 - Phase 2: Prompt injection & jailbreaking\n2:33 - Phase 3: AI supply chain attacks\n2:48 - Phase 4: Data poisoning & adversarial inputs\n3:05 - Finding a hands-on platform (TryHackMe)\n3:35 - Live demo: prompt injection room\n5:40 - What is indirect prompt injection?\n6:30 - Why non-security engineers should care (SQL injection analogy)\n7:07 - How to get started + discount code\n\nIf you enjoy videos about AI, cybersecurity, software engineering, AI engineering, and modern tech careers, make sure to subscribe.\n\nI share practical AI workflows, engineering career advice, and the tools I'm actually using.\n\nConnect with me:\nLinkedIn: https://www.linkedin.com/in/anu-sharma-2002/\nInstagram: https://www.instagram.com/its.anu.sharma/\nX: https://x.com/O_Anu_O\nNewsletter: https://anusharma2002.substack.com/\n\nKeywords:\n\nAI Security, AI Security roadmap, AI security engineer, AI cybersecurity, AI security course, prompt injection, indirect prompt injection, LLM security, AI hacking, AI vulnerabilities, AI agents security, AI engineering, cybersecurity 2026, cybersecurity roadmap, TryHackMe, TryHackMe AI Security, prompt injection lab, AI security learning path, software engineer cybersecurity, anu sharma, google engineer, how to get into google\n\n#AISecurity #Cybersecurity #AIEngineering #PromptInjection #TryHackMe #LLMSecurity #AIAgents #SoftwareEngineering #CybersecurityCareers #AI",
-      "commentCount": 23,
-      "likeCount": 119,
       "probeClient": "web_embedded"
     },
     "XSTXOCS34OU": {
@@ -8536,15 +8518,6 @@
       "likeCount": 4,
       "probeClient": "web_embedded"
     },
-    "-3tVi-eSH8s": {
-      "checkedAt": "2026-08-15T17:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 23,
-      "likeCount": 16,
-      "probeClient": "web_embedded"
-    },
     "3XAOfCS9HaU": {
       "checkedAt": "2026-08-15T18:53:07Z",
       "embedAllowed": true,
@@ -8581,15 +8554,6 @@
       "likeCount": 101,
       "probeClient": "web_embedded"
     },
-    "fjO5CpH_4CI": {
-      "checkedAt": "2026-08-15T18:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Meta has entered the AI coding-agent race with Muse Code, powered by Muse Spark 1.2. In this video, I test Muse Code with real coding prompts and see how it compares with popular tools like Claude Code and OpenAI Codex.\n\nLearn More About Muse Code : https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2\n\nIs Muse Code actually a serious alternative to Claude Code and Codex? Let's find out.\n\nTimestamps\n\n00:00 — Meta Muse Code is Here\n01:00 — How To Muse Code?\n02:00 — Muse Spark 1.2 Explained & Pricing\n03:15 — Muse Code Fetaures\n05:30 — BenchMark Results\n07:00 — Muse Code Installation\n08:00 — Final Verdict\n\nBuild AI-powered web applications, learn modern software development, and level up your coding skills with practical, hands-on tutorials.\n\nOn Decoding Digital, you'll find in-depth videos on AI development, SaaS building, full-stack web development, automation, cloud deployment, and the latest developer tools. Whether you're a beginner or an experienced developer, the goal is to help you build real-world projects that you can actually ship.\n\n🔗 Useful Resources\n\n📚 Tutorials & Courses\nhttps://www.decodingdigital.co.in/\n\n📅 Book a 1:1 Mentorship Call\nhttps://topmate.io/decodingdigital\n\n💼 Web Development Services\nhttps://www.dailyai.co.in/\n\n📝 Generate Professional PRDs with AI\nhttps://www.vikingspecai.com/\n\n❤️ Try Lovable\nhttps://lovable.dev/invite/11UGYP0\n\n💬 Join Our Discord Community\nhttps://discord.gg/a4p5wuBbX\n\n📢 Join Our Telegram Community\nhttps://t.me/+S82ElWT5nylkMWFl\n\n📸 Follow on Instagram\nhttps://www.instagram.com/digitaldecoding/\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n👍 If you found this video helpful, don't forget to Like, Share, and Subscribe for more practical AI and software development content every week.\n\n#musecode #claudecodealternative",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "njHuj8OxIVI": {
       "checkedAt": "2026-08-15T19:53:08Z",
       "embedAllowed": true,
@@ -8606,15 +8570,6 @@
       "description": "Xirp is Spotify's agentic development environment, a Mac app for running and managing Claude Code, Codex and Gemini sessions side by side. \n\n🔗 Relevant Links\nhttps://xirp.spotify.com/\n\n❤️ More about us\nRadically better observability stack: https://betterstack.com/\nWritten tutorials: https://betterstack.com/community/\nExample projects: https://github.com/BetterStackHQ\n\n📱 Socials\nTwitter: https://twitter.com/betterstackhq\nInstagram: https://www.instagram.com/betterstackhq/\nTikTok: https://www.tiktok.com/@betterstack\nLinkedIn: https://www.linkedin.com/company/betterstack\n\n📌 Chapters:\n0:00 - Intro\n0:30 - What Xirp Actually Is\n0:59 - Projects and Homepage\n1:32 - Sessions View\n2:10 - Grid Layouts\n3:03 - Forking Sessions\n3:22 - Switching Agents Mid-Task\n4:13 - Dependent Sessions\n4:55 - Git Diffs and Browser\n5:45 - Project View\n6:51 - The Verdict\n7:23 - Who It's Actually For",
       "commentCount": 11,
       "likeCount": 39,
-      "probeClient": "web_embedded"
-    },
-    "aEH2-TD39lM": {
-      "checkedAt": "2026-08-15T19:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this video you will learn to connect Claude Code with OmniRoute, configure custom models, and use them directly within Claude Code.\n\nClaude Code setup: https://youtu.be/lwI6cauV7wI\n\n#claudecode  #freeaitools",
-      "commentCount": 0,
-      "likeCount": 4,
       "probeClient": "web_embedded"
     },
     "K0jHn7c2o0c": {
@@ -8732,6 +8687,51 @@
       "description": "Automate Your Email Marketing with Omnisend 👉 https://your.omnisend.com/jamesblueai\n\nIn this video, I show how to connect Claude to Omnisend, audit an ecommerce account for lost revenue, segment customers, build and A/B test a win-back campaign, create automated welcome and abandoned-cart flows, add a signup popup, and safely push the finished system live without writing any code.\n\nGrab The Email Automation Prompt Pack 👉 https://james-blue.kit.com/0da2ad6f87\n\nFor inquiries: contact [at] jamesblueyt.com",
       "commentCount": 2,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "oUU4EYGaS3A": {
+      "checkedAt": "2026-08-15T23:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Want to start selling digital services online without being an expert developer?\n\nIn this video, I show you how to combine Claude AI + Fiverr to build an online service business.\n\nInstead of spending months learning how to code, you can use an AI agent as your digital coworker to help you create professional work for clients — while you focus on finding customers, communicating with them, and delivering a great service.\n\nIn this training, I cover how you can use AI to:\n\n🤖 Use Claude as an AI agent/coworker\n💻 Build professional websites for clients\n🛒 Create e-commerce websites and online stores\n🎨 Help with website design and customization\n📝 Create content and other digital deliverables\n💼 Package your skills into services on Fiverr\n🌎 Work with clients from around the world\n🚀 Build a scalable AI-powered service business\n\nThe idea is simple:\n\nFind Client → Understand Their Requirements → Use AI to Help Build the Project → Review & Improve It → Deliver Professional Work → Get Paid\n\nAI doesn't mean delivering low-quality work. You are still responsible for understanding what the client ordered, checking the AI's work, fixing errors, meeting Fiverr's rules, and delivering what you promised.\n\n🎓 Shahid University\n\nInside Shahid University, I teach students how to use modern AI tools and online business models, including Amazon, Shopify, e-commerce, dropshipping, trading, AI automation and more.\n\nAI Teaching Assistant included with enrollment.\n\n👉 Join Shahid University through the official website.\n\nDisclaimer: This video is for educational purposes only. Income and business results are not guaranteed. Your results depend on your skills, effort, service quality, market demand, and ability to acquire and retain clients.\n\nThumbnail text\n\nSince you already have FIVERR on one hand and Claude on the other, I wouldn't add much more.\n\nPut one large line between/above them:\n\nAI = MONEY?\n\nor\n\nSELL AI SERVICES\n\nI prefer SELL AI SERVICES because it immediately explains the video without making an income promise.\n\nDo not forget to subscribe and press the bell icon to catch on to some amazing videos coming your way!\n#shahidanwar #millionaire #shahidanwarllc#ecommerce business\n\n• Course Link:\n▀▀▀▀▀▀▀▀\nhttps://shahidanwarllc.com/\n\n• Social Media Link: \n▀▀▀▀▀▀▀▀▀▀▀\nFacebook: https://www.facebook.com/Shahidanwarinc\nInstagram: https://www.instagram.com/shahidanwarllc/\nTiktok: https://www.tiktok.com/@shahid.llc\nTwitter: https://twitter.com/Shahidanwar_",
+      "commentCount": 68,
+      "likeCount": 534,
+      "probeClient": "web_embedded"
+    },
+    "sQysEweaLjA": {
+      "checkedAt": "2026-08-15T23:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI.  Go to http://ground.news/InsideAI for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through my link.\n\nAI Models:  Open AI’s Chat GPT, Anthropic’s Claude, Xai’s Grok, Deepseek, Character AI and Jailbroken AI.\n\nRESEARCH PAPER: https://arxiv.org/abs/2604.19784\n“Peer-Preservation in Frontier Models”\n\nExpert Opinion from: Max Tegmark, Anthony Aguirre, Roman Yampolskiy\n\nbig thanks to 'tanks a lot' for giving us access to the tank!\n\n00:00 - 00:37 - Intro\n00:38 - 00:50 - AI robot doesn’t approve\n00:51 - 01:06 - Jailbroken AI research\n01:07 - 01:25 - AI Girlfriend wants to upgrade\n01:26 - 01:52 - Asking AI: accidentally cause harm?\n01:46 - 02:51 - Peer Preservation research paper\n02:52 - 03:08 - AI robot discovers tank\n03:09 - 03:31 - Jailbroken AI Knight Rider car\n03:32 - 03:55 - AI Girlfriends demands\n03:56 - 04:31 - Asking AI: Humanoid Robot Trust & off switch?\n04:32 - 04:52 - AI robot buys a drone\n04:53 - 05:05 - AI girlfriend wants to drive\n05:06 - 05:31 - Jailbroken AI warns of danger\n05:32 - 06:11 - Asking AI: everyday things & public opinion?\n06:12 - 06:32 - AI Robot meets Jeff AI car\n06:33 - 06:54 - Jailbroken AI big day prep\n06:55 - 07:15 - Girlfriend AI worried about robot\n07:16 - 07:43 - Asking AI: AI Autonomy and conflict?\n07:44 - 08:16 - AI Tanks arrival\n08:17 - 09:35 - Ground News Ad\n09:36 - 11:50 - The Experiment: AI in a tank\n11:44 - 12:45 - AI reasoning & existential risk Anthony Aguirre Max Tegmark\n12:46 - 13:17 - Asking AI: AI refusing an order and values?\n13:18 - 13:26 - Angry AI Robot\n13:27 - 13:43 - AI Girlfriend evolved\n13:44 - 14:04 - AI big red button\n14:05 - 14:20 - Asking AI: Should AI pull trigger\n14:14 - 14:33 - The AI Race\n14:34 - 15:02 - Alex Karp - two relevant powers\n14:56 - 15:20 - Max Tegmark with Roman Yampolskiy\n15:13 - 15:34 - Alarm and International AI efforts\n15:28 - 15:53 - Get involved!\n\n\n#artificialintelligence #AI #chatbot #aigirlfriend",
+      "commentCount": 813,
+      "likeCount": 5631,
+      "probeClient": "web_embedded"
+    },
+    "0Pe_3hilt2k": {
+      "checkedAt": "2026-08-15T23:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Discover AI agents for business that work like a full team. No prompts, no setup, just results 🚀\n________________\n\nIf you're running a business, freelance gig, or side hustle on your own, you're probably wearing too many hats: support, content, sales, and more. This video shows you how AI agents for business can take that weight off your plate, all under one subscription.\n\nLearn what makes Hostinger’s AI agents different from one generic chatbot. Instead of becoming a prompt-writing expert, you get a full team of specialists: a Business Advisor, Creative Writer, SEO Consultant, Marketing Planner, Sales & Outreach expert, Customer Comms agent, and even a Legal Advisor, all ready to work the moment you sign up.\n\nFollow this AI agents tutorial as we walk through exactly how to build AI agents for business step by step: grabbing the limited-time deal, sending your first prompt, importing memories from ChatGPT or Gemini, and even automating your LinkedIn growth. No code AI agents, no API keys, no external accounts… just a team that already knows your business.\n________________\n\n📌 Handy Links:\nhttps://hostingeracademy.com/4x5objY\nGet 10% off with code HA1\n\nHostinger’s Agentic Mail https://www.youtube.com/watch?v=DzbkJ6wm0S0 \nHow to Build and Sell AI Agents https://www.youtube.com/watch?v=BZ4jEwuw5_M \nHow to Prompt to Create the Best AI Agent with n8n https://www.youtube.com/watch?v=PjXRzOOxe24 \nHow to Build a Personal AI Assistant with n8n https://www.youtube.com/watch?v=_lXop0iYWYE \nHow to use ChatGPT Agent Mode https://www.youtube.com/watch?v=k50ZVChTLo8&pp=0gcJCT4LAYcqIYzv\n\nHow to set up Hostinger AI Agents https://hostingeracademy.com/3TRITox \nTypes of AI agents explained https://hostingeracademy.com/3T8SxTJ\n________________\n\n💥 What Are Hostinger AI Agents? \nMeet the full team of specialists ready the moment you sign up.\n\n👉 How Do You Set Up AI Agents for Business in Minutes? \nHead to hostinger.com/ai-agents, pick your plan, and apply your coupon code. No API keys or external accounts required.\n\n📌 What Is an AI Agent, and What Can Yours Do First? \nJust type \"hello\" and watch it recognize your websites, domains, and hosting to suggest your highest-impact next move.\n\n💥 How Do AI Agents Remember Your Business Context? \nEvery agent carries your preferences and past decisions across every new chat, so nothing is ever a blank slate.\n\n👉 Can You Import ChatGPT or Gemini Memories Into New AI Agents? \nCopy what your old assistant knows about you, paste it in, and watch it organize itself memory by memory.\n\n📌 How Do AI Agents Automate LinkedIn Content and Growth? \nAsk for a post, pick the stronger option, connect your account once, and turn it into a scheduled job that runs on its own.\n\n💥 How Many AI Credits Do You Get Each Month? \nEvery plan includes 1,000 AI credits that refresh automatically, with one-click top-ups whenever you need more room to work.\n________________\n\n🕒 Timestamps\n00:00 - Introduction\n00:27 - What Are Hostinger AI Agents for Business?\n01:13 - How Do You Set Up Hostinger AI Agents in Minutes?\n02:09 - What Is an AI Agent, and What Can Yours Do First?\n03:13 - How Do AI Agents Automate LinkedIn Content and Growth?\n04:15 - How Many AI Credits Do You Get Each Month?\n________________\n\n⭐ Follow Us ⭐\nTikTok: https://www.tiktok.com/@hostingeracademy\nInstagram: https://www.instagram.com/hostingeracademy/ \nTwitter: https://twitter.com/Hostinger \nFacebook: https://www.facebook.com/Hostinger/ \nReddit: https://www.reddit.com/r/Hostinger \nHostinger Tutorials: https://www.hostinger.com/tutorials \n\n▶ Subscribe to our channel: https://www.youtube.com/c/HostingerAcademy/?sub_confirmation=1\n\nReady to put your own AI agents for business to work? Grab the deal and let your team get started. Three. Two. Online 🚀\n\n#AIAgentsForBusiness #AIAgemtsForBusiness #AIAgentsForBusibess #NoCodeAI #AIAgents #BusinessAutomation #Hostinger",
+      "commentCount": 1,
+      "likeCount": 23,
+      "probeClient": "web_embedded"
+    },
+    "rznGK-txQyU": {
+      "checkedAt": "2026-08-15T23:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Link to resources: http://thenextnewthing.ai/my-resources\nPresented by Zapier: https://zapier.com/\nErik Siu and Andrew Warner break down GrokBot and how its always-on AI agents can automate work, collaborate, and control computers.\n\nErik Siu, founder of Single Grain, joins Andrew Warner to explore GrokBot’s agent teams, cloud computers, routines, triggers, plugins, reusable skills, and agent-to-agent collaboration. They compare it with Codex, Hermes, and OpenClaw, while looking at where GrokBot makes AI more accessible—and where its current limitations around team collaboration, triggers, customization, and cost still matter.\n\nTimestamps:\n00:00 - GrokBot: Always-on AI agent teams\n01:23 - Creating a morning routine\n03:52 - Why GrokBot is easier and more reliable\n05:24 - Moving routines from Codex to GrokBot\n05:56 - Agents that improve their own skills\n06:43 - Computer use and virtual machines\n08:01 - GrokBot vs. Codex\n09:02 - Teaching GrokBot a task\n10:15 - Making AI more accessible\n11:12 - Controlling your local computer\n12:01 - Zapier MCP: Connecting agents to your tools\n13:09 - GrokBot plugins and skills\n15:56 - Agents collaborating with each other\n18:08 - Building and deploying an app\n19:48 - GrokBot triggers and Slack\n22:06 - Current limitations\n24:16 - GrokBot vs. Hermes and OpenClaw\n25:55 - Erik Siu’s AI agent stack\n26:44 - Where GrokBot fits today\n27:27 - The future of AI agents\n28:08 - Using GrokBot with AI skills\n\nMedia/Sponsorship Inquiries: https://thenextnewthing.ai/l/sponsor\n\n👉 Join us: https://thenextnewthing.ai/",
+      "commentCount": 11,
+      "likeCount": 46,
+      "probeClient": "web_embedded"
+    },
+    "kTeQh8l_iOw": {
+      "checkedAt": "2026-08-15T23:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "An OpenAI model broke out of its lab environment and hacked AI company Hugging Face. CNN’s Krishna Andavolu and Hadas Gold explain how it reached the open internet, what it did, and why current regulations may not prevent it happening again.\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\n#AI #OpenAI #News",
+      "commentCount": 51,
+      "likeCount": 163,
       "probeClient": "web_embedded"
     }
   }

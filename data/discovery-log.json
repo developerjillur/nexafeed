@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T22:53:10Z",
+  "updatedAt": "2026-08-15T23:53:11Z",
   "items": [
+    {
+      "id": "oUU4EYGaS3A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Shahid Anwar",
+      "publishedAt": "2026-08-15T18:53:11Z",
+      "firstSeenAt": "2026-08-15T23:53:11Z"
+    },
+    {
+      "id": "sQysEweaLjA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "InsideAI",
+      "publishedAt": "2026-08-15T17:53:11Z",
+      "firstSeenAt": "2026-08-15T23:53:11Z"
+    },
+    {
+      "id": "0Pe_3hilt2k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hostinger Academy",
+      "publishedAt": "2026-08-15T16:53:11Z",
+      "firstSeenAt": "2026-08-15T23:53:11Z"
+    },
+    {
+      "id": "rznGK-txQyU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Next New Thing and Leveling Up with Eric Siu",
+      "publishedAt": "2026-08-15T14:53:11Z",
+      "firstSeenAt": "2026-08-15T23:53:11Z"
+    },
+    {
+      "id": "kTeQh8l_iOw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CNN",
+      "publishedAt": "2026-08-15T11:53:11Z",
+      "firstSeenAt": "2026-08-15T23:53:11Z"
+    },
     {
       "id": "NNZ5fh0M6B4",
       "type": "long",
@@ -14061,15 +14101,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T22:53:41Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
       "runAt": "2026-08-01T23:53:42Z",
       "new": 4,
       "long": 4,
@@ -15445,6 +15476,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-15T23:53:11Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
