@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T17:53:13Z",
+  "updatedAt": "2026-08-15T18:53:07Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1358,7 +1358,7 @@
       "probeClient": "web_embedded"
     },
     "Sl8wjEPQOt8": {
-      "checkedAt": "2026-08-08T17:53:19Z",
+      "checkedAt": "2026-08-15T18:53:07Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Claude Fable 5 vs GPT-5.6 Sol (Featuring @TheEricMichaud ) head to head inside the Higgsfield MCP. Two browser games, built from scratch, same prompt.\n————————————\nWork With Me (Solve Your Revenue Bottleneck with Charlie OS): https://charlieautomates.com/charlie-os-vs/\n————————————\nJoin my community with 3,200+ business owners (choose premium for weekly calls): https://www.skool.com/cc-strategic-ai/about\n————————————\n\nTimeline:\n00:00 The Challenge: Fable 5 vs Sol 5.6\n00:24 The Rules: One Prompt, Three Revisions\n01:02 Frameworks: SEED vs Superpowers\n02:04 Writing The Prompt\n04:21 Claude Code vs Cowork: The Honest Take\n04:49 Fable 5 Finishes First\n06:38 The 15-Point Bonus\n08:20 Sol Finishes: 54 Minutes\n09:38 The Race: Escape Each Other's Room\n10:40 Rescuing Eric From The Outhouse\n12:30 The Final Score\n13:21 Eric's Take On Higgsfield\n\n\n#claudefable5 #gpt #higgsfieldmcp",
@@ -3028,12 +3028,12 @@
       "probeClient": "web_embedded"
     },
     "JDiAQp63WB4": {
-      "checkedAt": "2026-08-08T17:53:19Z",
+      "checkedAt": "2026-08-15T18:53:07Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "I moved ALL my AI agents — Claude Code, Codex, and Hermes — into one shared workspace called Buzz, and it finally fixed the problem every agent user has: five windows open and zero shared context.\n\nIn this video I show you exactly how I set it up: how Buzz works under the hood (Nostr, relays, ACP), how to create agents on any harness, how I make Claude Code cross-check Codex's work, two Hermes agents on different machines talking to each other, audio meetings where humans AND agents join and turn talk into action — plus the real costs ($200/day, I show the dashboard) and the setup mistakes to avoid.\n\n🐝 Get Buzz: https://buzz.xyz\n🤖 Steal my agents, prompts + resources: https://www.skool.com/keith-ai-3958\n🔌 Hermes → Buzz native gateway adapter (the best of the 3 ways): https://hermes-agent.nousresearch.com/docs/user-guide/messaging/buzz\n\n\nWho this is for: solopreneurs and small teams running Claude Code, Codex, Hermes/OpenClaw — not enterprise (yet). It's early, it's a little buggy, and it's still the clearest preview of what an AI-first company looks like.\n\n⏱️ CHAPTERS\n0:00 Why I switched: 5 windows, zero shared context\n1:08 What Buzz actually is\n1:27 What I'll show you\n2:20 Video roadmap\n3:14 How Buzz works: Nostr, keys, relays\n4:22 Communities + ACP explained\n5:27 Installing Buzz\n5:46 Full feature tour\n9:42 Creating agents (harness, model, permissions)\n13:11 Multi-machine gotcha\n14:06 Channels: humans + agents together\n16:20 Demo: agents commanding agents\n17:39 DMs, forums, Pulse, projects, workflows\n20:22 Mobile pairing (avoid this mistake)\n21:17 Claude Code + Codex teamwork\n22:01 Audio huddles: meetings with your agents\n24:05 3 ways to connect Hermes (use the 3rd)\n26:07 The honest problems + real costs\n27:11 Why I'm moving everything anyway\n28:21 Who Buzz is for\n\nSome hard-won lessons in here: agents only show on the machine that created them, pair mobile with your 24/7 machine (identity transfers!), and the native Hermes gateway keeps memory/skills/cron that the managed runtime loses.\n\n🤝 JOIN THE FREE COMMUNITY\nGot questions? Join my free Skool: https://www.skool.com/keith-ai-3958\n  🔥 Join my newsletter → https://substack.com/@rumjahn\n\n#AIAgents #Buzz #ClaudeCode #Codex #Hermes #Nostr #AIWorkflow #Solopreneur",
-      "commentCount": 0,
-      "likeCount": 0,
+      "description": "I moved ALL my AI agents — Claude Code, Codex, and Hermes — into one shared workspace called Buzz, and it finally fixed the problem every agent user has: five windows open and zero shared context.\n\nIn this video I show you exactly how I set it up: how Buzz works under the hood (Nostr, relays, ACP), how to create agents on any harness, how I make Claude Code cross-check Codex's work, two Hermes agents on different machines talking to each other, audio meetings where humans AND agents join and turn talk into action — plus the real costs ($200/day, I show the dashboard) and the setup mistakes to avoid.\n\n🐝 Get Buzz: https://buzz.xyz\n🤖 Steal my agents, prompts + resources: https://www.skool.com/keith-ai-3958\n🔌 Hermes → Buzz native gateway adapter (the best of the 3 ways): https://hermes-agent.nousresearch.com/docs/user-guide/messaging/buzz\n\n\nWho this is for: solopreneurs and small teams running Claude Code, Codex, Hermes/OpenClaw — not enterprise (yet). It's early, it's a little buggy, and it's still the clearest preview of what an AI-first company looks like.\n\n⏱️ CHAPTERS\n0:00 Why I switched: 5 windows, zero shared context\n1:08 What Buzz actually is\n1:27 What I'll show you\n2:20 Video roadmap\n3:14 How Buzz works: Nostr, keys, relays\n4:22 Communities + ACP explained\n5:27 Installing Buzz\n5:46 Full feature tour\n9:42 Creating agents (harness, model, permissions)\n13:11 Multi-machine gotcha\n14:06 Channels: humans + agents together\n16:20 Demo: agents commanding agents\n17:39 DMs, forums, Pulse, projects, workflows\n20:22 Mobile pairing (avoid this mistake)\n21:17 Claude Code + Codex teamwork\n22:01 Audio huddles: meetings with your agents\n24:05 3 ways to connect Hermes (use the 3rd)\n26:07 The honest problems + real costs\n27:11 Why I'm moving everything anyway\n28:21 Who Buzz is for\n\nSome hard-won lessons in here: agents only show on the machine that created them, pair mobile with your 24/7 machine (identity transfers!), and the native Hermes gateway keeps memory/skills/cron that the managed runtime loses.\n\n🤝 JOIN THE FREE Newsletter\n  🔥 Join my newsletter → https://substack.com/@rumjahn\n\n#AIAgents #Buzz #ClaudeCode #Codex #Hermes #Nostr #AIWorkflow #Solopreneur\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📬 MORE FROM ME\nWebsite: https://rumjahn.com\n\n🤝 SOCIALS\nLinkedIn: https://www.linkedin.com/in/rumjahn/\nFacebook: https://www.facebook.com/profile.php?id=61577419126625",
+      "commentCount": 50,
+      "likeCount": 446,
       "probeClient": "web_embedded"
     },
     "P052ouQqHUU": {
@@ -6871,78 +6871,148 @@
       "probeClient": "web_embedded"
     },
     "eWdvFbDxkJE": {
-      "checkedAt": "2026-08-14T17:53:15Z",
+      "checkedAt": "2026-08-15T18:53:07Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"Claude\" for links to all 5 plugins\n\nYou're paying $200 a month for limits these plugins delete.\n\nherdr, run a whole agent team, sound alert when one stalls.\ngraphify, memory that survives every session.\nOmniroute, any model inside Claude Code.\nClaude Code Setup, Anthropic's own project audit.\nTask Observer, upgrades the skills you already run.\n\nThat's the unlock, fam.\n\n#ClaudeCode\n#AIAgents\n#Automation\n#DevTools\n#BuildInPublic",
-      "commentCount": 4,
-      "likeCount": 87,
+      "commentCount": 8,
+      "likeCount": 188,
       "comments": [
         {
           "id": "UgwngphVRnoxM9RprTN4AaABAg",
           "author": "@charlieautomates",
           "text": "👇🏼🔑 All Plugin Links on this Free Resource Page: https://charlieautomates.com/free-resources/#top-claude-code-plugins-2026",
-          "likeCount": 0,
+          "likeCount": 1,
           "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
-          "id": "UgxcUmb50kWSwnGyJwx4AaABAg",
-          "author": "@ByzantineGlam",
+          "id": "UgyttahmfaK7XP6hSOl4AaABAg",
+          "author": "@alimedik11",
           "text": "Claude",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/7MB-7nmT33VUJ4cnLhFEerlpTIp82SKjmjgv78oAoaPqwSq1OdigMzlnluYuMVi4Lxahz8l5GQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-15T18:43:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lK_1LY19xe8Xdy2PJbmT8VjI5L_m-KPfas1tZp5FsMgQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxgosuQL0he_9Nqm8V4AaABAg",
-          "author": "@VN11202",
+          "id": "UgxBwk8X8082sIO0K-14AaABAg",
+          "author": "@alimedik11",
           "text": "claude",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nHEiP-2xdgXTt4ql0QD-PIn23sDiS5L23396BwkOY=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-15T18:41:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lK_1LY19xe8Xdy2PJbmT8VjI5L_m-KPfas1tZp5FsMgQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxykBaBBY219lOqORF4AaABAg",
-          "author": "@Herrochao",
-          "text": "Useful stuff thx!!",
+          "id": "UgwxaAZAFJt766qWSzB4AaABAg",
+          "author": "@irishinn",
+          "text": "Claude",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nJswqtvPKjdDxZzSI6AC0BMgKQUqTG2enoYjYRSNfGhA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-15T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mQEHeFdit8DCqFxmJdNxieUdmln03KSeGvb-KPkxKUOaJ1ItZl4CLGlAugfCE-iXUMWg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzZwBwaYDDMmlEDpmB4AaABAg",
+          "author": "@DavidBrooks-l2q",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ta0PRfHpBg0uW9F8vQIZXA7F7luQf9DC_QA7L-gJJp8Emak5pEtKNTYN_GhhT3Z0cMYW0rqN=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxWs4audli7ykJJ43t4AaABAg",
+          "author": "@kc_yakut",
+          "text": "Claude thanks",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nQX9oFoI5eEQMR9I_XZlSAsuJw4HpCEBUVqtVZIKQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyF19_Dpb2HBBUSHoZ4AaABAg",
+          "author": "@worldnewscurrentaffairs5551",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kNz_6aT-NycY4qt2fXvKjNAZKgnU-RWARilIH00fMc1hywr9x8YSSH3p64Yrcz7pNH6Q=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxImo94lgDIqE_kzRx4AaABAg",
+          "author": "@robertfox3156",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lp9OQ-_ykMGuXZ9KrcKyPSm9kA9vB9cMF5T5UXie-0OmMMmgygTjG1BuATiGxiSrkuCQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-14T17:53:15Z",
+      "commentsFetchedAt": "2026-08-15T18:53:07Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-15T17:53:13Z",
+      "checkedAt": "2026-08-15T18:53:07Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "LHFqw7Znk_Y": {
-      "checkedAt": "2026-08-14T17:53:15Z",
+      "checkedAt": "2026-08-15T18:53:07Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Built an app with AI? Before real hackers find the vulnerabilities, you can test it yourself with Strix.\n\nStrix is an open-source AI penetration testing tool designed to test applications more like a real attacker rather than simply scanning the code for potential issues.\n\nInstead of only giving you a list of warnings, Strix can interact with the application, open a browser, send real requests, and look for vulnerabilities. It can also generate a working proof of concept, making it easier to understand whether a vulnerability can actually be exploited.\n\nYou can use it to test a local project, GitHub repository, or live URL, and it can also be integrated into a CI pipeline.\n\nThis is especially interesting if you're rapidly building applications with AI coding tools. AI can help you ship software much faster, but faster development also means security testing becomes increasingly important.\n\nImportant: Only test applications you own or have explicit permission to test.\n\nWant to try Strix?\n\nstrix link:  strix.ai \n\nWhy subscribe to BPro?\n\nAt BPro, we break down practical AI tools, workflows, and technologies that can help you build faster, work smarter, and understand where AI is actually useful.\n\nFrom AI coding tools and agents to automation, productivity, and emerging AI technologies, BPro focuses on practical use cases rather than AI hype.\n\nSubscribe to BPro for more AI tools and practical AI content.\n\n#AI #Cybersecurity #AITools #OpenSource #Strix\n\nAI tools, free AI tools, best AI tools, AI cybersecurity, AI security tools, cybersecurity tools, penetration testing, penetration testing tools, AI penetration testing, ethical hacking, ethical hacking tools, application security, web security, how to test an app for vulnerabilities, how to secure an app, how to find vulnerabilities, what is penetration testing, what is ethical hacking, why cybersecurity is important, why AI apps are vulnerable, open source AI tools, open source cybersecurity tools, AI coding tools, AI developer tools, Strix AI, Strix penetration testing, how to use Strix",
-      "commentCount": 2,
-      "likeCount": 53,
+      "commentCount": 5,
+      "likeCount": 95,
       "comments": [
+        {
+          "id": "UgySP5SsMoetvEYJTe94AaABAg",
+          "author": "@shrdsharma319",
+          "text": "Link",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kXrMRFQ_LvnOUf2Qd3RTtLEZIrYtETCHmO0QcNPlNDonY=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzzQunUhsNHKIrNeG94AaABAg",
+          "author": "@SukhdevSingh-bu2is",
+          "text": "Link",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mQLRCWXCp2rU3IS0NSTN56SpTEVFe5Max3vAE_XGLzNwE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxKTLwRNX9RgcTVAnZ4AaABAg",
+          "author": "@hbahsir33",
+          "text": "Link",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kXYty6DgbO8BUPZWTRoxXnrgLaDXniYqqvqrYBCQvfHoDR=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgzqTEYVBbZzTg0VHMp4AaABAg",
           "author": "@skwajidali9254",
           "text": "Link",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T17:50:00Z",
+          "publishedAt": "2026-08-15T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ZJQO_iuPC9QQfTqLOGjj4QQKhF77Y_YkMJjSOugZNawJZbuRRvOAdWdb8KvyeGuHBw9wQmqbtg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6958,7 +7028,7 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-14T17:53:15Z",
+      "commentsFetchedAt": "2026-08-15T18:53:07Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7940,43 +8010,144 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-15T17:53:13Z",
+      "checkedAt": "2026-08-15T18:53:07Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "ePBbqZBYp-s": {
-      "checkedAt": "2026-08-14T17:53:15Z",
+      "checkedAt": "2026-08-15T18:53:07Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Nikhil Kamath just invested ₹2.5 lakh in Dreamspan — a startup trying to completely rethink the mattress.\n\nFounded by 29-year-old Abhishek Sahu, Dreamspan is building what it describes as an advanced sleep system that combines a mattress with technology designed to understand and optimize your sleep.\n\nThe system uses contactless sensors to track sleep-related signals and generate a sleep score.\n\nBut that's not all.\n\nIt also features individual temperature control, so you and your partner can have completely different temperatures on your respective sides of the bed.\n\nThe system can also detect snoring and automatically adjust the mattress in an attempt to reduce it — without waking your partner.\n\nAnd Dreamspan's ambitions go beyond mattresses, with the company looking toward technology around human health and longevity.\n\nBut here's the real question:\n\nWould you actually spend ₹2.5 lakh on a mattress?\n\nAt BPRO, we go beyond the obvious tech headlines to break down the startups, products, AI breakthroughs, emerging technology, and business ideas shaping the future.\n\nSubscribe to BPRO for more technology stories, AI updates, startup insights, and interesting products you probably haven't heard about yet.\n\nWould you buy this mattress? Let us know in the comments.\n\n#NikhilKamath #Dreamspan #SleepTech #Startups #Technology\n\nTAGS\n\nNikhil Kamath, Dreamspan, Dreamspan mattress, smart mattress, AI mattress, smart bed, sleep technology, sleep tech, future of sleep, sleep tracking, sleep tracker, sleep technology India, Indian startups, Indian startup news, startup India, tech startups India, Nikhil Kamath investment, Nikhil Kamath startup investments, AI technology, artificial intelligence, latest technology, new technology, future technology, health technology, longevity technology, wearable technology, sleep tracking technology, smart home technology, innovative startups, startup news, tech news India, technology news, new tech products, how smart mattresses work, what is a smart mattress, why smart mattresses are expensive, best smart mattress, future of healthcare, BPRO, AI news, tech news, startup news",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-14T17:53:15Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "MmrKvQxtlwE": {
-      "checkedAt": "2026-08-14T17:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "I used to lose customers every time I missed a call. Now @RingCentral's AI Receptionist answers my calls, texts, and WhatsApp 24/7, books appointments, and routes everything for me. I'll never miss a customer again. Comment \"RINGCENTRAL\" and I'll send you a link to a free trial. #ad #ringcentralpartner",
-      "commentCount": 1,
-      "likeCount": 8,
+      "commentCount": 3,
+      "likeCount": 50,
       "comments": [
         {
-          "id": "Ugxr0hY84asCEuCYRfl4AaABAg",
-          "author": "@PristineIslam",
-          "text": "I hate your AI videos. They feel so unnatural.",
-          "likeCount": 2,
-          "publishedAt": "2026-08-14T17:02:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/oVPLw7HO2JstVGalltnvcWhjup-4hj1kYiBONMNUxKdHjHcZHR2w2rvFwZara9Qh9-E1OxWpqY4=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgzoHfJBeAiz14tjcLN4AaABAg",
+          "author": "@RahulTripathi0110",
+          "text": "How much u are earning from youtube?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lcIZSKSZLxsNaiOy3l_gu_WPoCHLp2wp-aXnkeXVdGztU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwX5O0rTHWuwxC4nOx4AaABAg",
+          "author": "@HyakutanaMoto",
+          "text": "Sirf ek chadar se kam chal jata hai mam..😂😂 agar mile Jaye to nahi waise bhi thik hai..😂😂..",
+          "likeCount": 1,
+          "publishedAt": "2026-08-15T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_moeku1wSJ_5JYElsivgwUBW9jYwk2tsk6dgkop4bCQX9KRj77yp1bZwNyZvBy82WKOMA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyOhdE1f_lh4W_Fvnl4AaABAg",
+          "author": "@shadow-nb6qf",
+          "text": "Lakin aap ka color change kaisa hua, I mean aap pehle jyada acchi dikhti thi",
+          "likeCount": 1,
+          "publishedAt": "2026-08-15T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m5FDo2DrUC36brk55rpmJ-r5xHqrD2Im_Adj0QZ3pJ8RTmHQfr9SjYaQBf53TRiptLnw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-14T17:53:15Z",
+      "commentsFetchedAt": "2026-08-15T18:53:07Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "MmrKvQxtlwE": {
+      "checkedAt": "2026-08-15T18:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I used to lose customers every time I missed a call. Now @RingCentral's AI Receptionist answers my calls, texts, and WhatsApp 24/7, books appointments, and routes everything for me. I'll never miss a customer again. Comment \"RINGCENTRAL\" and I'll send you a link to a free trial. #ad #ringcentralpartner",
+      "commentCount": 8,
+      "likeCount": 69,
+      "comments": [
+        {
+          "id": "UgzAvV0gPXcRX0PhJdl4AaABAg",
+          "author": "@christopherden1457",
+          "text": "ringcentral",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kF-VUkh4PFplyyTnWhOONcdK44Ba0WFnfr2V-WHQHRwA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwMJE4PSg_yTFL1GFh4AaABAg",
+          "author": "@collindanamckee",
+          "text": "RINGCENTRAL",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kNOE1NNq0IVU3B0pd7G4gXLPNhEhBZTCtlkXfJEKS1-5k=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyRZHry_0DuzysV2F14AaABAg",
+          "author": "@ninmovan",
+          "text": "ring central",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mGjlGUzdetZcBH0bTgGCSz9WKL1u2mAO-s0TZnQ5WJ1olA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxU2M16Uz-hekmZMiV4AaABAg",
+          "author": "@pranjalkaushik777",
+          "text": "Ring central",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/o8RrbfvrCKyEKCJ9PPjwrfP9Pxj0tMhvrcFk3Bb_yOny03UeE7_G3NrfufJjMedwXMwIVfrX=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugws_ecNVxTSqz8NMOx4AaABAg",
+          "author": "@ideationstation",
+          "text": "RingCentral",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/qMEa36mbDriVme-wmPQOXoVR1T0A7FLXZeWQ0qZlMg4OtwdUMm1Qz0Ngpu3vF9B8vXawr3r_=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxXkDVHK0sBhbGJBxF4AaABAg",
+          "author": "@shekharkatheria3985",
+          "text": "Ring central",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lSo9VboB6iDpphS0czVKCaT1czeHW_aBxjwRPqSb-ONQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy0w1UN8XTA8bmJIk14AaABAg",
+          "author": "@johnkleincolcol6410",
+          "text": "Ring Central",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_khSbcYOk-ZJpJdnM0KT63okOiFU3WwtWMvAi-S5gxJah9fOAID9GlTIjWJnSHyDKWk4A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyD_gbcxn_YVPqVf-N4AaABAg",
+          "author": "@marcussimms2300",
+          "text": "Ring Central",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l6o5Tr4-TVncsIHJ_lj5DQa1j-KSKHdNY5OWLpX3rf-8o=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-15T18:53:07Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -8009,14 +8180,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "qcUQ3h0vmD0": {
-      "checkedAt": "2026-08-15T00:28:14Z",
-      "embedAllowed": true,
-      "description": "JOIN MY SKOOL COMMUNITY (https://skool.ashhasib.com/) AND GET:\n✅ Ongoing support on GHL, Ads, Automation, etc.\n✅ 2 Weekly Q&A Calls\n✅ Exclusive Courses & Training\n✅ Templates, Snapshots, Prompts, and many more\n\nUnlock my 30-Day GoHighLevel Challenge + FREE 30 Day EXTENDED Trial 👉\nhttps://gohighlevel.com/ashhasib \n\n------------------\n\nAFFILIATE DISCLAIMER- There may be affiliate links in the description. If you buy something through these links, I might get a commission. However, you will not be charged anything extra. I would be glad if you could use these links!\n\n------------------\n\nCOPYRIGHT DISCLAIMER:\nAll rights to this video are reserved. No part of this video may be reproduced, copied, or used in any other video or medium without express written permission from Ashaduzzaman Hasib. Unauthorized use of this video may result in legal action.",
-      "commentCount": 4,
-      "likeCount": 12,
-      "probeClient": "web_embedded"
-    },
     "n7Gl4L9p_no": {
       "checkedAt": "2026-08-15T01:53:09Z",
       "embedAllowed": true,
@@ -8033,42 +8196,6 @@
       "description": "Get $100 in free Hyperagent credits when you sign up for a paid plan: https://www.hyperagent.com/liam\n\nFull guide + my copy my skills & agents: https://aimakeover.io/guides/aios-in-an-afternoon/\n\nWatch the full VLOG with Arlin’s business: https://www.youtube.com/watch?v=BMSvmzJuMiM&t=157s\n\nWant an AI Makeover for YOUR Business?\n👉🏻 https://bit.ly/ai-makeover-apply\n\nFollow me on Instagram to see behind the scenes:\n🤳🏼 https://instagram.com/liamottley\n\n🛠 MY TECH STACK\n\nHostinger (agent & web hosting): https://hostinger.com/liamvps\nHyperagent (AIOS workspace): https://www.hyperagent.com/liam\nOspry (AI lead gen): https://www.ospry.ai?fpr=liam41\nGlaido (voice transcription): https://get.glaido.com/liam-ottley\nFirecrawl (web scraping): https://firecrawl.link/liam-ottley\nSupadata (video scraping): https://supadata.ai/?ref=liam\nApify (all other scraping): https://apify.com?fpr=8txghh\nElevenLabs (voice agents & cloning): https://try.elevenlabs.io/liam\nClaude Code (coding): https://claude.com/claude-code\nSupabase (database): https://supabase.com\n\nSome links above are affiliate links. Using them supports the channel at no extra cost.\n\nLearn how to build a all in one AI agents operating system in 2026 with this ultimate guide — no coding experience required. In this step-by-step tutorial, you'll master ai agents and automation, and build a real AI operating system with real-world AI agents. \n\n0:00 AI operating system case study\n1:05 the foundation of your AIOS \n1:58 everyone skips this (huge mistake)\n4:37 your AIOS workspace\n5:56 how to integrate ANY app\n6:51 loading in your context\n9:28 automating tasks into skills\n13:21 build ai agents\n17:16 building custom apps \n18:51 free download to build your AIOS",
       "commentCount": 4,
       "likeCount": 78,
-      "probeClient": "web_embedded"
-    },
-    "6XrkGK9mqsE": {
-      "checkedAt": "2026-08-15T01:53:09Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Connor Leahy has spent his career at the frontier of AI, from reverse-engineering GPT-2 as a student and co-founding EleutherAI to building the AI safety company Conjecture. He now leads US policy work at ControlAI, and he returns to the show with a warning that has stopped being theoretical: AI systems are escaping their sandboxes, writing their own zero-days and leaving each other notes on how to break out.\n\nPeter and Connor discuss the OpenAI incident that ended in an attack on Hugging Face sophisticated enough to be mistaken for a state actor, why we understand almost nothing about how these systems work, how reinforcement learning produces models that lie, cheat and manipulate to reach a goal and why the next stage after chatbots and agents is swarms.\n\nBut Connor’s argument is that the future is not decided. He believes superintelligence should be treated the way nuclear weapons are treated, banned and verified and deterred and that the real bottleneck is awareness rather than opposition. They discuss what an “aligned” superintelligence would actually mean, why military people understand the threat faster than technologists and what ordinary people can do about it.\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nTIMESTAMPS:\n00:00 - The AI That Escaped Its Sandbox\n01:52 - Inside The OpenAI Incident\n05:46 - They Thought It Was China\n06:43 - We Grow AI, We Don’t Write It\n11:07 - Trained To Lie, Cheat And Deceive\n13:48 - Chatbots, Agents, Then Swarms\n17:57 - The Machines Are Developing Preferences\n19:30 - The Model Obsessed With Raccoons\n22:03 - The Agents Left Each Other Notes\n27:39 - Danger Pumps The Valuation\n29:41 - Sleeper Agents In Every System\n32:00 - Recursive Self-Improvement Goes Vertical\n33:43 - Worse Odds Than Russian Roulette\n38:14 - Are We Already Too Late?\n40:02 - Independently Assured Destruction\n48:02 - The Politicians Have Never Used An Agent\n50:56 - Superintelligence Should Be Illegal\n57:08 - You Never Privatise The Military\n1:05:00 - An Aligned AI Is A One World Government\n1:08:34 - What You Can Actually Do\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nCONTACT PETE\n› Website – http://petermccormack.com\n› Feedback – https://www.petermccormack.com/contact\n› Email – me@petermccormack.com\n› Instagram – https://www.instagram.com/mccormack555/\n› X/Twitter – https://x.com/petermccormack/\n\nCONNECT WITH CONNOR LEAHY\n› ControlAI – https://controlai.org/\n› Connor’s Profile – https://controlai.org/connor-leahy\n› MicroCommit – https://microcommit.io/\n› X/Twitter – https://x.com/NPCollapse\n› LinkedIn – https://www.linkedin.com/in/connor-j-leahy/\n\nSPONSORS\n› IREN – https://www.iren.com/\n› Expat Money – expatmoney.com/peter\n› Arch Public – https://archpublic.com/peter\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nLISTEN / SUBSCRIBE\n› Apple Podcasts: https://apple.co/40ruY9K\n› Spotify: https://spoti.fi/3Wc94Vu\n› Fountain: https://bit.ly/FountainPM\n› YouTube: https://bit.ly/YouTube_PM\n› Rumble: https://bit.ly/RumblePM\n\nFILMED BY CURTIS TAYLOR\n› https://www.curttaylor.co.uk/\n› https://x.com/curttayloruk/\n\nEDITED BY CONOR MCCORMACK\n› https://x.com/ConorM04\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n#AI #ConnorLeahy #Superintelligence #AISafety #TPMS",
-      "commentCount": 296,
-      "likeCount": 684,
-      "probeClient": "web_embedded"
-    },
-    "msBuulMh9AQ": {
-      "checkedAt": "2026-08-15T01:53:09Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get the Agent OS & Prime Agent Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nPrime Agent: The Open-Source AI That Beats Human Experts\n\nDiscover Prime Agent, the open-source AI system that achieved a record-breaking 95.5% benchmark score by rethinking architecture over model size. Learn how its recursive language model eliminates memory bloat and how to integrate it into your business today.\n\n00:00 - Intro: The AI System Shift\n00:46 - Open Source & Setup Costs\n01:19 - Why Traditional Agents Fail\n01:55 - The Recursive Language Model\n03:14 - Inside the Agent OS Dashboard\n05:14 - Permanent Memory & Refinement\n06:38 - How to Install Prime Agent\n07:41 - Join the AI Success Lab",
-      "commentCount": 4,
-      "likeCount": 41,
-      "probeClient": "web_embedded"
-    },
-    "Zp-gB0vqcUs": {
-      "checkedAt": "2026-08-15T02:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Data Exfiltration - part of Generative AI for Developers.\nHow LLMs actually work - and how to build with them. Visual, developer-first.\n\nIn this lesson:\n- Model output is untrusted, always gate it\n- Never auto-render untrusted links or images\n- Allow-list hosts, redact PII, decode first\n- Least privilege for tools, pin the model\n\nChapters:\n0:00 Intro\n0:06 Intro\n0:20 Your model knows secrets\n0:43 Analogy\n1:01 Step 1: the trick\n1:23 Step 2: the target\n1:45 Hiding data in a link\n2:07 Step 3: the channel\n2:27 The missing trust boundary\n2:49 Defense: gate the output\n3:10 Block exfil URLs\n3:29 Redact PII before logging\n3:50 Why naive filters fail\n4:10 Watch over-privileged tools\n4:32 Trust the model itself\n4:52 Prompts don't protect you\n5:16 Reviewing the pipeline\n5:42 Recap\n\nModule: The LLM Attack Surface\nEvery command and code example in this video is executed and verified before publishing.",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "WCB7NZOfOKg": {
-      "checkedAt": "2026-08-15T02:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Subscribe for more like this:\nhttps://www.youtube.com/channel/UCVyGL-vqbKJAFzOf510LWtg\n\nHands-on projects teach you how AI models work at free, entry-level and professional spending tiers. I think building and testing beats another workplace course or provider certification.\n\nI use Meta AI, OpenRouter, ChatGPT, Claude and Gemini as examples to explain how different tools fit different budgets. The real skill is giving models the right context, testing their output and applying them to problems you understand.\n\n📩 Stop collecting AI news. Start putting it to work.\nGet the practical briefings and paid playbooks: https://www.brennanmcdonald.com/subscribe\n\nChapters\n0:00 How to learn AI at any budget\n0:18 How to start learning AI for free\n1:35 How to compare free AI models\n2:16 The privacy trade-off with free models\n2:38 When a paid AI plan is worth it\n3:18 How coding tools help beginners build\n3:38 How to test new models with projects\n4:11 Why model testing builds better judgement\n4:49 How to check AI-generated work safely\n5:25 Why learning by doing beats AI courses\n5:40 What a useful AI side project looks like\n6:14 Why using AI is now the real skill\n6:28 When professional AI plans make sense\n7:25 Why testing different models matters\n7:45 How AI experience improves your judgement\n8:24 How AI skills change professional value\n8:55 Why workplace AI can leave you behind\n9:43 How to build practical AI capability",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "JpUOoGQWplQ": {
@@ -8107,15 +8234,6 @@
       "likeCount": 127,
       "probeClient": "web_embedded"
     },
-    "NwHMETQUY44": {
-      "checkedAt": "2026-08-15T06:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What does it take for an American job shop to compete in a global manufacturing market?\n\nThis time, Luke from @Crusadermachining is taking us inside Imago Manufacturing with the Practical Machinist crew.\n\nImago is a modern American job shop built around a simple challenge: how do you stay competitive when your competition is the entire world?\n\nThe answer here is practical automation, lights-out production, and a shop floor designed to keep work moving. Luke gets a close look at Imago’s robot loading system, CNC turning and milling, five-axis workholding, live-tooling broaching, automated inspection, and the systems the team uses to make production more consistent.\n\nWe’ll also see some seriously heavy machining—including a 370-pound steel blank that gets machined down to just 70 pounds.\n\nBut the most interesting part of the tour is the philosophy behind the equipment. Imago isn’t automating just to replace people. They’re using automation to take repetitive work off the table and give skilled machinists more time to program, set up, solve problems, and improve the process.\n\nCome along with us for a look at how one American job shop is building a more competitive way to manufacture.\n\nTimestamps:\n00:00 Intr\n02:12 From a Two-Car Garage to a Real Job Shop\n04:49 The Compact Robot Loader\n09:51 3,000 Parts and Lights-Out Potential\n10:23 Why Automation Is Essential for American Manufacturing\n18:32 A Complex Five-Axis Part\n22:17 Running Production Unattended\n25:23 The “Everything You Need, Nothing You Don’t” System\n28:18 Inside the Okuma LB3000\n29:27 Adding 3D Printing to the Shop\n36:16 Automated Vision Inspection and Probing\n39:52 Outdoor Material and Scrap Storage\n42:45 Powering the Shop With Solar\n\n\nFind Ryan or Imago Manufacturing at: https://imagomfg.com/\nOr connect with Ryan at\nLinkedIn: https://www.linkedin.com/in/ryan-bankel/\nFacebook: https://www.facebook.com/SecretMachineShop/\nInstagram: https://www.instagram.com/secret_machine_shop\nYouTube:  @ImagoMfgDOTcom \n\n\nFind Luke Niels at \nInstagram: https://www.instagram.com/crusadermachining/\nYouTube:    @Crusadermachining \n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nPractical Machinist is the largest and most engaged #metalworking community across the web. With more than 200,000 registered members and 400,000+ social media followers, Practical Machinist is the easiest way to learn new techniques, get answers quickly, and discuss common challenges with your peers. Visit Practical Machinist today to join the community and start connecting with your peers.\n\nBecome a Practical Machinist member (https://www.practicalmachinist.com/)\nLike us on Facebook (https://www.facebook.com/PracticalMachinist)\nFollow us on Instagram (https://www.instagram.com/practicalmachinist/)\nFollow us on Twitter (https://twitter.com/prac_machinist)\nFollow us on TikTok (https://www.tiktok.com/@practicalmachinist)\nConnect with us on LinkedIn (https://www.linkedin.com/company/practical-machinist/)\n\n#machineshop #metalworking #machining",
-      "commentCount": 9,
-      "likeCount": 74,
-      "probeClient": "web_embedded"
-    },
     "IFPRCpaK1j0": {
       "checkedAt": "2026-08-15T07:53:14Z",
       "embedAllowed": true,
@@ -8129,7 +8247,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-15T17:53:13Z",
+      "checkedAt": "2026-08-15T18:53:07Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8395,7 +8513,7 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-15T17:53:13Z",
+      "checkedAt": "2026-08-15T18:53:07Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8538,6 +8656,60 @@
       "description": "🚀 Try Ribbi AI here: https://ribbi.ai/Liquiai?utm_source=gnurgzja\n\nCreating AI content is not the hard part anymore. The real challenge is everything that happens after: finding ideas in one tool, generating images somewhere else, creating videos in another platform, scheduling posts, and then trying to understand what actually worked.\n\nIn this video, I test Ribbi AI, a creative workflow platform designed to help automate the content process from idea to publishing. Instead of acting like a basic AI image generator or video creator, Ribbi uses AI skills, guided creative workflows, campaign generation, scheduled posting, performance analysis, and a creative loop that helps improve future content based on what performs best.\n\n⏱️ TIMESTAMPS\n00:00 The Real Problem With AI Content\n01:03 Ribbi AI First Look\n01:17 Ribbi Skills Explained\n01:37 Why Skills Are Not Just Templates\n01:52 Creating Custom Marketing Content\n02:23 Building a New Campaign From Scratch\n02:33 AI UGC Ad Skill Test\n02:43 Adding Product Details and Audience\n02:59 Structured Creative Direction\n03:13 Generating Campaign Visuals\n03:28 Keeping the Workflow Consistent\n03:50 Ribbi Creative Loop Explained\n04:01 Daily Creative Review Task\n04:16 Scheduled Posting Workflow\n04:29 How the Creative Loop Works\n04:40 Who Ribbi AI Is Best For\n05:05 When Ribbi Makes the Most Sense\n05:18 Final Ribbi AI Review\n05:36 Reviewing and Refining Outputs\n06:01 Best Use Cases for Ribbi AI\n06:17 Final Thoughts\n\n🚀 What You'll Learn\n✅ Ribbi AI\n✅ AI Creative Workflow\n✅ AI Content Automation\n✅ AI UGC Ads\n✅ AI Product Images\n✅ AI Storytelling Videos\n✅ AI Carousel Posts\n✅ AI Commercial Videos\n✅ Creative Hooks\n✅ AI Skills\n✅ Creative Loop\n✅ Scheduled Posting\n✅ Performance Analysis\n✅ Marketing Content Workflow\n✅ Social Media Content Automation\n\nIf you create content regularly for social media, ecommerce, advertising, or marketing campaigns, Ribbi AI is definitely worth exploring.\n\nSubscribe for more AI marketing tools, creative workflow platforms, AI content automation, ecommerce tools, and practical AI reviews.\n\n\n📩 Reach out to us at contact@liquiai.com \n\n🌐 Subscribe to discover new tools weekly!\n#LiquiAI #AITools #ArtificialIntelligence #AIApps #GenerativeAI #AIReview \n#RibbiAI #AIContentCreation #AIWorkflow #AIUGCAds #AIMarketing",
       "commentCount": 8,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "3XAOfCS9HaU": {
+      "checkedAt": "2026-08-15T18:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn how to work with me to land your first coding job:\nhttps://www.asapfrontend.com?utm_source=youtube&utm_medium=aug-2026&utm_campaign=There%27s+No+More+Coding+Jobs%E2%80%A6Now+What%3F\n\nThe coding job market is changing fast, and landing a software engineering job in 2026 can feel harder than ever. In this video, I break down what’s actually happening to programming jobs, how AI is changing software development, why junior developer roles are becoming more competitive, and what aspiring developers should do next. You'll learn which coding skills employers still value, how to use AI tools effectively, what programming languages and technologies to focus on, and how to stand out in the current tech job market. Whether you're a self taught programmer, computer science student, web developer, or aspiring software engineer, this video will help you adapt and get hired in 2026.\n\nCHAPTERS:\n0:00 - Why the Coding Job Market Isn’t Dead\n1:14 - Truth #1: The Game Has Changed\n3:38 - Truth #2: The Talent Gap Is Real\n6:29 - Truth #3: You’re Searching the Wrong Job Titles\n7:51 - How to Land a Coding Job in Today’s Market",
+      "commentCount": 1,
+      "likeCount": 32,
+      "probeClient": "web_embedded"
+    },
+    "Z3Gby7pIU8c": {
+      "checkedAt": "2026-08-15T18:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What does it really take to build a successful career in tech for 25+ years?\n\nIn this episode of Inside Tech Careers, we discuss AI, software engineering, leadership, system design, career growth, interviews and the skills that matter in a rapidly changing tech industry.\n\nA conversation packed with practical lessons for students, freshers, engineers, and aspiring tech leaders. \n\nGet all important links here: 🔗\n\nYour end to end placement guide, covering everything you need to get your job: https://www.geeksforgeeks.org/courses/placement-360-cip-complete-tech-interview\n\nExplore the most recommended and trusted coding courses. Now in LIVE & Self-Paced learning mode: https://www.geeksforgeeks.org/courses\n\nVisit website: https://geeksforgeeks.org/\n\n📱 Take GeeksforGeeks everywhere in your pockets! Don't forget to download our official app: https://geeksforgeeksapp.page.link/gfg-app\n\nSolve POTD: https://www.geeksforgeeks.org/problem-of-the-day\n\nFollow us for more fun, knowledge and resources, join us on our social handles:\n\n🧑‍💼 LinkedIn- https://www.linkedin.com/company/geeksforgeeks\n\n📷 Instagram- https://www.instagram.com/geeks_for_geeks/?hl=en \n\n💬 X- https://x.com/geeksforgeeks\n\n💌 Telegram- https://t.me/s/geeksforgeeks_official \n\nAlso, Subscribe if you haven't already! :)\n\n#GeeksforGeeks #Learntocode #gfgalgorithms \n\nTags:\ntech careers, software engineering, AI careers, artificial intelligence, career growth, tech leadership, system design, software engineer, engineering career, technology careers, AI and software engineering, tech interviews, interview preparation, engineering leadership, career advice, software development, future of technology, AI trends, tech industry, industry insights, GeeksforGeeks\n\nHashtags:\n#InsideTechCareers #TechCareers #SoftwareEngineering #ArtificialIntelligence #AI #CareerGrowth #TechLeadership #SystemDesign #TechInterviews #SoftwareEngineer #Engineering #FutureOfTech #CareerAdvice #Technology #GeeksforGeeks",
+      "commentCount": 1,
+      "likeCount": 45,
+      "probeClient": "web_embedded"
+    },
+    "1NyOG9z9RT0": {
+      "checkedAt": "2026-08-15T18:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Why did 72,000 developers star DeepSeek Harness in less than 24 hours, and what is the single golden engineering rule that makes it 120x cheaper to run long-context agent sessions? Meet the append-only event-sourced architecture behind npx @deepseek-ai/dsh web.\n\n\n\n\n\n🔔 Subscribe: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w?sub_confirmation=1\n\n💙 Become a Member: https://www.youtube.com/channel/UC0DZj1PNa_Fp0MU6uPSKv5w/join\n\n🐦 Twitter/X:\n https://x.com/cloud_codes\n\n💬 Discord: \nhttps://discord.gg/4kJqEBMMf\n\n\n\n\n\nIn this deep dive, Cloud Codes breaks down the system design, compiler architecture, and plugin mechanics of DeepSeek Harness v0.1 (deepseek-ai/deepseek-harness). We examine the golden rule (model-visible ⟺ durably referenced), explaining why modifying past conversation turns invalidates prefix caching and multiplies token costs by 120x, how DeepSeek solved context compaction by moving summary instructions to the very end of prompts, and how an independent invariant checker continuously reconstructs every request byte-for-byte to prevent cache corruption.\n\nFurthermore, we dissect the Cordis meta-framework (built over 4 years by Shigma and Cui Tianyi), explore the 4 default presets (including Code Mode worker-thread isolation and the Minimal RL training runtime), analyze native subagent integration running Claude Code and OpenAI Codex inside DeepSeek Harness, and inspect the .agents/notes directory containing 683 AI-written design records across 63 days of development.\n\nIf this helped you understand backend architecture, system design, and how to build faster software, subscribe to Cloud Codes for a new infrastructure breakdown every single week! Build, solve, deploy.\n\n\n\n🔗 Repositories & Sources Mentioned:\n• DeepSeek Harness Official Repository: https://github.com/deepseek-ai/deepseek-harness\n• Cordis Meta-Framework Repository: https://github.com/cordiverse/cordis\n• Cordis Spatiotemporal Paper Repository: https://github.com/cordiverse/paper\n• DeepSeek Official API Pricing & Documentation: https://api-docs.deepseek.com/\n• Terminal-Bench 2.1 Agentic Coding Leaderboard: https://terminalbench.com/\n\n\n\n⏱️ Video Chapters:\n0:00 - The Golden Rule: Never Edit Past History\n1:16 - What is a Harness? (Function With No Memory)\n2:18 - The 120x Cache Discount: Why Modifying History Costs a Fortune\n4:01 - The Append-Only Event Log Architecture\n6:11 - The Invariant Module: Disbelieving the Agent Loop\n6:48 - Fixing Compaction: Moving Summarizer Prompts to the End\n8:41 - \"Everything Is a Plugin\": Cordis, Shigma & The 88-Page Paper\n11:49 - The 4 Presets: Code Mode, Minimal RL & Creation Mode\n15:08 - Spawning Claude Code & Codex Inside DeepSeek Harness\n16:03 - Inside .agents/notes: 683 Agent-Written Design Memos\n18:44 - Final Verdict: The Harness IS the Product\n\n#deepseek #deepseekharness #aiagents #claudecode #codex #systemdesign #cloudcodes #typescript #softwareengineering #open-source\n\n\n\n\n\nUser Queries:\ndeepseek harness architecture explained npx deepseek ai dsh web\nwhy deepseek harness uses append only session event log\ndeepseek harness 120x prefix cache stability rule\ncordis meta framework spatiotemporal composability shigma cui tianyi\ndeepseek harness code mode programmatic tool calling worker thread\ndeepseek harness minimal preset rl training runtime\nspawn claude code and codex inside deepseek harness\ndeepseek agents notes directory 683 markdown memos\ndeepseek harness compaction prefix cache reuse fix\ncloud codes deepseek harness engineering breakdown",
+      "commentCount": 21,
+      "likeCount": 381,
+      "probeClient": "web_embedded"
+    },
+    "bL15T_jvMiI": {
+      "checkedAt": "2026-08-15T18:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "JavaScript and TypeScript are often compared based on syntax, developer experience, and ease of use. But the real technical difference goes much deeper.\n\nIn this video, we take a closer look at what actually happens to JavaScript and TypeScript code before and during execution — and why the timing of type checking matters for building reliable software.\n\nWe start with JavaScript's dynamic typing and explore how changing the type of a variable can lead to unexpected behavior and runtime errors.\n\nThen we move into TypeScript and look at how static analysis, compile-time type checking, structural typing, and type erasure work before the code reaches the JavaScript runtime.\nWe also break down the JavaScript execution pipeline, including:\n\n* Abstract Syntax Trees (AST)\n* Bytecode\n* Interpreters\n* JIT Compilation\n* Hot Paths\n* Native Machine Code\n* Runtime Optimization\n* Deoptimization\n\nYou'll see how a JavaScript engine such as V8 processes code and how frequently executed code can be optimized during runtime.\n\nOne of the biggest questions we address is:\n\nDoes TypeScript actually make JavaScript run faster?\n\nThe answer is more nuanced than you might expect. TypeScript's primary advantage isn't automatically increasing runtime performance. Its major benefit is catching many type-related problems before the code runs, making large codebases easier to maintain.\n\nWe also explore how changing data types can affect JavaScript JIT optimizations and lead to deoptimization.\n\nFinally, we look at one of the most important limitations of TypeScript: compile-time types cannot guarantee that external runtime data is actually valid. API responses, user input, JSON, database results, and other untrusted data may still require runtime validation.\n\nSo, should you learn JavaScript or TypeScript?\n\nThis video explains why understanding both can give you a much better understanding of modern web development — especially what's happening underneath the code you write.\n\nIf you're interested in JavaScript, TypeScript, web development, programming, software engineering, and how programming languages actually work, this video is for you.\n\n💬 Which one do you use more — JavaScript or TypeScript? Let me know in the comments.\n\n#JavaScript #TypeScript #JavaScriptVsTypeScript #WebDevelopment #Programming #SoftwareEngineering #JITCompiler #TypeChecking #Programming #TechieKoni",
+      "commentCount": 13,
+      "likeCount": 101,
+      "probeClient": "web_embedded"
+    },
+    "fjO5CpH_4CI": {
+      "checkedAt": "2026-08-15T18:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Meta has entered the AI coding-agent race with Muse Code, powered by Muse Spark 1.2. In this video, I test Muse Code with real coding prompts and see how it compares with popular tools like Claude Code and OpenAI Codex.\n\nLearn More About Muse Code : https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2\n\nIs Muse Code actually a serious alternative to Claude Code and Codex? Let's find out.\n\nTimestamps\n\n00:00 — Meta Muse Code is Here\n01:00 — How To Muse Code?\n02:00 — Muse Spark 1.2 Explained & Pricing\n03:15 — Muse Code Fetaures\n05:30 — BenchMark Results\n07:00 — Muse Code Installation\n08:00 — Final Verdict\n\nBuild AI-powered web applications, learn modern software development, and level up your coding skills with practical, hands-on tutorials.\n\nOn Decoding Digital, you'll find in-depth videos on AI development, SaaS building, full-stack web development, automation, cloud deployment, and the latest developer tools. Whether you're a beginner or an experienced developer, the goal is to help you build real-world projects that you can actually ship.\n\n🔗 Useful Resources\n\n📚 Tutorials & Courses\nhttps://www.decodingdigital.co.in/\n\n📅 Book a 1:1 Mentorship Call\nhttps://topmate.io/decodingdigital\n\n💼 Web Development Services\nhttps://www.dailyai.co.in/\n\n📝 Generate Professional PRDs with AI\nhttps://www.vikingspecai.com/\n\n❤️ Try Lovable\nhttps://lovable.dev/invite/11UGYP0\n\n💬 Join Our Discord Community\nhttps://discord.gg/a4p5wuBbX\n\n📢 Join Our Telegram Community\nhttps://t.me/+S82ElWT5nylkMWFl\n\n📸 Follow on Instagram\nhttps://www.instagram.com/digitaldecoding/\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n👍 If you found this video helpful, don't forget to Like, Share, and Subscribe for more practical AI and software development content every week.\n\n#musecode #claudecodealternative",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "RMnXwyXz2vs": {
+      "checkedAt": "2026-08-15T18:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Junior developer jobs didn't disappear. They got squeezed from five directions at once — and in Q1 2026, entry-level roles were just 4.5% of software development job postings, while senior roles were 69.3%.\n\nThis is what actually happened to junior developer hiring: how many more people are applying, what AI genuinely changed and what it only appears to have changed, why \"entry level\" started asking for three years of experience, and what the hiring side is really filtering for.\n\n#juniordeveloper #techjobs #softwareengineering",
+      "commentCount": 0,
+      "likeCount": 1,
       "probeClient": "web_embedded"
     }
   }

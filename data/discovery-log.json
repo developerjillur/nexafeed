@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T17:53:13Z",
+  "updatedAt": "2026-08-15T18:53:07Z",
   "items": [
+    {
+      "id": "3XAOfCS9HaU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Iman Musa",
+      "publishedAt": "2026-08-15T12:53:07Z",
+      "firstSeenAt": "2026-08-15T18:53:07Z"
+    },
+    {
+      "id": "Z3Gby7pIU8c",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GeeksforGeeks",
+      "publishedAt": "2026-08-15T12:53:07Z",
+      "firstSeenAt": "2026-08-15T18:53:07Z"
+    },
+    {
+      "id": "1NyOG9z9RT0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Cloud Codes",
+      "publishedAt": "2026-08-15T12:53:07Z",
+      "firstSeenAt": "2026-08-15T18:53:07Z"
+    },
+    {
+      "id": "bL15T_jvMiI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Techie Cony",
+      "publishedAt": "2026-08-15T11:53:07Z",
+      "firstSeenAt": "2026-08-15T18:53:07Z"
+    },
+    {
+      "id": "fjO5CpH_4CI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Decoding Digital",
+      "publishedAt": "2026-08-15T07:53:07Z",
+      "firstSeenAt": "2026-08-15T18:53:07Z"
+    },
+    {
+      "id": "RMnXwyXz2vs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Code Blame",
+      "publishedAt": "2026-08-15T05:53:07Z",
+      "firstSeenAt": "2026-08-15T18:53:07Z"
+    },
     {
       "id": "XSTXOCS34OU",
       "type": "short",
@@ -13877,15 +13925,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T17:53:22Z",
-      "new": 4,
-      "long": 4,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
-    {
       "runAt": "2026-08-01T18:53:27Z",
       "new": 6,
       "long": 5,
@@ -15261,6 +15300,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-15T18:53:07Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
