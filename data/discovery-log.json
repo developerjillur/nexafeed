@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T03:53:10Z",
+  "updatedAt": "2026-08-15T04:53:11Z",
   "items": [
+    {
+      "id": "eecUhBpTz_g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Cole Medin",
+      "publishedAt": "2026-08-14T20:53:11Z",
+      "firstSeenAt": "2026-08-15T04:53:11Z"
+    },
+    {
+      "id": "BI9TSfz-GsA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Adam Lyttle",
+      "publishedAt": "2026-08-14T14:53:11Z",
+      "firstSeenAt": "2026-08-15T04:53:11Z"
+    },
+    {
+      "id": "_b-WE2BgACw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WsCube Tech",
+      "publishedAt": "2026-08-14T12:53:11Z",
+      "firstSeenAt": "2026-08-15T04:53:11Z"
+    },
+    {
+      "id": "fiYjOUfQCkw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CynoHub",
+      "publishedAt": "2026-08-14T10:53:11Z",
+      "firstSeenAt": "2026-08-15T04:53:11Z"
+    },
     {
       "id": "JpUOoGQWplQ",
       "type": "long",
@@ -13413,15 +13445,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T03:53:27Z",
-      "new": 3,
-      "long": 3,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
       "runAt": "2026-08-01T04:53:30Z",
       "new": 5,
       "long": 4,
@@ -14833,6 +14856,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-15T04:53:11Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 19,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
