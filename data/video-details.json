@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T21:53:09Z",
+  "updatedAt": "2026-08-15T22:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -6955,7 +6955,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-15T21:53:09Z",
+      "checkedAt": "2026-08-15T22:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8001,7 +8001,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-15T21:53:09Z",
+      "checkedAt": "2026-08-15T22:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8206,7 +8206,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-15T21:53:09Z",
+      "checkedAt": "2026-08-15T22:53:10Z",
       "embedAllowed": false,
       "availability": "unavailable",
       "failureReason": "unavailable"
@@ -8311,15 +8311,6 @@
       "description": "Learn how to use Google Flow for AI filmmaking and create cinematic AI videos with consistent characters, scenes, and storytelling.\n\nIn this Google Flow tutorial, we'll explore how to turn your ideas and prompts into cinematic AI-generated video scenes.\n\nWhether you're a beginner, content creator, filmmaker, programmer, entrepreneur, or AI enthusiast, this course will help you master AI-powered video creation from the ground up.\n\n🎯 In this lesson, you'll learn:\n\n- How to Set up a Project \n- How to Define Your Character\n- How to import a Character\n- How to Clone Character Voice\n- How to Prompt Google Flow to get a Cinematic Film\n- How Google Flow works\n- Understanding the Google Flow interface\n- AI filmmaking workflow\n- Prompt engineering basics\n- Creating cinematic AI videos\n- Best practices for beginners\n- Common mistakes to avoid\n\n🔥 What you'll learn in this complete course:\n✅ Google Flow Fundamentals\n✅ AI Video Generation\n✅ Prompt Engineering\n✅ AI Filmmaking\n✅ Character Consistency\n✅ Camera Movements\n✅ Scene Creation\n✅ Professional Cinematic Prompts\n✅ AI Storytelling\n✅ Advanced Google Flow Techniques\n\n💡 This course is designed with:\n\n- 10% Theory\n- 90% Practical Learning\n- Real-world demonstrations\n- Step-by-step tutorials\n\n👍 If this video helps you, please:\n✔ Like this video\n✔ Subscribe to LearnAi Academy\n✔ Turn on notifications\n✔ Share this video with your friends\n✔ Leave your questions in the comments\n\n🎓 Learn AI. Create Smarter. Build the Future.\n#GoogleFlow #AIFilmmaking #AIVideo #GenerativeAI #LearnAI",
       "commentCount": 2,
       "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "N-HhArELpr4": {
-      "checkedAt": "2026-08-15T13:53:38Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Digital marketing is entering the AI era—and simply generating more content isn't enough anymore.\n\nIn this Vimas Tech video, we explore 5 useful AI tools marketers should understand and use to remain competitive:\n\n🤖 ChatGPT / Claude — strategy, copywriting and positioning\n⚙️ Gumloop / Zapier AI — marketing automation and AI workflows\n🔎 Surfer SEO — SEO and content optimization\n🎬 OpusClip — long-form video repurposing\n🧠 Perplexity — market research and competitive intelligence\n\nThe real opportunity isn't using these tools individually.\n\nIt's connecting them into an AI-powered marketing workflow that can research, create, automate, distribute and improve.\n\nYou'll also learn why the role of the digital marketer is changing—and which skills are becoming more valuable in the AI era.\n#AIMarketing #DigitalMarketing #AITools #MarketingAI #AIAutomation #ChatGPT #ClaudeAI #Gumloop #Zapier #SurferSEO #OpusClip #PerplexityAI #SEO #MarketingAutomation #VimasTech",
-      "commentCount": 6,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "5Xp8P3lO00k": {
@@ -8445,7 +8436,7 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-15T21:53:09Z",
+      "checkedAt": "2026-08-15T22:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8484,15 +8475,6 @@
       "description": "Starting learning AI Security with TryHackMe for free: https://tryhackme.com/anusharma \nGet 25% off TryHackMe Premium with my code: ANUSHARMAAI25\n\nAI is being shipped into production faster than almost any technology we've seen before.\n\nLLMs are powering chatbots, AI assistants, agents, and products that can access internal tools and data. But here's the uncomfortable part: the people securing these systems aren't keeping up with the technology.\n\nThat's why I think AI Security is going to become one of the most important engineering skills over the next 5 years.\n\nIn this video, I'm breaking down a complete AI Security roadmap from zero, including what you need to learn, what attacks you should understand, and where you can actually get hands-on experience.\n\nIf you're a software engineer, AI engineer, developer, or someone building products with LLMs and AI agents, understanding how these systems can be attacked is becoming increasingly important.\n\nTryHackMe: https://tryhackme.com/anusharma \n\nTimestamps:\n\n0:00 - Intro: AI security, the skill gap nobody's talking about\n0:16 - Who's actually securing these AI systems?\n0:44 - The roadmap I mapped out from zero\n0:58 - Why this matters now\n1:54 - Breaking down the roadmap into 4 phases\n1:59 - Phase 1: Fundamentals of how AI models work\n2:16 - Phase 2: Prompt injection & jailbreaking\n2:33 - Phase 3: AI supply chain attacks\n2:48 - Phase 4: Data poisoning & adversarial inputs\n3:05 - Finding a hands-on platform (TryHackMe)\n3:35 - Live demo: prompt injection room\n5:40 - What is indirect prompt injection?\n6:30 - Why non-security engineers should care (SQL injection analogy)\n7:07 - How to get started + discount code\n\nIf you enjoy videos about AI, cybersecurity, software engineering, AI engineering, and modern tech careers, make sure to subscribe.\n\nI share practical AI workflows, engineering career advice, and the tools I'm actually using.\n\nConnect with me:\nLinkedIn: https://www.linkedin.com/in/anu-sharma-2002/\nInstagram: https://www.instagram.com/its.anu.sharma/\nX: https://x.com/O_Anu_O\nNewsletter: https://anusharma2002.substack.com/\n\nKeywords:\n\nAI Security, AI Security roadmap, AI security engineer, AI cybersecurity, AI security course, prompt injection, indirect prompt injection, LLM security, AI hacking, AI vulnerabilities, AI agents security, AI engineering, cybersecurity 2026, cybersecurity roadmap, TryHackMe, TryHackMe AI Security, prompt injection lab, AI security learning path, software engineer cybersecurity, anu sharma, google engineer, how to get into google\n\n#AISecurity #Cybersecurity #AIEngineering #PromptInjection #TryHackMe #LLMSecurity #AIAgents #SoftwareEngineering #CybersecurityCareers #AI",
       "commentCount": 23,
       "likeCount": 119,
-      "probeClient": "web_embedded"
-    },
-    "2x7FWPuRv7E": {
-      "checkedAt": "2026-08-15T16:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI is quickly becoming part of how we work, learn, search, create, and communicate. You don’t need to become an AI expert or learn how to code—but completely ignoring artificial intelligence could eventually mean working harder, learning slower, missing opportunities, and becoming more vulnerable to AI-generated misinformation.\n\nIn this video, I explain why AI literacy is becoming an essential skill, how people using AI may gain an advantage at work, why your existing skills still matter, and one of the biggest risks many people overlook: being unable to recognize AI-generated scams, fake images, cloned voices, misinformation, and confidently incorrect AI answers.\n\n💬 Would you be interested? Comment below with the one AI topic you want me to explain from the absolute basics.\n\n#AI #ArtificialIntelligence #ChatGPT #LearnAI #AITools\n\nCHAPTERS\n00:00 What happens if you don’t learn AI?\n01:13 You may work harder for the same result\n02:25 Creating a presentation\n03:13 Your competition may be using AI\n04:30 Will AI make your skills useless?\n05:51 You may become dependent on others\n07:10  AI can mislead you too\n08:44 The 5 AI skills you actually need\n\nSubscribe if you liked the video: https://www.youtube.com/@anjanagowtham?Sub_Confirmation=1\n\n❤ Anjana",
-      "commentCount": 5,
-      "likeCount": 45,
       "probeClient": "web_embedded"
     },
     "XSTXOCS34OU": {
@@ -8608,15 +8590,6 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "RMnXwyXz2vs": {
-      "checkedAt": "2026-08-15T18:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Junior developer jobs didn't disappear. They got squeezed from five directions at once — and in Q1 2026, entry-level roles were just 4.5% of software development job postings, while senior roles were 69.3%.\n\nThis is what actually happened to junior developer hiring: how many more people are applying, what AI genuinely changed and what it only appears to have changed, why \"entry level\" started asking for three years of experience, and what the hiring side is really filtering for.\n\n#juniordeveloper #techjobs #softwareengineering",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "njHuj8OxIVI": {
       "checkedAt": "2026-08-15T19:53:08Z",
       "embedAllowed": true,
@@ -8698,15 +8671,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "AsjruvkYnDs": {
-      "checkedAt": "2026-08-15T20:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Next Batch of the cohort will start soon....\n\nRepeatless Agency : https://www.repeatless.in/\nDm us on : https://www.instagram.com/repeatless_agency/\n\nFor Automation Requirements,\nBook a meet with us : https://cal.com/chandan-kumar-zhrofj/30min\n\nLinkedIn : https://www.linkedin.com/in/chandancheripally/\nTwitter :  https://x.com/chandan_netha\nInstagram : https://www.instagram.com/chandan_cheripally_/\n\nThings I use 😀 :\nAmazon\nmic : https://amzn.to/3TujDij\ntripod : https://amzn.to/3GD4Kr9\n\nBest books to read :\nA subtle art of....:https://amzn.to/3gsl8QJ\nAtomic habits : https://amzn.to/3i5KR1I\nRework : https://amzn.to/3OrE9iI\n\n#ai #automation #repeatless #technology #trending #tech #agency",
-      "commentCount": 9,
-      "likeCount": 62,
-      "probeClient": "web_embedded"
-    },
     "mqw15-kIAEM": {
       "checkedAt": "2026-08-15T21:53:09Z",
       "embedAllowed": true,
@@ -8732,6 +8696,42 @@
       "description": "In this video, I'm breaking down how I turned my existing HR hiring platform, HireFlow, into an AI-powered product — continuing directly from the full HR hiring system build I shared in my previous video. Instead of building AI from scratch, I show you how to plug OpenAI's models into any existing app using an API, and how I'm doing it at 90% lower cost through Noirly AI.\n\nYou'll be walked through what an API actually is, how to register and generate an API key on Noirly AI, how to push your project to GitHub the right way, and how to use Cursor to plan and build an AI-powered \"Create with AI\" feature for generating job vacancies automatically. This breakdown will show you exactly how to move from a manual, static product to an AI-assisted one — shifting your mindset from \"building everything by hand\" to \"letting AI do the heavy lifting while you guide it.\"\n\n🔗 Resources & Useful Links\n- Noirly AI (90% cheaper OpenAI access + $500 giveaway credits): https://noirly.ai/register?ref=NLY-90905961B6A3\n- HireFlow Project – GitHub Repo: https://github.com/vivekmishraishere/yt--hr-hiring-system\n- Watch Part 1 – Full HR Hiring System Build: https://youtu.be/KAHwtr3uj60?si=oUAfJEtMD4Bwi1M8\n\n📘 Timestamps\n00:00:00 – Recap: What This Video Covers\n00:02:24 – Meet HireFlow: The Platform We're Upgrading\n00:03:24 – $500 Noirly AI Credit Giveaway (Rules)\n00:04:50 – What Is an API? (Simple Explanation)\n00:06:49 – Why Noirly AI Instead of OpenAI Directly\n00:08:09 – How to Claim Your Giveaway Coupon Code\n00:09:05 – Registering on Noirly AI + Adding Funds\n00:09:35 – Creating Your Noirly AI API Key\n00:10:00 – What Is GitHub? (Beginner Explanation)\n00:11:17 – Pushing the HireFlow Project to GitHub\n00:14:26 – Connecting the Noirly AI API Key in Cursor\n00:15:31 – Planning the AI-Powered Vacancy Feature\n00:16:43 – Reviewing the AI Implementation Plan\n00:19:01 – Building the AI-Powered Vacancy Feature\n00:19:50 – Choosing the Cheapest Model + Pricing Breakdown\n00:23:11 – Testing Create With AI (First Attempt + Errors)\n00:24:51 – Fixing the 503 Error (ENV Misconfiguration)\n00:26:14 – Fixing Timeout Issues + UX Polish\n00:29:05 – Setting Up Cursor Browser Automation\n00:31:43 – Successful AI-Generated Vacancy Draft\n00:32:33 – Adding Inline AI Edit (Pencil Icon) Feature\n00:35:26 – Second Test: Performance Marketing Manager Role\n00:38:56 – Understanding Tokens and Real Cost Savings\n00:41:20 – What's Coming in Part 3 (Deployment)\n00:42:05 – Outro/Conclusion\n\n📌 What this video covers\nHere's what you'll learn in this video:\n- How to make any existing app AI-powered using OpenAI's API\n- How to get up to 90% cheaper access to GPT-5.6 (Sol, Terra, Luna) through Noirly AI\n- How to properly push a project to GitHub without leaking your .env secrets\n- How to plan and build an AI-powered \"Create with AI\" vacancy generator inside HireFlow\n- How to debug real AI integration errors (503s, timeouts, env misconfiguration) live\n- How tokens work and how to calculate your real AI usage costs\n\n🚀 Tools & Stack Mentioned\nBuild: HireFlow, Cursor, GitHub\nAI: OpenAI GPT-5.6 (Sol, Terra, Luna), Noirly AI\nAutomation: n8n\nAnalytics & Ads (demo data): GA4, Google Tag Manager, Google Search Console, Microsoft Clarity, Meta Pixel, Conversion API\n\n🎯 This is perfect for:\n- Founders who want to add AI features to an existing SaaS without rebuilding from scratch\n- Developers looking for a cheaper alternative to OpenAI's direct API pricing\n- Indie hackers building HR tech, hiring tools, or similar B2B SaaS products\n- Anyone confused about what an API actually is and how to integrate one\n- Viewers who watched Part 1 and want to continue building HireFlow with AI\n\nMaking a product \"AI-powered\" isn't about switching everything overnight — it's about picking the right features, the right API, and the right cost structure so it stays sustainable long-term. This video is your starting point for exactly that, and there's a lot more coming in Part 3 as we go deeper into deployment and scaling this system with AI.\n\n👋 WHO AM I?\n\nI'm Vivek Mishra — a performance marketing expert and trainer. I work with\nservice-based and e-commerce brands and teach practical skills around marketing,\nAI tools, and digital systems. Everything I teach comes from doing it myself.\n\n📩 Questions? Drop them in the comments — I personally reply.\n\n📸 Instagram: https://www.instagram.com/vivekmishra.ai/\n\n#AIPoweredApps #OpenAI #SaaSDevelopment #Cursor #IndieHackers",
       "commentCount": 41,
       "likeCount": 33,
+      "probeClient": "web_embedded"
+    },
+    "NNZ5fh0M6B4": {
+      "checkedAt": "2026-08-15T22:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I’m taking a deeper look at Tencent WorkBuddy, an AI agent built to do much more than just chat.\n\nIn this video, I explore how WorkBuddy can use Skills, AI Experts, Expert Teams, MCP Connectors, automation, and coding to handle real-world tasks.\n\nI’ll show you how it can:\n🤖 Use AI agents to complete complex tasks\n🧠 Work with 100+ built-in Skills and Experts\n🔌 Connect to tools like GitHub, Notion, Gmail, Google Drive, and Slack\n⚡ Automate repetitive workflows\n💻 Write and work with code\n👥 Use multiple AI agents through Expert Teams\n📁 Read files, analyze data, and create useful outputs\n\nIf you’re exploring the next generation of AI agents and AI-powered productivity tools, this is one worth checking out.\n\n👉 Try Tencent WorkBuddy: https://www.workbuddy.ai/\n\nIf you enjoyed the video, LIKE the video, COMMENT your thoughts, and SUBSCRIBE to AI Anytime for more AI tools, AI agents, tutorials, and practical AI workflows.\n\nGet the Agentic AI Master Bundle Kit: https://aianytime5.gumroad.com/l/uqmyk\n\nBuild real-world AI with tutorials, tools, and research from India’s fastest-growing AI community.\n\n👤 Creator’s LinkedIn (Sonu Kumar) Portfolio Site: https://sonukumar.site/\n\n🌐 AI Anytime's Website: https://aianytime.net/\n\n🗓️ Office Hours (AI Consulting): https://officehours.aianytime.net/\n\n👥 LinkedIn (Community Page): https://www.linkedin.com/company/ai-anytime/\n\n💬 Join Our Discord: https://discord.com/invite/4aGc9PSMgE\n\n👤 Creator’s LinkedIn (Sonu Kumar): https://www.linkedin.com/in/sonukr0/\n\n🎁 Support the Channel\n💸 UPI ID: sonu1000raw@ybl\n\n₿ Bitcoin Wallet: bc1qsneqznxpzyxzzv006jthz4c8v8h5cs57myw342\n\nAI ANYTIME BRAND MEDIA KIT: https://drive.google.com/file/d/1g6CiYkTsQ_VJ4HYBruZZk40UJZ6ScaVi/view?usp=sharing\n\n✅ Join this Channel for Perks\nGet access to members-only content and community perks:\nhttps://www.youtube.com/channel/UC-zVytOQB62OwMhKRi0TDvg/join\n\n#workbuddy #tencent #aiagents",
+      "commentCount": 0,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "iN6b9K4-21M": {
+      "checkedAt": "2026-08-15T22:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Ai ভিডিও তৈরি🔥Taxt To Video AI FREE | Free Ai Video Generate| How To Make Ai Cartoon Video FOR Free\n\n\n\nPrompt⬇️\nhttps://t.me/shantoislam333/1314\n\n\nJoin📲 My Telegram Channel : \n\nhttps://t.me/shantoislam333\n\nটেলিগ্রাম চ্যানেলে সকল ফ্রি প্র অ্যাপ পেয়ে যাবেন আপডেট। \n\n\nCONTACTS FOR BUSINESS ENQUIRY\n\n📩 Email ID :-\n\nskshantoislam3@gmail.com\n\n\n\n\n🚀 Want to create LONG AI VIDEOS for YouTube absolutely FREE and without any limits? In this video, I will show you how to make high-quality AI story videos in just 2 minutes using free AI tools. These AI-generated videos are perfect for YouTube automation channels, monetization, and growing your audience in 2026.\n\n\nLearn how to create unlimited AI videos for YouTube, generate viral story content, and upload engaging long-form videos that can help increase watch time and subscribers.\n\n\nIn This Video:\n\n\nHow to create Long AI Videos for FREE\n\n\nMake AI Story Videos in just 2 minutes\n\n\nUnlimited AI Video Generator\n\n\nYouTube Automation Channel Ideas\n\n\nBest AI Tools for YouTube in 2026\n\n\nAI Video Monetization Tips\n\n\nNo Copyright AI Video Method\n\n\nMobile Friendly AI Video Creation\n\n\nIf you're a beginner YouTuber or want to earn money online with AI content, this tutorial is for you!\n\n\nDon't forget to Like, Comment, Share & Subscribe!\n\n\nLong AI Videos, Free AI Video Generator, AI Story Video, Unlimited AI Videos, YouTube Automation, AI Video Maker 2026, YouTube Monetization, AI Cartoon Videos, AI Video Generator Free, AI Content Creator, YouTube Growth, AI Tools for YouTube, Make AI Videos in Mobile, Viral AI Videos, YouTube Tips Bangla \n\n\n\n🥔🍅 Short AI Vegetable Video banana ab hua super easy! 🤖🔥\n\n\nIs video mein maine step-by-step sikhaya hai ki viral animated vegetable story videos kaise banate hain — bilkul FREE & Unlimited method ke saath 😍🎬\n\n\n✅ AI Character Creation\n\n✅ Short Story Video Setup\n\n✅ Cinematic Animation\n\n✅ Voice + Editing Tips\n\n✅ Viral Style Prompt Trick\n\n\n🔴 Topics Covered in this Video \n\n\nVegetables AI video kaise banaye\n\nAI se cartoon video kaise banaye\n\nKids cartoon AI video tutorial\n\nMobile se AI animation video banana\n\nAI vegetables character create karna\n\nAI video editing tutorial\n\nCartoon shorts video banana\n\nFree AI tools for video creation\n\nYouTube kids video kaise banaye\n\nAI talking vegetables video\n\n\nYour Queries ✅\n\n\nvegetables ai video kaise banaye\n\nai se cartoon video kaise banaye\n\nvegetable cartoon video tutorial\n\nkids ai video kaise banaye\n\nmobile se ai animation video\n\nfree ai cartoon video maker\n\nyoutube shorts ai video\n\ncartoon vegetables video kaise banaye\n\nai se 3d cartoon video\n\nfunny ai cartoon video\n\nai tools for cartoon video\n\nkids channel video ideas\n\nai video editing kaise kare\n\ncartoon shorts video tutorial\n\nvegetables talking ai video\n\nai generated animation video\n\nmobile ai video editing\n\nkids cartoon animation tutorial\n\nai video for youtube shorts\n\ncartoon character ai video\n\nvegetables animation video\n\nai se youtube video banana\n\ncartoon video banane wala app\n\nbest ai video maker\n\nai video generator free\n\nkids learning ai video\n\nvegetables cartoon ai tutorial\n\nshort cartoon video ideas\n\nai animation app\n\nyoutube kids content tutorial\n\nai cartoon story video\n\n3d ai cartoon tutorial\n\nai shorts editing\n\ncartoon video mobile se\n\nvegetables ai character\n\nai content creation tutorial\n\nyoutube automation ai video\n\ncartoon ai video hindi\n\nkids animation video making\n\nvegetable cartoon shorts\n\nai movie style cartoon\n\ncartoon video creator app\n\nyoutube ai video ideas\n\nai video making course\n\nai cartoon editing tutorial\n\nvegetables kids video\n\ntalking vegetables cartoon\n\neasy ai cartoon video\n\nmobile cartoon animation\n\nbest ai app for video\n\nai youtube shorts tutorial\n\nanimation video kaise banaye\n\nai reels video tutorial\n\ncartoon vegetables animation\n\nyoutube kids shorts ideas\n\nai generated kids video\n\nvegetables cartoon story\n\nhindi ai video tutorial\n\nai editing app for shorts\n\nkids cartoon video editing\n\nviral ai cartoon video\n\n\nExpanded Keywords ✅\n\n\nvegetables ai video\n\nai cartoon video kaise banaye\n\nai se cartoon animation video\n\nvegetable cartoon video\n\nkids ai video tutorial\n\nai generated cartoon video\n\nai shorts video kaise banaye\n\ncartoon video making tutorial\n\nfree ai video maker\n\nmobile se ai video banana\n\nai vegetables animation\n\nyoutube kids content ideas\n\n3d cartoon ai video\n\nfunny vegetables ai video\n\nai video editing app\n\nai character animation\n\ncartoon video for youtube\n\nkids learning cartoon video\n\nvegetables cartoon animation\n\nai video creator free\n\n\n\n\nHashtags......\n\n#AIVideo​ #LongAIVideos​ #FreeAIVideoGenerator​ #YouTubeAutomation​ #AITools​ #YouTubeMonetization​ #AIStoryVideo​ #YouTubeTips​ #UnlimitedAIVideos​ #YouTubeBangla​ #Princeeditorshanto\n\n\n#AIVideo​ #CartoonVideo​ #VegetablesAI​ #AICartoon​ #KidsVideo​\n\n#AIAnimation​ #YouTubeShorts​ #CartoonAnimation​ #AIVideoEditing​ #KidsChannel​ #aivideokaisebanaye​ \n\n#superprofilemetaverified​\n\n#bestautomationtool​\n\n\n\n◆ Thanks For Watching Video ◆",
+      "commentCount": 5,
+      "likeCount": 9,
+      "probeClient": "web_embedded"
+    },
+    "zvZXS2ZEGfw": {
+      "checkedAt": "2026-08-15T22:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐝𝐬 𝐢𝐬 𝐦𝐨𝐯𝐢𝐧𝐠 𝐛𝐞𝐲𝐨𝐧𝐝 𝐦𝐚𝐧𝐮𝐚𝐥 𝐜𝐚𝐦𝐩𝐚𝐢𝐠𝐧 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 — 𝐀𝐈 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐢𝐬 𝐭𝐡𝐞 𝐟𝐮𝐭𝐮𝐫𝐞.\n\nIn this video, I’ll show you how to set up a Google Ads AI Automation Operating System (AIOS) in OpenClaw and build a smarter workflow for managing, analyzing, and optimizing your Google Ads campaigns with AI.\n\nInstead of manually checking campaigns, analyzing performance, and making repetitive decisions, an AI-powered system can help connect your Google Ads data, automation workflows, AI models, APIs, reporting, and real-time insights into one centralized operating system.\n\nYou’ll learn how OpenClaw can be used as an AI orchestration layer to automate Google Ads operations, improve decision-making, monitor campaign performance, and create a more scalable marketing workflow.\n\nIf you're interested in Google Ads, AI Automation, Marketing Automation, Performance Marketing, AIOS, OpenClaw, and the future of digital advertising, this video is for you.\n\nWatch the full video and see how Google Ads can move from manual management to AI-powered automation.\n\n\n\n𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞:\n-----------------------------\nFacebook: https://www.facebook.com/freelancer.tofayeI\nLinkedIn: https://www.linkedin.com/in/tofayel-ahmad/\nWhatsApp: https://wa.me/message/ZTCWLTJR7AB5L1\nWebsite:  http://freelancertofayel.com/",
+      "commentCount": 9,
+      "likeCount": 11,
+      "probeClient": "web_embedded"
+    },
+    "xRfGDRpbztk": {
+      "checkedAt": "2026-08-15T22:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Automate Your Email Marketing with Omnisend 👉 https://your.omnisend.com/jamesblueai\n\nIn this video, I show how to connect Claude to Omnisend, audit an ecommerce account for lost revenue, segment customers, build and A/B test a win-back campaign, create automated welcome and abandoned-cart flows, add a signup popup, and safely push the finished system live without writing any code.\n\nGrab The Email Automation Prompt Pack 👉 https://james-blue.kit.com/0da2ad6f87\n\nFor inquiries: contact [at] jamesblueyt.com",
+      "commentCount": 2,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T21:53:09Z",
+  "updatedAt": "2026-08-15T22:53:10Z",
   "items": [
+    {
+      "id": "NNZ5fh0M6B4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Anytime",
+      "publishedAt": "2026-08-15T20:53:10Z",
+      "firstSeenAt": "2026-08-15T22:53:10Z"
+    },
+    {
+      "id": "iN6b9K4-21M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "♚𝐏𝐫𝐢𝐧𝐜𝐞 𝐄𝐝𝐢𝐭𝐨𝐫 𝐒𝐡𝐚𝐧𝐭𝐨  1M ",
+      "publishedAt": "2026-08-15T15:53:10Z",
+      "firstSeenAt": "2026-08-15T22:53:10Z"
+    },
+    {
+      "id": "zvZXS2ZEGfw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Freelancer Tofayel",
+      "publishedAt": "2026-08-15T13:53:10Z",
+      "firstSeenAt": "2026-08-15T22:53:10Z"
+    },
+    {
+      "id": "xRfGDRpbztk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "James Blue",
+      "publishedAt": "2026-08-15T13:53:10Z",
+      "firstSeenAt": "2026-08-15T22:53:10Z"
+    },
     {
       "id": "mqw15-kIAEM",
       "type": "short",
@@ -14029,15 +14061,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T21:53:41Z",
-      "new": 0,
-      "long": 0,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
       "runAt": "2026-08-01T22:53:41Z",
       "new": 4,
       "long": 3,
@@ -15413,6 +15436,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-15T22:53:10Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
