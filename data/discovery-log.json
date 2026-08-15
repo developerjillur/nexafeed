@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T16:53:06Z",
+  "updatedAt": "2026-08-15T17:53:13Z",
   "items": [
+    {
+      "id": "XSTXOCS34OU",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-15T17:07:16Z",
+      "firstSeenAt": "2026-08-15T17:53:13Z"
+    },
+    {
+      "id": "vh4UkHaLu-Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lava Dragon and 2 more",
+      "publishedAt": "2026-08-15T15:53:13Z",
+      "firstSeenAt": "2026-08-15T17:53:13Z"
+    },
+    {
+      "id": "hvoB5u0Xg50",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Patryk Marketer",
+      "publishedAt": "2026-08-15T13:53:13Z",
+      "firstSeenAt": "2026-08-15T17:53:13Z"
+    },
+    {
+      "id": "-ygjqs8MO20",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Riyaz Tech",
+      "publishedAt": "2026-08-15T08:53:13Z",
+      "firstSeenAt": "2026-08-15T17:53:13Z"
+    },
+    {
+      "id": "FBnVsyKuBx4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Venice",
+      "publishedAt": "2026-08-15T07:53:13Z",
+      "firstSeenAt": "2026-08-15T17:53:13Z"
+    },
+    {
+      "id": "-3tVi-eSH8s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TK EEE Everyday",
+      "publishedAt": "2026-08-15T05:53:13Z",
+      "firstSeenAt": "2026-08-15T17:53:13Z"
+    },
+    {
+      "id": "7p8u2jTrnTo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Liqui AI",
+      "publishedAt": "2026-08-15T00:53:13Z",
+      "firstSeenAt": "2026-08-15T17:53:13Z"
+    },
     {
       "id": "OJDhImJxPvk",
       "type": "long",
@@ -13821,15 +13877,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T16:53:15Z",
-      "new": 7,
-      "long": 3,
-      "shorts": 4,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
       "runAt": "2026-08-01T17:53:22Z",
       "new": 4,
       "long": 4,
@@ -15205,6 +15252,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-15T17:53:13Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
