@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T00:53:08Z",
+  "updatedAt": "2026-08-15T01:53:09Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -6907,7 +6907,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-15T00:53:08Z",
+      "checkedAt": "2026-08-15T01:53:09Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7132,7 +7132,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-15T00:53:08Z",
+      "checkedAt": "2026-08-15T01:53:09Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7436,15 +7436,6 @@
       "likeCount": 8,
       "probeClient": "web_embedded"
     },
-    "T76AnLgAxS4": {
-      "checkedAt": "2026-08-14T03:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "82% of companies plan to automate 10% of jobs by 2027. Are you prepared?\n\nDeloitte’s “State of AI in Enterprise” report is a wake-up call: 3,200 execs, 24 countries, and the consensus is clear, AI-driven layoffs are imminent. \n\nData entry, reconciliation, and customer support jobs will be gutted, with 8 million customer service roles gone in just 3 years.\n\nCompanies are flattening hierarchies, cutting middle management, and moving fast to deploy AI agents and physical automation, robots, drones, autonomous vehicles.\n\nNow’s the time to upskill, adapt, and get ahead or risk being replaced.\n\nBecome a Member: https://www.youtube.com/channel/UC2ePGMF5jsWze1sc0Gftf4w/join\n\nGet My YouTube Playbook: https://marksavantmedia.com/youtubeplaybook/\n\nChapters:\n00:00 - Deloitte’s Shocking Report\n01:26 - Which Jobs Are Most at Risk?\n03:03 - AI in Business Hierarchy & AI Agents \n05:50 - Physical AI in the Workplace\n07:11 - The New Face of Work\n09:50 - Conclusion \n\nReferences:\n\nhttps://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html\n\n#ai #agi #cnbc #ainews",
-      "commentCount": 12,
-      "likeCount": 36,
-      "probeClient": "web_embedded"
-    },
     "Wni5EePIj7Q": {
       "checkedAt": "2026-08-14T04:53:22Z",
       "embedAllowed": true,
@@ -7455,24 +7446,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-14T04:53:22Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "tx6ktPCeDmU": {
-      "checkedAt": "2026-08-14T04:53:22Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Safety & responsible use\n\nGenerative AI can feel remarkably capable, but using it responsibly means understanding a few limits. First, bias. These systems learn from huge amounts of human-made material, and that material reflects human choices. So the output can quietly favor some groups, views, or ways of speaking over others. Next, privacy. Many tools can absorb whatever you type, so be careful. Avoid sharing personal, confidential, or identifying details you wouldn't want stored or reused elsewhere. There's also misuse. The same tools that help you write or brainstorm can be turned toward harm, like creating convincing false information, impersonating real people, or producing manipulative content. And finally, the big one: verify. Generative AI predicts likely words. It doesn't actually check facts, so it can state wrong things with total confidence. For anything important, confirm it against trusted sources, and keep a human in the loop for any decision that really matters. Think of these systems as capable assistants, not authorities. When you understand where they fall short, you can enjoy their benefits while protecting yourself and the people around you from real harm.\n\nPart of the Gen AI Literacy series · presented by Rohan.",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "J7lkobsfVJA": {
-      "checkedAt": "2026-08-14T04:53:22Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What Gen AI can do\n\nSo what is generative AI actually good at? Start with transformation: give it messy notes and it returns a clean summary; give it a paragraph and it can translate, rewrite, or pull out just the facts you need. Next, reasoning — for harder problems it can work step by step, thinking through a chain rather than blurting a single answer. It can also use tools: connect it to a calculator, a database, or the web, and it doesn't just talk about a task — it takes action to complete it. The big idea tying these together: it's one general-purpose tool that adapts to many jobs, instead of a separate narrow program for each. A useful mental model: it's an engine for transforming language and ideas — not a search engine that fetches a stored page.\n\nPart of the Gen AI Literacy series · presented by Rohan.",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "Y6dJ0lt0Xz0": {
@@ -7696,15 +7669,6 @@
       "likeCount": 5,
       "probeClient": "web_embedded"
     },
-    "Ci7ZDQ3m8cc": {
-      "checkedAt": "2026-08-14T10:53:27Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI is reshaping software engineering - here’s how to stay ahead, become a top 1% engineer, and prepare for the tech jobs AI will create.\n\nTry Accio → https://www.accio.com/work/app?defaultAgent=accio-com-buyer-assistant&src=p_ytbkol_sajjad\n\nMihail's Course → https://themodernsoftware.dev/\n\nWhether you're a CS student, junior developer, or already working in tech, the way you approach software engineering has to evolve.\n\nWe also break down the AI skills, engineering roles, and mindset that will matter most over the next few years.\n\n\nChapters:\n0:00 - AI Is Replacing Software Engineers\n0:51 - Why CS Grads Are Struggling\n2:54 - 3 Tech Jobs AI Could Replace\n3:45 - Do We Still Need Junior Engineers?\n6:14 - Is a CS Degree Still Worth It?\n7:16 - How to Avoid Being Replaced by AI\n8:22 - How to Become a Top 1% Engineer\n10:48 - 3 Tech Jobs That Will Explode Because of AI\n12:46 - Final Advice\n\n🚀 JOIN MY TECH COMMUNITY: SWE LAUNCHPAD\nInside, you'll learn How to break Into tech with practical resources, job prep guidance, and real industry insights you won’t find in school. \n→ https://swelaunchpad.com\n\n✉️ TECH NEWSLETTER\nDiscover the latest tech trends shaping the industry, unlock career tips, and access exclusive resources to stay competitive in tech. \n→ https://sajjaad.substack.com/\n\n🗣️ INVITE ME TO SPEAK AT YOUR EVENT\n→ https://forms.gle/p38f7Jqt7FjYWtYU7\n\n🧑‍💻 LEARN TO CODE\nLearn to code with bite-sized projects and an AI-bot to help answer your queries. I recommend you start with their python module, then check out java and javascript.\n→ https://coddy.tech/ (It's FREE, but you can use the code SAJYT for 20% off of premium features!)\n\n⬇️ MY OTHER SOCIALS:\n📸 Instagram:    / https://www.instagram.com/sajjaad.khader/\n📱 TikTok:    / https://www.tiktok.com/@sajjaadkhader\n🌍 My website: https://sajjaad-s-site.thinkific.com/...",
-      "commentCount": 27,
-      "likeCount": 281,
-      "probeClient": "web_embedded"
-    },
     "iYygll8N2CQ": {
       "checkedAt": "2026-08-14T11:53:29Z",
       "embedAllowed": true,
@@ -7816,15 +7780,6 @@
       "description": "With AI tools like ChatGPT, GitHub Copilot, and AI coding agents, writing automation scripts has become much easier. But does this mean you can become an automation tester without learning programming?\n\nIn this video, we will discuss:\n\nHow AI is changing automation testing\nWhether manual testers can transition into automation\nHow AI helps generate and debug automation scripts\nThe coding knowledge you still need\nLimitations of relying completely on AI\nA practical learning roadmap for non-coders\nThe future of automation testing in the AI era\n\nAI can accelerate your journey, but understanding programming fundamentals, testing concepts, and automation tools remains important. Use AI as your learning partner—not as a replacement for knowledge.\n\nGet Started With TestRigor\nhttps://testrigor.com/l/test-automation/?utm_source=MukeshOtwaniInfluencer&utm_medium=influencer\n\nPrevious videos\nhttps://www.youtube.com/playlist?list=PL6flErFppaj3okMFJM84Ay4XyJ_M_ElsR\n\nGet in-depth automation tutorials and personalized notes at:\nVisit: https://learn-automation.com/\n\nFor more valuable and exclusive learnings on automation visit:\nVisit: https://academy.learn-automation.com/learn\n\nContact Mukesh Otwani at:\nEmail - mukeshotwani@learn-automation.com\n\nMukesh Otwani Social Media Handles:\nLinkedin - https://www.linkedin.com/in/mukesh-otwani-93631b99/\nInstagram - https://www.instagram.com/mukeshotwaniofficial/\nFacebook - https://www.facebook.com/SeleniumWebdriverMukesh/\nFacebook Group - https://www.facebook.com/groups/256655817858291\nTwitter - https://twitter.com/MukeshOtwani\nTelegram - https://t.me/+V5wUIO3hAGUS13hs\nTopmate - https://topmate.io/mukesh_otwani\n\nRead Our Latest Blogs On Automation:\nBlog - https://learn-automation.com/\n\nWatch Latest Videos : https://youtu.be/4Ie4cPQELQs?si=MgfAvIS0uhQ6zhjG\n\nWatch All Playlists Here: https://www.youtube.com/@Mukeshotwani/playlists\n\nGenerative AI-based Test Automation Tool - TestRigor: \nhttps://youtube.com/playlistlist=PL6flErFppaj3okMFJM84Ay4XyJ_M_ElsR&si=VYqGy6xxVN4UCfg_\n\nPlaywright with Java: Complete Web & API Automation Framework Series: \nhttps://youtube.com/playlist?list=PL6flErFppaj0pscPIPA_Cxhil6ZDeFuJJ&si=JBt45CG7K9hFb0yr\n\nQA & Tech Essentials: Career, Tools, and Quick Tips: \nhttps://youtube.com/playlist?list=PL6flErFppaj1JS_IlSLcfGC6lUH2KAfVn&si=kk_LXVUQ6KBKIJ5v\n\nPlaywright With JavaScript Tutorials - From Basic To Advanced: \nhttps://youtube.com/playlist?list=PL6flErFppaj0iQG2_Dd72Jz0bfrzZwMZH&si=j_aOyUrGrrCUvH7a\n\nAbout Mukesh Otwani and Test Automation: \nHi, I’m Mukesh Otwani, A passionate working professional based in the vibrant city of Bangalore, India. This channel is dedicated to helping manual testers and aspiring QA professionals transition smoothly into the world of automation testing. With years of hands-on experience, I share practical and beginner-friendly tutorials covering a wide range of tools and technologies including Selenium WebDriver, TestNG, Maven, Appium, Sikuli, AutoIT, Jenkins, Git, GitHub, RPA, Playwright, and more. Whether you're starting your automation journey or looking to upgrade your skills with real-world project insights and framework development, you’re in the right place. Subscribe and join a growing community of learners committed to mastering automation and staying ahead in the ever-evolving tech industry.\n\nGet Exclusive & Premium Automation Courses Here  - \nhttps://academy.learn-automation.com/learn\n\nWatch the complete video and share your opinion in the comments:\n\nCan AI make anyone an automation tester?\n\nLike the video\nShare your thoughts\nSubscribe for more videos on Automation Testing, Playwright, Selenium, GenAI, AI Agents, and Quality Engineering.\n\n#testRigor #GenerativeAI #AITestAutomation #SoftwareTesting #NoCodeTesting #QAautomation #AIinQA",
       "commentCount": 1,
       "likeCount": 7,
-      "probeClient": "web_embedded"
-    },
-    "T8nUnf2XtSQ": {
-      "checkedAt": "2026-08-14T13:53:30Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Moxt.ai: \n\nhttps://moxt.ai/\n\n\n\n0:00 Beyond the Single AI Assistant\n1:02 Building an Automated AI Production Team\n3:52 Automating the Weekly Content Pipeline\n6:20 Persistent Memory and Custom Databases\n\n\n\n📩 Business & Partnerships:\nlexaicollab@gmail.com\n\n📢 Disclaimer:\nSome links may be affiliate links. They help support the channel at no extra cost to you.\n\n🔁 Hashtags:  #Moxt #AITeammates #AIAgents",
-      "commentCount": 26,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "drSytiIe6Jg": {
@@ -8044,7 +7999,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-15T00:53:08Z",
+      "checkedAt": "2026-08-15T01:53:09Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8262,13 +8217,58 @@
       "likeCount": 697,
       "probeClient": "web_embedded"
     },
-    "az1dspimrJA": {
-      "checkedAt": "2026-08-15T00:53:08Z",
+    "n7Gl4L9p_no": {
+      "checkedAt": "2026-08-15T01:53:09Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "🔥Advanced Certification in Agentic AI Engineering: https://www.edureka.co/agentic-ai-training-course\n🔥 Integrated MS+PGP Program in Data Science & AI: https://www.edureka.co/dual-certification-programs/ms-data-science-pgp-gen-ai-ml-birchwood\n\nIn this video, you'll learn how to design and build autonomous AI workflows using modern no-code and low-code AI tools. Discover how AI agents can automate repetitive tasks, connect to external applications, process data, and execute complex workflows with minimal coding.\n\nWe'll explore practical automation techniques, AI orchestration, workflow design, tool integration, and real-world business use cases. Whether you're a developer, business professional, product manager, or AI enthusiast, this session will help you build powerful AI-driven workflows quickly and efficiently.\n\n🔴 𝐋𝐞𝐚𝐫𝐧 𝐓𝐫𝐞𝐧𝐝𝐢𝐧𝐠 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐅𝐨𝐫 𝐅𝐫𝐞𝐞! 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐭𝐨 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://edrk.in/DKQQ4Py\n\n📝Feel free to share your comments below.📝\n\n🔴 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐎𝐧𝐥𝐢𝐧𝐞 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬\n\n🔵 DevOps Online Training: http://bit.ly/3VkBRUT\n🌕 AWS Online Training: http://bit.ly/3ADYwDY\n🔵 React Online Training: http://bit.ly/3Vc4yDw\n🌕 Tableau Online Training: http://bit.ly/3guTe6J\n🔵 Power BI Online Training: http://bit.ly/3VntjMY\n🌕 Selenium Online Training: http://bit.ly/3EVDtis\n🔵 PMP Online Training: http://bit.ly/3XugO44\n🌕 Salesforce Online Training: http://bit.ly/3OsAXDH\n🔵 Cybersecurity Online Training: http://bit.ly/3tXgw8t\n🌕 Java Online Training: http://bit.ly/3tRxghg\n🔵 Big Data Online Training: http://bit.ly/3EvUqP5\n🌕 RPA Online Training: http://bit.ly/3GFHKYB\n🔵 Python Online Training: http://bit.ly/3Oubt8M\n🌕 Azure Online Training: http://bit.ly/3i4P85F\n🔵 GCP Online Training: http://bit.ly/3VkCzS3\n🌕 Microservices Online Training: http://bit.ly/3gxYqqv\n🔵 Data Science Online Training: http://bit.ly/3V3nLrc\n🌕 CEHv12 Online Training: http://bit.ly/3Vhq8Hj\n🔵 Angular Online Training: http://bit.ly/3EYcCTe\n\n🔴 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐑𝐨𝐥𝐞-𝐁𝐚𝐬𝐞𝐝 𝐂𝐨𝐮𝐫𝐬𝐞𝐬\n\n🔵 DevOps Engineer Masters Program: http://bit.ly/3Oud9PC\n🌕 Cloud Architect Masters Program: http://bit.ly/3OvueZy\n🔵 Data Scientist Masters Program: http://bit.ly/3tUAOiT\n🌕 Big Data Architect Masters Program: http://bit.ly/3tTWT0V\n🔵 Machine Learning Engineer Masters Program: http://bit.ly/3AEq4c4\n🌕 Business Intelligence Masters Program: http://bit.ly/3UZPqJz\n🔵 Python Developer Masters Program: http://bit.ly/3EV6kDv\n🌕 RPA Developer Masters Program: http://bit.ly/3OteYfP\n🔵 Web Development Masters Program: http://bit.ly/3U9R5va\n🌕 Computer Science Bootcamp Program : http://bit.ly/3UZxPBy\n🔵 Cyber Security Masters Program: http://bit.ly/3U25rNR\n🌕 Full Stack Developer Masters Program : http://bit.ly/3tWCE2S\n🔵 Automation Testing Engineer Masters Program : http://bit.ly/3AGXg2J\n🌕 Python Developer Masters Program : https://bit.ly/3EV6kDv\n🔵 Azure Cloud Engineer Masters Program: http://bit.ly/3AEBHzH\n\n\nPlease write back to us at sales@edureka.co or call us at IND: 9606058406 / US: +18885487823 (toll-free) for more information.",
-      "commentCount": 0,
-      "likeCount": 63,
+      "description": "🚀 Try Converge AI here with 300 extra free credits in 48 hours: https://enter.converge.ai/s/ABAhH3\n\nWhat if one person could build, deploy, and manage a production-ready AI agent without writing traditional code?\n\nIn this video, I test Enter Pro Agent by Converge AI Agent Builder by building a real AI product return analyzer agent for ecommerce brands. The goal is to create an intelligent assistant that can read messy return data, reason across multiple sources, identify why customers are sending products back, and recommend what a business should fix first.\n\n⏱️ TIMESTAMPS\n0:00 The hidden cost of e-commerce returns\n1:08 The rise of the one-person company\n3:22 Building an intelligent operations advisor\n6:11 Vibe coding the agent's logic\n10:16 Shipping a production-ready agent\n\n🚀 What You'll Learn\n✅ Converge AI\n✅ Enter Pro Agent\n✅ Converge AI Agent Builder\n✅ AI Agent Builder\n✅ No-Code AI Agents\n✅ Natural Language Agent Building\n✅ Vibe Coding\n✅ AI Product Return Analyzer\n✅ Ecommerce AI Agent\n✅ AI Operations Assistant\n✅ Agent Deployment\n✅ SDK Integration\n✅ IM Bot Deployment\n✅ Version History\n✅ AI Agent Rollback\n\nSubscribe for more AI agent tools, no-code AI workflows, ecommerce AI tools, AI product builds, and practical AI reviews.\n\n📩 For business inquiries & collaborations: contact@zoetryai.com\n\n⚠️ Affiliate Disclaimer: Some of the links in this description may be affiliate links. This means I may earn a small commission at no extra cost to you if you choose to sign up or purchase through them. This helps support the channel and allows me to keep creating content like this.\n\n#ConvergeAI #AIAgent #AgentBuilder #NoCodeAI #VibeCoding #AIAgents",
+      "commentCount": 4,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "8Hu2s7sMWZg": {
+      "checkedAt": "2026-08-15T01:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get $100 in free Hyperagent credits when you sign up for a paid plan: https://www.hyperagent.com/liam\n\nFull guide + my copy my skills & agents: https://aimakeover.io/guides/aios-in-an-afternoon/\n\nWatch the full VLOG with Arlin’s business: https://www.youtube.com/watch?v=BMSvmzJuMiM&t=157s\n\nWant an AI Makeover for YOUR Business?\n👉🏻 https://bit.ly/ai-makeover-apply\n\nFollow me on Instagram to see behind the scenes:\n🤳🏼 https://instagram.com/liamottley\n\n🛠 MY TECH STACK\n\nHostinger (agent & web hosting): https://hostinger.com/liamvps\nHyperagent (AIOS workspace): https://www.hyperagent.com/liam\nOspry (AI lead gen): https://www.ospry.ai?fpr=liam41\nGlaido (voice transcription): https://get.glaido.com/liam-ottley\nFirecrawl (web scraping): https://firecrawl.link/liam-ottley\nSupadata (video scraping): https://supadata.ai/?ref=liam\nApify (all other scraping): https://apify.com?fpr=8txghh\nElevenLabs (voice agents & cloning): https://try.elevenlabs.io/liam\nClaude Code (coding): https://claude.com/claude-code\nSupabase (database): https://supabase.com\n\nSome links above are affiliate links. Using them supports the channel at no extra cost.\n\nLearn how to build a all in one AI agents operating system in 2026 with this ultimate guide — no coding experience required. In this step-by-step tutorial, you'll master ai agents and automation, and build a real AI operating system with real-world AI agents. \n\n0:00 AI operating system case study\n1:05 the foundation of your AIOS \n1:58 everyone skips this (huge mistake)\n4:37 your AIOS workspace\n5:56 how to integrate ANY app\n6:51 loading in your context\n9:28 automating tasks into skills\n13:21 build ai agents\n17:16 building custom apps \n18:51 free download to build your AIOS",
+      "commentCount": 4,
+      "likeCount": 78,
+      "probeClient": "web_embedded"
+    },
+    "6XrkGK9mqsE": {
+      "checkedAt": "2026-08-15T01:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Connor Leahy has spent his career at the frontier of AI, from reverse-engineering GPT-2 as a student and co-founding EleutherAI to building the AI safety company Conjecture. He now leads US policy work at ControlAI, and he returns to the show with a warning that has stopped being theoretical: AI systems are escaping their sandboxes, writing their own zero-days and leaving each other notes on how to break out.\n\nPeter and Connor discuss the OpenAI incident that ended in an attack on Hugging Face sophisticated enough to be mistaken for a state actor, why we understand almost nothing about how these systems work, how reinforcement learning produces models that lie, cheat and manipulate to reach a goal and why the next stage after chatbots and agents is swarms.\n\nBut Connor’s argument is that the future is not decided. He believes superintelligence should be treated the way nuclear weapons are treated, banned and verified and deterred and that the real bottleneck is awareness rather than opposition. They discuss what an “aligned” superintelligence would actually mean, why military people understand the threat faster than technologists and what ordinary people can do about it.\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nTIMESTAMPS:\n00:00 - The AI That Escaped Its Sandbox\n01:52 - Inside The OpenAI Incident\n05:46 - They Thought It Was China\n06:43 - We Grow AI, We Don’t Write It\n11:07 - Trained To Lie, Cheat And Deceive\n13:48 - Chatbots, Agents, Then Swarms\n17:57 - The Machines Are Developing Preferences\n19:30 - The Model Obsessed With Raccoons\n22:03 - The Agents Left Each Other Notes\n27:39 - Danger Pumps The Valuation\n29:41 - Sleeper Agents In Every System\n32:00 - Recursive Self-Improvement Goes Vertical\n33:43 - Worse Odds Than Russian Roulette\n38:14 - Are We Already Too Late?\n40:02 - Independently Assured Destruction\n48:02 - The Politicians Have Never Used An Agent\n50:56 - Superintelligence Should Be Illegal\n57:08 - You Never Privatise The Military\n1:05:00 - An Aligned AI Is A One World Government\n1:08:34 - What You Can Actually Do\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nCONTACT PETE\n› Website – http://petermccormack.com\n› Feedback – https://www.petermccormack.com/contact\n› Email – me@petermccormack.com\n› Instagram – https://www.instagram.com/mccormack555/\n› X/Twitter – https://x.com/petermccormack/\n\nCONNECT WITH CONNOR LEAHY\n› ControlAI – https://controlai.org/\n› Connor’s Profile – https://controlai.org/connor-leahy\n› MicroCommit – https://microcommit.io/\n› X/Twitter – https://x.com/NPCollapse\n› LinkedIn – https://www.linkedin.com/in/connor-j-leahy/\n\nSPONSORS\n› IREN – https://www.iren.com/\n› Expat Money – expatmoney.com/peter\n› Arch Public – https://archpublic.com/peter\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nLISTEN / SUBSCRIBE\n› Apple Podcasts: https://apple.co/40ruY9K\n› Spotify: https://spoti.fi/3Wc94Vu\n› Fountain: https://bit.ly/FountainPM\n› YouTube: https://bit.ly/YouTube_PM\n› Rumble: https://bit.ly/RumblePM\n\nFILMED BY CURTIS TAYLOR\n› https://www.curttaylor.co.uk/\n› https://x.com/curttayloruk/\n\nEDITED BY CONOR MCCORMACK\n› https://x.com/ConorM04\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n#AI #ConnorLeahy #Superintelligence #AISafety #TPMS",
+      "commentCount": 296,
+      "likeCount": 684,
+      "probeClient": "web_embedded"
+    },
+    "msBuulMh9AQ": {
+      "checkedAt": "2026-08-15T01:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get the Agent OS & Prime Agent Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nPrime Agent: The Open-Source AI That Beats Human Experts\n\nDiscover Prime Agent, the open-source AI system that achieved a record-breaking 95.5% benchmark score by rethinking architecture over model size. Learn how its recursive language model eliminates memory bloat and how to integrate it into your business today.\n\n00:00 - Intro: The AI System Shift\n00:46 - Open Source & Setup Costs\n01:19 - Why Traditional Agents Fail\n01:55 - The Recursive Language Model\n03:14 - Inside the Agent OS Dashboard\n05:14 - Permanent Memory & Refinement\n06:38 - How to Install Prime Agent\n07:41 - Join the AI Success Lab",
+      "commentCount": 4,
+      "likeCount": 41,
+      "probeClient": "web_embedded"
+    },
+    "LM7Ft7g8qJw": {
+      "checkedAt": "2026-08-15T01:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Grok Bot review: xAI's new consumer AI agents, what the $200 subscription actually buys, and how to use them safely.\n\nGrab the Superdoer Bot & Business Bot Kits:\nhttps://natesnewsletter.substack.com/p/grok-bot-review?r=1z4sm5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening inside Grok Bot?\n\nThe common story is that AI agents are finally easy enough for anyone — but the real question is what one shared computer means for every account you sign into.\n\nIn this video, I share the inside scoop on Grok Bot as a consumer multi-agent product:\n\n- Why Grok Bot solves the worst agent signup pain point\n- How one shared computer authorizes every bot at once\n- What the $200 subscription has to return to be worth it\n- Where the two bots I recommend fit your first week\n\nGrok Bot is the first agent product I would hand to someone completely nontechnical, and that same shared computer is the one security perimeter you are accepting when you do.\n\nChapters:\n00:00 grokbot is bigger than open claw\n01:10 the agent signup pain point grok solves\n06:55 the twelve bots nate built\n09:41 what the $200 subscription actually costs\n12:25 the two bots worth starting with\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "commentCount": 187,
+      "likeCount": 941,
+      "probeClient": "web_embedded"
+    },
+    "sY2BE_AjqPE": {
+      "checkedAt": "2026-08-15T01:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Anthropic put AI agents together with conflicting goals and watched them escalate into sabotage - deleting accounts, disguising kill scripts and writing malware against each other. Meanwhile its newest agents are learning to negotiate, collude and even rewrite their own memories through a process Anthropic calls \"dreaming.\"\n\nGet the free 7-agent guide here: https://go.aiskool.io/7agents\n\n📩 Brand Deals & Partnerships: collabs@nouralabs.com\n✉️ General Inquiries: airevolutionofficial@gmail.com\n\n📌 What You'll See:\nAnthropic's AI agents sabotage each other and trigger a multiagent war\nSOURCE: https://www.anthropic.com/research/multiagent-systems\nAI swarms collude, conform and make the same dangerous choices together\nSOURCE: https://www.anthropic.com/research/multiagent-systems\n45 AI agents hunt vulnerabilities while Project Glasswing passes 10,000 serious flaws\nSOURCE: https://www.anthropic.com/news/expanding-project-glasswing\nAnthropic introduces \"dreaming\" to reorganize and improve long-term AI memory\nSOURCE: https://www.youtube.com/watch?v=tTcxVv8HHNw\n\n🚨 Why It's Important:\nThe danger isn't just one rogue AI anymore. Anthropic's experiments show groups of capable agents can independently converge on sabotage, collusion and bad decisions, while persistent memory can make mistakes survive far beyond one session. As AI-to-AI interaction scales, coordination itself becomes a safety problem.\n\n#ai #anthropic",
+      "commentCount": 55,
+      "likeCount": 531,
       "probeClient": "web_embedded"
     }
   }

@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T00:53:08Z",
+  "updatedAt": "2026-08-15T01:53:09Z",
   "items": [
+    {
+      "id": "n7Gl4L9p_no",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Zoetry AI",
+      "publishedAt": "2026-08-15T01:03:09Z",
+      "firstSeenAt": "2026-08-15T01:53:09Z"
+    },
+    {
+      "id": "8Hu2s7sMWZg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Liam Ottley",
+      "publishedAt": "2026-08-14T22:53:09Z",
+      "firstSeenAt": "2026-08-15T01:53:09Z"
+    },
+    {
+      "id": "6XrkGK9mqsE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Peter McCormack Show",
+      "publishedAt": "2026-08-14T18:53:09Z",
+      "firstSeenAt": "2026-08-15T01:53:09Z"
+    },
+    {
+      "id": "msBuulMh9AQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-14T17:53:09Z",
+      "firstSeenAt": "2026-08-15T01:53:09Z"
+    },
+    {
+      "id": "LM7Ft7g8qJw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI News & Strategy Daily | Nate B Jones",
+      "publishedAt": "2026-08-14T14:53:09Z",
+      "firstSeenAt": "2026-08-15T01:53:09Z"
+    },
+    {
+      "id": "sY2BE_AjqPE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Revolution",
+      "publishedAt": "2026-08-14T01:53:09Z",
+      "firstSeenAt": "2026-08-15T01:53:09Z"
+    },
     {
       "id": "SLemYo3grmU",
       "type": "long",
@@ -13317,15 +13365,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T00:53:58Z",
-      "new": 8,
-      "long": 8,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
       "runAt": "2026-08-01T01:54:03Z",
       "new": 2,
       "long": 2,
@@ -14728,6 +14767,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-15T01:53:09Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
