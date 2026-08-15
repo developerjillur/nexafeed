@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T13:53:38Z",
+  "updatedAt": "2026-08-15T14:53:05Z",
   "items": [
+    {
+      "id": "bDw4Y-r-Y74",
+      "type": "long",
+      "source": "primary",
+      "channel": "Hasan Aboul Hasan",
+      "publishedAt": "2026-08-15T14:45:17Z",
+      "firstSeenAt": "2026-08-15T14:53:05Z"
+    },
+    {
+      "id": "5Xp8P3lO00k",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-15T14:35:53Z",
+      "firstSeenAt": "2026-08-15T14:53:05Z"
+    },
+    {
+      "id": "3Y7I6nL6QJE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-15T14:19:57Z",
+      "firstSeenAt": "2026-08-15T14:53:05Z"
+    },
+    {
+      "id": "svLRpV5AqwI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mikey Website",
+      "publishedAt": "2026-08-15T14:15:05Z",
+      "firstSeenAt": "2026-08-15T14:53:05Z"
+    },
+    {
+      "id": "OrM3sCywYnE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AIByte",
+      "publishedAt": "2026-08-15T08:53:05Z",
+      "firstSeenAt": "2026-08-15T14:53:05Z"
+    },
     {
       "id": "xo-7CZ0zyMw",
       "type": "long",
@@ -15044,6 +15084,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-15T14:53:05Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
