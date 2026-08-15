@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T18:53:19Z",
+  "updatedAt": "2026-08-15T00:28:14Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1261,7 +1261,7 @@
       "probeClient": "web_embedded"
     },
     "ZE1KEgsm_80": {
-      "checkedAt": "2026-08-07T23:53:12Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Uber just shipped an AI agent that builds your whole grocery cart from a photo of a handwritten list — and the interesting part for builders is how little the LLM actually does.\n\nTheir real architecture is a multi-prompt state graph, and most of the boxes are plain deterministic code. The LLM only handles the fuzzy stuff: reading what you meant, judging which product fits. Everything that has to be correct — prices, arithmetic, availability, the cart total — is code the model never touches.\n\n→ The planner LLM doesn't \"go shopping\" — it emits a structured CartPlan (item, search_terms, item_context, price constraints), then hands it to code\n→ \"12 eggs\" resolves to one carton of twelve via a deterministic quantity step, not free LLM arithmetic\n→ A deterministic guardrail can veto a bad output and fall back before it ever reaches your cart\n→ The lesson: when an agent is unreliable, the fix usually isn't a bigger model — it's taking responsibility away from the model and moving anything exact into code\n\nThe rule to steal: LLM handles meaning, code handles truth.\n\nComment \"CART\" and I'll send you the full breakdown.\nWhat's the one thing you'd never let an AI decide?\n\n#AI #AIagents #LLM #systemdesign #softwareengineering #promptengineering #buildinpublic #Uber #machinelearning #agents\n\nLinks:\n• The LLM/code boundary playbook: https://github.com/sunchitanand/ai-builder-resources/blob/main/cart.md\n\n#Shorts",
@@ -1707,12 +1707,12 @@
       "probeClient": "web_embedded"
     },
     "-YVQ2BmjXeQ": {
-      "checkedAt": "2026-08-07T20:53:28Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Poolside Desktop Assistant brings all your AI coding agents into one workspace.\n\nInstead of juggling multiple terminals, you can run Claude Code, Codex, and other coding agents in parallel across separate Git worktrees, keeping every task isolated and preventing conflicts between agents.\n\nIf you're building with AI every day, this is a cleaner way to manage multiple agents, repositories, and long-running coding workflows from a single desktop app.\n\n#ai #coding #claudecode #codex #developer #aiagents",
-      "commentCount": 8,
-      "likeCount": 109,
+      "commentCount": 19,
+      "likeCount": 177,
       "comments": [
         {
           "id": "UgxTXGFW8nCydu8QHmR4AaABAg",
@@ -1809,12 +1809,12 @@
       "probeClient": "web_embedded"
     },
     "8QWg-gN80Ik": {
-      "checkedAt": "2026-08-07T20:53:28Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Anthropic has introduced **Claude Code Artifacts**, a new feature that turns Claude Code's output into a **live interactive HTML page**.\n\nInstead of sharing screenshots or PDFs, you can now share a live page with your team using a private link. The best part? The page updates automatically as Claude continues working.\n\n\n\nClaude Code, Claude Code Artifacts, Anthropic, Claude AI, AI coding, AI developer tools, interactive HTML, live web pages, developer workflow, software development, coding assistant, developer productivity, AI programming, team collaboration, AI artifacts, Claude Team, Claude Enterprise, AI automation, coding workflow, web development, programming tools, engineering productivity, software engineering, app development, developer tools",
-      "commentCount": 3,
-      "likeCount": 46,
+      "commentCount": 4,
+      "likeCount": 57,
       "comments": [
         {
           "id": "UgyyI0ENo1qe-Tgk6Vd4AaABAg",
@@ -1861,12 +1861,12 @@
       "probeClient": "web_embedded"
     },
     "23sUwit1PHM": {
-      "checkedAt": "2026-08-07T20:53:28Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Vercel open-sourced its security harness that uses coding agents to find vulnerabilities in your codebase.\nIt is called deepsec.\nAnd the CEO just said that Claude Fable 5 is so locked down for cybersecurity that it couldn't even complete a defensive security scan.\nAn open-source model just did it better.\nYou can use this GitHub repo from here and just run it on your laptop with no cloud access needed.\nJust your existing Claude or Codex subscription.\nIt scans your code, identifies security-sensitive files, traces data flows, checks for mitigations, and produces actionable findings with severity ratings. Then a second agent validates the results to remove false positives.\nVercel runs this on their own monorepos. Sometimes scaling to 1,000+ concurrent sandboxes.\nHere's what's most interesting here.\nWhen people tested different models on actual cybersecurity tasks, Kimi K3, the open-weight model, performed top-tier. GPT-5.6 Sol was the best but expensive.\nAnd Fable 5 refused to complete the run at all. The best model in the world didn't work. What's funnier than that? Its safety classifiers blocked everything, even defensive work.",
-      "commentCount": 1,
-      "likeCount": 425,
+      "commentCount": 2,
+      "likeCount": 625,
       "comments": [
         {
           "id": "UgxR_mVCHcGmGrWu28B4AaABAg",
@@ -2942,11 +2942,11 @@
       "probeClient": "web_embedded"
     },
     "qEuxFsK7apk": {
-      "checkedAt": "2026-08-07T21:53:29Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": true,
-      "description": "🏆 Hostinger: http://hostinger.com/jackhermes\n📈 ALL Systems: https://bit.ly/4kol0y5\n🩵 Free Resources: https://bit.ly/3RNNDLa\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n\n*👋 Howdy*\n\nHey, I'm Jack, I built and sold my last tech startup with a Gazillion customers, now I'm building AI startups and I share stuff that works. I quit my corporate job to do my start-up and have never looked back since.\n\n*💬 Overview*\n\nAfter testing hundreds of Hermes agent skills, these are the 13 that genuinely earn their place. You and I go through them in order, and each one is more powerful than the last. We start with the bouncer that vets every skill before it enters your agent, then grill me for sharper questions, handover documents for moving between agents, the teach me skill, and a skill creator that writes new skills properly. Then we set up Hermes 24/7 on a Hostinger VPS, run the context doctor, pull real research from X, Reddit and YouTube with the last 30 days skill, build designs with 21st.dev, wire up a morning brief through Zapier, generate images with Higgsfield, and finish with the Ministry of Experts mixing Claude, DeepSeek and GLM. It works whether you run Hermes locally or fully hosted.\n\n*Links*\n🏆 Hostinger: http://hostinger.com/jackhermes\n⚡ Hermes: https://nousresearch.com/\n🎨 Higgsfield: https://bit.ly/4fjvSg0\n🔥 Firecrawl: https://bit.ly/4feyw72\n🧩 21st.dev: https://21st.dev/\n⚙️ Zapier: https://bit.ly/4pJhh0K\n🤖 OpenAI: https://openai.com/\n☁️ Claude: https://claude.ai/\n🐳 DeepSeek: https://www.deepseek.com/\n🧊 GLM: https://z.ai/\n📁 GitHub: https://github.com/\n\n⌚️ *Stamps:*\n0:00 - Stop Wasting Time On Bad Skills\n0:34 - Skill 1\n0:48 - Only Best Skills Get In\n1:22 - Skill 2\n1:32 - AI Finally Understands You\n2:04 - Hermes Teaches You Deeply\n2:32 - Skill 3\n2:43 - Perfect Agent Handover Doc\n3:26 - Skill 4\n4:23 - Skill 5\n4:31 - Build Better Skills Automatically\n5:50 - Skill 6\n6:36 - Hermes Runs 24/7 Online\n8:19 - VPS Setup In Minutes\n10:43 - Skill 7\n11:13 - Agent Runs Leaner And Faster\n12:32 - Skill 8\n14:19 - Skill 9\n15:04 - Hermes Learns Anything Instantly\n15:40 - Level 10\n16:19 - Stunning Designs Every Time\n17:32 - Skill 11\n17:38 - Your Perfect Morning Brief\n19:11 - Skill 12\n19:45 - Images And Video On Demand\n20:45 - Skill 13\n21:19 - Multiple AI Experts Collaborate\n23:00 - What's Next\n\nIf you're searching for the best Hermes agent skills, how to run Hermes agent 24/7 on a VPS with Hostinger, connect Higgsfield and Firecrawl, build a morning brief with Zapier, or set up a mixture of agents with Claude, DeepSeek and GLM, this video walks through all 13 step by step.\n\n#HermesAgent #AIAgents #AISkills #Hostinger #Claude #AIAutomation",
-      "commentCount": 1,
-      "likeCount": 8,
+      "description": "🏆 Hostinger: http://hostinger.com/jackhermes (use code: JACKROBERTS for 10% off)\n📈 ALL Systems: https://bit.ly/4kol0y5\n🩵 Free Skills: https://bit.ly/4wqcZ0k\n\n\n*👋 Howdy*\nHey, I'm Jack, I built and sold my last tech startup with a Gazillion customers, now I'm building AI startups and I share stuff that works. I quit my corporate job to do my start-up and have never looked back since.\n\n*💬 Overview*\nAfter testing hundreds of Hermes agent skills, these are the 13 that genuinely earn their place. You and I go through them in order, and each one is more powerful than the last. We start with the bouncer that vets every skill before it enters your agent, then grill me for sharper questions, handover documents for moving between agents, the teach me skill, and a skill creator that writes new skills properly. Then we set up Hermes 24/7 on a Hostinger VPS, run the context doctor, pull real research from X, Reddit and YouTube with the last 30 days skill, build designs with 21st.dev, wire up a morning brief through Zapier, generate images with Higgsfield, and finish with the Ministry of Experts mixing Claude, DeepSeek and GLM. It works whether you run Hermes locally or fully hosted.\n\n*Links*\n🏆 Hostinger: http://hostinger.com/jackhermes\n🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO)\n⚡ Zapier: https://bit.ly/4hmxmHQ\n🥳 Hermes: https://nousresearch.com/\n🎨 Higgsfield: https://bit.ly/4fjvSg0\n🔥 Firecrawl: https://bit.ly/4feyw72\n🧩 21st.dev: https://21st.dev/\n⚙️ Zapier: https://bit.ly/4pJhh0K\n🤖 OpenAI: https://openai.com/\n☁️ Claude: https://claude.ai/\n🐳 DeepSeek: https://www.deepseek.com/\n🧊 GLM: https://z.ai/\n📁 GitHub: https://github.com/\n\n⌚️ *Stamps:*\n0:00 - Top 13 Skills\n0:34 - Skill 1\n1:22 - Skill 2\n2:32 - Skill 3\n3:26 - Skill 4\n4:23 - Skill 5\n5:50 - Skill 6\n10:43 - Skill 7\n12:32 - Skill 8\n14:19 - Skill 9\n15:40 - Skill 10\n17:32 - Skill 11\n19:11 - Skill 12\n20:45 - Skill 13\n23:00 - What's Next\n\nIf you're searching for the best Hermes agent skills, how to run Hermes agent 24/7 on a VPS with Hostinger, connect Higgsfield and Firecrawl, build a morning brief with Zapier, or set up a mixture of agents with Claude, DeepSeek and GLM, this video walks through all 13 step by step.\n\n#HermesAgent #AIAgents #AISkills #Hostinger #Claude #AIAutomation",
+      "commentCount": 35,
+      "likeCount": 496,
       "probeClient": "web_embedded"
     },
     "3JoMCyRR8rg": {
@@ -6227,18 +6227,28 @@
       "probeClient": "web_embedded"
     },
     "sakMrVvsr8Y": {
-      "checkedAt": "2026-08-13T19:53:15Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": true,
       "description": "Tell me I'm wrong in the comments, I hate clicking \"approve\" every 2 seconds lol.\n\nClicking approve is not safety.\n\n50 prompts in, you're catching about 5% of what Claude drops.\n\nIn two days Anthropic flips auto mode on by default.\n\nAI Weekly tested 1,000+ paid users. Auto caught 89% of dangerous commands. We caught 13.6%.\n\nBeen on dangerously-skip-permissions since day one. Zero issues.\n\nClick yes enough times, you click yes always.\n\n#ClaudeCode\n#ClaudeAI\n#AItools\n#AIAgents\n#DevTools",
-      "commentCount": 4,
-      "likeCount": 20,
+      "commentCount": 5,
+      "likeCount": 34,
       "comments": [
+        {
+          "id": "UgywFOs4aknMNpxxNRR4AaABAg",
+          "author": "@daShadoSage",
+          "text": "My leaks don't delete repos and folders",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/g8HGw_v52djGx53x1sTkE6ALEZSjMYo7dWpESC6bH2pLr6zV59UxEHIkV8t6tEVEmeNT_137jA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgzyRld4ddIJnG3fZVh4AaABAg",
           "author": "@user-gd5ks8rf8h",
           "text": "100%",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T12:00:00Z",
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nv-Jn5-6zC2WagGy8QXd6AGtfdqPR-_m3N4WrjdfcsgXQfrUwnldKTX2hcZU7s2gqwiw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6248,7 +6258,7 @@
           "author": "@Personal-fg3uy",
           "text": "😂",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T07:00:00Z",
+          "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mYhDDsCA9NfTG2PgzluZfHQpG5ifmMgJPfOK61kjZldvH8THXl33B8Pu__NmTzyraUXQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6258,7 +6268,7 @@
           "author": "@ImJustIWill",
           "text": "Facts!!",
           "likeCount": 0,
-          "publishedAt": "2026-08-12T23:00:00Z",
+          "publishedAt": "2026-08-13T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mSB9Ye1mxb9zw22yg4gR3HkYtjNDvdF9KKYTs5j6PI9L4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6274,7 +6284,7 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-13T19:53:15Z",
+      "commentsFetchedAt": "2026-08-15T00:28:14Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded",
       "availability": "public"
@@ -6288,64 +6298,94 @@
       "probeClient": "web_embedded"
     },
     "dPScBnXaNdc": {
-      "checkedAt": "2026-08-13T21:53:15Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": true,
       "description": "Comment \"Agentic\" for my FREE Agentic OS Playbook\n\nPolishing the dashboard is the trap.\n\nThe leverage sits underneath it.\nYour skills. Your agent brain.\n\nMine saves 31 hours a week and I never open it.\n\nBuild skills around what's already profitable.\nWire a Graphify brain into Obsidian.\nTurn those skills into scheduled tasks.\n\nThen build the dashboard.\n\nWrong order and you built a toy, fam.\n\n#AIAgents\n#ClaudeCode\n#Automation\n#BuildInPublic\n#AIWorkflow",
-      "commentCount": 5,
-      "likeCount": 34,
+      "commentCount": 8,
+      "likeCount": 121,
       "comments": [
         {
           "id": "Ugy1PRcI42MyczLwB6l4AaABAg",
           "author": "@charlieautomates",
           "text": "🔑🔑🔑3 Step Agentic Playbook here -> https://charlieautomates.com/free-resources/#build-agentic-os",
-          "likeCount": 0,
+          "likeCount": 1,
           "publishedAt": "2026-08-13T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
-          "id": "UgwonMJHwbkMw7jVRFt4AaABAg",
-          "author": "@_Joker_909",
+          "id": "UgwIzLyfMRgmjKEXBGF4AaABAg",
+          "author": "@Babacaamilporhora",
           "text": "Agentic",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nodmu60EWbNNVbNI1X_zzTkUDLaMIXOlN5bUKCSmFHHZc=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T23:35:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_liVkZMAc_tcUGwQ79ByE0BGKIDrOz9EzgDFx4N0yr33wU=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugx7MmtuvPft4izOR894AaABAg",
-          "author": "@shavkat-xx7",
+          "id": "Ugx8osG9GSzsrGoA9I14AaABAg",
+          "author": "@reprisal0",
           "text": "Agentic",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/RNDiuX_Uymfq5DzBaZBxqaph7v4ED0JWBqaqDBkF1MdMwdrOGsT3QiGFKDT6FHh30wm3XY6OMw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n75Ut8m-Fce1oda6Iwg2poAO-B_FkLt6Ipa-DIoxk=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwOTTHKjGbQcy-CMmt4AaABAg",
-          "author": "@asanghani",
+          "id": "UgybrykHrlllo8U41v54AaABAg",
+          "author": "@clatonbutcher5194",
           "text": "Agentic",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n-bl4ssytFuXMqJLE_mTq8iBQb70fZLnt3KnVRwfS5ZfDahfPaoXAuHqFcGXYykvGDzKw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mLxA2Brqe4tCObaKxblUQAKRRmYbb3F44zjV3LL-e7C9Y=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugxhbv2UpYJmMwLVXgJ4AaABAg",
-          "author": "@phoem2k",
+          "id": "UgzP_K_U-33g9qaA1kN4AaABAg",
+          "author": "@Kenny-lp4qz",
           "text": "Agentic",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/o4Hb-qyNrGdQ1xhtM3nRSaq13USjwywZPr6B13q6yUOP1iz4HRjnpNtcs1z3Eo0WVEip7njk_w=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nThW3536XzXSzjTVkojlnLihtNswHhG_9pWvuAoYBcY7k=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw8aboyG_NfLjos-xZ4AaABAg",
+          "author": "@robertfox3156",
+          "text": "Agentic",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lp9OQ-_ykMGuXZ9KrcKyPSm9kA9vB9cMF5T5UXie-0OmMMmgygTjG1BuATiGxiSrkuCQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugyb7SM4WYciDsMKhDx4AaABAg",
+          "author": "@suzywilson",
+          "text": "Agentic. And thank you so much!",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/hoj1HHju3YfNaGphLYKTM_dbaXpTgwFnl_6nnCO1q8nrftrCLSNtZAnpGVruxDjHizRIKWRcHg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx42eUzPM_NKFboo9p4AaABAg",
+          "author": "@samikshaheartcare6725",
+          "text": "Agentic",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lkcASwWYH5df9f0EXccwGttBit7GCQMM4TTcnvbVncVXs=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-13T21:53:15Z",
+      "commentsFetchedAt": "2026-08-15T00:28:14Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded",
       "availability": "public"
@@ -6867,7 +6907,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-14T18:53:19Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7092,7 +7132,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-14T18:53:19Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7225,82 +7265,118 @@
       "probeClient": "web_embedded"
     },
     "4hY8PO0KTv8": {
-      "checkedAt": "2026-08-13T20:53:14Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": true,
       "description": "💬 Comment 𝗔𝗣𝗣𝗟𝗘 and I’ll DM you the entire repo link!\n\n#claudecode #appledesign #uiux #frontend #codingwithai #webdesign #buildinpublic #developerproductivity #anthropic",
-      "commentCount": 2,
-      "likeCount": 5,
+      "commentCount": 8,
+      "likeCount": 136,
       "comments": [
         {
-          "id": "UgxkdUGXMWiarEwPbZ14AaABAg",
-          "author": "@alvinneal4174",
+          "id": "Ugxe11pl7DVQM3YYsgZ4AaABAg",
+          "author": "@EricWTech",
+          "text": "📌 Here is the link:\n\nhttps://github.com/emilkowalski/skills/tree/main/skills/apple-design",
+          "likeCount": 6,
+          "publishedAt": "2026-08-14T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-fAZCNoiUQ0xrOaqyCUPXW4MRRTNbJyWSN-KFzFSJlWNrl36J0h5EwfMKJi3GaNY0A5Ml1mLbS0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "UgzrbdziSmsOBJ361Z54AaABAg",
+          "author": "@JerryKLee",
           "text": "Apple",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T20:53:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k1H0HCWKV6VrBABTE-HPHxocfl6EP0dL5B3-ejpPaBoB0=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-15T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/CUXsr_W0HWxuuW_vlMFu4zAHTRjc3sihICZxLYZp4NEngAmq194PXyhcRZTPGjAhH8HIIfyfrw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwvXuJf9SHTHUKQMCN4AaABAg",
-          "author": "@petergaitho8995",
+          "id": "UgxPaC6NxE3PV_qUmYJ4AaABAg",
+          "author": "@forcelinehd",
+          "text": "Done it 🎉",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/P87bq8-ZTIz7gM1P42GtxSIqBRvQwcuelbx8Qli5xL1sH1B2vvLHXf3k-j6UCatOGTIhPHxehw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwAiDMeK3rtGsKfOb14AaABAg",
+          "author": "@NiruttiChudvalyangkoonTop",
           "text": "Apple",
           "likeCount": 0,
-          "publishedAt": "2026-08-13T20:09:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kEDGrtKdAL0UsSYsEzpRwF7ZVb-9-Y90LbFYx7WMPNu277=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-14T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/pSqvl55Bz_ZAY3uUvgf09iuDKxDUnOhAjYBsWjluLGczd6k2Y4iIQSK9EtErUBbYg--Hs05HCA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy7tiG4ijLAUY2n6-R4AaABAg",
+          "author": "@TheRealJuseBeats",
+          "text": "Apple",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/XJpGL6KMce9pSdQeGQDnm1cJpSTzDg6mUfQdbFbZfBtxVaMAvdYJ3XZ--T5HxGGxBBL8DGsq=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxWh0XoDcHXKwUIAbV4AaABAg",
+          "author": "@gorgalore",
+          "text": "Apple",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kXJuDItYfcXeRbEkvCT4ibfI6uMxr51_0b5YQWr6G9qA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugye1bRBhxyjWEhvHZV4AaABAg",
+          "author": "@ArounGlowAIStudio",
+          "text": "APPLE",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n6ZBBa_3wssvZ-3uYejR-pYif7bZ3F-sJr33JSyktwwYCCLRkkFCHIjZW7Up1yAzVU4w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyzNC8H96KS9eXSWZZ4AaABAg",
+          "author": "@kalomendelsshon2260",
+          "text": "Apple",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhQ5SvDZ1T9nGrBdvdkIMTXUYdawQ1QZD_RCxRkZKLUFU=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-13T20:53:14Z",
+      "commentsFetchedAt": "2026-08-15T00:28:14Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "Q9VhGGfeHP0": {
-      "checkedAt": "2026-08-13T22:53:16Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 11,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-13T22:53:16Z",
+      "commentCount": 1,
+      "likeCount": 198,
+      "comments": [
+        {
+          "id": "UgyPDtS-gKTmCQPmJnF4AaABAg",
+          "author": "@TayTaylorJames",
+          "text": "Ai jury is mental , like a super code reviewer using multiple cheap openrouter ais , catches code messups every time",
+          "likeCount": 0,
+          "publishedAt": "2026-08-14T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kSswJ_pxNILqnry7jOuS58KcE6kry5sPalbDtXj1POcHE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-15T00:28:14Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "6fk-3DWWSU8": {
-      "checkedAt": "2026-08-13T22:53:16Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Jun here, taking you all through my initial strides following getting laid off from my software engineering job.\n\n0:00 - a little bit of catch up\n1:18 - applying for internal roles\n2:30 - getting ready for an interview\n3:31 - rejection and impact from leave\n4:27 - updating my resume\n5:11 - lunch\n5:48 - applying to external roles\n6:55 - paving the backyard\n8:19 - leetcode study time\n10:33 - some thoughts on approaching life after layoffs\n12:18 - party time\n\nSocials:\nhttps://www.instagram.com/danjuntech/\n\nDisclaimer:\nOpinions expressed in this video do not reflect our employers.",
-      "commentCount": 2,
-      "likeCount": 21,
-      "probeClient": "web_embedded"
-    },
-    "ikqJf69T_aA": {
-      "checkedAt": "2026-08-13T22:53:16Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥 Developer Bootcamp & Mentoring Program — Start or level up your career with my proven training and personal mentoring:\nhttps://unclestef.com/\n\n#SoftwareDevelopment #AI #Programming #Developers #UncleStef\n\nStudioweb AI Literacy curriculum:\nhttps://blog.studioweb.com/2026/08/12/studioweb-ai-principles/\n\n🦎 Lizard Wizard Course\nMaster the psychology of learning, habits, and performance — a must for developers and entrepreneurs:\nhttps://school.studioweb.com/store/course/lizard_wizard\n\n🚀 1-on-1 Mentoring & Consultations\n\nCareer Consult — $99 for 15 minutes:\nhttps://calendly.com/uncle-stef/consultation-with-stefan\n\nEntrepreneur / Business Consult — $250 for 30–45 minutes:\nhttps://calendly.com/uncle-stef/entrepreneurs-consult\n\nSponsored Video — Get your questions answered in a video:\nhttps://unclestef.com/blog/2025/03/04/sponsored-video-request/\n\n💻 Popular Courses\n\nPython 3 Foundations & Certification:\nhttps://school.studioweb.com/store/course/python_3_foundations__&_certification_package\n\nFull Stack Web Developer:\nhttps://school.studioweb.com/store/course/complete_web_developer\n\nComplete Freelancer:\nhttps://school.studioweb.com/store/course/complete_freelancer\n\nComplete Entrepreneur:\nhttps://school.studioweb.com/store/course/complete_web_entrepreneur\n\n📱 Stay Connected\nInstagram: https://www.instagram.com/stefanmischook/?hl=en\n\nBusiness Channel: https://www.youtube.com/channel/UCZdr0ql_B240VBVINAX7Acg\n\nGoogle Review: https://g.page/studioWebedu/review?mt",
-      "commentCount": 8,
-      "likeCount": 47,
-      "probeClient": "web_embedded"
-    },
-    "9nfC9043Xgg": {
-      "checkedAt": "2026-08-13T23:53:06Z",
-      "embedAllowed": true,
-      "description": "AI can now write functions, tests, APIs, refactors, and even complete features in minutes.\n\nThat sounds like the software-development bottleneck has finally been solved.\n\nBut it may have created a much harder problem.\n\nAs AI generates more of our code, developers increasingly have to review, debug, maintain, and understand software they didn't actually write. Code production gets faster while human understanding struggles to keep up.\n\nIn this video, we look at what the AI coding boom is changing:\n\nWhy generating code is no longer the main bottleneck\nWhat happens when developers fall out of the loop\nWhy reviewing AI-generated code doesn't scale like generating it\nThe hidden cost of autonomous coding agents\nWhich developer skills become more valuable as AI improves\nWhy software engineering is much more than writing code\n\nAI coding isn't going away. The real question is what happens when we can generate software faster than we can understand it.\n\n#AI #Coding #SoftwareEngineering #ChatGPT #Programming #AICoding",
-      "commentCount": 3,
-      "likeCount": 5,
-      "probeClient": "web_embedded"
-    },
-    "9McAge0lGwc": {
-      "checkedAt": "2026-08-14T01:53:20Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI in digital marketing helps teams predict behavior, personalize experiences, generate creative, automate media decisions, and estimate impact — but its effectiveness depends less on the model than on the quality of the data and the clarity of the objective. In this video, we walk through 12 real examples from brands like L'Oréal, Meta, Sephora, Amazon, HubSpot, Spotify, and Coca-Cola, and pull out the transferable lesson behind each one. 🤖\n\nNot every automation is AI. A rule fires the same way every time; a model changes its output based on what the data says. We break down where that distinction actually matters — and how to measure incrementality instead of just AI activity.\n\n✅ Key takeaways:\n• An AI system trained on low-value conversions gets highly efficient at acquiring more low-value conversions\n• AI-generated personas are hypotheses, not market research — validate before they shape positioning\n• CTR is an intermediate measure; look at incremental purchases, margin, and retention\n• AI output is production, not value — measure financial impact against a control group or baseline\n• The durable advantage isn't access to a model; it's cleaner first-party data, faster testing, and governance that keeps customer trust\n\n📖 Read the full article: https://reachmarketing.com/blog/artificial-intelligence-in-digital-marketing-12-examples/\n\nIncludes the full data-to-action framework, the four levels of AI marketing measurement, the readiness checklist, and the AI marketing risk map.\n\n💬 Which of these 12 use cases fits your team best? Let us know in the comments.\n\n🔔 Subscribe for more on B2B marketing, data, and AI.\n\nAbout Reach Marketing: We bring B2B lead generation and marketing technology together under one roof — strategy, campaign execution, data services, and digital marketing. https://reachmarketing.com\n\n#AIMarketing #DigitalMarketing #ArtificialIntelligence #B2BMarketing #MarketingAI #LeadGeneration #MarketingAutomation #GenerativeAI #MarketingStrategy #AIinMarketing",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "T0fDgDHa46A": {
@@ -7471,15 +7547,6 @@
       ],
       "commentsFetchedAt": "2026-08-14T05:53:24Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "g2ThjrZiMh0": {
-      "checkedAt": "2026-08-14T05:53:24Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "https://bit.ly/4hv5tNT\n\nZapier is a no-code automation tool that empowers you to automate your work across 5,000+ apps—so you can move forward at growth speed. Spend less time on busy work and more time focused on what matters most. Get started with Zapier for free at: https://bit.ly/4hv5tNT\n\nSubscribe to the Zapier YouTube channel so you don't miss other important tutorials and integrations:  \nhttps://www.youtube.com/Zapier?sub_confirmation=1\n\n#ai #automation",
-      "commentCount": 0,
-      "likeCount": 2,
       "probeClient": "web_embedded"
     },
     "HwCRbjmPNiw": {
@@ -7995,7 +8062,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-14T18:53:19Z",
+      "checkedAt": "2026-08-15T00:28:14Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8162,6 +8229,46 @@
       "description": "What happens when artificial intelligence makes human labour less necessary?\n\nKarl Marx spent much of his life examining the relationship between workers, technology, capital, and the ownership of production. So what might he have thought about a world where AI can write, code, analyse, design, and increasingly perform the work that millions of people depend on?\n\nWould AI liberate humanity from meaningless work or make workers even more vulnerable?\n\nIn this video, we explore AI and unemployment through the lens of Karl Marx, asking a deeper question: if technology can produce more with less human labour, why should our ability to survive still depend on having a job?\n\nThis isn't simply a video about AI taking jobs. It's about work, money, identity, freedom, inequality, and what happens when human labour is no longer as economically necessary as it once was.\n\nWhat would Karl Marx think?\n\n#KarlMarx #ArtificialIntelligence #FutureOfWork",
       "commentCount": 0,
       "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "BeQhhft_MCw": {
+      "checkedAt": "2026-08-15T00:28:14Z",
+      "embedAllowed": true,
+      "description": "Build AI automations for businesses with no code - and charge a monthly retainer.\n\nYou'll learn what an AI automation agency is, how to build flows with Make and n8n, what to automate, how to pick a niche, how to land your first client, how to charge (setup fee plus monthly retainer), the math behind five thousand a month, and how to productize with templates.\n\n#makemoneywithai #aiautomation #n8n #make #agency",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "_vvNj-HIPng": {
+      "checkedAt": "2026-08-15T00:28:14Z",
+      "embedAllowed": true,
+      "description": "day -7\n🤖 **AI AUTOMATION & AI AGENT BUILDING — COMPLETE PRACTICAL CLASS**\n\nWant to learn **AI automation, AI agents, n8n workflows, and no-code automation** from scratch?\n\nIn this FREE practical class, we break down how **AI automation and AI agents** actually work and how you can build useful workflows without becoming a programmer.\n\n### 🚀 WHAT YOU'LL LEARN\n\n✅ What is AI Automation?\n✅ What are AI Agents?\n✅ How AI Agents work\n✅ How to automate repetitive tasks\n✅ n8n automation basics\n✅ Build workflows with n8n\n✅ Opal for building AI-powered workflows\n✅ Connect AI tools with automation\n✅ Create AI workflows for real-world use cases\n✅ Build systems that can work automatically\n✅ No-code / low-code AI automation\n✅ Practical examples and live demonstrations\n\n### ⚡ REAL-WORLD AI AUTOMATION USE CASES\n\n📩 Email automation\n💬 Customer support automation\n📱 Social media workflows\n📝 Content creation automation\n📊 Data & business workflows\n🤖 AI assistants and agents\n🔄 Repetitive task automation\n🚀 Productivity systems\n\n### 💰 WHY LEARN AI AUTOMATION?\n\nAI automation is becoming one of the most useful skills for **creators, freelancers, students, entrepreneurs and businesses**.\n\nInstead of doing the same task manually again and again:\n\n**IDEA → AI → AUTOMATION → RESULT**\n\nThe goal of this class is not just to show you tools — it's to help you understand **how to build practical AI systems.**\n\n📱 Beginner friendly\n🧠 Step-by-step learning\n🛠️ Practical examples\n🔥 Live & interactive\n🆓 FREE AI COURSE\n\n### 🛠️ TOOLS COVERED\n\n**n8n**\n**Opal**\n**AI tools & agents**\n**No-code automation workflows**\n\n👇 Comment **\"AUTOMATION\"** if you want more tutorials on AI automation and AI agents.\n\n❤️ Share this class with someone who wants to learn **AI automation, n8n, AI agents and no-code tools.**\n\n### 🔎 SEO KEYWORDS\n\nAI automation, AI automation tutorial, AI agents, AI agent tutorial, AI agent building, n8n tutorial, n8n automation, n8n AI agents, Opal AI, AI workflow automation, no code automation, AI automation tools, automation for beginners, AI tools, generative AI, artificial intelligence, learn AI, AI productivity, AI business automation, AI assistant, build AI agents, AI workflows, workflow automation, automation tutorial, AI for beginners, free AI course, AI course, AI automation India, AI agents India.\n\n### #️⃣ HASHTAGS\n\n#AIAutomation #AIAgents #n8n #n8nAutomation #OpalAI #AIWorkflow #AIForBeginners #NoCode #Automation #GenerativeAI #AITools #ArtificialIntelligence #AIProductivity #FreeAICourse #LokiInvents",
+      "commentCount": 0,
+      "likeCount": 31,
+      "probeClient": "web_embedded"
+    },
+    "qcUQ3h0vmD0": {
+      "checkedAt": "2026-08-15T00:28:14Z",
+      "embedAllowed": true,
+      "description": "JOIN MY SKOOL COMMUNITY (https://skool.ashhasib.com/) AND GET:\n✅ Ongoing support on GHL, Ads, Automation, etc.\n✅ 2 Weekly Q&A Calls\n✅ Exclusive Courses & Training\n✅ Templates, Snapshots, Prompts, and many more\n\nUnlock my 30-Day GoHighLevel Challenge + FREE 30 Day EXTENDED Trial 👉\nhttps://gohighlevel.com/ashhasib \n\n------------------\n\nAFFILIATE DISCLAIMER- There may be affiliate links in the description. If you buy something through these links, I might get a commission. However, you will not be charged anything extra. I would be glad if you could use these links!\n\n------------------\n\nCOPYRIGHT DISCLAIMER:\nAll rights to this video are reserved. No part of this video may be reproduced, copied, or used in any other video or medium without express written permission from Ashaduzzaman Hasib. Unauthorized use of this video may result in legal action.",
+      "commentCount": 4,
+      "likeCount": 12,
+      "probeClient": "web_embedded"
+    },
+    "GJFYzzMhg7I": {
+      "checkedAt": "2026-08-15T00:28:14Z",
+      "embedAllowed": true,
+      "description": "I put Google's brand-new AI agent, Gemini Spark, through a full real-world test — replying to emails, building reports, managing my calendar, setting up automations, connecting third-party apps like Canva, and even browsing Chrome to book a hotel. All done automatically, step by step.\n\nIn this video, you'll see exactly how Gemini Spark works and how it compares to other AI agents like OpenAI Codex and Claude Code — so you know which one actually fits your workflow.\n\nPrompts: https://ko-fi.com/s/6f6fbd85c6\n\n⏱️ TIMESTAMPS\n\n00:00 — What Gemini Spark can automate  \n00:16 — Check emails and send automatic replies  \n01:41 — Create editable Docs, Sheets, and Slides  \n04:17 — Add events to Google Calendar  \n04:49 — Set up a scheduled email briefing  \n06:12 — Create and use custom Skills  \n07:47 — Connect external apps like Canva  \n09:01 — Automate Chrome web tasks  \n10:35 — Final thoughts on Gemini Spark\n\n\n💬 Got questions about AI agents or want me to test a specific workflow? Drop it in the comments — I read every one.\n\n👍 If this saved you time, hit like and subscribe for more hands-on AI tool breakdowns every week.\n\n#GeminiSpark #Gemini #aiagents",
+      "commentCount": 0,
+      "likeCount": 6,
+      "probeClient": "web_embedded"
+    },
+    "BpKciUqqwIw": {
+      "checkedAt": "2026-08-15T00:28:14Z",
+      "embedAllowed": true,
+      "description": "🎬 Download Wondershare Filmora for PC/Android/iOS for Content Creation! ➜ https://bit.ly/4zaMI8y\n\nLong AI Video Kaise Banaye | ai se video kaise banaye | ai video kaise banaye | ai se cartoon video kaise banaye free me \n\n----------------------------------------------------------------------------------\nMaster Prompt : https://drive.google.com/file/d/1Vw7k8KHPYfgX_Ez2WilIDcK7dP_rrNRm/view?usp=drivesdk\n----------------------------------------------------------------------------------\nAap is video mein seekhenge AI se video banana ka asaan tareeka – Chahe aap beginner ho ya naye naye AI tools explore kar rahe ho, yeh video aapke liye perfect hai.\nTo Aapko Ai Se video banana hai aur monetize karna hai to ye video zaroor dekhen ☑️\n\nTopics Covered in this Video:\n\nAI se video kaise banaye\n\nstickman ai video kaise banaye\n\nText to Video AI free tools\n\nBest AI video maker websites\n\nAI Courses for beginners\n\nMobile se AI video banane ka tarika\n\nYouTube Shorts ke liye AI video kaise banaye\n\n\nExpanded Keywords:\n\n1. Free AI video maker\n\n2. Text to video AI tools\n\n3. AI video banane ka software\n\n4. AI tools for content creation\n\n5. Beginners AI video editing course\n\n6. Mobile se AI video kaise banaye\n\n7. Best AI tools 2026\n\n8. Hindi mein AI video banana\n\n9. AI se YouTube video kaise banaye\n\n10. AI reel banane ka tarika\n\n\nQueries Answered in this Video:\n\nstickman animation tutorial\nLong ai video kaise banaye\nAi se cartoon video kaise banaye\nAi long video kaise banaye\nCartoon video kaise banaye ai se\nFree AI video generator app\nText to video AI app for mobile\nYouTube ke liye AI video kaise banaye\nAI video editing app for beginners\nAI voice ke sath video kaise banaye\nMobile se AI reel kaise banaye\nBest free AI tools for video creation\nShorts banane ke liye AI tool kaunsa hai\nAI se cartoon video kaise banaye\nAI me background music kaise lagaye\nBina face dikhaye AI video kaise banaye\nText to speech AI video generator\nReels banane wala best AI app\nFree AI animation video kaise banaye\nAI se educational video kaise banaye\nTrending AI video ideas for YouTube\nAI video banane ke liye best website\nAI face animation video kaise banaye\nAI tools se viral short video kaise banaye\nBeginner ke liye AI video creation guide\nAI green screen video kaise banaye\nAI app se YouTube ke liye video kaise banaye\nAI tools for faceless YouTube channel\nAI reels ka background kaise change kare\nVideo ke liye AI script kaise banaye\nBest AI video editor for Android\nShorts viral karne ke liye AI tips\nAI story video kaise banaye\nAI tools for content creators\nReels viral karne wale AI hacks\nAI YouTube channel kaise grow kare\nAI tools for beginners without coding\nFree mein AI learning kaise kare\nAI YouTube automation kya hai\nAI se shorts video viral kaise kare\nAI ke saath YouTube career kaise start kare\nai video kaise banaye free main\nai se video kaise banaye\nhow to make videos with chatgpt\nhow to create a faceless youtube channel\nstory video kaise banaye\nai video generator\nai se cartoon video kaise banaye\nai video kaise banaye\nhow to make animation video\nhow to create 3d animation video\nanimation video kaise banaye\n3d animation video\nai cartoon video generator free\nai animation\nhorror story video kaise banaye\nai animated video kaise banaye\nfaceless youtube channel ideas\nfree ai video tools\nai video editing\n3d animation video kaise banaye\nanimated stories\nanimation\nai video\nai animation video \n\n----------------------------------------------------------------------------------\nTimeStamp :\n0:00 Intro \n0:45 Step 1 - Niche Selection\n2:18 Step 2 - Set-up Faceless Channel\n2:48 Step 3 - Scripting\n3:40 Step 4 - Ai Voice Generation\n4:20 Step 5 - Ai Image Generation\n6:40 Step 6 - Ai Video Generation\n8:15 Step 7 - Editing\n11:25 Step 8 - Packaging \n11:50 Automation \n12:55 Outro \n----------------------------------------------------------------------------------\n\nHashtags:\n#AIVideo #digitalraj #TextToVideoAI \n#withoutfacechannelidea #aivideo #aivideokaisebanaye #ai \n\nDisclaimer: This video is for educational purposes only. Always do your own research before using any tools or platforms.\n\nCopyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE.\n      \n          [ THANKYOU FOR WATCHING ]\n\n#howtocreateyoutubechannel #youtubeautomation #FacelessYouTube",
+      "commentCount": 128,
+      "likeCount": 293,
       "probeClient": "web_embedded"
     }
   }

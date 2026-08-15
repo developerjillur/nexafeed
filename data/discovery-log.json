@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-14T18:53:19Z",
+  "updatedAt": "2026-08-15T00:28:14Z",
   "items": [
+    {
+      "id": "BeQhhft_MCw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Income Lab",
+      "publishedAt": "2026-08-14T22:28:14Z",
+      "firstSeenAt": "2026-08-15T00:28:14Z"
+    },
+    {
+      "id": "_vvNj-HIPng",
+      "type": "long",
+      "source": "secondary",
+      "channel": "loki invents",
+      "publishedAt": "2026-08-14T17:28:14Z",
+      "firstSeenAt": "2026-08-15T00:28:14Z"
+    },
+    {
+      "id": "qcUQ3h0vmD0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hasib Ashad",
+      "publishedAt": "2026-08-14T17:28:14Z",
+      "firstSeenAt": "2026-08-15T00:28:14Z"
+    },
+    {
+      "id": "GJFYzzMhg7I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hongzhao",
+      "publishedAt": "2026-08-14T12:28:14Z",
+      "firstSeenAt": "2026-08-15T00:28:14Z"
+    },
+    {
+      "id": "BpKciUqqwIw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Digital Raj",
+      "publishedAt": "2026-08-14T07:28:14Z",
+      "firstSeenAt": "2026-08-15T00:28:14Z"
+    },
     {
       "id": "6otF8nwoKzo",
       "type": "short",
@@ -13269,51 +13309,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-07-31T19:53:11Z",
-      "new": 7,
-      "long": 6,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
-    {
-      "runAt": "2026-07-31T20:53:20Z",
-      "new": 6,
-      "long": 6,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
-      "runAt": "2026-07-31T21:53:30Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
-      "runAt": "2026-07-31T22:53:39Z",
-      "new": 5,
-      "long": 2,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
-      "runAt": "2026-07-31T23:53:48Z",
-      "new": 3,
-      "long": 3,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
       "runAt": "2026-08-01T00:53:58Z",
       "new": 8,
       "long": 8,
@@ -14707,6 +14702,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-15T00:28:14Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
