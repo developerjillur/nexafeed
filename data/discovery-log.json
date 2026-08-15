@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T00:28:14Z",
+  "updatedAt": "2026-08-15T00:53:08Z",
   "items": [
+    {
+      "id": "SLemYo3grmU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Saad Rashid - YouTube Automation",
+      "publishedAt": "2026-08-14T15:53:08Z",
+      "firstSeenAt": "2026-08-15T00:53:08Z"
+    },
     {
       "id": "BeQhhft_MCw",
       "type": "long",
@@ -14707,6 +14715,15 @@
       "runAt": "2026-08-15T00:28:14Z",
       "new": 5,
       "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-15T00:53:08Z",
+      "new": 2,
+      "long": 2,
       "shorts": 0,
       "channelsChecked": 33,
       "warnings": 0,
