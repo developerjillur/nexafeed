@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T06:53:13Z",
+  "updatedAt": "2026-08-15T07:53:14Z",
   "items": [
+    {
+      "id": "IFPRCpaK1j0",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-15T07:37:49Z",
+      "firstSeenAt": "2026-08-15T07:53:14Z"
+    },
+    {
+      "id": "d9ste3NVqVg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Meet Soni",
+      "publishedAt": "2026-08-14T13:53:14Z",
+      "firstSeenAt": "2026-08-15T07:53:14Z"
+    },
+    {
+      "id": "zj0GRv4rfwo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Saumya Singh",
+      "publishedAt": "2026-08-14T13:53:14Z",
+      "firstSeenAt": "2026-08-15T07:53:14Z"
+    },
     {
       "id": "NwHMETQUY44",
       "type": "long",
@@ -13525,15 +13549,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T07:53:12Z",
-      "new": 4,
-      "long": 1,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
       "runAt": "2026-08-01T08:53:17Z",
       "new": 5,
       "long": 5,
@@ -14936,6 +14951,15 @@
       "channelsChecked": 33,
       "warnings": 29,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-15T07:53:14Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
