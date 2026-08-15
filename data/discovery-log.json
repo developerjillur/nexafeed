@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T02:53:10Z",
+  "updatedAt": "2026-08-15T03:53:10Z",
   "items": [
+    {
+      "id": "JpUOoGQWplQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The AI University",
+      "publishedAt": "2026-08-14T20:53:10Z",
+      "firstSeenAt": "2026-08-15T03:53:10Z"
+    },
+    {
+      "id": "c8d3npe6GOI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NoCode Fortune",
+      "publishedAt": "2026-08-14T15:53:10Z",
+      "firstSeenAt": "2026-08-15T03:53:10Z"
+    },
     {
       "id": "Zp-gB0vqcUs",
       "type": "long",
@@ -14808,6 +14824,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-15T03:53:10Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
