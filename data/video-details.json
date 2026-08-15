@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T20:53:10Z",
+  "updatedAt": "2026-08-15T21:53:09Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1493,12 +1493,12 @@
       "probeClient": "web_embedded"
     },
     "1KTnT5q4nPE": {
-      "checkedAt": "2026-08-08T20:53:47Z",
+      "checkedAt": "2026-08-15T21:53:09Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "You can now use Claude Code... almost completely FREE.\nSeriously.\nSomeone on GitHub just built a tool called OmniRoute...\nand it connects Claude Code to 200+ free AI providers.\nThat means you get access to up to 1.6 billion free tokens every month.\nBut here's the best part...\nWhen you hit Claude's usage limit...\nyour session doesn't stop.\nOmniRoute automatically switches to the next best AI model...\nso you can keep coding without interruption.\nAnd it gets even better.\nIt compresses your prompts before sending them to the AI...\nreducing token usage by up to 90%...\nwhile giving you virtually the same output.\nIf you want to try it yourself...",
-      "commentCount": 4,
-      "likeCount": 967,
+      "commentCount": 5,
+      "likeCount": 1113,
       "comments": [
         {
           "id": "UgyOBV5mRpCUIOTBYf54AaABAg",
@@ -1546,12 +1546,12 @@
       "probeClient": "web_embedded"
     },
     "NClayXM8pU0": {
-      "checkedAt": "2026-08-08T20:53:47Z",
+      "checkedAt": "2026-08-15T21:53:09Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Walrus Memory gives your AI portable memory, so Claude, ChatGPT, and your other agents can all share the same context. No starting over, no repeating yourself. It's encrypted and fully under your control, so you decide exactly what each model can access. \n\nGo to my Instagram, DM me the word \"MEMORY\" and I'll send it over.",
-      "commentCount": 8,
-      "likeCount": 1027,
+      "commentCount": 253,
+      "likeCount": 1362,
       "comments": [
         {
           "id": "UgzOOjy9EJ99IXqpJGd4AaABAg",
@@ -6955,10 +6955,10 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-15T20:53:10Z",
+      "checkedAt": "2026-08-15T21:53:09Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "LHFqw7Znk_Y": {
       "checkedAt": "2026-08-15T18:53:07Z",
@@ -8001,10 +8001,10 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-15T20:53:10Z",
+      "checkedAt": "2026-08-15T21:53:09Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "ePBbqZBYp-s": {
       "checkedAt": "2026-08-15T18:53:07Z",
@@ -8184,15 +8184,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "n7Gl4L9p_no": {
-      "checkedAt": "2026-08-15T01:53:09Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Try Converge AI here with 300 extra free credits in 48 hours: https://enter.converge.ai/s/ABAhH3\n\nWhat if one person could build, deploy, and manage a production-ready AI agent without writing traditional code?\n\nIn this video, I test Enter Pro Agent by Converge AI Agent Builder by building a real AI product return analyzer agent for ecommerce brands. The goal is to create an intelligent assistant that can read messy return data, reason across multiple sources, identify why customers are sending products back, and recommend what a business should fix first.\n\n⏱️ TIMESTAMPS\n0:00 The hidden cost of e-commerce returns\n1:08 The rise of the one-person company\n3:22 Building an intelligent operations advisor\n6:11 Vibe coding the agent's logic\n10:16 Shipping a production-ready agent\n\n🚀 What You'll Learn\n✅ Converge AI\n✅ Enter Pro Agent\n✅ Converge AI Agent Builder\n✅ AI Agent Builder\n✅ No-Code AI Agents\n✅ Natural Language Agent Building\n✅ Vibe Coding\n✅ AI Product Return Analyzer\n✅ Ecommerce AI Agent\n✅ AI Operations Assistant\n✅ Agent Deployment\n✅ SDK Integration\n✅ IM Bot Deployment\n✅ Version History\n✅ AI Agent Rollback\n\nSubscribe for more AI agent tools, no-code AI workflows, ecommerce AI tools, AI product builds, and practical AI reviews.\n\n📩 For business inquiries & collaborations: contact@zoetryai.com\n\n⚠️ Affiliate Disclaimer: Some of the links in this description may be affiliate links. This means I may earn a small commission at no extra cost to you if you choose to sign up or purchase through them. This helps support the channel and allows me to keep creating content like this.\n\n#ConvergeAI #AIAgent #AgentBuilder #NoCodeAI #VibeCoding #AIAgents",
-      "commentCount": 4,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "XtwTjwUZSTs": {
       "checkedAt": "2026-08-15T05:53:12Z",
       "embedAllowed": true,
@@ -8215,10 +8206,10 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-15T20:53:10Z",
+      "checkedAt": "2026-08-15T21:53:09Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "CTkKoz-TieY": {
       "checkedAt": "2026-08-15T07:53:14Z",
@@ -8454,7 +8445,7 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-15T20:53:10Z",
+      "checkedAt": "2026-08-15T21:53:09Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8502,15 +8493,6 @@
       "description": "AI is quickly becoming part of how we work, learn, search, create, and communicate. You don’t need to become an AI expert or learn how to code—but completely ignoring artificial intelligence could eventually mean working harder, learning slower, missing opportunities, and becoming more vulnerable to AI-generated misinformation.\n\nIn this video, I explain why AI literacy is becoming an essential skill, how people using AI may gain an advantage at work, why your existing skills still matter, and one of the biggest risks many people overlook: being unable to recognize AI-generated scams, fake images, cloned voices, misinformation, and confidently incorrect AI answers.\n\n💬 Would you be interested? Comment below with the one AI topic you want me to explain from the absolute basics.\n\n#AI #ArtificialIntelligence #ChatGPT #LearnAI #AITools\n\nCHAPTERS\n00:00 What happens if you don’t learn AI?\n01:13 You may work harder for the same result\n02:25 Creating a presentation\n03:13 Your competition may be using AI\n04:30 Will AI make your skills useless?\n05:51 You may become dependent on others\n07:10  AI can mislead you too\n08:44 The 5 AI skills you actually need\n\nSubscribe if you liked the video: https://www.youtube.com/@anjanagowtham?Sub_Confirmation=1\n\n❤ Anjana",
       "commentCount": 5,
       "likeCount": 45,
-      "probeClient": "web_embedded"
-    },
-    "JhAwRs7Vwqs": {
-      "checkedAt": "2026-08-15T16:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Consulting used to be one of the biggest industries in the world. Now, AI has almost completely destroyed it. Now that ChatGPT can answer questions and build slideshows, how can McKinsey, Bain, and BCG survive? \n\nTimecodes:\n0:00 - Intro\n0:51 - The Consulting Pyramid\n4:35 - The Analyst Cull\n8:47 - The Collapse Begins\n11:45 - The Dead Firm\n\n#consulting #ai #artificialintelligence #technews #businessnews #startups #corporate #mckinsey #bain #bcg #pwc",
-      "commentCount": 21,
-      "likeCount": 149,
       "probeClient": "web_embedded"
     },
     "XSTXOCS34OU": {
@@ -8579,15 +8561,6 @@
       "description": "",
       "commentCount": 23,
       "likeCount": 16,
-      "probeClient": "web_embedded"
-    },
-    "7p8u2jTrnTo": {
-      "checkedAt": "2026-08-15T17:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Try Ribbi AI here: https://ribbi.ai/Liquiai?utm_source=gnurgzja\n\nCreating AI content is not the hard part anymore. The real challenge is everything that happens after: finding ideas in one tool, generating images somewhere else, creating videos in another platform, scheduling posts, and then trying to understand what actually worked.\n\nIn this video, I test Ribbi AI, a creative workflow platform designed to help automate the content process from idea to publishing. Instead of acting like a basic AI image generator or video creator, Ribbi uses AI skills, guided creative workflows, campaign generation, scheduled posting, performance analysis, and a creative loop that helps improve future content based on what performs best.\n\n⏱️ TIMESTAMPS\n00:00 The Real Problem With AI Content\n01:03 Ribbi AI First Look\n01:17 Ribbi Skills Explained\n01:37 Why Skills Are Not Just Templates\n01:52 Creating Custom Marketing Content\n02:23 Building a New Campaign From Scratch\n02:33 AI UGC Ad Skill Test\n02:43 Adding Product Details and Audience\n02:59 Structured Creative Direction\n03:13 Generating Campaign Visuals\n03:28 Keeping the Workflow Consistent\n03:50 Ribbi Creative Loop Explained\n04:01 Daily Creative Review Task\n04:16 Scheduled Posting Workflow\n04:29 How the Creative Loop Works\n04:40 Who Ribbi AI Is Best For\n05:05 When Ribbi Makes the Most Sense\n05:18 Final Ribbi AI Review\n05:36 Reviewing and Refining Outputs\n06:01 Best Use Cases for Ribbi AI\n06:17 Final Thoughts\n\n🚀 What You'll Learn\n✅ Ribbi AI\n✅ AI Creative Workflow\n✅ AI Content Automation\n✅ AI UGC Ads\n✅ AI Product Images\n✅ AI Storytelling Videos\n✅ AI Carousel Posts\n✅ AI Commercial Videos\n✅ Creative Hooks\n✅ AI Skills\n✅ Creative Loop\n✅ Scheduled Posting\n✅ Performance Analysis\n✅ Marketing Content Workflow\n✅ Social Media Content Automation\n\nIf you create content regularly for social media, ecommerce, advertising, or marketing campaigns, Ribbi AI is definitely worth exploring.\n\nSubscribe for more AI marketing tools, creative workflow platforms, AI content automation, ecommerce tools, and practical AI reviews.\n\n\n📩 Reach out to us at contact@liquiai.com \n\n🌐 Subscribe to discover new tools weekly!\n#LiquiAI #AITools #ArtificialIntelligence #AIApps #GenerativeAI #AIReview \n#RibbiAI #AIContentCreation #AIWorkflow #AIUGCAds #AIMarketing",
-      "commentCount": 8,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "3XAOfCS9HaU": {
@@ -8732,6 +8705,33 @@
       "description": "Next Batch of the cohort will start soon....\n\nRepeatless Agency : https://www.repeatless.in/\nDm us on : https://www.instagram.com/repeatless_agency/\n\nFor Automation Requirements,\nBook a meet with us : https://cal.com/chandan-kumar-zhrofj/30min\n\nLinkedIn : https://www.linkedin.com/in/chandancheripally/\nTwitter :  https://x.com/chandan_netha\nInstagram : https://www.instagram.com/chandan_cheripally_/\n\nThings I use 😀 :\nAmazon\nmic : https://amzn.to/3TujDij\ntripod : https://amzn.to/3GD4Kr9\n\nBest books to read :\nA subtle art of....:https://amzn.to/3gsl8QJ\nAtomic habits : https://amzn.to/3i5KR1I\nRework : https://amzn.to/3OrE9iI\n\n#ai #automation #repeatless #technology #trending #tech #agency",
       "commentCount": 9,
       "likeCount": 62,
+      "probeClient": "web_embedded"
+    },
+    "mqw15-kIAEM": {
+      "checkedAt": "2026-08-15T21:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Build your business. Automate your growth.\n\nVelvorax Software Solutions helps businesses build smarter digital systems with technology, CRM and automation.\n\nOur solutions include:\n\n• Velvorax CRM\n• Lead Management\n• Deals & Sales Pipeline\n• Telecalling & Call Tracking\n• Employee Tracking\n• WhatsApp & Email Automation\n• Customer Support & Tickets\n• Invoice Management\n• AI & Analytics\n• Software Development\n• Mobile App Development\n• UI/UX Design\n• E-Commerce Solutions\n• Digital Marketing\n• Cloud & Cybersecurity\n• IT Consulting\n\nVelvorax CRM brings leads, sales, follow-ups, customer management, automation and business insights into one connected system.\n\nOne CRM. One View. Complete Control.\n\nLet Velvorax build your digital growth system.\n\n📞 Phone: 9985201116\n📧 Email: ovelvoro@gmail.com\n🌐 Website: velvorax.tech\n\nVELVORAX SOFTWARE SOLUTIONS\n\nBuild Your Business. Automate Your Growth.\n#Velvorax #VelvoraxCRM #CRM #BusinessAutomation #SoftwareSolutions",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "8NVLUhXe9Ew": {
+      "checkedAt": "2026-08-15T21:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥Microsoft Applied Agentic AI: Systems Design & Impact - https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=8NVLUhXe9Ew&utm_medium=DescriptionFF&utm_source=Youtube\n🔥AI Accelerator Program - From Prompts to Agentic Workflows - https://www.simplilearn.com/ai-accelerator-program?utm_campaign=8NVLUhXe9Ew&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Microsoft Applied Generative AI and Agentic AI Specialization - https://www.simplilearn.com/microsoft-applied-ai-course?utm_campaign=8NVLUhXe9Ew&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Virginia Tech Applied Agentic AI: Systems Design & Impact - https://www.simplilearn.com/vt-applied-agentic-ai-course?utm_campaign=8NVLUhXe9Ew&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Michigan Engineering Generative AI Applications for Leaders - https://www.simplilearn.com/generative-ai-for-business-transformation?utm_campaign=8NVLUhXe9Ew&utm_medium=DescriptionFF&utm_source=Youtube\nIn this video by Simplilearn, learn how to use Generative AI for content creation with a complete step-by-step guide. Discover how Generative AI can help you brainstorm fresh ideas, create engaging content, write compelling copy, generate visuals, refine your drafts, and optimize content for different platforms. Whether you're creating blogs, social media posts, marketing content, videos, or other digital content, Generative AI can help make the entire content creation process faster and more efficient.\n\nWhether you're a content creator, marketer, student, blogger, social media professional, or working professional, this guide will show you how to use Generative AI effectively while maintaining creativity, originality, and quality. Learn how Generative AI can support your creative workflow, improve productivity, and help you create high-quality content in less time. By understanding the right prompts, tools, and techniques, you can use Generative AI to take your content creation skills to the next level.\n\n#Timestamps\n\n\nRelated Videos:\n✅ 1. \n✅ 2.\n✅ 3.\n✅ 4.\n✅ 5. \nSubscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More AI Videos By Simplilearn: https://youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq   \n\n#AIContentCreation2026 #BestAIToolsForCreators #AIContentCreationToolsList #ChatGPTClaudeGeminiForCreators #PerplexityForAIResearch #CanvaAIThumbnailsAndGraphics #CapCutAndDescriptVideoEditing #OpusClipShortsRepurposing #ElevenLabsAIVoiceover #YouTubeCreatorsAIWorkflow #SocialMediaContentAutomation #AgenticAIToolsForCreators #ContentCreationTrends2026 #SimplilearnAIContentCreationCourse\n\n➡️ About Applied Agentic AI: Systems, Design & Impact\n\nThis Agentic AI program offers an end-to-end learning path across AI foundations, generative AI, LLM internals, and multi-agent systems. Learners build practical expertise in agent design, planning frameworks, and go-to-market strategy to drive AI product innovation.\n\nKey Features\n\n✅ Master agentic AI systems, planning frameworks, multi-agent ecosystems, and product strategy in a 10-week, practitioner-level program\n✅ Stay ahead of emerging AI trends through Simplilearn's AI Impact Studio and build the skills to identify AI opportunities, automate workflows, and build intelligent AI solutions\n✅ Develop expertise in agentic frameworks, multi-agent systems, RAG, MCP, planning systems, workflow automation, and more\n✅ Work tools and frameworks like LangChain, AutoGen, CrewAI, n8n, Lovable, Miro, Figma, LangSmith, Jupyter\n✅ Brush up on Python essentials and AI-ready workflows before diving into the core Agentic AI courses\n✅ Join live, online interactive classes with peer-to-peer engagement on Slack, mentoring sessions, and dedicated cohort support\n✅ Earn a joint program completion certificate from Microsoft and Simplilearn\n✅ Secure Microsoft Learn badges on the Microsoft Learn portal for the Microsoft-branded courses\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n\nSkills Covered\n✅Workflow Automation\n✅ Agentic Frameworks\n✅ MultiAgent Systems\n✅ Intelligent Automation\n✅ GTM for Agentic AI\n✅ Ethics and Transparency\n✅ LLM Function Calling\n✅ Planning Systems\n✅ Prompt Engineering\n✅UX and UI with Agentic AI\n✅ Copilots\n✅MCP\n✅ RAG\n\n👉 Enroll Now:https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=ReplaceWithVideoID&utm_medium=DescriptionFF&utm_source=Youtube",
+      "commentCount": 0,
+      "likeCount": 11,
+      "probeClient": "web_embedded"
+    },
+    "fmC27NZvP10": {
+      "checkedAt": "2026-08-15T21:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, I'm breaking down how I turned my existing HR hiring platform, HireFlow, into an AI-powered product — continuing directly from the full HR hiring system build I shared in my previous video. Instead of building AI from scratch, I show you how to plug OpenAI's models into any existing app using an API, and how I'm doing it at 90% lower cost through Noirly AI.\n\nYou'll be walked through what an API actually is, how to register and generate an API key on Noirly AI, how to push your project to GitHub the right way, and how to use Cursor to plan and build an AI-powered \"Create with AI\" feature for generating job vacancies automatically. This breakdown will show you exactly how to move from a manual, static product to an AI-assisted one — shifting your mindset from \"building everything by hand\" to \"letting AI do the heavy lifting while you guide it.\"\n\n🔗 Resources & Useful Links\n- Noirly AI (90% cheaper OpenAI access + $500 giveaway credits): https://noirly.ai/register?ref=NLY-90905961B6A3\n- HireFlow Project – GitHub Repo: https://github.com/vivekmishraishere/yt--hr-hiring-system\n- Watch Part 1 – Full HR Hiring System Build: https://youtu.be/KAHwtr3uj60?si=oUAfJEtMD4Bwi1M8\n\n📘 Timestamps\n00:00:00 – Recap: What This Video Covers\n00:02:24 – Meet HireFlow: The Platform We're Upgrading\n00:03:24 – $500 Noirly AI Credit Giveaway (Rules)\n00:04:50 – What Is an API? (Simple Explanation)\n00:06:49 – Why Noirly AI Instead of OpenAI Directly\n00:08:09 – How to Claim Your Giveaway Coupon Code\n00:09:05 – Registering on Noirly AI + Adding Funds\n00:09:35 – Creating Your Noirly AI API Key\n00:10:00 – What Is GitHub? (Beginner Explanation)\n00:11:17 – Pushing the HireFlow Project to GitHub\n00:14:26 – Connecting the Noirly AI API Key in Cursor\n00:15:31 – Planning the AI-Powered Vacancy Feature\n00:16:43 – Reviewing the AI Implementation Plan\n00:19:01 – Building the AI-Powered Vacancy Feature\n00:19:50 – Choosing the Cheapest Model + Pricing Breakdown\n00:23:11 – Testing Create With AI (First Attempt + Errors)\n00:24:51 – Fixing the 503 Error (ENV Misconfiguration)\n00:26:14 – Fixing Timeout Issues + UX Polish\n00:29:05 – Setting Up Cursor Browser Automation\n00:31:43 – Successful AI-Generated Vacancy Draft\n00:32:33 – Adding Inline AI Edit (Pencil Icon) Feature\n00:35:26 – Second Test: Performance Marketing Manager Role\n00:38:56 – Understanding Tokens and Real Cost Savings\n00:41:20 – What's Coming in Part 3 (Deployment)\n00:42:05 – Outro/Conclusion\n\n📌 What this video covers\nHere's what you'll learn in this video:\n- How to make any existing app AI-powered using OpenAI's API\n- How to get up to 90% cheaper access to GPT-5.6 (Sol, Terra, Luna) through Noirly AI\n- How to properly push a project to GitHub without leaking your .env secrets\n- How to plan and build an AI-powered \"Create with AI\" vacancy generator inside HireFlow\n- How to debug real AI integration errors (503s, timeouts, env misconfiguration) live\n- How tokens work and how to calculate your real AI usage costs\n\n🚀 Tools & Stack Mentioned\nBuild: HireFlow, Cursor, GitHub\nAI: OpenAI GPT-5.6 (Sol, Terra, Luna), Noirly AI\nAutomation: n8n\nAnalytics & Ads (demo data): GA4, Google Tag Manager, Google Search Console, Microsoft Clarity, Meta Pixel, Conversion API\n\n🎯 This is perfect for:\n- Founders who want to add AI features to an existing SaaS without rebuilding from scratch\n- Developers looking for a cheaper alternative to OpenAI's direct API pricing\n- Indie hackers building HR tech, hiring tools, or similar B2B SaaS products\n- Anyone confused about what an API actually is and how to integrate one\n- Viewers who watched Part 1 and want to continue building HireFlow with AI\n\nMaking a product \"AI-powered\" isn't about switching everything overnight — it's about picking the right features, the right API, and the right cost structure so it stays sustainable long-term. This video is your starting point for exactly that, and there's a lot more coming in Part 3 as we go deeper into deployment and scaling this system with AI.\n\n👋 WHO AM I?\n\nI'm Vivek Mishra — a performance marketing expert and trainer. I work with\nservice-based and e-commerce brands and teach practical skills around marketing,\nAI tools, and digital systems. Everything I teach comes from doing it myself.\n\n📩 Questions? Drop them in the comments — I personally reply.\n\n📸 Instagram: https://www.instagram.com/vivekmishra.ai/\n\n#AIPoweredApps #OpenAI #SaaSDevelopment #Cursor #IndieHackers",
+      "commentCount": 41,
+      "likeCount": 33,
       "probeClient": "web_embedded"
     }
   }
