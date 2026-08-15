@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T04:53:11Z",
+  "updatedAt": "2026-08-15T05:53:12Z",
   "items": [
+    {
+      "id": "XtwTjwUZSTs",
+      "type": "long",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-15T05:06:12Z",
+      "firstSeenAt": "2026-08-15T05:53:12Z"
+    },
+    {
+      "id": "R4hJ6SI4I_Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hard Fork and 2 more",
+      "publishedAt": "2026-08-14T18:53:12Z",
+      "firstSeenAt": "2026-08-15T05:53:12Z"
+    },
+    {
+      "id": "MltAATjd_BQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "App & Tech Hub",
+      "publishedAt": "2026-08-14T15:53:12Z",
+      "firstSeenAt": "2026-08-15T05:53:12Z"
+    },
+    {
+      "id": "4K0NZHCAK8w",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Galaxy Unsealed",
+      "publishedAt": "2026-08-14T15:53:12Z",
+      "firstSeenAt": "2026-08-15T05:53:12Z"
+    },
+    {
+      "id": "D8GCXwxbCaw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Murrad on Run",
+      "publishedAt": "2026-08-14T11:53:12Z",
+      "firstSeenAt": "2026-08-15T05:53:12Z"
+    },
     {
       "id": "eecUhBpTz_g",
       "type": "long",
@@ -13445,15 +13485,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T04:53:30Z",
-      "new": 5,
-      "long": 4,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
       "runAt": "2026-08-01T05:53:30Z",
       "new": 4,
       "long": 2,
@@ -14865,6 +14896,15 @@
       "channelsChecked": 33,
       "warnings": 19,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-15T05:53:12Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 23,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
