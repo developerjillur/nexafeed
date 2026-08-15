@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T05:53:12Z",
+  "updatedAt": "2026-08-15T06:53:13Z",
   "items": [
+    {
+      "id": "NwHMETQUY44",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Practical Machinist",
+      "publishedAt": "2026-08-14T17:53:13Z",
+      "firstSeenAt": "2026-08-15T06:53:13Z"
+    },
+    {
+      "id": "xQ7T4eluMpc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rays Works",
+      "publishedAt": "2026-08-14T15:53:13Z",
+      "firstSeenAt": "2026-08-15T06:53:13Z"
+    },
+    {
+      "id": "O33W_eCrZQI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Eater's Digest",
+      "publishedAt": "2026-08-14T14:53:13Z",
+      "firstSeenAt": "2026-08-15T06:53:13Z"
+    },
+    {
+      "id": "L-5COYtmu-I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Upsurge Club",
+      "publishedAt": "2026-08-14T14:53:13Z",
+      "firstSeenAt": "2026-08-15T06:53:13Z"
+    },
+    {
+      "id": "BWTfOfFX4Us",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Paritosh Sharma - Shunya AI",
+      "publishedAt": "2026-08-14T14:53:13Z",
+      "firstSeenAt": "2026-08-15T06:53:13Z"
+    },
     {
       "id": "XtwTjwUZSTs",
       "type": "long",
@@ -13485,24 +13525,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T05:53:30Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 15,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
-      "runAt": "2026-08-01T06:53:07Z",
-      "new": 3,
-      "long": 2,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 33,
-      "secondaryQuery": "AI automation"
-    },
-    {
       "runAt": "2026-08-01T07:53:12Z",
       "new": 4,
       "long": 1,
@@ -14905,6 +14927,15 @@
       "channelsChecked": 33,
       "warnings": 23,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-15T06:53:13Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 29,
+      "secondaryQuery": "Automation"
     }
   ]
 }
