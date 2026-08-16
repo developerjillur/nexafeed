@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T16:53:40Z",
+  "updatedAt": "2026-08-16T17:53:40Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -6328,7 +6328,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-16T16:53:40Z",
+      "checkedAt": "2026-08-16T17:53:40Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7047,59 +7047,6 @@
       "likeCount": 17,
       "probeClient": "web_embedded"
     },
-    "14t701zn6NQ": {
-      "checkedAt": "2026-08-16T16:11:42Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "earn how to manage your time for best results",
-      "commentCount": 4,
-      "likeCount": 18,
-      "comments": [
-        {
-          "id": "UgxRNbsWyR09RnpSy1V4AaABAg",
-          "author": "@buildyourtowne9i",
-          "text": "Time 🎉",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/1Mr0UzcuNQmUK-huak_wQ60uOkjd_Sv-fYhXTk0eklcbLD9rK9hNHeTjqDrX3fMj4k8qp0-xSg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwCCtWfmI3MJC7jwv94AaABAg",
-          "author": "@somemotivation8029",
-          "text": "Time",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/k5P1-BhuIFNmArCBbdATUnRaJdX9LFMHQ4ZuY0uG6TKBBaRkjKbYTOTwZkX5ffkWP-T8s-cbSA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugz9_iAllI3BIi3LNi14AaABAg",
-          "author": "@Livinghopemusic08",
-          "text": "❤️",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/V_gs48Qb0AfhQRC5xWmrhb7vr6Vxb9iQTUYse0zVr3sjTEo7u6EpXKGydfOwUBL__NvvfET_mg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw7hKDa51xe2LDEb7V4AaABAg",
-          "author": "@eztech8179",
-          "text": "time",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kQh6rzoq83YiPoQZQSDPnImDjZShK1aYYJb5-GwI6cLQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-16T16:11:42Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "nOkA7HJM-r0": {
       "checkedAt": "2026-08-16T16:11:42Z",
       "embedAllowed": true,
@@ -7372,10 +7319,10 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-16T16:53:40Z",
+      "checkedAt": "2026-08-16T17:53:40Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "ePBbqZBYp-s": {
       "checkedAt": "2026-08-15T18:53:07Z",
@@ -7918,17 +7865,8 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "eGpivJYqe_8": {
-      "checkedAt": "2026-08-15T15:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🤖 Beyond Vibe Coding: 4 Surprising Truths About Agentic Engineering\n\nWe’re moving from writing code to shaping intelligence. In this video, I break down how the developer role is shifting across the Spectrum of Agency from manual coding and AI-assisted autocomplete to “vibe coding” and, finally, Agentic Engineering, where engineers design environments, guardrails, and evaluation loops instead of just typing behavior.\n\n- From writing behavior to shaping it : why deterministic logic is giving way to probabilistic judgment and goal-driven systems.  \n- The “vibe coding” trap at scale : why natural-language prototyping collapses into technical debt when treated as production engineering.  \n- The expertise paradox : why more autonomy = more need for human orchestration, supervision, and verification.  \n- Engineering for probability, not certainty : new failure modes where systems look correct but make flawed decisions under the hood.\n\nThis isn’t about replacing developers; it’s about upgrading the job description from “coder” to “architect of intent.”\n\nWhere are you on the spectrum today manual coding, AI-assisted, vibe coding, or already orchestrating agents? What’s one workflow you’d trust an agent with, and one you’d never hand over?\n\n👍 Like, subscribe, and hit the bell for more on agentic systems, AI-native engineering, and the future of software development.\n\n#AgenticEngineering #VibeCoding #AIAgents #SoftwareEngineering #LLMEngineering #FutureOfDev #AIDevelopment #DevTools #MLOps #AIInfrastructure #ProbabilisticSystems #DeveloperCareer #TechStrategy",
-      "commentCount": 0,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-16T16:53:40Z",
+      "checkedAt": "2026-08-16T17:53:40Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7943,25 +7881,35 @@
       "probeClient": "web_embedded"
     },
     "XSTXOCS34OU": {
-      "checkedAt": "2026-08-15T17:53:13Z",
+      "checkedAt": "2026-08-16T17:53:40Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 1,
-      "likeCount": 25,
+      "commentCount": 2,
+      "likeCount": 396,
       "comments": [
+        {
+          "id": "UgxsyDmo6O8TrOENeot4AaABAg",
+          "author": "@DZJOSEPH",
+          "text": "Cut",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/HLCavaHPHhRetiYh8mBxauwhu1EGHvGmiLpyVJX0UTzx94WD-udOWI1kqXmQtmQXrtEJ9_Qraw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugwr8vUDO8osveDAIlR4AaABAg",
           "author": "@Ai.Vishnuvijayan",
           "text": "https://chatcut.io/",
           "likeCount": 0,
-          "publishedAt": "2026-08-15T17:09:00Z",
+          "publishedAt": "2026-08-16T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/yhAqPsQdQNzWqs3n323bzwcDBcfNQt2XFJe9SntriwBCCx8kViE13reCfUPwZ_8coQAAPdj4wKg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": true
         }
       ],
-      "commentsFetchedAt": "2026-08-15T17:53:13Z",
+      "commentsFetchedAt": "2026-08-16T17:53:40Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7972,15 +7920,6 @@
       "description": "🟡 REMEMBER TO SUBSCRIBE AND TURN ON NOTIFICATIONS 🟡\n🔴 Here's Another Upload You Might Enjoy 🔴\nhttps://youtu.be/Pzeok483Oe8\n\n------------------------------------------------\n\n🟢 BECOME A MEMBER 🟢\nhttps://www.youtube.com/channel/UCewd2zEfhrH7OwBSWUJBDOw/join\n\n------------------------------------------------\n\n🟣 TWITCH 🟣\nhttps://www.twitch.tv/thelavadragongaming\n\n------------------------------------------------\n\n🎵 SPOTIFY (Lava Dragon): https://open.spotify.com/artist/1ZXIMuaXfb6mwmp4ObU24B?si=MEvviv_eRwG-cOU3SfY0Ww\n\n------------------------------------------------\n\n🎥 GROGTV (George): https://www.youtube.com/@GrogTV\n🎥 TASSELLSTUDIOS (Will): https://www.youtube.com/@TassellStudios\n🎥 EGGRALD (Egg): https://www.youtube.com/@Eggrald\n\n------------------------------------------------\n\n🔴 MY DISCORD SERVER: https://discord.gg/VpJjhnuaUu\n\n🔴 MY TIKTOK: https://www.tiktok.com/@thelavadragon\n\n🔴 INSTAGRAM: https://www.instagram.com/camlavadragon/\n\n🔴 MY TWITTER: https://twitter.com/TheLavaDragon15\n\n------------------------------------------------\n\n🎵 MUSIC 🎵\n\nHidden Agenda (Kevin MacLeod) - https://www.youtube.com/watch?v=nGnnTDJHyoo\nInvestigations (Kevin MacLeod) - https://www.youtube.com/watch?v=i-4IhItBtTg\nBone-Dry Dunes (Mario Kart 8 Deluxe) - https://www.youtube.com/watch?v=2xEiDABY61s\nCloudtop Cruise (Mario Kart 8 Deluxe) - https://www.youtube.com/watch?v=2jUxA5J8_Mg\nCoconut Mall (Mario Kart Wii) - https://www.youtube.com/watch?v=cscuCIzItZQ\nDS Delfino Square (Mario Kart Wii) - https://www.youtube.com/watch?v=xz4jdAPzlKY\nCovert Affair (Kevin MacLeod) - https://www.youtube.com/watch?v=PZVUy9uZCWI\nGCN DK Mountain (Mario Kart Wii) - https://www.youtube.com/watch?v=O4b4AteSR2g\nMain Theme (Mario Kart Double Dash) - https://www.youtube.com/watch?v=AC9aGiH8mlA\nDry Dry Ruins (Mario Kart Wii) - https://www.youtube.com/watch?v=iXHWHvXa4d8\nFluffing a Duck (Kevin MacLeod) - https://www.youtube.com/watch?v=CJeGZaKESQs\nGood Starts (Jingle Punks) - https://www.youtube.com/watch?v=tBlJ-Y0X3OM\nMushroom Bridge & Mushroom City (Mario Kart Double Dash) - https://www.youtube.com/watch?v=l4Zu4ev589A\nIce Ice Outpost (Frontrunning) (Mario Kart 8) - https://www.youtube.com/watch?v=1UTpfGJ5Ssw\nKoopa Cape (Mario Kart Wii) - https://www.youtube.com/watch?v=G89au61guSE\nMaple Treeway (Mario Kart Wii) - https://www.youtube.com/watch?v=i08-uym7o5c\nLuigi Circuit & Mario Circuit (Mario Kart Wii) - https://www.youtube.com/watch?v=THFFP1EM3EU\nGBA Shy Guy Beach (Mario Kart Wii) - https://www.youtube.com/watch?v=tQfiHTUFXnM\nMoonview Highway (Mario Kart Wii) - https://www.youtube.com/watch?v=Y-BkPTytRWY\nRainbow Road (Mario Kart 8) - https://www.youtube.com/watch?v=lfdUncpRgyE\nGCN Sherbet Land (Frontrunning) (Mario Kart 8) - https://www.youtube.com/watch?v=95gPi5EeE88\nStaff Credits 2 (Mario Kart Wii) - https://www.youtube.com/watch?v=hYnWIKkJF7o\nDS Yoshi Falls (Mario Kart Wii) - https://www.youtube.com/watch?v=DB9DU2Gpen0\nOUTRO SONG - Lava Dragon - BREATHE - https://youtu.be/c5yvJJyFPNw\n\n------------------------------------------------\n\n🎥 TIMESTAMPS 🎥\n\n00:00:00 - Intro\n00:00:35 - Before Stream\n00:01:25 - Showcasing My Vehicles\n00:08:08 - \"Fixing\" Vehicle 1\n00:15:03 - Improving Vehicle 2\n00:21:09 - Creating Vehicle 3\n00:27:40 - Testing The Vehicles\n00:40:23 - Outro\n\n------------------------------------------------\n\n#automation #beamngdrive #cars",
       "commentCount": 11,
       "likeCount": 67,
-      "probeClient": "web_embedded"
-    },
-    "hvoB5u0Xg50": {
-      "checkedAt": "2026-08-15T17:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Click the link https://get.online/patryk1 and use the code PATRYK to get your .online domain and lock in your domain for just $0.99!\n\nTry Krafie (Use code: \"pat30\")  → https://www.krafie.com/\n\nTry Etsy and get 40 FREE Listings\n→ https://etsy.me/48Y0ZI9\n\nFollow me:\nTikTok - https://www.tiktok.com/@patrykmarketer\nInstagram - https://www.instagram.com/patrykmarketer/\nFacebook -https://www.facebook.com/patrykmarketer\nX - https://x.com/patrykmarketer",
-      "commentCount": 1,
-      "likeCount": 11,
       "probeClient": "web_embedded"
     },
     "njHuj8OxIVI": {
@@ -8017,24 +7956,6 @@
       "description": "🔥The FREE AI Masterclass On Demand Training - \nhttps://nickponte.ai/ai-cashflow-masterclass-eg \n\n🎯 Claim your FREE 30 Day Trial of High Level + Our Bonus Profit Center Snapshot & $6,789 in bonuses + a Live Kick Off Call!\nhttp://nickponte.ai/highlevel\n\n💎 ALREADY A HIGHLEVEL USER? You can still claim all my bonuses when you upgrade through my link-  UNLIMITED PLAN 👇 \nhttps://www.gohighlevel.com/297upgrade?affiliate_upgrade_credit_to_$297=offline-sharks59\n\n💎The PRO PLAN 👇 \nhttps://www.gohighlevel.com/existing-customer-trial?affiliate_upgrade_credit=offline-sharks59\n\n💰Want to make money and save time with AI? Join My Community for more AI Training, Support & Coaching  - \nhttps://nickponte.ai/controlroom \n\n🎥 Want to know how I make videos like these? Check out the full breakdown here https://nickponte.ai/aicontentengine\n\n🔥Want my company to do your marketing? https://mynamarketing.com/\n\nAI is creating a massive implementation gap for small businesses.\n\nBusiness owners are hearing about ChatGPT, AI agents, automation and AI workflows everywhere — but most don't want to become AI experts. They want technology that solves actual business problems.\n\nIn this video, I break down the simple AI-enabled service business model I use to generate $100K+/month in revenue with fewer than 50 clients.\n\nYou'll learn why I focus on implementing existing technology instead of trying to invent new AI products, how AI workflows can improve traditional business services, and why implementation may be one of the biggest service opportunities created by AI adoption.\n\nWe cover:\n\n• The simple business model behind my agency\n• Why businesses buy outcomes instead of AI\n• The AI implementation gap\n• AI-powered websites and follow-up systems\n• Automation and AI workflows\n• Why recurring services can create predictable revenue\n• How freelancers and agencies can position themselves around AI implementation\n\nResults vary based on your offer, market, sales ability, pricing, costs and execution. Revenue examples shown are examples from my businesses and are not guarantees of future results.\n\nSubscribe for more videos on AI, agencies, client acquisition, business systems and practical AI service opportunities.",
       "commentCount": 4,
       "likeCount": 38,
-      "probeClient": "web_embedded"
-    },
-    "8btKS54S5PM": {
-      "checkedAt": "2026-08-15T20:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Want to scrape Google Maps leads for free?\n\nIn this video, I'll show you two different ways to scrape local business leads from Google Maps so you can build targeted lists for cold email, cold calling, web design, SEO, lead generation, and more.\n\nApify Google Maps Leads Scraper: https://apify.com/code-node-tools/google-maps-lead-scraper?fpr=stackunlocked\n\nInstant Data Scraper: https://shorturl.at/QbTxW\n\n🚀 Method 1: Free Google Maps Lead Scraping\n\nI'll show you how to use a free Chrome extension to extract business information directly from Google Maps, including:\n\nBusiness names\nPhone numbers\nWebsites\nAddresses\nRatings\nOther available business data\n\nYou'll also see how to export the results into a CSV and organize your leads in Google Sheets.\n\n⚡ Method 2: Automated Google Maps Scraper\n\nThen I'll show you a faster way to scrape hundreds or thousands of Google Maps leads automatically using my Google Maps Lead Scraper on Apify.\n\nYou can enter searches such as:\n\ndentists in Miami, Florida\nroofing companies in Dallas, Texas\nHVAC companies in Austin, Texas\n\nand collect the results into a structured dataset ready for your lead generation workflow.\n\nYou can then connect the data to n8n, Make, Python, CRMs, Google Sheets, or other automation tools.\n\n👉 Try the Google Maps Lead Scraper\n\nWhat you'll learn\n\nHow to scrape Google Maps leads\nFinding targeted businesses on Google Maps\nFree Google Maps scraping method\nExporting leads to CSV\nWhy the free method doesn't scale\nAutomated Google Maps scraping with Apify\nLive scraping demo\nReviewing the scraped leads\nUsing Google Maps leads for outreach\nScaling lead generation across cities\nFree vs automated scraping\nWhere to get the scraper\n\nIf you're building an agency or doing cold outreach, Google Maps can be a great source of targeted local business leads.\n\nSubscribe for more lead generation, scraping, AI automation, n8n, and Apify tutorials.\n\n#GoogleMaps #leadgeneration #GoogleMapsScraper #LeadGen #WebScraping #Apify #ColdEmail #agency #n8n #automation",
-      "commentCount": 2,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "q4waPM0G2tg": {
-      "checkedAt": "2026-08-15T20:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥 Join Maker School & get client #1: https://www.skool.com/makerschool\n💎 Check out Clairvo: https://clairvo.io\n👋 If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth consultancy. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build systems that generate leads, close deals, and scale businesses, mostly using new AI models like Claude. I also make videos about how to do all of that here on YouTube.\n\nIt hasn't always been this way. My family immigrated from a Soviet bloc country (People's Republic of Bulgaria) in the 90s. They worked extremely hard, and we were broke for a very long time. I grew up wishing for more security, stability, and freedom over my own life.\n\nI don't have a programming degree, and never took formal education for IT or workflows. I learned it all myself from YouTube videos like you're watching now.\n\nAs for my path: I started my first business at 19 in college. We threw events (mostly parties) at campus bars, and charged people for entry. \n\nThat failed to provide me enough money to pay my bills, so at 21, I started another business, a door-to-door marketing agency.\n\nFrom there, every year, I would start several companies, over 10 in total. I did this in a variety of industries, like e-commerce, photography, videography, SaaS, credit repair, etc. Each grew slightly more profitable, until, at 25, I would start 1SecondCopy, a content writing company. A friend and I eventually scaled that to over $90,000/m. It was my first taste of financial independence, and the reason I'm here today.\n\nSince starting my journey, I've grown a fair bit of capital. To diversify my income, at 30, I began investing in other businesses and advising companies on how to grow in the AI era. These include SaaS businesses, like Clairvo, agencies like Dental Connect, and more. \n\nCollectively, the businesses that I own outright or are a part of generate over $10 million per year. This returns far more than the 5-10% you would get in the stock market, but also requires a lot of my active time. There's a tradeoff there, but I greatly prefer active investing, where I have control over the entities I'm a part of.\n\nIt wasn't easy to get here. But I did in the end! For anyone on their own entrepreneurial journey: I wish you luck, happiness, and perseverance. You can make it!\n\nWhat are Daily Updates? ⤵️\nA standalone channel where I do 3 things:\n1. Solve real problems in my business (while narrating them),\n2. Answer a question from my subs/communities,\n3. Brainstorm out loud as to what I'm going to do next\n\nGiven the authenticity I think it'll be a good way to pattern match what I'm doing, see how I approach problem solving, etc. My goal is to serve the entrepreneurial subset of my community, and provide people for whom automation is not the main focus a way to get value.\n\nOther places you can find me ⤵️\n📸 Instagram: https://instagram.com/nick_saraev  \n🤙 Blog: https://nicksaraev.com\n\nThanks for watching!\n\nChapters:\n0:00 intro\n1:02 should you build a food delivery app?\n3:08 is there still demand for voice agents?\n4:18 breaking down my $500k month\n6:25 my dad's 1-hour computer rule\n8:17 starting an ai agency from zero\n14:14 why i avoid regulated niches\n15:24 closing clients with zero case studies\n17:12 no, my reels aren't heygen\n17:57 outro",
-      "commentCount": 13,
-      "likeCount": 69,
       "probeClient": "web_embedded"
     },
     "mqw15-kIAEM": {
@@ -8080,24 +8001,6 @@
       "description": "Ai ভিডিও তৈরি🔥Taxt To Video AI FREE | Free Ai Video Generate| How To Make Ai Cartoon Video FOR Free\n\n\n\nPrompt⬇️\nhttps://t.me/shantoislam333/1314\n\n\nJoin📲 My Telegram Channel : \n\nhttps://t.me/shantoislam333\n\nটেলিগ্রাম চ্যানেলে সকল ফ্রি প্র অ্যাপ পেয়ে যাবেন আপডেট। \n\n\nCONTACTS FOR BUSINESS ENQUIRY\n\n📩 Email ID :-\n\nskshantoislam3@gmail.com\n\n\n\n\n🚀 Want to create LONG AI VIDEOS for YouTube absolutely FREE and without any limits? In this video, I will show you how to make high-quality AI story videos in just 2 minutes using free AI tools. These AI-generated videos are perfect for YouTube automation channels, monetization, and growing your audience in 2026.\n\n\nLearn how to create unlimited AI videos for YouTube, generate viral story content, and upload engaging long-form videos that can help increase watch time and subscribers.\n\n\nIn This Video:\n\n\nHow to create Long AI Videos for FREE\n\n\nMake AI Story Videos in just 2 minutes\n\n\nUnlimited AI Video Generator\n\n\nYouTube Automation Channel Ideas\n\n\nBest AI Tools for YouTube in 2026\n\n\nAI Video Monetization Tips\n\n\nNo Copyright AI Video Method\n\n\nMobile Friendly AI Video Creation\n\n\nIf you're a beginner YouTuber or want to earn money online with AI content, this tutorial is for you!\n\n\nDon't forget to Like, Comment, Share & Subscribe!\n\n\nLong AI Videos, Free AI Video Generator, AI Story Video, Unlimited AI Videos, YouTube Automation, AI Video Maker 2026, YouTube Monetization, AI Cartoon Videos, AI Video Generator Free, AI Content Creator, YouTube Growth, AI Tools for YouTube, Make AI Videos in Mobile, Viral AI Videos, YouTube Tips Bangla \n\n\n\n🥔🍅 Short AI Vegetable Video banana ab hua super easy! 🤖🔥\n\n\nIs video mein maine step-by-step sikhaya hai ki viral animated vegetable story videos kaise banate hain — bilkul FREE & Unlimited method ke saath 😍🎬\n\n\n✅ AI Character Creation\n\n✅ Short Story Video Setup\n\n✅ Cinematic Animation\n\n✅ Voice + Editing Tips\n\n✅ Viral Style Prompt Trick\n\n\n🔴 Topics Covered in this Video \n\n\nVegetables AI video kaise banaye\n\nAI se cartoon video kaise banaye\n\nKids cartoon AI video tutorial\n\nMobile se AI animation video banana\n\nAI vegetables character create karna\n\nAI video editing tutorial\n\nCartoon shorts video banana\n\nFree AI tools for video creation\n\nYouTube kids video kaise banaye\n\nAI talking vegetables video\n\n\nYour Queries ✅\n\n\nvegetables ai video kaise banaye\n\nai se cartoon video kaise banaye\n\nvegetable cartoon video tutorial\n\nkids ai video kaise banaye\n\nmobile se ai animation video\n\nfree ai cartoon video maker\n\nyoutube shorts ai video\n\ncartoon vegetables video kaise banaye\n\nai se 3d cartoon video\n\nfunny ai cartoon video\n\nai tools for cartoon video\n\nkids channel video ideas\n\nai video editing kaise kare\n\ncartoon shorts video tutorial\n\nvegetables talking ai video\n\nai generated animation video\n\nmobile ai video editing\n\nkids cartoon animation tutorial\n\nai video for youtube shorts\n\ncartoon character ai video\n\nvegetables animation video\n\nai se youtube video banana\n\ncartoon video banane wala app\n\nbest ai video maker\n\nai video generator free\n\nkids learning ai video\n\nvegetables cartoon ai tutorial\n\nshort cartoon video ideas\n\nai animation app\n\nyoutube kids content tutorial\n\nai cartoon story video\n\n3d ai cartoon tutorial\n\nai shorts editing\n\ncartoon video mobile se\n\nvegetables ai character\n\nai content creation tutorial\n\nyoutube automation ai video\n\ncartoon ai video hindi\n\nkids animation video making\n\nvegetable cartoon shorts\n\nai movie style cartoon\n\ncartoon video creator app\n\nyoutube ai video ideas\n\nai video making course\n\nai cartoon editing tutorial\n\nvegetables kids video\n\ntalking vegetables cartoon\n\neasy ai cartoon video\n\nmobile cartoon animation\n\nbest ai app for video\n\nai youtube shorts tutorial\n\nanimation video kaise banaye\n\nai reels video tutorial\n\ncartoon vegetables animation\n\nyoutube kids shorts ideas\n\nai generated kids video\n\nvegetables cartoon story\n\nhindi ai video tutorial\n\nai editing app for shorts\n\nkids cartoon video editing\n\nviral ai cartoon video\n\n\nExpanded Keywords ✅\n\n\nvegetables ai video\n\nai cartoon video kaise banaye\n\nai se cartoon animation video\n\nvegetable cartoon video\n\nkids ai video tutorial\n\nai generated cartoon video\n\nai shorts video kaise banaye\n\ncartoon video making tutorial\n\nfree ai video maker\n\nmobile se ai video banana\n\nai vegetables animation\n\nyoutube kids content ideas\n\n3d cartoon ai video\n\nfunny vegetables ai video\n\nai video editing app\n\nai character animation\n\ncartoon video for youtube\n\nkids learning cartoon video\n\nvegetables cartoon animation\n\nai video creator free\n\n\n\n\nHashtags......\n\n#AIVideo​ #LongAIVideos​ #FreeAIVideoGenerator​ #YouTubeAutomation​ #AITools​ #YouTubeMonetization​ #AIStoryVideo​ #YouTubeTips​ #UnlimitedAIVideos​ #YouTubeBangla​ #Princeeditorshanto\n\n\n#AIVideo​ #CartoonVideo​ #VegetablesAI​ #AICartoon​ #KidsVideo​\n\n#AIAnimation​ #YouTubeShorts​ #CartoonAnimation​ #AIVideoEditing​ #KidsChannel​ #aivideokaisebanaye​ \n\n#superprofilemetaverified​\n\n#bestautomationtool​\n\n\n\n◆ Thanks For Watching Video ◆",
       "commentCount": 5,
       "likeCount": 9,
-      "probeClient": "web_embedded"
-    },
-    "zvZXS2ZEGfw": {
-      "checkedAt": "2026-08-15T22:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐝𝐬 𝐢𝐬 𝐦𝐨𝐯𝐢𝐧𝐠 𝐛𝐞𝐲𝐨𝐧𝐝 𝐦𝐚𝐧𝐮𝐚𝐥 𝐜𝐚𝐦𝐩𝐚𝐢𝐠𝐧 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 — 𝐀𝐈 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐢𝐬 𝐭𝐡𝐞 𝐟𝐮𝐭𝐮𝐫𝐞.\n\nIn this video, I’ll show you how to set up a Google Ads AI Automation Operating System (AIOS) in OpenClaw and build a smarter workflow for managing, analyzing, and optimizing your Google Ads campaigns with AI.\n\nInstead of manually checking campaigns, analyzing performance, and making repetitive decisions, an AI-powered system can help connect your Google Ads data, automation workflows, AI models, APIs, reporting, and real-time insights into one centralized operating system.\n\nYou’ll learn how OpenClaw can be used as an AI orchestration layer to automate Google Ads operations, improve decision-making, monitor campaign performance, and create a more scalable marketing workflow.\n\nIf you're interested in Google Ads, AI Automation, Marketing Automation, Performance Marketing, AIOS, OpenClaw, and the future of digital advertising, this video is for you.\n\nWatch the full video and see how Google Ads can move from manual management to AI-powered automation.\n\n\n\n𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞:\n-----------------------------\nFacebook: https://www.facebook.com/freelancer.tofayeI\nLinkedIn: https://www.linkedin.com/in/tofayel-ahmad/\nWhatsApp: https://wa.me/message/ZTCWLTJR7AB5L1\nWebsite:  http://freelancertofayel.com/",
-      "commentCount": 9,
-      "likeCount": 11,
-      "probeClient": "web_embedded"
-    },
-    "xRfGDRpbztk": {
-      "checkedAt": "2026-08-15T22:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Automate Your Email Marketing with Omnisend 👉 https://your.omnisend.com/jamesblueai\n\nIn this video, I show how to connect Claude to Omnisend, audit an ecommerce account for lost revenue, segment customers, build and A/B test a win-back campaign, create automated welcome and abandoned-cart flows, add a signup popup, and safely push the finished system live without writing any code.\n\nGrab The Email Automation Prompt Pack 👉 https://james-blue.kit.com/0da2ad6f87\n\nFor inquiries: contact [at] jamesblueyt.com",
-      "commentCount": 2,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "oUU4EYGaS3A": {
@@ -8703,6 +8606,72 @@
       "description": "Discover the Turbo Pascal history that changed coding in 1983. See how a cheap compiler made professional software development accessible to everyone.\n\nThis video examines the 1980s software development landscape and how expensive, slow tools were disrupted by a single product. If you are interested in computer programming history, this overview explains how two developers managed to sell a quarter of a million copies of their compiler in just two years.\n\nWe break down why this specific release was so significant for software engineering. You will learn about the business strategy behind the $49.95 price point and how it shifted the market for programming tools during the early days of personal computing.\n\nSubscribe for weekly tech history breakdowns, and comment which classic software story you want to see covered next.\n\nIn 1983, programming was a profession you had to be able to afford to enter. Compilers cost hundreds of dollars, development was painfully slow, and the entire software industry had accepted that this was simply how things worked. Then a French immigrant named Philippe Kahn and a Danish engineer named Anders Hejlsberg put a compiler on a single floppy disk, priced it at forty nine dollars andninety-fivee cents, and sold it by mail order. Within two years, they sold a quarter million copies. Teenagers, students, and small business owners who had never written a line of code in their lives discovered they could build software themselves. Ask any veteran developer how they learned programming and a startling number will name the same product. Turbo Pascal.\nThis video tells the complete story. We start in Denmark around 198,0 where a young Anders Hejlsberg was writing compilers on a hobbyist machine called the Nascom, building what would become PolyPascal. We cover why Pascal itself was the perfect choice, designed by Niklaus Wirth as a teaching language that forced clean, structured habits. We get into Philippe Kahn founding Borland in 1983 with a radical conviction that the real market for programming tools was not just professionals but everybody else too.\nWe explain exactly what made Turbo Pascal revolutionary. The integrated development environment that combined editor, compiler, and linker into one application. A thirty-kilobyte compiler that lived entirely in memory and compiled in a single pass, turning a process that took minutes into something that took roughly two seconds. The flat disbelief from the industry when they saw the price tag, including IBM refusing to resell it unless Borland raised the price to at least two hundred dollars. Kahn refused because the price was the entire point.\nWe trace Turbo Pascal through the 1980s as it grew from a compact compiler into a full professional development system, adopted by schools and universities in enormous numbers. Then we cover the decline. The arrival of Windows and the graphical era. The awkward addition of object-oriented programming onto an architecture not designed for it. The consolidation of the professional world around C and C++. Borland's answer was Delphi in 1995, rebuilt from scratch with Hejlsberg as chief architect, and Turbo Pascal quietly stopped.\nBut the story does not end there. In 1996, Microsoft recruited Anders Hejlsberg away from Borland, and he did the entire thing again. He became the chief architect of C #, the language at the heart of the dot NET platform. Then years later he did it a third time with TypeScript, the language that underpins a vast portion of the modern web. The fifty-dollar disk did not just create a generation of Pascal programmers. It launched the career of the engineer who would define the next two generations of development tools.\nWe also cover how Turbo Pascal survives today through Free Pascal and the freeware releases Borland eventually put out. And the real lesson buried in all of it. Charge two hundred dollars, and you sell to companies that already employ programmers. Charge fifty,y and you sell tosixteen-year-oldsd who become one because of it.\nIf you are into programming history, retro computing, compiler design, or stories about how the right tool at the right price can change an entire industry, this one is for you. Like and subscribe for more deep dives into the hidden stories behind the code that runs the world.\n\n00:00 When you had to afford to become a programmer\n01:25  Anders Hejlsberg and the pricing everyone got wrong\n05:48  \"Too cheap\": IBM refuses to sell it & massive growth\n08:14 Windows arrives, and the ground moves\n09:3",
       "commentCount": 12,
       "likeCount": 66,
+      "probeClient": "web_embedded"
+    },
+    "f10PpVR7Iik": {
+      "checkedAt": "2026-08-16T17:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "learn how to create faceless content for usa content",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-16T17:53:40Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "vW4NFQmNRKw": {
+      "checkedAt": "2026-08-16T17:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Qwen 3.8 FREE! Use Qwen 3.8 for AI Coding in VS Code, Kilo Code & OpenCode\n\nWant to use Qwen 3.8 for FREE for AI coding? In this complete 2026 tutorial, I'll show you how to set up Qwen 3.8 in VS Code, Kilo Code, and OpenCode using free model access through TokenRouter and Hugging Face.\n\nWe'll configure the model step by step, connect it to your AI coding workflow, and test Qwen 3.8 with a real coding task.\n\nIf you're looking for a FREE AI coding model, Claude Code alternative, Qwen tutorial, Qwen 3.8 setup, or a way to use Qwen 3.8 inside your favorite coding environment, this video walks through the complete setup.\n\n🔥 WHAT YOU'LL LEARN\n\n✅ What is Qwen 3.8\n✅ How to use Qwen 3.8 for FREE\n✅ Qwen 3.8 AI coding setup\n✅ Setup Qwen 3.8 in VS Code\n✅ Setup Qwen 3.8 in Kilo Code\n✅ Setup Qwen 3.8 in OpenCode\n✅ Configure TokenRouter\n✅ Configure Hugging Face\n✅ Connect Qwen 3.8 to an AI coding workflow\n✅ Test Qwen 3.8 with real coding tasks\n✅ Use Qwen 3.8 for software development\n✅ Build applications with AI coding tools\n✅ Explore Qwen as a Claude Code alternative\n\n💻 QWEN 3.8 AI CODING WORKFLOW\n\nIn this tutorial, we'll go through:\n\nQwen 3.8\n↓\nTokenRouter / Hugging Face\n↓\nVS Code / Kilo Code / OpenCode\n↓\nAI Coding\n↓\nReal Development Task\n\n\n🎯 PERFECT FOR\n\n👉 AI Developers\n👉 Software Engineers\n👉 Python Developers\n👉 Data Scientists\n👉 AI Engineers\n👉 Generative AI Developers\n\n🔎 SEARCH KEYWORDS\n\nQwen 3.8\nQwen 3.8 free\nQwen 3.8 FREE\nQwen 3.8 tutorial\nQwen 3.8 setup\nQwen 3.8 AI coding\nQwen 3.8 coding\nQwen 3.8 VS Code\nQwen 3.8 Kilo Code\nQwen 3.8 OpenCode\nQwen 3.8 TokenRouter\nQwen 3.8 Hugging Face\nQwen free AI coding\nfree AI coding model\nfree AI coding assistant\nfree LLM\nQwen coding model\nQwen AI coding\nQwen VS Code\nQwen OpenCode\nQwen Kilo Code\nClaude Code alternative\nAI coding assistant\nAI coding tools\nAI developer tools\ncoding with AI\nLLM coding\ngenerative AI\nAI programming\nAI software development\nVS Code AI coding\nOpenCode tutorial\nKilo Code tutorial\nTokenRouter tutorial\nHugging Face AI models\n\n⏱️ TIMESTAMPS\n\n00:00 Qwen 3.8 FREE — Introduction\n01:00 What is Qwen 3.8?\n02:15 Qwen 3.8 Free Access\n03:30 TokenRouter Setup\n05:20 Hugging Face Setup\n07:00 Qwen 3.8 in VS Code\n09:00 Qwen 3.8 with Kilo Code\n10:40 Qwen 3.8 with OpenCode\n12:00 Test AI Coding Workflow\n13:00 Final Results\n\n📌 RESOURCES\n\n👉 TokenRouter: https://www.tokenrouter.com/\n👉 Hugging Face: https://huggingface.co/spaces/victor/Qwen3.8-27B-free-endpoint\n👉 VS Code: https://code.visualstudio.com/download\n👉 OpenCode: https://opencode.ai/download\n\n\n🔎 RELATED TOPICS\n\nQwen 3.8 FREE\nQwen 3.8 tutorial\nQwen 3.8 setup\n\nDevelopers using Claude API\nAI / Data Science learners\nBeginners exploring LLMs\nPeople looking for free AI tools\nAnyone wanting to reduce AI API cost\n🎥 Gear & Products I Use (Affiliate Links)\n\n🎙️ Hollyland Lark M2 Combo : https://amzn.to/4nqWpst\n💡 Digitek Ring Light : https://amzn.to/4oLDauW\n📷 Digitek Tripod : https://amzn.to/43BjscY\n💻 My Laptop Lenovo LOQ 2025 AMD Ryzen 7 250| NVIDIA RTX 5050 8GB : https://amzn.to/4ocqbCp\n🎬 My Gaming Chair: https://amzn.to/4qAYrsI\n\n🔎 Keywords\n\nqwen 3.8, qwen 3.8 free, qwen 3.8 tutorial, qwen 3.8 setup, qwen 3.8 ai coding, qwen 3.8 vs claude code, qwen ai, qwen coding, qwen vs claude code, qwen vscode, qwen opencode, qwen kilo code, qwen tokenrouter, qwen hugging face, free qwen, free ai coding, claude code free, claude code, claude code tutorial, claude code setup, claude code cli setup, claude code vscode, claude code vs code, claude code models free, claude desktop, claude desktop tutorial, claude desktop setup, claude desktop setup 2026, claude desktop developer mode, claude fable 5, claude fable 5 free, claude opus 4.8, claude opus 4.8 free, claude sonnet, claude haiku, anthropic claude free, free claude api key, claude alternative, glm 5.2, glm tutorial, omniroute, omniroute tutorial, omniroute setup, antigravity tutorial,\n\n\n📌 HASHTAGS\n\n#Qwen #Qwen38 #AICoding #QwenAI #VSCode #OpenCode #KiloCode \n#GLM52 #ClaudeCode #OpenCode #VSCode #Antigravity #AICoding #GenerativeAI #LLM  #ArtificialIntelligence #ClaudeCode #ClaudeOpus #GLM52 #VSCode #AICoding #GenerativeAI #ClaudeAI #AIAgents #LLM #DeveloperTools #ArtificialIntelligence #ClaudeFable5 #ClaudeDesktop #FreeClaudeAPI #ClaudeCode #ClaudeOpus #FreeAI #anthropic \n\n📢 Disclaimer\nThis video is created for educational purposes and demonstrates the use of officially available AI software, APIs, and developer tools. All trademarks belong to their respective owners. Please use these services in accordance with their official Terms of Service and licensing policies. Any free credits, trial offers, or promotional programs mentioned are offered by the respective providers and may change, expire, or become unavailable at any time. This video does not promote unauthorized access, circumvention of payment systems, or misuse of any platform.",
+      "commentCount": 5,
+      "likeCount": 24,
+      "probeClient": "web_embedded"
+    },
+    "AQ_Iqo3UYMk": {
+      "checkedAt": "2026-08-16T17:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Coding agents have completely changed the way I build software and they’ve also changed how I choose my tech stack. In this video, I’ll show you the complete system I use to ship production applications, including my tech stack, AI models, agentic development environment, agent skills, architecture, and code review workflow. This is the exact setup I use every day to build real products in 2026.\n\n\n📸 My SaaS Starter Kit: https://dub.sh/dDAfwJJ\n\n🔒 My favorite Auth Solution:  https://dub.sh/xeU8r3v\n💻 Learn to Code faster with Scrimba and Save 20% - https://scrimba.com/the-ai-engineer-path-c02v?via=janmarshal\n\n\n👨‍💻 Video Files: https://dub.sh/Ras3IU6\n🌍 My Website: https://www.syntaxpath.com/\n👋🏻 Discord: https://discord.gg/ZzGqgpmd24\n✅ Follow me on X: https://x.com/janmarshaldev\n📧 Business ONLY: jan@alenix.de\n\n\nTimestamps:\n00:00 Intro\n01:30 My 2026 Tech Stack\n02:00 Framework & Frontend\n09:00 API & Data Layer\n13:00 Database & Authentication\n22:00 Services & Infrastructure\n28:00 The Dependency Rule\n32:00 My Agentic Development Environment\n36:00 My AI Model Setup & Workflow\n38:00 My AGENTS.md File\n39:00 Repository-Specific Agent Skills\n41:00 Global Agent Skills\n43:00 Free AI Voice Dictation I use\n47:00 AI Code Review Process",
+      "commentCount": 5,
+      "likeCount": 40,
+      "probeClient": "web_embedded"
+    },
+    "AOXIQAR2V_4": {
+      "checkedAt": "2026-08-16T17:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Graft is an open-source context layer that gives Claude Code, Cursor, Codex, Gemini, and other AI coding agents a deeper understanding of your codebase—reducing exploration, token usage, and coding time.\n\n\n\n\n=============================================\nFollow on twitter : https://x.com/Codedigipt\nFollow Codedigipt channel on WhatsApp: https://whatsapp.com/channel/0029Vb8SzEP89inlpgnxKE2i\n\n----------------------- Resources -----------------------------------------\nhttps://github.com/NanoNets/Graft\n=============================================\n\n\n\n#OpenSourceAI #aicoding #aiagents  #artificialintelligence  #chatgpt  #claudecode  #automation  #aitools  #productivity  #technews  #ai2026 \n\n\nDisclaimer:\nThe content in this video is for informational and educational purposes only. All opinions expressed are my own. I am not a licensed professional, and this video should not be considered professional advice. Performance benchmarks are based on specific tests and may not reflect all use cases. Always do your own research and consult with a qualified expert where necessary.\nUse the information provided at your own risk.\nSome links or products mentioned may be affiliate links, which means I may earn a small commission at no extra cost to you. Thank you for your support!",
+      "commentCount": 2,
+      "likeCount": 14,
+      "probeClient": "web_embedded"
+    },
+    "57zy7VBii3k": {
+      "checkedAt": "2026-08-16T17:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Stop building websites that are AI Slop. AI can generate a website in minutes, but getting from a generic AI-generated page to a truly premium, animated website is a completely different challenge.\n\nIn this video, I’ll show you how I use Kimi K3 and my own custom “lets-scroll” skill to build a high-end animated website from scratch. We’ll go beyond basic AI website generation and focus on scroll animations, visual storytelling, modern UI, smooth interactions, and the details that make an AI-generated website actually feel professionally designed.\n\nThe goal is simple: take a website idea and turn it into a polished, interactive experience using AI — without spending hours manually coding every animation and interaction.\n\nIf you’re an AI engineer, web developer, frontend developer, freelancer, designer, indie hacker, or someone building AI portfolio projects, this workflow will show you how to use Kimi K3 for modern AI-powered web development.\n\n---\n\n🔗 RESOURCES\n\nWebsite:https://aiwithhassan.com\nMy custom “lets-scroll” skill: https://github.com/AIwithhassan/lets-scroll\nWebsite Hosting: vercel.com\nAI Tools: https://www.aiwithhassan.com/ai-tools\nSillage Website: https://github.com/AIwithhassan/animated-website-sillage\n\n---\n\n🚀 WHAT YOU’LL LEARN\n\n• How to build a premium animated website with Kimi K3\n• How to use Kimi K3 for AI-powered web development\n• How to create smooth scroll-based animations\n• How to use the “lets-scroll” skill for advanced website animations\n• How to turn AI-generated designs into polished websites\n• How to create modern UI/UX with AI\n• How to build interactive and responsive frontend experiences\n• How to improve AI-generated website designs\n• How to create cinematic web experiences with scroll animations\n• How to use AI coding workflows for frontend development\n• How to build impressive AI portfolio projects\n\n---\n\n💡 WHY THIS WORKFLOW MATTERS\n\nMost AI website builders can generate a functional website.\n\nThe real challenge is making that website feel unique.\n\nA strong AI web development workflow combines design direction, reusable skills, animation systems, visual hierarchy, and AI coding into one process. Instead of repeatedly asking an AI model to “make the website look better,” we can give it the right tools and structured instructions to create a much more intentional result.\n\nIn this video, you’ll see how Kimi K3 can be used as part of that workflow to build a website with sophisticated scrolling effects and modern interactions.\n\nThis is especially useful for developers and freelancers who want to create premium websites faster, build stronger portfolios, or deliver higher-value websites to clients.\n\n---\n\n🧩 THE “LETS-SCROLL” SKILL\n\nI also use my custom “lets-scroll” skill to help Kimi K3 implement and structure advanced scroll-based interactions.\n\nInstead of manually creating every animation from scratch, the skill provides a reusable workflow for building smoother and more engaging scrolling experiences.\n\nThis turns complex website animations into something that can be incorporated directly into an AI-assisted development workflow.\n\n---\n\n🎯 PERFECT FOR\n\n→ AI Engineers\n→ Frontend Developers\n→ Web Developers\n→ Freelancers\n→ Designers\n→ Indie Hackers\n→ Startup Founders\n→ Students Learning AI\n→ AI Coding Enthusiasts\n→ Technical Creators\n\n---\n\n🌐 CONNECT WITH ME\n\nWebsite:\nhttps://aiwithhassan.com\n\n🎙️ Discord:\nhttps://discord.gg/BVa3d4BrVY\n\n📁 GitHub:\nhttps://github.com/AIwithHassan\n\n🤵 LinkedIn:\nhttps://www.linkedin.com/in/m-hassan-mahmood/\n\nIf you enjoy practical AI tutorials covering AI coding, AI agents, web development, AI automation, frontend development, and real-world AI projects, subscribe to AI with Hassan for more hands-on builds.\n\n#KimiK3 #Kimi #AICoding #AIWebsite #WebDevelopment #AIWebDevelopment #FrontendDevelopment #ScrollAnimation #WebAnimation #AIAgents #GenerativeAI #AIEngineer #VibeCoding #AIwithHassan",
+      "commentCount": 7,
+      "likeCount": 76,
+      "probeClient": "web_embedded"
+    },
+    "BHGTA6ZEls4": {
+      "checkedAt": "2026-08-16T17:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn more about the 2026 Guide to AI Agents here → https://ibm.biz/~nlygweHxH\n\nConnecting AI agents to tools is harder than it looks. Grant Miller breaks down five proven patterns for integrating agents with tools, from simple APIs to secure token-based architectures. Learn how authentication, MCP, and vaults improve security and scalability in agentic systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/~H9ZIaiRnS\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#aiagents #aiarchitecture #tools #machinelearning #agenticai",
+      "commentCount": 0,
+      "likeCount": 242,
+      "probeClient": "web_embedded"
+    },
+    "XYpzgYNYgbs": {
+      "checkedAt": "2026-08-16T17:53:40Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Agentic Coding কি শুধু কোর্স বা ভিডিও দেখে শেখা যায়?\n\nএই ভিডিওতে আমরা Agentic Coding নিয়ে সবচেয়ে বড় একটি ভুল ধারণা নিয়ে কথা বলেছি।\n\nআপনি কি শুধু রেসিং ট্রাকের ভিডিও দেখে সরাসরি রেসিং ট্র্যাকে গিয়ে রেস করতে পারবেন? পারবেন না। কারণ শুধু গাড়ি চালানো জানলেই হয় না—ট্র্যাক, গাড়ির আচরণ, পরিস্থিতি এবং সঠিক সময়ে সঠিক সিদ্ধান্ত নেওয়ার ক্ষমতাও জানতে হয়।\n\nAgentic Coding-এর ক্ষেত্রেও বিষয়টা একই।\n\nশুধু AI Agent, Cursor, Claude Code বা অন্য কোনো AI Coding Tool ব্যবহার করতে শেখা মানেই Real Agentic Coding নয়।\n\nReal Agentic Coding-এর জন্য প্রয়োজন Domain Knowledge — কোন business বা problem কীভাবে কাজ করে।\n\nSystem Flow — Request → Processing → Decision → Action কীভাবে চলে।\n\nArchitecture — Service, Database, API, Queue, Cache এবং Agent কীভাবে একসাথে কাজ করে।\n\nProblem Decomposition — বড় সমস্যাকে Agent-এর জন্য ছোট actionable task-এ ভাঙতে পারা।\n\nContext Engineering — Agent-কে সঠিক context, constraints এবং requirements দিতে পারা।\n\nVerification — Agent-এর generated code বা design সঠিক কিনা যাচাই করতে পারা।\n\nতাহলে Agentic Coding কি আপনার চাকরি পাওয়ার জন্য দরকার?\n\nCareer solid করার জন্য?\nSenior Developer হওয়ার জন্য?\nনিজের knowledge বাড়ানোর জন্য?\n\nহ্যাঁ, Agentic Coding গুরুত্বপূর্ণ। কিন্তু এটি কোনো shortcut নয়।\n\nZero Knowledge + AI Tool = Real Agentic Coding নয়।\n\nআপনার যত বেশি Domain Knowledge, System Understanding, Architecture Knowledge এবং Problem-Solving Skill থাকবে, আপনি তত ভালোভাবে AI Agent-কে ব্যবহার করতে পারবেন।\n\nAgentic Coding Beginner-এর জন্য shortcut নয়; এটি একজন ভালো Software Engineer-এর existing knowledge-কে আরও powerful করার একটি approach।\n\nLearn With Rabbil — বাংলা ভাষায় Software Engineering, Programming এবং Technology শেখার জন্য।\n\n#AgenticCoding #AICoding #SoftwareEngineering #Programming #SoftwareDevelopment #AIProgramming #DeveloperCareer #LearnWithRabbil",
+      "commentCount": 1,
+      "likeCount": 14,
       "probeClient": "web_embedded"
     }
   }
