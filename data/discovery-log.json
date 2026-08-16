@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T01:53:13Z",
+  "updatedAt": "2026-08-16T02:53:08Z",
   "items": [
+    {
+      "id": "sXllEFAEVbk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-16T02:30:27Z",
+      "firstSeenAt": "2026-08-16T02:53:08Z"
+    },
     {
       "id": "aYqrLwl8lK4",
       "type": "short",
@@ -14165,15 +14173,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-02T01:53:16Z",
-      "new": 4,
-      "long": 4,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
       "runAt": "2026-08-02T02:53:26Z",
       "new": 7,
       "long": 5,
@@ -15549,6 +15548,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-16T02:53:08Z",
+      "new": 1,
+      "long": 0,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
