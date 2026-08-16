@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T04:53:15Z",
+  "updatedAt": "2026-08-16T05:53:15Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -6598,7 +6598,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-16T04:53:15Z",
+      "checkedAt": "2026-08-16T05:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -6965,7 +6965,7 @@
       "probeClient": "web_embedded"
     },
     "Wni5EePIj7Q": {
-      "checkedAt": "2026-08-15T05:53:12Z",
+      "checkedAt": "2026-08-16T05:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Meet Sai. Your autonomous computer — an AI that gets its own machine and does the work end-to-end.\n\nI gave it one prompt and went to grab a coffee. Ten minutes later it was done.\n\n20 SaaS founders in my city. In a sheet — name, title, company, email, what they actually sell. And a cold email in my Gmail for every single one. Not templates. Look at this one — it opens with the pricing page they shipped last week. That's the part that normally kills my whole morning.\n\nFour hours of prospecting. All I did was approve it. And it saved the steps, so now it runs every week.\n\nGive Sai a task in plain language. It works on a private remote desktop and checks with you before anything risky goes out.\n\nComment \"SAI\" and I'll DM you the invite code and the exact prompt",
@@ -6977,7 +6977,7 @@
           "author": "@marketingwitharavind",
           "text": "Sai",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T08:00:00Z",
+          "publishedAt": "2026-08-15T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/o--u4osftPYK8BFxxz-r1vGgiBC_KQEoDD3JFfq50oBrAR8srZKAmiBh978IWnaxcrTKXgtqpw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6987,13 +6987,13 @@
           "author": "@kuntz123",
           "text": "Sai",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T07:00:00Z",
+          "publishedAt": "2026-08-15T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n7417ek-18wzJI3ZENBm0JLEsWrCcksbQ7WKdHv1tzFUdXjGULqP2rM3Knc8d3lEC4qw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-15T05:53:12Z",
+      "commentsFetchedAt": "2026-08-16T05:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7645,7 +7645,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-16T04:53:15Z",
+      "checkedAt": "2026-08-16T05:53:15Z",
       "embedAllowed": false,
       "availability": "unavailable",
       "failureReason": "unavailable"
@@ -8016,20 +8016,11 @@
       "likeCount": 2,
       "probeClient": "web_embedded"
     },
-    "IckFWVjgwK0": {
-      "checkedAt": "2026-08-15T15:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI agents are writing code, debugging issues, and even reviewing and merging pull requests. But as software development becomes fully automated, developers are facing a silent crisis: we are losing context of the systems we build.\n\nImagine waking up at 3 a.m. to fix a critical production issue, only to realize the code was written by an AI agent 3 months ago—and not a single engineer on your team understands how it works.\n\nIn this video, I share my perspective after 10+ years as a software engineer on why coding is no longer the bottleneck, why Big Tech teams are shrinking from 400 people down to 40, and what it takes to be in the Top 1% of developers who will thrive in the AI era.\n\n#SoftwareEngineering,#AIAgents,#Coding,#TechCareers,#ArtificialIntelligence",
-      "commentCount": 1,
-      "likeCount": 3,
-      "probeClient": "web_embedded"
-    },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-16T04:53:15Z",
+      "checkedAt": "2026-08-16T05:53:15Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "OJDhImJxPvk": {
       "checkedAt": "2026-08-15T16:53:06Z",
@@ -8117,15 +8108,6 @@
       "likeCount": 381,
       "probeClient": "web_embedded"
     },
-    "bL15T_jvMiI": {
-      "checkedAt": "2026-08-15T18:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "JavaScript and TypeScript are often compared based on syntax, developer experience, and ease of use. But the real technical difference goes much deeper.\n\nIn this video, we take a closer look at what actually happens to JavaScript and TypeScript code before and during execution — and why the timing of type checking matters for building reliable software.\n\nWe start with JavaScript's dynamic typing and explore how changing the type of a variable can lead to unexpected behavior and runtime errors.\n\nThen we move into TypeScript and look at how static analysis, compile-time type checking, structural typing, and type erasure work before the code reaches the JavaScript runtime.\nWe also break down the JavaScript execution pipeline, including:\n\n* Abstract Syntax Trees (AST)\n* Bytecode\n* Interpreters\n* JIT Compilation\n* Hot Paths\n* Native Machine Code\n* Runtime Optimization\n* Deoptimization\n\nYou'll see how a JavaScript engine such as V8 processes code and how frequently executed code can be optimized during runtime.\n\nOne of the biggest questions we address is:\n\nDoes TypeScript actually make JavaScript run faster?\n\nThe answer is more nuanced than you might expect. TypeScript's primary advantage isn't automatically increasing runtime performance. Its major benefit is catching many type-related problems before the code runs, making large codebases easier to maintain.\n\nWe also explore how changing data types can affect JavaScript JIT optimizations and lead to deoptimization.\n\nFinally, we look at one of the most important limitations of TypeScript: compile-time types cannot guarantee that external runtime data is actually valid. API responses, user input, JSON, database results, and other untrusted data may still require runtime validation.\n\nSo, should you learn JavaScript or TypeScript?\n\nThis video explains why understanding both can give you a much better understanding of modern web development — especially what's happening underneath the code you write.\n\nIf you're interested in JavaScript, TypeScript, web development, programming, software engineering, and how programming languages actually work, this video is for you.\n\n💬 Which one do you use more — JavaScript or TypeScript? Let me know in the comments.\n\n#JavaScript #TypeScript #JavaScriptVsTypeScript #WebDevelopment #Programming #SoftwareEngineering #JITCompiler #TypeChecking #Programming #TechieKoni",
-      "commentCount": 13,
-      "likeCount": 101,
-      "probeClient": "web_embedded"
-    },
     "njHuj8OxIVI": {
       "checkedAt": "2026-08-15T19:53:08Z",
       "embedAllowed": true,
@@ -8185,15 +8167,6 @@
       "embedAllowed": true,
       "availability": "public",
       "description": "Cyber warrior, when attacks move at machine speed, human-only defense can't keep up — this episode breaks down why AI agent security has to be built around zero trust from day one, not bolted on after. We walk through how autonomous offensive AI agents run full kill chains without a human operator, why a single all-powerful defensive AI creates a confused-deputy risk through indirect prompt injection, and how a NIST AI RMF-aligned architecture — least-privilege sub-agents, human-in-the-loop gateways for critical actions, and just-in-time non-human identities — closes that gap. If your org is standing up SOC automation or evaluating AI agent security for the first time, this is the mental model to start from. I read every comment and edit every script, so tell me what pattern or topic you want covered next in Inherent Issues with AI. I do hope this has been helpful... until next time, keep your systems safe.\n\nKeywords / Tags\n\nAI agent security, agentic AI cybersecurity, autonomous cyberattacks, AI SOC automation, prompt injection, indirect prompt injection, confused deputy problem, NIST AI RMF, zero trust AI architecture, non-human identity, least privilege AI, human-in-the-loop AI, AI red team, AI blue team, security orchestration, automation response\n\nHashtags\n\n#AICybersecurity #PromptInjection #ZeroTrust #AIAgents #NISTAIRMF",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "4DLSSwtw3QY": {
-      "checkedAt": "2026-08-15T20:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Automation can create enormous capacity inside an insurance agency, but only when there is a clear operating system underneath it. Mike Stromsoe explains why agencies that depend on tribal knowledge often hit a wall as they grow and why adding AI or automation before documenting how work should actually happen can create even more chaos. He lays out a practical approach to building the processes, workflows, and accountability needed to move from growth mode into true scale, giving technology a strong foundation while allowing people to focus on the human work that matters most. \n\nKey Topics:\n - The difference between growing an agency and operating today like the agency you intend to become\n - Why tribal knowledge becomes a major vulnerability when critical information lives with individual team members\n  - How assigning ownership of documentation can prevent the agency owner from becoming another bottleneck\n  - Why the sales process should be roadmapped from first contact through quoting, closing, onboarding, and follow-up\n  - How documenting onboarding, renewals, and claims advocacy creates a more intentional client experience\n  - Why marketing and recruiting need ongoing systems rather than piecemeal activities or last-minute reactions\n  - How structure within leadership meetings influences accountability throughout the entire organization\n  - Why financial management needs clearly documented responsibilities, workflows, and points of ownership\n\nConnect with Daniel: https://www.linkedin.com/in/danielmetcalf/\nConnect with Mike: https://www.linkedin.com/in/mikestromsoe/\n\nClear documentation gives an agency more than a collection of SOPs. It creates the operating structure that allows teams to work consistently, leaders to delegate with confidence, and technology to perform the work it is designed to handle. Build the processes first, train the team around them, and then introduce automation and AI so they reduce friction instead of multiplying it.\n\n#insuranceagency  #insuranceautomation  #agencyscaling  #insuranceleadership  #AgencyOperations #InsuranceAI #businessautomation  #AgencySystems #insuranceagents  #independentinsuranceagent",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
@@ -8295,15 +8268,6 @@
       "description": "Link to resources: http://thenextnewthing.ai/my-resources\nPresented by Zapier: https://zapier.com/\nErik Siu and Andrew Warner break down GrokBot and how its always-on AI agents can automate work, collaborate, and control computers.\n\nErik Siu, founder of Single Grain, joins Andrew Warner to explore GrokBot’s agent teams, cloud computers, routines, triggers, plugins, reusable skills, and agent-to-agent collaboration. They compare it with Codex, Hermes, and OpenClaw, while looking at where GrokBot makes AI more accessible—and where its current limitations around team collaboration, triggers, customization, and cost still matter.\n\nTimestamps:\n00:00 - GrokBot: Always-on AI agent teams\n01:23 - Creating a morning routine\n03:52 - Why GrokBot is easier and more reliable\n05:24 - Moving routines from Codex to GrokBot\n05:56 - Agents that improve their own skills\n06:43 - Computer use and virtual machines\n08:01 - GrokBot vs. Codex\n09:02 - Teaching GrokBot a task\n10:15 - Making AI more accessible\n11:12 - Controlling your local computer\n12:01 - Zapier MCP: Connecting agents to your tools\n13:09 - GrokBot plugins and skills\n15:56 - Agents collaborating with each other\n18:08 - Building and deploying an app\n19:48 - GrokBot triggers and Slack\n22:06 - Current limitations\n24:16 - GrokBot vs. Hermes and OpenClaw\n25:55 - Erik Siu’s AI agent stack\n26:44 - Where GrokBot fits today\n27:27 - The future of AI agents\n28:08 - Using GrokBot with AI skills\n\nMedia/Sponsorship Inquiries: https://thenextnewthing.ai/l/sponsor\n\n👉 Join us: https://thenextnewthing.ai/",
       "commentCount": 11,
       "likeCount": 46,
-      "probeClient": "web_embedded"
-    },
-    "kTeQh8l_iOw": {
-      "checkedAt": "2026-08-15T23:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "An OpenAI model broke out of its lab environment and hacked AI company Hugging Face. CNN’s Krishna Andavolu and Hadas Gold explain how it reached the open internet, what it did, and why current regulations may not prevent it happening again.\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\n#AI #OpenAI #News",
-      "commentCount": 51,
-      "likeCount": 163,
       "probeClient": "web_embedded"
     },
     "bClnQ4Q3iKM": {
@@ -8439,14 +8403,6 @@
       "likeCount": 58,
       "probeClient": "web_embedded"
     },
-    "Lnm-J_WZCsY": {
-      "checkedAt": "2026-08-16T03:53:13Z",
-      "embedAllowed": true,
-      "description": "Can you outsmart a simple matchstick game? 🧐\n\nWelcome back to another session of 3030 Eklavya! In this episode, we dive deep into the world of Computational Thinking and AI Unplugged. We’re not just playing a game; we’re learning how to think like a computer and understand the logic behind decision-making.\n\nIn this video, you will explore:\n\nThe Matchstick Game: A simple yet profound challenge—can you win against the logic?\nComputational Thinking: Breaking down complex problems into manageable steps.\nAI Unplugged: Understanding Artificial Intelligence concepts without needing a screen or code.\nThe Logic of Winning: Discovering if there’s a \"perfect\" strategy for every move.\nThis series is designed to spark curiosity and bring the magic of STEM to your fingertips using everyday objects. Whether you are a student, teacher, or just curious, let's unlock the secrets of algorithms together!\n\nEpisode Homework: https://forms.gle/dY1zr6NssAWgAa2n6 \n\nTimestamps of the Episodes : \n\nWelcome, Introduction & Vision: 03:34 \nPoll 1: 16:09\nEpisode’s preview: 18:04\nPlay Chess Against Matchbox: 19:55\nAI & Brain: 32:22\nPoll 2: 32:52\nHistory of AI: 34:06\nNeuron and Neural Network: 40:01\nClassroom Activity Neural Network: 42:21\nPoll 3: 44:03\nDigit Recognition: 45:55\nElectronic Neural Network: 48:19\nComputational Thinking and Path Puzzles: 55:56\nMake, Colour and Travel the Football: 58:46\nProjects & Conclusion: 01:01:08\n\nPlay with Matchboxes Online : \nChess: https://matchboxchess.vercel.app/   \n\nCheckers: https://matchboxcheckers.vercel.app/   \n\nTic-Tac-Toe: https://tictactoemenace.vercel.app/   \n\nSupporting Documents and Video :\n\nCT & AI YouTube Playlist: https://youtube.com/playlist?list=PLNN5hNA327no&si=FJuUfMF5SzkIZxHA \n\nCT & AI Book: https://tinyurl.com/CTandAIunpluggedbook \n\nPlay Chess with Matchbox:  https://youtu.be/yPPmtPBxvbc?si=Wv_wjiWELfFbJulX \n\nMechanical Neural Network: https://www.schaffland.eu/en/mnn.html \n\nElectronic Neural Network: https://youtu.be/l-9ALe3U-Fg?si=1Ho4PItMnppog8qP \n\nDoodleit: https://www.cs.uml.edu/~fredm/DoodleItUpdated/LatestFiles:%20v2/ \n\n3D Shape Paper Lamps: https://www.youtube.com/watch?v=USNjv9YROBk&list=PLmjuVk9xK8LpdxzrFcll13Sb4WIJjJ5tX&index=1    \n\nReference Article and Paper: \nTrial and error by Donald Michie. Penguin Science Survey, 1961.  \n\nA matchbox game learning-machine by Martin Gardner. Scientific American, March 1962. \n\nMahipal, Vaishali, et al. \"DoodleIt: A novel tool and approach for teaching how CNNs perform image recognition.\" Proceedings of the 25th australasian computing education conference. 2023.   \n\nSchaffland, Axel, and Julius Schöning. \"Mechanical neural network: Making AI comprehensible for everyone.\" 2023 IEEE 2nd German Education Conference (GECon). IEEE, 2023.  \n\nEagleman, David. The brain: The story of you. Canongate Books, 2015. \n\n🔔 Don't Forget To:\n📌 Like, Share & Subscribe for more amazing videos!\n📌 Hit the bell icon 🔔 so you never miss an update!\n\n💬 Follow Us for More Fun Content:\n📸 Instagram: 👉 https://www.instagram.com/ccl_iitgn\n🎥 YouTube:   👉 https://www.youtube.com/channel/UC0XMtgp0H7vlzAG8u2pWkYg\n\nWe came into being to nurture a scientific temperament among adults and children alike. Our journey began from an empty 400 sqft room, and today, 7 years later, we have a hall full of 1000+ unique STEM models and activities, created / curated / expanded by us. Having conducted over 200 STEM and hands-on learning workshops for over 20,000 teachers & professors and connected with over 500,000 students all across the country - our mission is to bring back the gleam in their eyes!\n\nWrite to us at ccl@iitgn.ac.in\nFollow us on Instagram: https://www.instagram.com/ccl_iitgn/\n\n#CCLIITGN #3030Eklavya #ComputationalThinking #AIUnplugged #STEMEducation #IITGandhinagar #MathPuzzles #LearningByDoing",
-      "commentCount": 178,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "UPiPg7Z7LLQ": {
       "checkedAt": "2026-08-16T04:53:15Z",
       "embedAllowed": true,
@@ -8463,6 +8419,51 @@
       "description": "",
       "commentCount": 12,
       "likeCount": 42,
+      "probeClient": "web_embedded"
+    },
+    "6JidkHUWgUY": {
+      "checkedAt": "2026-08-16T05:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this engaging video, we dive into the debate on front-end vs. back-end development complexity and respect in the tech industry. Join us as we explore whether front-end development is truly more intricate than back-end work, yet often lacks the same level of recognition. As a new full stack junior developer, have you ever questioned the hierarchy of coolness in the tech world? Share your thoughts in the comments below and let's spark a conversation about the evolving landscape of software engineering and web development. Don't forget to hit like, subscribe, and turn on notifications for more insightful content!",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "89ppToRPMpU": {
+      "checkedAt": "2026-08-16T05:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "If You Are Looking For An 110K PC Build BD That Can Handle Gaming, Creative Work, Development, And Everyday Productivity, This Build Focuses On Delivering An All-Rounder Experience Within A Challenging Market🔥\n\nWith Component Prices Rising Rapidly, This Build Was Around ৳105,000 When It Was Filmed, But The Same Configuration Has Reached Roughly ৳110,000 At The Current Market Price.\n\n👉Join Techolic Bangladesh: https://facebook.com/groups/techolic.bangladesh/ \n\n👉Follow Techolic Bangladesh: https://www.facebook.com/profile.php?id=61582373603973\n\n👉Join Our Community Chat: https://m.me/ch/AbYEImipXjek_rOw/\n\n🛠️What's Inside This 110K PC Build?\nHere's A Full Breakdown Of The Powerful Components In This 110K PC Build👇\n\n1️⃣ Processor: AMD Ryzen 5 8400F\n2️⃣ Motherboard: Gigabyte B650M K\n3️⃣ Graphics Card: OCPC GeForece RTX 5050 \n4️⃣ Ram: Aitc Kingsman Master 16GB DDR5\n5️⃣ Storage: Kingspec One Boom 512GB \n6️⃣ CPU Cooler: DeepCool AK400 WH \n7️⃣ Power Supply: OCPC Energia BZ550 550W \n8️⃣ Casing: Maxcool Inferno MC5\n\n📝Video Overview\nIn This Video, We Build And Test An All-Rounder 110K PC Build Bangladesh Setup Designed To Handle Gaming, Productivity, Content Creation, Development, And Other Demanding Workloads. \n\nThe 110K Gaming PC Build Uses An RTX 5050 With Modern NVIDIA Features, Making It A Versatile Choice For Users Who Want Both Gaming Performance And Creative Productivity In One PC.\n\n🎮Gaming, Editing & Creative Work\nThis PC Build Under 110K Combines CPU Performance, NVIDIA GPU Features, Fast Gen4 Storage, And DDR5 Memory To Create A Versatile System For Gaming, Editing, And Creative Work. For Content Creators, It Works As A PC Build For Video Editing Bangladesh And PC Build For Video Editing BD Users Can Consider For Editing And Encoding Workloads.\n\nWith The RTX 5050, This Is Also A Practical PC Build For Video Editing And Gaming, While The NVIDIA GPU And Modern Platform Make It A Best PC Build For Graphic Design And Video Editing Within This Budget. \n\nThe Same Configuration Can Serve As A PC Build For Graphic Design And Gaming, PC Build For Gaming And Video Editing, And PC Build For Gaming And Editing, Giving Users One Balanced PC For Multiple Workloads.\n\n🎨3D Design, Development & AI Workloads\nThe RTX 5050 Gives This Build Versatility Across Different Software And GPU-Accelerated Workloads, Making It Relevant As A PC Build For 3D Design Or Budget PC Build For 3D Modeling And Rendering, And PC Build For 3D Animation And Rendering. \n\nCombined With The Ryzen 5 8400F, It Also Works As A PC Build For 3D Modeling And Gaming, While The NVIDIA GPU Makes The Configuration Useful For Graphic Design Applications.\n\nFor Development And AI, This Can Be Considered A PC Build For AI Development, Or A Budget PC Build For AI For Lighter GPU-Based Workloads. It Can Also Serve As A PC Build For Gaming And AI, But The RTX 5050's 8GB VRAM Remains An Important Limitation For More Demanding AI Tasks.\n\nTimestamps:\n00:00 -Intro\n00:52 -CPU\n01:31 -Mobo\n01:55 -Ram\n02:20 -SSD\n02:51 -GPU\n04:37 -PSU\n05:08 -Cooler\n05:30 -Casing\n06:07 -Pricing\n06:18 -Glimpses\n06:57 -Benchmarks\n08:27 -Conclusion\n\n⚖️What About The Ryzen 5 8400F & RTX 5050?\nThe Ryzen 5 8400F Was Chosen As A More Practical Compromise Due To The Recent Increase In Component Prices, Although The Ryzen 5 7500F Would Be The Preferred Choice If The Price Difference Allows. \n\nThe RTX 5050 Was Selected For Its Relatively Affordable Pricing Among Current NVIDIA Options, And The Video Also Compares Its Performance With The RTX 4060 While Discussing Its Important 8GB VRAM Limitation.\n\n💡Why This Build Matters\nThe Main Idea Behind This 110K PC Build BD Is Balance, Combining Gaming, Editing, Design, Development, And General Productivity In One Budget-Friendly System. \n\nIt Can Also Work As A PC Build For Gaming Streaming And Video Editing Or A PC Build For Gaming And Work For Users Who Want One PC For Both Entertainment And Productivity.\n\nMost Importantly, The Video Discusses The Build's Compromises Honestly, Including The Ryzen 5 8400F Being A Step Down From The 7500F And The RTX 5050's 8GB VRAM Limitation. The Included Benchmarks And Real-World Testing Help Show Where This Configuration Performs Well And Where Its Limitations May Matter.\n\n📌Final Verdict\nThis 110K PC Build BD Focuses On A Balanced Mix Of Gaming Performance, NVIDIA GPU Features, Fast Storage, And Overall Versatility, Making It A Practical Reference For Anyone Planning A PC In Bangladesh For Gaming, Editing, Design, Development, And Everyday Work.\n\n🎬𝐖𝐀𝐓𝐂𝐇 𝐎𝐔𝐑 𝐎𝐓𝐇𝐄𝐑 𝐕𝐈𝐃𝐄𝐎𝐒:\n▶️https://youtu.be/xsaToNGQNPE\n▶️https://youtu.be/hj_PJFNHO8w\n▶️https://youtu.be/nt9sqLSGTG0\n▶️https://youtu.be/MLGryj9jkdc\n\nPlease Share With Your Friends And Family🔥Also Don't Forget To Like, Subscribe, And Hit The Notification Bell To Notify You If I Post A New Video. Love From Techolic Bangladesh And God Bless😍\n\n#110kpcbuild #pcbuild #pcbuilderbangladesh #pcbuildinbangladesh #techolicbangladesh",
+      "commentCount": 71,
+      "likeCount": 355,
+      "probeClient": "web_embedded"
+    },
+    "5sFrHBakZMA": {
+      "checkedAt": "2026-08-16T05:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Overcoming CS student challenges is key to long-term success. Learn how to maintain study consistency and avoid burnout today.\n\nBeing a computer science student often feels overwhelming due to the sheer volume of material and the pressure to commit to too many projects. This video breaks down the reality of managing your workload without sacrificing your mental health or academic progress. We examine how to build sustainable habits that keep you moving forward even when your initial enthusiasm fades.\n\nIf you are struggling with coding motivation or feeling stuck in your learning journey, these strategies provide a practical framework to regain focus. By addressing common pitfalls like over-commitment and irregular study patterns, you can develop a more resilient approach to your education. Mastering these skills early helps you balance complex technical tasks with the need for consistent progress.\n\n🔴 Subscribe for more videos: https://www.youtube.com/channel/UCEXwc6mNh7Lakj6lX-7a2Mg\n✅ website: https://www.studywithanis.com\n✅ Facebook: https://www.facebook.com/anisul2010s\n✅ Facebook page: https://www.facebook.com/studywithanis/\n✅ LinkedIn: https://www.linkedin.com/in/anisul2020/\n✅ GitHub: https://github.com/anisul-Islam\n\n🛑 Programming languages? Check out the following playlists:  \n👉 C programming basic to advanced (new): https://youtube.com/playlist?list=PLgH5QX0i9K3r-3-Sqj4eLLopkO4D__sBt&si=hndcYtzs_XjfNpNR\n👉 C programming (old playlist):  https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz\n👉 C Pattern Printing: https://youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD\n👉 C++ :  https://youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL\n👉 Python:  https://youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN\n👉 Java:  https://youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa\n👉 Java swing: https://youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l\n\n🛑  Web development? Checkout following playlists : \n👉 Full-stack web development complete playlist: https://youtube.com/playlist?list=PLgH5QX0i9K3p06YY1fyReA2UK8mh_zsiY&si=waY7IMkGmCH_i7GS\n👉 HTML5 Series: https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3\n👉 CSS3: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO \n👉 bootstrap: https://www.youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG\n👉 JavaScript: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX\n👉 jQuery: https://youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB\n👉 SASS: https://youtube.com/playlist?list=PLgH5QX0i9K3qOvGYtFb3Z7KVMLrijYdqO\n👉 React: https://youtube.com/playlist?list=PLgH5QX0i9K3rGtitufynBKMy5gAFpa1y8\n👉 Node and express.js: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m\n👉 MySQL Database series: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD\n\n🛑 Android development? Check out the following playlists:  \n👉 Android development series:  https://youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5\n\n🛑 HSC Students? Are you worried about ICT? I have created  377 videos for you. check out the following playlists- \n👉 ICT (HSC) Series- https://youtube.com/playlist?list=PLgH5QX0i9K3o8Y-CKhmyodbfHAc9VSVOv\n\n🛑  CSE Students? Checkout following playlists : \n👉 Discrete Math Series: https://youtube.com/playlist?list=PLgH5QX0i9K3rYy9DVhk28m8enSo8xxiZ3\n👉 Theory of Computation (TOC): https://www.youtube.com/playlist?list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0\n👉 Compiler: https://www.youtube.com/playlist?list=PLgH5QX0i9K3oWTwTgILA7v9oysoDgkJDg\n👉 Operating System: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r_SuT0AnOEoElfQQPgkBIq\n👉 AI Bangla: https://www.youtube.com/playlist?list=PLgH5QX0i9K3oFAaeJxjDWA8kEbMutzV6V\n👉 AI (English): https://www.youtube.com/playlist?list=PLgH5QX0i9K3rRVV7oeML93OVAxqQ-CvzV\n👉 Numerical Method: https://www.youtube.com/playlist?list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z\n👉 Networking: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p5OI88r3ob-otmKqIm_DbS\n\n🛑  MS Office? Trying to learn MS Office to improve your skills? Checkout following playlists : \n👉 MS Word: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p21lsneT3cW4CJL4Bd1lJ2\n👉 MS Excel: https://www.youtube.com/playlist?list=PLgH5QX0i9K3ohKCQMR7aopneByGX05iSK\n👉 MS PowerPoint (Sylheti): https://www.youtube.com/playlist?list=PLgH5QX0i9K3pBnrckqfJ2zn7FL6Q_LNcm\n\n🛑  Replying to your comments: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rOy_3R7lYlN92BggSpbWTY\n\n#programming  #anisul_islam #developer",
+      "commentCount": 28,
+      "likeCount": 150,
+      "probeClient": "web_embedded"
+    },
+    "cv2iM1eSIMQ": {
+      "checkedAt": "2026-08-16T05:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Backend Ultimate : https://codeforsuccess.in/courses/backend-ultimate\n\nSPARK 6.0 : https://codeforsuccess.in/courses/java6.0\n\nFollow me on social media for more updates:\n📢 Telegram: https://t.me/+1mgeTabsRk4zZjQ1\n📸 Instagram: https://www.instagram.com/genie_ashwani/\n💼 LinkedIn: https://www.linkedin.com/in/ashwani-kumar-7b986a14b/\n\n\n\nLet me know in the comments section what else you want to see on this channel. Your feedback matters a lot! If you have any questions please comment below.\n\nags:\nroadmap for coding\ndata structures and algorithms\ndsa\ndata structures\ncoding\ndevelopment\narrays\nstrings\nlinked list\ngraphs\ndp\ndynamic programming\nfront end developer\nback end developer\n2023 coding\n\nrecursion\ntrees\nbst\nbinary trees\nhashmaps\nsorting\nc++\njava\npython\ncompetitive programming\nweb development\nfull stack development\nmachine learning\namazon sde\nmicrosoft sde\ngoogle sde\nsoftware engineer\nfaang\nmaang\nhow to become software engineer\nbecome great in dsa\nsoftware developer\njob in coding\namazon software engineer\nmicrosoft software engineer\ngoogle software engineer\nhow to learn dsa\nlearn oops\nlearn c++\nlearn java\nlearn python\nlearn coding\nstart coding\ninternships\nplacements\nhow to start programming\n1 crore package\nroadmap to learn dsa\nroadmap to learn full stack web development\nroadmap to learn coding",
+      "commentCount": 35,
+      "likeCount": 87,
+      "probeClient": "web_embedded"
+    },
+    "-TEatao1HsQ": {
+      "checkedAt": "2026-08-16T05:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Modern Web Commerce is a production-ready e-commerce case study built to explore how a real online store works behind the scenes.\n\nIn this project, I built and connected the systems behind a modern e-commerce application — from the storefront and cart to checkout, payments, inventory, orders, webhooks, and the supporting backend architecture.\n\nIn this video, I give you a tour of the project and walk through some of the engineering decisions behind it.\n\nIf you want to explore the complete implementation yourself, you can find everything here:\n\n📦 Get the complete Modern Web Commerce case study:\nhttps://go.modernweb.in/ODiPeW\n\n🛒 Explore the live demo:\nhttps://go.modernweb.in/VbfPGR\n\n📬 Join the Modern Web newsletter:\nhttps://go.modernweb.in/_k5V7w\n\n\nCHAPTERS\n\n00:00 Intro\n00:52 Why an e-commerce?\n02:06 Storefront in action\n03:58 Behind the scenes\n06:41 Engineering Highlights \n08:46 Production Scenario\n10:58 Testing, Documentations & Developer experience\n12:51 How to get the project ?\n14:43 Outro\n\n\nABOUT THE PROJECT\n\nModern Web Commerce is designed as a realistic production-style e-commerce system rather than a simple tutorial project.\n\nThe goal is to explore the kinds of problems that appear when you move beyond building individual features and start thinking about how the entire system works together.\n\n\nIf you're interested in how real-world web applications are designed, built, and maintained, subscribe for more deep dives and engineering walkthroughs.\n\n\n📩 Need help?\n\nGot a question about the project or running into an issue?\n\nYou can reach out here:\n\nhttps://modernweb.in/support\n\nI'm happy to help where I can.\n\n#Ecommerce #WebDevelopment #SoftwareEngineering",
+      "commentCount": 2,
+      "likeCount": 9,
       "probeClient": "web_embedded"
     }
   }
