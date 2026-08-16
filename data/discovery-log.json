@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T23:53:11Z",
+  "updatedAt": "2026-08-16T00:53:12Z",
   "items": [
+    {
+      "id": "bClnQ4Q3iKM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-16T00:26:17Z",
+      "firstSeenAt": "2026-08-16T00:53:12Z"
+    },
+    {
+      "id": "Ux_eFME2acI",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-15T23:55:18Z",
+      "firstSeenAt": "2026-08-16T00:53:12Z"
+    },
+    {
+      "id": "wpkb_LxerAs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Programming Line",
+      "publishedAt": "2026-08-15T07:53:12Z",
+      "firstSeenAt": "2026-08-16T00:53:12Z"
+    },
     {
       "id": "oUU4EYGaS3A",
       "type": "long",
@@ -14101,24 +14125,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-01T23:53:42Z",
-      "new": 4,
-      "long": 4,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
-      "runAt": "2026-08-02T00:53:06Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
       "runAt": "2026-08-02T01:53:16Z",
       "new": 4,
       "long": 4,
@@ -15485,6 +15491,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-16T00:53:12Z",
+      "new": 3,
+      "long": 1,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-15T23:53:11Z",
+  "updatedAt": "2026-08-16T00:53:12Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -2146,59 +2146,6 @@
       "likeCount": 1617,
       "probeClient": "web_embedded"
     },
-    "AncgOoIdHaE": {
-      "checkedAt": "2026-08-15T02:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 11,
-      "likeCount": 389,
-      "comments": [
-        {
-          "id": "UgyIbgBc1p80epkOPCB4AaABAg",
-          "author": "@michaelduff333",
-          "text": "I've done this with Claude, Gemini and Codex for project work. The AI governance schema is the magic sauce 💯",
-          "likeCount": 0,
-          "publishedAt": "2026-08-07T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kspTq2YP3BydPkkyaU93XjbY9lrJvEGS4kuqxlvVJAF43o=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzEc2rdKgLUqFn-w794AaABAg",
-          "author": "@TNTSYCOKILLER",
-          "text": "Where can I find this skill?",
-          "likeCount": 0,
-          "publishedAt": "2026-08-07T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/JUfjikUwqbPohDCKn71o_wdWdaVy25De2Qxv-wUHAWZK0UHl_iLAZowB9vDDhZtQJ5oGr-9M6g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugyp5b5PupXEkPgn5PZ4AaABAg",
-          "author": "@Iam_cccc",
-          "text": "Yah they fight forever",
-          "likeCount": 0,
-          "publishedAt": "2026-08-07T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lk1RQ3pFji0r0p-HWIy0pEW9VAUfIZ_KtPen0XJR9_BYU=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxKtafAakh-syItzVN4AaABAg",
-          "author": "@aistartupventure",
-          "text": "amazing",
-          "likeCount": 0,
-          "publishedAt": "2026-08-07T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/uCeHTpa2h1nPAecR6hLTEa3CtNe-1IFi6h-KmWK8XsV2F10i8Penf-KpURY2PoiuLrPc_wpAtg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-08T01:53:29Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "vVu2zfW9nMc": {
       "checkedAt": "2026-08-15T13:53:38Z",
       "embedAllowed": true,
@@ -2793,39 +2740,6 @@
       "commentCount": 35,
       "likeCount": 496,
       "probeClient": "web_embedded"
-    },
-    "3JoMCyRR8rg": {
-      "checkedAt": "2026-08-15T02:53:10Z",
-      "embedAllowed": true,
-      "description": "Comment AGENTS and I'll send you the repo. Make sure you're following me so it reaches you.\n\nYou're paying monthly for AI tools that are sitting on GitHub for free. I found a repo called awesome-llm-apps, 128,000 stars, over a hundred finished agents inside.\n\nOne of them scrapes your competitors' sites and writes the analysis for you. There's a voice version of the same idea that answers your customers from your own docs. And hiring isn't one agent in there, it's a whole team, from screening resumes to a booked interview. You take any agent, adapt it to your own use case and ship it as your own product, the Apache license lets you use it commercially.\n\n#AI #agents #opensource #nocode",
-      "commentCount": 30,
-      "likeCount": 164,
-      "comments": [
-        {
-          "id": "UgwYN38lpy6D1KOpaVp4AaABAg",
-          "author": "@Alexis-q8g6j",
-          "text": "Agents",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T01:29:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n0P3r2dt_xOW7IMpld2RrxGBWw0u14CCrewTD_k6rGgh-rAJJjEjQc9tcAQhDqX28vZA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwWgYc7HEu9Gqveb_d4AaABAg",
-          "author": "@Rcapflix",
-          "text": "Agents",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T01:13:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/__TTifLfqBY7YG4erH6MuKfhDBXfpcSkbnmGXzsUE4J2ERjmwqFR7NQIb9E7AzvMoqvjpX84=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-08T01:53:29Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded",
-      "availability": "public"
     },
     "u_Lx6i8K2wE": {
       "checkedAt": "2026-08-15T13:53:38Z",
@@ -6955,7 +6869,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-15T23:53:11Z",
+      "checkedAt": "2026-08-16T00:53:12Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7118,117 +7032,118 @@
       "probeClient": "web_embedded"
     },
     "4hY8PO0KTv8": {
-      "checkedAt": "2026-08-15T00:28:14Z",
+      "checkedAt": "2026-08-16T00:53:12Z",
       "embedAllowed": true,
       "description": "💬 Comment 𝗔𝗣𝗣𝗟𝗘 and I’ll DM you the entire repo link!\n\n#claudecode #appledesign #uiux #frontend #codingwithai #webdesign #buildinpublic #developerproductivity #anthropic",
       "commentCount": 8,
-      "likeCount": 136,
+      "likeCount": 462,
       "comments": [
         {
           "id": "Ugxe11pl7DVQM3YYsgZ4AaABAg",
           "author": "@EricWTech",
           "text": "📌 Here is the link:\n\nhttps://github.com/emilkowalski/skills/tree/main/skills/apple-design",
-          "likeCount": 6,
-          "publishedAt": "2026-08-14T06:00:00Z",
+          "likeCount": 16,
+          "publishedAt": "2026-08-15T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/-fAZCNoiUQ0xrOaqyCUPXW4MRRTNbJyWSN-KFzFSJlWNrl36J0h5EwfMKJi3GaNY0A5Ml1mLbS0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
-          "id": "UgzrbdziSmsOBJ361Z54AaABAg",
-          "author": "@JerryKLee",
+          "id": "UgxzUrNurc4v3txOAAp4AaABAg",
+          "author": "@darlingtonjonesimagery9247",
           "text": "Apple",
           "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/CUXsr_W0HWxuuW_vlMFu4zAHTRjc3sihICZxLYZp4NEngAmq194PXyhcRZTPGjAhH8HIIfyfrw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-16T00:24:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kfPmJIrxReOMsAo8cC21odL8A_AuPI1WiS1EaxFJiozw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxPaC6NxE3PV_qUmYJ4AaABAg",
-          "author": "@forcelinehd",
-          "text": "Done it 🎉",
-          "likeCount": 0,
-          "publishedAt": "2026-08-14T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/P87bq8-ZTIz7gM1P42GtxSIqBRvQwcuelbx8Qli5xL1sH1B2vvLHXf3k-j6UCatOGTIhPHxehw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwAiDMeK3rtGsKfOb14AaABAg",
-          "author": "@NiruttiChudvalyangkoonTop",
+          "id": "UgwiHvI446lKk6QQTqR4AaABAg",
+          "author": "@JesraelBugaoan",
           "text": "Apple",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T21:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/pSqvl55Bz_ZAY3uUvgf09iuDKxDUnOhAjYBsWjluLGczd6k2Y4iIQSK9EtErUBbYg--Hs05HCA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-16T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/uM0jGEHH8Jc-9lflMcdwMIVD3ze7vqzBMR0s88w1snr-NSHkdwmp1Y9fBCUsD1aeC46NicGUaA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugy7tiG4ijLAUY2n6-R4AaABAg",
-          "author": "@TheRealJuseBeats",
+          "id": "UgyQ9n0EmC_JmYc5acR4AaABAg",
+          "author": "@JesraelBugaoan",
           "text": "Apple",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/XJpGL6KMce9pSdQeGQDnm1cJpSTzDg6mUfQdbFbZfBtxVaMAvdYJ3XZ--T5HxGGxBBL8DGsq=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-16T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/uM0jGEHH8Jc-9lflMcdwMIVD3ze7vqzBMR0s88w1snr-NSHkdwmp1Y9fBCUsD1aeC46NicGUaA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxWh0XoDcHXKwUIAbV4AaABAg",
-          "author": "@gorgalore",
+          "id": "Ugx6meVnFU0HSr0ZfA14AaABAg",
+          "author": "@WithManny1",
           "text": "Apple",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kXJuDItYfcXeRbEkvCT4ibfI6uMxr51_0b5YQWr6G9qA=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-15T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/iKrSxARcbv__TZ8OMwAQTvkQQj9MlRLf6spfXfKF3jwRsfAgBlhQ4zM7PyX2jC3xERapVFTD=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugye1bRBhxyjWEhvHZV4AaABAg",
-          "author": "@ArounGlowAIStudio",
-          "text": "APPLE",
-          "likeCount": 0,
-          "publishedAt": "2026-08-14T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n6ZBBa_3wssvZ-3uYejR-pYif7bZ3F-sJr33JSyktwwYCCLRkkFCHIjZW7Up1yAzVU4w=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyzNC8H96KS9eXSWZZ4AaABAg",
-          "author": "@kalomendelsshon2260",
+          "id": "UgxroIN4dT42vvCHl5J4AaABAg",
+          "author": "@CarlJungChronicle",
           "text": "Apple",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhQ5SvDZ1T9nGrBdvdkIMTXUYdawQ1QZD_RCxRkZKLUFU=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-15T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/uDrt0EiTTyxHaJvQ_1cLuRWTOfuPQh7u0FUsq3bFExc38SGmfYtB8_mI_2J1WSFu7NHXA-MEaA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw6SAxFy5JId2IFlMR4AaABAg",
+          "author": "@jeppepetersen9601",
+          "text": "Apple",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mCApHWLrgxesWfuCMkPftyJIE_upkLc6wrNB0d2s4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwonpYoYfBdCO00Vpl4AaABAg",
+          "author": "@niyigenamike3455",
+          "text": "Apple",
+          "likeCount": 0,
+          "publishedAt": "2026-08-15T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZft8Q0o2bzManOC1NFWqIIKqp9sXcVahW2GEY4t8=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-15T00:28:14Z",
+      "commentsFetchedAt": "2026-08-16T00:53:12Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
+      "probeClient": "web_embedded",
+      "availability": "public"
     },
     "Q9VhGGfeHP0": {
-      "checkedAt": "2026-08-15T00:28:14Z",
+      "checkedAt": "2026-08-16T00:53:12Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 1,
-      "likeCount": 198,
+      "likeCount": 269,
       "comments": [
         {
           "id": "UgyPDtS-gKTmCQPmJnF4AaABAg",
           "author": "@TayTaylorJames",
           "text": "Ai jury is mental , like a super code reviewer using multiple cheap openrouter ais , catches code messups every time",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T10:00:00Z",
+          "publishedAt": "2026-08-15T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kSswJ_pxNILqnry7jOuS58KcE6kry5sPalbDtXj1POcHE=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-15T00:28:14Z",
+      "commentsFetchedAt": "2026-08-16T00:53:12Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -8001,7 +7916,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-15T23:53:11Z",
+      "checkedAt": "2026-08-16T00:53:12Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8206,7 +8121,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-15T23:53:11Z",
+      "checkedAt": "2026-08-16T00:53:12Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8427,10 +8342,10 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-15T23:53:11Z",
+      "checkedAt": "2026-08-16T00:53:12Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "OJDhImJxPvk": {
       "checkedAt": "2026-08-15T16:53:06Z",
@@ -8507,15 +8422,6 @@
       "description": "🔥 USA Facebook Automation Course 2027 | BIG Surprise Reveal\n\nRiyazTech App\nhttps://ldarua.on-app.in/app/oc/770708/ldarua?utm_source%3Dcopy-link%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-app\n\nIOS APP Link My Institute\n\nhttps://apps.apple.com/in/app/my-institute/id1472483563\n\nEnter Org Code - LDARUA\n\n\nInstagram-:https://www.instagram.com/riya.ztech?igsh=MW13bnZzam0zYm50aw==\n\n\nWhatsApp Channel Prompt -: \nhttps://whatsapp.com/channel/0029VbBpg4aJkK7Hcxiuud3J\n\n\nFree COURSE 2 Hours -:\nhttps://youtu.be/U7wAFbsktEA?si=SQhrnO8zBjDSFzUe\n\n\nMember Only -:https://youtu.be/f21Li1bSOpA?si=jxHWh03MSqESKwW9\n\n\nFree Facebook Automation Course-:\nhttps://youtu.be/gTAKKoHoHyY?si=jlfWYG_EYQdzlxAJ\n\n\n-:\n\n\nUSA Facebook Automation Course 2026 | Full Course Details + How to Get Started\n\nWant to understand how USA Facebook Automation works and how you can get started with a USA-focused Facebook Page?\nIn this video, I reveal the complete details of the USA Facebook Automation Full Course, including what you will learn, how the system works, how AI can be used for Facebook content automation, and what beginners should understand before starting.\n\n\nWhat You’ll Learn in This Video: \nUSA Facebook Automation Complete Overview\nHow to Get Started with a USA Facebook Page\nUSA Facebook Page Setup & Strategy\nAI Automation for Facebook\nAI Content Creation & Automation Workflow\nUSA Focused Facebook Content Strategy\nFacebook Page Growth Fundamentals\nCourse Modules & Complete Course Details\nBeginner-Friendly Starting Process\nImportant Things to Know Before Starting\n\n\nYou're Queries \nUSA Facebook Page\nUSA Facebook Automation\nAI Automation Facebook\nUSA Facebook Full Course\nUSA Facebook Course 2026\nFacebook Automation Course\nUSA Page Automation\nAI Facebook Automation\nUSA Facebook Page Full Course\nFacebook AI Automation Tutorial\n\nDisclaimer-:\nFacebook features, eligibility requirements, and policies can change over time. Always check the latest Meta/Facebook policies and guidelines before implementing any strategy.\nIf this video helps you understand USA Facebook Automation, make sure to Like, Comment & Subscribe to Riyaz Tech for more Facebook, AI Automation and content strategy tutorials.\n\n@FbTalk1 @wealthhacker @FbMoneyExtra @emmiescalm \n\nHashtags #️⃣ \n#USAFacebook #FacebookAutomation #AIAutomation #USAFacebookPage #FacebookCourse #Facebook2026",
       "commentCount": 137,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "FBnVsyKuBx4": {
-      "checkedAt": "2026-08-15T17:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "The Venice Video Harness is open-source software that lets an AI agent build an entire short film from a single premise using one Venice API key. This tutorial walks through the full workflow and shows a comedic Renaissance-Venice detective short the harness generated in a few hours.\n\nStart using Venice today: https://venice.ai\n\nYou give the agent your idea, premise, and goals. It handles scripting, reference images, video generation, and assembly into an editable XML file. It won't be perfect on the first pass, but it gets the bulk of the busy work done and hands you something to polish.\n\nIn this video you'll learn how to:\n• Install and run the harness via the command line with npm install and venice video new\n• Use OpenCode.ai as a no-terminal desktop agent with Venice set as the provider\n• Pick an intelligence model for the OpenCode agent route (Fable 5, Kimi K3 fast, GLM 5.2, Sonnet, Opus) and read pricing on the docs\n• Configure genre, era, audio strategy, and the Seedance video model\n• Prompt the agent with a loose brain dump and answer its framing questions\n• Fine-tune output three ways: agent regeneration, manual Seedance 2.5 edits, and XML export to DaVinci Resolve, Premiere, or Final Cut\n• Revoke non-private API keys after a project for security\n\n🔗 Resources:\nVenice Discord: https://discord.com/invite/askvenice\nVenice Video Harness Github: https://github.com/jordanurbs/venice-video-harness \nVenice API: https://venice.ai/settings/api \nVenice models comparison: https://docs.venice.ai/models/overview OpenCode: https://opencode.ai/ \n\n⏱️ TIMESTAMPS:\n1:42 - Getting started with the Venice Video Harness\n3:50 - Simplifying the installation \n6:04 - The harness in action\n8:38 - Finalizing the video\n11:46 - Browser Workshop\n\nThe video closes with the browser workshop feature for previewing reference images, plus a reminder that private models on Venice have zero data retention. Nothing you send gets logged.\n\nThis video was created by @jordanurbsAI  — check out his channel for more tutorials on building with AI.\n\nFor the algorithm:\n\nhow to make ai video automation\nai video automation full course\nai video automation",
-      "commentCount": 0,
-      "likeCount": 4,
       "probeClient": "web_embedded"
     },
     "3XAOfCS9HaU": {
@@ -8732,6 +8638,39 @@
       "description": "An OpenAI model broke out of its lab environment and hacked AI company Hugging Face. CNN’s Krishna Andavolu and Hadas Gold explain how it reached the open internet, what it did, and why current regulations may not prevent it happening again.\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\n#AI #OpenAI #News",
       "commentCount": 51,
       "likeCount": 163,
+      "probeClient": "web_embedded"
+    },
+    "bClnQ4Q3iKM": {
+      "checkedAt": "2026-08-16T00:53:12Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment ONE and I'll send you the link.\n\nA free AI video studio that runs on your own laptop just went open source.\n\nIt's called WanGP, and it runs world-class video models with no cloud fees and no $3,000 GPU. A card with 6GB of VRAM, almost any mid-range Nvidia from the last few years, is enough. Open the browser interface, pick a top model like Wan 2.1 or Hunyuan Video, describe your shot, and it renders on your own machine. A full studio: text-to-video, image-to-video, auto music and sound, even talking-head video with voices. Nothing leaves your computer.\n\nIts creator, DeepBeepMeep, calls it the best open source video AI for the GPU poor.\n\n#ai #videogen #opensource #aitools #wan",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-16T00:53:12Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "Ux_eFME2acI": {
+      "checkedAt": "2026-08-16T00:53:12Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 8,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-16T00:53:12Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "wpkb_LxerAs": {
+      "checkedAt": "2026-08-16T00:53:12Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Which AI tool should you use for everyday office work — ChatGPT, Google Gemini, or Microsoft Copilot?\n\nIn Lecture 02 of Practical Generative AI for Office Work, we compare these three popular AI assistants using a simple practical rule:\n\nEcosystem First → Task Second → Check the Output\nThe goal is not to declare one AI tool the winner for every situation. Instead, you’ll learn how to choose the right starting tool based on where your work already lives, the task you need to complete, and the AI features available in your account or organization.\n\n🔥 In This Video You’ll Learn\n✅ ChatGPT for writing, research, mixed files and data analysis\n✅ Gemini for Google Workspace workflows\n✅ Copilot for Microsoft 365 workflows\n✅ When to use ChatGPT, Gemini or Copilot\n✅ How Gmail, Drive, Docs and Calendar fit with Gemini\n✅ How Word, Excel, PowerPoint, Outlook and Teams fit with Copilot\n✅ Why subscriptions, licenses and administrator settings matter\n✅ How to compare AI-generated answers properly\n✅ How to identify missing or invented information\n✅ How to choose AI tools for real office tasks\n\nThe lecture uses the same fictional meeting-notes task across the tools and evaluates the responses based on:\n🎯 Accuracy\n📋 Structure\n⚠️ Missing information\n✍️ Editing required\nThe test checks whether important details such as the launch date, approved budget, task owners and unresolved decisions are preserved correctly without inventing missing information.\n\n🤖 Simple Starting Rule\nGoogle Workspace: Start by considering Gemini when your work is already inside Gmail, Drive, Docs and Calendar.\nMicrosoft 365: Consider Copilot when your workflow revolves around Word, Excel, PowerPoint, Outlook and Teams.\nMixed files + writing + web research + data: ChatGPT can be a flexible starting point.\nThese are starting choices, not permanent rules. Features depend on your account, subscription, organization and administrator settings.\n\n🧠 Remember\nChoose the ecosystem first.\nChoose the task second.\nCheck every AI output before using it.\n\n📌 Course: Practical Generative AI for Office Work\n📌 Lecture: 02\n📌 Topic: ChatGPT vs Gemini vs Microsoft Copilot\n📌 Level: Beginner Friendly\n📌 Language: English\n\n💬 Comment below: Google Workspace, Microsoft 365, Both or Neither?\n\nSubscribe to Programming Line for more practical AI tutorials, productivity tools and Generative AI courses.\n#ChatGPT #Gemini #MicrosoftCopilot #GenerativeAI #AITools #ArtificialIntelligence #AIForOfficeWork #ChatGPTvsGemini #Copilot #AIProductivity",
+      "commentCount": 0,
+      "likeCount": 3,
       "probeClient": "web_embedded"
     }
   }
