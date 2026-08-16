@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T02:53:08Z",
+  "updatedAt": "2026-08-16T03:53:13Z",
   "items": [
+    {
+      "id": "eV-rqZ7c9S8",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-16T03:36:04Z",
+      "firstSeenAt": "2026-08-16T03:53:13Z"
+    },
+    {
+      "id": "bDdNOfeVhXM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-16T03:30:25Z",
+      "firstSeenAt": "2026-08-16T03:53:13Z"
+    },
+    {
+      "id": "1iyO22rO6HM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-16T03:00:35Z",
+      "firstSeenAt": "2026-08-16T03:53:13Z"
+    },
+    {
+      "id": "WklCnG9yfWQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BBC World Service",
+      "publishedAt": "2026-08-15T12:53:13Z",
+      "firstSeenAt": "2026-08-16T03:53:13Z"
+    },
+    {
+      "id": "Lnm-J_WZCsY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CCL IITGN",
+      "publishedAt": "2026-08-15T11:53:13Z",
+      "firstSeenAt": "2026-08-16T03:53:13Z"
+    },
     {
       "id": "sXllEFAEVbk",
       "type": "short",
@@ -14173,15 +14213,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-02T02:53:26Z",
-      "new": 7,
-      "long": 5,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
       "runAt": "2026-08-02T03:53:35Z",
       "new": 2,
       "long": 1,
@@ -15557,6 +15588,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-16T03:53:13Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
