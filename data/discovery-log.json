@@ -1,7 +1,119 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T05:53:15Z",
+  "updatedAt": "2026-08-16T16:11:42Z",
   "items": [
+    {
+      "id": "Z46TGRzuq38",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-16T14:59:01Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "QUvyGqe5IMs",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-16T13:57:00Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "8c-ywnqDoP4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Professor of AI",
+      "publishedAt": "2026-08-16T11:23:17Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "pRkBnjYlhx8",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-16T09:38:43Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "TjLzAtnA38g",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-16T07:20:00Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "HUPRF7MDK8Q",
+      "type": "short",
+      "source": "primary",
+      "channel": "Rahul Iyer AI",
+      "publishedAt": "2026-08-16T06:00:05Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "CpWt5n7IJmQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Technical Suneja",
+      "publishedAt": "2026-08-16T14:11:42Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "mitYnEXTUJg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Harshit Trehan",
+      "publishedAt": "2026-08-16T14:11:42Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "7llxMioCHlc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vivek Gupta",
+      "publishedAt": "2026-08-16T13:11:42Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "-Ao6kVS-J54",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Uplift gen ",
+      "publishedAt": "2026-08-16T11:11:42Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "j5qylkrfBHY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Web Tech Knowledge",
+      "publishedAt": "2026-08-16T10:11:42Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "mJZ0jx3NAKg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Chris Tian",
+      "publishedAt": "2026-08-15T23:11:42Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "YfkeWy-e84M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-08-15T21:11:42Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
+    {
+      "id": "CaBA4WZUpIo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Smash JT",
+      "publishedAt": "2026-08-15T20:11:42Z",
+      "firstSeenAt": "2026-08-16T16:11:42Z"
+    },
     {
       "id": "6JidkHUWgUY",
       "type": "long",
@@ -14257,107 +14369,9 @@
       "channel": "Greg Preece",
       "publishedAt": "2026-05-21T20:55:41Z",
       "firstSeenAt": "2026-05-21T20:55:41Z"
-    },
-    {
-      "id": "Ei5QnJlGVxc",
-      "type": "long",
-      "source": "primary",
-      "channel": "Hasan Aboul Hasan",
-      "publishedAt": "2026-05-18T12:31:43Z",
-      "firstSeenAt": "2026-05-18T12:31:43Z"
     }
   ],
   "runs": [
-    {
-      "runAt": "2026-08-02T06:53:30Z",
-      "new": 2,
-      "long": 1,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
-      "runAt": "2026-08-02T07:53:31Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
-      "runAt": "2026-08-02T08:53:32Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
-      "runAt": "2026-08-02T09:53:32Z",
-      "new": 5,
-      "long": 3,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
-      "runAt": "2026-08-02T10:53:10Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
-      "runAt": "2026-08-02T11:53:18Z",
-      "new": 3,
-      "long": 2,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
-      "runAt": "2026-08-02T12:53:27Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
-      "runAt": "2026-08-02T13:53:35Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
-      "runAt": "2026-08-02T14:53:36Z",
-      "new": 5,
-      "long": 2,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
-      "runAt": "2026-08-02T15:53:14Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
     {
       "runAt": "2026-08-02T17:53:15Z",
       "new": 10,
@@ -15659,6 +15673,15 @@
       "new": 5,
       "long": 5,
       "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-16T16:11:42Z",
+      "new": 14,
+      "long": 8,
+      "shorts": 6,
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
