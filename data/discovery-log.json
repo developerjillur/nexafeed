@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T18:53:41Z",
+  "updatedAt": "2026-08-16T19:53:06Z",
   "items": [
+    {
+      "id": "FGFit4hA5pE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-16T19:00:32Z",
+      "firstSeenAt": "2026-08-16T19:53:06Z"
+    },
+    {
+      "id": "8rI_1fBI_wo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AmeriLife Marketing Mentors",
+      "publishedAt": "2026-08-16T18:53:06Z",
+      "firstSeenAt": "2026-08-16T19:53:06Z"
+    },
+    {
+      "id": "zLLsdIJTF6g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BotBee AI | Business Automation",
+      "publishedAt": "2026-08-16T14:53:06Z",
+      "firstSeenAt": "2026-08-16T19:53:06Z"
+    },
+    {
+      "id": "lUVYxhxbho8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ai With Daniyal",
+      "publishedAt": "2026-08-16T12:53:06Z",
+      "firstSeenAt": "2026-08-16T19:53:06Z"
+    },
+    {
+      "id": "CaWz25-lzH4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Labib Digital Marketing Expert",
+      "publishedAt": "2026-08-16T07:53:06Z",
+      "firstSeenAt": "2026-08-16T19:53:06Z"
+    },
+    {
+      "id": "x9naYAkvIbs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lương Chí Công",
+      "publishedAt": "2026-08-16T03:53:06Z",
+      "firstSeenAt": "2026-08-16T19:53:06Z"
+    },
+    {
+      "id": "C4PXjP2b5xA",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Legit Business: Digital Marketing Course & Reviews",
+      "publishedAt": "2026-08-16T02:53:06Z",
+      "firstSeenAt": "2026-08-16T19:53:06Z"
+    },
+    {
+      "id": "9fJoTARtg4c",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Profitable Creators",
+      "publishedAt": "2026-08-15T19:53:06Z",
+      "firstSeenAt": "2026-08-16T19:53:06Z"
+    },
+    {
+      "id": "UqtLD2hvyVY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Good Nuel",
+      "publishedAt": "2026-08-15T19:53:06Z",
+      "firstSeenAt": "2026-08-16T19:53:06Z"
+    },
     {
       "id": "7hQTGOAt_h0",
       "type": "long",
@@ -15823,6 +15895,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-16T19:53:06Z",
+      "new": 9,
+      "long": 7,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
