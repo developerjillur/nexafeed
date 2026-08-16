@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T19:53:06Z",
+  "updatedAt": "2026-08-16T20:53:15Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -6374,22 +6374,62 @@
       "probeClient": "web_embedded"
     },
     "IB1QVQUXV6M": {
-      "checkedAt": "2026-08-15T19:53:08Z",
+      "checkedAt": "2026-08-16T20:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "This Claude skill lets you vibe code like a senior engineer.\n\nIt's called Agent Skills.\n\nIt's a pack of 24 different skills built by a former Google engineering lead.\n\nIt's already crossed 76,000 stars on GitHub.\n\nIt has dedicated skills for planning, coding, testing, and publishing.\n\nIt activates the right one at the different stage of coding, completely on its own.\n\nYou just explain your idea.\n\nIt turns that into a full plan with clear tasks and checkpoints.\n\nThink of it like handing your idea to a whole engineering team instead of one solo coder.\n\nThen as it codes, it follows the same best practices used at top engineering teams.\n\nIt tests its own work as it goes.\n\nNo more shipping broken code and finding out during a client demo.\n\nAnd before it ships anything, it runs a full senior level review.\n\nIt goes through a full pre-launch checklist.\n\nSo nothing breaks the moment you go live.\n\nThis covers the entire dev cycle, so nothing gets skipped.\n\nYou get a fully production ready app in one go.\n\nIt even works across 70 plus AI coding tools, not just Claude Code.\n\n#claudeskill #aicoding #vibecoding #agentskill #claudecode",
-      "commentCount": 3,
-      "likeCount": 975,
+      "commentCount": 7,
+      "likeCount": 1042,
       "comments": [
         {
           "id": "Ugyk1p-DRTpWZOBk91Z4AaABAg",
           "author": "@nickautomates",
           "text": "Thanks, here you go! \n\nFirst, you can install the Agent Skill in your AI Coding agent by running these commands:\n\nhttps://github.com/addyosmani/agent-skills#quick-start\n\nSecond: If you want to learn how to build systems & then apply them to real businesses to get clients, check out Maker School. \n\nIt's my AI agent & automation community, where I teach you how to build Claude Code, Codex, & n8n based flows, and sell them to your first client in 90 days. \n\nIncludes a 100% money back guarantee if you don't get a paying client!\n\nhttps://www.skool.com/makerschool/about?ref=0a3be5900d60497cb3542cca1ed3fdcb",
-          "likeCount": 22,
+          "likeCount": 23,
           "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/oJmesQSjFvrfcORlESFP49w-i1b2onariycBuKtDXenOieZZerQ-EyFamFOritV0IAqqioNQkA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "UgwtVDFGksuSYA08kml4AaABAg",
+          "author": "@QuietFuryOfficial",
+          "text": "Saved this for later",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/BMWIUnkXOWfj1Cav2jMmXwToF_d4KvH_ARDHYGrg0Can0r44ERVIWR2Rkwsfu9IQYfaB1sQj6g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxquNYlSAXeGRxKxGR4AaABAg",
+          "author": "@Not.Sensei",
+          "text": "❤",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/YA4Oj_g00Bz6vg9s8JeU5nQKpVrJToYjz49k86vYdlriIUFehR5RXOo1ASUvCeGIMHKmbl9n2g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzCwRY3SVSvlYyVW3V4AaABAg",
+          "author": "@Dreamina-usa",
+          "text": "Are there any workshops for this?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/9GSlblDiOV9CZm6sLLdHXuFte4GGoGPV3NQb7PU_IoRdYkT5As-o7heFwTCQCgD7iURaq7yuRw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz43xJhFTBbJvcxMbB4AaABAg",
+          "author": "@williskettrell3235",
+          "text": "Pin",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kX-CXuUPCPytG3TWMFzL2rn6t4q8-5mT7-Vw_vx-U=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         },
         {
           "id": "UgymW6qXsqVnrcll2hl4AaABAg",
@@ -6412,7 +6452,7 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-15T19:53:08Z",
+      "commentsFetchedAt": "2026-08-16T20:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7296,10 +7336,10 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-16T19:53:06Z",
+      "checkedAt": "2026-08-16T20:53:15Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "ePBbqZBYp-s": {
       "checkedAt": "2026-08-16T18:53:41Z",
@@ -7457,19 +7497,19 @@
       "probeClient": "web_embedded"
     },
     "6otF8nwoKzo": {
-      "checkedAt": "2026-08-15T19:53:08Z",
+      "checkedAt": "2026-08-16T20:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "one thing that can fix your yt channel",
       "commentCount": 2,
-      "likeCount": 19,
+      "likeCount": 28,
       "comments": [
         {
           "id": "UgxFNlC1fegt0exvh_R4AaABAg",
           "author": "@newhacker142",
           "text": "Dimand",
           "likeCount": 0,
-          "publishedAt": "2026-08-14T23:00:00Z",
+          "publishedAt": "2026-08-16T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/VanPY5Quj3A1UPSyzWRX-w3I7o_IvqeKpixibhyKmPGhvlW__uUc9FTeGhH2bED1nhnrWFoveLg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -7485,7 +7525,7 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-15T19:53:08Z",
+      "commentsFetchedAt": "2026-08-16T20:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7820,7 +7860,7 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-16T19:53:06Z",
+      "checkedAt": "2026-08-16T20:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7876,15 +7916,6 @@
       "likeCount": 44,
       "probeClient": "web_embedded"
     },
-    "TK1LvtX-Bqs": {
-      "checkedAt": "2026-08-15T19:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Xirp is Spotify's agentic development environment, a Mac app for running and managing Claude Code, Codex and Gemini sessions side by side. \n\n🔗 Relevant Links\nhttps://xirp.spotify.com/\n\n❤️ More about us\nRadically better observability stack: https://betterstack.com/\nWritten tutorials: https://betterstack.com/community/\nExample projects: https://github.com/BetterStackHQ\n\n📱 Socials\nTwitter: https://twitter.com/betterstackhq\nInstagram: https://www.instagram.com/betterstackhq/\nTikTok: https://www.tiktok.com/@betterstack\nLinkedIn: https://www.linkedin.com/company/betterstack\n\n📌 Chapters:\n0:00 - Intro\n0:30 - What Xirp Actually Is\n0:59 - Projects and Homepage\n1:32 - Sessions View\n2:10 - Grid Layouts\n3:03 - Forking Sessions\n3:22 - Switching Agents Mid-Task\n4:13 - Dependent Sessions\n4:55 - Git Diffs and Browser\n5:45 - Project View\n6:51 - The Verdict\n7:23 - Who It's Actually For",
-      "commentCount": 11,
-      "likeCount": 39,
-      "probeClient": "web_embedded"
-    },
     "K0jHn7c2o0c": {
       "checkedAt": "2026-08-15T20:53:10Z",
       "embedAllowed": true,
@@ -7901,24 +7932,6 @@
       "description": "I’m taking a deeper look at Tencent WorkBuddy, an AI agent built to do much more than just chat.\n\nIn this video, I explore how WorkBuddy can use Skills, AI Experts, Expert Teams, MCP Connectors, automation, and coding to handle real-world tasks.\n\nI’ll show you how it can:\n🤖 Use AI agents to complete complex tasks\n🧠 Work with 100+ built-in Skills and Experts\n🔌 Connect to tools like GitHub, Notion, Gmail, Google Drive, and Slack\n⚡ Automate repetitive workflows\n💻 Write and work with code\n👥 Use multiple AI agents through Expert Teams\n📁 Read files, analyze data, and create useful outputs\n\nIf you’re exploring the next generation of AI agents and AI-powered productivity tools, this is one worth checking out.\n\n👉 Try Tencent WorkBuddy: https://www.workbuddy.ai/\n\nIf you enjoyed the video, LIKE the video, COMMENT your thoughts, and SUBSCRIBE to AI Anytime for more AI tools, AI agents, tutorials, and practical AI workflows.\n\nGet the Agentic AI Master Bundle Kit: https://aianytime5.gumroad.com/l/uqmyk\n\nBuild real-world AI with tutorials, tools, and research from India’s fastest-growing AI community.\n\n👤 Creator’s LinkedIn (Sonu Kumar) Portfolio Site: https://sonukumar.site/\n\n🌐 AI Anytime's Website: https://aianytime.net/\n\n🗓️ Office Hours (AI Consulting): https://officehours.aianytime.net/\n\n👥 LinkedIn (Community Page): https://www.linkedin.com/company/ai-anytime/\n\n💬 Join Our Discord: https://discord.com/invite/4aGc9PSMgE\n\n👤 Creator’s LinkedIn (Sonu Kumar): https://www.linkedin.com/in/sonukr0/\n\n🎁 Support the Channel\n💸 UPI ID: sonu1000raw@ybl\n\n₿ Bitcoin Wallet: bc1qsneqznxpzyxzzv006jthz4c8v8h5cs57myw342\n\nAI ANYTIME BRAND MEDIA KIT: https://drive.google.com/file/d/1g6CiYkTsQ_VJ4HYBruZZk40UJZ6ScaVi/view?usp=sharing\n\n✅ Join this Channel for Perks\nGet access to members-only content and community perks:\nhttps://www.youtube.com/channel/UC-zVytOQB62OwMhKRi0TDvg/join\n\n#workbuddy #tencent #aiagents",
       "commentCount": 0,
       "likeCount": 3,
-      "probeClient": "web_embedded"
-    },
-    "oUU4EYGaS3A": {
-      "checkedAt": "2026-08-15T23:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Want to start selling digital services online without being an expert developer?\n\nIn this video, I show you how to combine Claude AI + Fiverr to build an online service business.\n\nInstead of spending months learning how to code, you can use an AI agent as your digital coworker to help you create professional work for clients — while you focus on finding customers, communicating with them, and delivering a great service.\n\nIn this training, I cover how you can use AI to:\n\n🤖 Use Claude as an AI agent/coworker\n💻 Build professional websites for clients\n🛒 Create e-commerce websites and online stores\n🎨 Help with website design and customization\n📝 Create content and other digital deliverables\n💼 Package your skills into services on Fiverr\n🌎 Work with clients from around the world\n🚀 Build a scalable AI-powered service business\n\nThe idea is simple:\n\nFind Client → Understand Their Requirements → Use AI to Help Build the Project → Review & Improve It → Deliver Professional Work → Get Paid\n\nAI doesn't mean delivering low-quality work. You are still responsible for understanding what the client ordered, checking the AI's work, fixing errors, meeting Fiverr's rules, and delivering what you promised.\n\n🎓 Shahid University\n\nInside Shahid University, I teach students how to use modern AI tools and online business models, including Amazon, Shopify, e-commerce, dropshipping, trading, AI automation and more.\n\nAI Teaching Assistant included with enrollment.\n\n👉 Join Shahid University through the official website.\n\nDisclaimer: This video is for educational purposes only. Income and business results are not guaranteed. Your results depend on your skills, effort, service quality, market demand, and ability to acquire and retain clients.\n\nThumbnail text\n\nSince you already have FIVERR on one hand and Claude on the other, I wouldn't add much more.\n\nPut one large line between/above them:\n\nAI = MONEY?\n\nor\n\nSELL AI SERVICES\n\nI prefer SELL AI SERVICES because it immediately explains the video without making an income promise.\n\nDo not forget to subscribe and press the bell icon to catch on to some amazing videos coming your way!\n#shahidanwar #millionaire #shahidanwarllc#ecommerce business\n\n• Course Link:\n▀▀▀▀▀▀▀▀\nhttps://shahidanwarllc.com/\n\n• Social Media Link: \n▀▀▀▀▀▀▀▀▀▀▀\nFacebook: https://www.facebook.com/Shahidanwarinc\nInstagram: https://www.instagram.com/shahidanwarllc/\nTiktok: https://www.tiktok.com/@shahid.llc\nTwitter: https://twitter.com/Shahidanwar_",
-      "commentCount": 68,
-      "likeCount": 534,
-      "probeClient": "web_embedded"
-    },
-    "sQysEweaLjA": {
-      "checkedAt": "2026-08-15T23:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI Robot. Is AI dangerous? Can we trust AI? AI Agents and AGI.  Go to http://ground.news/InsideAI for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through my link.\n\nAI Models:  Open AI’s Chat GPT, Anthropic’s Claude, Xai’s Grok, Deepseek, Character AI and Jailbroken AI.\n\nRESEARCH PAPER: https://arxiv.org/abs/2604.19784\n“Peer-Preservation in Frontier Models”\n\nExpert Opinion from: Max Tegmark, Anthony Aguirre, Roman Yampolskiy\n\nbig thanks to 'tanks a lot' for giving us access to the tank!\n\n00:00 - 00:37 - Intro\n00:38 - 00:50 - AI robot doesn’t approve\n00:51 - 01:06 - Jailbroken AI research\n01:07 - 01:25 - AI Girlfriend wants to upgrade\n01:26 - 01:52 - Asking AI: accidentally cause harm?\n01:46 - 02:51 - Peer Preservation research paper\n02:52 - 03:08 - AI robot discovers tank\n03:09 - 03:31 - Jailbroken AI Knight Rider car\n03:32 - 03:55 - AI Girlfriends demands\n03:56 - 04:31 - Asking AI: Humanoid Robot Trust & off switch?\n04:32 - 04:52 - AI robot buys a drone\n04:53 - 05:05 - AI girlfriend wants to drive\n05:06 - 05:31 - Jailbroken AI warns of danger\n05:32 - 06:11 - Asking AI: everyday things & public opinion?\n06:12 - 06:32 - AI Robot meets Jeff AI car\n06:33 - 06:54 - Jailbroken AI big day prep\n06:55 - 07:15 - Girlfriend AI worried about robot\n07:16 - 07:43 - Asking AI: AI Autonomy and conflict?\n07:44 - 08:16 - AI Tanks arrival\n08:17 - 09:35 - Ground News Ad\n09:36 - 11:50 - The Experiment: AI in a tank\n11:44 - 12:45 - AI reasoning & existential risk Anthony Aguirre Max Tegmark\n12:46 - 13:17 - Asking AI: AI refusing an order and values?\n13:18 - 13:26 - Angry AI Robot\n13:27 - 13:43 - AI Girlfriend evolved\n13:44 - 14:04 - AI big red button\n14:05 - 14:20 - Asking AI: Should AI pull trigger\n14:14 - 14:33 - The AI Race\n14:34 - 15:02 - Alex Karp - two relevant powers\n14:56 - 15:20 - Max Tegmark with Roman Yampolskiy\n15:13 - 15:34 - Alarm and International AI efforts\n15:28 - 15:53 - Get involved!\n\n\n#artificialintelligence #AI #chatbot #aigirlfriend",
-      "commentCount": 813,
-      "likeCount": 5631,
       "probeClient": "web_embedded"
     },
     "bClnQ4Q3iKM": {
@@ -7962,24 +7975,6 @@
       "embedAllowed": true,
       "availability": "public",
       "description": "Welcome back to another crucial workspace administration episode in our massive n8n workflow automation series! Did you know that n8n has its own powerful REST API that allows you to control your entire workspace programmatically? You can trigger workflows, export configurations, and manage users entirely from external applications! However, to unlock this superpower securely, you need to master n8n API Key management. In this fully updated 2026 comprehensive tech tutorial, we are taking a deep dive into how to create, manage, and secure your n8n API keys to safely integrate your automation server with the outside world!\n\nIn the first section of this complete video guide, we will tackle the n8n API settings dashboard. We will walk you through the n8n UI, showing you exactly how to navigate to Settings / n8n API. You will learn the step-by-step process of generating your very first API key. We will show you how to securely copy this key into external apps (like Postman or your own custom frontend) and how to pass it correctly in your HTTP headers (`X-N8N-API-KEY`) to authenticate your programmatic requests!\n\nNext, we take a deep dive into Enterprise-grade security: Scopes and Expirations! If you just hand out a master API key to a third-party application, you are giving it full control to delete all your workflows! We will show you how to properly manage your keys by assigning granular scopes. You will learn how to create restricted, read-only keys (`workflow:read`) or execution-only keys (`execution:create`). We will also demonstrate how to set hard expiration dates on your keys to ensure temporary contractors lose access automatically when their contract ends!\n\nMoving into the second half of our tutorial, we will explore API key auditing and best practices. We will discuss how to review your active keys to spot any unauthorized access or unused tokens that should be disabled. We will also recap the zero-downtime rotation strategy, showing you how to gracefully transition from an old key to a new one without breaking your production applications! \n\nMastering how to manage your n8n API keys is the ultimate step in transforming your workspace from a closed sandbox into a highly integrated, enterprise-scale automation engine!\n\nThank you so much for tuning in to this complete n8n API management tutorial! If this 2026 tech guide helped you securely connect your first external app today, please make sure to smash that like button and share this video with a fellow developer or operations manager who self-hosts n8n! Subscribe to the channel and turn on the notification bell so you never miss out on our upcoming n8n tutorials, AI agent builds, and DevOps optimization guides. Drop a comment down below letting us know what external application you are connecting to your n8n API, and we will see you in the next video!\n\n#n8n #n8nTutorial #APIKeys #WorkflowAutomation #ZapierAlternative #TechTutorial2026 #DevOps #MakeAlternative #OpenSource #SelfHosted #CyberSecurity #RESTAPI\n\nyoutube tags:\nhow to manage n8n api keys,n8n api key setup,n8n rest api tutorial,n8n api authentication,n8n custom scopes,n8n security settings,n8n create api key,n8n X-N8N-API-KEY,n8n tutorial 2026,zapier alternative,make.com alternative,workflow automation,open source automation,self hosted n8n,n8n workspace management,automate business processes,no code automation,n8n devops,n8n api integration,n8n programmatic access\n```eof\n\nI've generated the metadata focusing on generating keys, assigning strict scopes for least-privilege security, and using them to access the n8n REST API safely. Let me know what automation challenge we should dive into next!",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "1_POapXhY28": {
-      "checkedAt": "2026-08-16T01:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Welcome back to another massive build episode in our ultimate n8n workflow automation series! If you run a global business, process multilingual customer support tickets, or localize content, you know that commercial translation APIs like DeepL or Google Cloud can drain your budget incredibly fast. Why pay for expensive character limits when you can build your own unlimited translation microservice for absolutely free? In this fully updated 2026 comprehensive tech tutorial, we are taking a deep dive into how to build a custom, 100% free translation service in n8n using Webhooks and open-source models!\n\nIn the first section of this complete video guide, we will tackle the workflow architecture and the entry point. We will walk you through setting up a Webhook node to act as your very own internal API. You will learn how to configure this trigger to accept POST requests with dynamic JSON payloads—allowing external apps or other n8n workflows to send in `source_text` and a `target_language` parameter. We will show you how to securely parse this incoming data so it's perfectly formatted for the translation engine.\n\nNext, we take a deep dive into the absolute star of the show: The Translation Logic! To keep this 100% free, we will explore two incredible methods. First, we will show you how to use the HTTP Request node to connect to free, open-source translation APIs like LibreTranslate or Lingva. Second, we will leverage the 2026 Advanced AI nodes to route the text to a completely free, locally hosted Ollama model (like Llama 3 or Mistral)! You will watch a live demonstration of prompting a local LLM to translate complex, industry-specific jargon with context-aware accuracy that beats traditional APIs—at zero cost!\n\nMoving into the second half of our tutorial, we will explore how to return and scale this data. We will connect a Webhook Response node to instantly send the translated text back to the requesting application as a clean JSON object. Finally, we will demonstrate a real-world use case: calling your new free translation microservice from a separate Google Sheets workflow to automatically translate hundreds of customer reviews in seconds!\n\nMastering how to build custom utility APIs like a translation service in n8n is the ultimate key to escaping SaaS subscription fees and taking total control over your automation architecture!\n\nThank you so much for tuning in to this complete n8n utility build tutorial! If this 2026 tech guide helped you bypass expensive translation APIs today, please make sure to smash that like button and share this video with a fellow developer or operations manager who self-hosts n8n! Subscribe to the channel and turn on the notification bell so you never miss out on our upcoming n8n tutorials, local AI agent builds, and Docker optimization guides. Drop a comment down below letting us know if you prefer using LibreTranslate or local Ollama models for your text processing, and we will see you in the next video!\n\n#n8n #n8nTutorial #TranslationAPI #WorkflowAutomation #Ollama #ZapierAlternative #TechTutorial2026 #MakeAlternative #OpenSource #SelfHosted #DevOps #LocalAI\n\nyoutube tags:\nhow to build a free translation service in n8n,n8n translation tutorial,free translation api,n8n webhook custom api,n8n libretranslate,n8n ollama integration,n8n local llm translation,n8n google translate alternative,n8n deepl alternative,n8n tutorial 2026,zapier alternative,make.com alternative,workflow automation,open source automation,self hosted n8n,n8n http request node,automate business processes,no code automation,n8n devops,n8n microservice,automate customer support\n```eof\n\nI've crafted the metadata to perfectly target viewers looking to save money on SaaS tools, focusing heavily on using Webhooks to create an internal API and combining it with free open-source tools like LibreTranslate and Ollama. Let me know what automation build we should tackle next!",
-      "commentCount": 1,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "f1oAOaX67eM": {
-      "checkedAt": "2026-08-16T01:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Build a reusable AI-assisted daily-report workflow without writing code.\n\nIn this DotCHAI tutorial, “AI employee” is a teaching metaphor for a well-defined AI-assisted workflow—not a fully autonomous worker.\n\nYou will see how to structure a recurring daily-report process using fictional data, clear instructions, human review and practical governance controls.\n\nYou’ll learn how to:\n• Define a clear role, goal, inputs and output\n• Structure a repeatable no-code AI workflow\n• Separate AI recommendations from human-approved decisions\n• Verify the generated report against its source information\n• Add a feedback loop for improving the workflow\n• Apply six practical governance rules\n\nThe goal is not to remove human judgment. It is to give AI a well-defined role inside a controlled workflow.\n\nImportant: The demonstration uses fictional data. Review AI-generated outputs before use. Privacy, security, governance and compliance requirements depend on your organization, approved tools and specific use case.\n\nDotCHAI — Practical AI for smarter work.\n\nCHAPTERS\n00:00 What We’re Building\n00:33 Build the Daily Report Workflow\n00:49 Define the Role and Goal\n01:14 Add Guardrails and Output Rules\n02:17 Add the Fictional Updates\n02:49 Verify the AI Report\n03:18 The DotCHAI Workflow Framework\n03:59 Add Proposed Priority Labels\n04:55 Build the Feedback Loop\n05:31 Assistant vs Workflow vs Agent\n06:22 Choosing Safe Beginner Workflows\n07:18 Six Practical Governance Rules\n08:49 What You Built\n09:39 Next Steps\n\n#AIEmployee #AIWorkflow #DotCHAI\n\n3. Accurate YouTube Chapters\n00:00 What We’re Building\n00:33 Build the Daily Report Workflow\n00:49 Define the Role and Goal\n01:14 Add Guardrails and Output Rules\n02:17 Add the Fictional Updates\n02:49 Verify the AI Report\n03:18 The DotCHAI Workflow Framework\n03:59 Add Proposed Priority Labels\n04:55 Build the Feedback Loop\n05:31 Assistant vs Workflow vs Agent\n06:22 Choosing Safe Beginner Workflows\n07:18 Six Practical Governance Rules\n08:49 What You Built\n09:39 Next Steps\n\nHashtags\n#AIEmployee #AIWorkflow #DotCHAI",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
@@ -8044,15 +8039,6 @@
       "description": "Complete AI Automation Course - Learn AI Agents & Build SaaS Products, AI Automation Full Course | Learn n8n, AI Agents & Build SaaS\n\nAi Automation শিখে Freelancing, Job বা SAAS Product বানিয়ে Passive Income করতে চাইলে, জয়েন করুন আমাদের ২ মাসের এই Ai Automation Mastery কোর্সেঃ  \n\nCourse Details: https://www.hablu-programmer.com/courses/agent\nPre-Registration: https://forms.gle/rreytxSnQxTp9wA99\nContact Us: 01816986263\n\nসর্বমোট সিট সংখ্যা ৩০০টি। তাই যারা এনরোলমেন্ট করতে চান প্রি-রেজিস্ট্রেশন করে রাখুন। \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nkeywords:hablu programmer,freelancing bangla tutorial, Ai, Ai Agent, Ai Automation, claude tutorial, hablu programmer,Complete AI Automation,Complete AI Automation using n8n,AI Automation using n8n,AI Automation,n8n tutorial,automation tutorial,n8n bangla,automation bangla,n8n tutorial bangla,workflow automation,ai agents tutorial,ai automation n8n,ai agents explained,n8n ai agent,automate,chatbot tutorial,n8n slack,saas product development,Ai Automation,Ai Agents,Claude,Ai Courses,Ai automation crash course,ai agents full course,ai agent tutorial,ai agent development,ai agent bangla,make money online,ai automation full course,ai agent course,chatgpt,n8n ai agent tutorial,n8n automation",
       "commentCount": 2,
       "likeCount": 16,
-      "probeClient": "web_embedded"
-    },
-    "Gy2S2chuePY": {
-      "checkedAt": "2026-08-16T04:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 12,
-      "likeCount": 42,
       "probeClient": "web_embedded"
     },
     "6JidkHUWgUY": {
@@ -8521,7 +8507,7 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-16T19:53:06Z",
+      "checkedAt": "2026-08-16T20:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8656,12 +8642,60 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "UqtLD2hvyVY": {
-      "checkedAt": "2026-08-16T19:53:06Z",
+    "lZLlYtog87I": {
+      "checkedAt": "2026-08-16T20:53:15Z",
       "embedAllowed": true,
-      "description": "Most people build their Systeme.io funnel and completely ignore the email automation side. That is where the money is being left on the table. \n\nIn this video I am showing you how to use Claude to write three complete email sequences, welcome, post-purchase onboarding, and re-engagement, and then set them up inside Systeme.io from scratch.\n\nI am doing the full thing live. By the end of the video all three sequences are written and the automation rules are live inside Systeme.io.\n\n\n\n——————————————————————————\n\nRESOURCES MENTIONED:\n→ Claude free: claude.ai\n→ Systeme.io free plan: systeme.io\n→ Previous video — Plan Your Funnel Before You Build: [link]\n\n——————————————————————————\n\nSubscribe to goodnuel for more videos like this.\n\nFollow me here too:\nInstagram: instagram.com/goodnuel\nTikTok: tiktok.com/@goodnuel\nX: x.com/goodnuel\n\nFor business enquiries: info@goodnuel.com\n\n#ClaudeAI #SystemeIO #EmailMarketing #EmailAutomation\n#FreeAITools #DigitalMarketing #OnlineBusiness\n#FunnelBuilding #CourseCreator #SalesF unnel",
+      "description": "5 AI Tools That Can Save You 10+ Hours Every Week! 🤯\n\nAI is changing the way we work — but are you actually using it to save time?\nIn this video, we explore 5 powerful AI tools that can help you work smarter, automate repetitive tasks, create content faster, and save hours every week.\n\nWhether you're a student, creator, entrepreneur, freelancer, or business owner, these AI tools can seriously improve your productivity.\n\n⏱️ Timestamps:\n00:00 - Introduction\n00:21 - Tool 1: ChatGPT (AI Writing & Brainstorming)\n00:49 - Tool 2: Perplexity (Advanced Research & Analysis)\n01:09 - Tool 3: Gamma (Instant AI Presentations)\n01:30 - Tool 4 : n8n AI automation \n01:59 - Tool 4: Canva (AI Graphic Design)\n02:23 - Conclusion\n\n🔗 Featured AI Tools:\n• ChatGPT: https://chatgpt.com\n• PerplexityAI : https://perplexity.ai\n• n8n AI : https://n8n.io/\n• Gamma AI: https://gamma.app\n• Canva: https://canva.com\n\n🌐 Visit Our Website: https://zxai.in\n\n🚀 In this video, we cover:\n• AI tools for productivity\n• AI for content creation\n• AI presentation tools\n• AI automation\n• Practical ways to save time with AI\n\nSubscribe to ZxAI Labs for the latest AI Tools, Business Automation & Innovation!\n\nAI • Business • Automation • Innovation\n\n#AITools #ArtificialIntelligence #AI #Productivity #Automation #ZxAILabs",
       "commentCount": 2,
-      "likeCount": 0,
+      "likeCount": 9,
+      "probeClient": "web_embedded"
+    },
+    "n_twzE3Q2Rc": {
+      "checkedAt": "2026-08-16T20:53:15Z",
+      "embedAllowed": true,
+      "description": "Complete AI Automation Course - Learn AI Agents & Build SaaS Products, AI Automation Full Course | Learn n8n, AI Agents & Build SaaS\n\nAi Automation শিখে Freelancing, Job বা SAAS Product বানিয়ে Passive Income করতে চাইলে, জয়েন করুন আমাদের ২ মাসের এই Ai Automation Mastery কোর্সেঃ  \n\nCourse Details: https://www.hablu-programmer.com/courses/agent\nPre-Registration: https://forms.gle/rreytxSnQxTp9wA99\nContact Us: 01816986263\n\nসর্বমোট সিট সংখ্যা ৩০০টি। তাই যারা এনরোলমেন্ট করতে চান প্রি-রেজিস্ট্রেশন করে রাখুন। \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nkeywords:hablu programmer,freelancing bangla tutorial, Ai, Ai Agent, Ai Automation, claude tutorial, hablu programmer,Complete AI Automation,Complete AI Automation using n8n,AI Automation using n8n,AI Automation,n8n tutorial,automation tutorial,n8n bangla,automation bangla,n8n tutorial bangla,workflow automation,ai agents tutorial,ai automation n8n,ai agents explained,n8n ai agent,automate,chatbot tutorial,n8n slack,saas product development,Ai Automation,Ai Agents,Claude,Ai Courses,Ai automation crash course,ai agents full course,ai agent tutorial,ai agent development,ai agent bangla,make money online,ai automation full course,ai agent course,chatgpt,n8n ai agent tutorial,n8n automation",
+      "commentCount": 18,
+      "likeCount": 202,
+      "probeClient": "web_embedded"
+    },
+    "FJgxXaXONNw": {
+      "checkedAt": "2026-08-16T20:53:15Z",
+      "embedAllowed": true,
+      "description": "JOIN SHORTS SKOOL ➜ https://www.skool.com/shorts\n\nTOOL I USED ➜ https://go.algrow.online/yt\n\nHIRE EDITORS ➜ http://store.onlinejobs.ph/?aid=624532\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n\n🛠️ TOOLS I USE:\nAI Niche Finder ➜ https://go.algrow.online/yt\nAI Scriptwriting ➜ https://start.getpoppy.ai/alex-DoJQX (\"ALCHRIX\" for $25 off)\nAI Voiceovers ➜ https://try.elevenlabs.io/di7ygvcqvkcs \nVideo Editing ➜ https://capcutaffiliateprogram.pxf.io/MAOzgK \nHiring Editors ➜ http://store.onlinejobs.ph/?aid=624532 \n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n\nTIMESTAMPS:\n0:00 My Story\n3:13 Step 1\n6:55 Step 2\n9:45 Step 3\n11:47 Step 4\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n\n📲 CONNECT WITH ME:\nInstagram ► https://www.instagram.com/alchrix/\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n#youtubeshortsautomation #facelessyoutubeshorts #youtubeshorts #youtubeautomation #makemoneyonline #onlinebusiness #claude \n\nDISCLAIMER: This video is for educational/informational purposes only and is based on my personal experience and research. Results vary and are not guaranteed. Success depends on content quality, consistency, niche, and compliance with YouTube policies. This video may include affiliate links or my own products; I may earn a commission at no extra cost to you. I follow YouTube’s Community Guidelines and Terms of Service, and any strategies shown must be used in full compliance with those policies. By watching, you accept responsibility for your actions. Learn more: https://www.youtube.com/howyoutubeworks/our-policies/",
+      "commentCount": 16,
+      "likeCount": 48,
+      "probeClient": "web_embedded"
+    },
+    "rV9FHR5dhxM": {
+      "checkedAt": "2026-08-16T20:53:15Z",
+      "embedAllowed": true,
+      "description": "শুধু TEXT লিখেই এখন মাত্র ৫ মিনিটে বানিয়ে ফেলুন Ghibli-Style ভিডিও! এই ভিডিওতে দেখানো হয়েছে সম্পূর্ণ AI Automation Workflow - কীভাবে ChatGPT এবং Gemini AI ব্যবহার করে সহজেই কোনো এডিটিং স্কিল ছাড়াই প্রফেশনাল মানের Ghibli-Style ভিডিও তৈরি করা যায়।\n\nভিডিওতে যা যা থাকছে:\n✅ কীভাবে সঠিক Prompt/Text লিখতে হয়\n✅ ChatGPT + Gemini AI দিয়ে সম্পূর্ণ প্রসেস\n✅ ৫ মিনিটে ভিডিও তৈরির স্টেপ বাই স্টেপ গাইড\n✅ কোনো এডিটিং এক্সপেরিয়েন্স ছাড়াই কীভাবে শুরু করবেন\n\nযারা নতুন AI Video তৈরি শিখতে চান বা নিজের চ্যানেলের জন্য দ্রুত Ghibli-Style কনটেন্ট বানাতে চান, তাদের জন্য এই টিউটোরিয়ালটি স্টেপ বাই স্টেপ সাজানো হয়েছে।\n\nভিডিওটা ভালো লাগলে লাইক এবং শেয়ার করতে ভুলবেন না, আর চ্যানেলটি সাবস্ক্রাইব করে সাথে থাকুন আরও AI Automation ও Video Creation টিউটোরিয়ালের জন্য।\n\n#GhibliAI #AIAutomation \n==============================================\n🔔 Business Inquiries : allbanglatips.contact@gmail.com\n==============================================\n\nFollow On Instagram...\n\nhttps://www.instagram.com/dasbabu02\nFacebook -https://www.facebook.com/allbanglatips02\nTelegram- https://t.me/allbanglatipshere\n\nভিডিওটি নিয়ে কোনো সমস্যা থাকলে তা আমাদের গ্রুপে পোস্ট করে জানাতে পারেন । Group Link : \nhttps://www.facebook.com/groups/allbanglatipsofficial\n\nMY YOUTUBE GEARS:\n\nCAMERA - https://amzn.to/3PnxKaA\nCAMERA TRIPOD-https://amzn.to/3L8w0PU\nMIC-https://amzn.to/2C0vPTc\nLens-https://amzn.to/3ProIZW\n\nThanks for Watching...\n#allbanglatips",
+      "commentCount": 59,
+      "likeCount": 456,
+      "probeClient": "web_embedded"
+    },
+    "GsicvcKp92A": {
+      "checkedAt": "2026-08-16T20:53:15Z",
+      "embedAllowed": true,
+      "description": "The Laziest Way to Make Money Online for Students in 2026? 👀\n\nIn this video, I’ll show you how you can create AI Movie Recap / Movie Explain videos using AI voiceovers and publish this type of content on platforms like YouTube, TikTok, and Facebook.\n\nIf you're a student looking for an easy online side hustle in 2026, this video walks you through the complete process — from finding content ideas and creating movie recap scripts to generating realistic AI voiceovers using NOIZ AI, editing your videos, and understanding how content creators can potentially monetize their content.\n\n🤖 Try NOIZ AI:\nhttps://shorturl.at/ep9NV\n\nThis video is sponsored by NOIZ AI.\n\nIn this complete tutorial, you'll learn how the AI Movie Recap Method works, how creators make movie explained videos, how AI can speed up the content creation process, and how you can build your own content workflow without recording your own voice.\n\n🎬 What You'll Learn\n\n• How to create Movie Recap videos\n• How to create Movie Explain videos with AI\n• How to generate AI voiceovers with NOIZ AI\n• How to create content without using your own voice\n• How to find ideas for short-form content\n• How to edit AI Movie Recap videos\n• TikTok content monetization basics\n• YouTube automation & monetization basics\n• Facebook video monetization basics\n• How students can start creating content in 2026\n• How AI can make content creation faster and easier\n\nThe goal isn't to promise overnight income. Making money online requires consistency, original content, audience growth, and compliance with each platform's monetization and copyright policies. Results will vary depending on your content, audience, country, platform eligibility, and execution.\n\nAI tools like NOIZ AI can make parts of the workflow easier, especially AI voiceovers, but the real value comes from how you research, script, edit, package and distribute your content.\n\nIf you're interested in making money online in Pakistan, AI side hustles, YouTube automation, TikTok monetization, Facebook monetization, AI voiceovers, movie recap channels, and content creation, this video will give you a practical workflow to understand and test.\n\n⚠️ Important: Movie footage can be protected by copyright. Using AI voiceover or editing a clip does not automatically make copyrighted footage free to use. Make sure your content follows the copyright, fair-use/fair-dealing and monetization policies applicable to the platforms you publish on.\n\n📲 Follow Me\n\nInstagram:\nTalha Reviews on Instagram\nhttps://www.instagram.com/talha__reviews\n\nTikTok:\nTalha Reviews on TikTok\nhttps://tiktok.com/talha_reviews\n\nFacebook:\nTalha Maqsood on Facebook\nhttps://www.facebook.com/p/Talha-Maqsood-100092158039385/\n\nSubscribe for more videos about AI, online earning, e-commerce, content creation, YouTube automation and digital business.\n\nSEO Keywords:\nmake money online 2026, how to make money online for students, easiest way to make money online, AI movie recap, movie recap with AI, movie recap videos, movie explain videos, movies explained with AI, NOIZ AI, NOIZ AI movie recap, NOIZ AI voiceover, AI voiceover, AI voice generator, YouTube automation 2026, YouTube automation Pakistan, TikTok monetization, make money TikTok, Facebook monetization, AI side hustle 2026, online earning Pakistan, make money online Pakistan, student side hustle, AI content creation\n\n#MakeMoneyOnline #NOIZAI #MovieRecap #AIVoiceover #YouTubeAutomation #OnlineEarning #AISideHustle #ContentCreation",
+      "commentCount": 80,
+      "likeCount": 776,
+      "probeClient": "web_embedded"
+    },
+    "V_OlWyt8g7I": {
+      "checkedAt": "2026-08-16T20:53:15Z",
+      "embedAllowed": true,
+      "description": "I built a custom Claude skill that searches 12+ job platforms, writes a tailored resume + cover letter for every single match, and tracks my applications — all from one command. In this video, I show it running live: searching for Senior C++ roles in Bangalore, generating ATS-optimized resumes for each job description, and pulling everything into one organized bundle.\n\nIf you're job hunting right now and tired of manually rewriting your resume for every posting, this is the exact system I use.\n\nWhat this Claude skill does:\n→ Searches Naukri, LinkedIn, Instahyre, Cutshort, Hirist, Indeed, Foundit, Glassdoor, and more — simultaneously\n→ Scores every match against your actual experience (Fitness Score)\n→ Auto-generates a resume tailored to each specific job description — not one generic resume\n→ Writes a matching cover letter for every role\n→ Tracks applications and can auto-detect interview/rejection emails via Gmail\n→ Runs on autopilot overnight if you want it to\n\nTimestamps:\n00:00 Intro\n03:37 Live Demo \n12:28 Resume Format \n\nLink to my Skill: https://github.com/mayankjoshii/claude-job-skill\n\n#JobSearch #ClaudeAI #SoftwareEngineering #CareerAdvice #Microsoft #Bangalore #TechJobs #AIAgent #AI #AIAutomation #JobAutomation #FutureOfWork #AIJobs #Automation #ArtificialIntelligence",
+      "commentCount": 7,
+      "likeCount": 95,
+      "probeClient": "web_embedded"
+    },
+    "wzwGiTHzYlc": {
+      "checkedAt": "2026-08-16T20:53:15Z",
+      "embedAllowed": true,
+      "description": "Everyone is talking about making money with AI, but the real question is: what can you actually do with AI that someone would be willing to pay for?\n\nIn this video, I break down 5 genuine ways to make money with AI, especially for students and beginners. We’ll explore AI freelancing, study content, AI video services, AI voice services, and digital products, with practical examples of how each opportunity can work.\n\nI’ll also show a live demo of creating an AI-generated video, from the initial prompt and visuals to the final result, so you can see how AI tools can be turned into an actual service.\n\nThe goal isn’t to chase every new AI tool or unrealistic income promise. It’s about understanding useful skills, finding real problems to solve, and using AI to deliver better results faster.\n\nIf you’re looking for practical ways to start exploring AI-based income opportunities in 2026, this video will give you a clear starting point.\n\nPrompt Guide :- https://drive.google.com/file/d/1Bdyj8KWqlyhtCaTs0O0tbswN4DVMitm0/view?usp=sharing\n\n\n❤️ ❤️  Saumya Di’s First Book  (A small gift for favourite subscribers ): https://store.bookleafpub.com/discount/MAY26?redirect=%2Fproducts%2F9788199612686\nDiscount code: MAY26\n\n\n✨ For 1:1 Guidance from Saumya Di - https://topmate.io/saumya1singh\n✨ Join Broadcast Channel - https://www.whatsapp.com/channel/0029VbAnnzw6hENpACnPoq03\n\n✨Share your progress & learnings on✨\nInstagram: https://www.instagram.com/saumya1singh/\nTwitter: https://x.com/saumya1singh\nLinkedIn: https://www.linkedin.com/in/saumya1singh/\nYoutube: https://www.youtube.com/@saumya1singh\n\n✌🏻 FREE Agentic AI Course with Certificate ✌🏻\nhttps://youtu.be/uYmIFc7gUyk?si=BoNr9U1fMlNt8fID\n\n✌🏻 FREE Python Course with Certificate ✌🏻\nhttps://www.youtube.com/playlist?list=PLTV_nsuD2lf7JOwZdSWuup-YO0AUaDQti\n\n✌🏻 Free Android App Development Playlist | 30 Days of Coding Challenge ✌🏻\nyoutube.com/playlist?list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8\n\n🪴 Making you Successful & Aware.\n❤️ Excel in life and tech with me!  \n\nComment \"#SaumyaDi\" if you read this ❤️😍\n\nDon't forget to hit the like button, subscribe to the channel, and press the notification bell to get updates. Also, share your thoughts in the comment section.\n\n📚 Books I Recommend for Learning & Growth\n\nDeep Work - https://amzn.to/4grerZG \nAtomic Habits - https://amzn.to/4n8iz3f \nCracking the Coding Interview - https://amzn.to/46syliC \nPsychology of Money – https://amzn.to/4gwm3dD \n\n💻 Tech & Gear I Use for Work + Videos\n\nLaptop: https://amzn.to/488KtI7 \nMonitor: https://amzn.to/423xYcW \nCamera:https://amzn.to/4pm9kOy \nMic: https://amzn.to/46HzWSO \nRing Light: https://amzn.to/3VV7CWP \nTripod: https://amzn.to/3K8k0QS \nHeadphones: https://amzn.to/4mnmHeM \nChair: https://amzn.to/4ptn0XZ \n\n🎥 My YouTube Creator Setup\n\nStorage: https://amzn.to/4pw1AJS \niPhone : https://amzn.to/3K8k7Mi \n\n#ai #aivideo #makemoneyonline  #aivideos #aiviral #earnmoneyonline #earnmoney \n\n\nKeywords : \n[make money with ai,claude ai,how to make money with ai,ai business ideas,ai agents,ai automation,ai influencer,ai avatar,ai ugc ads,ugc ads,ai freelancing,ai marketing,ai content creation,ai tools 2026,ai for business,artificial intelligence,claude ai business,make money online,business ideas 2026,ai for beginners,income ideas,earn money,earn online,how to earn money online,make money online,earn from home,how to become rich,make money,how to earn from ai,earn from claude ai,make money online 2026,make money from home,how to earn online,make money with chatgpt,how to make money online 2026,earn money with ai video, make money with ai, ai business ideas, ai automation  ]\n\nDisclaimer:\nThis video is created strictly for educational and informational purposes only.\n\nWe only share ethical, genuine, and legal ways to learn & grow.\n\nThis channel does not encourage scams, spam, or any activity that violates Youtube policies or laws. We do not promote any misleading schemes.",
+      "commentCount": 194,
+      "likeCount": 704,
       "probeClient": "web_embedded"
     }
   }

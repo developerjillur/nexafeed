@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T19:53:06Z",
+  "updatedAt": "2026-08-16T20:53:15Z",
   "items": [
+    {
+      "id": "lZLlYtog87I",
+      "type": "short",
+      "source": "secondary",
+      "channel": "ZxAI Labs ",
+      "publishedAt": "2026-08-16T15:53:15Z",
+      "firstSeenAt": "2026-08-16T20:53:15Z"
+    },
+    {
+      "id": "n_twzE3Q2Rc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Hablu Programmer",
+      "publishedAt": "2026-08-16T13:53:15Z",
+      "firstSeenAt": "2026-08-16T20:53:15Z"
+    },
+    {
+      "id": "FJgxXaXONNw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Alex Christian",
+      "publishedAt": "2026-08-16T13:53:15Z",
+      "firstSeenAt": "2026-08-16T20:53:15Z"
+    },
+    {
+      "id": "rV9FHR5dhxM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ALL BANGLA TIPS",
+      "publishedAt": "2026-08-16T10:53:15Z",
+      "firstSeenAt": "2026-08-16T20:53:15Z"
+    },
+    {
+      "id": "GsicvcKp92A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Talha Reviews",
+      "publishedAt": "2026-08-16T10:53:15Z",
+      "firstSeenAt": "2026-08-16T20:53:15Z"
+    },
+    {
+      "id": "V_OlWyt8g7I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mayank Joshi",
+      "publishedAt": "2026-08-16T08:53:15Z",
+      "firstSeenAt": "2026-08-16T20:53:15Z"
+    },
+    {
+      "id": "wzwGiTHzYlc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Saumya Singh",
+      "publishedAt": "2026-08-16T07:53:15Z",
+      "firstSeenAt": "2026-08-16T20:53:15Z"
+    },
     {
       "id": "FGFit4hA5pE",
       "type": "short",
@@ -15904,6 +15960,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-16T20:53:15Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
