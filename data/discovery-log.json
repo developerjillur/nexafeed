@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T16:11:42Z",
+  "updatedAt": "2026-08-16T16:53:40Z",
   "items": [
+    {
+      "id": "poZIgxYCdIY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech History Channel",
+      "publishedAt": "2026-08-15T16:53:40Z",
+      "firstSeenAt": "2026-08-16T16:53:40Z"
+    },
     {
       "id": "Z46TGRzuq38",
       "type": "short",
@@ -15682,6 +15690,15 @@
       "new": 14,
       "long": 8,
       "shorts": 6,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-16T16:53:40Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
