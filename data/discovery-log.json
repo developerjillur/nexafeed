@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T03:53:13Z",
+  "updatedAt": "2026-08-16T04:53:15Z",
   "items": [
+    {
+      "id": "UPiPg7Z7LLQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ai Automation Mastery",
+      "publishedAt": "2026-08-16T03:53:15Z",
+      "firstSeenAt": "2026-08-16T04:53:15Z"
+    },
+    {
+      "id": "Gy2S2chuePY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TK EEE Everyday",
+      "publishedAt": "2026-08-15T18:53:15Z",
+      "firstSeenAt": "2026-08-16T04:53:15Z"
+    },
     {
       "id": "eV-rqZ7c9S8",
       "type": "long",
@@ -14213,15 +14229,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-02T03:53:35Z",
-      "new": 2,
-      "long": 1,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
       "runAt": "2026-08-02T06:53:30Z",
       "new": 2,
       "long": 1,
@@ -15597,6 +15604,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-16T04:53:15Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
