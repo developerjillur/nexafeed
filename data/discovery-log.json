@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T17:53:40Z",
+  "updatedAt": "2026-08-16T18:53:41Z",
   "items": [
+    {
+      "id": "7hQTGOAt_h0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sullyy",
+      "publishedAt": "2026-08-16T18:04:41Z",
+      "firstSeenAt": "2026-08-16T18:53:41Z"
+    },
+    {
+      "id": "bhC6Fa-Ipxs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Savvy Couple - Kelan & Brittany ",
+      "publishedAt": "2026-08-16T16:53:41Z",
+      "firstSeenAt": "2026-08-16T18:53:41Z"
+    },
+    {
+      "id": "PU-30PIVb5I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Founders",
+      "publishedAt": "2026-08-16T16:53:41Z",
+      "firstSeenAt": "2026-08-16T18:53:41Z"
+    },
+    {
+      "id": "vbo0t3McG7c",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The AI Agent Marketplace",
+      "publishedAt": "2026-08-16T14:53:41Z",
+      "firstSeenAt": "2026-08-16T18:53:41Z"
+    },
+    {
+      "id": "IdY4WyTpxdY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Grow Paisa",
+      "publishedAt": "2026-08-16T13:53:41Z",
+      "firstSeenAt": "2026-08-16T18:53:41Z"
+    },
+    {
+      "id": "D-rDzS7dS_w",
+      "type": "short",
+      "source": "secondary",
+      "channel": "ClemxyTech Agency",
+      "publishedAt": "2026-08-16T12:53:41Z",
+      "firstSeenAt": "2026-08-16T18:53:41Z"
+    },
+    {
+      "id": "7E-Fnazi0LE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Maleek idris",
+      "publishedAt": "2026-08-15T23:53:41Z",
+      "firstSeenAt": "2026-08-16T18:53:41Z"
+    },
     {
       "id": "f10PpVR7Iik",
       "type": "short",
@@ -15758,6 +15814,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-16T18:53:41Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
