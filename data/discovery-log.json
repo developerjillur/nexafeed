@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T20:53:15Z",
+  "updatedAt": "2026-08-16T21:53:24Z",
   "items": [
+    {
+      "id": "x5JgbtIlxTE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stephen G. Pope",
+      "publishedAt": "2026-08-16T16:53:24Z",
+      "firstSeenAt": "2026-08-16T21:53:24Z"
+    },
+    {
+      "id": "blMASr5jLww",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Saddam Kassim",
+      "publishedAt": "2026-08-16T15:53:24Z",
+      "firstSeenAt": "2026-08-16T21:53:24Z"
+    },
+    {
+      "id": "pcnW-6jzK0I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sean Standberry",
+      "publishedAt": "2026-08-16T15:53:24Z",
+      "firstSeenAt": "2026-08-16T21:53:24Z"
+    },
+    {
+      "id": "Y9YU5GCppNo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ByteMonk",
+      "publishedAt": "2026-08-16T13:53:24Z",
+      "firstSeenAt": "2026-08-16T21:53:24Z"
+    },
+    {
+      "id": "BDq45uoetRc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-16T09:53:24Z",
+      "firstSeenAt": "2026-08-16T21:53:24Z"
+    },
+    {
+      "id": "072eNztI06k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sean‘s AI Stories and AutoManus",
+      "publishedAt": "2026-08-16T01:53:24Z",
+      "firstSeenAt": "2026-08-16T21:53:24Z"
+    },
     {
       "id": "lZLlYtog87I",
       "type": "short",
@@ -15969,6 +16017,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-16T21:53:24Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
