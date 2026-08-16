@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T22:53:33Z",
+  "updatedAt": "2026-08-16T23:53:42Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -7336,7 +7336,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-16T22:53:33Z",
+      "checkedAt": "2026-08-16T23:53:42Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7860,7 +7860,7 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-16T22:53:33Z",
+      "checkedAt": "2026-08-16T23:53:42Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8003,15 +8003,6 @@
       ],
       "commentsFetchedAt": "2026-08-16T03:53:13Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "6JidkHUWgUY": {
-      "checkedAt": "2026-08-16T05:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this engaging video, we dive into the debate on front-end vs. back-end development complexity and respect in the tech industry. Join us as we explore whether front-end development is truly more intricate than back-end work, yet often lacks the same level of recognition. As a new full stack junior developer, have you ever questioned the hierarchy of coolness in the tech world? Share your thoughts in the comments below and let's spark a conversation about the evolving landscape of software engineering and web development. Don't forget to hit like, subscribe, and turn on notifications for more insightful content!",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "Z46TGRzuq38": {
@@ -8444,10 +8435,10 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-16T22:53:33Z",
+      "checkedAt": "2026-08-16T23:53:42Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "7hQTGOAt_h0": {
       "checkedAt": "2026-08-16T18:53:41Z",
@@ -8538,14 +8529,6 @@
       "likeCount": 3,
       "probeClient": "web_embedded"
     },
-    "CaWz25-lzH4": {
-      "checkedAt": "2026-08-16T19:53:06Z",
-      "embedAllowed": true,
-      "description": "See how a digital marketing consultant manages daily workflows using email platforms, website templates, and analytics dashboards. This overview provides a look at the tools needed to succeed as a Google AdSense specialist while managing complex online advertising campaigns. Whether you are building your own brand or managing client assets, understanding these interfaces is essential for efficient content creation.\n\nThis video walks through the practical side of being a digital marketing consultant. You will see firsthand how professional marketing analytics dashboards are organized to track campaign performance effectively. By observing these workflows, you can better understand how to structure your own projects for maximum impact.\n\nWe also cover the specific software used to produce this content. If you are interested in the technical side of online advertising, this breakdown highlights the essential platforms that drive results. Learning these systems helps any Google AdSense specialist streamline their day-to-day operations and improve overall output quality.\n\nSubscribe for weekly digital marketing breakdowns, and comment which platform interface you want to see analyzed next.\n\n🔥 **Mailchimp Email & SMS Marketing Made Easy: No Learning Curve, Just Results | 2026 #LabibDigitalMarketingExpert**\n\nWant to learn **Email & SMS Marketing with Mailchimp** without getting overwhelmed by complicated tools and strategies? In this video, I'll show you how to use Mailchimp to create effective email and SMS marketing campaigns in a simple, practical way.\n\nWhether you're a beginner, business owner, marketer, freelancer, or digital marketing professional, this guide will help you understand how **Mailchimp Email Marketing and SMS Marketing** can help you reach customers, increase engagement, automate communication, and generate better results.\n\n### 📌 In This Video, You'll Learn:\n\n✅ What Mailchimp is and how it works\n✅ Email Marketing basics with Mailchimp\n✅ SMS Marketing fundamentals\n✅ How to build and manage marketing campaigns\n✅ Audience and customer management\n✅ Email campaign creation\n✅ SMS campaign strategies\n✅ Marketing automation basics\n✅ Customer engagement strategies\n✅ How to improve conversions with Email & SMS Marketing\n✅ Practical tips for better marketing results\n\n### 🎯 Who Is This Video For?\n\nThis video is useful for **beginners, entrepreneurs, business owners, freelancers, affiliate marketers, email marketers, digital marketers, and anyone who wants to learn Mailchimp Email & SMS Marketing in 2026.**\n\nIf you're looking for a simple way to understand **Email Marketing, SMS Marketing, Mailchimp Marketing Automation, Customer Engagement, and Digital Marketing**, this tutorial is for you.\n\n👍 **Like this video** if you find it helpful.\n💬 **Comment below** with your questions or your experience with Mailchimp.\n\n🔔 Subscribe @LabibDigitalMarketingExpert \n      Marketplace @fiverr \n🔔 **Subscribe** for more Digital Marketing tutorials, Email Marketing strategies, SEO, Google Ads, Social Media Marketing, and online business tips.\n\n### 🔎 Keywords\n\nMailchimp, Mailchimp Tutorial 2026, Mailchimp Email Marketing, Mailchimp SMS Marketing, Email & SMS Marketing, Email Marketing 2026, SMS Marketing 2026, Email Marketing Tutorial, SMS Marketing Tutorial, Email Marketing Automation, Mailchimp Marketing Automation, Customer Engagement, Digital Marketing, Email Campaign, SMS Campaign, Marketing Automation, Email Marketing Strategy, SMS Marketing Strategy, Mailchimp for Beginners, Digital Marketing Tutorial\n\n### 🏷️ Hashtags\n\n#LabibDigitalMarketingExpert #Mailchimp #EmailMarketing #SMSMarketing #EmailSMSMarketing #MarketingAutomation #DigitalMarketing #EmailMarketing2026 #SMSMarketing2026 #MailchimpTutorial",
-      "commentCount": 2,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
     "lZLlYtog87I": {
       "checkedAt": "2026-08-16T20:53:15Z",
       "embedAllowed": true,
@@ -8592,14 +8575,6 @@
       "description": "I built a custom Claude skill that searches 12+ job platforms, writes a tailored resume + cover letter for every single match, and tracks my applications — all from one command. In this video, I show it running live: searching for Senior C++ roles in Bangalore, generating ATS-optimized resumes for each job description, and pulling everything into one organized bundle.\n\nIf you're job hunting right now and tired of manually rewriting your resume for every posting, this is the exact system I use.\n\nWhat this Claude skill does:\n→ Searches Naukri, LinkedIn, Instahyre, Cutshort, Hirist, Indeed, Foundit, Glassdoor, and more — simultaneously\n→ Scores every match against your actual experience (Fitness Score)\n→ Auto-generates a resume tailored to each specific job description — not one generic resume\n→ Writes a matching cover letter for every role\n→ Tracks applications and can auto-detect interview/rejection emails via Gmail\n→ Runs on autopilot overnight if you want it to\n\nTimestamps:\n00:00 Intro\n03:37 Live Demo \n12:28 Resume Format \n\nLink to my Skill: https://github.com/mayankjoshii/claude-job-skill\n\n#JobSearch #ClaudeAI #SoftwareEngineering #CareerAdvice #Microsoft #Bangalore #TechJobs #AIAgent #AI #AIAutomation #JobAutomation #FutureOfWork #AIJobs #Automation #ArtificialIntelligence",
       "commentCount": 7,
       "likeCount": 95,
-      "probeClient": "web_embedded"
-    },
-    "wzwGiTHzYlc": {
-      "checkedAt": "2026-08-16T20:53:15Z",
-      "embedAllowed": true,
-      "description": "Everyone is talking about making money with AI, but the real question is: what can you actually do with AI that someone would be willing to pay for?\n\nIn this video, I break down 5 genuine ways to make money with AI, especially for students and beginners. We’ll explore AI freelancing, study content, AI video services, AI voice services, and digital products, with practical examples of how each opportunity can work.\n\nI’ll also show a live demo of creating an AI-generated video, from the initial prompt and visuals to the final result, so you can see how AI tools can be turned into an actual service.\n\nThe goal isn’t to chase every new AI tool or unrealistic income promise. It’s about understanding useful skills, finding real problems to solve, and using AI to deliver better results faster.\n\nIf you’re looking for practical ways to start exploring AI-based income opportunities in 2026, this video will give you a clear starting point.\n\nPrompt Guide :- https://drive.google.com/file/d/1Bdyj8KWqlyhtCaTs0O0tbswN4DVMitm0/view?usp=sharing\n\n\n❤️ ❤️  Saumya Di’s First Book  (A small gift for favourite subscribers ): https://store.bookleafpub.com/discount/MAY26?redirect=%2Fproducts%2F9788199612686\nDiscount code: MAY26\n\n\n✨ For 1:1 Guidance from Saumya Di - https://topmate.io/saumya1singh\n✨ Join Broadcast Channel - https://www.whatsapp.com/channel/0029VbAnnzw6hENpACnPoq03\n\n✨Share your progress & learnings on✨\nInstagram: https://www.instagram.com/saumya1singh/\nTwitter: https://x.com/saumya1singh\nLinkedIn: https://www.linkedin.com/in/saumya1singh/\nYoutube: https://www.youtube.com/@saumya1singh\n\n✌🏻 FREE Agentic AI Course with Certificate ✌🏻\nhttps://youtu.be/uYmIFc7gUyk?si=BoNr9U1fMlNt8fID\n\n✌🏻 FREE Python Course with Certificate ✌🏻\nhttps://www.youtube.com/playlist?list=PLTV_nsuD2lf7JOwZdSWuup-YO0AUaDQti\n\n✌🏻 Free Android App Development Playlist | 30 Days of Coding Challenge ✌🏻\nyoutube.com/playlist?list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8\n\n🪴 Making you Successful & Aware.\n❤️ Excel in life and tech with me!  \n\nComment \"#SaumyaDi\" if you read this ❤️😍\n\nDon't forget to hit the like button, subscribe to the channel, and press the notification bell to get updates. Also, share your thoughts in the comment section.\n\n📚 Books I Recommend for Learning & Growth\n\nDeep Work - https://amzn.to/4grerZG \nAtomic Habits - https://amzn.to/4n8iz3f \nCracking the Coding Interview - https://amzn.to/46syliC \nPsychology of Money – https://amzn.to/4gwm3dD \n\n💻 Tech & Gear I Use for Work + Videos\n\nLaptop: https://amzn.to/488KtI7 \nMonitor: https://amzn.to/423xYcW \nCamera:https://amzn.to/4pm9kOy \nMic: https://amzn.to/46HzWSO \nRing Light: https://amzn.to/3VV7CWP \nTripod: https://amzn.to/3K8k0QS \nHeadphones: https://amzn.to/4mnmHeM \nChair: https://amzn.to/4ptn0XZ \n\n🎥 My YouTube Creator Setup\n\nStorage: https://amzn.to/4pw1AJS \niPhone : https://amzn.to/3K8k7Mi \n\n#ai #aivideo #makemoneyonline  #aivideos #aiviral #earnmoneyonline #earnmoney \n\n\nKeywords : \n[make money with ai,claude ai,how to make money with ai,ai business ideas,ai agents,ai automation,ai influencer,ai avatar,ai ugc ads,ugc ads,ai freelancing,ai marketing,ai content creation,ai tools 2026,ai for business,artificial intelligence,claude ai business,make money online,business ideas 2026,ai for beginners,income ideas,earn money,earn online,how to earn money online,make money online,earn from home,how to become rich,make money,how to earn from ai,earn from claude ai,make money online 2026,make money from home,how to earn online,make money with chatgpt,how to make money online 2026,earn money with ai video, make money with ai, ai business ideas, ai automation  ]\n\nDisclaimer:\nThis video is created strictly for educational and informational purposes only.\n\nWe only share ethical, genuine, and legal ways to learn & grow.\n\nThis channel does not encourage scams, spam, or any activity that violates Youtube policies or laws. We do not promote any misleading schemes.",
-      "commentCount": 194,
-      "likeCount": 704,
       "probeClient": "web_embedded"
     },
     "x5JgbtIlxTE": {
@@ -8682,12 +8657,34 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "9S4xNeHOllA": {
-      "checkedAt": "2026-08-16T22:53:33Z",
+    "G54THQRITe0": {
+      "checkedAt": "2026-08-16T23:53:42Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "b9cOe6GOP1k": {
+      "checkedAt": "2026-08-16T23:53:42Z",
       "embedAllowed": true,
-      "description": "Generative AI Series Part 2 \nHello everyone,\n\nIn this video, we will understand LangChain Framework and its important components in a simple and beginner-friendly way. This video is designed for beginners who want to learn Generative AI, LLMs, and LangChain from the basics. If you are learning Generative AI step by step, make sure to follow the complete playlist and subscribe for upcoming videos\n___________________________________________________\nYou will learn:\n✅ What is LangChain?\n✅ Why do we use LangChain?\n✅ LangChain Framework\n✅ LangChain Components\n✅ Prompts\n✅ LLMs\n✅ Memory\n✅ Chains\n✅ Tools\n✅ How LangChain is used in Generative AI\n\n___________________________________________________\n#LangChain #LangChainTutorial #LangChainComponents #GenerativeAI #GenAI #LLM #AI #GenerativeAITutorial #LangChainPython #Python #AITutorial #LLMFramework #GenerativeAIForBeginners #GenAISeries #AIProgramming#LangChainHindi\n#LangChainTutorialHindi #LangChainHindiTutorial\n#GenerativeAIHindi #GenAIHindi#AIHindi#AIinHindi #LLMHindi#PythonHindi\n#AITutorialHindi#GenerativeAIInHindi#AIForBeginnersHindi #CodingHindi#TechHindi\n#HindiTutorial #DevBytesWithDevpriya\n___________________________________________________\nLinks\nCode link\n\n\n\n\n___________________________________________________\nLangChain Tutorial\nLangChain Tutorial for Beginners\nLangChain Framework\nWhat is LangChain\nLangChain Components\nLangChain Components Explained\nLangChain Architecture\nLangChain Python Tutorial\nLangChain LLM\nLangChain Prompts\nLangChain Chains\nLangChain Memory\nLangChain Tools\nGenerative AI Tutorial\nGenerative AI Course\nGenerative AI for Beginners\nGen AI Tutorial\nLLM Tutorial\nLLM Framework\nAI Application Development\nBuild AI Apps with LangChain\nLangChain kya hai\nLangChain kya hai Hindi mein\nLangChain Tutorial Hindi\nLangChain Framework Hindi\nLangChain Components Hindi\nLangChain Components kya hai\nLangChain kaise kaam karta hai\nLangChain Python Hindi\nLangChain LLM Hindi\nLangChain Prompts Hindi\nLangChain Chains Hindi\nLangChain Memory Hindi\nLangChain Tools Hindi\nGenerative AI Hindi\nGenerative AI Course Hindi\nGenerative AI Tutorial Hindi\nGen AI Hindi\nLLM kya hai\nLLM Framework Hindi\nAI Course Hindi",
+      "description": "HOW TO GET UNLIMITED CREDITS IN LOVABLE AI | 100% WORKING METHOD\n\n🌐 Website: https://cheapaitools.in/lovable-ai/services\n\nIn this video, I'll show you how to get Unlimited Credits in Lovable AI, understand how the Lovable AI credit system works, and build more websites, SaaS apps, dashboards, landing pages, AI tools, and full-stack projects without running out of credits quickly.\n\n🚀 LOVABLE AI UNLIMITED CREDITS GUIDE\n\nIn this complete tutorial, you'll learn:\n\n✅ How Lovable AI Credits Work\n✅ How to Get More Value from Lovable AI\n✅ Lovable AI Pro Features Explained\n✅ Lovable AI Free Credits Method\n✅ How to Build AI Websites\n✅ How to Create SaaS Applications with AI\n✅ How to Build Landing Pages with Lovable AI\n✅ How to Generate Dashboards Using AI\n✅ Full-Stack Project Development with AI\n✅ Productivity & Workflow Tips\n\n📚 WHAT YOU'LL LEARN\n\n• How Lovable AI Credits Work\n• Best Ways to Save Credits\n• Lovable AI Pro Features\n• Website Building with AI\n• AI SaaS Development\n• Landing Page Creation\n• Dashboard Generation\n• Full Project Automation\n• AI-Powered Development Workflow\n• Tips for Using Lovable AI Efficiently\n\n🎯 PERFECT FOR\n\n👨‍💻 Developers\n💼 Freelancers\n🚀 Startup Founders\n🛠️ SaaS Builders\n🎨 No-Code Creators\n🌐 Web Designers\n🎓 Students\n🤖 AI Enthusiasts\n\nIf you found this video helpful, Like 👍, Share 🔄 & Subscribe 🔔 for more AI tutorials, AI tools, automation guides, website-building tutorials, SaaS development tips, coding tools, and productivity hacks.\n\n🔥 HASHTAGS\n\n#LovableAI #Lovable #UnlimitedCredits #AIWebsiteBuilder #NoCode #SaaS #AITools #ArtificialIntelligence #WebDevelopment #AIApps #Startup #Coding #Dashboard #LandingPage #Automation #TechTutorial #FullStack #LovableDev\n\n🔎 SEO KEYWORDS / TAGS\n\nlovable ai,\nlovable ai unlimited credits,\nlovable ai pro,\nlovable ai tutorial,\nlovable ai free credits,\nlovable ai website builder,\nlovable ai credits,\nlovable ai pro free,\nlovable ai unlimited,\nlovable ai saas,\nlovable ai dashboard,\nlovable ai landing page,\nlovable ai app builder,\nlovable ai no code,\nlovable ai coding,\nlovable ai tutorial hindi,\nlovable ai hindi,\nlovable ai pro plan,\nlovable ai tricks,\nlovable ai guide,\nhow to get lovable ai credits,\nlovable ai unlimited credits working,\nlovable ai full tutorial,\nlovable dev,\nlovable.dev,\nai website builder,\nai app builder,\nai saas builder,\nno code ai,\nai development,\nai tools 2026,\nbest ai website builder,\nai coding assistant,\nai startup tools,\nai automation tools,\nwebsite development ai,\nbuild website with ai,\nbuild app with ai,\nai software development,\nai business tools,\nlovable ai beginner tutorial,\nlovable ai complete course,\nlovable ai review,\nlovable ai websites,\nlovable ai projects,\nlovable ai prompt engineering,\nlovable ai alternatives,\nbest ai coding tool,\nbest no code ai",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "foexgrUcbXI": {
+      "checkedAt": "2026-08-16T23:53:42Z",
+      "embedAllowed": true,
+      "description": "What a token in AI actually is: the chunk your text is cut into before a model reads any of it — the only unit an AI ever perceives, remembers or bills you for, which is why \"how many r's are in strawberry\" asks about letters it never received. Every split here is measured with tiktoken (o200k_base), not remembered: one invisible space in front of a word turns 3 chunks into 1, capitals turn it into 4, and the same sentence costs 12 tokens in English but 21 in Hindi or Japanese. Desk Lessons Ep.2 — what a token is, the three things it silently decides, and what to do about it.\n\n⚙️ ABOUT THE AUTOMATION DESK\nThe desk where the boring, everyday automations get figured out and explained in\nplain English. We take the small back-office tasks everyone ignores — data entry,\ninvoicing, scheduling, reminder emails, record-keeping — and show the simple AI +\nno-code workflows that quietly handle them, then scale up into bigger systems,\nhonest tool comparisons, and automation news. Free and local-first wherever we can.\n\n🗂️ WHAT WE COVER\n• Desk Fixes — one small automation, shown on a real example\n• Desk Loops — \"N ways to automate X\" + the trigger → AI → check loop\n• Automation Breakdowns — hands-on tests: the best tool/model for a real task\n• Desk Notes — quick takes on AI & automation news\nTools we live in: Google Sheets, Excel, Outlook/Gmail, Notion, Zapier/Make, and AI\nmodels like Claude and ChatGPT.\n\n👤 WHO THIS IS FOR\nBuilders, freelancers, and no-code / automation agencies who ship automations for\nclients — plus small-business owners curious what's actually possible. You leave\nwith copy-able, resell-able ideas, not theory.\n\n🔔 NEW HERE?\nSubscribe and ring the bell so you don't miss the next video.\n\n🌐 FOLLOW THE DESK\nInstagram → https://www.instagram.com/theaiautomationdesk/\nTikTok    → https://www.tiktok.com/@theaiautomationdesk\nX         → https://x.com/Aautomationdesk\nFacebook  → https://www.facebook.com/profile.php?id=61590655470225\nBlog      → https://medium.com/@theautomationdesk\n\nℹ️ This video uses an AI-generated voice and AI-assisted visuals. The ideas,\nresearch, and angle are our own.",
       "commentCount": 2,
-      "likeCount": 4,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "COUL9y5CTfM": {
+      "checkedAt": "2026-08-16T23:53:42Z",
+      "embedAllowed": true,
+      "description": "In this video, Cloud X Berry explains n8n in a simple and beginner-friendly way.\n\nSomeone fills out the contact form on your website because they're interested in your product. Now you save their details in the CRM, send a welcome email, notify sales on Slack, and add a follow-up task. None of it is difficult. All of it is repetitive, and you do it again for the next customer, and the one after that. That is the gap n8n was built for — not a new app to replace the ones you have, but a layer that runs the steps between them.\n\nWe start with that one inquiry and build the idea up piece by piece: what a workflow actually is, why every workflow begins with a trigger, and what else can be a trigger besides a form — a new email in Gmail, a scheduled 9 a.m. run, an uploaded file, an incoming API request. Then we open the workflow inside n8n itself, where it isn't one\ngiant block but lots of small connected nodes, each responsible for a single task. From there, the concept most people miss: data flows from one node to the next, so the customer's details are entered once and every downstream node reads, transforms or adds to them on the way through.\n\nThen the parts that usually get hand-waved. Why n8n is called low-code, and exactly where you drop into JavaScript when the visual builder isn't enough. Where AI actually fits — routing an inquiry through a model to summarise, classify and extract before it ever\nreaches your sales team, and the distinction that matters: n8n is not the AI model, it's the orchestration layer around it. We finish with credentials and OAuth, how n8n connects to Gmail, PostgreSQL, OpenAI and Slack rather than replacing them, and a recap of the\nwhole picture.\n\nCHAPTERS\n\n0:00  What people can't agree n8n is\n0:13  One contact form, four manual jobs\n0:35  The sequence of steps is a workflow\n0:48  The same process for every customer\n1:06  Triggers: how n8n knows when to start\n1:18  Email, schedule, file upload, API request\n1:33  Inside the editor: nodes, not one giant block\n2:01  Data flows from one node to the next\n2:24  Transforming and adding data along the way\n2:39  Why n8n is called low-code\n2:59  Where AI fits into the workflow\n3:30  n8n is not the AI model\n3:43  Credentials, OAuth and the tools you already use\n4:11  The conductor of an orchestra\n4:30  Recap\n\nWHO THIS IS FOR\nDevelopers who keep seeing n8n mentioned alongside AI agents and want the idea to actually click, anyone doing the same four manual steps every time a lead comes in, and teams weighing up a low-code automation layer before writing another glue script.\n\n#n8n #workflowautomation #automation #lowcode #aiagents #nocode",
+      "commentCount": 1,
+      "likeCount": 58,
       "probeClient": "web_embedded"
     }
   }
