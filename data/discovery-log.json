@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T00:53:12Z",
+  "updatedAt": "2026-08-16T01:53:13Z",
   "items": [
+    {
+      "id": "aYqrLwl8lK4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-16T01:30:01Z",
+      "firstSeenAt": "2026-08-16T01:53:13Z"
+    },
+    {
+      "id": "f3QMzsxdayI",
+      "type": "short",
+      "source": "secondary",
+      "channel": "ProgrammingKnowledge2",
+      "publishedAt": "2026-08-16T01:30:13Z",
+      "firstSeenAt": "2026-08-16T01:53:13Z"
+    },
+    {
+      "id": "1_POapXhY28",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ProgrammingKnowledge2",
+      "publishedAt": "2026-08-15T18:53:13Z",
+      "firstSeenAt": "2026-08-16T01:53:13Z"
+    },
+    {
+      "id": "f1oAOaX67eM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DotCHAI",
+      "publishedAt": "2026-08-15T17:53:13Z",
+      "firstSeenAt": "2026-08-16T01:53:13Z"
+    },
+    {
+      "id": "4p4lnLQIJVc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Tool Discovery",
+      "publishedAt": "2026-08-15T12:53:13Z",
+      "firstSeenAt": "2026-08-16T01:53:13Z"
+    },
     {
       "id": "bClnQ4Q3iKM",
       "type": "short",
@@ -15500,6 +15540,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-16T01:53:13Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T00:53:12Z",
+  "updatedAt": "2026-08-16T01:53:13Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -2939,39 +2939,6 @@
       "description": "I moved ALL my AI agents — Claude Code, Codex, and Hermes — into one shared workspace called Buzz, and it finally fixed the problem every agent user has: five windows open and zero shared context.\n\nIn this video I show you exactly how I set it up: how Buzz works under the hood (Nostr, relays, ACP), how to create agents on any harness, how I make Claude Code cross-check Codex's work, two Hermes agents on different machines talking to each other, audio meetings where humans AND agents join and turn talk into action — plus the real costs ($200/day, I show the dashboard) and the setup mistakes to avoid.\n\n🐝 Get Buzz: https://buzz.xyz\n🤖 Steal my agents, prompts + resources: https://www.skool.com/keith-ai-3958\n🔌 Hermes → Buzz native gateway adapter (the best of the 3 ways): https://hermes-agent.nousresearch.com/docs/user-guide/messaging/buzz\n\n\nWho this is for: solopreneurs and small teams running Claude Code, Codex, Hermes/OpenClaw — not enterprise (yet). It's early, it's a little buggy, and it's still the clearest preview of what an AI-first company looks like.\n\n⏱️ CHAPTERS\n0:00 Why I switched: 5 windows, zero shared context\n1:08 What Buzz actually is\n1:27 What I'll show you\n2:20 Video roadmap\n3:14 How Buzz works: Nostr, keys, relays\n4:22 Communities + ACP explained\n5:27 Installing Buzz\n5:46 Full feature tour\n9:42 Creating agents (harness, model, permissions)\n13:11 Multi-machine gotcha\n14:06 Channels: humans + agents together\n16:20 Demo: agents commanding agents\n17:39 DMs, forums, Pulse, projects, workflows\n20:22 Mobile pairing (avoid this mistake)\n21:17 Claude Code + Codex teamwork\n22:01 Audio huddles: meetings with your agents\n24:05 3 ways to connect Hermes (use the 3rd)\n26:07 The honest problems + real costs\n27:11 Why I'm moving everything anyway\n28:21 Who Buzz is for\n\nSome hard-won lessons in here: agents only show on the machine that created them, pair mobile with your 24/7 machine (identity transfers!), and the native Hermes gateway keeps memory/skills/cron that the managed runtime loses.\n\n🤝 JOIN THE FREE Newsletter\n  🔥 Join my newsletter → https://substack.com/@rumjahn\n\n#AIAgents #Buzz #ClaudeCode #Codex #Hermes #Nostr #AIWorkflow #Solopreneur\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📬 MORE FROM ME\nWebsite: https://rumjahn.com\n\n🤝 SOCIALS\nLinkedIn: https://www.linkedin.com/in/rumjahn/\nFacebook: https://www.facebook.com/profile.php?id=61577419126625",
       "commentCount": 50,
       "likeCount": 446,
-      "probeClient": "web_embedded"
-    },
-    "P052ouQqHUU": {
-      "checkedAt": "2026-08-15T20:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment CLONE and I'll send you the link.\n\nOne of the most slept-on repos on GitHub right now. You screenshot any website and AI rebuilds it into working code in front of you. Usually you hand Claude a link or a screenshot and get back something that barely resembles the original. This one, screenshot-to-code, finally nailed it. It turns a screenshot, a Figma design or even a screen recording into clean working code in minutes.\n\nAnd it doesn't just copy the layout. It pulls the real logos and images out of your screenshot and rebuilds the page around them. You run it through Claude, pick your output format like HTML, React or Vue, feed it a screenshot and get a working prototype, then preview it live and refine in a couple of passes. It's noticeably better than what Claude does on its own, and it's easy to set up.\n\n#AI #coding #frontend #opensource",
-      "commentCount": 25,
-      "likeCount": 93,
-      "comments": [
-        {
-          "id": "UgypoUsGGQ9r0l57sK94AaABAg",
-          "author": "@AOOA926",
-          "text": "Clone",
-          "likeCount": 1,
-          "publishedAt": "2026-08-08T19:48:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/RTaBaHis-LLKFOzVeAvN4ZIVVHp5-rJ3yBjpD4Q6EREHn1udA5DPIlidBZOf5gEUlKjkkhyR6w=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzKzcJfUFwMyPn6sHd4AaABAg",
-          "author": "@AyeItsAycie",
-          "text": "You people can't do anything anymore",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T19:26:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/JHvr1htC7cHPKNYOKs0grZJHuJK4pCitcxd59QFG6xNII3H9BSv8gWNYloRTuzpJG67K5qrDhQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-08T19:53:38Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "bzSN73XXiC4": {
@@ -6869,7 +6836,7 @@
       "probeClient": "web_embedded"
     },
     "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-16T00:53:12Z",
+      "checkedAt": "2026-08-16T01:53:13Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7916,7 +7883,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-16T00:53:12Z",
+      "checkedAt": "2026-08-16T01:53:13Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8121,7 +8088,7 @@
       "probeClient": "web_embedded"
     },
     "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-16T00:53:12Z",
+      "checkedAt": "2026-08-16T01:53:13Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8131,15 +8098,6 @@
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
-    },
-    "4ZfJYAnbH8w": {
-      "checkedAt": "2026-08-15T08:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Are you tired of AI assistants generating broken code, insecure implementations, database-killing N+1 queries, or hallucinated API calls that fail in production?\n\nIn this video, we explore how to move beyond basic prompting and build a structured, production-grade software development workflow with AI.\n\nWe walk through the complete Software Development Lifecycle (SDLC) and how tools like Claude, GitHub Copilot, Cursor, and Windsurf can be used effectively across planning, architecture, implementation, testing, security, code review, CI/CD, and monitoring.\n\nThe Golden Rule\n\nArchitecture first. AI generation second.\n\nAI is extremely good at implementing established patterns, but it is much less reliable at deciding which patterns and architectural boundaries are appropriate for your specific system.\n\nThe goal isn’t to let AI build everything for you. The goal is to design the right boundaries first and then use AI to accelerate development without sacrificing quality, security, or maintainability.\n\nWhat You’ll Learn\n\n* Planning and architecture with AI\n* Creating effective project documentation such as ARCHITECTURE.md and DECISIONS.md\n* Rules for building AI-friendly codebases\n* Writing explicit, maintainable code\n* Dependency injection and clear architectural boundaries\n* Working in small, verifiable implementation units\n* Using AI for test and edge-case generation\n* Security review of AI-generated code\n* Preventing SQL injection, SSRF, secret exposure, and over-permissive authorization\n* CI/CD strategies for AI-generated code\n* Feature flags and automated rollbacks\n* Structured logging and production monitoring\n* The importance of human judgment and code review\n\nThe Core Idea\n\nDon’t ask AI:\n\n“Build my application.”\n\nInstead, give it a well-defined architecture, constraints, conventions, interfaces, tests, and acceptance criteria — then let AI help you implement and validate each small piece.\n\nAI should accelerate engineering judgment, not replace it.\n\nTags\n\n#AISDLC #AI #SoftwareEngineering #AIProgramming #CodingWithAI #Claude #GitHubCopilot #Cursor #Windsurf #SoftwareDevelopment #SystemDesign #SoftwareArchitecture #CleanCode #DevOps #CodeReview #AICoding #Programming #DeveloperTools #ArtificialIntelligence",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
     },
     "xo-7CZ0zyMw": {
       "checkedAt": "2026-08-15T13:53:38Z",
@@ -8207,15 +8165,6 @@
       "availability": "public",
       "description": "What is Generative AI, and how can AI create text, images, code, music, videos, and more from a simple prompt?\n\nIn Episode 3 of this AI series, we'll explore Generative AI in a simple and practical way.\n\nYou'll learn how Generative AI differs from traditional AI, how it learns patterns from training data, and how tools such as ChatGPT, Google Gemini, and Microsoft Copilot can generate new content.\n\n🌐 We'll also look at a real Network Engineering example where Generative AI can help generate vendor-specific network configuration templates — and why a network engineer must always review, validate, and test AI-generated configurations before using them in production.\n\nIn this video you'll learn:\n• What Generative AI is\n• Traditional AI vs Generative AI\n• How Generative AI creates new content\n• What Generative AI can create\n• Generative AI for Network Engineers\n• AI-assisted network configuration\n• Limitations of Generative AI\n• Why AI-generated answers should always be verified\n• The role of humans in an AI-powered world\n\nKey takeaway:\nTraditional AI analyzes.\nGenerative AI creates.\nHuman + AI collaborate.\n\n🤖 Next Episode: Large Language Models (LLMs) — How does ChatGPT understand and generate human language?\n\nIf you're learning Artificial Intelligence, Generative AI, networking, CCNA, CCNP, or network automation, subscribe to Networking with H for more practical and easy-to-understand technology videos.\n\n👍 Like the video if it helped you, and subscribe so you don't miss the next episode!\n\n#GenerativeAI #ArtificialIntelligence #ChatGPT #Gemini #MicrosoftCopilot #AI #NetworkEngineering #NetworkAutomation #CCNA #CCNP #NetworkingWithH",
       "commentCount": 0,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "xtjQ_tRuHoo": {
-      "checkedAt": "2026-08-15T13:53:38Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn how to use Google Flow for AI filmmaking and create cinematic AI videos with consistent characters, scenes, and storytelling.\n\nIn this Google Flow tutorial, we'll explore how to turn your ideas and prompts into cinematic AI-generated video scenes.\n\nWhether you're a beginner, content creator, filmmaker, programmer, entrepreneur, or AI enthusiast, this course will help you master AI-powered video creation from the ground up.\n\n🎯 In this lesson, you'll learn:\n\n- How to Set up a Project \n- How to Define Your Character\n- How to import a Character\n- How to Clone Character Voice\n- How to Prompt Google Flow to get a Cinematic Film\n- How Google Flow works\n- Understanding the Google Flow interface\n- AI filmmaking workflow\n- Prompt engineering basics\n- Creating cinematic AI videos\n- Best practices for beginners\n- Common mistakes to avoid\n\n🔥 What you'll learn in this complete course:\n✅ Google Flow Fundamentals\n✅ AI Video Generation\n✅ Prompt Engineering\n✅ AI Filmmaking\n✅ Character Consistency\n✅ Camera Movements\n✅ Scene Creation\n✅ Professional Cinematic Prompts\n✅ AI Storytelling\n✅ Advanced Google Flow Techniques\n\n💡 This course is designed with:\n\n- 10% Theory\n- 90% Practical Learning\n- Real-world demonstrations\n- Step-by-step tutorials\n\n👍 If this video helps you, please:\n✔ Like this video\n✔ Subscribe to LearnAi Academy\n✔ Turn on notifications\n✔ Share this video with your friends\n✔ Leave your questions in the comments\n\n🎓 Learn AI. Create Smarter. Build the Future.\n#GoogleFlow #AIFilmmaking #AIVideo #GenerativeAI #LearnAI",
-      "commentCount": 2,
       "likeCount": 2,
       "probeClient": "web_embedded"
     },
@@ -8342,7 +8291,7 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-16T00:53:12Z",
+      "checkedAt": "2026-08-16T01:53:13Z",
       "embedAllowed": false,
       "availability": "unavailable",
       "failureReason": "unavailable"
@@ -8413,15 +8362,6 @@
       "description": "Click the link https://get.online/patryk1 and use the code PATRYK to get your .online domain and lock in your domain for just $0.99!\n\nTry Krafie (Use code: \"pat30\")  → https://www.krafie.com/\n\nTry Etsy and get 40 FREE Listings\n→ https://etsy.me/48Y0ZI9\n\nFollow me:\nTikTok - https://www.tiktok.com/@patrykmarketer\nInstagram - https://www.instagram.com/patrykmarketer/\nFacebook -https://www.facebook.com/patrykmarketer\nX - https://x.com/patrykmarketer",
       "commentCount": 1,
       "likeCount": 11,
-      "probeClient": "web_embedded"
-    },
-    "-ygjqs8MO20": {
-      "checkedAt": "2026-08-15T17:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥 USA Facebook Automation Course 2027 | BIG Surprise Reveal\n\nRiyazTech App\nhttps://ldarua.on-app.in/app/oc/770708/ldarua?utm_source%3Dcopy-link%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-app\n\nIOS APP Link My Institute\n\nhttps://apps.apple.com/in/app/my-institute/id1472483563\n\nEnter Org Code - LDARUA\n\n\nInstagram-:https://www.instagram.com/riya.ztech?igsh=MW13bnZzam0zYm50aw==\n\n\nWhatsApp Channel Prompt -: \nhttps://whatsapp.com/channel/0029VbBpg4aJkK7Hcxiuud3J\n\n\nFree COURSE 2 Hours -:\nhttps://youtu.be/U7wAFbsktEA?si=SQhrnO8zBjDSFzUe\n\n\nMember Only -:https://youtu.be/f21Li1bSOpA?si=jxHWh03MSqESKwW9\n\n\nFree Facebook Automation Course-:\nhttps://youtu.be/gTAKKoHoHyY?si=jlfWYG_EYQdzlxAJ\n\n\n-:\n\n\nUSA Facebook Automation Course 2026 | Full Course Details + How to Get Started\n\nWant to understand how USA Facebook Automation works and how you can get started with a USA-focused Facebook Page?\nIn this video, I reveal the complete details of the USA Facebook Automation Full Course, including what you will learn, how the system works, how AI can be used for Facebook content automation, and what beginners should understand before starting.\n\n\nWhat You’ll Learn in This Video: \nUSA Facebook Automation Complete Overview\nHow to Get Started with a USA Facebook Page\nUSA Facebook Page Setup & Strategy\nAI Automation for Facebook\nAI Content Creation & Automation Workflow\nUSA Focused Facebook Content Strategy\nFacebook Page Growth Fundamentals\nCourse Modules & Complete Course Details\nBeginner-Friendly Starting Process\nImportant Things to Know Before Starting\n\n\nYou're Queries \nUSA Facebook Page\nUSA Facebook Automation\nAI Automation Facebook\nUSA Facebook Full Course\nUSA Facebook Course 2026\nFacebook Automation Course\nUSA Page Automation\nAI Facebook Automation\nUSA Facebook Page Full Course\nFacebook AI Automation Tutorial\n\nDisclaimer-:\nFacebook features, eligibility requirements, and policies can change over time. Always check the latest Meta/Facebook policies and guidelines before implementing any strategy.\nIf this video helps you understand USA Facebook Automation, make sure to Like, Comment & Subscribe to Riyaz Tech for more Facebook, AI Automation and content strategy tutorials.\n\n@FbTalk1 @wealthhacker @FbMoneyExtra @emmiescalm \n\nHashtags #️⃣ \n#USAFacebook #FacebookAutomation #AIAutomation #USAFacebookPage #FacebookCourse #Facebook2026",
-      "commentCount": 137,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "3XAOfCS9HaU": {
@@ -8664,13 +8604,52 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "wpkb_LxerAs": {
-      "checkedAt": "2026-08-16T00:53:12Z",
+    "aYqrLwl8lK4": {
+      "checkedAt": "2026-08-16T01:53:13Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "Which AI tool should you use for everyday office work — ChatGPT, Google Gemini, or Microsoft Copilot?\n\nIn Lecture 02 of Practical Generative AI for Office Work, we compare these three popular AI assistants using a simple practical rule:\n\nEcosystem First → Task Second → Check the Output\nThe goal is not to declare one AI tool the winner for every situation. Instead, you’ll learn how to choose the right starting tool based on where your work already lives, the task you need to complete, and the AI features available in your account or organization.\n\n🔥 In This Video You’ll Learn\n✅ ChatGPT for writing, research, mixed files and data analysis\n✅ Gemini for Google Workspace workflows\n✅ Copilot for Microsoft 365 workflows\n✅ When to use ChatGPT, Gemini or Copilot\n✅ How Gmail, Drive, Docs and Calendar fit with Gemini\n✅ How Word, Excel, PowerPoint, Outlook and Teams fit with Copilot\n✅ Why subscriptions, licenses and administrator settings matter\n✅ How to compare AI-generated answers properly\n✅ How to identify missing or invented information\n✅ How to choose AI tools for real office tasks\n\nThe lecture uses the same fictional meeting-notes task across the tools and evaluates the responses based on:\n🎯 Accuracy\n📋 Structure\n⚠️ Missing information\n✍️ Editing required\nThe test checks whether important details such as the launch date, approved budget, task owners and unresolved decisions are preserved correctly without inventing missing information.\n\n🤖 Simple Starting Rule\nGoogle Workspace: Start by considering Gemini when your work is already inside Gmail, Drive, Docs and Calendar.\nMicrosoft 365: Consider Copilot when your workflow revolves around Word, Excel, PowerPoint, Outlook and Teams.\nMixed files + writing + web research + data: ChatGPT can be a flexible starting point.\nThese are starting choices, not permanent rules. Features depend on your account, subscription, organization and administrator settings.\n\n🧠 Remember\nChoose the ecosystem first.\nChoose the task second.\nCheck every AI output before using it.\n\n📌 Course: Practical Generative AI for Office Work\n📌 Lecture: 02\n📌 Topic: ChatGPT vs Gemini vs Microsoft Copilot\n📌 Level: Beginner Friendly\n📌 Language: English\n\n💬 Comment below: Google Workspace, Microsoft 365, Both or Neither?\n\nSubscribe to Programming Line for more practical AI tutorials, productivity tools and Generative AI courses.\n#ChatGPT #Gemini #MicrosoftCopilot #GenerativeAI #AITools #ArtificialIntelligence #AIForOfficeWork #ChatGPTvsGemini #Copilot #AIProductivity",
+      "description": "Everything Claude writes for you now carries a hidden mark you can't see.\n\nAnthropic started weaving an invisible signal into Claude's responses, nudging which words the model picks in a pattern only a machine can read. It stays even when you copy the text somewhere else, and generated files get a separate signed signature. They turned it on worldwide to meet the EU's new AI law.\n\nTwo things nobody mentions. First, you can't check the mark yet, the detector isn't out. Second, it only shows the text was produced by Claude, not that you didn't write it, and if you rewrite it in your own words, the mark fades.\n\nI share more about AI in my community, link in bio.\n\n#ai #claude #anthropic #ainews #euaiact",
       "commentCount": 0,
-      "likeCount": 3,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-16T01:53:13Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "f3QMzsxdayI": {
+      "checkedAt": "2026-08-16T01:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Welcome back to another crucial workspace administration episode in our massive n8n workflow automation series! Did you know that n8n has its own powerful REST API that allows you to control your entire workspace programmatically? You can trigger workflows, export configurations, and manage users entirely from external applications! However, to unlock this superpower securely, you need to master n8n API Key management. In this fully updated 2026 comprehensive tech tutorial, we are taking a deep dive into how to create, manage, and secure your n8n API keys to safely integrate your automation server with the outside world!\n\nIn the first section of this complete video guide, we will tackle the n8n API settings dashboard. We will walk you through the n8n UI, showing you exactly how to navigate to Settings / n8n API. You will learn the step-by-step process of generating your very first API key. We will show you how to securely copy this key into external apps (like Postman or your own custom frontend) and how to pass it correctly in your HTTP headers (`X-N8N-API-KEY`) to authenticate your programmatic requests!\n\nNext, we take a deep dive into Enterprise-grade security: Scopes and Expirations! If you just hand out a master API key to a third-party application, you are giving it full control to delete all your workflows! We will show you how to properly manage your keys by assigning granular scopes. You will learn how to create restricted, read-only keys (`workflow:read`) or execution-only keys (`execution:create`). We will also demonstrate how to set hard expiration dates on your keys to ensure temporary contractors lose access automatically when their contract ends!\n\nMoving into the second half of our tutorial, we will explore API key auditing and best practices. We will discuss how to review your active keys to spot any unauthorized access or unused tokens that should be disabled. We will also recap the zero-downtime rotation strategy, showing you how to gracefully transition from an old key to a new one without breaking your production applications! \n\nMastering how to manage your n8n API keys is the ultimate step in transforming your workspace from a closed sandbox into a highly integrated, enterprise-scale automation engine!\n\nThank you so much for tuning in to this complete n8n API management tutorial! If this 2026 tech guide helped you securely connect your first external app today, please make sure to smash that like button and share this video with a fellow developer or operations manager who self-hosts n8n! Subscribe to the channel and turn on the notification bell so you never miss out on our upcoming n8n tutorials, AI agent builds, and DevOps optimization guides. Drop a comment down below letting us know what external application you are connecting to your n8n API, and we will see you in the next video!\n\n#n8n #n8nTutorial #APIKeys #WorkflowAutomation #ZapierAlternative #TechTutorial2026 #DevOps #MakeAlternative #OpenSource #SelfHosted #CyberSecurity #RESTAPI\n\nyoutube tags:\nhow to manage n8n api keys,n8n api key setup,n8n rest api tutorial,n8n api authentication,n8n custom scopes,n8n security settings,n8n create api key,n8n X-N8N-API-KEY,n8n tutorial 2026,zapier alternative,make.com alternative,workflow automation,open source automation,self hosted n8n,n8n workspace management,automate business processes,no code automation,n8n devops,n8n api integration,n8n programmatic access\n```eof\n\nI've generated the metadata focusing on generating keys, assigning strict scopes for least-privilege security, and using them to access the n8n REST API safely. Let me know what automation challenge we should dive into next!",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "1_POapXhY28": {
+      "checkedAt": "2026-08-16T01:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Welcome back to another massive build episode in our ultimate n8n workflow automation series! If you run a global business, process multilingual customer support tickets, or localize content, you know that commercial translation APIs like DeepL or Google Cloud can drain your budget incredibly fast. Why pay for expensive character limits when you can build your own unlimited translation microservice for absolutely free? In this fully updated 2026 comprehensive tech tutorial, we are taking a deep dive into how to build a custom, 100% free translation service in n8n using Webhooks and open-source models!\n\nIn the first section of this complete video guide, we will tackle the workflow architecture and the entry point. We will walk you through setting up a Webhook node to act as your very own internal API. You will learn how to configure this trigger to accept POST requests with dynamic JSON payloads—allowing external apps or other n8n workflows to send in `source_text` and a `target_language` parameter. We will show you how to securely parse this incoming data so it's perfectly formatted for the translation engine.\n\nNext, we take a deep dive into the absolute star of the show: The Translation Logic! To keep this 100% free, we will explore two incredible methods. First, we will show you how to use the HTTP Request node to connect to free, open-source translation APIs like LibreTranslate or Lingva. Second, we will leverage the 2026 Advanced AI nodes to route the text to a completely free, locally hosted Ollama model (like Llama 3 or Mistral)! You will watch a live demonstration of prompting a local LLM to translate complex, industry-specific jargon with context-aware accuracy that beats traditional APIs—at zero cost!\n\nMoving into the second half of our tutorial, we will explore how to return and scale this data. We will connect a Webhook Response node to instantly send the translated text back to the requesting application as a clean JSON object. Finally, we will demonstrate a real-world use case: calling your new free translation microservice from a separate Google Sheets workflow to automatically translate hundreds of customer reviews in seconds!\n\nMastering how to build custom utility APIs like a translation service in n8n is the ultimate key to escaping SaaS subscription fees and taking total control over your automation architecture!\n\nThank you so much for tuning in to this complete n8n utility build tutorial! If this 2026 tech guide helped you bypass expensive translation APIs today, please make sure to smash that like button and share this video with a fellow developer or operations manager who self-hosts n8n! Subscribe to the channel and turn on the notification bell so you never miss out on our upcoming n8n tutorials, local AI agent builds, and Docker optimization guides. Drop a comment down below letting us know if you prefer using LibreTranslate or local Ollama models for your text processing, and we will see you in the next video!\n\n#n8n #n8nTutorial #TranslationAPI #WorkflowAutomation #Ollama #ZapierAlternative #TechTutorial2026 #MakeAlternative #OpenSource #SelfHosted #DevOps #LocalAI\n\nyoutube tags:\nhow to build a free translation service in n8n,n8n translation tutorial,free translation api,n8n webhook custom api,n8n libretranslate,n8n ollama integration,n8n local llm translation,n8n google translate alternative,n8n deepl alternative,n8n tutorial 2026,zapier alternative,make.com alternative,workflow automation,open source automation,self hosted n8n,n8n http request node,automate business processes,no code automation,n8n devops,n8n microservice,automate customer support\n```eof\n\nI've crafted the metadata to perfectly target viewers looking to save money on SaaS tools, focusing heavily on using Webhooks to create an internal API and combining it with free open-source tools like LibreTranslate and Ollama. Let me know what automation build we should tackle next!",
+      "commentCount": 1,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "f1oAOaX67eM": {
+      "checkedAt": "2026-08-16T01:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Build a reusable AI-assisted daily-report workflow without writing code.\n\nIn this DotCHAI tutorial, “AI employee” is a teaching metaphor for a well-defined AI-assisted workflow—not a fully autonomous worker.\n\nYou will see how to structure a recurring daily-report process using fictional data, clear instructions, human review and practical governance controls.\n\nYou’ll learn how to:\n• Define a clear role, goal, inputs and output\n• Structure a repeatable no-code AI workflow\n• Separate AI recommendations from human-approved decisions\n• Verify the generated report against its source information\n• Add a feedback loop for improving the workflow\n• Apply six practical governance rules\n\nThe goal is not to remove human judgment. It is to give AI a well-defined role inside a controlled workflow.\n\nImportant: The demonstration uses fictional data. Review AI-generated outputs before use. Privacy, security, governance and compliance requirements depend on your organization, approved tools and specific use case.\n\nDotCHAI — Practical AI for smarter work.\n\nCHAPTERS\n00:00 What We’re Building\n00:33 Build the Daily Report Workflow\n00:49 Define the Role and Goal\n01:14 Add Guardrails and Output Rules\n02:17 Add the Fictional Updates\n02:49 Verify the AI Report\n03:18 The DotCHAI Workflow Framework\n03:59 Add Proposed Priority Labels\n04:55 Build the Feedback Loop\n05:31 Assistant vs Workflow vs Agent\n06:22 Choosing Safe Beginner Workflows\n07:18 Six Practical Governance Rules\n08:49 What You Built\n09:39 Next Steps\n\n#AIEmployee #AIWorkflow #DotCHAI\n\n3. Accurate YouTube Chapters\n00:00 What We’re Building\n00:33 Build the Daily Report Workflow\n00:49 Define the Role and Goal\n01:14 Add Guardrails and Output Rules\n02:17 Add the Fictional Updates\n02:49 Verify the AI Report\n03:18 The DotCHAI Workflow Framework\n03:59 Add Proposed Priority Labels\n04:55 Build the Feedback Loop\n05:31 Assistant vs Workflow vs Agent\n06:22 Choosing Safe Beginner Workflows\n07:18 Six Practical Governance Rules\n08:49 What You Built\n09:39 Next Steps\n\nHashtags\n#AIEmployee #AIWorkflow #DotCHAI",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "4p4lnLQIJVc": {
+      "checkedAt": "2026-08-16T01:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "building an app without coding : I didn't write a single line of code. I just talked, and Emergent's new E3 agent built the entire app for me: frontend, backend, database, all of it, tested and fixed automatically as it went.\n\nThis is the real, honest walkthrough of how to build an app without coding using Emergent's E3 agent - what it actually is, how the brainstorm-to-build flow works, a pro tip almost nobody talks about (using a free AI as your product manager before you even open Emergent), and why its 11 integration categories mean whatever tool you already use is probably already supported.\n\nTry Emergent free (10 credits, no card required):\nhttps://get.emergent.sh/s12qeixms3v9\n\nFree list of the best AI tools worth using right now (PDF):\nhttps://aitooldiscovery.gumroad.com/l/yaapvr?layout=profile\n\nTimestamps:\n0:00 The problem with every other AI app builder\n0:28 Meet Emergent, backed by Y Combinator\n0:35 The E3 agent: just brainstorm, it builds everything\n1:02 What it actually looks like to build with E3\n1:41 The pro tip: use a free AI as your product manager first\n2:00 Every integration you already use, connected\n2:23 E3 isn't just for apps (research, data, automation)\n2:40 Start building free\n\nIf you've had an app idea sitting in your notes for months, this is probably the fastest way to actually build it. Emergent is backed by Y Combinator and has already helped users create over 10,000 custom agents.\n\n#Emergent #AIAppBuilder #NoCode #BuildWithoutCoding #E3Agent",
+      "commentCount": 0,
+      "likeCount": 2,
       "probeClient": "web_embedded"
     }
   }
