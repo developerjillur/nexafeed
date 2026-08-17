@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T15:53:38Z",
+  "updatedAt": "2026-08-17T16:53:47Z",
   "items": [
+    {
+      "id": "o5noOFX-nNc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Adobe for Business",
+      "publishedAt": "2026-08-17T15:53:47Z",
+      "firstSeenAt": "2026-08-17T16:53:47Z"
+    },
+    {
+      "id": "y6WVpNS5Txc",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Prince Caleb | Web, Mobile & AI",
+      "publishedAt": "2026-08-17T01:53:47Z",
+      "firstSeenAt": "2026-08-17T16:53:47Z"
+    },
+    {
+      "id": "62OIqsJtvVU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Everett Marketing Agency",
+      "publishedAt": "2026-08-16T19:53:47Z",
+      "firstSeenAt": "2026-08-17T16:53:47Z"
+    },
+    {
+      "id": "tUS53aHfWZQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nas Digital Growth",
+      "publishedAt": "2026-08-16T18:53:47Z",
+      "firstSeenAt": "2026-08-17T16:53:47Z"
+    },
     {
       "id": "NGMzAJSMseU",
       "type": "long",
@@ -16820,6 +16852,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-17T16:53:47Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
