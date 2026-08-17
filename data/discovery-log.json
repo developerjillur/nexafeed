@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T22:53:37Z",
+  "updatedAt": "2026-08-17T23:53:03Z",
   "items": [
+    {
+      "id": "3Xgsz36gX7I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech Unfiltered",
+      "publishedAt": "2026-08-17T19:53:03Z",
+      "firstSeenAt": "2026-08-17T23:53:03Z"
+    },
+    {
+      "id": "0IfwnKwPrA4",
+      "type": "short",
+      "source": "secondary",
+      "channel": "CGTN Africa",
+      "publishedAt": "2026-08-17T16:53:03Z",
+      "firstSeenAt": "2026-08-17T23:53:03Z"
+    },
+    {
+      "id": "sQVuKIWSX0o",
+      "type": "long",
+      "source": "secondary",
+      "channel": "No Nonsense Spirituality | Britt Hartley",
+      "publishedAt": "2026-08-17T15:53:03Z",
+      "firstSeenAt": "2026-08-17T23:53:03Z"
+    },
+    {
+      "id": "8gsGcG5x01Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vijay Vikram Singh and 2 more",
+      "publishedAt": "2026-08-17T14:53:03Z",
+      "firstSeenAt": "2026-08-17T23:53:03Z"
+    },
+    {
+      "id": "xzQCCpxaCFI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Digital Skills Center",
+      "publishedAt": "2026-08-17T13:53:03Z",
+      "firstSeenAt": "2026-08-17T23:53:03Z"
+    },
     {
       "id": "-zcm_sDRFew",
       "type": "long",
@@ -17235,6 +17275,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-17T23:53:03Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
