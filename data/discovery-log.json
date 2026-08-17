@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T14:53:28Z",
+  "updatedAt": "2026-08-17T15:53:38Z",
   "items": [
+    {
+      "id": "NGMzAJSMseU",
+      "type": "long",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-17T15:26:21Z",
+      "firstSeenAt": "2026-08-17T15:53:38Z"
+    },
+    {
+      "id": "fREWbGXYPlU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-08-17T15:21:43Z",
+      "firstSeenAt": "2026-08-17T15:53:38Z"
+    },
+    {
+      "id": "h_L0SvoM3ZY",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-17T15:06:17Z",
+      "firstSeenAt": "2026-08-17T15:53:38Z"
+    },
+    {
+      "id": "VRqW0d8-dIU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Insider Force",
+      "publishedAt": "2026-08-17T15:04:58Z",
+      "firstSeenAt": "2026-08-17T15:53:38Z"
+    },
+    {
+      "id": "cHlmP4LYdPg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech With Tim",
+      "publishedAt": "2026-08-17T15:30:38Z",
+      "firstSeenAt": "2026-08-17T15:53:38Z"
+    },
+    {
+      "id": "Hr5alDflqZ0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Web Tech Knowledge",
+      "publishedAt": "2026-08-17T13:53:38Z",
+      "firstSeenAt": "2026-08-17T15:53:38Z"
+    },
+    {
+      "id": "KhrJY7ua6uI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "HMA WebCode",
+      "publishedAt": "2026-08-17T11:53:38Z",
+      "firstSeenAt": "2026-08-17T15:53:38Z"
+    },
+    {
+      "id": "ZSNMw8U5h-c",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Search",
+      "publishedAt": "2026-08-17T03:53:38Z",
+      "firstSeenAt": "2026-08-17T15:53:38Z"
+    },
     {
       "id": "bgtPxZ-S9vQ",
       "type": "short",
@@ -16747,6 +16811,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-17T15:53:38Z",
+      "new": 8,
+      "long": 5,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
