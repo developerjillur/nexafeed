@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T07:53:32Z",
+  "updatedAt": "2026-08-17T08:53:38Z",
   "items": [
+    {
+      "id": "XV2PAHWnJN0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tristen O'Brien",
+      "publishedAt": "2026-08-17T01:53:38Z",
+      "firstSeenAt": "2026-08-17T08:53:38Z"
+    },
+    {
+      "id": "V4zb8QhQY58",
+      "type": "long",
+      "source": "secondary",
+      "channel": "LiveOverflow",
+      "publishedAt": "2026-08-16T16:53:38Z",
+      "firstSeenAt": "2026-08-17T08:53:38Z"
+    },
+    {
+      "id": "NR_GMq2lDCE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Riley Brown",
+      "publishedAt": "2026-08-16T15:53:38Z",
+      "firstSeenAt": "2026-08-17T08:53:38Z"
+    },
     {
       "id": "zdd1HpCBn04",
       "type": "long",
@@ -16436,6 +16460,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-17T08:53:38Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
