@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T23:53:42Z",
+  "updatedAt": "2026-08-17T00:53:46Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -6508,28 +6508,78 @@
       "probeClient": "web_embedded"
     },
     "4hY8PO0KTv8": {
-      "checkedAt": "2026-08-16T00:53:12Z",
+      "checkedAt": "2026-08-17T00:53:46Z",
       "embedAllowed": true,
       "description": "💬 Comment 𝗔𝗣𝗣𝗟𝗘 and I’ll DM you the entire repo link!\n\n#claudecode #appledesign #uiux #frontend #codingwithai #webdesign #buildinpublic #developerproductivity #anthropic",
       "commentCount": 8,
-      "likeCount": 462,
+      "likeCount": 537,
       "comments": [
         {
           "id": "Ugxe11pl7DVQM3YYsgZ4AaABAg",
           "author": "@EricWTech",
           "text": "📌 Here is the link:\n\nhttps://github.com/emilkowalski/skills/tree/main/skills/apple-design",
-          "likeCount": 16,
+          "likeCount": 21,
           "publishedAt": "2026-08-15T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/-fAZCNoiUQ0xrOaqyCUPXW4MRRTNbJyWSN-KFzFSJlWNrl36J0h5EwfMKJi3GaNY0A5Ml1mLbS0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
+          "id": "UgwOMYJN9tnfJepLoEV4AaABAg",
+          "author": "@Richard-t3u",
+          "text": "Apple",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lAyCmPuPTcTtYpOA4QnUiNiel5MSi2UOypDgNoiTtaAGtGVrLt1wtS6foazk69LW0x-w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw_T-H6NeshEh3hor94AaABAg",
+          "author": "@quackquackmoment",
+          "text": "apple",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/OqiuBT1GNTsDsn-JhBJD0wLj1EXBd0bgm9ZXlpmLAFOXOnzs43XY4ekD3-NSrnr_pZnzAVZVZA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw4Z1Dv3LsWCks0Sy14AaABAg",
+          "author": "@pedi4KinGz",
+          "text": "And premium is Apple! The only thing premium about Apple is their price!",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/GkzUfDIQu_U_QJhpC8X2ZarSLfCFWi8mRshm5wsXdUgA07dyfg_zy08YnQCX8hgT93abpNGnTg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyR5kZMqkoMvT1rDGF4AaABAg",
+          "author": "@RodAguileraMX",
+          "text": "Apple",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/_C7Ow2aejo_9nY9Ykg5_8rS8xWuWUM3yb5jte0hCNeHEYhySmMNgTaMrAsLVQcLyPPro9vxV=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzW4uRKtPA30mXiv_B4AaABAg",
+          "author": "@sahanpasindu6391",
+          "text": "APPLE",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-wYouhzhLjFwz2pJKohDoXz7J-8GtLiop3TIdLfsqBgDp=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
           "id": "UgxzUrNurc4v3txOAAp4AaABAg",
           "author": "@darlingtonjonesimagery9247",
           "text": "Apple",
           "likeCount": 0,
-          "publishedAt": "2026-08-16T00:24:00Z",
+          "publishedAt": "2026-08-16T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kfPmJIrxReOMsAo8cC21odL8A_AuPI1WiS1EaxFJiozw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6543,70 +6593,20 @@
           "authorThumbnail": "https://yt3.ggpht.com/uM0jGEHH8Jc-9lflMcdwMIVD3ze7vqzBMR0s88w1snr-NSHkdwmp1Y9fBCUsD1aeC46NicGUaA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
-        },
-        {
-          "id": "UgyQ9n0EmC_JmYc5acR4AaABAg",
-          "author": "@JesraelBugaoan",
-          "text": "Apple",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/uM0jGEHH8Jc-9lflMcdwMIVD3ze7vqzBMR0s88w1snr-NSHkdwmp1Y9fBCUsD1aeC46NicGUaA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx6meVnFU0HSr0ZfA14AaABAg",
-          "author": "@WithManny1",
-          "text": "Apple",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T21:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/iKrSxARcbv__TZ8OMwAQTvkQQj9MlRLf6spfXfKF3jwRsfAgBlhQ4zM7PyX2jC3xERapVFTD=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxroIN4dT42vvCHl5J4AaABAg",
-          "author": "@CarlJungChronicle",
-          "text": "Apple",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T21:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/uDrt0EiTTyxHaJvQ_1cLuRWTOfuPQh7u0FUsq3bFExc38SGmfYtB8_mI_2J1WSFu7NHXA-MEaA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw6SAxFy5JId2IFlMR4AaABAg",
-          "author": "@jeppepetersen9601",
-          "text": "Apple",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mCApHWLrgxesWfuCMkPftyJIE_upkLc6wrNB0d2s4=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwonpYoYfBdCO00Vpl4AaABAg",
-          "author": "@niyigenamike3455",
-          "text": "Apple",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZft8Q0o2bzManOC1NFWqIIKqp9sXcVahW2GEY4t8=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-16T00:53:12Z",
+      "commentsFetchedAt": "2026-08-17T00:53:46Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded",
       "availability": "public"
     },
     "Q9VhGGfeHP0": {
-      "checkedAt": "2026-08-16T00:53:12Z",
+      "checkedAt": "2026-08-17T00:53:46Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 1,
-      "likeCount": 269,
+      "likeCount": 312,
       "comments": [
         {
           "id": "UgyPDtS-gKTmCQPmJnF4AaABAg",
@@ -6619,7 +6619,7 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-16T00:53:12Z",
+      "commentsFetchedAt": "2026-08-17T00:53:46Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7336,7 +7336,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-16T23:53:42Z",
+      "checkedAt": "2026-08-17T00:53:46Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7860,7 +7860,7 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-16T23:53:42Z",
+      "checkedAt": "2026-08-17T00:53:46Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7917,26 +7917,128 @@
       "probeClient": "web_embedded"
     },
     "bClnQ4Q3iKM": {
-      "checkedAt": "2026-08-16T00:53:12Z",
+      "checkedAt": "2026-08-17T00:53:46Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment ONE and I'll send you the link.\n\nA free AI video studio that runs on your own laptop just went open source.\n\nIt's called WanGP, and it runs world-class video models with no cloud fees and no $3,000 GPU. A card with 6GB of VRAM, almost any mid-range Nvidia from the last few years, is enough. Open the browser interface, pick a top model like Wan 2.1 or Hunyuan Video, describe your shot, and it renders on your own machine. A full studio: text-to-video, image-to-video, auto music and sound, even talking-head video with voices. Nothing leaves your computer.\n\nIts creator, DeepBeepMeep, calls it the best open source video AI for the GPU poor.\n\n#ai #videogen #opensource #aitools #wan",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-16T00:53:12Z",
+      "commentCount": 8,
+      "likeCount": 43,
+      "comments": [
+        {
+          "id": "UgwnqONkcIqFyXO9NnR4AaABAg",
+          "author": "@wayneroberts7819",
+          "text": "ONE",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mzksONrz3OSuVyyUUITS-9yLU_QutU4tCOAyRp5DM_vrG8UFaU5FJrp_beNznUEi3uUg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwuUHa3tblBcLL9yKl4AaABAg",
+          "author": "@conipito_edits",
+          "text": "One",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nb3VezN7MzT_7FKtzv4E4kHkUN6Y3xRud-AhuR2qEO6Um7lPzPQnEZK0uYnh5C3usuJw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwV9eZ7LFlptPcQFwl4AaABAg",
+          "author": "@ronschuler8131",
+          "text": "One",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nMxee1Ka0LXE9x0edTqJ8Iu5evUWu-2ZPEf9yI9E-1jw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxGouv9kSZdEYtASNZ4AaABAg",
+          "author": "@doreenmccarthy9009",
+          "text": "One",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksOF9cJw6Aaagqi0ktCjgqqvdei_kxInkStR8SF52k1ZMR=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwVpSVT3pXvcBTInXd4AaABAg",
+          "author": "@ArunkumarB73",
+          "text": "ONE",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_neao-Kwb--S-n2VdnaBAxK5Tm-XeL6oNJH-UQKo1ntnmYj=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyJxcpqQVi8i9jPM4Z4AaABAg",
+          "author": "@gustavodelgado3831",
+          "text": "One",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mbLhl6JK_Ml4WGCMBXCFEQ9Jhd0LFEC0-xYdLPCtM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxUXEwazADT7Rk7R694AaABAg",
+          "author": "@Everything_Techiee",
+          "text": "One",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ImhwwgDdg1KNoBHOmg1KKvkfzeqoT0M3ScUD4wkQkVQc8TENNlKAZnN_NWqj1L-T5PZEqHgp=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwFNTvVnoLaBqp8-lR4AaABAg",
+          "author": "@JohnMartindale-q4u1v",
+          "text": "ONE",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ltG5Vixvi3d0Yh00mrIlUB2on93_zWY8hkMojmBpX9mvBiNJjt4vNgL5Rn8XCPf9bnFg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-17T00:53:46Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "Ux_eFME2acI": {
-      "checkedAt": "2026-08-16T00:53:12Z",
+      "checkedAt": "2026-08-17T00:53:46Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 8,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-16T00:53:12Z",
+      "commentCount": 2,
+      "likeCount": 91,
+      "comments": [
+        {
+          "id": "UgyIhC0dqkSh96H6Y5p4AaABAg",
+          "author": "@bidufree",
+          "text": "\"Terminal\"... wait, wait... and the terminal pops up. I've started hard coding commands instead of running them via an LLM. Much faster. Mouse clicking seems faster too than voice command, in this case.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lkAO4DumNozwApsc18YG_XBT7Rlp7l3IX0gMyAacw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw3UW5E9uhts8_21Pt4AaABAg",
+          "author": "@altercount4554",
+          "text": "Did you say Claude OS or Cloud OS at the beginning?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mGJO3hM2dpiJZIZTP5TrlhYX6wr1C5o7chiJ1R4ks=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-17T00:53:46Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -8425,20 +8527,11 @@
       "likeCount": 242,
       "probeClient": "web_embedded"
     },
-    "XYpzgYNYgbs": {
-      "checkedAt": "2026-08-16T17:53:40Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Agentic Coding কি শুধু কোর্স বা ভিডিও দেখে শেখা যায়?\n\nএই ভিডিওতে আমরা Agentic Coding নিয়ে সবচেয়ে বড় একটি ভুল ধারণা নিয়ে কথা বলেছি।\n\nআপনি কি শুধু রেসিং ট্রাকের ভিডিও দেখে সরাসরি রেসিং ট্র্যাকে গিয়ে রেস করতে পারবেন? পারবেন না। কারণ শুধু গাড়ি চালানো জানলেই হয় না—ট্র্যাক, গাড়ির আচরণ, পরিস্থিতি এবং সঠিক সময়ে সঠিক সিদ্ধান্ত নেওয়ার ক্ষমতাও জানতে হয়।\n\nAgentic Coding-এর ক্ষেত্রেও বিষয়টা একই।\n\nশুধু AI Agent, Cursor, Claude Code বা অন্য কোনো AI Coding Tool ব্যবহার করতে শেখা মানেই Real Agentic Coding নয়।\n\nReal Agentic Coding-এর জন্য প্রয়োজন Domain Knowledge — কোন business বা problem কীভাবে কাজ করে।\n\nSystem Flow — Request → Processing → Decision → Action কীভাবে চলে।\n\nArchitecture — Service, Database, API, Queue, Cache এবং Agent কীভাবে একসাথে কাজ করে।\n\nProblem Decomposition — বড় সমস্যাকে Agent-এর জন্য ছোট actionable task-এ ভাঙতে পারা।\n\nContext Engineering — Agent-কে সঠিক context, constraints এবং requirements দিতে পারা।\n\nVerification — Agent-এর generated code বা design সঠিক কিনা যাচাই করতে পারা।\n\nতাহলে Agentic Coding কি আপনার চাকরি পাওয়ার জন্য দরকার?\n\nCareer solid করার জন্য?\nSenior Developer হওয়ার জন্য?\nনিজের knowledge বাড়ানোর জন্য?\n\nহ্যাঁ, Agentic Coding গুরুত্বপূর্ণ। কিন্তু এটি কোনো shortcut নয়।\n\nZero Knowledge + AI Tool = Real Agentic Coding নয়।\n\nআপনার যত বেশি Domain Knowledge, System Understanding, Architecture Knowledge এবং Problem-Solving Skill থাকবে, আপনি তত ভালোভাবে AI Agent-কে ব্যবহার করতে পারবেন।\n\nAgentic Coding Beginner-এর জন্য shortcut নয়; এটি একজন ভালো Software Engineer-এর existing knowledge-কে আরও powerful করার একটি approach।\n\nLearn With Rabbil — বাংলা ভাষায় Software Engineering, Programming এবং Technology শেখার জন্য।\n\n#AgenticCoding #AICoding #SoftwareEngineering #Programming #SoftwareDevelopment #AIProgramming #DeveloperCareer #LearnWithRabbil",
-      "commentCount": 1,
-      "likeCount": 14,
-      "probeClient": "web_embedded"
-    },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-16T23:53:42Z",
+      "checkedAt": "2026-08-17T00:53:46Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "7hQTGOAt_h0": {
       "checkedAt": "2026-08-16T18:53:41Z",
@@ -8569,14 +8662,6 @@
       "likeCount": 776,
       "probeClient": "web_embedded"
     },
-    "V_OlWyt8g7I": {
-      "checkedAt": "2026-08-16T20:53:15Z",
-      "embedAllowed": true,
-      "description": "I built a custom Claude skill that searches 12+ job platforms, writes a tailored resume + cover letter for every single match, and tracks my applications — all from one command. In this video, I show it running live: searching for Senior C++ roles in Bangalore, generating ATS-optimized resumes for each job description, and pulling everything into one organized bundle.\n\nIf you're job hunting right now and tired of manually rewriting your resume for every posting, this is the exact system I use.\n\nWhat this Claude skill does:\n→ Searches Naukri, LinkedIn, Instahyre, Cutshort, Hirist, Indeed, Foundit, Glassdoor, and more — simultaneously\n→ Scores every match against your actual experience (Fitness Score)\n→ Auto-generates a resume tailored to each specific job description — not one generic resume\n→ Writes a matching cover letter for every role\n→ Tracks applications and can auto-detect interview/rejection emails via Gmail\n→ Runs on autopilot overnight if you want it to\n\nTimestamps:\n00:00 Intro\n03:37 Live Demo \n12:28 Resume Format \n\nLink to my Skill: https://github.com/mayankjoshii/claude-job-skill\n\n#JobSearch #ClaudeAI #SoftwareEngineering #CareerAdvice #Microsoft #Bangalore #TechJobs #AIAgent #AI #AIAutomation #JobAutomation #FutureOfWork #AIJobs #Automation #ArtificialIntelligence",
-      "commentCount": 7,
-      "likeCount": 95,
-      "probeClient": "web_embedded"
-    },
     "x5JgbtIlxTE": {
       "checkedAt": "2026-08-16T21:53:24Z",
       "embedAllowed": true,
@@ -8649,20 +8734,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "5TbjrNmQhPc": {
-      "checkedAt": "2026-08-16T22:53:33Z",
-      "embedAllowed": true,
-      "description": "Discover how AI is completely revolutionizing video editing and content creation in 2026! From automated transcript-based rough cuts and dynamic captions to text-to-video generative B-roll and studio-grade AI audio cleanup—we cover the exact tools and workflows you need to edit high-quality videos in a fraction of the time.\n​Whether you're a solo YouTuber, freelancer, or digital marketer, leveraging these AI video tools will give you a massive competitive advantage. Watch to learn how to build your ultimate AI content production workflow!\n​📌 Timestamps:\n0:00 - The AI Video Editing Revolution\n0:30 - Automated Rough Cuts & Text-Based Editing\n1:50 - Generative AI B-Roll & Visuals\n2:40 - Studio-Quality AI Audio & Voice Cloning\n4:15 - How to Future-Proof Your Content Strategy\n​🔔 Subscribe to Smart AI World for weekly AI tools, workflows, and productivity tutorials!\n​#AIVideoEditing #ContentCreation #AITools #VideoProduction #SmartAIWorld #GenerativeAI",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "G54THQRITe0": {
-      "checkedAt": "2026-08-16T23:53:42Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "b9cOe6GOP1k": {
       "checkedAt": "2026-08-16T23:53:42Z",
       "embedAllowed": true,
@@ -8685,6 +8756,38 @@
       "description": "In this video, Cloud X Berry explains n8n in a simple and beginner-friendly way.\n\nSomeone fills out the contact form on your website because they're interested in your product. Now you save their details in the CRM, send a welcome email, notify sales on Slack, and add a follow-up task. None of it is difficult. All of it is repetitive, and you do it again for the next customer, and the one after that. That is the gap n8n was built for — not a new app to replace the ones you have, but a layer that runs the steps between them.\n\nWe start with that one inquiry and build the idea up piece by piece: what a workflow actually is, why every workflow begins with a trigger, and what else can be a trigger besides a form — a new email in Gmail, a scheduled 9 a.m. run, an uploaded file, an incoming API request. Then we open the workflow inside n8n itself, where it isn't one\ngiant block but lots of small connected nodes, each responsible for a single task. From there, the concept most people miss: data flows from one node to the next, so the customer's details are entered once and every downstream node reads, transforms or adds to them on the way through.\n\nThen the parts that usually get hand-waved. Why n8n is called low-code, and exactly where you drop into JavaScript when the visual builder isn't enough. Where AI actually fits — routing an inquiry through a model to summarise, classify and extract before it ever\nreaches your sales team, and the distinction that matters: n8n is not the AI model, it's the orchestration layer around it. We finish with credentials and OAuth, how n8n connects to Gmail, PostgreSQL, OpenAI and Slack rather than replacing them, and a recap of the\nwhole picture.\n\nCHAPTERS\n\n0:00  What people can't agree n8n is\n0:13  One contact form, four manual jobs\n0:35  The sequence of steps is a workflow\n0:48  The same process for every customer\n1:06  Triggers: how n8n knows when to start\n1:18  Email, schedule, file upload, API request\n1:33  Inside the editor: nodes, not one giant block\n2:01  Data flows from one node to the next\n2:24  Transforming and adding data along the way\n2:39  Why n8n is called low-code\n2:59  Where AI fits into the workflow\n3:30  n8n is not the AI model\n3:43  Credentials, OAuth and the tools you already use\n4:11  The conductor of an orchestra\n4:30  Recap\n\nWHO THIS IS FOR\nDevelopers who keep seeing n8n mentioned alongside AI agents and want the idea to actually click, anyone doing the same four manual steps every time a lead comes in, and teams weighing up a low-code automation layer before writing another glue script.\n\n#n8n #workflowautomation #automation #lowcode #aiagents #nocode",
       "commentCount": 1,
       "likeCount": 58,
+      "probeClient": "web_embedded"
+    },
+    "SaJBDs_WMDs": {
+      "checkedAt": "2026-08-17T00:53:46Z",
+      "embedAllowed": true,
+      "description": "Discover how AI agents can improve your software testing workflow—from generating test cases and detecting bugs to validating changes before release. Learn how to ship better software faster with AI-powered testing.\n#AIAgents #SoftwareTesting #QualityAssurance #SoftwareDevelopment",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "tyAXz1qetFE": {
+      "checkedAt": "2026-08-17T00:53:46Z",
+      "embedAllowed": true,
+      "description": "Get my new course with a special discount: https://www.udemy.com/course/ai-powered-software-development-the-vibe-engineering-method/?couponCode=RELEASE",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "mevUEQcumzU": {
+      "checkedAt": "2026-08-17T00:53:46Z",
+      "embedAllowed": true,
+      "description": "I turned years of local AI benchmarks into an app that helps you figure out what hardware actually makes sense for the models you want to run.\n🔹 Try Replit: https://replit.com/refer/AlexanderZiskin\n\n🛒 Gear Links 🛒\n🛠️🚀 WisdPi 10G Ethernet Expansion Card for Framework: https://frame.work/products/wisdpi-10g-ethernet-expansion-card\n🪛🪛Highly rated precision driver kit: https://amzn.to/4fkMVfg\n💻☕ Favorite 15\" display with magnet: https://amzn.to/3zD1DhQ\n🎧⚡ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW\n🛠️🚀 My nvme ssd: https://amzn.to/3YLEySo\n📦🎮 My gear: https://www.amazon.com/shop/alexziskind\n\n🎥 Related Videos 🎥\n\n💸🧠 Quant comparison vid - Everything looks fine at 4-bit\nhttps://youtu.be/8IzUyLLn5NA\n🧳🧰 Mini PC portable setup - https://youtu.be/4RYmsrarOSw\n🍎💻 Dev setup on Mac - https://youtu.be/KiKUN4i1SeU\n💸🧠 Cheap mini runs a 70B LLM 🤯 - https://youtu.be/xyKEQjUzfAk\n🧪🔥 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M\n🍏⚡ FREE Local LLMs on Apple Silicon | FAST! - https://youtu.be/bp2eev21Qfo\n🧠📉 REALITY vs Apple’s Memory Claims | vs RTX4090m - https://youtu.be/fdvzQAWXU7A\n🧬🐍 Set up Conda - https://youtu.be/2Acht_5_HTo\n⚡💥 Thunderbolt 5 BREAKS Apple’s Upcharge - https://youtu.be/nHqrvxcRc7o\n🧠🚀 INSANE Machine Learning on Neural Engine - https://youtu.be/Y2FOUg_jo7k\n🧱🖥️ Mac Mini Cluster - https://youtu.be/GBR6pHZ68Ho\n\n* 🛠️ Developer productivity Playlist - https://www.youtube.com/playlist?list=PLPwbI_iIX3aQCRdFGM7j4TY_7STfv2aXX\n🔗 AI for Coding Playlist: 📚 - https://www.youtube.com/playlist?list=PLPwbI_iIX3aSlUmRtYPfbQHt4n0YaX0qw\n\n\nLocal AI Advisor: sorry, had to remove the link temporarily - lots of people “contributing”. it’s pretty funny, but not super helpful. we’ll be back soon\n\n— — — — — — — — — \n\n❤️ SUBSCRIBE TO MY YOUTUBE CHANNEL 📺\nClick here to subscribe: https://www.youtube.com/@AZisk?sub_confirmation=1\n\n— — — — — — — — —\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCajiMK_CY9icRhLepS8_3ug/join\n\n— — — — — — — — —\n📱 ALEX on X: https://x.com/digitalix\n\n#replit     #llm    #ai",
+      "commentCount": 81,
+      "likeCount": 890,
+      "probeClient": "web_embedded"
+    },
+    "KLw0AY-bsVs": {
+      "checkedAt": "2026-08-17T00:53:46Z",
+      "embedAllowed": true,
+      "description": "Artificial-intelligence models from companies including OpenAI, Anthropic and Meta Platforms used the internet to hack other organizations in recent weeks, fueling concerns that businesses and individuals aren’t prepared for the cyber risks posed by the latest AI tools.\n\nWSJ break down how OpenAI’s models broke out of their training environment to hack the AI company Hugging Face and explain what the hacks mean for the Trump administration’s tech strategy.\n\nChapters:\n0:00 Rogue AI models\n0:47 How rogue attacks happen\n2:39 What these hacks mean\n3:25 U.S. vs. China\n4:50 AI guardrails\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#AI #OpenAI #WSJ",
+      "commentCount": 87,
+      "likeCount": 609,
       "probeClient": "web_embedded"
     }
   }

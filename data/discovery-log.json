@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-16T23:53:42Z",
+  "updatedAt": "2026-08-17T00:53:46Z",
   "items": [
+    {
+      "id": "SaJBDs_WMDs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DinhDev",
+      "publishedAt": "2026-08-17T00:00:46Z",
+      "firstSeenAt": "2026-08-17T00:53:46Z"
+    },
+    {
+      "id": "tyAXz1qetFE",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Programming with Felipe Gavilan",
+      "publishedAt": "2026-08-16T20:53:46Z",
+      "firstSeenAt": "2026-08-17T00:53:46Z"
+    },
+    {
+      "id": "mevUEQcumzU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Alex Ziskind",
+      "publishedAt": "2026-08-16T19:53:46Z",
+      "firstSeenAt": "2026-08-17T00:53:46Z"
+    },
+    {
+      "id": "KLw0AY-bsVs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Wall Street Journal",
+      "publishedAt": "2026-08-16T16:53:46Z",
+      "firstSeenAt": "2026-08-17T00:53:46Z"
+    },
     {
       "id": "b9cOe6GOP1k",
       "type": "long",
@@ -16116,6 +16148,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-17T00:53:46Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
