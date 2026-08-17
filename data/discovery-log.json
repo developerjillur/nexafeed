@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T03:53:12Z",
+  "updatedAt": "2026-08-17T04:53:18Z",
   "items": [
+    {
+      "id": "ya4B53HSBfM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BridgeMind",
+      "publishedAt": "2026-08-16T19:53:18Z",
+      "firstSeenAt": "2026-08-17T04:53:18Z"
+    },
     {
       "id": "bzYziksDslU",
       "type": "long",
@@ -16296,6 +16304,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-17T04:53:18Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }

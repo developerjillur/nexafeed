@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T03:53:12Z",
+  "updatedAt": "2026-08-17T04:53:18Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -6624,12 +6624,12 @@
       "probeClient": "web_embedded"
     },
     "T0fDgDHa46A": {
-      "checkedAt": "2026-08-16T03:53:13Z",
+      "checkedAt": "2026-08-17T04:53:18Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 3,
-      "likeCount": 248,
+      "likeCount": 283,
       "comments": [
         {
           "id": "UgwxEgb2wyqj-8BWvrR4AaABAg",
@@ -6655,14 +6655,14 @@
           "id": "Ugzv3WeVBLCx6eArOJl4AaABAg",
           "author": "@TheMixAcademy",
           "text": "Nice! Thanks, Chase!🔥",
-          "likeCount": 0,
+          "likeCount": 1,
           "publishedAt": "2026-08-14T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/O106IwZsiISf9pXxnmMuIOl2hAjql9d6mvVcsxc8d0EYjq899K5SykeXM7xsbQkCMXTbJtTybw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-16T03:53:13Z",
+      "commentsFetchedAt": "2026-08-17T04:53:18Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7336,7 +7336,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-17T03:53:12Z",
+      "checkedAt": "2026-08-17T04:53:18Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7860,10 +7860,10 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-17T03:53:12Z",
+      "checkedAt": "2026-08-17T04:53:18Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "OJDhImJxPvk": {
       "checkedAt": "2026-08-15T16:53:06Z",
@@ -7993,37 +7993,120 @@
       "probeClient": "web_embedded"
     },
     "bDdNOfeVhXM": {
-      "checkedAt": "2026-08-16T03:53:13Z",
+      "checkedAt": "2026-08-17T04:53:18Z",
       "embedAllowed": true,
       "description": "",
-      "commentCount": 0,
-      "likeCount": 8,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-16T03:53:13Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "1iyO22rO6HM": {
-      "checkedAt": "2026-08-16T03:53:13Z",
-      "embedAllowed": true,
-      "description": "Comment SCRAPE and I'll send you the repo link.\n\nWith local models, Claude can now pull thousands of business leads for you at basically zero cost.\n\nThe tool is ScrapeGraphAI, open source with tens of thousands of stars on GitHub. You paste the repo link into Claude, say install this, and Claude can search the web or crawl directories full of companies on command. Tell it who you're after, business owners in a specific niche, and it grabs the public contact details that matter and drops them into a clean sheet. It runs on your own machine with local models, so you're not paying an API for every company it touches.\n\nSave it as a workflow, set it to run each morning, and fresh leads land in your sheet while you sleep.\n\n#ai #leadgen #scraping #claude #automation",
       "commentCount": 1,
-      "likeCount": 4,
+      "likeCount": 167,
       "comments": [
         {
-          "id": "Ugxby2fw1nYaTEa1I054AaABAg",
-          "author": "@chipSeven7",
-          "text": "Scrape",
+          "id": "UgzvXinG161qRrK4d9l4AaABAg",
+          "author": "@Ooo0ooooO00oo",
+          "text": "In German would call all of this \"aus Selbstzweck\" - \"end in itself\". Like, how about building something that is actually useful beyond just using AI to... do more random \"agentic AI\" stuff. Something, anything, that is actually useful",
           "likeCount": 0,
-          "publishedAt": "2026-08-16T03:29:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/3r7g1ioNop_wjZH-GoVNe1Z6H1UYCl8spYel1Qf70VBv74Q8J8BaciH4XSFiPJ2RCjbVEA5xMQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-16T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lD5TLamsYOkceQnYIpYMt0wxy3sX-J3ZYKStmbRUYwDoyGjG-li7CEKloTnO2c95IUGg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-16T03:53:13Z",
+      "commentsFetchedAt": "2026-08-17T04:53:18Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
+      "probeClient": "web_embedded",
+      "availability": "public"
+    },
+    "1iyO22rO6HM": {
+      "checkedAt": "2026-08-17T04:53:18Z",
+      "embedAllowed": true,
+      "description": "Comment SCRAPE and I'll send you the repo link.\n\nWith local models, Claude can now pull thousands of business leads for you at basically zero cost.\n\nThe tool is ScrapeGraphAI, open source with tens of thousands of stars on GitHub. You paste the repo link into Claude, say install this, and Claude can search the web or crawl directories full of companies on command. Tell it who you're after, business owners in a specific niche, and it grabs the public contact details that matter and drops them into a clean sheet. It runs on your own machine with local models, so you're not paying an API for every company it touches.\n\nSave it as a workflow, set it to run each morning, and fresh leads land in your sheet while you sleep.\n\n#ai #leadgen #scraping #claude #automation",
+      "commentCount": 8,
+      "likeCount": 85,
+      "comments": [
+        {
+          "id": "UgyysRnamCznZj0M6rJ4AaABAg",
+          "author": "@BizEdgeAI",
+          "text": "Scrape",
+          "likeCount": 0,
+          "publishedAt": "2026-08-17T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/FF5ZHuSRi7F-gOUluv0FD9pQVIZepyaJTvv6w5m84BmmLHE84JycNsS9a-L3E0r3msA4bCn3DA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwcwQcz0F2DTTgh1op4AaABAg",
+          "author": "@JohnLawlor",
+          "text": "Scrape",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kzT5qVPy2ByuvsU0iY_8r8zo1JyogfkPAJNJWYxqpCucqi=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxh2qb7cYgzxmowdfx4AaABAg",
+          "author": "@StarsStripesDetailing",
+          "text": "Scrape",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Sg2HMq7cd8A4t5ks1CddZQs9FgWVMmTMfTNJ2D8dt9COJRZx_sU2-Qa9HSyhkDjvgwJjNIyg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyYzWk9RfDnaFMT0vR4AaABAg",
+          "author": "@FoodieAdventurers",
+          "text": "Scrape",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/nbe6V8EWGyqILJ52ymL4OTplVQgNkoBrNeK_dm45pWIBi8WCoBqshU4Ouj9nodBJJS4YBVqckNE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzQ83_ACvRsqxibXe54AaABAg",
+          "author": "@Everything_Techiee",
+          "text": "Scape",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ImhwwgDdg1KNoBHOmg1KKvkfzeqoT0M3ScUD4wkQkVQc8TENNlKAZnN_NWqj1L-T5PZEqHgp=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwqLTUfuMAYpvGXbUN4AaABAg",
+          "author": "@henryjikoluer7925",
+          "text": "scrape",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nH2RFbbNLcilHQuxXlMXI9UR-h5Iw-Ay3E5SX89mzN8oE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx7cAH6prOs-WFVucd4AaABAg",
+          "author": "@JJTKingsiz3",
+          "text": "Scrape",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nkHMdD8-iph0EM_9XXOHFTX5yr1_08Pyl5RsRmTC8NcKJnWauEhfigEgk72JRwumN-OA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxVo6BgVD7vITZL9HR4AaABAg",
+          "author": "@audrawait9650",
+          "text": "Scrape",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nnXf2q2n75ztHf4fF6AgEw1KHft4ugna54-IGWd-I=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-17T04:53:18Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded",
+      "availability": "public"
     },
     "Z46TGRzuq38": {
       "checkedAt": "2026-08-16T16:11:42Z",
@@ -8419,7 +8502,7 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-17T03:53:12Z",
+      "checkedAt": "2026-08-17T04:53:18Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8510,14 +8593,6 @@
       "description": "Complete AI Automation Course - Learn AI Agents & Build SaaS Products, AI Automation Full Course | Learn n8n, AI Agents & Build SaaS\n\nAi Automation শিখে Freelancing, Job বা SAAS Product বানিয়ে Passive Income করতে চাইলে, জয়েন করুন আমাদের ২ মাসের এই Ai Automation Mastery কোর্সেঃ  \n\nCourse Details: https://www.hablu-programmer.com/courses/agent\nPre-Registration: https://forms.gle/rreytxSnQxTp9wA99\nContact Us: 01816986263\n\nসর্বমোট সিট সংখ্যা ৩০০টি। তাই যারা এনরোলমেন্ট করতে চান প্রি-রেজিস্ট্রেশন করে রাখুন। \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nkeywords:hablu programmer,freelancing bangla tutorial, Ai, Ai Agent, Ai Automation, claude tutorial, hablu programmer,Complete AI Automation,Complete AI Automation using n8n,AI Automation using n8n,AI Automation,n8n tutorial,automation tutorial,n8n bangla,automation bangla,n8n tutorial bangla,workflow automation,ai agents tutorial,ai automation n8n,ai agents explained,n8n ai agent,automate,chatbot tutorial,n8n slack,saas product development,Ai Automation,Ai Agents,Claude,Ai Courses,Ai automation crash course,ai agents full course,ai agent tutorial,ai agent development,ai agent bangla,make money online,ai automation full course,ai agent course,chatgpt,n8n ai agent tutorial,n8n automation",
       "commentCount": 18,
       "likeCount": 202,
-      "probeClient": "web_embedded"
-    },
-    "FJgxXaXONNw": {
-      "checkedAt": "2026-08-16T20:53:15Z",
-      "embedAllowed": true,
-      "description": "JOIN SHORTS SKOOL ➜ https://www.skool.com/shorts\n\nTOOL I USED ➜ https://go.algrow.online/yt\n\nHIRE EDITORS ➜ http://store.onlinejobs.ph/?aid=624532\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n\n🛠️ TOOLS I USE:\nAI Niche Finder ➜ https://go.algrow.online/yt\nAI Scriptwriting ➜ https://start.getpoppy.ai/alex-DoJQX (\"ALCHRIX\" for $25 off)\nAI Voiceovers ➜ https://try.elevenlabs.io/di7ygvcqvkcs \nVideo Editing ➜ https://capcutaffiliateprogram.pxf.io/MAOzgK \nHiring Editors ➜ http://store.onlinejobs.ph/?aid=624532 \n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n\nTIMESTAMPS:\n0:00 My Story\n3:13 Step 1\n6:55 Step 2\n9:45 Step 3\n11:47 Step 4\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n\n📲 CONNECT WITH ME:\nInstagram ► https://www.instagram.com/alchrix/\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n#youtubeshortsautomation #facelessyoutubeshorts #youtubeshorts #youtubeautomation #makemoneyonline #onlinebusiness #claude \n\nDISCLAIMER: This video is for educational/informational purposes only and is based on my personal experience and research. Results vary and are not guaranteed. Success depends on content quality, consistency, niche, and compliance with YouTube policies. This video may include affiliate links or my own products; I may earn a commission at no extra cost to you. I follow YouTube’s Community Guidelines and Terms of Service, and any strategies shown must be used in full compliance with those policies. By watching, you accept responsibility for your actions. Learn more: https://www.youtube.com/howyoutubeworks/our-policies/",
-      "commentCount": 16,
-      "likeCount": 48,
       "probeClient": "web_embedded"
     },
     "x5JgbtIlxTE": {
@@ -8721,6 +8796,15 @@
       "description": "Thank you to Threatlocker for sponsoring my trip to Black Hat so I can interview amazing people.\n\nJen Easterly joins David Bombal to discuss why today’s cybersecurity problem may actually be a software quality problem.\n\nFor decades, users and organizations have been blamed for failing to patch systems, change default passwords, or enable MFA. Jen argues that the bigger question is whether software vendors should be held responsible for shipping insecure products in the first place.\n\nThey discuss Secure by Design, software vulnerabilities, memory safety, AI security, zero-day attacks, rogue AI agents, critical infrastructure, vendor accountability, and how artificial intelligence could dramatically shorten the time between discovering a vulnerability and weaponizing it.\n\nJen also shares lessons from her career at the NSA, the White House, CISA, Morgan Stanley, the U.S. Army, and now RSAC, including her advice for hackers, cybersecurity professionals, and future leaders.\n\nTopics include:\nWhy cybersecurity may be a software quality problem\nWhy users are blamed for insecure software\nCISA’s Secure by Design initiative\nWhy default passwords should disappear\nAI agents behaving in unexpected ways\nAI and the future of zero-day attacks\nMemory safety, C, C++ and Rust\nGovernment regulation and vendor accountability\nThe EU Cyber Resilience Act\nWhy Patch Tuesday may eventually become unacceptable\nHow AI could help defenders find and fix vulnerabilities\nJen Easterly’s advice for cybersecurity professionals\n\nIf you work in cybersecurity, ethical hacking, software development, networking, AI security, or critical infrastructure, this is a conversation you don’t want to miss.\n\n// Jen Easterly’s SOCIAL // \nLinkedIn:  https://www.linkedin.com/in/jen-easterly \n\n// Website REFERENCE // \nhttps://www.cisa.gov/ \n\n// David's SOCIAL //  \nDiscord: https://discord.com/invite/usKSyzb  \nX: https://www.twitter.com/davidbombal  \nInstagram: https://www.instagram.com/davidbombal  \nLinkedIn: https://www.linkedin.com/in/davidbombal  \nFacebook: https://www.facebook.com/davidbombal.co  \nTikTok: http://tiktok.com/@davidbombal  \nYouTube: https://www.youtube.com/@davidbombal \nSpotify:  https://open.spotify.com/show/3f6k6gERfuriI96efWWLQQ \nSoundCloud:  https://soundcloud.com/davidbombal \nApple Podcast:  https://podcasts.apple.com/us/podcast/david-bombal/id1466865532 \n\n// MY STUFF // \nhttps://www.amazon.com/shop/davidbombal  \n\n// SPONSORS //  \nInterested in sponsoring my videos? Reach out to my team here: sponsors@davidbombal.com \n\n// MENU // \n0:00 - Coming up \n0:55 - Jen Easterly introduction & background \n04:20 - Advice for the youth \n07:10 - Advice for ethical hackers and leadership \n11:35 - Software security // Who's to blame? \n17:39 - Power and responsibility \n21:17 - Secure by design \n26:38 - Is it important to attend RSAC? // Conclusion \n\nPlease note that links listed may be affiliate links and provide me with a small percentage/kickback should you use them to purchase any of the items listed or recommended. Thank you for supporting me and this channel!  \n\nDisclaimer: This video is for educational purposes only. \n#rsac #bhusa2026 #securebydesign",
       "commentCount": 50,
       "likeCount": 376,
+      "probeClient": "web_embedded"
+    },
+    "ya4B53HSBfM": {
+      "checkedAt": "2026-08-17T04:53:18Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "DeepSeek just dropped their harness and moved V4 Pro and V4 Flash out of preview. I put both through the BridgeMind horror game, a Minecraft clone, a Next.js dashboard, and a real bug in the BridgeMind 1 codebase. The cost is unreal. The output is decent. But it cannot see images and that changes everything.\n\nDeepSeek V4 Pro runs at 70 tokens per second with 1.7 second time to first token — priced at 43 cents input and 87 cents output per million. V4 Flash is 6 cents and 12 cents. The therapy dashboard it built beat GPT 5.6's result. The horror game had a heartbeat effect I have never seen from any model. But neither model is multimodal, so it could not fix a two-line visual bug that Grok 4.6 one-shot the second it saw the screenshot. Ten out of ten on cost-benefit. No BridgeMind stamp of approval. In this video I break down the DeepSeek harness, the pricing, the speed, the results, and exactly when you should and should not use it.\n\nChapters\n\n0:00 — DeepSeek Harness, Pricing, and Speed\n2:33 — Running V4 Flash on Dual DGX Sparks\n4:36 — Real Bug in BridgeMind 1: The Vision Problem\n8:20 — Therapy Dashboard vs GPT 5.6 and Fable 5\n12:27 — Horror Game: The Heartbeat Effect\n17:21 — Minecraft Clone and Final Verdict\n\n\nLinks\n\nBridgeMind — https://www.bridgemind.ai\n\nDiscord (14,600+ Builders) — https://www.bridgemind.ai/discord\n\nBridgeBench V3 (Live AI Leaderboard) — https://www.bridgebench.ai\n\nX (Twitter) — https://x.com/bridgemindai\n\nYouTube — https://www.youtube.com/@bridgemindai\n\nTwitch — https://twitch.tv/bridgemindai\n\n\nWhat is BridgeMind?\n\nBridgeMind is a vibe coding platform — a fully integrated suite of AI-powered tools built to ship software faster through autonomous, multi-agent workflows.\n\nBridgeSpace — The best agent development environment for vibe coding. A cloud IDE built for multi-agent orchestration.\nBridgeVoice — Voice-to-text AI transcription for coding at the speed of thought.\n\n\nKeywords: DeepSeek V4 Pro, DeepSeek V4 Pro review, DeepSeek V4 Pro benchmark, DeepSeek V4 Pro coding, DeepSeek V4 Pro vibe coding, DeepSeek V4 Pro pricing, DeepSeek V4 Pro vs GPT 5.6, DeepSeek V4 Pro vs Fable 5, DeepSeek V4 Pro vs Grok 4.6, DeepSeek Harness, DeepSeek harness review, DeepSeek coding harness, DeepSeek V4 Flash, DeepSeek V4 Flash DGX Spark, DeepSeek V4 Flash local, DeepSeek, DeepSeek V4, cheap AI model, budget AI model, affordable AI coding, open source AI, Chinese AI model, no vision AI, multimodal AI, NVIDIA DGX Spark, local inference, tokens per second, cost per token, Grok 4.6, Grok 4.6 vision, GPT 5.6, Claude Fable 5, Claude Opus 5, Kimi K3, Claude Code, Codex, Anthropic, OpenAI, BridgeMind 1, BridgeSpace, BridgeBench, BridgeMind, frontier model, model wars, LLM benchmark, vibe coding, vibe coding platform, agentic coding, AI IDE, build in public, indie hacker, AI startup, learn to vibe code, honest review\n\n#DeepSeekV4Pro #DeepSeekHarness #DeepSeekV4Flash #DeepSeek #CheapAI #OpenSourceAI #ChineseAI #DGXSpark #Grok46 #GPT56 #ClaudeFable5 #ClaudeOpus5 #KimiK3 #ClaudeCode #Codex #VibeCoding #BridgeMind1 #BridgeBench #BridgeSpace #BridgeMind #FrontierModel #AIBenchmark #LLM #ModelWars #AgenticCoding #AIIDE #BuildInPublic #IndieHacker #SoftwareDevelopment #HonestReview\n\n!discord !newsletter !event",
+      "commentCount": 59,
+      "likeCount": 288,
       "probeClient": "web_embedded"
     }
   }
