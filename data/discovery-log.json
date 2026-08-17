@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T05:53:22Z",
+  "updatedAt": "2026-08-17T06:53:28Z",
   "items": [
+    {
+      "id": "VLSU4kBR7O0",
+      "type": "long",
+      "source": "primary",
+      "channel": "Creative Pad Media",
+      "publishedAt": "2026-08-17T06:52:28Z",
+      "firstSeenAt": "2026-08-17T06:53:28Z"
+    },
+    {
+      "id": "edr085nORug",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-17T06:21:57Z",
+      "firstSeenAt": "2026-08-17T06:53:28Z"
+    },
+    {
+      "id": "6nSi16jauFA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Cayãn Vanderlinde",
+      "publishedAt": "2026-08-17T04:53:28Z",
+      "firstSeenAt": "2026-08-17T06:53:28Z"
+    },
+    {
+      "id": "OuZXFXVy_EQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI with Lilly",
+      "publishedAt": "2026-08-16T22:53:28Z",
+      "firstSeenAt": "2026-08-17T06:53:28Z"
+    },
+    {
+      "id": "awpdRqEJexY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-16T16:53:28Z",
+      "firstSeenAt": "2026-08-17T06:53:28Z"
+    },
     {
       "id": "J-G5i6MmSA0",
       "type": "long",
@@ -16362,6 +16402,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-17T06:53:28Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 24,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
