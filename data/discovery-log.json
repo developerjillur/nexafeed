@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T20:53:19Z",
+  "updatedAt": "2026-08-17T21:53:27Z",
   "items": [
+    {
+      "id": "VwGrXe2ricE",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-08-17T21:49:27Z",
+      "firstSeenAt": "2026-08-17T21:53:27Z"
+    },
+    {
+      "id": "Bsa8Bx5YAwU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-17T20:53:44Z",
+      "firstSeenAt": "2026-08-17T21:53:27Z"
+    },
+    {
+      "id": "9Bb8PgHo0Cc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Daniel | Tech & Data",
+      "publishedAt": "2026-08-17T17:53:27Z",
+      "firstSeenAt": "2026-08-17T21:53:27Z"
+    },
+    {
+      "id": "LirrQQoCspk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Abundants Reset",
+      "publishedAt": "2026-08-17T17:53:27Z",
+      "firstSeenAt": "2026-08-17T21:53:27Z"
+    },
+    {
+      "id": "mS5mpdmrk_w",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-08-17T14:53:27Z",
+      "firstSeenAt": "2026-08-17T21:53:27Z"
+    },
+    {
+      "id": "n5l6on_DK9A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SupriyaTechTalks",
+      "publishedAt": "2026-08-17T14:53:27Z",
+      "firstSeenAt": "2026-08-17T21:53:27Z"
+    },
+    {
+      "id": "Tliio-33w4g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Cole Medin",
+      "publishedAt": "2026-08-17T12:53:27Z",
+      "firstSeenAt": "2026-08-17T21:53:27Z"
+    },
     {
       "id": "VH5ocJEcoo4",
       "type": "short",
@@ -17121,6 +17177,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-17T21:53:27Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
