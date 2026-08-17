@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T06:53:28Z",
+  "updatedAt": "2026-08-17T07:53:32Z",
   "items": [
+    {
+      "id": "zdd1HpCBn04",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Net Explain",
+      "publishedAt": "2026-08-17T04:53:32Z",
+      "firstSeenAt": "2026-08-17T07:53:32Z"
+    },
+    {
+      "id": "P4PYpPmFLn8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "HBA Services",
+      "publishedAt": "2026-08-16T15:53:32Z",
+      "firstSeenAt": "2026-08-17T07:53:32Z"
+    },
     {
       "id": "VLSU4kBR7O0",
       "type": "long",
@@ -16411,6 +16427,15 @@
       "channelsChecked": 33,
       "warnings": 24,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-17T07:53:32Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
