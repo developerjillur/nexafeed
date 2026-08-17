@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T04:53:18Z",
+  "updatedAt": "2026-08-17T05:53:22Z",
   "items": [
+    {
+      "id": "J-G5i6MmSA0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Henry Pinto",
+      "publishedAt": "2026-08-17T05:44:22Z",
+      "firstSeenAt": "2026-08-17T05:53:22Z"
+    },
+    {
+      "id": "PssuK5Kq7vk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Comfort Joe | AI Automations for Businesses",
+      "publishedAt": "2026-08-16T21:53:22Z",
+      "firstSeenAt": "2026-08-17T05:53:22Z"
+    },
+    {
+      "id": "AkWTJpvWlDA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DENNEY BROS",
+      "publishedAt": "2026-08-16T16:53:22Z",
+      "firstSeenAt": "2026-08-17T05:53:22Z"
+    },
+    {
+      "id": "sTrD8mdsfdY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Serop | AI Automation",
+      "publishedAt": "2026-08-16T15:53:22Z",
+      "firstSeenAt": "2026-08-17T05:53:22Z"
+    },
+    {
+      "id": "Tky3FCPmzXw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nick Ponte",
+      "publishedAt": "2026-08-16T14:53:22Z",
+      "firstSeenAt": "2026-08-17T05:53:22Z"
+    },
     {
       "id": "ya4B53HSBfM",
       "type": "long",
@@ -16313,6 +16353,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-17T05:53:22Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
