@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T00:53:46Z",
+  "updatedAt": "2026-08-17T01:53:47Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -7336,7 +7336,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-17T00:53:46Z",
+      "checkedAt": "2026-08-17T01:53:47Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7860,10 +7860,10 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-17T00:53:46Z",
+      "checkedAt": "2026-08-17T01:53:47Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "OJDhImJxPvk": {
       "checkedAt": "2026-08-15T16:53:06Z",
@@ -7916,99 +7916,6 @@
       "likeCount": 44,
       "probeClient": "web_embedded"
     },
-    "bClnQ4Q3iKM": {
-      "checkedAt": "2026-08-17T00:53:46Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment ONE and I'll send you the link.\n\nA free AI video studio that runs on your own laptop just went open source.\n\nIt's called WanGP, and it runs world-class video models with no cloud fees and no $3,000 GPU. A card with 6GB of VRAM, almost any mid-range Nvidia from the last few years, is enough. Open the browser interface, pick a top model like Wan 2.1 or Hunyuan Video, describe your shot, and it renders on your own machine. A full studio: text-to-video, image-to-video, auto music and sound, even talking-head video with voices. Nothing leaves your computer.\n\nIts creator, DeepBeepMeep, calls it the best open source video AI for the GPU poor.\n\n#ai #videogen #opensource #aitools #wan",
-      "commentCount": 8,
-      "likeCount": 43,
-      "comments": [
-        {
-          "id": "UgwnqONkcIqFyXO9NnR4AaABAg",
-          "author": "@wayneroberts7819",
-          "text": "ONE",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T12:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mzksONrz3OSuVyyUUITS-9yLU_QutU4tCOAyRp5DM_vrG8UFaU5FJrp_beNznUEi3uUg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwuUHa3tblBcLL9yKl4AaABAg",
-          "author": "@conipito_edits",
-          "text": "One",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T10:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nb3VezN7MzT_7FKtzv4E4kHkUN6Y3xRud-AhuR2qEO6Um7lPzPQnEZK0uYnh5C3usuJw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwV9eZ7LFlptPcQFwl4AaABAg",
-          "author": "@ronschuler8131",
-          "text": "One",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nMxee1Ka0LXE9x0edTqJ8Iu5evUWu-2ZPEf9yI9E-1jw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxGouv9kSZdEYtASNZ4AaABAg",
-          "author": "@doreenmccarthy9009",
-          "text": "One",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksOF9cJw6Aaagqi0ktCjgqqvdei_kxInkStR8SF52k1ZMR=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwVpSVT3pXvcBTInXd4AaABAg",
-          "author": "@ArunkumarB73",
-          "text": "ONE",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_neao-Kwb--S-n2VdnaBAxK5Tm-XeL6oNJH-UQKo1ntnmYj=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyJxcpqQVi8i9jPM4Z4AaABAg",
-          "author": "@gustavodelgado3831",
-          "text": "One",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mbLhl6JK_Ml4WGCMBXCFEQ9Jhd0LFEC0-xYdLPCtM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxUXEwazADT7Rk7R694AaABAg",
-          "author": "@Everything_Techiee",
-          "text": "One",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ImhwwgDdg1KNoBHOmg1KKvkfzeqoT0M3ScUD4wkQkVQc8TENNlKAZnN_NWqj1L-T5PZEqHgp=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwFNTvVnoLaBqp8-lR4AaABAg",
-          "author": "@JohnMartindale-q4u1v",
-          "text": "ONE",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ltG5Vixvi3d0Yh00mrIlUB2on93_zWY8hkMojmBpX9mvBiNJjt4vNgL5Rn8XCPf9bnFg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-17T00:53:46Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "Ux_eFME2acI": {
       "checkedAt": "2026-08-17T00:53:46Z",
       "embedAllowed": true,
@@ -8043,14 +7950,25 @@
       "probeClient": "web_embedded"
     },
     "aYqrLwl8lK4": {
-      "checkedAt": "2026-08-16T01:53:13Z",
+      "checkedAt": "2026-08-17T01:53:47Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Everything Claude writes for you now carries a hidden mark you can't see.\n\nAnthropic started weaving an invisible signal into Claude's responses, nudging which words the model picks in a pattern only a machine can read. It stays even when you copy the text somewhere else, and generated files get a separate signed signature. They turned it on worldwide to meet the EU's new AI law.\n\nTwo things nobody mentions. First, you can't check the mark yet, the detector isn't out. Second, it only shows the text was produced by Claude, not that you didn't write it, and if you rewrite it in your own words, the mark fades.\n\nI share more about AI in my community, link in bio.\n\n#ai #claude #anthropic #ainews #euaiact",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-16T01:53:13Z",
+      "commentCount": 1,
+      "likeCount": 41,
+      "comments": [
+        {
+          "id": "UgxOR8LwU76KmtZlVa94AaABAg",
+          "author": "@brawlkiller9028",
+          "text": "JOIN THE COUNCIL!!! PHASE 2 HAS BEGUN!!!!!",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/yvMqyrHKVWwAYe3F_t1hyVFxpmLBkQIEZizIhegT2oiZr5RxFc73wjemIsYJcIakXnWjqkL1MQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-17T01:53:47Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -8452,24 +8370,6 @@
       "likeCount": 249,
       "probeClient": "web_embedded"
     },
-    "-Ao6kVS-J54": {
-      "checkedAt": "2026-08-16T16:11:42Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Want to become a Software Developer from zero? This easy guide explains what a Software Developer actually does, how software development works, and the complete developer roadmap in a simple way. You will understand frontend, backend, database, API, and the skills required to build real projects and start your coding journey. Whether you are a beginner, student, or aspiring developer, this complete software developer roadmap will help you understand the entire process clearly.\n\n\nTags\nsoftware developer roadmap\nsoftware development\nsoftware developer\nweb development roadmap \nfrontend backend explained\nhow to become a software developer\ncoding for beginners\ndeveloper roadmap 2026\nfull stack developer roadmap\nprogramming roadmap\n\nHashtags\n#SoftwareDeveloper #WebDevelopment #Coding #Programming #developerroadmap #apnacollege #HighPayingJobs #Akbar #careeradvice",
-      "commentCount": 1,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "j5qylkrfBHY": {
-      "checkedAt": "2026-08-16T16:11:42Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "# Build a Complete ERP System with AI Using Claude Code & Learn How to Sell It\n\nIn this video, I'll show you how to build a **complete ERP (Enterprise Resource Planning) system using AI and Claude Code** — from planning and development to testing and deployment.\n\nYou'll see how AI can help you create a professional ERP system with features such as **user management, dashboard, employees, customers, products, inventory, sales, purchases, invoices, expenses, reports, and more**.\n\nBut we won't stop at building the software. I'll also explain **how you can package, market, and sell your ERP system** as a digital product or software solution.\n\n### In this video:\n\n* Build a complete ERP system with Claude Code\n* Generate the frontend and backend using AI\n* Create and manage the database\n* Add authentication and user roles\n* Build ERP modules and dashboards\n* Test and improve the application\n* Deploy the ERP system\n* Package the project for customers\n* Different ways to sell your ERP system\n* How to find potential customers\n* How to turn an AI-built project into a business\n\nIf you're interested in **AI coding, Claude Code, SaaS, ERP systems, web development, and selling digital products**, this tutorial is for you.\n\nDon't forget to **Like, Subscribe, and turn on notifications** for more AI-powered development tutorials.\n\n#ClaudeCode #ERPSystem #AICoding #WebDevelopment #BuildWithAI\nClaude Code, Claude Code tutorial, build ERP with AI, ERP system, complete ERP system, ERP software, AI coding, build software with AI, build ERP using Claude Code, Claude AI coding, Claude Code projects, AI web development, AI programming, software development with AI, ERP development, ERP system tutorial, how to build an ERP, enterprise resource planning, SaaS business, sell software online, how to sell software, sell digital products, AI business ideas, web development, full stack development, build SaaS with AI, AI coding tutorial, Claude Code AI, coding with Claude, AI generated software",
-      "commentCount": 1,
-      "likeCount": 20,
-      "probeClient": "web_embedded"
-    },
     "f10PpVR7Iik": {
       "checkedAt": "2026-08-16T17:53:40Z",
       "embedAllowed": true,
@@ -8528,10 +8428,10 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-17T00:53:46Z",
+      "checkedAt": "2026-08-17T01:53:47Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "7hQTGOAt_h0": {
       "checkedAt": "2026-08-16T18:53:41Z",
@@ -8646,22 +8546,6 @@
       "likeCount": 48,
       "probeClient": "web_embedded"
     },
-    "rV9FHR5dhxM": {
-      "checkedAt": "2026-08-16T20:53:15Z",
-      "embedAllowed": true,
-      "description": "শুধু TEXT লিখেই এখন মাত্র ৫ মিনিটে বানিয়ে ফেলুন Ghibli-Style ভিডিও! এই ভিডিওতে দেখানো হয়েছে সম্পূর্ণ AI Automation Workflow - কীভাবে ChatGPT এবং Gemini AI ব্যবহার করে সহজেই কোনো এডিটিং স্কিল ছাড়াই প্রফেশনাল মানের Ghibli-Style ভিডিও তৈরি করা যায়।\n\nভিডিওতে যা যা থাকছে:\n✅ কীভাবে সঠিক Prompt/Text লিখতে হয়\n✅ ChatGPT + Gemini AI দিয়ে সম্পূর্ণ প্রসেস\n✅ ৫ মিনিটে ভিডিও তৈরির স্টেপ বাই স্টেপ গাইড\n✅ কোনো এডিটিং এক্সপেরিয়েন্স ছাড়াই কীভাবে শুরু করবেন\n\nযারা নতুন AI Video তৈরি শিখতে চান বা নিজের চ্যানেলের জন্য দ্রুত Ghibli-Style কনটেন্ট বানাতে চান, তাদের জন্য এই টিউটোরিয়ালটি স্টেপ বাই স্টেপ সাজানো হয়েছে।\n\nভিডিওটা ভালো লাগলে লাইক এবং শেয়ার করতে ভুলবেন না, আর চ্যানেলটি সাবস্ক্রাইব করে সাথে থাকুন আরও AI Automation ও Video Creation টিউটোরিয়ালের জন্য।\n\n#GhibliAI #AIAutomation \n==============================================\n🔔 Business Inquiries : allbanglatips.contact@gmail.com\n==============================================\n\nFollow On Instagram...\n\nhttps://www.instagram.com/dasbabu02\nFacebook -https://www.facebook.com/allbanglatips02\nTelegram- https://t.me/allbanglatipshere\n\nভিডিওটি নিয়ে কোনো সমস্যা থাকলে তা আমাদের গ্রুপে পোস্ট করে জানাতে পারেন । Group Link : \nhttps://www.facebook.com/groups/allbanglatipsofficial\n\nMY YOUTUBE GEARS:\n\nCAMERA - https://amzn.to/3PnxKaA\nCAMERA TRIPOD-https://amzn.to/3L8w0PU\nMIC-https://amzn.to/2C0vPTc\nLens-https://amzn.to/3ProIZW\n\nThanks for Watching...\n#allbanglatips",
-      "commentCount": 59,
-      "likeCount": 456,
-      "probeClient": "web_embedded"
-    },
-    "GsicvcKp92A": {
-      "checkedAt": "2026-08-16T20:53:15Z",
-      "embedAllowed": true,
-      "description": "The Laziest Way to Make Money Online for Students in 2026? 👀\n\nIn this video, I’ll show you how you can create AI Movie Recap / Movie Explain videos using AI voiceovers and publish this type of content on platforms like YouTube, TikTok, and Facebook.\n\nIf you're a student looking for an easy online side hustle in 2026, this video walks you through the complete process — from finding content ideas and creating movie recap scripts to generating realistic AI voiceovers using NOIZ AI, editing your videos, and understanding how content creators can potentially monetize their content.\n\n🤖 Try NOIZ AI:\nhttps://shorturl.at/ep9NV\n\nThis video is sponsored by NOIZ AI.\n\nIn this complete tutorial, you'll learn how the AI Movie Recap Method works, how creators make movie explained videos, how AI can speed up the content creation process, and how you can build your own content workflow without recording your own voice.\n\n🎬 What You'll Learn\n\n• How to create Movie Recap videos\n• How to create Movie Explain videos with AI\n• How to generate AI voiceovers with NOIZ AI\n• How to create content without using your own voice\n• How to find ideas for short-form content\n• How to edit AI Movie Recap videos\n• TikTok content monetization basics\n• YouTube automation & monetization basics\n• Facebook video monetization basics\n• How students can start creating content in 2026\n• How AI can make content creation faster and easier\n\nThe goal isn't to promise overnight income. Making money online requires consistency, original content, audience growth, and compliance with each platform's monetization and copyright policies. Results will vary depending on your content, audience, country, platform eligibility, and execution.\n\nAI tools like NOIZ AI can make parts of the workflow easier, especially AI voiceovers, but the real value comes from how you research, script, edit, package and distribute your content.\n\nIf you're interested in making money online in Pakistan, AI side hustles, YouTube automation, TikTok monetization, Facebook monetization, AI voiceovers, movie recap channels, and content creation, this video will give you a practical workflow to understand and test.\n\n⚠️ Important: Movie footage can be protected by copyright. Using AI voiceover or editing a clip does not automatically make copyrighted footage free to use. Make sure your content follows the copyright, fair-use/fair-dealing and monetization policies applicable to the platforms you publish on.\n\n📲 Follow Me\n\nInstagram:\nTalha Reviews on Instagram\nhttps://www.instagram.com/talha__reviews\n\nTikTok:\nTalha Reviews on TikTok\nhttps://tiktok.com/talha_reviews\n\nFacebook:\nTalha Maqsood on Facebook\nhttps://www.facebook.com/p/Talha-Maqsood-100092158039385/\n\nSubscribe for more videos about AI, online earning, e-commerce, content creation, YouTube automation and digital business.\n\nSEO Keywords:\nmake money online 2026, how to make money online for students, easiest way to make money online, AI movie recap, movie recap with AI, movie recap videos, movie explain videos, movies explained with AI, NOIZ AI, NOIZ AI movie recap, NOIZ AI voiceover, AI voiceover, AI voice generator, YouTube automation 2026, YouTube automation Pakistan, TikTok monetization, make money TikTok, Facebook monetization, AI side hustle 2026, online earning Pakistan, make money online Pakistan, student side hustle, AI content creation\n\n#MakeMoneyOnline #NOIZAI #MovieRecap #AIVoiceover #YouTubeAutomation #OnlineEarning #AISideHustle #ContentCreation",
-      "commentCount": 80,
-      "likeCount": 776,
-      "probeClient": "web_embedded"
-    },
     "x5JgbtIlxTE": {
       "checkedAt": "2026-08-16T21:53:24Z",
       "embedAllowed": true,
@@ -8692,14 +8576,6 @@
       "description": "I took a single-purpose customer support agent (read a ticket, search the runbooks, query the logs, write an incident summary) and pushed it through the Gemini Enterprise Agent Platform on Google Cloud to fix all four. Including a bug I planted on purpose to show why a single eval score hides the most dangerous class of retrieval failure.\n\n📦 FULL PROJECT ON GITHUB: agent scaffold, evals, deployment config, registry setup. Clone it and build the same thing yourself: https://github.com/bytemonk-academy/support-ticket-agent-lab\n\nChapters:\n00:00 Using an agent vs. deploying one\n01:30 What Gemini Enterprise Agent Platform actually is\n02:52 Building the support agent with Agents CLI\n04:23 The bug I planted on purpose\n05:33 Fixing it and re-running the evals\n06:17 Deploying to Agent Runtime\n07:02 Problem 1 & 2: no identity, no audit trail\n08:10 Problem 3: prompt injection through a support ticket\n08:59 Problem 4: no memory across sessions\n\n📚 Related Resources:\n→ System Design Course: https://academy.bytemonk.io/courses\n→ ByteMonk Blog: https://blog.bytemonk.io/\n→ LinkedIn: https://www.linkedin.com/in/bytemonk/\n→ Github: https://github.com/bytemonk-academy\n\nSystem Design Question: \nhttps://www.youtube.com/playlist?list=PLJq-63ZRPdBssWTtcUlbngD_O5HaxXu6k\n\nLLM: \nhttps://www.youtube.com/playlist?list=PLJq-63ZRPdBu38EjXRXzyPat3sYMHbIWU\n\nMicroservices\nhttps://www.youtube.com/playlist?list=PLJq-63ZRPdBsPWE24vdpmgeRFMRQyjvvj\n\n#AIAgents #PromptInjection #GoogleCloud #AgenticAI",
       "commentCount": 9,
       "likeCount": 85,
-      "probeClient": "web_embedded"
-    },
-    "BDq45uoetRc": {
-      "checkedAt": "2026-08-16T21:53:24Z",
-      "embedAllowed": true,
-      "description": "Free SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the Agent OS & Gemini 3.7 Flash Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGoogle Gemini 3.7 Flash: The New AI Agent Revolution\n\nGoogle just launched Gemini 3.7 Flash and Gemini Spark, transforming AI from a chatbot into a powerful autonomous agent. Discover how these updates revolutionize coding, web design, and SEO workflows by automating complex multi-step tasks.\n\n00:00 - Intro: Gemini 3.7 Flash & SEO\n00:35 - What is Gemini 3.7 Flash?\n01:31 - Multi-Step Thinking & Planning\n01:52 - Coding & Web Design Upgrades\n03:50 - Gemini Spark: Your AI Assistant\n05:51 - How to Access Gemini 3.7 Flash\n06:36 - The Future: Chatbots vs. AI Agents",
-      "commentCount": 9,
-      "likeCount": 97,
       "probeClient": "web_embedded"
     },
     "RgOEK5qgPWI": {
@@ -8788,6 +8664,57 @@
       "description": "Artificial-intelligence models from companies including OpenAI, Anthropic and Meta Platforms used the internet to hack other organizations in recent weeks, fueling concerns that businesses and individuals aren’t prepared for the cyber risks posed by the latest AI tools.\n\nWSJ break down how OpenAI’s models broke out of their training environment to hack the AI company Hugging Face and explain what the hacks mean for the Trump administration’s tech strategy.\n\nChapters:\n0:00 Rogue AI models\n0:47 How rogue attacks happen\n2:39 What these hacks mean\n3:25 U.S. vs. China\n4:50 AI guardrails\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#AI #OpenAI #WSJ",
       "commentCount": 87,
       "likeCount": 609,
+      "probeClient": "web_embedded"
+    },
+    "C4v-E66zTik": {
+      "checkedAt": "2026-08-17T01:53:47Z",
+      "embedAllowed": true,
+      "description": "DoorDash now holds an actual airline license in the US.\n\nThe FAA gave it a Part 135 certificate, the same class real airlines run on, and it's only the eighth drone operator in the country with one. Why would a delivery app want that? There's a sweet spot of orders around three to five miles, often too far to be worth a driver's time but just right for a drone. Those are the trips they want to hand off, while the software decides in real time who takes each order: a person, a robot, or a drone.\n\nBut this isn't a launch. No aircraft shown, no date, and flying out of sight needs a separate approval they don't have yet.\n\nI share more on AI and robotics in my community, link in bio.\n\n#doordash #drones #delivery #ai #ecommerce",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-17T01:53:47Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "idCR2d4KRgw": {
+      "checkedAt": "2026-08-17T01:53:47Z",
+      "embedAllowed": true,
+      "description": "The biggest danger facing mankind is a machine that can “outsmart the whole species”, argues Max Tegmark, professor of physics at the Massachusetts Institute of Technology and founder of the Future of Life Institute.\n\nTegmark tells host Steve Clemons that governments and tech companies are in a “race to replace” human labour, instead of solving human problems. “It’s aimed at getting more money and power to a very small number of individuals,” he says.\n\nBut a slew of suicides and murders committed by people chatting with AI chatbots has led to pushback against the Silicon Valley “don’t regulate us” lobby.\n\n#artificialintelligence #ai #technology #politics #labour #siliconvalley #mit #science #discussion #aljazeeraenglish",
+      "commentCount": 11,
+      "likeCount": 55,
+      "probeClient": "web_embedded"
+    },
+    "S1j3mBmpt6A": {
+      "checkedAt": "2026-08-17T01:53:47Z",
+      "embedAllowed": true,
+      "description": "On the night of June 11th, 1962, three inmates vanished from Alcatraz — the prison built to be inescapable. For 55 years the official story said the freezing waters of San Francisco Bay swallowed Frank Morris and the Anglin brothers. But now artificial intelligence has re-examined the evidence, aging their faces across half a century and calculating the impossible math of that swim — and what it found does not match the story we were told.\n\nThis documentary dives deep into the greatest prison escape in American history, the men behind it, and how modern AI may have finally cracked a case the FBI closed decades ago. The truth is far more unsettling than the government ever wanted written down.\n\nWhat do you think really happened to the Alcatraz escapees? Drop your theory in the comments and subscribe for more unsolved mysteries decoded by technology.\n\n#Alcatraz #TrueCrime #UnsolvedMystery #AlcatrazEscape #Documentary\"",
+      "commentCount": 0,
+      "likeCount": 23,
+      "probeClient": "web_embedded"
+    },
+    "PXgkm5UvAy8": {
+      "checkedAt": "2026-08-17T01:53:47Z",
+      "embedAllowed": true,
+      "description": "Intelligence is becoming abundant, changing the value of many skills once treated as uniquely human: memorizing, calculating, producing answers and solving defined problems. The opportunity is not to compete with machines on speed, but to use them to expand what human beings can create and solve.\n\nThat shift makes education, purpose and connection more important, not less. AI can accelerate discovery and open possibilities that once felt impossible, while human judgement still determines which problems are worth solving.\n\nA more intelligent world does not have to become a less human one. Connection, empathy, purpose and the qualities behind a meaningful life may become more valuable precisely because intelligence itself is no longer scarce.\n\nRecorded at **Love Tomorrow Summit 2026**, on the iconic grounds of Tomorrowland in Belgium.\n\nChapters:\n\n00:00:00 The Future of Intelligence\n00:04:31 When Intelligence Becomes Abundant\n00:08:02 AI as an Amplifier\n00:13:05 Why Education Has to Change\n00:17:19 What Makes Us Human\n00:21:21 Does More Intelligence Make Us Happier?\n00:24:27 The Human Advantage\n00:30:17 Connection, Empathy and Purpose\n00:34:51 Building a Better Future With AI\n\n#MoGawdat #ArtificialIntelligence #AI #FutureOfAI #HumanIntelligence #FutureOfWork #Technology #Happiness #LoveTomorrow",
+      "commentCount": 108,
+      "likeCount": 708,
+      "probeClient": "web_embedded"
+    },
+    "EMj1fl17Tv8": {
+      "checkedAt": "2026-08-17T01:53:47Z",
+      "embedAllowed": true,
+      "description": "Home robots have long been the stuff of sci-fi dreams (and nightmares), but they lag behind AI chatbots, AI agents, and even their industrial robot counterparts in terms of widespread adoption. We dig into what's keeping this technology from becoming real in this week's What the Future.\n\nYou can find the products mentioned in this article linked below\nCommerce Link\n*CNET may get a commission on these offers\n\nLink to CNET article: Read more about X on CNET.com: \n\nTimecode Chapters:\n0:00 The Promise and Reality of Home Robots6\n0:29 The Challenge of Safety\n1:04 Autonomy and Physical AI\n2:07 Privacy and Building Trust\n4:08 Transparency and the Economic Pitch\n\n\nVideo Credits:\nHost:Jesse Orrall\nScripted by:Jesee Orrall\nProducer: Jesse Orrall \nCamera: Jesse Orrall\nVideo Editor: Jon Gomez\nThumbnail Designer: Zooey Liao\n\nAdd CNET as a trusted news source https://www.google.com/preferences/source?q=cnet.com\nNever miss a deal again! See CNET’s browser extension 👉 https://bit.ly/3lO7sOU\nCheck out CNET’s Amazon Storefront: https://www.amazon.com/shop/cnet\nSubscribe to CNET on YouTube: https://www.youtube.com/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet\nFollow us on Bluesky: https://bsky.app/profile/cnet.com\nLike us on Facebook: https://www.facebook.com/cnet\nCNET's AI Atlas: https://www.cnet.com/ai-atlas\nFollow us on X: https://www.x.com/cnet\nVisit CNET.com:  https://www.cnet.com",
+      "commentCount": 26,
+      "likeCount": 231,
+      "probeClient": "web_embedded"
+    },
+    "vUhamjWR_vA": {
+      "checkedAt": "2026-08-17T01:53:47Z",
+      "embedAllowed": true,
+      "description": "In this video, I provide a translation and analysis of a powerful Yiddish speech by the Grand Rabbi of the Satmar Hasidic sect, Rabbi Aaron Teitelbaum. He addresses what he describes as the \"new Satan\" threatening today's generation: Artificial Intelligence.\n\nI offer a unique context as someone who grew up in the community. I share personal stories, including a poignant encounter at my son's opsherin, to illustrate the complex relationship between Hasidic leadership, tradition, and the relentless march of technology.\n\nIn this video, we explore:\n\n-The Rabbi's Warning: How AI is viewed as a \"mutation\" of past technological temptations like computers and smartphones.\n-The \"Kosher Phone\" Dilemma: Why even filtered devices are now seen as gateways to unsupervised access to the world.\n-Cultural Preservation: The community's ingenious and sometimes desperate tactics for balancing modern necessity with spiritual isolation.\n-A Personal Journey: I reflect on how the internet changed my own life and why I find the Rabbi’s cautionary stance more logical than many might expect.\n\nTimestamps: \n00:00 Introduction: My background and the significance of the speech \n01:18 Personal story: Meeting Rabbi Aaron Teitelbaum \n08:24 The Hasidic community’s \"dance\" with technology \n11:52 The Recording Begins: The \"Flaming Speech\" against the new Satan \n17:09 Why AI is seen as a mutating evil inclination \n21:05 The history of Hasidic solutions: Filters and bans \n25:22 The \"woe to us\" dilemma: Why the Rabbi chose to speak out \n30:25 How AI chatbots are accessed via kosher phone numbers \n33:50 My reflections: Is the Rabbi’s warning extreme or insightful?\n\nJoin the conversation: How do you think we should manage the influence of AI on children and vulnerable communities? Does the Hasidic approach offer any lessons for the secular world, or is it too extreme? Share your thoughts in the comments below.",
+      "commentCount": 175,
+      "likeCount": 564,
       "probeClient": "web_embedded"
     }
   }

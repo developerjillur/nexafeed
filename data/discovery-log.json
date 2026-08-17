@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T00:53:46Z",
+  "updatedAt": "2026-08-17T01:53:47Z",
   "items": [
+    {
+      "id": "C4v-E66zTik",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-17T01:00:02Z",
+      "firstSeenAt": "2026-08-17T01:53:47Z"
+    },
+    {
+      "id": "idCR2d4KRgw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Al Jazeera English",
+      "publishedAt": "2026-08-16T18:53:47Z",
+      "firstSeenAt": "2026-08-17T01:53:47Z"
+    },
+    {
+      "id": "S1j3mBmpt6A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "New Discovery",
+      "publishedAt": "2026-08-16T15:53:47Z",
+      "firstSeenAt": "2026-08-17T01:53:47Z"
+    },
+    {
+      "id": "PXgkm5UvAy8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mo Gawdat",
+      "publishedAt": "2026-08-16T14:53:47Z",
+      "firstSeenAt": "2026-08-17T01:53:47Z"
+    },
+    {
+      "id": "EMj1fl17Tv8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CNET",
+      "publishedAt": "2026-08-16T12:53:47Z",
+      "firstSeenAt": "2026-08-17T01:53:47Z"
+    },
+    {
+      "id": "vUhamjWR_vA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Frieda Vizel",
+      "publishedAt": "2026-08-16T11:53:47Z",
+      "firstSeenAt": "2026-08-17T01:53:47Z"
+    },
     {
       "id": "SaJBDs_WMDs",
       "type": "long",
@@ -16157,6 +16205,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-17T01:53:47Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
