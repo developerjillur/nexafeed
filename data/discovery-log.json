@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T11:53:54Z",
+  "updatedAt": "2026-08-17T12:53:11Z",
   "items": [
+    {
+      "id": "SLjfjwn180U",
+      "type": "short",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-17T12:00:33Z",
+      "firstSeenAt": "2026-08-17T12:53:11Z"
+    },
+    {
+      "id": "3Uznoajm5wg",
+      "type": "short",
+      "source": "secondary",
+      "channel": "WION",
+      "publishedAt": "2026-08-17T04:53:11Z",
+      "firstSeenAt": "2026-08-17T12:53:11Z"
+    },
+    {
+      "id": "5iQZ7T2-O_E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "New Discovery",
+      "publishedAt": "2026-08-16T19:53:11Z",
+      "firstSeenAt": "2026-08-17T12:53:11Z"
+    },
+    {
+      "id": "S9ecC2xjtYQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Patrick Zeinali",
+      "publishedAt": "2026-08-16T16:53:11Z",
+      "firstSeenAt": "2026-08-17T12:53:11Z"
+    },
     {
       "id": "J0zbWsutyA8",
       "type": "long",
@@ -16584,6 +16616,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-17T12:53:11Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }

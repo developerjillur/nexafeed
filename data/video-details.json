@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T11:53:54Z",
+  "updatedAt": "2026-08-17T12:53:11Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1190,99 +1190,6 @@
       "description": "Uber just shipped an AI agent that builds your whole grocery cart from a photo of a handwritten list — and the interesting part for builders is how little the LLM actually does.\n\nTheir real architecture is a multi-prompt state graph, and most of the boxes are plain deterministic code. The LLM only handles the fuzzy stuff: reading what you meant, judging which product fits. Everything that has to be correct — prices, arithmetic, availability, the cart total — is code the model never touches.\n\n→ The planner LLM doesn't \"go shopping\" — it emits a structured CartPlan (item, search_terms, item_context, price constraints), then hands it to code\n→ \"12 eggs\" resolves to one carton of twelve via a deterministic quantity step, not free LLM arithmetic\n→ A deterministic guardrail can veto a bad output and fall back before it ever reaches your cart\n→ The lesson: when an agent is unreliable, the fix usually isn't a bigger model — it's taking responsibility away from the model and moving anything exact into code\n\nThe rule to steal: LLM handles meaning, code handles truth.\n\nComment \"CART\" and I'll send you the full breakdown.\nWhat's the one thing you'd never let an AI decide?\n\n#AI #AIagents #LLM #systemdesign #softwareengineering #promptengineering #buildinpublic #Uber #machinelearning #agents\n\nLinks:\n• The LLM/code boundary playbook: https://github.com/sunchitanand/ai-builder-resources/blob/main/cart.md\n\n#Shorts",
       "commentCount": 6,
       "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
-    "lBGVsMEJkc8": {
-      "checkedAt": "2026-08-11T17:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 45,
-      "likeCount": 2033,
-      "comments": [
-        {
-          "id": "UgwBwebRQ7sXWETn0od4AaABAg",
-          "author": "@voiceofindia9220",
-          "text": "Well said we can learn from him🎉🎉❤",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/VbsZD3_rlOJxmDjCFRP3dIqlcXE91zQcLXjGMAPGIKr_HmaQBXBP0QVrRYKivQaQRaWE-iMDGg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxwM25lHnO6U9ZPQWZ4AaABAg",
-          "author": "@sridharans2335",
-          "text": "He thinks himself intelligent..... Learn to respect people",
-          "likeCount": 0,
-          "publishedAt": "2026-08-02T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n_8EyrEr0dO40NZ4JHN8b10Amrd8J9O_-hk1jYttSKMm8=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx0olkWs4Kjv5MRo5x4AaABAg",
-          "author": "@itzshreyas09",
-          "text": "Modiji watches ishant's channel💀",
-          "likeCount": 1,
-          "publishedAt": "2026-08-01T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/yaPJEgtiz_qD_EVCKnwUgSX0TUunEt9vewrLyC4gZAbMzubnI8xah9VXPWciMYEWMJw1ij8=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwqpLHyYLe2cksmFIZ4AaABAg",
-          "author": "@MyAIEra-y5y",
-          "text": "I can see your dark circles doing hard work",
-          "likeCount": 0,
-          "publishedAt": "2026-08-01T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m5DHdJOQs40hzoitGNZg5x-fmV6OYmJoszNAslGR0idT_rVnRjRUDprHsTC8XFm7CrIA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzryeO5QfgrdO4_Ytd4AaABAg",
-          "author": "@worldadvertisement688",
-          "text": "DON'T RECOMMEND THIS CHANNEL !! Done 😂",
-          "likeCount": 6,
-          "publishedAt": "2026-08-01T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lA82I-LbC16idAm9U7fNJLayGBUENPzS_M6Xs_hTr9pw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx9jpH9e7owiAHWz4p4AaABAg",
-          "author": "@poojasrivastav2366",
-          "text": "Bad example",
-          "likeCount": 1,
-          "publishedAt": "2026-08-01T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ml5pYDoBuXVLl_dHRJkTFXzoHuSONiNNTisNJ0t5pZK7g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxo4-cM9sIDY9piKs14AaABAg",
-          "author": "@AVATAR-j4f",
-          "text": "The lesson is ironical",
-          "likeCount": 0,
-          "publishedAt": "2026-08-01T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/PsNR0mBOXvKh1f4LAVFqjSHrtyeBuxZOpIyaUa_tumcSiPlJvDTvNw73ExTWDuKpR43dVqHF=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzpKKJn3Y130S3gjsR4AaABAg",
-          "author": "@jannathasin-u4p",
-          "text": "bhaiya plz suggest some.course how to earn atleast 10k through internet",
-          "likeCount": 1,
-          "publishedAt": "2026-08-01T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m803QGbUkfuDHVEPFdcWmcFL79e1aEofZx8RetfOxLTWE4__BwePMK0hFcJZ3dRKoIVg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-02T07:53:31Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "GjT7mSMY6O8": {
@@ -7234,7 +7141,7 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-17T11:53:54Z",
+      "checkedAt": "2026-08-17T12:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7758,7 +7665,7 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-17T11:53:54Z",
+      "checkedAt": "2026-08-17T12:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8346,7 +8253,7 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-17T11:53:54Z",
+      "checkedAt": "2026-08-17T12:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8429,14 +8336,6 @@
       "likeCount": 3,
       "probeClient": "web_embedded"
     },
-    "b9cOe6GOP1k": {
-      "checkedAt": "2026-08-16T23:53:42Z",
-      "embedAllowed": true,
-      "description": "HOW TO GET UNLIMITED CREDITS IN LOVABLE AI | 100% WORKING METHOD\n\n🌐 Website: https://cheapaitools.in/lovable-ai/services\n\nIn this video, I'll show you how to get Unlimited Credits in Lovable AI, understand how the Lovable AI credit system works, and build more websites, SaaS apps, dashboards, landing pages, AI tools, and full-stack projects without running out of credits quickly.\n\n🚀 LOVABLE AI UNLIMITED CREDITS GUIDE\n\nIn this complete tutorial, you'll learn:\n\n✅ How Lovable AI Credits Work\n✅ How to Get More Value from Lovable AI\n✅ Lovable AI Pro Features Explained\n✅ Lovable AI Free Credits Method\n✅ How to Build AI Websites\n✅ How to Create SaaS Applications with AI\n✅ How to Build Landing Pages with Lovable AI\n✅ How to Generate Dashboards Using AI\n✅ Full-Stack Project Development with AI\n✅ Productivity & Workflow Tips\n\n📚 WHAT YOU'LL LEARN\n\n• How Lovable AI Credits Work\n• Best Ways to Save Credits\n• Lovable AI Pro Features\n• Website Building with AI\n• AI SaaS Development\n• Landing Page Creation\n• Dashboard Generation\n• Full Project Automation\n• AI-Powered Development Workflow\n• Tips for Using Lovable AI Efficiently\n\n🎯 PERFECT FOR\n\n👨‍💻 Developers\n💼 Freelancers\n🚀 Startup Founders\n🛠️ SaaS Builders\n🎨 No-Code Creators\n🌐 Web Designers\n🎓 Students\n🤖 AI Enthusiasts\n\nIf you found this video helpful, Like 👍, Share 🔄 & Subscribe 🔔 for more AI tutorials, AI tools, automation guides, website-building tutorials, SaaS development tips, coding tools, and productivity hacks.\n\n🔥 HASHTAGS\n\n#LovableAI #Lovable #UnlimitedCredits #AIWebsiteBuilder #NoCode #SaaS #AITools #ArtificialIntelligence #WebDevelopment #AIApps #Startup #Coding #Dashboard #LandingPage #Automation #TechTutorial #FullStack #LovableDev\n\n🔎 SEO KEYWORDS / TAGS\n\nlovable ai,\nlovable ai unlimited credits,\nlovable ai pro,\nlovable ai tutorial,\nlovable ai free credits,\nlovable ai website builder,\nlovable ai credits,\nlovable ai pro free,\nlovable ai unlimited,\nlovable ai saas,\nlovable ai dashboard,\nlovable ai landing page,\nlovable ai app builder,\nlovable ai no code,\nlovable ai coding,\nlovable ai tutorial hindi,\nlovable ai hindi,\nlovable ai pro plan,\nlovable ai tricks,\nlovable ai guide,\nhow to get lovable ai credits,\nlovable ai unlimited credits working,\nlovable ai full tutorial,\nlovable dev,\nlovable.dev,\nai website builder,\nai app builder,\nai saas builder,\nno code ai,\nai development,\nai tools 2026,\nbest ai website builder,\nai coding assistant,\nai startup tools,\nai automation tools,\nwebsite development ai,\nbuild website with ai,\nbuild app with ai,\nai software development,\nai business tools,\nlovable ai beginner tutorial,\nlovable ai complete course,\nlovable ai review,\nlovable ai websites,\nlovable ai projects,\nlovable ai prompt engineering,\nlovable ai alternatives,\nbest ai coding tool,\nbest no code ai",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "SaJBDs_WMDs": {
       "checkedAt": "2026-08-17T00:53:46Z",
       "embedAllowed": true,
@@ -8486,14 +8385,6 @@
       "description": "The biggest danger facing mankind is a machine that can “outsmart the whole species”, argues Max Tegmark, professor of physics at the Massachusetts Institute of Technology and founder of the Future of Life Institute.\n\nTegmark tells host Steve Clemons that governments and tech companies are in a “race to replace” human labour, instead of solving human problems. “It’s aimed at getting more money and power to a very small number of individuals,” he says.\n\nBut a slew of suicides and murders committed by people chatting with AI chatbots has led to pushback against the Silicon Valley “don’t regulate us” lobby.\n\n#artificialintelligence #ai #technology #politics #labour #siliconvalley #mit #science #discussion #aljazeeraenglish",
       "commentCount": 11,
       "likeCount": 55,
-      "probeClient": "web_embedded"
-    },
-    "S1j3mBmpt6A": {
-      "checkedAt": "2026-08-17T01:53:47Z",
-      "embedAllowed": true,
-      "description": "On the night of June 11th, 1962, three inmates vanished from Alcatraz — the prison built to be inescapable. For 55 years the official story said the freezing waters of San Francisco Bay swallowed Frank Morris and the Anglin brothers. But now artificial intelligence has re-examined the evidence, aging their faces across half a century and calculating the impossible math of that swim — and what it found does not match the story we were told.\n\nThis documentary dives deep into the greatest prison escape in American history, the men behind it, and how modern AI may have finally cracked a case the FBI closed decades ago. The truth is far more unsettling than the government ever wanted written down.\n\nWhat do you think really happened to the Alcatraz escapees? Drop your theory in the comments and subscribe for more unsolved mysteries decoded by technology.\n\n#Alcatraz #TrueCrime #UnsolvedMystery #AlcatrazEscape #Documentary\"",
-      "commentCount": 0,
-      "likeCount": 23,
       "probeClient": "web_embedded"
     },
     "QkbnLF482Ig": {
@@ -8714,15 +8605,6 @@
       "likeCount": 439,
       "probeClient": "web_embedded"
     },
-    "5hBa27swhmQ": {
-      "checkedAt": "2026-08-17T10:53:53Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this video, we dive deep into \"The Complete AI Tech Stack for Modern B2B SaaS Startups\" and show you exactly how to implement high-leverage AI automation systems in your business.\n\nMastering B2B SaaS and AI workflows is the single fastest way to increase profit margins and streamline operational scaling.\n\n🔥 What You'll Learn:\n• Step-by-step breakdown of The Complete AI Tech Stack for Modern B2B SaaS Startups\n• Practical software setup and tool integrations\n• How to optimize for maximum efficiency and speed\n• Downloadable workflow templates and prompt scripts\n\n\n#B2BSaaS #AIAutomation #BusinessGrowth #WorkflowOptimization #MakeCom #Zapier #AITools #TechStack #SaaS #Productivity #AutomationAgency #AIAgents #EnterpriseSaaS #NoCode",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "LG2m9hb1bWw": {
       "checkedAt": "2026-08-17T11:53:54Z",
       "embedAllowed": true,
@@ -8739,6 +8621,66 @@
       "description": "Learn more about Rapid Application Development (RAD) here → https://ibm.biz/~t01xtWgB8\n\nAI coding feels new, but the ideas aren't. Martin Keen explores how Rapid Application Development (RAD) predicted many of the workflows now emerging with vibe coding and AI agents. Learn how prototyping, user feedback, and specifications help turn AI-generated code into production software.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/~QvDUizRu8\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#vibecoding #aicoding #softwaredevelopment #aiagents",
       "commentCount": 10,
       "likeCount": 94,
+      "probeClient": "web_embedded"
+    },
+    "SLjfjwn180U": {
+      "checkedAt": "2026-08-17T12:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Watch how they treat people who they have nothing to gain from.\n\nHow do they behave when they are not being watched, when there's no one to perform for.\n\nDo you agree?\n\n📸 Instagram: https://bit.ly/ishansharma7390ig\n\nJoin MarkitUpX Discord Server: https://discord.gg/fwSpTje4rh\n\nTimestamps\n\n😁 About Me: https://bit.ly/aboutishansharma\n📱 Twitter: https://bit.ly/ishansharma7390twt\n📝 LinkedIn: https://bit.ly/ishansharma7390li\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE for more AMAZING content! 🌟\n\n3 Books You Should Read\n📈Psychology of Money: https://amzn.to/30wx4bW\n👀Subtle Art of Not Giving a F: https://amzn.to/30zwWbP\n💼Rework: https://amzn.to/3ALsAuz\n\nTech I use every day\n💻MacBook Air M1: https://amzn.to/2YWKPjG\n📺LG 29' Ultrawide Monitor: https://amzn.to/3aG0p5p\n🎥Sony ZV1: https://amzn.to/3ANqgDb\n🎙Blue Yeti Mic: https://amzn.to/2YYbiNN\n⽴Tripod Stand: https://amzn.to/3mVUiQc\n🔅Ring Light: https://amzn.to/2YQlzLJ\n🎧Marshall Major II Headphone: https://amzn.to/3lLhTDQ\n🖱Logitech mouse: https://amzn.to/3p8edOC\n💺Green Soul Chair: https://amzn.to/3mWIxZP\n\n✨ Tags ✨\n\n\n✨ Hashtags ✨",
+      "commentCount": 2,
+      "likeCount": 64,
+      "comments": [
+        {
+          "id": "Ugy17pncIkpjdNqjt-t4AaABAg",
+          "author": "@DarshTayal-p9b",
+          "text": "Woww❤❤",
+          "likeCount": 1,
+          "publishedAt": "2026-08-17T12:27:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/rWu4a_jpi5kWzzcDevH5TDJECFykyKZ7XOApvW84OEv52o1PIlVVpDQeHgZypJP2GSqntOoYDA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz7vpN-r0nIYdbuS3d4AaABAg",
+          "author": "@SarveshDusane",
+          "text": "❤❤",
+          "likeCount": 2,
+          "publishedAt": "2026-08-17T12:19:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mA5iYFWQWr-erQfOrpRSPi7uAL1ykOBKRSbPBDp88Z1xyBT7Je5IKp6_AckwgwsDEc-Q=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-17T12:53:11Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "3Uznoajm5wg": {
+      "checkedAt": "2026-08-17T12:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "The United States is intensifying efforts to strengthen its artificial intelligence ecosystem while reducing dependence on China's technology supply chains. Washington's latest push focuses on securing critical components, advanced semiconductors, and AI infrastructure seen as essential to maintaining a competitive edge in the global AI race.\n\nAt the same time, Pax Silica is emerging as a key player in building a broader U.S.-led AI alliance, bringing together technology firms, infrastructure partners, and strategic investors. The developments highlight the growing importance of AI as both an economic and national security priority.\n\n#usa #ai #paxsilica #china #wion \n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to world politics. People are tired of biased reportage and we stand for a globalized united world. So for us, the World is truly One.\n \nPlease keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs and personal insults.\n\nSubscribe to our channel at https://goo.gl/JfY3NI\nCheck out our website: http://www.wionews.com\nJoin our WhatsApp Channel: https://bit.ly/455YOQ0\nConnect with us on our social media handles:\nFacebook: https://www.facebook.com/WIONews\nTwitter: https://twitter.com/WIONews\nInstagram: https://www.instagram.com/wionews/\nFollow us on Google News for the latest updates\n\nZee News:- https://bit.ly/2Ac5G60\nZee Business:- https://bit.ly/36vI2xa\nDNA India:- https://bit.ly/2ZDuLRY\nWION: https://bit.ly/3gnDb5J\nZee News Apps: https://bit.ly/ZeeNewsApps",
+      "commentCount": 9,
+      "likeCount": 13,
+      "probeClient": "web_embedded"
+    },
+    "5iQZ7T2-O_E": {
+      "checkedAt": "2026-08-17T12:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "For over sixty years, the Dyatlov Pass incident has stood as one of history's most chilling unsolved mysteries — nine experienced hikers dead on a frozen Ural mountainside in February 1959, with torn tents, missing eyes, crushed skulls, and traces of radiation. Now, artificial intelligence has fed every scrap of surviving evidence into a reconstruction that suggests the truth may be far worse than anyone imagined.\n\nIn this documentary, we retrace the final days of Igor Dyatlov and his group, from their happy photographs in the snow to the terrifying night that ended their lives. We examine the autopsy notes, the weather data, the terrain, and the official Soviet verdict of \"\"a compelling natural force\"\" — and what modern AI analysis finally reveals.\n\nWhat really happened on that slope? And why did the Soviet state hide the truth from grieving families?\n\nIf you love unsolved mysteries and true stories, drop a comment with your theory and subscribe for more deep dives.\n\n#DyatlovPass #UnsolvedMysteries #TrueStory #ColdCase #Documentary\"",
+      "commentCount": 39,
+      "likeCount": 430,
+      "probeClient": "web_embedded"
+    },
+    "S9ecC2xjtYQ": {
+      "checkedAt": "2026-08-17T12:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Which AI do you use the most when cooking!?\n\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n---------------------------------------------------------------\nFollow me for a cake! \nInstagram- https://www.instagram.com/patrickzeinali/\nTik Tok- https://www.tiktok.com/@patrickzeinali?lang=en\nSnapchat- https://www.snapchat.com/add/terapat",
+      "commentCount": 133,
+      "likeCount": 2964,
       "probeClient": "web_embedded"
     }
   }
