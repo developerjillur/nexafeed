@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T02:53:07Z",
+  "updatedAt": "2026-08-17T03:53:12Z",
   "items": [
+    {
+      "id": "bzYziksDslU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dreams of Code",
+      "publishedAt": "2026-08-16T15:53:12Z",
+      "firstSeenAt": "2026-08-17T03:53:12Z"
+    },
+    {
+      "id": "k90WJqSkyfI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Syntax Bro",
+      "publishedAt": "2026-08-16T14:53:12Z",
+      "firstSeenAt": "2026-08-17T03:53:12Z"
+    },
+    {
+      "id": "TDCM0zp1hJ4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "David Bombal",
+      "publishedAt": "2026-08-16T13:53:12Z",
+      "firstSeenAt": "2026-08-17T03:53:12Z"
+    },
     {
       "id": "QkbnLF482Ig",
       "type": "long",
@@ -16263,6 +16287,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-17T03:53:12Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
