@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T17:53:53Z",
+  "updatedAt": "2026-08-17T18:53:59Z",
   "items": [
+    {
+      "id": "uUIJPWsHD38",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-17T18:15:18Z",
+      "firstSeenAt": "2026-08-17T18:53:59Z"
+    },
+    {
+      "id": "7YRBelMp-vA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ForexUstaad.com",
+      "publishedAt": "2026-08-17T15:53:59Z",
+      "firstSeenAt": "2026-08-17T18:53:59Z"
+    },
+    {
+      "id": "PG4Mf0HO4ZE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SHAHG",
+      "publishedAt": "2026-08-17T14:53:59Z",
+      "firstSeenAt": "2026-08-17T18:53:59Z"
+    },
+    {
+      "id": "4pBaZum8QKI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Future AI",
+      "publishedAt": "2026-08-17T13:53:59Z",
+      "firstSeenAt": "2026-08-17T18:53:59Z"
+    },
+    {
+      "id": "lRuVKbdLbKE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Cutting Edge School",
+      "publishedAt": "2026-08-17T12:53:59Z",
+      "firstSeenAt": "2026-08-17T18:53:59Z"
+    },
+    {
+      "id": "6khd53V84Mw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Invisible Gyan",
+      "publishedAt": "2026-08-17T05:53:59Z",
+      "firstSeenAt": "2026-08-17T18:53:59Z"
+    },
     {
       "id": "K8z_pZNl_Fw",
       "type": "short",
@@ -16918,6 +16966,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-17T18:53:59Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
