@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T01:53:47Z",
+  "updatedAt": "2026-08-17T02:53:07Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -7336,10 +7336,10 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-17T01:53:47Z",
+      "checkedAt": "2026-08-17T02:53:07Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "ePBbqZBYp-s": {
       "checkedAt": "2026-08-16T18:53:41Z",
@@ -7860,10 +7860,10 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-17T01:53:47Z",
+      "checkedAt": "2026-08-17T02:53:07Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "OJDhImJxPvk": {
       "checkedAt": "2026-08-15T16:53:06Z",
@@ -8418,17 +8418,8 @@
       "likeCount": 76,
       "probeClient": "web_embedded"
     },
-    "BHGTA6ZEls4": {
-      "checkedAt": "2026-08-16T17:53:40Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn more about the 2026 Guide to AI Agents here → https://ibm.biz/~nlygweHxH\n\nConnecting AI agents to tools is harder than it looks. Grant Miller breaks down five proven patterns for integrating agents with tools, from simple APIs to secure token-based architectures. Learn how authentication, MCP, and vaults improve security and scalability in agentic systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/~H9ZIaiRnS\n\nAI was used in the creation of the transcript and metadata for this video.\n\n#aiagents #aiarchitecture #tools #machinelearning #agenticai",
-      "commentCount": 0,
-      "likeCount": 242,
-      "probeClient": "web_embedded"
-    },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-17T01:53:47Z",
+      "checkedAt": "2026-08-17T02:53:07Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8514,14 +8505,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "lUVYxhxbho8": {
-      "checkedAt": "2026-08-16T19:53:06Z",
-      "embedAllowed": true,
-      "description": "Want to access Meta Ads Library data and build your own automation? \n\nIn this video, I'll show you how to create and set up the Meta Ads Library API for FREE, step by step.\n\nWe’ll go through the complete process — from creating your Meta Developer App and configuring the required settings to generating access credentials, testing API requests, and connecting the API with n8n for automation.\n\nThis is especially useful if you're working with AI Automation, Lead Generation, Ad Intelligence, Competitor Research, Web Scraping, or Marketing Automation.\n\n🔥 What You'll Learn\n\n✅ How to create a Meta Developer App\n✅ How to configure your Meta App\n✅ Meta Ads Library API setup\n✅ Understanding API permissions\n✅ Generating and using access tokens\n✅ Testing Meta Ads Library API requests\n✅ Fetching Facebook/Instagram advertising data\n✅ Connecting Meta Ads Library API with n8n\n✅ Building automated ad research workflows\n✅ Common Meta API errors and how to troubleshoot them\n\n🤖 Meta Ads Library + n8n Automation\n\nYou can use this setup to build workflows for:\n\n• Competitor ad research\n• Active ad monitoring\n• Lead generation\n• Ad intelligence\n• Marketing research\n• Facebook Page research\n• Automated reporting\n• Google Sheets / CRM integration\n• AI-powered ad analysis\n\nI also build practical automation systems using n8n, Apify, APIs, AI Agents, Playwright, CRM integrations and other automation tools.\n\n🕷️ My Apify Actor\n\nI have also built an Apify Actor for extracting Facebook Page information and social media links, including publicly available website, contact and social profile data.\n\n👉 My Apify Profile:\n\nhttps://apify.com/daniyal_zia/my-actor-2\n\n🎓 Learn AI Automation\n\nWant to learn how to build AI Automation, n8n workflows, AI Agents, APIs, Web Scrapers and business automation systems?\n\n👉 Join my AI Automation Course:\nhttps://fearlessdigital.org/join/\n\n🌐 My Website\n\n👉 Fearless Digital:\nhttps://fearlessdigital.org/\n\n💼 Connect With Me\n\n👉 LinkedIn:\nhttps://pk.linkedin.com/in/daniyalzia332\n\n👉 Apify:\nhttps://apify.com/daniyal_zia\n\nInstagram : \nhttps://www.instagram.com/daniyalziaofficial\n\n🚀 What I Build\n\n• AI Automation Systems\n• n8n Workflows\n• AI Agents\n• Agentic AI Systems\n• API Integrations\n• Web Scraping & Data Extraction\n• Apify Actors\n• Lead Generation Systems\n• CRM Automation\n• WhatsApp Automation\n• Meta Ads Automation\n• Business Process Automation\n• AI-powered Tools & Websites\n\nIf you're interested in AI Automation, n8n, Apify, APIs, Web Scraping, AI Agents and Marketing Automation, make sure to Subscribe and turn on notifications. 🔔\n\n💬 Comment below: What should I build next a Meta Ads automation, n8n workflow, Apify Actor, or AI Agent?\n\n#MetaAdsLibrary #MetaAPI #FacebookAds #AdsLibrary #MetaAds #n8n #AIAutomation #AI #AIEngineering #Apify #WebScraping #LeadGeneration #MarketingAutomation #Automation #APIs #AIagents #Pakistan",
-      "commentCount": 0,
-      "likeCount": 3,
-      "probeClient": "web_embedded"
-    },
     "lZLlYtog87I": {
       "checkedAt": "2026-08-16T20:53:15Z",
       "embedAllowed": true,
@@ -8602,14 +8585,6 @@
       "likeCount": 3,
       "probeClient": "web_embedded"
     },
-    "qTk3X5fmCH0": {
-      "checkedAt": "2026-08-16T22:53:33Z",
-      "embedAllowed": true,
-      "description": "Can AI be trusted to generate academic references? I tested 8 popular AI tools to find out which one produces the most reliable references — and the results were not what I expected.\n\nIn this experiment, I gave ChatGPT, Claude, Google Gemini, Perplexity, Consensus, Jenni AI, SciSpace and DeepSeek the same research prompt and asked them to generate academic references on artificial intelligence and information literacy among university students.\n\nI then copied the references generated by each AI tool into GPTZero's Hallucination Detector to check how many appeared to be authentic, unverifiable or potentially incorrect.\n\nBut I didn't stop with AI detection. I also manually checked some of the references using Google and academic search sources because an AI detector can also make mistakes.\n\nThe results reveal an important lesson about using AI for academic research: a reference can look completely legitimate and still need to be verified.\n\nIn this video, you'll see:\n\n• ChatGPT reference accuracy\n• Claude reference accuracy\n• Google Gemini reference accuracy\n• Perplexity reference accuracy\n• Consensus reference accuracy\n• Jenni AI reference accuracy\n• SciSpace reference accuracy\n• DeepSeek reference accuracy\n• GPTZero hallucination testing\n• Manual verification of AI-generated references\n• Which AI tool performed best in this experiment\n\nEmail Us (Business and Members Only Please)\ninsights4utoday@gmail.com\"\n\nDetectors you can use as Turnitin alternatives:\nacademi.cx: https://academi.cx/?via=acafty\nLink to Originality AI detectors: https://originality.ai/?via=Forig\nLink to GPTzero AI detector: https://app.gptzero.me/referral?code=edffb4ac-e5b6-46a5-8e61-f74cb21ad59a\n Pangram Checker👉 https://affiliate.pangram.com/ui8ug9530aec\n\n\nJoin this channel to get access to 5 FREE AI and Plagiarism Checks:\nhttps://www.youtube.com/channel/UCyNnLm6aAfrUwAQY-0lBFcg/join\n\nAI humanisers that STILL work  on Turnitin in 2025 (NEW)  ➜\n👉 Ryne AI: https://ryne.ai/?ref=202jlio\n👉 SafeWrite: https://safewrite.ai/?via=writf\n👉WriteHuman: https://writehuman.ai/?via=flno\n👉 Sleathwriter AI: https://stealthwriter.ai/?via=flnw\n\nTimestamp\n00:00 Introduction: Can AI Be Trusted With References?\n00:35 How AI Creates Fake References\n01:11 The AI Reference Test\n01:47 The 8 AI Tools I'm Testing\n02:24 The Research Prompt\n03:00 Testing ChatGPT\n04:17 Testing Claude\n05:40 Testing Google Gemini\n08:34 Testing Perplexity\n09:15 Testing Consensus\n10:47 Testing Jenni AI\n11:26 Testing SciSpace\n12:14 Testing DeepSeek\n14:36 Final Verdict: Never Trust AI References Blindly\n\nMore helpful videos and playlist\nHow to write a research paper using ANY AI, No AI, No plagiarism\nhttps://youtu.be/ZK4_W4UD0qQ\n\nI tested Old and New AI humanisers on top AI detectors\nhttps://youtu.be/d8hwV4CpZ3A?si=aEWvTgvUXBn53DVX\n\nHow to write a GOOD research paper\nhttps://youtu.be/Uo0aZ_7ySmg\n\nDetect AI-Generated Text Instantly WITHOUT Tools | Bypass Turnitin, Originality with a simple PROMPT\nhttps://youtu.be/y0tkf4lvpO8\n\nCan Chatgpt Deep Research Fool Turnitin, Originality AI and GPTZero?\nhttps://youtu.be/s-fo99bpRKs\n\nAI detectors cant detect this manual method\nhttps://youtu.be/P2OS-ckfryE?si=TACYogLm-jNaqSrh\n\n\nresearch paper,AI hallucinations,AI hallucination,fake references,fake citations,AI references,AI research tools,AI for academic research,AI for research,Claude AI,Google Gemini,Gemini AI,Perplexity AI,Consensus AI,Jenni AI,SciSpace,DeepSeek,GPTZero,academic research,AI citation generator,AI tools for students,AI tools for researchers,AI literature review,research AI tools,GPTzero hallucination detector,ai hallucinations,what is hallucination\n\nDISCLOSURE: This video and the description may contain affiliate links, through which the channel might get a little bit of payment if you click on one of the products. Don’t worry, you won’t have to pay anything extra for that particular product. Your support is greatly appreciated. It's essential to note that all information presented in this video is drawn from personal experience, online sources, and conducted tests.",
-      "commentCount": 4,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "b9cOe6GOP1k": {
       "checkedAt": "2026-08-16T23:53:42Z",
       "embedAllowed": true,
@@ -8624,14 +8599,6 @@
       "description": "What a token in AI actually is: the chunk your text is cut into before a model reads any of it — the only unit an AI ever perceives, remembers or bills you for, which is why \"how many r's are in strawberry\" asks about letters it never received. Every split here is measured with tiktoken (o200k_base), not remembered: one invisible space in front of a word turns 3 chunks into 1, capitals turn it into 4, and the same sentence costs 12 tokens in English but 21 in Hindi or Japanese. Desk Lessons Ep.2 — what a token is, the three things it silently decides, and what to do about it.\n\n⚙️ ABOUT THE AUTOMATION DESK\nThe desk where the boring, everyday automations get figured out and explained in\nplain English. We take the small back-office tasks everyone ignores — data entry,\ninvoicing, scheduling, reminder emails, record-keeping — and show the simple AI +\nno-code workflows that quietly handle them, then scale up into bigger systems,\nhonest tool comparisons, and automation news. Free and local-first wherever we can.\n\n🗂️ WHAT WE COVER\n• Desk Fixes — one small automation, shown on a real example\n• Desk Loops — \"N ways to automate X\" + the trigger → AI → check loop\n• Automation Breakdowns — hands-on tests: the best tool/model for a real task\n• Desk Notes — quick takes on AI & automation news\nTools we live in: Google Sheets, Excel, Outlook/Gmail, Notion, Zapier/Make, and AI\nmodels like Claude and ChatGPT.\n\n👤 WHO THIS IS FOR\nBuilders, freelancers, and no-code / automation agencies who ship automations for\nclients — plus small-business owners curious what's actually possible. You leave\nwith copy-able, resell-able ideas, not theory.\n\n🔔 NEW HERE?\nSubscribe and ring the bell so you don't miss the next video.\n\n🌐 FOLLOW THE DESK\nInstagram → https://www.instagram.com/theaiautomationdesk/\nTikTok    → https://www.tiktok.com/@theaiautomationdesk\nX         → https://x.com/Aautomationdesk\nFacebook  → https://www.facebook.com/profile.php?id=61590655470225\nBlog      → https://medium.com/@theautomationdesk\n\nℹ️ This video uses an AI-generated voice and AI-assisted visuals. The ideas,\nresearch, and angle are our own.",
       "commentCount": 2,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "COUL9y5CTfM": {
-      "checkedAt": "2026-08-16T23:53:42Z",
-      "embedAllowed": true,
-      "description": "In this video, Cloud X Berry explains n8n in a simple and beginner-friendly way.\n\nSomeone fills out the contact form on your website because they're interested in your product. Now you save their details in the CRM, send a welcome email, notify sales on Slack, and add a follow-up task. None of it is difficult. All of it is repetitive, and you do it again for the next customer, and the one after that. That is the gap n8n was built for — not a new app to replace the ones you have, but a layer that runs the steps between them.\n\nWe start with that one inquiry and build the idea up piece by piece: what a workflow actually is, why every workflow begins with a trigger, and what else can be a trigger besides a form — a new email in Gmail, a scheduled 9 a.m. run, an uploaded file, an incoming API request. Then we open the workflow inside n8n itself, where it isn't one\ngiant block but lots of small connected nodes, each responsible for a single task. From there, the concept most people miss: data flows from one node to the next, so the customer's details are entered once and every downstream node reads, transforms or adds to them on the way through.\n\nThen the parts that usually get hand-waved. Why n8n is called low-code, and exactly where you drop into JavaScript when the visual builder isn't enough. Where AI actually fits — routing an inquiry through a model to summarise, classify and extract before it ever\nreaches your sales team, and the distinction that matters: n8n is not the AI model, it's the orchestration layer around it. We finish with credentials and OAuth, how n8n connects to Gmail, PostgreSQL, OpenAI and Slack rather than replacing them, and a recap of the\nwhole picture.\n\nCHAPTERS\n\n0:00  What people can't agree n8n is\n0:13  One contact form, four manual jobs\n0:35  The sequence of steps is a workflow\n0:48  The same process for every customer\n1:06  Triggers: how n8n knows when to start\n1:18  Email, schedule, file upload, API request\n1:33  Inside the editor: nodes, not one giant block\n2:01  Data flows from one node to the next\n2:24  Transforming and adding data along the way\n2:39  Why n8n is called low-code\n2:59  Where AI fits into the workflow\n3:30  n8n is not the AI model\n3:43  Credentials, OAuth and the tools you already use\n4:11  The conductor of an orchestra\n4:30  Recap\n\nWHO THIS IS FOR\nDevelopers who keep seeing n8n mentioned alongside AI agents and want the idea to actually click, anyone doing the same four manual steps every time a lead comes in, and teams weighing up a low-code automation layer before writing another glue script.\n\n#n8n #workflowautomation #automation #lowcode #aiagents #nocode",
-      "commentCount": 1,
-      "likeCount": 58,
       "probeClient": "web_embedded"
     },
     "SaJBDs_WMDs": {
@@ -8709,12 +8676,49 @@
       "likeCount": 231,
       "probeClient": "web_embedded"
     },
-    "vUhamjWR_vA": {
-      "checkedAt": "2026-08-17T01:53:47Z",
+    "QkbnLF482Ig": {
+      "checkedAt": "2026-08-17T02:53:07Z",
       "embedAllowed": true,
-      "description": "In this video, I provide a translation and analysis of a powerful Yiddish speech by the Grand Rabbi of the Satmar Hasidic sect, Rabbi Aaron Teitelbaum. He addresses what he describes as the \"new Satan\" threatening today's generation: Artificial Intelligence.\n\nI offer a unique context as someone who grew up in the community. I share personal stories, including a poignant encounter at my son's opsherin, to illustrate the complex relationship between Hasidic leadership, tradition, and the relentless march of technology.\n\nIn this video, we explore:\n\n-The Rabbi's Warning: How AI is viewed as a \"mutation\" of past technological temptations like computers and smartphones.\n-The \"Kosher Phone\" Dilemma: Why even filtered devices are now seen as gateways to unsupervised access to the world.\n-Cultural Preservation: The community's ingenious and sometimes desperate tactics for balancing modern necessity with spiritual isolation.\n-A Personal Journey: I reflect on how the internet changed my own life and why I find the Rabbi’s cautionary stance more logical than many might expect.\n\nTimestamps: \n00:00 Introduction: My background and the significance of the speech \n01:18 Personal story: Meeting Rabbi Aaron Teitelbaum \n08:24 The Hasidic community’s \"dance\" with technology \n11:52 The Recording Begins: The \"Flaming Speech\" against the new Satan \n17:09 Why AI is seen as a mutating evil inclination \n21:05 The history of Hasidic solutions: Filters and bans \n25:22 The \"woe to us\" dilemma: Why the Rabbi chose to speak out \n30:25 How AI chatbots are accessed via kosher phone numbers \n33:50 My reflections: Is the Rabbi’s warning extreme or insightful?\n\nJoin the conversation: How do you think we should manage the influence of AI on children and vulnerable communities? Does the Hasidic approach offer any lessons for the secular world, or is it too extreme? Share your thoughts in the comments below.",
-      "commentCount": 175,
-      "likeCount": 564,
+      "availability": "public",
+      "description": "Get the Agent OS Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nAgent OS Live Demo: The Future of Autonomous AI Workflows\n\nDiscover how Agent OS transforms your workflow by running autonomous AI agents that work for you 24/7. We walk through real-world applications including VPS setups, automated SEO, and cleaning up complex N8N workflows.\n\n00:00 - Intro to Agent OS\n00:56 - Running AI on a VPS\n01:41 - Prime Agent Integration\n02:14 - Stop Shiny Object Syndrome\n03:41 - Simplifying AI Automations\n04:40 - AI-Driven SEO Strategy\n05:49 - Creating AI Video Tutorials\n06:22 - Get Started with Agent OS",
+      "commentCount": 2,
+      "likeCount": 20,
+      "probeClient": "web_embedded"
+    },
+    "7EnBgqoh0z4": {
+      "checkedAt": "2026-08-17T02:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Build your own furniture empire after getting fired from Furnox Corp 🖕. Chop down trees, process wood, automate your growing production lines and sell clever furniture sets for bonus cash. Explore a handcrafted world packed with weirdos, secrets and trees begging for violence.\n\nChop Chop Inc On Steam: https://store.steampowered.com/app/4369130/Chop_Chop_Inc/\n\n\n\n\nAFFILIATES & REFERRALS\n---------------------------------------------------\n►Join Stream Elements : https://strms.net/z1gamingseambassadors\n►Epic Games Code: \"Z1GAMING\"\n►The Ridge Wallet: \"Z1Gaming\"\n►GFUEL : https://gfuel.ly/3AG0yTf Code \"Z1GAMING\"\n►Quality Mens Bags At NutSac: https://z1g.tv/nutsac\n\n\n\nWAYS TO SUPPORT THE CHANNEL\n---------------------------------------------------\nBecome A Patron On Patreon: https://z1g.tv/Patreon\nBecome A YouTube Member: https://vod.strms.net/j/UCMPpVtxOI8RtfurfvCcxgyA \nDonate Directly: https://mercury.streamelements.com/tip/z1gaming-892 \n\n(I Will NEVER Ask For Monetary Support, Any Support Is Extremely Appreciated)\n\nPurchases made through some store links may provide some compensation to Z1 Gaming.\n\nVIDEOS & MODS\n---------------------------------------------------\nZ1 Gaming Website: https://www.z1gaming.tv/ \nMods List: https://www.z1gaming.tv/series\n\nWHAT DO I USE\n---------------------------------------------------\n►My Gear: https://www.z1gaming.tv/gear\n\n\nFOLLOW US ELSEWHERE\n---------------------------------------------------  \nDiscord: https://discord.gg/Z1Gaming\nTwitch: https://www.twitch.tv/z1gaming\nTwitter: https://twitter.com/Z1GamingTV \nInstagram: https://www.instagram.com/Z1GamingTV\nFacebook: https://www.facebook.com/Z1GamingTV/\n\nFOLLOW MY OTHER CHANNELS\n---------------------------------------------------  \nMrs Z1(Official Mrs Z1): https://z1g.tv/MrsZ1YouTube\nZ1tv: https://z1g.tv/Z1tv\nZ1 Rewind: https://z1g.tv/Z1Rewind\n\nMUSIC CREDIT\n---------------------------------------------------  \nTitle: oomiee - Pure Gold\nVideo Link: https://www.youtube.com/watch?v=o_k69OjKY_g",
+      "commentCount": 32,
+      "likeCount": 388,
+      "probeClient": "web_embedded"
+    },
+    "UFmqyrZjDkk": {
+      "checkedAt": "2026-08-17T02:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCexhOPr3a9N8IIre8-98LJg/join\nAfter more than 50 years of flying, I've learned one of the most important lessons in aviation: pilots don't blindly trust automation.\nModern airliners rely on sophisticated flight management computers, autopilots, autothrottles, and advanced navigation systems. These systems have made aviation safer than ever, but they have also created new challenges. In this video, I explain why professional airline pilots constantly verify what the automation is doing and why one of the most common cockpit questions is:\n\"What is it doing now?\"\nDrawing on my experience as a United Airlines captain, Airbus and Boeing 777 line check airman, Air Force pilot, and member of the ALPA New Aircraft Evaluation and Certification Committee, I discuss how cockpit automation evolved, how mode awareness became a critical safety issue, and how pilots helped shape the design standards that are now common throughout the airline industry.\nYou'll learn why pilots say:\n\"What you type into the computer is fiction. What appears on the Primary Flight Display is fact.\"\nThis is an inside look at modern airline automation, cockpit decision-making, flight management computers, autopilot systems, Boeing and Airbus design philosophy, and the lessons every professional pilot learns about trusting—but verifying—the computer.\n#aviation #pilot #automation #airlinepilot #boeing777 #airbus #boeing737 #flightmanagementcomputer #autopilot #cockpit #pilotlife #aviationsafety #aviationeducation #unitedairlines #flying #aviationhistory #aviationadventureswithcaptainron",
+      "commentCount": 25,
+      "likeCount": 68,
+      "probeClient": "web_embedded"
+    },
+    "1LPaMTJTGSs": {
+      "checkedAt": "2026-08-17T02:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "💥 Unlock a 30-day FREE trial + $9,577 in bonuses! 👉 https://www.gohighlevel.com/baptist\n\n\n*******\nALREADY A HIGHLEVEL USER? You can still claim all my bonuses when you upgrade through my link:\n👉 https://www.gohighlevel.com/baptist\n*******\n\nCan't upgrade your HighLevel account but still want all my bonuses? Join my Community 👉 \nhttps://aidigitalentrepreneurs.net/dombaptist-c-c?am_id=dominic1317\n\n\n📞Have Any Questions? Reach out to me on (I Answer fast)\nhttps://www.instagram.com/dombaptist/ (Instagram)  \n\n#gohighlevel #ghl #makemoneyonline\n\n\nDisclaimer:  I’m an affiliate for GoHighLevel, which means I may earn a commission if you sign up through my links. Please note that results vary and are not guaranteed. Any income or success examples I share are for educational purposes only and should not be considered typical or promised outcomes.",
+      "commentCount": 3,
+      "likeCount": 39,
+      "probeClient": "web_embedded"
+    },
+    "FVkQs-LOGG0": {
+      "checkedAt": "2026-08-17T02:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Want to know how I made $10,000 with Revenge Story Videos using YouTube Automation? 🔥 In this step-by-step guide, I’ll show you how to create viral revenge story videos, target a USA audience, choose high-CTR topics, and build a faceless YouTube channel in 2026.\n\nIn this video, you’ll learn how the Revenge Stories niche works, how to find viral story ideas, create engaging scripts, generate voiceovers, edit videos, design clickable thumbnails, and optimize your content for better views and revenue.\n\nYou’ll learn:\n\n✅ How to start a Revenge Story YouTube channel\n✅ How to find viral Revenge Story topics\n✅ How to target a USA audience\n✅ How to create engaging revenge story scripts\n✅ How to make faceless YouTube videos\n✅ How to use AI tools for YouTube Automation\n✅ How to create high-CTR titles and thumbnails\n✅ How to optimize videos for YouTube SEO\n✅ How Revenge Story channels can make money\n✅ My complete step-by-step YouTube Automation strategy\n\nIf you’re looking for a profitable YouTube Automation niche in 2026, Revenge Story Videos can be an interesting niche to explore because emotional storytelling, betrayal, family drama, workplace revenge, and satisfying endings can keep viewers watching longer.\n\nWatch the complete video because I’ll explain the entire process from channel creation to video production and monetization strategy.\n\n🔥 Subscribe for more YouTube Automation, AI content creation, faceless channel ideas, and online earning strategies.\n\n\n\nWhatsApp channel :   https://whatsapp.com/channel/0029Vb6O2ID7z4ki7ze5WV1g\nFor Message Support me on instagram : Instagram.com/faisalbashirhere\nPrompt : https://docs.google.com/document/d/1XvWkYqwXeen8modhU4VjnxXAnk402cS3zoZYxPTKzVU/edit?usp=sharing\n\n\nSEO Keywords:\nrevenge story videos, revenge stories youtube, youtube automation 2026, USA youtube channel idea, faceless youtube channel, how to make revenge story videos, viral revenge stories, youtube automation guide, youtube automation step by step, AI youtube automation, profitable youtube niches 2026, storytelling youtube channel, make money on youtube, faceless youtube automation\n\nHashtags:\n#RevengeStories #YouTubeAutomation #YouTubeAutomation2026 #FacelessYouTube #MakeMoneyOnYouTube #YouTubeSEO #USAChannelIdea",
+      "commentCount": 10,
+      "likeCount": 39,
       "probeClient": "web_embedded"
     }
   }

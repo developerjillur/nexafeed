@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T01:53:47Z",
+  "updatedAt": "2026-08-17T02:53:07Z",
   "items": [
+    {
+      "id": "QkbnLF482Ig",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-16T19:53:07Z",
+      "firstSeenAt": "2026-08-17T02:53:07Z"
+    },
+    {
+      "id": "7EnBgqoh0z4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Z1 Gaming",
+      "publishedAt": "2026-08-16T18:53:07Z",
+      "firstSeenAt": "2026-08-17T02:53:07Z"
+    },
+    {
+      "id": "UFmqyrZjDkk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Aviation Adventures with Captain Ron",
+      "publishedAt": "2026-08-16T18:53:07Z",
+      "firstSeenAt": "2026-08-17T02:53:07Z"
+    },
+    {
+      "id": "1LPaMTJTGSs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dominic Baptist",
+      "publishedAt": "2026-08-16T15:53:07Z",
+      "firstSeenAt": "2026-08-17T02:53:07Z"
+    },
+    {
+      "id": "FVkQs-LOGG0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Faisal Bashir",
+      "publishedAt": "2026-08-16T14:53:07Z",
+      "firstSeenAt": "2026-08-17T02:53:07Z"
+    },
     {
       "id": "C4v-E66zTik",
       "type": "short",
@@ -16214,6 +16254,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-17T02:53:07Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
