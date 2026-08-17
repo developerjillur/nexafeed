@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T16:53:47Z",
+  "updatedAt": "2026-08-17T17:53:53Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -2592,99 +2592,6 @@
         }
       ],
       "commentsFetchedAt": "2026-08-13T19:53:15Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "iUE6Z1ilQj4": {
-      "checkedAt": "2026-08-12T18:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 8,
-      "likeCount": 331,
-      "comments": [
-        {
-          "id": "UgzIG6ul89Q1_C5rS6N4AaABAg",
-          "author": "@Ai.Vishnuvijayan",
-          "text": "https://github.com/Panniantong/Agent-Reach",
-          "likeCount": 1,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/yhAqPsQdQNzWqs3n323bzwcDBcfNQt2XFJe9SntriwBCCx8kViE13reCfUPwZ_8coQAAPdj4wKg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "UgzORT0Q3uv9JLcf6qd4AaABAg",
-          "author": "@dentalcheck",
-          "text": "Agent",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/_1gdap0vJzgF6I3zog_m1Hf-0rP1fetrCP7H74BQ-NYBnDyTenu8AeJGnpLiL_EqTUfSF55q=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgySTRR_zg2pR568q7l4AaABAg",
-          "author": "@Ashila-i1s",
-          "text": "Agent",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T13:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n0P3r2dt_xOW7IMpld2RrxGBWw0u14CCrewTD_k6rGgh-rAJJjEjQc9tcAQhDqX28vZA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw9Pk64UN7Pg1Xvk-Z4AaABAg",
-          "author": "@sushanthegde2840",
-          "text": "Agent",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kv0n8V6ik9TYfOAksnlMlee6zg6n3TxHfx-Q2pLH_z49Y=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxf8GKhybbw1JZZ0eF4AaABAg",
-          "author": "@bensalwador3626",
-          "text": "Agent",
-          "likeCount": 0,
-          "publishedAt": "2026-08-11T21:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k6cyNQDT67NnRd2vfDi_xjlyTYDk7Tqof8zbkBcUE=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzCm8KWBXurUMGTUTl4AaABAg",
-          "author": "@NickKumar-h1t",
-          "text": "Agent",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mQPSrH_ciG7qqWxXbvLdt-yOWg8iIxIJ94kZavog4xQVh7F-Pwyaiwm5oLdrxwNC7pVw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzfAukddcwBuDlV_-h4AaABAg",
-          "author": "@keval7407",
-          "text": "Agent",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNNYoK3VSbV9FkONe2jk_GzncsIqcj--TUMbuZx20okOs19OYVDRFrL_X17UYVd4OgdA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzaK6IJm-19djlTAjZ4AaABAg",
-          "author": "@biswarupchakraborty4162",
-          "text": "Agent",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kkKjCFmv6MeNVqkywF8-0ezD0y_o-p152KTYqqJIQACLc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-12T18:53:21Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7442,23 +7349,13 @@
       "probeClient": "web_embedded"
     },
     "XSTXOCS34OU": {
-      "checkedAt": "2026-08-16T17:53:40Z",
+      "checkedAt": "2026-08-17T17:53:53Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 2,
-      "likeCount": 396,
+      "commentCount": 6,
+      "likeCount": 557,
       "comments": [
-        {
-          "id": "UgxsyDmo6O8TrOENeot4AaABAg",
-          "author": "@DZJOSEPH",
-          "text": "Cut",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T01:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/HLCavaHPHhRetiYh8mBxauwhu1EGHvGmiLpyVJX0UTzx94WD-udOWI1kqXmQtmQXrtEJ9_Qraw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
         {
           "id": "Ugwr8vUDO8osveDAIlR4AaABAg",
           "author": "@Ai.Vishnuvijayan",
@@ -7466,11 +7363,61 @@
           "likeCount": 0,
           "publishedAt": "2026-08-16T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/yhAqPsQdQNzWqs3n323bzwcDBcfNQt2XFJe9SntriwBCCx8kViE13reCfUPwZ_8coQAAPdj4wKg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
+          "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "UgwxL4AVaWf3WsqmhPB4AaABAg",
+          "author": "@KrishnaEgiti",
+          "text": "Burns Tokens like leaves!, bro along with technology benefits, if you tell limitations also helps a lot",
+          "likeCount": 0,
+          "publishedAt": "2026-08-17T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/AT61jNfXImLTW77s4s-X12hrJ5blJhn-Ngfgv9x9qTAnZgmjG24r_qR7N5zJNjmD3P52cit-Zg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx_SnajD0MJdRlREZR4AaABAg",
+          "author": "@Notaninfluancer",
+          "text": "Cut",
+          "likeCount": 0,
+          "publishedAt": "2026-08-17T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/B0UQ9dOo8bSL7afbLt0VpI-sj4cCFltuom0jgEM4vimkGKFV2eNbXvFuweF0H4UZHZ34CjlSog=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzaKyPbLXEweReE_rF4AaABAg",
+          "author": "@jalaprabhu314",
+          "text": "Thank you.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lDEcvZu9Ma2FG9uoD0zoy5fomWlP39McilMj_VU1TjJ_gf71EBO-aqzKbq64nmLcwjHg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzbRm3laEkyBj1mtKh4AaABAg",
+          "author": "@PrabhupadSutar",
+          "text": "Is it completely free ?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-16T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/uQxBp6CuPCrVyCSgwmVcJW1efRnvx5mYxYCdqZprorDzu72MhxHKKyJwekgS1ZGuzMjlU-S0OA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxsyDmo6O8TrOENeot4AaABAg",
+          "author": "@DZJOSEPH",
+          "text": "Cut",
+          "likeCount": 0,
+          "publishedAt": "2026-08-17T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/HLCavaHPHhRetiYh8mBxauwhu1EGHvGmiLpyVJX0UTzx94WD-udOWI1kqXmQtmQXrtEJ9_Qraw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-16T17:53:40Z",
+      "commentsFetchedAt": "2026-08-17T17:53:53Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -8044,14 +7991,35 @@
       "probeClient": "web_embedded"
     },
     "f10PpVR7Iik": {
-      "checkedAt": "2026-08-16T17:53:40Z",
+      "checkedAt": "2026-08-17T17:53:53Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "learn how to create faceless content for usa content",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-16T17:53:40Z",
+      "commentCount": 2,
+      "likeCount": 31,
+      "comments": [
+        {
+          "id": "UgxkbPhkkt-0TQCeUpN4AaABAg",
+          "author": "@AbhinavBadgujar-g9h",
+          "text": "Youtube",
+          "likeCount": 0,
+          "publishedAt": "2026-08-17T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lO1bg78qyz0HR_ZIH8s5qeSfzYr9fVSd1DukOaqgMnQ42rwYpPYWufcdbL9Z9Zby0O7g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxb9UKD-2d33A5pldJ4AaABAg",
+          "author": "@ram-x09",
+          "text": "YouTube",
+          "likeCount": 0,
+          "publishedAt": "2026-08-17T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/U-EDsoUIq3TYPvwaUFp5RQ680DD82W2NznRidajS2-qKxTFn0N8HEvAiOhBb05lVnxWCcV8Tyg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-17T17:53:53Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -8066,36 +8034,12 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "8rI_1fBI_wo": {
-      "checkedAt": "2026-08-16T19:53:06Z",
-      "embedAllowed": true,
-      "description": "How quickly are your leads getting from your marketing into your CRM?\nFor insurance agents and financial professionals, manual lead management can create delays at one of the most important points in the marketing process: follow-up.\n\nIn this episode of the AmeriLife Marketing Mentors podcast, David Belleville and Jo Barker discuss how AI and marketing automation can help agents streamline lead management, connect lead sources with their CRM and improve speed to lead.\n\nThey also break down how AI can support email marketing workflows, automate repetitive tasks and help agents spend less time manually moving data between platforms.\n\nIf you’re generating leads through Facebook, digital advertising or online forms, this is a practical look at where AI can fit into your existing marketing workflow.\n\nCHAPTERS:\n00:00 Why AI-Driven Consumer Behavior Matters\n00:54 How AI Can Improve Email Marketing\n01:38 Stop Manually Moving Leads Into Your CRM\n02:10 Why Speed to Lead Matters\n02:29 Automating Facebook Leads Into Your CRM\n03:09 AI as a Competitive Advantage for Agents and Advisors\n\n🔗 Want help building your strategy?https://marketingmentors.amerilife.com/?utm_source=podcast&utm_medium=streaming&utm_campaign=organic\n\n#insuranceleads  #marketingautomation  #insurancemarketing  #aimarketing",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "RgOEK5qgPWI": {
       "checkedAt": "2026-08-16T22:53:33Z",
       "embedAllowed": true,
       "description": "DP and Cine Tracer creator Matt Workman explains why he pivoted from traditional cinematography and 3D pre-visualization to go all-in on generative AI. Now at fal, he breaks down the shift in industry value, how legacy technicians are adapting to new tools, and why generative AI is becoming the next evolution of cinematography.\n\nFeaturing @MattWorkman of @fal.ai.official \nShot at @aionthelot \n\nWatch more Inside the AI Studio episodes: https://www.youtube.com/playlist?list=PLyJvr4CeQ1PzG_VNsll1IYk-Z3SExIb2X\n\n#############\n\n📧 GET THE VP LAND NEWSLETTER  \nGet our free newsletter covering the latest news and tools in media creation, from virtual production to AI and more: https://ntm.link/vp_land\n\n#############\n\n📺 MORE VP LAND EPISODES\n\nhttps://youtu.be/4BtmoDDLE8U\nhttps://youtu.be/jLIVz_LCcjI\n\n#############\n\n📝 SHOW NOTES & SOURCES\n\nMatt Workman\nhttps://www.linkedin.com/in/mattworkman\nhttps://www.instagram.com/mattworkmandp\nhttps://www.youtube.com/@MattWorkman\nhttps://www.imdb.com/name/nm2174805\n\nfal\nhttps://fal.ai\nhttps://www.youtube.com/@fal.ai.official\n\nCinematography Database\nhttps://www.instagram.com/cinematographydb\nhttps://www.youtube.com/@CinematographyDatabase\n\nAI on the Lot\nhttps://www.aionthelot.com\n\n#############\n\n⏱ CHAPTERS\n\n00:00 Intro\n01:24 Cine Tracer\n03:07 From Skeptic to Believer\n04:12 Backlash and Going All-In\n06:10 Cinematic Prompts\n07:53 Is AI Cinematography\n10:18 Finding a Role at fal\n12:14 Content Strategy and Platform\n13:58 Model Testing and Future Animation\n14:52 Advice to Filmmakers and Crews\n\n#############\n\nVP Land ► https://vpgo.link\n\nTikTok ► https://vpgo.link/tiktok\nInstagram ► https://vpgo.link/instagram\nFacebook ► https://vpgo.link/facebook\nX/Twitter ► https://vpgo.link/x\nLinkedIn ► https://vpgo.link/linkedin\n\nSome links go to affiliate programs where we earn a small commission\n\n#VPLand #AIonTheLot #fal",
       "commentCount": 10,
       "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
-    "hAckBGtCwxo": {
-      "checkedAt": "2026-08-16T22:53:33Z",
-      "embedAllowed": true,
-      "description": "Two of the best AI certifications you can get from DataCamp:\nDataCamp AI Fundamentals | https://datacamp.pxf.io/X4E2gG\nDataCamp AI Engineer for Developers Associate | https://datacamp.pxf.io/ZVEYoK\nSave 25% Off DataCamp: https://datacamp.pxf.io/Ag5RdK\n\nOther AI certifications covered in the video:\nAWS Certified AI Practitioner | https://aws.amazon.com/certification/certified-ai-practitioner/\nNVIDIA Certified Associate, Generative AI and LLMs | https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/\nMicrosoft Azure AI Engineer  | https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/\nGoogle Cloud Professional Machine Learning Engineer | https://cloud.google.com/learn/certification/machine-learning-engineer\n\n--\n\nWorkers with AI skills are earning a 56% wage premium over people in the exact same role without them — that's from PwC analyzing close to a billion job applications. But most AI certifications are garbage. Nobody checks them, nobody's impressed by them, and some are outright scams.\n\nI went through the entire landscape and pulled out the six that actually mean something in 2026 — ordered from beginner to advanced, with an honest breakdown of who each one is for, what it costs, and what the real downsides are.\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:54 | What a Cert Does\n02:14 | Cert #1 - DataCamp AI Fundamentals\n03:59 | Cert #2 - AWS Certified AI Practitioner\n05:09 | Cert #3 - NVIDIA Certified Associate, Generative AI and LLMs\n06:19 | Cert #4 - DataCamp AI Engineer for Developers Associate\n08:01 | Cert #5 - Microsoft Azure AI Engineer\n09:19 | Cert #6 - Google Cloud Professional Machine Learning Engineer\n10:45 | How to Pick\n\nHashtags\n#AICertification #AICareer #DataCamp\n\nUAE Media License Number: 3635141",
-      "commentCount": 18,
-      "likeCount": 215,
-      "probeClient": "web_embedded"
-    },
-    "9Z-YoszV39o": {
-      "checkedAt": "2026-08-16T22:53:33Z",
-      "embedAllowed": true,
-      "description": "Advanced artificial intelligence tools are supercharging online blackmail and sextortion rings. Criminals use generative AI, voice cloning, and deepfake technology to quickly morph ordinary photos into convincing obscene images, bypass language barriers, and automate 24/7 extortion campaigns targeting individuals globally.\n\n#extortion #AI #harassment #sextortion #wion\n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to world politics. People are tired of biased reportage and we stand for a globalized united world. So for us, the World is truly One.\n \nPlease keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs and personal insults.\n\nSubscribe to our channel at https://goo.gl/JfY3NI\nCheck out our website: http://www.wionews.com\nJoin our WhatsApp Channel: https://bit.ly/455YOQ0\nConnect with us on our social media handles:\nFacebook: https://www.facebook.com/WIONews\nTwitter: https://twitter.com/WIONews\nInstagram: https://www.instagram.com/wionews/\nFollow us on Google News for the latest updates\n\nZee News:- https://bit.ly/2Ac5G60\nZee Business:- https://bit.ly/36vI2xa\nDNA India:- https://bit.ly/2ZDuLRY\nWION: https://bit.ly/3gnDb5J\nZee News Apps: https://bit.ly/ZeeNewsApps",
-      "commentCount": 0,
-      "likeCount": 3,
       "probeClient": "web_embedded"
     },
     "SaJBDs_WMDs": {
@@ -8131,15 +8075,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-17T01:53:47Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "QkbnLF482Ig": {
-      "checkedAt": "2026-08-17T02:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get the Agent OS Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nAgent OS Live Demo: The Future of Autonomous AI Workflows\n\nDiscover how Agent OS transforms your workflow by running autonomous AI agents that work for you 24/7. We walk through real-world applications including VPS setups, automated SEO, and cleaning up complex N8N workflows.\n\n00:00 - Intro to Agent OS\n00:56 - Running AI on a VPS\n01:41 - Prime Agent Integration\n02:14 - Stop Shiny Object Syndrome\n03:41 - Simplifying AI Automations\n04:40 - AI-Driven SEO Strategy\n05:49 - Creating AI Video Tutorials\n06:22 - Get Started with Agent OS",
-      "commentCount": 2,
-      "likeCount": 20,
       "probeClient": "web_embedded"
     },
     "ya4B53HSBfM": {
@@ -8627,19 +8562,19 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-17T16:53:47Z",
+      "checkedAt": "2026-08-17T17:53:53Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-17T16:53:47Z",
+      "checkedAt": "2026-08-17T17:53:53Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-17T16:53:47Z",
+      "checkedAt": "2026-08-17T17:53:53Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8719,13 +8654,72 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "tUS53aHfWZQ": {
-      "checkedAt": "2026-08-17T16:53:47Z",
+    "K8z_pZNl_Fw": {
+      "checkedAt": "2026-08-17T17:53:53Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "Top 7 AI Side Hustles for 2026. #aisidehustle  #makemoneyonline  #ai2026  #passiveincome  #ChatGPTSideHustles2026\nWant to make money online with AI in 2026? In this video, I rank the Top 7 AI Side Hustles from worst to best—including free tools and a step-by-step roadmap for each so you can get started today with $0 upfront cost!\n🌐 Start Here: \n🎥 Watch the Free Webinar: \n👉 https://wealth-creation.nasdigital.uk \n\n\n📌 TIMESTAMPS\n00:00 - The AI Side Hustle Opportunity\n00:15 - #7: AI Micro-Apps & Web Development\n01:20 - #6: AI Short-Form Content Clipping\n02:25 - #5: AI Voice Agents for Local Businesses\n03:30 - #4: AI Ghostwriting & Tone Matching\n04:35 - #3: AI Automation Agency (n8n & Make)\n05:40 - #2: AI B2B Lead Generation\n06:45 - #1: The S-Tier AI Side Hustle (Digital Products)\n08:30 - Which AI Side Hustle Will You Start?\n\ntop ai side hustles 2026, ai side hustles, make money with ai, best ai side hustles for beginners, how to make money with chatgpt, faceless side hustles 2026, ai digital products, ai automation agency, ai voice agents, ai lead generation, n8n tutorial, passive income ai, free ai side hustles, make money online 2026, ai business ideas\n\nDisclaimer: This video is created for educational, motivational, and storytelling purposes only. The story, characters, names, and events may be fictional or creatively adapted to deliver a positive life lesson. The purpose of this content is to inspire discipline, consistency, self improvement, and personal growth. Results in real life may vary from person to person depending on effort, situation, mindset, and actions. \n\nADVICE: All content is for educational and entertainment purposes only. NOT financial, investment, legal, psychological, or professional advice of any kind. Always do your own research and consult a licensed professional before making any decisions.\n\n#AISideHustle #MakeMoneyOnline #AI2026 #PassiveIncome #ChatGPT SideHustles2026\n\n🧭 Stay Connected: 🔔 Subscribe for more videos on my channel (Digital learning, Motivation and Earning Opportunity) \n💬 Comment below: “I'm ready!” if you're serious about building your digital business \n📲 Follow for daily insights, motivation, and step-by-step guides Let's build your automated online empire — one system at a time",
-      "commentCount": 12,
-      "likeCount": 14,
+      "description": "",
+      "commentCount": 1,
+      "likeCount": 32,
+      "comments": [
+        {
+          "id": "UgyC73VZr2O08cHvEAt4AaABAg",
+          "author": "@bhargavavyas",
+          "text": "Data",
+          "likeCount": 0,
+          "publishedAt": "2026-08-17T17:41:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nVNaZkxE4ruT-IHsr1vQOSTceWa5sYH49CMt1VXkTwwtIL=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-17T17:53:53Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "x8wFbuVwxPo": {
+      "checkedAt": "2026-08-17T17:53:53Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀(Discount Link) Try Abacus AI Now - https://chatllm.abacus.ai/chsMZVmyzK\n\nHow to Sell Ebooks | Ebook Selling | Ebook Business | Sell Ebooks Online | Make Money with Digital Products | Create and Sell Ebooks | Digital Products | Digital Product Business | Sell Digital Products | Make Money Online India | Passive Income India | Ebook Income | Vornix | Abacus AI | YouTube Automation | Instagram Automation | Make money as a student\n\nIn this video, I’m showing you the exact process I used to build an automated ebook business and earn my first ₹1 Lakh from scratch. If you’ve been looking for a realistic way to start a digital business or make money online in 2026 without a massive upfront investment, this is for you.\n\nI’ll walk you through using Abacus AI for content generation, designing a professional ebook, and the strategy I used to scale my sales—all while keeping it a side project.\n\nI’ll also show you how I used Abacus AI / ChatLLM to speed up the ebook creation process and turn an idea into a complete digital product without a huge upfront investment.\n\n🛠️ RESOURCES MENTIONED:\n\n    Try Abacus AI Now - https://chatllm.abacus.ai/chsMZVmyzK\n    AI Book Creator Prompt: https://discord.gg/VsxYanVWSA\n    Instagram: https://www.instagram.com/vornixx__/?hl=en\n    Free Discord Community: https://discord.gg/VsxYanVWSA\n    For Business / Sponsor / Promotion: Email - vornix10@gmail.com\n\nChapters: \n0:00 - Intro\n0:35 - Why Most Ebook Businesses Fail \n1:05 - The Secret Tool: ChatLLM (Abacus AI) \n1:35 - Step 1: Finding a Viral Problem to Solve \n2:15 - Step 2: Training the AI to be Your Author \n3:40 - Results: My 45-Page Ebook Reveal \n4:15 - Step 3: Creating a Professional Book Cover \n4:50 - Step 4: Making Viral Ads for Your Ebook\n\nMake sure to like, share, and subscribe :)\nSee you in the next one\n\nKeywords:\nMake money from Ebook business\nHow to write an ebook with AI\nPassive income ideas 2026\nAbacus AI ChatLLM tutorial\nEbook marketing strategy\nProfitable ebook niches\nOnline business for beginners\nEarn ₹1 Lakh online as a student\nHow to make money with digital products\n\n#abacusai  #ebookbusiness  #makemoneyonline  #passiveincome  #ai   #digitalmarketing  #sidehustle  #onlinebusiness #youtubeautomation #aiautomation",
+      "commentCount": 8,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "bPbWe0otSLU": {
+      "checkedAt": "2026-08-17T17:53:53Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI marketing is changing — but using AI to create more content isn't enough.\n\nIn this Vimas Tech episode, we explore why many businesses are struggling to get real results from AI marketing. The problem isn't always the AI model or the marketing tool. Often, the real problem is the marketing system behind the AI.\n\nA business can generate hundreds of posts, emails, advertisements and videos with AI, yet see little improvement in qualified leads or sales.\n\nSo what should businesses do instead?\n\nIn this video, we explain a simple, practical approach to building an AI-powered marketing system:\n\n✅ Define your target customer\n✅ Identify what makes a qualified lead\n✅ Define a real conversion\n✅ Start with one narrow workflow\n✅ Use AI to automate repetitive work\n✅ Keep human review during the early stages\n✅ Test AI against your existing process\n✅ Measure business results instead of vanity metrics\n✅ Improve the workflow before scaling it\n\nWe also use a simple real-world example to show how AI can help with lead scoring and marketing automation without requiring a company to automate everything at once.\n\nThe key message is simple:\n\nDon't use AI just to create more marketing. Use AI to build a better marketing operation.\n\nThis video is useful for small-business owners, digital marketers, managers, students, entrepreneurs and professionals who want to understand how AI can create measurable business value.\n\nThis is Episode 1 of the Vimas Tech AI Marketing Operating System series.\n\nComing next:\n\nEpisode 2 — Why Your AI Marketing Fails Without Customer Segmentation\n\nSubscribe to Vimas Tech for practical AI, automation, digital transformation and business technology strategies.\n#AIMarketing\n#DigitalMarketing\n#MarketingAutomation\n#ArtificialIntelligence\n#AIForBusiness\n#AIAutomation\n#DigitalTransformation\n#MarketingStrategy\n#SmallBusiness\n#SmallBusinessMarketing\n#AIForMarketing\n#MarketingAI\n#LeadGeneration\n#LeadScoring\n#CustomerSegmentation\n#BusinessAutomation\n#AITools\n#FutureOfMarketing\n#DigitalBusiness\n#VimasTech",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "Wt-yqO1gLOI": {
+      "checkedAt": "2026-08-17T17:53:53Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "DON’T Learn AI & Digital Marketing… Until You Watch This! 🤯\n\nWelcome to Sojar AI — your new destination to learn AI, Digital Marketing, AI Tools, Automation, Content Creation, and the skills of the future.\n\nAI is changing the way we work, create content, build businesses, market products, and earn online. And this is just the beginning.\n\nOn this channel, you'll learn AI and Digital Marketing from the basics, even if you're a complete beginner.\n\n🔥 What you'll learn on this channel:\n\nArtificial Intelligence (AI) for beginners\nHow to use AI tools effectively\nChatGPT & Generative AI\nAI for business and productivity\nAI content creation\nDigital Marketing\nSocial Media Marketing\nSEO & Google Marketing\nMeta/Facebook & Instagram Ads\nContent Marketing\nAI automation\nPersonal branding\nOnline business & freelancing skills\nPractical AI & marketing strategies\nWhether you're a student, creator, freelancer, entrepreneur, business owner, or someone who simply wants to learn AI, this channel is built to help you understand these skills in a simple and practical way.\n\nThis isn't just about learning AI. It's about learning how to USE AI.\n\nSubscribe to Sojar AI and start building the skills that can shape your future. 🚀\n👉 Subscribe now and join the journey.\n\n#AI #ArtificialIntelligence #DigitalMarketing #AITools #ChatGPT #LearnAI #DigitalMarketingTips #GenerativeAI #AIAutomation #ContentCreation #SEO #SocialMediaMarketing #SojarAI\n\n🔎 Keywords naturally covered\nlearn AI, AI for beginners, artificial intelligence, digital marketing, learn digital marketing, AI tools, ChatGPT, generative AI, AI automation, content creation, SEO, social media marketing, digital marketing course, AI course, AI skills, digital marketing skills, AI for business, online business, freelancing, future skills.",
+      "commentCount": 1,
+      "likeCount": 8,
+      "probeClient": "web_embedded"
+    },
+    "ftZAvPw_XVs": {
+      "checkedAt": "2026-08-17T17:53:53Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "MailChimp Tutorial For Beginners 2026\n🔥 The Hottest Tools For Growing Your Digital Business\n🎁 Free Gift 👉 https://www.marketingisl.com/tools\n\n\n\n\n👋 Hey there. Thanks for checking out my MailChimp Tutorial video. Here's what I'll be covering for you.\n\n🏝️ MailChimp Tutorial: A practical walkthrough of the core tools inside MailChimp and how everything works together. We’ll cover setting up your audience, collecting subscribers with a landing page, creating an automated email, and sending a newsletter.\n\n🏝️ MailChimp Tutorial For Beginners: A beginner-friendly guide focused on the fundamentals you actually need to get started. We’ll go step by step from adding your first contacts to building your list, setting up automation, and sending your first email campaign.\n\n🔍 If this video helps you out, consider giving it a like. It's like tossing a message in a bottle it helps more marketers like you find their way here.\n\n🔗 Affiliate Disclaimer: Should you make a purchase through any of my links, I might earn a commission at no extra cost to you. This helps support my channel and keeps the waves of helpful content coming your way.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "63JTLYKBqCM": {
+      "checkedAt": "2026-08-17T17:53:53Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Kickstart AI Digital Business | Full Support & Handholding | Build in Just 10 Days\n\nEnroll Now - https://hub.digitalcoachbusiness.com/ksdcb\n\n\n.\n.\nWelcome to Digital Coach Business Mentor!\nIf you want to build a profitable Digital Coaching Business, attract high-quality clients, and create multiple income streams using your knowledge, you're in the right place.\nOn this channel, you'll learn Digital Marketing, Personal Branding, AI Tools, YouTube Growth, Sales Funnels, Email Marketing, WhatsApp Automation, SEO, High-Ticket Sales, and Business Automation.\nEvery video is practical, actionable, and designed to help Coaches, Trainers, Consultants, Experts, Authors, Speakers, and Knowledge Entrepreneurs grow faster.\n👉 Subscribe now and start building your Digital Coach Business with proven strategies.\nJai Sanatan | Vande Mataram\n#DigitalCoach #KnowledgeBusiness #PersonalBranding #DigitalMarketing #BusinessGrowth",
+      "commentCount": 1,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

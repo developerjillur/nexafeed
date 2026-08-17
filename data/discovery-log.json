@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T16:53:47Z",
+  "updatedAt": "2026-08-17T17:53:53Z",
   "items": [
+    {
+      "id": "K8z_pZNl_Fw",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-17T17:04:02Z",
+      "firstSeenAt": "2026-08-17T17:53:53Z"
+    },
+    {
+      "id": "x8wFbuVwxPo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vornix",
+      "publishedAt": "2026-08-17T17:05:53Z",
+      "firstSeenAt": "2026-08-17T17:53:53Z"
+    },
+    {
+      "id": "bPbWe0otSLU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vimas Tech",
+      "publishedAt": "2026-08-17T13:53:53Z",
+      "firstSeenAt": "2026-08-17T17:53:53Z"
+    },
+    {
+      "id": "Wt-yqO1gLOI",
+      "type": "short",
+      "source": "secondary",
+      "channel": "CEO Aashish",
+      "publishedAt": "2026-08-17T13:53:53Z",
+      "firstSeenAt": "2026-08-17T17:53:53Z"
+    },
+    {
+      "id": "ftZAvPw_XVs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Marketing Island",
+      "publishedAt": "2026-08-17T11:53:53Z",
+      "firstSeenAt": "2026-08-17T17:53:53Z"
+    },
+    {
+      "id": "63JTLYKBqCM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sunil Chaudhary | Tandavacharya",
+      "publishedAt": "2026-08-17T07:53:53Z",
+      "firstSeenAt": "2026-08-17T17:53:53Z"
+    },
     {
       "id": "o5noOFX-nNc",
       "type": "long",
@@ -16861,6 +16909,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-17T17:53:53Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
