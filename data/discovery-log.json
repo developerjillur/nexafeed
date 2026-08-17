@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T08:53:38Z",
+  "updatedAt": "2026-08-17T09:53:44Z",
   "items": [
+    {
+      "id": "QVCi-y7d2Uw",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Rahul Patil",
+      "publishedAt": "2026-08-17T05:53:44Z",
+      "firstSeenAt": "2026-08-17T09:53:44Z"
+    },
+    {
+      "id": "nbdrWMijI_0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Career Accelerator",
+      "publishedAt": "2026-08-17T03:53:44Z",
+      "firstSeenAt": "2026-08-17T09:53:44Z"
+    },
+    {
+      "id": "qk1wYogAjKk",
+      "type": "short",
+      "source": "secondary",
+      "channel": "AI Tools & Tutorials",
+      "publishedAt": "2026-08-17T02:53:44Z",
+      "firstSeenAt": "2026-08-17T09:53:44Z"
+    },
     {
       "id": "XV2PAHWnJN0",
       "type": "long",
@@ -16469,6 +16493,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-17T09:53:44Z",
+      "new": 3,
+      "long": 1,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
