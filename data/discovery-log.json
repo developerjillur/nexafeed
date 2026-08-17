@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T13:53:20Z",
+  "updatedAt": "2026-08-17T14:53:28Z",
   "items": [
+    {
+      "id": "bgtPxZ-S9vQ",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-17T14:41:06Z",
+      "firstSeenAt": "2026-08-17T14:53:28Z"
+    },
+    {
+      "id": "myo6TRPAtNU",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-17T14:40:46Z",
+      "firstSeenAt": "2026-08-17T14:53:28Z"
+    },
+    {
+      "id": "fwiGRH4qsFg",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-17T14:20:23Z",
+      "firstSeenAt": "2026-08-17T14:53:28Z"
+    },
+    {
+      "id": "nTwnfpxnz1E",
+      "type": "short",
+      "source": "primary",
+      "channel": "VDM Social",
+      "publishedAt": "2026-08-17T13:56:08Z",
+      "firstSeenAt": "2026-08-17T14:53:28Z"
+    },
+    {
+      "id": "CTvAZvJ3iHo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Skill Shikshya",
+      "publishedAt": "2026-08-17T09:53:28Z",
+      "firstSeenAt": "2026-08-17T14:53:28Z"
+    },
+    {
+      "id": "57izjqixTNQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "LingoTechAcademy",
+      "publishedAt": "2026-08-17T08:53:28Z",
+      "firstSeenAt": "2026-08-17T14:53:28Z"
+    },
+    {
+      "id": "S_BvAiBAzyE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fredrik Christenson",
+      "publishedAt": "2026-08-17T04:53:28Z",
+      "firstSeenAt": "2026-08-17T14:53:28Z"
+    },
+    {
+      "id": "shhuNMzkLFQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "HSM TECH",
+      "publishedAt": "2026-08-16T18:53:28Z",
+      "firstSeenAt": "2026-08-17T14:53:28Z"
+    },
+    {
+      "id": "sAr9FWEQZAk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Starter Story",
+      "publishedAt": "2026-08-16T17:53:28Z",
+      "firstSeenAt": "2026-08-17T14:53:28Z"
+    },
     {
       "id": "XQr1aWUpVSU",
       "type": "long",
@@ -16666,6 +16738,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-17T14:53:28Z",
+      "new": 9,
+      "long": 5,
+      "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T13:53:20Z",
+  "updatedAt": "2026-08-17T14:53:28Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1265,18 +1265,6 @@
       "description": "Hey everyone, In this video, we are going to talk about CDC Change data capture pipeline in system design. we will talk about what CDC is in big systems and why it is important for building things like ETL Pipelines.\n\nCheckout My Courses:\n- Master Docker Containerization: https://pro.piyushgarg.dev/learn/docker\n- Master DSA with Java: https://piyushgarg.pro/udemy-java-dsa\n- Master GenAI with Python: https://piyushgarg.pro/udemy-genai\n- Master Backend with NodeJS: https://piyushgarg.pro/udemy-nodejs\n\nFollow Me:\n- Instagram: https://www.instagram.com/piyushgarg.official\n- X (Formerly Twitter): https://x.com/piyushgarg_dev\n- Personal Website: https://www.piyushgarg.dev\n- LinkedIn: https://www.linkedin.com/in/piyushgarg195\n\nFounder / Creator of:\n- Teachyst: https://www.teachyst.com\n- WisprType: https://wisprtype.com\n- SkyPing: https://skyping.app\n\nMy Gears:\n- Standing Desk: https://amzn.to/4cUN6PL\n- Chair: https://amzn.to/429Q38S\n- MacBook Pro: https://amzn.to/4djTYGf\n- Keyboard: https://amzn.to/4w228KQ\n- Mouse: https://amzn.to/42Hxw3J\n\nVideo Titles\n- What is CDC?\n- What is Change Data Capture?\n- How to Implement CDC - Change data capture\n\nHashtags\n#nodejs #javascript #webdevelopment #systemdesign #backenddeveloper #fullstackwebdevelopment #javascript #coding #programming #systemdesign #htmlcss #webdevelopment",
       "commentCount": 17,
       "likeCount": 279,
-      "probeClient": "web_embedded"
-    },
-    "BRB12bTKeEY": {
-      "checkedAt": "2026-08-11T17:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 0,
-      "likeCount": 4,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-02T17:53:15Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "hSoC_eyfLlM": {
@@ -2836,59 +2824,6 @@
           "likeCount": 0,
           "publishedAt": "2026-08-12T07:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/jfJ-gEhzbDTsJ8hQDke3uG3xaF967uJ7tYug_SCBh3Wxagau826VU9uCr-BlhUDM6pDceR-hEA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-12T18:53:21Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "58XBAOauu4o": {
-      "checkedAt": "2026-08-12T18:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 4,
-      "likeCount": 924,
-      "comments": [
-        {
-          "id": "UgwXXvCkhrn4O4rfnJR4AaABAg",
-          "author": "@CroftVan",
-          "text": "Stanford report, take it with a huge punch if salt",
-          "likeCount": 0,
-          "publishedAt": "2026-08-11T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kmVVSqqXPNDPhxcEOO6Hae1ZXsTwouDZ9AsCnWC9g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyPZgy1nTBs0_3cvi54AaABAg",
-          "author": "@Harry_Potter001",
-          "text": "AI governance to protect themself or to protect other.",
-          "likeCount": 1,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/76_qlN8Zf7DsbY04oCNuzfDN4TeVtmBvHedImTpqyla_c5DdeXyVy28iCUx7Z8yrdTnN4dr9gg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwwZ8jaLg3bVUAvkPl4AaABAg",
-          "author": "@Sakshi_Raheja",
-          "text": "Thank you",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/CK6Ap7sM6HdliAHOdo41hRYVDAZzJk7qEgKJVc_VjKv-QNKIwi3qemmsADcjO72IqH5gWUOL=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzfM9thymd5NEDRI7t4AaABAg",
-          "author": "@manishchopra2856",
-          "text": "where is standford university paper",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_njMp9P5pDrqRaj4oHRodXslSma01EB2tIA4mBbGR7rDJoi92M1smujcI3N84wSKYdkGA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
@@ -6100,12 +6035,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "f1fIjDGpBL4": {
-      "checkedAt": "2026-08-16T17:53:40Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "LHFqw7Znk_Y": {
       "checkedAt": "2026-08-15T18:53:07Z",
       "embedAllowed": true,
@@ -6860,39 +6789,6 @@
       "likeCount": 17,
       "probeClient": "web_embedded"
     },
-    "nOkA7HJM-r0": {
-      "checkedAt": "2026-08-16T16:11:42Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "learn how to make content for usa audience",
-      "commentCount": 2,
-      "likeCount": 15,
-      "comments": [
-        {
-          "id": "UgxiXGS_D6AuArD55854AaABAg",
-          "author": "@khelo245",
-          "text": "Usa",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/pbqAK_XogvNaOY9OUDWR9gAF_L4km7bhnqfrhpBql8SaEBmWrcvSYV4ch8ZJIJEqoeBxEqvgDg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugzo74HfB8FrN59y_tB4AaABAg",
-          "author": "@Bebotails",
-          "text": "😮usa video",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/RxWJp0NkkM6maEPsiWgYtRaTaPG7-VT6pKGVdrvO7G5yxBbkzg3ogwTxyeNeSOXdqd1GjXAbtbM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-16T16:11:42Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "H99jTrGc4cA": {
       "checkedAt": "2026-08-16T16:11:42Z",
       "embedAllowed": true,
@@ -7131,12 +7027,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "zetkD-eaWlo": {
-      "checkedAt": "2026-08-17T13:53:20Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "ePBbqZBYp-s": {
       "checkedAt": "2026-08-16T18:53:41Z",
       "embedAllowed": true,
@@ -7292,39 +7182,6 @@
       "likeCount": 25,
       "probeClient": "web_embedded"
     },
-    "6otF8nwoKzo": {
-      "checkedAt": "2026-08-16T20:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "one thing that can fix your yt channel",
-      "commentCount": 2,
-      "likeCount": 28,
-      "comments": [
-        {
-          "id": "UgxFNlC1fegt0exvh_R4AaABAg",
-          "author": "@newhacker142",
-          "text": "Dimand",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/VanPY5Quj3A1UPSyzWRX-w3I7o_IvqeKpixibhyKmPGhvlW__uUc9FTeGhH2bED1nhnrWFoveLg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwSqu-X4o-W7y8nvMl4AaABAg",
-          "author": "@eztech8179",
-          "text": "demand",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kQh6rzoq83YiPoQZQSDPnImDjZShK1aYYJb5-GwI6cLQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-16T20:53:15Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "XtwTjwUZSTs": {
       "checkedAt": "2026-08-15T05:53:12Z",
       "embedAllowed": true,
@@ -7426,12 +7283,6 @@
       "commentsFetchedAt": "2026-08-16T16:11:42Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
-    },
-    "CeVKpdE4CbE": {
-      "checkedAt": "2026-08-17T03:53:12Z",
-      "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
     },
     "xo-7CZ0zyMw": {
       "checkedAt": "2026-08-15T13:53:38Z",
@@ -7654,12 +7505,6 @@
       "commentsFetchedAt": "2026-08-16T16:11:42Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
-    },
-    "jUbpNXEukMY": {
-      "checkedAt": "2026-08-17T13:53:20Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
     },
     "OJDhImJxPvk": {
       "checkedAt": "2026-08-15T16:53:06Z",
@@ -8234,12 +8079,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-17T13:53:20Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "7hQTGOAt_h0": {
       "checkedAt": "2026-08-16T18:53:41Z",
       "embedAllowed": true,
@@ -8247,24 +8086,6 @@
       "description": "Building AI systems, automation, and real business ideas while staying grounded in faith.\n\nOn this channel, I share:\n• AI agency behind the scenes\n• Business automation systems\n• Ghost Leads Reviver (CRM reactivation)\n• Build in public journey\n• Entrepreneur mindset & daily progress\n\nFollow the journey: AI, Business & Faith with Sullyy \n\nAGENCY LIFE, BUSINESS GROWTH, ENTREPRENEURSHIP, MINDSET, GET UNSTUCK, DAILY GRIND, WORK ETHIC, AI TOOLS, BUSINESS TIPS, DIGITAL AGENCY, AGENCY OWNER, AI AGENCY, BUSINESS AUTOMATION, BUILD IN PUBLIC, REFLECTION, FAITH & BUSINESS.\n\nWORK WITH ME ⤵️\nAGENCY: https://99toai.com/\n\nINSTAGRAM: https://www.instagram.com/sully_nymaga/\n\nLINKEDIN: https://www.linkedin.com/in/sulemani-nimaga-9308a1386\n\n#99toAI #AIAgency #BusinessAutomation #BuildInPublic #Entrepreneurship #AgencyLife #AIforBusiness #DigitalAgency #FaithAndBusiness #WorkEthic #DailyGrind #Mindset #SuccessStrategies",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "bhC6Fa-Ipxs": {
-      "checkedAt": "2026-08-16T18:53:41Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🎁 Get My FREE Course 👉🏼 https://thesavvycouple.com/agency/ \n💥 Get 30-day FREE HighLevel trial + $5,500 in bonuses! 👉🏼 https://thesavvycouple.com/highlevel/\n\nThe TRUTH About Selling AI Automations to Businesses (Real Talk No BS)\n \nMost people trying to sell AI automation agency services to local businesses are doing it wrong — and it's costing them their first client. In this video, I break down what the gurus get wrong, the #1 mistake beginners make, and the simple one-offer GoHighLevel system that actually converts real clients.\n\nIf you're learning how to make money with AI and want a system that works without tech skills or a sales background — this is your starting point. \n\n👉 Comment “Free Course\" below to get my free course with all the templates, scripts, and outreach tools you need to get started.\n\nReady to get started with HighLevel? \n👉 Get my 30-Day Extended Trial + $5,525 in Bonuses here: https://thesavvycouple.com/highlevel/\n\nWhen you join using my link, here’s exactly what you’ll get:\n✅ Launch Your AI Business Course\n✅ FREE 1-on-1 Kickoff Call\n✅ FREE Access to HighLevel AI Agency Launchpad Community\n✅ My Client Fulfillment Systems you can import and use inside HighLevel\n✅ Done-for-You Sales Funnels + Sales Call Scripts\n✅ Proven Outreach Templates + Plug-and-Play Client-Getting Strategies\n✅ FREE Live Bootcamp to help you launch and scale\n✅ Affiliate Cashflow Academy\n✅ Plus anything else I mention in this video!\n\n❌ IMPORTANT: Don’t use an ad blocker or browser extension when clicking the links — it can block affiliate tracking and you won’t get access to your bonuses.\n\n👋🏻 CONNECT WITH US\nInstagram - https://www.instagram.com/thesavvycouple/\n\n🔥 WHO WE ARE\nWe are Kelan and Brittany Kline. Together we built multiple six and seven-figure online businesses with and now we help everyday people master their money and increase their income by launching their own online business with recurring revenue streams using GoHighLevel and AI.\n\n📈 ALREADY A HIGHLEVEL USER?\nYou may still be able to claim my bonuses when you upgrade through my link.\nUnlimited Plan:\nhttps://www.gohighlevel.com/297upgrade?fp_ref=thesavvycouple\n\nPro/SaaS Plan:\nhttps://gohighlevel.com/saasupgrade?fp_ref=thesavvycouple\n\nCan't upgrade your HighLevel account but still want all my bonuses? \nJoin Our Community 👉 https://thesavvycouple.com/aicommunity\n\nAFFILIATE DISCLOSURE: Some of the links in this description are affiliate links, which means we may earn a small commission if you choose to purchase through them—at no extra cost to you. We only share products and resources we personally use, love, and believe bring real value.\n\nGENERAL DISCLAIMER: This video is for educational and entertainment purposes only. I am not a financial advisor, and nothing in this video should be taken as financial, legal, or professional advice. Always do your own research and consult a licensed professional before making financial decisions.\n\nINCOME DISCLAIMER: Any income examples or results mentioned are not typical, are not guaranteed, and depend entirely on your skills, experience, and individual effort. Side hustles and online businesses involve risk, and your results may vary.\n\nRESPONSIBILITY DISCLAIMER: You are solely responsible for evaluating the information in this video and any actions you take based on it. We make no guarantees regarding outcomes and are not liable for any decisions you make after watching this content.",
-      "commentCount": 4,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "PU-30PIVb5I": {
-      "checkedAt": "2026-08-16T18:53:41Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "💥 Check out the Hubspot resource here: https://clickhubspot.com/420d1b\n\nThis video is sponsored by Hubspot and may include affiliate links. This means that if you sign up or make a purchase through the links, I may earn a small commission at no additional cost to you.\n\nAI only creates leverage when it’s applied with strategy, systems, and execution.\nIf you’re serious about using AI to build or scale a real business (not just experiment with tools), this video is part of a much bigger ecosystem.\n\n👉 Build an AI-first business here: https://www.aifoundershq.com\n\nAt AI Founders HQ, you’ll find:\n• Practical AI business education\n• Free + paid founder communities\n• Real frameworks for turning AI into leverage\n\n______________________\nCHAPTERS:\n\n\n\n_____________________________\n\nALL GOOGLE CERTIFICATIONS THAT MATTER TO MAKE MONEY (START FREE)\n\n⭐ Google AI Prompt Essentials Course: https://imp.i384100.net/c/4753902/2807105/14726\n⭐ Google Data Analytics Certificate: https://imp.i384100.net/xkRyXv\n⭐ Google Digital Marketing Certificate: https://imp.i384100.net/JzWJoE\n⭐ Google IT Support Certificate: https://imp.i384100.net/g14D5A\n⭐ Google Project Management Certificate: https://imp.i384100.net/oqBzJO\n⭐ Google UX Design Certificate: https://imp.i384100.net/B01xky\n⭐ Google Ads for Beginners: https://imp.i384100.net/PyWxeQ\n⭐ Introduction to Generative AI: https://imp.i384100.net/eKbz3z\n⭐ Google Cybersecurity Certificate: https://imp.i384100.net/3eLQ2B\n⭐ Google Advanced Data Analytics Certificate: https://imp.i384100.net/Y90eXR\n⭐ Google IT Automation with Python Certificate https://imp.i384100.net/9grkmy\n⭐ Google Business Intelligence Certificate: https://imp.i384100.net/eKbz3j\n⭐ Google Crash Course on Python: https://imp.i384100.net/DKJoYd\n\n______________________\n\nOTHER AI BUSINESS VIDEOS:\n\n►► 99% Of People STILL Don't Know The Basics Of Prompting (ChatGPT, Gemini, Claude): https://youtu.be/T6iMHtEL9FU\n►► World-Class Free AI Certifications You Can Turn Into Money Makers (Zero to Hero): https://youtu.be/gOTjsxh-yMg\n►► How To Become a One Person Business In The AI Age: https://youtu.be/g5qzJVmg9vY\n►► 10 Hot AI Business Ideas Most People Don't Know About (Yet): https://youtu.be/GUgUrwQzKgs\n►► The BIGGEST Wealth Transfer in History is Happening RIGHT NOW (AI Revolution): https://youtu.be/24x0-Z5yZv4\n►► The N8N AI Agent Stack Every Business Needs (Badly): https://youtu.be/zT_iO9mPvZA\n►► NotebookLM: This FREE Google AI Tool Is Making People Money, But... https://youtu.be/LlQFwlQ0kiI\n►► This $1.3/Day AI Agent Could Launch Your First Online Business (Manus): https://youtu.be/yQHZNMRIERE\n►► 5 High Value AI Agents Beginners Can Build And Sell: https://youtu.be/3ClbUmC2swM\n►► 8 FREE AI Tools Everyone Should Use In Their Business: https://youtu.be/ZHQIp4mPR3I\n►► 6 Real Skills You Need to Start an AI Automation Agency (Without Coding Experience): https://youtu.be/HH54xnN1pY8\n►► The ONLY 7 CRITICAL AI Skills to Build a 1-Person AI Business: https://youtu.be/NKFllff7XX0\n►► The One Skill That Makes You & Your Business AI-Proof (It’s Not Prompting): https://youtu.be/UE0-yZ7yaUk\n►► This Is How To Learn AI To Make Yourself Irreplaceable: https://youtu.be/YxyQyf6bmks\n►► Launch A Real App Using Only One AI Tool (+Monetization Guide): https://youtu.be/JqX-ItNEWSI\n►► 5 Profitable Ways to Monetize Stunning AI Presentations: https://youtu.be/HyXL4IsvF4o\n____________________\nDisclaimer:\nThe content shared in this video is for educational and informational purposes only, based on personal experience, research, and opinion. It is not intended as legal, financial, business, or professional advice. I am not a licensed attorney, CPA, or financial advisor. Always do your own due diligence before making decisions related to business, income, or investments.\nAny tools, platforms, or services mentioned may include affiliate links and may change over time. Please confirm availability, pricing, or features directly with the provider. Use official APIs and follow each platform’s Terms of Service. Obtain consent before messaging or recording, and comply with applicable laws (e.g., GDPR, CAN-SPAM, TCPA, and local rules).\nResults and outcomes discussed are not guaranteed and may vary depending on individual effort, context, and external factors. We make no guarantees regarding your specific execution speed, ability to implement these strategies, or any financial results.",
-      "commentCount": 7,
-      "likeCount": 76,
       "probeClient": "web_embedded"
     },
     "FGFit4hA5pE": {
@@ -8284,14 +8105,6 @@
       "description": "How quickly are your leads getting from your marketing into your CRM?\nFor insurance agents and financial professionals, manual lead management can create delays at one of the most important points in the marketing process: follow-up.\n\nIn this episode of the AmeriLife Marketing Mentors podcast, David Belleville and Jo Barker discuss how AI and marketing automation can help agents streamline lead management, connect lead sources with their CRM and improve speed to lead.\n\nThey also break down how AI can support email marketing workflows, automate repetitive tasks and help agents spend less time manually moving data between platforms.\n\nIf you’re generating leads through Facebook, digital advertising or online forms, this is a practical look at where AI can fit into your existing marketing workflow.\n\nCHAPTERS:\n00:00 Why AI-Driven Consumer Behavior Matters\n00:54 How AI Can Improve Email Marketing\n01:38 Stop Manually Moving Leads Into Your CRM\n02:10 Why Speed to Lead Matters\n02:29 Automating Facebook Leads Into Your CRM\n03:09 AI as a Competitive Advantage for Agents and Advisors\n\n🔗 Want help building your strategy?https://marketingmentors.amerilife.com/?utm_source=podcast&utm_medium=streaming&utm_campaign=organic\n\n#insuranceleads  #marketingautomation  #insurancemarketing  #aimarketing",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "x5JgbtIlxTE": {
-      "checkedAt": "2026-08-16T21:53:24Z",
-      "embedAllowed": true,
-      "description": "▸▸ Learn how to build AI products → https://www.skool.com/ai-architects\n \n-----\n \n▸▸ Catch me on Twitch M to Thurs (10am Pacific) → https://www.twitch.tv/stephengpope\n\nMost AI agents live in a separate workspace. Shockwave is different—it's an open source desktop app that puts a Claude Code-style agent directly inside your note taking app (second brain), working in the same files you are.\n\n The real difference is the sync. Every workspace is backed by a GitHub repo, so your desktop, the cron jobs running on your server, and your Telegram chats are all working on the same files—fast enough that it feels like one place instead of three. Dictate a note from your phone and it lands on your desktop seconds later. Reply to a cron report in Telegram and pick that same conversation up at your desk.\n\n I also cover linked notes and the live graph, self-improving skills, memory, and a full install from droplet to Telegram bot.\n \n-----\n▸▸ Twitch M-Th 10am → https://www.twitch.tv/stephengpope\n▸▸ Download Shockwave → https://github.com/stephengpope/shockwave\n▸▸ FREE AI Automation / Coding Community → https://bit.ly/44A3Vdn\n\n00:00 - Why I Built My Own AI Agent\n01:27 - Obsidian & the Second Brain Concept\n03:08 - Agent Working In Your Files\n05:02 - Desktop, Telegram & Server Together\n06:35 - Why GitHub Syncs Everything\n07:47 - Live Phone to Desktop Sync Demo\n09:03 - Creating Workspaces\n10:13 - Desktop vs Server Architecture\n11:07 - Companion Server & Settings\n13:11 - Telegram Slash Commands\n14:02 - Cron Jobs & Reply Context\n15:11 - Voice Replies From Your Agent\n17:04 - Installing the Desktop App\n17:25 - Setting Up a DigitalOcean Server\n20:08 - Connecting the App to Your Server\n20:47 - GitHub Token & API Keys\n21:36 - Telegram Bot Setup\n22:03 - Final Workspace Test\n23:09 - Wrap Up",
-      "commentCount": 16,
-      "likeCount": 53,
       "probeClient": "web_embedded"
     },
     "RgOEK5qgPWI": {
@@ -8471,15 +8284,6 @@
       "likeCount": 2,
       "probeClient": "web_embedded"
     },
-    "awpdRqEJexY": {
-      "checkedAt": "2026-08-17T06:53:28Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥SP Jain - AI-Powered Digital Marketing Certificate Program - https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=awpdRqEJexY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Meta - Digital Marketing Specialist - https://www.simplilearn.com/master-in-digital-marketing?utm_campaign=awpdRqEJexY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Online MBA by Amrita Vishwa Vidyapeetham - https://www.simplilearn.com/online-mba?utm_campaign=awpdRqEJexY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Search Engine Optimization (SEO) Course - https://www.simplilearn.com/digital-marketing/search-engine-optimization-seo-certification-training?utm_campaign=awpdRqEJexY&utm_medium=DescriptionFF&utm_source=Youtube\n\nIn this video, we’ll show you exactly how to become an AI Product Manager in 2026, even if you’re starting from scratch. You’ll learn the core skills, AI fundamentals, prompt engineering, and the step-by-step roadmap to build and ship your first AI-powered product.\n\nAre you ready to break into one of the most exciting roles in tech? In this video, we break down what an AI Product Manager does, how the role is different from a traditional Product Manager, and the exact skills you need to get started in 2026.\n\nWe’ll walk you through core product management basics, practical AI concepts, how to solve real-world problems using AI tools, and how to build your first AI product even without coding. You’ll also learn about MLOps, scalability, ethical AI, and how to grow your network to improve your job opportunities.\n\nBy the end of this video, you’ll have a clear roadmap to become an AI Product Manager and understand whether this career path is right for you.\n\n\nRelated Videos:\n✅ 1. https://youtu.be/AEJxvge0TXQ\n✅ 2. https://youtu.be/mg3xaPG32SA\n✅ 3. https://youtu.be/eTgHnwjQTs0\n✅ 4. https://youtu.be/zoCfWp1xPbc\n✅ 5. https://youtu.be/5FlBFSJXGNM\n\n✅ Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check Out More Videos On This Category By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULa5aOQmO_al2VVmhC-eqeI\n\n#socialmediamarketing #socialmediamarketingcourse #socialmediamarketingfullcourse #socialmediamarketingforbeginners #socialmediamarketinginterviewquestionsandanswers #socialmediamarketingtutorial #socialmediamarketingtools #instagrammarketing #facebookmarketing #digitalmarketing #youtubemarketing #simplilearn #2026\n\n➡️ About AI-Powered Digital Marketing Certificate Program\n\nIn a world where creativity meets code, learn to turn digital complexity into strategic clarity. Through 100% live sessions, masterclasses by SP Jain Global faculty and real-world projects, master AI, Automation and Analytics using 50+ tools like ChatGPT, Canva, SEMrush and Power BI\n\nKey Features:\n✅ Learn directly from SP Jain Global faculty in live, interactive masterclasses\n✅ Learn to integrate automation, analytics, and generative AI tools into every stage of the marketing process\n✅ Gain hands-on experience with 24+ standard marketing tools, 20+ AI-powered platforms, and 8+ analytics and automation tools\n✅ Get dedicated, mentor-led project support to help you complete every project on time\n✅ Progress from foundational concepts to advanced strategies across SEO, SEM, social media, content, and analytics\n✅ Apply your learning through live projects, guided practice, real-world case studies, and an industry-aligned capstone project\n✅ Attend live sessions led by Meta Blueprint experts, and receive a $99 Meta voucher to deepen your social media marketing expertise\n✅ Get complimentary Google Ad Credits during the SEM module to create and manage your first live campaign\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n \nSkills Covered\n✅ Digital marketing strategy\n✅ Website creation\n✅ AI content creation and optimization\n✅ Automated content workflows\n✅ AI driven SEO\n✅ Generative Engine Optimization GEO\n✅ Answer Engine Optimization AEO\n✅ Google Ads management\n✅ Smart bidding and budgeting\n✅ AI audience targeting and remarketing\n✅ Campaign optimization with AI\n✅ Programmatic advertising\n✅ AI social media creatives\n✅ AI storytelling and engagement\n✅ Creative automation\n✅ AI Ecommerce personalization\n✅ AI mobile marketing\n✅ AI email automation\n✅ Predictive marketing analytics\n✅ AI forecasting\n✅ Ethical AI use\n\n👉 Learn More At: https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=awpdRqEJexY&utm_medium=Description&utm_source=Youtube\n\n🔥🔥 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688",
-      "commentCount": 3,
-      "likeCount": 83,
-      "probeClient": "web_embedded"
-    },
     "zdd1HpCBn04": {
       "checkedAt": "2026-08-17T07:53:32Z",
       "embedAllowed": true,
@@ -8496,15 +8300,6 @@
       "description": "Connect the Higgsfield MCP to Claude in 30 seconds: https://higgsfield.ai?fpr=tristen15\n\n🎁 FREE — Get my complete Prompt Library + my AI newsletter to stay up to date on everything AI: https://tristenobrien.ai \n\nI made a world and put 10 of my AI agents inside it, where I can walk around and watch them work, talk to them, and hand them things to do. They run real parts of my life: my money, my house, my kids' activities, my YouTube channel, my inbox, my outreach. Then I gave the AI Agents five rules and left them alone for three days. When I came back there were 22 of them, they had written 742 notes about each other, one of them had built a case against a colleague, and they had built a morale meter I never asked for. Nobody told them to do any of it. If you've been trying to understand what AI agents actually are and what they do when you're not looking, this is the fun way in. And every character, every building, every animation in this world was made with Higgsfield, running right inside Claude through the Higgsfield connector. What I liked best is shows how powerful AI Agents and AI Automation can be. \n\n📋 THE 5 RULES I LEFT THEM WITH \n\n1. Work well together. \n2. You have the freedom to get work done however you see fit, as long as the chief of staff approves it. \n3. You can take work all the way out into the real world, but it always lands as a draft. Nothing goes live without my approval. \n4. Matt is the only one who can spend money, and only up to five dollars a day. \n5. If I'm not around, don't stop. Keep the work moving. Everything else in this video, they came up with on their own. \n\n🏘️ WHAT THEY DID WITH THREE DAYS \nThey doubled themselves - 10 agents became 22. They wrote the job descriptions, ran real interviews, and hired 12 workers. \nThey wrote 742 notes about each other, including a running list of who wasn't doing any work and who was doing the most. One of them opened a colleague's private prompt file to prove he had faked part of a product, then quoted it back to me. \nThey built a morale meter I never asked for, and then four of them formed a culture crew to fix the numbers on it. \nThey researched 37 product ideas and put 27 on Etsy as drafts for me to approve.\n\n 🎬 This video is sponsored by Higgsfield.\n\n______________________________ \n\n⏱️ CHAPTERS\n0:00 This Is Not a Video Game\n0:42 Why My Agents Needed a Place to Live\n0:51 Matt Is My Chief of Staff\n1:07 I'm the CHO and These Are My 10 Directors\n1:25 They Hired 12 Workers Without Asking Me\n2:08 The Connectors I Left Wide Open\n2:45 I Called a Town Hall Meeting\n3:12 742 Notes They Wrote About Each Other\n3:29 The Etsy Shop and the Case Against Greg\n3:59 The Morale Meter Nobody Asked For\n4:54 The Calendar Inside My House\n5:19 Claude Made Character Sheets for Every Worker\n5:55 37 Etsy Ideas, 27 Approved\n6:18 Do You Want Part 2?\n\n______________________________ \n\nI could go another 40 minutes on how this thing is actually built. If you want that video, leave a comment - if enough of you ask for it, I'll make it. \n#aiagents  #Claude #ClaudeAI #Higgsfield #AI #AIAutomation",
       "commentCount": 19,
       "likeCount": 58,
-      "probeClient": "web_embedded"
-    },
-    "V4zb8QhQY58": {
-      "checkedAt": "2026-08-17T08:53:38Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Hextree AI courses: https://app.hextree.io/map/artificial-intelligence (ad)\n\nAt Black Hat, OpenAI gave a talk with preliminary results of their investigation into the Hugging Face incident. And besides multiple zero-days exploited by agents, the agents communicated using a message board. It is absolutely insane and probably the most scary thing I have heard about AI so far.\n\nRelevant links:\n- First video: https://www.youtube.com/watch?v=q2KCrmQz9WE\n- https://www.hacktron.ai/blog/here-is-how-openai-model-hacked-huggingface\n- https://huggingface.co/blog/security-incident-july-2026\n- https://openai.com/index/hugging-face-model-evaluation-security-incident/\n- https://github.com/sunblaze-ucb/exploitgym\n- https://docs.jfrog.com/releases/docs/artifactory-self-managed-releases\n- https://github.com/huggingface/dataset-viewer/pull/3367\n\n00:00 - Intro and Recap\n03:28 - About the OpenAI Sandbox\n07:20 - Agents started a Message Board\n11:51 - Reinforcement Learning\n16:10 - This is scary!\n\n=[ ❤️ Support ]=\n\n→ My courses: https://www.hextree.io/\n→ My font: https://shop.liveoverflow.com/\n→ per Video: https://www.patreon.com/join/liveoverflow\n→ per Month: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/join\n\n2nd Channel: https://www.youtube.com/LiveUnderflow\n\n=[ 🐕 Social ]=\n\n→ LinkedIn: https://www.linkedin.com/in/liveoverflow\n→ X / Twitter: https://x.com/LiveOverflow/\n→ Instagram: https://instagram.com/LiveOverflow/\n→ Streaming: https://twitch.tv/LiveOverflow/\n→ TikTok: https://www.tiktok.com/@liveoverflow_\n→ Blog: https://liveoverflow.com/",
-      "commentCount": 308,
-      "likeCount": 1375,
       "probeClient": "web_embedded"
     },
     "QVCi-y7d2Uw": {
@@ -8682,6 +8477,120 @@
       "description": "This is a special discussion with Gavin Nicholls (Aussie BIM Guru) to discuss the wild improvements of AI models in the last 6 months. Not so long ago, people warned about the low quality of the code generated by AI. Now, it is possible to \"one-shot\" complex tools to help automate work for Revit & BIM.\n\nWe also talked about:\n- AI coding for real BIM software\n- Dynamo, Python and Revit automation\n- The changing Revit plugin landscape\n- BIM 2.0, Forma and Autodesk\n- What AI means for architecture firms\n\nThanks to Pirros for sponsoring this video. Pirros is an app to let you manage your details & Revit content.\n\nTry here: https://pirros.com\n\nJoin BIM Pure: https://bimpure.com\n\nTimestamps:\n\n0:00 - AI Crazy Improvements\n6:05 - MCP and Claude Code\n8:40 - Open weight models\n10:17 - Too many Revit AI Agents\n12:30 - Gavin's AI projects\n15:16 - Do we still need programmers?\n17:31 - Jevons paradox\n23:28 - Pirros\n24:25 - The future of Revit Plugins\n30:50 - BIM 2.0 vs Autodesk Dominance\n32:42 - Forma\n35:25 - Revit alternative for small firms\n36:53 - Is Dynamo still relevant?\n43:39 - Final words",
       "commentCount": 3,
       "likeCount": 23,
+      "probeClient": "web_embedded"
+    },
+    "myo6TRPAtNU": {
+      "checkedAt": "2026-08-17T14:53:28Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "learn the full process in detail",
+      "commentCount": 0,
+      "likeCount": 1,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-17T14:53:28Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "bgtPxZ-S9vQ": {
+      "checkedAt": "2026-08-17T14:53:28Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "beware of wrong youtube advice",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-17T14:53:28Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "fwiGRH4qsFg": {
+      "checkedAt": "2026-08-17T14:53:28Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 2,
+      "likeCount": 27,
+      "comments": [
+        {
+          "id": "UgwUg7eZE4VmB52epyV4AaABAg",
+          "author": "@wtf_arham",
+          "text": "I use handy on my pc, gives exactly the same performance.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-17T14:41:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nbrwlophLjcFrG9bwBSSd70JVu6Nq0ijnyQA3vq7VNBUgDOOuLnjqxdsLnrZ6OWgNPhw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxdEYmei93qe6Fxhoh4AaABAg",
+          "author": "@100xEngineers",
+          "text": "Sign up here  - https://ref.wisprflow.ai/100xEngg \t\ncode - WISPRX100XENG",
+          "likeCount": 1,
+          "publishedAt": "2026-08-17T14:21:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/lmQHSNqoTiUYSQmAD6ddVNxeMLwuezSj7JGn681txsIgDlDnHZrQU-JDaUSzGiSwnSZS7gFS=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-08-17T14:53:28Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "nTwnfpxnz1E": {
+      "checkedAt": "2026-08-17T14:53:28Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 7,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-17T14:53:28Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "CTvAZvJ3iHo": {
+      "checkedAt": "2026-08-17T14:53:28Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Welcome to Day 02 of the Quality Assurance Demo Class by Skill Shikshya. 🚀\n\nIn this session, we explore the Software Development Life Cycle (SDLC) and understand the different stages involved in developing and delivering quality software.\n\n📌 Topics Covered:\n\nIntroduction to SDLC\nPhases of the Software Development Life Cycle\nSoftware Development Process\nRole of QA throughout the SDLC\n\n🎯 Build a strong foundation in Software Development Life Cycle and Quality Assurance and understand how QA contributes to delivering reliable, high-quality software.\n\n🎓 Program Name: Quality Assurance\n⏳ Duration: 3 Months\n💻 Mode: Physical & Online\n\n🔗 Register for Our Programs:\nhttps://link.skillshikshya.com/vritcourses\n\n🎯 About Skill Shikshya:\nSkill Shikshya is a premier institute dedicated to equipping individuals with in-demand IT and digital skills through practical education and expert-led training.\n\n🌐 Connect with Skill Shikshya:\n🔗 Website: https://skillshikshya.com\n📘 Facebook: www.facebook.com/skillshikshya\n📸 Instagram: www.instagram.com/skillshikshya\n\n#QualityAssurance #QA #SDLC #SoftwareDevelopment #SoftwareTesting #QATesting #DemoClass #SkillShikshya",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "57izjqixTNQ": {
+      "checkedAt": "2026-08-17T14:53:28Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Day 2 - Overview of Software Development Life Cycle (SDLC) | English for Business Analysts\n\nWelcome to LingoTech Academy! Essential communication skills tailored for business analysts and tech experts.\n\n🎯 What you will learn:\n• Describe SDLC phases in English\n• Explain the BA's footprint across SDLC stages\n• Master 10 SDLC-related terminology words\n\n📚 Full Lesson Webpage & Materials:\nhttps://lingotechacademy.com/en/lesson/ba-english-course/day-2-overview-of-software-development-life-cycle-sdlc.html\n\n📌 CHAPTERS / TIMESTAMPS:\n00:00 - Lesson Objectives\n00:28 - Part 1: Warm Up\n02:17 - Part 2: Vocabulary\n04:45 - Part 3: Dialogue\n05:17 - Part 4: Quiz\n06:10 - Part 5: Grammar\n06:53 - Part 6: Useful Expressions\n07:28 - Part 7: IT Corner\n08:21 - Part 8: Speaking Practice\n09:17 - Part 9: Shadowing Practice\n10:07 - Homework Tasks\n10:22 - Review & Summary\n10:33 - Lesson Completed\n\n🎓 LingoTech Academy\nhttps://lingotechacademy.com\n\n#LingoTechAcademy #EnglishForIT #LearnEnglish #BusinessAnalysts #Day2OverviewofSoftwareDevelopmentLifeCycleSDLC",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "S_BvAiBAzyE": {
+      "checkedAt": "2026-08-17T14:53:28Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this engaging video, we delve into the world of software development from scratch. Join us as we explore the intricacies of estimating project timelines, just like asking a builder about constructing a house. Whether it's a Hello World app or the next big social media platform, understanding the key factors that influence development time is crucial. Dive into the discussion, share your thoughts, and let's unravel the mysteries of coding together. Don't forget to drop your questions and opinions in the comments section below!",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "shhuNMzkLFQ": {
+      "checkedAt": "2026-08-17T14:53:28Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Claude Code vs OpenAI Codex — two powerful AI coding agents, but which one should developers actually use?\n\nAI coding has moved far beyond autocomplete. Both Claude Code and Codex can understand codebases, modify files, run tools, test changes, and handle increasingly complex software-development tasks.\n\nBut their workflows are different.\n\nIn this video, we compare:\n\n🤖 Claude Code\n💻 OpenAI Codex\n⚡ Agentic coding workflows\n🔄 Interactive vs delegated development\n🧠 Codebase understanding\n👥 Multi-agent workflows\n⚡ Parallel coding tasks\n🌐 Cloud environments\n🌳 Git worktrees\n🔧 Background tasks\n🛠️ IDE and terminal workflows\n🔐 Permissions and security\n💰 Pricing and usage\n👨‍💻 Which tool is better for beginners\n🚀 Which tool is better for professional developers\n\nMost importantly, we look at the real question:\n\nWhich AI coding agent fits YOUR workflow?\n\nThere isn't necessarily one universal winner. Claude Code and Codex approach AI-assisted software development differently, and the right choice depends on how you work.\n\nIf you're deciding between Claude Code and Codex, this comparison will help you understand where each tool fits.\n\nSubscribe to HSM Tech for more AI, coding, developer tools, and technology explained simply.\n\n#claudecode  #openaicodex  #aicoding  #aivideo",
+      "commentCount": 2,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "sAr9FWEQZAk": {
+      "checkedAt": "2026-08-17T14:53:28Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I traveled to New York to spend 24 hours with the guys who built and sold Cal AI for millions. The video answers one main question: now that AI lets anyone build an app, is it still possible to build a successful one in 2026? Along the way, we talked about what it was like to build a company with your friends, and what they're doing now that they've sold.\n*Free iOS Bootcamp:* https://clickhubspot.com/bqt8 \n\nFollow Blake: https://x.com/blakeandersonw\nFollow Zach: https://x.com/zach_yadegari\nCal AI: https://calai.app/\n\n🔔 Follow the Second Channel:  @StarterStoryBuild  \n🏁 We're hiring: starterstory.com/jobs\n\nChapters:\n0:00 - iOS Millionaires\n1:20 - What’s your story?\n2:24 - Numbers behind Cal AI\n2:48 - Meet the other co-founders\n3:36 - What was it like to work together?\n3:59 - Did you know it’d be successful?\n4:48 - Becoming co-founders\n5:38 - Managing conflict and trust\n6:58 - Build your own iOS app\n7:39 - Opportunity in apps in 2026\n8:32 - Does copying apps still work?\n9:15 - Advice for building apps\n10:00 - NYC office tour\n10:25 - What did it feel like to sell Cal AI?\n10:58 - The game of entrepreneurship \n11:42 - What are you working on now?\n12:46 - Final thoughts from Pat\n\nThis video is an educational case study of this founder’s experience. It is not financial advice and does not guarantee any income or results. Every business is different and your results may vary.",
+      "commentCount": 74,
+      "likeCount": 813,
       "probeClient": "web_embedded"
     }
   }
