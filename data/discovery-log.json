@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T10:53:53Z",
+  "updatedAt": "2026-08-17T11:53:54Z",
   "items": [
+    {
+      "id": "J0zbWsutyA8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "IBM Technology and IBM Developer",
+      "publishedAt": "2026-08-17T11:00:54Z",
+      "firstSeenAt": "2026-08-17T11:53:54Z"
+    },
+    {
+      "id": "LG2m9hb1bWw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "LeadDev",
+      "publishedAt": "2026-08-16T17:53:54Z",
+      "firstSeenAt": "2026-08-17T11:53:54Z"
+    },
     {
       "id": "4HxmGEbtSK0",
       "type": "long",
@@ -16559,6 +16575,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-17T11:53:54Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
