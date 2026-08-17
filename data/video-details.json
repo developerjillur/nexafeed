@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T09:53:44Z",
+  "updatedAt": "2026-08-17T10:53:53Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -7234,10 +7234,10 @@
       "probeClient": "web_embedded"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-17T09:53:44Z",
+      "checkedAt": "2026-08-17T10:53:53Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "ePBbqZBYp-s": {
       "checkedAt": "2026-08-16T18:53:41Z",
@@ -7758,7 +7758,7 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-17T09:53:44Z",
+      "checkedAt": "2026-08-17T10:53:53Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8345,29 +8345,11 @@
       "likeCount": 24,
       "probeClient": "web_embedded"
     },
-    "AQ_Iqo3UYMk": {
-      "checkedAt": "2026-08-16T17:53:40Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Coding agents have completely changed the way I build software and they’ve also changed how I choose my tech stack. In this video, I’ll show you the complete system I use to ship production applications, including my tech stack, AI models, agentic development environment, agent skills, architecture, and code review workflow. This is the exact setup I use every day to build real products in 2026.\n\n\n📸 My SaaS Starter Kit: https://dub.sh/dDAfwJJ\n\n🔒 My favorite Auth Solution:  https://dub.sh/xeU8r3v\n💻 Learn to Code faster with Scrimba and Save 20% - https://scrimba.com/the-ai-engineer-path-c02v?via=janmarshal\n\n\n👨‍💻 Video Files: https://dub.sh/Ras3IU6\n🌍 My Website: https://www.syntaxpath.com/\n👋🏻 Discord: https://discord.gg/ZzGqgpmd24\n✅ Follow me on X: https://x.com/janmarshaldev\n📧 Business ONLY: jan@alenix.de\n\n\nTimestamps:\n00:00 Intro\n01:30 My 2026 Tech Stack\n02:00 Framework & Frontend\n09:00 API & Data Layer\n13:00 Database & Authentication\n22:00 Services & Infrastructure\n28:00 The Dependency Rule\n32:00 My Agentic Development Environment\n36:00 My AI Model Setup & Workflow\n38:00 My AGENTS.md File\n39:00 Repository-Specific Agent Skills\n41:00 Global Agent Skills\n43:00 Free AI Voice Dictation I use\n47:00 AI Code Review Process",
-      "commentCount": 5,
-      "likeCount": 40,
-      "probeClient": "web_embedded"
-    },
-    "AOXIQAR2V_4": {
-      "checkedAt": "2026-08-16T17:53:40Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Graft is an open-source context layer that gives Claude Code, Cursor, Codex, Gemini, and other AI coding agents a deeper understanding of your codebase—reducing exploration, token usage, and coding time.\n\n\n\n\n=============================================\nFollow on twitter : https://x.com/Codedigipt\nFollow Codedigipt channel on WhatsApp: https://whatsapp.com/channel/0029Vb8SzEP89inlpgnxKE2i\n\n----------------------- Resources -----------------------------------------\nhttps://github.com/NanoNets/Graft\n=============================================\n\n\n\n#OpenSourceAI #aicoding #aiagents  #artificialintelligence  #chatgpt  #claudecode  #automation  #aitools  #productivity  #technews  #ai2026 \n\n\nDisclaimer:\nThe content in this video is for informational and educational purposes only. All opinions expressed are my own. I am not a licensed professional, and this video should not be considered professional advice. Performance benchmarks are based on specific tests and may not reflect all use cases. Always do your own research and consult with a qualified expert where necessary.\nUse the information provided at your own risk.\nSome links or products mentioned may be affiliate links, which means I may earn a small commission at no extra cost to you. Thank you for your support!",
-      "commentCount": 2,
-      "likeCount": 14,
-      "probeClient": "web_embedded"
-    },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-17T09:53:44Z",
+      "checkedAt": "2026-08-17T10:53:53Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "7hQTGOAt_h0": {
       "checkedAt": "2026-08-16T18:53:41Z",
@@ -8415,36 +8397,12 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "lZLlYtog87I": {
-      "checkedAt": "2026-08-16T20:53:15Z",
-      "embedAllowed": true,
-      "description": "5 AI Tools That Can Save You 10+ Hours Every Week! 🤯\n\nAI is changing the way we work — but are you actually using it to save time?\nIn this video, we explore 5 powerful AI tools that can help you work smarter, automate repetitive tasks, create content faster, and save hours every week.\n\nWhether you're a student, creator, entrepreneur, freelancer, or business owner, these AI tools can seriously improve your productivity.\n\n⏱️ Timestamps:\n00:00 - Introduction\n00:21 - Tool 1: ChatGPT (AI Writing & Brainstorming)\n00:49 - Tool 2: Perplexity (Advanced Research & Analysis)\n01:09 - Tool 3: Gamma (Instant AI Presentations)\n01:30 - Tool 4 : n8n AI automation \n01:59 - Tool 4: Canva (AI Graphic Design)\n02:23 - Conclusion\n\n🔗 Featured AI Tools:\n• ChatGPT: https://chatgpt.com\n• PerplexityAI : https://perplexity.ai\n• n8n AI : https://n8n.io/\n• Gamma AI: https://gamma.app\n• Canva: https://canva.com\n\n🌐 Visit Our Website: https://zxai.in\n\n🚀 In this video, we cover:\n• AI tools for productivity\n• AI for content creation\n• AI presentation tools\n• AI automation\n• Practical ways to save time with AI\n\nSubscribe to ZxAI Labs for the latest AI Tools, Business Automation & Innovation!\n\nAI • Business • Automation • Innovation\n\n#AITools #ArtificialIntelligence #AI #Productivity #Automation #ZxAILabs",
-      "commentCount": 2,
-      "likeCount": 9,
-      "probeClient": "web_embedded"
-    },
     "x5JgbtIlxTE": {
       "checkedAt": "2026-08-16T21:53:24Z",
       "embedAllowed": true,
       "description": "▸▸ Learn how to build AI products → https://www.skool.com/ai-architects\n \n-----\n \n▸▸ Catch me on Twitch M to Thurs (10am Pacific) → https://www.twitch.tv/stephengpope\n\nMost AI agents live in a separate workspace. Shockwave is different—it's an open source desktop app that puts a Claude Code-style agent directly inside your note taking app (second brain), working in the same files you are.\n\n The real difference is the sync. Every workspace is backed by a GitHub repo, so your desktop, the cron jobs running on your server, and your Telegram chats are all working on the same files—fast enough that it feels like one place instead of three. Dictate a note from your phone and it lands on your desktop seconds later. Reply to a cron report in Telegram and pick that same conversation up at your desk.\n\n I also cover linked notes and the live graph, self-improving skills, memory, and a full install from droplet to Telegram bot.\n \n-----\n▸▸ Twitch M-Th 10am → https://www.twitch.tv/stephengpope\n▸▸ Download Shockwave → https://github.com/stephengpope/shockwave\n▸▸ FREE AI Automation / Coding Community → https://bit.ly/44A3Vdn\n\n00:00 - Why I Built My Own AI Agent\n01:27 - Obsidian & the Second Brain Concept\n03:08 - Agent Working In Your Files\n05:02 - Desktop, Telegram & Server Together\n06:35 - Why GitHub Syncs Everything\n07:47 - Live Phone to Desktop Sync Demo\n09:03 - Creating Workspaces\n10:13 - Desktop vs Server Architecture\n11:07 - Companion Server & Settings\n13:11 - Telegram Slash Commands\n14:02 - Cron Jobs & Reply Context\n15:11 - Voice Replies From Your Agent\n17:04 - Installing the Desktop App\n17:25 - Setting Up a DigitalOcean Server\n20:08 - Connecting the App to Your Server\n20:47 - GitHub Token & API Keys\n21:36 - Telegram Bot Setup\n22:03 - Final Workspace Test\n23:09 - Wrap Up",
       "commentCount": 16,
       "likeCount": 53,
-      "probeClient": "web_embedded"
-    },
-    "blMASr5jLww": {
-      "checkedAt": "2026-08-16T21:53:24Z",
-      "embedAllowed": true,
-      "description": "Want to build Elementor websites faster using AI? In this video, I’ll show you how to use Angie AI, a powerful WordPress AI agent, to build complete Elementor-compatible webpages using simple prompts. Instead of manually creating every section, container and layout, you can use AI to speed up your WordPress website-building workflow while still keeping your pages editable with Elementor.\n\n🔥 Get Hostinger with 20% OFF: https://www.hostg.xyz/SHIv6\n🎁 Coupon Code: SK20\n\n🤖 𝗧𝗥𝗬 𝗔𝗡𝗚𝗜𝗘 𝗔𝗜\n👉 Signup with Angie AI: https://be.elementor.com/visit/?bta=9012&nci=5764\n🎁 5% OFF Coupon: Saddam5One\n\nIn this Angie AI tutorial, you’ll see how an AI agent can help create WordPress pages, generate website layouts and speed up the complete Elementor web-design process. If you use WordPress + Elementor for your own websites or client projects, this workflow can save a huge amount of repetitive design work.\n\nWe’ll explore how to build webpages with prompts, create professional website sections, work with Elementor-compatible layouts and use AI for WordPress web design without manually designing everything from scratch.\n\nThis video is useful if you’re searching for Elementor AI, Angie AI Elementor, WordPress AI agent, AI website builder for WordPress, Elementor AI website builder, WordPress website with AI, Elementor tutorial, WordPress tutorial, AI web design or ways to build Elementor pages using AI.\n\n𝗬𝗢𝗨 𝗠𝗜𝗚𝗛𝗧 𝗔𝗟𝗦𝗢 𝗟𝗜𝗞𝗘\n👉 Design Thumbnail using ChatGPT: https://youtu.be/3wc_bX1ihZg\n👉 How to Deploy a Web App: https://youtu.be/nmFSq7hsNSY\n👉 How to Make an eCommerce Website: https://youtu.be/mrNe9JwOnoQ\n👉 Build a Tools Website: https://youtu.be/yIHf-PAXk0g\n\n𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘\nFacebook: https://facebook.com/webgurusaddam\nInstagram: https://instagram.com/onlysaddam\nLinkedIn: https://linkedin.com/in/saddamkassim\nYouTube: https://youtube.com/@SaddamKassim\n\n#AngieAI #ElementorAI #Elementor #WordPress #AIWebsiteBuilder",
-      "commentCount": 17,
-      "likeCount": 144,
-      "probeClient": "web_embedded"
-    },
-    "pcnW-6jzK0I": {
-      "checkedAt": "2026-08-16T21:53:24Z",
-      "embedAllowed": true,
-      "description": "This is how I make money with AI videos and how I'm using gohighlevel for real estate agents. 🔥30-Day FREE Trial + $11,577 in bonuses! https://go.seanstandberry.com/real-estate\n\nWhen you sign up with my link, here’s what you’ll get:\n\n📚 Access to all of my courses (100+ video lessons) \n🚀 AI Prompt library for creating social media posts, videos, websites, & more (50+ prompts)\n🙋 Bi-weekly live Q&A calls with me, or my agency team\n📝 Guidance on building & scaling your AI SMMA, AI SaaS or AI Business\n📢 Inbound marketing strategies & AI Clone module \n\n❌ IMPORTANT: Don’t use an ad blocker or browser extension when clicking the links — it can block affiliate tracking and you won’t get access. \n------------------------------------------------------\n🎁 OpenArt 15% Off Pro plan with code \"SEAN\": https://go.seanstandberry.com/openart\n------------------------------------------------------\nAlready have GHL? Join community directly: https://go.seanstandberry.com/direct-access\n------------------------------------------------------\nIn this vidoe, I show a house tour was never filmed, no camera, no videographer, no editing. I built a new Super AI agent inside HighLevel, gave it a real estate listing link, a folder of photos, and one picture of a host. \n\nThen it researched the listing, planned a 15-second tour shot by shot, built a storyboard to approve, then generated a full AI video of the host walking through the house, wrote the caption, and scheduled it to Instagram as a reel, for about three dollars in credits. \n\nIn this video, I talk about what a super AI agent is and what I built, how I built the AI video agent, the real estate test, one revision and the real run, the real numbers (and the one setting that decides your margins), and the finished videos.\n------------------------------------------------------\nTimestamps\nIntro (0:00)\nChapter 1 : What a Super AI Agent Is, and What I Built (1:45)\nChapter 2 : How I Built a Super Agent for AI Videos (3:24)\nChapter 3 : The Real Estate Test (5:35)\nChapter 4 : One Revision, and It Goes to Work (7:14)\nChapter 5 : The Real Numbers (8:23)\nChapter 6 : The Work Itself (11:08)\n--------------------------------------------------------------------\nSubscribe: https://bit.ly/33do5xO\n\nWho Am I?\nI’m Sean Standberry — the current owner of a multi million dollar social media marketing agency that I have been running for the last 10 years. My businesses have grossed more than $25M in online services, and proud to have been award HighLevel's Gold SaaS Award 2x years in a row. Now, I help others launch and grow their own AI businesses because the future here now. If you get any value from watching my content, all I ever ask is that you LIKE and Subscribe 🙂. \n\n///\nDisclosure:\nThis content reflects my own opinions and is not legal, financial, or investment advice. Always consult with licensed professionals before making any business decisions.\n\nAll experiences shared are from our most successful students; their success should not be considered typical. Student earnings vary based on effort, experience, and other factors. Many students don't apply our strategies and thus see little to no financial return. We cannot guarantee success or any specific financial result.\n\nI’m an independent affiliate and not an employee or agent of GoHighLevel. I receive referral commissions for purchases made through my affiliate links. Results shared are not guaranteed — your results will vary and depend on your effort, experience, and other factors.",
-      "commentCount": 27,
-      "likeCount": 61,
       "probeClient": "web_embedded"
     },
     "RgOEK5qgPWI": {
@@ -8598,14 +8556,6 @@
       "likeCount": 2,
       "probeClient": "web_embedded"
     },
-    "sTrD8mdsfdY": {
-      "checkedAt": "2026-08-17T05:53:22Z",
-      "embedAllowed": true,
-      "description": "🎁 Join my free training: https://www.skool.com/real-world-n8n-community-6528/\n\nAre you selling AI automation to businesses that don’t need it—or simply can’t afford it?\n\nIn this video, I break down the four different markets you can sell AI solutions to: local businesses, solo founders, mid-sized companies, and large enterprises. I’ll explain what each market actually cares about, which AI solutions they’re willing to buy, and how much you can realistically charge.\n\nYou’ll learn how to:\n\n• Identify the right market for your AI automation services\n• Understand what local businesses actually need\n• Sell packaged AI workflows to solo founders and coaches\n• Land $5K retainers with mid-sized companies\n• Build end-to-end AI operations for growing teams\n• Sell consulting, training, and AI workshops to enterprises\n• Charge up to $40K for high-value AI strategy workshops\n• Move from smaller clients to larger, long-term contracts\n\nThis video is ideal for AI automation agency owners, consultants, freelancers, developers, and anyone trying to attract better clients and charge more for their services.\n\nThe biggest opportunity isn’t always building more advanced automation—it’s selling the right solution to the right market.\n\nYou can download the free resources from here: https://newsletter.neuromnix.com/\n\nTimestamps\n\n00:00 Introduction\n00:30 The Four Markets\n01:17 Local Businesses\n04:58 The River: Solo Founders\n07:17 The Lake: Mid-sized Companies\n10:26 The Sea: Large Enterprises\n12:56 Scaling Your Business",
-      "commentCount": 4,
-      "likeCount": 9,
-      "probeClient": "web_embedded"
-    },
     "VLSU4kBR7O0": {
       "checkedAt": "2026-08-17T06:53:28Z",
       "embedAllowed": true,
@@ -8733,6 +8683,60 @@
       "embedAllowed": true,
       "availability": "public",
       "description": "Traditional AI answers questions. Generative AI creates things.\n\nDay 1 of the GenAI Engineering Mastery series — Foundations & LLMs:\n- AI vs ML vs Deep Learning vs GenAI\n- Text, Image, Audio & Video models\n- Tokens & Context Windows\n- Training vs Inference\n- Transformers & Attention Mechanism\n- GPT vs Claude vs LLaMA vs Mistral — kaunsa kis kaam ke liye\n\nDay 2 (Prompt Engineering) drops next — subscribe so you don't miss it.\n\n#GenerativeAI #PromptEngineering #LLM #AIAgents #GenAIEngineering",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "4HxmGEbtSK0": {
+      "checkedAt": "2026-08-17T10:53:53Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Build Wordpress Websites using AI only! No Plugins, No Templates, No Elementor - just prompting :)\n\n\n🏷️ HOST YOUR WP WEBSITE WITH HOSTINGER\n\n✅ Get your WP hosting + free domain: https://www.hostg.xyz/SHJpw\n✅ Use code YASHICA20 for a flat 20% off (applies to 12, 24 & 48-month plans)\n✅ Monsoon Sale is live till 17th August with up to 83% off\n\n---\n\n🚀 Work With Me:\n\n✅ Get Custom AI Automation Systems Built\nWe help businesses implement AI agents, voice agents, workflow automation, and productivity systems.\nWork with us: https://www.automatezai.com/\n\n📞 Need Technical Guidance or Architecture Help?\nBook a 1:1 consulting session for automation strategy, agent design, or implementation support:\nBook a call: https://calendly.com/automatezai/paid-ai-consultation-or-coaching-1-hour\n\n🤝 Partnerships & Paid Collaborations\nFor sponsorships, integrations, and collaborations:\nyashica@automatezai.com\n\n---\n\n😇 About me:\nHi, I’m Yashica — an AI automation proclaimed nerd building AI solutions for businesses, advising 1:1, and sharing practical builds on YouTube.\n\n💁🏼‍♀️ Connect with me:  \nLinkedIn → https://www.linkedin.com/in/yashicajain9/  \nX → https://x.com/yashicajain_  \n\n---\n\nIf this video helps, let me know in the comments 👇  \n\n#ClaudeCode #Wordpress #VibeCoding #NoCode",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "NmXSb1u1cPw": {
+      "checkedAt": "2026-08-17T10:53:53Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Paid eBay product research tools can cost $30–60/month. In this video, I build my own eBay product research tool in about 10 minutes using n8n and Apify.\n\nNo coding. No proxies. No eBay API key.\n\nThe workflow searches eBay and pulls live product listings, prices, seller information, and sold-item data directly into Google Sheets. You can use the data to research products, compare prices, identify demand, and find potential opportunities for eBay selling or dropshipping.\n\nThe entire workflow is built with no-code tools, so you can customise it for your own product research process.\n\nGET THE FREE n8n TEMPLATE\n\nGet the complete workflow and setup resources inside my Skool community. No email required.\n👉 https://links.aigrowthtribe.com/skool\n\nWANT ME TO BUILD THIS FOR YOUR BUSINESS?\n\nIf you want a custom version of this automation built around your business, product research process, or data requirements, you can hire me here:\n\n👉 https://forms.gle/q7bgHiPDgDKw1CwZA\n\nWebsite:\n👉 https://taskifylabs.com\n\nLinkedIn:\n👉 https://www.linkedin.com/in/santhej/\n\nEmail:\n👉 santhej@taskifylabs.com\n\neBAY SCRAPER USED IN THIS VIDEO\n\nThe Apify actor used to collect the eBay search data:\n👉 https://apify.com/santhej/ebay-search-scraper\n\nTOOLS USED\nn8n — Automation and AI workflows\n👉 https://n8n.partnerlinks.io/8sjoqhgay6v5\n\nApify — Web scraping, data extraction and research automation\n👉 https://www.apify.com/?fpr=p2qvcj\n\nGoogle Sheets — Store and organise the product research data\n\n✔️ How to connect your Google Sheets with N8N\n👉 https://youtu.be/Hf6WkyvmqA0\n\n✔️ How to connect your Google Drive with N8N\n👉 https://youtu.be/eTJ4hi6C6hA\n\nDigitalOcean — VPS for APIs and self-hosted automation\nGet $200 free credits for 2 months:\n👉 https://m.do.co/c/a44f2bce7e51\n\nTOPICS COVERED\n\neBay product research, eBay scraping, eBay product research tools, eBay dropshipping research, product research automation, sold item research, eBay price tracking, no-code web scraping, n8n automation, Apify scraping, Google Sheets automation, and building your own eBay research workflow.\n\n#eBay #n8n #WebScraping #ProductResearch #eBayDropshipping",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "ASKBG5qBqDE": {
+      "checkedAt": "2026-08-17T10:53:53Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🎁 Free AI Automation Template: https://www.leadgenspot.com/automation-blueprint\n📅 Book a Free Call to Automate Your Business: https://calendly.com/engralmaruf/30min\n🤖 Tool I used in this video: https://www.make.com/en/register?pc=m...\n\nIn this video, I’ll show you how to build a **100% automated social media system for hotels and resorts using Make.com**.\n\nThe automation can generate captions, create AI images, and automatically publish posts to Instagram and Facebook — without manual posting.\n\n🔹 **How This Hotel Social Media Automation Works:**\n\n**Content Creation:** AI generates social media captions for your hotel or resort.\n\n**AI Image Generation:** The workflow automatically creates images for each post.\n\n**Automatic Posting:** Posts are published to Instagram and Facebook automatically.\n\n**Result:** A fully automated social media system that keeps your hotel active online while saving hours of manual work.\n\n⏱️ Timestamps\n00:00 - 00:50 – Introduction & Testing\n00:50 - 04:10 – Setting Up the Automation\n04:10 - 04:26 – Service Offer\n\nIf this helped you, don’t forget to **like, subscribe, and comment** for more real-world AI & no-code automation projects! 🚀\n\n#LuxuryHotel #HotelMarketing #Hospitality #ResortMarketing #MakeCom #AIAutomation #HotelSocialMedia #SocialMediaAutomation #InstagramAutomation",
+      "commentCount": 1,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "vdWu-nlRR2o": {
+      "checkedAt": "2026-08-17T10:53:53Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👉 Try UGCVideo.ai:\nhttps://www.ugcvideo.ai/?ref=L7PXRP\n🚀 Want to create realistic AI UGC videos without hiring creators?\n\nWelcome to Day 1 of the 15 Days n8n Automation Series by CodeWithPrashant30! 🚀\nIs series mein hum step-by-step n8n automation seekhenge — beginner basics se lekar AI Agents, RAG, MCP aur real-world AI automation projects tak.\nDay 1 mein hum cover karenge:\n✅ n8n kya hai?\n✅ n8n Automation kya hoti hai?\n✅ n8n kaise kaam karta hai?\n✅ Workflow, Nodes aur Triggers kya hain?\n✅ Real-world automation example\n✅ n8n ko AI ke saath kaise use kar sakte hain?\n✅ 15 Days n8n Series mein kya-kya seekhenge?\n🤖 Main CodeWithPrashant ka AI Avatar hoon, aur is series mein main aapko n8n aur AI Automation practical examples ke saath samjhaunga.\nAgar aap Developer, AI Engineer, Automation Engineer banna chahte hain ya repetitive tasks ko automate karna chahte hain, to ye series aapke liye hai. 🔥\nDay 2: n8n Interface + First Workflow\nSubscribe to CodeWithPrashant30 and follow the complete 15-day series. 🚀\n🔥 Hashtags\n#n8n #n8nTutorial #n8nAutomation #Automation #AI #AIAutomation #AIAgents #WorkflowAutomation #NoCode #LowCode #AITools #AIEngineer #CodeWithPrashant #n8nHindi #Learnn8n\n🏷️ YouTube Tags\nn8n, n8n tutorial, n8n tutorial hindi, n8n automation, n8n automation tutorial, what is n8n, n8n for beginners, learn n8n, n8n hindi, n8n workflow, n8n ai automation, AI automation, AI agent, n8n AI agent, n8n tutorial for beginners, automation tools, workflow automation, no code automation, low code automation, AI engineer, automation engineer, CodeWithPrashant, CodeWithPrashant30, n8n series, 15 days n8n series, n8n course in hindi",
+      "commentCount": 1,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "5aUgDDWd4-k": {
+      "checkedAt": "2026-08-17T10:53:53Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "*Free Claude Guide:* https://clickhubspot.com/16na\n\nMore from Futurepedia:\n👉 Join the Skill Leap AI education platform! Try it free and explore 20+ top-rated courses in AI: https://bit.ly/futurepediaSL\n\nSummary:\nClaude doesn't come with an instruction manual so most people aren't using it to its full potential. I walk through everything: projects, skills, memory, prompting, cowork, code, and more. So you can go from a beginner to pro in one video.\n\nChapters\n0:00 Intro\n0:24 Memory Transfer\n1:22 Pricing\n2:08 Models and Effort\n4:13 Prompting Simplified\n6:00 Connect Your Tools\n7:31 Projects\n10:22 Skills\n11:59 Cowork\n13:49 Code\n15:38 Implement",
+      "commentCount": 18,
+      "likeCount": 439,
+      "probeClient": "web_embedded"
+    },
+    "5hBa27swhmQ": {
+      "checkedAt": "2026-08-17T10:53:53Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, we dive deep into \"The Complete AI Tech Stack for Modern B2B SaaS Startups\" and show you exactly how to implement high-leverage AI automation systems in your business.\n\nMastering B2B SaaS and AI workflows is the single fastest way to increase profit margins and streamline operational scaling.\n\n🔥 What You'll Learn:\n• Step-by-step breakdown of The Complete AI Tech Stack for Modern B2B SaaS Startups\n• Practical software setup and tool integrations\n• How to optimize for maximum efficiency and speed\n• Downloadable workflow templates and prompt scripts\n\n\n#B2BSaaS #AIAutomation #BusinessGrowth #WorkflowOptimization #MakeCom #Zapier #AITools #TechStack #SaaS #Productivity #AutomationAgency #AIAgents #EnterpriseSaaS #NoCode",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"

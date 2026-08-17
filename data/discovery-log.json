@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T09:53:44Z",
+  "updatedAt": "2026-08-17T10:53:53Z",
   "items": [
+    {
+      "id": "4HxmGEbtSK0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Yashica Jain",
+      "publishedAt": "2026-08-17T10:50:53Z",
+      "firstSeenAt": "2026-08-17T10:53:53Z"
+    },
+    {
+      "id": "NmXSb1u1cPw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Santhej Kallada | N8N Automation ",
+      "publishedAt": "2026-08-17T09:55:53Z",
+      "firstSeenAt": "2026-08-17T10:53:53Z"
+    },
+    {
+      "id": "ASKBG5qBqDE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Maruf | AI Automation exp",
+      "publishedAt": "2026-08-17T09:53:53Z",
+      "firstSeenAt": "2026-08-17T10:53:53Z"
+    },
+    {
+      "id": "vdWu-nlRR2o",
+      "type": "short",
+      "source": "secondary",
+      "channel": "CodeWithPrashant",
+      "publishedAt": "2026-08-17T00:53:53Z",
+      "firstSeenAt": "2026-08-17T10:53:53Z"
+    },
+    {
+      "id": "5aUgDDWd4-k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Futurepedia",
+      "publishedAt": "2026-08-16T20:53:53Z",
+      "firstSeenAt": "2026-08-17T10:53:53Z"
+    },
+    {
+      "id": "5hBa27swhmQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NoCode Fortune",
+      "publishedAt": "2026-08-16T15:53:53Z",
+      "firstSeenAt": "2026-08-17T10:53:53Z"
+    },
     {
       "id": "QVCi-y7d2Uw",
       "type": "short",
@@ -16502,6 +16550,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-17T10:53:53Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
