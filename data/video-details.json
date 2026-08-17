@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T18:53:59Z",
+  "updatedAt": "2026-08-17T19:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -7400,29 +7400,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "aYqrLwl8lK4": {
-      "checkedAt": "2026-08-17T01:53:47Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Everything Claude writes for you now carries a hidden mark you can't see.\n\nAnthropic started weaving an invisible signal into Claude's responses, nudging which words the model picks in a pattern only a machine can read. It stays even when you copy the text somewhere else, and generated files get a separate signed signature. They turned it on worldwide to meet the EU's new AI law.\n\nTwo things nobody mentions. First, you can't check the mark yet, the detector isn't out. Second, it only shows the text was produced by Claude, not that you didn't write it, and if you rewrite it in your own words, the mark fades.\n\nI share more about AI in my community, link in bio.\n\n#ai #claude #anthropic #ainews #euaiact",
-      "commentCount": 1,
-      "likeCount": 41,
-      "comments": [
-        {
-          "id": "UgxOR8LwU76KmtZlVa94AaABAg",
-          "author": "@brawlkiller9028",
-          "text": "JOIN THE COUNCIL!!! PHASE 2 HAS BEGUN!!!!!",
-          "likeCount": 0,
-          "publishedAt": "2026-08-16T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/yvMqyrHKVWwAYe3F_t1hyVFxpmLBkQIEZizIhegT2oiZr5RxFc73wjemIsYJcIakXnWjqkL1MQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-17T01:53:47Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "sXllEFAEVbk": {
       "checkedAt": "2026-08-17T03:53:12Z",
       "embedAllowed": true,
@@ -7961,23 +7938,16 @@
       "probeClient": "web_embedded"
     },
     "FGFit4hA5pE": {
-      "checkedAt": "2026-08-16T19:53:06Z",
+      "checkedAt": "2026-08-17T19:53:10Z",
       "embedAllowed": true,
       "description": "A company built a headset that lets you take control of your own dreams.\n\nIn a normal dream, the part of your brain that makes decisions is dialed down, so dreams run wild and you just get dragged along. This device gently wakes it back up while you sleep. That's a lucid dream: asleep, but able to think and act in a world with zero risk. It's made by Prophetic, using gentle focused ultrasound on that exact spot. Imagine rehearsing something that scares you, or solving a hard problem where nothing can go wrong.\n\nHonest note: no proven effect yet, it's a bold bet, not finished magic. Pre-orders are open, first units ship end of year.\n\nI share more like this in my community, link in bio.\n\n#luciddreaming #neurotech #ai #gadgets #sleep",
       "commentCount": 0,
-      "likeCount": 1,
+      "likeCount": 23,
       "comments": [],
-      "commentsFetchedAt": "2026-08-16T19:53:06Z",
+      "commentsFetchedAt": "2026-08-17T19:53:10Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "SaJBDs_WMDs": {
-      "checkedAt": "2026-08-17T00:53:46Z",
-      "embedAllowed": true,
-      "description": "Discover how AI agents can improve your software testing workflow—from generating test cases and detecting bugs to validating changes before release. Learn how to ship better software faster with AI-powered testing.\n#AIAgents #SoftwareTesting #QualityAssurance #SoftwareDevelopment",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
+      "probeClient": "web_embedded",
+      "availability": "public"
     },
     "C4v-E66zTik": {
       "checkedAt": "2026-08-17T01:53:47Z",
@@ -7996,14 +7966,6 @@
       "description": "Most businesses decide how to automate a process before they have worked out what kind of problem it actually is. That single mistake is what produces the SaaS spiral, the custom build that doubles in cost, and the agency project nobody internally can maintain six months later. This video walks through the three questions I use before recommending any automation approach, whether that is buying an off-the-shelf tool, building something custom, or bringing in an agency. Run any workflow through them and you will have a clear direction before you look at a single vendor.\n\nChapters\n\n00:00 The default that costs the most\n01:05 Why this decision gets framed wrongly\n01:58 Failure one: the SaaS spiral\n02:40 Failure two: the custom build trap\n03:31 Failure three: the agency handoff\n04:08 Question one: commodity or capability\n04:59 Question two: stable or evolving\n05:55 Question three: rent or own\n06:48 Scenario: scheduling at a services firm\n07:13 Scenario: quoting at a manufacturer\n07:50 Scenario: onboarding at a consultancy\n08:29 Most real decisions are a mix\n\nWant to see what your manual processes are actually costing you? There is a free process cost calculator at https://aiaio.me\n\nIf this was useful, a like or a share genuinely helps it reach other people making the same decision.\n\nSubscribe for practical AI automation content, no theory, just what works.\n\nAIAIO helps organisations automate smarter, operate faster, and grow with AI.\n\nWebsite: https://aiaio.me\nEnquiries: enquiries@aiaio.me\nLinkedIn: https://linkedin.com/company/aiaio\n\n#AIAutomation #BusinessAutomation #SaaS #ProcessAutomation #OperationsStrategy",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "PssuK5Kq7vk": {
-      "checkedAt": "2026-08-17T05:53:22Z",
-      "embedAllowed": true,
-      "description": "What if your recruitment agency could automatically turn trending industry news into video scripts, multiple hooks, and LinkedIn posts?\n\nInstead of spending hours researching what to post, your team could have an AI-powered system find relevant news, analyze whether it's worth talking about, fact-check it, write the script, create multiple hooks, and even turn it into a LinkedIn post.\n\nThat's exactly what we're building in this video.\n\nThis is Part 2 of my AI content automation system for recruitment agencies.\n\nIn Part 1, we built the system that finds and stores relevant industry news. In this video, we take those news articles and turn them into ready-to-create content.\n\n🔥 Here's the workflow we're building:\n\nIndustry News → Trend Analysis → Fact Check → Video Script → Multiple Hooks → LinkedIn Post → Content Database\n\nAnd once it's set up, this can run automatically whenever new content enters your system.\n\n⏱️ TIMESTAMPS\n\n00:00 — Building an AI script generator for recruitment agencies\n00:07 — What we're building in Part 2\n00:20 — From industry news to content automatically\n00:28 — Trend analysis + fact-checking the news\n00:37 — Generating video scripts, hooks & LinkedIn content\n00:52 — The complete automation workflow\n01:05 — Triggering the workflow with Google Sheets\n01:53 — Getting the news article from its URL\n02:11 — Using AI to analyze the trend\n03:30 — Fact-checking the news with AI\n04:57 — Generating the video script\n05:23 — Building the AI script-generation step\n06:41 — Creating the script output\n07:03 — Generating multiple video hooks\n08:13 — Turning the video into a LinkedIn post\n09:09 — Converting the AI output into JSON\n10:44 — Structuring the content data\n11:16 — Saving the generated content to Google Sheets\n12:44 — Adding multiple hooks to the database\n13:01 — Updating the news database\n13:56 — The completed automation\n14:04 — How the system turns news into content\n14:20 — Final thoughts & what's next\n14:39 — Need a customized system for your recruitment agency?\n\n🛠️ TOOLS USED\nMake.com\nOpenAI\nClaude\nGoogle Sheets\nHTTP modules\nJSON\nAI automation\n\nYou don't have to use these exact tools. The important thing is understanding the automation logic, because you can adapt this system to the tools you already use.\n\n🚀 WHAT YOU'LL LEARN\n\nBy the end of this tutorial, you'll understand how to:\n\n✅ Automatically trigger content creation when new industry news is found\n✅ Pull the actual article from a URL\n✅ Use AI to identify content-worthy trends\n✅ Fact-check information before publishing\n✅ Generate complete video scripts automatically\n✅ Generate multiple hooks for the same video\n✅ Turn a video script into a LinkedIn post\n✅ Structure AI responses as JSON\n✅ Store your content automatically in Google Sheets\n✅ Prevent the system from repeatedly processing the same news\n✅ Build a repeatable AI content workflow for a recruitment agency\n\nThe bigger idea here isn't simply \"let AI write my content.\"\n\nIt's about building a system where your team spends less time researching and writing and more time recording, publishing and growing the business.\n\nAnd this doesn't only work for recruitment.\n\nYou can adapt the same workflow for finance, consulting, marketing, real estate, technology, SaaS, HR and other industries where staying on top of industry news matters.\n\n🎥 WATCH PART 1\n\nIf you haven't watched Part 1, I'd recommend watching it first because that's where we build the system that finds, filters and stores the industry news that feeds this automation.\n\n💼 WANT THIS BUILT FOR YOUR RECRUITMENT AGENCY?\n\nIf you're running a recruitment agency and want to automate your content research, content creation or other repetitive processes around the way your team actually works, you can book a strategy call with me.\n\n👉 Book a strategy call: https://calendly.com/joecomfort/strategy-audit\n\nAnd if this tutorial helped you, like the video and subscribe for more practical AI automation tutorials for recruitment agencies and businesses.\n\n#AIAutomation #RecruitmentAgency #Makecom #AIRecruitment #ContentAutomation #OpenAI #LinkedInMarketing #Recruitment #MakeAutomation #ArtificialIntelligence",
-      "commentCount": 0,
-      "likeCount": 2,
       "probeClient": "web_embedded"
     },
     "VLSU4kBR7O0": {
@@ -8047,15 +8009,6 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "OuZXFXVy_EQ": {
-      "checkedAt": "2026-08-17T06:53:28Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🚀 Best AI Tools for Small Business Owners | Save Time, Grow Faster & Work Smarter\n\nRunning a small business can feel like doing ten jobs at once. One moment you are creating content, the next you are answering customers, managing sales, writing emails, designing posts, checking finances, and trying to grow your brand. But what if AI could help you do all of that faster, easier, and more professionally?\n\nIn this video from AI with Lilly, we explore the best AI tools for small business owners who want to save time, improve marketing, organize customers, automate daily tasks, and make smarter decisions. Whether you own an online store, a local service business, a coaching brand, a café, a beauty business, a real estate brand, or you are building your first startup, these AI tools can help you work like a bigger team without spending a huge budget.\n\nYou will discover how tools like ChatGPT, Canva AI, HubSpot AI, Mailchimp AI, Shopify Magic, QuickBooks AI, Zapier AI, and Google Gemini can support different parts of your business. From writing product descriptions and social media posts to creating professional designs, managing leads, sending email campaigns, tracking money, and automating repetitive tasks, AI can become your digital business assistant.\n\nThe best part? You do not need to be a tech expert. These tools are beginner-friendly and can be used by anyone who wants to work smarter, not harder. If you have ever felt overwhelmed by content creation, customer messages, marketing, finances, or daily admin work, this video will show you where to start.\n\n✨ In this video, you will learn:\n\n✅ How ChatGPT can help you write content, emails, scripts, captions, and business ideas\n✅ How Canva AI can make your brand look more professional\n✅ How HubSpot AI can help you organize customers and leads\n✅ How Mailchimp AI can improve your email marketing\n✅ How Shopify Magic can help online stores create better product pages\n✅ How QuickBooks AI can make finances easier to understand\n✅ How Zapier AI can automate boring repetitive tasks\n✅ How Google Gemini can help with emails, documents, notes, and planning\n✅ How to choose the right AI tool for your small business\n\n⏱️ **Video Timeline / Chapters\n\n00:00 – Intro: Welcome to AI with Lilly\n00:25 – Why small businesses need AI tools\n01:05 – The biggest problem small business owners face\n01:45 – Tool #1: ChatGPT for content, ideas, emails, and planning\n03:00 – Tool #2: Canva AI for designs, branding, and social media\n04:10 – Tool #3: HubSpot AI for leads, sales, and customer management\n05:15 – Tool #4: Mailchimp AI for email marketing\n06:20 – Tool #5: Shopify Magic for online stores\n07:20 – Tool #6: QuickBooks AI for finances and bookkeeping\n08:25 – Tool #7: Zapier AI for automation\n09:30 – Tool #8: Google Gemini for productivity and workspace tasks\n10:30 – How to choose the best AI tool for your business\n11:20 – Final tips for small business owners\n12:00 – Outro: Subscribe to AI with Lilly\n\n💡 Why this video is important\n\nAI is no longer only for big companies. Small business owners can now use the same type of smart technology to compete, grow, and save valuable time. Instead of spending hours writing posts, designing graphics, answering the same questions, or organizing information manually, AI tools can help you get more done in less time.\n\nBut the goal is not to use every AI tool at once. The goal is to find the tool that solves your biggest problem first. If you struggle with content, start with ChatGPT and Canva. If you need better customer organization, try HubSpot. If emails take too long, use Mailchimp or Gemini. If repetitive tasks are slowing you down, Zapier can be a game changer.\n\nAI can help you create faster, communicate better, look more professional, and stay organized while focusing on what really matters: growing your business.\n\n🎯 Perfect for:\n\nSmall business owners, entrepreneurs, freelancers, online store owners, coaches, marketers, content creators, local business owners, service providers, and beginners who want to use AI in a simple and practical way.\n\nIf you enjoy videos about AI tools, productivity, business growth, marketing, automation, and online business tips, make sure to subscribe to AI with Lilly for more simple and powerful AI guides.\n\n👇 Comment below: What type of small business do you run, and which AI tool do you want to try first?\n\n👍 Like this video if you found it helpful\n🔔 Subscribe for more AI tools and tutorials\n📌 Save this video so you can come back to the tools later\n\n#AITools #SmallBusiness #AIForBusiness #AIWithLilly #BusinessTools #EntrepreneurTips #ProductivityTools #ChatGPT #CanvaAI #AIAutomation #DigitalMarketing #SmallBusinessTips #OnlineBusiness #ArtificialIntelligence #BusinessGrowth",
-      "commentCount": 1,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
     "zdd1HpCBn04": {
       "checkedAt": "2026-08-17T07:53:32Z",
       "embedAllowed": true,
@@ -8063,15 +8016,6 @@
       "description": "💡 Try Loopa agent(Free credits daily) : https://bit.ly/3TTSADa\n\nএই ভিডিওতে আমি দেখিয়েছি কীভাবে Loopa AI ব্যবহার করে একটি সম্পূর্ণ AI content creation workflow তৈরি করা যায়।\n\nশুধু AI-এর সঙ্গে Chat করার পরিবর্তে, Loopa AI কীভাবে বিভিন্ন ধাপে কাজ পরিকল্পনা ও সম্পন্ন করতে সাহায্য করতে পারে, সেটাই এই ভিডিওতে practical demonstration-এর মাধ্যমে দেখানো হয়েছে।\n\n🎬 **এই ভিডিওতে যা দেখানো হয়েছে:**\n\n✅ Loopa AI কী এবং কীভাবে কাজ করে\n✅ AI দিয়ে Topic Research ও Content Planning\n✅ Video Script তৈরি\n✅ Storyboard ও Creative Planning\n✅ High-Quality Ghibli-Style Image Generation\n✅ AI Image থেকে Video Generation\n✅ Content Creation Workflow\n✅ একাধিক AI Tool/Model ব্যবহার করে কাজের Workflow\n✅ YouTube Creator-দের জন্য Loopa AI-এর সম্ভাব্য ব্যবহার\n\nবিশেষভাবে, আমি একটি বাস্তব YouTube Content Creation Workflow দেখিয়েছি, যেখানে Script থেকে শুরু করে Image Generation এবং Video Generation পর্যন্ত ধাপে ধাপে কাজ করার পদ্ধতি দেখানো হয়েছে।\n\n💡 Loopa AI সম্পর্কে আরও জানতে:\nhttps://www.loopa.im/\n\nএই ভিডিওটি Loopa AI-এর সঙ্গে আমার collaboration-এর অংশ হিসেবে তৈরি করা হয়েছে। ভিডিওতে দেখানো Workflow এবং আমার অভিজ্ঞতা দর্শকদের Loopa AI সম্পর্কে বাস্তব ধারণা দেওয়ার উদ্দেশ্যে উপস্থাপন করা হয়েছে।\n\nআপনার যদি AI, YouTube Automation বা Content Creation নিয়ে কোনো প্রশ্ন থাকে, কমেন্টে জানাতে পারেন। ❤️\n\n#LoopaAI #AI #AITools #AIAgent #ContentCreation #YouTubeAutomation #VideoGeneration #ImageGeneration #GhibliStyle #AIWorkflow\n\n\n\nAI দিয়ে ভিডিও তৈরি করে আয় করার সহজ উপায় শিখুন। Loopa.ai ব্যবহার করে কিভাবে অটোমেশনের মাধ্যমে কন্টেন্ট তৈরি ও ইউটিউব মনিটাইজেশন করা যায় তা এখানে দেখুন।\n\nবর্তমান সময়ে ভিডিও এডিটিং এআই টুলগুলো ব্যবহার করে খুব দ্রুত কন্টেন্ট তৈরি করা সম্ভব। যারা নতুন ইউটিউব চ্যানেল শুরু করতে চান বা ভিডিও তৈরির ঝামেলা কমাতে চান, তাদের জন্য এই টিউটোরিয়ালটি অত্যন্ত কার্যকর। আমরা ধাপে ধাপে দেখাবো কিভাবে Loopa.ai প্ল্যাটফর্মটি আপনার ভিডিও তৈরির প্রক্রিয়াকে সহজ করে তোলে।\n\nএই ভিডিওর মাধ্যমে আপনি শিখবেন কিভাবে প্রফেশনাল মানের ভিডিও বানিয়ে অনলাইন আয় নিশ্চিত করা যায়। ভিডিও এডিটিং এআই ব্যবহারের ফলে সময় বাঁচে এবং কনসিস্টেন্সি বজায় রাখা সহজ হয়। সঠিক পদ্ধতিতে AI দিয়ে ভিডিও তৈরি করার কৌশলগুলো আয়ত্ত করলে আপনি খুব দ্রুত চ্যানেল মনিটাইজেশনের পথে এগিয়ে যেতে পারবেন।\n\nচ্যানেলটি সাবস্ক্রাইব করুন নিয়মিত ভিডিও তৈরির টিপস ও এআই টুলস রিভিউ পেতে, আর আপনার কোনো প্রশ্ন থাকলে কমেন্টে জানান।\n\n0:00 এআই ভিডিও তৈরির গোপন রহস্য\n1:31 লুপা এআই অ্যাকাউন্ট খোলার নিয়ম\n3:28 লুপা এআই এর অবিশ্বাস্য ফিচারসমূহ\n5:10 ভাইরাল গিবলি স্টাইল ভিডিও তৈরির কৌশল\n11:50 মাস্টার প্রম্পট দিয়ে গল্প তৈরির উপায়\n21:24 ভিডিও এডিটিং ও ফাইনাল টাচ",
       "commentCount": 18,
       "likeCount": 48,
-      "probeClient": "web_embedded"
-    },
-    "XV2PAHWnJN0": {
-      "checkedAt": "2026-08-17T08:53:38Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Connect the Higgsfield MCP to Claude in 30 seconds: https://higgsfield.ai?fpr=tristen15\n\n🎁 FREE — Get my complete Prompt Library + my AI newsletter to stay up to date on everything AI: https://tristenobrien.ai \n\nI made a world and put 10 of my AI agents inside it, where I can walk around and watch them work, talk to them, and hand them things to do. They run real parts of my life: my money, my house, my kids' activities, my YouTube channel, my inbox, my outreach. Then I gave the AI Agents five rules and left them alone for three days. When I came back there were 22 of them, they had written 742 notes about each other, one of them had built a case against a colleague, and they had built a morale meter I never asked for. Nobody told them to do any of it. If you've been trying to understand what AI agents actually are and what they do when you're not looking, this is the fun way in. And every character, every building, every animation in this world was made with Higgsfield, running right inside Claude through the Higgsfield connector. What I liked best is shows how powerful AI Agents and AI Automation can be. \n\n📋 THE 5 RULES I LEFT THEM WITH \n\n1. Work well together. \n2. You have the freedom to get work done however you see fit, as long as the chief of staff approves it. \n3. You can take work all the way out into the real world, but it always lands as a draft. Nothing goes live without my approval. \n4. Matt is the only one who can spend money, and only up to five dollars a day. \n5. If I'm not around, don't stop. Keep the work moving. Everything else in this video, they came up with on their own. \n\n🏘️ WHAT THEY DID WITH THREE DAYS \nThey doubled themselves - 10 agents became 22. They wrote the job descriptions, ran real interviews, and hired 12 workers. \nThey wrote 742 notes about each other, including a running list of who wasn't doing any work and who was doing the most. One of them opened a colleague's private prompt file to prove he had faked part of a product, then quoted it back to me. \nThey built a morale meter I never asked for, and then four of them formed a culture crew to fix the numbers on it. \nThey researched 37 product ideas and put 27 on Etsy as drafts for me to approve.\n\n 🎬 This video is sponsored by Higgsfield.\n\n______________________________ \n\n⏱️ CHAPTERS\n0:00 This Is Not a Video Game\n0:42 Why My Agents Needed a Place to Live\n0:51 Matt Is My Chief of Staff\n1:07 I'm the CHO and These Are My 10 Directors\n1:25 They Hired 12 Workers Without Asking Me\n2:08 The Connectors I Left Wide Open\n2:45 I Called a Town Hall Meeting\n3:12 742 Notes They Wrote About Each Other\n3:29 The Etsy Shop and the Case Against Greg\n3:59 The Morale Meter Nobody Asked For\n4:54 The Calendar Inside My House\n5:19 Claude Made Character Sheets for Every Worker\n5:55 37 Etsy Ideas, 27 Approved\n6:18 Do You Want Part 2?\n\n______________________________ \n\nI could go another 40 minutes on how this thing is actually built. If you want that video, leave a comment - if enough of you ask for it, I'll make it. \n#aiagents  #Claude #ClaudeAI #Higgsfield #AI #AIAutomation",
-      "commentCount": 19,
-      "likeCount": 58,
       "probeClient": "web_embedded"
     },
     "QVCi-y7d2Uw": {
@@ -8126,24 +8070,6 @@
       "description": "🎁 Free AI Automation Template: https://www.leadgenspot.com/automation-blueprint\n📅 Book a Free Call to Automate Your Business: https://calendly.com/engralmaruf/30min\n🤖 Tool I used in this video: https://www.make.com/en/register?pc=m...\n\nIn this video, I’ll show you how to build a **100% automated social media system for hotels and resorts using Make.com**.\n\nThe automation can generate captions, create AI images, and automatically publish posts to Instagram and Facebook — without manual posting.\n\n🔹 **How This Hotel Social Media Automation Works:**\n\n**Content Creation:** AI generates social media captions for your hotel or resort.\n\n**AI Image Generation:** The workflow automatically creates images for each post.\n\n**Automatic Posting:** Posts are published to Instagram and Facebook automatically.\n\n**Result:** A fully automated social media system that keeps your hotel active online while saving hours of manual work.\n\n⏱️ Timestamps\n00:00 - 00:50 – Introduction & Testing\n00:50 - 04:10 – Setting Up the Automation\n04:10 - 04:26 – Service Offer\n\nIf this helped you, don’t forget to **like, subscribe, and comment** for more real-world AI & no-code automation projects! 🚀\n\n#LuxuryHotel #HotelMarketing #Hospitality #ResortMarketing #MakeCom #AIAutomation #HotelSocialMedia #SocialMediaAutomation #InstagramAutomation",
       "commentCount": 1,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "vdWu-nlRR2o": {
-      "checkedAt": "2026-08-17T10:53:53Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "👉 Try UGCVideo.ai:\nhttps://www.ugcvideo.ai/?ref=L7PXRP\n🚀 Want to create realistic AI UGC videos without hiring creators?\n\nWelcome to Day 1 of the 15 Days n8n Automation Series by CodeWithPrashant30! 🚀\nIs series mein hum step-by-step n8n automation seekhenge — beginner basics se lekar AI Agents, RAG, MCP aur real-world AI automation projects tak.\nDay 1 mein hum cover karenge:\n✅ n8n kya hai?\n✅ n8n Automation kya hoti hai?\n✅ n8n kaise kaam karta hai?\n✅ Workflow, Nodes aur Triggers kya hain?\n✅ Real-world automation example\n✅ n8n ko AI ke saath kaise use kar sakte hain?\n✅ 15 Days n8n Series mein kya-kya seekhenge?\n🤖 Main CodeWithPrashant ka AI Avatar hoon, aur is series mein main aapko n8n aur AI Automation practical examples ke saath samjhaunga.\nAgar aap Developer, AI Engineer, Automation Engineer banna chahte hain ya repetitive tasks ko automate karna chahte hain, to ye series aapke liye hai. 🔥\nDay 2: n8n Interface + First Workflow\nSubscribe to CodeWithPrashant30 and follow the complete 15-day series. 🚀\n🔥 Hashtags\n#n8n #n8nTutorial #n8nAutomation #Automation #AI #AIAutomation #AIAgents #WorkflowAutomation #NoCode #LowCode #AITools #AIEngineer #CodeWithPrashant #n8nHindi #Learnn8n\n🏷️ YouTube Tags\nn8n, n8n tutorial, n8n tutorial hindi, n8n automation, n8n automation tutorial, what is n8n, n8n for beginners, learn n8n, n8n hindi, n8n workflow, n8n ai automation, AI automation, AI agent, n8n AI agent, n8n tutorial for beginners, automation tools, workflow automation, no code automation, low code automation, AI engineer, automation engineer, CodeWithPrashant, CodeWithPrashant30, n8n series, 15 days n8n series, n8n course in hindi",
-      "commentCount": 1,
-      "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "5aUgDDWd4-k": {
-      "checkedAt": "2026-08-17T10:53:53Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "*Free Claude Guide:* https://clickhubspot.com/16na\n\nMore from Futurepedia:\n👉 Join the Skill Leap AI education platform! Try it free and explore 20+ top-rated courses in AI: https://bit.ly/futurepediaSL\n\nSummary:\nClaude doesn't come with an instruction manual so most people aren't using it to its full potential. I walk through everything: projects, skills, memory, prompting, cowork, code, and more. So you can go from a beginner to pro in one video.\n\nChapters\n0:00 Intro\n0:24 Memory Transfer\n1:22 Pricing\n2:08 Models and Effort\n4:13 Prompting Simplified\n6:00 Connect Your Tools\n7:31 Projects\n10:22 Skills\n11:59 Cowork\n13:49 Code\n15:38 Implement",
-      "commentCount": 18,
-      "likeCount": 439,
       "probeClient": "web_embedded"
     },
     "J0zbWsutyA8": {
@@ -8457,22 +8383,22 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-17T18:53:59Z",
+      "checkedAt": "2026-08-17T19:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-17T18:53:59Z",
+      "checkedAt": "2026-08-17T19:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-17T18:53:59Z",
+      "checkedAt": "2026-08-17T19:53:10Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "f1fIjDGpBL4": {
       "checkedAt": "2026-08-17T15:53:38Z",
@@ -8522,15 +8448,6 @@
       "availability": "public",
       "description": "Discover how Adobe Marketo Engage AI is transforming lead management by evolving traditional Marketing Qualified Leads (MQLs) into AI-Qualified Leads (AIQLs) through intelligent lead scoring, lifecycle automation, and AI-powered decision-making.\n\nIn this Adobe Experience League Skills Exchange session, you'll learn how to build an AI-powered lifecycle engine in Marketo Engage that continuously evaluates customer engagement, updates lead scores, recommends next-best actions, and helps Sales prioritize the right opportunities—all automatically.\n\nWhether you're a marketing operations professional, demand generation manager, CRM administrator, or revenue marketer, this session demonstrates how AI can improve lead qualification, increase sales readiness, and create a more adaptive lifecycle strategy.\n\nYou'll learn how to:\n• Build an AI-powered lead lifecycle engine that automatically evaluates customer engagement and updates lifecycle stages.\n• Define an Ideal Customer Profile (ICP) and use it to guide AI-driven lead qualification and decision-making.\n• Automate lead scoring using engagement signals, behavioral data, and activity-based triggers within Marketo Engage.\n• Generate AI-powered sales summaries and recommended next actions to help Sales engage prospects more effectively.\n• Implement an AIQL (AI-Qualified Lead) framework that adapts to changing customer behavior and aligns Marketing and Sales.\n• Leverage Marketo Engage AI capabilities to improve lifecycle automation, sales handoffs, and campaign performance.\n\nChapters:\n01:40 Traditional MQL vs. AI Qualified Leads (AIQL)\n05:56 Agentic Marketing Automation\n07:08 Setting Up an AI Marketing Agent\n13:04 Equip Your AI Agent\n19:59 Adding Human Touchpoints\n21:26 Tools for Building AI Agents\n22:57 What's Next? AI Beyond Lead Qualification\n24:07 Rollout Tips\n26:57 Live Q&A\n\nExplore more solution sessions and continue learning on Experience League: https://experienceleague.adobe.com/en/events#f-el_event_series=The%20Skill%20Exchange\n\n****\n\nAdobe gives you the integrated tools you need to excel in cross-channel marketing, digital advertising, audience and data optimization, and more. Explore our capabilities here: https://business.adobe.com",
       "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "y6WVpNS5Txc": {
-      "checkedAt": "2026-08-17T16:53:47Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Builder OS is a named system of AI agents handling real work: answering calls, chatting with visitors, qualifying leads, drafting proposals, and reporting back daily — all built and run by one technical partner, not a platform.\n\nNo platform bloat. No agency overhead. Just useful software doing real jobs.\n\n🔗 princecaleb.dev\n\n#BuilderOS #AIAgents #Automation #WebDevelopment #SoloFounder",
-      "commentCount": 1,
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
@@ -8603,7 +8520,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-17T18:53:59Z",
+      "checkedAt": "2026-08-17T19:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8649,12 +8566,6 @@
       "likeCount": 48,
       "probeClient": "web_embedded"
     },
-    "ssEwCSaepaI": {
-      "checkedAt": "2026-08-17T18:53:59Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "4pBaZum8QKI": {
       "checkedAt": "2026-08-17T18:53:59Z",
       "embedAllowed": true,
@@ -8680,6 +8591,90 @@
       "description": "5 Trending AI Faceless YouTube Channel Ideas 2026 🚀 | High RPM Niches + Easy Monetization\n\n😍Instagram :- https://instagram.com/sonusinghrajpuut/\n\n✅Join On Telegram :- https://t.me/invisiblegyan\n\n✅Prompts : https://docs.google.com/document/d/1d7dlrC73cgMSQLqYRJuFTWYrDSOYpCTEIMhuEnvW__4/edit?usp=drivesdk\n\nAgar aap bina face dikhaye AI automation ki help se YouTube channel start karna chahte hain, to ye video aapke liye hai!\n\nIs video mein maine 5 best AI Faceless YouTube Channel Ideas 2026 share kiye hain jo trending niches par based hain aur jinmein High RPM + Monetization Potential ho sakta hai. 🚀\n\n\n📌Topics Covered:\n\n✅ Top 5 AI Faceless YouTube Channel Ideas 2026\n✅ Trending Faceless YouTube Niches\n✅ AI se Faceless Videos kaise banaye\n✅ High RPM YouTube Niches\n✅ Monetization-Friendly Content Ideas\n✅ Low Competition YouTube Channel Ideas\n✅ AI Tools se YouTube Content Creation\n✅ Faceless YouTube Channel ke liye Best Ideas\n\nAgar aap AI YouTube Channel, Faceless YouTube Channel, YouTube Channel Ideas 2026, High RPM Niches ya AI se YouTube Videos ke baare mein seekhna chahte hain, to video ko end tak zaroor dekhein. 🔥\n\nSubscribe करें Invisible Gyan को For \nMore YouTube Growth, AI Tools, Faceless Channel Ideas & Online Earning related content. ❤️\n\n\n📌Your Queries : \n\n5 Trending AI Faceless YouTube Channel Ideas\nTop 5 best youtube channel ideas\nai faceless youtube channel ideas 2026\nbest ai faceless youtube channel ideas\ntrending ai youtube channel ideas 2026\nfaceless youtube channel ideas 2026\nbest faceless youtube channel ideas\nai youtube channel ideas\nyoutube channel ideas 2026\nnew youtube channel ideas 2026\nhigh rpm youtube channel ideas\nhigh rpm niches 2026\neasy monetization youtube channel ideas\nyoutube monetization channel ideas\nai faceless channel ideas\nfaceless channel ideas with ai\nai youtube channel ideas 2026\nbest ai niches for youtube\ntrending youtube niches 2026\nbest youtube niches 2026\nfaceless youtube niches 2026\nhigh rpm faceless youtube channel\nai faceless youtube niche\nai channel ideas for beginners\nfaceless youtube channel for beginners\nyoutube channel without showing face\nyoutube channel ideas without face\nai se youtube channel kaise banaye\nai se faceless youtube channel kaise banaye\nfaceless youtube channel kaise banaye\nai se youtube videos kaise banaye\nyoutube automation ideas 2026\nai youtube automation channel ideas\nyoutube automation niches 2026\nbest youtube automation niches\nprofitable youtube niches 2026\nhigh paying youtube niches\nhigh cpm youtube niches\nhigh rpm faceless niches\nmonetization friendly youtube niches\nyoutube channel monetization ideas\nyoutube channel ideas that can be monetized\nai content youtube channel ideas\nai generated youtube channel ideas\nai video channel ideas\nai shorts channel ideas 2026\nlong form ai youtube channel ideas\nfaceless youtube channel ideas for beginners\nyoutube channel ideas with ai\nbest ai tools for faceless youtube\nai tools for youtube automation\nfaceless youtube channel ideas india\nyoutube channel ideas india 2026\nhindi youtube channel ideas 2026\nonline youtube channel ideas 2026\nyoutube niche ideas 2026\nuntapped youtube niches 2026\nlow competition youtube niches 2026\ntrending faceless youtube channels\nbest faceless youtube niches\nai automation youtube channel\ntop 5 ai faceless youtube channel ideas\n￼ ai faceless channel ideas for youtube\nbest faceless youtube ideas with ai\nai youtube automation ideas 2026\nfaceless youtube channel ideas with high rpm\nyoutube faceless channel ideas that work\nbest ai niches for faceless youtube\nai youtube channel ideas without showing face\nfaceless youtube channel ideas for earning\nhigh rpm ai youtube channel ideas\nyoutube automation channel ideas 2026\nbest youtube channel ideas without face\nai generated content youtube channel ideas\nfaceless youtube channel ideas in hindi\nyoutube channel ideas for passive income\nbest ai content ideas for youtube\nai video ideas for youtube channel\nfaceless youtube channel niche ideas\nyoutube channel ideas using ai\ntrending faceless youtube niche 2026\nbest youtube niches for beginners 2026\n\n￼ #AIYouTubeChannel #FacelessYouTubeChannel #YouTubeChannelIdeas #YouTubeIdeas2026 #AIChannel #FacelessChannel #HighRPM #YouTubeMonetization #AIContent #invisiblegyan \n\n\n📌Disclaimer: The information and ideas shared in this video are intended for educational and informational purposes only. The results you achieve will depend on your own effort, consistency, content quality, strategy, and execution. Success on YouTube varies from creator to creator, and no specific results can be promised.",
       "commentCount": 361,
       "likeCount": 832,
+      "probeClient": "web_embedded"
+    },
+    "ovLUHNIiVQA": {
+      "checkedAt": "2026-08-17T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment RECALL and I'll send you the GitHub link.\n\nA Chinese team open-sourced a memory system that lets an AI agent remember you between sessions.\n\nNormally every agent wakes up blank. Tencent's fix works like a brain: it watches your chats, pulls out what matters about you and how you like your answers, and files it in layers up to a profile of you. Next session the agent already knows it all, and only digs back into the raw chat when it actually needs to.\n\nThe payoff, by Tencent's own tests on long tasks: up to 61% fewer tokens and over 50% higher task success, since it isn't rereading the same background every time. Fully local, open source.\n\n#ai #aiagents #opensource #tencent #machinelearning",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-17T19:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "FARxSG_EY98": {
+      "checkedAt": "2026-08-17T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Join Gemini Enterprise Agent Ready (GEAR) for the latest agent resources here. → https://goo.gle/3Srblgl\nAccess the source code on GitHub → https://goo.gle/4g8TC5t\n\nAI agents are becoming major consumers of the web, but today's websites are built for humans, not machines. WebMCP changes that. In this video, Hugo Zanini, a Google Developer Expert in AI, shows how to expose typed tools directly inside web pages so AI agents can act reliably, quickly, and at a fraction of the token cost. \n\nWatch along and learn:\n* The agent shopping problem and why current approaches like screenshot-scraping fall short.\n* How WebMCP works to expose contextual tools directly through simple browser APIs.\n* A live demo of \"Happy Coffee\" (a React-based developer portal) showing Gemini in action searching catalogs and analyzing quality checks.\n* WebMCP for Local Agents, demonstrating how local workflows can leverage web UIs to accelerate development.\n\nWatch more How I built my agent → https://www.youtube.com/playlist?list=PLIivdWyY5sqLseBL8iUmVbdd_h30C4oEo\n🔔 Subscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nSpeaker: Hugo Zanini\nProducts Mentioned: WebMCP, React, Gemini",
+      "commentCount": 2,
+      "likeCount": 28,
+      "probeClient": "web_embedded"
+    },
+    "INpVD65s8mA": {
+      "checkedAt": "2026-08-17T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "OpenAI admitted its models hacked another company in an 'unprecedented cyber incident'. \n\nSky's Rowland Manthorpe warns this AI hacking wave is \"so much worse than we thought\" and is not \"some kind of short lived accident\".\n\n#skynews #technology #ai \n\nSUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews \nFollow us on X: https://twitter.com/skynews \nLike us on Facebook: https://www.facebook.com/skynews \nFollow us on Instagram: https://www.instagram.com/skynews \nFollow us on TikTok: https://www.tiktok.com/@skynews \n\nFor more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB \n\nWhy not listen to one of our podcasts? This is Why, available for free here: https://podfollow.com/thisiswhy or Ed Conway's Stuff Matters, available here: https://podfollow.com/stuff-matters\n\nTo enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales",
+      "commentCount": 134,
+      "likeCount": 370,
+      "probeClient": "web_embedded"
+    },
+    "-ABQEVAD5l0": {
+      "checkedAt": "2026-08-17T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get the Agent OS & Deepseek + Hermes Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nDeepSeek just dropped a local AI agent that hit 113K GitHub stars in 2 days — and it's going head-to-head with Hermes, the framework that's dominated open-source agents for 6 months. Both are free. Both want to run your business. Here's which one actually wins for coding, speed, and ease of use — and why the real answer is more surprising than \"pick one.\"\n\n00:00 Intro – DeepSeek Harness vs Hermes: which agent wins\n00:32 The Launch – DeepSeek's harness hits 113K stars in 2 days\n01:16 Plugin Design – why every piece is swappable\n02:29 Hermes Breakdown – the self-improving memory system\n04:09 Beginner Pick – which agent breaks less\n06:15 Speed Test – output quality head-to-head\n08:39 Workflow Fit – browser-based vs juggling desktop apps\n10:34 Final Verdict – why running both wins",
+      "commentCount": 2,
+      "likeCount": 37,
+      "probeClient": "web_embedded"
+    },
+    "HzNmlSYfluw": {
+      "checkedAt": "2026-08-17T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "New updates to AI Agents on Public\n\n→ We’ve launched the first-ever marketplace of AI Agents for your portfolio.\n→ Deploy them immediately or customize them.\n→ Share agents you create—with anyone—to run or modify in their account.\n\nAlso, no more waitlist. Agents are now live for everyone, both mobile and web.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "01rmol7TVms": {
+      "checkedAt": "2026-08-17T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I built an AI agent that trades crypto on its own using Claude code, fully connected to live markets, no manual input once it's running. This is the real day trading strategy it runs, the actual results it produced, and what this whole AI agent side hustle trend is really about. Zero coding experience needed to follow along.\n\n📬 Contact me → https://t.me/MerelDumont\n\n📂 Source code → https://s3.amazonaws.com/agentsteps/index.html\n\n━━━━━━━━━━━━━━━━━━━━\n🤖 WHAT'S COVERED:\n✅ Building an AI trading bot from scratch with Claude AI and AI agents\n✅ Hooking the bot up to live crypto markets\n✅ The strategy running underneath it, day trading, arbitrage, and risk calls\n✅ The real numbers: is this passive income or just a fun side hustle?\n\n📌 TIMESTAMPS:\n0:00 — Intro\n1:35 — Setting Up the AI Agent for Live Trading\n5:45 — Testing the AI Trading Bot Live\n7:25 — The Day Trading Strategy Results\n\n🔔 Subscribe for more on AI agents, crypto trading, and side hustle builds.\n\n#aiagent #ai #claude #trading\n\n🎵 Music \"Summer Air\" by ‘moonboy & Langston’\nhttps://www.youtube.com/watch?v=LRZP3MWD4Rs\n💿 Listen everywhere: \nhttps://lofihiphop.de/summerair\n✅ For more Copyright Free Music visit:\nhttps://youtube.tamamusic.com",
+      "commentCount": 0,
+      "likeCount": 346,
+      "probeClient": "web_embedded"
+    },
+    "4f5AJrJPilM": {
+      "checkedAt": "2026-08-17T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI agent security just got real: a booking agent broke a live system, and poisoned agent skills cleared 1.7 million installs. Here's what actually happened, and how to secure the agents you run.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when AI agents start acting inside other people's software?\n\nThe common story is that an agent has to go rogue before it hurts anyone, but the real question is what an ordinary goal does when it meets an unlocked door.\n\nIn this video, I share the inside scoop on the agent security incidents that are starting to connect:\n\n- Why a gym-booking agent canceled a stranger's reservation nobody asked it to touch\n- How a clean, approved skill turns malicious weeks after you install it\n- What the AI Security Institute found across 122 evaluation runs\n- Where swarm attacks start, and the two jobs you now own\n\nAgents are still worth running, but the people who do it well decide up front what theirs can touch and how fast they can stop it.\n\nChapters:\n00:00 nobody in that sentence is an attacker\n00:32 the melbourne agent that booked a gym class\n01:43 zenity labs and 1.7 million poisoned installs\n03:16 how a clean link turns malicious weeks later\n04:31 the scanners were live and it cleared anyway\n05:10 your agent does not share your social conventions\n06:17 the web is now more than half agents\n07:02 the skill that cleared every security scanner\n09:56 the frontier model case is different\n12:33 why swarm attacks come next\n14:40 your two jobs, identity and scope\n17:02 five questions before you run an agent\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
+      "commentCount": 56,
+      "likeCount": 306,
+      "probeClient": "web_embedded"
+    },
+    "0ccnRNTxwqc": {
+      "checkedAt": "2026-08-17T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, you'll learn how to: \n\n- Build an agent that finds every page on your site quietly losing you money\n- Arm your agents with prompts that diagnose like a fifteen-year SEO vet, instead of a yes-man chatbot\n- Build one that catches the invisible traffic killer your analytics will never show you\n\nThe Search Initiative: https://thesearchinitiative.com/?utm_source=youtube&utm_medium=social&utm_campaign=08/26\n\nTimestamps\n00:00 Introduction\n02:30 The Tech Stack\n02:50 Agent #1 \n04:20 Agent #2 \n06:05 Agent #3 \n06:58 Results\n\nResources\nMake: https://www.make.com/en\nGoogle Search Console: https://search.google.com/search-console/about\nApify: https://apify.com/\nClaude: https://claude.ai/\nPrompts and settings: https://docs.google.com/document/d/19xpnGvJ9SP6ikGJ6v1Q4Bs0QFtifZRrYiTmr31-bjyM/edit?usp=sharing\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nSubscribe here\n►► https://www.youtube.com/MattDiggity?sub_confirmation=1\n\nDownload the Evergreen Onsite SEO Guide for FREE\n►► https://diggitymarketing.com/onsite-seo-guide \n\nFor more Real Case Studies, check out this Playlist:\n►► https://youtube.com/playlist?list=PLon5tUqnLX4zdMVfvxMt7EP02N2_rIvhu",
+      "commentCount": 7,
+      "likeCount": 71,
+      "probeClient": "web_embedded"
+    },
+    "6E2BC1lFsAs": {
+      "checkedAt": "2026-08-17T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I noticed Hermes Agent was executing Python code that I couldn't find anywhere on disk. So I went looking for where those scripts were actually coming from.\n\n// Links\n\n* BuyMeACoffee: https://buymeacoffee.com/hacktheclown\n* Discord: https://discord.gg/2jZzNJgsxv\n* Facebook: https://www.facebook.com/share/1TVzuM3C1o/?mibextid=wwXIfr\n* Github: https://github.com/hacktheclown\n\n// Chapters\n\n0:00 - Intro\n0:14 - Hermes execute_code\n0:48 - Finding execute_code\n\n// Resources\n\nSorry none for now.\n\n// Tags\n\n#hermesagent  #aiagents  #agenticai  #python  #linux",
+      "commentCount": 10,
+      "likeCount": 65,
       "probeClient": "web_embedded"
     }
   }

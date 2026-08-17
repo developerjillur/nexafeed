@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T18:53:59Z",
+  "updatedAt": "2026-08-17T19:53:10Z",
   "items": [
+    {
+      "id": "ovLUHNIiVQA",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-17T19:00:15Z",
+      "firstSeenAt": "2026-08-17T19:53:10Z"
+    },
+    {
+      "id": "FARxSG_EY98",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Google Cloud Tech",
+      "publishedAt": "2026-08-17T19:00:10Z",
+      "firstSeenAt": "2026-08-17T19:53:10Z"
+    },
+    {
+      "id": "INpVD65s8mA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sky News",
+      "publishedAt": "2026-08-17T17:53:10Z",
+      "firstSeenAt": "2026-08-17T19:53:10Z"
+    },
+    {
+      "id": "-ABQEVAD5l0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-17T17:53:10Z",
+      "firstSeenAt": "2026-08-17T19:53:10Z"
+    },
+    {
+      "id": "HzNmlSYfluw",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Public App",
+      "publishedAt": "2026-08-17T16:53:10Z",
+      "firstSeenAt": "2026-08-17T19:53:10Z"
+    },
+    {
+      "id": "01rmol7TVms",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Merel Dumont",
+      "publishedAt": "2026-08-17T14:53:10Z",
+      "firstSeenAt": "2026-08-17T19:53:10Z"
+    },
+    {
+      "id": "4f5AJrJPilM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI News & Strategy Daily | Nate B Jones",
+      "publishedAt": "2026-08-17T14:53:10Z",
+      "firstSeenAt": "2026-08-17T19:53:10Z"
+    },
+    {
+      "id": "0ccnRNTxwqc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Matt Diggity",
+      "publishedAt": "2026-08-17T13:53:10Z",
+      "firstSeenAt": "2026-08-17T19:53:10Z"
+    },
+    {
+      "id": "6E2BC1lFsAs",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Hack the Clown",
+      "publishedAt": "2026-08-17T10:53:10Z",
+      "firstSeenAt": "2026-08-17T19:53:10Z"
+    },
     {
       "id": "uUIJPWsHD38",
       "type": "short",
@@ -16975,6 +17047,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-17T19:53:10Z",
+      "new": 9,
+      "long": 6,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
