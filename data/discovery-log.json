@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T19:53:10Z",
+  "updatedAt": "2026-08-17T20:53:19Z",
   "items": [
+    {
+      "id": "VH5ocJEcoo4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Get to the Next Level",
+      "publishedAt": "2026-08-17T20:48:55Z",
+      "firstSeenAt": "2026-08-17T20:53:19Z"
+    },
+    {
+      "id": "zeJA_W2VsB0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DevForge",
+      "publishedAt": "2026-08-17T19:53:19Z",
+      "firstSeenAt": "2026-08-17T20:53:19Z"
+    },
+    {
+      "id": "oPJZwruEM5M",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Course Decoded ",
+      "publishedAt": "2026-08-17T18:53:19Z",
+      "firstSeenAt": "2026-08-17T20:53:19Z"
+    },
+    {
+      "id": "WUbwmn8zN9I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ramesh Fadatare - AI & Tech",
+      "publishedAt": "2026-08-17T14:53:19Z",
+      "firstSeenAt": "2026-08-17T20:53:19Z"
+    },
+    {
+      "id": "Jj0QG7nIX3g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "College Wallah",
+      "publishedAt": "2026-08-17T13:53:19Z",
+      "firstSeenAt": "2026-08-17T20:53:19Z"
+    },
+    {
+      "id": "IPCRA-YaX5I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Pervert and Beckett Ai",
+      "publishedAt": "2026-08-17T12:53:19Z",
+      "firstSeenAt": "2026-08-17T20:53:19Z"
+    },
+    {
+      "id": "WK2BvjOYTCQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "John Savill's Technical Training",
+      "publishedAt": "2026-08-17T10:53:19Z",
+      "firstSeenAt": "2026-08-17T20:53:19Z"
+    },
     {
       "id": "ovLUHNIiVQA",
       "type": "short",
@@ -17056,6 +17112,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-17T20:53:19Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
