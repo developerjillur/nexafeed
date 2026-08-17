@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T12:53:11Z",
+  "updatedAt": "2026-08-17T13:53:20Z",
   "items": [
+    {
+      "id": "XQr1aWUpVSU",
+      "type": "long",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-17T13:45:08Z",
+      "firstSeenAt": "2026-08-17T13:53:20Z"
+    },
+    {
+      "id": "HpEb_GmUibU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "RealPars",
+      "publishedAt": "2026-08-17T13:02:20Z",
+      "firstSeenAt": "2026-08-17T13:53:20Z"
+    },
+    {
+      "id": "dxGLC5iJ47M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Lets Uncover",
+      "publishedAt": "2026-08-17T09:53:20Z",
+      "firstSeenAt": "2026-08-17T13:53:20Z"
+    },
+    {
+      "id": "3t5DX7iL9WY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BIM Pure",
+      "publishedAt": "2026-08-17T09:53:20Z",
+      "firstSeenAt": "2026-08-17T13:53:20Z"
+    },
     {
       "id": "SLjfjwn180U",
       "type": "short",
@@ -16625,6 +16657,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-17T13:53:20Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
