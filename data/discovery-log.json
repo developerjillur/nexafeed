@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T21:53:27Z",
+  "updatedAt": "2026-08-17T22:53:37Z",
   "items": [
+    {
+      "id": "-zcm_sDRFew",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Firstpost",
+      "publishedAt": "2026-08-17T19:53:37Z",
+      "firstSeenAt": "2026-08-17T22:53:37Z"
+    },
+    {
+      "id": "RQS0LbA_4m4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Defang Software Labs",
+      "publishedAt": "2026-08-17T18:53:37Z",
+      "firstSeenAt": "2026-08-17T22:53:37Z"
+    },
+    {
+      "id": "sfErVt_zg0s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NoCode ProCode - Despia CEO",
+      "publishedAt": "2026-08-17T16:53:37Z",
+      "firstSeenAt": "2026-08-17T22:53:37Z"
+    },
+    {
+      "id": "uAJlfggIUDY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Iman Musa",
+      "publishedAt": "2026-08-17T14:53:37Z",
+      "firstSeenAt": "2026-08-17T22:53:37Z"
+    },
+    {
+      "id": "XphLBy1jYZs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Intellipaat",
+      "publishedAt": "2026-08-17T14:53:37Z",
+      "firstSeenAt": "2026-08-17T22:53:37Z"
+    },
     {
       "id": "VwGrXe2ricE",
       "type": "long",
@@ -17186,6 +17226,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-17T22:53:37Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
