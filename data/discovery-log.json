@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T14:53:08Z",
+  "updatedAt": "2026-08-18T15:53:06Z",
   "items": [
+    {
+      "id": "uH_irTkY6RM",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-18T15:51:39Z",
+      "firstSeenAt": "2026-08-18T15:53:06Z"
+    },
+    {
+      "id": "UXQV9os8CVk",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-18T15:49:56Z",
+      "firstSeenAt": "2026-08-18T15:53:06Z"
+    },
+    {
+      "id": "lM3KWEmBdMg",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-18T15:00:12Z",
+      "firstSeenAt": "2026-08-18T15:53:06Z"
+    },
+    {
+      "id": "4lgiD-3pEn8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Wixel AI",
+      "publishedAt": "2026-08-18T15:06:06Z",
+      "firstSeenAt": "2026-08-18T15:53:06Z"
+    },
+    {
+      "id": "lNn15xqndqM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vimas Tech",
+      "publishedAt": "2026-08-18T13:53:06Z",
+      "firstSeenAt": "2026-08-18T15:53:06Z"
+    },
+    {
+      "id": "2iboo7fS2cg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anoop Digital",
+      "publishedAt": "2026-08-18T12:53:06Z",
+      "firstSeenAt": "2026-08-18T15:53:06Z"
+    },
+    {
+      "id": "2iMtmdOYfJo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Juvockia Melvin",
+      "publishedAt": "2026-08-18T11:53:06Z",
+      "firstSeenAt": "2026-08-18T15:53:06Z"
+    },
     {
       "id": "rRdoy9qKzSU",
       "type": "short",
@@ -17883,6 +17939,15 @@
       "channelsChecked": 33,
       "warnings": 1,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-18T15:53:06Z",
+      "new": 7,
+      "long": 4,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
