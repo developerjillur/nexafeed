@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T01:53:05Z",
+  "updatedAt": "2026-08-18T02:53:06Z",
   "items": [
+    {
+      "id": "85UkTlA0MLE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Beau Carnes",
+      "publishedAt": "2026-08-17T17:53:06Z",
+      "firstSeenAt": "2026-08-18T02:53:06Z"
+    },
+    {
+      "id": "ieqiNDdXSaw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Skill Leap AI",
+      "publishedAt": "2026-08-17T17:53:06Z",
+      "firstSeenAt": "2026-08-18T02:53:06Z"
+    },
+    {
+      "id": "bjKgCGeiQ_s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Qodo",
+      "publishedAt": "2026-08-17T15:53:06Z",
+      "firstSeenAt": "2026-08-18T02:53:06Z"
+    },
     {
       "id": "UgGMGhJPDAc",
       "type": "short",
@@ -17350,6 +17374,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-18T02:53:06Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
