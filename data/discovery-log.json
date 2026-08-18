@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T08:53:04Z",
+  "updatedAt": "2026-08-18T09:53:04Z",
   "items": [
+    {
+      "id": "y5MGVygoRf8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ankit Inspires India",
+      "publishedAt": "2026-08-18T08:53:04Z",
+      "firstSeenAt": "2026-08-18T09:53:04Z"
+    },
+    {
+      "id": "kfa4DlCD6_0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "This Is Creating w/ Sara Tavasolian",
+      "publishedAt": "2026-08-18T07:53:04Z",
+      "firstSeenAt": "2026-08-18T09:53:04Z"
+    },
+    {
+      "id": "nR_jzLi0PPA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BridgeMind",
+      "publishedAt": "2026-08-18T01:53:04Z",
+      "firstSeenAt": "2026-08-18T09:53:04Z"
+    },
     {
       "id": "LL2myp4Bo0o",
       "type": "long",
@@ -17581,6 +17605,15 @@
       "channelsChecked": 33,
       "warnings": 1,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-18T09:53:04Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
