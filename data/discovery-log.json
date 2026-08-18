@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T02:53:06Z",
+  "updatedAt": "2026-08-18T03:53:06Z",
   "items": [
+    {
+      "id": "GyO9UdDvL7g",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Prodiga ai",
+      "publishedAt": "2026-08-17T19:53:06Z",
+      "firstSeenAt": "2026-08-18T03:53:06Z"
+    },
+    {
+      "id": "31a2CVOxh1w",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dan Buica | AI Automation",
+      "publishedAt": "2026-08-17T18:53:06Z",
+      "firstSeenAt": "2026-08-18T03:53:06Z"
+    },
+    {
+      "id": "kx0sjBCewM8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Felix Wick",
+      "publishedAt": "2026-08-17T17:53:06Z",
+      "firstSeenAt": "2026-08-18T03:53:06Z"
+    },
+    {
+      "id": "ndXFSc23oUE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jordan Le | Lead Gen For Service Businesses",
+      "publishedAt": "2026-08-17T17:53:06Z",
+      "firstSeenAt": "2026-08-18T03:53:06Z"
+    },
+    {
+      "id": "okgP0N3gDx8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Serop | AI Automation",
+      "publishedAt": "2026-08-17T17:53:06Z",
+      "firstSeenAt": "2026-08-18T03:53:06Z"
+    },
+    {
+      "id": "Th74dVEs0FM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AmpliSell",
+      "publishedAt": "2026-08-17T17:53:06Z",
+      "firstSeenAt": "2026-08-18T03:53:06Z"
+    },
     {
       "id": "85UkTlA0MLE",
       "type": "long",
@@ -17383,6 +17431,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-18T03:53:06Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 15,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
