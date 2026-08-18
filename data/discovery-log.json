@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T11:53:06Z",
+  "updatedAt": "2026-08-18T12:53:07Z",
   "items": [
+    {
+      "id": "25lnMXUdp54",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-18T12:30:17Z",
+      "firstSeenAt": "2026-08-18T12:53:07Z"
+    },
+    {
+      "id": "2ZQ4jSkiqr4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-18T12:22:06Z",
+      "firstSeenAt": "2026-08-18T12:53:07Z"
+    },
+    {
+      "id": "quVzmAb9oqs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Native Dev",
+      "publishedAt": "2026-08-18T12:00:07Z",
+      "firstSeenAt": "2026-08-18T12:53:07Z"
+    },
+    {
+      "id": "84zAhtu9ZJ0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Genie Ashwani",
+      "publishedAt": "2026-08-18T11:53:07Z",
+      "firstSeenAt": "2026-08-18T12:53:07Z"
+    },
     {
       "id": "2VgKrwzmfBM",
       "type": "short",
@@ -17712,6 +17744,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-18T12:53:07Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
