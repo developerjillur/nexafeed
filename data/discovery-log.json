@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T13:53:08Z",
+  "updatedAt": "2026-08-18T14:53:08Z",
   "items": [
+    {
+      "id": "rRdoy9qKzSU",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-18T14:38:55Z",
+      "firstSeenAt": "2026-08-18T14:53:08Z"
+    },
+    {
+      "id": "TYDswsgIbqE",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-08-18T14:32:04Z",
+      "firstSeenAt": "2026-08-18T14:53:08Z"
+    },
+    {
+      "id": "s2MB_AvuGP8",
+      "type": "long",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-08-18T14:30:28Z",
+      "firstSeenAt": "2026-08-18T14:53:08Z"
+    },
+    {
+      "id": "jU-L9R9mmN4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WPDev",
+      "publishedAt": "2026-08-18T14:28:08Z",
+      "firstSeenAt": "2026-08-18T14:53:08Z"
+    },
+    {
+      "id": "obiNH46MgRs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jordan Platten",
+      "publishedAt": "2026-08-18T11:53:08Z",
+      "firstSeenAt": "2026-08-18T14:53:08Z"
+    },
+    {
+      "id": "jNxv3kwMcLM",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Tech Universe",
+      "publishedAt": "2026-08-18T11:53:08Z",
+      "firstSeenAt": "2026-08-18T14:53:08Z"
+    },
+    {
+      "id": "6xsabvNyKWk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Christopher Penn",
+      "publishedAt": "2026-08-18T04:53:08Z",
+      "firstSeenAt": "2026-08-18T14:53:08Z"
+    },
     {
       "id": "d-92Bu4AcQU",
       "type": "long",
@@ -17818,6 +17874,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-18T14:53:08Z",
+      "new": 7,
+      "long": 4,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 1,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
