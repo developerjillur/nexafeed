@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T00:53:04Z",
+  "updatedAt": "2026-08-18T01:53:05Z",
   "items": [
+    {
+      "id": "UgGMGhJPDAc",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-18T01:00:19Z",
+      "firstSeenAt": "2026-08-18T01:53:05Z"
+    },
+    {
+      "id": "m_-PGZ0bhUg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Abhishek Sharma",
+      "publishedAt": "2026-08-17T21:53:05Z",
+      "firstSeenAt": "2026-08-18T01:53:05Z"
+    },
+    {
+      "id": "UCYD90A9-ro",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Micro Learning",
+      "publishedAt": "2026-08-17T15:53:05Z",
+      "firstSeenAt": "2026-08-18T01:53:05Z"
+    },
     {
       "id": "GKVKkgFCxTI",
       "type": "long",
@@ -17317,6 +17341,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-18T01:53:05Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
