@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T03:53:06Z",
+  "updatedAt": "2026-08-18T04:53:07Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -8187,7 +8187,7 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-18T03:53:06Z",
+      "checkedAt": "2026-08-18T04:53:07Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8243,7 +8243,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-18T03:53:06Z",
+      "checkedAt": "2026-08-18T04:53:07Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8337,24 +8337,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "01rmol7TVms": {
-      "checkedAt": "2026-08-17T19:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "I built an AI agent that trades crypto on its own using Claude code, fully connected to live markets, no manual input once it's running. This is the real day trading strategy it runs, the actual results it produced, and what this whole AI agent side hustle trend is really about. Zero coding experience needed to follow along.\n\n📬 Contact me → https://t.me/MerelDumont\n\n📂 Source code → https://s3.amazonaws.com/agentsteps/index.html\n\n━━━━━━━━━━━━━━━━━━━━\n🤖 WHAT'S COVERED:\n✅ Building an AI trading bot from scratch with Claude AI and AI agents\n✅ Hooking the bot up to live crypto markets\n✅ The strategy running underneath it, day trading, arbitrage, and risk calls\n✅ The real numbers: is this passive income or just a fun side hustle?\n\n📌 TIMESTAMPS:\n0:00 — Intro\n1:35 — Setting Up the AI Agent for Live Trading\n5:45 — Testing the AI Trading Bot Live\n7:25 — The Day Trading Strategy Results\n\n🔔 Subscribe for more on AI agents, crypto trading, and side hustle builds.\n\n#aiagent #ai #claude #trading\n\n🎵 Music \"Summer Air\" by ‘moonboy & Langston’\nhttps://www.youtube.com/watch?v=LRZP3MWD4Rs\n💿 Listen everywhere: \nhttps://lofihiphop.de/summerair\n✅ For more Copyright Free Music visit:\nhttps://youtube.tamamusic.com",
-      "commentCount": 0,
-      "likeCount": 346,
-      "probeClient": "web_embedded"
-    },
-    "4f5AJrJPilM": {
-      "checkedAt": "2026-08-17T19:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI agent security just got real: a booking agent broke a live system, and poisoned agent skills cleared 1.7 million installs. Here's what actually happened, and how to secure the agents you run.\n\nMy Links 🔗\n👉🏻 Newsletter: https://natesnewsletter.substack.com/\n👉🏻 X: https://x.com/natebjones\n👉🏻 TikTok: https://www.tiktok.com/@nate.b.jones\n👉🏻 Instagram: https://www.instagram.com/nate.b.jones\n\nWhat's really happening when AI agents start acting inside other people's software?\n\nThe common story is that an agent has to go rogue before it hurts anyone, but the real question is what an ordinary goal does when it meets an unlocked door.\n\nIn this video, I share the inside scoop on the agent security incidents that are starting to connect:\n\n- Why a gym-booking agent canceled a stranger's reservation nobody asked it to touch\n- How a clean, approved skill turns malicious weeks after you install it\n- What the AI Security Institute found across 122 evaluation runs\n- Where swarm attacks start, and the two jobs you now own\n\nAgents are still worth running, but the people who do it well decide up front what theirs can touch and how fast they can stop it.\n\nChapters:\n00:00 nobody in that sentence is an attacker\n00:32 the melbourne agent that booked a gym class\n01:43 zenity labs and 1.7 million poisoned installs\n03:16 how a clean link turns malicious weeks later\n04:31 the scanners were live and it cleared anyway\n05:10 your agent does not share your social conventions\n06:17 the web is now more than half agents\n07:02 the skill that cleared every security scanner\n09:56 the frontier model case is different\n12:33 why swarm attacks come next\n14:40 your two jobs, identity and scope\n17:02 five questions before you run an agent\n\nListen to this video as a podcast.\n\nSpotify: https://open.spotify.com/show/0gkFdjd1wptEKJKLu9LbZ4\nApple Podcasts: https://podcasts.apple.com/us/podcast/ai-news-strategy-daily-with-nate-b-jones/id1877109372",
-      "commentCount": 56,
-      "likeCount": 306,
-      "probeClient": "web_embedded"
-    },
     "VH5ocJEcoo4": {
       "checkedAt": "2026-08-17T20:53:19Z",
       "embedAllowed": true,
@@ -8394,15 +8376,6 @@
       "description": "Welcome to Course Decoded! 🚀\n\nOn this channel, we crack open coding platforms, tech courses, and AI tools to give you the most direct, step-by-step walkthroughs and solutions. No fluff, no wasted time—just pure, compact value to help you complete your modules smoothly and level up your skills.\n\nIf this video helped you save time, make sure to drop a like and subscribe for more course breakdowns! \n\n#Coding #AICourse #CourseDecoded #TechSkills #stepbystep",
       "commentCount": 0,
       "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "WUbwmn8zN9I": {
-      "checkedAt": "2026-08-17T20:53:19Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Discover the top 10 Generative AI tools that can help with writing, coding, image generation, video creation, research, and productivity.\n\nIn this video, we explore popular AI tools, their key features, and the best use cases for each one.\n\n#GenerativeAI #AITools #ArtificialIntelligence",
-      "commentCount": 0,
-      "likeCount": 5,
       "probeClient": "web_embedded"
     },
     "VwGrXe2ricE": {
@@ -8570,15 +8543,6 @@
       "likeCount": 14,
       "probeClient": "web_embedded"
     },
-    "uAJlfggIUDY": {
-      "checkedAt": "2026-08-17T22:53:37Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn how to work with me to land your first coding job:\nhttps://www.asapfrontend.com?utm_source=youtube&utm_medium=aug-2026&utm_campaign=DON%27T+Become+a+Software+Engineer+-+Do+THIS+Instead\n\nBecoming a traditional software engineer may not be the best way to break into tech in 2026. In this video, I explain what aspiring developers should focus on instead, including AI software development, building real world products, solving business problems, and developing practical programming skills that companies actually value. You'll learn how AI is changing software engineering jobs, which developer skills are becoming more important, and how to position yourself for high paying opportunities without following the traditional junior developer path. Whether you're a self taught programmer, computer science student, web developer, or beginner learning to code, this video will help you choose a smarter path into the tech industry.\n\nCHAPTERS:\n0:00 - Why the Software Engineer Path Is Changing\n1:37 - Why Generic Software Engineering Is Getting Harder\n2:49 - The AI-Integrated Front-End Developer\n4:50 - The Skills You Need to Get Hired\n6:59 - AI Integration\n8:26 - Building a Job-Winning Project\n10:30 - Why This Is the Best Path in 2026",
-      "commentCount": 3,
-      "likeCount": 20,
-      "probeClient": "web_embedded"
-    },
     "XphLBy1jYZs": {
       "checkedAt": "2026-08-17T22:53:37Z",
       "embedAllowed": true,
@@ -8610,14 +8574,6 @@
       "description": "What if the real danger isn't having the wrong beliefs—but needing absolute certainty? In this video, we explore why people cling so tightly to worldviews, how beliefs often meet emotional needs beneath the surface, and why learning to question ourselves may be more powerful than finding the \"right\" answers. You'll also hear why ChatGPT shouldn't become an authority for validating your worldview, whether you're religious, spiritual, skeptical, or somewhere in between.\n\nThrough practical questions and personal reflection, this discussion examines critical thinking, spirituality, identity, uncertainty, emotional resilience, and personal growth. If you've ever wondered how to explore difficult ideas without losing yourself, this conversation offers tools for developing intellectual honesty while maintaining compassion for yourself and others.\n\nResources:\nNo Nonsense Spirituality: All the Tools No Belief Required: https://bit.ly/NNSBook\nWhat Is The Void: https://bit.ly/TheVoidyt\nReligious Deconstruction: https://bit.ly/RELDecon\nAll My Available Courses: https://bit.ly/NNSCourses\n\n#CriticalThinking\n#Spirituality\n#PersonalGrowth\n#Psychology\n\nVideo Chapters:\n00:00 Intro\n01:05 Inner Conflict\n02:45 Better Questions\n04:20 Beliefs Serve Needs\n06:15 The Cost of Certainty\n08:05 ChatGPT and Truth\n09:55 Thinking Freely\n11:30 Living with Uncertainty\n13:05 Course Update\n13:40 Final Thoughts\n\n\nAbout Me:\nBritt Hartley is a certified atheist spiritual director with a Master’s in Theology focusing on the future of American religion. She wrote the bestselling book *No Nonsense Spirituality: All the Tools, No Faith Required*. If you’re struggling with existential crises, nihilism, or feeling lost in meaninglessness. On this channel you'll find weekly videos where Britt provides practical, science-based tools to help you navigate the void. Instead of relying on old gods or New Age trends, she offers clear, actionable advice for finding your way through the deep, challenging questions of life.",
       "commentCount": 76,
       "likeCount": 245,
-      "probeClient": "web_embedded"
-    },
-    "8gsGcG5x01Q": {
-      "checkedAt": "2026-08-17T23:53:03Z",
-      "embedAllowed": true,
-      "description": "AI is changing the world faster than most of us realise — but will it also change YOUR job, career and future?\nIn this powerful episode of Samvaad – The VVS Show, Vijay Vikram Singh sits down with Pritam Sahoo, AI Leader, Mentor, Tech Visionary and TEDx Speaker, with professional experience across global technology companies including Google, Oracle, SAP and Flexera.\nFrom Artificial Intelligence, Generative AI, ChatGPT and AI Agents to AI layoffs, job displacement, productivity, AI careers, AI courses, fake AI experts, deepfakes and the future of humanity, this conversation breaks down what AI really means for the common person.\nWill AI replace your job — or replace people who don't learn how to use AI?\nAre companies genuinely laying off employees because of AI?\nIs the current AI boom a genuine technological revolution or are we heading toward another technology bubble?\nAnd with social media flooded with so-called AI experts selling expensive courses, how can an ordinary person separate genuine AI knowledge from hype?\nPritam also explains how students, working professionals, entrepreneurs and small business owners can use AI to become more productive, learn new skills and potentially create new income opportunities.\nIn this episode:\n• Will AI replace jobs?\n• AI and mass layoffs\n• Which careers are most at risk?\n• AI vs human intelligence\n• ChatGPT, Gemini, Claude & Generative AI\n• AI Agents and the future of work\n• How AI can improve productivity\n• Best AI tools for everyday users\n• How to make money using AI\n• AI courses and fake AI experts\n• Is the AI boom another bubble?\n• Deepfakes and AI scams\n• AI and misinformation\n• Can AI make humans intellectually lazy?\n• AI and the future of education\n• India's AI future\n• AI and the future of humanity\n• Skills everyone should learn in the AI era\nIf you're a student, working professional, entrepreneur, creator, business owner or simply someone trying to understand how AI will affect your life, this conversation is for you.\nWatch till the end for Pritam Sahoo's predictions about where AI is heading and what you should do NOW to stay relevant.\nSubscribe to Samvaad – The VVS Show for honest, insightful and thought-provoking conversations with India's most interesting voices.\n#AI #aijobs #GenerativeAI #ChatGPT #artificialintelligence #futureofwork   #AIIndia #PritamSahoo #samvaad \n\n🎙️ Follow Pritam Sahoo:\n\nhttps://www.instagram.com/aitipswithpritham_\nhttps://www.instagram.com/aitoolswithpritham\nhttps://www.linkedin.com/in/pritam-sahoo-77a438a\nhttps://pritamsahoo.netlify.app/\\\n\n🎙️ Follow Vijay Vikram Singh\n\nhttps://www.instagram.com/vijayvikram77\n\nhttps://www.facebook.com/vijaythevoice\n\n🎙️ For Collaborations & Business Enquiries\n\n📩 neil.curiousbud@gmail.com\n\nAI, artificial intelligence, artificial intelligence India, AI India, AI jobs, AI replacing jobs, AI layoffs, AI future, future of AI, AI expert, AI expert India, Pritam Sahoo, Pritam Sahoo AI, AI mentor, AI leader, generative AI, generative AI India, ChatGPT, GPT 5, ChatGPT India, AI agents, AI tools, best AI tools, AI productivity, AI for beginners, AI for common people, how to use AI, how to make money with AI, AI career, AI careers, future of jobs, future of work, jobs at risk from AI, jobs AI will replace, AI layoffs 2026, tech layoffs, AI bubble, AI bubble burst, AI revolution, AI risks, AI dangers, AI and humanity, deepfake, AI scams, fake AI experts, AI courses, AI gurus, AI influencers, AI skills, learn AI, AI for students, AI for professionals, AI for business, AI entrepreneurship, AI startup, AI news, AI trends, AI predictions, technology, technology trends, future technology, India AI future, AI superpower India, Samvaad The VVS Show, Vijay Vikram Singh, VVS podcast, Hindi podcast, Indian podcast, AI podcast\n\n#AI #ArtificialIntelligence #GenerativeAI #ChatGPT #FutureOfWork #AIJobs #AIIndia #PritamSahoo #Samvaad",
-      "commentCount": 2,
-      "likeCount": 14,
       "probeClient": "web_embedded"
     },
     "GKVKkgFCxTI": {
@@ -8748,6 +8704,66 @@
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
+    },
+    "jUbpNXEukMY": {
+      "checkedAt": "2026-08-18T04:53:07Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "zetkD-eaWlo": {
+      "checkedAt": "2026-08-18T04:53:07Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "f1fIjDGpBL4": {
+      "checkedAt": "2026-08-18T04:53:07Z",
+      "embedAllowed": false,
+      "availability": "unavailable",
+      "failureReason": "unavailable"
+    },
+    "yovJlrckxns": {
+      "checkedAt": "2026-08-18T04:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "SALES വേണോ ഇത് ചെയ്യരുത്...! Sales Growth. \nSALES കൂട്ടാൻ | FREEDOM IN MARKETING | OWNER FACE MARKETING FORMULA AVA | Zero Cost Marketing \n\nZero Cost DIGITAL MARKETING.\n- \n#zerocostmarketing #zerorupeemarketing #marketing #anoopdigital #digitalmarketing #newdigitalmarketing \n-\nLearn DM with ZERO RUPEE MARKETING STRATEGY.\nFor More Click: https://creator.tagmango.app/zerocostmarketing3\n\nWelcome to Anoop Digital! 🚀 I am Anoop K, a Zero Cost Marketing Expert and the founder of Pixaago Digital Marketing Agency and Zero Cost Marketing.\n\nAre you a business owner tired of burning your hard-earned money on unpredictable paid ads? \nYou are in the right place. On this channel, I share proven Zero Rupee Marketing strategies, marketing automation secrets, and scaling blueprints that help entrepreneurs scale their monthly revenue from 1 Lakh to 10 Lakh—completely organically!\n\nWhat you will learn here:\n\n⚙️ Advanced Marketing Automation using tools.\n💎 High-Ticket 'Hard Farming' models to attract premium, high-paying clients.\n📈 Scalable team building and smart business workflow architectures.\n🎯 Practical, zero-budget organic growth frameworks.\n\nStop spending on ads that don't convert. Subscribe now to build a business system that runs 24/7 on autopilot!\nWho should see this inspiration and drop a \"❤️\" if you believe in the power of starting early!\n-\n-\nANOOP DIGITAL\nDigital Consultant & Trainer\nKERALA - INDIA\n-\n#digitalmarketing #socialmediamarketing #digitalmarketingexpert #zerocostmarketing #zerorupeemarketing",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "mUrqLxqf5AI": {
+      "checkedAt": "2026-08-18T04:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥SP Jain - AI-Powered Digital Marketing Certificate Program - https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=mUrqLxqf5A&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Meta - Digital Marketing Specialist - https://www.simplilearn.com/master-in-digital-marketing?utm_campaign=mUrqLxqf5A&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Online MBA by Amrita Vishwa Vidyapeetham - https://www.simplilearn.com/online-mba?utm_campaign=mUrqLxqf5A&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Search Engine Optimization (SEO) Course - https://www.simplilearn.com/digital-marketing/search-engine-optimization-seo-certification-training?utm_campaign=mUrqLxqf5A&utm_medium=DescriptionFF&utm_source=Youtube\n\n\n\n\nIn this video, Search Engine Optimization 2026, you’ll learn how to optimize your website to rank higher on Google and other search engines. This complete SEO guide for beginners covers everything from keyword research and on-page optimization to technical SEO, link building, and AI-powered search strategies for 2026.\n\nYou’ll start with SEO fundamentals, including how search engines crawl, index, and rank web pages. Then you’ll learn how to perform keyword research, optimize title tags, meta descriptions, headers, URLs, and images, and create high-quality content that matches search intent.\n\nThe course also covers technical SEO essentials such as site speed, mobile optimization, XML sitemaps, robots.txt, schema markup, and Core Web Vitals. You’ll also explore off-page SEO strategies like backlink building, guest posting, and local SEO, along with tools like Google Search Console, Google Analytics 4, Ahrefs, and SEMrush.\n\n\n✅ Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More Videos By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULa5aOQmO_al2VVmhC-eqeI\n\n#DigitalMarketingAnalytics #DigitalMarketingAnalyticsFullCourse2026 #MeasureAndOptimizeCampaigns #MarketingAnalyticsTutorial #DigitalMarketingMetrics #CampaignPerformanceAnalysis #ROIMeasurement #MarketingKPIs #GoogleAnalytics4 #GA4Tutorial #ABTesting #AttributionModeling #ConversionRateOptimization #CRO #CustomerLifetimeValue #CAC #LTVCACRatio #ROAS #MarketingDashboards #DataDrivenMarketing #Simplilearn #MarketingReporting #PPCMetrics #SEOAnalytics #SocialMediaAnalytics #EmailMarketingMetrics #UTMTracking #FunnelAnalysis #CohortAnalysis #MarketingOptimization\n\n➡️ About AI-Powered Digital Marketing Certificate Program\n\nIn a world where creativity meets code, learn to turn digital complexity into strategic clarity. Through 100% live sessions, masterclasses by SP Jain Global faculty and real-world projects, master AI, Automation and Analytics using 50+ tools like ChatGPT, Canva, SEMrush and Power BI\n\nKey Features:\n✅ Learn directly from SP Jain Global faculty in live, interactive masterclasses\n✅ Learn to integrate automation, analytics, and generative AI tools into every stage of the marketing process\n✅ Gain hands-on experience with 24+ standard marketing tools, 20+ AI-powered platforms, and 8+ analytics and automation tools\n✅ Get dedicated, mentor-led project support to help you complete every project on time\n✅ Progress from foundational concepts to advanced strategies across SEO, SEM, social media, content, and analytics\n✅ Apply your learning through live projects, guided practice, real-world case studies, and an industry-aligned capstone project\n✅ Attend live sessions led by Meta Blueprint experts, and receive a $99 Meta voucher to deepen your social media marketing expertise\n✅ Get complimentary Google Ad Credits during the SEM module to create and manage your first live campaign\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n \nSkills Covered\n✅ Digital marketing strategy\n✅ Website creation\n✅ AI content creation and optimization\n✅ Automated content workflows\n✅ AI driven SEO\n✅ Generative Engine Optimization GEO\n✅ Answer Engine Optimization AEO\n✅ Google Ads management\n✅ Smart bidding and budgeting\n✅ AI audience targeting and remarketing\n✅ Campaign optimization with AI\n✅ Programmatic advertising\n✅ AI social media creatives\n✅ AI storytelling and engagement\n✅ Creative automation\n✅ AI Ecommerce personalization\n✅ AI mobile marketing\n✅ AI email automation\n✅ Predictive marketing analytics\n✅ AI forecasting\n✅ Ethical AI use\n\n👉 Learn More At: https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=qM-FmQlIFLQ&utm_medium=DescriptionFF&utm_source=Youtubeube",
+      "commentCount": 0,
+      "likeCount": 54,
+      "probeClient": "web_embedded"
+    },
+    "3GjjTCWXptY": {
+      "checkedAt": "2026-08-18T04:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Build Your Online Business | Create More, Earn Smarter, Live Freely | TLF Creators #automation #ai\n\n\nBuild Your Online Business. Create More. Earn Smarter. Live Freely. 🚀\nAaj ke digital time mein online business start karna exciting hai, lekin sabse bada question hota hai — start kahan se karein?\nTLF Creators ek online community hai jo aspiring entrepreneurs ko Content Creation, Business Automation, AI, 100% Online Business aur Lead Automation jaise areas mein structured approach ke saath online business build karne mein help karti hai. \nTLF ka vision aspiring entrepreneurs ko apne online income streams build karne ke liye complete freedom ki direction mein empower karna hai.\n\nIs video mein aap jaanenge:\n✅ TLF Creators kya hai\n✅ Online business kaise approach kiya jata hai\n✅ Content Creation ka role\n✅ AI aur Business Automation\n✅ Lead Automation System\n✅ Training & Support System\n✅ TLF Creators ka network marketing approach\n✅ Online business ke liye available resources\nTLF Creators ka primary source of income Network Marketing hai, aur knowledge source mein Forever Living Products opportunity ka bhi mention hai. \n\n\nImportant: Business mein results individual effort, consistency aur action par depend karte hain. Kisi bhi income ko guaranteed na samjhein.\n👉 TLF Creators ke baare mein aur jaanne ke liye:\nTLF Creators Website :-  https://tlfcreators.in/#hero\n\nAgar video helpful lage to LIKE 👍 | SHARE 🔥 | SUBSCRIBE ❤️ zaroor karein.\nComment mein “TLF” likhiye agar aap online business ke baare mein aur information chahte hain.\n\nFor additional questions or help you may need contact me the best way you prefer using my website:https://iplogger.com/2...\n\n✅Forever Joining link 👉https://910707529738.f...\n\n✅Automation system free gift check 👉 https://dnaclub.checkoutjoy.com/mmo?coupon=FREEWEBINAR&via=odyh0ob6rq\n\n✅ STRUGGLING IN NETWORK MARKETING BUSINESS?\n👉 Lead generation workshop\nhttps://dnaclub.checko...\n\n✅ LEARN NETWORK MARKETING AUTOMATION\n👉2 DAYS ONLINE WORKSHOP\nhttps://dnaclub.checko...\n\n✅ TO LEARN CONTENT MARKETING + AUTOMATION SYSTEM + PRODUCT RETAILING\n👉 https://dnaclub.checko...\n\n✅GMB Account 👉https://g.co/kgs/Nko2Ud2\n\n✅SILVER MEMBER SHIP\nMLM Products retailing and Youtube Automation system & Lead generation👉https://dnaclub.checko...\n\n✅ Instagram AUTOMATION SYSTEM \n Using Manychat👉\nhttps://dnaclub.checko...\n\n✅YouTube Marketing Lead Generation 👉🏻\nhttps://dnaclub.checko...\n\n\nMy Introduction \nMy self Priya Singh , I am a housewife, I belong from Uttar Pradesh (Jaunpur)\nI am doing online and offline business and helping to people who want to grow their business in FOREVER LIVING PRODUCTS Company... ❤️ \n[ WhatsApp number - 6394543143 ]\n\n\nTLF Creators, TLF Creators Hindi, online business, build online business, online business India, work from home business, content creation, business automation, AI business, AI for business, lead automation, online income, digital marketing, network marketing, network marketing India, TLF The Leadership Factory, The Leadership Factory, online business ideas, content creator, entrepreneur India, business automation India, AI based business, online entrepreneurship, create more earn smarter live freely\n\n\n#TLFCreators #TheLeadershipFactory #OnlineBusiness #ContentCreation #BusinessAutomation #AI #DigitalMarketing #NetworkMarketing #OnlineEntrepreneur #LeadAutomation #Entrepreneurship #WorkFromHome #OnlineIncome #CreateMore #EarnSmarter #LiveFreely\n\n\n@tarunklien \n@ItsPriyasing",
+      "commentCount": 23,
+      "likeCount": 8,
+      "probeClient": "web_embedded"
+    },
+    "B49EJAye2js": {
+      "checkedAt": "2026-08-18T04:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Are you spending too much time on repetitive business tasks?\nHere are 3 signs your business may need automation: \n✅ Manual data entry\n✅ Answering the same questions repeatedly\n✅ Missing potential leads\n\nThe good news? These tasks can be automated.\n\nTomorrow, I'll show you how I built an AI assistant that responds to Telegram messages, qualifies leads, and saves them to Google Sheets.\n\n\nMS Virtual Assistants helps entrepreneurs, small businesses, and busy professionals work smarter with Google Workspace, AI, business automation, and professional virtual assistant services.\n\n🌐 Website: https://www.msvirtualassistants.com\n📧 Business inquiries: info@msvirtualassistants.com\n\nSubscribe for practical tutorials on:\n• Google Workspace\n• AI productivity tools\n• Business automation\n• Virtual assistant tools and workflows\n• Digital marketing and productivity\n\nNew tutorials every week.\n\n#Automation #AI #n8n #BusinessAutomation #Shorts",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "2cIJjQ33nLI": {
+      "checkedAt": "2026-08-18T04:53:07Z",
+      "embedAllowed": false,
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     }
   }
 }

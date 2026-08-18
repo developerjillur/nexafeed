@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T03:53:06Z",
+  "updatedAt": "2026-08-18T04:53:07Z",
   "items": [
+    {
+      "id": "yovJlrckxns",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anoop Digital",
+      "publishedAt": "2026-08-17T23:53:07Z",
+      "firstSeenAt": "2026-08-18T04:53:07Z"
+    },
+    {
+      "id": "mUrqLxqf5AI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-17T19:53:07Z",
+      "firstSeenAt": "2026-08-18T04:53:07Z"
+    },
+    {
+      "id": "3GjjTCWXptY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Priya Singh Forever . 2m views . 2 days \n\n\n\n\n..",
+      "publishedAt": "2026-08-17T16:53:07Z",
+      "firstSeenAt": "2026-08-18T04:53:07Z"
+    },
+    {
+      "id": "B49EJAye2js",
+      "type": "short",
+      "source": "secondary",
+      "channel": "MS Virtual Assistants",
+      "publishedAt": "2026-08-17T15:53:07Z",
+      "firstSeenAt": "2026-08-18T04:53:07Z"
+    },
     {
       "id": "GyO9UdDvL7g",
       "type": "short",
@@ -17440,6 +17472,15 @@
       "channelsChecked": 33,
       "warnings": 15,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-18T04:53:07Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 18,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
