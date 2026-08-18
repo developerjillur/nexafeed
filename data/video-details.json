@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T09:53:04Z",
+  "updatedAt": "2026-08-18T10:53:05Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1594,49 +1594,6 @@
       "description": "Hey everyone, In this video, we are going to talk about HTTP 2.0 and HTTP 1.1 and why HTTP 2.0 is faster than HTTP 1.1. We will also discuss about server push and multiplexing features.\n\nCheckout My Courses:\n- Master Docker Containerization: https://pro.piyushgarg.dev/learn/docker\n- Master DSA with Java: https://piyushgarg.pro/udemy-java-dsa\n- Master GenAI with Python: https://piyushgarg.pro/udemy-genai\n- Master Backend with NodeJS: https://piyushgarg.pro/udemy-nodejs\n\nFollow Me:\n- Instagram: https://www.instagram.com/piyushgarg.official\n- X (Formerly Twitter): https://x.com/piyushgarg_dev\n- Personal Website: https://www.piyushgarg.dev\n- LinkedIn: https://www.linkedin.com/in/piyushgarg195\n\nFounder / Creator of:\n- Teachyst: https://www.teachyst.com\n- WisprType: https://wisprtype.com\n- SkyPing: https://skyping.app\n\nMy Gears:\n- Standing Desk: https://amzn.to/4cUN6PL\n- Chair: https://amzn.to/429Q38S\n- MacBook Pro: https://amzn.to/4djTYGf\n- Keyboard: https://amzn.to/4w228KQ\n- Mouse: https://amzn.to/42Hxw3J\n\nVideo Titles\n- What is HTTP?\n- What is HTTP 2.0?\n- HTTP 2.0 vs HTTP 1.1\n\nHashtags\n#nodejs #javascript #webdevelopment #systemdesign #backenddeveloper #fullstackwebdevelopment #javascript #coding #programming #systemdesign #htmlcss #webdevelopment",
       "commentCount": 36,
       "likeCount": 490,
-      "probeClient": "web_embedded"
-    },
-    "8QWg-gN80Ik": {
-      "checkedAt": "2026-08-15T00:28:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Anthropic has introduced **Claude Code Artifacts**, a new feature that turns Claude Code's output into a **live interactive HTML page**.\n\nInstead of sharing screenshots or PDFs, you can now share a live page with your team using a private link. The best part? The page updates automatically as Claude continues working.\n\n\n\nClaude Code, Claude Code Artifacts, Anthropic, Claude AI, AI coding, AI developer tools, interactive HTML, live web pages, developer workflow, software development, coding assistant, developer productivity, AI programming, team collaboration, AI artifacts, Claude Team, Claude Enterprise, AI automation, coding workflow, web development, programming tools, engineering productivity, software engineering, app development, developer tools",
-      "commentCount": 4,
-      "likeCount": 57,
-      "comments": [
-        {
-          "id": "UgyyI0ENo1qe-Tgk6Vd4AaABAg",
-          "author": "@flexpanda21",
-          "text": "Artifacts",
-          "likeCount": 0,
-          "publishedAt": "2026-08-07T09:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/T3wgyVsRyVlMI-E8Uul_BWumLQpaOr-VvEeCWpwFAfGYm-SNL4JJA2n-Y_QDS2ciBTdaevboVQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugwj6l-vi8yqFsU3Og14AaABAg",
-          "author": "@bhavanashapawale1394",
-          "text": "Anthropic",
-          "likeCount": 0,
-          "publishedAt": "2026-08-07T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kJePe_bO_mLSc4h3SwojnE-t84i0tBZPSuVyeOxPc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxTvE1UupgUNC9DSfl4AaABAg",
-          "author": "@RajivGuptaji-v3r",
-          "text": "Anthropic",
-          "likeCount": 0,
-          "publishedAt": "2026-08-07T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nBiBza47xrVI22HQqbI5vVMSjOKCrypMV0wpODLhDTVe4Nl2G7EKpFmagMA2FW4bucAg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-07T20:53:28Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "V0XbuApxlhg": {
@@ -5193,18 +5150,6 @@
       "likeCount": 46,
       "probeClient": "web_embedded"
     },
-    "ekT5hIExty0": {
-      "checkedAt": "2026-08-15T15:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 0,
-      "likeCount": 15,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-15T15:53:05Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "T9vjPC7i6kw": {
       "checkedAt": "2026-08-15T15:53:05Z",
       "embedAllowed": true,
@@ -8067,19 +8012,10 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-18T09:53:04Z",
+      "checkedAt": "2026-08-18T10:53:05Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "cHlmP4LYdPg": {
-      "checkedAt": "2026-08-17T15:53:38Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Deploy Buzz with Hostinger and get 10% off using code \"techwithtim\":  https://www.hostg.xyz/SHJv1\n\nBuzz is one of the most useful AI tools I've seen in the past 12 months — and most tutorials completely miss what makes it interesting. In this video I explain exactly what Buzz is, how the architecture actually works, and walk you through a full step-by-step setup so you leave with a working AI workspace.\n\nThink of Buzz like an open source Slack — but designed specifically for AI agents and humans to work together as teammates. Released by Jack Dorsey's company Block, it already has over 26,000 GitHub stars. Here's why it matters.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n🎞 Video Resources 🎞\nBuzz: https://buzz.xyz/\nBuzz Github: https://github.com/block/buzz\n\n⏳ Timestamps ⏳\n00:00 I What is Buzz?\n01:15 | Buzz Architecture\n06:03 I Desktop App Setup\n09:26  | Hosting Buzz\n11:17 | Adding Harnesses/Agents\n12:05 I Connecting a Mobile Device\n12:54 | Editing Custom Agents\n14:08 | AI Agent Builder Community\n15:41 | Chatting with Agents\n17:30 | Custom Agents\n19:45 I Multi-Agent Workflow\n23:37 I Git & Worktrees\n\nHashtags\n#Buzz #JackDorsey #AIAgents\n\nUAE Media License Number: 3635141",
-      "commentCount": 4,
-      "likeCount": 17,
-      "probeClient": "web_embedded"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "o5noOFX-nNc": {
       "checkedAt": "2026-08-17T16:53:47Z",
@@ -8123,7 +8059,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-18T09:53:04Z",
+      "checkedAt": "2026-08-18T10:53:05Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8149,15 +8085,6 @@
       ],
       "commentsFetchedAt": "2026-08-17T18:53:59Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "7YRBelMp-vA": {
-      "checkedAt": "2026-08-17T18:53:59Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this video, I fulfill my promise from the previous tutorial by showing you exactly how to convert the Triple Confirmation Strategy into a fully automated AI bot for MetaTrader 5. We’ll use AI to analyze the strategy, write the MQL5 code, and set up custom alerts so you never miss a trade.\n\nI’ll also show you real-world backtesting results on Gold and Forex pairs, and explain why I recommend using this for signals rather than 100% automated trading.\n\nWhat you will learn:\n\nHow to get AI to rate and improve your trading strategy.\nStep-by-step guide to generating MT5 code with AI.\nHow to install and run a custom Expert Advisor (EA) in MetaEditor.\nReal backtesting results and the risks of \"Account Wash.\"\nMoney management tips (1% risk rule) for automated systems.\n\nIndicator's Code File Link:\nhttps://drive.google.com/file/d/160yCpp63L-B3IeRgxJckb7vrbHj9PINj/view?usp=sharing\n.\nFollow us on Social Media👇\nhttps://linktr.ee/forexustaad\n\nChapters\n0:00 Last Video's Promise: Automating the Strategy \n0:33 Sending Strategy Screenshots to AI \n1:18 AI Strategy Rating & Feedback (7/10) \n2:35 Generating MT5 Custom Indicator Code \n3:02 How to Use MetaEditor (F4) & Create New Indicator \n4:44 Running Your Custom \"Pro Indicator\" on MT5 \n5:44 Strategy Backtesting on EURUSD \n6:40 Converting Indicator to an Automated Trading EA\n8:06 Real Results: $2000 Profit Strategy \n8:45 Backtesting on BTC & Gold (The Danger of Account Wash) \n10:25 Adding 1% Risk & Money Management to the AI Code \n12:35 Final Verdict: Signals vs. Auto-Trading \n13:30 Get the Code & Subscribe!\n\nHashtags\n#ForexUstaad #AITrading #MT5 #TradingStrategy #ForexPakistan #AutomatedTrading #MQL5 #GoldTrading #TradingBot #trading \n\n ریگولیٹڈ بروکر کے ساتھ کام کریں PMEX پاکستان میں رہنے والے صرف\n\nRisk Disclaimer: \nThis program is for educational purposes only\nThis program is not a signal service. Nor is it investment advice. There is more risk in trading and you can lose more than your investment. The information provided on this platform is for educational purposes only, but remember that it is not a licensed trainer. It only shares what it has learned, understood, and gained experience in the trading industry over the years. The method described herein does not guarantee any results and the Author can not be held responsible for any losses or damages in any account. Therefore, whatever is taught and taught here should be practiced only on a trial-demo account. Practice all trade setups on a demo account",
-      "commentCount": 6,
-      "likeCount": 24,
       "probeClient": "web_embedded"
     },
     "ovLUHNIiVQA": {
@@ -8421,15 +8348,6 @@
       "likeCount": 49,
       "probeClient": "web_embedded"
     },
-    "c2Jj2XIPduk": {
-      "checkedAt": "2026-08-18T00:53:04Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Join My Skool → https://www.skool.com/thecheddarchase/about\n\nCheck out Playwright CLI: https://github.com/microsoft/playwright-cli\n\nTake your coding agent to the next level by giving it full browser control with Playwright CLI. In this video, I show you how to install Playwright CLI, why it beats Playwright MCP for token efficiency, and how to build a custom agent skill that lets you automate real browser-based workflows, like submitting and managing support tickets, without needing an API. I also show you how to convert repeatable browser tasks into fast, reusable OpenCode tools that save time and tokens.\n\nWhether you're automating legacy apps, testing your own software, or building client automations businesses would pay for, this workflow will level up your AI agent setup.\n\nhttps://www.youtube.com/channel/UCsv6YMh5kLhixuepSEzHKzg\n\n⏱️ TIMESTAMPS\n0:00 Intro\n0:24 Installing Playwright CLI\n2:32 CLI vs MCP + live demo\n7:36 Custom sub-agent for complex tasks\n5:24 Turning tasks into OpenCode tools\n7:19 When to use a skill vs. build tools\n6:20 Why this matters\n7:35 Recap & outro",
-      "commentCount": 2,
-      "likeCount": 36,
-      "probeClient": "web_embedded"
-    },
     "UgGMGhJPDAc": {
       "checkedAt": "2026-08-18T01:53:05Z",
       "embedAllowed": true,
@@ -8550,15 +8468,6 @@
       "likeCount": 8,
       "probeClient": "web_embedded"
     },
-    "B49EJAye2js": {
-      "checkedAt": "2026-08-18T04:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Are you spending too much time on repetitive business tasks?\nHere are 3 signs your business may need automation: \n✅ Manual data entry\n✅ Answering the same questions repeatedly\n✅ Missing potential leads\n\nThe good news? These tasks can be automated.\n\nTomorrow, I'll show you how I built an AI assistant that responds to Telegram messages, qualifies leads, and saves them to Google Sheets.\n\n\nMS Virtual Assistants helps entrepreneurs, small businesses, and busy professionals work smarter with Google Workspace, AI, business automation, and professional virtual assistant services.\n\n🌐 Website: https://www.msvirtualassistants.com\n📧 Business inquiries: info@msvirtualassistants.com\n\nSubscribe for practical tutorials on:\n• Google Workspace\n• AI productivity tools\n• Business automation\n• Virtual assistant tools and workflows\n• Digital marketing and productivity\n\nNew tutorials every week.\n\n#Automation #AI #n8n #BusinessAutomation #Shorts",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
     "TA-sQTiLBh4": {
       "checkedAt": "2026-08-18T05:53:07Z",
       "embedAllowed": true,
@@ -8663,10 +8572,10 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-18T09:53:04Z",
+      "checkedAt": "2026-08-18T10:53:05Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "zetkD-eaWlo": {
       "checkedAt": "2026-08-18T09:53:04Z",
@@ -8741,6 +8650,66 @@
       "description": "🔴 10 HOURS STRAIGHT. I am back. Last week my family welcomed a new baby and I took the week to be with them. Family first, always. I missed a lot — DeepSeek V4 Pro, GLM 5.3, Gemini 3.7 Flash all dropped while I was gone. Today I am locked in for 10 straight hours on the future of BridgeMind: BridgeMind 1.\n\nI worked off stream this past week and made a hard decision. My attention has been stretched too thin, so I am cutting off every project that is not the core mission. Vibecademy is shutting down and all users are being refunded. The Skool community is shutting down as well. These were good communities and good resources for people, but they were pulling focus away from what matters most. Today it is one thing: BridgeMind 1. The stack is Claude Opus 5, Fable 5, GPT 5.6 SOL, Kimi K3, Claude Code, and Codex.\n\nTHE GRIND RULES: Every like on this stream = +1 pushup. You hit the button, I hit the floor.\n\nWhat We're Building Today\n\nBridgeMind 1 — 10 hours of focused work on BridgeMind 1. This is the future of BridgeMind and today it gets my full attention.\n\nCatching Up on the Models — DeepSeek V4 Pro, GLM 5.3, and Gemini 3.7 Flash all dropped while I was away. Getting up to speed and putting them to work.\n\n\nLinks\n\nBridgeMind — https://www.bridgemind.ai\n\nDiscord (14,600+ Builders) — https://www.bridgemind.ai/discord\n\nBridgeBench V3 (Live AI Leaderboard) — https://www.bridgebench.ai\n\nViewCreator — https://www.viewcreator.ai\n\nX (Twitter) — https://x.com/bridgemindai\n\nYouTube — https://www.youtube.com/@bridgemindai\n\nTwitch — https://twitch.tv/bridgemindai\n\n\nWhat is BridgeMind?\n\nBridgeMind is a vibe coding platform — a fully integrated suite of AI-powered tools built to ship software faster through autonomous, multi-agent workflows.\n\nBridgeSpace — The best agent development environment for vibe coding. A cloud IDE built for multi-agent orchestration.\nBridgeVoice — Voice-to-text AI transcription for coding at the speed of thought.\n\n\nKeywords: vibe coding, 10 hours straight, 10 hour coding stream, marathon coding, long coding stream, code with me, focus stream, deep work, BridgeMind 1, family first, back from break, DeepSeek V4 Pro, GLM 5.3, Gemini 3.7 Flash, Claude Opus 5, Claude Fable 5, GPT 5.6, GPT 5.6 SOL, Kimi K3, Claude Code, Codex, Anthropic, OpenAI, Google, DeepSeek, Zhipu AI, Moonshot AI, BridgeBench V3, BridgeSpace, BridgeMind, BridgeVoice, frontier model, model wars, vibe coding platform, vibe coding livestream, agent development environment, AI IDE, multi-agent orchestration, AI coding tools, agentic coding, build in public, live coding, indie hacker, SaaS founder, AI startup, founder life, vibe coding tools, learn to vibe code, autonomous agents\n\n#VibeCoding #10HoursStraight #MarathonStream #DeepWork #BridgeMind1 #FamilyFirst #DeepSeekV4Pro #GLM53 #Gemini37Flash #ClaudeOpus5 #ClaudeFable5 #GPT56 #KimiK3 #ClaudeCode #Codex #Anthropic #OpenAI #BridgeBenchV3 #BridgeBench #BridgeSpace #BridgeMind #FrontierModel #ModelWars #AgenticCoding #AIIDE #BuildInPublic #IndieHacker #SaaS #StartupFounder #LiveCoding #SoftwareDevelopment #FounderLife",
       "commentCount": 3,
       "likeCount": 742,
+      "probeClient": "web_embedded"
+    },
+    "eqMjVxKplgE": {
+      "checkedAt": "2026-08-18T10:53:05Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this short, I explain:\n✅ Sonnet 5 vs Sonnet 4.6\n✅ Sonnet 5 vs Opus 4.8\n✅ Coding Performance\n✅ Knowledge Benchmarks\n✅ Is Sonnet 5 Worth It?\n\nFollow CodingSimplifiedSpace for more AI updates and developer content.\n\nClaude Sonnet 5, Claude AI, Anthropic, Claude Sonnet 5 Review, Claude Sonnet 5 vs Opus 4.8, Claude Sonnet 5 vs Sonnet 4.6, Claude Update, AI News, AI Coding, AI for Developers, Claude Benchmarks, Anthropic AI, CodingSimplifiedSpace",
+      "commentCount": 0,
+      "likeCount": 1,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-18T10:53:05Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "ZCj4uDCm9Yw": {
+      "checkedAt": "2026-08-18T10:53:05Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 3,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-18T10:53:05Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "PHCg9kanGR4": {
+      "checkedAt": "2026-08-18T10:53:05Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Pastor Stan asked Google AI to look at how the Feasts of Trumpets triggers the Final Fall Wedding Steps. The AI then went on to explain what other preachers are teaching. AI understands that the Rapture to the Marriage happened on the Feast of Trumpets – that’s wrong, and today Pastor Stan explains why and even the AI agreed with him after understanding it correctly.\n\n00:00 Intro\n02:39 A.I. Explains\n08:41 Marriage Proposal\n13:39 Holy Spirit in Upper Room\n15:36 Lamb of God marry His Bride\n18:30 AI Agree\n26:17 Summery\n\nVisit us online at:\nhttp://www.prophecyclub.com\n\nThank you for supporting our Ministry:\nhttps://www.prophecyclub.com/support\n\nTo Order \"Pentecost Rapture of the Bride\" please visit:\nhttps://www.prophecyclubresources.com/PENTECOST-RAPTURE-of-THE-BRIDE/productinfo/B%2DPRB/\n\nTo purchase \"Pentecost Rapture of the Bride\" as well as \"Secret Door to Understand Bible Prophecy\" as a combo, please visit:\nhttps://www.prophecyclubresources.com/PENTICOST-RAPUTRE-SECRET-DOOR-GIFT-OFFER/productinfo/G%2DPRBS/\n\nEMP Shield - to get $65 off of your order, please visit :\nhttps://empshield.com/coupon/prophecysale2026/\nPromo Code: Prophecysale2026\nValid until 29 May, 2026\n\nPlease remember to follow our brand new Facebook page here:\nhttp://www.facebook.com/ProphecyClubOfficial\n\nDo Donate to our Missions Trips please visit:\nhttps://donorbox.org/the-prophecy-club-missions\n\nTo watch over 300 DVDs made at the Prophecy Club, please visit:\nhttps://www.watchprophecyclub.com/\n\nTo Purchase Stanislav Lunev's Book called \"Through the Eyes of the Enemy\" please visit:\nhttps://www.prophecyclubresources.com/THROUGH-THE-EYES-OF-THE-ENEMY-BOOK/productinfo/B%2DTTE01/\n\nMake sure to watch The Prophecy Club on the following platforms:\nFacebook: https://www.facebook.com/ProphecyClub\nBrighteon: https://www.brighteon.com/channels/theprophecyclub\nRumble: https://rumble.com/c/c-478934\nBitChute: https://www.bitchute.com/channel/DixqVXt1f11y/\nApple Podcast & Spotify: The Prophecy Club\n\nEmail Pastor Stan:\naskstan@prophecyclub.com\n\nClick here to download the Prophecy Charts free:\nhttps://www.prophecyclub.com/downloads\n\nFor Tithes and Offerings please visit:\nhttps://donorbox.org/spirit-of-prophecy-church",
+      "commentCount": 20,
+      "likeCount": 46,
+      "probeClient": "web_embedded"
+    },
+    "QDFfzYNyY8k": {
+      "checkedAt": "2026-08-18T10:53:05Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "With millions of older adults living at home, there are often lonely stretches of time. To fill the gap, the New York State Office for the Aging is turning to artificial intelligence and robotic companions to help. CBS News New York's Jennifer Bisram reports. \nJENNIFER BISRAM SHOWS HOW TECHNOLOGY IS BECOMING ANOTHER SOURCE OF SUPPORT. \n\nFor video licensing inquiries, contact: licensing@veritone.com",
+      "commentCount": 2,
+      "likeCount": 26,
+      "probeClient": "web_embedded"
+    },
+    "KkG2tyEU-Hs": {
+      "checkedAt": "2026-08-18T10:53:05Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Alpha School is a private school that teaches students subjects like math and reading with artificial intelligence apps. Mackenzie Price, co-founder of Alpha School, joins CBS News to discuss.\n\nCBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.\n\nSubscribe to the CBS News YouTube channel: https://youtube.com/cbsnews\nWatch CBS News 24/7: https://cbsnews.com/live/\nDownload the CBS News app: https://cbsnews.com/mobile/\nFollow CBS News on Instagram: https://instagram.com/cbsnews/\nLike CBS News on Facebook: https://facebook.com/cbsnews\nFollow CBS News on X: https://twitter.com/cbsnews\nSubscribe to our newsletters: https://cbsnews.com/newsletters/\nTry Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h\n\nFor video licensing inquiries, contact: licensing@veritone.com",
+      "commentCount": 23,
+      "likeCount": 29,
+      "probeClient": "web_embedded"
+    },
+    "5_Vi_uhJtS0": {
+      "checkedAt": "2026-08-18T10:53:05Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, we explore the Voynich Manuscript and the extraordinary claims that AI may have finally revealed the true nature of its mysterious text. We'll examine its strange symbols, illustrations, writing patterns, and the latest attempts to analyze the manuscript using artificial intelligence, while asking whether the text could actually represent something other than a conventional language.\n\nWe'll separate genuine research from sensational claims and explore what historians, cryptographers, and researchers can actually say about one of the world's most mysterious manuscripts.\n\nIf you enjoy ancient mysteries, AI discoveries, forgotten manuscripts, and fascinating deep dives into unexplained history, don't forget to subscribe for more videos like this.",
+      "commentCount": 35,
+      "likeCount": 519,
       "probeClient": "web_embedded"
     }
   }

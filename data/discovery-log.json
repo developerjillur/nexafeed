@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T09:53:04Z",
+  "updatedAt": "2026-08-18T10:53:05Z",
   "items": [
+    {
+      "id": "eqMjVxKplgE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-18T10:30:36Z",
+      "firstSeenAt": "2026-08-18T10:53:05Z"
+    },
+    {
+      "id": "ZCj4uDCm9Yw",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-18T10:30:32Z",
+      "firstSeenAt": "2026-08-18T10:53:05Z"
+    },
+    {
+      "id": "PHCg9kanGR4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Prophecy Club",
+      "publishedAt": "2026-08-18T08:53:05Z",
+      "firstSeenAt": "2026-08-18T10:53:05Z"
+    },
+    {
+      "id": "QDFfzYNyY8k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CBS New York",
+      "publishedAt": "2026-08-17T23:53:05Z",
+      "firstSeenAt": "2026-08-18T10:53:05Z"
+    },
+    {
+      "id": "KkG2tyEU-Hs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CBS News",
+      "publishedAt": "2026-08-17T21:53:05Z",
+      "firstSeenAt": "2026-08-18T10:53:05Z"
+    },
+    {
+      "id": "5_Vi_uhJtS0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Project Waymark",
+      "publishedAt": "2026-08-17T18:53:05Z",
+      "firstSeenAt": "2026-08-18T10:53:05Z"
+    },
     {
       "id": "y5MGVygoRf8",
       "type": "long",
@@ -17614,6 +17662,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-18T10:53:05Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
