@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T04:53:07Z",
+  "updatedAt": "2026-08-18T05:53:07Z",
   "items": [
+    {
+      "id": "TA-sQTiLBh4",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-08-18T04:53:40Z",
+      "firstSeenAt": "2026-08-18T05:53:07Z"
+    },
+    {
+      "id": "1yAYY9CwBYA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Liz Rowe",
+      "publishedAt": "2026-08-17T15:53:07Z",
+      "firstSeenAt": "2026-08-18T05:53:07Z"
+    },
     {
       "id": "yovJlrckxns",
       "type": "long",
@@ -17481,6 +17497,15 @@
       "channelsChecked": 33,
       "warnings": 18,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-18T05:53:07Z",
+      "new": 4,
+      "long": 1,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 33,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
