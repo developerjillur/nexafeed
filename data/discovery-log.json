@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T16:53:10Z",
+  "updatedAt": "2026-08-18T17:53:10Z",
   "items": [
+    {
+      "id": "b0bGJ01v3rs",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-18T17:39:10Z",
+      "firstSeenAt": "2026-08-18T17:53:10Z"
+    },
+    {
+      "id": "PdFggS28r2M",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julia McCoy",
+      "publishedAt": "2026-08-18T15:53:10Z",
+      "firstSeenAt": "2026-08-18T17:53:10Z"
+    },
+    {
+      "id": "gYU9-dVdgkA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Let's Get Rusty",
+      "publishedAt": "2026-08-18T15:53:10Z",
+      "firstSeenAt": "2026-08-18T17:53:10Z"
+    },
+    {
+      "id": "ml6JT5aNgLs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "edureka!",
+      "publishedAt": "2026-08-18T12:53:10Z",
+      "firstSeenAt": "2026-08-18T17:53:10Z"
+    },
+    {
+      "id": "QUuP7GPzd-k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-08-18T11:53:10Z",
+      "firstSeenAt": "2026-08-18T17:53:10Z"
+    },
+    {
+      "id": "UdwVmmuUAG0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech Tutorials with Piyush",
+      "publishedAt": "2026-08-18T10:53:10Z",
+      "firstSeenAt": "2026-08-18T17:53:10Z"
+    },
+    {
+      "id": "aWZVaUDZmS4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-18T03:53:10Z",
+      "firstSeenAt": "2026-08-18T17:53:10Z"
+    },
+    {
+      "id": "vrgO4D_mUlA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Alex Finn",
+      "publishedAt": "2026-08-18T00:53:10Z",
+      "firstSeenAt": "2026-08-18T17:53:10Z"
+    },
     {
       "id": "8VbNr53V6vk",
       "type": "short",
@@ -17997,6 +18061,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-18T17:53:10Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
