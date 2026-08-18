@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T23:53:03Z",
+  "updatedAt": "2026-08-18T00:53:04Z",
   "items": [
+    {
+      "id": "GKVKkgFCxTI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TRIZE",
+      "publishedAt": "2026-08-17T16:53:04Z",
+      "firstSeenAt": "2026-08-18T00:53:04Z"
+    },
+    {
+      "id": "c2Jj2XIPduk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Brandon Melville",
+      "publishedAt": "2026-08-17T15:53:04Z",
+      "firstSeenAt": "2026-08-18T00:53:04Z"
+    },
+    {
+      "id": "6ST-nnkM3L0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Paul J Lipsky",
+      "publishedAt": "2026-08-17T13:53:04Z",
+      "firstSeenAt": "2026-08-18T00:53:04Z"
+    },
     {
       "id": "3Xgsz36gX7I",
       "type": "long",
@@ -17284,6 +17308,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-18T00:53:04Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-17T23:53:03Z",
+  "updatedAt": "2026-08-18T00:53:04Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -8207,19 +8207,19 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-17T23:53:03Z",
+      "checkedAt": "2026-08-18T00:53:04Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-17T23:53:03Z",
+      "checkedAt": "2026-08-18T00:53:04Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "zetkD-eaWlo": {
-      "checkedAt": "2026-08-17T23:53:03Z",
+      "checkedAt": "2026-08-18T00:53:04Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8246,15 +8246,6 @@
       "description": "**How to Use Kimi K3 in VS Code for FREE | Free AI Coding Assistant**\n\n\n\nWant to use **Kimi K3 in VS Code for FREE**? In this tutorial, I'll show you how to set up Kimi K3 inside Visual Studio Code and use it as an AI coding assistant for your development workflow.\n\nYou'll learn how to:\n\n* Set up Kimi K3 in VS Code\n* Configure the AI model\n* Use Kimi K3 for coding and debugging\n* Generate and modify code with AI\n* Use Kimi K3 without paying for a subscription\n\nPerfect for developers, students, and anyone interested in **AI-powered coding with VS Code**.\n\n👍 Like the video, subscribe to the channel, and turn on notifications for more AI and coding tutorials!\n\n\n#KimiK3 #KimiAI #VSCode #AICoding #AICodingAssistant #FreeAI #AI #Coding #Programming #VSCODETutorial #Kimi #AITools #DeveloperTools\n\n\nKimi K3, Kimi K3 VS Code, Kimi K3 in VS Code, how to use Kimi K3, Kimi K3 free, Kimi AI free, Kimi K3 tutorial, Kimi K3 coding, Kimi K3 coding assistant, use Kimi in VS Code, Kimi AI VS Code, VS Code AI assistant, free AI coding assistant, free AI coding tools, AI coding assistant, AI programming, AI developer tools, VS Code tutorial, VS Code AI, best free AI coding assistant, free coding AI, Kimi tutorial",
       "commentCount": 1,
       "likeCount": 5,
-      "probeClient": "web_embedded"
-    },
-    "KhrJY7ua6uI": {
-      "checkedAt": "2026-08-17T15:53:38Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "The Best Free AI Coding Agent in VS Code: Build Full Apps with DeepSeek V4, No Subscription and No API key needed!\nWant to build full apps with AI — for free — right inside VS Code? In this tutorial, I'll show you how to set up Cline, a powerful open-source AI coding agent extension, and connect it to DeepSeek V4 Flash completely free, with no API key, no billing setup, and no subscription required.\n\nWe'll go step by step: installing Cline, signing in with a free account, selecting the DeepSeek V4 Flash model, and then putting it to work on a real project — a fully functional Invoice Generator app that creates invoices, auto-calculates totals, and exports everything as a downloadable PDF.\n\nYou'll see the entire build happen live on screen: Cline writing the HTML, CSS, and JavaScript on its own, installing a PDF library through the terminal, and wiring up the download button — all from a single plain-English prompt.\n\nWhether you're a beginner exploring AI coding tools or a developer looking for a free alternative to paid Copilot or ChatGPT subscriptions, this workflow gives you a genuinely capable coding agent without spending a dollar.\n\n⏱️ Timestamps:\n0:00 - Intro\n0:15 - What is Cline + DeepSeek V4 Flash\n0:50 - Install Cline & Sign In\n1:15 - Select DeepSeek V4 Flash (Free Setup)\n1:40 - Live Demo: Building the Invoice Generator App\n\n\n\n🔗 Tools used in this video:\n- Cline (VS Code Extension): https://cline.bot\n- VS Code: https://code.visualstudio.com\n\n💬 If this helped you, drop a comment with what app you'd want to see built next with free AI tools — and subscribe for more free AI coding tutorials every week.\n\n#DeepSeek #Cline #VSCode #AICoding #FreeAITools #WebDevelopment #Coding #AIAgent #Programming #DeepSeekV4",
-      "commentCount": 3,
-      "likeCount": 1,
       "probeClient": "web_embedded"
     },
     "o5noOFX-nNc": {
@@ -8316,17 +8307,8 @@
       "likeCount": 8,
       "probeClient": "web_embedded"
     },
-    "ftZAvPw_XVs": {
-      "checkedAt": "2026-08-17T17:53:53Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "MailChimp Tutorial For Beginners 2026\n🔥 The Hottest Tools For Growing Your Digital Business\n🎁 Free Gift 👉 https://www.marketingisl.com/tools\n\n\n\n\n👋 Hey there. Thanks for checking out my MailChimp Tutorial video. Here's what I'll be covering for you.\n\n🏝️ MailChimp Tutorial: A practical walkthrough of the core tools inside MailChimp and how everything works together. We’ll cover setting up your audience, collecting subscribers with a landing page, creating an automated email, and sending a newsletter.\n\n🏝️ MailChimp Tutorial For Beginners: A beginner-friendly guide focused on the fundamentals you actually need to get started. We’ll go step by step from adding your first contacts to building your list, setting up automation, and sending your first email campaign.\n\n🔍 If this video helps you out, consider giving it a like. It's like tossing a message in a bottle it helps more marketers like you find their way here.\n\n🔗 Affiliate Disclaimer: Should you make a purchase through any of my links, I might earn a commission at no extra cost to you. This helps support my channel and keeps the waves of helpful content coming your way.",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-17T23:53:03Z",
+      "checkedAt": "2026-08-18T00:53:04Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8522,15 +8504,6 @@
       "description": "ChatGPT vs Claude vs Gemini - Kaunsa AI tool aapke liye best hai? Is video mein hum in teeno top AI models ka detailed comparison karenge aur dekhenge ki coding, productivity, aur creativity ke liye sabse behtar kaunsa hai.\n\nGalat tool pick karne se pehle ye video zaroor dekhein!\n\nVideo mein kya cover kiya hai:\n\nChatGPT, Claude aur Gemini ke pros & cons\nCoding aur debugging capabilities\nLogic aur reasoning tests\nFinal verdict: Kaunsa AI tool kab use karein?\n\nAgar aap AI aur Generative AI mein apna career banana chahte hain, toh hamara naya course zaroor check out karein.\n\n🎓Microsoft Certified Gen AI Engineering Course:\n https://pwskills.com/course/gen-ai-engineering-course-654105/?utm_source=youtube&utm_medium=launch&utm_campaign=gen_ai\n\n60% discount from 14 Aug to 18 Aug\n\n📌Book your 1:1 career counselling session with our Experts, Fill the Google Form Now :- https://docs.google.com/forms/d/e/1FAIpQLSehugYCXBSP90vBVq9Z-40kEDMx2GbsoWAVQlBvHMlAjZvHeQ/viewform\n\nDon't forget to Like, Share and Subscribe to College Wallah!\n\n#CollegeWallah #ChatGPT #ClaudeAI #Gemini #GenAI #ArtificialIntelligence #Comparison",
       "commentCount": 8,
       "likeCount": 29,
-      "probeClient": "web_embedded"
-    },
-    "IPCRA-YaX5I": {
-      "checkedAt": "2026-08-17T20:53:19Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "How to Create Viral AI Hybrid Object Videos With One Prompt | Google Flow\n\nThese AI hybrid object transformation videos are becoming a powerful short-form content trend, and in this tutorial I’ll show you how to create them with one semi-automated master prompt. Start by copying the MASTER INTERACTIVE HYBRID OBJECT PROMPT GENERATOR and paste it into ChatGPT. Choose Object A from the generated ideas, then choose Object B or enter your own objects. ChatGPT will combine your selections and generate a complete video-generation prompt. Type “AGAIN” anytime to restart the workflow and create a new hybrid concept. Then copy the final prompt into Google Flow, select Video, use 9:16 ratio, Gemini Omni Flash, 10 seconds and quantity 1, then generate your final AI transformation video.\n\nBusiness & Collaborations:\naipervertbusiness@gmail.com\n\n💬 Comment “PROMPT” below and I’ll send you the complete MASTER INTERACTIVE HYBRID OBJECT PROMPT GENERATOR directly.\n\nTools Used:\nChatGPT\nGoogle Flow\nGemini Omni Flash\n\nOfficial Tool Links:\nChatGPT — Official Website\nGoogle Flow — Official Website\n\nRelated Keywords:\nAI hybrid object videos, AI object fusion videos, AI object transformation videos, AI transformation video generator, AI hybrid animals, AI hybrid machines, AI object combination, AI object mashup, AI creature fusion, AI vehicle transformation, AI machine transformation, AI animal machine fusion, AI car animal hybrid, AI object morphing videos, AI generated hybrid videos, AI generated transformation videos, realistic AI transformation, realistic AI hybrid objects, cinematic AI hybrid videos, viral AI hybrid videos, viral AI transformation videos, viral AI object videos, AI video generator, AI video generation, AI video prompts, AI master prompt, master prompt generator, interactive AI prompt generator, ChatGPT prompt generator, ChatGPT AI prompts, ChatGPT video prompts, ChatGPT video generation, ChatGPT AI video workflow, Google Flow AI, Google Flow tutorial, Google Flow video generator, Google Flow prompts, Google Flow AI tutorial, Gemini Omni Flash, Omni Flash video generation, Google AI video generator, AI filmmaking, AI creative tools, AI content creation, AI content ideas, AI creator tools, AI video creator, AI Shorts, YouTube Shorts AI, viral Shorts ideas, Instagram Reels AI, TikTok AI videos, short form AI content, faceless AI content, generative AI video, text to video AI, cinematic AI videos, hyper realistic AI videos, AI visual effects, AI animation videos, AI concept videos, futuristic AI videos, AI technology videos, AI automotive videos, AI animal videos, AI creature videos, AI machine videos, AI engineering videos, satisfying AI videos, AI transformation content, AI trend videos, viral AI content, AI niche ideas, AI video workflow, one prompt AI video, semi automated AI workflow, AI automation prompts, AI video tutorial, AI content strategy, AI creator workflow, YouTube AI content, AI generated Shorts, AI video ideas, viral AI video ideas, creative AI videos, AI generated content, AI video trends, latest AI video trends, AI video creation, AI prompt workflow, ChatGPT and Google Flow, Google Flow and ChatGPT, AI content creation tutorial, AI video generation tutorial, AI hybrid creature, AI hybrid vehicle, AI hybrid machine, object fusion AI, object transformation AI, AI concept generator, AI visual storytelling, AI cinematic transformation, AI realistic transformation, viral AI niche, new AI content ideas, AI creator trends, AI social media content, AI Reels ideas, AI TikTok ideas, AI YouTube Shorts ideas, AI video marketing, AI storytelling, generative video AI, creative AI workflow, AI prompt engineering, AI prompt tutorial.\n\n#AIHybrid #AIVideo #AITransformation #AIObject #GoogleFlow #ChatGPT #AIVideoGenerator #AIPrompts #AIContent #AIShorts #YouTubeShorts #ViralAI #OmniFlash #AITrends #GenerativeAI\n\nSubscribe for daily viral AI trends, AI video tutorials, AI prompts, Google Flow tutorials, and new AI content ideas. Comment “PROMPT” if you want the master prompt!",
-      "commentCount": 22,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "VwGrXe2ricE": {
@@ -8763,6 +8736,33 @@
       "description": "🤖 Step Into the Future with Artificial Intelligence!\n\nWelcome to Lecture 1 of our Premium Paid Course in Artificial Intelligence, brought to you by Digital Skills Centre. Explore the fundamentals of AI, understand how modern AI technologies work, and discover how these skills can create opportunities in freelancing, business, and the digital world.\n\n🎯 Designed for learners at every level — from complete beginners to advanced learners.\n\n🎁 FREE LIVE ACCESS — Experience the Premium Learning!\n\n► For More Details Visit our Website: digitalskillscenter.com\n► Follow My Instagram: /digitalskillscenter\n► Follow My Facebook: /digitalskillscenter\n\nLearn AI. Build Skills. Shape the Future. 🚀",
       "commentCount": 0,
       "likeCount": 288,
+      "probeClient": "web_embedded"
+    },
+    "GKVKkgFCxTI": {
+      "checkedAt": "2026-08-18T00:53:04Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I've used many AI chatbots to build a car in Automation for BeamNG. From ChatGPT, Lumo, Google Gemini, Grok, and many more! For this one, I asked Claude to design a sports car. It will generate everything needed to build this car, including the body type, engine, and components. After that, I will test to see how it performs in BeamNG.drive.\n\nBuild Prompt List: https://trizemedia.com/downloads/\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSocial Media:\n\nhttps://twitter.com/OfficialTRIZE\n\nhttps://facebook.com/OfficialTRIZE\n\nhttps://discord.gg/rb4mMzZ\n\nWebsite:\n\nhttps://trizemedia.com/\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nPC Specs:\n\nCPU: AMD Ryzen 9 7950X (16C/32T @ 4.5 - 5.7 GHz)\nGPU: ZOTAC GAMING GeForce RTX 4080 SUPER AMP\nOS: SK Hynix Platinum P41 1TB\nM.2: WD_BLACK SN850X 1TB\nSSD 1: ADATA Ultimate SU800 1TB\nSSD 2: TEAMGROUP QX T253 4TB\nHDD: Toshiba X300 4TB 7200 RPM\nRAM: G.Skill Flare X5 Series (64 GB @ 6000 MHz DDR5)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nCREDITS:\n\nOUTRO:\nSong: Running Hot\nMusic Provided by Music Bakery Publishing (BMI)\nProduced by Jack Waldenmaier\n\nOTHER:\nSocial Media Animations & End Screen Graphics by CreatorSet\nhttps://creatorset.com/\n\nWhoosh SFX by Austin Newman\nhttps://www.youtube.com/watch?v=rvaTKOpRxlQ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTimestamps:\n\n=========AUTOMATION & CLAUDE===========\n0:00 Intro\n2:11 Generating the Car\n5:46 Car Name\n6:17 Chassis Build\n7:57 Engine Build\n12:20 Final Power & Torque Rating\n13:08 Dyno Pull Test\n14:03 Trim Build\n17:48 Highlighting Completed Build\n18:53 Car Design Timelapse\n21:02 Final Overview of Car\n==============BEAMNG.DRIVE==============\n21:20 Vehicle First Impressions\n21:45 Basic Performance Tests\n24:47 Time Trial Overview (Tsukuba Circuit)\n25:25 Time Trial Run #1\n27:03 Glitched Time Trial Test\n28:16 Leap of Death\n30:33 Conclusion\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n#Automation #AutomationGame #BeamNG #BeamNGDrive",
+      "commentCount": 6,
+      "likeCount": 49,
+      "probeClient": "web_embedded"
+    },
+    "c2Jj2XIPduk": {
+      "checkedAt": "2026-08-18T00:53:04Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Join My Skool → https://www.skool.com/thecheddarchase/about\n\nCheck out Playwright CLI: https://github.com/microsoft/playwright-cli\n\nTake your coding agent to the next level by giving it full browser control with Playwright CLI. In this video, I show you how to install Playwright CLI, why it beats Playwright MCP for token efficiency, and how to build a custom agent skill that lets you automate real browser-based workflows, like submitting and managing support tickets, without needing an API. I also show you how to convert repeatable browser tasks into fast, reusable OpenCode tools that save time and tokens.\n\nWhether you're automating legacy apps, testing your own software, or building client automations businesses would pay for, this workflow will level up your AI agent setup.\n\nhttps://www.youtube.com/channel/UCsv6YMh5kLhixuepSEzHKzg\n\n⏱️ TIMESTAMPS\n0:00 Intro\n0:24 Installing Playwright CLI\n2:32 CLI vs MCP + live demo\n7:36 Custom sub-agent for complex tasks\n5:24 Turning tasks into OpenCode tools\n7:19 When to use a skill vs. build tools\n6:20 Why this matters\n7:35 Recap & outro",
+      "commentCount": 2,
+      "likeCount": 36,
+      "probeClient": "web_embedded"
+    },
+    "6ST-nnkM3L0": {
+      "checkedAt": "2026-08-18T00:53:04Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Master the built-in ChatGPT browser, including setup, permissions, annotations, multiple tabs, and browser control. Then see 10 practical ways to use it for online tasks, customer support, product research, logged-in sites, website testing, notifications, and timed bookings.\n\n0:00 Intro\n0:30 Browser Basics\n2:27 Settings and Permissions\n5:42 Browse and Delegate\n8:16 Support and Shopping\n11:39 Plugins and AI\n14:51 Logged-In Websites\n16:13 Messages and Testing\n18:26 Timed Bookings",
+      "commentCount": 101,
+      "likeCount": 1069,
       "probeClient": "web_embedded"
     }
   }
