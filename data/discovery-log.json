@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T12:53:07Z",
+  "updatedAt": "2026-08-18T13:53:08Z",
   "items": [
+    {
+      "id": "d-92Bu4AcQU",
+      "type": "long",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-18T13:40:18Z",
+      "firstSeenAt": "2026-08-18T13:53:08Z"
+    },
+    {
+      "id": "zpS6JGJNaGg",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-18T13:21:49Z",
+      "firstSeenAt": "2026-08-18T13:53:08Z"
+    },
+    {
+      "id": "9n827BGeDVc",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-18T12:59:13Z",
+      "firstSeenAt": "2026-08-18T13:53:08Z"
+    },
+    {
+      "id": "k5TB9Ey-AYc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jacksons AI",
+      "publishedAt": "2026-08-18T05:53:08Z",
+      "firstSeenAt": "2026-08-18T13:53:08Z"
+    },
+    {
+      "id": "T82X4V9Pp78",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Damian Malliaros",
+      "publishedAt": "2026-08-18T05:53:08Z",
+      "firstSeenAt": "2026-08-18T13:53:08Z"
+    },
+    {
+      "id": "jtyV7O4Pt0s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Turing Post TV",
+      "publishedAt": "2026-08-17T22:53:08Z",
+      "firstSeenAt": "2026-08-18T13:53:08Z"
+    },
+    {
+      "id": "qazhWj8kYLo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ForrestKnight",
+      "publishedAt": "2026-08-17T19:53:08Z",
+      "firstSeenAt": "2026-08-18T13:53:08Z"
+    },
     {
       "id": "25lnMXUdp54",
       "type": "short",
@@ -17753,6 +17809,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-18T13:53:08Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
