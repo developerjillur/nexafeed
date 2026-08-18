@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T20:53:13Z",
+  "updatedAt": "2026-08-18T21:53:14Z",
   "items": [
+    {
+      "id": "k0xB1ih3VB0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Brendan Automation",
+      "publishedAt": "2026-08-18T21:28:34Z",
+      "firstSeenAt": "2026-08-18T21:53:14Z"
+    },
+    {
+      "id": "J460RBrEoTM",
+      "type": "short",
+      "source": "secondary",
+      "channel": "NEWS24 and News24 International",
+      "publishedAt": "2026-08-18T15:53:14Z",
+      "firstSeenAt": "2026-08-18T21:53:14Z"
+    },
+    {
+      "id": "3lCXy26UeD8",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Learn with Whiteboard",
+      "publishedAt": "2026-08-18T14:53:14Z",
+      "firstSeenAt": "2026-08-18T21:53:14Z"
+    },
+    {
+      "id": "wLGOxxGBs_U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pooja Dutt",
+      "publishedAt": "2026-08-18T14:53:14Z",
+      "firstSeenAt": "2026-08-18T21:53:14Z"
+    },
     {
       "id": "D3kJl6tz0S0",
       "type": "long",
@@ -18257,6 +18289,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-18T21:53:14Z",
+      "new": 4,
+      "long": 1,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
