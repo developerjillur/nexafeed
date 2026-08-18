@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T17:53:10Z",
+  "updatedAt": "2026-08-18T18:53:11Z",
   "items": [
+    {
+      "id": "NZYyUcq2APg",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Course Decoded ",
+      "publishedAt": "2026-08-18T18:30:11Z",
+      "firstSeenAt": "2026-08-18T18:53:11Z"
+    },
+    {
+      "id": "RTv-jPAmDOo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "JASTORM",
+      "publishedAt": "2026-08-18T18:04:11Z",
+      "firstSeenAt": "2026-08-18T18:53:11Z"
+    },
+    {
+      "id": "3_JkcrnUyzg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-18T14:53:11Z",
+      "firstSeenAt": "2026-08-18T18:53:11Z"
+    },
+    {
+      "id": "xQTr0Ottk8s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Last moment tuitions",
+      "publishedAt": "2026-08-18T12:53:11Z",
+      "firstSeenAt": "2026-08-18T18:53:11Z"
+    },
+    {
+      "id": "iqBm_MNuChg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sunny Sood",
+      "publishedAt": "2026-08-18T11:53:11Z",
+      "firstSeenAt": "2026-08-18T18:53:11Z"
+    },
+    {
+      "id": "RqOr5SxRd94",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CynoHub",
+      "publishedAt": "2026-08-18T10:53:11Z",
+      "firstSeenAt": "2026-08-18T18:53:11Z"
+    },
+    {
+      "id": "DxuNqhnDkRo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TrickPlusAI",
+      "publishedAt": "2026-08-17T22:53:11Z",
+      "firstSeenAt": "2026-08-18T18:53:11Z"
+    },
     {
       "id": "b0bGJ01v3rs",
       "type": "short",
@@ -18070,6 +18126,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-18T18:53:11Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
