@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T18:53:11Z",
+  "updatedAt": "2026-08-18T19:53:12Z",
   "items": [
+    {
+      "id": "TfvA0R1Oxb8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-18T19:00:26Z",
+      "firstSeenAt": "2026-08-18T19:53:12Z"
+    },
+    {
+      "id": "YKtYIvK_fj0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Altrady",
+      "publishedAt": "2026-08-18T17:53:12Z",
+      "firstSeenAt": "2026-08-18T19:53:12Z"
+    },
+    {
+      "id": "fESHXxccvjk",
+      "type": "short",
+      "source": "secondary",
+      "channel": "AI On Autopilot Academy ",
+      "publishedAt": "2026-08-18T17:53:12Z",
+      "firstSeenAt": "2026-08-18T19:53:12Z"
+    },
+    {
+      "id": "YYDmzCLt004",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Make Money with Stacy La",
+      "publishedAt": "2026-08-18T17:53:12Z",
+      "firstSeenAt": "2026-08-18T19:53:12Z"
+    },
+    {
+      "id": "Vmpu-qroq40",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Academy",
+      "publishedAt": "2026-08-18T15:53:12Z",
+      "firstSeenAt": "2026-08-18T19:53:12Z"
+    },
+    {
+      "id": "gmSNbyrAgto",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-08-18T14:53:12Z",
+      "firstSeenAt": "2026-08-18T19:53:12Z"
+    },
+    {
+      "id": "YiLOxz1qZ6g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Without the Hype",
+      "publishedAt": "2026-08-18T13:53:12Z",
+      "firstSeenAt": "2026-08-18T19:53:12Z"
+    },
+    {
+      "id": "db6YM9KEkzM",
+      "type": "short",
+      "source": "secondary",
+      "channel": "MeJuvante AI",
+      "publishedAt": "2026-08-18T10:53:12Z",
+      "firstSeenAt": "2026-08-18T19:53:12Z"
+    },
     {
       "id": "NZYyUcq2APg",
       "type": "short",
@@ -18135,6 +18199,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-18T19:53:12Z",
+      "new": 8,
+      "long": 5,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
