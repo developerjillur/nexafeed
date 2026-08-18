@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T15:53:06Z",
+  "updatedAt": "2026-08-18T16:53:10Z",
   "items": [
+    {
+      "id": "8VbNr53V6vk",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-18T16:18:46Z",
+      "firstSeenAt": "2026-08-18T16:53:10Z"
+    },
+    {
+      "id": "Lj-PpzAlqek",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Roboverse",
+      "publishedAt": "2026-08-18T16:16:10Z",
+      "firstSeenAt": "2026-08-18T16:53:10Z"
+    },
+    {
+      "id": "sUOCSBTYVLs",
+      "type": "short",
+      "source": "secondary",
+      "channel": "INTERNET STUDENTS",
+      "publishedAt": "2026-08-18T15:59:10Z",
+      "firstSeenAt": "2026-08-18T16:53:10Z"
+    },
+    {
+      "id": "dboo0BHzsqw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Moviebuff Debojyoti ",
+      "publishedAt": "2026-08-18T14:53:10Z",
+      "firstSeenAt": "2026-08-18T16:53:10Z"
+    },
+    {
+      "id": "LcG0cmoaNWc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jesse Cunningham",
+      "publishedAt": "2026-08-18T12:53:10Z",
+      "firstSeenAt": "2026-08-18T16:53:10Z"
+    },
     {
       "id": "uH_irTkY6RM",
       "type": "short",
@@ -17948,6 +17988,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-18T16:53:10Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
