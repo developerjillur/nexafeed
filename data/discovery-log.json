@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T19:53:12Z",
+  "updatedAt": "2026-08-18T20:53:13Z",
   "items": [
+    {
+      "id": "D3kJl6tz0S0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Get365AI",
+      "publishedAt": "2026-08-18T19:54:13Z",
+      "firstSeenAt": "2026-08-18T20:53:13Z"
+    },
+    {
+      "id": "GAXi5Izs3cQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI with Lena Hall",
+      "publishedAt": "2026-08-18T18:53:13Z",
+      "firstSeenAt": "2026-08-18T20:53:13Z"
+    },
+    {
+      "id": "3dI1OkJyAMk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Passionate Programmer",
+      "publishedAt": "2026-08-18T16:53:13Z",
+      "firstSeenAt": "2026-08-18T20:53:13Z"
+    },
+    {
+      "id": "yVYifMBEX1Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kirill Ushakov - Web & Mobile Development",
+      "publishedAt": "2026-08-18T10:53:13Z",
+      "firstSeenAt": "2026-08-18T20:53:13Z"
+    },
+    {
+      "id": "Hv6wwa0ijI4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DrAsp ",
+      "publishedAt": "2026-08-18T08:53:13Z",
+      "firstSeenAt": "2026-08-18T20:53:13Z"
+    },
     {
       "id": "TfvA0R1Oxb8",
       "type": "short",
@@ -18208,6 +18248,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-18T20:53:13Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
