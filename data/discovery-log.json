@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T10:53:05Z",
+  "updatedAt": "2026-08-18T11:53:06Z",
   "items": [
+    {
+      "id": "2VgKrwzmfBM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-18T11:40:36Z",
+      "firstSeenAt": "2026-08-18T11:53:06Z"
+    },
+    {
+      "id": "1P_E-IjUIMs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Execute Automation",
+      "publishedAt": "2026-08-18T07:53:06Z",
+      "firstSeenAt": "2026-08-18T11:53:06Z"
+    },
+    {
+      "id": "rCw57ZnTXtM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "RD Automation Learning",
+      "publishedAt": "2026-08-18T06:53:06Z",
+      "firstSeenAt": "2026-08-18T11:53:06Z"
+    },
+    {
+      "id": "7QKEcz8lFto",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Vention",
+      "publishedAt": "2026-08-17T17:53:06Z",
+      "firstSeenAt": "2026-08-18T11:53:06Z"
+    },
     {
       "id": "eqMjVxKplgE",
       "type": "short",
@@ -17671,6 +17703,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-18T11:53:06Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }

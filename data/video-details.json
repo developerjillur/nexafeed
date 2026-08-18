@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T10:53:05Z",
+  "updatedAt": "2026-08-18T11:53:06Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -2117,99 +2117,6 @@
       "description": "Automation in plain English: https://www.skool.com/ai-inner-circle/about\n\nClaude Routines: Automate Anything with Claude Code in Plain English\n\nClaude Routines run scheduled automations in Anthropic's cloud, no nodes, no n8n, no Zapier. In this video I build a daily digest routine that pulls Vercel analytics, Supabase signups, and Stripe revenue for my app TiltIt and drops a summary in my Gmail every morning at 9 AM. Then I go one step further and build the whole routine from the terminal using Claude Code and the /schedule skill.\n\nIn this video you'll learn:\n• How Claude Routines replace n8n, Make.com, and Zapier\n• Writing instructions that make or break your routine\n• Building routines from the terminal with the /schedule skill\n• Connecting Vercel, Supabase, Stripe, and Gmail via MCP\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"ROUTINE\" and I'll DM you the full checklist with my exact routine prompts, connector setup, and scheduling steps.\n\nIf this saved you weeks of trial-and-error, hit subscribe — I drop one builder-to-builder tutorial every week.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 Stop doing manual tasks — meet Claude Routines\n0:09 Demo — daily digest from Vercel, Supabase, Stripe to Gmail\n0:47 Plain English automation vs n8n, Make.com, Zapier\n1:51 Why your instruction makes or breaks the routine\n2:36 Building routines inside Claude Code with the /schedule skill\n4:22 Routine goes live — connecting Stripe and test run\n5:10 Inside the cloud session and the finished digest\n6:16 Editing routines in plain English (timing, model, tools)\n\n#clauderoutines #claudecode #aiautomation",
       "commentCount": 1,
       "likeCount": 8,
-      "probeClient": "web_embedded"
-    },
-    "72zrUOzf1C8": {
-      "checkedAt": "2026-08-15T14:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Our solar system briefly had ten planets, and almost nobody remembers the tenth one.\n\nFor a short window, the official list read Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto, and Eris. Eris is a trans-Neptunian object with an unusually eccentric orbit, ranging from about 37.9 AU at its closest to roughly 97.5 AU at its farthest from the sun, more than double Pluto's average distance. At its most distant point, temperatures drop low enough that Eris's thin atmosphere condenses and freezes onto its surface as a layer of snow, then thaws again as it swings back closer to the sun.\n\nBefore Eris was confirmed in 2005, astronomers had a working assumption, icy trans-Neptunian objects were reliably smaller than Pluto. Eris broke that assumption. It turned out to be roughly 27 percent more massive than Pluto, despite having a slightly smaller diameter, making it denser overall. It also has its own moon, Dysnomia, discovered later that same year.\n\nEris is named after the Greek goddess of strife and discord, a fitting choice, since its discovery caused exactly that within the astronomical community. The existence of an object rivaling Pluto in mass forced the International Astronomical Union to formally define what a planet actually is for the first time. Under the new 2006 definition, Pluto no longer qualified. Today, both Eris and Pluto are officially classified as dwarf planets.\n\nSource: NASA, Eris Overview. International Astronomical Union, 2006 Planet Definition Resolution. California Institute of Technology, Discovery of Eris (Brown, Trujillo, Rabinowitz).\n#Pluto #DwarfPlanet #SolarSystem  #Eris #PlanetDefinition",
-      "commentCount": 379,
-      "likeCount": 51004,
-      "comments": [
-        {
-          "id": "UgwgPaUvUWu-wnsV8G94AaABAg",
-          "author": "@prasantsharma7607",
-          "text": "Whatever we say about them it will not effect them they are same as they were and and remains same after we vanish so don't.....",
-          "likeCount": 1,
-          "publishedAt": "2026-08-08T13:54:22Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhD_uBtCD8mWdT0iitBx_Q8bq0TyRBWRZE2sXdp1oZwUfg1sZvctK6tZ7r4kqP-KS8-A=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzjNfAnYVPJlGxuGf14AaABAg",
-          "author": "@Krishnailove2414",
-          "text": "9th planet kab milega 😅",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T13:54:01Z",
-          "authorThumbnail": "https://yt3.ggpht.com/TazcGCX-2xYlZCgplT0NNAYhzRAqejvP1k4rV1fpiR0cUiyR31P0PPvTmpsNGv7I2NLXTltx9Q=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyqrGVlhUMOJbCionl4AaABAg",
-          "author": "@JIJAENTERPRISES",
-          "text": "Both of them don't care which list you mention them in.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T13:52:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/-2NXv6v1y_UEUDAEIGgNRGYERi1Wh33Tst7u6l0ki6mCuBcxEDjiSskn4Rz_v4IWxM7a9pXFnw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzS9sRSrNZhc_Rdrod4AaABAg",
-          "author": "@Create-nature",
-          "text": "Bro your mic name?",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T13:47:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/jw3wB3e8w8lqLMkRtDUXUoquSWa5hfe8jZTsdozlUBX3R0yKA6lIfP0otvbsgnVYx-Mjh9mhF9U=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzqZ6EaX6GEk6ILHYl4AaABAg",
-          "author": "@king_d__luffytaro",
-          "text": "There was a 10th planet??😭 \nWhy everyone's acting like you all knew abt it😭",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T13:42:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/VkvaNrxPYsvlPxmopTOSNscvWs9YL-Rr_8kYZ3t02Nmg7uv_jhNDDR716CT0wmhFZ_sMzz0ofw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzNQzVueNWUZehW7K14AaABAg",
-          "author": "@anamika6471",
-          "text": "pluto ko kisi aur planet ke karn nhi htaya gya hai planet ke defination me 2 ko fulfill krta h pluto but 1 ko defination ke karan htaya gya hai usko jo wo fulfill nhi kr pata",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T13:41:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Y6qm-zbIrxYSVQpyPXcJAhXDT6gzKCQ8v_3W3u1Trt7yth2Dff8QC4DY5qSkcbHVc512XpCttiw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxc99tLIv7RYJFXpOV4AaABAg",
-          "author": "@33345vgjijbvc",
-          "text": "Eris ko farak nahi padta",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T13:40:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/97Ff0qmjdA75JojvdjyGbVsnGQzNiSvAY1rJZywkNNTFZmsg0pspp5HW7h-e6_7ok-ZJELQxFg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxmHSRPnXMRlHl-e_54AaABAg",
-          "author": "@mohammedshoiabfaize",
-          "text": "Pluto ko isse kuch farq nhi padhta.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-08T13:37:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/URwn8usW3p4hQX9vTPFjjnTyZhUDY8Icw078891SDBcdcoIYjOa8oALgfgpDPqYiYJtoodTw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-08T13:53:42Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "17t0nG2VShI": {
@@ -8012,19 +7919,10 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-18T10:53:05Z",
+      "checkedAt": "2026-08-18T11:53:06Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
-    },
-    "o5noOFX-nNc": {
-      "checkedAt": "2026-08-17T16:53:47Z",
-      "embedAllowed": true,
       "availability": "public",
-      "description": "Discover how Adobe Marketo Engage AI is transforming lead management by evolving traditional Marketing Qualified Leads (MQLs) into AI-Qualified Leads (AIQLs) through intelligent lead scoring, lifecycle automation, and AI-powered decision-making.\n\nIn this Adobe Experience League Skills Exchange session, you'll learn how to build an AI-powered lifecycle engine in Marketo Engage that continuously evaluates customer engagement, updates lead scores, recommends next-best actions, and helps Sales prioritize the right opportunities—all automatically.\n\nWhether you're a marketing operations professional, demand generation manager, CRM administrator, or revenue marketer, this session demonstrates how AI can improve lead qualification, increase sales readiness, and create a more adaptive lifecycle strategy.\n\nYou'll learn how to:\n• Build an AI-powered lead lifecycle engine that automatically evaluates customer engagement and updates lifecycle stages.\n• Define an Ideal Customer Profile (ICP) and use it to guide AI-driven lead qualification and decision-making.\n• Automate lead scoring using engagement signals, behavioral data, and activity-based triggers within Marketo Engage.\n• Generate AI-powered sales summaries and recommended next actions to help Sales engage prospects more effectively.\n• Implement an AIQL (AI-Qualified Lead) framework that adapts to changing customer behavior and aligns Marketing and Sales.\n• Leverage Marketo Engage AI capabilities to improve lifecycle automation, sales handoffs, and campaign performance.\n\nChapters:\n01:40 Traditional MQL vs. AI Qualified Leads (AIQL)\n05:56 Agentic Marketing Automation\n07:08 Setting Up an AI Marketing Agent\n13:04 Equip Your AI Agent\n19:59 Adding Human Touchpoints\n21:26 Tools for Building AI Agents\n22:57 What's Next? AI Beyond Lead Qualification\n24:07 Rollout Tips\n26:57 Live Q&A\n\nExplore more solution sessions and continue learning on Experience League: https://experienceleague.adobe.com/en/events#f-el_event_series=The%20Skill%20Exchange\n\n****\n\nAdobe gives you the integrated tools you need to excel in cross-channel marketing, digital advertising, audience and data optimization, and more. Explore our capabilities here: https://business.adobe.com",
-      "commentCount": 0,
-      "likeCount": 1,
-      "probeClient": "web_embedded"
+      "failureReason": "embed_disabled"
     },
     "K8z_pZNl_Fw": {
       "checkedAt": "2026-08-17T17:53:53Z",
@@ -8059,7 +7957,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-18T10:53:05Z",
+      "checkedAt": "2026-08-18T11:53:06Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8331,23 +8229,6 @@
       "likeCount": 61,
       "probeClient": "web_embedded"
     },
-    "0IfwnKwPrA4": {
-      "checkedAt": "2026-08-17T23:53:03Z",
-      "embedAllowed": true,
-      "description": "As the world marks International Youth Day 2026, artificial intelligence is creating new opportunities for young Africans, from education and entrepreneurship to content creation and jobs. Despite challenges such as limited access and digital skills gaps, young people are increasingly embracing AI. CGTN Africa spoke to youth in Nairobi about how they use AI and their views on its opportunities and challenges.\n\n#AI #Artificialintelligence #Chatgpt #youth #youngpeople #internationalyouthday #tech\n\nSubscribe to us on YouTube: http://ow.ly/Zvqj30aIsgY\r\n\r\nFollow us on:\r\n\r\nFacebook: https://www.facebook.com/cgtnafrica/\r\nTwitter: https://twitter.com/cgtnafrica\r\nInstagram: https://www.instagram.com/cgtn_africa/",
-      "commentCount": 0,
-      "likeCount": 5,
-      "probeClient": "web_embedded"
-    },
-    "GKVKkgFCxTI": {
-      "checkedAt": "2026-08-18T00:53:04Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "I've used many AI chatbots to build a car in Automation for BeamNG. From ChatGPT, Lumo, Google Gemini, Grok, and many more! For this one, I asked Claude to design a sports car. It will generate everything needed to build this car, including the body type, engine, and components. After that, I will test to see how it performs in BeamNG.drive.\n\nBuild Prompt List: https://trizemedia.com/downloads/\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSocial Media:\n\nhttps://twitter.com/OfficialTRIZE\n\nhttps://facebook.com/OfficialTRIZE\n\nhttps://discord.gg/rb4mMzZ\n\nWebsite:\n\nhttps://trizemedia.com/\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nPC Specs:\n\nCPU: AMD Ryzen 9 7950X (16C/32T @ 4.5 - 5.7 GHz)\nGPU: ZOTAC GAMING GeForce RTX 4080 SUPER AMP\nOS: SK Hynix Platinum P41 1TB\nM.2: WD_BLACK SN850X 1TB\nSSD 1: ADATA Ultimate SU800 1TB\nSSD 2: TEAMGROUP QX T253 4TB\nHDD: Toshiba X300 4TB 7200 RPM\nRAM: G.Skill Flare X5 Series (64 GB @ 6000 MHz DDR5)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nCREDITS:\n\nOUTRO:\nSong: Running Hot\nMusic Provided by Music Bakery Publishing (BMI)\nProduced by Jack Waldenmaier\n\nOTHER:\nSocial Media Animations & End Screen Graphics by CreatorSet\nhttps://creatorset.com/\n\nWhoosh SFX by Austin Newman\nhttps://www.youtube.com/watch?v=rvaTKOpRxlQ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTimestamps:\n\n=========AUTOMATION & CLAUDE===========\n0:00 Intro\n2:11 Generating the Car\n5:46 Car Name\n6:17 Chassis Build\n7:57 Engine Build\n12:20 Final Power & Torque Rating\n13:08 Dyno Pull Test\n14:03 Trim Build\n17:48 Highlighting Completed Build\n18:53 Car Design Timelapse\n21:02 Final Overview of Car\n==============BEAMNG.DRIVE==============\n21:20 Vehicle First Impressions\n21:45 Basic Performance Tests\n24:47 Time Trial Overview (Tsukuba Circuit)\n25:25 Time Trial Run #1\n27:03 Glitched Time Trial Test\n28:16 Leap of Death\n30:33 Conclusion\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n#Automation #AutomationGame #BeamNG #BeamNGDrive",
-      "commentCount": 6,
-      "likeCount": 49,
-      "probeClient": "web_embedded"
-    },
     "UgGMGhJPDAc": {
       "checkedAt": "2026-08-18T01:53:05Z",
       "embedAllowed": true,
@@ -8572,10 +8453,10 @@
       "probeClient": "web_embedded"
     },
     "jUbpNXEukMY": {
-      "checkedAt": "2026-08-18T10:53:05Z",
+      "checkedAt": "2026-08-18T11:53:06Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "zetkD-eaWlo": {
       "checkedAt": "2026-08-18T09:53:04Z",
@@ -8710,6 +8591,126 @@
       "description": "In this video, we explore the Voynich Manuscript and the extraordinary claims that AI may have finally revealed the true nature of its mysterious text. We'll examine its strange symbols, illustrations, writing patterns, and the latest attempts to analyze the manuscript using artificial intelligence, while asking whether the text could actually represent something other than a conventional language.\n\nWe'll separate genuine research from sensational claims and explore what historians, cryptographers, and researchers can actually say about one of the world's most mysterious manuscripts.\n\nIf you enjoy ancient mysteries, AI discoveries, forgotten manuscripts, and fascinating deep dives into unexplained history, don't forget to subscribe for more videos like this.",
       "commentCount": 35,
       "likeCount": 519,
+      "probeClient": "web_embedded"
+    },
+    "2VgKrwzmfBM": {
+      "checkedAt": "2026-08-18T11:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Touching the Sun sounds impossible. It isn't, NASA's Parker Solar Probe has already flown directly through its corona, the Sun's outer atmosphere, becoming the first spacecraft to do so.\n\nThe Sun holds 99.8% of the entire solar system's mass. Every planet, moon, comet, asteroid, and particle of dust combined accounts for the remaining 0.2%. By volume, the Sun is large enough to hold approximately 1.3 million Earths.\n\nSurface temperature averages around 5,500°C. At the core, temperatures reach roughly 15 million°C, hot enough to sustain thermonuclear fusion, where hydrogen atoms fuse into helium, releasing the energy that powers the entire solar system. The Sun is approximately 4.5 billion years old and is thought to be roughly halfway through its total lifespan. As it ages and its hydrogen fuel depletes, it will begin fusing helium into carbon, a transition that will cause it to expand into a red giant large enough to exceed Earth's current orbit.\n\nOne of the strangest unresolved questions in solar physics is the coronal heating problem. The Sun's visible surface, the photosphere, sits at around 5,500°C. Its outer atmosphere, the corona, reaches temperatures up to 200 times hotter, sometimes exceeding a million degrees. This defies basic thermodynamic intuition, temperature should decrease with distance from a heat source, not increase. First documented in 1939, the mechanism behind this remains actively debated among solar physicists, with leading theories pointing to magnetic wave activity and small-scale explosive events called nanoflares.\n\nDespite its dominance over our solar system, the Sun is far from the largest star known. Stephenson 2-18, a red hypergiant located in the constellation Scutum, is estimated by some studies to have a volume roughly 10 billion times that of the Sun, though its exact size remains genuinely disputed among astronomers, with some analyses questioning whether it's even a confirmed member of the cluster used to estimate its distance.\n\nSource: NASA Solar System Exploration, In Depth: Sun. NASA Parker Solar Probe Mission. Sky at Night Magazine, The Coronal Heating Problem. Simple English Wikipedia, Stephenson 2-18.\n#Sun #ParkerSolarProbe #SolarSystem #NASA #NuclearFusion",
+      "commentCount": 8,
+      "likeCount": 56,
+      "comments": [
+        {
+          "id": "Ugwds2PXeQaPO38G5_x4AaABAg",
+          "author": "@Deathplay549",
+          "text": "Sir it's newton , please help me. Can you read chats that I send you if you have some time",
+          "likeCount": 1,
+          "publishedAt": "2026-08-18T11:52:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/pjYQVRF31XzhHXfZXF036YkhN1WHcohymKDmE91L1Fjy2PUTU-nxxCzp95p-CevU4DVBSjhgoA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyZ-jWJ53slS7KulgF4AaABAg",
+          "author": "@vivekcreate-yt1",
+          "text": "Koi muchhe bhi congratulations bol do",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T11:51:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/L99FfcEUP8hAVG_YrZzGVPAPRMdjuO5i1Lr24_Wj8OVejvOMNwVFogkr6otT0hJcbILkw5_1Fw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzJq_P38IHhMxUBe2V4AaABAg",
+          "author": "@NavixGT",
+          "text": "Bro please explain me about Cephied Star",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T11:47:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/gV7w7sZb85_g3S0ix3IKxGGjBtfwi_xYR2cWRbKXklonoUIbzI3smljmI5Q22o8qMjWeSIX0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw_qSu3tZv3Ki-PRFp4AaABAg",
+          "author": "@chitradeepdas3298",
+          "text": "Love your content ❤ I would like to see long videos from you 😊",
+          "likeCount": 1,
+          "publishedAt": "2026-08-18T11:47:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-PJP4dK5z5Ysdlir7n5AeW56Lmw3NGgVMmR7Byat4RREKRe112gcKnfAJTfNgFQiVrcMyvEXwQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgytRXurbokYpc0MYgd4AaABAg",
+          "author": "@Harshalkhonde18",
+          "text": "Bhai ka Solar system se kuch alag controversy hai 😂\nLast ke videos dekho 😅",
+          "likeCount": 1,
+          "publishedAt": "2026-08-18T11:45:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-4KZ8Op4g5Jbr-IyZEH5NEfcl1Ef4AckfZW1T8B0EW_Hg4Nhe8hP5nGabG6uaQvviqBC-bM30KE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw15BicQlJNDhifwn94AaABAg",
+          "author": "@SulekhaGupta-i8z",
+          "text": "Congratulations for 300k subscribers brother 🎉😊\nKeep growing 🎉",
+          "likeCount": 1,
+          "publishedAt": "2026-08-18T11:45:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/HWNYsIsyoNXHOxISYF3aOKSObTqEUxu3TS0kJW4LBSbpuFRazm8mPG0fj5kqCUCQCb7LUNAmuw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyG8zUM29AwD0d9Pjt4AaABAg",
+          "author": "@MohammedIbrahimAbdulGaniWalika",
+          "text": "The only star that doesn't need a social media account to get billions of followers.The original wireless charger for the entire planet😅😅😅",
+          "likeCount": 1,
+          "publishedAt": "2026-08-18T11:44:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Y2T70Rgphqq5KO_8_-AaBcB6nLCj4juig4n-zHJdDfCTb2T-bz6SAobXGObOODhz7WZRUWp_tw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzgvZCmKQ2CFavvblN4AaABAg",
+          "author": "@sarojvaishnav9285",
+          "text": "I am your biggest fan plz pin meeeeeee",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T11:42:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nv9GVr6i-iog4JUs-nteIjsksIMe-XjKCuBQ3bBDnjrvA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-18T11:53:06Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "1P_E-IjUIMs": {
+      "checkedAt": "2026-08-18T11:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Testing out BrowserStack's new Test Companion, an agentic AI that generates test cases from requirements, authors and executes test scripts, debugs failing tests, and runs across 30,000+ real devices and browsers, right inside the IDE across Playwright, Selenium, Cypress, and more. Sharing my first impressions.\n\nTry for FREE here: https://shorturl.at/OE6Gu\n\n📚 Learn more:\n🔗 End-to-End Testing of Chatbots, AI Agents, RAG & MCP Servers (Udemy) — https://www.udemy.com/course/ai-testing-deepeval-chatbot-rag-agent-mcp/?couponCode=LEARN_JUL_26\n🔗 RAG & LLM App Testing for Beginners (5000+ enrolled) — https://www.udemy.com/course/ai-testing-deepeval-ragas-ollama/?couponCode=LEARN_JUL_26\n\nMy AI related Courses for you to empower today:\nLearn my latest course launched this week on ZERO Code AI Tests: Automate Software Tests in Plain English: https://www.udemy.com/course/zero-code-ai-testing/?couponCode=LEARN_JUL_26\n\n🤖 AI-Driven Test Automation: Playwright, Selenium, LLMs & More\nhttps://www.udemy.com/course/ai-test-automation-selenium-playwright-llms/?couponCode=LEARN_JUL_26\n\n🤖 https://www.udemy.com/course/genai-multi-agent-software-testing/?couponCode=LEARN_JUL_26\n\n🤖Test AI & LLM App with DeepEval, RAGAs & more using Ollama\nhttps://www.udemy.com/course/ai-testing-deepeval-ragas-ollama/?couponCode=LEARN_JUL_26\n\n🤖Build & Test AI Agents, ChatBot, RAG with Ollama & Local LLM\nhttps://www.udemy.com/course/build-ai-agent-chatbot-rag-langchain-local-llm/?couponCode=LEARN_JUL_26\n\n🤖2025 - Understand ,Test ,Fine-tune AI Model with HuggingFace\nhttps://www.udemy.com/course/ai-with-huggingface/?couponCode=LEARN_JUL_26\n\n🤖2025 - Using Generative AI in Software Automation Testing\nhttps://www.udemy.com/course/generative-ai-in-software-automation-testing/?couponCode=LEARN_JUL_26\n\n➜ Discount coupon codes for all the courses: LEARN_JUL_26\n\n► [Advanced Framework development Course in Selenium C#] https://www.udemy.com/course/framework-development-with-selenium-csharp-advanced/\n\n► [Advanced Framework development Course in Playwright C#]\nhttps://www.udemy.com/course/framework-development-with-playwright-dotnet/\n\n#BrowserStack #executeautomation #selenium #playwright #testcompanion #ai #softwaretesting #aitesting\n \n► [Udemy] https://www.udemy.com/user/karthik-kk/\n\n► [XUnit with Selenium] https://www.youtube.com/playlist?list=PL6tu16kXT9Prbp7hTEb-M-luddsRJZKJ2\n► [Git Basics] https://www.youtube.com/playlist?list=PL6tu16kXT9PqIcfMOE9hX81cVOnmiM1E2\n► [SpringBoot for Testing] https://www.youtube.com/playlist?list=PL6tu16kXT9PrDr6kMGQ-CgnvCsFxrq1eS\n\nSelenium and C#\n► [C# for automation testing] https://www.youtube.com/playlist?list=PL6tu16kXT9Pp3NFZgLbPZXEykeGQwxGSx\n► [Selenium with C#] https://www.youtube.com/watch?v=mluLgBywW0Y&list=PL6tu16kXT9PqKSouJUV6sRVgmcKs-VCqo\n► [BDD with Specflow] https://www.youtube.com/playlist?list=PL6tu16kXT9Pp3wrsaYyNRnK1QkvVv6qdI\n► [BDD with Selenium] https://www.youtube.com/playlist?list=PL6tu16kXT9PrAjLHMTtttMybnV1kDpCXk\n► [Selenium .NET Core] https://www.youtube.com/playlist?list=PL6tu16kXT9PqLJfuuLcvHnE61pzD8Dq9M\n\nSelenium &Java\n► [Cucumber with Selenium] https://www.youtube.com/playlist?list=PL6tu16kXT9PpteusHGISu_lHcV6MbBtA6\n► [Cucumber with Selenium]  https://www.youtube.com/playlist?list=PL6tu16kXT9Pqr70SZlwcmTSAfOw_0Qj3R\n► [Cucumber 4 Upgrade] https://www.youtube.com/playlist?list=PL6tu16kXT9PoT4gRr5F00r1lPaTszk_-q\n► [Selenium Grid] https://www.youtube.com/playlist?list=PL6tu16kXT9Po4YMQz_uEd5FN4V3UyAZi6\n► [Selenium framework development] https://www.youtube.com/playlist?list=PL6tu16kXT9Prgk2f37ozqcdZac9pSATf6\n► [Selenium 4] https://www.youtube.com/playlist?list=PL6tu16kXT9PoYFpoLR0OaDuZDjblBPxuO\n► [Selenium Grid with Docker] https://www.youtube.com/playlist?list=PL6tu16kXT9PrgjktYZJ9-ISDTEimjjxv7",
+      "commentCount": 10,
+      "likeCount": 15,
+      "probeClient": "web_embedded"
+    },
+    "rCw57ZnTXtM": {
+      "checkedAt": "2026-08-18T11:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥 Still Doing Manual Testing? Time to Upgrade Your Career!\n\nSwitch to Automation with Playwright + AI and become interview-ready with real project experience - https://topmate.io/rd_automation_learning/2252705\n\n📈 Need Direction? Book Career Guidance\n👉 https://topmate.io/rd_automation_learning/723078\n\n💼 Want to Crack Interviews Faster? Go for 1:1 Mentorship\n👉 https://topmate.io/rd_automation_learning/723079\n\nStop waiting. Start transitioning. Your Automation journey begins now 🚀\nThis video shares a **real QA success story** of a software tester who successfully cracked an **Automation Testing interview** and secured a job after consistent preparation and guidance.\n#QASuccessStory\n#AutomationTesting\n#SoftwareTesting\n#TestingJobs\n#QAInterview\n\nIn this video, you will learn:\n• How to prepare for Automation Testing interviews\n• What interviewers actually expect from QA candidates\n• Common mistakes testers make during interviews\n• How to transition from manual testing to automation\n• Real interview questions and preparation strategy\n\nThis success story is meant to **motivate freshers and experienced testers** who are struggling with interview calls or rejections.\n\n👉 Career guidance & digital learning resources:\n[https://topmate.io/rd_automation_learning/1261931](https://topmate.io/rd_automation_learning/1261931)\n\nIf you are preparing for **QA, Manual Testing, Automation Testing, or SDET roles**, this video will help you understand the real interview journey.\n\n👍 Like | 💬 Comment | 🔔 Subscribe for more QA success stories & interview guidance\nqa success story\nautomation testing job\nsoftware testing interview\nhow to get job in software testing\nautomation testing interview experience\nmanual to automation testing\nqa interview questions\ntesting interview preparation\nsdet interview\nsoftware tester career\nqa jobs india\nautomation testing roadmap",
+      "commentCount": 3,
+      "likeCount": 27,
+      "probeClient": "web_embedded"
+    },
+    "7QKEcz8lFto": {
+      "checkedAt": "2026-08-18T11:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Testing a fragile PCBA board with 100% accuracy used to mean slow, manual work and an FTE tied up watching every cycle. \n\nVention's GRIIP changes that.\n\nIn this video, see how GRIIP uses Physical AI to inspect, approve, and label delicate PCBA boards autonomously, with the precision motion control needed to protect every part.\n\nWith GRIIP, users get: \n\n➡️Autonomous inspection and labeling for fragile boards\n➡️Precision motion control tuned for delicate parts\n➡️One connected cell built for real production floors\n\nIt's Physical AI built for your floor. \n\nLearn more about Vention GRIIP and Physical AI: https://vention.com/physical-ai-pipeline\n\n#PhysicalAI #Robotics #ManufacturingAutomation #FactoryAutomation #PhysicalAIRobots #Automation #SmartManufacturing #Industry40",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }
