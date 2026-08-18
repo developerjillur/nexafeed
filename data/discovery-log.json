@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T06:53:08Z",
+  "updatedAt": "2026-08-18T07:53:17Z",
   "items": [
+    {
+      "id": "QohDKyfeKP0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Builder Funnel",
+      "publishedAt": "2026-08-17T20:53:17Z",
+      "firstSeenAt": "2026-08-18T07:53:17Z"
+    },
     {
       "id": "fVnzsJ51SfE",
       "type": "short",
@@ -17531,6 +17539,15 @@
       "channelsChecked": 33,
       "warnings": 33,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-18T07:53:17Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
