@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T21:53:14Z",
+  "updatedAt": "2026-08-18T22:53:15Z",
   "items": [
+    {
+      "id": "7msfHtAQHas",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sniper Auto Trader",
+      "publishedAt": "2026-08-18T21:53:15Z",
+      "firstSeenAt": "2026-08-18T22:53:15Z"
+    },
+    {
+      "id": "5PcMZT-CBCc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Saad Rashid - YouTube Automation",
+      "publishedAt": "2026-08-18T15:53:15Z",
+      "firstSeenAt": "2026-08-18T22:53:15Z"
+    },
+    {
+      "id": "nHfAMDamC1o",
+      "type": "long",
+      "source": "secondary",
+      "channel": "LearnWire",
+      "publishedAt": "2026-08-18T15:53:15Z",
+      "firstSeenAt": "2026-08-18T22:53:15Z"
+    },
     {
       "id": "k0xB1ih3VB0",
       "type": "short",
@@ -18298,6 +18322,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-18T22:53:15Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }

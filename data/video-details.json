@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T21:53:14Z",
+  "updatedAt": "2026-08-18T22:53:15Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -7384,7 +7384,7 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-18T21:53:14Z",
+      "checkedAt": "2026-08-18T22:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7433,10 +7433,10 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-18T21:53:14Z",
+      "checkedAt": "2026-08-18T22:53:15Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "uUIJPWsHD38": {
       "checkedAt": "2026-08-18T19:53:12Z",
@@ -7587,95 +7587,95 @@
       "probeClient": "web_embedded"
     },
     "Bsa8Bx5YAwU": {
-      "checkedAt": "2026-08-17T21:53:27Z",
+      "checkedAt": "2026-08-18T22:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "💬 Comment 𝗖𝗢𝗨𝗡𝗖𝗜𝗟 and I’ll DM you the repo link!\n\n#claudecode #aiagents #codingwithai #developerproductivity #llmcouncil #buildinpublic #softwareengineering #anthropic #aitools",
       "commentCount": 8,
-      "likeCount": 22,
+      "likeCount": 105,
       "comments": [
         {
-          "id": "UgzJ7gTbNlN-JII_CJN4AaABAg",
-          "author": "@br5339",
+          "id": "Ugw-rKMBIg5hBAo1KHZ4AaABAg",
+          "author": "@EricWTech",
+          "text": "📌 Here is the link:\n\nhttps://github.com/aiwithremy/claude-skills-llm-council",
+          "likeCount": 3,
+          "publishedAt": "2026-08-18T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-fAZCNoiUQ0xrOaqyCUPXW4MRRTNbJyWSN-KFzFSJlWNrl36J0h5EwfMKJi3GaNY0A5Ml1mLbS0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "UgxeQ8c46CZk-4lHMcd4AaABAg",
+          "author": "@grodly05",
           "text": "Council",
           "likeCount": 0,
-          "publishedAt": "2026-08-17T21:52:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n3jWz-EUzVgVplRnu9RWBmiGeeCypZ_uFA1gjmbnY=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-18T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nR8jwvvV-VdRaeh8Y6LnYbQU0Kr-dWiSZ7OkpV_tWd4KI=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugz147ItXv7Qlz_B3-V4AaABAg",
-          "author": "@rifadix",
+          "id": "UgxazFlok-Oj1YGUJ5x4AaABAg",
+          "author": "@SusieWebster-o3t",
           "text": "Council",
           "likeCount": 0,
-          "publishedAt": "2026-08-17T21:42:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nhoOi8Lhcr7w0l0Ur6N0ern1n6gqe49p8sDZDsXjKezsAllwS3frRAi1p45L_qVDrCfQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-18T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/AdU66DbSWWlg3tySh3SDCSa9zAkl8GCdU4_QttyNNpunaSPBB53izNZZOB2Me32C46jY3AtU2Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugw7mHlv5hB12esiC1B4AaABAg",
-          "author": "@SmokyTheDragonTFT",
-          "text": "council",
+          "id": "UgyviuxidJNheoQHkEt4AaABAg",
+          "author": "@zchase6631",
+          "text": "COUNCIL",
           "likeCount": 0,
-          "publishedAt": "2026-08-17T21:24:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/OfiOFHsAY2ihzzZtM-hgLM2Fsq7fxY8MMgJkf4yNdhJ1qn96tler188PTxlvYWDwcPi8LOmRpg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-18T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lvxA5V2-4MODEnvzzxSf8Fp2r4j8uvK-ZK3WMbGeA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwCesZSWKDLal_2kot4AaABAg",
-          "author": "@junoxsndc",
+          "id": "UgzW1-WNJUYesOLI6AN4AaABAg",
+          "author": "@rowland83",
           "text": "Council",
           "likeCount": 0,
-          "publishedAt": "2026-08-17T21:16:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/utpG2sugb-RcTtKK0nziIZx6hTBLOv5IxmDPv8JiU1Z1lNJWdcND5saJBTaDoHU78vKTq0jahw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-18T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/kJlGUyOGGtOFnBxAVObxRl_wYbkW4sPaFnh9gxCKtViT_h0DCEFmWT0Tq_6PqF2llA1AK7Xv=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugw0dRvHsQ0XZ10Xnpd4AaABAg",
-          "author": "@Mitchel-d2d",
-          "text": "Council",
+          "id": "UgwyloUIXj4ViLFD6qd4AaABAg",
+          "author": "@TNTSYCOKILLER",
+          "text": "Counsil",
           "likeCount": 0,
-          "publishedAt": "2026-08-17T21:12:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/S-ZICD9dZxC8oO5g2q6AiuszzwmyDmRLLYJlAYcxe0D1BwCRIlt06qPXArk8Nt1GzATPwyhYxCs=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-18T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/JUfjikUwqbPohDCKn71o_wdWdaVy25De2Qxv-wUHAWZK0UHl_iLAZowB9vDDhZtQJ5oGr-9M6g=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzD5pw9PTh_g7GuUG94AaABAg",
-          "author": "@riccokayaker7523",
+          "id": "Ugx-F6pnat05lZVKCNJ4AaABAg",
+          "author": "@Kount93",
           "text": "Council",
           "likeCount": 0,
-          "publishedAt": "2026-08-17T21:11:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nSfrF7lVkfCxxlt8hWTNFjMyA7YnVuCkwpVXIyIros5IAF=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-18T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m9m7E5R4yK5iVXQal_gm_sF5FCWh7aQV2gkg_7FKSr0Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugzx6fVR7Fz6e2po5bN4AaABAg",
-          "author": "@Hanish9",
-          "text": "Council",
+          "id": "Ugx61n9jFrRVcCSJxNx4AaABAg",
+          "author": "@Rehan-m4v8v",
+          "text": "Yes",
           "likeCount": 0,
-          "publishedAt": "2026-08-17T21:08:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ks3yQ3ZPp9wm88C2KCqAqypN_tQj0a9mkWcseIyjBM-w=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzTdHQc_uTG8l60dsh4AaABAg",
-          "author": "@vickomir",
-          "text": "Council",
-          "likeCount": 1,
-          "publishedAt": "2026-08-17T20:57:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kGXtZ0d8SetfaLCkLwfxYiu8J4-pdfxx-sZ6NVyD8=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-18T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/60ka_kS9a-JBuZD3Qg5kVdujfxCqVilFDtHTWMwpaWChUg_t6UtfMiJriL7W_nhcSkdnACm1TQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-17T21:53:27Z",
+      "commentsFetchedAt": "2026-08-18T22:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7797,15 +7797,6 @@
       "availability": "public",
       "failureReason": "embed_disabled"
     },
-    "y5MGVygoRf8": {
-      "checkedAt": "2026-08-18T09:53:04Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Boost your career in Data Science, Software Development, AI/ML and FDE with SCALER. Check out - - https://www.scaler.com/?utm_source=brandedcontent&utm_medium=AnkitInspiresAugust2026&utm_campaign=brand_scaler_academy_brandedcontent_video-campaign-AnkitInspires-18thAug2026_india_all&utm_id=brandedcontent&utm_content=YT-description \n\nDoes AI Jobs Crisis Ends? | Nomura Report Says AI Is Creating More Jobs Than It Cuts  | By Ankit Sir\n\nIs AI really taking away jobs—or creating more opportunities?\nA new Nomura report has sparked an important debate about the impact of Artificial Intelligence on employment in India. Instead of simply destroying jobs, AI may also be contributing to new hiring opportunities and changing the nature of work.\n\nIn this video, Ankit Sir explains the key findings, what the report says about AI-driven hiring, and what this could mean for the future of jobs in India.\n\n In This Video:\n AI & Jobs in India\n Nomura Report Explained\n AI Creating Jobs vs Job Cuts\n More Hiring Than Firings?\n Impact of AI on Indian Employment\n Future of Jobs in the AI Era\n Which Jobs Could Be Affected?\n New Opportunities Created by AI\n AI & India's Workforce\n Complete Analysis by Ankit Sir \n\n#AIJobs #ArtificialIntelligence #AIInIndia #FutureOfJobs #JobsInIndia #NomuraReport\n#AIJobCrisis #AIImpact #FutureOfWork #IndiaJobs #Technology #AIRevolution\n#Employment #JobMarket #AnkitSir\n\nConnect on LinkedIn:\nhttps://www.linkedin.com/in/ankit-kumar-avasthi/ \n\n📢 Ankit Avasthi Sir is 🎧 Now on Spotify: \nसुनिए अंकित अवस्थी सर के Sessions अब Spotify पर भी।\n🔗 https://open.spotify.com/show/4tXCTZa8ta1RypO6Pz3aJ4\n\n✅ Follow करें “Ankit Avasthi Sir” को Spotify पर और 📲 अपने सभी मनपसंद Episodes देखें या सुने सिर्फ एक क्लिक पर।\n\n💫 Our Important Podcasts & Playlists 👇🏻\n🎙️Watch our “Inspiring Indian Shows” by Ankit Avasthi Sir -\n🔗 https://www.youtube.com/playlist?list=PLiyEc-Jn5_goaNIHjEQeo77R__t9qWiik\n📹 Watch our Million Club Videos -\n🔗 https://www.youtube.com/playlist?list=PLiyEc-Jn5_gr3mtvy-CAStkCz5yiGuIJR\n📹 Watch our videos on International Relations (IR) -\n🔗 https://www.youtube.com/playlist?list=PLiyEc-Jn5_grsqSkAST34flPpzuDWpgsR\n📹 Watch our videos on National Affairs -\n🔗 https://www.youtube.com/playlist?list=PLiyEc-Jn5_goHucbnrl27Cu8ol-GB21PC\n📹 Watch our videos on Burning Issues & Geopolitics -\n🔗 https://www.youtube.com/playlist?list=PLiyEc-Jn5_gpWu8WeVAc_OtcNrzns2jdF\n\n💫 Get in touch with “Ankit Inspires India” by “Ankit Avasthi Sir” 👇🏻\n 🔔 Subscribe “Ankit Inspires India” YouTube Channel -\n🔗 https://www.youtube.com/@AnkitInspiresIndia\n🌐 Visit Ankit Inspires India Website -\n🔗 https://ankitinspiresindia.com/\n\n💫 Get in touch with “Ankit Inspires Rajasthan” by “Ankit Avasthi Sir” 👇🏻\n🔔 Subscribe “Ankit Inspires Rajasthan” YouTube Channel -\n🔗 https://www.youtube.com/@AnkitInspiresRajasthan\n🐦 X (Twitter) Handle: Ankit Inspires Rajasthan (AIR) -\n🔗 https://x.com/AirRajasthan\n\n💫 Get in touch with “Apni Pathshala” by “Ankit Avasthi Sir” 👇🏻\n📲 Download “Apni Pathshala” Android Application - \n🔗 https://play.google.com/store/apps/details?id=com.apni.pathshala\n📲 Download “Apni Pathshala” iOS Application -\n🔗 https://apps.apple.com/in/app/apni-pathshala/id6743618780\n🔔 Subscribe “Apni Pathshala” YouTube Channel -\n🔗 https://www.youtube.com/@Apni.Pathshala\n🌐 Visit Apni Pathshala Website -\n🔗 https://apnipathshala.com/\n🐦 X (Twitter) Handle: Apni Pathshala -\n🔗 https://x.com/_ApniPathshala\n📬 Telegram Channel: Apni Pathshala -\n🔗 https://t.me/Apnipathshalaup\n\n💫 Get in touch with “Baaten Bazar Ki (BBK)” by “Ankit Avasthi Sir” 👇🏻\n📲 Download “Baaten Bazar Ki (BBK)” Android Application -\n🔗 https://play.google.com/store/apps/details?id=com.baatenbazarkibbk.learners\n📲 Download “Baaten Bazar Ki (BBK)” iOS Application - \n🔗 https://apps.apple.com/in/app/baaten-bazar-ki-bbk/id6740429958\n🔔 Subscribe “Baaten Bazar Ki (BBK)” YouTube Channel -\n🔗 https://www.youtube.com/@BaatenBazarKi\n🌐 Baaten Bazar Ki (BBK) Website -\n🔗 https://www.baatenbazarki.com/\n📬 Telegram Channel: Baaten Bazar Ki (BBK) -\n🔗 https://t.me/BaatenBazarKiBBK\n👥 Facebook Page: Baaten Bazar Ki (BBK) -\n🔗 https://www.facebook.com/AnkitAvasthiBaatenBazarKi\n\n🔥 अंकित अवस्थी सर से जुड़ने के लिए Join या Follow करें -\n💬WhatsApp Channel: Ankit Avasthi Sir -\n🔗 https://whatsapp.com/channel/0029Van7zPzGOj9uNYZomI3k\n🐦 X (Twitter) Handle: Ankit Kumar Avasthi -\n🔗 https://x.com/kaankit\n📜 LinkedIn Profile: Ankit Avasthi\n🔗 https://www.linkedin.com/in/ankit-kumar-avasthi/\n 📬 Telegram Channel: Ankit Avasthi Sir -\n🔗 https://t.me/AnkitAvasthi\n👥 Facebook Page: Ankit Avasthi Sir -\n🔗 https://www.facebook.com/AnkitAvasthiSir/\n🎬 Instagram Profile: Ankit Kumar Avasthi -\n🔗 https://www.instagram.com/avasthiankit\n\n📨 For Business & Collaboration: hello@ankitinspiresindia.com\n\n📞 For any query, Call or WhatsApp -\n✨ Reach out to us at: +91 78781-58882\n\n#AnkitAvasthiSir #AnkitAvasthi #AnkitInspiresIndia",
-      "commentCount": 72,
-      "likeCount": 2632,
-      "probeClient": "web_embedded"
-    },
     "eqMjVxKplgE": {
       "checkedAt": "2026-08-18T10:53:05Z",
       "embedAllowed": true,
@@ -7828,15 +7819,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-18T10:53:05Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "PHCg9kanGR4": {
-      "checkedAt": "2026-08-18T10:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Pastor Stan asked Google AI to look at how the Feasts of Trumpets triggers the Final Fall Wedding Steps. The AI then went on to explain what other preachers are teaching. AI understands that the Rapture to the Marriage happened on the Feast of Trumpets – that’s wrong, and today Pastor Stan explains why and even the AI agreed with him after understanding it correctly.\n\n00:00 Intro\n02:39 A.I. Explains\n08:41 Marriage Proposal\n13:39 Holy Spirit in Upper Room\n15:36 Lamb of God marry His Bride\n18:30 AI Agree\n26:17 Summery\n\nVisit us online at:\nhttp://www.prophecyclub.com\n\nThank you for supporting our Ministry:\nhttps://www.prophecyclub.com/support\n\nTo Order \"Pentecost Rapture of the Bride\" please visit:\nhttps://www.prophecyclubresources.com/PENTECOST-RAPTURE-of-THE-BRIDE/productinfo/B%2DPRB/\n\nTo purchase \"Pentecost Rapture of the Bride\" as well as \"Secret Door to Understand Bible Prophecy\" as a combo, please visit:\nhttps://www.prophecyclubresources.com/PENTICOST-RAPUTRE-SECRET-DOOR-GIFT-OFFER/productinfo/G%2DPRBS/\n\nEMP Shield - to get $65 off of your order, please visit :\nhttps://empshield.com/coupon/prophecysale2026/\nPromo Code: Prophecysale2026\nValid until 29 May, 2026\n\nPlease remember to follow our brand new Facebook page here:\nhttp://www.facebook.com/ProphecyClubOfficial\n\nDo Donate to our Missions Trips please visit:\nhttps://donorbox.org/the-prophecy-club-missions\n\nTo watch over 300 DVDs made at the Prophecy Club, please visit:\nhttps://www.watchprophecyclub.com/\n\nTo Purchase Stanislav Lunev's Book called \"Through the Eyes of the Enemy\" please visit:\nhttps://www.prophecyclubresources.com/THROUGH-THE-EYES-OF-THE-ENEMY-BOOK/productinfo/B%2DTTE01/\n\nMake sure to watch The Prophecy Club on the following platforms:\nFacebook: https://www.facebook.com/ProphecyClub\nBrighteon: https://www.brighteon.com/channels/theprophecyclub\nRumble: https://rumble.com/c/c-478934\nBitChute: https://www.bitchute.com/channel/DixqVXt1f11y/\nApple Podcast & Spotify: The Prophecy Club\n\nEmail Pastor Stan:\naskstan@prophecyclub.com\n\nClick here to download the Prophecy Charts free:\nhttps://www.prophecyclub.com/downloads\n\nFor Tithes and Offerings please visit:\nhttps://donorbox.org/spirit-of-prophecy-church",
-      "commentCount": 20,
-      "likeCount": 46,
       "probeClient": "web_embedded"
     },
     "2VgKrwzmfBM": {
@@ -8321,10 +8303,10 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-18T21:53:14Z",
+      "checkedAt": "2026-08-18T22:53:15Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "b0bGJ01v3rs": {
       "checkedAt": "2026-08-18T17:53:10Z",
@@ -8367,14 +8349,6 @@
       "description": "🔥 Developer Bootcamp & Mentoring Program — Start or level up your career with my proven training and personal mentoring:\nhttps://unclestef.com/\n\nStudioweb AI Literacy curriculum:\nhttps://blog.studioweb.com/2026/08/12/studioweb-ai-principles/\n\n🦎 Lizard Wizard Course\nMaster the psychology of learning, habits, and performance — a must for developers and entrepreneurs:\nhttps://school.studioweb.com/store/course/lizard_wizard\n\n🚀 1-on-1 Mentoring & Consultations\n\nCareer Consult — $99 for 15 minutes:\nhttps://calendly.com/uncle-stef/consultation-with-stefan\n\nEntrepreneur / Business Consult — $250 for 30–45 minutes:\nhttps://calendly.com/uncle-stef/entrepreneurs-consult\n\nSponsored Video — Get your questions answered in a video:\nhttps://unclestef.com/blog/2025/03/04/sponsored-video-request/\n\n💻 Popular Courses\n\nPython 3 Foundations & Certification:\nhttps://school.studioweb.com/store/course/python_3_foundations__&_certification_package\n\nFull Stack Web Developer:\nhttps://school.studioweb.com/store/course/complete_web_developer\n\nComplete Freelancer:\nhttps://school.studioweb.com/store/course/complete_freelancer\n\nComplete Entrepreneur:\nhttps://school.studioweb.com/store/course/complete_web_entrepreneur\n\n📱 Stay Connected\nInstagram: https://www.instagram.com/stefanmischook/?hl=en\n\nBusiness Channel: https://www.youtube.com/channel/UCZdr0ql_B240VBVINAX7Acg\n\nGoogle Review: https://g.page/studioWebedu/review?mt",
       "commentCount": 8,
       "likeCount": 34,
-      "probeClient": "web_embedded"
-    },
-    "UdwVmmuUAG0": {
-      "checkedAt": "2026-08-18T17:53:10Z",
-      "embedAllowed": true,
-      "description": "What if you could hand an AI agent the keys to a Kubernetes cluster and let it deploy an app, debug a live crash, and convert it into Helm, completely on its own? \nIn this video, I build a secure, governed cloud workspace where Coder Agents gets real kubectl and Helm access but stays locked inside a hard RBAC sandbox it physically cannot escape.\n\n📢 Sponsor Disclosure This video is sponsored by Coder. All opinions, setups, cluster configurations, and real-time agent tests shown in this video are completely my own.\n\nI will test it on an EKS cluster, break the application on purpose, and watch how Coder Agents handles a live CrashLoopBackOff—all without passing any LLM API keys to the workspace.\n\n🔗 Try Coder Agents & Explore the Project\nTry Coder Agents Today: https://coder.com/solutions/agents\nAccess the Demo Code & Manifests on GitHub:  https://github.com/piyushsachdeva/coder-demo\n\n📌 What You Will Learn:\n- How to run AI coding agents against a secure cloud workspace instead of your local laptop.\n- How Coder Agents isolates agent execution through native harness platform architecture.\n- How Kubernetes RBAC enforces hard security boundaries around AI agent loops.\n- How to deploy, debug, and productionize a Flask app into Helm using AI-driven DevOps automation.\n\n⏱️ Timestamps & Chapters\n\n\n\n🛠️ Prerequisites & Tools Used\n- Infrastructure: AWS EKS (Kubernetes 1.30+), AWS EBS CSI Driver\n- CLI Tools: kubectl, helm, eksctl, coder\n- Platform: Coder Platform, Coder Workspaces, Coder Agents\n- Models: Claude 3.5 Sonnet (selected natively within Coder)\n\n💡 Key Architecture Layers Explained\n- Coder Workspaces: The infrastructural layer—a self-hosted, governed development environment running as a pod inside Kubernetes.\n- The Coder Platform: The self-hosted control plane that provisions environments, holds state, and manages models securely without exposing API keys.\n- Coder Agents: The native agent harness running directly inside the Coder platform, delegating tasks into isolated compute workspaces.\n\n#Kubernetes #AI #CoderAgents #DevOps #EKS #Helm #SoftwareEngineering #CloudNative #K8s #AIAgents\n\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA) 2024\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUOkOv3i62UidrLmSB8DcGC\n\n✅ 𝗔𝘇𝘂𝗿𝗲 𝗗𝗲𝘃𝗢𝗽𝘀 𝗭𝗲𝗿𝗼 𝘁𝗼 𝗛𝗲𝗿𝗼:\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUXseJO1a03CtfRDzr2hivbD\n\n✅ 𝗔𝗭𝟵𝟬𝟬 𝗔𝘇𝘂𝗿𝗲 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗙𝘂𝗹𝗹 𝗖𝗼𝘂𝗿𝘀𝗲\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUOCWcjaXcH-WBVxCccZ4uO\n\n✅ 𝗡𝗮𝗺𝗮𝘀𝘁𝗲 𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝗹𝗼𝘂𝗱 | 𝗚𝗖𝗣 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹 𝗳𝗼𝗿 𝗯𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀, 𝗮 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗽𝗹𝗮𝘆𝗹𝗶𝘀𝘁 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗲 𝗖𝗹𝗼𝘂𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 (𝗔𝗖𝗘) 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗘𝘅𝗮𝗺:\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUXvkDFARdrH2LMESVqeuH8W\n\n✅ 𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗳𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 𝗗𝗣 𝟵𝟬𝟬 𝗳𝘂𝗹𝗹 𝗰𝗼𝘂𝗿𝘀𝗲\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUd4rzzHEpHMsyD5PbVWz1I\n\n✅ 𝗝𝗲𝗻𝗸𝗶𝗻𝘀 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹 𝗳𝗼𝗿 𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUV3pz6zRpFJe3A4wTM2Pjvv\n\n✅ 𝟭𝟬𝘄𝗲𝗲𝗸𝘀𝗼𝗳𝗰𝗹𝗼𝘂𝗱𝗼𝗽𝘀 - 𝗥𝗲𝗮𝗹-𝘁𝗶𝗺𝗲 𝗰𝗼𝗺𝗽𝗹𝗲𝘅 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗼𝗻 𝗖𝗹𝗼𝘂𝗱 𝗮𝗻𝗱 𝗗𝗲𝘃𝗢𝗽𝘀\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUc8HOEIwfB3Z2uxRv2SKOG\n\n✅ 𝗗𝗲𝘃𝗢𝗽𝘀 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱 𝗣𝗼𝗱𝗰𝗮𝘀𝘁𝘀:\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUWr7SI4Kym5dr80DovuSbL2\n\n✅ 𝗚𝗶𝘁𝗹𝗮𝗯 𝗖𝗜 𝗖𝗗 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹 | 𝗘𝗻𝗱 𝗧𝗼 𝗘𝗻𝗱 𝗥𝗲𝗮𝗹-𝘁𝗶𝗺𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 [𝗙𝘂𝗹𝗹 𝗖𝗼𝘂𝗿𝘀𝗲]\nhttps://youtu.be/uYaMRn2meJQ\n\nSubscribe to our channel to get notified about the latest videos. \n🔥 https://www.youtube.com/TechTutorialswithPiyush\n\n👨‍💻 Got a video request? submit it using the below link or vote on the existing requests\n\nhttps://request.techtutorialswithpiyush.com/\n\n-----------------------------------------------------------------------------------------------------------------------\n𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗺𝗲 𝗛𝗲𝗿𝗲:👇👇\n\n🔥𝗬𝗼𝘂𝗧𝘂𝗯𝗲 ▶  https://www.youtube.com/TechTutorialswithPiyush\n⛳𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 ▶  https://www.linkedin.com/in/piyush-sachdeva/\n🚀𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 ▶ https://www.instagram.com/techtutorialswithpiyush/\n🌍𝗧𝘄𝗶𝘁𝘁𝗲𝗿 ▶  https://twitter.com/techie_piyush\n👨‍💻 𝗚𝗶𝘁𝗵𝘂𝗯  ▶  https://github.com/piyushsachdeva\n✍ 𝗠𝗲𝗱𝗶𝘂𝗺.𝗰𝗼𝗺 ▶ https://medium.com/@piyush.sachdeva055\n📚 𝗱𝗲𝘃.𝘁𝗼  ▶  https://dev.to/piyushsachdeva\n✨𝗗𝗶𝘀𝗰𝗼𝗿𝗱 ▶  https://discord.gg/TNCs4BRzq8\n-----------------------------------------------------------------------------------------------------------------------\n\n\nReferences 📚:\n\n#devops #techtutorialswithpiyush",
-      "commentCount": 14,
-      "likeCount": 52,
       "probeClient": "web_embedded"
     },
     "NZYyUcq2APg": {
@@ -8601,6 +8575,30 @@
       "description": "Big tech companies have laid off thousands of employees for AI. But now, they’re regretting their decision. Today, we dive into why these layoffs happened and why they are now being completely reversed. And over 50% of employers who DID lay off employees for AI, say that they actually regret it\n\n💻 [AI Tools for Beginners]  💻\nClaude [Best LLM for coding summarization] : https://claude.ai/login?returnTo=%2F%3F\nAugment [Best Agent (VS extension) as Coding Assistant]: https://www.augmentcode.com\nCursor [Best AI IDE]: https://cursor.com\nIBM watsonx Orchestrate [Best for Building AI Agents]: https://www.ibm.com/products/watsonx-orchestrate\n\n🤖 AI DEVELOPER TOOLS 🤖\nCodex [Best Code Summarization]: https://openai.com/codex/\nAugment [Best IDE Coding Tool]: https://www.augmentcode.com\nReplit [Cloud Based AI Tool]: https://replit.com/\nN8n [Agent Builder]: https://n8n.io/\nHugging Face [LLM Libraries]: https://huggingface.co\n\n📗 [Check Out These AI/Coding Courses] 📗\nAI Python for Beginners:  https://www.deeplearning.ai/short-courses/ai-python-for-beginners/ \nCS50 Intro to AI (with Python) : https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python\nDSA in GO: https://www.udemy.com/course/go-data-structures-algorithms-and-design-patterns-with-go\n\n📒  [ZERO TO MASTERY Courses] 📒 -- this is great to level up your skills!\nAI Courses: https://links.zerotomastery.io/AICourses_Pooja_Sept25\nCareer Paths: https://links.zerotomastery.io/CareerPaths_Pooja_Sept25\nCareer Path Quiz: https://links.zerotomastery.io/CPQuiz_Pooja_Sept25\n\n🌈[RESOURCES]🌈[\n📒 AWS: https://aws.amazon.com/training/digital/\n🎙️Azure: https://www.udemy.com/course/microsoft-azure-from-zero-to-hero-the-complete-guide\n📕Docker: https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide\n👾AI Cert: https://www.coursera.org/professional-certificates/ai-engineer\n🎆Sytem Design/Distributed Systems: https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers\n\n[CONTACT]📧\n🎙️1:1 Career Coaching!!! https://calendly.com/d/yp4-qgs-sfh/60min\n📒 Brand Collaborations: pooja@smoothmedia.co\n📚 Instagram: https://www.instagram.com/poojaduttttt/\n👾 Discord: https://nas.io/pooja-dutts-tech-community",
       "commentCount": 51,
       "likeCount": 183,
+      "probeClient": "web_embedded"
+    },
+    "7msfHtAQHas": {
+      "checkedAt": "2026-08-18T22:53:15Z",
+      "embedAllowed": true,
+      "description": "Automation Trading with Slingshot Bot | Smarter Trading, Simplified\n| Sniper Slingshot Bot is a powerful Automation trading bot that can help you trade sustainably in the NQ market. We'll show you how to set up and use Slingshot Bot For Consistent Trading in the NQ market. This is a simple, step-by-step guide that will help you make easy trading  in futures.\n\nContact us for more details👇\nhttps://www.sniperautotrader.com/sp/ref/1/?campaign=seyt\n\nThanks for watching. Make sure to like and subscribe.\n\nWatch Our Video in the Punjabi Language:\nhttps://www.youtube.com/channel/UC4PmxVWzZRqrVffoO73dmNA\n\nRISK DISCLOSURE:\nFutures trading contain substantial risk and are not for every investor. An investor could potentially lose all or more than the initial investment. Risk capital is money that can be lost without jeopardizing one's financial security or lifestyle. Only risk capital should be used for trading, and only those with sufficient risk capital should consider trading. Past performance is not necessarily indicative of future results.\n\nImportant: Full Risk Disclaimer - Click for Details👇\nhttps://www.sniperautotrader.com/u-s-government-disclaimer/\n\n#masteraccountpnl #sniperautotrader #multimarkettrading #futurestrading #sniperpowertrendpro #tradingautomation #tradecopier #algotrading #proptrading #tradingtools",
+      "commentCount": 2,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "5PcMZT-CBCc": {
+      "checkedAt": "2026-08-18T22:53:15Z",
+      "embedAllowed": true,
+      "description": "►Register for our LIVE FREE MASTERCLASS: \nwww.saadrashid.net/masterclass\n\n► Become a part of our \"Advance YouTube Automation Mentorship Program\"\nGet Details here: https://wa.link/1bi21h | +92 336 3668070\n \n►Get AI Voiceovers from Speaksay:\nhttps://www.speaksay.com/saad\n\n► Try VidIQ in $1 only:\nhttps://www.vidiq.com/saad\n\n► Join Our WhatsApp Channel for Quick Updates\nhttps://whatsapp.com/channel/0029VaCtUgsHrDZjDLK4CQ0w\n\n► Join YouTube Automation Mastery Course at 50% Discount (For Today):\nhttps://www.saadrashid.net\n\n► Join The Biggest YouTube Automation Community on Facebook\nhttps://bit.ly/49ZrygP\n------------------------------------------\n\n“Saad Rashid” is the pioneer YouTube channel of Pakistan, which started talking about YouTube Automation and Faceless Channels back in 2022.\n\nHere, we talk about all of the AI tools used for content creation of faceless youtube channels.\n\nSubscribe if you want to be a faceless YouTube Creator.\n\nوَتُعِزُ مَن تَشَاء وَتُذِلُ مَن تَشَاء\n\n-------------------------------------------\n\nCONNECT ON OTHER NETWORKS:\n\nFacebook: https://www.facebook.com/thesaadrashid\nInstagram: https://www.instagram.com/saaadrashid\nTikTok: https://www.tiktok.com/@thesaadrashid\nMail: contact.saadrashid@gmail.com\n\n-------------------------------------------\n\nTime Stamps:\n0:00 Highlights\n0:47 Introduction\n1:48 Guest Introduction\n2:53 Niche Discussion\n4:48 Reference Clip & Competitors\n5:53 Demographics & Uploading Frequency\n7:45 Competitor Vs Guest's Clips\n10:13 Time Required & Voiceover\n11:48 Editing\n13:09 Practical Training\n21:55 Hooks\n23:02 Revenue\n24:06 Appeal Video & Ending Note\n\nDisclaimer:\nThis video is just a Case Study of a guest. The results and success shared by the guest in this video are based on their personal experiences and efforts. These outcomes are subjective and not guaranteed for everyone. The purpose of this interview is purely educational—to share insights and experiences related to faceless YouTube channels.\n\nPlease note that the guest is here solely to provide knowledge. If you choose to engage with them privately or make any payments to them afterward, Team Saad Rashid holds no responsibility for any outcomes, miscommitments, or disputes. We strongly advise you to do your own due diligence before entering into any collaboration or financial transaction.\n\n#youtubeautomation",
+      "commentCount": 103,
+      "likeCount": 459,
+      "probeClient": "web_embedded"
+    },
+    "nHfAMDamC1o": {
+      "checkedAt": "2026-08-18T22:53:15Z",
+      "embedAllowed": true,
+      "description": "MagicFlixAI 2.0 packs video creation, channel automation, trend research, thumbnails, publishing, and more into one platform, making the full bundle worth checking out if you want access to its broader feature set.\n🚀 MagicFlixAI 2.0 Bundle\nhttps://jvz3.com/c/155701/443973/\n\nMagicFlixAI 2.0 FE\nhttps://jvz7.com/c/155701/443955/\n\nLearn the exact system I use to create simple YouTube tutorial videos that have generated over $700,000 in affiliate commissions—so you can build a profitable channel without being a pro creator. No need to be on camera!\n🚀 https://my.learnwirelinks.com/ytaffiliateaccelerator\n\nJoin me here for building in public updates:\nhttps://x.com/learnwire\n\nThanks for watching and please like and subscribe if you found value in this video!\n\nSubscribe to LearnWire here: https://my.learnwirelinks.com/subscribe\n\nDisclaimer: This video or article is NOT sponsored by any of the brands mentioned throughout this video. All thoughts and opinions mentioned are my own. Some links provided above are affiliate links. They do not cost you anything, but I make a small percentage from the sale if you purchase. Honesty is key on my channel, thank you for supporting me!",
+      "commentCount": 1,
+      "likeCount": 5,
       "probeClient": "web_embedded"
     }
   }
