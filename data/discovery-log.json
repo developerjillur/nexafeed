@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T07:53:17Z",
+  "updatedAt": "2026-08-18T08:53:04Z",
   "items": [
+    {
+      "id": "LL2myp4Bo0o",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Build With Sohrab ",
+      "publishedAt": "2026-08-18T07:53:04Z",
+      "firstSeenAt": "2026-08-18T08:53:04Z"
+    },
+    {
+      "id": "AMjetmBuG2Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Krisvik AI",
+      "publishedAt": "2026-08-18T06:53:04Z",
+      "firstSeenAt": "2026-08-18T08:53:04Z"
+    },
+    {
+      "id": "gKZ_ZoW-8kk",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Zapier",
+      "publishedAt": "2026-08-17T17:53:04Z",
+      "firstSeenAt": "2026-08-18T08:53:04Z"
+    },
     {
       "id": "QohDKyfeKP0",
       "type": "long",
@@ -17548,6 +17572,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-18T08:53:04Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 1,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
