@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T22:53:15Z",
+  "updatedAt": "2026-08-18T23:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -7384,7 +7384,7 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-18T22:53:15Z",
+      "checkedAt": "2026-08-18T23:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7433,10 +7433,10 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-18T22:53:15Z",
+      "checkedAt": "2026-08-18T23:53:10Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "uUIJPWsHD38": {
       "checkedAt": "2026-08-18T19:53:12Z",
@@ -8303,7 +8303,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-18T22:53:15Z",
+      "checkedAt": "2026-08-18T23:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8482,15 +8482,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "db6YM9KEkzM": {
-      "checkedAt": "2026-08-18T19:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "D3kJl6tz0S0": {
       "checkedAt": "2026-08-18T20:53:13Z",
       "embedAllowed": true,
@@ -8516,15 +8507,6 @@
       "description": "If AI can write the code, then what’s left for developers?\nThat question points to the most important skill shift in software development.\n\nThe value is moving from implementation to understanding.\n\nIn this episode of Thinking with AI, I talk about the skills that become more valuable as AI gets better at generating code: context, decomposition, encapsulation, validation, systems thinking, and the ability to build changeable software.\n\nWhen I say context, I do not mean a bigger prompt. I mean understanding the forces around the work:\n\nWhat can change?\nWhat must remain stable?\nWhat does the customer actually need?\nWhat risks are we trying to reduce?\n\nThose are the skills experienced developers use every day. And as AI handles more implementation detail, those skills become more important, not less.\n\nThis is Part 7 of the Thinking with AI playlist.\n\nChapters:\n00:00 - If AI writes code, what’s left for us?\n00:20 - What becomes valuable now?\n00:32 - Context is not a bigger prompt\n00:53 - The skills developers may not recognize\n01:21 - Context, decomposition, and understanding\n01:55 - Algorithmic thinking is only the first step\n02:15 - Encapsulation, validation, and composability\n03:00 - AI raises the bar for software development\n03:25 - Stop focusing on implementation minutia\n03:53 - Orchestrator, not implementer\n04:44 - What became more valuable in my own work\n05:18 - These are general purpose thinking tools\n05:48 - What skill became more valuable for you?\n\nWatch the full Thinking with AI playlist:\nhttps://www.youtube.com/playlist?list=PLVefSMWuVIvkCMmT4nTE4K0ajBig1Jono\n\nSubscribe for more on AI, software design, domain modeling, test-first development, and how senior developers can become more capable with AI.\n——\nTo learn more about integrating AI into Agile technical practices, contact me at The Passionate Programmer - https://PassProg.com.\n\nJoin the Conversation\nDo you have questions, suggestions, or thoughts? Please share them in the comments below—I’d love to hear from you!\n\n#ThePassionateProgrammer #DavidScottBernstein #SoftwareDevelopment #AIPromptEngineering",
       "commentCount": 4,
       "likeCount": 15,
-      "probeClient": "web_embedded"
-    },
-    "yVYifMBEX1Y": {
-      "checkedAt": "2026-08-18T20:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Should developers understand every line of code AI generates?\nIn this video, I explore a different way to think about AI-generated code: treating it as a black box.\nSoftware engineers already build systems on top of frameworks, libraries, databases, operating systems, and cloud services without understanding every detail of their implementation. What matters is that we understand their contracts and can verify their behavior.\nSo why should AI-generated code be fundamentally different?\nUsing a real example — generating a shortest-path implementation with AI — I look at what actually needs to be verified before AI-generated code can be trusted in production.\nFor me, it comes down to three things:\nBehavior. Does it produce the correct result?\nPerformance. Is it fast enough for the real workload?\nSecurity. Can it be safely integrated into the application?\nWe cover:\n• Why the black-box principle is fundamental to modern software development\n• Why understanding every line of AI-generated code may not be necessary\n• How to verify AI-generated code through behavior, performance, and security\n• What engineering decisions should not be outsourced to AI\n• Defining architecture, boundaries, interfaces, and contracts\n• Separating implementation from engineering responsibility\n• Why line-by-line review can eliminate much of the productivity advantage of AI\n• How teams can move from reverse-engineering AI-generated code to verifying it\nThe key idea is not that developers should blindly trust AI-generated code.\nIt's the opposite: trust should come from verification, not from understanding every implementation detail.\nAI can generate the implementation.\nThe engineer remains responsible for the system.\n#AI #SoftwareEngineering #AICoding #SoftwareDevelopment #Programming #SoftwareArchitecture #Engineering #LLM #CodingWithAI #DeveloperProductivity",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "k0xB1ih3VB0": {
@@ -8599,6 +8581,22 @@
       "description": "MagicFlixAI 2.0 packs video creation, channel automation, trend research, thumbnails, publishing, and more into one platform, making the full bundle worth checking out if you want access to its broader feature set.\n🚀 MagicFlixAI 2.0 Bundle\nhttps://jvz3.com/c/155701/443973/\n\nMagicFlixAI 2.0 FE\nhttps://jvz7.com/c/155701/443955/\n\nLearn the exact system I use to create simple YouTube tutorial videos that have generated over $700,000 in affiliate commissions—so you can build a profitable channel without being a pro creator. No need to be on camera!\n🚀 https://my.learnwirelinks.com/ytaffiliateaccelerator\n\nJoin me here for building in public updates:\nhttps://x.com/learnwire\n\nThanks for watching and please like and subscribe if you found value in this video!\n\nSubscribe to LearnWire here: https://my.learnwirelinks.com/subscribe\n\nDisclaimer: This video or article is NOT sponsored by any of the brands mentioned throughout this video. All thoughts and opinions mentioned are my own. Some links provided above are affiliate links. They do not cost you anything, but I make a small percentage from the sale if you purchase. Honesty is key on my channel, thank you for supporting me!",
       "commentCount": 1,
       "likeCount": 5,
+      "probeClient": "web_embedded"
+    },
+    "cX8J_DpKtE0": {
+      "checkedAt": "2026-08-18T23:53:10Z",
+      "embedAllowed": true,
+      "description": "AI coding agents are changing the way software is built.\n\nAI has moved far beyond simple autocomplete. Modern coding agents can explore codebases, plan tasks, modify multiple files, run tests, debug problems, review changes, and increasingly work on tasks with less constant human intervention.\n\nBut what does this actually mean for software developers?\n\nIn this video, we explore the shift from traditional software development to agentic software development and look at how tools such as Claude Code, OpenAI Codex, Cursor, and GitHub Copilot are changing the development workflow.\n\nWe cover:\n\n🤖 The evolution from autocomplete to AI coding agents\n💻 How agentic coding works\n🧠 AI codebase understanding and planning\n⚡ Multiple AI agents working in parallel\n🔄 Background and asynchronous development\n🧪 Automated testing and iteration\n🔐 Security, permissions, and human oversight\n👨‍💻 How the developer's role is changing\n🏗️ The future of AI-assisted software engineering\n\nThe important question is no longer simply:\n\n\"Can AI write code?\"\n\nIt already can.\n\nThe bigger question is:\n\n\"How much of the software-development process can AI reliably handle while humans remain in control?\"\n\nSubscribe to HSM Tech for more AI, software development, coding tools, and emerging technology explained simply.\n\n#AICoding #AIAgents #SoftwareDevelopment #AI #HSMTech",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "fWYwYAAeAeo": {
+      "checkedAt": "2026-08-18T23:53:10Z",
+      "embedAllowed": true,
+      "description": "While many developers worry about AI taking their jobs or feel pressured to adopt \"AI-native\" tools, simply adding AI to current workflows may not provide the expected productivity gains\n. In fact, controlled studies have shown that some developers using AI tools were actually 20% less productive because the time saved in coding was absorbed by bottlenecks in other stages of the software development lifecycle (SDLC)\n,\n. This video explores how to move beyond \"vibe coding\" and fragmented processes by redesigning the entire software lifecycle around AI agents\n,\n.\nKey Topics Covered:\nThe Productivity Paradox: Understanding why faster coding often fails to translate into real improvements when teams are stuck waiting on manual reviews, clarifications, and fragmented tools\n,\n,\n.\nAvoid Over and Under-Delegation: Why handing ambiguous problems to AI leads to unread code and slow reviews, while keeping all \"intellectual heavy lifting\" for humans limits potential gains\n,\n.\nSynthesizing Requirements: Using AI to turn unstructured data—like surveys, emails, and bug reports—into actionable user stories and root cause identifications\n.\nSpec-Driven Development: Moving from simple prompts to a \"harness\" of subagents that perform research, pull data via MCP servers, and handle code editing based on precise specifications\n,\n.\nAI in Testing and Deployment: Leveraging models to generate unit test data from user stories and manage infrastructure as code using tools like Ansible and Kubernetes\n,\n.\nModernizing Legacy Systems: How AI can explain and reverse-engineer old codebases to help teams maintain systems where the original developers are no longer present\n,\n.\nThe Future Human Role: Shifting the developer's role from typing lines of code to validating agent outputs and focusing on outcomes like system health, complexity, and maintainability\n,\n.\nBy coordinating work across the entire SDLC and focusing on outcomes rather than just lines of code, organizations can remove friction and finally see the 10x productivity improvements promised by AI",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

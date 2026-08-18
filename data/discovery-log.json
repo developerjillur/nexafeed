@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T22:53:15Z",
+  "updatedAt": "2026-08-18T23:53:10Z",
   "items": [
+    {
+      "id": "cX8J_DpKtE0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "HSM TECH",
+      "publishedAt": "2026-08-18T23:27:10Z",
+      "firstSeenAt": "2026-08-18T23:53:10Z"
+    },
+    {
+      "id": "fWYwYAAeAeo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bite Technology",
+      "publishedAt": "2026-08-18T15:53:10Z",
+      "firstSeenAt": "2026-08-18T23:53:10Z"
+    },
     {
       "id": "7msfHtAQHas",
       "type": "long",
@@ -18331,6 +18347,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-18T23:53:10Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
