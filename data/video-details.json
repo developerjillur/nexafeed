@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T01:53:18Z",
+  "updatedAt": "2026-08-19T02:53:19Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -4310,49 +4310,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "f7lmXVae6hU": {
-      "checkedAt": "2026-08-15T13:53:38Z",
-      "embedAllowed": true,
-      "description": "",
-      "commentCount": 3,
-      "likeCount": 393,
-      "comments": [
-        {
-          "id": "Ugxk4Gc68oHBGuSCtAN4AaABAg",
-          "author": "@tinusg",
-          "text": "Still eyebrows everywhere and serif fonts that don’t fit the context. I use a lot of AI, but it makes bland slop if we’re not baby sitting the process.",
-          "likeCount": 1,
-          "publishedAt": "2026-08-14T15:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/iRsY5F2Ufk0D00eqlwZVni9s-utaPc40UWJ8uPE1JQYT7A9Y9RhTaft6NRTSNRo7GFpIf9wZ_w=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy3DqUl_ST-ceGMTXx4AaABAg",
-          "author": "@gabriel.rene.",
-          "text": "They all look the same 🫠",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/3YsJWm8j1sitq6-n-sQpvlu4hFDQOPJXyPEuYC7Sf1LRmHBb91URqVpWqVFPMwR-8rgleutj9A=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyMIuo1pvpJtMjg4Gp4AaABAg",
-          "author": "@OnePromptFourLLMs",
-          "text": "frontend-design, taste, hallmark... whats really the best one out there?",
-          "likeCount": 4,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/rLJ7FDD89g0ykAM-fz7kpsfEmKpydrU1G27BHJMKC_4fj9r6-suUs3c9-lEfrJdBF2jeopJEaQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-15T13:53:38Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded",
-      "availability": "public"
-    },
     "Xnj5ta_JxLE": {
       "checkedAt": "2026-08-15T13:53:38Z",
       "embedAllowed": true,
@@ -6696,13 +6653,13 @@
       "probeClient": "web_embedded"
     },
     "C4v-E66zTik": {
-      "checkedAt": "2026-08-18T02:53:06Z",
+      "checkedAt": "2026-08-19T02:53:19Z",
       "embedAllowed": true,
       "description": "DoorDash now holds an actual airline license in the US.\n\nThe FAA gave it a Part 135 certificate, the same class real airlines run on, and it's only the eighth drone operator in the country with one. Why would a delivery app want that? There's a sweet spot of orders around three to five miles, often too far to be worth a driver's time but just right for a drone. Those are the trips they want to hand off, while the software decides in real time who takes each order: a person, a robot, or a drone.\n\nBut this isn't a launch. No aircraft shown, no date, and flying out of sight needs a separate approval they don't have yet.\n\nI share more on AI and robotics in my community, link in bio.\n\n#doordash #drones #delivery #ai #ecommerce",
       "commentCount": 0,
       "likeCount": 8,
       "comments": [],
-      "commentsFetchedAt": "2026-08-18T02:53:06Z",
+      "commentsFetchedAt": "2026-08-19T02:53:19Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded",
       "availability": "public"
@@ -7351,7 +7308,7 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-19T01:53:18Z",
+      "checkedAt": "2026-08-19T02:53:19Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7400,7 +7357,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-19T01:53:18Z",
+      "checkedAt": "2026-08-19T02:53:19Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7936,15 +7893,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "quVzmAb9oqs": {
-      "checkedAt": "2026-08-18T12:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Turning every repo into a software factory sounds like marketing until you see the machinery underneath. Don Syme, Principal Researcher at GitHub, breaks down continuous AI and GitHub Agentic Workflows, now in public preview. The short version: the agents are the easy part, the quality gates and guardrails are the work.\n\nWatch Don's AI DevCon Talk here: https://youtu.be/kbvqRWY-bUs\n\nWhat we cover:\n– What continuous AI is, and why it sits beside CI/CD rather than inside it\n– Why bounding the context is what stops automated agents going off the rails\n– Whether the repo is really the right unit for a software factory, and where monorepos break it\n– One workflow or an agent zoo? Cost control, scheduling and model exams\n– Quality gates, human review, and equipping the reviewer instead of drowning them\n\nChapters:\n00:00:00 - Introduction\n00:03:52 - What is continuous AI?\n00:07:33 - From single player to multiplayer automation\n00:09:42 - Bounding the context so agents don't go off the rails\n00:12:57 - Software factories, loops and harnesses\n00:18:44 - Inside GitHub Agentic Workflows\n00:25:19 - Why the repo became the unit of production\n00:37:11 - What belongs in the repo, and what doesn't\n00:45:07 - One workflow or an agent zoo? Cost control in the factory\n00:52:01 - Quality gates, human review and equipping the reviewer\n\n🌐 Tessl: https://tessl.io\n🔔 Subscribe for weekly episodes on AI-native development\n\nIf you're building a software factory of your own, tell us in the comments where your bottleneck actually sits.",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "zpS6JGJNaGg": {
       "checkedAt": "2026-08-18T13:53:08Z",
       "embedAllowed": true,
@@ -8146,15 +8094,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "lNn15xqndqM": {
-      "checkedAt": "2026-08-18T15:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Your AI marketing may be failing for one simple reason: you don't understand your customers.\n\nIn Episode 2 of the Vimas Tech AI Marketing Operating System series, we explore why customer segmentation is becoming one of the most important foundations of AI-powered marketing.\n\nAI can create thousands of marketing messages, emails, ads and social-media posts in minutes. But if you're sending the same message to everyone, you're simply creating more content—not necessarily better marketing.\n\nIn this video, you'll learn:\n\n✅ What customer segmentation really means\n✅ Why AI marketing needs clear customer groups\n✅ How to segment customers by industry, role, problem and buying stage\n✅ How AI can personalize marketing at scale\n✅ Why customer data quality matters\n✅ How poor segmentation can make AI marketing ineffective\n✅ A simple 5-question segmentation framework\n✅ How to connect segmentation with lead generation and automation\n✅ How small businesses can start without expensive systems\n✅ Why strategy should come before AI automation\n\nThe simple formula:\n\nRight Customer → Right Problem → Right Message → Right Action → Better Results\n\nInstead of asking AI:\n\n“Create a marketing campaign.”\n\nStart giving it context:\n\nWho is the customer?\nWhat problem do they have?\nWhat do they want?\nWhat stops them from buying?\nWhat action should they take?\n\nThat's when AI becomes much more useful.\n\nThis episode is designed for business owners, digital marketers, entrepreneurs, managers, students and AI beginners who want to understand how AI is changing modern marketing.\n\nWatch the series:\n\nEpisode 1: AI Marketing Isn't the Problem — Your Marketing System Is\nEpisode 2: AI Marketing Fails Without Customer Segmentation\nEpisode 3: Your First AI Marketing Workflow — From Lead to Customer\n\nSubscribe to Vimas Tech for practical AI, automation, digital marketing and business technology strategies.\n\nDon't just create more marketing. Create more relevant marketing.\n\n#AIMarketing #CustomerSegmentation #DigitalMarketing #MarketingAutomation #AIForBusiness #ArtificialIntelligence #AIAutomation #MarketingStrategy #AIForMarketing #Personalization #LeadGeneration #LeadScoring #CustomerTargeting #SmallBusiness #SmallBusinessMarketing #DigitalTransformation #BusinessAutomation #AITools #FutureOfMarketing #MarketingTechnology #AITransformation #FutureOfWork #Entrepreneurship #BusinessGrowth #VimasTech",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "8VbNr53V6vk": {
       "checkedAt": "2026-08-18T16:53:10Z",
       "embedAllowed": true,
@@ -8216,7 +8155,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T01:53:18Z",
+      "checkedAt": "2026-08-19T02:53:19Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8341,15 +8280,6 @@
       "description": "🎟️ Use Discount Code for extra saving: \"STUYT\"\nPabbly Chatflow (Product + Pricing): https://www.pabbly.com/chatflow/#pricing\nPabbly Chatflow Playlist: https://www.youtube.com/watch?v=3fG8qt6YNfA&list=PLgffPJ6GjbaJ8JPigEtxniz41rN5wqKAi\n\nWant to create your first WhatsApp broadcast campaign without coding? In this tutorial, you'll learn how to set up a WhatsApp campaign and send messages to your audience using Pabbly Chatflow.\n\nCreate promotional messages, announcements, offers, reminders, and customer updates, then send them to your selected contacts through an automated workflow. Learn how to organize your campaign, personalize messages, and simplify WhatsApp marketing without technical knowledge.\n\nThis tutorial is perfect for beginners, ecommerce businesses, marketers, retailers, restaurants, agencies, and service providers.\n\nQueries:\nWhatsApp broadcast campaign\ncreate WhatsApp broadcast\nWhatsApp broadcast without coding\nWhatsApp marketing campaign\nPabbly Chatflow broadcast\n\nHashtags:\n#WhatsAppBroadcast #WhatsAppMarketing #WhatsAppAutomation #PabblyChatflow #WhatsAppBusiness #MarketingAutomation #NoCode #BulkWhatsApp #CustomerEngagement #BusinessAutomation\n\n🎯 Use Case: Send promotional or informative WhatsApp messages to your audience automatically without writing a single line of code. Reach multiple customers with timely and personalized messages. Keep your audience informed about offers, updates, and announcements.\n\n🪜 Need Help Getting Started? Follow These Step-by-Step Tutorials:\n\n✅ How to Connect your WhatsApp Number with Pabbly Chatflow in Few Clicks\n🔗 https://www.youtube.com/watch?v=J2YKHvlSMP8\n\n✅ How to Create WhatsApp Cloud API Account and Connect with Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=JKLboMlmKSs\n\n✅ How to Connect Unlimited WhatsApp Numbers to a Single Account (No Extra Cost)\n🔗 https://www.youtube.com/watch?v=iPg0W3Ra3Og\n\n✅ Pabbly Chatflow Inbox Overview\n🔗 https://www.youtube.com/watch?v=JE0f2lwFNMI\n\n✅ Pabbly Chatflow Contact Overview\n🔗 https://www.youtube.com/watch?v=j919a9bIi4w\n\n✅ How to Create Templates Inside Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=lmXyI79aENQ\n\n✅ How to Create a WhatsApp Chatbot Using Flow Builder\n🔗 https://www.youtube.com/watch?v=NXIbDhxXKF0\n\n✅ Pabbly Chatflow Team Member Overview\n🔗 https://www.youtube.com/watch?v=EnB4Ju1tTN8\n\n✅ Broadcast Messages and API Campaigns\n🔗 https://www.youtube.com/watch?v=b1g9QbrP9jU\n\n📞 Need Help?\n📬 Contact Our Team: support@pabbly.com\n💬 Ask Your Queries: https://forum.pabbly.com\n👥 Join Our Community: https://www.pabbly.com/community/\n\n⚠️ Disclaimer: All names, mobile numbers, and emails shown in this video are for demonstration purposes only. This is an educational video to showcase automation and chatbot creation using Pabbly Chatflow.",
       "commentCount": 0,
       "likeCount": 1,
-      "probeClient": "web_embedded"
-    },
-    "YiLOxz1qZ6g": {
-      "checkedAt": "2026-08-18T19:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "n8n, Zapier, or Make? Four rounds — pricing, ease, power, ownership — then an actual recommendation by situation instead of \"it depends\". I run n8n, and I will be honest about the two cases where it is the wrong choice.\n\n⏱️ Chapters:\n0:00 Three tools. One honest answer.\n0:28 AI WITHOUT THE HYPE\n0:37 Round 1 — Pricing\n1:24 Round 2 — Ease of use\n2:01 Round 3 — Power\n2:40 Round 4 — Ownership\n3:15 The score, and why it's misleading\n3:36 Pick by situation\n4:33 The same workflow in all three\n5:43 The hidden costs\n6:21 The switching cost nobody mentions\n6:53 One thing all three get wrong\n7:29 What I'd tell a friend\n\n🔔 New videos every week on AI & automation — the real mechanics, no hype.\n📩 nthanhnam1194@gmail.com\n\n#n8n #zapier #make #automation #nocode",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "D3kJl6tz0S0": {
@@ -8509,14 +8439,6 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "mq-rVs7oUXw": {
-      "checkedAt": "2026-08-19T00:53:17Z",
-      "embedAllowed": true,
-      "description": "Try Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica \n\nKimi K3 is the largest open-source AI model ever released: 2.8 trillion parameters, a 1M token context window, and benchmark scores that trade blows with Claude and GPT at a third of the price. In this video I break down what it is, how good it actually is, what it costs, and then show you three ways to use it for coding: Moonshot's own Kimi Code CLI, your existing Claude Code setup with three environment variables, and Cursor's native integration. Then we build a full app with it from a single prompt.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n  \n🚀 Tools I Use\nTry Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica \nGet 10% off with code TECHWITHTIM\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:30 | What is Kimi K3? \n01:36 | Benchmarks \n02:01 | Kimi Subscription \n02:23 | Pricing \n03:10 | How to Run it? \n06:17 | Granola, the AI Assistant\n07:26 | Full Builds with Kimi\n12:45 | Honest Analysis \n\n🔗 Links\nKimi Code CLI: https://github.com/MoonshotAI/kimi-code\nKimi K3 weights: https://huggingface.co/moonshotai/Kimi-K3\nKimi API platform: https://platform.kimi.ai\nClaude Code setup docs: https://platform.kimi.ai/docs/guide/claude-code-kimi\nCursor + Kimi K3: https://cursor.com/docs/models/kimi-k3\n\nHashtags\n#KimiK3 #K3 #Kimi\n\nUAE Media License Number: 3635141",
-      "commentCount": 19,
-      "likeCount": 254,
-      "probeClient": "web_embedded"
-    },
     "X0Fbi7BvUX0": {
       "checkedAt": "2026-08-19T01:53:18Z",
       "embedAllowed": true,
@@ -8592,6 +8514,66 @@
       "description": "Work with me: https://go.agentrise.io/5c707213\nGet ranked on Google: https://www.redrank.ai/\n\nThere is a NEW AI Business model that is creating millionaires in 2026. It is not selling AI solutions or even Saas. Yes, shocker, not AI agency? Then what is it? In this video I cover exactly what this new AI business model is that is helping solo founders and entrepreneurs reach record months in revenue.\n\nGet a FREE AI Operating System: https://www.agentrise.io/training\n\n🗣 Join my free community: https://www.skool.com/wifi-life/about\n\n📧 Business Inquiries: lifeofriteshkv@gmail.com\n\nSay hi to me on other platforms 😎\nInstagram: https://www.instagram.com/riteshkv_/\nLinkedin: https://www.linkedin.com/in/ritesh-verma-b35bb0169/\nX: https://x.com/riteshkv_",
       "commentCount": 5,
       "likeCount": 153,
+      "probeClient": "web_embedded"
+    },
+    "wxAj3KZVOQY": {
+      "checkedAt": "2026-08-19T02:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 6,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-19T02:53:19Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "kwss-YdZHgA": {
+      "checkedAt": "2026-08-19T02:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Free today does not always mean free forever.\n\nIf I spend a year building up conversations, agents, files, and context inside a platform, I do not want to discover later that moving everything out is painful—or that my confidential data lives entirely on infrastructure I do not control.\n\nThat is why I self-host my Buzz relay. I own the data, I control the storage, and my devices connect securely through Tailscale. A small home box is enough.\n\nGet the exact self-hosting prompt and downloads from the full tutorial inside my free community:\nhttps://www.skool.com/keith-ai-3958\n\nWant all of my AI-agent, Claude Code, OpenClaw, Hermes, n8n, vibe-coding, and self-hosted AI courses in one place? Join my paid community:\nhttps://www.skool.com/keith-ai-2326\n\nThe full step-by-step Buzz Relay tutorial is on my channel.\n\n#selfhosted #buzz #nostr #homelab #localai",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-19T02:53:19Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "k5ujWdVWeHU": {
+      "checkedAt": "2026-08-19T02:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What if you could build a digital product sales system that works with less manual effort?\n\nIn this video, we break down The 3X Automation Framework—a practical system for using AI, automation, content, funnels, and data to scale digital product sales.\n\nInstead of manually handling every step of your business, you'll learn how to create repeatable systems for attracting potential customers, nurturing leads, converting sales, and improving your marketing workflow.\n\n🚀 In This Video:\nWhat is the 3X Automation Framework?\nHow AI can automate digital marketing\nAutomating content creation\nBuilding a digital product sales funnel\nLead generation automation\nEmail marketing automation\nAI-powered customer engagement\nAutomating repetitive business tasks\nTracking conversions and sales\nHow to scale without adding endless manual work\nCommon automation mistakes\nCreating a repeatable digital product growth system\n\nWhether you're selling ebooks, courses, templates, software, memberships, prompts, or other digital products, this framework can help you understand how automation fits into a scalable online business.\n \n\n🔥 Subscribe to THE LEO MENTOR for more videos about:\n\nAI & Automation\nDigital Products\nOnline Business\nAffiliate Marketing\nEntrepreneurship\nPassive Income\nMarketing & Sales\nFuture Skills\n\n👍 Like • Comment • Subscribe • Share\n\n#AIAutomation\n#DigitalProducts\n#DigitalMarketing\n#OnlineBusiness\n#SalesAutomation\n#AIMarketing\n#BusinessAutomation\n#MakeMoneyOnline\n#PassiveIncome\n#Entrepreneurship\n#SalesFunnel\n#LeadGeneration\n#AI\n#BusinessGrowth\n#TheLEOMentor",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "96fqtx4_68g": {
+      "checkedAt": "2026-08-19T02:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get Full Info: https://getbiz.gonowos.com\nMy Automated NowOs Blog: https://ShiftYourLight.info\n\nImagine having an online business that keeps working even when you're not.\n\nThat's the idea behind Now OS—bringing the tools, content, automation, and business-building systems today's online entrepreneur needs together in one place.\n\nBuilding an online business sounds simple until you actually start doing it.\n\nYou need content. You need videos. You need a social media presence. You need leads. You need a blog. You need marketing tools. You need to stay visible. And somehow, while doing all of that, you're still supposed to have enough time left to actually BUILD your business.\n\nThat's where automation can completely change the equation.\n\nWhat if your business could do more of the work for you?\n\nNow OS is designed to help automate many of the repetitive tasks involved in building and maintaining an online presence.\n\nImagine having videos created for you and automatically posted to social media.\n\nImagine having a blog created and maintained for you.\n\nImagine having systems working to capture leads while you're doing something else—or even while you're sleeping.\n\nAnd instead of constantly jumping from one marketing tool or platform to another, imagine having your online marketing resources brought together into one integrated system.\n\nThat's the power of building smarter instead of simply working harder.\n\nBut Now OS introduces another interesting possibility.\n\nWhat if the system you use to build your business could ALSO become your business?\n\nOnline entrepreneurs everywhere face many of the same problems: creating content, finding prospects, generating leads, staying active on social media, learning technology, and finding enough hours in the day to do everything.\n\nNow imagine being able to introduce those entrepreneurs to a system designed to solve those problems—and having the opportunity to earn commissions in the process.\n\nThat creates a fascinating business model:\n\nBuild your own automated online business while helping other people build theirs.\n\nThe internet has created enormous opportunities for ordinary people to start businesses from home, but opportunity alone doesn't eliminate the workload.\n\nAutomation can.\n\nThe goal isn't necessarily to do nothing.\n\nIt's to stop spending your valuable time doing things that technology can do for you.\n\nLet automation handle more of the repetitive work so you can focus your energy on the things that actually require YOU—building relationships, creating your vision, developing your business, and deciding where you want to go next.\n\nYour business doesn't have to stop working just because you do.\n\nWelcome to the idea of the 24/7 automated online business.\n\nExplore NowOS:\nhttps://getbiz.gonowos.com/\n\nIncome and business results vary. No specific level of income or success is guaranteed.\n\n#NowOS #OnlineBusiness #BusinessAutomation #AIMarketing #DigitalMarketing #SocialMediaAutomation #MarketingAutomation #OnlineMarketing #LeadGeneration #WorkFromHome #MakeMoneyOnline #OnlineIncome #Entrepreneur #Entrepreneurship #AutomatedBusiness",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "4bL3sVEL2sY": {
+      "checkedAt": "2026-08-19T02:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥SP Jain - AI-Powered Digital Marketing Certificate Program - https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=4bL3sVEL2sY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Meta - Digital Marketing Specialist - https://www.simplilearn.com/master-in-digital-marketing?utm_campaign=4bL3sVEL2sY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Online MBA by Amrita Vishwa Vidyapeetham - https://www.simplilearn.com/online-mba?utm_campaign=4bL3sVEL2sY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Search Engine Optimization (SEO) Course - https://www.simplilearn.com/digital-marketing/search-engine-optimization-seo-certification-training?utm_campaign=4bL3sVEL2sY&utm_medium=DescriptionFF&utm_source=Youtube\n\nIn this video, we’ll show you exactly how to become an AI Product Manager in 2026, even if you’re starting from scratch. You’ll learn the core skills, AI fundamentals, prompt engineering, and the step-by-step roadmap to build and ship your first AI-powered product.\n\nAre you ready to break into one of the most exciting roles in tech? In this video, we break down what an AI Product Manager does, how the role is different from a traditional Product Manager, and the exact skills you need to get started in 2026.\n\nWe’ll walk you through core product management basics, practical AI concepts, how to solve real-world problems using AI tools, and how to build your first AI product even without coding. You’ll also learn about MLOps, scalability, ethical AI, and how to grow your network to improve your job opportunities.\n\nBy the end of this video, you’ll have a clear roadmap to become an AI Product Manager and understand whether this career path is right for you.\n\n\nRelated Videos:\n✅ 1. https://youtu.be/AEJxvge0TXQ\n✅ 2. https://youtu.be/mg3xaPG32SA\n✅ 3. https://youtu.be/eTgHnwjQTs0\n✅ 4. https://youtu.be/zoCfWp1xPbc\n✅ 5. https://youtu.be/5FlBFSJXGNM\n\n✅ Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check Out More Videos On This Category By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULa5aOQmO_al2VVmhC-eqeI\n\n#socialmediamarketing #socialmediamarketingcourse #socialmediamarketingfullcourse #socialmediamarketingforbeginners #socialmediamarketinginterviewquestionsandanswers #socialmediamarketingtutorial #socialmediamarketingtools #instagrammarketing #facebookmarketing #digitalmarketing #youtubemarketing #simplilearn #2026\n\n➡️ About AI-Powered Digital Marketing Certificate Program\n\nIn a world where creativity meets code, learn to turn digital complexity into strategic clarity. Through 100% live sessions, masterclasses by SP Jain Global faculty and real-world projects, master AI, Automation and Analytics using 50+ tools like ChatGPT, Canva, SEMrush and Power BI\n\nKey Features:\n✅ Learn directly from SP Jain Global faculty in live, interactive masterclasses\n✅ Learn to integrate automation, analytics, and generative AI tools into every stage of the marketing process\n✅ Gain hands-on experience with 24+ standard marketing tools, 20+ AI-powered platforms, and 8+ analytics and automation tools\n✅ Get dedicated, mentor-led project support to help you complete every project on time\n✅ Progress from foundational concepts to advanced strategies across SEO, SEM, social media, content, and analytics\n✅ Apply your learning through live projects, guided practice, real-world case studies, and an industry-aligned capstone project\n✅ Attend live sessions led by Meta Blueprint experts, and receive a $99 Meta voucher to deepen your social media marketing expertise\n✅ Get complimentary Google Ad Credits during the SEM module to create and manage your first live campaign\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n \nSkills Covered\n✅ Digital marketing strategy\n✅ Website creation\n✅ AI content creation and optimization\n✅ Automated content workflows\n✅ AI driven SEO\n✅ Generative Engine Optimization GEO\n✅ Answer Engine Optimization AEO\n✅ Google Ads management\n✅ Smart bidding and budgeting\n✅ AI audience targeting and remarketing\n✅ Campaign optimization with AI\n✅ Programmatic advertising\n✅ AI social media creatives\n✅ AI storytelling and engagement\n✅ Creative automation\n✅ AI Ecommerce personalization\n✅ AI mobile marketing\n✅ AI email automation\n✅ Predictive marketing analytics\n✅ AI forecasting\n✅ Ethical AI use\n\n👉 Learn More At: https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=awpdRqEJexY&utm_medium=Description&utm_source=Youtube\n\n🔥🔥 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688",
+      "commentCount": 0,
+      "likeCount": 49,
+      "probeClient": "web_embedded"
+    },
+    "8eNcZR-bMAg": {
+      "checkedAt": "2026-08-19T02:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👉 Connect on WhatsApp : https://wa.link/r12ynr\n\n👉 Quality Lead Generation System : https://youtu.be/VdUFuWRzldg?si=oIM8bgSBUx431uQP\n\n👉 Demo -  My Network Marketing Automation System - https://forms.gle/WgVCdPsGLwAcRjvSA\n\n🚀 Welcome to the channel where network marketing meets smart systems and real scalability.\n\nIf you’re in network marketing (or planning to start) and you’re tired of:\nchasing people, awkward follow-ups, and convincing uninterested prospects…this space is built for you.\n\nHere’s what you’ll actually learn here:\n\n ✅ How to build your network marketing business using digital systems\n ✅ Automated lead generation & onboarding (so you stop “pushing” and start attracting)\n ✅ Ethical, pressure-free ways to create long-term income\n ✅ Simple product positioning so customers understand, trust, and stay\n ✅ Real mindset frameworks to scale without burnout or hype\n\n🎯 Mission:\n\n Help 10,000+ network marketers upgrade from outdated hustle to system-driven growth—so your business runs with you, not on you.\n\n👉 Subscribe if you’re serious about building a modern, scalable network marketing business.\n\n📌 Important Notes:\n\n ✅ This is a business model—not a guaranteed income or job\n ✅ Results depend on skills, consistency, and execution\n\n📢 Stay Connected. Build smart. Grow clean.\n\nMusic Credits : \nMusic: Endless Possibilities \nMusician: VN VideoEditor\n\n \n#foreverlivingproducts, #foreverlivingbusiness, #flp, #flpbusiness, #flpbusinessplan, #flpmarketingplan, #2cc, #4cc, #foreverlivingindia, #networkmarketing, \n\nForever Living Business, Forever Living Business Plan, Forever Living Business Model, Forever Living India, Forever Living Opportunity, Forever Living Company, Forever Living Review, Forever Living Business Hindi, Forever Living Products, Forever Living Products India, Forever Living Products Business, Forever Living Products Business Plan Hindi, Forever Living Products Work From Home, Forever Living Products Part Time Work, Forever Living Products Joining Process, Forever Living Products Joining Fee, Forever Living Products Sponsor ID, Forever Living Products Business Opportunity, Forever Living Products Company Details, Forever Living Products Me Kya Karna Hota Hai, Forever Living Products Me Online Kaam Kaise Kare, Forever Living Products Kaise Sell Kare, Forever Living Products Customers Kaise Banaye, Forever Living Products Leads Kaise Generate Kare, Forever Living Products Profile, Forever Living Products Interview Questions, Forever Living Products Invitation, Forever Living Products Training, Forever Living Products Login, Forever Living Products App, Forever Living Products Levels, Forever Living Products Salary, Forever Living Products Exposed, Forever Living Products Fake Or Real, Forever Living Products Scam Or Real, Forever Living Products Fraud Hai Kya, Forever Living Products Mehenga Kyu Hai, Forever Living Products All Products List, Forever Living Products Office India, Forever Living Products Price List, Forever Living Products Buy Online, Forever Living Products Retail, Forever Living Products Automation, Forever Living Products Business Explained, Forever Living Business Explained, How Forever Living Works, How To Join Forever Living Products Business, How To Build Forever Living Business, How To Sell Forever Living Products Online, How To Retail Forever Living Products, How To Complete 2CC, 2CC Kya Hai, 2CC Kaise Complete Kare, 4CC Kya Hai, 4CC Kaise Kare Har Mahine, Kya 4CC Karna Zaroori Hai, FLP Kaise Join Kare, Forever Kaise Join Kare, FLP Free Joining, FLP Me ID Kaise Banaye, FLP Business Plan, FLP Kya Hai, FLP Business Model, FLP Opportunity, FLP Automation, FLP Customers Kaise Mile, FLP Leads Kaise Generate Kare, FLP Profile, Aloe Vera Gel, Forever Aloe Vera Gel, Aloe Berry Nectar, Forever Aloe Berry Nectar, Aloe Turm, Forever Argi Plus, Forever Active HA, Forever Bee Honey, Forever Arctic Sea, Forever Freedom, Forever Bee Propolis, Forever Move, Forever Lycium Plus, Forever Garlic Thyme, Aloe Heat Lotion, Vitolize Men, iVision Forever, Immublend, Nature Min, Aloe Vera Gelly, Forever Fiber, Forever Active Pro-B, Radiance Face Wash, Radiance Moisturiser, Forever Dream & Desire, Aloe Ever-Shield Deodorant, Jojoba Shampoo, Forever Toothgel, Forever Bright Toothgel, Lip Balm, Scrub, Toner, Eye Cream, Vitamin C, Bhringraj Oil, Forever Living Products For Weight Loss, Forever Living Products For Skin Care, Forever Living Products For Acne, Forever Living Products For Pimples, Forever Living Products For Pigmentation, Forever Living Products For Hair Fall, Forever Living Products Hair Growth, Forever Living Products For Piles, Aloe Vera Gel Benefits, Aloe Vera Gelly Benefits, Forever Bee Honey Benefits, Jojoba Shampoo Benefits, Best MLM Company India, Direct Selling Business, Ethical Network Marketing, Network Marketing Business, Krishna Arora, Achievers Club, Team Fire 64, TLF Creators",
+      "commentCount": 3,
+      "likeCount": 7,
       "probeClient": "web_embedded"
     }
   }

@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T01:53:18Z",
+  "updatedAt": "2026-08-19T02:53:19Z",
   "items": [
+    {
+      "id": "wxAj3KZVOQY",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-19T02:15:01Z",
+      "firstSeenAt": "2026-08-19T02:53:19Z"
+    },
+    {
+      "id": "kwss-YdZHgA",
+      "type": "short",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-08-19T01:46:18Z",
+      "firstSeenAt": "2026-08-19T02:53:19Z"
+    },
+    {
+      "id": "k5ujWdVWeHU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The LEO Mentor",
+      "publishedAt": "2026-08-19T01:58:19Z",
+      "firstSeenAt": "2026-08-19T02:53:19Z"
+    },
+    {
+      "id": "96fqtx4_68g",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Shift Your Light",
+      "publishedAt": "2026-08-18T20:53:19Z",
+      "firstSeenAt": "2026-08-19T02:53:19Z"
+    },
+    {
+      "id": "4bL3sVEL2sY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-18T17:53:19Z",
+      "firstSeenAt": "2026-08-19T02:53:19Z"
+    },
+    {
+      "id": "8eNcZR-bMAg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vikram Khandelwal ( Vviikram )",
+      "publishedAt": "2026-08-18T15:53:19Z",
+      "firstSeenAt": "2026-08-19T02:53:19Z"
+    },
     {
       "id": "X0Fbi7BvUX0",
       "type": "short",
@@ -18478,6 +18526,15 @@
       "channelsChecked": 33,
       "warnings": 1,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-19T02:53:19Z",
+      "new": 6,
+      "long": 3,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 28,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
