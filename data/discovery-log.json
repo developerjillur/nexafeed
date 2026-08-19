@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T22:53:14Z",
+  "updatedAt": "2026-08-19T23:53:23Z",
   "items": [
+    {
+      "id": "OuFT9H1mEOI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Chatbot Agency BD",
+      "publishedAt": "2026-08-19T21:53:23Z",
+      "firstSeenAt": "2026-08-19T23:53:23Z"
+    },
+    {
+      "id": "ugVj1E0_fiI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Serop | AI Automation",
+      "publishedAt": "2026-08-19T15:53:23Z",
+      "firstSeenAt": "2026-08-19T23:53:23Z"
+    },
+    {
+      "id": "DsQR95uYbtU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Shawn Builds AI",
+      "publishedAt": "2026-08-19T15:53:23Z",
+      "firstSeenAt": "2026-08-19T23:53:23Z"
+    },
+    {
+      "id": "6i3CDf0k1g0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ganesh Menon",
+      "publishedAt": "2026-08-19T12:53:23Z",
+      "firstSeenAt": "2026-08-19T23:53:23Z"
+    },
+    {
+      "id": "5NgkBC1FCns",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Isuremedia",
+      "publishedAt": "2026-08-19T10:53:23Z",
+      "firstSeenAt": "2026-08-19T23:53:23Z"
+    },
     {
       "id": "cM5n9priMjo",
       "type": "long",
@@ -19410,6 +19450,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-19T23:53:23Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
