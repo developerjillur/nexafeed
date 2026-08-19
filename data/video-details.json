@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T06:53:22Z",
+  "updatedAt": "2026-08-19T07:53:23Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1142,15 +1142,6 @@
       "description": "Sign up for the 100x Applied AI Cohort Waitlist : https://class.100xengineers.com/8ovO5t\nLearn more about the Applied AI cohort : https://www.100xengineers.com/\n\n\nTime stamps:\n\n00:00 - 00:57 - Intro\n00:57 - 02:16 - What is a Claude skill?\n02:16 - 03:51 - How to use a Claude skill?\n03:51 - 06:34 - Level 1: of using Claude skill?\n06:34 - 09:25 - Level 2: Modifying a Claude skill\n09:25 - 15:19 - Level 3: Using partner skills and plugins\n15:19 - 21:52 - Level 4: Creating your own custom skill\n21:52 - 22:44 - Cohort waitlist\n22:44 - 25:15 - Pro tip for making custom Claude skill\n25:15 - 25:45 - Conclusion",
       "commentCount": 12,
       "likeCount": 565,
-      "probeClient": "web_embedded"
-    },
-    "MnrgyDbVRzk": {
-      "checkedAt": "2026-08-15T14:53:05Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "CodeRabbit is the AI code reviewer I now run on every pull request. I'm a senior engineer building bookzero.ai with Claude Code, and this is the setup that keeps AI-generated code from breaking production.\n\nWhat you'll learn:\n\n- Install CodeRabbit on a GitHub repo and get a full PR review with 1-click fixes\n- Write custom AST Grep rules so team standards get enforced without a human reviewer\n- Run the CodeRabbit CLI locally so bugs get caught before you ever push\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n👇 Try CodeRabbit and read the benchmark reports:\nCodeRabbit: https://coderabbit.link/ericwtech \nCodeRabbit: https://www.coderabbit.ai/\nCodeRabbit CLI: https://www.coderabbit.ai/cli\nCodeRabbit Plan: https://www.coderabbit.ai/plan\nMulti-Repo Analysis: https://docs.coderabbit.ai/knowledge-base/multi-repo-analysis\nPre-Merge Checks: https://docs.coderabbit.ai/pr-reviews/pre-merge-checks\nState of AI vs Human Code Generation Report: https://www.coderabbit.ai/whitepapers/state-of-AI-vs-human-code-generation-report\nLatest OSS Benchmark Report: https://codereview.withmartian.com/\n\nTimestamps:\n0:00 Intro\n0:48 Repo Setup\n1:38 Review & Autofix\n3:33 Atlas & Learnings\n4:40 Custom Rules\n6:04 CodeRabbit CLI\n7:47 Multi-Repo Checks\n8:43 My Workflow\n\n#claudecode #aitools #softwaredevelopment",
-      "commentCount": 2,
-      "likeCount": 44,
       "probeClient": "web_embedded"
     },
     "1JZKKAg3UX8": {
@@ -6549,19 +6540,49 @@
       "probeClient": "web_embedded"
     },
     "edr085nORug": {
-      "checkedAt": "2026-08-18T07:53:17Z",
+      "checkedAt": "2026-08-19T07:53:23Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
       "commentCount": 8,
-      "likeCount": 1511,
+      "likeCount": 1820,
       "comments": [
+        {
+          "id": "UgxdaTaIFq1SsOKcph14AaABAg",
+          "author": "@KeshavMehra16",
+          "text": "Ai slop content",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/FAh0q_PN4vyqHnwLunLtG4N1MyODD1XkvVN4ojMS_g-xAjdOLU6IUQmqysfKU2hsmE1CIkAxxJE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxUhitKAV9eIvpf3hd4AaABAg",
+          "author": "@vinodns9542",
+          "text": "Where is Google 😭",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-Z5s0GJkhRhLcdArrWHTbm95dMl_Y9AnN9zEI-BV_Z6sr4GBQFRKp_VPZapvw3d4ukbp23HC=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzNLAcKQ4RV-40yMwN4AaABAg",
+          "author": "@WIZADKING-z2r1e",
+          "text": "Make video for astral ai open ai please",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/5xGDqhkRG8OgwCCUkym-kB_ZhMr07SYcSCF_TVmZ6gtXgGg1XPQN3FCku2oF61JVcfcjQSUS3A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgzgUVS1SzGqkEShjqd4AaABAg",
           "author": "@gamerroyle",
           "text": "WhatsApp link is not working",
           "likeCount": 0,
-          "publishedAt": "2026-08-18T07:00:00Z",
+          "publishedAt": "2026-08-18T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ecaBp82vyKo-EzJMO12IWZlUiaPDt9YnhlFCeNsf8nn3QOiVlQYEhiWBE-4xqLPRGEryNwlHNA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6571,7 +6592,7 @@
           "author": "@SuwalihMohamed-h8b",
           "text": "Hi all",
           "likeCount": 0,
-          "publishedAt": "2026-08-17T23:00:00Z",
+          "publishedAt": "2026-08-18T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/64rswFHft81LEWJXZHsTgEu9I9PLqTjyJpbBWqKucdBwa2i0PVd9f076ZDA327jV_vjWMSvbIw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6581,7 +6602,7 @@
           "author": "@theunbhakts",
           "text": "And so it begins...",
           "likeCount": 1,
-          "publishedAt": "2026-08-17T19:00:00Z",
+          "publishedAt": "2026-08-18T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/1MZaaR0u93ZEuhPcIjUAzIWYA6cSTVgwHjIg2KNv7Y9Fts-8sEqANEjmyYBnAN1J_Yi5hdq40w=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6590,8 +6611,8 @@
           "id": "UgwrInnvecK19mxADMZ4AaABAg",
           "author": "@Nidhi-ft1dt",
           "text": "Claude chrome extention is old now. It is new for 2025 not 2026 aug time.",
-          "likeCount": 4,
-          "publishedAt": "2026-08-17T14:00:00Z",
+          "likeCount": 7,
+          "publishedAt": "2026-08-18T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nv8CUIQDdwQReKARt8EO2hJzLBVG6vYlndMtqrPLAbhErysRDW9CwEbhllNhAXVn-3gQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -6600,44 +6621,14 @@
           "id": "UgxhY9asSxuTFH1sbQh4AaABAg",
           "author": "@MrAmitkr007",
           "text": "Singularity is approaching",
-          "likeCount": 5,
-          "publishedAt": "2026-08-17T14:00:00Z",
+          "likeCount": 4,
+          "publishedAt": "2026-08-18T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nczrl_EbEQD3q2fxjnNKJ224GJbcoYcKWRVd2pTto=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwhVCRy0Mw_PqZE3hp4AaABAg",
-          "author": "@Mr.RahimUllah",
-          "text": "How this video in Created Complete Step by step video please 🙏 \nWe want to create our own AI avatar and create videos like this, multiple scene multiple animation etc",
-          "likeCount": 0,
-          "publishedAt": "2026-08-17T13:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/wotOZWfl8Zmr57utuMUrF0xNGwti5eBP1nDag6Hnao9cidZzrz3LN71F_F8dvNEptqiOvfGrLQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw7cdklSJqqmBxRPn54AaABAg",
-          "author": "@Spybuddy-f3e",
-          "text": "Teachers and recruiters won't be able to celebrate any longer duhh just wait and watch",
-          "likeCount": 3,
-          "publishedAt": "2026-08-17T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/oMQH4Uu7qNsR59kJljSgmSJ-1mA6zv11X7aZEVLZC0hvmWUFQP27fU1dZSvgug1RDAInjoGX=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgygRpyTYJv5rdK23cR4AaABAg",
-          "author": "@MuhammadAITips",
-          "text": "big fan because of you i can keep up",
-          "likeCount": 2,
-          "publishedAt": "2026-08-17T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/N4Vhgu4uh08cvATSHw0rCHHsGpwWNZiLLLiEDF4dmgZl82NMMblxH9Tg_KHqBAxjTBoJ6837TA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-18T07:53:17Z",
+      "commentsFetchedAt": "2026-08-19T07:53:23Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7226,7 +7217,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-19T06:53:22Z",
+      "checkedAt": "2026-08-19T07:53:23Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8045,7 +8036,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T06:53:22Z",
+      "checkedAt": "2026-08-19T07:53:23Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8137,15 +8128,6 @@
       "likeCount": 27,
       "probeClient": "web_embedded"
     },
-    "Vmpu-qroq40": {
-      "checkedAt": "2026-08-18T19:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get ChatGPT, Claude, Gemini, and Grok in one place with Bluehost AI All-Access here:\nhttps://bit.ly/bluehost-all-access\n\nTry Lindy AI for free and build your first AI assistant in minutes:\nhttps://bit.ly/lindyai-trial\n \nIn this video, I’ll go over Claude Skills and how they help you build reusable AI workflows without repeating the same prompts every time. You’ll see how Claude can save instructions for reports, brand voice, meeting notes, summaries, content creation, and other repetitive AI tasks. This makes Claude Skills useful for AI productivity, workflow automation, prompt engineering, and anyone trying to save time with AI.\n\nBe sure to watch this video all the way as I cover how Claude Skills work, how to create a skill, how to write better instructions, and the biggest mistakes to avoid. I also explain when saved Claude workflows make sense and when a fully automated AI assistant can take things further. The goal is to make AI automation, reusable prompts, Claude workflows, AI assistants, and everyday business tasks much easier to manage.\n\nClaude Skills let you save repeatable instructions so Claude can handle the same task consistently without starting from scratch each time. For workflows that need to run automatically, Lindy AI can act as an always-on AI assistant for reports, emails, recurring tasks, business automation, and AI agents.\n \nIf you want to learn more about AI, check out our other videos:\n\nBluehost AI All-Access Explained: One Dashboard for ChatGPT, Claude, Gemini, and Grok\nhttps://youtu.be/R3UzQChaSNo \n\nLindy AI Tutorial: Automate Your Workflow with a No-Code AI Assistant (Beginner’s Guide)\nhttps://youtu.be/JHjNV0BYxTI\n \nSubscribe to our channel for easy guides, reviews, how-tos, and tips! AI Academy is here to help you learn new things, keep up with AI, and use it in everyday life.\n \nThank you for watching and have a great day!\n \n– Ashley\n \n#ClaudeAI #AIWorkflows #LindyAI\n \nTimeline:\n0:00 - Introduction\n0:41 - Why You're Wasting Time Starting From Zero\n1:02 - What is a Claude Skill?\n1:15 - Real-World Examples (Reports, Brand Voice & Messy Notes)\n1:58 - Demo: Combining Multiple Skills in Action\n2:50 - How to Fine-Tune & Train Your Skills\n4:12 - How to Build a Claude Skill (No Coding Required)\n5:06 - Taking It Further: Claude Skills vs. Background Automation (Lindy AI)\n6:05 - 3 Common Mistakes to Avoid When Creating Skills\n6:36 - Conclusion\n \nDisclaimer: Some of the links above may be affiliate links, which means that if you click on them, I may receive a small commission. The commission is paid by the retailers at no cost to you, and this helps support our channel and keep our videos free. Thank you! All information in our videos is compiled from online sources and our own experience, and we encourage you to do your own research. We appreciate your support!",
-      "commentCount": 1,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "D3kJl6tz0S0": {
       "checkedAt": "2026-08-18T20:53:13Z",
       "embedAllowed": true,
@@ -8194,15 +8176,6 @@
       ],
       "commentsFetchedAt": "2026-08-18T21:53:14Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "J460RBrEoTM": {
-      "checkedAt": "2026-08-18T21:53:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "এআইয়ের দখল নিতে চীন-যুক্তরাষ্ট্রের নতুন চাল! | AI | Trump | US | China | NEWS24 \n\n#News24 #ArtificialIntelligence #DonaldTrump \n\nNEWS24 – Bangladesh’s 24/7 News Channel\n\nAbout NEWS24\n\nLaunched in 2016, NEWS24 is one of Bangladesh’s leading 24-hour news and current affairs television channels[1]. We deliver breaking news, in-depth analysis, and exclusive stories from across the country and around the globe. With a team of seasoned journalists and correspondents, NEWS24 provides comprehensive coverage of national politics, economy, sports, entertainment, and international affairs. Whether it’s the latest developments in Bangladeshi politics or major global events, we bring you accurate, real-time updates on the stories that matter – ensuring you never miss an important update.\nStay Connected with NEWS24\nNever miss an update – follow NEWS24 on all platforms for instant news alerts, live streams, and exclusive content:\n• YouTube Channels:\n• NEWS24 (Main Channel) – https://youtube.com/@NEWS24TV\n• News24 Extra – https://youtube.com/@news24extra15\n• Daily News24 – https://youtube.com/@dailynews24x7daily\n• NEWS24 Live – https://youtube.com/@news24television90\n• NEWS24 Sports – https://www.youtube.com/@NewsSports-qn1ot\n\nFair Use Disclaimer\nThis channel may include some copyrighted material without specific authorization of the owner, following the principles of “fair use.” Under Bangladesh’s Copyright Act 2000 (Law No. 28), Chapter 6 Section 36 and Chapter 13 Section 72, and under Section 107 of the U.S. Copyright Act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, teaching, scholarship, or research. Non-profit, educational, or personal use of copyrighted content tips the balance in favor of fair use. NEWS24 respects intellectual property rights – if you believe your content has been used improperly, please contact us at multimedia@news24bd.tv.\nContent Rights & Permissions\nNEWS24 retains the exclusive rights to all content on this channel. No individual or organization is permitted to re-upload, redistribute, or use our videos without prior written permission from NEWS24 (East West Media Group). Please support original content by sharing official video links only, and help us combat piracy. All content © 2026 NEWS24. All rights reserved.\n\n\nTag:\nNews,bd news,NEWS24,latest news,bangla news today,bangla news,breaking news,news bangladesh,today news,latest news today,update news,breaking news today,news update,trending news,live news,bd news today,news today Bangladesh,news live,news today,news live today,news24 live,news bangla,top news,daily news,news today bangladesh,today's news,BNP,NCP,iran war,donald trump,usa,israel,us attack iran,iran,iran news,world news,Trump,US,fox news\n\nKeywords: \nNews24 Bangladesh | Bangladeshi News | Bangladesh News | Breaking News | Latest News | Live News | Politics | BD Politics | Bangladesh Politics | News Update | Viral News | Trending News | International News | Bangladesh News Channel | Bangla News | সংবাদ | রাজনীতি | নিউজ টোয়েন্টিফোর @NEWS24TV",
-      "commentCount": 1,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "7msfHtAQHas": {
@@ -8528,6 +8501,51 @@
       "commentCount": 0,
       "likeCount": 22,
       "probeClient": "tv_embedded"
+    },
+    "gACRTjfyGcM": {
+      "checkedAt": "2026-08-19T07:53:23Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "MiniMax Token Plan, 12% OFF: https://platform.minimax.io/subscribe/coding-plan?code=7uFHBfyWXA&source=link\nMiniMax Platform: https://platform.minimax.io\nAPI Documentation: https://platform.minimax.io/docs/guides/text-generation\n\nThis video is sponsored by MiniMax.\n\nI gave MiniMax M3 real work inside Claude Code instead of a benchmark chart. It all runs through the MiniMax API.\n\nKey takeaways:\n\n- Point Claude Code at the MiniMax API and run M3 behind it\n- 1 million tokens of context, 512,000 guaranteed\n- Native multimodality: a screenshot and the code go in together\n- Open weights on Hugging Face if you want to self-host\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\nTimestamps:\n0:00 Intro\n1:11 Claude Code Setup\n1:55 Long Context Demo\n3:31 Multimodal Debugging\n5:06 Paper Reproduction\n6:50 Tool Use\n7:41 Access & Pricing\n8:41 Benchmarks & Recap\n\n#claudecode #aitools #softwaredevelopment",
+      "commentCount": 1,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "8Q5_zWTsB2Q": {
+      "checkedAt": "2026-08-19T07:53:23Z",
+      "embedAllowed": false,
+      "availability": "unavailable",
+      "failureReason": "unavailable"
+    },
+    "jUbpNXEukMY": {
+      "checkedAt": "2026-08-19T07:53:23Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "zetkD-eaWlo": {
+      "checkedAt": "2026-08-19T07:53:23Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "AuHxT_cIhy8": {
+      "checkedAt": "2026-08-19T07:53:23Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Modern AI is amazing, but developers need to bring context to AI tooling to gain confidence and dependability. Thankfully, several techniques help developers get what they want out of Agentic workflows - MCP tools, Skills, custom Agents are all easy to wire up with .NET tooling. With basics out of the way, let’s take a look at how Uno Platform helps developers make truly cross-platform .NET apps that run seamlessly on web, desktop & mobile, with AI and Design tools for company.\n\nUno Platform: https://platform.uno/ \nUno MCP Tools: https://platform.uno/docs/articles/features/using-the-uno-mcps.html \nUno Platform Agent: https://platform.uno/docs/articles/external/studio-docs/Agent/uno-platform-studio-agent.html \nUno Platform Skills: https://platform.uno/docs/articles/external/studio-docs/Agent/uno-platform-studio-skills.html\n\n✅ Resources:\nUno Platform: https://platform.uno/ \nUno MCP Tools: https://platform.uno/docs/articles/features/using-the-uno-mcps.html \nUno Platform Agent: https://platform.uno/docs/articles/external/studio-docs/Agent/uno-platform-studio-agent.html \nUno Platform Skills: https://platform.uno/docs/articles/external/studio-docs/Agent/uno-platform-studio-skills.html\n\nConnect with .NET: \nBlog:  https://aka.ms/dotnet/blog\nTwitter: https://aka.ms/dotnet/twitter\nTikTok:  https://aka.ms/dotnet/tiktok\nMastodon:  https://aka.ms/dotnet/mastodon\nLinkedIn:  https://aka.ms/dotnet/linkedin\nFacebook:  https://aka.ms/dotnet/facebook\nDocs: https://learn.microsoft.com/dotnet\nForums: https://aka.ms/dotnet/forums\n🙋‍♀️Q&A: https://aka.ms/dotnet-qa\n👨‍🎓Microsoft Learn: https://aka.ms/learndotnet\n\n#dotnet",
+      "commentCount": 0,
+      "likeCount": 44,
+      "probeClient": "web_embedded"
+    },
+    "gYU9-dVdgkA": {
+      "checkedAt": "2026-08-19T07:53:23Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👉Join the Rust Live Accelerator waitlist: https://letsgetrusty.com/join/wv-gYU9-dVdgkA\n\nCloudflare built Kitesurf, a new browser designed specifically for AI agents, using Rust and WebAssembly on Cloudflare Workers. This video breaks down why traditional browsers like Chromium are inefficient for agents, Kitesurf’s architecture and performance results, and what the project says about the growing role of Rust and AI-assisted software development.\n\nChapter\n0:00 Introduction\n0:22 Why Cloudflare Built an AI-First Browser\n1:29 What AI Agents Need From a Browser\n2:01 How Kitesurf Started\n2:44 Testing, Rust, and WebAssembly\n3:32 Security and Isolation\n3:55 Kitesurf Performance vs. Chromium\n5:06 Open Source Plans and the Rise of Rust\n5:36 AI-Assisted Rewrites and Rust",
+      "commentCount": 54,
+      "likeCount": 335,
+      "probeClient": "web_embedded"
     }
   }
 }

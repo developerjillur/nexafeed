@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T06:53:22Z",
+  "updatedAt": "2026-08-19T07:53:23Z",
   "items": [
+    {
+      "id": "gACRTjfyGcM",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-19T07:39:31Z",
+      "firstSeenAt": "2026-08-19T07:53:23Z"
+    },
+    {
+      "id": "AuHxT_cIhy8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "dotnet",
+      "publishedAt": "2026-08-18T16:53:23Z",
+      "firstSeenAt": "2026-08-19T07:53:23Z"
+    },
     {
       "id": "xfPD-V5NUqk",
       "type": "long",
@@ -18691,6 +18707,15 @@
       "channelsChecked": 33,
       "warnings": 33,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-19T07:53:23Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
