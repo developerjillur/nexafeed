@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-18T23:53:10Z",
+  "updatedAt": "2026-08-19T00:53:17Z",
   "items": [
+    {
+      "id": "eF20iepBQCU",
+      "type": "long",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-18T23:57:03Z",
+      "firstSeenAt": "2026-08-19T00:53:17Z"
+    },
+    {
+      "id": "MZXGFvS_biY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Income Lab",
+      "publishedAt": "2026-08-18T22:53:17Z",
+      "firstSeenAt": "2026-08-19T00:53:17Z"
+    },
+    {
+      "id": "BKAPj1OJ-t4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Next New Thing",
+      "publishedAt": "2026-08-18T20:53:17Z",
+      "firstSeenAt": "2026-08-19T00:53:17Z"
+    },
+    {
+      "id": "oI8iuCs8BHA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Loco AI",
+      "publishedAt": "2026-08-18T20:53:17Z",
+      "firstSeenAt": "2026-08-19T00:53:17Z"
+    },
+    {
+      "id": "o-0L5S6AIIw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Code_Info",
+      "publishedAt": "2026-08-18T14:53:17Z",
+      "firstSeenAt": "2026-08-19T00:53:17Z"
+    },
+    {
+      "id": "mq-rVs7oUXw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech With Tim",
+      "publishedAt": "2026-08-18T13:53:17Z",
+      "firstSeenAt": "2026-08-19T00:53:17Z"
+    },
     {
       "id": "cX8J_DpKtE0",
       "type": "long",
@@ -18356,6 +18404,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-19T00:53:17Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
