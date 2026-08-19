@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T08:53:23Z",
+  "updatedAt": "2026-08-19T09:53:06Z",
   "items": [
+    {
+      "id": "p5xnr5RpxTw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Qaisar Abbas Automation ",
+      "publishedAt": "2026-08-19T05:53:06Z",
+      "firstSeenAt": "2026-08-19T09:53:06Z"
+    },
     {
       "id": "JoLDB4Px-I8",
       "type": "short",
@@ -18749,6 +18757,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-19T09:53:06Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }

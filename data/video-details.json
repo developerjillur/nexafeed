@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T08:53:23Z",
+  "updatedAt": "2026-08-19T09:53:06Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -7217,10 +7217,10 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-19T08:53:23Z",
+      "checkedAt": "2026-08-19T09:53:06Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "uUIJPWsHD38": {
       "checkedAt": "2026-08-18T19:53:12Z",
@@ -8036,7 +8036,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T08:53:23Z",
+      "checkedAt": "2026-08-19T09:53:06Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8274,15 +8274,6 @@
       "description": "🚀 Join HighLevel Lab — Free Courses, Templates & Snapshots\nhttps://thehighlevellab.com/\n\n⚡ Start HighLevel — Risk FREE 30 Days Trail + $11,674+ Bonuses + 1:1 Support\nhttps://www.gohighlevel.com/highlevel-bootcamp?fp_ref=yourfreetrial\n\n⚡ Already on HighLevel? Upgrade & Unlock $11,674+ in Resources\nhttps://app.gohighlevel.com/offers/affiliate-upgrade?fp_ref=yourfreetrial\n\n⚡ Want Us to Build Your HighLevel System?\nBook a Private Strategy Session:\nhttps://www.pritambhadra.com\n\n\n\n\nFollow Pritam For Business & AI:\nFacebook: https://www.facebook.com/pritam.bhadra.14\nLinkedIn: https://www.linkedin.com/in/pritambhadra/\n\n\n\n\n\n⏱️ Timestamps\n\n00:00 - Introduction\n01:08 - Creating Custom Agents\n04:19 - Voice and Model Configuration\n11:38 - Prompt Engineering\n17:27 - Configuring Agent Actions\n26:46 - Knowledge Base and Call Settings\n30:54 - Agent Behavior and Voice Settings\n36:43 - Deployment and Testing\n41:39 - Business Strategy and Resources\n\n\n\n\n\n\n\n\n\n\n📍 AI Tools I Use to Save 15–20 Hours Every Week\n⚡Create Tutorials, Screen Recordings & Professional Videos Faster with AI\nhttps://refer.tella.com/pritam-bhadra\n\n⚡Speak → Instantly Turn Your Voice Into Text & Control Your Workflow Faster\nhttps://ref.wisprflow.ai/pritam-bhadra\n\n⚡Grow Your YouTube Channel → Grow Your Business\nhttps://vidiq.com/aivideostudio\n\n\n\n\n\n\n\n\n\n\n📄 Disclosure: Some links above are affiliate links. If you sign up through them, we may earn a small commission at no extra cost to you.\nIf you’ve found value in the content, using these links is a simple way to support the work we’re doing. Appreciate you! 🙌",
       "commentCount": 0,
       "likeCount": 2,
-      "probeClient": "web_embedded"
-    },
-    "kekMlmcr5kM": {
-      "checkedAt": "2026-08-19T01:53:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get Your Free AI Growth Plan for your Business: https://www.reprisesai.com/ai-business-growth-plan?utm_source=youtube&utm_medium=video&utm_campaign=Automate+Your+Entire+Business+With+Claude\nWork 1-1 w/me to grow your ai agency: https://theaiaccelerators.com/agency?utm_source=youtube&utm_medium=video&utm_campaign=Automate+your+Entire+Business+With+claude\nJoin the best community for AI entrepreneurs and connect with 19,000+ members: https://www.skool.com/systems-to-scale-9517/about\n\nSign up to our weekly AI newsletter - https://subscribe-forms.beehiiv.com/v3/forms/485f18d4-e9cd-4ce1-bb0a-c202bc6f0488\n\nConnect With Me!\nInstagram - https://www.instagram.com/nicholas.puru/\nX - https://x.com/NicholasPuru\nLinkedIn - https://www.linkedin.com/in/nicholas-puruczky-113818198/\n\n\nAbout Me:\n\nI help people build AI systems that generate leads, close deals, and scale businesses. Two kinds of people, specifically:\n\n1. Business owners who want AI installed in their company — done for them — so it runs the parts that used to eat a full team's time.\n\n2. Aspiring entrepreneurs who want to start their own AI business from scratch. I help them get off the ground, land their first clients, hit their first $10K months, and replace their full-time job.\n\nThen I make videos showing exactly how it all works — what you need to know about AI through guided tutorials, real builds, on real businesses — right here on YouTube.\n\nI founded Reprise AI, an AI consulting and implementation agency. We've deployed AI into 60+ companies across home services, healthcare, real estate, professional services, and e-commerce, driving over $5M in bottom-line revenue for them. I'm also a co-founder of Sync2, which builds voice and front-office AI for healthcare clinics. Alongside the client work, I teach this in the open to millions of people across the world & 20,000+ founders and operators building alongside me in the AI Accelerator community.\n\nI taught myself all of this with no technical background — no CS degree, no formal training. That's exactly why I know it's teachable. If I could figure it out, so can you.\n\nIf you're building something of your own right now or looking to learn and grow your business, you're in the right place. Subscribe, and let's get to work.\n\n\n0:00 - What this course covers\n2:54 - Ch 1: Principles\n3:51 - What AI actually is\n5:14 - It knows nothing about you\n7:38 - How it works underneath\n11:03 - Context is everything\n16:20 - Working memory\n23:33 - Confidently wrong\n40:30 - Files and folders\n43:02 - The CLAUDE.md file\n45:03 - Skills fix the bloat\n47:47 - Models & effort\n48:37 - Coworker vs Claude Code\n54:50 - Ch 2: Building\n56:47 - The five levels\n57:40 - Level 1: prompting\n59:44 - Level 2: projects & memory\n1:02:51 - Level 3: connectors\n1:08:14 - Level 4: artifacts\n1:11:01 - Level 5: skills & plugins\n1:15:49 - Coworker & Claude Code\n1:18:02 - The models\n1:21:23 - The three layers\n1:23:08 - Layer 1: skills\n1:28:34 - The CLAUDE.md file\n1:34:39 - Layer 2: tools\n1:38:07 - Layer 3: triggers\n1:40:25 - Scheduled tasks\n1:43:04 - Plugins\n1:51:19 - Section 2: Claude Code\n1:53:04 - Setting up\n1:55:13 - The memory file\n1:57:00 - Skills\n1:59:02 - Plugins\n2:00:33 - Sub agents\n2:08:19 - Hooks, commands, schedules\n2:16:12 - The accounting build\n2:20:23 - Agent 1: month-end close\n2:25:22 - Agent 2: document intake\n2:29:15 - Agent 3: error catcher\n2:39:20 - Section 3: agents managing agents\n3:02:04 - Ch 3: Opening the books\n3:07:16 - A real client system\n3:10:59 - The real results",
-      "commentCount": 2,
-      "likeCount": 41,
       "probeClient": "web_embedded"
     },
     "wxAj3KZVOQY": {
@@ -8547,6 +8538,15 @@
       "description": "If you've been wondering whether AI is something you can actually learn - or whether it's \"too late\" for you...this livestream is for you. Abbey answers the biggest questions and objections she hears every day from freelancers and virtual assistants considering AI.",
       "commentCount": 2,
       "likeCount": 40,
+      "probeClient": "web_embedded"
+    },
+    "p5xnr5RpxTw": {
+      "checkedAt": "2026-08-19T09:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "How can you make your first YouTube video go viral? 🚀\n\nIn this video, I’m showing you the exact process I used to build and monetize a new YouTube automation channel in just 20 days.\n\nI’ll show you the complete workflow — from niche research, competitor analysis, script generation, thumbnails, AI video creation, metadata and uploading strategy to the key steps that can increase your chances of getting strong results from your first video.\n\nYou’ll also learn the importance of original content, niche selection, content strategy and proper execution instead of simply copying other channels.\n\nSubscribe to Qaiser Abbas Automation for practical YouTube Automation tutorials, AI tools and real case studies. 🔥",
+      "commentCount": 30,
+      "likeCount": 20,
       "probeClient": "web_embedded"
     }
   }
