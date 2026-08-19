@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T17:53:32Z",
+  "updatedAt": "2026-08-19T18:53:33Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1793,15 +1793,6 @@
       "likeCount": 9,
       "probeClient": "web_embedded"
     },
-    "sd9YNG-V6xA": {
-      "checkedAt": "2026-08-15T13:53:38Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn more about 5 AI building blocks: https://www.skool.com/ai-inner-circle/about\n\nSkills, MCP, Plugins, CLI & Artifacts Explained (With Live Demos)\n\nAgent skills, MCP, plugins, CLI, and artifacts, all explained in one video with live demos of each. This is the exact system I use to give Claude real capabilities and connect it to my whole tool stack.\n\nIn this video you'll learn:\n• What skills, MCP, plugins, CLI, and artifacts each do\n• When to use a CLI instead of an MCP server\n• How to connect Claude to your entire tool stack\n• How to build custom skills in plain English\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"BLOCKS\" and I'll DM you the full checklist with every building block, when to use it, and how to set it up.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 The 5 building blocks of any AI system\n0:37 What a skill is (and how it loads on demand)\n0:46 Running skills live (LinkedIn post reviewer demo)\n2:42 Inside the SKILL.md file (tools, instructions, output format)\n4:41 Installing skills from the Anthropic directory and marketplace\n7:10 Building a custom skill by chatting with Claude\n8:45 Running skills in Claude Code and any AI agent\n10:01 MCP explained (the universal connector)\n11:03 Connecting an MCP server live (Canva demo)\n12:08 How tool calling actually works\n14:17 Connecting Supabase with zero API keys\n16:34 Custom connectors and MCP inside Claude Code (Sandcastles)\n18:09 Plugins explained (skills + MCP + hooks + commands)\n19:04 Installing and building your own plugins\n20:29 CLI explained (and why it beats MCP on tokens)\n22:19 Installing CLIs live (Higgsfield image demo)\n24:09 Artifacts explained (live interactive previews)\n26:03 Inline visualization vs live artifacts (solar system demo)\n27:14 Recap of all 5 building blocks\n\n#claudeai #claudecode #aiagents",
-      "commentCount": 18,
-      "likeCount": 203,
-      "probeClient": "web_embedded"
-    },
     "92Z5ZyRor58": {
       "checkedAt": "2026-08-15T13:53:38Z",
       "embedAllowed": true,
@@ -1935,12 +1926,12 @@
       "probeClient": "web_embedded"
     },
     "XYXcwjgPCr4": {
-      "checkedAt": "2026-08-12T18:53:21Z",
+      "checkedAt": "2026-08-19T18:53:33Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "An agency added $133,752 in new recurring revenue in 30 days. No new hire. They handed the job to an AI employee.\n\nHis name is Viktor. He lives in your Slack and actually does the work, prospect lists, outreach, reports, full dashboards.\n\nWe run our lead gen team the same way now. One AI employee, working for everyone at once.\n\nMost AI tells you what to do. Viktor does it.\n\nHire @getviktor_com  for your team. $100 in credits included, no card. Full link in first comment.\n\nPaid partnership with viktor\n#AIemployee",
       "commentCount": 0,
-      "likeCount": 12,
+      "likeCount": 20,
       "comments": [],
       "commentsFetchedAt": "2026-08-12T18:53:21Z",
       "commentsStatus": "cached",
@@ -1956,12 +1947,12 @@
       "probeClient": "web_embedded"
     },
     "79YJ4pBATtw": {
-      "checkedAt": "2026-08-12T18:53:21Z",
+      "checkedAt": "2026-08-19T18:53:33Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "It's about spending more time thinking.\n\nAI is transforming content creation by automating repetitive production tasks like scripting, voiceovers, editing, captions, and publishing. That gives creators the freedom to focus on what actually drives growth—finding better ideas, understanding their audience, and improving their storytelling.\n\nThe biggest opportunity isn't creating more videos.\n\nIt's building a system that helps you create consistently.\n\nThe creators who thrive won't be the ones working the longest hours.\n\nThey'll be the ones who combine creativity with automation to produce high-quality content at scale.\n\nFill the form to get the link:- https://tally.so/r/GxEplz\n\n(ai, ai updates, artificial intelligence, technology, tech, tech updates, editing, designing, graphic designing, tech news, new gadget, gadgets, latest ai, ai tools, ai coding, ai coder, ai latest)\n\n#ai #artificialintelligence #aitools #ainews #aiupdates",
-      "commentCount": 6,
-      "likeCount": 866,
+      "commentCount": 8,
+      "likeCount": 1041,
       "comments": [
         {
           "id": "UgzIPLzxpi6rO1lKOth4AaABAg",
@@ -2029,12 +2020,12 @@
       "probeClient": "web_embedded"
     },
     "bBahMxQcMW8": {
-      "checkedAt": "2026-08-12T18:53:21Z",
+      "checkedAt": "2026-08-19T18:53:33Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "If you're constantly hitting Claude Code usage limits, these three tips can help you work more efficiently.\nLearn how to use Opus Plan Mode, /compact, and ultrathink to reduce unnecessary usage and improve your Claude Code workflow.\nKeywords:\n\nClaude Code, Claude AI, Anthropic, Claude Code tips, Claude Code usage limits, Claude tokens, token optimization, Opus mode, Sonnet, compact command, slash compact, ultrathink, AI coding, AI developer tools, developer productivity, coding assistant, AI programming, workflow optimization, software development, programming tips, Claude tutorials, engineering productivity, coding workflow, AI efficiency",
-      "commentCount": 5,
-      "likeCount": 92,
+      "commentCount": 8,
+      "likeCount": 142,
       "comments": [
         {
           "id": "UgzafyknCnG3TGShmkx4AaABAg",
@@ -2092,12 +2083,12 @@
       "probeClient": "web_embedded"
     },
     "-EHayv-9I0A": {
-      "checkedAt": "2026-08-12T18:53:21Z",
+      "checkedAt": "2026-08-19T18:53:33Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
-      "commentCount": 8,
-      "likeCount": 1453,
+      "commentCount": 32,
+      "likeCount": 1763,
       "comments": [
         {
           "id": "Ugw7dvHsmjwMD_eUjhN4AaABAg",
@@ -2185,7 +2176,7 @@
       "probeClient": "web_embedded"
     },
     "iTbGNhmAJGk": {
-      "checkedAt": "2026-08-12T18:53:21Z",
+      "checkedAt": "2026-08-19T18:53:33Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Prompt : Use the attached image as the starting frame. The red line represents the drone flight waypoints and trajectory only, while the white arrows represent the camera viewing direction only. These are production guides, not scene elements, and must never appear in the final animation. Remove all guides before the animation begins and reveal the clean underlying image.\nCreate a single continuous aerial drone\nPOV that flies along the exact path defined by the red waypoint line, matching its route, curves, movement direction, and endpoint as closely as possible. Throughout the entire flight, orient the camera according to the white directional arrows, ensuring the drone follows the red path while the camera.\n\nThe drone trajectory and camera orientation are the highest-priority instructions and must be followed exactly, even when the movement path and viewing direction differ. Use smooth, cinematic drone motion with realistic inertia, gentle banking, and natural acceleration and deceleration, with no cuts, teleports, or sudden camera swings.\nPreserve the original scene exactly as shown without modifying the environment, lighting, subject, composition, or any objects. The only change should be the realistic drone movement following the red waypoint path while the camera continuously follows the white viewing directions.\nProduce clean, photorealistic footage with no visible guides, annotations, arrows, lines, overlays, graphics, text, or watermarks in any frame.",
@@ -2197,12 +2188,12 @@
       "probeClient": "web_embedded"
     },
     "eZn87SFf30U": {
-      "checkedAt": "2026-08-12T18:53:21Z",
+      "checkedAt": "2026-08-19T18:53:33Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 8,
-      "likeCount": 16079,
+      "commentCount": 176,
+      "likeCount": 18792,
       "comments": [
         {
           "id": "UgwoOVrghuKxdB2WSKR4AaABAg",
@@ -2290,12 +2281,12 @@
       "probeClient": "web_embedded"
     },
     "YVHRAK8DMkk": {
-      "checkedAt": "2026-08-12T18:53:21Z",
+      "checkedAt": "2026-08-19T18:53:33Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "💬 Comment 𝗗𝗢𝗖𝗧𝗢𝗥 and I’ll DM you the video link!\n\n#claudecode #aiagents #codingwithai #developerproductivity #anthropic #buildinpublic #softwareengineering",
-      "commentCount": 7,
-      "likeCount": 132,
+      "commentCount": 16,
+      "likeCount": 204,
       "comments": [
         {
           "id": "UgzzmwRuFGhJNI_1sPN4AaABAg",
@@ -2373,12 +2364,12 @@
       "probeClient": "web_embedded"
     },
     "o-h5Z6XS81Q": {
-      "checkedAt": "2026-08-12T18:53:21Z",
+      "checkedAt": "2026-08-19T18:53:33Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Forget ElevenLabs.\n\nThere's a free and open-source alternative that lets you clone your voice with just a few seconds of audio.\n\nThe tool is called OmniVoice.\n\nYou give it a few seconds of any voice, and it copies it perfectly.\n\nThe exact tone, rhythm, and natural emotions, all captured.\n\nThen you can use it to generate speech, stories, and full conversations in that exact voice.\n\nAcross 600 plus languages.\n\nThat's nearly 20 times more language coverage than ElevenLabs offers.\n\nPlus you also get controls to fine tune the gender, age, accent, pitch, and emotions.\n\nYou can even add things like laughter or sighs directly into the voice.\n\nAnd a built-in MCP server to connect it directly with your Claude Code or other coding agents.\n\nSo your AI assistant can generate speech on command, right from your terminal.\n\nEverything runs locally too.\n\nSo your voice data never leaves your own machine.\n\n#elevenlabs #omnivoice #aivoicecloning #voicegenerator #aiaudio",
-      "commentCount": 6,
-      "likeCount": 868,
+      "commentCount": 14,
+      "likeCount": 998,
       "comments": [
         {
           "id": "Ugz-6i0g0p3q92tGRbJ4AaABAg",
@@ -4658,49 +4649,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded",
       "availability": "public"
-    },
-    "T0fDgDHa46A": {
-      "checkedAt": "2026-08-17T04:53:18Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 3,
-      "likeCount": 283,
-      "comments": [
-        {
-          "id": "UgwxEgb2wyqj-8BWvrR4AaABAg",
-          "author": "@champion_of_democracy",
-          "text": "You say Claire code but could codex use it too?",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/yeoEMWjmf8-9KQ5VfrV_9sOvJJLjPqj3B8HhiplLKrEboUzfOAksZasAmZJVrp0fV8dGdd-aVw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxFY1oYJEqQHCEIur94AaABAg",
-          "author": "@brrrrrrrPAH",
-          "text": "Perfect. Timely. 5 stars.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n4wJ1o745a8pX0WITv50Uujw4uXvzulMVIepHG4zeFQ8-oJCV9hJ7hsVaXbntXvYzOwA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugzv3WeVBLCx6eArOJl4AaABAg",
-          "author": "@TheMixAcademy",
-          "text": "Nice! Thanks, Chase!🔥",
-          "likeCount": 1,
-          "publishedAt": "2026-08-14T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/O106IwZsiISf9pXxnmMuIOl2hAjql9d6mvVcsxc8d0EYjq899K5SykeXM7xsbQkCMXTbJtTybw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-17T04:53:18Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
     },
     "Gx2QN7FvKAM": {
       "checkedAt": "2026-08-14T02:53:20Z",
@@ -7635,7 +7583,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T17:53:32Z",
+      "checkedAt": "2026-08-19T18:53:33Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7746,15 +7694,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "D3kJl6tz0S0": {
-      "checkedAt": "2026-08-18T20:53:13Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔗 Try Tripo3D Here: https://www.tripo3d.ai/\n\nI tested Tripo3D to see if AI can build a complete fantasy game asset library with a consistent art style, including characters, weapons, props, buildings, and environment pieces. Instead of creating just one 3D model, I used Tripo3D to generate a full set of game-ready assets, organize them into categories, test Smart Mesh for lightweight low-poly models, create higher-detail showcase assets with H3.1, and import everything into Blender and Unity to see if the results could fit into a real indie game workflow.\n\n⏱️ TIMESTAMPS\n00:00 Building a Game Asset Library With AI\n00:35 Why Game Assets Take So Long\n01:11 Creating a Fantasy Asset Library\n01:47 Smart Mesh and Game-Ready Assets\n04:00 Blender, Unity, and Final Results\n\n🚀 What You'll Learn\n✅ Tripo3D\n✅ AI 3D Generator\n✅ AI Game Assets\n✅ Smart Mesh\n✅ Low-Poly 3D Models\n✅ H3.1 3D Model\n✅ Blender and Unity Workflow\n✅ Indie Game Prototyping\n\n🎁 Invite code: 6JBLX9\nUse this code during the CTA to try Tripo3D and start creating AI 3D assets faster.\n\nSubscribe for more AI 3D tools, game development workflows, AI asset creation, and practical AI tool reviews.\n\n#Tripo3D #AI3DGenerator #AIGameAssets #3DModeling #GameDevelopment #Unity3D \n\n📌 New videos every week\n🎯 Featured tools: ChatGPT, Midjourney, Jasper, RunwayML, and more\n🔥 Discover more AI tools here:  https://get365ai.com/\n\nFor business inquiries📩 : contact@get365ai.com\n\n\n⭐ Note: This link may be an affiliate link, which means I may earn a small commission at no extra cost to you.\n\n#AItools #Productivity #Get365AI #AIreviews #WorkSmarter",
-      "commentCount": 4,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "k0xB1ih3VB0": {
       "checkedAt": "2026-08-18T21:53:14Z",
       "embedAllowed": true,
@@ -7807,22 +7746,6 @@
       "embedAllowed": true,
       "description": "Turn an idea into a real app with AI - no coding - then sell it on a subscription.\n\nYou'll learn what to build, how to find a real problem, the AI and no-code tools that build it, why to start tiny, how to test with real users, subscription vs one-time pricing, and why distribution is the real work.\n\n#makemoneywithai #nocode #vibecoding #saas #aiapps",
       "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "BKAPj1OJ-t4": {
-      "checkedAt": "2026-08-19T00:53:17Z",
-      "embedAllowed": true,
-      "description": "Link to Resources: https://thenextnewthing.ai/l/github-repos-aug18\nPresented by Zapier: https://zapier.com/\nAndrew Warner and Tim Hey break down 10 GitHub repos that can help you build better AI-powered apps, coding workflows, analytics systems, and developer tools.\n\nAndrew Warner and Tim Hey review 10 useful GitHub repositories, covering Screenshot to Code, PostHog, Zapier Connectors, Matt Pocock's Skills, RTK, Graphify, Awesome Claude Code, Awesome AEO & SEO, the Vibe Coding Playbook, and Docusaurus. They explore how these projects can help AI agents understand interfaces, analyze products, connect to apps, reduce coding-agent friction, map codebases, discover Claude Code skills, optimize for AI search, keep generated code organized, and create documentation sites. The broader takeaway is that GitHub is increasingly becoming a toolbox for AI-assisted development, where developers can combine open-source projects with coding agents to build faster and more deliberately.\n\nRepos featured:\n\n- Screenshot to Code — https://github.com/abi/screenshot-to-code\n- PostHog — https://github.com/posthog/posthog\n- Zapier Connectors — https://github.com/zapier/connectors\n- Matt Pocock Skills — https://github.com/mattpocock/skills\n- RTK — https://github.com/rtk-ai/rtk\n- Graphify — https://github.com/Graphify-Labs/graphify\n- Awesome Claude Code — https://github.com/hesreallyhim/awesome-claude-code\n- Awesome AEO & SEO — https://github.com/discoveredlabs/awesome-aeo-seo\n- Vibe Coding Playbook — https://github.com/RiyaParikh0112/vibe-coding-playbook\n- Docusaurus — https://github.com/facebook/docusaurus\n\n00:00 - Screenshot to Code: Turn screen recordings and screenshots into clean code for interfaces and interactions.\n00:36 - PostHog: Combine analytics, session replay, error tracking, and feature flags in one platform.\n01:48 - Zapier Connectors: Use Zapier's integrations directly through code, MCP, or an SDK.\n03:09 - Matt Pocock Skills: Give coding agents a structured development process with small, composable skills.\n04:30 - RTK: Compress terminal output to reduce cognitive load while working with coding agents.\n05:51 - Graphify: Map code, documentation, PDFs, and images into a connected knowledge graph.\n06:54 - Awesome Claude Code: Find curated Claude Code skills, plugins, tools, and workflows.\n08:42 - Awesome AEO & SEO: Learn how AI search engines decide what sources and businesses to cite.\n10:39 - Vibe Coding Playbook: Structure AI-assisted development with planning, patterns, and code review.\n11:51 - Docusaurus: Generate structured, searchable documentation sites directly from your project.\n\nSend us your AI builds: hi@thenextnewthing.ai\n\nMedia/Sponsorship Inquiries: https://thenextnewthing.ai/l/sponsor\n\n👉 Join us: https://thenextnewthing.ai/",
-      "commentCount": 19,
-      "likeCount": 112,
-      "probeClient": "web_embedded"
-    },
-    "oI8iuCs8BHA": {
-      "checkedAt": "2026-08-19T00:53:17Z",
-      "embedAllowed": true,
-      "description": "🚀 Try Cursor AI here: https://cursor.com/\n\nCursor is an AI-powered code editor that understands your entire codebase, helping you generate features, fix bugs, refactor code, and work faster. In this tutorial, I explore Cursor Agent, Tab Completion, codebase search, AI debugging, multiple AI models, and how it fits into a real development workflow.\n\n⏱️ TIMESTAMPS\n00:00 What Makes Cursor AI Different?\n00:18 How Cursor Understands Your Codebase\n00:37 Building Features with AI\n00:56 Cursor Agent Mode\n01:14 Tab Completion\n01:34 AI Codebase Search\n01:55 Debugging with Cursor\n02:16 More AI Coding Features\n02:38 Supported AI Models\n02:48 Cursor Pricing\n03:38 Why Cursor Stands Out\n04:15 Final Verdict\n\n📩 Business & Sponsorship Inquiries:\ncontact@locoai.co\n\n#CursorAI #AICoding #Programming #DeveloperTools #AITools",
-      "commentCount": 5,
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
@@ -7887,15 +7810,6 @@
       "embedAllowed": true,
       "availability": "public",
       "description": "What if you could build a digital product sales system that works with less manual effort?\n\nIn this video, we break down The 3X Automation Framework—a practical system for using AI, automation, content, funnels, and data to scale digital product sales.\n\nInstead of manually handling every step of your business, you'll learn how to create repeatable systems for attracting potential customers, nurturing leads, converting sales, and improving your marketing workflow.\n\n🚀 In This Video:\nWhat is the 3X Automation Framework?\nHow AI can automate digital marketing\nAutomating content creation\nBuilding a digital product sales funnel\nLead generation automation\nEmail marketing automation\nAI-powered customer engagement\nAutomating repetitive business tasks\nTracking conversions and sales\nHow to scale without adding endless manual work\nCommon automation mistakes\nCreating a repeatable digital product growth system\n\nWhether you're selling ebooks, courses, templates, software, memberships, prompts, or other digital products, this framework can help you understand how automation fits into a scalable online business.\n \n\n🔥 Subscribe to THE LEO MENTOR for more videos about:\n\nAI & Automation\nDigital Products\nOnline Business\nAffiliate Marketing\nEntrepreneurship\nPassive Income\nMarketing & Sales\nFuture Skills\n\n👍 Like • Comment • Subscribe • Share\n\n#AIAutomation\n#DigitalProducts\n#DigitalMarketing\n#OnlineBusiness\n#SalesAutomation\n#AIMarketing\n#BusinessAutomation\n#MakeMoneyOnline\n#PassiveIncome\n#Entrepreneurship\n#SalesFunnel\n#LeadGeneration\n#AI\n#BusinessGrowth\n#TheLEOMentor",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "96fqtx4_68g": {
-      "checkedAt": "2026-08-19T02:53:19Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Get Full Info: https://getbiz.gonowos.com\nMy Automated NowOs Blog: https://ShiftYourLight.info\n\nImagine having an online business that keeps working even when you're not.\n\nThat's the idea behind Now OS—bringing the tools, content, automation, and business-building systems today's online entrepreneur needs together in one place.\n\nBuilding an online business sounds simple until you actually start doing it.\n\nYou need content. You need videos. You need a social media presence. You need leads. You need a blog. You need marketing tools. You need to stay visible. And somehow, while doing all of that, you're still supposed to have enough time left to actually BUILD your business.\n\nThat's where automation can completely change the equation.\n\nWhat if your business could do more of the work for you?\n\nNow OS is designed to help automate many of the repetitive tasks involved in building and maintaining an online presence.\n\nImagine having videos created for you and automatically posted to social media.\n\nImagine having a blog created and maintained for you.\n\nImagine having systems working to capture leads while you're doing something else—or even while you're sleeping.\n\nAnd instead of constantly jumping from one marketing tool or platform to another, imagine having your online marketing resources brought together into one integrated system.\n\nThat's the power of building smarter instead of simply working harder.\n\nBut Now OS introduces another interesting possibility.\n\nWhat if the system you use to build your business could ALSO become your business?\n\nOnline entrepreneurs everywhere face many of the same problems: creating content, finding prospects, generating leads, staying active on social media, learning technology, and finding enough hours in the day to do everything.\n\nNow imagine being able to introduce those entrepreneurs to a system designed to solve those problems—and having the opportunity to earn commissions in the process.\n\nThat creates a fascinating business model:\n\nBuild your own automated online business while helping other people build theirs.\n\nThe internet has created enormous opportunities for ordinary people to start businesses from home, but opportunity alone doesn't eliminate the workload.\n\nAutomation can.\n\nThe goal isn't necessarily to do nothing.\n\nIt's to stop spending your valuable time doing things that technology can do for you.\n\nLet automation handle more of the repetitive work so you can focus your energy on the things that actually require YOU—building relationships, creating your vision, developing your business, and deciding where you want to go next.\n\nYour business doesn't have to stop working just because you do.\n\nWelcome to the idea of the 24/7 automated online business.\n\nExplore NowOS:\nhttps://getbiz.gonowos.com/\n\nIncome and business results vary. No specific level of income or success is guaranteed.\n\n#NowOS #OnlineBusiness #BusinessAutomation #AIMarketing #DigitalMarketing #SocialMediaAutomation #MarketingAutomation #OnlineMarketing #LeadGeneration #WorkFromHome #MakeMoneyOnline #OnlineIncome #Entrepreneur #Entrepreneurship #AutomatedBusiness",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
@@ -7987,15 +7901,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "PLyRe6Zk--8": {
-      "checkedAt": "2026-08-19T06:53:22Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn loop engineering in Claude Code across 3 levels, so AI agents build, verify and ship features while you sleep. Loop engineering explained: the next step past prompt engineering, and the base of real AI automation.\n\nTry Hedra at https://hedra.link/ailabs and use code AILABS50 for 50% off your first month.\n\nFree setup resources: https://drive.google.com/drive/folders/1pagLScBGfGXkfxYiqCpEkei9KDI8SdCs?usp=sharing\n\nCommunity with All Resources: ailabspro.io/?v=PLyRe6Zk--8\n\nThe Roundup, our daily newsletter covering the AI stories that matter. Join now: https://www.theroundup.so/\n\nPASEO: https://paseo.sh/\n\nOpen Source Skills in this video: \nGrill Me: https://github.com/mattpocock/skills\nGSAP: https://github.com/greensock/gsap-skills\nVercel: https://github.com/vercel-labs/agent-skills\nSupabase: https://github.com/supabase/agent-skills\n\nYou were already running a loop before you knew what one was. You prompt, the agent builds, you check it, you prompt again. So what is loop engineering? It is handing that checking step to the agent and keeping only the one decision that was always yours: whether the agent is done or needs to keep working. This is the full guide, built on a real salon appointment app that goes from missing a landing page to shipping features overnight.\n\nEverything runs in Claude Code, on Warp and VS Code.\n\nBefore the loop\n\n* Why loop engineering did not work a year ago, and what changed with models that run for hours\n* Why you should never loop your MVP, and what to build by hand instead\n* CLAUDE.md pointing to AGENTS.md, so the repo is not locked to one agent\n* design.functional.md for every clickable part of the app\n* The Grill Me skill, which keeps asking questions until the spec is actually clear\n\nLevel 1: one loop, one goal (loop engineering in Claude Code)\n\n* The naming trap in the slash menu: /loop runs on a timer, /goal runs until the thing is done. Loop engineering is the goal command\n* How the goal command verifies: a smaller model reads the turn and decides continue or stop\n* A features folder where each feature holds a spec file and an empty verification folder\n* The real signal that something needs a loop: it takes a lot of back and forth\n* A motion heavy landing page with the gsap skill, then the optimize skill to win the speed back\n* Screenshot based verification pulled from the global CLAUDE.md instead of a full browser every pass\n* The goal-writer skill, so you never write the \"make this a goal\" line twice\n* A loop engineering example: 38 minutes unattended, one error left, and why a screenshot could never catch a blinking mascot\n\nSetup: GitHub, Supabase, Vercel\n\n* Why your project needs a repo, a database and a deployment, explained for non developers\n* You make three accounts with Google login and configure nothing\n* The agent does the rest through each platform's CLI, including the auth step you paste into a second terminal\n* The Vercel deploy skill and the Supabase skills that auto invoke when the agent needs them\n\nLevel 2: the software factory loop engineering workflow\n\n* Planning several features at once and running them as one queue instead of one feature at a time\n* Why you build a clickable prototype first: to find out if you wanted the thing you described, and to give the loop something to verify against\n* The new-feature and functional-ui skills, and the mocks folder that holds a working fake version of the app\n* The rule that matters most: the agent that does the work never verifies the work\n* Subagent builds on a branch, adversarial review agent assumes there is a bug, main agent loops until the row is ticked\n* feature-batch and a queue.md table, with the goal running until nothing is left in todo or building\n* Pull requests with screenshots attached, plus how to check the branch locally before you merge\n* Merge to main, Vercel picks it up, and the feature is live for users\n\nLevel 3: get off the laptop\n\n* The only two jobs left: plan the feature, approve the merge. Neither needs a keyboard\n* Paseo, a free app that runs Claude Code on your own machine and gives you a window into it from your phone, so your skills and logged in CLIs keep working\n* Why we skipped Claude Code's built in remote control: no skills menu. In Paseo, /goal and every slash command still work\n* The mobile preview skill, which deploys the HTML mocks as free Vercel links so you can click through a prototype on your phone instead of squinting at images\n\n00:00 Intro\n00:46 What A Loop Is\n02:08 The Project\n04:32 Level 1\n07:58 The Goal Writer Skill\n08:57 Setup\n11:11 Platform Skills\n11:53 Sponsor\n12:46 Level 2\n16:14 The Functional UI Skill\n17:51 The Feature Batch Skill\n20:13 Level 3\n22:34 Mobile Preview Skill\n\nHashtags:\n#ai #claude #claudeCode #codex #chatgpt #claudeAi #aiAutomation #loopEngineering",
-      "commentCount": 8,
-      "likeCount": 181,
-      "probeClient": "web_embedded"
-    },
     "xfPD-V5NUqk": {
       "checkedAt": "2026-08-19T06:53:22Z",
       "embedAllowed": true,
@@ -8038,15 +7943,6 @@
       "availability": "public",
       "description": "A groundbreaking new artificial intelligence system has demonstrated the ability to pinpoint a user's exact geographical location with over 87% accuracy using nothing more than a single photograph. This alarming development highlights rapid advancements in computer vision, visual geo-localization, and machine learning algorithms that analyze subtle background environmental cues like architecture, vegetation, lighting, and shadow patterns.\n\n#artificialintelligence #gps #wion \n\nAbout Channel: \n\nWION The World is One News examines global issues with in-depth analysis. We provide much more than the news of the day. Our aim is to empower people to explore their world. With our Global headquarters in New Delhi, we bring you news on the hour, by the hour. We deliver information that is not biased. We are journalists who are neutral to the core and non-partisan when it comes to world politics. People are tired of biased reportage and we stand for a globalized united world. So for us, the World is truly One.\n \nPlease keep discussions on this channel clean and respectful and refrain from using racist or sexist slurs and personal insults.\n\nSubscribe to our channel at https://goo.gl/JfY3NI\nCheck out our website: http://www.wionews.com\nJoin our WhatsApp Channel: https://bit.ly/455YOQ0\nConnect with us on our social media handles:\nFacebook: https://www.facebook.com/WIONews\nTwitter: https://twitter.com/WIONews\nInstagram: https://www.instagram.com/wionews/\nFollow us on Google News for the latest updates\n\nZee News:- https://bit.ly/2Ac5G60\nZee Business:- https://bit.ly/36vI2xa\nDNA India:- https://bit.ly/2ZDuLRY\nWION: https://bit.ly/3gnDb5J\nZee News Apps: https://bit.ly/ZeeNewsApps",
       "commentCount": 2,
-      "likeCount": 4,
-      "probeClient": "web_embedded"
-    },
-    "y5B_XYlR4SA": {
-      "checkedAt": "2026-08-19T08:53:23Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "The European Union is intensifying efforts to become a global leader in artificial intelligence. With billions in planned investment, the EU is trying to catch up with the United States and China. \n\nAnalysts say a turbocharged effort is needed to close the technology gap with the US and China.\n\nCGTN's William Denselow reports\n\n#eu #europeanunion #ai #tech",
-      "commentCount": 4,
       "likeCount": 4,
       "probeClient": "web_embedded"
     },
@@ -8706,6 +8602,81 @@
       "description": "🎟️ Use Discount Code for extra saving: \"SHUYT\"\nPabbly Connect Website: https://www.pabbly.com/out/pabbly-connect\nPricing Details: https://www.pabbly.com/out/connect-pricing\n\nWorkflow Link :-\nhttps://connect.pabbly.com/v2/app/workflow/share/CkJZawBXUzBQGgZsAGUHIAAUBABTCVFsVk8HFVBfAHgATlYtUBENZ18TByUCYwNiVh8EbgJdBGUBFQYCA1UHdFVPCDRTUAJ4BksJOlAVDzwKVFlxAGE# \n____________________________________________________________________\nWant to automatically send order confirmation messages to your WooCommerce customers? In this tutorial, you'll learn how to set up a no-code automation that sends customers their order confirmation as soon as a new order is placed.\n\nWhenever a customer completes a purchase, the workflow can automatically capture the order details and send a confirmation message with important information such as the order number, products, amount, and other order details.\n\nThis helps reduce manual work, keep customers updated, and improve the overall post-purchase experience. You can build this workflow without coding using Pabbly Connect.\n\nThis automation is perfect for WooCommerce store owners, ecommerce businesses, online retailers, D2C brands, and agencies managing WooCommerce stores.\n\nQueries:\nWooCommerce order confirmation automation\nsend WooCommerce order confirmation\nWooCommerce customer notification\nWooCommerce automation without coding\nPabbly Connect WooCommerce\n\n#WooCommerce #WooCommerceAutomation #PabblyConnect #EcommerceAutomation #OrderConfirmation #CustomerNotifications #NoCode #BusinessAutomation #Automation #OnlineStore\n\nUse Case :-\nWhenever a customer places a new order on your WooCommerce store, the automation automatically sends a personalized order confirmation email to the customer via Gmail. The email includes the order number, purchased products, quantity, total amount, payment status, shipping details, and order date, giving customers instant confirmation that their order has been successfully received\n____________________________________________________________________\n\nPabbly Connect makes it easy to integrate and automate any software, marketing, sales, payments, or business processes quickly, without the need for any programming knowledge.\n\nBenefits of Pabbly Connect:\n\n1. Automation: Save time, money, and resources by automating tasks.\n\n2. Integration: Connect various web services to create efficient workflows.\n\n3. Security: Enjoy industry-standard security for your data.\n\n4. Scalability: Easily add new applications and services to your workflow.\n\n5. Cost-effective: Choose from plans suitable for different business sizes, with no charges for internal tasks.\n\nUnlike other integration tools, Pabbly Connect offers absolutely no charges for internal tasks such as mathematical operations, spreadsheet functions, time zone conversions and more. Additionally, you can create unlimited automation workflows for your business without any restrictions.\n\n-----------------------------------------------------------------------------------------------------\n\nAdditional Resources:\n\n📢 All Integrations: https://www.pabbly.com/out/all-integrations\n\n ❓Talk to our team at: support@pabbly.com\n\n ❓Ask your queries in Pabbly Forum: https://forum.pabbly.com/\n\n 📘Join the Pabbly Community & Grow Your Business 🚀 : https://pabbly.com/community\n\n\nDisclaimer: All Names, Mobile Numbers, and Emails used in the video are just for demo purposes. This is an educational video showing how to automate and integrate multiple platforms.",
       "commentCount": 0,
       "likeCount": 9,
+      "probeClient": "web_embedded"
+    },
+    "pal-C77oVl0": {
+      "checkedAt": "2026-08-19T18:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Ship agents without code: https://www.skool.com/ai-inner-circle/about\n\nHow to Ship an AI Agent Inside Your App With Claude Managed Agents (No Code)\n\nClaude Managed Agents let you embed a fully autonomous AI agent inside your application without building the agent loop, tool execution, or runtime yourself. I build a real customer support agent for my app TiltIt, first from the Anthropic dashboard and then straight from the CLI, and show why the CLI version wins every time. You'll also see exactly how tokens, tools, and pricing work before you spend a single API credit.\n\nIn this video you'll learn:\n• How to build a Managed Agent from scratch, zero code\n• What agents, environments, sessions, and events actually mean\n• Why CLI-built agents beat dashboard-built agents every time\n• The real pricing: Claude Routines vs Managed Agents\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"AGENTS\" and I'll DM you the full checklist with every step, tool call, and setup order to ship your first Managed Agent.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 Live demo — an AI agent answers my customers for me\n1:36 Playground — simulate Claude responses in the backend\n2:21 Models + advanced config (fallback, thinking, speed, temperature)\n3:15 Tool calls (web fetch, structured output, advisor, computer use)\n4:36 The 3 roles — system, user, assistant messages\n6:13 Running the request + understanding token costs\n8:04 What Claude Managed Agents actually are\n8:59 The 4 core concepts (agent, environment, session, events)\n10:12 Building one from the dashboard (Quick Start + test run)\n13:28 Building from the Anthropic CLI inside your codebase\n14:15 Dashboard vs CLI agents compared\n18:10 The 8 built-in tools (bash, read, write, edit, glob, grep, web)\n21:47 Claude Routines vs Managed Agents\n23:11 Pricing — Max plan vs API credits ($0.08/hour sessions)\n\n#claudeai #aiagents #leadgenman",
+      "commentCount": 1,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "WfqRr8WhnQM": {
+      "checkedAt": "2026-08-19T18:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 6,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-19T18:53:33Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "6AgndHSkHFI": {
+      "checkedAt": "2026-08-19T18:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Stop the technical debt apocalypse! Learn how to use Habit Hooks to give your AI coding agents better habits for clean code and refactoring.\n\nDiscover how to achieve an 80%+ fix rate by pairing sensor prompts with refactoring guidance, shifting AI programming away from gaming metrics to true software development.\n\n-\n\n🧠 OUR SOFTWARE ENGINEERING TRAINING COURSES: https://courses.cd.training/ \n\n-\n\n♻️  TAKE YOUR REFACTORING SKILLS TO THE NEXT LEVEL:\n\nCheck out Dave Farley’s FREE Refactoring Tutorial, a practical, hands-on course that will help you improve code quality, tackle technical debt, and make your software easier to change.\n\n👉 Start learning now: https://courses.cd.training/courses/refactoring-tutorial\n\n-\n\nEmily on X ➡️ https://x.com/emilybache\nEmily on LinkedIn ➡️ https://www.linkedin.com/in/emilybache/\nEmily on bluesky ➡️ https://bsky.app/profile/emilybache.com\nEmily on YouTube ➡️ https://www.youtube.com/@EmilyBache-tech-coach\n\nModern Software Engineering on X ➡️ https://x.com/ModernSoftwareX\nModern Software Engineering on LinkedIn ➡️ https://www.linkedin.com/company/modern-software-engineering\nModern Software Engineering on bluesky ➡️ https://bsky.app/profile/modernswe.bsky.social\n\n-\n\nLiina Suoniemi's graph from study that Emily refers to in the video ➡️ https://github.com/LiinaSuoniemi/prompt-vs-metric-eval/blob/main/results/chart.png\n\n-\n\n⭐ PATREON:\n\nSupport Emily on Patreon here ➡️ https://www.patreon.com/EmilyBache\n\nJoin the Continuous Delivery community and access extra perks & content! ➡️ https://bit.ly/ContinuousDeliveryPatreon \n\n🎥 Join Us On TikTok ➡️ https://www.tiktok.com/@modern.s.engineering\n\n-\n\nCHANNEL SPONSORS:\n\nOctopus Deploy sets the standard for Continuous Delivery (CD), empowering software teams to deliver value in an agile way. Globally, more than 4,000 organizations rely on its Continuous Delivery, GitOps, and release orchestration solutions to deliver swift value to their customers. Octopus efficiently orchestrates software delivery across multi-cloud, Kubernetes, data centers, and hybrid environments, whether containerized modern apps or heritage applications. With governance, risk, and compliance (GRC) at its core, Octopus supports Platform Engineering teams in their mission to provide a superior developer experience (DevEx). Octopus also actively contributes to the developer community with open-source projects. ➡️ https://bit.ly/MSExOCTDEP\n\nEqual Experts is a product software development consultancy with a network of over 1,000 experienced technology consultants globally. They increase the pace of innovation by using modern software engineering practices that embrace Continuous Delivery, Security, and Operability from the outset ➡️ https://bit.ly/3ASy8n0\n\nTransFICC provides low-latency connectivity, automated trading workflows and e-trading systems for Fixed Income and Derivatives. TransFICC resolves the issue of market fragmentation by providing banks and asset managers with a unified low-latency, robust and scalable API, which provides connectivity to multiple trading venues while supporting numerous complex workflows across asset classes such as Rates and Credit Bonds, Repos, Mortgage-Backed Securities and Interest Rate Swaps ➡️ https://transficc.com\n\n-\n\n#ai #codingwithai #claudecode #copilot #chatgpt #softwareengineering",
+      "commentCount": 2,
+      "likeCount": 43,
+      "probeClient": "web_embedded"
+    },
+    "vKg3EPvuqP8": {
+      "checkedAt": "2026-08-19T18:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "How is AI changing Software Engineering jobs? When AI can write code, what makes a software engineer great?\n\nIn this episode of The Future of Less Work, host Nirit Cohen sits down with Mo Bhende, co-founder and CEO of Karat, to explore how AI is reshaping software engineering, technical hiring and the future of engineering talent.\n\nTogether, they discuss why AI is not eliminating the need for engineers, but moving engineering work closer to real business problems. Mo explains why strong engineers may become even more valuable in the AI era, why companies need to rethink technical interviews, and how entry-level engineering jobs can be rebuilt around AI fluency, judgment and domain expertise.\n\nWhether you’re hiring technical talent, leading AI transformation or starting a software engineering career, this conversation offers a practical look at what changes when AI becomes part of the engineering team.\n\nGuest Information: \n\nMo Bhende is the co-founder and CEO of Karat. Karat is the trusted standard for talent evaluation and improvement that helps leaders build more capable and competitive workforces in the Human + AI era. Before Karat, Mo held leadership roles at Microsoft, leading global strategy for Xbox and overseeing the company's China fund. He holds an MBA from Wharton, an MPhil from the University of Cambridge, and a BS with Honors from Penn State. Mo resides with his family in Seattle.\n\nLinks:\nKarat’s 2025-2026 Workforce Transformation Report: https://connect.karat.com/hubfs/2025-2026-AI-Workforce-Transformation-Report.pdf\n\nChapters:\n00:00 What Makes a Great Software Engineer When AI Can Code?\n01:25 Will AI Replace Software Engineers?\n02:49 Why Engineering Jobs Are Moving Beyond Big Tech\n04:30 What Is the Future of Entry-Level Software Engineering?\n06:50 Why Software Engineering Is More Than Writing Code\n09:10 Why Strong Engineers Become More Valuable With AI\n11:45 How Companies Should Measure Engineering Value\n14:45 How AI Is Changing Technical Interviews\n17:04 What Skills Define the Engineer of the Future?\n19:02 Why Engineering Managers Need to Become Builders\n20:53 How New Software Engineers Can Build AI-Era Careers\n23:53 Why Future Engineers Need More Than Computer Science\n25:48 What Will Software Engineering Look Like in the Future?\n28:44 How Should Companies Compensate AI-Era Talent?\n\n----\nWelcome to the Future of Less Work!\n\nI’m Nirit Cohen, a Forbes columnist, international keynote speaker, and former senior HR executive with 30 years at Intel. On this channel, I explore how work is changing—across careers, leadership, HR, organizations, and education—through global trends like AI, flexibility, and workforce transformation.\n\n📌 Each week, I share sharp insights and in-depth conversations with global thought leaders to help you understand what’s changing, why it matters, and how to stay ahead.\n\n🔔 Subscribe for weekly videos: https://www.youtube.com/@NiritCohen?sub_confirmation=1\n🎙️ Listen on your favorite platform: https://workfutures.niritcohen.com/podcast/\n💼 Visit Nirit’s website: https://workfutures.niritcohen.com/\n📩 For speaking inquiries & collaborations email: nirit@niritcohen.com\n🌲All my content in one place: 🌲https://linktr.ee/niritcohen\n\nLet’s shape the future of work together!",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "sCuwvi3flh8": {
+      "checkedAt": "2026-08-19T18:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "How close are we to software development where AI handles the entire loop—from product discovery and UX to coding, review, deployment, and monitoring? This discussion presents a practical readiness framework for deciding what can be automated now, what still needs human oversight, and how to remove the next bottleneck.\n\nYou'll learn how to:\n• assess software, infrastructure, company, and personal AI readiness\n• prepare codebases, tests, deployment, data access, and feedback loops for AI agents\n• improve product management, UX, coding, review, and DevOps workflows\n• use criticality gates while reducing repetitive human approvals and micro-work\n• choose practical next steps toward increasingly autonomous software development\n\nLearn AI in C# with the Microsoft Agent Framework:\nhttps://www.udemy.com/course/ai-in-c-sharp-using-the-microsoft-agent-framework/?referralCode=34AF1BFA81E5E0C407A2\n\nMicrosoft Agent Framework playlist:\nhttps://youtube.com/playlist?list=PLhGl0l5La4sYXjYOBv7h9l7x6qNuW34Cx\n\nChapters\n00:00 The fully automated development question\n02:47 The journey from manual coding to AI teams\n06:16 Software preparedness\n13:43 Infrastructure and access\n16:25 Company readiness\n22:00 Personal readiness\n31:27 Connecting readiness to AI roles\n37:50 General initiatives for better AI agents\n45:00 Product management and customer feedback\n48:32 UX and design systems\n48:57 Coding practices and testability\n53:46 Automated AI code reviews\n55:23 DevOps, deployment, and monitoring\n59:23 Criticality gates and operational risks\n01:00:55 Conflicting parallel work\n01:02:23 Practical next steps and eliminating micro-work\n01:09:01 Final perspective\n\nGitHub: https://github.com/rwjdk\n\n#AI #SoftwareDevelopment #AIAgents",
+      "commentCount": 0,
+      "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "QkFe0N0z4Mg": {
+      "checkedAt": "2026-08-19T18:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Are you using AI to build a blueprint for success, or just adding complexity? This conversation cuts through the noise.\n\nMost teams treat AI as a magic solution, but John Roche and Piyush Thacker argue that the real problems with AI stem from a lack of clear intent. This podcast explores why speed and impressive tooling mean nothing if you have lost sight of the actual business problem you are trying to solve. You will learn how to shift your focus from simply using AI for automation to ensuring your strategy actually delivers value.\n\nThroughout this discussion, we examine the tension between speed and human judgment. While software teams are busy using AI to draft code, someone still needs to verify if the blueprint holds up under pressure. If you are struggling to align your technical roadmap with your team's objectives, this breakdown offers a fresh perspective on how to stop guessing and start building with purpose.\n\nSubscribe for weekly strategy breakdowns, and let us know in the comments: what is the biggest challenge your team faces when implementing new tools?",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "1MMqPTiWfSc": {
+      "checkedAt": "2026-08-19T18:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "✅ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4g57yyR\n\n👥 Are you building an AI software company? Partner with me: https://go.danmartell.com/4zpQqLB\n\n🔥 Join the waitlist for Apex: https://go.danmartell.com/4gEIqiv\n\nI build AI products every single day through my company Martell Ventures, and I use AI in basically everything I do.\n\nSo I pulled together the questions people ask me the most and answered every one of them the way I would actually solve it myself.\n\nWe get into real problems, from productivity and goals to finances, meetings, and building software without writing a line of code, and for each one I tell you the exact tool I reach for and why. Watch to the end, because the skill that matters most is not the tool, it is the one thing that makes all of them work.\n\nTools mentioned:\nWispr Flow: https://wisprflow.ai\nClaude: https://claude.ai\nPerplexity: https://perplexity.ai\nNotebookLM: https://notebooklm.google.com\nChatGPT: https://chat.openai.com\nCodex: https://chatgpt.com/codex\nObsidian: https://obsidian.md\nHelloFrank: https://hellofrank.ai/start\nPrecision: https://www.precision.co/\n\n▸▸ Subscribe to The Martell Method Newsletter: https://bit.ly/3XEBXez\n\n▸▸ Get My New Book (Buy Back Your Time): https://bit.ly/3pCTG78\n\nIG: @danmartell",
+      "commentCount": 144,
+      "likeCount": 960,
+      "probeClient": "web_embedded"
+    },
+    "9Tlm6bDPukg": {
+      "checkedAt": "2026-08-19T18:53:33Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥 Developer Bootcamp & Mentoring Program — Start or level up your career with my proven training and personal mentoring:\nhttps://unclestef.com/\n\nStudioweb AI Literacy curriculum:\nhttps://blog.studioweb.com/2026/08/12/studioweb-ai-principles/\n\n🦎 Lizard Wizard Course\nMaster the psychology of learning, habits, and performance — a must for developers and entrepreneurs:\nhttps://school.studioweb.com/store/course/lizard_wizard\n\n🚀 1-on-1 Mentoring & Consultations\n\nCareer Consult — $99 for 15 minutes:\nhttps://calendly.com/uncle-stef/consultation-with-stefan\n\nEntrepreneur / Business Consult — $250 for 30–45 minutes:\nhttps://calendly.com/uncle-stef/entrepreneurs-consult\n\nSponsored Video — Get your questions answered in a video:\nhttps://unclestef.com/blog/2025/03/04/sponsored-video-request/\n\n💻 Popular Courses\n\nPython 3 Foundations & Certification:\nhttps://school.studioweb.com/store/course/python_3_foundations__&_certification_package\n\nFull Stack Web Developer:\nhttps://school.studioweb.com/store/course/complete_web_developer\n\nComplete Freelancer:\nhttps://school.studioweb.com/store/course/complete_freelancer\n\nComplete Entrepreneur:\nhttps://school.studioweb.com/store/course/complete_web_entrepreneur\n\n📱 Stay Connected\nInstagram: https://www.instagram.com/stefanmischook/?hl=en\n\nBusiness Channel: https://www.youtube.com/channel/UCZdr0ql_B240VBVINAX7Acg\n\nGoogle Review: https://g.page/studioWebedu/review?mt",
+      "commentCount": 20,
+      "likeCount": 62,
       "probeClient": "web_embedded"
     }
   }

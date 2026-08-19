@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T17:53:32Z",
+  "updatedAt": "2026-08-19T18:53:33Z",
   "items": [
+    {
+      "id": "pal-C77oVl0",
+      "type": "long",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-19T18:34:39Z",
+      "firstSeenAt": "2026-08-19T18:53:33Z"
+    },
+    {
+      "id": "WfqRr8WhnQM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-19T18:15:04Z",
+      "firstSeenAt": "2026-08-19T18:53:33Z"
+    },
+    {
+      "id": "6AgndHSkHFI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Modern Software Engineering",
+      "publishedAt": "2026-08-19T18:00:33Z",
+      "firstSeenAt": "2026-08-19T18:53:33Z"
+    },
+    {
+      "id": "vKg3EPvuqP8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nirit Cohen : The Future of Less Work",
+      "publishedAt": "2026-08-19T14:53:33Z",
+      "firstSeenAt": "2026-08-19T18:53:33Z"
+    },
+    {
+      "id": "sCuwvi3flh8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI in C# (Rasmus Wulff Jensen)",
+      "publishedAt": "2026-08-19T14:53:33Z",
+      "firstSeenAt": "2026-08-19T18:53:33Z"
+    },
+    {
+      "id": "QkFe0N0z4Mg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Piyush Thacker",
+      "publishedAt": "2026-08-19T13:53:33Z",
+      "firstSeenAt": "2026-08-19T18:53:33Z"
+    },
+    {
+      "id": "1MMqPTiWfSc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dan Martell",
+      "publishedAt": "2026-08-19T13:53:33Z",
+      "firstSeenAt": "2026-08-19T18:53:33Z"
+    },
+    {
+      "id": "9Tlm6bDPukg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-08-18T20:53:33Z",
+      "firstSeenAt": "2026-08-19T18:53:33Z"
+    },
     {
       "id": "vQA6SR3e7-M",
       "type": "short",
@@ -19165,6 +19229,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-19T18:53:33Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
