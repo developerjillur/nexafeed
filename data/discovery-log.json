@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T09:53:06Z",
+  "updatedAt": "2026-08-19T10:53:48Z",
   "items": [
+    {
+      "id": "0qzE1z7VyR0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ittahad Akash",
+      "publishedAt": "2026-08-19T08:53:48Z",
+      "firstSeenAt": "2026-08-19T10:53:48Z"
+    },
+    {
+      "id": "oiG3RGKz8FI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Syncfusion, Inc",
+      "publishedAt": "2026-08-19T05:53:48Z",
+      "firstSeenAt": "2026-08-19T10:53:48Z"
+    },
+    {
+      "id": "MHA1tVGie4Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Brodie Robertson",
+      "publishedAt": "2026-08-18T17:53:48Z",
+      "firstSeenAt": "2026-08-19T10:53:48Z"
+    },
+    {
+      "id": "eZTp-StPc2s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Iman Musa",
+      "publishedAt": "2026-08-18T17:53:48Z",
+      "firstSeenAt": "2026-08-19T10:53:48Z"
+    },
     {
       "id": "p5xnr5RpxTw",
       "type": "long",
@@ -18766,6 +18798,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-19T10:53:48Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }

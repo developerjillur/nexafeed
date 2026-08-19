@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T09:53:06Z",
+  "updatedAt": "2026-08-19T10:53:48Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -7217,7 +7217,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-19T09:53:06Z",
+      "checkedAt": "2026-08-19T10:53:48Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7630,26 +7630,107 @@
       "probeClient": "web_embedded"
     },
     "eqMjVxKplgE": {
-      "checkedAt": "2026-08-18T10:53:05Z",
+      "checkedAt": "2026-08-19T10:53:48Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "In this short, I explain:\n✅ Sonnet 5 vs Sonnet 4.6\n✅ Sonnet 5 vs Opus 4.8\n✅ Coding Performance\n✅ Knowledge Benchmarks\n✅ Is Sonnet 5 Worth It?\n\nFollow CodingSimplifiedSpace for more AI updates and developer content.\n\nClaude Sonnet 5, Claude AI, Anthropic, Claude Sonnet 5 Review, Claude Sonnet 5 vs Opus 4.8, Claude Sonnet 5 vs Sonnet 4.6, Claude Update, AI News, AI Coding, AI for Developers, Claude Benchmarks, Anthropic AI, CodingSimplifiedSpace",
       "commentCount": 0,
-      "likeCount": 1,
+      "likeCount": 5,
       "comments": [],
-      "commentsFetchedAt": "2026-08-18T10:53:05Z",
+      "commentsFetchedAt": "2026-08-19T10:53:48Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "ZCj4uDCm9Yw": {
-      "checkedAt": "2026-08-18T10:53:05Z",
+      "checkedAt": "2026-08-19T10:53:48Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 3,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-18T10:53:05Z",
+      "commentCount": 8,
+      "likeCount": 355,
+      "comments": [
+        {
+          "id": "UgwPZoJ0QMzqanH02tJ4AaABAg",
+          "author": "@ASHISHSUNDERSHETTY",
+          "text": "Prompt",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_li0yM6cYLIOWjD11MRFrJBTyO1UpGuxl0HXyI_Shaix_AohWC1X6iVYA2plRVEmtsyaw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzGyHElJnsmDSZMfsl4AaABAg",
+          "author": "@rupeshdhoodhi-n5h",
+          "text": "Prompt",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mFJtBwqtipbI8n9jD6eUj1kgb61C1LOvDNnMEGQK1tJkGVm5JMsves7uYeZFZLGyYHbg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgynSJeyfuf6dZWpqkx4AaABAg",
+          "author": "@rayccxr2191",
+          "text": "Prompt",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k-jPQg1VLzMW6040SJpOQ85slL4JoFUf4qUFNnhRSVzLQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzwoVjfwIC25khi6ON4AaABAg",
+          "author": "@IBRAHIMAFALL-e8m",
+          "text": "Prompt",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kfBWzgfHn_NOhyxXs3rKlvQuHZKqfA1ZMrxZMUGQkjW8Dqu0CswMyWj8F3pmGfexqucg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy7NFXdVhVmNxQkafl4AaABAg",
+          "author": "@erumshamsi4481",
+          "text": "prompts",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nhIZn60SqtIt4QOEN4SN9zfOM7mZ1W4P2VeD33gJ4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwZ0tIFYHc0yfN50QN4AaABAg",
+          "author": "@ajlrsharma",
+          "text": "Peompt",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kccWZG6ZcAAWhDoIi7jMA-pmqerknb505rJK79iEd-970=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwiQ_KEYuDrYeuJWEd4AaABAg",
+          "author": "@tahiruddin367",
+          "text": "prompt",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_neAulqmMJqUthuKUlqwYczR-o46lmi8mlpbBW3jm9iMpM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxTsRm935deBhPb8oR4AaABAg",
+          "author": "@techtalkDeepAI",
+          "text": "AI avatar",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/wG6x0aT7kVWyqE1VGTo84wRsruD7trjIBF2dMHGwhPeeTC2jcDdsGQ-FlvGDLYQFKk6oNuE1tE0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-19T10:53:48Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -8036,7 +8117,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T09:53:06Z",
+      "checkedAt": "2026-08-19T10:53:48Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8050,14 +8131,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-18T17:53:10Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "PdFggS28r2M": {
-      "checkedAt": "2026-08-18T17:53:10Z",
-      "embedAllowed": true,
-      "description": "FREE GUIDE: 📘 The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/\n\nAI agents are now completing entire college courses — logging into Canvas, taking the quizzes, writing the papers, and posing as the student in class discussions.\n\nThe New York Times just documented the escalation, and it moves way past pasting essay prompts into ChatGPT. Over half of US college students now take online classes — exactly the part an agent can finish unseen.\n\nWhat you'll learn:\n✅ How one prompt hands an entire course to an agent\n✅ Why ChatGPT, Gemini, and Grammarly all failed the NYT test\n✅ What survives when machines can do the coursework\n\nIf a machine can complete the course, what was it actually measuring?\n\n#AI #AIAgents #FutureOfWork\n\nFirst Movers is Julia's AI company focused on helping working professionals and founders create massive efficiency in their businesses and workplaces.\n\nFREE GUIDE: 📘 The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/\n\nHIRE JULIA: Done-for-You Clone & In-Person Mastermind w/Julia: – https://FirstMovers.ai/Clone-Me/\n\nLEARN FROM JULIA: Join 400+ AI newcomers in the AI Labs: – https://FirstMovers.ai/Labs/\nUse Code FIRSTMOVER to save $50 EACH month.\n\nCONNECT\nTwitter: https://twitter.com/juliaemccoy/\nYouTube: https://www.youtube.com/juliamccoy\nLinkedIn: https://www.linkedin.com/in/juliaemccoy/\n\nTUTORIALS & TOOLS\n🦾 How Julia Built Dr. McCoy: https://FirstMovers.ai/CloneTutorial",
-      "commentCount": 11,
-      "likeCount": 98,
       "probeClient": "web_embedded"
     },
     "NZYyUcq2APg": {
@@ -8327,15 +8400,6 @@
       "likeCount": 49,
       "probeClient": "web_embedded"
     },
-    "8eNcZR-bMAg": {
-      "checkedAt": "2026-08-19T02:53:19Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "👉 Connect on WhatsApp : https://wa.link/r12ynr\n\n👉 Quality Lead Generation System : https://youtu.be/VdUFuWRzldg?si=oIM8bgSBUx431uQP\n\n👉 Demo -  My Network Marketing Automation System - https://forms.gle/WgVCdPsGLwAcRjvSA\n\n🚀 Welcome to the channel where network marketing meets smart systems and real scalability.\n\nIf you’re in network marketing (or planning to start) and you’re tired of:\nchasing people, awkward follow-ups, and convincing uninterested prospects…this space is built for you.\n\nHere’s what you’ll actually learn here:\n\n ✅ How to build your network marketing business using digital systems\n ✅ Automated lead generation & onboarding (so you stop “pushing” and start attracting)\n ✅ Ethical, pressure-free ways to create long-term income\n ✅ Simple product positioning so customers understand, trust, and stay\n ✅ Real mindset frameworks to scale without burnout or hype\n\n🎯 Mission:\n\n Help 10,000+ network marketers upgrade from outdated hustle to system-driven growth—so your business runs with you, not on you.\n\n👉 Subscribe if you’re serious about building a modern, scalable network marketing business.\n\n📌 Important Notes:\n\n ✅ This is a business model—not a guaranteed income or job\n ✅ Results depend on skills, consistency, and execution\n\n📢 Stay Connected. Build smart. Grow clean.\n\nMusic Credits : \nMusic: Endless Possibilities \nMusician: VN VideoEditor\n\n \n#foreverlivingproducts, #foreverlivingbusiness, #flp, #flpbusiness, #flpbusinessplan, #flpmarketingplan, #2cc, #4cc, #foreverlivingindia, #networkmarketing, \n\nForever Living Business, Forever Living Business Plan, Forever Living Business Model, Forever Living India, Forever Living Opportunity, Forever Living Company, Forever Living Review, Forever Living Business Hindi, Forever Living Products, Forever Living Products India, Forever Living Products Business, Forever Living Products Business Plan Hindi, Forever Living Products Work From Home, Forever Living Products Part Time Work, Forever Living Products Joining Process, Forever Living Products Joining Fee, Forever Living Products Sponsor ID, Forever Living Products Business Opportunity, Forever Living Products Company Details, Forever Living Products Me Kya Karna Hota Hai, Forever Living Products Me Online Kaam Kaise Kare, Forever Living Products Kaise Sell Kare, Forever Living Products Customers Kaise Banaye, Forever Living Products Leads Kaise Generate Kare, Forever Living Products Profile, Forever Living Products Interview Questions, Forever Living Products Invitation, Forever Living Products Training, Forever Living Products Login, Forever Living Products App, Forever Living Products Levels, Forever Living Products Salary, Forever Living Products Exposed, Forever Living Products Fake Or Real, Forever Living Products Scam Or Real, Forever Living Products Fraud Hai Kya, Forever Living Products Mehenga Kyu Hai, Forever Living Products All Products List, Forever Living Products Office India, Forever Living Products Price List, Forever Living Products Buy Online, Forever Living Products Retail, Forever Living Products Automation, Forever Living Products Business Explained, Forever Living Business Explained, How Forever Living Works, How To Join Forever Living Products Business, How To Build Forever Living Business, How To Sell Forever Living Products Online, How To Retail Forever Living Products, How To Complete 2CC, 2CC Kya Hai, 2CC Kaise Complete Kare, 4CC Kya Hai, 4CC Kaise Kare Har Mahine, Kya 4CC Karna Zaroori Hai, FLP Kaise Join Kare, Forever Kaise Join Kare, FLP Free Joining, FLP Me ID Kaise Banaye, FLP Business Plan, FLP Kya Hai, FLP Business Model, FLP Opportunity, FLP Automation, FLP Customers Kaise Mile, FLP Leads Kaise Generate Kare, FLP Profile, Aloe Vera Gel, Forever Aloe Vera Gel, Aloe Berry Nectar, Forever Aloe Berry Nectar, Aloe Turm, Forever Argi Plus, Forever Active HA, Forever Bee Honey, Forever Arctic Sea, Forever Freedom, Forever Bee Propolis, Forever Move, Forever Lycium Plus, Forever Garlic Thyme, Aloe Heat Lotion, Vitolize Men, iVision Forever, Immublend, Nature Min, Aloe Vera Gelly, Forever Fiber, Forever Active Pro-B, Radiance Face Wash, Radiance Moisturiser, Forever Dream & Desire, Aloe Ever-Shield Deodorant, Jojoba Shampoo, Forever Toothgel, Forever Bright Toothgel, Lip Balm, Scrub, Toner, Eye Cream, Vitamin C, Bhringraj Oil, Forever Living Products For Weight Loss, Forever Living Products For Skin Care, Forever Living Products For Acne, Forever Living Products For Pimples, Forever Living Products For Pigmentation, Forever Living Products For Hair Fall, Forever Living Products Hair Growth, Forever Living Products For Piles, Aloe Vera Gel Benefits, Aloe Vera Gelly Benefits, Forever Bee Honey Benefits, Jojoba Shampoo Benefits, Best MLM Company India, Direct Selling Business, Ethical Network Marketing, Network Marketing Business, Krishna Arora, Achievers Club, Team Fire 64, TLF Creators",
-      "commentCount": 3,
-      "likeCount": 7,
-      "probeClient": "web_embedded"
-    },
     "TMPUUyQC5aM": {
       "checkedAt": "2026-08-19T03:53:20Z",
       "embedAllowed": true,
@@ -8403,15 +8467,6 @@
       "description": "Guillermo Rauch, CEO of Vercel, returns to speedrun for the SR007 cohort to discuss how AI is reshaping software, why the future of the web is AI agentic development, and what it takes to build in an era where everyone can create with AI.\n\n💡 Are you a founder building the next big thing? Join Speedrun, the startup accelerator designed to help founders move fast with capital, mentorship, and top investors.\n\nChapters:\n00:00 - Intro\n00:43 - Intelligence is like tap water\n02:15 - Software Factory is the product now\n04:28 - Why Vercel decided to only use 1 agent\n07:44 - Moving from product-led-growth to agent-led-growth\n09:26 - How do founders think about defensibility in the long term\n12:16 - You have to fight average in the world in AI\n14:46 - Agent vs Human decision making\n18:02 - Why Vercel makes a hard problem easy\n21:48 - Should you only build with one model\n24:09 - Guillermo's Founders habits\n27:22 - What should founders be building?\n30:27 - Building a family and managing a startup\n\n👉 Apply now: https://speedrun.a16z.com/\n📲 Follow us for more insights:\nX (Twitter): https://x.com/speedrun\nLinkedIn: https://www.linkedin.com/school/a16zspeedrun/",
       "commentCount": 1,
       "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
-    "lI0WMeTEwYQ": {
-      "checkedAt": "2026-08-19T04:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Discover Hermes Bot Mode and learn how to create your own team of specialized AI agents for research, coding, code review, and more. See how multiple bots can work together to build a powerful AI workflow.\n\n\n\n\n=============================================\nFollow on twitter : https://x.com/Codedigipt\nFollow Codedigipt channel on WhatsApp: https://whatsapp.com/channel/0029Vb8SzEP89inlpgnxKE2i\n\n----------------------- Resources -----------------------------------------\nhttps://github.com/NousResearch/Hermes-Bot-Mode\n=============================================\n\n\n\n#OpenSourceAI #aicoding #aiagents  #artificialintelligence  #chatgpt  #claudecode  #automation  #aitools  #productivity  #technews  #ai2026 \n\n\nDisclaimer:\nThe content in this video is for informational and educational purposes only. All opinions expressed are my own. I am not a licensed professional, and this video should not be considered professional advice. Performance benchmarks are based on specific tests and may not reflect all use cases. Always do your own research and consult with a qualified expert where necessary.\nUse the information provided at your own risk.\nSome links or products mentioned may be affiliate links, which means I may earn a small commission at no extra cost to you. Thank you for your support!",
-      "commentCount": 4,
-      "likeCount": 62,
       "probeClient": "web_embedded"
     },
     "9I_GJ6omHIM": {
@@ -8504,15 +8559,6 @@
       "likeCount": 44,
       "probeClient": "web_embedded"
     },
-    "gYU9-dVdgkA": {
-      "checkedAt": "2026-08-19T07:53:23Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "👉Join the Rust Live Accelerator waitlist: https://letsgetrusty.com/join/wv-gYU9-dVdgkA\n\nCloudflare built Kitesurf, a new browser designed specifically for AI agents, using Rust and WebAssembly on Cloudflare Workers. This video breaks down why traditional browsers like Chromium are inefficient for agents, Kitesurf’s architecture and performance results, and what the project says about the growing role of Rust and AI-assisted software development.\n\nChapter\n0:00 Introduction\n0:22 Why Cloudflare Built an AI-First Browser\n1:29 What AI Agents Need From a Browser\n2:01 How Kitesurf Started\n2:44 Testing, Rust, and WebAssembly\n3:32 Security and Isolation\n3:55 Kitesurf Performance vs. Chromium\n5:06 Open Source Plans and the Rise of Rust\n5:36 AI-Assisted Rewrites and Rust",
-      "commentCount": 54,
-      "likeCount": 335,
-      "probeClient": "web_embedded"
-    },
     "JoLDB4Px-I8": {
       "checkedAt": "2026-08-19T08:53:23Z",
       "embedAllowed": true,
@@ -8547,6 +8593,42 @@
       "description": "How can you make your first YouTube video go viral? 🚀\n\nIn this video, I’m showing you the exact process I used to build and monetize a new YouTube automation channel in just 20 days.\n\nI’ll show you the complete workflow — from niche research, competitor analysis, script generation, thumbnails, AI video creation, metadata and uploading strategy to the key steps that can increase your chances of getting strong results from your first video.\n\nYou’ll also learn the importance of original content, niche selection, content strategy and proper execution instead of simply copying other channels.\n\nSubscribe to Qaiser Abbas Automation for practical YouTube Automation tutorials, AI tools and real case studies. 🔥",
       "commentCount": 30,
       "likeCount": 20,
+      "probeClient": "web_embedded"
+    },
+    "0qzE1z7VyR0": {
+      "checkedAt": "2026-08-19T10:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this Q&A video, I answer your questions about **software engineering, AI, programming careers, job opportunities in Bangladesh, and how to build the right skills for the future**.\n\nThe software engineering industry is changing rapidly because of AI, AI agents, and AI-powered development tools. So what does this mean for aspiring developers, freshers, junior software engineers, and even senior developers?\n\nChapters:\n00:00 Introduction\n00:40 Is CSE Still Worth It in 2026?\n02:16 Switching Career to Software Engineering\n03:35 C# / .NET Developer Roadmap\n05:07 How I Use AI for Coding\n07:23 Software Engineering Roadmap for Beginners\n08:11 Will AI Replace Software Engineers?\n10:07 How Freshers Can Get a Job\n13:04 GitHub Actions vs GitLab vs Jenkins\n14:11 Career Advice for Young Developers\n16:15 Java vs .NET vs MERN Stack\n17:40 AI, ML & Data Science Career\n18:05 Does University Matter for Getting a Job?\n19:02 Skills, Referrals & Getting Interviews\n\n\nIn this video, we discuss:\n\n🔹 Is Computer Science still worth studying in 2026?\n🔹 Should you switch careers and start learning software engineering?\n🔹 Is AI going to replace software engineers?\n🔹 What skills should software engineers learn in the AI era?\n🔹 C# / .NET Developer roadmap and recommended skills\n🔹 How to become a job-ready software engineer\n🔹 What freshers need to learn before applying for jobs\n🔹 How AI is changing software engineering jobs and hiring\n🔹 How senior software engineers are using AI for coding and problem solving\n🔹 How I use AI tools like Claude, Cursor, and ChatGPT in my daily workflow\n🔹 How AI can help with feature development, debugging, and problem solving\n🔹 React Developer roadmap and skills required to stand out\n🔹 GitHub Actions vs GitLab Pipelines vs Jenkins\n🔹 What DevOps and CI/CD tools are worth learning\n🔹 How long it can take to follow a complete software engineering roadmap\n🔹 How students and freshers can prepare for the competitive job market\n🔹 How to build an advantage over other developers using AI\n\nOne of the biggest takeaways from this discussion is that **learning software engineering is no longer just about writing code**. Developers need strong fundamentals, problem-solving ability, system design knowledge, architecture knowledge, and the ability to effectively use AI tools.\n\nFor students and freshers, this is especially important because the hiring process is changing and companies increasingly expect candidates to be more prepared before entering the industry.\n\nI also share my **Software Engineering Roadmap and .NET Developer Roadmap** through DailyPrep.dev, where you can find resources and structured learning paths for building your software engineering skills.\n\nIf you're a **CSE student, software engineer, aspiring developer, fresher, or someone trying to transition into tech**, this Q&A should give you a practical perspective on what to learn and how to prepare for the future.\n\n👉 Subscribe for more videos on **Software Engineering, AI, Programming, Career Advice, System Design, Developer Tools, and the Tech Industry**.\n\n💬 Have a question about software engineering or your career? Leave it in the comments. I may answer it in a future Q&A video.\n\n#SoftwareEngineering #AI #SoftwareEngineer #Programming #CSE #Coding #TechCareer #AIEngineering #SoftwareDeveloper #Bangladesh\n\n\n\n----------------------------------\nFor paid promotions, sponsorships, and collaborations, contact me at contact@ittahad.site\n\nFollow me on these platforms 🙏\n\nFacebook: https://www.facebook.com/ittahadakash\nInstagram: https://www.instagram.com/ittahadakash\nDiscord: https://discord.gg/xKJ2hV2hTA\nLinkedIn: https://linkedin.com/in/ittahad\n\nMy gadgets:\nKeyboard (RK 75): https://www.startech.com.bd/royal-kludge-rk-r75-mechanical-keyboard?tracking=686256f51868a\nLenovo Legion 5i: https://www.startech.com.bd/lenovo-legion-5-16irx9-core-i7-14th-gen-gaming-laptop?tracking=686256f51868a \nhttps://www.startech.com.bd/dji-osmo-action-4-adventure-combo-action-camera?tracking=686256f51868a\nDji Mic Mini: https://www.startech.com.bd/dji-mic-mini-wireless-microphone-system?tracking=686256f51868a",
+      "commentCount": 2,
+      "likeCount": 16,
+      "probeClient": "web_embedded"
+    },
+    "oiG3RGKz8FI": {
+      "checkedAt": "2026-08-19T10:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "For 25 years, software development has continually evolved through new platforms, frameworks, and technologies. Each era has introduced new ways for developers to build applications and new ecosystems that have shaped the future of software.\n\nIn this video we sit down with James Montemagno, Developer Community Lead at Microsoft, to reflect on the defining eras of modern software development.\n\nTogether, we discuss the transition from desktop applications and WinForms, to the rise of web development and open source, the mobile revolution with Xamarin, the evolution of the .NET ecosystem, and today's AI-powered development era.\n\nAlong the way, James shares stories from his own career, including his first experiences using Syncfusion controls, how developer communities have changed over the years, and why thriving ecosystems are just as important as the platforms themselves.\n\nWhether you've been building applications for decades or are just getting started, this conversation offers a thoughtful look at where software development has been and where it's headed next.\n\nWhat We Cover\n-----------------\n• The Desktop Era of software development\n• The rise of the Web and Open Source\n• How Xamarin changed mobile development\n• Why developer ecosystems matter\n• The role of third-party UI components\n• The evolution of .NET\n• How AI is shaping the next era of development\n\nLinks Mentioned\n-------------------\nJames Montemagno:\nWebsite: https://montemagno.com/\nGitHub: https://github.com/jamesmontemagno\nYouTube: https://www.youtube.com/@JamesMontemagno\nMerge Conflict Podcast: https://www.mergeconflict.fm/\nX: https://x.com/jamesmontemagno\n\nSyncfusion:\nSyncfusion: https://www.syncfusion.com/\n.NET Controls: https://www.syncfusion.com/dotnet-ui-controls\n.NET MAUI Controls: https://www.syncfusion.com/maui-controls\nBlazor Components: https://www.syncfusion.com/blazor-components\n\nTimestamps\n-------------\n[00:00] Introduction\n[00:34] Celebrating 25 Years of Syncfusion\n[02:36] Why Software Development Never Stops Evolving\n[04:40] The Desktop Era Begins\n[07:10] James' First Experience with Syncfusion\n[12:28] Third-Party Components in Early .NET\n[16:50] Learning Before YouTube & GitHub\n[18:02] The Web & Open Source Era\n[26:35] The Mobile Era\n[34:10] The Cloud Era\n[40:55] Xamarin & Building a Mobile Ecosystem\n[49:20] The AI Era\n[56:25] Looking Ahead\n[59:15] Final Thoughts\n\n\nSUBSCRIBE \n-------------  \nSyncfusion on YouTube: https://www.youtube.com/user/syncfusioninc     \nSign up to receive email updates: https://www.syncfusion.com/account/email-preference     \n\nSOCIAL COMMUNITIES \n----------------------------- \nFacebook: https://www.facebook.com/Syncfusion/ \nX: https://x.com/Syncfusion  \nLinkedIn: https://www.linkedin.com/company/syncfusion/ \nInstagram: https://www.instagram.com/syncfusionofficial    \n\n#dotnet #softwaredevelopment #syncfusion",
+      "commentCount": 0,
+      "likeCount": 5,
+      "probeClient": "web_embedded"
+    },
+    "MHA1tVGie4Q": {
+      "checkedAt": "2026-08-19T10:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Never did I think the day would come where Linux running on top of Windows with WSL would be more popular than just running Linux but that's where we are with Ubuntu now.\n\n==========Support The Channel==========\n► Patreon: https://brodierobertson.xyz/patreon\n► Paypal: https://brodierobertson.xyz/paypal\n► Liberapay: https://brodierobertson.xyz/liberapay\n► Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nArticle: www.windowslatest.com/2026/08/16/ubuntu-is-growing-faster-on-windows-11-than-on-native-linux-pcs-says-canonical/\n\n=========Video Platforms==========\n🎥 React: https://www.youtube.com/@BrodieRobertsonReacts\n🎥 Podcast: https://techovertea.xyz/youtube\n🎮 Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n🎤 Discord: https://brodierobertson.xyz/discord\n🐦 Twitter: https://brodierobertson.xyz/twitter\n🌐 Mastodon: https://brodierobertson.xyz/mastodon\n🖥️ GitHub: https://brodierobertson.xyz/github\n\n==========Credits==========\n🎨 Channel Art:\nProfile Picture:\nhttps://www.instagram.com/supercozman_draws/\n\n#Ubuntu #Linux #WSL #Windows\n\n🎵 Ending music\nTrack: Debris & Jonth - Game Time [NCS Release]\nMusic provided by NoCopyrightSounds.\nWatch:  https://www.youtube.com/watch?v=yDTvvOTie0w \nFree Download / Stream: http://ncs.io/GameTime\n\nDISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase I may receive a small commission or other compensation.",
+      "commentCount": 454,
+      "likeCount": 1139,
+      "probeClient": "web_embedded"
+    },
+    "eZTp-StPc2s": {
+      "checkedAt": "2026-08-19T10:53:48Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn how to work with me to land your first coding job:\nhttps://www.asapfrontend.com?utm_source=youtube&utm_medium=aug-2026&utm_campaign=4%2B+Years+as+a+Software+Developer.+Here%27s+What+I+Learned\n\nAfter more than four years in software development, I've learned that becoming a good programmer requires much more than just knowing how to code. In this video, I share the biggest software engineering lessons I've learned, including how to improve your programming skills, build real world projects, solve problems effectively, use AI coding tools, and avoid the mistakes that hold junior developers back. Whether you're a self taught programmer, computer science student, web developer, or aspiring software engineer, these lessons will help you learn coding faster, become a better developer, and build a successful career in tech in 2026.\n\nCHAPTERS:\n0:00 - 5 Lessons I Wish I Knew as a Developer\n0:40 - Build Projects Over Chasing Credentials\n2:31 - The Right Way to Ask for Help\n4:07 - Master the Fundamentals\n5:50 - Learn the Real Tools of the Job\n7:20 - Your Network Matters More Than You Think\n9:09 - The 5 Lessons That Fast-Track Your Career",
+      "commentCount": 0,
+      "likeCount": 18,
       "probeClient": "web_embedded"
     }
   }
