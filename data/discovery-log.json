@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T05:53:21Z",
+  "updatedAt": "2026-08-19T06:53:22Z",
   "items": [
+    {
+      "id": "xfPD-V5NUqk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech Builder Akash",
+      "publishedAt": "2026-08-18T21:53:22Z",
+      "firstSeenAt": "2026-08-19T06:53:22Z"
+    },
+    {
+      "id": "PLyRe6Zk--8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI LABS",
+      "publishedAt": "2026-08-18T19:53:22Z",
+      "firstSeenAt": "2026-08-19T06:53:22Z"
+    },
     {
       "id": "9I_GJ6omHIM",
       "type": "long",
@@ -18666,6 +18682,15 @@
       "channelsChecked": 33,
       "warnings": 32,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-19T06:53:22Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 33,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }

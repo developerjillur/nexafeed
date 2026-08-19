@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T05:53:21Z",
+  "updatedAt": "2026-08-19T06:53:22Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -3608,12 +3608,12 @@
       "probeClient": "web_embedded"
     },
     "81dFlPneh88": {
-      "checkedAt": "2026-08-12T05:53:43Z",
+      "checkedAt": "2026-08-19T06:53:22Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "👉 Full courses + unlimited support:\nhttps://www.skool.com/brendans-ai-launchpad?utm_source=youtube&utm_medium=video&utm_campaign=description&utm_content=81dFlPneh88\n📚 Free AI Resource Hub & Skool Community:\nhttps://www.skool.com/@brendan?utm_source=youtube&utm_medium=video&utm_campaign=description&utm_content=81dFlPneh88\n🤝 Work with me:\nhttps://www.inflate.agency/?utm_source=youtube&utm_medium=video&utm_campaign=description&utm_content=81dFlPneh88\n\n⚠️ 90% OF PEOPLE WATCHING ARE NOT SUBSCRIBED, PLEASE SUBSCRIBE NOW 👇\nhttps://www.youtube.com/channel/UCzIsviqoJc-VcWqF5Pp8iLw?sub_confirmation=1\n\nComplete deep dive into Grok Bot, the new product from xAI and Cursor that gives AI agents their own virtual computers running 24/7. \n\nThis video walks through setting up always-on bots, the teach a task demo recording feature, routines, the mobile app, and real use cases like monitoring pages, pulling newsletter stats from Beehive, and automating Skool community replies.\n\n📧 Sponsorship Inquiries: \nbrendan@inflate.agency\n\nMy Links 🔗\n👉 Subscribe: https://www.youtube.com/channel/UCzIsviqoJc-VcWqF5Pp8iLw?sub_confirmation=1\n👉 LinkedIn: https://www.linkedin.com/in/brendanjowett/\n👉 Twitter: https://twitter.com/jowettbrendan\n👉 Instagram: https://www.instagram.com/brendan.jowett\n\nTIMESTAMPS\n00:00 - What I'm covering\n00:37 - Virtual computer demo\n01:22 - What is Grok Bot?\n03:18 - Installation & setup\n04:03 - Creating your first bot\n05:25 - Virtual computer walkthrough\n06:47 - Shared VM across agents\n07:05 - Use-Case 1\n07:54 - Teaching a task via screen recording\n09:29 - Use-Case 2\n11:05 - Use-Case 3\n11:53 - Grok Bot vs Claude/ChatGPT/Codex\n14:47 - Safety of sandboxed virtual machines\n15:21 - Use-Case 4\n19:52 - Limitations of browser automation\n22:24 - Mobile app walkthrough\n24:44 - Best use cases\n25:23 - Final thoughts & pricing",
-      "commentCount": 1,
-      "likeCount": 2,
+      "commentCount": 33,
+      "likeCount": 101,
       "probeClient": "web_embedded"
     },
     "Z_fy0N5lYi8": {
@@ -7226,7 +7226,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-19T05:53:21Z",
+      "checkedAt": "2026-08-19T06:53:22Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7546,55 +7546,95 @@
       "probeClient": "web_embedded"
     },
     "fVnzsJ51SfE": {
-      "checkedAt": "2026-08-18T06:53:08Z",
+      "checkedAt": "2026-08-19T06:53:22Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
-      "commentCount": 4,
-      "likeCount": 47,
+      "commentCount": 8,
+      "likeCount": 613,
       "comments": [
         {
-          "id": "Ugx5MZlb4MH9fH1QX0d4AaABAg",
-          "author": "@ERAnoop-vt6ec",
-          "text": "Cockroaches got new identity",
+          "id": "UgxLUe4SF9IfViDM9294AaABAg",
+          "author": "@SatyanThukral",
+          "text": "Cockroach Janta Pyaare",
           "likeCount": 0,
-          "publishedAt": "2026-08-18T06:50:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nj7PAq489rI6NHK471MkFocojz6YJXKcDqEE2K1NQlj-I_sNgBPBPSsnyomX85OyBptw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-19T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nlxkq0VW8co7dC9lfFt15GXayTbSNDML9d3BpgouwevZ3K=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzJgyxOy6hhvtUA4zB4AaABAg",
-          "author": "@Gurwinderkailey",
-          "text": "Nice",
+          "id": "UgyApK6OMTO0lDdiv9F4AaABAg",
+          "author": "@AbuSufiyan-q1c",
+          "text": "How do you create such amazing thumbnails? Could you please make a tutorial on how you create your thumbnails?",
           "likeCount": 0,
-          "publishedAt": "2026-08-18T06:42:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/64qEBed0NyIRj1EEMYll-FCWkJ0VR0OMA1ADzonxOylIHfqRDHk6pzzBR-YD-3K-5FEotJe4=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-18T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/_O7CWrKLgOuQ8NniKNtkbStHpNAdIjjzSb7pBa39n70sgd3fuFcxtn3DcrgpakxX40j0O3F1Tw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwfFLkO_fm4p4a2y3p4AaABAg",
-          "author": "@GeorgeBenedictSV",
-          "text": "Bro I'm from myanmar . I am trying to do something good . If possible guide me . I'm following you and trying hard for life",
+          "id": "UgyRGoZ5BjftDg7P6Kt4AaABAg",
+          "author": "@MisterMusaafir",
+          "text": "Humans will use anything and everything for their survival.",
           "likeCount": 0,
-          "publishedAt": "2026-08-18T06:40:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/a87yU8BufiTwBKaDhbbP5xl5A9YvQQkeicWfgCIDXZyvz8-YeBKS0AgKExyg4P4sptEG6gYsKg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-18T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/NbbK6kK0Hw5GqygLo-BFl_0R2BbNu8F-tCU3tXTyDyoKJMgTyUmpcJb7AYAorn_RE-u6CbPSaw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzUmwjWAICuIteJeYJ4AaABAg",
-          "author": "@AL-ve6sq",
-          "text": "This was mind-bending, Vaibhav!",
+          "id": "UgxhyNhzVTq9zAyvq5p4AaABAg",
+          "author": "@djejkdlwhehej",
+          "text": "I usually hate cockroach 🪳 like a hater",
           "likeCount": 0,
-          "publishedAt": "2026-08-18T06:39:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kF0EM54C6qsGWERBYntRrOkd7Nbnz6-aVhV1Aw0gezNRM=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-18T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/pfpEF4jxBE_qbgKP-yQ-Q8-d_fF4XLOIqWtGaMa5ZkCr-WlqrMTCqRGWDlt178VVdwR-t61YNQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwX-Mw6gzV9Msxd94d4AaABAg",
+          "author": "@MENTALBUDDYS",
+          "text": "Instead of hurting cockroaches and making mess with them.. Why can't create a robotic cockroaches kinda thing or fully man made meachine.. Like cockroaches.. It's better and more features. 👌",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/VSwbAy9qNAPgLNLQg_dDScPINptbeRX7OQRAzN8EDLN3NWe8cNHKIO45NeEhX8mY8wBEYxJj=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx4b__RR78Mn4DNZ6N4AaABAg",
+          "author": "@sp-tj9ye",
+          "text": "Humans have enslaved many animals for their benefits. It's insects' turn now.\nSab ka number ayega😅",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lb9LpsBSzTZQqnSMkHmFihMP8S43b3yn5seWQOMZEGw_Y=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwJiHW1x_zHn4w-q9N4AaABAg",
+          "author": "@NomoreTimewaste-y2m",
+          "text": "CJP",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nqG5kNb9WDoM5cFrNSQr9fzliieK8lWbCqB52t7OKShdvcGjZ-DNkPlowQu3IE1MHYgQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxGcAND2sbnRIaXT0N4AaABAg",
+          "author": "@abirkabirshow",
+          "text": "Cjp😂",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/So7XJTtgmpVEH8RuC3C1OuHhYY7gZZUjP6FRnUS5XMA0V-W9wpzgdixh6xdQsR5jwcHZMSSM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-18T06:53:08Z",
+      "commentsFetchedAt": "2026-08-19T06:53:22Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -8005,7 +8045,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T05:53:21Z",
+      "checkedAt": "2026-08-19T06:53:22Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8027,14 +8067,6 @@
       "description": "FREE GUIDE: 📘 The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/\n\nAI agents are now completing entire college courses — logging into Canvas, taking the quizzes, writing the papers, and posing as the student in class discussions.\n\nThe New York Times just documented the escalation, and it moves way past pasting essay prompts into ChatGPT. Over half of US college students now take online classes — exactly the part an agent can finish unseen.\n\nWhat you'll learn:\n✅ How one prompt hands an entire course to an agent\n✅ Why ChatGPT, Gemini, and Grammarly all failed the NYT test\n✅ What survives when machines can do the coursework\n\nIf a machine can complete the course, what was it actually measuring?\n\n#AI #AIAgents #FutureOfWork\n\nFirst Movers is Julia's AI company focused on helping working professionals and founders create massive efficiency in their businesses and workplaces.\n\nFREE GUIDE: 📘 The Content Creator's AI Blueprint – https://FirstMovers.ai/blueprint/\n\nHIRE JULIA: Done-for-You Clone & In-Person Mastermind w/Julia: – https://FirstMovers.ai/Clone-Me/\n\nLEARN FROM JULIA: Join 400+ AI newcomers in the AI Labs: – https://FirstMovers.ai/Labs/\nUse Code FIRSTMOVER to save $50 EACH month.\n\nCONNECT\nTwitter: https://twitter.com/juliaemccoy/\nYouTube: https://www.youtube.com/juliamccoy\nLinkedIn: https://www.linkedin.com/in/juliaemccoy/\n\nTUTORIALS & TOOLS\n🦾 How Julia Built Dr. McCoy: https://FirstMovers.ai/CloneTutorial",
       "commentCount": 11,
       "likeCount": 98,
-      "probeClient": "web_embedded"
-    },
-    "gYU9-dVdgkA": {
-      "checkedAt": "2026-08-18T17:53:10Z",
-      "embedAllowed": true,
-      "description": "👉Join the Rust Live Accelerator waitlist: https://letsgetrusty.com/join/wv-gYU9-dVdgkA\n\nCloudflare built Kitesurf, a new browser designed specifically for AI agents, using Rust and WebAssembly on Cloudflare Workers. This video breaks down why traditional browsers like Chromium are inefficient for agents, Kitesurf’s architecture and performance results, and what the project says about the growing role of Rust and AI-assisted software development.\n\nChapter\n0:00 Introduction\n0:22 Why Cloudflare Built an AI-First Browser\n1:29 What AI Agents Need From a Browser\n2:01 How Kitesurf Started\n2:44 Testing, Rust, and WebAssembly\n3:32 Security and Isolation\n3:55 Kitesurf Performance vs. Chromium\n5:06 Open Source Plans and the Rise of Rust\n5:36 AI-Assisted Rewrites and Rust",
-      "commentCount": 24,
-      "likeCount": 143,
       "probeClient": "web_embedded"
     },
     "NZYyUcq2APg": {
@@ -8201,14 +8233,6 @@
       "checkedAt": "2026-08-18T23:53:10Z",
       "embedAllowed": true,
       "description": "AI coding agents are changing the way software is built.\n\nAI has moved far beyond simple autocomplete. Modern coding agents can explore codebases, plan tasks, modify multiple files, run tests, debug problems, review changes, and increasingly work on tasks with less constant human intervention.\n\nBut what does this actually mean for software developers?\n\nIn this video, we explore the shift from traditional software development to agentic software development and look at how tools such as Claude Code, OpenAI Codex, Cursor, and GitHub Copilot are changing the development workflow.\n\nWe cover:\n\n🤖 The evolution from autocomplete to AI coding agents\n💻 How agentic coding works\n🧠 AI codebase understanding and planning\n⚡ Multiple AI agents working in parallel\n🔄 Background and asynchronous development\n🧪 Automated testing and iteration\n🔐 Security, permissions, and human oversight\n👨‍💻 How the developer's role is changing\n🏗️ The future of AI-assisted software engineering\n\nThe important question is no longer simply:\n\n\"Can AI write code?\"\n\nIt already can.\n\nThe bigger question is:\n\n\"How much of the software-development process can AI reliably handle while humans remain in control?\"\n\nSubscribe to HSM Tech for more AI, software development, coding tools, and emerging technology explained simply.\n\n#AICoding #AIAgents #SoftwareDevelopment #AI #HSMTech",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "fWYwYAAeAeo": {
-      "checkedAt": "2026-08-18T23:53:10Z",
-      "embedAllowed": true,
-      "description": "While many developers worry about AI taking their jobs or feel pressured to adopt \"AI-native\" tools, simply adding AI to current workflows may not provide the expected productivity gains\n. In fact, controlled studies have shown that some developers using AI tools were actually 20% less productive because the time saved in coding was absorbed by bottlenecks in other stages of the software development lifecycle (SDLC)\n,\n. This video explores how to move beyond \"vibe coding\" and fragmented processes by redesigning the entire software lifecycle around AI agents\n,\n.\nKey Topics Covered:\nThe Productivity Paradox: Understanding why faster coding often fails to translate into real improvements when teams are stuck waiting on manual reviews, clarifications, and fragmented tools\n,\n,\n.\nAvoid Over and Under-Delegation: Why handing ambiguous problems to AI leads to unread code and slow reviews, while keeping all \"intellectual heavy lifting\" for humans limits potential gains\n,\n.\nSynthesizing Requirements: Using AI to turn unstructured data—like surveys, emails, and bug reports—into actionable user stories and root cause identifications\n.\nSpec-Driven Development: Moving from simple prompts to a \"harness\" of subagents that perform research, pull data via MCP servers, and handle code editing based on precise specifications\n,\n.\nAI in Testing and Deployment: Leveraging models to generate unit test data from user stories and manage infrastructure as code using tools like Ansible and Kubernetes\n,\n.\nModernizing Legacy Systems: How AI can explain and reverse-engineer old codebases to help teams maintain systems where the original developers are no longer present\n,\n.\nThe Future Human Role: Shifting the developer's role from typing lines of code to validating agent outputs and focusing on outcomes like system health, complexity, and maintainability\n,\n.\nBy coordinating work across the entire SDLC and focusing on outcomes rather than just lines of code, organizations can remove friction and finally see the 10x productivity improvements promised by AI",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
@@ -8486,6 +8510,24 @@
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
+    },
+    "PLyRe6Zk--8": {
+      "checkedAt": "2026-08-19T06:53:22Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn loop engineering in Claude Code across 3 levels, so AI agents build, verify and ship features while you sleep. Loop engineering explained: the next step past prompt engineering, and the base of real AI automation.\n\nTry Hedra at https://hedra.link/ailabs and use code AILABS50 for 50% off your first month.\n\nFree setup resources: https://drive.google.com/drive/folders/1pagLScBGfGXkfxYiqCpEkei9KDI8SdCs?usp=sharing\n\nCommunity with All Resources: ailabspro.io/?v=PLyRe6Zk--8\n\nThe Roundup, our daily newsletter covering the AI stories that matter. Join now: https://www.theroundup.so/\n\nPASEO: https://paseo.sh/\n\nOpen Source Skills in this video: \nGrill Me: https://github.com/mattpocock/skills\nGSAP: https://github.com/greensock/gsap-skills\nVercel: https://github.com/vercel-labs/agent-skills\nSupabase: https://github.com/supabase/agent-skills\n\nYou were already running a loop before you knew what one was. You prompt, the agent builds, you check it, you prompt again. So what is loop engineering? It is handing that checking step to the agent and keeping only the one decision that was always yours: whether the agent is done or needs to keep working. This is the full guide, built on a real salon appointment app that goes from missing a landing page to shipping features overnight.\n\nEverything runs in Claude Code, on Warp and VS Code.\n\nBefore the loop\n\n* Why loop engineering did not work a year ago, and what changed with models that run for hours\n* Why you should never loop your MVP, and what to build by hand instead\n* CLAUDE.md pointing to AGENTS.md, so the repo is not locked to one agent\n* design.functional.md for every clickable part of the app\n* The Grill Me skill, which keeps asking questions until the spec is actually clear\n\nLevel 1: one loop, one goal (loop engineering in Claude Code)\n\n* The naming trap in the slash menu: /loop runs on a timer, /goal runs until the thing is done. Loop engineering is the goal command\n* How the goal command verifies: a smaller model reads the turn and decides continue or stop\n* A features folder where each feature holds a spec file and an empty verification folder\n* The real signal that something needs a loop: it takes a lot of back and forth\n* A motion heavy landing page with the gsap skill, then the optimize skill to win the speed back\n* Screenshot based verification pulled from the global CLAUDE.md instead of a full browser every pass\n* The goal-writer skill, so you never write the \"make this a goal\" line twice\n* A loop engineering example: 38 minutes unattended, one error left, and why a screenshot could never catch a blinking mascot\n\nSetup: GitHub, Supabase, Vercel\n\n* Why your project needs a repo, a database and a deployment, explained for non developers\n* You make three accounts with Google login and configure nothing\n* The agent does the rest through each platform's CLI, including the auth step you paste into a second terminal\n* The Vercel deploy skill and the Supabase skills that auto invoke when the agent needs them\n\nLevel 2: the software factory loop engineering workflow\n\n* Planning several features at once and running them as one queue instead of one feature at a time\n* Why you build a clickable prototype first: to find out if you wanted the thing you described, and to give the loop something to verify against\n* The new-feature and functional-ui skills, and the mocks folder that holds a working fake version of the app\n* The rule that matters most: the agent that does the work never verifies the work\n* Subagent builds on a branch, adversarial review agent assumes there is a bug, main agent loops until the row is ticked\n* feature-batch and a queue.md table, with the goal running until nothing is left in todo or building\n* Pull requests with screenshots attached, plus how to check the branch locally before you merge\n* Merge to main, Vercel picks it up, and the feature is live for users\n\nLevel 3: get off the laptop\n\n* The only two jobs left: plan the feature, approve the merge. Neither needs a keyboard\n* Paseo, a free app that runs Claude Code on your own machine and gives you a window into it from your phone, so your skills and logged in CLIs keep working\n* Why we skipped Claude Code's built in remote control: no skills menu. In Paseo, /goal and every slash command still work\n* The mobile preview skill, which deploys the HTML mocks as free Vercel links so you can click through a prototype on your phone instead of squinting at images\n\n00:00 Intro\n00:46 What A Loop Is\n02:08 The Project\n04:32 Level 1\n07:58 The Goal Writer Skill\n08:57 Setup\n11:11 Platform Skills\n11:53 Sponsor\n12:46 Level 2\n16:14 The Functional UI Skill\n17:51 The Feature Batch Skill\n20:13 Level 3\n22:34 Mobile Preview Skill\n\nHashtags:\n#ai #claude #claudeCode #codex #chatgpt #claudeAi #aiAutomation #loopEngineering",
+      "commentCount": 8,
+      "likeCount": 181,
+      "probeClient": "web_embedded"
+    },
+    "xfPD-V5NUqk": {
+      "checkedAt": "2026-08-19T06:53:22Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Welcome to my Build in Public journey!\n\nI'm building a real app **live from scratch** with one goal:\n\nCheck out my recently Launched Platform : \n\nShipit - launch your app now : https://shipithq.com/\n\n💰 Vibe Coding an App Until I Make ₹1 Crore (₹1,00,00,000)\n\n❤️ Support the Journey\n\nIf you're enjoying the content and would like to support this Build in Public journey, you can gift me **Claude Pro** here:\n\n🎁 https://claude.ai/gift\n\nYour support helps me create more AI apps, livestreams, tutorials, and open-source content. Thank you! ❤️\n\nSign up on Kimi and we each get a guaranteed benefit — up to 1-Year Membership Credits: \nhttps://kimi-bot.com/activities/invite/share?scenario=invite&from=share_poster&invitation_code=NRM6PQ\n\nEvery livestream is completely **LIVE**—no edits, no scripts, no cuts.\n\nYou'll see the entire process:\n\n💻 Planning\n⚡ Vibe Coding\n🤖 AI-assisted Development\n🐛 Debugging\n🚀 Deploying\n📈 Growing Users\n💰 Building a Real Business\n\n## 🛠️ Tech Stack\n\n* Next.js\n* TypeScript\n* Tailwind CSS\n* Supabase\n* OpenAI\n* Claude AI\n* Netlify\n\nAlong the way, I'll also be using modern AI coding tools like **Cursor, Claude Code, Codex, Kimi, Gemini, ChatGPT, GitHub Copilot, Windsurf, Bolt.new, Lovable, v0, Replit AI, and more** to build faster, ship faster, and turn ideas into real products.\n\nWhether you're a student, developer, freelancer, founder, indie hacker, or AI enthusiast, you're welcome to join the journey, ask questions, and build along with me.\n\nIf you're interested in:\n\n✅ AI Development\n✅ Vibe Coding\n✅ Next.js\n✅ React\n✅ TypeScript\n✅ Tailwind CSS\n✅ Supabase\n✅ Full Stack Development\n✅ SaaS Development\n✅ Startup Building\n✅ Indie Hacking\n✅ AI Coding Tools\n✅ Prompt Engineering\n✅ AI Agents\n✅ Web Development\n✅ Automation\n✅ Building Apps with AI\n\n...you're in the right place.\n\n🔥 New livestreams regularly as I document the entire journey from ₹0 to ₹1 Crore, building in public one stream at a time.\n\nDon't forget to **Like 👍, Subscribe 🔔, and join the live chat!**\n\n#VibeCoding #AI #BuildInPublic #NextJS #Supabase #OpenAI #SaaS #Startup #FullStack #CodingLive #TechBuilderAkash #WebDevelopment #AITools #IndieHacker #Programming #ArtificialIntelligence #AIDevelopment #AICoding #AICodingTools #BuildWithAI #LiveCoding #Coding #Developer #SoftwareEngineer #React #ReactJS #TypeScript #TailwindCSS #Claude #ClaudeAI #ClaudeCode #ChatGPT #OpenAICodex #Codex #Cursor #CursorAI #Kimi #KimiK2 #Gemini #GitHubCopilot #Copilot #Windsurf #BoltNew #Lovable #V0 #ReplitAI #PromptEngineering #AIAgents #Automation #Tech #100DaysOfCode #IndieDev #SaaSBuilder #StartupFounder #BuildInPublicJourney #LearnToCode #WebDev #FullStackDeveloper",
+      "commentCount": 0,
+      "likeCount": 22,
+      "probeClient": "tv_embedded"
     }
   }
 }
