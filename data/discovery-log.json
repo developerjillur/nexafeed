@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T03:53:20Z",
+  "updatedAt": "2026-08-19T04:53:21Z",
   "items": [
+    {
+      "id": "fRU1Pis5twU",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-19T04:26:50Z",
+      "firstSeenAt": "2026-08-19T04:53:21Z"
+    },
+    {
+      "id": "BFtkDiJYYHk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Google Cloud Tech",
+      "publishedAt": "2026-08-18T19:53:21Z",
+      "firstSeenAt": "2026-08-19T04:53:21Z"
+    },
+    {
+      "id": "IIH5wqhWtF4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "a16z speedrun",
+      "publishedAt": "2026-08-18T16:53:21Z",
+      "firstSeenAt": "2026-08-19T04:53:21Z"
+    },
+    {
+      "id": "lI0WMeTEwYQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Codedigipt",
+      "publishedAt": "2026-08-18T15:53:21Z",
+      "firstSeenAt": "2026-08-19T04:53:21Z"
+    },
+    {
+      "id": "c2NuRr3uJ2I",
+      "type": "long",
+      "source": "secondary",
+      "channel": "RegulatingAI | AI Policy & Governance and Knowledge Networks",
+      "publishedAt": "2026-08-18T14:53:21Z",
+      "firstSeenAt": "2026-08-19T04:53:21Z"
+    },
     {
       "id": "BTdZWFh1gDM",
       "type": "short",
@@ -18576,6 +18616,15 @@
       "channelsChecked": 33,
       "warnings": 30,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-19T04:53:21Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 31,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
