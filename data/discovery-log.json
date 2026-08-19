@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T21:53:05Z",
+  "updatedAt": "2026-08-19T22:53:14Z",
   "items": [
+    {
+      "id": "cM5n9priMjo",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-08-19T22:07:56Z",
+      "firstSeenAt": "2026-08-19T22:53:14Z"
+    },
+    {
+      "id": "oqSIXM-pSvI",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-19T22:01:54Z",
+      "firstSeenAt": "2026-08-19T22:53:14Z"
+    },
+    {
+      "id": "nb7XB9RH8-s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "You B Tech",
+      "publishedAt": "2026-08-19T15:53:14Z",
+      "firstSeenAt": "2026-08-19T22:53:14Z"
+    },
+    {
+      "id": "4eqDZodW9gg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Decoding Digital",
+      "publishedAt": "2026-08-19T15:53:14Z",
+      "firstSeenAt": "2026-08-19T22:53:14Z"
+    },
+    {
+      "id": "mb5eoG3k2ac",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mikey No Code",
+      "publishedAt": "2026-08-19T14:53:14Z",
+      "firstSeenAt": "2026-08-19T22:53:14Z"
+    },
+    {
+      "id": "joRXo6x7Pgk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI News & Strategy Daily | Nate B Jones",
+      "publishedAt": "2026-08-19T14:53:14Z",
+      "firstSeenAt": "2026-08-19T22:53:14Z"
+    },
     {
       "id": "48Rig6v-xYU",
       "type": "long",
@@ -19353,6 +19401,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-19T22:53:14Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
