@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T10:53:48Z",
+  "updatedAt": "2026-08-19T11:53:31Z",
   "items": [
+    {
+      "id": "9EU--8rcqkk",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-19T11:36:54Z",
+      "firstSeenAt": "2026-08-19T11:53:31Z"
+    },
+    {
+      "id": "ZuDH6NmE9co",
+      "type": "long",
+      "source": "primary",
+      "channel": "Brendan Automation",
+      "publishedAt": "2026-08-19T11:35:46Z",
+      "firstSeenAt": "2026-08-19T11:53:31Z"
+    },
+    {
+      "id": "jSO0VKZnSC8",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-18T13:38:59Z",
+      "firstSeenAt": "2026-08-19T11:53:31Z"
+    },
+    {
+      "id": "LjGHaikbzVA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "openSUSE",
+      "publishedAt": "2026-08-19T11:49:31Z",
+      "firstSeenAt": "2026-08-19T11:53:31Z"
+    },
+    {
+      "id": "WKa1Tq4u79A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Syntax",
+      "publishedAt": "2026-08-19T11:00:31Z",
+      "firstSeenAt": "2026-08-19T11:53:31Z"
+    },
+    {
+      "id": "huY2adMaRY0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Musadiq Pro Skills ",
+      "publishedAt": "2026-08-19T10:53:31Z",
+      "firstSeenAt": "2026-08-19T11:53:31Z"
+    },
+    {
+      "id": "-Cz6dqYCI14",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Codefeature",
+      "publishedAt": "2026-08-19T10:53:31Z",
+      "firstSeenAt": "2026-08-19T11:53:31Z"
+    },
     {
       "id": "0qzE1z7VyR0",
       "type": "long",
@@ -18807,6 +18863,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-19T11:53:31Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
