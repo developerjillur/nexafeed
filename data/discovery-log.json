@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T18:53:33Z",
+  "updatedAt": "2026-08-19T19:53:34Z",
   "items": [
+    {
+      "id": "vkU2xrj25A4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-19T19:17:49Z",
+      "firstSeenAt": "2026-08-19T19:53:34Z"
+    },
+    {
+      "id": "sfjFKy0ZOiA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BBC Archive",
+      "publishedAt": "2026-08-19T11:53:34Z",
+      "firstSeenAt": "2026-08-19T19:53:34Z"
+    },
+    {
+      "id": "-Pb18AIx7bY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ankit Avasthi Insights",
+      "publishedAt": "2026-08-19T09:53:34Z",
+      "firstSeenAt": "2026-08-19T19:53:34Z"
+    },
+    {
+      "id": "m1s8yRt4cAU",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Al Jazeera English",
+      "publishedAt": "2026-08-19T07:53:34Z",
+      "firstSeenAt": "2026-08-19T19:53:34Z"
+    },
+    {
+      "id": "0TXmCgihN5Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Iced Coffee Hour Clips",
+      "publishedAt": "2026-08-19T01:53:34Z",
+      "firstSeenAt": "2026-08-19T19:53:34Z"
+    },
     {
       "id": "pal-C77oVl0",
       "type": "long",
@@ -19238,6 +19278,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-19T19:53:34Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }

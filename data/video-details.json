@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T18:53:33Z",
+  "updatedAt": "2026-08-19T19:53:34Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -3125,99 +3125,6 @@
       "likeCount": 572,
       "probeClient": "web_embedded"
     },
-    "6dRdPVSSYx0": {
-      "checkedAt": "2026-08-13T04:53:41Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment \"Ads\" for the full Facebook Ads MCP setup guide and link\n\nYou're still building campaigns by hand in Ads Manager.\n\nThat's the whole reason agencies bill you 15%.\n\nHere's the thing: Meta has an API, and Claude can drive it.\n\nMake an app at developers.facebook.com.\nAdd a system user, give it admin.\nAssign your assets.\nHand Claude the MCP link and token.\n\nThen prompt it. Campaigns, creatives, copy, live.\n\nThat's the unlock, fam.\n\n#AItools\n#ClaudeCode\n#Automation\n#Marketing\n#AIAgents",
-      "commentCount": 8,
-      "likeCount": 52,
-      "comments": [
-        {
-          "id": "UgwGPfzNNC4ICpHfY9p4AaABAg",
-          "author": "@charlieautomates",
-          "text": "🚨🔑Free resource page with links found here: https://charlieautomates.com/free-resources/#meta-ads-mcp",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "UgyKlIzwM6cIshva86h4AaABAg",
-          "author": "@AmeenStemmet",
-          "text": "Ads",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T04:44:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lqybv1ymmQZzV-g7nROuYqYvRtqWJrzgIBL02smStPjjYqrzc547dVBcr4Ak5lP7MDAg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwoK1ShdUXE3TxUbi14AaABAg",
-          "author": "@brunofortin475",
-          "text": "ADS",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ldyyml-q2hnHym7vgpGUoM7_hJo0y7bMMUHNwrrFhJ6hE=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwM6n-spNPKyHQ4NSB4AaABAg",
-          "author": "@theroadahead1105",
-          "text": "Ads",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nwDcdp0lXpEACPVoU7X0LIIBdpR_hQ3kY5LTabqjl_rEo=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy1ER0UEtcK4jVSTjx4AaABAg",
-          "author": "@TheEricMichaud",
-          "text": "Bro! So good!",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/N8mad7vbf53kcGFWiCAEX9YB9ONDpq4YS4Lt3BnDS_rAzLdS9Q29iMfAlo_21qvLbBVSxDNgTA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw2pxXTcqiJW0Q_L6l4AaABAg",
-          "author": "@somtruthnews",
-          "text": "Ads",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/XZiNWYoE0YxnjUDDYCDiLETI147sSAaAQzAJ3Lh0cRt2vAs8UH6uuQ437WC5LfxUJcJnHKByGw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyewkiAOGGehank9PN4AaABAg",
-          "author": "@ProtonAve",
-          "text": "Ads",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mudJBOukNXf6EwU9s9qkSmrQeXVMInDb6nJZWhI4Ee75BBlCMMDWOLtD2fTJpyUniYrg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzeTwI2dMygqjZ0YpV4AaABAg",
-          "author": "@saifuddinilyas3635",
-          "text": "Ads",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Ss2jOc7AW8tVeaPWEGegszNDV6kMz_SYrSFTyV0dHUpZ_qkooQNFj09DgemJrmGdu2QcIfx8OWE=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-13T04:53:41Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "81dFlPneh88": {
       "checkedAt": "2026-08-19T06:53:22Z",
       "embedAllowed": true,
@@ -3713,12 +3620,13 @@
       "availability": "public"
     },
     "NAumQObJEwM": {
-      "checkedAt": "2026-08-12T19:53:30Z",
+      "checkedAt": "2026-08-19T19:53:34Z",
       "embedAllowed": true,
-      "description": "🔥 Zapier: https://bit.ly/4i68nZv \n📈 ALL Systems: https://bit.ly/4kol0y5\n🩵 Free Resources: https://bit.ly/3RNNDLa\n\n*👋 Howdy*\nHey, I'm Jack, I built and sold my last tech startup with a Gazillion customers, now I'm building AI startups and I share stuff that works. I quit my corporate job to do my start-up and have never looked back since.\n\n*💬 Overview*\nClaude produces slop because it has never actually seen what great design looks like, and this video fixes that across three levels. Level one uses a gallery of over 2,000 professional design systems, pulling Apple aesthetics into a titanium protein shake website and then running a ruthless comparison between my startup Glaido and Linear, right down to letter spacing and elevation ladders. Level two is the design loop, where Claude spins up critic agents that keep iterating until an HTML email matches a real benchmark, then sends it through Zapier as the authentication layer. Level three is a design operating system running locally, generating images through OpenAI, OpenRouter and Higgsfield, indexing every image on your computer so you can search it, and saving style recipes for consistent thumbnails. Genuinely useful for anyone building websites, emails or brand assets with Claude.\n\n*Links*\n☁️ Claude: https://claude.ai/\n⚙️ Zapier: https://bit.ly/4i68nZv \n🔀 OpenRouter: https://openrouter.ai/\n🤖 OpenAI: https://openai.com/\n🚀 AntiGravity: https://antigravity.google/\n⚡ Hermes: https://nousresearch.com/\n🎨 Higgsfield: https://bit.ly/4fjvSg0\n📐 Linear: https://linear.app/\n🔥 Firecrawl https://firecrawl.link/jack-roberts\n\n⌚️ *Stamps:*\n0:00 - Killing AI Slop Forever\n0:33 - Three Techniques Overview\n1:06 - Why AI Designs Look Sloppy\n1:39 - The Five Telltale Signs\n1:59 - Level 1\n3:07 - Apple Aesthetics Applied Anywhere\n3:37 - Protein Shake Site Built Live\n4:04 - Stunning Results In One Shot\n4:50 - Upgrade Your Existing Website\n5:16 - A Billion-Dollar Design Benchmark\n5:47 - Ruthless Design Comparison\n6:30 - Side-By-Side Design Gaps Revealed\n6:50 - Interactive Slider Shows The Difference\n8:25 - Beyond Websites\n8:39 - The Design Loop Method\n10:01 - Multi-Agent Critics Refine Output\n10:26 - Pixel-Perfect Email In One Shot\n11:04 - Anthropic Style Cloned Instantly\n11:39 - Sending The Email For Real\n12:00 - Zapier Delivers Your Design\n12:44 - Gorgeous Email Lands In Inbox\n12:59 - Level 3\n13:35 - Your Personal Design OS\n13:45 - Images Generated On Demand\n13:58 - Custom AI Images In Seconds\n15:05 - Your Entire Image Library Searchable\n15:13 - Find Any Asset Instantly\n16:10 - Save Your Brand Style Recipe\n16:44 - Consistent Brand Thumbnails On Demand\n17:44 - What's Next\n\nLearn how to turn Claude into a design tool that avoids AI slop, using design systems, the Claude design loop with critic agents, HTML email generation, Zapier integrations and a local design operating system with OpenAI, OpenRouter and Higgsfield.\n\n#Claude #ClaudeCode #AIDesign #DesignSystems #Zapier #AITools",
-      "commentCount": 2,
-      "likeCount": 19,
-      "probeClient": "web_embedded"
+      "description": "🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n📈 ALL Systems: https://bit.ly/4kol0y5\n🩵 Free Resources: https://bit.ly/3RNNDLa\n\n*👋 Howdy*\nHey, I'm Jack, I built and sold my last tech startup with a Gazillion customers, now I'm building AI startups and I share stuff that works. I quit my corporate job to do my start-up and have never looked back since.\n\n*💬 Overview*\nClaude produces slop because it has never actually seen what great design looks like, and this video fixes that across three levels. Level one uses a gallery of over 2,000 professional design systems, pulling Apple aesthetics into a titanium protein shake website and then running a ruthless comparison between my startup Glaido and Linear, right down to letter spacing and elevation ladders. Level two is the design loop, where Claude spins up critic agents that keep iterating until an HTML email matches a real benchmark, then sends it through Zapier as the authentication layer. Level three is a design operating system running locally, generating images through OpenAI, OpenRouter and Higgsfield, indexing every image on your computer so you can search it, and saving style recipes for consistent thumbnails. Genuinely useful for anyone building websites, emails or brand assets with Claude.\n\n*Links*\n☁️ Claude: https://claude.ai/\n⚙️ Zapier: https://bit.ly/4pJhh0K\n🔀 OpenRouter: https://openrouter.ai/\n🤖 OpenAI: https://openai.com/\n🚀 AntiGravity: https://antigravity.google/\n⚡ Hermes: https://nousresearch.com/\n🎨 Higgsfield: https://bit.ly/4fjvSg0\n📐 Linear: https://linear.app/\n\n⌚️ *Stamps:*\n0:00 - Killing AI Slop Forever\n0:33 - Three Techniques Overview\n1:06 - Why AI Designs Look Sloppy\n1:39 - The Five Telltale Signs\n1:59 - Level 1\n3:07 - Apple Aesthetics Applied Anywhere\n3:37 - Protein Shake Site Built Live\n4:04 - Stunning Results In One Shot\n4:50 - Upgrade Your Existing Website\n5:16 - A Billion-Dollar Design Benchmark\n5:47 - Ruthless Design Comparison\n6:30 - Side-By-Side Design Gaps Revealed\n6:50 - Interactive Slider Shows The Difference\n8:25 - Beyond Websites\n8:39 - The Design Loop Method\n10:01 - Multi-Agent Critics Refine Output\n10:26 - Pixel-Perfect Email In One Shot\n11:04 - Anthropic Style Cloned Instantly\n11:39 - Sending The Email For Real\n12:00 - Zapier Delivers Your Design\n12:44 - Gorgeous Email Lands In Inbox\n12:59 - Level 3\n13:35 - Your Personal Design OS\n13:45 - Images Generated On Demand\n13:58 - Custom AI Images In Seconds\n15:05 - Your Entire Image Library Searchable\n15:13 - Find Any Asset Instantly\n16:10 - Save Your Brand Style Recipe\n16:44 - Consistent Brand Thumbnails On Demand\n17:44 - What's Next\n\nLearn how to turn Claude into a design tool that avoids AI slop, using design systems, the Claude design loop with critic agents, HTML email generation, Zapier integrations and a local design operating system with OpenAI, OpenRouter and Higgsfield.\n\n#Claude #ClaudeCode #AIDesign #DesignSystems #Zapier #AITools",
+      "commentCount": 116,
+      "likeCount": 3064,
+      "probeClient": "web_embedded",
+      "availability": "public"
     },
     "dPScBnXaNdc": {
       "checkedAt": "2026-08-15T00:28:14Z",
@@ -7583,7 +7491,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T18:53:33Z",
+      "checkedAt": "2026-08-19T19:53:34Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7672,25 +7580,95 @@
       "availability": "public"
     },
     "TfvA0R1Oxb8": {
-      "checkedAt": "2026-08-18T19:53:12Z",
+      "checkedAt": "2026-08-19T19:53:34Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment KIMI and I'll send you the link.\n\nOne of the biggest AI models in the world now runs on a laptop with just 8 gigabytes of RAM.\n\nA model like this normally needs a server rack and hundreds of gigs of memory. Fareed Khan didn't shrink the model, he changed the way it runs. Normally the whole model gets loaded into memory, which is why you need a powerful server. His program keeps the model on the drive and loads only the small piece it needs at that moment. That's why 8 gigs is enough.\n\nAnd it's not a stripped-down version. Same prompt, and it answers exactly like the server setup, word for word. The whole program is 176 kilobytes, smaller than a single photo on your phone. Honest caveat: on a laptop it's slow, tens of seconds per word, so it's a proof of concept, not your daily chatbot.\n\nFree, open source, on GitHub now.\n\n#ai #machinelearning #opensource #kimi #tech",
-      "commentCount": 1,
-      "likeCount": 2,
+      "commentCount": 8,
+      "likeCount": 88,
       "comments": [
         {
-          "id": "Ugzl9KRWcVPqtMjdaqt4AaABAg",
-          "author": "@n0kr1pt0",
+          "id": "UgwM16RsDGYMAWGW0_t4AaABAg",
+          "author": "@bakar686",
+          "text": "kimi",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nTWnEpRFPjfXcamG8KHl9SP3snMN20mgCKrRixC-0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwruNWYXohX3wJtx2p4AaABAg",
+          "author": "@sshandleyoutube",
+          "text": "Kimi thanks",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mSi-McmJylZlxYEIWqCIoKkmgD5qSUigr5KYh1OoA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwEnnA6r53opjP73ch4AaABAg",
+          "author": "@XasanTursunboyev-v7k",
+          "text": "Kimi",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/kIngRkFWkpNnUslboZu7F9vd_RtVB2nCK9I11P44U0B2MS4wwRHEPteopJwZzvucO0faLsEr=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugye027CnrFA7-2HH0p4AaABAg",
+          "author": "@OOAO-ws5yf",
+          "text": "Kimi",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k42LhzO2q_Az5WVD4s3P-hwVqBpaxvsMbB0JD0YFV3eoA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgydjRyu3Gv5s6MDJDR4AaABAg",
+          "author": "@rajsampath7215",
+          "text": "Kimi",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-at7B57nGFoLIaMYgR9Y6YGu3vDA4xPAdc58-SzzRBYc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwwxYMJCq7O8sc7dJh4AaABAg",
+          "author": "@amedismael7689",
           "text": "KIMI",
           "likeCount": 0,
-          "publishedAt": "2026-08-18T19:37:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nidIX95j-oSCGCmDDBeqzKgtHYxK0zTShpEUhZdXieaQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-19T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_loxFsngsfrXURA_-fNI6JZxf1QJ2FVoKQRPvpjHaRHh_Q=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwWnXH-WRmrwX1SHAN4AaABAg",
+          "author": "@18122010edwinmalou",
+          "text": "Kimi",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kbn41GRUReT_lFjydCK91l7lpkAc96JhDu0B44vNA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxlr8usTYBeHsDzhqF4AaABAg",
+          "author": "@StevenLuu-c9b",
+          "text": "Kimi",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/_WQpDiq-8c8ZSckzugVa45TkxSCrNVYy-kAVZbq9Lo2PpyW4vXzddvXaPV4BM7Bup9BkeX9QVA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-18T19:53:12Z",
+      "commentsFetchedAt": "2026-08-19T19:53:34Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7715,14 +7693,6 @@
       ],
       "commentsFetchedAt": "2026-08-18T21:53:14Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "7msfHtAQHas": {
-      "checkedAt": "2026-08-18T22:53:15Z",
-      "embedAllowed": true,
-      "description": "Automation Trading with Slingshot Bot | Smarter Trading, Simplified\n| Sniper Slingshot Bot is a powerful Automation trading bot that can help you trade sustainably in the NQ market. We'll show you how to set up and use Slingshot Bot For Consistent Trading in the NQ market. This is a simple, step-by-step guide that will help you make easy trading  in futures.\n\nContact us for more details👇\nhttps://www.sniperautotrader.com/sp/ref/1/?campaign=seyt\n\nThanks for watching. Make sure to like and subscribe.\n\nWatch Our Video in the Punjabi Language:\nhttps://www.youtube.com/channel/UC4PmxVWzZRqrVffoO73dmNA\n\nRISK DISCLOSURE:\nFutures trading contain substantial risk and are not for every investor. An investor could potentially lose all or more than the initial investment. Risk capital is money that can be lost without jeopardizing one's financial security or lifestyle. Only risk capital should be used for trading, and only those with sufficient risk capital should consider trading. Past performance is not necessarily indicative of future results.\n\nImportant: Full Risk Disclaimer - Click for Details👇\nhttps://www.sniperautotrader.com/u-s-government-disclaimer/\n\n#masteraccountpnl #sniperautotrader #multimarkettrading #futurestrading #sniperpowertrendpro #tradingautomation #tradecopier #algotrading #proptrading #tradingtools",
-      "commentCount": 2,
-      "likeCount": 1,
       "probeClient": "web_embedded"
     },
     "cX8J_DpKtE0": {
@@ -7835,15 +7805,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "IeT5Jn7d1aM": {
-      "checkedAt": "2026-08-19T03:53:20Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Exploring what's on the world's mind about AI right now. We'll bring the initial topics but we'll let chat take the wheel on where this conversation goes.\n\nCheck out @joefier",
-      "commentCount": 4,
-      "likeCount": 132,
-      "probeClient": "web_embedded"
-    },
     "ud7wzdiM0gk": {
       "checkedAt": "2026-08-19T03:53:20Z",
       "embedAllowed": true,
@@ -7863,15 +7824,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-19T04:53:21Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "BFtkDiJYYHk": {
-      "checkedAt": "2026-08-19T04:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Learn how Gemini Enterprise and Google Workspace platforms complement each other to build powerful AI agents and enterprise workflows. This session demonstrates how Gemini Enterprise admins configure Google Workspace connectors and APIs, enabling AI agents to access workspace context and actions.\n\nExplore integration methods using Apps Script, contextual GWS add-ons via REST APIs, and no-code automations in GWS Studio to seamlessly connect global agents with Google Workspace applications like Gmail, Drive, Calendar, Docs, and Slides.\n\nWhat You'll learn:\n• Configure Google Workspace connectors and MCPs in the Gemini Enterprise Console\n• Request Gemini Enterprise Agent Runtime agents from Apps Script via REST API\n• Integrate contextual Google Workspace add-ons with Gemini Enterprise REST APIs\n• Build no-code automations using flows and skills in Google Workspace Studio\n\nResources:\n* Integrate Gemini Enterprise Agent Platform AI Agents with Google Workspace → https://goo.gle/geap-gws-agents\n* Integrate Gemini Enterprise Agents with Google Workspace → https://goo.gle/ge-gws-agents\n* Develop on Google Workspace → https://goo.gle/4zmbFOw\n* Gemini Enterprise Agent Platform → https://goo.gle/4bVxOJs\n\n#GoogleCloud #GeminiEnterprise #GoogleWorkspace #AIAgents #AppsScript #DeveloperTools\n\nSpeaker: Pierrick Voulet, Tilde Thurium\nProducts Mentioned: Gemini Enterprise, Google Workspace, Apps Script, Gemini Enterprise Agent Platform",
-      "commentCount": 2,
-      "likeCount": 273,
       "probeClient": "web_embedded"
     },
     "9I_GJ6omHIM": {
@@ -8670,13 +8622,63 @@
       "likeCount": 960,
       "probeClient": "web_embedded"
     },
-    "9Tlm6bDPukg": {
-      "checkedAt": "2026-08-19T18:53:33Z",
+    "vkU2xrj25A4": {
+      "checkedAt": "2026-08-19T19:53:34Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "🔥 Developer Bootcamp & Mentoring Program — Start or level up your career with my proven training and personal mentoring:\nhttps://unclestef.com/\n\nStudioweb AI Literacy curriculum:\nhttps://blog.studioweb.com/2026/08/12/studioweb-ai-principles/\n\n🦎 Lizard Wizard Course\nMaster the psychology of learning, habits, and performance — a must for developers and entrepreneurs:\nhttps://school.studioweb.com/store/course/lizard_wizard\n\n🚀 1-on-1 Mentoring & Consultations\n\nCareer Consult — $99 for 15 minutes:\nhttps://calendly.com/uncle-stef/consultation-with-stefan\n\nEntrepreneur / Business Consult — $250 for 30–45 minutes:\nhttps://calendly.com/uncle-stef/entrepreneurs-consult\n\nSponsored Video — Get your questions answered in a video:\nhttps://unclestef.com/blog/2025/03/04/sponsored-video-request/\n\n💻 Popular Courses\n\nPython 3 Foundations & Certification:\nhttps://school.studioweb.com/store/course/python_3_foundations__&_certification_package\n\nFull Stack Web Developer:\nhttps://school.studioweb.com/store/course/complete_web_developer\n\nComplete Freelancer:\nhttps://school.studioweb.com/store/course/complete_freelancer\n\nComplete Entrepreneur:\nhttps://school.studioweb.com/store/course/complete_web_entrepreneur\n\n📱 Stay Connected\nInstagram: https://www.instagram.com/stefanmischook/?hl=en\n\nBusiness Channel: https://www.youtube.com/channel/UCZdr0ql_B240VBVINAX7Acg\n\nGoogle Review: https://g.page/studioWebedu/review?mt",
-      "commentCount": 20,
-      "likeCount": 62,
+      "description": "Comment \"Claude\" for both free systems, Paul and SEED\n\nEvery compact costs you the plot.\n\nLong sessions fill the window.\nClaude compacts. Drift starts.\n\nPaul fixes that with a .paul folder.\nProject, roadmap, state.\n\nBuild one phase, /clear, plan the next.\nEvery command reloads all three files.\n\nFresh context. Same project.\nShare your results!\n\n#ClaudeCode\n#AItools\n#Automation\n#AIWorkflow\n#BuildInPublic",
+      "commentCount": 1,
+      "likeCount": 2,
+      "comments": [
+        {
+          "id": "UgweSlv8QlT3uGwH-Fh4AaABAg",
+          "author": "@charlieautomates",
+          "text": "👇🏼🔑 Links attached below!\n\nPAUL: https://charlieautomates.com/free-resources/#paul-plugin\n\nSEED: https://charlieautomates.com/free-resources/#seed",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T19:21:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-08-19T19:53:34Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "sfjFKy0ZOiA": {
+      "checkedAt": "2026-08-19T19:53:34Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "It used to be predicted that robots would one day rule the world, and according to Sir Clive Sinclair, they still might. As part of Newsnight's \"Geek Week\" series of reports into the IT revolution, Stephen Smith takes a lighthearted look back through the BBC archive to see whether he can uncover any clues as to when, exactly, the seemingly inevitable combination of artificial intelligence and advanced robotics will spell the end of humanity as we know it.\n\n\nClip taken from Newsnight, originally broadcast on BBC Two, 6 January, 2006.\n\n\n\n\n\nYou have now entered the BBC Archive, a time machine that will transport you back to the golden age of TV to educate, entertain and enlighten you with classic clips from the BBC vaults.\n\nMake sure you subscribe so that you never miss a single stop on our amazing journey through the BBC Archive - https://www.youtube.com/c/BBCArchive?sub_confirmation=1\n\nYou can also dive into plenty more BBC Archive on our website - https://www.bbc.co.uk/archive",
+      "commentCount": 65,
+      "likeCount": 240,
+      "probeClient": "web_embedded"
+    },
+    "-Pb18AIx7bY": {
+      "checkedAt": "2026-08-19T19:53:34Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "India Challenges the AI Job Crisis | Shocking Employment Numbers Revealed explained By Ankit Sir। \n\nOur New Ai Mastery Course⏳\n🔗 अभी Enroll करें :\n👉https://www.baatenbazarki.com/single-checkout/69987f82d5c66269a3f812b7?pid=p1\n\nArtificial Intelligence is transforming the global job market, raising fears that millions of jobs could disappear. But India's latest AI and employment trends tell a more complex story.\nIndia is emerging as one of the world's fastest-growing AI markets, with AI-related hiring continuing to expand even as automation puts pressure on routine and entry-level roles. Recent data shows AI and machine-learning jobs in India increased by 25% across 14 sectors, while India also leads globally in workplace AI adoption. \n\nAt the same time, experts warn that AI could put pressure on entry-level and middle-skilled jobs, making the future of employment increasingly dependent on AI skills and productivity. \n\n#AI #ArtificialIntelligence #India #Jobs #AIJobs #FutureOfJobs #Automation #Technology #IndianJobs #Factpowers \n\n📢 Ankit Avasthi Sir is 🎧 Now on Spotify: \nसुनिए अंकित अवस्थी सर के Sessions अब Spotify पर भी।\n🔗 https://open.spotify.com/show/4tXCTZa8ta1RypO6Pz3aJ4\n\n✅ Follow करें “Ankit Avasthi Sir” को Spotify पर और 📲 अपने सभी मनपसंद Episodes देखें या सुने सिर्फ एक क्लिक पर।\n\n💫 Get in touch with “Ankit Inspires India” by “Ankit Avasthi Sir” 👇🏻\n 🔔 Subscribe “Ankit Inspires India” YouTube Channel -\n🔗 https://www.youtube.com/@AnkitInspiresIndia\n🌐 Visit Ankit Inspires India Website -\n🔗 https://ankitinspiresindia.com/\n\n💫 Get in touch with “Ankit Inspires Rajasthan” by “Ankit Avasthi Sir” 👇🏻\n🔔 Subscribe “Ankit Inspires Rajasthan” YouTube Channel -\n🔗 https://www.youtube.com/@AnkitInspiresRajasthan\n🐦 X (Twitter) Handle: Ankit Inspires Rajasthan (AIR) -\n🔗 https://x.com/AirRajasthan\n\n💫 Get in touch with “Apni Pathshala” by “Ankit Avasthi Sir” 👇🏻\n📲 Download “Apni Pathshala” Android Application - \n🔗 https://play.google.com/store/apps/details?id=com.apni.pathshala\n📲 Download “Apni Pathshala” iOS Application -\n🔗 https://apps.apple.com/in/app/apni-pathshala/id6743618780\n🔔 Subscribe “Apni Pathshala” YouTube Channel -\n🔗 https://www.youtube.com/@Apni.Pathshala\n🌐 Visit Apni Pathshala Website -\n🔗 https://apnipathshala.com/\n🐦 X (Twitter) Handle: Apni Pathshala -\n🔗 https://x.com/_ApniPathshala\n📬 Telegram Channel: Apni Pathshala -\n🔗 https://t.me/Apnipathshalaup\n\n💫 Get in touch with “Baaten Bazar Ki (BBK)” by “Ankit Avasthi Sir” 👇🏻\n📲 Download “Baaten Bazar Ki (BBK)” Android Application -\n🔗 https://play.google.com/store/apps/details?id=com.baatenbazarkibbk.learners\n📲 Download “Baaten Bazar Ki (BBK)” iOS Application - \n🔗 https://apps.apple.com/in/app/baaten-bazar-ki-bbk/id6740429958\n🔔 Subscribe “Baaten Bazar Ki (BBK)” YouTube Channel -\n🔗 https://www.youtube.com/@BaatenBazarKi\n🌐 Baaten Bazar Ki (BBK) Website -\n🔗 https://www.baatenbazarki.com/\n📬 Telegram Channel: Baaten Bazar Ki (BBK) -\n🔗 https://t.me/BaatenBazarKiBBK\n👥 Facebook Page: Baaten Bazar Ki (BBK) -\n🔗 https://www.facebook.com/AnkitAvasthiBaatenBazarKi\n\n🔥 अंकित अवस्थी सर से जुड़ने के लिए Join या Follow करें -\n💬WhatsApp Channel: Ankit Avasthi Sir -\n🔗 https://whatsapp.com/channel/0029Van7zPzGOj9uNYZomI3k\n🐦 X (Twitter) Handle: Ankit Kumar Avasthi -\n🔗 https://x.com/kaankit\n 📬 Telegram Channel: Ankit Avasthi Sir -\n🔗 https://t.me/AnkitAvasthi\n👥 Facebook Page: Ankit Avasthi Sir -\n🔗 https://www.facebook.com/AnkitAvasthiSir/\n🎬 Instagram Profile: Ankit Kumar Avasthi -\n🔗 https://www.instagram.com/avasthiankit\n\n📝 Disclaimer: Ankit Avasthi Insights\nIt is hereby clarified that I am operating this YouTube channel with the permission of Ankit Avasthi Sir. Any educational or informational content shared on this channel is used and sourced from his official YouTube channels:\n\n👉 Ankit Inspires India (AII)\n👉 Ankit Inspires Rajasthan (AIR)\n👉 Apni Pathshala (APS)\n👉 Baaten Bazar Ki (BBK)\n\nOn this channel, Ankit Avasthi Insights, I am trying to share the insights that impacted the society of every topic Ankit Sir has covered that you might have missed, so that important information can reach a wider audience.\n\nI take whole and sole responsibility for all content uploaded or published on this channel.\n\nAnkit Avasthi Sir holds no direct responsibility for any views, materials, or uploads presented here.\n\n#AnkitAvasthiSir #AnkitAvasthi #AnkitAvasthiInsights #AnkitInspiresIndia #AnkitInspiresRajasthan #ApniPathshala #BaatenBazarKi\n\nai jobs, ai jobs india, artificial intelligence jobs, ai replacing jobs, ai job crisis, ai and employment, future of jobs, ai impact on jobs, india ai revolution, india ai jobs, ai hiring india, ai employment india, artificial intelligence india, ai automation, jobs in india, future jobs india, ai technology, ai workforce, ai skills, ai job market, automation and jobs, ai latest news, technology news, india technology,",
+      "commentCount": 83,
+      "likeCount": 1786,
+      "probeClient": "web_embedded"
+    },
+    "m1s8yRt4cAU": {
+      "checkedAt": "2026-08-19T19:53:34Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "China’s rapid push into artificial intelligence is fuelling a boom in children’s summer courses, with demand rising as the government works to make AI an essential part of the school syllabus by 2030. \n\nIn Hangzhou, home to the 'Six Little Dragons' of China’s tech sector, students tour firms and take hands-on classes. While some costly camps draw criticism for inflated claims, trainers here emphasise inspiration and a thoughtful human-AI relationship over mastery in days.\n\nAl Jazeera’s Rob McBride reports from Hangzhou, China.\n \nSubscribe to our channel: http://bit.ly/AJSubscribe\nFollow us on X : https://twitter.com/AJEnglish\nFind us on Facebook: https://www.facebook.com/aljazeera\nCheck our website: http://www.aljazeera.com/\nCheck out our Instagram page: https://www.instagram.com/aljazeeraenglish/\nDownload AJE Mobile App: https://aje.news/AJEMobile\n\n#ArtificialIntelligence #AIEducation #ChinaAI #Hangzhou #SummerCamps #EducationPolicy #TechIndustry #STEMEducation #SixLittleDragons #SchoolSyllabus #AlJazeeraEnglish",
+      "commentCount": 13,
+      "likeCount": 88,
+      "probeClient": "web_embedded"
+    },
+    "0TXmCgihN5Q": {
+      "checkedAt": "2026-08-19T19:53:34Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "NetSuite: Download the Demystifying AI Guide for FREE at https://netsuite.com/clips\nEpisode Link ► https://youtu.be/ahQlC54rqhk?si=nRCft30o_jNlpZZn\nEpisode Title ►EMERGENCY UPLOAD: Stock Market Investors Are Losing Everything - How To Profit! | Chris Camillo\n\n🚨𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗨𝗦🚨\n\n𝗜𝗚: https://www.instagram.com/icedcoffeehour \n𝗝𝗔𝗖𝗞: https://www.instagram.com/jlsselby\n𝗚𝗥𝗔𝗛𝗔𝗠: //www.instagram.com/gpstephan\n\n𝗖𝗹𝗶𝗽𝘀 𝗖𝗵𝗮𝗻𝗻𝗲𝗹: ➡️ https://www.youtube.com/c/TheIcedCoffeeHourClips\n𝗫.𝗰𝗼𝗺: ➡️ https://x.com/TheICHpodcast\n𝗧𝗶𝗸𝗧𝗼𝗸: ➡️ https://www.tiktok.com/@theicedcoffeehour\n𝗦𝗽𝗼𝘁𝗶𝗳𝘆: https://open.spotify.com/show/5c2uoXBQkOjIiCOf60jJj7 \n𝗔𝗽𝗽𝗹𝗲: https://podcasts.apple.com/us/podcast/the-iced-coffee-hour/id1515070058\n\nGraham's Favorite Credit Cards: https://secure.moneymatchup.com/ich-cards\nSponsored: We may earn a commission if you sign up using this link.\n\nFor sponsorships or business inquiries reach out to: icedcoffeehourpartnerships@gmail.com\n\nFor Podcast Inquiries, please DM @icedcoffeehour on Instagram!",
+      "commentCount": 53,
+      "likeCount": 112,
       "probeClient": "web_embedded"
     }
   }
