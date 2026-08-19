@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T00:53:17Z",
+  "updatedAt": "2026-08-19T01:53:18Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -858,18 +858,6 @@
       "description": "👉 Higgsfield (get discount + free credits): https://higgsfield.ai/?fpr=keith41\n👉 Free prompts + website templates: https://www.uiprompts.app/\n\nThis looks like a 3D website, but there's no 3D model and it's not a video player. The entire cinematic is broken into hundreds of individual frames — and your scroll wheel is the playhead.\nHiggsfield generated the visuals. Claude Code built the site. Fable 5 ran the whole process: generating assets, writing code, checking results, and fixing its own mistakes. Total cost: about $13 in Higgsfield credits.\nI'll show you the full process — 5 keyframes → 4 cinematic clips → a website that plays the film as you scroll. Including the mistakes I made, because the first results did NOT come out right.\n\n00:00 Scroll Controlled Cinema\n01:02 How The Tech Works\n01:59 Five Step Overview\n03:33 Hixfield Setup And Plans\n06:10 Connect The MCP Tools\n08:09 UI Prompts MCP Templates\n10:58 Keyframes Make Or Break\n12:14 Generate Five Keyframes\n14:59 Turn Clips Into Website\n16:21 Style Variations And Prompts\n17:15 Cost Breakdown And Credits\n18:32 Deploy Live With Railway\n20:53 Final Thoughts And Next Steps\n\n🔗 LINKS MENTIONED\nHiggsfield (discount + free credits): https://higgsfield.ai/?fpr=keith41\nUI Prompts — free keyframe prompts, video prompts, and 100+ website templates: https://www.uiprompts.app/\n\n📚 WHAT YOU'LL LEARN\n• Why keyframes matter more than anything else (and why generating one bad video costs 36x more than a bad image)\n• How to connect the Higgsfield MCP to Claude, Claude Code, ChatGPT, OpenClaw, and Hermes\n• The prompt structure that stops your keyframes looking like AI slop\n• Why chaining short clips beats generating one long video\n• How to break a video into hundreds of frames and scrub it with the scroll wheel\n• Publishing it live with Railway + GitHub instead of leaving it on localhost\n\n🤝 JOIN THE FREE COMMUNITY\nGot questions? Join my free Skool: https://www.skool.com/keith-ai-3958\n\n#AI #ClaudeCode #Higgsfield #WebDesign #AIVideo",
       "commentCount": 8,
       "likeCount": 54,
-      "probeClient": "web_embedded"
-    },
-    "Df2HYYjz9IU": {
-      "checkedAt": "2026-08-14T17:53:15Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "$13 Cinematic Website\n\nhttps://youtu.be/IMuaIXPLhd0?si=a6Y7oBAZlk9imQfe\n\n00:00 Short 1 - Scroll Playhead",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-07-31T15:53:47Z",
-      "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "dFbMLcBhnsk": {
@@ -6707,18 +6695,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "FGFit4hA5pE": {
-      "checkedAt": "2026-08-18T19:53:12Z",
-      "embedAllowed": true,
-      "description": "A company built a headset that lets you take control of your own dreams.\n\nIn a normal dream, the part of your brain that makes decisions is dialed down, so dreams run wild and you just get dragged along. This device gently wakes it back up while you sleep. That's a lucid dream: asleep, but able to think and act in a world with zero risk. It's made by Prophetic, using gentle focused ultrasound on that exact spot. Imagine rehearsing something that scares you, or solving a hard problem where nothing can go wrong.\n\nHonest note: no proven effect yet, it's a bold bet, not finished magic. Pre-orders are open, first units ship end of year.\n\nI share more like this in my community, link in bio.\n\n#luciddreaming #neurotech #ai #gadgets #sleep",
-      "commentCount": 0,
-      "likeCount": 30,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-18T19:53:12Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded",
-      "availability": "public"
-    },
     "C4v-E66zTik": {
       "checkedAt": "2026-08-18T02:53:06Z",
       "embedAllowed": true,
@@ -7375,7 +7351,7 @@
       "probeClient": "web_embedded"
     },
     "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-19T00:53:17Z",
+      "checkedAt": "2026-08-19T01:53:18Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7424,7 +7400,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-19T00:53:17Z",
+      "checkedAt": "2026-08-19T01:53:18Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7671,14 +7647,14 @@
       "probeClient": "web_embedded"
     },
     "UgGMGhJPDAc": {
-      "checkedAt": "2026-08-18T01:53:05Z",
+      "checkedAt": "2026-08-19T01:53:18Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Elon Musk just open-sourced the actual algorithm behind X's For You feed. Now you can see why some posts fly and others don't.\n\nEvery post comes from two places: people you follow, and an ML system that surfaces people you don't. The model predicts what you'll do with a post, reply, repost, share, like or report, multiplies each probability by its weight, and sums it into one score that decides if it reaches you.\n\nWhat stands out from the open weights: replies the author answers, reposts and link shares are worth the most, while a plain like sits near the bottom. An external link inside the post actually drags reach down. And one report hits a post like it lost almost 500 likes of reach.\n\nThe weights are public now, so this isn't guessing, it's straight from the code.\n\nI share more about AI in my community, link in bio.\n\n#x #twitter #algorithm #ai #socialmedia",
       "commentCount": 0,
-      "likeCount": 0,
+      "likeCount": 23,
       "comments": [],
-      "commentsFetchedAt": "2026-08-18T01:53:05Z",
+      "commentsFetchedAt": "2026-08-19T01:53:18Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -8179,15 +8155,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "2iboo7fS2cg": {
-      "checkedAt": "2026-08-18T15:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "SALES വേണോ ഇത് ചെയ്യരുത്...! Sales Growth. \nZero Cost DIGITAL MARKETING.\n- \n#zerocostmarketing #zerorupeemarketing #marketing #anoopdigital #digitalmarketing #newdigitalmarketing \n-\nLearn DM with ZERO RUPEE MARKETING STRATEGY.\nFor More Click: https://creator.tagmango.app/zerocostmarketing3\n\nWelcome to Anoop Digital! 🚀 I am Anoop K, a Zero Cost Marketing Expert and the founder of Pixaago Digital Marketing Agency and Zero Cost Marketing.\n\nAre you a business owner tired of burning your hard-earned money on unpredictable paid ads? \nYou are in the right place. On this channel, I share proven Zero Rupee Marketing strategies, marketing automation secrets, and scaling blueprints that help entrepreneurs scale their monthly revenue from 1 Lakh to 10 Lakh—completely organically!\n\nWhat you will learn here:\n\n⚙️ Advanced Marketing Automation using tools.\n💎 High-Ticket 'Hard Farming' models to attract premium, high-paying clients.\n📈 Scalable team building and smart business workflow architectures.\n🎯 Practical, zero-budget organic growth frameworks.\n\nStop spending on ads that don't convert. Subscribe now to build a business system that runs 24/7 on autopilot!\nWho should see this inspiration and drop a \"❤️\" if you believe in the power of starting early!\n-\n-\nANOOP DIGITAL\nDigital Consultant & Trainer\nKERALA - INDIA\n-\n#digitalmarketing #socialmediamarketing #digitalmarketingexpert #zerocostmarketing #zerorupeemarketing",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "8VbNr53V6vk": {
       "checkedAt": "2026-08-18T16:53:10Z",
       "embedAllowed": true,
@@ -8248,17 +8215,8 @@
       "likeCount": 28,
       "probeClient": "web_embedded"
     },
-    "LcG0cmoaNWc": {
-      "checkedAt": "2026-08-18T16:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Join the Rank Expand Academy ⤵️\nhttps://www.skool.com/rank-expand-academy\n\n⤵️ Summary ⤵️\nIn this video, I detail how I build and make money w/ AI Rank and Rent websites. \n\nWhy watch?\n👋hey, I’m Jesse!  I’ve spent the past decade+ helping businesses grow through SEO, automation, and AI. I’ve built and scaled multiple companies, from roofing and local services to international financial firms, and I run Rank Expand—an agency + academy that’s generated millions in organic revenue using systems most people don’t even know exist.\n\nA lot of people talk about SEO or AI automation, but very few show you what actually works when it comes to driving revenue. This channel is me pulling back the curtain and showing you the exact systems, microsites, and AI automations that are making real money right now.\n\nI’ve used these exact strategies to generate millions in organic revenue and I want to help you do the same.\n\nSubscribe for more, and let me know in the comments what you’re working on so I can create content around it.",
-      "commentCount": 1,
-      "likeCount": 34,
-      "probeClient": "web_embedded"
-    },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T00:53:17Z",
+      "checkedAt": "2026-08-19T01:53:18Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8290,14 +8248,6 @@
       "likeCount": 143,
       "probeClient": "web_embedded"
     },
-    "ml6JT5aNgLs": {
-      "checkedAt": "2026-08-18T17:53:10Z",
-      "embedAllowed": true,
-      "description": "🔥 Integrated MS+PGP Program in Data Science & AI https://www.edureka.co/dual-certification-programs/ms-data-science-pgp-gen-ai-ml-birchwood\n🔥Advanced Certification in Agentic AI Engineering: https://www.edureka.co/agentic-ai-training-course\n\nIn this video, you'll learn how to build an Enterprise AI Agent using the OpenAI Agents SDK and explore the architecture behind production-ready AI applications.\n\nWe'll cover the complete development process, from designing an agent and connecting tools to managing memory, handling context, and orchestrating enterprise workflows. You'll also learn how modern AI agents interact with external systems to automate tasks and improve business operations.\n\n🔴 𝐋𝐞𝐚𝐫𝐧 𝐓𝐫𝐞𝐧𝐝𝐢𝐧𝐠 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐅𝐨𝐫 𝐅𝐫𝐞𝐞! 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐭𝐨 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://edrk.in/DKQQ4Py\n\n📝Feel free to share your comments below.📝\n\n🔴 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐎𝐧𝐥𝐢𝐧𝐞 𝐓𝐫𝐚𝐢𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬\n\n🔵 DevOps Online Training: http://bit.ly/3VkBRUT\n🌕 AWS Online Training: http://bit.ly/3ADYwDY\n🔵 React Online Training: http://bit.ly/3Vc4yDw\n🌕 Tableau Online Training: http://bit.ly/3guTe6J\n🔵 Power BI Online Training: http://bit.ly/3VntjMY\n🌕 Selenium Online Training: http://bit.ly/3EVDtis\n🔵 PMP Online Training: http://bit.ly/3XugO44\n🌕 Salesforce Online Training: http://bit.ly/3OsAXDH\n🔵 Cybersecurity Online Training: http://bit.ly/3tXgw8t\n🌕 Java Online Training: http://bit.ly/3tRxghg\n🔵 Big Data Online Training: http://bit.ly/3EvUqP5\n🌕 RPA Online Training: http://bit.ly/3GFHKYB\n🔵 Python Online Training: http://bit.ly/3Oubt8M\n🌕 Azure Online Training: http://bit.ly/3i4P85F\n🔵 GCP Online Training: http://bit.ly/3VkCzS3\n🌕 Microservices Online Training: http://bit.ly/3gxYqqv\n🔵 Data Science Online Training: http://bit.ly/3V3nLrc\n🌕 CEHv12 Online Training: http://bit.ly/3Vhq8Hj\n🔵 Angular Online Training: http://bit.ly/3EYcCTe\n\n🔴 𝐄𝐝𝐮𝐫𝐞𝐤𝐚 𝐑𝐨𝐥𝐞-𝐁𝐚𝐬𝐞𝐝 𝐂𝐨𝐮𝐫𝐬𝐞𝐬\n\n🔵 DevOps Engineer Masters Program: http://bit.ly/3Oud9PC\n🌕 Cloud Architect Masters Program: http://bit.ly/3OvueZy\n🔵 Data Scientist Masters Program: http://bit.ly/3tUAOiT\n🌕 Big Data Architect Masters Program: http://bit.ly/3tTWT0V\n🔵 Machine Learning Engineer Masters Program: http://bit.ly/3AEq4c4\n🌕 Business Intelligence Masters Program: http://bit.ly/3UZPqJz\n🔵 Python Developer Masters Program: http://bit.ly/3EV6kDv\n🌕 RPA Developer Masters Program: http://bit.ly/3OteYfP\n🔵 Web Development Masters Program: http://bit.ly/3U9R5va\n🌕 Computer Science Bootcamp Program : http://bit.ly/3UZxPBy\n🔵 Cyber Security Masters Program: http://bit.ly/3U25rNR\n🌕 Full Stack Developer Masters Program : http://bit.ly/3tWCE2S\n🔵 Automation Testing Engineer Masters Program : http://bit.ly/3AGXg2J\n🌕 Python Developer Masters Program : https://bit.ly/3EV6kDv\n🔵 Azure Cloud Engineer Masters Program: http://bit.ly/3AEBHzH\n\n\nPlease write back to us at sales@edureka.co or call us at IND: 9606058406 / US: +18885487823 (toll-free) for more information.",
-      "commentCount": 0,
-      "likeCount": 42,
-      "probeClient": "web_embedded"
-    },
     "NZYyUcq2APg": {
       "checkedAt": "2026-08-18T18:53:11Z",
       "embedAllowed": true,
@@ -8323,24 +8273,6 @@
       "description": "🔥Microsoft Applied Agentic AI: Systems Design & Impact - https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=3_JkcrnUyzg&utm_medium=DescriptionFF&utm_source=Youtube\n🔥AI Accelerator Program - From Prompts to Agentic Workflows - https://www.simplilearn.com/ai-accelerator-program?utm_campaign=3_JkcrnUyzg&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Microsoft Applied Generative AI and Agentic AI Specialization - https://www.simplilearn.com/microsoft-applied-ai-course?utm_campaign=3_JkcrnUyzg&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Virginia Tech Applied Agentic AI: Systems Design & Impact - https://www.simplilearn.com/vt-applied-agentic-ai-course?utm_campaign=3_JkcrnUyzg&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Michigan Engineering Generative AI Applications for Leaders - https://www.simplilearn.com/generative-ai-for-business-transformation?utm_campaign=3_JkcrnUyzg&utm_medium=DescriptionFF&utm_source=Youtube\n\n\n\nIn this video, Generative AI in Data Analytics 2026, you’ll learn how generative AI is transforming the way data analysts work with data, insights, and decision-making. This complete tutorial covers how to use large language models (LLMs) and generative AI tools to automate data cleaning, write SQL queries, perform exploratory data analysis (EDA), create visualizations, and generate narrative summaries from dashboards.\n\nYou’ll explore practical use cases such as natural language querying (NLQ), automated insight generation, synthetic data creation, anomaly detection, and AI-assisted data storytelling. We’ll also cover popular GenAI tools and platforms like ChatGPT, Gemini, Microsoft Copilot, Power BI Copilot, Tableau Pulse, Snowflake Cortex AI, and Databricks Genie, along with prompt engineering techniques tailored for data analytics workflows.\n\nBy the end of this video, you’ll understand how to integrate generative AI into your analytics projects, validate AI outputs responsibly, and work faster and smarter as an AI-powered data analyst in 2026\n\nRelated Videos:\n✅ 1. https://youtu.be/2R-niMsB0QY?si=C-9HTi9ElTExy6ue\n✅ 2.https://youtu.be/8tGJyBO9FpY?si=3Jv8yvmq-g7-Ki1g\n✅ 3.https://youtu.be/phkxmDo0TlQ?si=MfFANrmEdPLH6SE1\n✅ 4.https://youtu.be/RNv151uyxfU?si=nN12W8BJjfxowWt-\n✅ 5. https://youtu.be/gCWXIekVdgI?si=wcUfj3yAx2yP_s4f\n\n✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More AI Videos By Simplilearn: https://youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq   \n\n#GenerativeAIInDataAnalytics2026 #GenerativeAIForDataAnalyticsTutorial #GenAIPoweredDataAnalyticsCourse #DataAnalyticsWithGenerativeAIAndLLMs #SyntheticDataAndDataAugmentationWithGenAI #GenAIForETLEDAAndVisualization #NaturalLanguageToSQLForAnalytics #AIGeneratedDashboardsAndInsights #ForecastingAndRiskAnalysisWithGenAI #AIPoweredBusinessIntelligence2026 #DataAnalyticsAndGenAICareerSkills #SimplilearnGenerativeAIInDataAnalyticsCourse\n\n➡️ About Applied Agentic AI: Systems, Design & Impact\n\nThis Agentic AI program offers an end-to-end learning path across AI foundations, generative AI, LLM internals, and multi-agent systems. Learners build practical expertise in agent design, planning frameworks, and go-to-market strategy to drive AI product innovation.\n\nKey Features\n\n✅ Master agentic AI systems, planning frameworks, multi-agent ecosystems, and product strategy in a 10-week, practitioner-level program\n✅ Stay ahead of emerging AI trends through Simplilearn's AI Impact Studio and build the skills to identify AI opportunities, automate workflows, and build intelligent AI solutions\n✅ Develop expertise in agentic frameworks, multi-agent systems, RAG, MCP, planning systems, workflow automation, and more\n✅ Work tools and frameworks like LangChain, AutoGen, CrewAI, n8n, Lovable, Miro, Figma, LangSmith, Jupyter\n✅ Brush up on Python essentials and AI-ready workflows before diving into the core Agentic AI courses\n✅ Join live, online interactive classes with peer-to-peer engagement on Slack, mentoring sessions, and dedicated cohort support\n✅ Earn a joint program completion certificate from Microsoft and Simplilearn\n✅ Secure Microsoft Learn badges on the Microsoft Learn portal for the Microsoft-branded courses\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n\nSkills Covered\n✅Workflow Automation\n✅ Agentic Frameworks\n✅ MultiAgent Systems\n✅ Intelligent Automation\n✅ GTM for Agentic AI\n✅ Ethics and Transparency\n✅ LLM Function Calling\n✅ Planning Systems\n✅ Prompt Engineering\n✅UX and UI with Agentic AI\n✅ Copilots\n✅MCP\n✅ RAG\n\n👉 Enroll Now:https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=3_JkcrnUyzg&utm_medium=DescriptionFF&utm_source=Youtube",
       "commentCount": 1,
       "likeCount": 19,
-      "probeClient": "web_embedded"
-    },
-    "xQTr0Ottk8s": {
-      "checkedAt": "2026-08-18T18:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Top 6 Courses Every Student Must Do in 2026\n\nIn this video, I’ve shared beginner-friendly courses on Claude, prompting, system design, machine learning, and AI agents.\nThese courses will help you build strong fundamentals and kick-start your journey into AI and modern technology.\n\n✨ RESOURCES:\n\n✅ Courses\n1. CS50 Course : https://www.youtube.com/playlist?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6 \n\n2.Google Machine Learning Course : \n- https://developers.google.com/machine-learning/crash-course \n- https://www.coursera.org/specializations/machine-learning-introduction? \n\n3. Prompt Engineering for Developers : https://www.deeplearning.ai/courses/chatgpt-prompt-eng\n\n4. Claude Courses : https://claude.com/resources/courses?utm_source=chatgpt.com \n\n5. AI Agents : https://www.deeplearning.ai/courses/agentic-ai  \n\n6. System Design : \nCourse 1- https://bytebytego.com/guides/guides/system-design-blueprint-the-ultimate-guide/\nCourse 2- https://www.techprep.app/system-design/guide\n\n✅ Youtube Channels \nMachine Learning  \n1. https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH \n2. https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw \n\nClaude\n1. https://www.youtube.com/watch?v=iLyDaoqO784&t=209s \n2. https://www.youtube.com/watch?v=TAKDIvvUdc4\n3. https://www.youtube.com/watch?v=erjhvDCg5po \n\nSystem Design - https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX \n\n🔥 CHAPTERS : \n00:00 - Intro\n00:35 - CS50 \n01:55 - Machine Learning Courses\n03:26 - Prompting for Developers\n04:14 - Claude Courses\n05:50 - Agentic AI course\n06:55 - System Design Courses \n08:03 - Conclusion\n\n📅Join LMT JOB Updates on Telegram for Daily Job Updates : https://t.me/LMTPlacements\n\nLets Connect  :\nLast Moment Tuitions\n📱Instagram :https://www.instagram.com/lastmomenttuition\n📝 Linkedin : https://www.linkedin.com/company/last-moment-tuitions\n🌎 Website : https://lastmomenttuitions.com/\n\nSumer\n📝 LinkedIn : https://www.linkedin.com/in/sumersingh-rajpurohit/\n📱 Instagram : http://instagram.com/sumersinghshow\n\nTAGS : \nai courses, best ai courses, ai courses for beginners, artificial intelligence courses, learn ai, machine learning courses, machine learning for beginners, prompt engineering, prompting course, Claude AI, Claude course, AI agents, agentic AI, AI agent course, system design course, system design for beginners, generative AI, generative AI courses, LLM course, AI roadmap, machine learning roadmap, AI engineer roadmap, best courses for AI, AI learning resources, AI resources, tech courses, coding courses, learn artificial intelligence, how to learn AI, AI tools, AI career roadmap, \n\nHashtags: \n#ai  #aifreecourses #artificialintelligence #aicourses #claude",
-      "commentCount": 3,
-      "likeCount": 54,
-      "probeClient": "web_embedded"
-    },
-    "iqBm_MNuChg": {
-      "checkedAt": "2026-08-18T18:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What happens when AI moves beyond generating answers and starts taking action?\n\nWelcome to the first video in my Agentic AI series, where we explore how AI agents work and why they represent a major evolution beyond traditional Generative AI.\n\nIn this video, we go beyond the buzzwords and break down the architecture behind modern AI agents — including how LLMs, memory, tools, planning, orchestration and guardrails work together to create systems capable of pursuing goals and executing multi-step workflows.\n\n🚀 In this video, you'll learn:\n\nIntroduction to Agentic AI\nFrom Generative AI to Agentic AI\nWhat exactly is an AI Agent?\nThe Agentic AI Loop\nInside an AI Agent\nThe role of LLMs\nMemory and Context\nTools and Tool Calling\nPlanning and Task Decomposition\nFrom Prompt to Action\nSingle-Agent vs Multi-Agent Systems\nAI Software Engineering Agents\nEnterprise AI Agents\nProduction Agentic AI Architecture\nAgentic AI Technology Stack\nChallenges, Security & Guardrails\nThe Future of Agentic AI\nFinal Thoughts\n\n🧠 What is Agentic AI?\n\nTraditional Generative AI primarily focuses on generating responses.\n\nAgentic AI takes the concept further.\n\nAn AI agent can interpret a goal, reason about the required steps, use tools, access information, execute actions, evaluate the results and potentially iterate until the objective is achieved — all within defined boundaries.\n\nThe fundamental shift is:\n\nFrom answering prompts → to accomplishing goals.\n\n🏗️ Topics covered\nAI Agents\nAgentic AI\nLarge Language Models (LLMs)\nAI Agent Architecture\nAgentic AI Loop\nAI Agent Memory\nTool Calling\nFunction Calling\nPlanning & Reasoning\nAgent Orchestration\nMulti-Agent Systems\nEnterprise AI\nAI Software Engineering Agents\nAI Agent Security\nAI Guardrails\nAutonomous AI Systems\n🎯 Who is this video for?\n\nThis video is useful for:\n\nSoftware Engineers\nFull-Stack Developers\nFrontend Engineers\nBackend Engineers\nAI Engineers\nSolution Architects\nSoftware Architects\nEngineering Managers\nTechnology Leaders\nDevelopers moving into AI Engineering\n\nYou don't need to be an AI researcher to understand the concepts. The goal is to build a strong architectural understanding of how agentic systems work.\n\n🔥 The bigger picture\n\nGenerative AI taught machines how to create.\n\nAgentic AI is teaching machines how to accomplish.\n\nAnd that shift could fundamentally change how we build software.\n\nIf you found this useful, consider subscribing.\n\nIn the upcoming videos, we'll move from concepts into implementation and explore how to build AI agents, give them tools and memory, create multi-agent systems, and integrate agentic AI into real-world applications.\n\n#AgenticAI #AIAgents #GenerativeAI #ArtificialIntelligence #LLM #AIEngineering #SoftwareArchitecture #MachineLearning #AI #Tech",
-      "commentCount": 0,
-      "likeCount": 1,
       "probeClient": "web_embedded"
     },
     "TfvA0R1Oxb8": {
@@ -8561,12 +8493,6 @@
       "likeCount": 112,
       "probeClient": "web_embedded"
     },
-    "fNLDWTkAye0": {
-      "checkedAt": "2026-08-19T00:53:17Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "oI8iuCs8BHA": {
       "checkedAt": "2026-08-19T00:53:17Z",
       "embedAllowed": true,
@@ -8589,6 +8515,83 @@
       "description": "Try Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica \n\nKimi K3 is the largest open-source AI model ever released: 2.8 trillion parameters, a 1M token context window, and benchmark scores that trade blows with Claude and GPT at a third of the price. In this video I break down what it is, how good it actually is, what it costs, and then show you three ways to use it for coding: Moonshot's own Kimi Code CLI, your existing Claude Code setup with three environment variables, and Cursor's native integration. Then we build a full app with it from a single prompt.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n  \n🚀 Tools I Use\nTry Granola, the AI notepad I use for every meeting (100% off your first month): https://go.granola.ai/timothy-ruscica \nGet 10% off with code TECHWITHTIM\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:30 | What is Kimi K3? \n01:36 | Benchmarks \n02:01 | Kimi Subscription \n02:23 | Pricing \n03:10 | How to Run it? \n06:17 | Granola, the AI Assistant\n07:26 | Full Builds with Kimi\n12:45 | Honest Analysis \n\n🔗 Links\nKimi Code CLI: https://github.com/MoonshotAI/kimi-code\nKimi K3 weights: https://huggingface.co/moonshotai/Kimi-K3\nKimi API platform: https://platform.kimi.ai\nClaude Code setup docs: https://platform.kimi.ai/docs/guide/claude-code-kimi\nCursor + Kimi K3: https://cursor.com/docs/models/kimi-k3\n\nHashtags\n#KimiK3 #K3 #Kimi\n\nUAE Media License Number: 3635141",
       "commentCount": 19,
       "likeCount": 254,
+      "probeClient": "web_embedded"
+    },
+    "X0Fbi7BvUX0": {
+      "checkedAt": "2026-08-19T01:53:18Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment STACK and I'll send you the links.\n\nMost people pay for five AI tools that these three free repos already replace.\n\nStart with video, HyperFrames from HeyGen. Instead of hand-assembling motion and animation in an editor, you tell an AI agent what you want, it writes the video as code and renders a finished MP4.\n\nFor images and clips there's Open Generative AI, one interface on top of hundreds of models at once, from Flux to Sora and Veo, so you drop several separate generation subscriptions.\n\nAnd instead of keeping ChatGPT, Claude and Gemini in three tabs, LibreChat puts them all in one chat window.\n\nAll three are free and open source.\n\n#ai #aitools #opensource #productivity #buildinpublic",
+      "commentCount": 1,
+      "likeCount": 0,
+      "comments": [
+        {
+          "id": "UgxsT5R6uJa-i7nzhbt4AaABAg",
+          "author": "@chrisnol73",
+          "text": "Stack",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T01:12:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lNrFjZZ61XF8399URyAn23TL_abysD3saKFbImf4vXmuw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-19T01:53:18Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "rJKT1GwHHzU": {
+      "checkedAt": "2026-08-19T01:53:18Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Most agency owners never ask to see the automation running live — and that's exactly how fake \"AI-powered\" agencies get away with charging thousands for manual work.\n\nIn this episode, I break down 5 red flags that separate a real automated system from a front — and at the end, I build the exact system live, on a free Make account, that these agencies charge $5,000+ a month to \"build\" for you.\n\nIf you're an agency owner or solopreneur evaluating an automation vendor, this is the checklist to run before you sign anything.\n\n📌 New podcast episodes every other Tuesday.\n\n#b2bautomation #agencyowner #aiautomation #make #saasscam #coldoutreach #b2bsales #solopreneur",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "5GNWbUua0Nw": {
+      "checkedAt": "2026-08-19T01:53:18Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥 Join Maker School & get client #1: https://www.skool.com/makerschool\n💎 Check out Clairvo: https://clairvo.io\n👋 If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth consultancy. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build systems that generate leads, close deals, and scale businesses, mostly using new AI models like Claude. I also make videos about how to do all of that here on YouTube.\n\nIt hasn't always been this way. My family immigrated from a Soviet bloc country (People's Republic of Bulgaria) in the 90s. They worked extremely hard, and we were broke for a very long time. I grew up wishing for more security, stability, and freedom over my own life.\n\nI don't have a programming degree, and never took formal education for IT or workflows. I learned it all myself from YouTube videos like you're watching now.\n\nAs for my path: I started my first business at 19 in college. We threw events (mostly parties) at campus bars, and charged people for entry. \n\nThat failed to provide me enough money to pay my bills, so at 21, I started another business, a door-to-door marketing agency.\n\nFrom there, every year, I would start several companies, over 10 in total. I did this in a variety of industries, like e-commerce, photography, videography, SaaS, credit repair, etc. Each grew slightly more profitable, until, at 25, I would start 1SecondCopy, a content writing company. A friend and I eventually scaled that to over $90,000/m. It was my first taste of financial independence, and the reason I'm here today.\n\nSince starting my journey, I've grown a fair bit of capital. To diversify my income, at 30, I began investing in other businesses and advising companies on how to grow in the AI era. These include SaaS businesses, like Clairvo, agencies like Dental Connect, and more. \n\nCollectively, the businesses that I own outright or are a part of generate over $10 million per year. This returns far more than the 5-10% you would get in the stock market, but also requires a lot of my active time. There's a tradeoff there, but I greatly prefer active investing, where I have control over the entities I'm a part of.\n\nIt wasn't easy to get here. But I did in the end! For anyone on their own entrepreneurial journey: I wish you luck, happiness, and perseverance. You can make it!\n\nWhat are Daily Updates? ⤵️\nA standalone channel where I do 3 things:\n1. Solve real problems in my business (while narrating them),\n2. Answer a question from my subs/communities,\n3. Brainstorm out loud as to what I'm going to do next\n\nGiven the authenticity I think it'll be a good way to pattern match what I'm doing, see how I approach problem solving, etc. My goal is to serve the entrepreneurial subset of my community, and provide people for whom automation is not the main focus a way to get value.\n\nOther places you can find me ⤵️\n📸 Instagram: https://instagram.com/nick_saraev  \n🤙 Blog: https://nicksaraev.com\n\nThanks for watching!\n\nChapters:\n0:00 intro\n0:36 nate on ux testing your product\n3:11 giovanni on cold offers with no brand\n5:07 how to pick a high ltv niche\n8:12 gotham's jorts on using a patent as proof\n10:27 drew on whether voice agents are worth selling\n12:41 how we took a home services client from $3m to $9m\n15:59 why i work 50% faster at home\n21:47 almost at 500k subs\n23:37 banhammering ai slop in maker zero\n26:24 outro",
+      "commentCount": 13,
+      "likeCount": 42,
+      "probeClient": "web_embedded"
+    },
+    "lBb3O-mhBZ8": {
+      "checkedAt": "2026-08-19T01:53:18Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Join HighLevel Lab — Free Courses, Templates & Snapshots\nhttps://thehighlevellab.com/\n\n⚡ Start HighLevel — Risk FREE 30 Days Trail + $11,674+ Bonuses + 1:1 Support\nhttps://www.gohighlevel.com/highlevel-bootcamp?fp_ref=yourfreetrial\n\n⚡ Already on HighLevel? Upgrade & Unlock $11,674+ in Resources\nhttps://app.gohighlevel.com/offers/affiliate-upgrade?fp_ref=yourfreetrial\n\n⚡ Want Us to Build Your HighLevel System?\nBook a Private Strategy Session:\nhttps://www.pritambhadra.com\n\n\n\n\nFollow Pritam For Business & AI:\nFacebook: https://www.facebook.com/pritam.bhadra.14\nLinkedIn: https://www.linkedin.com/in/pritambhadra/\n\n\n\n\n\n⏱️ Timestamps\n\n00:00 - Introduction\n01:08 - Creating Custom Agents\n04:19 - Voice and Model Configuration\n11:38 - Prompt Engineering\n17:27 - Configuring Agent Actions\n26:46 - Knowledge Base and Call Settings\n30:54 - Agent Behavior and Voice Settings\n36:43 - Deployment and Testing\n41:39 - Business Strategy and Resources\n\n\n\n\n\n\n\n\n\n\n📍 AI Tools I Use to Save 15–20 Hours Every Week\n⚡Create Tutorials, Screen Recordings & Professional Videos Faster with AI\nhttps://refer.tella.com/pritam-bhadra\n\n⚡Speak → Instantly Turn Your Voice Into Text & Control Your Workflow Faster\nhttps://ref.wisprflow.ai/pritam-bhadra\n\n⚡Grow Your YouTube Channel → Grow Your Business\nhttps://vidiq.com/aivideostudio\n\n\n\n\n\n\n\n\n\n\n📄 Disclosure: Some links above are affiliate links. If you sign up through them, we may earn a small commission at no extra cost to you.\nIf you’ve found value in the content, using these links is a simple way to support the work we’re doing. Appreciate you! 🙌",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "kekMlmcr5kM": {
+      "checkedAt": "2026-08-19T01:53:18Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get Your Free AI Growth Plan for your Business: https://www.reprisesai.com/ai-business-growth-plan?utm_source=youtube&utm_medium=video&utm_campaign=Automate+Your+Entire+Business+With+Claude\nWork 1-1 w/me to grow your ai agency: https://theaiaccelerators.com/agency?utm_source=youtube&utm_medium=video&utm_campaign=Automate+your+Entire+Business+With+claude\nJoin the best community for AI entrepreneurs and connect with 19,000+ members: https://www.skool.com/systems-to-scale-9517/about\n\nSign up to our weekly AI newsletter - https://subscribe-forms.beehiiv.com/v3/forms/485f18d4-e9cd-4ce1-bb0a-c202bc6f0488\n\nConnect With Me!\nInstagram - https://www.instagram.com/nicholas.puru/\nX - https://x.com/NicholasPuru\nLinkedIn - https://www.linkedin.com/in/nicholas-puruczky-113818198/\n\n\nAbout Me:\n\nI help people build AI systems that generate leads, close deals, and scale businesses. Two kinds of people, specifically:\n\n1. Business owners who want AI installed in their company — done for them — so it runs the parts that used to eat a full team's time.\n\n2. Aspiring entrepreneurs who want to start their own AI business from scratch. I help them get off the ground, land their first clients, hit their first $10K months, and replace their full-time job.\n\nThen I make videos showing exactly how it all works — what you need to know about AI through guided tutorials, real builds, on real businesses — right here on YouTube.\n\nI founded Reprise AI, an AI consulting and implementation agency. We've deployed AI into 60+ companies across home services, healthcare, real estate, professional services, and e-commerce, driving over $5M in bottom-line revenue for them. I'm also a co-founder of Sync2, which builds voice and front-office AI for healthcare clinics. Alongside the client work, I teach this in the open to millions of people across the world & 20,000+ founders and operators building alongside me in the AI Accelerator community.\n\nI taught myself all of this with no technical background — no CS degree, no formal training. That's exactly why I know it's teachable. If I could figure it out, so can you.\n\nIf you're building something of your own right now or looking to learn and grow your business, you're in the right place. Subscribe, and let's get to work.\n\n\n0:00 - What this course covers\n2:54 - Ch 1: Principles\n3:51 - What AI actually is\n5:14 - It knows nothing about you\n7:38 - How it works underneath\n11:03 - Context is everything\n16:20 - Working memory\n23:33 - Confidently wrong\n40:30 - Files and folders\n43:02 - The CLAUDE.md file\n45:03 - Skills fix the bloat\n47:47 - Models & effort\n48:37 - Coworker vs Claude Code\n54:50 - Ch 2: Building\n56:47 - The five levels\n57:40 - Level 1: prompting\n59:44 - Level 2: projects & memory\n1:02:51 - Level 3: connectors\n1:08:14 - Level 4: artifacts\n1:11:01 - Level 5: skills & plugins\n1:15:49 - Coworker & Claude Code\n1:18:02 - The models\n1:21:23 - The three layers\n1:23:08 - Layer 1: skills\n1:28:34 - The CLAUDE.md file\n1:34:39 - Layer 2: tools\n1:38:07 - Layer 3: triggers\n1:40:25 - Scheduled tasks\n1:43:04 - Plugins\n1:51:19 - Section 2: Claude Code\n1:53:04 - Setting up\n1:55:13 - The memory file\n1:57:00 - Skills\n1:59:02 - Plugins\n2:00:33 - Sub agents\n2:08:19 - Hooks, commands, schedules\n2:16:12 - The accounting build\n2:20:23 - Agent 1: month-end close\n2:25:22 - Agent 2: document intake\n2:29:15 - Agent 3: error catcher\n2:39:20 - Section 3: agents managing agents\n3:02:04 - Ch 3: Opening the books\n3:07:16 - A real client system\n3:10:59 - The real results",
+      "commentCount": 2,
+      "likeCount": 41,
+      "probeClient": "web_embedded"
+    },
+    "7_wdiSZHE9Q": {
+      "checkedAt": "2026-08-19T01:53:18Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Book a Free Partnership Call to Work Directly With Me & My $25M+ Team, We'll Help You Launch & Scale Your Own $100K/Month AI Agency From Scratch: https://now.startgrowsell.ai/partnership-program-?video=7_wdiSZHE9Q\n\n$25M AI Expert Ranks: Every AI Business You Can Start in 2026, because most of them are a complete waste of time and only one keeps clients paying for over 5 years. I've done over $25 million with my AI business in the last 7 years. So here it is, $25m ai expert ranks: every ai business you can start in 2026, from the one that needs luck to the one you should never touch. Which one hits S tier?\n\nTimestamps:\n00:00 - Most are garbage\n00:45 - 6 filters\n01:29 - Everyone's obsessed\n04:36 - Passive income?\n07:51 - Boring but profitable?\n08:55 - $100K to $10K\n11:17 - Build once, forever?\n15:46 - Everyone gets wrong\n19:45 - Most popular one\n21:37 - Bet everything here\n25:53 - Which system?",
+      "commentCount": 11,
+      "likeCount": 45,
+      "probeClient": "web_embedded"
+    },
+    "itEf2x7WapA": {
+      "checkedAt": "2026-08-19T01:53:18Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Work with me: https://go.agentrise.io/5c707213\nGet ranked on Google: https://www.redrank.ai/\n\nThere is a NEW AI Business model that is creating millionaires in 2026. It is not selling AI solutions or even Saas. Yes, shocker, not AI agency? Then what is it? In this video I cover exactly what this new AI business model is that is helping solo founders and entrepreneurs reach record months in revenue.\n\nGet a FREE AI Operating System: https://www.agentrise.io/training\n\n🗣 Join my free community: https://www.skool.com/wifi-life/about\n\n📧 Business Inquiries: lifeofriteshkv@gmail.com\n\nSay hi to me on other platforms 😎\nInstagram: https://www.instagram.com/riteshkv_/\nLinkedin: https://www.linkedin.com/in/ritesh-verma-b35bb0169/\nX: https://x.com/riteshkv_",
+      "commentCount": 5,
+      "likeCount": 153,
       "probeClient": "web_embedded"
     }
   }

@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T00:53:17Z",
+  "updatedAt": "2026-08-19T01:53:18Z",
   "items": [
+    {
+      "id": "X0Fbi7BvUX0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-19T01:00:23Z",
+      "firstSeenAt": "2026-08-19T01:53:18Z"
+    },
+    {
+      "id": "rJKT1GwHHzU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Capital Pulse Lab",
+      "publishedAt": "2026-08-18T21:53:18Z",
+      "firstSeenAt": "2026-08-19T01:53:18Z"
+    },
+    {
+      "id": "5GNWbUua0Nw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nick Saraev Daily Updates",
+      "publishedAt": "2026-08-18T18:53:18Z",
+      "firstSeenAt": "2026-08-19T01:53:18Z"
+    },
+    {
+      "id": "lBb3O-mhBZ8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pritam Bhadra GHL",
+      "publishedAt": "2026-08-18T16:53:18Z",
+      "firstSeenAt": "2026-08-19T01:53:18Z"
+    },
+    {
+      "id": "kekMlmcr5kM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nick Puru | AI Automation",
+      "publishedAt": "2026-08-18T15:53:18Z",
+      "firstSeenAt": "2026-08-19T01:53:18Z"
+    },
+    {
+      "id": "7_wdiSZHE9Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "JP Middleton",
+      "publishedAt": "2026-08-18T15:53:18Z",
+      "firstSeenAt": "2026-08-19T01:53:18Z"
+    },
+    {
+      "id": "itEf2x7WapA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ritesh Verma",
+      "publishedAt": "2026-08-18T14:53:18Z",
+      "firstSeenAt": "2026-08-19T01:53:18Z"
+    },
     {
       "id": "eF20iepBQCU",
       "type": "long",
@@ -18413,6 +18469,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-19T01:53:18Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 1,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
