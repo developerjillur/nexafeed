@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T02:53:19Z",
+  "updatedAt": "2026-08-19T03:53:20Z",
   "items": [
+    {
+      "id": "BTdZWFh1gDM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-19T03:15:15Z",
+      "firstSeenAt": "2026-08-19T03:53:20Z"
+    },
+    {
+      "id": "TMPUUyQC5aM",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-19T02:57:20Z",
+      "firstSeenAt": "2026-08-19T03:53:20Z"
+    },
+    {
+      "id": "IeT5Jn7d1aM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Matt Wolfe and Joe Fier",
+      "publishedAt": "2026-08-18T21:53:20Z",
+      "firstSeenAt": "2026-08-19T03:53:20Z"
+    },
+    {
+      "id": "ud7wzdiM0gk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Zubair Trabzada | AI Workshop",
+      "publishedAt": "2026-08-18T21:53:20Z",
+      "firstSeenAt": "2026-08-19T03:53:20Z"
+    },
     {
       "id": "wxAj3KZVOQY",
       "type": "short",
@@ -18535,6 +18567,15 @@
       "channelsChecked": 33,
       "warnings": 28,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-19T03:53:20Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 30,
+      "secondaryQuery": "AI automation"
     }
   ]
 }

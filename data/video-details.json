@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T02:53:19Z",
+  "updatedAt": "2026-08-19T03:53:20Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -3412,15 +3412,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "PQBYZQqan2g": {
-      "checkedAt": "2026-08-12T04:10:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=grok-bot&hcategory=youtube-videos&utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nGrok Bot makes it surprisingly easy to spin up a team of specialized AI agents that stay synced across your computer and phone. \n\nIn this video, I walk through agent computers, teachable skills, scheduled routines, Slack triggers, agents messaging each other, and a live multi-agent website build. I also break down where GrokBot fits next to Claude Code, Codex, and Hermes, plus the limitations you should know before building your whole workflow around it.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n\nTIMESTAMPS \n0:00 Meet Grok Bot\n0:56 Bot Setup & Computer Use\n3:05 Connectors & Morning Routines\n7:06 Self-Improving Skills & Triggers\n11:51 Shared Skills & Agent Messaging\n13:37 Mobile Control\n14:36 Limitations & Best Use Cases\n16:01 Multi-Agent Website Build\n18:56 Avoiding Agent Hype\n20:08 Final Thoughts",
-      "commentCount": 31,
-      "likeCount": 157,
-      "probeClient": "web_embedded"
-    },
     "-Dxkost8GHU": {
       "checkedAt": "2026-08-13T04:53:41Z",
       "embedAllowed": true,
@@ -5181,29 +5172,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded",
       "availability": "public"
-    },
-    "Q9VhGGfeHP0": {
-      "checkedAt": "2026-08-17T00:53:46Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 1,
-      "likeCount": 312,
-      "comments": [
-        {
-          "id": "UgyPDtS-gKTmCQPmJnF4AaABAg",
-          "author": "@TayTaylorJames",
-          "text": "Ai jury is mental , like a super code reviewer using multiple cheap openrouter ais , catches code messups every time",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kSswJ_pxNILqnry7jOuS58KcE6kry5sPalbDtXj1POcHE=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-17T00:53:46Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
     },
     "T0fDgDHa46A": {
       "checkedAt": "2026-08-17T04:53:18Z",
@@ -7307,12 +7275,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-19T02:53:19Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "K8z_pZNl_Fw": {
       "checkedAt": "2026-08-18T18:53:11Z",
       "embedAllowed": true,
@@ -7357,7 +7319,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-19T02:53:19Z",
+      "checkedAt": "2026-08-19T03:53:20Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7709,18 +7671,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "jUbpNXEukMY": {
-      "checkedAt": "2026-08-18T14:53:08Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "zetkD-eaWlo": {
-      "checkedAt": "2026-08-18T09:53:04Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "eqMjVxKplgE": {
       "checkedAt": "2026-08-18T10:53:05Z",
       "embedAllowed": true,
@@ -7978,15 +7928,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "jU-L9R9mmN4": {
-      "checkedAt": "2026-08-18T14:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "⭐ Try WP Remote for Free: https://wpremote.com/?utm_source=youtube&utm_medium=social\n\nIn this episode, Christo speaks with Jad Intabli, CEO & Partner at 24SQ, about how a 12-person agency can manage enterprise-scale work without solving every problem by hiring more people.\n\nJad explains why the answer is systems. With the right processes and AI tools, work that once required a 10-hour website audit can now be completed in around 30 minutes — allowing a small team to produce the kind of output that previously required significantly more people.\n\n⭐ Connect with Jad and 24SQ:\n\nLinkedIn: https://www.linkedin.com/in/jad-intabli/\n24SQ: https://24sq.com/\n\nIf you enjoyed this conversation, subscribe to WPDev for more stories and practical lessons from agency leaders.\n\n#agencygrowth #artificialintelligence #agencyretainers #businesssystems #automation #aiagency #jadintabli #24sq #wpdev #wpremote",
-      "commentCount": 0,
-      "likeCount": 4,
-      "probeClient": "web_embedded"
-    },
     "uH_irTkY6RM": {
       "checkedAt": "2026-08-18T15:53:06Z",
       "embedAllowed": true,
@@ -8145,17 +8086,8 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "dboo0BHzsqw": {
-      "checkedAt": "2026-08-18T16:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🇮🇳 INDIA'S JOB MARKET IS CHANGING — ARE WE READY FOR AI?\n\nAI is not the enemy. Technology is not the enemy. The real danger is failing to adapt while the job market changes around you.\n\nIn this detailed Bengali video, I analyse the changing job market of West Bengal and India, the impact of AI and automation, India's unusual economic development, and why the next few years could fundamentally change the way millions of Indians work.\n\n🇮🇳 HOW DID INDIA END UP HERE?\n\nIndia largely skipped the manufacturing-led development path that transformed China into the world's factory. Instead, India built an enormous services economy around BPO, customer service, call centres, IT services, outsourcing, back-office operations, technical support and telecommunications.\n\nThis created millions of jobs and helped build India's urban middle class.\n\nBut there was a weakness: many of these jobs involved tasks that could eventually be standardised, automated or performed by increasingly capable software.\n\nAnd then AI arrived.\n\n🤖 AI AND THE FUTURE OF WORK\n\nGenerative AI, automation, chatbots and AI agents are transforming knowledge work.\n\nCustomer support, data processing, documentation, basic research, content creation, translation and administrative work are increasingly being automated or assisted by AI.\n\nThat doesn't necessarily mean every job disappears.\n\nIt means the JOB itself changes.\n\nAnd people who don't change with it are going to face the biggest pressure.\n\n📉 WHY DOES THE JOB MARKET FEEL SO CRAMPED?\n\nThe problem is that AI disruption is happening inside an already crowded labour market.\n\nMillions of people are competing for a limited number of opportunities while companies are simultaneously trying to increase productivity and reduce costs.\n\nThe result is intense competition, fewer entry-level opportunities, higher expectations and constant pressure to upskill.\n\nAnd West Bengal faces an additional challenge.\n\nFor a state that has historically struggled to create enough large-scale private-sector employment and manufacturing opportunities, the service and outsourcing economy became particularly important.\n\nSo what happens when THAT sector itself starts changing?\n\n💡 TECHNOLOGY IS NOT THE VILLAIN\n\nEvery major technological revolution has destroyed some jobs while creating entirely new ones.\n\nThe printing press, industrialisation, computers and the internet all transformed the labour market.\n\nAI will probably do the same.\n\nThe question isn't:\n\n“HOW DO WE STOP AI?”\n\nThe real question is:\n\n“HOW DO WE ADAPT BEFORE THE MARKET FORCES US TO?”\n\n🇮🇳 INDIA'S NEXT BIG CHALLENGE\n\nIndia missed a significant part of the global manufacturing boom and became a global hub for services and outsourcing.\n\nNow AI is beginning to disrupt that very ecosystem.\n\nCan India create enough new jobs for its enormous workforce?\n\nCan we move towards higher-value technology, manufacturing, research and innovation?\n\nCan West Bengal build a stronger private-sector economy?\n\nAnd most importantly:\n\nWHAT SHOULD AN ORDINARY INDIAN WORKER DO TO SURVIVE AND PROSPER IN THIS NEW ECONOMY?\n\nIf you're working in customer service, BPO, ITES, outsourcing, operations, back-office work or technical support—or you're simply worried about what AI means for your career—this video is for you.\n\n💬 What do you think?\n\nWill AI ultimately create more jobs than it destroys, or are we entering an era where traditional white-collar employment becomes permanently smaller?\n\nComment below. 👇\n\n🔎 SEARCH TAGS:\nAI jobs India, AI job market India, future of jobs India, AI unemployment India, AI taking jobs India, AI and employment, job market India 2026, West Bengal job market, Kolkata job market, jobs in West Bengal, AI India, generative AI jobs, automation jobs India, BPO jobs India, customer service jobs India, outsourcing India, ITES India, Indian economy, India manufacturing, China manufacturing, future of work India, AI career India, চাকরির বাজার, ভারতের চাকরির বাজার, বাংলার চাকরির বাজার, AI এবং চাকরি, ভবিষ্যতের চাকরি, কলকাতার চাকরির বাজার\n\n#AI #ArtificialIntelligence #AIJobs #FutureOfWork #JobsInIndia #IndianJobMarket #WestBengal #Kolkata #AIIndia #GenerativeAI #Automation #Employment #BPO #Outsourcing #IndianEconomy #Manufacturing #CareerIndia #FutureJobs #চাকরি #চাকরিরবাজার #AIএবংচাকরি #বাংলা",
-      "commentCount": 23,
-      "likeCount": 28,
-      "probeClient": "web_embedded"
-    },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T02:53:19Z",
+      "checkedAt": "2026-08-19T03:53:20Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8574,6 +8506,45 @@
       "description": "👉 Connect on WhatsApp : https://wa.link/r12ynr\n\n👉 Quality Lead Generation System : https://youtu.be/VdUFuWRzldg?si=oIM8bgSBUx431uQP\n\n👉 Demo -  My Network Marketing Automation System - https://forms.gle/WgVCdPsGLwAcRjvSA\n\n🚀 Welcome to the channel where network marketing meets smart systems and real scalability.\n\nIf you’re in network marketing (or planning to start) and you’re tired of:\nchasing people, awkward follow-ups, and convincing uninterested prospects…this space is built for you.\n\nHere’s what you’ll actually learn here:\n\n ✅ How to build your network marketing business using digital systems\n ✅ Automated lead generation & onboarding (so you stop “pushing” and start attracting)\n ✅ Ethical, pressure-free ways to create long-term income\n ✅ Simple product positioning so customers understand, trust, and stay\n ✅ Real mindset frameworks to scale without burnout or hype\n\n🎯 Mission:\n\n Help 10,000+ network marketers upgrade from outdated hustle to system-driven growth—so your business runs with you, not on you.\n\n👉 Subscribe if you’re serious about building a modern, scalable network marketing business.\n\n📌 Important Notes:\n\n ✅ This is a business model—not a guaranteed income or job\n ✅ Results depend on skills, consistency, and execution\n\n📢 Stay Connected. Build smart. Grow clean.\n\nMusic Credits : \nMusic: Endless Possibilities \nMusician: VN VideoEditor\n\n \n#foreverlivingproducts, #foreverlivingbusiness, #flp, #flpbusiness, #flpbusinessplan, #flpmarketingplan, #2cc, #4cc, #foreverlivingindia, #networkmarketing, \n\nForever Living Business, Forever Living Business Plan, Forever Living Business Model, Forever Living India, Forever Living Opportunity, Forever Living Company, Forever Living Review, Forever Living Business Hindi, Forever Living Products, Forever Living Products India, Forever Living Products Business, Forever Living Products Business Plan Hindi, Forever Living Products Work From Home, Forever Living Products Part Time Work, Forever Living Products Joining Process, Forever Living Products Joining Fee, Forever Living Products Sponsor ID, Forever Living Products Business Opportunity, Forever Living Products Company Details, Forever Living Products Me Kya Karna Hota Hai, Forever Living Products Me Online Kaam Kaise Kare, Forever Living Products Kaise Sell Kare, Forever Living Products Customers Kaise Banaye, Forever Living Products Leads Kaise Generate Kare, Forever Living Products Profile, Forever Living Products Interview Questions, Forever Living Products Invitation, Forever Living Products Training, Forever Living Products Login, Forever Living Products App, Forever Living Products Levels, Forever Living Products Salary, Forever Living Products Exposed, Forever Living Products Fake Or Real, Forever Living Products Scam Or Real, Forever Living Products Fraud Hai Kya, Forever Living Products Mehenga Kyu Hai, Forever Living Products All Products List, Forever Living Products Office India, Forever Living Products Price List, Forever Living Products Buy Online, Forever Living Products Retail, Forever Living Products Automation, Forever Living Products Business Explained, Forever Living Business Explained, How Forever Living Works, How To Join Forever Living Products Business, How To Build Forever Living Business, How To Sell Forever Living Products Online, How To Retail Forever Living Products, How To Complete 2CC, 2CC Kya Hai, 2CC Kaise Complete Kare, 4CC Kya Hai, 4CC Kaise Kare Har Mahine, Kya 4CC Karna Zaroori Hai, FLP Kaise Join Kare, Forever Kaise Join Kare, FLP Free Joining, FLP Me ID Kaise Banaye, FLP Business Plan, FLP Kya Hai, FLP Business Model, FLP Opportunity, FLP Automation, FLP Customers Kaise Mile, FLP Leads Kaise Generate Kare, FLP Profile, Aloe Vera Gel, Forever Aloe Vera Gel, Aloe Berry Nectar, Forever Aloe Berry Nectar, Aloe Turm, Forever Argi Plus, Forever Active HA, Forever Bee Honey, Forever Arctic Sea, Forever Freedom, Forever Bee Propolis, Forever Move, Forever Lycium Plus, Forever Garlic Thyme, Aloe Heat Lotion, Vitolize Men, iVision Forever, Immublend, Nature Min, Aloe Vera Gelly, Forever Fiber, Forever Active Pro-B, Radiance Face Wash, Radiance Moisturiser, Forever Dream & Desire, Aloe Ever-Shield Deodorant, Jojoba Shampoo, Forever Toothgel, Forever Bright Toothgel, Lip Balm, Scrub, Toner, Eye Cream, Vitamin C, Bhringraj Oil, Forever Living Products For Weight Loss, Forever Living Products For Skin Care, Forever Living Products For Acne, Forever Living Products For Pimples, Forever Living Products For Pigmentation, Forever Living Products For Hair Fall, Forever Living Products Hair Growth, Forever Living Products For Piles, Aloe Vera Gel Benefits, Aloe Vera Gelly Benefits, Forever Bee Honey Benefits, Jojoba Shampoo Benefits, Best MLM Company India, Direct Selling Business, Ethical Network Marketing, Network Marketing Business, Krishna Arora, Achievers Club, Team Fire 64, TLF Creators",
       "commentCount": 3,
       "likeCount": 7,
+      "probeClient": "web_embedded"
+    },
+    "TMPUUyQC5aM": {
+      "checkedAt": "2026-08-19T03:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=9-grok-bot-hacks&hcategory=youtube-videos&utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nIn this video, I break down nine practical Grok Bot hacks that make a team of AI agents easier to teach, manage, and trust. \n\nYou’ll see how I use a chief of staff, shared memory, Composio, ClickUp logging, screen-recorded tasks, routines, and saved browser profiles to turn separate bots into one connected system.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n\nTIMESTAMPS \n0:00 Intro\n0:25 Hack #1\n1:51 Hack #2\n3:30 Hack #3\n4:08 Hack #4\n5:21 Hack #5\n6:12 Hack #6\n7:19 Hack #7\n8:28 Hack #8\n9:17 Hack #9\n10:08 Final Thoughts",
+      "commentCount": 6,
+      "likeCount": 37,
+      "probeClient": "web_embedded"
+    },
+    "BTdZWFh1gDM": {
+      "checkedAt": "2026-08-19T03:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-19T03:53:20Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "IeT5Jn7d1aM": {
+      "checkedAt": "2026-08-19T03:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Exploring what's on the world's mind about AI right now. We'll bring the initial topics but we'll let chat take the wheel on where this conversation goes.\n\nCheck out @joefier",
+      "commentCount": 4,
+      "likeCount": 132,
+      "probeClient": "web_embedded"
+    },
+    "ud7wzdiM0gk": {
+      "checkedAt": "2026-08-19T03:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🧠 Want the finished JARVIS — the 5-minute install 👉  https://www.skool.com/aiworkshop\n\n⚡ FREE JARVIS PROMPT PACK (build your own) 👉 https://www.skool.com/aiworkshop-lite\n\nI built a real life JARVIS AI assistant with Claude Code, and in this video he takes over my computer and does my actual work. He builds a Facebook ad campaign by himself, points an arrow at exactly where I should click in any app, answers from my second brain, and runs my email, calendar, invoices, and even real phone calls by voice.\n\nWhat you'll see:\n• Jarvis takes over my screen, drives the mouse, and narrates everything he does\n• The AI arrow that shows me where to click in any app\n• Hands-free voice control, instant interrupts, and screen memory\n• Gmail, Google Calendar, one-sentence invoices, and phone calls\n• How you can build your own AI assistant with Claude Code\n\nI build AI tools, agents, and automations with Claude Code and turn them into real products. New builds every week.\n\nChapters:\n\n00:00 Jarvis Takes Over My Screen (Cold Open)\n00:23 Meet JARVIS (Built With Claude Code)\n01:38 How Jarvis Sees My Screen\n01:56 The AI Arrow: Where Do I Click? (Instagram)\n03:14 Full Takeover: Jarvis Builds My Meta Ad Campaign\n05:45 He Narrates Everything He Does\n07:14 Safety: He Asks Before Anything Risky\n08:46 Answers From My AI Second Brain\n10:44 Voice Note to Invoice (Telegram)\n13:35 The Phone Line + Security\n14:40 FREE Jarvis Prompt Pack + Community\n16:19 What I'm Building Next\n\n#jarvis #aiassistant #claudecode",
+      "commentCount": 14,
+      "likeCount": 136,
       "probeClient": "web_embedded"
     }
   }
