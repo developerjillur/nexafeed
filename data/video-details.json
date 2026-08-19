@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T12:53:31Z",
+  "updatedAt": "2026-08-19T13:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1096,15 +1096,6 @@
       "likeCount": 293,
       "probeClient": "web_embedded"
     },
-    "ZE1KEgsm_80": {
-      "checkedAt": "2026-08-15T00:28:14Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Uber just shipped an AI agent that builds your whole grocery cart from a photo of a handwritten list — and the interesting part for builders is how little the LLM actually does.\n\nTheir real architecture is a multi-prompt state graph, and most of the boxes are plain deterministic code. The LLM only handles the fuzzy stuff: reading what you meant, judging which product fits. Everything that has to be correct — prices, arithmetic, availability, the cart total — is code the model never touches.\n\n→ The planner LLM doesn't \"go shopping\" — it emits a structured CartPlan (item, search_terms, item_context, price constraints), then hands it to code\n→ \"12 eggs\" resolves to one carton of twelve via a deterministic quantity step, not free LLM arithmetic\n→ A deterministic guardrail can veto a bad output and fall back before it ever reaches your cart\n→ The lesson: when an agent is unreliable, the fix usually isn't a bigger model — it's taking responsibility away from the model and moving anything exact into code\n\nThe rule to steal: LLM handles meaning, code handles truth.\n\nComment \"CART\" and I'll send you the full breakdown.\nWhat's the one thing you'd never let an AI decide?\n\n#AI #AIagents #LLM #systemdesign #softwareengineering #promptengineering #buildinpublic #Uber #machinelearning #agents\n\nLinks:\n• The LLM/code boundary playbook: https://github.com/sunchitanand/ai-builder-resources/blob/main/cart.md\n\n#Shorts",
-      "commentCount": 6,
-      "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
     "GjT7mSMY6O8": {
       "checkedAt": "2026-08-15T13:53:38Z",
       "embedAllowed": true,
@@ -1636,50 +1627,6 @@
       "likeCount": 8,
       "probeClient": "web_embedded"
     },
-    "uD0nZqCa1ik": {
-      "checkedAt": "2026-08-15T13:53:38Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "failureReason": "unavailable",
-      "description": "📸 Instagram: https://bit.ly/ishansharma7390ig\n\nJoin MarkitUpX Discord Server: https://discord.gg/fwSpTje4rh\n\nTimestamps\n\n😁 About Me: https://bit.ly/aboutishansharma\n📱 Twitter: https://bit.ly/ishansharma7390twt\n📝 LinkedIn: https://bit.ly/ishansharma7390li\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE for more AMAZING content! 🌟\n\n3 Books You Should Read\n📈Psychology of Money: https://amzn.to/30wx4bW\n👀Subtle Art of Not Giving a F: https://amzn.to/30zwWbP\n💼Rework: https://amzn.to/3ALsAuz\n\nTech I use every day\n💻MacBook Air M1: https://amzn.to/2YWKPjG\n📺LG 29' Ultrawide Monitor: https://amzn.to/3aG0p5p\n🎥Sony ZV1: https://amzn.to/3ANqgDb\n🎙Blue Yeti Mic: https://amzn.to/2YYbiNN\n⽴Tripod Stand: https://amzn.to/3mVUiQc\n🔅Ring Light: https://amzn.to/2YQlzLJ\n🎧Marshall Major II Headphone: https://amzn.to/3lLhTDQ\n🖱Logitech mouse: https://amzn.to/3p8edOC\n💺Green Soul Chair: https://amzn.to/3mWIxZP\n\n✨ Tags ✨\n\n\n✨ Hashtags ✨",
-      "commentCount": 8,
-      "likeCount": 549,
-      "comments": [
-        {
-          "id": "UgyW14dGjHGJFvxF75B4AaABAg",
-          "author": "@ShabanaYasmeen-g7p",
-          "text": "Hello",
-          "likeCount": 1,
-          "publishedAt": "2026-08-07T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/jrmIEF7Lh6bIDjt0FR9hXaH8dEbtquoBXvXOmqjCCwYvkKRHxi2_Ro12_9_AEdElNKzWnpeL4g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw2R3s8pRkzlunkX294AaABAg",
-          "author": "@Hanshikasehrawat4444",
-          "text": "What if I don’t know anything",
-          "likeCount": 3,
-          "publishedAt": "2026-08-07T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/7POrj-J3IocZTh0Bht7Xo1RMXzL9msqffgHr5l63_q0EG-NwfJ212W3_GSsJsuM2lBhW_e1s0tM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxa682KI8UA-KWDTvp4AaABAg",
-          "author": "@Vcclasses4444",
-          "text": "😂😂😂😂😂😂😂😂😂😂😂😂😂😂😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😂😂🎉🎉😢😢🎉😂😂😢😢🎉😂😢🎉😢🎉😂🎉😢🎉🎉😂😢🎉😢😢🎉🎉😢",
-          "likeCount": 0,
-          "publishedAt": "2026-08-07T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/nO9X1EdUy0RAT4vfBB7KcPrUHfIE99ylhXQp6X-HqLgzA7gWeThIz0TrK_giweq18fVjJpJHmA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-08T11:53:31Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "GuXOwpmwyOQ": {
       "checkedAt": "2026-08-15T13:53:38Z",
       "embedAllowed": true,
@@ -2175,99 +2122,6 @@
           "likeCount": 3,
           "publishedAt": "2026-08-12T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/yX9rN4dk6b3Fl8xxBbuTtYBXXM9tmnKoclFzyVkyMNLEF50nFDVU5vPkxgfSuNZdCeQQaHzyVw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-12T18:53:21Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "DWDI75o3_wY": {
-      "checkedAt": "2026-08-12T18:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 8,
-      "likeCount": 1366,
-      "comments": [
-        {
-          "id": "UgwFlBZyajn_pfeSb6N4AaABAg",
-          "author": "@TheUtkarshhh",
-          "text": "https://www.primeintellect.ai/blog/prime-agent",
-          "likeCount": 4,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/f25cg7-Gpt4o-HrFJk-kmpvwISgAjIux0s1VIUDNBpqLUZF6gMPvWH4wi79kqeSZk864gqTK=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "Ugxsi7VTPbRCmOV0Zdx4AaABAg",
-          "author": "@roshpa9270",
-          "text": "Brother do you know concept of scratchpad ?",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lawf9yWTQpDKE0MLo3587nhlwH_ppxDQse0Bw_-WWV25kHUsQnoRSTBnBBFdxj69wZBg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx3kqXsmAT-VKuqttt4AaABAg",
-          "author": "@SahilKumar-v9t4z",
-          "text": "Why agents memory is week . please tell me some thing on this .....",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T08:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_naVtQgGqLR2mEJBYsUptJWeahbG_5vnBCPaDOqBcwUdRBL6bJjSCLq-kGRbS6uIBwmZQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugyv_QBYPSzxqCiP0Zl4AaABAg",
-          "author": "@SheesShoaib-1",
-          "text": "jab bhi koi naya ai agent aata he sab yahi bolte hen 😂",
-          "likeCount": 1,
-          "publishedAt": "2026-08-12T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/cn1J-WeLlLPqd-BKCHKA-H85qQq1cNfivLdDVfc9yyAyusxTbInn0UGadBQFRveX0NSLLPibTZM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwUUhqEmZYqF083rSN4AaABAg",
-          "author": "@AnkushAgnihotri-q8k",
-          "text": "Good but can't beat humans they are better at cheats",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/xRrxGhjHkiTZK6stIApGjeqxp-toAWs2WGiaZB1ZqCu86rfn6_w99d5U9kOIV3e7r55KRbFm=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxbqIpuMXVuRrfVRw54AaABAg",
-          "author": "@manojkumarsinha3869",
-          "text": "Kimi k3",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kAvXwKhF9W-758960a9XjLrXxvSdrZkX4XZl0vZ0CotMcCwuJe0HKveyMX8NMWQ9UFfw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx9cnt648DJd0ILXjh4AaABAg",
-          "author": "@7niversXedits",
-          "text": "Hi",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T03:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Ju8XTawKjLExAzuWw7GjrP0xJ73w-JbvX3qAFy5E--_U9gjE5J4zJgLi1b3phwYarqmG-tZ1zQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugwf-rQscnmQEZSCc_J4AaABAg",
-          "author": "@Kgtxdewsaiugvb",
-          "text": "Maine ye kiya hai kimi se😂😅",
-          "likeCount": 6,
-          "publishedAt": "2026-08-12T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/c07Q4wbplALBc4A0Ldpm-gIugIye9D1YuFaABmW-GxS3fqYqiPNdI9YXFO3hbbkUNDa9smqQSQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
@@ -3285,15 +3139,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-11T17:53:14Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "N9_ZtZI70yw": {
-      "checkedAt": "2026-08-18T18:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "💬 Comment 𝗨𝗜 and I’ll DM you the link straight away!\n\n#claudecode #shadcn #webdesign #frontend #codingwithai #buildinpublic #aitools #webdev",
-      "commentCount": 73,
-      "likeCount": 408,
       "probeClient": "web_embedded"
     },
     "KE2F1ueYP-o": {
@@ -6595,79 +6440,6 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "bgtPxZ-S9vQ": {
-      "checkedAt": "2026-08-18T15:53:06Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "beware of wrong youtube advice",
-      "commentCount": 6,
-      "likeCount": 13,
-      "comments": [
-        {
-          "id": "UgyyxrJrvMdVaStw76J4AaABAg",
-          "author": "@indianagriculture6170",
-          "text": "0",
-          "likeCount": 0,
-          "publishedAt": "2026-08-18T15:19:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lsIO0KH93OMfL3PN3kkxTUk7TsNceOYa6t219yVP8ios1EvW8tDuW7p3U0VVLxkXJlUA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwHdUK7JhRECFU7vkN4AaABAg",
-          "author": "@IND.SHORTS91",
-          "text": "0",
-          "likeCount": 0,
-          "publishedAt": "2026-08-18T10:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/XpUM-S0PiPB-57nWW9HD8J9_INb-biyEIqTt_ylaC3ZreCHGWAqWFWL-U5-d2bYTZzmhygGeqVc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwMYCTgaXnbjDBpLWR4AaABAg",
-          "author": "@shashantshewani4327",
-          "text": "0",
-          "likeCount": 0,
-          "publishedAt": "2026-08-18T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kQnI7Zh3gQwJq0BHTF9F0n-5B_AWu2B8dyrnDjTDUgig=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzASPOuXkJMxJr9rxx4AaABAg",
-          "author": "@Unmapped_history_official",
-          "text": "0",
-          "likeCount": 0,
-          "publishedAt": "2026-08-18T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/x8Xv5Lh4mTdTwGgAf8-EKt7FfBSzL-vwc6KKS3cBRYolu6L4bXzZXkuyfjL1YJMCqte6zlOzsac=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxGJluhZ1q_Aid00u14AaABAg",
-          "author": "@kavanshah5112",
-          "text": "0",
-          "likeCount": 0,
-          "publishedAt": "2026-08-18T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m-nWmYAxAabWzrDBqpLUqI3mY0naXuYSTNHoctS-sb6w=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxSp1T3ZasdAAk1Wft4AaABAg",
-          "author": "@NeerajMeena098",
-          "text": "0",
-          "likeCount": 0,
-          "publishedAt": "2026-08-18T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/a4MOsmW-jmwpRYtgebdMDFQan0AOr6X0KDo9RGJdR0esT76WlxIFtQV6Zf03NdBDP9mbBWik=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-18T15:53:06Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "fwiGRH4qsFg": {
       "checkedAt": "2026-08-18T15:53:06Z",
       "embedAllowed": true,
@@ -7055,10 +6827,10 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-19T12:53:31Z",
+      "checkedAt": "2026-08-19T13:53:10Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "uUIJPWsHD38": {
       "checkedAt": "2026-08-18T19:53:12Z",
@@ -7820,25 +7592,95 @@
       "probeClient": "web_embedded"
     },
     "9n827BGeDVc": {
-      "checkedAt": "2026-08-18T13:53:08Z",
+      "checkedAt": "2026-08-19T13:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 1,
-      "likeCount": 55,
+      "commentCount": 8,
+      "likeCount": 1851,
       "comments": [
         {
           "id": "Ugy_EV1ZEFH5bqFo7aN4AaABAg",
           "author": "@100xEngineers",
           "text": "GITHUB Repo:\nhttps://github.com/deepseek-ai/deepseek-harness\n\nOFFICIAL page:\nhttps://deepseek.com/harness/en/",
-          "likeCount": 2,
-          "publishedAt": "2026-08-18T13:02:00Z",
+          "likeCount": 20,
+          "publishedAt": "2026-08-19T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/lmQHSNqoTiUYSQmAD6ddVNxeMLwuezSj7JGn681txsIgDlDnHZrQU-JDaUSzGiSwnSZS7gFS=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "UgzbnFVqrZyw5kYdpPR4AaABAg",
+          "author": "@No-Userrfound",
+          "text": "I really need some cheaper alternatives. I’m fed up with paying $200 for ChatGPT and still hitting my weekly limits within 3-4 days. Then I end up spending another $80-100 a day on API costs just to keep my project running, lol. Definitely need something like this",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Arlh97JJIraXUzYeg3YVsQrJyhdfYCmNrQehuYFFQs_E7xPOO99LjMHxqFaYwuU1VMsrfYGVkA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzIaENPzKxXXPrOOY14AaABAg",
+          "author": "@malyajlikhar5605",
+          "text": "Face more than Claude Code 😂. Good one 😂.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lL_luJF3z_FrOLILOjZd-eLpr5cW4oylwOkiu_4TWVkcQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw88kvGn4VGO7SOeUN4AaABAg",
+          "author": "@tkhirianov",
+          "text": "Did someone already try it?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lD2byT9MFOHQUkCMfAHIkWtIFvuoVZY7WrXU6cBkRDJZHr=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzwJYjkx4-k_8TUGxt4AaABAg",
+          "author": "@ssvasia",
+          "text": "I've built a distribution fork for Deepseek harness called Expert OS based out of Chandigarh. Selling 540 million tokens (Deepseek V4, GPT, Owl-Alpha and Opus 4.8) monthly for INR 800 with no hourly or weekly limits. No need to pay 2k+ to get started anymore",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/HiHpCNqrUvTm_DovAdQvKSxUmYzyOLAeeuWlONNi9eMwwOmEx2OgB-mVdr3X9zre6THulh0vBg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyDykArlKU96xcNxEZ4AaABAg",
+          "author": "@omarsaad361",
+          "text": "I cannot keep up with AI, whenever I work on something for a week, I find something new to work on the week after",
+          "likeCount": 13,
+          "publishedAt": "2026-08-18T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_N-kZF1FZlu5cxps_ym6ZDLxOI4YUbwDSrDFVMeixQw0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzucjuchpgN5qIF3GB4AaABAg",
+          "author": "@Jingkhem_builds",
+          "text": "Nice",
+          "likeCount": 2,
+          "publishedAt": "2026-08-18T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/k91iDAUdvZosaVeSdmQ-jh-cujke8IEbI7UnDz7U7cWz7ZXkle7fClDK1oACzzpRXpAAjIVv=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyXcteANcaRqd53QPF4AaABAg",
+          "author": "@nizamchaudhary4460",
+          "text": "use opencode or PI",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kSFy42MJEXnhsulLzCsSsB3z9mT13uKVzEN-WEDlu4eHQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-18T13:53:08Z",
+      "commentsFetchedAt": "2026-08-19T13:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -8018,7 +7860,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T12:53:31Z",
+      "checkedAt": "2026-08-19T13:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8073,15 +7915,6 @@
       ],
       "commentsFetchedAt": "2026-08-18T19:53:12Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "YKtYIvK_fj0": {
-      "checkedAt": "2026-08-18T19:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Want to automate a TradingView indicator without writing Pine Script?\n\nIn this video, I’ll show you step by step how to take almost any TradingView indicator and connect its signals to Altrady for automated trading — even if you don’t know how to code.\n\nWe’ll start by looking at how TradingView indicators generate signals and how to check whether the signal you need is already available as an alert.\n\nThen we’ll look at what happens when it isn’t.\n\nYou’ll learn how to:\n\nCheck whether a TradingView indicator can already generate the alert you need\nWork with built-in and open-source TradingView indicators\nUse AI to modify Pine Script without coding it yourself\nCreate separate Buy and Sell signals\nTurn indicator signals into TradingView alerts\nConnect TradingView alerts to an Altrady TradingView Alert Bot\nUse webhooks to automatically open and close trades\nTest your automation safely before using real funds\n\nWe’ll use practical examples including Bollinger Bands and the Market Structure Break & Order Block indicator by EmreKb, so you can see how the process works with different types of indicators.\n\nThe goal isn't just to automate one indicator.\n\nOnce you understand the workflow, you can use the same process with many of the TradingView indicators you already use.\n\nWhat you'll learn\n\nTradingView Indicator → Signal → Alert → Webhook → Altrady → Automated Trade\n\nNo manual monitoring.\nNo need to write Pine Script yourself.\n\n⚠️ Always test new trading automations with Paper Trading before using real funds. Indicators and automated strategies do not guarantee profitable results.\n\nPrompt ChatGPT/Claude: https://docs.google.com/document/d/1TLhxKNvYMNlslgft2EEw-oDgUfcbZXGe7TuLfnHlyaI/edit?tab=t.0\n\n\nFollow Altrady\n\nX: https://x.com/altradyapp\nDiscord: https://app.altrady.com/discord\n\n0:00 The Two-Step Automation Pre-Check\n1:12 Automating Built-in Indicators\n3:36 Modifying Open-Source Scripts with AI\n7:43 Connecting Alerts to Trading Bots\n15:02 Handling Premium and Paid Indicators\n\n#TradingView #TradingViewIndicators #AutomatedTrading #TradingBot #Altrady #PineScript #CryptoTrading #TradingViewAlerts",
-      "commentCount": 0,
-      "likeCount": 6,
       "probeClient": "web_embedded"
     },
     "fESHXxccvjk": {
@@ -8644,13 +8477,90 @@
       "likeCount": 1,
       "probeClient": "web_embedded"
     },
-    "lBb3O-mhBZ8": {
-      "checkedAt": "2026-08-19T12:53:31Z",
+    "WUnXzzQrw-U": {
+      "checkedAt": "2026-08-19T13:53:10Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "🚀 Join HighLevel Lab — Free Courses, Templates & Snapshots\nhttps://thehighlevellab.com/\n\n⚡ Start HighLevel — Risk FREE 30 Days Trail + $11,674+ Bonuses + 1:1 Support\nhttps://www.gohighlevel.com/highlevel-bootcamp?fp_ref=yourfreetrial\n\n⚡ Already on HighLevel? Upgrade & Unlock $11,674+ in Resources\nhttps://app.gohighlevel.com/offers/affiliate-upgrade?fp_ref=yourfreetrial\n\n⚡ Want Us to Build Your HighLevel System?\nBook a Private Strategy Session:\nhttps://www.pritambhadra.com\n\n\n\n\nFollow Pritam For Business & AI:\nFacebook: https://www.facebook.com/pritam.bhadra.14\nLinkedIn: https://www.linkedin.com/in/pritambhadra/\n\n\n\n\n\n⏱️ Timestamps\n\n00:00 - Introduction\n01:08 - Creating Custom Agents\n04:19 - Voice and Model Configuration\n11:38 - Prompt Engineering\n17:27 - Configuring Agent Actions\n26:46 - Knowledge Base and Call Settings\n30:54 - Agent Behavior and Voice Settings\n36:43 - Deployment and Testing\n41:39 - Business Strategy and Resources\n\n\n\n\n\n\n\n\n\n\n📍 AI Tools I Use to Save 15–20 Hours Every Week\n⚡Create Tutorials, Screen Recordings & Professional Videos Faster with AI\nhttps://refer.tella.com/pritam-bhadra\n\n⚡Speak → Instantly Turn Your Voice Into Text & Control Your Workflow Faster\nhttps://ref.wisprflow.ai/pritam-bhadra\n\n⚡Grow Your YouTube Channel → Grow Your Business\nhttps://vidiq.com/aivideostudio\n\n\n\n\n\n\n\n\n\n\n📄 Disclosure: Some links above are affiliate links. If you sign up through them, we may earn a small commission at no extra cost to you.\nIf you’ve found value in the content, using these links is a simple way to support the work we’re doing. Appreciate you! 🙌",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 4,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-19T13:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "wlWZW0kMCnY": {
+      "checkedAt": "2026-08-19T13:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "learn how to start content for usa audiences",
+      "commentCount": 0,
+      "likeCount": 1,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-19T13:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "sJcnjKe_Kb0": {
+      "checkedAt": "2026-08-19T13:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Have you tried these yourself?\n\n📸 Instagram: https://bit.ly/ishansharma7390ig\n\nJoin MarkitUpX Discord Server: https://discord.gg/fwSpTje4rh\n\nTimestamps\n\n😁 About Me: https://bit.ly/aboutishansharma\n📱 Twitter: https://bit.ly/ishansharma7390twt\n📝 LinkedIn: https://bit.ly/ishansharma7390li\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE for more AMAZING content! 🌟\n\n3 Books You Should Read\n📈Psychology of Money: https://amzn.to/30wx4bW\n👀Subtle Art of Not Giving a F: https://amzn.to/30zwWbP\n💼Rework: https://amzn.to/3ALsAuz\n\nTech I use every day\n💻MacBook Air M1: https://amzn.to/2YWKPjG\n📺LG 29' Ultrawide Monitor: https://amzn.to/3aG0p5p\n🎥Sony ZV1: https://amzn.to/3ANqgDb\n🎙Blue Yeti Mic: https://amzn.to/2YYbiNN\n⽴Tripod Stand: https://amzn.to/3mVUiQc\n🔅Ring Light: https://amzn.to/2YQlzLJ\n🎧Marshall Major II Headphone: https://amzn.to/3lLhTDQ\n🖱Logitech mouse: https://amzn.to/3p8edOC\n💺Green Soul Chair: https://amzn.to/3mWIxZP\n\n✨ Tags ✨\n\n\n✨ Hashtags ✨",
       "commentCount": 1,
-      "likeCount": 2,
+      "likeCount": 49,
+      "comments": [
+        {
+          "id": "UgyIwcR0X0lpJeg73094AaABAg",
+          "author": "@saimotivator",
+          "text": "bro love from Telugu",
+          "likeCount": 1,
+          "publishedAt": "2026-08-19T13:40:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/mjOxE47STamGIWVmaXCukoxxUbsDBSk-wxqys9696y5DWVLa3baokR0qo5AUexgR5wjygn-vjw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-19T13:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "qal6enWMW1w": {
+      "checkedAt": "2026-08-19T13:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "💬 Comment 𝗥𝗨𝗟𝗘𝗦 and I’ll DM you the repo link!\n\n#claudecode #aiagents #codingwithai #developerproductivity #buildinpublic #anthropic #github #softwareengineering",
+      "commentCount": 0,
+      "likeCount": 10,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-19T13:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "1nikl3r0sNM": {
+      "checkedAt": "2026-08-19T13:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Claude skills are folders that give Claude a reusable specialty. The same skill can work for you, one project, or a whole plugin.\n\nClaude Code skills are reusable folders with a required SKILL.md file. The folder address decides who can use that workflow. Put it in your personal Claude folder for every project, inside a repository for that codebase, or inside an enabled plugin so the specialty ships with the tool.\n\nCreate a skill-name folder and place its required SKILL.md file inside it. Personal skills work across your projects. Project skills stay with one repository. Plugins can package a skill with the tool.\n\nLinks:\n- https://github.com/sunchitanand/ai-builder-resources/blob/main/skills.md\n- https://code.claude.com/docs/en/slash-commands\n\nComment \"SKILLS\" and I'll send you the guide.\nWhich home should a great workflow live in first?\n\n#ClaudeCode #AI #Coding #DeveloperTools #Anthropic #AgentSkills\n\n#Shorts",
+      "commentCount": 0,
+      "likeCount": 1,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-19T13:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "jpQ3GMNLt44": {
+      "checkedAt": "2026-08-19T13:53:10Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "9c6Pc0KrrOs": {
+      "checkedAt": "2026-08-19T13:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👍 Try today: https://your.omnisend.com/2R742M\n\nDiscover how Omnisend’s MCP connection brings your ecommerce marketing data directly into ChatGPT and Claude. In this video, I walk through practical examples showing how AI can analyze campaigns, review revenue, check deliverability, compare performance, evaluate automations, and recommend high-value customer segments using real Omnisend account data.\n\nYou’ll also see how teams and agencies can generate executive summaries, identify underperforming emails, and turn complex reports into clear next steps without constantly switching between dashboards. I also cover Omnisend’s free plan, ecommerce integrations, migration support, SMS pricing, and 24/7 customer support.\n\nIf you run a Shopify, WooCommerce, BigCommerce, or Wix store and want a faster way to understand your email and SMS performance, this walkthrough shows what Omnisend MCP can do.\n\nStart with Omnisend using the link in the description or pinned comment and explore the free plan today. See how AI can make everyday ecommerce marketing analysis faster and actionable.\n\n#Omnisend #OmnisendMCP #ChatGPT #ClaudeAI #EmailMarketing #EcommerceMarketing #MarketingAutomation #EmailAutomation #AIForMarketing #Ecommerce #Shopify #SMSMarketing #DigitalMarketing #MCP #AITools",
+      "commentCount": 36,
+      "likeCount": 66,
       "probeClient": "web_embedded"
     }
   }

@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T12:53:31Z",
+  "updatedAt": "2026-08-19T13:53:10Z",
   "items": [
+    {
+      "id": "WUnXzzQrw-U",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-08-19T13:45:08Z",
+      "firstSeenAt": "2026-08-19T13:53:10Z"
+    },
+    {
+      "id": "wlWZW0kMCnY",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-19T13:39:11Z",
+      "firstSeenAt": "2026-08-19T13:53:10Z"
+    },
+    {
+      "id": "sJcnjKe_Kb0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-19T13:35:34Z",
+      "firstSeenAt": "2026-08-19T13:53:10Z"
+    },
+    {
+      "id": "qal6enWMW1w",
+      "type": "short",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-19T13:32:54Z",
+      "firstSeenAt": "2026-08-19T13:53:10Z"
+    },
+    {
+      "id": "1nikl3r0sNM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Get to the Next Level",
+      "publishedAt": "2026-08-19T13:30:35Z",
+      "firstSeenAt": "2026-08-19T13:53:10Z"
+    },
+    {
+      "id": "9c6Pc0KrrOs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BMF MEDIA",
+      "publishedAt": "2026-08-19T13:17:10Z",
+      "firstSeenAt": "2026-08-19T13:53:10Z"
+    },
     {
       "id": "xQCfxvts3-M",
       "type": "short",
@@ -18921,6 +18969,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-19T13:53:10Z",
+      "new": 6,
+      "long": 1,
+      "shorts": 5,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
