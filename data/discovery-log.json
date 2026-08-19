@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T13:53:10Z",
+  "updatedAt": "2026-08-19T14:53:11Z",
   "items": [
+    {
+      "id": "dF9bvpTy6JA",
+      "type": "short",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-19T14:44:40Z",
+      "firstSeenAt": "2026-08-19T14:53:11Z"
+    },
+    {
+      "id": "JkQ3yThkoj4",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-19T14:11:05Z",
+      "firstSeenAt": "2026-08-19T14:53:11Z"
+    },
+    {
+      "id": "L8eExioDF8E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SHAHG",
+      "publishedAt": "2026-08-19T13:53:11Z",
+      "firstSeenAt": "2026-08-19T14:53:11Z"
+    },
+    {
+      "id": "OpVzxitSOLA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "More Clients More Profits With Kase Dean",
+      "publishedAt": "2026-08-19T11:53:11Z",
+      "firstSeenAt": "2026-08-19T14:53:11Z"
+    },
+    {
+      "id": "Wlu3QeiNc5o",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ai with Rajpalsinh ",
+      "publishedAt": "2026-08-19T09:53:11Z",
+      "firstSeenAt": "2026-08-19T14:53:11Z"
+    },
+    {
+      "id": "aoDmXbUug-w",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AIByte",
+      "publishedAt": "2026-08-19T08:53:11Z",
+      "firstSeenAt": "2026-08-19T14:53:11Z"
+    },
+    {
+      "id": "z3eAary17WA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Datalytics LAB",
+      "publishedAt": "2026-08-19T06:53:11Z",
+      "firstSeenAt": "2026-08-19T14:53:11Z"
+    },
     {
       "id": "WUnXzzQrw-U",
       "type": "short",
@@ -18978,6 +19034,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-19T14:53:11Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }

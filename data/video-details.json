@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T13:53:10Z",
+  "updatedAt": "2026-08-19T14:53:11Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -1681,15 +1681,6 @@
       ],
       "commentsFetchedAt": "2026-08-08T13:53:42Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "8D8ewFBJfFM": {
-      "checkedAt": "2026-08-14T13:53:30Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Matt Pocock's Claude Code skills passed 13M downloads, so I studied all 51. As an ex-Amazon engineer, here's what grill-me, to-spec and to-tickets really change about how AI builds your app.\n\nKey takeaways:\n\n- The 5 rules behind grill-me, and why they beat plan mode\n- to-spec keeps code OUT of the spec; to-tickets slices by feature, not layer\n- Code review runs 12 refactoring terms from Martin Fowler, fresh context\n- Deep modules and the deletion test cut token waste and dead code\n- My verdict: on frontier models, modular skills beat Superpowers\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\nTimestamps:\n0:00 Intro\n1:22 Why Matt's Skills\n4:12 /grill-me Rules\n7:06 /to-spec\n8:28 /to-tickets\n9:41 /implement & /tdd\n10:57 /code-review\n13:16 /writing-for-agents\n15:10 Deep Modules\n18:50 /improve-codebase-architecture\n20:46 My Verdict\n23:28 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
-      "commentCount": 80,
-      "likeCount": 1339,
       "probeClient": "web_embedded"
     },
     "RhKMAIJny3Q": {
@@ -3464,99 +3455,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "pznXRdcbMls": {
-      "checkedAt": "2026-08-13T07:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 8,
-      "likeCount": 2282,
-      "comments": [
-        {
-          "id": "UgxgR4q7qCXGT-mA1tF4AaABAg",
-          "author": "@bharatvara9917",
-          "text": "Website to fix kar doge,\nWebsite chalne vale babus ko kaise fix karoge.",
-          "likeCount": 1,
-          "publishedAt": "2026-08-13T07:37:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/_ThXt_K4pvzzdloGjMQc54m7F25sar02MdAZgXguwUaU7lBXwzV-cHqcl5qS_0qtpUUu-CQSdj0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxKuJoysleUU81eaVN4AaABAg",
-          "author": "@kailashnath8129",
-          "text": "yoo I'm interested where is the website how do I contribute",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T07:06:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nq5l06V6B-ayhTWE2-62lnk4od2VojWgpjRVkGw1hBm8w=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx3j6E2wn88p6gqfxh4AaABAg",
-          "author": "@rahulkumarnandepu4301",
-          "text": "Use some Indian made llm models rather than using chat gpt that will be a major security breach into our government sector.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_moWDv7Y40DDuAi_03O-k3JAprjI42fncZojJ-3FyfOvEw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzlVSf5EXVjcxBrvI14AaABAg",
-          "author": "@GSNCBYGIRI",
-          "text": "I thought of doing this I don't have much exposure regarding these fields so let's see how it goes",
-          "likeCount": 1,
-          "publishedAt": "2026-08-13T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/1ucao4hG2qNRbrcJEXwxjBlPhMKqN57kdza7lGAOPZGE6YRZIvrYXRvNNe9pFALk6HzvBH61eg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxOmccV5WGYgdDYvSp4AaABAg",
-          "author": "@aaronsmall6374",
-          "text": "Lets go! Varun trying to fix things that actually matter!😬",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ntUd-wac2Sw8Q_ziXQYgBgJ6VnH4wC8-kmx7Avh035_w=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzHJYG0uRwFT2JA2jh4AaABAg",
-          "author": "@himanshusaini5316",
-          "text": "This man is crossing all levels of being a person that gonna inspire the generations ❤",
-          "likeCount": 0,
-          "publishedAt": "2026-08-13T04:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lL3a2p2kIBbgir_m-rckUr5pkGbwR1ycPtuGmQT3WUuLmQz_5O7czOh4UrUqhwiCJ0IA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzuVaMgf7Cry3ui9XB4AaABAg",
-          "author": "@ArjunSingh-o1h9j",
-          "text": "Damn, I’m learning coding for the same purpose, and that’s one of the reasons I’m doing CSE. When my father used to go for government-related documentation, he often had to make multiple trips because they would just say, “The server is down.” Being a farmer, he had to travel 36 km each time, only to find out that nothing could be done. I hated seeing him go through that. It was literally my dream to become so capable and help gov. Fix these websites but I am still learning python and going to be in first year soon",
-          "likeCount": 1,
-          "publishedAt": "2026-08-12T23:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Vf2NcAe73CWamTQDlGf5Om_YaWyC734hPfcEgEYy23-SRsI6h66VRUAMn41z1zrO85CGvVNh0g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwXPEx5sCpDAcK6S3R4AaABAg",
-          "author": "@hrishekesh7609",
-          "text": "Love what you are doing. Would be great to see the talent we have put to great use.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-12T19:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l0URVqk6nTYXQc9XdeqBh1v4LfuFnJu7xpID-blh9Gh_8R=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-13T07:53:21Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "IiXc5QMXWsk": {
       "checkedAt": "2026-08-13T08:53:29Z",
       "embedAllowed": true,
@@ -3753,12 +3651,12 @@
       "probeClient": "web_embedded"
     },
     "WRe7zdPVxvY": {
-      "checkedAt": "2026-08-12T13:53:46Z",
+      "checkedAt": "2026-08-19T14:53:11Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "Most small business product photos look cheap, and it costs you sales. In this Lovart AI walkthrough I turn one phone photo into a full product shoot: multiple angles, lifestyle scenes, on-brand visuals, and video. No designer, no studio.\n\nLovart is an AI design agent for small businesses, from $19/month.\n\n👉 Try Lovart AI: https://www.lovart.ai/?sourceId=901888\n\nWhat you'll learn:\n\n- One phone photo into pro shots from multiple angles\n- Products dropped into lifestyle scenes for richer listings\n- A Brand Kit every new asset inherits automatically\n- Text edited on a finished image with Touch Edit\n- Static images turned into video for ads\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n⏳ Timestamps:\n0:00 Intro\n1:28 First Product Shot\n2:27 Multi-Angle Shots\n3:35 Brand Kit\n4:19 Touch Edit\n5:02 Video Generation\n5:49 Pricing & Fit\n6:58 Recap\n\n#BuiltWithLovart #AiDesign #AIBranding",
-      "commentCount": 0,
-      "likeCount": 0,
+      "description": "Most small business product photos look cheap, and it costs you sales. In this Lovart AI walkthrough I turn one phone photo into a full product shoot: multiple angles, lifestyle scenes, on-brand visuals, and video. No designer, no studio.\n\nLovart is an AI design agent for small businesses, from $19/month.\n\n👉 Try Lovart AI: https://bit.ly/3SuntO9\n\nWhat you'll learn:\n\n- One phone photo into pro shots from multiple angles\n- Products dropped into lifestyle scenes for richer listings\n- A Brand Kit every new asset inherits automatically\n- Text edited on a finished image with Touch Edit\n- Static images turned into video for ads\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\n⏳ Timestamps:\n0:00 Intro\n1:28 First Product Shot\n2:27 Multi-Angle Shots\n3:35 Brand Kit\n4:19 Touch Edit\n5:02 Video Generation\n5:49 Pricing & Fit\n6:58 Recap\n\n#BuiltWithLovart #AiDesign #AIBranding",
+      "commentCount": 2,
+      "likeCount": 12,
       "probeClient": "web_embedded"
     },
     "-ysPX-PH2Eo": {
@@ -6827,7 +6725,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-19T13:53:10Z",
+      "checkedAt": "2026-08-19T14:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7685,25 +7583,35 @@
       "probeClient": "web_embedded"
     },
     "TYDswsgIbqE": {
-      "checkedAt": "2026-08-18T14:53:08Z",
+      "checkedAt": "2026-08-19T14:53:11Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 1,
-      "likeCount": 5,
+      "commentCount": 2,
+      "likeCount": 529,
       "comments": [
         {
           "id": "UgyDfHPednqq7tf6NWV4AaABAg",
           "author": "@TheUtkarshhh",
           "text": "https://www.deeplearning.ai/the-batch/the-ai-engineering-skills-map",
-          "likeCount": 0,
-          "publishedAt": "2026-08-18T14:34:00Z",
+          "likeCount": 8,
+          "publishedAt": "2026-08-19T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/f25cg7-Gpt4o-HrFJk-kmpvwISgAjIux0s1VIUDNBpqLUZF6gMPvWH4wi79kqeSZk864gqTK=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "UgzhAL-z3lhVwKNNiPp4AaABAg",
+          "author": "@Jason-1578",
+          "text": "Par bhai ai toh khud bhi coding karega future mein😅,par abhi toh mein ek teenager🥲",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/kUYUv1CXZIVKyUYYCjzRniTBFIPd_OrtbVgEzThBYz1NtUsiP_ayhK6pM2KGta1histaMa6P2co=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-18T14:53:08Z",
+      "commentsFetchedAt": "2026-08-19T14:53:11Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7717,14 +7625,14 @@
       "probeClient": "web_embedded"
     },
     "rRdoy9qKzSU": {
-      "checkedAt": "2026-08-18T14:53:08Z",
+      "checkedAt": "2026-08-19T14:53:11Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "learn how to use the right tools",
       "commentCount": 0,
-      "likeCount": 0,
+      "likeCount": 5,
       "comments": [],
-      "commentsFetchedAt": "2026-08-18T14:53:08Z",
+      "commentsFetchedAt": "2026-08-19T14:53:11Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7860,10 +7768,10 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T13:53:10Z",
+      "checkedAt": "2026-08-19T14:53:11Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "b0bGJ01v3rs": {
       "checkedAt": "2026-08-18T17:53:10Z",
@@ -7915,24 +7823,6 @@
       ],
       "commentsFetchedAt": "2026-08-18T19:53:12Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "fESHXxccvjk": {
-      "checkedAt": "2026-08-18T19:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "The moment a new lead comes in, your business can handle it automatically — send the welcome email, add them to your CRM, and book the follow-up — without you touching a thing. That's automation, and it's how you finally get off the hamster wheel. In this lesson, Marie Petion shows you Make, the no-code platform that wires all your apps together. You'll learn the two parts of every automation (a trigger and actions), how to drop ChatGPT into the middle so it reads, summarizes, and drafts replies on its own, and four real systems to build first: lead follow-up, onboarding, content, and admin.\n\nThis is AI On Autopilot Academy — where business owners learn to put AI to work so the busywork runs itself.\n\n▶ Subscribe for a new AI lesson every week.\n\n#Make #AIAutomation #AIforBusiness #AIOnAutopilot\n\n👉 Put AI to work in your business:\n🎓 Academy: https://aionautopilot.tech\n👥 Free Skool community: https://www.skool.com/mpsolutionsai\n🌐 Website: https://mpsolutionsai.life\n📖 Book: https://www.amazon.com/Agents-That-Work-While-Sleep/dp/B0H6XZV639\n📸 Instagram: https://www.instagram.com/mpsolutionsai\n💼 LinkedIn: https://www.linkedin.com/in/marie-p-961896388/\n🎵 TikTok: https://www.tiktok.com/@mpsolutionsai\n📘 Facebook: https://www.facebook.com/mpsolutionsai",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "YYDmzCLt004": {
-      "checkedAt": "2026-08-18T19:53:12Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "In this video I show how you can automate your one person online business with AI Agents quickly and easily so you can increase traffic and free time.  \n\n⚡Access Hostinger AI agents HERE: https://link.thestacyla.com/hostingeragents\n(10% OFF code:  STACYLA)\n\n💟Join My Community HERE: https://link.thestacyla.com/community\n✅ Get the Video Checklist HERE: https://www.thestacyla.com/ytchecklist45\n\n------------------------------\nOther Tools I use to Grow my Business:\n\n💸 Increase views, traffic & sales with Poppy: https://link.thestacyla.com/poppyai\n💸 Automate your social media content with Blotato:  https://link.thestacyla.com/blotato\n\n------------------------------\nWhat to Watch Next:\n\n👀 AI Influencer Tutorial:  https://youtu.be/tG_IwF25p8Y\n👀 Vibe Code Digital Products Tutorial: https://youtu.be/aTVJliJC0lU\n\n------------------------------\n\nDISCLAIMER:\n\nSome links in the description are paid or affiliate links. If you choose to use these links to make a purchase, it doesn't cost you anything extra but I may receive a small commission at NO extra cost to you. Using these links help support the growth of my channel so I can keep making more videos for you. I only recommend products or services that I have used or believe may help you. 𝗧𝗛𝗔𝗡𝗞𝗦 𝗦𝗢 𝗠𝗨𝗖𝗛 𝗙𝗢𝗥 𝗬𝗢𝗨𝗥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧! \n\nThis video is for informational and educational purposes ONLY. It is NOT financial advice. I am not a financial adviser, and nothing in this video should be taken as financial or legal advice. Any earnings or income examples are not typical and are not guarantees of future results; your success will depend on your own efforts and market conditions. Always do your own research and consult a licensed professional before making any financial decisions.\n\n------------------------------------------------\n📱 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘 📱\nBelow are my OFFICIAL Social Media Accounts:\n\n𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 ► https://www.instagram.com/makemoneywithstacyla\n𝗧𝗶𝗸𝗧𝗼𝗸 ► https://www.tiktok.com/@makemoneywithstacyla\n𝗪𝗲𝗯𝘀𝗶𝘁𝗲 ► https://www.thestacyla.com/social\n𝗕𝗿𝗮𝗻𝗱 𝗖𝗼𝗹𝗹𝗮𝗯𝘀 𝗢𝗡𝗟𝗬► stacyla@viralnationtalent.com\n\n\n\nVIDEO TAGS:\n\n#aiagents #aiagent #increasetraffic #howtoincreasesales #onepersonstartup #onepersonbusiness #solopreneur #howtomakemoneyonline #howtostartabusiness #onlinebusiness #onlinebusinessideas #aibusiness #aibusinessideas #howtomakemoneywithai #aisidehustle #aiautomation #aiforbeginners #howtostartabusiness #howtostartanonlinebusiness #onlinebusinessformoms #onlinebusinessforbeginners",
-      "commentCount": 2,
-      "likeCount": 27,
       "probeClient": "web_embedded"
     },
     "D3kJl6tz0S0": {
@@ -8107,15 +7997,6 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "4bL3sVEL2sY": {
-      "checkedAt": "2026-08-19T02:53:19Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "🔥SP Jain - AI-Powered Digital Marketing Certificate Program - https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=4bL3sVEL2sY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Meta - Digital Marketing Specialist - https://www.simplilearn.com/master-in-digital-marketing?utm_campaign=4bL3sVEL2sY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Online MBA by Amrita Vishwa Vidyapeetham - https://www.simplilearn.com/online-mba?utm_campaign=4bL3sVEL2sY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Search Engine Optimization (SEO) Course - https://www.simplilearn.com/digital-marketing/search-engine-optimization-seo-certification-training?utm_campaign=4bL3sVEL2sY&utm_medium=DescriptionFF&utm_source=Youtube\n\nIn this video, we’ll show you exactly how to become an AI Product Manager in 2026, even if you’re starting from scratch. You’ll learn the core skills, AI fundamentals, prompt engineering, and the step-by-step roadmap to build and ship your first AI-powered product.\n\nAre you ready to break into one of the most exciting roles in tech? In this video, we break down what an AI Product Manager does, how the role is different from a traditional Product Manager, and the exact skills you need to get started in 2026.\n\nWe’ll walk you through core product management basics, practical AI concepts, how to solve real-world problems using AI tools, and how to build your first AI product even without coding. You’ll also learn about MLOps, scalability, ethical AI, and how to grow your network to improve your job opportunities.\n\nBy the end of this video, you’ll have a clear roadmap to become an AI Product Manager and understand whether this career path is right for you.\n\n\nRelated Videos:\n✅ 1. https://youtu.be/AEJxvge0TXQ\n✅ 2. https://youtu.be/mg3xaPG32SA\n✅ 3. https://youtu.be/eTgHnwjQTs0\n✅ 4. https://youtu.be/zoCfWp1xPbc\n✅ 5. https://youtu.be/5FlBFSJXGNM\n\n✅ Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check Out More Videos On This Category By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUULa5aOQmO_al2VVmhC-eqeI\n\n#socialmediamarketing #socialmediamarketingcourse #socialmediamarketingfullcourse #socialmediamarketingforbeginners #socialmediamarketinginterviewquestionsandanswers #socialmediamarketingtutorial #socialmediamarketingtools #instagrammarketing #facebookmarketing #digitalmarketing #youtubemarketing #simplilearn #2026\n\n➡️ About AI-Powered Digital Marketing Certificate Program\n\nIn a world where creativity meets code, learn to turn digital complexity into strategic clarity. Through 100% live sessions, masterclasses by SP Jain Global faculty and real-world projects, master AI, Automation and Analytics using 50+ tools like ChatGPT, Canva, SEMrush and Power BI\n\nKey Features:\n✅ Learn directly from SP Jain Global faculty in live, interactive masterclasses\n✅ Learn to integrate automation, analytics, and generative AI tools into every stage of the marketing process\n✅ Gain hands-on experience with 24+ standard marketing tools, 20+ AI-powered platforms, and 8+ analytics and automation tools\n✅ Get dedicated, mentor-led project support to help you complete every project on time\n✅ Progress from foundational concepts to advanced strategies across SEO, SEM, social media, content, and analytics\n✅ Apply your learning through live projects, guided practice, real-world case studies, and an industry-aligned capstone project\n✅ Attend live sessions led by Meta Blueprint experts, and receive a $99 Meta voucher to deepen your social media marketing expertise\n✅ Get complimentary Google Ad Credits during the SEM module to create and manage your first live campaign\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n \nSkills Covered\n✅ Digital marketing strategy\n✅ Website creation\n✅ AI content creation and optimization\n✅ Automated content workflows\n✅ AI driven SEO\n✅ Generative Engine Optimization GEO\n✅ Answer Engine Optimization AEO\n✅ Google Ads management\n✅ Smart bidding and budgeting\n✅ AI audience targeting and remarketing\n✅ Campaign optimization with AI\n✅ Programmatic advertising\n✅ AI social media creatives\n✅ AI storytelling and engagement\n✅ Creative automation\n✅ AI Ecommerce personalization\n✅ AI mobile marketing\n✅ AI email automation\n✅ Predictive marketing analytics\n✅ AI forecasting\n✅ Ethical AI use\n\n👉 Learn More At: https://www.simplilearn.com/professional-digital-marketing-program?utm_campaign=awpdRqEJexY&utm_medium=Description&utm_source=Youtube\n\n🔥🔥 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688",
-      "commentCount": 0,
-      "likeCount": 49,
-      "probeClient": "web_embedded"
-    },
     "TMPUUyQC5aM": {
       "checkedAt": "2026-08-19T03:53:20Z",
       "embedAllowed": true,
@@ -8200,15 +8081,6 @@
       "availability": "public",
       "description": "Generative AI can help you work more efficiently by either augmenting your work or automating repetitive tasks. AI augmentation keeps human judgment and decision-making at the center, while AI automation can handle lower-risk, repetitive tasks with less human involvement.\n\nIn this lesson, you’ll learn how to decide when to augment versus automate work with generative AI. You’ll explore practical AI use cases across marketing, strategy, supply chain, technology, data analysis, reporting, and everyday workflows. You’ll also learn how to evaluate your workday and identify tasks where generative AI can save time or support better decisions.\n\n\n*Q&A*\n*What is AI augmentation?*  \nAI augmentation means using generative AI to support your work while keeping human judgment and decision-making in the loop. It is especially useful for complex or higher-stakes tasks that require nuance, analysis, or strategic thinking.\n\n*What is AI automation?*  \nAI automation uses AI to complete repetitive or lower-risk tasks with less human involvement. Examples can include generating initial content drafts, analyzing recurring datasets, or producing routine reports.\n\n*What is the difference between AI augmentation and AI automation?*  \nAI augmentation supports people in completing tasks and making decisions, while automation shifts more of the task itself to AI. The right approach depends on the task's complexity, risk, and need for human judgment.\n\n*What tasks can generative AI automate at work?*  \nGenerative AI can support repetitive tasks such as drafting content, organizing information, analyzing recurring data, generating reports, and transforming existing content into different formats.\n\n*How can generative AI augment strategic work?*  \nGenerative AI can act as a thought partner by helping analyze information, brainstorm ideas, identify insights, and generate recommendations. Human review remains important when decisions have significant consequences.\n\n*How do you identify good AI use cases in your workflow?*  \nReview the tasks you perform regularly and consider which are repetitive, time-consuming, collaborative, or require significant analysis. Then determine whether AI should assist you or complete more of the task.\n\n\n*KEY TAKEAWAYS*\n- Generative AI can augment or automate workplace tasks\n- AI augmentation keeps human judgment in the loop\n- Automation is better suited to repetitive and lower-risk work\n- Generative AI can act as a thought partner for complex tasks\n- Marketing teams can use AI for content and brand-aligned workflows\n- Strategy teams can use AI for analysis, insights, and reporting\n- Supply chain teams can use AI for research and data workflows\n- Developers can use AI to support debugging and code optimization\n- Reviewing your daily workflow can reveal valuable AI opportunities\n\n\n*CHAPTERS*\n00:00 How Can Generative AI Improve Your Workday?\n00:50 What Is AI Augmentation vs Automation?\n02:50 When Should You Augment or Automate Work?\n03:40 How Can Marketing Teams Use Generative AI?\n05:02 How Can AI Support Strategy and Reporting?\n05:44 How Can Supply Chain Teams Use AI?\n06:24 How Can Developers Use Generative AI?\n06:48 How Do You Identify AI Opportunities in Your Workflow?\n07:50 Which Tasks Should You Augment vs Automate?\n09:31 Where Does Your Time Go During the Workday?\n10:26 How to Identify Time-Consuming Workplace Tasks\n12:44 How to Map Your Work for AI Opportunities\n\n\n*This video answers common questions including:*\n- What is AI augmentation?\n- What is AI automation?\n- What is AI augmentation vs automation?\n- How can generative AI improve productivity?\n- What tasks can AI automate at work?\n- How can generative AI support decision-making?\n- How can different business teams use generative AI?\n- How do you identify AI use cases in your workflow?\n\n\n#GenerativeAI #AIAutomation #AIProductivity #AIForBusiness #FutureOfWork #ArtificialIntelligence #WorkplaceAI\n\n\n*Learning Path*\nPart of the \"How to Use Generative AI at Work: AI Tools, Prompting & Business Applications\" learning path.\n🔗 Watch the full playlist here: https://www.youtube.com/playlist?list=PLbSxucTFy2G8\n\n\n▬▬▬▬▬▬▬▬▬▬▬▬\nSUBSCRIBE/FOLLOW\n▬▬▬▬▬▬▬▬▬▬▬▬\nhttps://www.linkedin.com/company/correlation-one\nhttps://twitter.com/CorrelationOne\nhttps://www.youtube.com/@CorrelationOne\n🌐  https://www.correlation-one.com",
       "commentCount": 1,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "_pCFPThXVXg": {
-      "checkedAt": "2026-08-19T05:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Planning touches every part of the enterprise — finance, supply chain, manufacturing, HR — yet most teams still run it through siloed, data-scientist-only tools that can't keep pace with a changing business. This session, presented with SAP, breaks down how DataRobot's SAP-endorsed AI apps and platform bring agentic AI into planning: connecting fragmented data, building trust in AI-generated forecasts, and shifting planners from manual number-crunching into a more strategic, AI-assisted role. Includes a live product demo and a fireside chat with leaders from both DataRobot and SAP.\n\nStay connected with DataRobot!\n👉 Website: https://www.datarobot.com/\n👉 LinkedIn: https://www.linkedin.com/company/datarobot/\n👉 Blog: https://blog.datarobot.com/",
-      "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
@@ -8548,12 +8420,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "jpQ3GMNLt44": {
-      "checkedAt": "2026-08-19T13:53:10Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "9c6Pc0KrrOs": {
       "checkedAt": "2026-08-19T13:53:10Z",
       "embedAllowed": true,
@@ -8561,6 +8427,113 @@
       "description": "👍 Try today: https://your.omnisend.com/2R742M\n\nDiscover how Omnisend’s MCP connection brings your ecommerce marketing data directly into ChatGPT and Claude. In this video, I walk through practical examples showing how AI can analyze campaigns, review revenue, check deliverability, compare performance, evaluate automations, and recommend high-value customer segments using real Omnisend account data.\n\nYou’ll also see how teams and agencies can generate executive summaries, identify underperforming emails, and turn complex reports into clear next steps without constantly switching between dashboards. I also cover Omnisend’s free plan, ecommerce integrations, migration support, SMS pricing, and 24/7 customer support.\n\nIf you run a Shopify, WooCommerce, BigCommerce, or Wix store and want a faster way to understand your email and SMS performance, this walkthrough shows what Omnisend MCP can do.\n\nStart with Omnisend using the link in the description or pinned comment and explore the free plan today. See how AI can make everyday ecommerce marketing analysis faster and actionable.\n\n#Omnisend #OmnisendMCP #ChatGPT #ClaudeAI #EmailMarketing #EcommerceMarketing #MarketingAutomation #EmailAutomation #AIForMarketing #Ecommerce #Shopify #SMSMarketing #DigitalMarketing #MCP #AITools",
       "commentCount": 36,
       "likeCount": 66,
+      "probeClient": "web_embedded"
+    },
+    "dF9bvpTy6JA": {
+      "checkedAt": "2026-08-19T14:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 4,
+      "likeCount": 30,
+      "comments": [
+        {
+          "id": "UgxN9J75hLkZcfRECTZ4AaABAg",
+          "author": "@ssussysamel1702",
+          "text": "I don't like this",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T14:54:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/wlhOcfGNhh-4tDEpckCbXeoWvrmdiM5wQhdPIMw59Ifnfw7w46svbQ7ca4SLiqXMeX2wi2X1Ag=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyEL7wMCe-iCIKKhPJ4AaABAg",
+          "author": "@sarandeepsingh1455",
+          "text": "How stupid",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T14:49:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mvpjNGWzzXMwesvSnRg-jPCdfdaMNS77v7BVej2DvCrcOO=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw8B2hYzEZJg1TJga14AaABAg",
+          "author": "@BHVinay",
+          "text": "Not possible . I am using AI everyday for coding . It has the core bottleneck of probability model . Science needs to be deterministic . This video is stupid at the core unfortunately. AI is a good power tool for finding different variations . But , decisions .... Only human  and there is human creativity which AI can never do .",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T14:49:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nSNiYSvPvCCpOaA3XQDR5Z1JbETTCUrC0epju2BYRcUAhWBpYB6ETxcv4epfmtCNjofw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw2tyhoL_A9ET2tneZ4AaABAg",
+          "author": "@NamedSoni",
+          "text": "That's one of the optimistic thing I have hope from AI advancements.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T14:48:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Ldfibv8xGtBrdccgfeSf5mtJnDGm0aCwd717l5m_Xcn_4J7pVPtq4fh1f94-Q52uAgdDUbduNtE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-19T14:53:11Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "JkQ3yThkoj4": {
+      "checkedAt": "2026-08-19T14:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Let's defeat AI slop. Claude Code web design done properly: I'm a senior AI engineer (ex-Amazon, ex-Microsoft) and this 1-hour course is the 5-step system I use to take any app UI from zero to deployed.\n\n🔗 Try Topview MCP: https://www.topview.ai?via=eric\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\nResources:\n➡️ Impeccable: https://impeccable.style\n➡️ Grilling skill: https://github.com/mattpocock/skills\n➡️ Higgsfield: https://higgsfield.ai\n➡️ Vercel templates: https://vercel.com/templates\n➡️ Cloudflare: https://pages.cloudflare.com\n\nTimestamps:\n0:00 Intro\n1:57 Context Setup\n5:01 Clone Strategy\n10:28 Deep Research\n13:55 Merge Context\n17:33 Impeccable Skill\n23:24 Git Worktrees\n26:21 Four Variations\n30:57 Contrast Fixes\n36:20 Scroll Animations\n38:04 Higgsfield Setup\n46:25 Sponsor\n47:45 Video Concepts\n52:05 Seedance Video\n56:36 Animate Website\n60:57 Cloudflare Deploy\n63:37 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
+      "commentCount": 1,
+      "likeCount": 10,
+      "probeClient": "web_embedded"
+    },
+    "L8eExioDF8E": {
+      "checkedAt": "2026-08-19T14:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "WhatsApp Group Link: 👉 https://whatsapp.com/channel/0029VaCft4ZEAKWCdGecqI1N\n\nFiles Link: 👉 https://alphapost.io/blog/free-blogger-directory-kit-a-site-that-finds-its-own-listings\n\nIn this video I show you Blogger automation with a free setup for 2026. The AI writes and posts on your Blogger blog for you, on autopilot, after a one time setup. This is a full course, step by step, for beginners. No coding needed, and everything I use is free.\n\nBlogger automation saves you hours of work. The AI creates the content and publishes it on your blog automatically, so your blog stays active even when you are busy. In this video I show the complete setup from start to finish.\n\nIn this video you will learn:\n. The full free setup step by step\n. How the AI writes posts for your blog\n. How posts publish automatically on autopilot\n. Simple settings to keep your content quality high\n\n\n\nDisclaimer: This video is only for education. This is my own setup and my own experience. Your results can be different. I do not promise any income or traffic. Blogger rules, AI tools and their limits can change anytime, so always check the official pages. Please use automation the right way and follow Blogger policies, and always review your AI content \nbefore publishing. Some links may be affiliate links, and I may earn a small commission at no extra cost to you.\n\nIf this video helped you, please LIKE, SHARE and SUBSCRIBE for more free automation setups. Turn on the bell so you never miss a new video.\n\n#blogger #bloggerautomation #blogging #autoblogging #aiblogging #bloggingautomation \n#bloggertutorial #freeblogger #bloggingforbeginners #makemoneyblogging #onlineearningpakistan #shahg",
+      "commentCount": 11,
+      "likeCount": 24,
+      "probeClient": "web_embedded"
+    },
+    "OpVzxitSOLA": {
+      "checkedAt": "2026-08-19T14:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Discover the secret to saving over 20 hours a week with AI automation. In this video, we'll explore the easiest ways to automate repetitive tasks and free up more time for what matters most. Learn how to leverage AI technology to streamline your workflow, increase productivity, and boost efficiency. Whether you're a business owner, entrepreneur, or simply looking to simplify your work-life balance, this video will show you the simplest and most effective ways to get started with AI automation. Get ready to transform your weekly routine and unlock a world of possibilities.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "Wlu3QeiNc5o": {
+      "checkedAt": "2026-08-19T14:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "LeadHunter AI is a fully autonomous lead generation agent built with Claude Code + Python — \nno manual coding required. It discovers local businesses using SerpAPI, scores them as \nHOT/WARM/LOW, generates Claude-personalized outreach with live demo pages, and fires Gmail \n+ WhatsApp messages — all with a human approval gate before every send.\n\n#LeadHunterAI #ClaudeCode #AIFreelancing #AiWithRajpalsinh #LeadGenerationAutomation #AIAgentPython\n\nAgar aap freelancer ho aur local businesses dhund dhund ke thak gaye ho manually — toh yeh \nvideo aapke liye hai.\nMaine Claude Code se ek AI agent banaya jo khud hi restaurants, clinics, salons discover karta \nhai, unka website check karta hai, Claude API se personalized WhatsApp + Email generate karta \nhai — aur sab kuch aapke approve karne ke baad bhejta hai. 13 prompts. Zero manual coding.\n\n✅ SerpAPI se local businesses automatically discover karo (Google Maps + Search data)\n✅ HOT / WARM / LOW lead scoring system jo best prospects identify kare\n✅ Claude API se personalized outreach messages generate karo — har client ke liye unique\n✅ Live demo page link jo har client ko personally send hoti hai (Cloudflare Tunnel)\n✅ Gmail + WhatsApp Cloud API se automatic outreach — human approval gate ke saath\n✅ Follow-up engine: Day 0 → Day 3 → Day 7 → Day 10 auto follow-ups if no reply\n\nLeadHunter AI automates full freelance client acquisition — SerpAPI discovery, Claude AI \npersonalization, Google Sheets CRM, WhatsApp + Email outreach. Build with Python in 13 \nprompts. Free to run.\n\n━━━━━━━━━━━━━━━━━━━━━━\n🔧 TOOLS / Files USED IN THIS VIDEO\n━━━━━━━━━━━━━━━━━━━━━━\n\n- SerpAPI (100 free searches/month) — https://serpapi.com\n- SQLite — Built into Python (FREE)\n- Google Sheets API — console.cloud.google.com (FREE)\n- WhatsApp Cloud API — Meta Business Manager (FREE)\n- Python 3.11+ (FREE)\n- Cloudflare Tunnel (FREE) — https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/\n\n📁 LeadHunter AI Complete Execution Guide — HYPE This Video and DM on https://www.instagram.com/rajpalsinh__zala\n\n━━━━━━━━━━━━━━━━━━━━━━\n⏱️ TIMESTAMPS\n━━━━━━━━━━━━━━━━━━━━━━\n\n00:00 — Introduction\n00:41 — Agent: How It Works\n03:10 — HTML Guide & Prompts\n03:40 — API Keys & Credentials Setup\n08:07 — Project Setup & .env File\n09:16 — Create Full Agent via Prompts\n15:31 — Final Agent Overview\n18:55 — Conclusion & Next Steps\n\n━━━━━━━━━━━━━━━━━━━━━━\n🔔 SUBSCRIBE KARO\n━━━━━━━━━━━━━━━━━━━━━━\nAgar yeh video helpful laga toh subscribe karo — har hafte ek naya automation build karte hain jo aapka time aur paisa bachaye.\n\n━━━━━━━━━━━━━━━━━━━━━━\n💬 COMMENT KARO\n━━━━━━━━━━━━━━━━━━━━━━\nAapke paas konsa business/project hai? Comment mein batao — next video usi ke liye banaunga.\n\n━━━━━━━━━━━━━━━━━━━━━━\nTo Know More,\n━━━━━━━━━━━━━━━━━━━━━━\n\nFollow Rajpalsinh Zala On ⤵︎\n\nInstagram: https://www.instagram.com/rajpalsinh__zala\n\nLinkedIn: https://www.linkedin.com/in/rajpalsinh-zala-a92b82276/\n\nEmail: rajpalsinh.zala.ai@gmail.com\n\n━━━━━━━━━━━━━━━━━━━━━━\n🎯 CHANNEL MISSION\n━━━━━━━━━━━━━━━━━━━━━━\nAI Automation ko simple banana chahta hoon — taaki India ke har freelancer, student, aur entrepreneur apni life aur business mein AI use kar sake.\nHar hafte real workflows, free tools, aur step-by-step tutorials jo aapka time aur paisa bachayein — bilkul practically.\nSubscribe karo aur AI ke saath apni game level up karo! 🚀\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n\n#AIAgent #LeadGeneration #ClaudeCode #Python #SerpAPI #Automation #Freelancing #MakeMoneyOnline #AITools #OnlineEarning #LeadHunterAI #ClientAcquisition #WhatsAppAutomation #EmailMarketing #LocalBusinessMarketing #GoogleSheetsAutomation #ClaudeAI #AIFreelancing #AIAgent2026 #BuildWithAI #AgenticAI #AutomateOutreach #FreelanceAI #AiHindi #IndianFreelancer #DigitalIndia #FreelancingIndia #AiWithRajpalsinh #ClaudeAPI #PythonAutomation #WhatsAppCloudAPI #GmailAutomation #IndianCreator #AIForBeginners #IndianDeveloper #PassiveIncome #Anthropic #NoCode #FreelanceTips #SideHustle #TechInHindi #EarnOnline",
+      "commentCount": 79,
+      "likeCount": 50,
+      "probeClient": "web_embedded"
+    },
+    "aoDmXbUug-w": {
+      "checkedAt": "2026-08-19T14:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn how to automate email marketing with Claude AI — no coding required! 🤖 Build an AI-powered email automation workflow and save time with smart marketing automation.\n\nWant to automate your email marketing with AI? 🤖 In this tutorial, I'll show you how to build an AI-powered email marketing automation workflow using Claude AI — without coding.\n\nYou'll learn how to:\n✅ Connect Claude AI to an automation workflow\n✅ Automatically generate personalized email content\n✅ Capture customer information\n✅ Create automated email campaigns\n✅ Add filters and follow-up emails\n✅ Test your AI email automation\n✅ Save time with AI-powered marketing automation\n\nThis tutorial is perfect for beginners, content creators, marketers, small businesses, and anyone who wants to use AI to automate repetitive email marketing tasks.\n\n⚠️ Important: AI-generated emails should always be reviewed before sending. Make sure your campaigns follow the rules and policies of your email service and applicable marketing laws.\n\nSubscribe to AIByte for more AI tools, Claude AI tutorials, AI automation, no-code tools, and practical AI tutorials.\n\n👍 Like the video if you found it helpful!\n🔔 Subscribe to AIByte for more AI tutorials.\n\n#ClaudeAI #EmailMarketing #aiautomation \n#ClaudeAI #EmailMarketing #AIAutomation #EmailAutomation #AIMarketing #AITools #ClaudeAI2026 #MarketingAutomation #NoCode #AIWorkflow #AIByte",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "z3eAary17WA": {
+      "checkedAt": "2026-08-19T14:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Gmail-এ আসা প্রতিটা ইমেইল ম্যানুয়ালি পড়ে রিপ্লাই লেখার ঝামেলা কমাতে একটা automation বানিয়েছি — Google Apps Script আর Gemini AI দিয়ে।\n\nএই সিস্টেমটা যা করে:\n✅ ইনবক্সে নতুন ইমেইল এলেই Gemini AI দিয়ে ক্যাটাগরি অনুযায়ী লেবেল বসায় (Client/Support, Sales/Lead, Urgent, Newsletter/Promotional, Other)\n✅ গুরুত্বপূর্ণ ইমেইলের জন্য প্রফেশনাল একটা reply draft নিজে থেকেই বানিয়ে রাখে\n✅ automated/noreply ইমেইলে কোনো draft বানায় না — শুধু আসল দরকারি ইমেইলেই ফোকাস করে\n✅ প্রতি ১৫ মিনিটে নিজে থেকেই ব্যাকগ্রাউন্ডে চলে, কোনো ম্যানুয়াল কাজ ছাড়াই\n\nব্যবহৃত টুলস:\n🔧 Google Apps Script\n🤖 Gemini AI (gemini-2.5-flash)\n📧 Gmail\n\nএই ভিডিওতে পুরো সিস্টেমটা লাইভ কাজ করতে দেখানো হয়েছে — ইনবক্সে ইমেইল আসা থেকে শুরু করে AI-generated reply draft তৈরি হওয়া পর্যন্ত।\n\nভালো লাগলে ভিডিওটা Like করুন, আর এই ধরনের আরও Automation/AI প্রজেক্ট দেখতে চাইলে Subscribe করে রাখুন। কোনো প্রশ্ন থাকলে কমেন্টে জানান।\n\n#GoogleAppsScript #GeminiAI #GmailAutomation #Automation #AIAssistant #NoCode #ProductivityTools",
+      "commentCount": 1,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }
