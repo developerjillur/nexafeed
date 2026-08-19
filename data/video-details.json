@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T11:53:31Z",
+  "updatedAt": "2026-08-19T12:53:31Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -950,18 +950,6 @@
         }
       ],
       "commentsFetchedAt": "2026-07-31T15:53:47Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "pcqQ3CtkzZw": {
-      "checkedAt": "2026-08-18T18:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "This is a video about The $13 Breakdown\n\n00:00 Cost Breakdown And Credits\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n💬 JOIN THE COMMUNITY (free)\nAsk questions, get my workflows, and see what I'm building before it hits YouTube.\n👉 https://www.skool.com/keith-ai-3958\n\n📬 MORE FROM ME\nNewsletter: https://rumjahn.substack.com/\nWebsite: https://rumjahn.com\n\n🤝 SOCIALS\nLinkedIn: https://www.linkedin.com/in/rumjahn/\nFacebook: https://www.facebook.com/profile.php?id=61577419126625",
-      "commentCount": 0,
-      "likeCount": 4,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-02T02:53:26Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -5012,49 +5000,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "De2tqUkw660": {
-      "checkedAt": "2026-08-15T19:53:08Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 3,
-      "likeCount": 94,
-      "comments": [
-        {
-          "id": "UgxpISmBbkwSmzESg_V4AaABAg",
-          "author": "@Ai.Vishnuvijayan",
-          "text": "https://mito.ai/?utm_source=youtube&utm_medium=influencer&utm_campaign=vish1",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/yhAqPsQdQNzWqs3n323bzwcDBcfNQt2XFJe9SntriwBCCx8kViE13reCfUPwZ_8coQAAPdj4wKg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": true,
-          "isUploader": true
-        },
-        {
-          "id": "UgxtllhiyqBbIENTUHp4AaABAg",
-          "author": "@DZJOSEPH",
-          "text": "Mito",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/HLCavaHPHhRetiYh8mBxauwhu1EGHvGmiLpyVJX0UTzx94WD-udOWI1kqXmQtmQXrtEJ9_Qraw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwkzpAnuX9MGZoszdh4AaABAg",
-          "author": "@ibrahimgamer5415",
-          "text": "Mito",
-          "likeCount": 0,
-          "publishedAt": "2026-08-15T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/eV_frZPxXznIQ5HbZZ1jYflI5XmwjLIPQ7DVo9st9acFHQOjlUfsuxdNOkdbrRPoXgJSAbXp-g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-15T19:53:08Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "t6kDH-Z1R_E": {
       "checkedAt": "2026-08-13T20:53:14Z",
       "embedAllowed": true,
@@ -6047,39 +5992,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "CnZsAeFuDQw": {
-      "checkedAt": "2026-08-17T16:53:47Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "",
-      "commentCount": 2,
-      "likeCount": 292,
-      "comments": [
-        {
-          "id": "Ugz132DlnQmXvFXFVCl4AaABAg",
-          "author": "@Atul_kumar_07",
-          "text": "Slop everywhere",
-          "likeCount": 4,
-          "publishedAt": "2026-08-17T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lzQw5zORlYmt1xrnBv83_Ismwb1uun6ViKbNu3Krg7Knmp=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyN3De2Jl5iWwB7lPd4AaABAg",
-          "author": "@100xEngineers",
-          "text": "Apply For Waitlist Here - https://class.100xengineers.com/8ovO5t",
-          "likeCount": 1,
-          "publishedAt": "2026-08-16T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/lmQHSNqoTiUYSQmAD6ddVNxeMLwuezSj7JGn681txsIgDlDnHZrQU-JDaUSzGiSwnSZS7gFS=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": true
-        }
-      ],
-      "commentsFetchedAt": "2026-08-17T16:53:47Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
     "OJDhImJxPvk": {
       "checkedAt": "2026-08-15T16:53:06Z",
       "embedAllowed": true,
@@ -6244,29 +6156,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded",
       "availability": "public"
-    },
-    "Z46TGRzuq38": {
-      "checkedAt": "2026-08-18T17:53:10Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "What if you could control AI just by thinking?\n\nThat sounds like science fiction, but companies and researchers are already working on technology that could make brain-computer interaction a reality.\n\nAn OpenAI researcher recently left to work at Conduit, a San Francisco startup exploring technology that can use brain signals to interact with AI.\n\nThe idea is fascinating: a non-invasive neural headband could potentially detect brain activity and translate those signals into text or commands.\n\nNow imagine this in 2030.\n\nYou put on a headset, open your AI coding agent, and instead of typing instructions or correcting code manually, you simply think about what needs to change.\n\nThe system detects your brain signals, combines them with AI, understands the context of what you’re doing, and helps execute your intent.\n\nIt sounds futuristic, but parts of the underlying technology already exist.\n\nWith brain implants, researchers have demonstrated impressive results in decoding imagined speech. The bigger challenge is achieving useful accuracy without surgery.\n\nThat’s where wearable brain-computer interfaces become interesting.\n\nInstead of putting an implant inside the brain, companies are exploring external sensors that can detect patterns of brain activity.\n\nAnd here’s the really important part: the system may not need to perfectly decode every thought.\n\nBrain signals can be noisy. But AI can potentially combine those signals with context, such as what’s on your screen, what application you’re using, and what you’re currently doing, to make a better prediction of your intended command.\n\nIf this technology eventually becomes reliable and affordable, the keyboard and mouse may no longer be the only ways humans communicate with computers.\n\nTyping could become just one interface among many.\n\nThe bigger question isn’t whether this sounds cool.\n\nIt’s whether you’d actually want a computer to interpret signals from your brain.\n\nWould you wear a neural headset if it meant controlling AI with your thoughts?\n\nLet us know in the comments.\n\nWhy Subscribe to bpro?\n\nBpro is focused on helping you understand the practical side of AI and the technologies shaping what’s next.\n\nWe cover AI tools, emerging technologies, AI agents, automation, AI workflows, careers, and the ideas that could change how we work and interact with technology.\n\nBut we don’t just focus on the hype.\n\nWe break down what the technology is, how it works, why it matters, and what it could mean for your future.\n\nIf you want to stay ahead of the biggest developments in AI and understand where technology is heading before it becomes mainstream, subscribe to BPro.\n\nMore practical and interesting AI content coming your way.\n\n#AI #BrainComputerInterface #ArtificialIntelligence #NeuralTech #FutureOfAI\n\nAI, artificial intelligence, brain computer interface, brain computer interface AI, AI brain interface, brain computer interface technology, neural interface, neural headset, AI headset, mind controlled AI, mind control technology, thought controlled AI, AI future, future of AI, future technology, AI technology, brain technology, neuroscience and AI, how does brain computer interface work, how to control AI with your thoughts, how brain computer interfaces work, what is a brain computer interface, what is neural interface, what is brain computer interface, why brain computer interfaces matter, why AI is changing technology, can AI read your thoughts, can AI read your mind, can you control AI with your mind, AI coding, AI coding agent, AI coding with thoughts, OpenAI researcher, Conduit AI, brain signals, imagined speech, non invasive brain computer interface",
-      "commentCount": 1,
-      "likeCount": 38,
-      "comments": [
-        {
-          "id": "UgxFeNdtKVhdWXYl6-Z4AaABAg",
-          "author": "@EarnWithAirdrops",
-          "text": "Kis studies me ho abhi grad. ? Btech? \nContent to acha lg raha nice",
-          "likeCount": 1,
-          "publishedAt": "2026-08-17T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/m6D8YlguIxNRMmS9kkS-2zUSwEZhCP0a_3bkttglUN02b7weZxBXF05kiOCe1CdhOg0AV49N=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-18T17:53:10Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
     },
     "QUvyGqe5IMs": {
       "checkedAt": "2026-08-18T17:53:10Z",
@@ -7166,7 +7055,7 @@
       "probeClient": "web_embedded"
     },
     "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-19T11:53:31Z",
+      "checkedAt": "2026-08-19T12:53:31Z",
       "embedAllowed": false,
       "availability": "unavailable",
       "failureReason": "unavailable"
@@ -7777,57 +7666,138 @@
       "probeClient": "web_embedded"
     },
     "25lnMXUdp54": {
-      "checkedAt": "2026-08-18T12:53:07Z",
+      "checkedAt": "2026-08-19T12:53:31Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "For the first time, scientists have demonstrated how AI can be used to design viruses that don't naturally exist, opening up a fascinating and potentially controversial new direction for biology.\n\nThe AI model involved is called Evo. Its architecture is inspired by the same general idea behind language models like ChatGPT, but instead of predicting the next word, it works with DNA sequences.\n\nEvo was trained on approximately 9.3 trillion DNA letters from a wide range of biological sources, including bacteria, plants, animals, and microbes.\n\nResearchers then used the model to generate new versions of a bacteriophage, a type of virus that specifically targets bacteria.\n\nThe scale of the experiment is what makes the story particularly interesting.\n\nThe researchers generated around 700,000 candidate sequences, selected a smaller group for laboratory testing, and found that 60 candidates produced replicating viruses.\n\nSome of the resulting viruses also showed performance characteristics that compared favorably with the natural version.\n\nSo why does this matter?\n\nOne major problem facing medicine is antibiotic resistance. As bacteria evolve resistance to antibiotics, scientists are looking for alternative ways to target harmful bacteria.\n\nThat's where phages, or bacteriophages, become interesting. These viruses naturally infect bacteria, making them a potential tool for targeting bacterial infections.\n\nBut bacteria can evolve resistance to phages too.\n\nThe long-term idea is that AI could potentially help researchers explore and redesign phages much faster than traditional trial-and-error approaches, potentially creating new candidates as bacterial resistance evolves.\n\nThat doesn't mean AI has solved antibiotic resistance. There are still major scientific, safety, and regulatory challenges involved.\n\nBut the bigger shift is remarkable:\n\nAI is moving beyond generating text and images. It's increasingly being used to design biological sequences and explore possibilities that scientists may not have discovered through traditional methods alone.\n\nAnd that raises a much bigger question:\n\nIf AI can help design new biological systems, how far can this technology eventually go?\n\nWhy Subscribe to bpro?\n\nbpro is focused on helping you understand the technologies changing the world, from AI and machine learning to AI agents, automation, emerging research, and the future of technology.\n\nWe don't just cover what's trending. We break down what happened, how the technology works, why it matters, and what it could mean for the future.\n\nIf you want practical and interesting AI content without the unnecessary hype, subscribe to bpro and stay ahead of the biggest developments in AI and emerging technology.\n\nFor more such AI content, subscribe to bpro.\n\n#AI #ArtificialIntelligence #Biotechnology #AIResearch\n\nAI, artificial intelligence, AI biology, AI in biology, AI biotechnology, AI research, AI virus, AI designed viruses, AI DNA, DNA AI, Evo AI, Evo model, bacteriophage, phage therapy, antibiotic resistance, antibiotic resistant bacteria, machine learning biology, AI science, future of AI, future of biotechnology, how does AI work in biology, how AI is changing biology, how AI can design DNA, how to learn AI, what is Evo AI, what is DNA, what is bacteriophage, what is phage therapy, what is antibiotic resistance, why antibiotic resistance is dangerous, why AI is important for biology, why AI is being used in science, AI research explained, artificial intelligence explained, biotechnology explained, AI technology, emerging AI technology",
-      "commentCount": 0,
-      "likeCount": 2,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-18T12:53:07Z",
+      "commentCount": 3,
+      "likeCount": 40,
+      "comments": [
+        {
+          "id": "UgzfNm-S7nMVbWBCg4V4AaABAg",
+          "author": "@ThelastofPheonix",
+          "text": "Here we go. Pioneering work for growing alien colonies and huge step towards becoming type 2 civilisation. However AI is uncontrolled now so may be we are closer to apocalypse",
+          "likeCount": 1,
+          "publishedAt": "2026-08-18T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/cwWXLKDh4zXDVZ-Rm5dDJNcZunxIh5j864r0OCeDTL5mLkEWklvrJmQwLnHSJ4tuEJO5LmhyKQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzRdSN0IR9YSO5infB4AaABAg",
+          "author": "@AbdullahMolla-c8d",
+          "text": "What if they made a special type of virus which Destroys Virus instead of becteria",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n0P3r2dt_xOW7IMpld2RrxGBWw0u14CCrewTD_k6rGgh-rAJJjEjQc9tcAQhDqX28vZA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxA7jMa8uK175RE7Lt4AaABAg",
+          "author": "@MotorolaUser-r4o",
+          "text": "You da real virus..",
+          "likeCount": 0,
+          "publishedAt": "2026-08-18T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m-wvAwKyNneCMdoErnw329VPrjfATdBmyawkiFTmB0Tmcb0mbPWFH98RzurWL1m0u29A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-19T12:53:31Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "2ZQ4jSkiqr4": {
-      "checkedAt": "2026-08-18T12:53:07Z",
+      "checkedAt": "2026-08-19T12:53:31Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Go apply at https://buildwhatmovesindia.com",
-      "commentCount": 3,
-      "likeCount": 146,
+      "commentCount": 8,
+      "likeCount": 3663,
       "comments": [
         {
           "id": "UgxmD2iG2Yc-gphHsC54AaABAg",
           "author": "@VarunMayya",
           "text": "Go apply at https://buildwhatmovesindia.com",
-          "likeCount": 0,
-          "publishedAt": "2026-08-18T12:22:00Z",
+          "likeCount": 34,
+          "publishedAt": "2026-08-19T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ay7v4Wq0rVbojc_glLjXt4hZSiar_SjG13NQVX4ZLyO2N9VjKeY7FvpNatDFOaS6Z4oucci8=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
-          "id": "UgwSkJ8LqMRUHRBVF994AaABAg",
-          "author": "@VeerDaVlog",
-          "text": "Great Initiative",
-          "likeCount": 3,
-          "publishedAt": "2026-08-18T12:28:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/YIANl_zlvEoWRkGENdZ75veTTSF4mCTBDqAkqEpxKzgaxg-rH1nGhxK_5MF4Bub7-tTseBzKqmI=s88-c-k-c0x00ffffff-no-rj",
+          "id": "Ugygl44J4WSdqkrf3kN4AaABAg",
+          "author": "@himsingh",
+          "text": "Finally someone. I hate Indian gov websites so much so i dont wanna open them.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T12:17:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/gmk6eu6GNn_io2zQ24ixdsnXX1E5R1D3JE-pgET9xa71y89zQJrDYCrfSGBGVIJzjxsZofCe=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxZ7JpEJr4tPtvf2ZF4AaABAg",
-          "author": "@DurgaGanisetti",
-          "text": "Wait Varun, I am coming there, see u soon ❤",
-          "likeCount": 2,
-          "publishedAt": "2026-08-18T12:27:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mrjO9OGCV3s4KL5FAO-JkZCuMMdHk-I8doHCLmp6C9osfz_JqGDDAT1lwVBwdRzZ35_w=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgzViXY1FVewHWSwwSp4AaABAg",
+          "author": "@HarshaVardhan-xx6ii",
+          "text": "Achina married well",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T12:16:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kDDVHBHR9j4VD46RfV-pb9F1QT8ZXgBbA13QCg2I-dlXc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgygkXmEpmKY0mVeJWh4AaABAg",
+          "author": "@basicguy.6171",
+          "text": "Kudos to you , Fire has begun 🔥",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T12:04:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/HlnVTeyABHqGn-D0t8nOElnm2JgTCyarhyiQ2M9B_gTW7vNSv2itBQ-VXzM5oou_QJtBp7VTZYE=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzbdGoPB3X0-WnxMgB4AaABAg",
+          "author": "@funstreet4943",
+          "text": "Wondering if this is Real or AI you!! 👀",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/vuAftw5IWDR1KhK34zdWt-cjynppBhMvE7m9a48ioI10pC-COgUNKgG7dNAWM_36eFPg0SPx6w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxIWSFV6puq84LYFJx4AaABAg",
+          "author": "@ABanimo",
+          "text": "Thank you so much man .\nStart with Delhi laxmi yojna portal 😂 \nDeadline before raksha bandhan",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ltIu98QW9aVmbqVxBW_IQi0xR-vFgzH-Rl4Tsb2VD6G1NqCdIv6pqabuAAW4pBrhtoAw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx2sWn-oEruMlloEJt4AaABAg",
+          "author": "@MD_89_01",
+          "text": "India is now developing in 2026",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/XfWVcjpqb0lyOMTqwbB7uZtMdf2ZCKCCJmi-fVG4HyKLUEQUttn6WiAR94nMJRmhInJtktpbaQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxzpeHPVl4e1XneGxd4AaABAg",
+          "author": "@Vengeful_Goan_spirit",
+          "text": "I wanted India the country to have this kind of image and vibe, the one Varun Maya is projecting and not what Modi is projecting with the cow vigilantism.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/r1fzv7ZQzqiFHfPhN2TAOF9JmY7q7JlQeuLallrEuC6Agg105fwMVsGBViw12UadyhZmXDTXsfE=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-18T12:53:07Z",
+      "commentsFetchedAt": "2026-08-19T12:53:31Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -8048,7 +8018,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-19T11:53:31Z",
+      "checkedAt": "2026-08-19T12:53:31Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -8373,15 +8343,6 @@
       "likeCount": 273,
       "probeClient": "web_embedded"
     },
-    "IIH5wqhWtF4": {
-      "checkedAt": "2026-08-19T04:53:21Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Guillermo Rauch, CEO of Vercel, returns to speedrun for the SR007 cohort to discuss how AI is reshaping software, why the future of the web is AI agentic development, and what it takes to build in an era where everyone can create with AI.\n\n💡 Are you a founder building the next big thing? Join Speedrun, the startup accelerator designed to help founders move fast with capital, mentorship, and top investors.\n\nChapters:\n00:00 - Intro\n00:43 - Intelligence is like tap water\n02:15 - Software Factory is the product now\n04:28 - Why Vercel decided to only use 1 agent\n07:44 - Moving from product-led-growth to agent-led-growth\n09:26 - How do founders think about defensibility in the long term\n12:16 - You have to fight average in the world in AI\n14:46 - Agent vs Human decision making\n18:02 - Why Vercel makes a hard problem easy\n21:48 - Should you only build with one model\n24:09 - Guillermo's Founders habits\n27:22 - What should founders be building?\n30:27 - Building a family and managing a startup\n\n👉 Apply now: https://speedrun.a16z.com/\n📲 Follow us for more insights:\nX (Twitter): https://x.com/speedrun\nLinkedIn: https://www.linkedin.com/school/a16zspeedrun/",
-      "commentCount": 1,
-      "likeCount": 18,
-      "probeClient": "web_embedded"
-    },
     "9I_GJ6omHIM": {
       "checkedAt": "2026-08-19T05:53:21Z",
       "embedAllowed": true,
@@ -8462,15 +8423,6 @@
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
-    },
-    "AuHxT_cIhy8": {
-      "checkedAt": "2026-08-19T07:53:23Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Modern AI is amazing, but developers need to bring context to AI tooling to gain confidence and dependability. Thankfully, several techniques help developers get what they want out of Agentic workflows - MCP tools, Skills, custom Agents are all easy to wire up with .NET tooling. With basics out of the way, let’s take a look at how Uno Platform helps developers make truly cross-platform .NET apps that run seamlessly on web, desktop & mobile, with AI and Design tools for company.\n\nUno Platform: https://platform.uno/ \nUno MCP Tools: https://platform.uno/docs/articles/features/using-the-uno-mcps.html \nUno Platform Agent: https://platform.uno/docs/articles/external/studio-docs/Agent/uno-platform-studio-agent.html \nUno Platform Skills: https://platform.uno/docs/articles/external/studio-docs/Agent/uno-platform-studio-skills.html\n\n✅ Resources:\nUno Platform: https://platform.uno/ \nUno MCP Tools: https://platform.uno/docs/articles/features/using-the-uno-mcps.html \nUno Platform Agent: https://platform.uno/docs/articles/external/studio-docs/Agent/uno-platform-studio-agent.html \nUno Platform Skills: https://platform.uno/docs/articles/external/studio-docs/Agent/uno-platform-studio-skills.html\n\nConnect with .NET: \nBlog:  https://aka.ms/dotnet/blog\nTwitter: https://aka.ms/dotnet/twitter\nTikTok:  https://aka.ms/dotnet/tiktok\nMastodon:  https://aka.ms/dotnet/mastodon\nLinkedIn:  https://aka.ms/dotnet/linkedin\nFacebook:  https://aka.ms/dotnet/facebook\nDocs: https://learn.microsoft.com/dotnet\nForums: https://aka.ms/dotnet/forums\n🙋‍♀️Q&A: https://aka.ms/dotnet-qa\n👨‍🎓Microsoft Learn: https://aka.ms/learndotnet\n\n#dotnet",
-      "commentCount": 0,
-      "likeCount": 44,
-      "probeClient": "web_embedded"
     },
     "JoLDB4Px-I8": {
       "checkedAt": "2026-08-19T08:53:23Z",
@@ -8622,6 +8574,83 @@
       "description": "AI is changing the way developers code, debug, test, and build software. 🚀 In this video, we explore 7 AI tools every developer needs to know in 2026.\n\nFrom AI coding assistants to tools that help with debugging, productivity, documentation, and development workflows, these technologies can help developers save time and work smarter.\n\nWhether you're a beginner, professional developer, or someone learning to code, these AI tools are worth checking out.\n\n🔥 In this video, you'll discover:\n\n- 7 powerful AI tools for developers\n- How AI can improve your coding workflow\n- Tools for faster coding and debugging\n- AI-powered developer productivity tools\n- How developers can use AI in 2026\n\n👍 Like the video, subscribe, and turn on notifications for more AI, coding, programming, and developer-tech content!\n\nHashtags\n\n#AITools #AIForDevelopers #Coding #Programming #ArtificialIntelligence #DeveloperTools #CodingAI #AIProgramming #SoftwareDevelopment #Tech2026 #GenerativeAI #CodingTools #DeveloperProductivity #TechTips #AI\n\nKeywords\n\nAI tools for developers 2026, best AI tools for developers, AI coding tools 2026, AI tools for coding, best coding AI tools, AI programming tools, AI developer tools, AI coding assistants, artificial intelligence for developers, AI software development, AI tools every developer needs, developer productivity tools, coding with AI, AI programming, generative AI for developers, AI development tools, best AI tools 2026, future of coding, AI for programmers, programming tools 2026",
       "commentCount": 0,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "xQCfxvts3-M": {
+      "checkedAt": "2026-08-19T12:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This is a video about The Biggest Difference: You Own Your Identity\n\n00:00 Nostr Identity Basics\n00:47 \n00:47 Public vs Private Keys",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-19T12:53:31Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "yaFI4LPrq7U": {
+      "checkedAt": "2026-08-19T12:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-19T12:53:31Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "f8duRpaawPo": {
+      "checkedAt": "2026-08-19T12:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Claude’s AI watermark was supposed to make AI-generated content easier to identify. But the idea ran into a problem almost immediately.\n\nIn this video, we look at the growing challenge of identifying AI-generated content and why Claude’s watermark raises a much bigger question about the future of AI detection.\n\nThe basic idea behind an AI watermark is simple: if an AI system generates an image, video, audio file, or other piece of content, it can include an identifying signal that helps people or detection systems recognize that the content was created by AI.\n\nThat sounds useful.\n\nBut according to the story covered in this video, within roughly 48 hours of the watermark being introduced, a tool had already appeared that could remove it.\n\nAnd that is where things get interesting.\n\nIf AI can generate content, another tool can remove the signal designed to identify that content, and AI detection systems themselves are not perfectly reliable, then the problem becomes much more complicated.\n\nNow imagine the chain:\n\nAI creates the content.\n\nA tool removes the watermark.\n\nAnother system tries to detect whether the content was created by AI.\n\nAnd the detector has to make a decision based on incomplete or altered signals.\n\nThis creates a potential cat-and-mouse game between AI generation, watermark removal, and AI detection.\n\nThe bigger issue is not really the watermark itself.\n\nIt is whether we can build a reliable way to establish the origin of digital content in a world where AI-generated media becomes increasingly realistic and increasingly easy to modify.\n\nThat matters for creators, businesses, journalists, educators, platforms, and everyday internet users.\n\nBecause as AI-generated content becomes normal, one question becomes increasingly difficult to answer:\n\nWas this actually created by a human, or was AI involved somewhere along the way?\n\nThis video breaks down that problem, why AI detection is difficult, and what the future of identifying AI-generated content could look like.\n\nWhy Subscribe to bpro?\n\nbpro is focused on helping you understand AI beyond the hype.\n\nHere, you’ll learn about generative AI, AI tools, AI workflows, AI agents, prompt engineering, no-code AI, AI for business, and the practical ways AI is changing how people work and build.\n\nInstead of simply telling you what happened, BPRO focuses on why it matters, what is changing underneath the surface, and what you should understand about the bigger AI ecosystem.\n\nIf you want practical AI knowledge without unnecessary technical complexity, subscribe to bpro and stay ahead of the next major shift in AI.\n\n### Hashtags\n\n#AI #Claude #ArtificialIntelligence #AIDetection\n\nAI generated content, AI generated content detection, how to detect AI generated content, AI watermark, Claude AI watermark, Claude AI, AI detection, AI detector, how AI detection works, can AI content be detected, AI content detection, artificial intelligence, generative AI, AI tools, AI news, AI explained, what is AI watermark, how AI watermark works, AI generated images, AI generated videos",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-19T12:53:31Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "4mtCng9_dmo": {
+      "checkedAt": "2026-08-19T12:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 1,
+      "likeCount": 47,
+      "comments": [
+        {
+          "id": "UgyRmXAeU1mLsSRYpeF4AaABAg",
+          "author": "@100xEngineers",
+          "text": "GITHUB Repo: \nhttps://github.com/d4vinci/Scrapling\n\nOFFICIAL PAGE:\nhttps://scrapling.readthedocs.io/en/latest/index.html",
+          "likeCount": 1,
+          "publishedAt": "2026-08-19T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/lmQHSNqoTiUYSQmAD6ddVNxeMLwuezSj7JGn681txsIgDlDnHZrQU-JDaUSzGiSwnSZS7gFS=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-08-19T12:53:31Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "WdAba-OboMo": {
+      "checkedAt": "2026-08-19T12:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What does a truly AI-native recruitment agency actually look like?\nIn Episode 3 of Recruitment TV, we sit down with Lander Degrève from Spott to explore how AI is changing recruitment workflows — and why the next generation of agencies will go far beyond simply adding AI features to existing systems.\nThe shift is happening from a system of record that stores data to a system of intelligence that actually does the work.\nWe explore what that means in practice, from automated outreach and AI-powered matching to eliminating admin and creating more predictable pipelines.\nIn this episode, we discuss:\n The difference between an AI-native workflow and a traditional ATS with an AI add-on\n How automation can remove the repetitive work recruiters shouldn't still be doing\n Where recruiter time is still being wasted in 2026\n How AI-powered matching can change the way recruiters work\n What greater pipeline predictability could look like\n What a recruiter's day looks like inside a Super Agency\nWhy the agencies winning with AI are rebuilding workflows around it, rather than simply bolting AI onto existing processes\nRecruitment TV is all about the ideas, technology and strategies shaping the future of recruitment.\nThis episode is part of our Building Your Super Agency season.\n#RecruitmentTV #Recruitment #AI #ArtificialIntelligence #RecruitmentTechnology #Automation #SuperAgency #Spott",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "lBb3O-mhBZ8": {
+      "checkedAt": "2026-08-19T12:53:31Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Join HighLevel Lab — Free Courses, Templates & Snapshots\nhttps://thehighlevellab.com/\n\n⚡ Start HighLevel — Risk FREE 30 Days Trail + $11,674+ Bonuses + 1:1 Support\nhttps://www.gohighlevel.com/highlevel-bootcamp?fp_ref=yourfreetrial\n\n⚡ Already on HighLevel? Upgrade & Unlock $11,674+ in Resources\nhttps://app.gohighlevel.com/offers/affiliate-upgrade?fp_ref=yourfreetrial\n\n⚡ Want Us to Build Your HighLevel System?\nBook a Private Strategy Session:\nhttps://www.pritambhadra.com\n\n\n\n\nFollow Pritam For Business & AI:\nFacebook: https://www.facebook.com/pritam.bhadra.14\nLinkedIn: https://www.linkedin.com/in/pritambhadra/\n\n\n\n\n\n⏱️ Timestamps\n\n00:00 - Introduction\n01:08 - Creating Custom Agents\n04:19 - Voice and Model Configuration\n11:38 - Prompt Engineering\n17:27 - Configuring Agent Actions\n26:46 - Knowledge Base and Call Settings\n30:54 - Agent Behavior and Voice Settings\n36:43 - Deployment and Testing\n41:39 - Business Strategy and Resources\n\n\n\n\n\n\n\n\n\n\n📍 AI Tools I Use to Save 15–20 Hours Every Week\n⚡Create Tutorials, Screen Recordings & Professional Videos Faster with AI\nhttps://refer.tella.com/pritam-bhadra\n\n⚡Speak → Instantly Turn Your Voice Into Text & Control Your Workflow Faster\nhttps://ref.wisprflow.ai/pritam-bhadra\n\n⚡Grow Your YouTube Channel → Grow Your Business\nhttps://vidiq.com/aivideostudio\n\n\n\n\n\n\n\n\n\n\n📄 Disclosure: Some links above are affiliate links. If you sign up through them, we may earn a small commission at no extra cost to you.\nIf you’ve found value in the content, using these links is a simple way to support the work we’re doing. Appreciate you! 🙌",
+      "commentCount": 1,
+      "likeCount": 2,
       "probeClient": "web_embedded"
     }
   }

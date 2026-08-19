@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T11:53:31Z",
+  "updatedAt": "2026-08-19T12:53:31Z",
   "items": [
+    {
+      "id": "xQCfxvts3-M",
+      "type": "short",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-08-19T12:50:15Z",
+      "firstSeenAt": "2026-08-19T12:53:31Z"
+    },
+    {
+      "id": "yaFI4LPrq7U",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-19T12:38:44Z",
+      "firstSeenAt": "2026-08-19T12:53:31Z"
+    },
+    {
+      "id": "f8duRpaawPo",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-19T12:33:19Z",
+      "firstSeenAt": "2026-08-19T12:53:31Z"
+    },
+    {
+      "id": "4mtCng9_dmo",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-19T11:59:06Z",
+      "firstSeenAt": "2026-08-19T12:53:31Z"
+    },
+    {
+      "id": "WdAba-OboMo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Recruitment TV",
+      "publishedAt": "2026-08-19T08:53:31Z",
+      "firstSeenAt": "2026-08-19T12:53:31Z"
+    },
     {
       "id": "9EU--8rcqkk",
       "type": "short",
@@ -18872,6 +18912,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-19T12:53:31Z",
+      "new": 6,
+      "long": 2,
+      "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
