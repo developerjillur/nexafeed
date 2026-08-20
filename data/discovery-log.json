@@ -1,7 +1,79 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-19T23:53:23Z",
+  "updatedAt": "2026-08-20T00:53:36Z",
   "items": [
+    {
+      "id": "jgnapgIIfb4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-08-20T00:36:07Z",
+      "firstSeenAt": "2026-08-20T00:53:36Z"
+    },
+    {
+      "id": "f51ICIoHcjY",
+      "type": "long",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-20T00:22:36Z",
+      "firstSeenAt": "2026-08-20T00:53:36Z"
+    },
+    {
+      "id": "ZOEedHvKKDM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Chase H AI",
+      "publishedAt": "2026-08-20T00:00:38Z",
+      "firstSeenAt": "2026-08-20T00:53:36Z"
+    },
+    {
+      "id": "ptSFALW8K8s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anoop Digital",
+      "publishedAt": "2026-08-19T17:53:36Z",
+      "firstSeenAt": "2026-08-20T00:53:36Z"
+    },
+    {
+      "id": "gqmT4V7doOs",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Bitosol",
+      "publishedAt": "2026-08-19T15:53:36Z",
+      "firstSeenAt": "2026-08-20T00:53:36Z"
+    },
+    {
+      "id": "AaCJz9veZnc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "FroBro Web Technologies",
+      "publishedAt": "2026-08-19T14:53:36Z",
+      "firstSeenAt": "2026-08-20T00:53:36Z"
+    },
+    {
+      "id": "lYCL-_bhxL0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Modern Millie",
+      "publishedAt": "2026-08-19T13:53:36Z",
+      "firstSeenAt": "2026-08-20T00:53:36Z"
+    },
+    {
+      "id": "6WpvkmdxEYg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vimas Tech",
+      "publishedAt": "2026-08-19T13:53:36Z",
+      "firstSeenAt": "2026-08-20T00:53:36Z"
+    },
+    {
+      "id": "YjJyTH9ZBq4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Isuremedia",
+      "publishedAt": "2026-08-19T09:53:36Z",
+      "firstSeenAt": "2026-08-20T00:53:36Z"
+    },
     {
       "id": "OuFT9H1mEOI",
       "type": "long",
@@ -19459,6 +19531,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-20T00:53:36Z",
+      "new": 9,
+      "long": 6,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
