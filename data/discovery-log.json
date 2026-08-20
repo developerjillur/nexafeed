@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T02:53:41Z",
+  "updatedAt": "2026-08-20T03:53:42Z",
   "items": [
+    {
+      "id": "lZyKnqocMxY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SPRAM TechSphere",
+      "publishedAt": "2026-08-19T13:53:42Z",
+      "firstSeenAt": "2026-08-20T03:53:42Z"
+    },
     {
       "id": "xHsftiyT9pQ",
       "type": "long",
@@ -19630,6 +19638,15 @@
       "channelsChecked": 33,
       "warnings": 11,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-20T03:53:42Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 32,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
