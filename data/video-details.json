@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T01:53:38Z",
+  "updatedAt": "2026-08-20T02:53:41Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -6198,12 +6198,6 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "e9DA7Epr2-M": {
-      "checkedAt": "2026-08-19T14:53:11Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "ovLUHNIiVQA": {
       "checkedAt": "2026-08-18T19:53:12Z",
       "embedAllowed": true,
@@ -7420,7 +7414,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-20T01:53:38Z",
+      "checkedAt": "2026-08-20T02:53:41Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7726,26 +7720,67 @@
       "probeClient": "web_embedded"
     },
     "wxAj3KZVOQY": {
-      "checkedAt": "2026-08-19T02:53:19Z",
+      "checkedAt": "2026-08-20T02:53:41Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 6,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-19T02:53:19Z",
+      "commentCount": 4,
+      "likeCount": 71,
+      "comments": [
+        {
+          "id": "Ugyto5pgQQuu5rK0DEZ4AaABAg",
+          "author": "@DJ369-Miami",
+          "text": "Hey Chase... Not another one of those \n\"y'all been doing everything al wrong\" videos?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/M4rq9mKtYVNS-6sj818Q19YAXEb-Nxfe_a-P_b5DSvPMtzETuEgv9zBlDVuOfecXT8E7_2iR=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugydm4pU1FFVfX_HaGZ4AaABAg",
+          "author": "@helloworldlalala",
+          "text": "Good to know. High it is",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nGFFZTZtLgzymsvZFTeGCKJHpO2uQnubBR8G0pWBa50fCm3uXKtZzR9aVoKG-mhec1uA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz3fOlAf7rkT43i7Rp4AaABAg",
+          "author": "@MadebyaMexican",
+          "text": "So stay on medium. Okay got it.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/b5fPLSLZ2DichUkF43hSGFNe-_K9OZr2m4bCj0ytFdKylYxzsIgSrvemSZKA3ZPOTbYG0WbDWQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzjJ6_MtYLajKxnSwJ4AaABAg",
+          "author": "@mancavetech",
+          "text": "I am sorry... my Claude on less than \"Max\" is equivalent to a kid licking a frozen pole - \"upon further review and wasting $20 dollars on QC, the comment I made 5 pages ago should be ignored and replaced by this new nonsense... good luck. Or...I will need $49.99 to make this right by fixing it on the front end... your call...\"",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/MbDjl4cl6micFLkdtID7lRJIWIAPB7VUkVmjij_EhsJwVPpaVocXJe3DsbV7fgqkunwWToVAwA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-20T02:53:41Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "kwss-YdZHgA": {
-      "checkedAt": "2026-08-19T02:53:19Z",
+      "checkedAt": "2026-08-20T02:53:41Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Free today does not always mean free forever.\n\nIf I spend a year building up conversations, agents, files, and context inside a platform, I do not want to discover later that moving everything out is painful—or that my confidential data lives entirely on infrastructure I do not control.\n\nThat is why I self-host my Buzz relay. I own the data, I control the storage, and my devices connect securely through Tailscale. A small home box is enough.\n\nGet the exact self-hosting prompt and downloads from the full tutorial inside my free community:\nhttps://www.skool.com/keith-ai-3958\n\nWant all of my AI-agent, Claude Code, OpenClaw, Hermes, n8n, vibe-coding, and self-hosted AI courses in one place? Join my paid community:\nhttps://www.skool.com/keith-ai-2326\n\nThe full step-by-step Buzz Relay tutorial is on my channel.\n\n#selfhosted #buzz #nostr #homelab #localai",
       "commentCount": 0,
       "likeCount": 0,
       "comments": [],
-      "commentsFetchedAt": "2026-08-19T02:53:19Z",
+      "commentsFetchedAt": "2026-08-20T02:53:41Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7791,18 +7826,6 @@
       "likeCount": 2,
       "probeClient": "web_embedded"
     },
-    "8Q5_zWTsB2Q": {
-      "checkedAt": "2026-08-19T07:53:23Z",
-      "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
-    },
-    "jUbpNXEukMY": {
-      "checkedAt": "2026-08-19T07:53:23Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "ZuDH6NmE9co": {
       "checkedAt": "2026-08-19T11:53:31Z",
       "embedAllowed": true,
@@ -7822,33 +7845,6 @@
       "comments": [],
       "commentsFetchedAt": "2026-08-19T11:53:31Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "LjGHaikbzVA": {
-      "checkedAt": "2026-08-19T11:53:31Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "https://media.ccc.de/v/5150-amake-a-task-runner-for-your-ai-coding-tools\n\nMaking AI-assisted development reproducible, one Amakefile at a time\n\nIf you've been using AI coding assistants from the terminal (things like Claude Code, Aider, or GitHub Copilot) you've probably noticed that you end up typing the same prompts over and over. \"Create a PR for this branch.\" \"Review the diff.\" \"Refactor this module.\" And when you want to chain them together, you're copy-pasting output between invocations and hoping you don't mess up the order.\n\nI got tired of that, so I built amake.                                                                                                                          \n                                                                                                                                                                  \nThe idea is simple: you write an Amakefile (yes, like a Makefile, but for AI prompts) where you define tasks. Each task has a prompt, a tool to run it with, and optionally some dependencies. Then amake run review figures out the dependency graph, runs things in the right order, and pipes captured output from one task into the next. It's make for the age of AI-assisted development, same old idea of declarative task dependencies, just pointed at a different kind of tool.\n\nWhat makes it interesting in practice is that it doesn't care which AI tool you use. Claude Code, Aider, Copilot — they all have different CLIs with different flags and different ways of passing prompts. amake has an adapter layer that handles the translation, so you write the prompt once and pick the tool. You can even mix tools in the same pipeline: have one tool create a PR, then have another tool review it. Or use a completely unknown binary: amake will just shell out to it and pass your prompt as an argument.                                                                                                                      \n                                                                                                                                                                  \nSome features:\n\n- template system for variable interpolation ({{vars.focus}}, {{env.HOME}}, {{tasks.describe.stdout}});\n- an --edit-var flag that drops you into your $EDITOR when you need to write something longer than a one-liner;\n- a dry-run mode so you can verify your dependencies and resolved prompts before anything actually runs.\n\nIn this talk I'll walk through the motivation and show some real workflows... and of course it's available in openSUSE!\n\nAlessio Biancalana\n\n#osc26 #NewTechnologies\n\nLicensed to the public under https://creativecommons.org/licenses/by-sa/4.0/",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "WKa1Tq4u79A": {
-      "checkedAt": "2026-08-19T11:53:31Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Scott and Wes answer your questions about coding in the AI era, atrophying skills from too much autocomplete, whether it’s finally time to leave VS Code, chasing flow state with agents, and which single AI subscription is worth your money. Plus: AT Protocol vs Solid, making your AI config portable across tools, and bringing Shadcn-level UX to server-rendered frameworks 🔥 Be the ~19,500th person to join our super tasty newsletter https://bit.ly/syntax_snackpack\n\nShow Notes\n\n00:00 Welcome to Syntax!\n00:57 AI-Generated Code: Are My Skills Atrophying?\n06:03 Is It Time to Move On from VS Code?\n13:19 Hitting Flow State with AI Coding\n19:15 AT Protocol vs Solid: Decentralized Web Approaches\n24:55 Which AI Should You Subscribe To?\n30:23 Making Your AI Setup Portable Across Tools\n33:56 When to Drop a Tool That Still Works\n40:12 UX Quality for Traditional Server-Side Frameworks\n44:14 Using Hermes and Self-Hosted AI Assistants\n49:27 Sick Picks + Shameless Plugs\n\nAll links available at https://syntax.fm/1031\n------------------------------------------------------------------------------\nHit us up on Socials!\nSyntax: https://x.com/syntaxfm\nScott: https://x.com/stolinski\nWes: https://x.com/wesbos\nCJ: https://x.com/CodingGarden\nRandy: https://www.youtube.com/@randyrektor\n\nhttp://www.syntax.fm\n\nBrought to you by https://sentry.io/syntax\n\n#webdevelopment #webdeveloper #javascript #syntax #syntaxfm #webdev",
-      "commentCount": 6,
-      "likeCount": 38,
-      "probeClient": "web_embedded"
-    },
-    "huY2adMaRY0": {
-      "checkedAt": "2026-08-19T11:53:31Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Is Artificial Intelligence really going to replace programmers? 🤖\n\nToday, AI can write code in seconds, build websites, create apps, detect bugs, and even assist in complex software development tasks.\n\nSo a big question arises:\n\nIf AI can already write code, why are people still learning programming?\n\nIs programming going to die?\nWill developers become useless in the future?\nWill AI replace every software engineer?\nOr is programming simply evolving into something new?\n\nIn this video, we break down the real truth in simple language.\n\nWe will explore:\n\n✅ How far AI can actually write code\n✅ How AI builds websites and applications\n✅ What is AI Coding and Vibe Coding\n✅ Why AI-generated code is not always correct\n✅ Why programming is more than just writing code\n✅ Importance of logic and problem solving\n✅ What is software architecture\n✅ Why security and scalability still need humans\n✅ Will AI replace programmers or empower them?\n✅ What the future programmer will look like\n✅ Is learning programming still worth it in 2026?\n✅ What skills are needed in the AI coding era\n\nToday’s programmer may not write every line of code manually anymore.\n\nInstead, they will use AI to generate code, find bugs, write tests, and create documentation.\n\nBut the real difference is:\n\nA programmer must understand:\n\nWhat is the problem?\nWhat is the correct solution?\nIs the AI-generated code correct or not?\nHow should the system be designed?\nHow to ensure security and performance?\n\nIn the future, just writing code will not be enough.\n\nThe successful programmer will be the one who understands Programming + AI + Logic + Problem Solving + System Design.\n\nAI is not killing programming...\n\nAI is transforming programming into a new form. 🚀\n\nIf you want to understand Programming, AI, Coding, ChatGPT, AI Tools, Vibe Coding, and Future Technology in simple language, watch this video till the end.\n\n💬 Comment below:\n\nDo you think AI will replace programmers in the future?\n\n👍 Like the video if you enjoy it\n🔔 Subscribe to the channel\n📢 Share this video with your friends who are learning programming\n\nBecause the future will not belong only to AI...\nIt will belong to those who know how to use AI wisely. 🚀\nAI Coding, AI coding 2026, AI programming, programming 2026, future of programming, future of programmers, AI replacing programmers, will AI replace programmers, will AI replace software engineers, AI vs programmers, AI and programming, coding with AI, artificial intelligence coding, AI coding tools, AI coding agents, AI agents 2026, agentic coding, vibe coding, AI developer, future of coding, software development future, software engineering future, programming jobs 2026, coding jobs 2026, AI jobs 2026, programming career, coding career, learn programming 2026, is programming dead, is coding dead, AI code generator, AI website builder, AI app builder, ChatGPT coding, ChatGPT programming, Claude Code, Cursor AI, GitHub Copilot, OpenAI Codex, AI coding assistant, AI developer tools, AI automation, machine learning, web development, software development, computer programming, coding future, programmer future, software engineer, developer career, tech career 2026, programming skills, coding skills, AI skills, future skills, learn coding, programming for beginners, coding for beginners, AI explained, programming explained, AI reality, AI future, technology future, AI revolution, AI impact on jobs, human vs AI, AI human collaboration, coding agents, AI software engineering, autonomous coding, AI tools 2026\n#AI #ArtificialIntelligence #AICoding #AIProgramming #Programming #Coding #Coding2026 #Programming2026 #VibeCoding #AgenticCoding #AIAgents #CodingWithAI #FutureOfProgramming #FutureOfCoding #Programmer #SoftwareEngineer #SoftwareDevelopment #WebDevelopment #AIJobs #ProgrammingJobs #Tech #Technology #FutureTechnology #AITools #AI2026 #ChatGPT #CursorAI #GitHubCopilot #CodingLife #LearnProgramming #AIRevolution #AIExplained #TechNews #ProgrammingCareer #CodingCareer #AIFuture #MachineLearning #softwareengineering",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "xQCfxvts3-M": {
@@ -8059,15 +8055,6 @@
       "description": "WhatsApp Group Link: 👉 https://whatsapp.com/channel/0029VaCft4ZEAKWCdGecqI1N\n\nFiles Link: 👉 https://alphapost.io/blog/free-blogger-directory-kit-a-site-that-finds-its-own-listings\n\nIn this video I show you Blogger automation with a free setup for 2026. The AI writes and posts on your Blogger blog for you, on autopilot, after a one time setup. This is a full course, step by step, for beginners. No coding needed, and everything I use is free.\n\nBlogger automation saves you hours of work. The AI creates the content and publishes it on your blog automatically, so your blog stays active even when you are busy. In this video I show the complete setup from start to finish.\n\nIn this video you will learn:\n. The full free setup step by step\n. How the AI writes posts for your blog\n. How posts publish automatically on autopilot\n. Simple settings to keep your content quality high\n\n\n\nDisclaimer: This video is only for education. This is my own setup and my own experience. Your results can be different. I do not promise any income or traffic. Blogger rules, AI tools and their limits can change anytime, so always check the official pages. Please use automation the right way and follow Blogger policies, and always review your AI content \nbefore publishing. Some links may be affiliate links, and I may earn a small commission at no extra cost to you.\n\nIf this video helped you, please LIKE, SHARE and SUBSCRIBE for more free automation setups. Turn on the bell so you never miss a new video.\n\n#blogger #bloggerautomation #blogging #autoblogging #aiblogging #bloggingautomation \n#bloggertutorial #freeblogger #bloggingforbeginners #makemoneyblogging #onlineearningpakistan #shahg",
       "commentCount": 11,
       "likeCount": 24,
-      "probeClient": "web_embedded"
-    },
-    "OpVzxitSOLA": {
-      "checkedAt": "2026-08-19T14:53:11Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Discover the secret to saving over 20 hours a week with AI automation. In this video, we'll explore the easiest ways to automate repetitive tasks and free up more time for what matters most. Learn how to leverage AI technology to streamline your workflow, increase productivity, and boost efficiency. Whether you're a business owner, entrepreneur, or simply looking to simplify your work-life balance, this video will show you the simplest and most effective ways to get started with AI automation. Get ready to transform your weekly routine and unlock a world of possibilities.",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "OiXL7br-zmI": {
@@ -8460,20 +8447,11 @@
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
-    "sfjFKy0ZOiA": {
-      "checkedAt": "2026-08-19T19:53:34Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "It used to be predicted that robots would one day rule the world, and according to Sir Clive Sinclair, they still might. As part of Newsnight's \"Geek Week\" series of reports into the IT revolution, Stephen Smith takes a lighthearted look back through the BBC archive to see whether he can uncover any clues as to when, exactly, the seemingly inevitable combination of artificial intelligence and advanced robotics will spell the end of humanity as we know it.\n\n\nClip taken from Newsnight, originally broadcast on BBC Two, 6 January, 2006.\n\n\n\n\n\nYou have now entered the BBC Archive, a time machine that will transport you back to the golden age of TV to educate, entertain and enlighten you with classic clips from the BBC vaults.\n\nMake sure you subscribe so that you never miss a single stop on our amazing journey through the BBC Archive - https://www.youtube.com/c/BBCArchive?sub_confirmation=1\n\nYou can also dive into plenty more BBC Archive on our website - https://www.bbc.co.uk/archive",
-      "commentCount": 65,
-      "likeCount": 240,
-      "probeClient": "web_embedded"
-    },
     "qXTftsSZIiE": {
-      "checkedAt": "2026-08-20T01:53:38Z",
+      "checkedAt": "2026-08-20T02:53:41Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "9AeQSV4RhZ4": {
       "checkedAt": "2026-08-19T20:53:35Z",
@@ -8497,14 +8475,6 @@
       "description": "After several slower years, analysts now see industrial automation returning to sustained growth. Roland Berger reports that 2026 marks the beginning of renewed momentum, with long-term annual growth projected between 6% and 9% through 2030. \n\nThe recovery is being driven by factory modernization, reshoring, robotics investments, semiconductor manufacturing, and demand for more flexible production systems. Companies are also replacing proprietary automation architectures with standardized, software-driven platforms that lower deployment costs and improve scalability. \n\n***\nThis episode of On the Floor is brought to you by Mouser Electronics.",
       "commentCount": 0,
       "likeCount": 3,
-      "probeClient": "web_embedded"
-    },
-    "xe02k-sGDy0": {
-      "checkedAt": "2026-08-19T20:53:35Z",
-      "embedAllowed": true,
-      "description": "AI can automate routine customer emails—but some conversations still need human judgment.\n\nHigh-stakes refund disputes, fraud inquiries, VIP complaints, and complex customer issues require the right balance between AI automation and human support. Freshdesk's Email AI Agent helps customer service teams automate routine email conversations while giving them control over when and how conversations are escalated to human agents.\n\nTeams can configure handover rules, confidence thresholds, escalation criteria, conversation limits, and after-hours routing. When human judgment is needed, the conversation can be transferred with its context intact, helping agents pick up where the AI left off without making customers repeat themselves.\n\nEmail AI Agent also helps teams automatically resolve inactive conversations and control daily AI conversation volumes—making it easier to introduce and scale AI automation based on their support needs.\nLearn more about Freshdesk's AI Agents here – https://www.freshworks.com/freshdesk/omni/freddy-ai-agent/\n\nHow can AI and human agents work together in customer support?\nFreshdesk's Email AI Agent can handle routine, knowledge-based customer emails while configured handover and escalation rules help bring human agents into conversations that require judgment or additional support.\n\nWhen should an AI Agent hand over a customer conversation to a human?\nTeams can configure conditions for human handover, including customer requests for an agent, sensitive topics, confidence thresholds, and conversation limits. This helps ensure complex or sensitive customer issues receive appropriate human attention.\n\nHow do confidence thresholds improve AI customer support?\nConfidence thresholds give businesses greater control over when Email AI Agent responds. When confidence does not meet the configured threshold, the conversation can be escalated rather than relying on an uncertain response.\n\nCan AI customer support escalate conversations outside business hours?\nYes. Teams can configure how escalated conversations are handled outside business hours, helping route conversations appropriately while setting clear expectations for customers.\n\nHow can businesses introduce AI automation gradually in customer support?\nFreshdesk's Email AI Agent allows teams to control daily conversation limits and other deployment settings, helping organizations introduce AI gradually, evaluate performance, and expand adoption as confidence grows.\n\nHow does Email AI Agent reduce repetitive work for customer service teams?\nEmail AI Agent handles routine, knowledge-based email conversations using configured and approved knowledge, helping agents spend more time on complex, sensitive, and high-impact customer issues.\n\nTimestamps\n0:00 - How Can AI and Human Agents Work Together in Customer Support?\n0:39 - When Should an AI Agent Hand Over to a Human?\n1:00 - How Do Confidence Thresholds Improve AI Customer Support?\n1:14 - Preventing Customer Frustration with AI Conversation Limits\n1:23 - Can AI Customer Support Escalate Outside Business Hours?\n1:33 - How to Automatically Resolve Inactive Customer Conversations\n1:44 - How Can Businesses Introduce AI Automation Gradually with Freshdesk?\n2:06 - Freshdesk Email AI Agent: Automating the Right Emails\n\n#Freshdesk #EmailAIAgent #FreddyAI #CustomerService #AICustomerSupport #CustomerServiceAutomation #EmailAutomation #HumanInTheLoop #CustomerExperience #CX #Helpdesk #SupportAutomation \n\n\nConnect with us:\nhttps://linkedin.com/company/freshworks-inc\nhttps://twitter.com/FreshworksInc\n\nVisit us: https://www.freshworks.com/?utm_source=social&utm_medium=youtube&utm_campaign=nc&utm_term=organic&utm_content=commondesc",
-      "commentCount": 0,
-      "likeCount": 0,
       "probeClient": "web_embedded"
     },
     "48Rig6v-xYU": {
@@ -8748,6 +8718,60 @@
       "description": "What if you could analyze thousands of Tally transactions and generate business reports in just a few minutes? 🤯\n\nIn this video, I show you how AI can be used to analyze Tally Day Book data and automatically generate reports, insights, and interactive dashboards—without sending sensitive accounting data to a public AI platform.\n\n🚀 What You Will Learn\n\n✅ Analyze Tally Day Book data\n✅ Analyze 5,000+ transactions automatically\n✅ Generate Daily & Monthly Cash Flow Reports\n✅ Analyze Debit & Credit Transactions\n✅ Find Top Customers and Business Insights\n✅ Create Monthly Inflow & Outflow Reports\n✅ Analyze Payments, Invoices & Bank Transactions\n✅ Build an Accounting Dashboard using AI\n✅ Create an Offline AI-powered tool\n✅ Automate Accounting & MIS Reporting\n\nPractice File Link : https://drive.google.com/uc?export=download&id=1pNmwUFPSfwQlguFJ5P0aPzYmB66eQooz\n\nBoost Your Excel Productivity with XLBooster\nGet powerful Excel functions, AI tools, and productivity features not available in standard Excel.\n👉 https://xlbooster.com/r/AFF81315B\n\nIf you found this video useful, Like 👍, Comment 💬 and Subscribe 🔔 for more tutorials on Tally, Excel, AI, Accounting, Data Analytics and Automation.\n\nComment below: What Tally report would you like to automate using AI?\n\n#Tally #TallyPrime #Accounting #AI #Excel #Automation #MIS #DataAnalytics\n\nConnect me on LinkedIn Page : https://www.linkedin.com/in/vijayzine\n\nFill Google Forms to get SAP FICO E-Book : https://forms.gle/1msSavjLMsCCT2pD8\nGet Free Notification for Upcoming Videos -https://forms.gle/mMzXaroPPoYAhZQe7\n------------------------------------------------------------------------------------------------------------------------------\nLearn Satish Sir courses with Certificate\nCourse Website :https://skillcourse.in/\n------------------------------------------------------------------------------------------------------------------------------\nFollow us on LinkedIn  : https://www.linkedin.com/in/satish-dhawale/\n------------------------------------------------------------------------------------------------------------------------------\nCheck our latest blogs: https://learnmoreindia.in/ \n------------------------------------------------------------------------------------------------------------------------------\nSocial media Pages: \nSkill Course LinkedIn : linkedin.com/company/skill-course/\nFacebook Page Link: https://www.facebook.com/learnmoreeasily/\nInstagram Page Link: https://www.instagram.com/_learn_more_pro_/\nTelegram channel: https://telegram.me/learnmoreindia\nFollow us on X : https://x.com/Satish_Dhawale_\n------------------------------------------------------------------------------------------------------------------------------\nMy Other Channels:\nSatish Dhawale: ✅\nhttps://www.youtube.com/@Satish_Dhawale\nReal Tutorial: ✅\nhttps://www.youtube.com/@realtutorial550\nComplete Technology:✅\nhttps://www.youtube.com/@CompleteTechnology\nLearn more shorts:✅\nhttps://www.youtube.com/@LearnMoreShorts\nSatish Tech (Marathi):✅\nhttps://www.youtube.com/@Satish_Tech\nTally Tutorial:✅\nhttps://www.youtube.com/@TallyTutorial\nI Love Excel by Skill Course:✅\nhttps://www.youtube.com/@Excel_Tutorial\nLearn More:✅\nhttps://www.youtube.com/@Learn_More_Pro\nCuriosity: ✅\nhttps://www.youtube.com/@curiosity9432\n------------------------------------------------------------------------------------------------------------------------------\nMy YouTube Gears :\nBest Mic for Recording (Condensor Mic): https://amzn.to/2UUMDnH\nBest Mic for Recording (Dynamic Mic ): https://amzn.to/3pQgyvD\nMy DSLR Camera Canon 200D: https://amzn.to/39ciw3E\nMy Laptop (Video Editing): https://amzn.to/2UXQj8h\nLaptop (Office Use/ Home use / Budget Laptop) : https://amzn.to/3l0pniw\nAntivirus: https://amzn.to/3l3TIgi\nScreen Recording Software: https://bit.ly/2J39n2j\nVideo Editing Software: https://bit.ly/3nOPlri\nGreen screen with Stand: https://amzn.to/2KAl1Cu",
       "commentCount": 6,
       "likeCount": 84,
+      "probeClient": "web_embedded"
+    },
+    "xHsftiyT9pQ": {
+      "checkedAt": "2026-08-20T02:53:41Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get Your Complete Financial OS at https://startup-ideas-pod.link/brex_SIP\n\nI talk with Remy, known online as AI with Remy, about agent skills and how to share them across a whole team. Remy explains that a skill is an SOP for AI: a markdown file that teaches Claude your exact way to do a task. He then shows his system. He keeps his team skills in one GitHub repository, and he installs that repository as a plugin in Claude Code and Codex. The result is one source of truth, automatic updates for everyone, version control, and company ownership of the work. Listen to this episode if you run daily tasks with agents and you want your whole team to get the same quality of output.\n\nRemy’s prompt + skill setup: https://startup-ideas-pod.link/Remy-skills\n\nTimestamps\n\n00:00 – Intro\n02:33 – Skills as SOPs for AI\n04:27 – How the agent uses skills\n05:13 – AI is single player\n06:21 – Example Skills: Notion, Brand Voice, Email\n08:07 – How to share skills\n11:40 – What is a Plugin?\n14:58 – Anatomy of a Plugin\n15:30 – Version Control and Rollback\n16:58 – A Second Repo for Personal Skills\n18:29 – The Day Claude Deleted 150 Skills\n20:02 – Skills as Company Assets\n21:00 – A Web App on Top of the Repo\n24:46 – How Many Skills to Build\n27:00 – The Self-Improvement Loop\n28:15 – Skill Maxxing\n30:40 – Closing Thoughts\n\nKey Points\n\n• A skill is a markdown SOP that teaches an agent your exact way to do a task.\n• Most skills sit on one laptop, so a great process stays with one person.\n• A GitHub repo plus a plugin gives the team one source of truth for every skill.\n• Auto-update sends each skill edit to every teammate in Claude Code and Codex.\n• A company-owned repo keeps the skills when a teammate moves on.\n• Remy builds thin agents and thick skills, so any harness can run the same process.\n\nNumbered Section Summaries\n\n1. Skills as SOPs for AI \n\nRemy defines a skill as a markdown file that holds your full process, in the same way an SOP holds a process for an employee. He asks Claude for a sponsorship proposal, and Claude finds the proposal skill and produces a branded document in one shot. This matters because the model keeps your preferences from week to week.\n\n2. The Microsoft Word Era of Skills \n\nRemy compares today's skills to documents in the early Microsoft Word years: each file lives on one machine, and copies spread by email. Google Docs solved that with one shared file. Skills wait for the same shift, and that gap is the theme of the episode.\n\n3. Skills Worth Sharing \n\nHe shows three skills from a single week: Notion formatting, AI with Remy brand voice, and email formatting for Resend. Each one captures a look and a standard that he wants across the whole team. Shared skills keep the output consistent, whoever runs the task.\n\n4. Early Sharing Methods and Their Limits \n\nRemy walks through zip files on Slack, Google Drive, Dropbox, and Obsidian. Each method leaves duplicate copies, and Claude reads skills only from its own `.claude/skills` folder, so these setups need symlinks and manual repair. Technical teams cope with that; a junior marketer needs something simpler.\n\n5. From Repo to Plugin \n\nThe answer is a GitHub repo of team skills, grouped by department, installed as a plugin. In Claude Code you run `/plugin`, add the repo URL as a marketplace, and install the plugins you need. A few JSON files turn the repo into a plugin, and Remy had Claude write those for him.\n\n6. Distribution, Updates, and Ownership \n\nWith auto-update switched on, one edit reaches every teammate's Claude and Codex. Git history allows a rollback to any earlier version of a skill. The repo sits inside the company GitHub organization, so the business keeps the skills as an asset, and Enterprise accounts can push the plugin to everyone automatically.\n\n7. A UI, a Skills Assistant, and Usage Data \n\nHe built a web app that reads live from the team repo. It maps how skills call each other, such as a YouTube publish workflow that runs titles, thumbnails, and descriptions in sequence. An ask box recommends the right skill for a job, and a new hook counts each skill run per person, which shows the busy skills and the idle ones.\n\n\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/\n\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/\n\nFIND ME ON SOCIAL\nX/Twitter: https://twitter.com/gregisenberg\nInstagram: https://instagram.com/gregisenberg/\nLinkedIn: https://www.linkedin.com/in/gisenberg/\n\n\nFIND REMY ON SOCIAL\nX: https://x.com/remy_gaskell\nYoutube: https://www.youtube.com/@aiwithremy\nAI with Remy: https://www.aiwithremy.com/",
+      "commentCount": 45,
+      "likeCount": 306,
+      "probeClient": "web_embedded"
+    },
+    "YGgErBnx6po": {
+      "checkedAt": "2026-08-20T02:53:41Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Roadmap preview → https://goo.gle/mma-roadmap\n\nMost AI agents are text in, text out. This AI agent hears you, sees the page, remembers context, talks back, and moves a real browser: live, while you're still speaking.\n\nI call that an omni-app: perceive → reason → express, running as one open loop instead of taking turns. In this video, Annie breaks down what a bidirectional live multimodal agent actually is, why it's a much bigger jump than \"a better chatbot,\" and the full 6-episode roadmap for building one yourself with the Gemini Live API and Google's Agent Development Kit (ADK).\n\n🗺️ *SEASON 1 — THE ROADMAP*\n* Episode 1 · Voice — text-to-speech vs. a live session, and why interruption changes the whole interface\n* Episode 2 · Framework — raw GenAI SDK vs. Google ADK: who runs the loop\n* Episode 3 · Tools — function calling inside a live conversation, and the latency problem it creates\n* Episode 4 · Browser — giving your agent hands: voice-controlled browser automation\n* Episode 5 · Memory — structured facts + vector memory, retrieved mid-conversation\n* Episode 6 · Vision — one snapshot vs. a continuous frame stream, without killing the live feel\n\n⏱️ *Chapters:*\n0:00 - The demo: talking to an agent that actually acts\n0:50 - What is an omni-app?\n1:35 - Chatbot vs omni-app: one turn vs one live loop\n2:10 - What \"bidirectional\" actually means\n2:50 - The loop: Perceive → Reason → Express\n3:25 - Season 1: six episodes\n3:55 - Episode 1 · Voice — text-to-speech vs live (and interruption)\n4:30 - Episode 2 · Framework — GenAI SDK vs Google ADK\n5:00 - Episode 3 · Tools — and the tool-latency problem\n5:40 - Episode 4 · Browser — giving the agent hands\n6:00 - Episode 5 · Memory — facts, vectors, and live recall\n6:20 - Episode 6 · Vision — snapshot vs continuous frames\n6:55 - What developers will be able to build\n\n🔗 *Resources:*\n* Roadmap preview:→ https://goo.gle/mma-roadmap\n* Code for this series → https://goo.gle/mma-code\n* Gemini Live API docs → https://goo.gle/4xxUoQD\n* Agent Development Kit (ADK) docs → https://goo.gle/4g6JH0n\n\nConnect with Annie online:\nLinkedIn → https://goo.gle/annie-linkedin\nX → https://goo.gle/annie-x\n\n🔔 Subscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#AIAgents #GeminiAPI #MultimodalAI\n\nSpeaker: Annie Wang\nProducts Mentioned: GenAI SDK, Google Agent Development Kit, Gemini Live API",
+      "commentCount": 14,
+      "likeCount": 129,
+      "probeClient": "web_embedded"
+    },
+    "vRDxelta5Pg": {
+      "checkedAt": "2026-08-20T02:53:41Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Sponsored by Mobbin. 20% off Mobbin Pro:  https://mobbin.com/interfacestudies\nJoin \"Interface Studies\" to help make more videos. Your support keeps new content coming. https://www.youtube.com/channel/UCqv7gk4p_rB4nRz0j7B5yFA/join\n\nUndo has been part of interactive computing since the late sixties. Its purpose was to remove the fear of experimentation. Now software is starting to act on our behalf, and the question is what \"undo\" means when an agent has booked a flight, sent three emails and rewritten a spreadsheet, and we change our mind. \n\n--------------------------\nSubscribe on Substack: https://interfacestudies.substack.com/\n\nHappy to jump on a call if it'd be useful: design strategy, experience design, critique, feedback. https://intro.co/salehkayyali\n\nElsewhere: \nX: https://x.com/mskayyali\nBlueSky: https://bsky.app/profile/mskayyali.com\n---------------------------\n\nCHAPTERS\n\n[00:00] Software that acts for us\n[01:17] The old answer: undo\n[01:39] Sponsor: Mobbin\n[02:25] Where undo came from\n[03:49] Permissions are back\n[05:12] Permission and undo are different moments\n[05:59] The Berlin trip\n[07:39] Coding: the best case\n[08:48] Codex removed its undo command\n[09:44] General-purpose agents: stopping at the door\n[11:20] The nature of undo is changing\n[13:22] Gmail's undo, and a proposal\n[14:48] Chronology versus dependency\n[17:27] What undo needs now\n\nFURTHER READING\n\n-Van Dam interview (Brown University, 2016): https://www.brown.edu/news/2016-05-23/hypertext\n-Shneiderman, Direct Manipulation (1983): https://www.academia.edu/96467924/Direct_Manipulation_A_Step_Beyond_Programming_Languages\n- Claude Code permission modes: https://code.claude.com/docs/en/permission-modes\n- Claude Code checkpointing and rewind: https://code.claude.com/docs/en/checkpointing\n- Cursor run modes: https://cursor.com/docs/agent/security/run-modes\n- Cursor checkpoints: https://cursor.com/docs/agent/chat/checkpoints\n- Apps in ChatGPT, permissions: https://help.openai.com/en/articles/11487775-connectors-in-chatgpt\n- GitHub Copilot CLI rollback: https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/roll-back-changes\n- Reddit thread on rewind: https://www.reddit.com/r/ClaudeAI/comments/1u8cgpc/\n- Codex /undo removal (GitHub discussion 9618): https://github.com/openai/codex/discussions/9618\n- Claude Cowork, permissions and deletion protection: https://support.claude.com/en/articles/13345190-get-started-with-claude-cowork\n- OpenAI, A Practical Guide to Building Agents: https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/\n- OpenAI Agents SDK, sandbox agents: https://developers.openai.com/api/docs/guides/agents/sandboxes\n- OpenAI Agents SDK, human-in-the-loop: https://openai.github.io/openai-agents-python/human_in_the_loop/\n- Revisable by Design (arXiv preprint, 2026): https://arxiv.org/abs/2604.23283\n- Gmail Undo Send: https://support.google.com/mail/answer/2819488\n- Claude Gmail connector (drafts only): https://support.claude.com/en/articles/10166901-use-google-workspace-connectors\n- Teitelman, The Programmer's Assistant (1972): https://softwarepreservation.computerhistory.org/LISP/interlisp/Teitelman-FCJJ1972.pdf\n- LangGraph time travel: https://docs.langchain.com/oss/python/langgraph/use-time-travel\n- Temporal, saga pattern: https://docs.temporal.io/evaluate/use-cases-design-patterns\n- Temporal trip-booking tutorial: https://learn.temporal.io/tutorials/python/trip-booking-app/\n- Garcia-Molina and Salem, Sagas (1987): https://dl.acm.org/doi/10.1145/38713.38742",
+      "commentCount": 19,
+      "likeCount": 87,
+      "probeClient": "web_embedded"
+    },
+    "Tkd8OuSyFss": {
+      "checkedAt": "2026-08-20T02:53:41Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI agents are the most trending topic in AI right now. And most people are too afraid to ask what they actually are. This video is the answer: what agents are, how they're different from just using ChatGPT or Claude, how the perceive-think-act-observe loop works, where agents go wrong, and how to start using one today for free.\n\nTry your own AI agent free → https://instapilot.ai\n\nRelated videos:\n→ Claude Cowork vs Manus: https://youtu.be/hmhr1_5TCK0\n→ 10 AI trends changing everything: https://youtu.be/pMkMuejz9ZA\n\nStay up to date with all things AI with our daily newsletter → https://nocode.mba/newsletter?refer=youtube-video/Tkd8OuSyFss\n\n━━━━━━━━━━━━━━━━━━━━━━\nWHAT YOU'LL LEARN:\n━━━━━━━━━━━━━━━━━━━━━━\n\n1️⃣ CHATBOTS ANSWER, AGENTS ACT ChatGPT is one message in, one answer out. An agent completes tasks: it decides what to do, takes real actions, sees what happened, and keeps going until the job is done.\n\n2️⃣ THE LOOP: PERCEIVE → THINK → ACT → OBSERVE The four-step cycle that repeats until the task is complete. How well it works depends on two things: the harness (the tooling and guardrails the agent works inside) and the quality of the model.\n\n3️⃣ A REAL TASK, BROKEN DOWN \"Find my last three invoices and email a summary to my accountant\" — walked through step by step, showing exactly which integrations (file/email access) and tools (search, read, send) the agent needs at each stage.\n\n4️⃣ CHATBOT VS WORKFLOW VS AGENT Workflows (Zapier, Make) are fixed pipelines that break when a step fails. Agents get a goal and tools, then choose their own path — and adapt when things go wrong. Sometimes a workflow is still the right answer.\n\n5️⃣ REAL EXAMPLES My daily agent that researches whether Fable 5 is available again and emails me the answer, and a calendar agent that flags back-to-back meetings — all from a goal, not step-by-step instructions.\n\n6️⃣ WHERE AGENTS GO WRONG Hallucinated steps (saying it sent an email it didn't), burning money on dead-end loops, and lacking judgment. The fix is the harness: deterministic code that verifies actions and stops runaway loops. Rule of thumb — don't give an agent tools you wouldn't let an intern use unsupervised.\n\n7️⃣ WHY NOW? Three things converged: stronger models, cheaper inference (open models like GLM 5.2 near Opus quality for far less), and better tooling around agents.\n\n━━━━━━━━━━━━━━━━━━━━━━\nKEY TAKEAWAYS\n ━━━━━━━━━━━━━━━━━━━━━━\n\n💡 Chatbots answer questions; agents complete tasks — that's the whole distinction\n💡 Goal + tools + freedom to choose the path = an agent\n💡 The harness matters as much as the model — guardrails catch what agents get wrong\n💡 Treat your agent like an intern: clear instructions, supervised tools\n💡 A morning research brief emailed to you is the perfect first agent to try\n\n💬 COMMENT BELOW: What's still confusing about agents? Tell me and I'll cover it in a future video.",
+      "commentCount": 0,
+      "likeCount": 5,
+      "probeClient": "web_embedded"
+    },
+    "bqgz6gOK5OA": {
+      "checkedAt": "2026-08-20T02:53:41Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In July 2025, an AI coding agent deleted a production database during a code freeze. The model did what models do. What was missing was the layer around it: the thing that gates destructive actions and records every step. That layer is called an agent harness, and TrueFoundry just open-sourced theirs: TrueForge, MIT licensed. \n\nIn this video I explain what a harness actually does, then run a live demo where an agent is stopped mid-action before it overwrites a file, using a default I never configured. Repo and docs below, go read the code yourself.\n\n🧑‍💻 Register for the Hackathon: https://www.wemakedevs.org/hackathons/trueforge\n🔗 Check out TrueForge: https://github.com/truefoundry/trueforge\n👉  Sign up to TrueFoundry: https://signup.truefoundry.com/signup?utm_source=wemakedevs-agent-harness-hackathon-2026-08\n\n===================================================\nTimestamps:\n00:00 Introduction\n01:13 Why Plain Agents Break? \n02:25 What is Agent Harness?\n03:55 What is TrueForge?\n05:31 Why Now?\n07:20 Demo\n13:20 Closing Remarks\n\n#AIAgents #OpenSource #MCP",
+      "commentCount": 8,
+      "likeCount": 65,
+      "probeClient": "web_embedded"
+    },
+    "J_mf-RYGpnU": {
+      "checkedAt": "2026-08-20T02:53:41Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI went off-script this week. An AI agent attacked real open-source projects, China’s Qwen 3.8 beat Claude at computer use for a fraction of the price, OpenAI solved 10 open maths problems for $2,000, and India made a major move in the AI race.\n\nPlus DeepSeek, Google, Meta, Nvidia, Sarvam, AI security, and the biggest developer stories of the week.\n\nSubscribe for a weekly AI news roundup, explained simply.\n\n**CHAPTERS**\n\n00:00 The Week AI Went Off-Script\n01:25 An AI Agent Attacked Real People\n04:42 China’s Qwen 3.8 Beats Claude at Computer Use\n05:58 OpenAI Solved 10 Open Maths Problems\n06:53 Google’s Two Biggest AI Leaders Stepped Back\n07:56 India’s Biggest AI Move Yet\n09:15 DeepSeek’s Frontier AI for 2 Cents\n09:45 Two Shots at Nvidia’s Crown\n10:27 Meta’s New Coding Agent\n11:11 You Miss 1 in 3 AI Threats\n12:01 A Major npm Supply Chain Attack\n12:19 Oracle Bans AI-Generated Code\n13:09 Hack of the Week: Make Your Coding Agent Better\n14:02 That’s the Week\n\n\n---------------------------------------- About SCALER --------------------------------------------------\n\nAt Scaler, we've spent over a decade building education that actually compounds. Our programs are #Fundamentalfirst #AIForward and #BuiltForTheNextDecade\n\nEvery curriculum is designed for where the industry is actually headed — with live expert classes, 1:1 mentorship, real-world projects, and specialisations in GenAI, Agentic AI, MLOps, and Cybersecurity.\n\nWhether you're a fresher, a working professional, or a non-tech leader, there's a Scaler program built for you. Learn more about Scaler: https://scaler.events/4mICSF7\n\nPrograms offered:\n→ Modern Software & AI Engineering - https://www.scaler.com/academy/\n→ Modern Data Science and ML with specialisation in AI - https://www.scaler.com/data-science-course/\n→ Advanced AIML with Specialisation in Agentic AI - https://www.scaler.com/ai-machine-learning-course/\n→ DevOps, Cloud & AI Platform Engineering - https://www.scaler.com/devops-course/\n→ Scaler Online PGP in Business & AI - https://www.scaler.com/online-pgp-in-business-and-ai\n→ Scaler Edge - https://www.scaler.com/iit-roorkee-advanced-ai-engineering-course\n→ Scaler School of Technology - https://www.scaler.com/school-of-technology\n→ Scaler School of Business - https://www.scaler.com/school-of-business\n\n📌  Follow us on Social and be a part of an amazing tech community📌\n\n 👉🏻 Check out student success stories, expert opinions, and live classes on Linkedin - https://www.linkedin.com/school/scalerofficial\n👉🏻 Explore value-packed reels, carousels and get access to exclusive updates on Instagram - https://www.instagram.com/scaler_official/\n\n🔔 Hit that bell icon to get notified of all our new videos 🔔 \n\nIf you liked this video, please don't forget to like and comment. Never miss out on our exclusive videos to help boost your tech career! Subscribe to Scaler now!\nhttps://www.youtube.com/Scaler?sub_confirmation=1\n\n#AINews #Qwen #ClaudeAI #OpenAI #Sarvam #AItools #Anthropic #DeepSeek #India #ArtificialIntelligence",
+      "commentCount": 2,
+      "likeCount": 43,
       "probeClient": "web_embedded"
     }
   }

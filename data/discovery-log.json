@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T01:53:38Z",
+  "updatedAt": "2026-08-20T02:53:41Z",
   "items": [
+    {
+      "id": "xHsftiyT9pQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Greg Isenberg",
+      "publishedAt": "2026-08-19T20:53:41Z",
+      "firstSeenAt": "2026-08-20T02:53:41Z"
+    },
+    {
+      "id": "YGgErBnx6po",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Google Cloud Tech",
+      "publishedAt": "2026-08-19T19:53:41Z",
+      "firstSeenAt": "2026-08-20T02:53:41Z"
+    },
+    {
+      "id": "vRDxelta5Pg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Interface Studies",
+      "publishedAt": "2026-08-19T18:53:41Z",
+      "firstSeenAt": "2026-08-20T02:53:41Z"
+    },
+    {
+      "id": "Tkd8OuSyFss",
+      "type": "long",
+      "source": "secondary",
+      "channel": "No Code MBA",
+      "publishedAt": "2026-08-19T17:53:41Z",
+      "firstSeenAt": "2026-08-20T02:53:41Z"
+    },
+    {
+      "id": "bqgz6gOK5OA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kunal Kushwaha",
+      "publishedAt": "2026-08-19T16:53:41Z",
+      "firstSeenAt": "2026-08-20T02:53:41Z"
+    },
+    {
+      "id": "J_mf-RYGpnU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SCALER",
+      "publishedAt": "2026-08-19T13:53:41Z",
+      "firstSeenAt": "2026-08-20T02:53:41Z"
+    },
     {
       "id": "5Af0HeT47BY",
       "type": "long",
@@ -19573,6 +19621,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-20T02:53:41Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 11,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
