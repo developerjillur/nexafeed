@@ -56,6 +56,7 @@ YT = "{http://www.youtube.com/xml/schemas/2015}"
 MEDIA = "{http://search.yahoo.com/mrss/}"
 UTC = dt.timezone.utc
 BD_TZ = dt.timezone(dt.timedelta(hours=6))
+ARCHIVE_RETENTION_DAYS = 30
 DETAIL_PROBE_LOCK = threading.Lock()
 DETAIL_LAST_STARTED = 0.0
 
@@ -82,6 +83,66 @@ def parse_datetime(value: str | None) -> dt.datetime | None:
         return parsed.astimezone(UTC)
     except Exception:
         return None
+
+
+def bangladesh_date_key(value: str | None) -> str | None:
+    parsed = parse_datetime(value)
+    return parsed.astimezone(BD_TZ).date().isoformat() if parsed else None
+
+
+def normalize_thumbnail_url(value: object) -> str:
+    thumbnail = html.unescape(str(value or "")).split("?", 1)[0]
+    return thumbnail.replace("/frame0.jpg", "/hqdefault.jpg")
+
+
+def merge_daily_archive_items(
+    current_items: list[dict[str, Any]],
+    previous_items: list[dict[str, Any]],
+    *,
+    now: dt.datetime,
+) -> list[dict[str, Any]]:
+    """Keep every unique feed item from the latest Bangladesh calendar window."""
+    cutoff = now.astimezone(BD_TZ).date() - dt.timedelta(days=ARCHIVE_RETENTION_DAYS - 1)
+    archive_end = now.astimezone(BD_TZ).date()
+    merged: dict[str, dict[str, Any]] = {}
+
+    for item in previous_items + current_items:
+        video_id = str(item.get("id") or "").strip()
+        published = parse_datetime(item.get("firstSeenAt")) or parse_datetime(item.get("publishedAt"))
+        collected_date = published.astimezone(BD_TZ).date() if published else None
+        if not video_id or not collected_date or collected_date < cutoff or collected_date > archive_end:
+            continue
+        candidate = dict(item)
+        if candidate.get("thumbnail"):
+            candidate["thumbnail"] = normalize_thumbnail_url(candidate["thumbnail"])
+        existing = merged.get(video_id)
+        if existing and existing.get("source") == "primary" and candidate.get("source") != "primary":
+            continue
+        merged[video_id] = {**existing, **candidate} if existing else candidate
+
+    return list(merged.values())
+
+
+def order_daily_archive_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Deduplicate only by video ID; distinct uploads must remain in the archive."""
+    deduped: dict[str, dict[str, Any]] = {}
+    for item in items:
+        video_id = str(item.get("id") or "").strip()
+        if not video_id:
+            continue
+        current = deduped.get(video_id)
+        if current is None or (current.get("source") == "secondary" and item.get("source") == "primary"):
+            deduped[video_id] = item
+
+    def sort_key(item: dict[str, Any]) -> tuple[Any, ...]:
+        published = parse_datetime(item.get("publishedAt")) or dt.datetime.min.replace(tzinfo=UTC)
+        return (
+            0 if item.get("source") == "primary" else 1,
+            int(item.get("priority") or 99),
+            -published.timestamp(),
+        )
+
+    return sorted(deduped.values(), key=sort_key)
 
 
 def load_json(path: Path, fallback: Any) -> Any:
@@ -123,7 +184,6 @@ def apply_env_overrides(config: dict[str, Any]) -> dict[str, Any]:
         "NEXAFEED_COMMENTS_TTL_HOURS": "commentsTtlHours",
         "NEXAFEED_SECONDARY_RESULTS_PER_QUERY": "secondaryResultsPerQuery",
         "NEXAFEED_SECONDARY_RETENTION_HOURS": "secondaryRetentionHours",
-        "NEXAFEED_MAX_FEED_ITEMS": "maxFeedItems",
         "NEXAFEED_SHORT_MAX_SECONDS": "shortMaxSeconds",
         "NEXAFEED_FRESH_HOURS": "freshHours",
         "NEXAFEED_DISCOVERY_RETENTION_DAYS": "discoveryRetentionDays",
@@ -338,7 +398,7 @@ def thumbnail_url(sources: Any, fallback_id: str) -> str:
             default=None,
         )
         if best:
-            return html.unescape(str(best["url"]))
+            return normalize_thumbnail_url(best["url"])
     return f"https://i.ytimg.com/vi/{fallback_id}/hqdefault.jpg"
 
 
@@ -848,6 +908,8 @@ def enrich_and_filter_items(
             blocked += 1
             continue
         enriched = dict(item)
+        if enriched.get("thumbnail"):
+            enriched["thumbnail"] = normalize_thumbnail_url(enriched["thumbnail"])
         if detail.get("embedAllowed") is True:
             enriched["embedAllowed"] = True
         output.append(enriched)
@@ -1323,21 +1385,13 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
             bootstrap,
         )
 
-    deduped: dict[str, dict[str, Any]] = {}
-    for item in primary_items + secondary_items:
-        current = deduped.get(item["id"])
-        if current is None or (current.get("source") == "secondary" and item.get("source") == "primary"):
-            deduped[item["id"]] = item
-
-    def sort_key(item: dict[str, Any]) -> tuple[Any, ...]:
-        published = parse_datetime(item.get("publishedAt")) or dt.datetime.min.replace(tzinfo=UTC)
-        return (
-            0 if item.get("source") == "primary" else 1,
-            int(item.get("priority") or 99),
-            -published.timestamp(),
-        )
-
-    candidate_items = collapse_repeated_items(sorted(deduped.values(), key=sort_key))[: int(config.get("maxFeedItems", 340))]
+    archive_retention_days = ARCHIVE_RETENTION_DAYS
+    archive_items = merge_daily_archive_items(
+        primary_items + secondary_items,
+        previous_items,
+        now=now,
+    )
+    candidate_items = order_daily_archive_items(archive_items)
     if args.no_details:
         details = previous_details
         detail_status = {"planned": 0, "checked": 0, "warnings": 0, "errors": [], "disabled": True}
@@ -1361,7 +1415,7 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
         "runSeconds": round(time.monotonic() - started, 2),
     }
     feed = {
-        "schemaVersion": 3,
+        "schemaVersion": 4,
         "updatedAt": iso_utc(now),
         "siteName": config.get("siteName", "YourTube"),
         "tagline": config.get("tagline", "Watch only those valuable for you"),
@@ -1369,6 +1423,8 @@ def run_update(args: argparse.Namespace) -> dict[str, Any]:
         "repositoryUrl": config.get("repositoryUrl", ""),
         "primaryChannels": len(channels),
         "freshHours": int(config.get("freshHours", 24)),
+        "archiveRetentionDays": archive_retention_days,
+        "archiveTimezone": "Asia/Dhaka",
         "stats": {
             "total": len(items),
             "longVideos": type_counts.get("long", 0),

@@ -2,7 +2,7 @@ const VIDEO_ID_PATTERN = /^[A-Za-z0-9_-]{11}$/;
 const CHANNEL_ID_PATTERN = /^UC[A-Za-z0-9_-]{22}$/;
 const CHANNEL_HANDLE_PATTERN = /^@[A-Za-z0-9._-]{3,100}$/;
 const VIDEO_TYPES = new Set(["long", "short"]);
-const APP_VIEWS = new Set(["home", "shorts", "long", "liked", "history", "ignored"]);
+const APP_VIEWS = new Set(["home", "shorts", "long", "liked", "history", "ignored", "archive"]);
 
 function normalizedVideoId(value) {
   const videoId = String(value || "").trim();

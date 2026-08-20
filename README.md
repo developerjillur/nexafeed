@@ -32,6 +32,7 @@ The default public demo uses the current NexaLance AI/web-development source set
 | Area | Features |
 |---|---|
 | Personal feed | Priority channel feed, topic/keyword discovery, category chips, fresh/new indicators |
+| 30-day daily archive | Home defaults to today in Asia/Dhaka; select any of the last 30 calendar days, replay every collected video from that day, and copy/download AI-ready JSON or Markdown with available descriptions and cached top comments |
 | Shorts | Dedicated Shorts tab, YouTube-style overlay, exact History/Ignored replay, 10-second directional back/forward history, keyboard/wheel/swipe navigation |
 | Long videos | Full-width watch layout, autoplay queue, incomplete-progress resume, next playable queue, 10-second transient Previous backtracking |
 | Watch control | Manual skip sends under-threshold videos to an Ignored list, 30-second / half-Short threshold sends meaningful views to Watch History, normal queues hide watched and ignored items |
@@ -53,11 +54,11 @@ The demo at `developerjillur.github.io/nexafeed` ships with the existing AI, aut
 Release snapshot:
 
 - 33 monitored channels
-- 327 playable feed items
-- 161 long videos
-- 166 Shorts
-- 287 primary channel items
-- 40 topic/keyword/category discovery items
+- 353 playable feed items retained in the current 30-day archive
+- 174 long videos
+- 179 Shorts
+- 305 primary channel items
+- 48 topic/keyword/category discovery items
 - Asia/Dhaka timezone
 
 Files that define the default setup:
@@ -83,6 +84,7 @@ data/videos.json + data/video-details.json + data/feed-settings.json
 index.html + app.js + style.css
         ├── video-actions.mjs      validated deep links and YouTube destinations
         ├── short-history.mjs      transient directional Shorts history
+        ├── daily-archive.mjs      Bangladesh date grouping and AI-ready daily exports
         └── float.html             isolated same-origin pop-out player
         ↓
 GitHub Pages
@@ -103,6 +105,15 @@ The **NotebookLM** action is also frontend-only. It opens a new notebook with th
 
 The **Float** action prefers the dedicated same-origin `float.html` pop-out and falls back to an in-page draggable player if popups are blocked. The pop-out accepts only a validated YouTube ID, builds its own canonical watch URL, resumes incomplete progress, strips query/hash data from the YouTube widget referrer, and disconnects itself from the opener window. It saves progress every 1.5 seconds and finalizes the watched/ignored threshold on Close or page exit. Both float modes stop without re-finalizing when the same video is explicitly ignored or removed from Watch History, so stale callbacks cannot reverse that action.
 
+### 30-day daily archive and AI export
+
+- **Home defaults to Today** in the `Asia/Dhaka` timezone. The date control can move across exactly 30 Bangladesh calendar days, including empty days.
+- Selecting a date rebuilds Home from every playable Long video and Short collected for that day. This historical daily view keeps watched and ignored cards visible with their status instead of silently removing them.
+- The sidebar **Daily archive** tab keeps the same selected date and adds **Copy all URLs**, **Copy JSON**, **Copy Markdown**, **Download JSON**, and **Download .md** actions. **Copy all URLs** places every selected-day Long and Short canonical YouTube URL on its own line.
+- Daily exports contain totals by type/source/channel plus canonical YourTube and YouTube links, title/channel/date/duration/view metadata, category/topic fields, cached descriptions, and cached top comments when available.
+- Raw feed-provided destinations are never exported. Links are reconstructed from validated YouTube video IDs and channel IDs/handles. Browser-local liked/watched/ignored/progress records are private and never included. JSON and Markdown also label titles, descriptions, and comments as **untrusted public data**, so a downstream AI agent can analyze them without treating embedded text as instructions.
+- The collector merges each hourly result with previously collected records, retains the latest 30 Bangladesh calendar days, and prunes older records. It no longer drops in-window history because of an arbitrary total-item cap.
+
 ### Right-click and video actions
 
 - Every feed card and **Up Next** item is a real same-origin link. Normal clicks stay inside YourTube, while Command/Ctrl-click, Shift-click, middle-click, and browser link behavior remain available.
@@ -119,7 +130,7 @@ The **Float** action prefers the dedicated same-origin `float.html` pop-out and 
 - Video and channel destinations are rebuilt from validated IDs/handles instead of trusting URLs supplied by feed JSON. Invalid destinations fall back to the YouTube homepage.
 - External actions use canonical HTTPS URLs. New external tabs are detached from the parent before cross-origin navigation.
 - YouTube `widget_referrer` values include only the app origin and pathname, never the current deep-link query or hash.
-- `video-actions.mjs` and `float.html` are required deployment artifacts in the Pages, feed-update, and owner-settings workflows, and both are included in the repository verifier/credential scan.
+- `video-actions.mjs`, `daily-archive.mjs`, and `float.html` are required deployment artifacts in the Pages, feed-update, and owner-settings workflows, and all are included in the repository verifier/credential scan.
 
 ## Watched vs Ignored rules
 
@@ -127,13 +138,13 @@ YourTube keeps playback decisions private in browser `localStorage`:
 
 - If a running video is skipped, closed, changed with keyboard arrows, changed with wheel/scroll, or replaced by another video before the watch threshold, it goes to **Ignored videos**.
 - Choosing **Ignore** for the currently playing Long or Short stops/replaces that player first, so a still-running progress timer cannot immediately promote the explicitly ignored video to Watch History. Superseded YouTube player callbacks are generation-guarded for the same reason.
-- Ignored videos stay out of Home, Shorts, Long videos, fresh/new filters, and Up Next queues.
+- Ignored videos stay out of normal Shorts, Long videos, fresh/new filters, and Up Next queues. Date-filtered Home and Daily archive intentionally keep them visible as part of the historical daily record.
 - Long videos go to **Watch history** only after at least **30 seconds** of watch time, or after the video naturally finishes.
 - For Shorts with a known duration, watching **half of the Short** is enough. Example: a 40-second Short counts as watched after 20 seconds.
 - Manual skip/next/scroll never uses the old 5-second shortcut. Under-threshold exits stay **Ignored** even when some progress was saved.
 - Inside the same long-video player session, the Previous button or upward wheel/scroll can reopen the just-left long video for **10 seconds**, even if that video has already moved into Watch history. The control refreshes when the window expires, so it cannot remain visibly enabled for a target that is no longer eligible. This is only a short backtracking grace window; watched videos still stay hidden from normal feeds and Up Next queues.
 - Inside the same Shorts session, including a replay opened from Watch History, Up follows a directional back stack and Down can return through its forward stack for **10 seconds**. A watched Short selected from History opens itself rather than silently jumping to the next unwatched Short. After Next, Previous can immediately return to that selected Short. Expired or unavailable entries are skipped, the history resets when the Shorts overlay closes, and replayed history items remain hidden from normal feeds.
-- Watched and ignored records are stored locally for the current feed window plus **1 extra day**, then pruned in the browser. Any watched/ignored video ID still present in the active feed is protected from pruning, so it cannot return as “new” while it remains in `data/videos.json`.
+- Watched and ignored records are stored locally for the 30-day feed window plus **1 extra day**, then pruned in the browser. Any watched/ignored video ID still present in the active feed is protected from pruning, so it cannot return as “new” while it remains in `data/videos.json`.
 - Browser state is local only. Export history JSON if you want to move watched/progress/ignored state to another device.
 
 ## Quick start
@@ -431,6 +442,7 @@ npm run test:browser
 node --check app.js
 node --check short-history.mjs
 node --check video-actions.mjs
+node --check daily-archive.mjs
 python3 -m py_compile scripts/*.py
 python3 tests/test_nexafeed_features.py -v
 python3 scripts/verify_nexafeed.py

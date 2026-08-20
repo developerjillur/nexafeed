@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import csv
+import datetime as dt
 import json
 import re
 import sys
@@ -10,10 +11,25 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 errors: list[str] = []
+UTC = dt.timezone.utc
+BD_TZ = dt.timezone(dt.timedelta(hours=6))
 
 
 def fail(message: str) -> None:
     errors.append(message)
+
+
+def parse_datetime(value: object) -> dt.datetime | None:
+    try:
+        text = str(value or "").strip()
+        if text.endswith("Z"):
+            text = text[:-1] + "+00:00"
+        parsed = dt.datetime.fromisoformat(text)
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=UTC)
+        return parsed.astimezone(UTC)
+    except Exception:
+        return None
 
 
 def load_json(relative: str) -> dict:
@@ -34,6 +50,7 @@ required_files = [
     "app.js",
     "short-history.mjs",
     "video-actions.mjs",
+    "daily-archive.mjs",
     "float.html",
     "config.json",
     ".env.example",
@@ -70,6 +87,8 @@ if config.get("tagline") != "Watch only those valuable for you":
     fail("config.json tagline must match the public release tagline")
 if not str(config.get("repositoryUrl") or "").startswith("https://github.com/"):
     fail("config.json repositoryUrl must point to the GitHub repository")
+if int(config.get("feedRetentionDays", 0)) != 30:
+    fail("config.json feedRetentionDays must preserve exactly 30 calendar days")
 with (ROOT / "data/channels.csv").open(encoding="utf-8-sig", newline="") as handle:
     channels = list(csv.DictReader(handle))
 handles = {(row.get("Handle") or "").strip().lower() for row in channels}
@@ -90,6 +109,15 @@ details = load_json("data/video-details.json")
 settings = load_json("data/feed-settings.json")
 items = feed.get("items") or []
 ids = [item.get("id") for item in items if isinstance(item, dict)]
+if feed.get("schemaVersion") != 4:
+    fail("feed schemaVersion must be 4 for the daily archive")
+if feed.get("archiveRetentionDays") != 30:
+    fail("feed archiveRetentionDays must be exactly 30")
+if feed.get("archiveTimezone") != "Asia/Dhaka":
+    fail("feed archiveTimezone must be Asia/Dhaka")
+feed_updated_at = parse_datetime(feed.get("updatedAt"))
+archive_end = feed_updated_at.astimezone(BD_TZ).date() if feed_updated_at else None
+archive_cutoff = (archive_end - dt.timedelta(days=29)) if archive_end else None
 if not items:
     fail("feed has no video items")
 if len(ids) != len(set(ids)):
@@ -125,6 +153,16 @@ for index, item in enumerate(items):
         fail(f"invalid YouTube video id: {item.get('id')}")
     if item.get("embedAllowed") is False:
         fail(f"explicitly blocked video leaked into feed: {item.get('id')}")
+    thumbnail = str(item.get("thumbnail") or "")
+    if "frame0.jpg" in thumbnail or "?" in thumbnail:
+        fail(f"item {item.get('id')} has an unnormalized thumbnail URL")
+    collected_at = parse_datetime(item.get("firstSeenAt")) or parse_datetime(item.get("publishedAt"))
+    if not collected_at:
+        fail(f"item {item.get('id')} has no valid collection timestamp")
+    elif archive_cutoff and collected_at.astimezone(BD_TZ).date() < archive_cutoff:
+        fail(f"item {item.get('id')} is older than the 30-day collection archive")
+    elif archive_end and collected_at.astimezone(BD_TZ).date() > archive_end:
+        fail(f"item {item.get('id')} is newer than the feed collection date")
 
 stats = feed.get("stats") or {}
 if stats.get("total") != len(items):
@@ -133,6 +171,10 @@ if stats.get("longVideos") != sum(1 for item in items if item.get("type") == "lo
     fail("long video stat does not match")
 if stats.get("shorts") != sum(1 for item in items if item.get("type") == "short"):
     fail("Shorts stat does not match")
+if stats.get("primary") != sum(1 for item in items if item.get("source") == "primary"):
+    fail("primary source stat does not match")
+if stats.get("secondary") != sum(1 for item in items if item.get("source") == "secondary"):
+    fail("secondary source stat does not match")
 
 settings_channels = settings.get("channels") or []
 if len(settings_channels) != len(channels):
@@ -165,6 +207,7 @@ index_html = (ROOT / "index.html").read_text(encoding="utf-8")
 app_js = (ROOT / "app.js").read_text(encoding="utf-8")
 short_history_js = (ROOT / "short-history.mjs").read_text(encoding="utf-8")
 video_actions_js = (ROOT / "video-actions.mjs").read_text(encoding="utf-8")
+daily_archive_js = (ROOT / "daily-archive.mjs").read_text(encoding="utf-8")
 float_html = (ROOT / "float.html").read_text(encoding="utf-8")
 readme = (ROOT / "README.md").read_text(encoding="utf-8")
 ai_prompt_doc = (ROOT / "docs/AI_SETUP_PROMPT.md").read_text(encoding="utf-8")
@@ -178,7 +221,7 @@ update_workflow = (ROOT / ".github/workflows/update-feed.yml").read_text(encodin
 deploy_workflow = (ROOT / ".github/workflows/deploy-pages.yml").read_text(encoding="utf-8")
 settings_workflow = (ROOT / ".github/workflows/apply-feed-settings.yml").read_text(encoding="utf-8")
 digest_email = (ROOT / "scripts/nexafeed_digest_email.py").read_text(encoding="utf-8")
-for needle in ["style.css", "app.js", "youtube.com/iframe_api"]:
+for needle in ["style.css", "app.js", "youtube.com/iframe_api", 'data-view="archive"']:
     if needle not in index_html:
         fail(f"index missing {needle}")
 for needle in [
@@ -203,9 +246,15 @@ for needle in [
     "applyFeedSettings",
     "repositoryIssuesNewUrl",
     "[YourTube Config] Apply feed settings",
+    "archiveDateToolbar",
+    "dailyExportPayload",
+    "copyDailyExport",
 ]:
     if needle not in app_js:
         fail(f"app missing behavior marker {needle}")
+for needle in ["ARCHIVE_RETENTION_DAYS = 30", "dailyExportUrls", 'contentTrust: "untrusted-public-data"']:
+    if needle not in daily_archive_js:
+        fail(f"daily archive module missing behavior marker {needle}")
 
 for needle in [".env", ".env.*", "!.env.example"]:
     if needle not in gitignore:
@@ -242,6 +291,8 @@ for workflow_name, workflow in {
     "apply-feed-settings.yml": settings_workflow,
     "update-feed.yml": update_workflow,
 }.items():
+    if "daily-archive.mjs" not in workflow:
+        fail(f"{workflow_name} deployment artifact omits daily-archive.mjs")
     for match in re.finditer(r"uses:\s+([^\s#]+)", workflow):
         if not re.search(r"@[0-9a-f]{40}$", match.group(1)):
             fail(f"{workflow_name} action is not SHA pinned: {match.group(1)}")
@@ -274,7 +325,7 @@ for relative in ["docs/screenshots/yourtube-home.png", "docs/screenshots/yourtub
     if path.is_file() and path.stat().st_size < 1000:
         fail(f"screenshot file looks too small: {relative}")
 
-public_text = "\n".join([index_html, app_js, short_history_js, video_actions_js, float_html, json.dumps(config), readme, ai_prompt_doc, scheduling_doc, security_doc, contributing_doc, changelog_doc, env_example, update_workflow, deploy_workflow, settings_workflow])
+public_text = "\n".join([index_html, app_js, short_history_js, video_actions_js, daily_archive_js, float_html, json.dumps(config), readme, ai_prompt_doc, scheduling_doc, security_doc, contributing_doc, changelog_doc, env_example, update_workflow, deploy_workflow, settings_workflow])
 for suspicious in ["ghp_", "github_pat_", "smtp_password"]:
     if suspicious in public_text:
         fail(f"possible private marker in public files: {suspicious}")

@@ -41,7 +41,7 @@
   "secondaryResultsPerQuery": 8,
   "secondaryRetentionHours": 168,
   "secondarySearchFilter": "EgIIAg==",
-  "maxFeedItems": 340,
+  "feedRetentionDays": 30,
   "shortMaxSeconds": 180,
   "freshHours": 24,
   "discoveryRetentionDays": 90

@@ -1,5 +1,16 @@
-import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260804-thumbnail-fix";
-import { buildPlaybackUrl, buildYouTubeChannelUrl, buildYouTubeWatchUrl, readPlaybackRequest } from "./video-actions.mjs?v=20260804-thumbnail-fix";
+import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260820-daily-archive";
+import { buildPlaybackUrl, buildYouTubeChannelUrl, buildYouTubeWatchUrl, readPlaybackRequest } from "./video-actions.mjs?v=20260820-daily-archive";
+import {
+  ARCHIVE_RETENTION_DAYS,
+  ARCHIVE_TIME_ZONE,
+  archiveDateOptions,
+  archiveStateRetentionMs,
+  buildDailyExport,
+  dailyExportMarkdown,
+  dailyExportUrls,
+  itemsForArchiveDate,
+  resolveArchiveDate,
+} from "./daily-archive.mjs?v=20260820-daily-archive";
 
 const app = document.querySelector("#app");
 const overlayRoot = document.querySelector("#overlayRoot");
@@ -28,12 +39,13 @@ const RECENT_PLAYER_BACKTRACK_MS = 10 * 1000;
 const STATE_RETENTION_BUFFER_DAYS = 1;
 const DAY_MS = 24 * 60 * 60 * 1000;
 const DEFAULT_STATE_RETENTION_DAYS = 8;
-const VALID_VIEWS = new Set(["home", "shorts", "long", "liked", "history", "ignored", "settings"]);
+const VALID_VIEWS = new Set(["home", "shorts", "long", "liked", "history", "ignored", "archive", "settings"]);
 const VIDEO_ACTION_MENU_BLOCKED_SHORTCUTS = new Set(["ArrowLeft", "ArrowRight", "PageUp", "PageDown", "n", "N", "p", "P"]);
 
 function initialViewFromUrl() {
   const params = new URLSearchParams(window.location.search);
   const view = params.get("view") || window.location.hash.replace(/^#/, "");
+  if (params.has("date") && view && view !== "home" && view !== "archive") return "home";
   return VALID_VIEWS.has(view) ? view : "home";
 }
 
@@ -45,6 +57,8 @@ const state = {
   view: initialViewFromUrl(),
   query: "",
   quickFilter: "all",
+  selectedDate: resolveArchiveDate(new URLSearchParams(window.location.search).get("date")),
+  archiveExportStatus: "",
   watched: readJson(WATCHED_KEY, {}),
   progress: readJson(PROGRESS_KEY, {}),
   ignored: readJson(IGNORED_KEY, {}),
@@ -153,18 +167,8 @@ function playbackStateTimestamp(value) {
   return Number(value?.watchedAt || value?.ignoredAt || value?.updatedAt || value?.createdAt || 0);
 }
 
-function feedStateRetentionMs(feed = state.feed) {
-  const fallback = DEFAULT_STATE_RETENTION_DAYS * DAY_MS;
-  const items = Array.isArray(feed?.items) ? feed.items : [];
-  const reference = new Date(feed?.updatedAt || Date.now()).getTime();
-  if (!items.length || !Number.isFinite(reference)) return fallback;
-  const oldest = items.reduce((minimum, item) => {
-    const stamp = new Date(item.publishedAt || item.firstSeenAt || 0).getTime();
-    if (!Number.isFinite(stamp) || stamp <= 0) return minimum;
-    return Math.min(minimum, stamp);
-  }, reference);
-  const feedWindowMs = Math.max(0, reference - oldest);
-  return Math.max(STATE_RETENTION_BUFFER_DAYS * DAY_MS, feedWindowMs + STATE_RETENTION_BUFFER_DAYS * DAY_MS);
+function feedStateRetentionMs() {
+  return archiveStateRetentionMs();
 }
 
 function currentFeedVideoIds(feed = state.feed) {
@@ -662,7 +666,7 @@ function youtubeEmbedSrc(video, autoplay = true) {
 function floatingPopupUrl(video) {
   const popupUrl = new URL("float.html", window.location.href);
   const params = new URLSearchParams({
-    v: "20260804-thumbnail-fix",
+    v: "20260820-daily-archive",
     id: video.id,
     title: String(video.title || "YourTube video").slice(0, 180),
     type: video.type === "short" ? "short" : "long",
@@ -929,11 +933,15 @@ async function openFloatingVideo(video) {
 
 function videoPlaybackHref(video) {
   const view = VALID_VIEWS.has(state.view) && state.view !== "settings" ? state.view : "home";
-  return buildPlaybackUrl(window.location.href, {
+  const href = buildPlaybackUrl(window.location.href, {
     videoId: video.id,
     type: video.type === "short" ? "short" : "long",
     view,
   });
+  if (!isDailyFeedView()) return href;
+  const target = new URL(href);
+  target.searchParams.set("date", state.selectedDate);
+  return target.toString();
 }
 
 function videoActionsButton(video, context = "player") {
@@ -1267,6 +1275,105 @@ function thumbnailImage(video) {
   return `<img src="${escapeHtml(video.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer" data-video-thumb-id="${escapeHtml(video.id)}" onerror="if(this.dataset.fallbackIndex==='done')return;const f=['${fallbackSrc}'];let i=Number(this.dataset.fallbackIndex||0);if(i<f.length){this.src=f[i];this.dataset.fallbackIndex=String(i+1);}else{this.dataset.fallbackIndex='done';this.onerror=null;this.src='${fallbackChain[fallbackChain.length-1]}';}">`;
 }
 
+function isDailyFeedView() {
+  return state.view === "home" || state.view === "archive";
+}
+
+function selectedDailyItems() {
+  return itemsForArchiveDate(state.feed?.items || [], state.selectedDate, ARCHIVE_TIME_ZONE);
+}
+
+function archiveDateLabel(dateKey) {
+  const date = new Date(`${dateKey}T12:00:00+06:00`);
+  return new Intl.DateTimeFormat("en", {
+    timeZone: ARCHIVE_TIME_ZONE,
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  }).format(date);
+}
+
+function syncArchiveLocation() {
+  const target = new URL(window.location.href);
+  target.searchParams.delete("play");
+  target.searchParams.delete("type");
+  const today = archiveDateOptions()[0];
+  if (isDailyFeedView() && state.selectedDate !== today) target.searchParams.set("date", state.selectedDate);
+  else target.searchParams.delete("date");
+  if (state.view === "archive") target.searchParams.set("view", "archive");
+  else target.searchParams.delete("view");
+  window.history.replaceState({}, "", target);
+}
+
+function selectArchiveDate(value) {
+  finalizeVideoBeforeLeaving(state.activeVideo, { reason: "archive-date" });
+  state.selectedDate = resolveArchiveDate(value);
+  state.archiveExportStatus = "";
+  state.activeVideo = null;
+  state.quickFilter = "all";
+  destroyPlayer();
+  syncArchiveLocation();
+  render();
+  scrollToTop();
+}
+
+function archiveDateToolbar() {
+  if (!isDailyFeedView()) return "";
+  const dates = archiveDateOptions({ days: ARCHIVE_RETENTION_DAYS });
+  const index = Math.max(0, dates.indexOf(state.selectedDate));
+  const newer = index > 0 ? dates[index - 1] : "";
+  const older = index < dates.length - 1 ? dates[index + 1] : "";
+  const items = selectedDailyItems();
+  const longCount = items.filter((item) => item.type === "long").length;
+  const shortCount = items.filter((item) => item.type === "short").length;
+  return `
+    <section class="daily-filter" data-archive-selected="${escapeHtml(state.selectedDate)}">
+      <div class="daily-filter-copy">
+        <p class="eyebrow">30-day Bangladesh archive</p>
+        <h1>${escapeHtml(archiveDateLabel(state.selectedDate))}</h1>
+        <span>${items.length} videos · ${longCount} long · ${shortCount} Shorts</span>
+      </div>
+      <div class="daily-date-controls">
+        <button type="button" class="archive-date-step" data-archive-date="${escapeHtml(older)}" ${older ? "" : "disabled"} aria-label="Previous archive day">‹</button>
+        <label><span>Select date</span><input id="archiveDateInput" type="date" value="${escapeHtml(state.selectedDate)}" min="${escapeHtml(dates.at(-1))}" max="${escapeHtml(dates[0])}"></label>
+        <button type="button" class="archive-date-step" data-archive-date="${escapeHtml(newer)}" ${newer ? "" : "disabled"} aria-label="Next archive day">›</button>
+        <button type="button" class="archive-today" data-archive-date="${escapeHtml(dates[0])}" ${state.selectedDate === dates[0] ? "disabled" : ""}>Today</button>
+      </div>
+    </section>`;
+}
+
+function dailyExportPayload() {
+  return buildDailyExport({
+    items: selectedDailyItems(),
+    details: state.details,
+    selectedDate: state.selectedDate,
+    baseHref: window.location.href,
+    timeZone: ARCHIVE_TIME_ZONE,
+  });
+}
+
+function dailyExportCard() {
+  if (state.view !== "archive") return "";
+  const payload = dailyExportPayload();
+  return `
+    <section class="daily-export-card">
+      <div>
+        <p class="eyebrow">AI-ready daily research pack</p>
+        <h2>Copy or download ${payload.summary.total} videos</h2>
+        <p>Includes canonical links, video metadata, available descriptions, and cached top comments. Private watched, ignored, and liked state is never included.</p>
+      </div>
+      <div class="daily-export-actions">
+        <button id="copyDailyUrls" type="button" class="action-button">Copy all URLs</button>
+        <button id="copyDailyJson" type="button" class="action-button">Copy JSON</button>
+        <button id="copyDailyMarkdown" type="button" class="action-button">Copy Markdown</button>
+        <button id="downloadDailyJson" type="button" class="action-button">Download JSON</button>
+        <button id="downloadDailyMarkdown" type="button" class="action-button">Download .md</button>
+      </div>
+      <small id="dailyExportStatus" aria-live="polite">${escapeHtml(state.archiveExportStatus || "Ready for ChatGPT, Gemini, Claude, or any AI agent.")}</small>
+    </section>`;
+}
+
 function videoCard(video) {
   const watched = isWatched(video.id);
   const ignored = isIgnored(video.id);
@@ -1323,8 +1430,9 @@ function toolbar() {
     ["liked", "Liked"],
     ["history", "Watch history"],
     ["ignored", "Ignored"],
+    ["archive", "Daily archive"],
   ];
-  const feedItems = state.feed?.items || [];
+  const feedItems = isDailyFeedView() ? selectedDailyItems() : state.feed?.items || [];
   const unwatched = feedItems.filter((item) => !isWatched(item.id) && !isIgnored(item.id)).length;
   const ignored = feedItems.filter((item) => isIgnored(item.id)).length;
   const fresh = feedItems.filter(isFresh).length;
@@ -1604,7 +1712,8 @@ function settingsView() {
 
 function filteredItems() {
   if (!state.feed) return [];
-  let items = [...state.feed.items].filter(
+  const dailyView = isDailyFeedView();
+  let items = [...(dailyView ? selectedDailyItems() : state.feed.items)].filter(
     (item) => item.embedAllowed !== false && !state.unavailableVideos.has(item.id),
   );
   const hasQuery = Boolean(state.query);
@@ -1612,7 +1721,9 @@ function filteredItems() {
     const terms = state.query.toLowerCase().split(/\s+/).filter(Boolean);
     items = items.filter((item) => terms.every((term) => searchableText(item).includes(term)));
   }
-  if (state.view === "history") {
+  if (dailyView) {
+    // The daily archive is a historical record, so watched and ignored items stay visible.
+  } else if (state.view === "history") {
     items = items
       .filter((item) => isWatched(item.id))
       .sort((a, b) => playbackStateTimestamp(state.watched[b.id]) - playbackStateTimestamp(state.watched[a.id]));
@@ -1631,7 +1742,7 @@ function filteredItems() {
   if (state.quickFilter === "fresh") items = items.filter(isFresh);
   if (state.view === "shorts") items = items.filter((item) => item.type === "short");
   if (state.view === "long") items = items.filter((item) => item.type === "long");
-  return collapseRepeatedItems(items);
+  return dailyView ? items : collapseRepeatedItems(items);
 }
 
 function feedView() {
@@ -1643,18 +1754,22 @@ function feedView() {
       : state.view === "liked"
         ? "No liked videos yet"
         : state.view === "ignored"
-          ? "No ignored videos yet"
+        ? "No ignored videos yet"
+        : isDailyFeedView()
+          ? `No videos collected on ${archiveDateLabel(state.selectedDate)}`
         : searchEmpty ? "No matching videos" : "You're all caught up";
     const emptyDescription = state.view === "history"
       ? "Videos appear here after you watch enough of them, finish them, or mark them watched."
       : state.view === "liked"
         ? "Tap the heart on any Short to save it here. Liked videos are saved locally in this browser."
         : state.view === "ignored"
-          ? "Skip a running video before the watch threshold and it will stay hidden here until the feed-window retention expires or you clear ignored."
+        ? "Skip a running video before the watch threshold and it will stay hidden here until the feed-window retention expires or you clear ignored."
+        : isDailyFeedView()
+          ? "Choose another date from the last 30 Bangladesh calendar days. Empty days remain selectable and export as an empty research pack."
         : searchEmpty
           ? "Try a channel name, title keyword, topic, or category. Search updates live as you type."
           : "Watched and ignored videos stay hidden. New uploads will arrive on the next hourly refresh.";
-    return toolbar() + likedTools() + ignoredTools() + emptyState(
+    return toolbar() + archiveDateToolbar() + dailyExportCard() + likedTools() + ignoredTools() + emptyState(
       emptyTitle,
       emptyDescription,
     );
@@ -1662,9 +1777,10 @@ function feedView() {
 
   const shorts = items.filter((item) => item.type === "short");
   const longVideos = items.filter((item) => item.type === "long");
-  const shortsTitle = state.view === "history" ? "Watched Shorts" : state.view === "liked" ? "Liked Shorts" : state.view === "ignored" ? "Ignored Shorts" : "Latest Shorts";
-  const longEyebrow = state.view === "history" ? "Previously played" : state.view === "liked" ? "Saved locally" : state.view === "ignored" ? "Skipped manually" : "Priority channels first";
-  const longTitle = state.view === "history" ? "Watch history" : state.view === "liked" ? "Liked long videos" : state.view === "ignored" ? "Ignored long videos" : state.query ? "Search results" : "Latest long videos";
+  const selectedDayLabel = archiveDateLabel(state.selectedDate);
+  const shortsTitle = state.view === "history" ? "Watched Shorts" : state.view === "liked" ? "Liked Shorts" : state.view === "ignored" ? "Ignored Shorts" : isDailyFeedView() ? `${selectedDayLabel} Shorts` : "Latest Shorts";
+  const longEyebrow = state.view === "history" ? "Previously played" : state.view === "liked" ? "Saved locally" : state.view === "ignored" ? "Skipped manually" : isDailyFeedView() ? "Collected on the selected day" : "Priority channels first";
+  const longTitle = state.view === "history" ? "Watch history" : state.view === "liked" ? "Liked long videos" : state.view === "ignored" ? "Ignored long videos" : isDailyFeedView() ? `${selectedDayLabel} long videos` : state.query ? "Search results" : "Latest long videos";
   const shortsSection = shorts.length && state.view !== "long"
     ? `<section class="section">
         <div class="section-head">
@@ -1687,7 +1803,7 @@ function feedView() {
         <div class="video-grid">${longVideos.map(videoCard).join("")}</div>
       </section>`
     : "";
-  return toolbar() + likedTools() + ignoredTools() + shortsSection + longSection;
+  return toolbar() + archiveDateToolbar() + dailyExportCard() + likedTools() + ignoredTools() + shortsSection + longSection;
 }
 
 function render() {
@@ -1711,7 +1827,8 @@ function queueFor(currentId) {
 }
 
 function playableLongVideos() {
-  return state.feed?.items.filter((item) => item.type === "long" && item.embedAllowed !== false && !state.unavailableVideos.has(item.id)) || [];
+  const items = isDailyFeedView() ? selectedDailyItems() : state.feed?.items || [];
+  return items.filter((item) => item.type === "long" && item.embedAllowed !== false && !state.unavailableVideos.has(item.id));
 }
 
 function pruneRecentPlayerHistory(now = Date.now()) {
@@ -2114,7 +2231,8 @@ function skipUnavailableShort(videoId) {
 }
 
 function playableShortVideos() {
-  return state.feed.items.filter(
+  const items = isDailyFeedView() ? selectedDailyItems() : state.feed.items;
+  return items.filter(
     (item) => item.type === "short" && item.embedAllowed !== false && !state.unavailableVideos.has(item.id),
   );
 }
@@ -2183,6 +2301,7 @@ function shortPlaybackQueue(video, { allowHiddenRequested = false } = {}) {
     allowHiddenRequested
     || (state.view === "history" && isWatched(selectedVideo.id))
     || (state.view === "ignored" && isIgnored(selectedVideo.id))
+    || (isDailyFeedView() && selectedDailyItems().some((item) => item.id === selectedVideo.id))
   ));
   return buildShortPlaybackQueue({
     videos: allShorts,
@@ -2338,6 +2457,7 @@ function goHome(event) {
   destroyPlayer();
   sidebar.classList.remove("open");
   scrim.classList.remove("open");
+  syncArchiveLocation();
   render();
   scrollToTop();
 }
@@ -2352,6 +2472,7 @@ function selectView(view) {
   destroyPlayer();
   sidebar.classList.remove("open");
   scrim.classList.remove("open");
+  syncArchiveLocation();
   render();
   scrollToTop();
 }
@@ -2386,19 +2507,58 @@ function openInitialPlaybackRequest() {
   if (!request?.videoId) return false;
   const video = state.feed?.items?.find((item) => item.id === request.videoId);
   if (!video || (request.type && request.type !== video.type)) return false;
+  const hasExplicitArchiveDate = new URLSearchParams(window.location.search).has("date");
+  const requestUsesDailyView = !request.view || request.view === "home" || request.view === "archive";
+  if (hasExplicitArchiveDate && !requestUsesDailyView) return false;
   if (request.view && VALID_VIEWS.has(request.view)) state.view = request.view;
+  if (requestUsesDailyView && !selectedDailyItems().some((item) => item.id === video.id)) {
+    return false;
+  }
   if (video.type === "short") openShort(video, { allowHiddenRequested: true });
   else openLong(video);
   return true;
 }
 
 function downloadJson(payload, filename) {
-  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+  downloadText(JSON.stringify(payload, null, 2), filename, "application/json");
+}
+
+function downloadText(value, filename, type = "text/plain;charset=utf-8") {
+  const blob = new Blob([value], { type });
   const link = document.createElement("a");
   link.href = URL.createObjectURL(blob);
   link.download = filename;
   link.click();
   setTimeout(() => URL.revokeObjectURL(link.href), 1000);
+}
+
+function setDailyExportStatus(message) {
+  state.archiveExportStatus = message;
+  const node = document.querySelector("#dailyExportStatus");
+  if (node) node.textContent = message;
+}
+
+async function copyDailyExport(format) {
+  const payload = dailyExportPayload();
+  const value = format === "urls"
+    ? dailyExportUrls(payload)
+    : format === "markdown"
+      ? dailyExportMarkdown(payload)
+      : JSON.stringify(payload, null, 2);
+  await copyText(value);
+  const label = format === "urls" ? "All video URLs" : format === "markdown" ? "Markdown" : "JSON";
+  setDailyExportStatus(`${label} copied for ${state.selectedDate}.`);
+}
+
+function downloadDailyExport(format) {
+  const payload = dailyExportPayload();
+  const base = `nexafeed-daily-${state.selectedDate}`;
+  if (format === "markdown") {
+    downloadText(dailyExportMarkdown(payload), `${base}.md`, "text/markdown;charset=utf-8");
+  } else {
+    downloadJson(payload, `${base}.json`);
+  }
+  setDailyExportStatus(`${format === "markdown" ? "Markdown" : "JSON"} download prepared for ${state.selectedDate}.`);
 }
 
 function exportHistory() {
@@ -2472,7 +2632,7 @@ async function loadFeed() {
     state.feedSettings = feedSettings;
     state.settingsDraft = null;
     state.feed.items = Array.isArray(state.feed.items)
-      ? collapseRepeatedItems(state.feed.items.filter((item) => item.embedAllowed !== false))
+      ? state.feed.items.filter((item) => item.embedAllowed !== false)
       : [];
     state.feed.items.sort((a, b) => {
       if (a.source !== b.source) return a.source === "primary" ? -1 : 1;
@@ -2607,6 +2767,33 @@ app.addEventListener("click", (event) => {
     event.preventDefault();
     event.stopPropagation();
     toggleCurrentPlayback();
+    return;
+  }
+
+  const archiveDateButton = event.target.closest("[data-archive-date]");
+  if (archiveDateButton && archiveDateButton.dataset.archiveDate) {
+    selectArchiveDate(archiveDateButton.dataset.archiveDate);
+    return;
+  }
+
+  if (event.target.closest("#copyDailyUrls")) {
+    copyDailyExport("urls").catch(() => setDailyExportStatus("Video URLs could not be copied. Try Copy JSON."));
+    return;
+  }
+  if (event.target.closest("#copyDailyJson")) {
+    copyDailyExport("json").catch(() => setDailyExportStatus("JSON could not be copied. Try Download JSON."));
+    return;
+  }
+  if (event.target.closest("#copyDailyMarkdown")) {
+    copyDailyExport("markdown").catch(() => setDailyExportStatus("Markdown could not be copied. Try Download .md."));
+    return;
+  }
+  if (event.target.closest("#downloadDailyJson")) {
+    downloadDailyExport("json");
+    return;
+  }
+  if (event.target.closest("#downloadDailyMarkdown")) {
+    downloadDailyExport("markdown");
     return;
   }
 
@@ -2774,6 +2961,10 @@ app.addEventListener("input", (event) => {
   });
 });
 app.addEventListener("change", (event) => {
+  if (event.target.id === "archiveDateInput") {
+    selectArchiveDate(event.target.value);
+    return;
+  }
   if (event.target.id === "autoplayToggle") {
     state.autoplay = event.target.checked;
     localStorage.setItem(AUTOPLAY_KEY, String(state.autoplay));

@@ -66,8 +66,8 @@ class FrontendFeatureTests(unittest.TestCase):
             'data-view="ignored"',
             'id="ignoredCount"',
             "Ignored videos",
-            "app.js?v=20260804-thumbnail-fix",
-            "style.css?v=20260804-thumbnail-fix",
+            "app.js?v=20260820-daily-archive",
+            "style.css?v=20260820-daily-archive",
         ]:
             self.assertIn(marker, index_html)
 
@@ -95,8 +95,8 @@ class FrontendFeatureTests(unittest.TestCase):
         ]:
             self.assertIn(marker, app_js)
 
-        self.assertIn("app.js?v=20260804-thumbnail-fix", index_html)
-        self.assertIn("style.css?v=20260804-thumbnail-fix", index_html)
+        self.assertIn("app.js?v=20260820-daily-archive", index_html)
+        self.assertIn("style.css?v=20260820-daily-archive", index_html)
         self.assertIn("still present in the active feed is protected from pruning", readme)
 
     def test_skip_thresholds_do_not_recreate_old_five_second_watch_rule(self):
@@ -169,7 +169,7 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
         for marker in [
-            'import { buildPlaybackUrl, buildYouTubeChannelUrl, buildYouTubeWatchUrl, readPlaybackRequest } from "./video-actions.mjs?v=20260804-thumbnail-fix";',
+            'import { buildPlaybackUrl, buildYouTubeChannelUrl, buildYouTubeWatchUrl, readPlaybackRequest } from "./video-actions.mjs?v=20260820-daily-archive";',
             "initialPlaybackRequest: readPlaybackRequest(window.location.href)",
             "function openInitialPlaybackRequest",
             "openShort(video, { allowHiddenRequested: true })",
@@ -178,12 +178,75 @@ class FrontendFeatureTests(unittest.TestCase):
         ]:
             self.assertIn(marker, app_js)
 
+    def test_daily_archive_groups_by_bangladesh_date_and_builds_ai_ready_exports(self):
+        archive_module = ROOT / "daily-archive.mjs"
+        self.assertTrue(archive_module.exists(), "Daily archive behavior must be isolated for behavioral testing")
+        module_url = json.dumps(archive_module.as_uri())
+        script = f"""
+          import {{
+            archiveDateOptions,
+            archiveStateRetentionMs,
+            buildDailyExport,
+            dailyExportMarkdown,
+            dailyExportUrls,
+            dateKeyInTimeZone,
+            itemsForArchiveDate,
+            resolveArchiveDate,
+          }} from {module_url};
+          const expect = (condition, message) => {{ if (!condition) throw new Error(message); }};
+          const now = new Date("2026-08-19T19:30:00Z");
+          const options = archiveDateOptions({{ now, days: 30, timeZone: "Asia/Dhaka" }});
+          expect(options.length === 30, "exactly thirty calendar dates must be selectable");
+          expect(archiveDateOptions({{ now, days: 2 }}).length === 30, "archive date count must not be runtime-overridable");
+          expect(archiveStateRetentionMs() === 31 * 24 * 60 * 60 * 1000, "local playback state must use the fixed 30-day archive plus one-day buffer");
+          expect(options[0] === "2026-08-20", "Bangladesh Today must be the first date");
+          expect(options[29] === "2026-07-22", "the thirtieth inclusive day must be retained");
+          expect(resolveArchiveDate("2026-07-21", {{ now }}) === "2026-08-20", "out-of-range dates must fail closed to Today");
+          expect(dateKeyInTimeZone("2026-08-19T18:00:00Z") === "2026-08-20", "Bangladesh midnight must start at 18:00 UTC");
+
+          const items = [
+            {{ id: "00kEcNby86c", type: "short", title: "AI Agent Update", channel: "Nexa", channelId: "UC501J-qOwU_7-EVlZK84lng", handle: "@vdmsocial1", publishedAt: "2026-08-19T17:00:00Z", firstSeenAt: "2026-08-19T18:00:00Z", duration: "0:42", views: "1.2K views", source: "primary", priority: 1, url: "javascript:alert(1)", channelUrl: "data:text/html,bad" }},
+            {{ id: "Gx2QN7FvKAM", type: "long", title: "AI Long Update", channel: "Nexa", publishedAt: "2026-08-20T01:00:00Z", firstSeenAt: "2026-08-20T01:05:00Z", source: "primary" }},
+            {{ id: "Ut0i-SSEXY4", type: "long", title: "Previous day", channel: "Nexa", publishedAt: "2026-08-20T01:30:00Z", firstSeenAt: "2026-08-19T17:59:59Z", source: "primary" }},
+          ];
+          const selected = itemsForArchiveDate(items, "2026-08-20");
+          expect(selected.length === 2 && selected.every((item) => item.id !== "Ut0i-SSEXY4"), "only the selected Bangladesh day may be exported");
+          const payload = buildDailyExport({{
+            items: selected,
+            details: {{ items: {{ "00kEcNby86c": {{ description: "Detailed AI notes", commentCount: 1, comments: [{{ author: "Jillur", text: "Useful insight", likeCount: 3 }}] }} }} }},
+            selectedDate: "2026-08-20",
+            exportedAt: "2026-08-20T03:00:00Z",
+            baseHref: "https://developerjillur.github.io/nexafeed/",
+          }});
+          expect(payload.summary.total === 2 && payload.summary.shorts === 1 && payload.summary.longVideos === 1, "daily totals must be included");
+          expect(payload.contentTrust === "untrusted-public-data", "AI exports must label public video content as untrusted data");
+          expect(payload.videos[0].description === "Detailed AI notes", "cached description must be included");
+          expect(payload.videos[0].comments[0].text === "Useful insight", "cached comments must be included");
+          expect(payload.videos[0].youtubeUrl === "https://www.youtube.com/watch?v=00kEcNby86c", "raw feed URLs must be replaced with canonical YouTube URLs");
+          expect(payload.videos[0].yourTubeUrl.includes("view=archive") && payload.videos[0].yourTubeUrl.includes("date=2026-08-20"), "YourTube export links must preserve archive date replay");
+          expect(!JSON.stringify(payload).includes("javascript:"), "malicious raw feed destinations must not survive export");
+          const markdown = dailyExportMarkdown(payload);
+          expect(markdown.includes("# YourTube Daily Feed — 2026-08-20"), "Markdown must have a dated heading");
+          expect(markdown.includes("Detailed AI notes") && markdown.includes("Useful insight"), "Markdown must contain analysis context");
+          const urls = dailyExportUrls(payload).trim().split("\\n");
+          expect(urls.length === 2, "all selected-day Long and Short URLs must be copied");
+          expect(urls.includes("https://www.youtube.com/watch?v=00kEcNby86c") && urls.includes("https://www.youtube.com/watch?v=Gx2QN7FvKAM"), "URL copy must contain canonical Long and Short destinations");
+          expect(!urls.some((url) => url.includes("Ut0i-SSEXY4")), "another day's URL must not leak into the copied list");
+        """
+        result = subprocess.run(
+            ["node", "--input-type=module", "-e", script],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
     def test_video_cards_are_real_links_and_preserve_modified_click_navigation(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
 
         for marker in [
             "function videoPlaybackHref",
-            "return buildPlaybackUrl(window.location.href, {",
+            "const href = buildPlaybackUrl(window.location.href, {",
             '<a class="card-open" href="${escapeHtml(videoPlaybackHref(video))}"',
             '<a class="queue-card" href="${escapeHtml(videoPlaybackHref(item))}"',
             "function shouldOpenCardInCurrentPage(event)",
@@ -280,7 +343,7 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertNotIn('return window.location.href.split("#")[0];', app_js)
         self.assertIn("@media (max-width: 680px) and (max-height: 780px)", style_css)
         self.assertIn("overflow-y: auto", style_css)
-        for module in ['"short-history.mjs"', '"video-actions.mjs"']:
+        for module in ['"short-history.mjs"', '"video-actions.mjs"', '"daily-archive.mjs"']:
             self.assertIn(module, verifier)
 
     def test_external_video_surfaces_popup_and_backtrack_are_hardened(self):
@@ -391,7 +454,7 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
         self.assertIn(
-            'import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260804-thumbnail-fix";',
+            'import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260820-daily-archive";',
             app_js,
         )
         self.assertIn("shortHistory: createTransientDirectionalHistory", app_js)
@@ -493,8 +556,8 @@ class FrontendFeatureTests(unittest.TestCase):
 
         self.assertIn("gemini-button", style_css)
         self.assertIn("gemini-icon", style_css)
-        self.assertIn("app.js?v=20260804-thumbnail-fix", index_html)
-        self.assertIn("style.css?v=20260804-thumbnail-fix", index_html)
+        self.assertIn("app.js?v=20260820-daily-archive", index_html)
+        self.assertIn("style.css?v=20260820-daily-archive", index_html)
 
     def test_wheel_scroll_over_youtube_iframe_is_captured(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -673,8 +736,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn("YourTube - A personal YouTube Package", index_html)
         self.assertIn("Watch only those valuable for you", index_html)
-        self.assertIn("style.css?v=20260804-thumbnail-fix", index_html)
-        self.assertIn("app.js?v=20260804-thumbnail-fix", index_html)
+        self.assertIn("style.css?v=20260820-daily-archive", index_html)
+        self.assertIn("app.js?v=20260820-daily-archive", index_html)
         self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)
@@ -839,7 +902,7 @@ class EnvironmentConfigTests(unittest.TestCase):
         for email_secret in ["RESEND_API_KEY", "EMAIL_PASSWORD", "EMAIL_SMTP_HOST", "NEXAFEED_EMAIL_RECIPIENTS"]:
             self.assertNotIn(email_secret, update_workflow)
         for workflow in [update_workflow, deploy_workflow, settings_workflow]:
-            self.assertIn("cp index.html style.css app.js short-history.mjs video-actions.mjs float.html config.json _site/", workflow)
+            self.assertIn("cp index.html style.css app.js short-history.mjs video-actions.mjs daily-archive.mjs float.html config.json _site/", workflow)
             for match in re.finditer(r"uses:\s+([^\s#]+)", workflow):
                 self.assertRegex(match.group(1), r"@[0-9a-f]{40}$")
         self.assertIn("if [ -d docs ]; then cp -R docs _site/docs; fi", deploy_workflow)
@@ -908,6 +971,55 @@ class EmailDeliveryTests(unittest.TestCase):
 
 
 class ProbePlanningTests(unittest.TestCase):
+    def test_daily_archive_retains_all_items_from_thirty_bangladesh_calendar_days(self):
+        updater = load_module("nexafeed_update_archive", ROOT / "scripts/nexafeed_update.py")
+        now = updater.parse_datetime("2026-08-20T02:00:00Z")  # 08:00 in Asia/Dhaka
+        self.assertEqual(updater.ARCHIVE_RETENTION_DAYS, 30)
+        updater_source = (ROOT / "scripts/nexafeed_update.py").read_text(encoding="utf-8")
+        self.assertNotIn("NEXAFEED_FEED_RETENTION_DAYS", updater_source)
+        previous = [
+            {"id": "keep-start", "title": "old", "publishedAt": "2026-06-01T00:00:00Z", "firstSeenAt": "2026-07-21T18:00:00Z", "source": "primary"},
+            {"id": "drop-before", "publishedAt": "2026-08-20T01:00:00Z", "firstSeenAt": "2026-07-21T17:59:59Z", "source": "primary"},
+            {"id": "keep-seen", "publishedAt": None, "firstSeenAt": "2026-07-22T00:00:00Z", "thumbnail": "https://i.ytimg.com/vi/keep-seen00/frame0.jpg?bad=1", "source": "secondary"},
+        ]
+        current = [
+            {"id": "keep-start", "title": "fresh", "publishedAt": "2026-06-01T00:00:00Z", "firstSeenAt": "2026-07-21T18:00:00Z", "source": "primary"},
+            {"id": "today-item", "publishedAt": "2025-01-01T00:00:00Z", "firstSeenAt": "2026-08-20T01:00:00Z", "source": "primary"},
+            {"id": "future-item", "publishedAt": "2026-08-20T01:00:00Z", "firstSeenAt": "2026-08-20T18:00:00Z", "source": "primary"},
+        ]
+
+        retained = updater.merge_daily_archive_items(
+            current,
+            previous,
+            now=now,
+        )
+        by_id = {item["id"]: item for item in retained}
+
+        self.assertEqual(set(by_id), {"keep-start", "keep-seen", "today-item"})
+        self.assertEqual(by_id["keep-start"]["title"], "fresh")
+        self.assertEqual(by_id["keep-seen"]["thumbnail"], "https://i.ytimg.com/vi/keep-seen00/hqdefault.jpg")
+        with self.assertRaises(TypeError):
+            updater.merge_daily_archive_items(current, previous, now=now, retention_days=1)
+        self.assertEqual(updater.bangladesh_date_key("2026-07-21T18:00:00Z"), "2026-07-22")
+        self.assertEqual(updater.bangladesh_date_key("2026-08-20T01:00:00Z"), "2026-08-20")
+
+        repeated_title_items = [
+            {"id": "repeat-one", "title": "Same upload title", "channel": "Nexa", "publishedAt": "2026-08-20T01:00:00Z", "source": "primary", "priority": 1},
+            {"id": "repeat-two", "title": "Same upload title", "channel": "Nexa", "publishedAt": "2026-08-20T00:00:00Z", "source": "primary", "priority": 1},
+        ]
+        ordered = updater.order_daily_archive_items(repeated_title_items)
+        self.assertEqual([item["id"] for item in ordered], ["repeat-one", "repeat-two"])
+
+    def test_thumbnail_urls_are_normalized_for_every_refresh(self):
+        updater = load_module("nexafeed_update_thumbnails", ROOT / "scripts/nexafeed_update.py")
+        self.assertEqual(
+            updater.thumbnail_url(
+                [{"url": "https://i.ytimg.com/vi/00kEcNby86c/frame0.jpg?usqp=bad", "width": 720}],
+                "00kEcNby86c",
+            ),
+            "https://i.ytimg.com/vi/00kEcNby86c/hqdefault.jpg",
+        )
+
     def test_comment_probe_command_is_opt_in(self):
         updater = load_module("nexafeed_update", ROOT / "scripts/nexafeed_update.py")
         setattr(updater, "yt_dlp_path", lambda: "yt-dlp")
