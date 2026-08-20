@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T00:53:36Z",
+  "updatedAt": "2026-08-20T01:53:38Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-13T20:53:14Z",
@@ -7420,7 +7420,7 @@
       "probeClient": "web_embedded"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-20T00:53:36Z",
+      "checkedAt": "2026-08-20T01:53:38Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -7633,25 +7633,95 @@
       "probeClient": "web_embedded"
     },
     "X0Fbi7BvUX0": {
-      "checkedAt": "2026-08-19T01:53:18Z",
+      "checkedAt": "2026-08-20T01:53:38Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment STACK and I'll send you the links.\n\nMost people pay for five AI tools that these three free repos already replace.\n\nStart with video, HyperFrames from HeyGen. Instead of hand-assembling motion and animation in an editor, you tell an AI agent what you want, it writes the video as code and renders a finished MP4.\n\nFor images and clips there's Open Generative AI, one interface on top of hundreds of models at once, from Flux to Sora and Veo, so you drop several separate generation subscriptions.\n\nAnd instead of keeping ChatGPT, Claude and Gemini in three tabs, LibreChat puts them all in one chat window.\n\nAll three are free and open source.\n\n#ai #aitools #opensource #productivity #buildinpublic",
-      "commentCount": 1,
-      "likeCount": 0,
+      "commentCount": 8,
+      "likeCount": 46,
       "comments": [
         {
-          "id": "UgxsT5R6uJa-i7nzhbt4AaABAg",
-          "author": "@chrisnol73",
+          "id": "UgyAIKKHjbMEN_eiFAp4AaABAg",
+          "author": "@doreenmccarthy9009",
           "text": "Stack",
           "likeCount": 0,
-          "publishedAt": "2026-08-19T01:12:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lNrFjZZ61XF8399URyAn23TL_abysD3saKFbImf4vXmuw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-20T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksOF9cJw6Aaagqi0ktCjgqqvdei_kxInkStR8SF52k1ZMR=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzgbwKrJVr0WrvGFQd4AaABAg",
+          "author": "@StoicTask",
+          "text": "Stack",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/RdYOz3TfzbAEq_4OarhD6SSAXlbgylQ5kyNDdpiYaHvZI0taei6tfVrn87-ZOyJYCpBab2Wt9w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwISWbvVF27wc6lzKR4AaABAg",
+          "author": "@DorisThatoeng",
+          "text": "Stack",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ZQ1JVwVjOp355XS_YvO5YQMcEdNzAeWd7hUWfMyYYYCqgA3HDbusZEJ6RktDRacEcCI2vaYo6w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyPzRdMbZ02sLOoT5V4AaABAg",
+          "author": "@jcc.6704",
+          "text": "**Stack 🎉",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l85PLzxwAZ3oUyh3AwjO-zq-i7nt6YrktCuNDazP4UgA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy_iracnhNFsoz-qCF4AaABAg",
+          "author": "@Showmik-y2t",
+          "text": "Stack",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/j7ICxrvUWlnW8jYrVSeoDY3Vz21OX-mFQ6Asvbgp7r9Wj6fFyTDAPGWBBao5bHoYRLe2ap_fTA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyB61R7Xr6AAM3R7rl4AaABAg",
+          "author": "@18122010edwinmalou",
+          "text": "Stack",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kbn41GRUReT_lFjydCK91l7lpkAc96JhDu0B44vNA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwVgDcU1yIvh3F93VV4AaABAg",
+          "author": "@Insatiableme",
+          "text": "Stack",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/SX99Zr0kKp8hXkphHEPMRa_CEy1rxYJbWHwTBggrO8vPh3t4gd20e9woF3kTFyqkcdHja0W4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz_Cc4Jc3V6rXFG5VJ4AaABAg",
+          "author": "@mergimmeziu3079",
+          "text": "Stack",
+          "likeCount": 0,
+          "publishedAt": "2026-08-19T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mYv49INL3I7oDji1orNNqrHfsmFlrkMcMiaU3OyGGzwhuL=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-19T01:53:18Z",
+      "commentsFetchedAt": "2026-08-20T01:53:38Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -7777,15 +7847,6 @@
       "embedAllowed": true,
       "availability": "public",
       "description": "Is Artificial Intelligence really going to replace programmers? 🤖\n\nToday, AI can write code in seconds, build websites, create apps, detect bugs, and even assist in complex software development tasks.\n\nSo a big question arises:\n\nIf AI can already write code, why are people still learning programming?\n\nIs programming going to die?\nWill developers become useless in the future?\nWill AI replace every software engineer?\nOr is programming simply evolving into something new?\n\nIn this video, we break down the real truth in simple language.\n\nWe will explore:\n\n✅ How far AI can actually write code\n✅ How AI builds websites and applications\n✅ What is AI Coding and Vibe Coding\n✅ Why AI-generated code is not always correct\n✅ Why programming is more than just writing code\n✅ Importance of logic and problem solving\n✅ What is software architecture\n✅ Why security and scalability still need humans\n✅ Will AI replace programmers or empower them?\n✅ What the future programmer will look like\n✅ Is learning programming still worth it in 2026?\n✅ What skills are needed in the AI coding era\n\nToday’s programmer may not write every line of code manually anymore.\n\nInstead, they will use AI to generate code, find bugs, write tests, and create documentation.\n\nBut the real difference is:\n\nA programmer must understand:\n\nWhat is the problem?\nWhat is the correct solution?\nIs the AI-generated code correct or not?\nHow should the system be designed?\nHow to ensure security and performance?\n\nIn the future, just writing code will not be enough.\n\nThe successful programmer will be the one who understands Programming + AI + Logic + Problem Solving + System Design.\n\nAI is not killing programming...\n\nAI is transforming programming into a new form. 🚀\n\nIf you want to understand Programming, AI, Coding, ChatGPT, AI Tools, Vibe Coding, and Future Technology in simple language, watch this video till the end.\n\n💬 Comment below:\n\nDo you think AI will replace programmers in the future?\n\n👍 Like the video if you enjoy it\n🔔 Subscribe to the channel\n📢 Share this video with your friends who are learning programming\n\nBecause the future will not belong only to AI...\nIt will belong to those who know how to use AI wisely. 🚀\nAI Coding, AI coding 2026, AI programming, programming 2026, future of programming, future of programmers, AI replacing programmers, will AI replace programmers, will AI replace software engineers, AI vs programmers, AI and programming, coding with AI, artificial intelligence coding, AI coding tools, AI coding agents, AI agents 2026, agentic coding, vibe coding, AI developer, future of coding, software development future, software engineering future, programming jobs 2026, coding jobs 2026, AI jobs 2026, programming career, coding career, learn programming 2026, is programming dead, is coding dead, AI code generator, AI website builder, AI app builder, ChatGPT coding, ChatGPT programming, Claude Code, Cursor AI, GitHub Copilot, OpenAI Codex, AI coding assistant, AI developer tools, AI automation, machine learning, web development, software development, computer programming, coding future, programmer future, software engineer, developer career, tech career 2026, programming skills, coding skills, AI skills, future skills, learn coding, programming for beginners, coding for beginners, AI explained, programming explained, AI reality, AI future, technology future, AI revolution, AI impact on jobs, human vs AI, AI human collaboration, coding agents, AI software engineering, autonomous coding, AI tools 2026\n#AI #ArtificialIntelligence #AICoding #AIProgramming #Programming #Coding #Coding2026 #Programming2026 #VibeCoding #AgenticCoding #AIAgents #CodingWithAI #FutureOfProgramming #FutureOfCoding #Programmer #SoftwareEngineer #SoftwareDevelopment #WebDevelopment #AIJobs #ProgrammingJobs #Tech #Technology #FutureTechnology #AITools #AI2026 #ChatGPT #CursorAI #GitHubCopilot #CodingLife #LearnProgramming #AIRevolution #AIExplained #TechNews #ProgrammingCareer #CodingCareer #AIFuture #MachineLearning #softwareengineering",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
-    "-Cz6dqYCI14": {
-      "checkedAt": "2026-08-19T11:53:31Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI is changing the way developers code, debug, test, and build software. 🚀 In this video, we explore 7 AI tools every developer needs to know in 2026.\n\nFrom AI coding assistants to tools that help with debugging, productivity, documentation, and development workflows, these technologies can help developers save time and work smarter.\n\nWhether you're a beginner, professional developer, or someone learning to code, these AI tools are worth checking out.\n\n🔥 In this video, you'll discover:\n\n- 7 powerful AI tools for developers\n- How AI can improve your coding workflow\n- Tools for faster coding and debugging\n- AI-powered developer productivity tools\n- How developers can use AI in 2026\n\n👍 Like the video, subscribe, and turn on notifications for more AI, coding, programming, and developer-tech content!\n\nHashtags\n\n#AITools #AIForDevelopers #Coding #Programming #ArtificialIntelligence #DeveloperTools #CodingAI #AIProgramming #SoftwareDevelopment #Tech2026 #GenerativeAI #CodingTools #DeveloperProductivity #TechTips #AI\n\nKeywords\n\nAI tools for developers 2026, best AI tools for developers, AI coding tools 2026, AI tools for coding, best coding AI tools, AI programming tools, AI developer tools, AI coding assistants, artificial intelligence for developers, AI software development, AI tools every developer needs, developer productivity tools, coding with AI, AI programming, generative AI for developers, AI development tools, best AI tools 2026, future of coding, AI for programmers, programming tools 2026",
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
@@ -8409,10 +8470,10 @@
       "probeClient": "web_embedded"
     },
     "qXTftsSZIiE": {
-      "checkedAt": "2026-08-20T00:53:36Z",
+      "checkedAt": "2026-08-20T01:53:38Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "9AeQSV4RhZ4": {
       "checkedAt": "2026-08-19T20:53:35Z",
@@ -8584,14 +8645,6 @@
       "likeCount": 3,
       "probeClient": "web_embedded"
     },
-    "5NgkBC1FCns": {
-      "checkedAt": "2026-08-19T23:53:23Z",
-      "embedAllowed": true,
-      "description": "How much can a client actually trust a team to manage their GoHighLevel ecosystem?\n\nIn this conversation, Harish sits down with our client Carter over a Zoom call and asks him three simple questions about his experience working with Isuremedia.\n\nOne question stood out:\n\n“If we gave you 50 or 100 GoHighLevel sub-accounts, would you trust us to manage them?”\n\nCarter's answer says a lot about the trust we've built through our work.\n\nThis isn't a traditional scripted testimonial. It's a straightforward conversation about working with an experienced GoHighLevel (GHL) team, the quality of our work, and the confidence a client has in Isuremedia to handle GHL projects at scale.\n\nWhether you're looking for GoHighLevel experts, GHL automation, CRM setup, sub-account management, AI automation, workflows, or a reliable GHL implementation partner, this conversation gives you a look at what working with our team is actually like.\n\nIf you're looking for a GoHighLevel agency or GHL expert to help manage your CRM, automation, workflows, sub-accounts, and business processes, get in touch with our team.\n\n🌐 Visit Isuremedia: Isuremedia\n\n📂 View Our Portfolio: Our Portfolio\n\n📞 Call Us: +1 646-588-1430\n✉️ Email: info@isuremedia.com\n\nSubscribe to Isuremedia for more GoHighLevel tutorials, GHL automation strategies, CRM workflows, AI automation, digital marketing, lead generation, and real client stories.\n\n#GoHighLevel #GHL #GoHighLevelExpert #GHLAutomation",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
-    },
     "jgnapgIIfb4": {
       "checkedAt": "2026-08-20T00:53:36Z",
       "embedAllowed": true,
@@ -8670,13 +8723,31 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "YjJyTH9ZBq4": {
-      "checkedAt": "2026-08-20T00:53:36Z",
+    "5Af0HeT47BY": {
+      "checkedAt": "2026-08-20T01:53:38Z",
       "embedAllowed": true,
       "availability": "public",
-      "description": "Want to automate your lead follow-ups and stop missing important opportunities? In this video, we break down 5 essential GoHighLevel workflows that every business, marketer, and agency should know.\n\nThese GoHighLevel automations can help you respond to new leads faster, improve follow-ups, keep your CRM organized, and move prospects through your sales pipeline automatically.\n\nWhether you're using GoHighLevel for your business, agency, CRM, lead generation, or marketing automation, these workflows can help reduce repetitive manual work and make sure your leads don't fall through the cracks.\n\nThe goal isn't just to create more workflows — it's to build automations that actually support your sales process.\n\nNeed help with GoHighLevel automation, CRM setup, workflows, AI automation, or lead management?\n\n📅 Book a Discovery Call:\nhttps://gohighlevelexpertservice.com/\n\n🌐 Visit Isuremedia:\nhttps://isuremedia.com/\n\n📂 View Our Portfolio:\nhttps://isuremedia.com/portfolio/\n\n📱 Call Us: +1 646-588-1430\n\n✉️ Email Us: info@isuremedia.com\n\n🔔 Subscribe to Isuremedia for more GoHighLevel tutorials, GHL automation, CRM workflows, lead generation, AI automation, digital marketing, and business growth strategies.\n\n#GoHighLevel #GHL #GoHighLevelAutomation #GHLWorkflows #MarketingAutomation #CRMAutomation",
-      "commentCount": 0,
-      "likeCount": 3,
+      "description": "AI automation isn’t just about saving a few clicks — it’s about building systems that handle repetitive work, scale with your business, and give your team more time to focus on what actually matters.\n\nIn this video, we break down the 5 AI automation tools worth watching in 2026: what each platform does, where it shines, what the trade-offs are, and which one makes the most sense for your business. The video covers Zapier, Make, n8n, Relevance AI, and Activepieces, along with a simple framework for choosing among them.\n\nWhether you're a founder, operator, marketer, or growing business, this is a practical guide to finding the right automation stack.\n\n⏱ Chapters\n0:00 — Intro\n0:44 — Zapier\n1:54 — Make\n2:43 — n8n\n3:40 — Relevance AI\n4:47 — Activepieces\n5:28 — Which Tool Is Right for You?\n6:15 — Why Implementation Matters More Than the Tool\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\n🚀 Ready to automate your business?\nFind top AI automation experts to build, optimize, and scale your workflows — and identify new opportunities to automate along the way.\n👉 https://www.fiverr.com/categories/programming-tech/software-development/automations-workflows\n\n🎥 Or reach out directly to Sam:\n👉 http://www.fiverr.com/freelancers/abdus_s\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\n\nWhat you’ll learn in this video:\nHow to choose between Zapier, Make, n8n, Relevance AI, and Activepieces\nWhich AI automation tools are best for simple vs. complex workflows\nHow to choose a platform based on maintenance, volume, and data sensitivity\nWhy proper configuration, error handling, and workflow design matter more than picking the “perfect” tool\n\n--\nThe intersection of you and getting it done. Instantly connect with thousands of freelancers at fiverr.com\n\nSubscribe: http://www.youtube.com/user/fiverrhq \n\nLet's Connect: \nWebsite: https://www.fiverr.com/ \nFacebook: https://www.facebook.com/Fiverr/\nTwitter: https://twitter.com/fiverr\nInstagram: https://www.instagram.com/fiverr/ \nLinkedIn: https://linkedin.com/company/fiverr-com/",
+      "commentCount": 1,
+      "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "vamZqhpG3qI": {
+      "checkedAt": "2026-08-20T01:53:38Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This is the complete n8n Masterclass, everything you need to go from a complete beginner to building real AI agents and a working RAG chatbot. This is the full Agentic Pro Bootcamp combined into one course, covering n8n fundamentals, AI agents, triggers, nodes, data flow, LLM parameters, and a full practical RAG chatbot build.\n\nThis course is for complete beginners. If you've never touched n8n before or don't fully understand what an AI agent is, this is built for you. If you already have 6 months to a year of experience building agents, this will feel too basic, and that's okay, this one is for people starting from zero.\n\nBy the end of this course, you'll understand how AI agents work, how to build your own chatbots, the real difference between an agent and a chain, how to control your AI's output using real parameters, and you'll have built a complete, working RAG chatbot from scratch. Completely free, no paywall.\n\nTimestamps:\n0:00 Introduction\n4:47 Class 1: AI Agents vs Chatbots, n8n Basics\n54:06 Class 2: Every n8n Trigger Explained\n1:17:58 Class 3: Every n8n Node Type Explained\n1:41:01 Class 4: How Data Flows Between Nodes\n2:42:13 Most Practical AI Course Detail\n2:46:10 Class 5: Building Your First AI Chatbot\n3:16:01 Class 6: AI Agent vs Chain Nodes\n3:42:39 Class 7: Chain vs Agent, Practical Build\n4:08:00 Class 8: LLM Parameters Explained in Depth\n4:34:45 Class 9: Personal Branding and LinkedIn Growth\n6:05:10 Class 10: Vector Databases Explained in Depth\n7:01:02 Class 11: Building a Real RAG Chatbot\n\nThis course is part of my larger Agentic AI Bootcamp (Agentic Pro), a 90-day, build-along program taking you from n8n basics all the way to production-grade AI agents, voice agents, and real SaaS products with Claude Code. New videos every week, completely free.\n\nJoin the bootcamp community here, where all discussion, updates, and resources happen:\nhttps://discord.gg/ArKP4d2rUc\n\nIf you're from Pakistan and want to go beyond this course, with proper, in-depth, job-ready learning and real mentorship, check out my premium course, Hustle Heroes:\nhttps://ai-automation.hustleheroes.org/workshop-landing/\n\nIf you're outside Pakistan and interested in the same premium mentorship, I'm currently gathering interest before launching an international version of the program. Join the group below to get early access when it's ready:\nAgentic AI Global Cohort: https://chat.whatsapp.com/DeP1VtpwycFCAud4av6T2V?mode=gi_t\n\nTopics covered in this course: n8n masterclass, n8n for beginners, AI agents, agentic AI, n8n triggers, n8n nodes, n8n tutorial, AI chatbot, RAG chatbot, vector database, LLM parameters, AI automation, building and selling automations.\n\n🔗 CONNECT WITH ME\nInstagram: https://www.instagram.com/kamranaiinsights/\nLinkedIn: https://www.linkedin.com/in/muhammad-kamran-blouch-94334a19a/\nDiscord Community (join this for the bootcamp): https://discord.gg/ArKP4d2rUc\nWhatsApp Channel (my main channel for updates): https://whatsapp.com/channel/0029VbAylT54CrfiWL4T9z3D\nBusiness: kamranaiinsights@gmail.com\n\nCredits:\nSome clips used in this video are from the following channels, all rights belong to their respective owners:\n@TheoVonClips\n@globalnews\n@CNBCtelevision\n\n#n8n #aiagents #agenticai #aiautomation",
+      "commentCount": 29,
+      "likeCount": 143,
+      "probeClient": "web_embedded"
+    },
+    "I-2TShV0nm8": {
+      "checkedAt": "2026-08-20T01:53:38Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What if you could analyze thousands of Tally transactions and generate business reports in just a few minutes? 🤯\n\nIn this video, I show you how AI can be used to analyze Tally Day Book data and automatically generate reports, insights, and interactive dashboards—without sending sensitive accounting data to a public AI platform.\n\n🚀 What You Will Learn\n\n✅ Analyze Tally Day Book data\n✅ Analyze 5,000+ transactions automatically\n✅ Generate Daily & Monthly Cash Flow Reports\n✅ Analyze Debit & Credit Transactions\n✅ Find Top Customers and Business Insights\n✅ Create Monthly Inflow & Outflow Reports\n✅ Analyze Payments, Invoices & Bank Transactions\n✅ Build an Accounting Dashboard using AI\n✅ Create an Offline AI-powered tool\n✅ Automate Accounting & MIS Reporting\n\nPractice File Link : https://drive.google.com/uc?export=download&id=1pNmwUFPSfwQlguFJ5P0aPzYmB66eQooz\n\nBoost Your Excel Productivity with XLBooster\nGet powerful Excel functions, AI tools, and productivity features not available in standard Excel.\n👉 https://xlbooster.com/r/AFF81315B\n\nIf you found this video useful, Like 👍, Comment 💬 and Subscribe 🔔 for more tutorials on Tally, Excel, AI, Accounting, Data Analytics and Automation.\n\nComment below: What Tally report would you like to automate using AI?\n\n#Tally #TallyPrime #Accounting #AI #Excel #Automation #MIS #DataAnalytics\n\nConnect me on LinkedIn Page : https://www.linkedin.com/in/vijayzine\n\nFill Google Forms to get SAP FICO E-Book : https://forms.gle/1msSavjLMsCCT2pD8\nGet Free Notification for Upcoming Videos -https://forms.gle/mMzXaroPPoYAhZQe7\n------------------------------------------------------------------------------------------------------------------------------\nLearn Satish Sir courses with Certificate\nCourse Website :https://skillcourse.in/\n------------------------------------------------------------------------------------------------------------------------------\nFollow us on LinkedIn  : https://www.linkedin.com/in/satish-dhawale/\n------------------------------------------------------------------------------------------------------------------------------\nCheck our latest blogs: https://learnmoreindia.in/ \n------------------------------------------------------------------------------------------------------------------------------\nSocial media Pages: \nSkill Course LinkedIn : linkedin.com/company/skill-course/\nFacebook Page Link: https://www.facebook.com/learnmoreeasily/\nInstagram Page Link: https://www.instagram.com/_learn_more_pro_/\nTelegram channel: https://telegram.me/learnmoreindia\nFollow us on X : https://x.com/Satish_Dhawale_\n------------------------------------------------------------------------------------------------------------------------------\nMy Other Channels:\nSatish Dhawale: ✅\nhttps://www.youtube.com/@Satish_Dhawale\nReal Tutorial: ✅\nhttps://www.youtube.com/@realtutorial550\nComplete Technology:✅\nhttps://www.youtube.com/@CompleteTechnology\nLearn more shorts:✅\nhttps://www.youtube.com/@LearnMoreShorts\nSatish Tech (Marathi):✅\nhttps://www.youtube.com/@Satish_Tech\nTally Tutorial:✅\nhttps://www.youtube.com/@TallyTutorial\nI Love Excel by Skill Course:✅\nhttps://www.youtube.com/@Excel_Tutorial\nLearn More:✅\nhttps://www.youtube.com/@Learn_More_Pro\nCuriosity: ✅\nhttps://www.youtube.com/@curiosity9432\n------------------------------------------------------------------------------------------------------------------------------\nMy YouTube Gears :\nBest Mic for Recording (Condensor Mic): https://amzn.to/2UUMDnH\nBest Mic for Recording (Dynamic Mic ): https://amzn.to/3pQgyvD\nMy DSLR Camera Canon 200D: https://amzn.to/39ciw3E\nMy Laptop (Video Editing): https://amzn.to/2UXQj8h\nLaptop (Office Use/ Home use / Budget Laptop) : https://amzn.to/3l0pniw\nAntivirus: https://amzn.to/3l3TIgi\nScreen Recording Software: https://bit.ly/2J39n2j\nVideo Editing Software: https://bit.ly/3nOPlri\nGreen screen with Stand: https://amzn.to/2KAl1Cu",
+      "commentCount": 6,
+      "likeCount": 84,
       "probeClient": "web_embedded"
     }
   }

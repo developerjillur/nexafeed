@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T00:53:36Z",
+  "updatedAt": "2026-08-20T01:53:38Z",
   "items": [
+    {
+      "id": "5Af0HeT47BY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fiverr",
+      "publishedAt": "2026-08-19T17:53:38Z",
+      "firstSeenAt": "2026-08-20T01:53:38Z"
+    },
+    {
+      "id": "vamZqhpG3qI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kamran AI Insights",
+      "publishedAt": "2026-08-19T14:53:38Z",
+      "firstSeenAt": "2026-08-20T01:53:38Z"
+    },
+    {
+      "id": "I-2TShV0nm8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tally Tutorial",
+      "publishedAt": "2026-08-19T12:53:38Z",
+      "firstSeenAt": "2026-08-20T01:53:38Z"
+    },
     {
       "id": "jgnapgIIfb4",
       "type": "short",
@@ -19540,6 +19564,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-20T01:53:38Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
