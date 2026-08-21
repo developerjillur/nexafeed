@@ -1,7 +1,95 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-20T22:55:59Z",
+  "updatedAt": "2026-08-21T00:53:07Z",
   "items": [
+    {
+      "id": "eLtyyibO8n8",
+      "type": "short",
+      "source": "primary",
+      "channel": "Greg Preece",
+      "publishedAt": "2026-05-11T17:28:43Z",
+      "firstSeenAt": "2026-08-21T00:53:07Z"
+    },
+    {
+      "id": "9zegOfX_9LY",
+      "type": "short",
+      "source": "primary",
+      "channel": "Greg Preece",
+      "publishedAt": "2026-05-08T16:54:03Z",
+      "firstSeenAt": "2026-08-21T00:53:07Z"
+    },
+    {
+      "id": "bedNmIk7Kt4",
+      "type": "short",
+      "source": "primary",
+      "channel": "Creative Pad Media",
+      "publishedAt": "2026-03-25T09:08:09Z",
+      "firstSeenAt": "2026-08-21T00:53:07Z"
+    },
+    {
+      "id": "Mrg3xX2roYw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Revolution",
+      "publishedAt": "2026-08-20T23:53:07Z",
+      "firstSeenAt": "2026-08-21T00:53:07Z"
+    },
+    {
+      "id": "okjvO4BsW98",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech With Tim",
+      "publishedAt": "2026-08-20T18:53:07Z",
+      "firstSeenAt": "2026-08-21T00:53:07Z"
+    },
+    {
+      "id": "SZnt5Vc8dCs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Build Great Products",
+      "publishedAt": "2026-08-20T14:53:07Z",
+      "firstSeenAt": "2026-08-21T00:53:07Z"
+    },
+    {
+      "id": "qXGfR8oB1j4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "9to5Mac",
+      "publishedAt": "2026-08-20T13:53:07Z",
+      "firstSeenAt": "2026-08-21T00:53:07Z"
+    },
+    {
+      "id": "lv0owXW735Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Eli the Computer Guy",
+      "publishedAt": "2026-08-20T13:53:07Z",
+      "firstSeenAt": "2026-08-21T00:53:07Z"
+    },
+    {
+      "id": "i1ZmNUbRGD4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "IBM Technology",
+      "publishedAt": "2026-08-20T11:53:07Z",
+      "firstSeenAt": "2026-08-21T00:53:07Z"
+    },
+    {
+      "id": "tLf0k1Xy5ys",
+      "type": "long",
+      "source": "secondary",
+      "channel": "zSecurity",
+      "publishedAt": "2026-08-20T10:53:07Z",
+      "firstSeenAt": "2026-08-21T00:53:07Z"
+    },
+    {
+      "id": "ip1lg6T3new",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-20T07:53:07Z",
+      "firstSeenAt": "2026-08-21T00:53:07Z"
+    },
     {
       "id": "-fF1ufNJoho",
       "type": "short",
@@ -488,6 +576,14 @@
       "source": "secondary",
       "channel": "Social Seller Academy",
       "publishedAt": "2026-08-20T12:55:59Z",
+      "firstSeenAt": "2026-08-20T22:55:59Z"
+    },
+    {
+      "id": "Y82jatd23gc",
+      "type": "short",
+      "source": "primary",
+      "channel": "Greg Preece",
+      "publishedAt": "2026-05-22T08:48:20Z",
       "firstSeenAt": "2026-08-20T22:55:59Z"
     },
     {
@@ -18077,15 +18173,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-06T23:53:13Z",
-      "new": 8,
-      "long": 6,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
       "runAt": "2026-08-07T00:53:16Z",
       "new": 8,
       "long": 8,
@@ -20100,6 +20187,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-21T00:53:07Z",
+      "new": 13,
+      "long": 8,
+      "shorts": 5,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
