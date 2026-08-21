@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T18:53:09Z",
+  "updatedAt": "2026-08-21T19:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -5109,12 +5109,12 @@
       "probeClient": "web_embedded"
     },
     "RDytbVDzMF4": {
-      "checkedAt": "2026-08-14T18:53:19Z",
+      "checkedAt": "2026-08-21T19:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔥 Glaido: https://bit.ly/4eGoI3R (use code: WHSAAKXO for 1 FREE month)\n🩵 Free Skill From Video: https://bit.ly/4wynDlE\n📈 ALL Systems: https://bit.ly/4kol0y5\n\n\n*👋 Howdy*\nHey, I'm Jack, I built and sold my last tech startup with a Gazillion customers, now I'm building AI startups and I share stuff that works. I quit my corporate job to do my start-up and have never looked back since.\n\n*💬 Overview*\nClaude's design mode can animate real data, but the default output looks like every other generic AI graphic out there. This video walks through five levels for making it look genuinely yours. Level one feeds Claude actual numbers, like AI model benchmarks, and turns them into animated bar charts you can codify as a reusable style. Then we fix fonts, the biggest slop giveaway, using Firecrawl to extract a brand's typography plus sites like Fonts In Use, Fontshare and Google Fonts. Level two adds icon packs, level three brings in Lottie animations and generated imagery, level four gets Claude to transcribe your videos with word-level timestamps, and level five builds a Claude skill that finds moments in your footage and creates graphics for them automatically. Really useful if you make content for YouTube, Instagram or client work.\n\n*Links*\n☁️ Claude: https://claude.ai/\n🔥 Firecrawl: https://bit.ly/4feyw72\n🎬 LottieFiles: https://lottiefiles.com/\n🔤 Fonts In Use: https://fontsinuse.com/\n🔡 Fontshare: https://www.fontshare.com/\n🅰️ Google Fonts: https://fonts.google.com/\n🖋️ Open Foundry: https://open-foundry.com/\n🐺 Typewolf: https://www.typewolf.com/\n📦 Flaticon: https://www.flaticon.com/\n⚡ Higgsfield: https://bit.ly/4fjvSg0\n\n⌚️ *Stamps:*\n0:00 - Stop Making Generic AI Slop\n0:26 - How Claude Design Works\n1:20 - Animated Bar Chart With Real Data\n2:22 - Level 1\n3:22 - Scrape Any Site's Typography\n4:08 - Find Gorgeous Fonts In The Wild\n5:12 - Free Font Resources\n5:44 - Level 2\n6:34 - Icons That Elevate Everything\n7:12 - Premium Designs With Icon Packs\n7:55 - Level 3\n8:11 - Stunning Animations From Lottie\n9:42 - Build Your Animation Library\n9:53 - AI-Generated Images Inside Claude Design\n11:27 - Combining Every Asset Layer\n11:47 - Level 4\n12:01 - Claude Watches Your Video\n12:23 - Full Timestamped Transcript Instantly\n12:37 - Works On Any Video Source\n13:07 - Level 5\n13:26 - Skill Auto-Finds Animation Moments\n13:42 - Firecrawl Enriches Your Data\n14:34 - Research Agent Fills The Gaps\n15:10 - Custom Skill For Any Platform\n15:59 - Full Video Analysis Delivered\n16:18 - What's Next\n\nLearn how to use Claude design and Claude Code to build animated motion graphics, data visualisations and bar charts with custom fonts, icon packs, Lottie animations and Firecrawl web scraping for a complete AI design workflow.\n\n#Claude #ClaudeCode #MotionGraphics #AIDesign #Firecrawl #DataVisualisation",
-      "commentCount": 12,
-      "likeCount": 25,
+      "commentCount": 88,
+      "likeCount": 2417,
       "probeClient": "web_embedded"
     },
     "XtwTjwUZSTs": {
@@ -9263,10 +9263,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-21T18:53:09Z",
+      "checkedAt": "2026-08-21T19:53:10Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9281,10 +9281,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-21T18:53:09Z",
+      "checkedAt": "2026-08-21T19:53:10Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -10665,10 +10665,10 @@
       "probeClient": "web_embedded"
     },
     "h8e334CiG1M": {
-      "checkedAt": "2026-08-21T18:53:09Z",
+      "checkedAt": "2026-08-21T19:53:10Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "qXTftsSZIiE": {
       "checkedAt": "2026-08-21T14:53:22Z",
@@ -11310,6 +11310,45 @@
       "description": "The keyboard is no longer the ultimate developer tool. In this video, we break down the massive paradigm shift hitting the IT, Tech, and Cloud industries right now: Agentic Coding Tools.\n\nWe are moving past simple AI autocompletes and moving into an era of fully autonomous AI software engineers. From tools like Claude Code and Cursor to advanced DevSecOps pipelines, AI agents are now reading entire repositories, writing code, running tests, and deploying to the cloud completely on their own. We dive deep into the data, the architecture (like MCP and Integrated Tool Use), and explain exactly how you need to adapt to stay ahead of the curve as a tech professional.\n\n\n#AI #SoftwareEngineering #DevOps #CloudComputing #agenticai",
       "commentCount": 1,
       "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "9vSJH8gkgNU": {
+      "checkedAt": "2026-08-21T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment EVE and I'll send you the repo.\n\nA startup just open-sourced its entire AI-powered CRM, the same system it runs internally. It's called Comp AI, and it's not a stripped template. Lead capture, calling, emailing, pipeline, plus AI agents that actually work the leads for you, hooking into Gmail and your calendar and filling records on their own. Every contact has an agent tab where you see its steps and which leads it dropped and why. If you run an agency or a small team, this is the kind of backend you'd normally pay thousands for. Fair warning, it's a fresh release, so some of it is still rough.\n\n#crm #ai #opensource #sales #buildinpublic",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-21T19:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "nRiQWYX2XXA": {
+      "checkedAt": "2026-08-21T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, I break down which AI businesses actually have demand, longevity and scale in 2026 — and which ones could disappear with the next ChatGPT, Claude or Gemini update.\n\nWe cover AI Lead Generation, Voice Agents, Automation Agencies, AI Consulting, Agent Development and the overhyped businesses I would stay away from.\n\nDon’t sell AI. Sell an outcome people already pay for.\n\nHere’s the link for the 1-on-1 Agentic Engineering Masterclass: https://academy.beyondtahir.com/ai-masterclass/agentic-engineering\n\n#AIBusiness #ArtificialIntelligence #AIEntrepreneur #AIAutomation #beyondtahir",
+      "commentCount": 3,
+      "likeCount": 40,
+      "probeClient": "web_embedded"
+    },
+    "xM44K3t5Cbo": {
+      "checkedAt": "2026-08-21T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn how to build an AI operating system: https://www.skool.com/dobotaiacademy/about \n\nIn this video, I show you how I built 150 directives that run my whole AI agency, no code needed. These are basically SOPs for AI agents so you never have to explain the same task twice. I break down quality gates, prerequisites, inputs, and when it's actually worth making one.\n\nLearn more about DobotAI: https://dobotai.com \n\nSubscribe for more videos on AI and automation for businesses: https://www.youtube.com/@DobyLanete?sub_confirmation=1",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "nbWGj4J8OuQ": {
+      "checkedAt": "2026-08-21T19:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Discover how SolidAppMaker combines custom software development with AI, automation, and intelligent technology to build powerful digital solutions for businesses.\n\nSince 2017, SolidAppMaker has helped startups, entrepreneurs, and established businesses transform ideas into scalable mobile apps, web platforms, AI-powered systems, and enterprise software.\n\nOur expertise includes AI and automation, mobile app development, full-stack web development, cloud infrastructure, UI/UX design, cybersecurity, healthcare technology, API integrations, and scalable software architecture.\n\nWe don't believe every business needs the same technology. We select the right architecture, development approach, and level of automation based on your goals, users, budget, and plans for growth.\n\nFrom validating an idea to launching an MVP, building a professional application, or developing an enterprise-level platform, SolidAppMaker can support the complete journey.\n\nLearn more about SolidAppMaker and request a personalized project plan and fixed-price quotation through SolidAppMakerPlanMaker.\n\nSuggested YouTube category: Science & Technology\n\nKeywords/tags:\nSolidAppMaker, AI Development, AI Automation, Software Development, Mobile App Development, Web Development, Artificial Intelligence, Business Automation, AI Agents, OpenAI, Custom Software Development, React Native, Flutter, Node.js, AWS, Full Stack Development, App Development, Software Agency, Digital Transformation",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

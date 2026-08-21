@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T18:53:09Z",
+  "updatedAt": "2026-08-21T19:53:10Z",
   "items": [
+    {
+      "id": "9vSJH8gkgNU",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-21T19:00:16Z",
+      "firstSeenAt": "2026-08-21T19:53:10Z"
+    },
+    {
+      "id": "nRiQWYX2XXA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Beyond Tahir",
+      "publishedAt": "2026-08-21T16:53:10Z",
+      "firstSeenAt": "2026-08-21T19:53:10Z"
+    },
+    {
+      "id": "xM44K3t5Cbo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Doby Lanete",
+      "publishedAt": "2026-08-21T15:53:10Z",
+      "firstSeenAt": "2026-08-21T19:53:10Z"
+    },
+    {
+      "id": "nbWGj4J8OuQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": "John Fijen",
+      "publishedAt": "2026-08-21T14:53:10Z",
+      "firstSeenAt": "2026-08-21T19:53:10Z"
+    },
     {
       "id": "Lv8_ba0zm_M",
       "type": "short",
@@ -18893,15 +18925,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T18:53:31Z",
-      "new": 8,
-      "long": 7,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
       "runAt": "2026-08-07T19:53:27Z",
       "new": 4,
       "long": 4,
@@ -20880,6 +20903,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-21T19:53:10Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
