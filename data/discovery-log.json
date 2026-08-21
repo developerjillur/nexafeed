@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T00:53:07Z",
+  "updatedAt": "2026-08-21T01:53:10Z",
   "items": [
+    {
+      "id": "L5mkPmjJMKc",
+      "type": "short",
+      "source": "primary",
+      "channel": "Krumjahn",
+      "publishedAt": "2026-08-21T01:25:00Z",
+      "firstSeenAt": "2026-08-21T01:53:10Z"
+    },
+    {
+      "id": "en0iu4ln_JM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-21T01:00:15Z",
+      "firstSeenAt": "2026-08-21T01:53:10Z"
+    },
+    {
+      "id": "hysvALkEaOg",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Faycal AZIB",
+      "publishedAt": "2026-08-20T21:53:10Z",
+      "firstSeenAt": "2026-08-21T01:53:10Z"
+    },
+    {
+      "id": "G5YsM0uQWOM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-20T18:53:10Z",
+      "firstSeenAt": "2026-08-21T01:53:10Z"
+    },
+    {
+      "id": "JRyo8zvmqaQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nana Janashia",
+      "publishedAt": "2026-08-20T17:53:10Z",
+      "firstSeenAt": "2026-08-21T01:53:10Z"
+    },
+    {
+      "id": "LjnMMLQKz5Q",
+      "type": "short",
+      "source": "secondary",
+      "channel": "ODMT Telugu ( Digital Marketing Course in Telugu )",
+      "publishedAt": "2026-08-20T15:53:10Z",
+      "firstSeenAt": "2026-08-21T01:53:10Z"
+    },
+    {
+      "id": "OjgRDW1C8qY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-20T14:53:10Z",
+      "firstSeenAt": "2026-08-21T01:53:10Z"
+    },
+    {
+      "id": "fA_61BcrISU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mr Void",
+      "publishedAt": "2026-08-20T14:53:10Z",
+      "firstSeenAt": "2026-08-21T01:53:10Z"
+    },
+    {
+      "id": "Vlea8j6PGI0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Learnomate Technologies",
+      "publishedAt": "2026-08-20T13:53:10Z",
+      "firstSeenAt": "2026-08-21T01:53:10Z"
+    },
+    {
+      "id": "6oPdrROfdQ0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Last Techie",
+      "publishedAt": "2026-08-20T08:53:10Z",
+      "firstSeenAt": "2026-08-21T01:53:10Z"
+    },
     {
       "id": "eLtyyibO8n8",
       "type": "short",
@@ -18173,15 +18253,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T00:53:16Z",
-      "new": 8,
-      "long": 8,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
       "runAt": "2026-08-07T01:53:17Z",
       "new": 7,
       "long": 5,
@@ -20196,6 +20267,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-21T01:53:10Z",
+      "new": 11,
+      "long": 7,
+      "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }

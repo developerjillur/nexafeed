@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T00:53:07Z",
+  "updatedAt": "2026-08-21T01:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -8897,7 +8897,7 @@
       "probeClient": "web_embedded"
     },
     "qXTftsSZIiE": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-21T01:53:10Z",
       "embedAllowed": false,
       "availability": "unavailable",
       "failureReason": "unavailable"
@@ -9076,14 +9076,14 @@
       "probeClient": "web_embedded"
     },
     "jgnapgIIfb4": {
-      "checkedAt": "2026-08-20T00:53:36Z",
+      "checkedAt": "2026-08-21T01:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "This is a video about Shared compute\n\n00:00 Shared Compute Mesh LLM\n00:40 Mesh LLM Shared Compute",
       "commentCount": 0,
-      "likeCount": 0,
+      "likeCount": 5,
       "comments": [],
-      "commentsFetchedAt": "2026-08-20T00:53:36Z",
+      "commentsFetchedAt": "2026-08-21T01:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -9097,14 +9097,45 @@
       "probeClient": "web_embedded"
     },
     "ZOEedHvKKDM": {
-      "checkedAt": "2026-08-20T00:53:36Z",
+      "checkedAt": "2026-08-21T01:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 14,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-20T00:53:36Z",
+      "commentCount": 3,
+      "likeCount": 183,
+      "comments": [
+        {
+          "id": "Ugy7TTUmp8YUPVY0BWl4AaABAg",
+          "author": "@DJ369-Miami",
+          "text": "I never saw any need to use it. Neither with nor without Claude. And I use AI professionally every day. Max subscriber to all major LLMs",
+          "likeCount": 0,
+          "publishedAt": "2026-08-20T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/M4rq9mKtYVNS-6sj818Q19YAXEb-Nxfe_a-P_b5DSvPMtzETuEgv9zBlDVuOfecXT8E7_2iR=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxl9IY_U-UKenTaCU14AaABAg",
+          "author": "@JamesMacQueen-d9t",
+          "text": "Benefits over locally hosted md files and graphify? Currently use main md files used for all projects then project speciffic md's.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-20T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzlpjzTgWgAKMchUgZ4AaABAg",
+          "author": "@DeronHuskey",
+          "text": "How many notes do you have in your vault?  I wonder if there's an upper limit where it may falter?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-20T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nF6dK_W1ymXhMN3HB3UDz1ttFLAAQNFV13M4KR9JJUF4Bh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-21T01:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -9244,7 +9275,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-21T01:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9262,10 +9293,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-21T01:53:10Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -10068,7 +10099,7 @@
       "probeClient": "web_embedded"
     },
     "h8e334CiG1M": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-21T01:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -10227,6 +10258,122 @@
       "description": "Get the Agent OS & Claude Cowork Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nClaude Co-work Update: Run AI Agents Anywhere (Mobile & Web)\n\nClaude's Co-work AI agent now runs in the cloud, allowing you to seamlessly switch between desktop, mobile, and web without stopping tasks. Discover how to leverage this cross-device automation to handle business research and document analysis while on the go.\n\n00:00 - Intro: Claude Co-work Update\n00:47 - New Web & Mobile Features\n01:33 - Business vs Coding Use Cases\n03:10 - How Cloud Execution Works\n04:40 - Mobile: Your AI Control Panel\n05:31 - Limitations & Beta Risks\n06:32 - Why Cloud Agents Matter",
       "commentCount": 1,
       "likeCount": 12,
+      "probeClient": "web_embedded"
+    },
+    "L5mkPmjJMKc": {
+      "checkedAt": "2026-08-21T01:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Buzz gives you six built-in local models, but LM Studio opens the door to thousands more. Here’s how to find a model that fits your computer, start the local server, enable authentication, and prepare it for use inside Buzz.\nRun vision, tool-use, and reasoning models locally on your own machine.\n#LocalAI #LMStudio #BuzzAI",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-21T01:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "en0iu4ln_JM": {
+      "checkedAt": "2026-08-21T01:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Google just did something that's going to make every teacher's job harder overnight.\n\nGemini is now built right into Google Classroom, sitting next to the assignment. No separate app, no copying text into a chatbot, the AI is one tab away from the homework it's meant to help with, and it even pulls in the assignment and the teacher's instructions on its own. Access used to be for students 18 and up. Now it reaches all ages, down to the youngest grades, at any school that had already switched Gemini on for students. And where it's on, a school has to go in and turn it off for under-18s to pull it back.\n\nGoogle calls these study tools: flashcards, quizzes, notes. Whether a kid uses them to study or to stop trying is up to the kid.\n\nI share more on AI in my community, link in bio.\n\n#ai #gemini #google #education #edtech",
+      "commentCount": 1,
+      "likeCount": 7,
+      "comments": [
+        {
+          "id": "UgxrZV6XOJkXxpvtpTp4AaABAg",
+          "author": "@JimmySherman-n2l",
+          "text": "I love it, i wish I had that in school",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T01:27:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-21T01:53:10Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "33mEB7ITr7g": {
+      "checkedAt": "2026-08-21T01:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔗 Gladia: https://app.gladia.io/signup?utm_campaign=187991254-Creators&utm_source=creator&utm_medium=brendan-jowett&utm_content=youtube\n👉 Full courses + unlimited support:\nhttps://www.skool.com/brendans-ai-launchpad?utm_source=youtube&utm_medium=video&utm_campaign=description&utm_content=33mEB7ITr7g\n📚 Free AI Resource Hub & Skool Community:\nhttps://www.skool.com/@brendan?utm_source=youtube&utm_medium=video&utm_campaign=description&utm_content=33mEB7ITr7g\n🤝 Work with me:\nhttps://www.inflate.agency/?utm_source=youtube&utm_medium=video&utm_campaign=description&utm_content=33mEB7ITr7g\n🔗 Claude: https://clau.de/BrendanJowett\n\n⚠️ 90% OF PEOPLE WATCHING ARE NOT SUBSCRIBED, PLEASE SUBSCRIBE NOW 👇\nhttps://www.youtube.com/channel/UCzIsviqoJc-VcWqF5Pp8iLw?sub_confirmation=1\n\nLearn how to build and deploy an AI voice agent INSTANTLY on a phone number using Claude Code!\n\nThis step by step tutorial walks through the full tech stack: LiveKit for agent hosting, Gladia for speech to text, Claude Haiku for intelligence, and 11 Labs Flash V2.5 for text to speech, all connected via a Telnyx phone number.\n\n📧 Sponsorship Inquiries: \nbrendan@inflate.agency\n\nMy Links 🔗\n👉 Subscribe: https://www.youtube.com/channel/UCzIsviqoJc-VcWqF5Pp8iLw?sub_confirmation=1\n👉 LinkedIn: https://www.linkedin.com/in/brendanjowett/\n👉 Twitter: https://twitter.com/jowettbrendan\n👉 Instagram: https://www.instagram.com/brendan.jowett\n\nTIMESTAMPS\n00:00 - What I'm covering\n00:58 - Tech stack overview\n01:33 - Demo call with the voice agent\n02:27 - Architecture walkthrough\n03:04 - Gladia speech-to-text\n03:57 - AI model selection\n04:17 - 11 Labs text-to-speech\n04:30 - Prompting Claude Code\n06:02 - LiveKit Cloud setup\n07:22 - Providing API keys\n08:01 - Telnix phone number setup\n08:20 - Agent build complete\n08:51 - Adding a function call\n10:04 - Appointment booking workflows\n11:26 - Function call demo / live test\n12:09 - Agency moat / integrations advice",
+      "commentCount": 27,
+      "likeCount": 268,
+      "probeClient": "web_embedded"
+    },
+    "hysvALkEaOg": {
+      "checkedAt": "2026-08-21T01:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I put ONE identical prompt into 5 different AI video generators to see which one actually creates the best result. 🤖🎬 No spoilers here — you're going to judge every clip yourself and decide which AI video tool comes out on top.\n\nI ran the exact same prompt through five separate AI video generation platforms, side by side, so you can see the real differences with your own eyes instead of trusting a random ranking. One result stood out to me... but this isn't about my opinion. It's about what YOU think looks the most realistic, the most creative, and the most usable for your own content. 👀🔥\n\nDrop a comment with the number of the video you think is the best, and try guessing which tool made it. Your picks decide the real winner of this comparison. Subscribe for more AI tool comparisons and creator experiments like this one. 🔔\n\n#aivideogenerator #aitoolscomparison #texttovideoai\n\nai video generator, ai video generator comparison, best ai video tool, text to video ai, ai video generation, ai video creation tools, ai content creation, ai video generator test, compare ai tools, ai tools for creators, ai video maker, generative ai video, ai video technology, best ai tool 2026, ai video generators ranked, ai creator tools, text to video generator comparison\n\n#aivideogenerator #aitoolscomparison #texttovideoai #aivideocreation",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "G5YsM0uQWOM": {
+      "checkedAt": "2026-08-21T01:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥Micrososft Azure - Data Analyst Course - https://www.simplilearn.com/data-analyst-certification-course?utm_campaign=OjgRDW1C8qY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥IIT Kanpur - Professional Certificate Course in AI-Powered Data Analytics - https://www.simplilearn.com/iitk-professional-certificate-course-data-analytics?utm_campaign=OjgRDW1C8qY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥IITM Pravartak - Professional Certificate Program in AI-Powered Data Analytics - https://www.simplilearn.com/iitm-ai-data-analytics-program?utm_campaign=OjgRDW1C8qY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Microsoft Azure - Data Scientist - https://www.simplilearn.com/in/data-science-course?utm_campaign=OjgRDW1C8qY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Applied Data Science with Python - https://www.simplilearn.com/big-data-and-analytics/python-for-data-science-training?utm_campaign=OjgRDW1C8qY&utm_medium=DescriptionFF&utm_source=Youtube\n\n\nIn this video, Data Analytics with AI Full Course, you’ll learn how artificial intelligence is transforming modern data analytics workflows. This complete 2026 tutorial covers data collection, cleaning, visualization, exploratory data analysis (EDA), AI-assisted analytics, predictive modeling, and reporting using industry-standard tools and techniques.\n\nYou’ll start with data analytics fundamentals, including what data analytics is, why it matters, and the different types of analytics used in business. Then you’ll dive into hands-on tutorials showing how to use AI tools like ChatGPT, Gemini, Microsoft Copilot, and Power BI’s AI features to automate data cleaning, write SQL queries, perform EDA, create visualizations, and generate narrative insights from dashboards.\n\nThe course also includes practical examples using Excel with AI, Power BI with AI, SQL for data analytics, and real-world projects such as COVID-19 dashboards, airline analytics, and space mission data analysis. By the end of this tutorial, you’ll have a solid understanding of AI-powered analytics workflows and the practical skills needed to analyze data more efficiently and effectively in 2026.\n\n\nRelated Videos:\n✅ 1. https://youtu.be/YwlqkdSdkMg\n✅ 2. https://youtu.be/YuaWT7986CU\n✅ 3. https://youtu.be/lAMyZs5D1fg\n✅ 4. https://youtu.be/jAAEsLTAnB0\n✅ 5. https://youtu.be/F8wKbCsY9IM\n\n✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More Such Videos By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUUKgEFXH1tBbHwq38oWYDScU\n\n#DataAnalyticsWithAIFullCourse2026 #DataAnalyticsWithAITutorial2026 #AIPoweredDataAnalyticsCourse2026 #GenerativeAIForDataAnalytics2026 #DataAnalystWithAIRoadmap2026 #ExcelPowerBISQLWithAI #ChatGPTGeminiCopilotForDataAnalytics #DataAnalyticsProjectsWithAI2026 #AIToolsForDataAnalysts2026 #SimplilearnDataAnalyticsWithAI2026 #DataAnalyticsWithGenerativeAIFullCourse\n\n➡️ About AI-Powered Business Analyst\n\nThe AI-Powered Business Analyst course helps you master planning, elicitation, stakeholder management, and solution evaluation. Gain hands-on experience with Excel, SQL, Power BI, GenAI, and build job-ready skills in Agile, product thinking, RPA, and more. Earn a certificate to boost your credibility.\n\nKey Features\n\n✅ Earn 35 PDs/CDUs with the BABOK® v3 aligned CBAP® Certification Live Training\n✅ Master 10+ GenAI Powered in-demand business analysis tools like Power BI, Excel, SQL, and more\n✅ Engage with 10+ industry projects and 40+ case-based activities using real-world tools and scenarios\n✅ Explore AI-Powered Business Analysis with Generative AI tools like ChatGPT, Copilot & more\n✅ Learn to identify automation opportunities, document processes, and collaborate with RPA teams\n✅ Earn official trophy and badges for ‘Microsoft Azure Data Fundamentals’ on the Microsoft Learn portal\n✅ Develop skills in Agile frameworks, backlog grooming, stakeholder mapping, design thinking, and BPMN\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n\nSkills Covered\n✅ Business Analysis\n✅ Data Elicitation\n✅ Data Analysis\n✅ Data Visualization\n✅ Data Cleaning\n✅ Data Preparation\n✅ Life Cycle Management\n✅ Strategy Analysis\n✅ Solution Evaluation\n✅ Excel Macros\n✅ Excel VBA\n✅ Pivot Table\n✅ Dashboarding\n✅ Data Modeling\n✅ Model Calculations\n✅ Model Performance\n✅ Documentation\n✅ Collaboration\n✅ Process Mining\n✅ Agile Thinking\n✅ Agile Methodologies\n✅ Design Thinking\n✅ Data Querying\n\n👉 Enroll Now: https://www.simplilearn.com/business-analyst-certification-training-course?utm_campaign=OjgRDW1C8qY&utm_medium=Description&utm_source=Youtube\n\n🔥🔥 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688",
+      "commentCount": 0,
+      "likeCount": 46,
+      "probeClient": "web_embedded"
+    },
+    "JRyo8zvmqaQ": {
+      "checkedAt": "2026-08-21T01:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Struggling to navigate the complex world of Artificial Intelligence?\n\nWhether you are trying to keep up with industry hype, build practical skills, or simply stop pretending you know what every tech term means, this video breaks down the core concepts of AI into simple, intuitive ideas you can actually use.\n\nIn this full guide, we demystify key AI terminology, modern machine learning principles, and generative tools like ChatGPT, Gemini, and Claude so you can speak confidently about technology and leverage it in your daily workflow.\n\n📌 What You Will Learn in This Video:\n  1️⃣ Core Concepts Demystified: Clear explanations of Machine Learning, Deep Learning, Large Language Models (LLMs), and Generative AI.\n  2️⃣ Practical AI Tools: How top platforms function and where each one excels.\n  3️⃣ Behind the Jargon: The real-world mechanisms powering modern neural networks and predictive text.\n  4️⃣ Everyday Applications: How to move from surface-level prompts to reliable, actionable outputs.\n\n⏱️ Timestamps / Chapters:\n0:00 - The Problem with AI Buzzwords\n0:56 - What is Machine Learning?\n1:54 - How Neural Networks Learn Patterns\n2:48 - What is a Large Language Model (LLM)?\n4:04 - Tokens and Context Windows Explained\n5:04 - How Vector Embeddings Help AI Understand Meaning\n6:26 - How to Write Better Prompts (Prompt Engineering)\n8:54 - What is Retrieval Augmented Generation (RAG)?\n10:27 - Fine-Tuning vs. RAG\n11:36 - Why AI Hallucinates (And How to Handle It)\n13:04 - Generative AI vs. Agentic AI (AI Agents)  \n\nIf this guide helped you make sense of AI, please Like, Subscribe, and leave a comment with the concept you'd like us to cover next!\n\n#AI #ArtificialIntelligence #TechExplained #MachineLearning #GenerativeAI #ChatGPT #Gemini #TechForBeginners",
+      "commentCount": 3,
+      "likeCount": 116,
+      "probeClient": "web_embedded"
+    },
+    "LjnMMLQKz5Q": {
+      "checkedAt": "2026-08-21T01:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 AI Course in Telugu 2026 – Learn Generative AI practically in Telugu with tools like ChatGPT, Google Gemini, Claude AI, NotebookLM, AI Image Generation, AI Video Generation, Prompt Engineering and more.\n\n🎓 Join the 2-Month Live AI Course by ODMT.AI and learn how to use the latest AI tools practically for your career, freelancing, content creation, digital marketing and business.\n\nThis course is designed for:\n\n✅ Students\n✅ Job Seekers\n✅ Working Professionals\n✅ Freelancers\n✅ Digital Marketers\n✅ Content Creators & YouTubers\n✅ Business Owners\n✅ Beginners who want to learn AI in Telugu\n\n🔥 What You Will Learn\n\n🤖 ChatGPT – Practical Usage & Prompting\n💎 Google Gemini & Gemini Flow\n🧠 Claude AI\n📚 NotebookLM\n✍️ Prompt Engineering\n🎨 AI Image Generation\n🎬 AI Video Generation\n🎵 AI Music & Audio Creation\n🌐 AI Website & Landing Page Creation\n📢 AI for Digital Marketing\n📱 AI for Social Media & YouTube\n⚡ AI Productivity Tools\n🔄 AI Automation Concepts\n💼 Practical AI use cases for jobs, freelancing & business\n\nThe training is focused on practical implementation, so you don't just learn what AI is — you learn how to actually use AI tools in real-world situations.\n\n🎓 Join Our Live AI Course\n\n2-Month Live AI Course – New Batch is Starting\n\n🌐 Website: https://www.odmt.ai\n📲 WhatsApp: 7842588808\n\nIf you are searching for an AI Course in Telugu, Generative AI Course in Telugu, Artificial Intelligence Course in Telugu, ChatGPT Course in Telugu, Gemini Course in Telugu or practical AI training in Telugu, this course is designed for you.\n\n👉 Start learning AI today and prepare yourself for an AI-powered future.\n\n👍 Like\n💬 Comment\n📤 Share\n🔔 Subscribe for more AI tutorials in Telugu\n\n#AICourseInTelugu #GenerativeAI #AITelugu #ChatGPTTelugu #GeminiTelugu #ODMTAI",
+      "commentCount": 1,
+      "likeCount": 22,
+      "probeClient": "web_embedded"
+    },
+    "OjgRDW1C8qY": {
+      "checkedAt": "2026-08-21T01:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥Micrososft Azure - Data Analyst Course - https://www.simplilearn.com/data-analyst-certification-course?utm_campaign=OjgRDW1C8qY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥IIT Kanpur - Professional Certificate Course in AI-Powered Data Analytics - https://www.simplilearn.com/iitk-professional-certificate-course-data-analytics?utm_campaign=OjgRDW1C8qY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥IITM Pravartak - Professional Certificate Program in AI-Powered Data Analytics - https://www.simplilearn.com/iitm-ai-data-analytics-program?utm_campaign=OjgRDW1C8qY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Microsoft Azure - Data Scientist - https://www.simplilearn.com/in/data-science-course?utm_campaign=OjgRDW1C8qY&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Applied Data Science with Python - https://www.simplilearn.com/big-data-and-analytics/python-for-data-science-training?utm_campaign=OjgRDW1C8qY&utm_medium=DescriptionFF&utm_source=Youtube\n\n\nIn this video, Data Analytics with AI Full Course, you’ll learn how artificial intelligence is transforming modern data analytics workflows. This complete 2026 tutorial covers data collection, cleaning, visualization, exploratory data analysis (EDA), AI-assisted analytics, predictive modeling, and reporting using industry-standard tools and techniques.\n\nYou’ll start with data analytics fundamentals, including what data analytics is, why it matters, and the different types of analytics used in business. Then you’ll dive into hands-on tutorials showing how to use AI tools like ChatGPT, Gemini, Microsoft Copilot, and Power BI’s AI features to automate data cleaning, write SQL queries, perform EDA, create visualizations, and generate narrative insights from dashboards.\n\nThe course also includes practical examples using Excel with AI, Power BI with AI, SQL for data analytics, and real-world projects such as COVID-19 dashboards, airline analytics, and space mission data analysis. By the end of this tutorial, you’ll have a solid understanding of AI-powered analytics workflows and the practical skills needed to analyze data more efficiently and effectively in 2026.\n\n\nRelated Videos:\n✅ 1. https://youtu.be/YwlqkdSdkMg\n✅ 2. https://youtu.be/YuaWT7986CU\n✅ 3. https://youtu.be/lAMyZs5D1fg\n✅ 4. https://youtu.be/jAAEsLTAnB0\n✅ 5. https://youtu.be/F8wKbCsY9IM\n\n✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More Such Videos By Simplilearn: https://www.youtube.com/playlist?list=PLEiEAq2VkUUKgEFXH1tBbHwq38oWYDScU\n\n#DataAnalyticsWithAIFullCourse2026 #DataAnalyticsWithAITutorial2026 #AIPoweredDataAnalyticsCourse2026 #GenerativeAIForDataAnalytics2026 #DataAnalystWithAIRoadmap2026 #ExcelPowerBISQLWithAI #ChatGPTGeminiCopilotForDataAnalytics #DataAnalyticsProjectsWithAI2026 #AIToolsForDataAnalysts2026 #SimplilearnDataAnalyticsWithAI2026 #DataAnalyticsWithGenerativeAIFullCourse\n\n➡️ About AI-Powered Business Analyst\n\nThe AI-Powered Business Analyst course helps you master planning, elicitation, stakeholder management, and solution evaluation. Gain hands-on experience with Excel, SQL, Power BI, GenAI, and build job-ready skills in Agile, product thinking, RPA, and more. Earn a certificate to boost your credibility.\n\nKey Features\n\n✅ Earn 35 PDs/CDUs with the BABOK® v3 aligned CBAP® Certification Live Training\n✅ Master 10+ GenAI Powered in-demand business analysis tools like Power BI, Excel, SQL, and more\n✅ Engage with 10+ industry projects and 40+ case-based activities using real-world tools and scenarios\n✅ Explore AI-Powered Business Analysis with Generative AI tools like ChatGPT, Copilot & more\n✅ Learn to identify automation opportunities, document processes, and collaborate with RPA teams\n✅ Earn official trophy and badges for ‘Microsoft Azure Data Fundamentals’ on the Microsoft Learn portal\n✅ Develop skills in Agile frameworks, backlog grooming, stakeholder mapping, design thinking, and BPMN\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n\nSkills Covered\n✅ Business Analysis\n✅ Data Elicitation\n✅ Data Analysis\n✅ Data Visualization\n✅ Data Cleaning\n✅ Data Preparation\n✅ Life Cycle Management\n✅ Strategy Analysis\n✅ Solution Evaluation\n✅ Excel Macros\n✅ Excel VBA\n✅ Pivot Table\n✅ Dashboarding\n✅ Data Modeling\n✅ Model Calculations\n✅ Model Performance\n✅ Documentation\n✅ Collaboration\n✅ Process Mining\n✅ Agile Thinking\n✅ Agile Methodologies\n✅ Design Thinking\n✅ Data Querying\n\n👉 Enroll Now: https://www.simplilearn.com/business-analyst-certification-training-course?utm_campaign=OjgRDW1C8qY&utm_medium=Description&utm_source=Youtube\n\n🔥🔥 Interested in Attending Live Classes? Call Us: IN - 18002127688 / US - +18445327688",
+      "commentCount": 3,
+      "likeCount": 121,
+      "probeClient": "web_embedded"
+    },
+    "fA_61BcrISU": {
+      "checkedAt": "2026-08-21T01:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "#FreeAIVideo #Seedance25 #AIVideoGenerator\n#FreeAIVideo #AIVideoGenerator #GoogleOmni #VideoProc #mrvoid \n\nRIP Low Quality: Upgrade your AI Videos to 4K and AI images to 8K/10K for FREE! https://www.videoproc.com/event/giveaway-offer.htm?ttref=2608-vpc-aigc-ytb-mrvd-inte-ll\n\n💥 Tired of creating ten different burner accounts just to generate a few seconds of AI video? The gatekeepers want you stuck behind massive paywalls, but today I am revealing my secret 3-step production workflow to generate completely unlimited, high-quality AI videos for absolutely free. From rapid concept testing to the final Hollywood 4K finish using elite models like Seedance 2.5 and Google Omni, this is the only zero-cost workflow you will ever need. Stop generating slop and start building your empire.\n\n🌐 ACCESS THE ELITE TOOLS HERE\nJoin the Mr Void Discord for Master Prompts:   / discord\n\nAccess Flow AI (Omni Engine): https://labs.google/fx/tools/flow/\nAccess Seedance 2.5: https://dola.com/\nAccess VideoProc (Free License Giveaway): https://www.videoproc.com/event/giveaway-offer.htm?ttref=2608-vpc-aigc-ytb-mrvd-inte-ll\nAccess Vibes AI: https://vibes.ai/\n\n⏱️ CHAPTERS\n0:00 The Free AI Video Illusion\n1:15 Gemini (The Master Pipeline)\n3:05 Flow & Seedance (The High-Motion Generators)\n4:45 VideoProc (The 4K Hollywood Finish)\n6:15 Vibes AI (The Low-Motion Driver)\n7:40 The Master Workflow Summary\n\n⚖️ DISCLOSURE AND SAFETY\nThis video is strictly for educational, informational, and entertainment purposes.\n\nPlatform Terms and Official Claims: The technical workflows demonstrated reflect platform functionality and backend infrastructure at the absolute time of recording. The terms free, zero-cost, and unlimited strictly refer to specific legal methods using official daily allowances and free-forever tiers currently provided by the developers. Features, pricing, access limits, and Terms of Service of these platforms can legally change at any time. Viewers are strictly responsible for reading, fully understanding, and properly complying with the official terms of any tool mentioned.\n\nCopyright and Ethical Use: When responsibly using artificial intelligence tools to generate visuals and audio, ensure you fully own the rights or have explicit legal permission to use any input media or reference images. Do not use generative tools to create misleading content, impersonate individuals, commit fraud, or violate local laws. You legally assume full creative responsibility for any content you digitally generate and publish using the methods securely shown in this video.\n\nStop struggling with limited free AI video generator platforms. Learn a specific workflow to create cinematic AI videos without juggling multiple accounts.\n\nMany users face frustration when trying to create content with standard free AI video tools. You often hit usage caps, watermarks, or feature restrictions immediately. This video walks you through a practical workflow that bypasses these common bottlenecks, allowing for a more consistent content production process. It is designed for creators who need reliable, scalable solutions for their video projects.\n\nBy following this AI video workflow, you can maintain better control over your output quality and frequency. We look at how to manage different AI video generation options efficiently to maximize your results. This approach simplifies your daily setup, making free AI video creation much more sustainable for long-term projects.\n\nSubscribe for weekly AI video tutorial breakdowns, and comment below if you want a deeper look at specific video creation tools.",
+      "commentCount": 1,
+      "likeCount": 7,
+      "probeClient": "web_embedded"
+    },
+    "Vlea8j6PGI0": {
+      "checkedAt": "2026-08-21T01:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What is Generative AI and how does it actually work? 🤔 In this video, we explain Generative AI in simple terms, how tools like ChatGPT create text, images, code and more, and why GenAI is transforming the future of technology and jobs.\nWhat exactly is a Vector Database, and why is it so important in Generative AI? In this video, we explain vector databases, embeddings, semantic search, similarity search, and how they power RAG applications. You’ll also understand how vectors connect your own data with LLMs and explore popular technologies such as Pinecone, ChromaDB, Qdrant, Weaviate, and pgvector.\n\n💼 Contact Us for More Details\n📧 Email: info@learnomate.org\n\n📱 WhatsApp / Mobile: +91 9325408926 | +91 9225093995\n\n📋 Register Now: https://forms.gle/mJso43VYuaYxaBAT8\n\n📚 Oracle DBA Syllabus\n🔗 Download PDF\n\n🌐 Join Our Channels\n📢 LT WhatsApp Channel: https://whatsapp.com/channel/0029VaB5IiNBKfhvnSCwQi34\n\nJoin Free Training Community\n \nhttps://chat.whatsapp.com/BUJOTa7tNTT2sUU7gYeTB6?mode=wwt\n\nStay updated with training programs, certification updates, and placement opportunities!\n\n🌍 Connect with Learnomate Technologies\n🔗 LinkedIn (Learnomate Technologies): https://www.linkedin.com/company/learnomatetechnologies/\n\n👨‍💼 LinkedIn (Ankush Thavali): https://www.linkedin.com/in/ankushthavali/\n\n📸 Instagram (Learnomate): https://www.instagram.com/learnomate/\n\n📸 Instagram (Ankush Thavali): https://www.instagram.com/ankushthavali/\n\n🐦 Twitter (Learnomate): https://x.com/Learnomate\n\n🐦 Twitter (Ankush Thavali): https://x.com/ankushthavali\n\n📘 Facebook Page: https://www.facebook.com/learnomate/\n\n💬 Threads: https://www.threads.net/@learnomate\n\n🧠 Quora: https://www.quora.com/profile/Learnomate-Technologies-1\n\n👻 Snapchat: https://snapchat.com/t/tPAhFhCx\n\n🎯 About Learnomate Technologies\nEmpowering students and professionals with industry-ready IT skills through expert-led programs like Oracle DBA, Cloud, and Data Technologies.\nJoin us and accelerate your career with Learnomate — Learn & Earn! 🚀\n---------------------------------------------------------------------------------------------------\n(Ignore Hashtags)\n#learnomatetechnologies #Learnomate #LearnAndEarn #OracleDBA #ITTraining",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "6oPdrROfdQ0": {
+      "checkedAt": "2026-08-21T01:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I Tested the Latest Sarvam AI vs ChatGPT 5.6 — Indian AI WON!\n\nAbsolutely, Prem. 🔥 Since this video is a Sarvam AI vs ChatGPT 5.6 head-to-head with 7 different tests, the description should do three things: explain the experiment, create curiosity, and naturally load the important SEO terms without looking like keyword stuffing.\n\nIn this video, I put Sarvam AI’s latest version head-to-head against ChatGPT 5.6 in a series of challenging tests to find out which AI performs better.\n\nAnd the final result was genuinely surprising! 😳\n\nInstead of simply comparing features, I tested both AI models across 7 different categories covering speed, accuracy, reasoning, coding, real-time information, humor, and Indian knowledge.\n\n🧪 THE 7 TESTS:\n\n⚡ 1. Speed Test\nWhich AI can solve the problem faster?\n\n🎯 2. Accuracy Test\nWhich AI gives the most accurate answers?\n\n🧠 3. Reasoning Test\nCan Sarvam AI compete with ChatGPT when the questions require proper reasoning and logic?\n\n💻 4. Coding Test\nWhich AI can generate better working code and actually solve the coding challenge?\n\n🌐 5. Real-Time Information Test\nHow well can both AI models handle current information and real-world questions?\n\n😂 6. Humor Test\nWhich AI understands humor better and gives the more entertaining response?\n\n🇮🇳 7. In-Depth Indian Knowledge Test\nThis one is especially interesting — I tested both AIs on detailed Indian knowledge to see which one understands India better.\n\nSarvam AI came out as the overall winner in this comparison.\n\nBut the interesting part isn’t just the final score. In some tests, ChatGPT performed extremely well, while in others, Sarvam AI surprised me completely.\n\nSo watch the entire video to see which AI won each individual test and exactly how both models performed.\n\n⸻\n\nTIME STAMP:\n00:00 Introduction\n00:53 Sarvam AI vs ChatGPT Speed Test\n02:00 Sarvam AI vs ChatGPT Accuracy & Reasoning Test\n03:00 Sarvam AI vs ChatGPT Reasoning Test\n04:14 Sarvam AI vs ChatGPT Coding Test\n08:08 Sarvam AI vs ChatGPT Real-Time Information Test\n10:42 Sarvam AI vs ChatGPT Humor Test\n13:25 Sarvam AI vs ChatGPT In-Depth Indian Knowledge Test\n15:14 Sarvam AI vs ChatGPT Final Results — Who Wins?\n16:03 My Verdict & Conclusion\n\n\n🤖 Sarvam AI vs ChatGPT 5.6\n\nSarvam AI is an Indian AI platform, and this comparison explores how its latest version performs against one of the most popular AI models, ChatGPT 5.6.\n\nThis isn’t just about which AI is more popular. I wanted to actually test both AIs with the same challenges and compare their results.\n\nIf you’re interested in AI, artificial intelligence, ChatGPT, Indian AI, Sarvam AI, AI comparisons, AI tools, AI models, coding AI, reasoning AI, and the future of AI, you’ll definitely want to watch this one.\n\n🔥 Which AI do you think should have won? Let me know in the comments!\n\nAnd if you enjoyed the comparison, LIKE 👍, SUBSCRIBE ❤️, and turn on the notification bell 🔔 for more AI experiments, comparisons, and technology videos.\n\n⸻\n\n🔍 SEO KEYWORDS\n\nSarvam AI, Sarvam AI latest version, Sarvam AI vs ChatGPT, Sarvam AI vs ChatGPT 5.6, ChatGPT 5.6, ChatGPT latest version, Indian AI, India’s AI, Indian made AI, AI made in India, Sarvam AI test, Sarvam AI comparison, ChatGPT comparison, ChatGPT vs Sarvam AI, best AI in India, best Indian AI, Indian artificial intelligence, AI comparison 2026, AI models comparison, latest AI models, AI test, AI battle, AI showdown, artificial intelligence comparison, ChatGPT alternative, ChatGPT alternatives, Indian ChatGPT alternative, AI tools, best AI tools, AI coding test, AI reasoning test, AI accuracy test, AI speed test, AI humor test, AI knowledge test, real time AI test, Indian knowledge AI test, AI coding comparison, AI reasoning comparison, AI benchmark, AI benchmark test, Sarvam AI review, Sarvam AI performance, ChatGPT performance, Sarvam AI latest, ChatGPT 5.6 comparison, AI technology, latest AI technology, future of AI, generative AI, artificial intelligence 2026\n\n⸻\n\n🏷️ HASHTAGS\n\n#SarvamAI #ChatGPT #ChatGPT56 #IndianAI #IndiaAI #ArtificialIntelligence #AI #AIComparison #AIvsAI #SarvamAIvsChatGPT #ChatGPTvsSarvamAI #IndianTechnology #MadeInIndia #AIIndia #AITools #GenerativeAI #AIModels #AIShowdown #AITest #AIBattle #AIComparison2026 #LatestAI #FutureOfAI #Technology #Tech #TechNews #ArtificialIntelligenceIndia #ChatGPTAlternative #AIExperiment #AIReview #IndianTech #TheLastTechie",
+      "commentCount": 56,
+      "likeCount": 104,
       "probeClient": "web_embedded"
     }
   }
