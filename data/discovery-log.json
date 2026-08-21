@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T06:53:15Z",
+  "updatedAt": "2026-08-21T07:53:16Z",
   "items": [
+    {
+      "id": "_ZOM0DXSgtU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Joseph Butera",
+      "publishedAt": "2026-08-21T04:53:16Z",
+      "firstSeenAt": "2026-08-21T07:53:16Z"
+    },
+    {
+      "id": "Hpw4fAHlHDw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stephen G. Pope",
+      "publishedAt": "2026-08-20T14:53:16Z",
+      "firstSeenAt": "2026-08-21T07:53:16Z"
+    },
+    {
+      "id": "6KNvmPo70mg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Researcher & Robotics Developer Frank Fu",
+      "publishedAt": "2026-08-20T14:53:16Z",
+      "firstSeenAt": "2026-08-21T07:53:16Z"
+    },
     {
       "id": "rz6hHv-nXKA",
       "type": "long",
@@ -18501,24 +18525,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T06:53:21Z",
-      "new": 6,
-      "long": 3,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 32,
-      "secondaryQuery": "AI agents"
-    },
-    {
-      "runAt": "2026-08-07T07:53:11Z",
-      "new": 2,
-      "long": 1,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
       "runAt": "2026-08-07T08:53:17Z",
       "new": 1,
       "long": 0,
@@ -20524,6 +20530,15 @@
       "channelsChecked": 33,
       "warnings": 31,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-21T07:53:16Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }

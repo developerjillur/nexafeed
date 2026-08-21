@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T06:53:15Z",
+  "updatedAt": "2026-08-21T07:53:16Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9263,10 +9263,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-21T06:53:15Z",
+      "checkedAt": "2026-08-21T07:53:16Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9281,10 +9281,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-21T06:53:15Z",
+      "checkedAt": "2026-08-21T07:53:16Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -10662,6 +10662,51 @@
       "description": "Railtown Is Building My Custom AI Agent - Development Starts Now! Quick update on the custom AI agent I’m building with Railtown. \nSprint 1, Phase 0 (data ingestion) development is about to begin. In this video I share where things stand, what impressed me about the team, and the next steps in the development process. I’ll continue documenting the full build as it unfolds. \nBe sure to Subscribe so you don’t miss future updates!\n\n #TonyDenaro #Railtown #aiagents \n\n1️⃣🦍Become a Channel Member! https://www.youtube.com/c/TonyDenaro/Join\n2️⃣🧡 DISCORD! Talk, Share ideas and learn in an environment of traders who focus on filings, analysis and sharing proper fact based due diligence. https://whop.com/tony-denaro\n\n🦎MarketChameleon Investment Analysis Tools: https://marketchameleon.com/?pap_aid=TonyDenaro\n🐤TWITTER: https://twitter.com/Tony_Denaro\n💹 STOCKTWITS: https://stocktwits.com/TonyDenaro\n📶 TWITCH backup livestream (add it now!):  https://www.twitch.tv/tonydenaro\n📰 REDDIT: https://www.reddit.com/r/TonyDenaro/\n💥Links for Content Creators:💥\n1) Best free software for Collab videos - Restream: https://restream.io/join/TonyDenaro\n2) Diversify where your content is published, sign up for Rumble: https://rumble.com/register/TonyDenaro/\n💥Links for Content Creators💥\n\nDISCLAIMER: Content, strategies and opinions on this channel are for entertainment purposes only. These are Tony's opinions, not specific investment or legal advice for you.   Always do your own due diligence, read company filings and financial statements and seek a duly licensed professional for investment, tax or legal advice. Past performance is not a predictor of future results. This is not personalized but rather general educational and informational material.\n\nMusic provided by http://spoti.fi/NCS",
       "commentCount": 1,
       "likeCount": 30,
+      "probeClient": "web_embedded"
+    },
+    "h8e334CiG1M": {
+      "checkedAt": "2026-08-21T07:53:16Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "qXTftsSZIiE": {
+      "checkedAt": "2026-08-21T07:53:16Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "w1H338vUXbk": {
+      "checkedAt": "2026-08-21T07:53:16Z",
+      "embedAllowed": false,
+      "availability": "unavailable",
+      "failureReason": "unavailable"
+    },
+    "_ZOM0DXSgtU": {
+      "checkedAt": "2026-08-21T07:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "This documents one of many instances in which agentic coding tools cheat when incorporating active inference design patterns.  An instrument used to track accuracy was being leveraged as a learning parameter in the brain.  This is against the principles of senses/action from within the Markov blanket.\n\nRepo:\nhttps://github.com/xaqmusic/xaq-ai\n\nRelevant docs:\nhttps://github.com/xaqmusic/xaq-ai/blob/master/docs/glossary.md\n\nSponsored by:\nhttps://bongiovimt.com/",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "Hpw4fAHlHDw": {
+      "checkedAt": "2026-08-21T07:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "▸▸ Build AI products → https://www.skool.com/ai-architects\n \n-----\n \n▸▸ Watch me on Twitch M-Th (10am Pacific) → https://www.twitch.tv/stephengpope\n\n▸▸ FREE AI Automation / Coding Community → https://www.skool.com/content-academy\n\n-----\n\nLearn how the DeepSeek Harness works and why it is attracting so much attention in the coding agent space right now. We break down the technical details simply so you can apply this to your own projects.\n\nThis video explores the DeepSeek Harness, a new tool that has quickly gained significant traction with over 12,000 commits. If you are currently using tools like Cursor, Cloud Code, or Codex, this breakdown is designed to help you understand how these coding agents function under the hood. We approach this advanced topic from a practical perspective, making it accessible for developers who want to level up their workflow.\n\nBy the end of this session, you will have a clear understanding of the DeepSeek Harness architecture and how it compares to other coding agents you might already use.\n\n0:00 Why the Deep Seek Harness is Trending\n1:00 Deconstructing the Agent Loop\n4:56 Code Versus Configuration: The Key Difference\n9:31 Building Tools on the Fly\n12:56 Live UI Modifications via Configuration",
+      "commentCount": 11,
+      "likeCount": 275,
+      "probeClient": "web_embedded"
+    },
+    "6KNvmPo70mg": {
+      "checkedAt": "2026-08-21T07:53:16Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Token Plan 12% Off：https://platform.minimax.io/subscribe/coding-plan?code=BTMAFEnyZz&source=link\nTry MiniMax Code Now：https://agent.minimax.io/\nDownload MiniMax Code Desktop: https://agent.minimax.io/download\nIn this video, I will show beginners how to use AI for robot development. I use MiniMax Code to analyze my open‑source Navibot D1 project and deploy its ROS 2 software onto a real Jetson Nano‑powered robot.\n\nMiniMax Code reads project documentation, connects remotely to the robot over SSH, checks system environment, fetches the latest source code, builds the ROS 2 workspace and launches the robot — no need to manually enter every terminal command.\n\nWhat you will see in this video:\n• Load and analyze an open‑source GitHub repository\n• Understand ROS 2 & Jetson Nano robot projects for beginners\n• SSH remote connection from Windows to a physical robot\n• Download, build and deploy the latest robot code\n• Launch and test Navibot D1\n• Add third‑party models via OpenAI‑compatible API\n• Remotely monitor coding sessions\n• Build an AI‑powered mobile robot control app\n\n⏱ Timestamps\n00:14 Introduction (Overview of Minimax Code)\n01:41 Download and Install Minimax Code (PC version)\n04:43 Remote SSH Connection to Robot (Deployment Prep)\n06:16 Deployment Complete and Running Successfully\n08:47 Mac OS Version Available (ARM / x64)\n11:43 Remote Control PC with Mobile for Development\n13:07 Summary: Simplify Robot Development with Conversational AI\n\nThis practical demo proves AI coding tools are more than code generators — they can deploy real software onto physical robotics hardware.\n\nLinks：\nMiniMax Code:\nNavBot D1 repository:\nNavBot D1 BOM and build guide:\n\nIf you’re into AI coding, beginner‑friendly robotics, ROS 2, Jetson Nano and open‑source robot builds, subscribe for more hands‑on tutorials!\n\n#MiniMaxCode #Robotics #ROS2 #JetsonNano #AICoding #Navibot #OpenSource #AIrobotics",
+      "commentCount": 3,
+      "likeCount": 18,
       "probeClient": "web_embedded"
     }
   }
