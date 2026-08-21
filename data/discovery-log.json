@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T03:53:12Z",
+  "updatedAt": "2026-08-21T04:53:13Z",
   "items": [
+    {
+      "id": "brd05asqvA0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-21T04:00:23Z",
+      "firstSeenAt": "2026-08-21T04:53:13Z"
+    },
+    {
+      "id": "zr1kOeilDKI",
+      "type": "short",
+      "source": "secondary",
+      "channel": "FOX 9 Minneapolis-St. Paul",
+      "publishedAt": "2026-08-20T23:53:13Z",
+      "firstSeenAt": "2026-08-21T04:53:13Z"
+    },
+    {
+      "id": "Vm_T6uydFes",
+      "type": "short",
+      "source": "secondary",
+      "channel": "CBS Chicago",
+      "publishedAt": "2026-08-20T22:53:13Z",
+      "firstSeenAt": "2026-08-21T04:53:13Z"
+    },
+    {
+      "id": "Dc9O0uSVr2w",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Reality Capture Network",
+      "publishedAt": "2026-08-20T20:53:13Z",
+      "firstSeenAt": "2026-08-21T04:53:13Z"
+    },
+    {
+      "id": "6_rhPKepjeA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "StudyIQ IAS",
+      "publishedAt": "2026-08-20T18:53:13Z",
+      "firstSeenAt": "2026-08-21T04:53:13Z"
+    },
+    {
+      "id": "9lJvQrhfNqM",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Durga Software Solutions",
+      "publishedAt": "2026-08-20T17:53:13Z",
+      "firstSeenAt": "2026-08-21T04:53:13Z"
+    },
+    {
+      "id": "bCfzOVVWknQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": "CBS News",
+      "publishedAt": "2026-08-20T15:53:13Z",
+      "firstSeenAt": "2026-08-21T04:53:13Z"
+    },
+    {
+      "id": "v99DkPP6LVY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Democracy Now!",
+      "publishedAt": "2026-08-20T14:53:13Z",
+      "firstSeenAt": "2026-08-21T04:53:13Z"
+    },
     {
       "id": "-0zySuRSRUc",
       "type": "long",
@@ -18365,15 +18429,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T03:53:18Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 18,
-      "secondaryQuery": "agency automation"
-    },
-    {
       "runAt": "2026-08-07T04:53:19Z",
       "new": 3,
       "long": 3,
@@ -20388,6 +20443,15 @@
       "channelsChecked": 33,
       "warnings": 20,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-21T04:53:13Z",
+      "new": 8,
+      "long": 2,
+      "shorts": 6,
+      "channelsChecked": 33,
+      "warnings": 29,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
