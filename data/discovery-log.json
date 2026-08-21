@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T11:53:20Z",
+  "updatedAt": "2026-08-21T12:53:21Z",
   "items": [
+    {
+      "id": "yCACmFTiCto",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-21T12:20:52Z",
+      "firstSeenAt": "2026-08-21T12:53:21Z"
+    },
+    {
+      "id": "981gZeOrfxw",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-21T12:11:01Z",
+      "firstSeenAt": "2026-08-21T12:53:21Z"
+    },
+    {
+      "id": "IHPcOvVU4PM",
+      "type": "long",
+      "source": "primary",
+      "channel": "Brendan Automation",
+      "publishedAt": "2026-08-21T12:10:08Z",
+      "firstSeenAt": "2026-08-21T12:53:21Z"
+    },
+    {
+      "id": "rUFQntuvPMU",
+      "type": "short",
+      "source": "primary",
+      "channel": "VDM Social",
+      "publishedAt": "2026-08-21T12:04:30Z",
+      "firstSeenAt": "2026-08-21T12:53:21Z"
+    },
+    {
+      "id": "Qa7z9oXijHk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sleepy Owl",
+      "publishedAt": "2026-08-21T07:53:21Z",
+      "firstSeenAt": "2026-08-21T12:53:21Z"
+    },
+    {
+      "id": "lXrMSYx2tS4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GracePath-Learnings",
+      "publishedAt": "2026-08-21T06:53:21Z",
+      "firstSeenAt": "2026-08-21T12:53:21Z"
+    },
+    {
+      "id": "WhfCIhItgw8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ramesh Fadatare - AI, Generative AI & AI Tools",
+      "publishedAt": "2026-08-21T04:53:21Z",
+      "firstSeenAt": "2026-08-21T12:53:21Z"
+    },
     {
       "id": "URx7MGBJOUM",
       "type": "long",
@@ -18645,15 +18701,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T11:53:25Z",
-      "new": 5,
-      "long": 4,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
       "runAt": "2026-08-07T12:53:26Z",
       "new": 2,
       "long": 2,
@@ -20668,6 +20715,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-21T12:53:21Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
