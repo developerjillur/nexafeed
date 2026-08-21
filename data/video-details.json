@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T07:53:16Z",
+  "updatedAt": "2026-08-21T08:53:07Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9263,7 +9263,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-21T07:53:16Z",
+      "checkedAt": "2026-08-21T08:53:07Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9281,10 +9281,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-21T07:53:16Z",
+      "checkedAt": "2026-08-21T08:53:07Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -10665,16 +10665,16 @@
       "probeClient": "web_embedded"
     },
     "h8e334CiG1M": {
-      "checkedAt": "2026-08-21T07:53:16Z",
+      "checkedAt": "2026-08-21T08:53:07Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "qXTftsSZIiE": {
-      "checkedAt": "2026-08-21T07:53:16Z",
+      "checkedAt": "2026-08-21T08:53:07Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "w1H338vUXbk": {
       "checkedAt": "2026-08-21T07:53:16Z",
@@ -10707,6 +10707,51 @@
       "description": "Token Plan 12% Off：https://platform.minimax.io/subscribe/coding-plan?code=BTMAFEnyZz&source=link\nTry MiniMax Code Now：https://agent.minimax.io/\nDownload MiniMax Code Desktop: https://agent.minimax.io/download\nIn this video, I will show beginners how to use AI for robot development. I use MiniMax Code to analyze my open‑source Navibot D1 project and deploy its ROS 2 software onto a real Jetson Nano‑powered robot.\n\nMiniMax Code reads project documentation, connects remotely to the robot over SSH, checks system environment, fetches the latest source code, builds the ROS 2 workspace and launches the robot — no need to manually enter every terminal command.\n\nWhat you will see in this video:\n• Load and analyze an open‑source GitHub repository\n• Understand ROS 2 & Jetson Nano robot projects for beginners\n• SSH remote connection from Windows to a physical robot\n• Download, build and deploy the latest robot code\n• Launch and test Navibot D1\n• Add third‑party models via OpenAI‑compatible API\n• Remotely monitor coding sessions\n• Build an AI‑powered mobile robot control app\n\n⏱ Timestamps\n00:14 Introduction (Overview of Minimax Code)\n01:41 Download and Install Minimax Code (PC version)\n04:43 Remote SSH Connection to Robot (Deployment Prep)\n06:16 Deployment Complete and Running Successfully\n08:47 Mac OS Version Available (ARM / x64)\n11:43 Remote Control PC with Mobile for Development\n13:07 Summary: Simplify Robot Development with Conversational AI\n\nThis practical demo proves AI coding tools are more than code generators — they can deploy real software onto physical robotics hardware.\n\nLinks：\nMiniMax Code:\nNavBot D1 repository:\nNavBot D1 BOM and build guide:\n\nIf you’re into AI coding, beginner‑friendly robotics, ROS 2, Jetson Nano and open‑source robot builds, subscribe for more hands‑on tutorials!\n\n#MiniMaxCode #Robotics #ROS2 #JetsonNano #AICoding #Navibot #OpenSource #AIrobotics",
       "commentCount": 3,
       "likeCount": 18,
+      "probeClient": "web_embedded"
+    },
+    "WSWA56bs4Bc": {
+      "checkedAt": "2026-08-21T08:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Manual handoffs, disconnected systems, and brittle automation can slow down enterprise operations and create unnecessary risk. Modern organizations need more than basic scripts—they need intelligent automation solutions that connect systems, automate complex workflows, and maintain security, governance, and auditability at scale.\n\nIn this video, discover how MindRind helps enterprises build secure, scalable AI intelligent automation across CRM, ERP, ITSM, knowledge systems, and APIs—turning fragmented processes into governed, high-performance workflows.\n\nIn this video, you'll learn:\n👉 Why traditional automation often breaks as systems and workflows change\n👉 How intelligent automation connects CRM, ERP, ITSM, APIs, and enterprise data\n👉 How governed AI workflows reduce manual handoffs and operational bottlenecks\n👉 How policy-driven automation helps protect sensitive business data\n👉 How continuous audit trails improve compliance and accountability\n👉 The 4-step journey from discovery and architecture to scale and optimization\n👉 How AI copilots and automated approvals improve enterprise efficiency\n👉 How to get a personalized Intelligent Automation Roadmap\n👉 How to schedule a strategy call with MindRind’s automation specialists\n\nWHAT OUR INTELLIGENT AUTOMATION SOLUTIONS DELIVER:\n• AI-powered enterprise workflow automation\n• Secure CRM, ERP, ITSM, and API integrations\n• Automated approvals, routing, and system updates\n• AI agents and enterprise copilots\n• Policy-driven governance and access controls\n• Continuous audit trails for enterprise workflows\n• Integration with existing business tools and infrastructure\n• Scalable automation for complex operational processes\n• Compliance-ready architecture for SOC 2, HIPAA, and GDPR environments\n• Continuous optimization for measurable long-term ROI\n\nOUR 4-STEP DELIVERY PROCESS:\n• Discovery & Value Mapping\n• Architecture & Pilot\n• Integrate & Scale\n• Operate & Optimize\n\nWHY MINDRIND:\nMindRind is an experienced intelligent automation company helping enterprises modernize operations with secure, production-grade AI workflows. As an intelligent automation agency and artificial intelligence automation agency, we combine enterprise AI, system integrations, and governance frameworks to deliver automation that is reliable, measurable, and built for scale.\n\nOur intelligent automation consulting services help organizations identify high-value opportunities, design the right architecture, and implement AI-powered workflows that improve efficiency while fitting securely into their existing technology stack.\n\nReady to scale enterprise automation?\n\nExplore our Intelligent Process Automation services and get your personalized implementation roadmap:\nhttps://mindrind.net/intelligent-process-automation/\n\nUse the consultation form on the page to share your automation goals, or schedule a strategy call with our specialists to identify the best opportunities for intelligent automation across your enterprise.\n\nCONNECT WITH US:\nWebsite: https://mindrind.net/\nLinkedIn: https://www.linkedin.com/company/mindrind/\n\n#IntelligentAutomation #ArtificialIntelligenceAutomation #AIIntelligentAutomation #EnterpriseAutomation #IntelligentAutomationSolutions #IntelligentAutomationCompany #AIAutomation #EnterpriseAI #WorkflowAutomation #AIAgents #MindRind",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "tiIMGLxK5IY": {
+      "checkedAt": "2026-08-21T08:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Click2Client - 7 Day Free Trial:\nhttps://www.skool.com/click2client/about?utm_source=youtube&utm_content=tiIMGLxK5IY\n____________________________________________\nWant to work with me 1-on-1?\nhttps://info.christianjamal.com/book-call?utm_source=yt&video=tiIMGLxK5IY\n____________________________________________\nFollow me on IG:\nhttps://openapp.llc/r6vyyyf?video=tiIMGLxK5IY\n____________________________________________\n\nAutomate your entire lead system with Zapier, step by step, and every lead gets handled the second it comes in\n\nThe difference between a business that runs itself and one that runs into the ground isn't the team, it's speed\n\nA lead comes in and nobody has to look at it\n\nIt gets added, tagged, sent to the right closer and followed up with all on its own, before you even pick up the phone\n\nThink about Zapier like the glue\n\nYou have your ads, your CRM, your funnels\n\nThese are all separate assets, and this is the bridge that moves a lead from one into the next\n\nAt my marketing agency we spent close to $1,500 to $2,000 a month on Zapier alone because we automate a lot of tasks for a lot of different clients\n\nIt can get up to $6,000 a month, where that's literally the cost of another employee\n\nGoHighLevel hands you a lot of those same tools for free\n\nSo the only time I recommend Zapier as the glue is when your assets are completely disconnected\n\nA Ninja form on a WordPress site, or a CRM like HubSpot or Salesforce your leads have no way into\n\nThe whole Zapier automation comes down to this\nPick the right trigger, decide what you want to do with those leads, then decide where you want to put them at the end\n\nEvery lead you get ends up exactly where it should be, without you touching a single thing\n\nCHAPTERS\n00:00 How To Automate Your Entire Lead System With Zapier\n01:03 What Zapier Is And What It Is Not\n01:45 Why Zapier Pricing Gets Expensive Fast\n02:17 When You Actually Need Zapier vs Go High Level\n04:26 Zapier Pricing Plans And Task Limits\n05:49 Zapier Folders, Zaps And What To Ignore\n06:20 How To Create Your First Zap\n07:19 Zapier Triggers And Actions Explained\n08:52 Instant vs Polling Zapier Triggers\n09:36 How Zapier Webhooks Work\n10:40 Zapier Triggers For Facebook Lead Ads\n11:25 Zapier Paths, Formatter And Filters\n11:49 How To Split A Full Name With Zapier Formatter\n13:54 Zapier Paths For 1099 And W2 Leads\n15:33 Zapier Formatter For Phone Numbers\n16:15 Send Your Leads Into GoHighLevel\n18:38 Tag And Route High Value Leads In GoHighLevel\n19:47 Connect Facebook Lead Forms In GoHighLevel\n20:26 How To Send Leads To A Google Sheet\n21:45 Zapier Recap And What's Coming Next\n22:45 How To Set Up Zap Error Alerts\n23:49 Free Zap Error Alerts With SMS By Zapier\n25:42 Why A Zap Error Kills Your Leads\n26:30 The Bonus Modules And What's Next\n27:00 Your Whole Lead System Connected End To End",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "MmWpOeG5GW4": {
+      "checkedAt": "2026-08-21T08:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Want to start a lead generation agency in 2026? In this video, I'll show you a practical 5-step framework for building a B2B lead generation business from scratch - including how to choose a niche, create your offer, find clients, run cold email and LinkedIn outreach, and build a repeatable client acquisition system.\n\nThe best part? You can start a lead generation agency with relatively low startup costs and use AI and automation to handle much of the repetitive work without building a large team.\n\nYou'll also see how to run your lead generation workflow from one platform with Snov.io - from finding and verifying B2B leads to setting up email infrastructure, warming up mailboxes, launching multichannel campaigns, and monitoring email deliverability.\n\nIn this video, you'll learn:\n\n-How to start a lead generation agency in 2026\n- Why start a lead generation agency?\n- Step 1: Choose a profitable niche\n- Step 2: Build your lead generation offer\n- Step 3: Set up your lead generation system with Snov.io\n- Step 4: Get your first lead generation client\n-  Step 5: Deliver results and build case studies\n-  How to scale a lead generation agency\n- How 3 clients can generate $7,500 MRR\n\n Want to learn more about multichannel outreach?\n\nCheck out the free **Snov.io Academy** courses to learn more about B2B lead generation, cold email, LinkedIn outreach and multichannel sales outreach.\n\n👉 Sign up for Snov.io: https://snov.io/\n\n👉 Explore Snov.io Academy: https://snov.io/snovio-academy\n\n\n#LeadGeneration #LeadGenerationAgency #ColdEmail",
+      "commentCount": 0,
+      "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "6nPWASIMtnA": {
+      "checkedAt": "2026-08-21T08:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Stop struggling with generic AI prompts and meet your new specialized workforce! 🎭 The Agency is a massive directory of over 230 meticulously crafted AI agent personalities designed to handle everything from frontend development to niche Reddit community building. 🚀 Whether you are an engineer, a designer, or a growth hacker, you can now access a complete AI agency that is battle-tested and production-ready. 🛠️ These agents aren't just generic templates; they come with unique voices, proven processes, and measurable outcomes. You can install them with a single click using the native desktop app or integrate them into your favorite tools like Claude Code, Cursor, GitHub Copilot, and Windsurf. 🌟 From Whimsy Injectors who add delight to your UI to Reality Checkers who ensure your code is production-ready, The Agency helps you ship faster and better. 💎 Don't just settle for basic AI when you can hire a dream team of experts who never sleep and always deliver! 🔥\nGitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n#AIAgents #TheAgency #AIWorkflows #GitHub #ArtificialIntelligence #CodingTools #ClaudeCode #CursorAI #SoftwareEngineering #Automation",
+      "commentCount": 1,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "HGgeb0IVFQA": {
+      "checkedAt": "2026-08-21T08:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Done-For-You Lead Gen: https://cymate.io\nFree outbound course: https://thecoldacademy.com/\n\n--------------------------------------------------\n\nEveryone in the cold email space obsesses over sending. Open rates, reply rates, deliverability, copy. And those things matter, right? But there's a moment that most people are completely unprepared for, and it's the moment that actually determines whether the campaign makes money.\n\nSomeone replies interested.\n\nAnd what happens next decides everything. Not your infrastructure. Not your copy. Just: how fast do you respond, and what do you say.\n\nIn this video I want to show you how we handle that at Cymate using Claude, what the AI actually does well here, where it still needs a human, and what the numbers look like when you get this part right. \n\nLet's go.\n\nThis video also covers: cold email agency 2026 cold email agency business model cold email agency explained cold email agency results cold email agency strategy cold email agency success cold email agency founder cold email agency tutorial cold email agency guide cold email agency tips cold email agency scaling cold email agency revenue cold email agency income cold email agency clients cold email agency case study cold email agency transformation cold email agency process cold email agency framework cold email agency blueprint cold email agency automation cold email agency optimization cold email agency performance cold email agency metrics cold email agency ROI cold email agency profits cold email agency income streams cold email agency business development cold email agency client acquisition cold email agency sales cold email agency marketing cold email agency systems cold email agency tools cold email agency software cold email agency CRM cold email agency lead generation cold email agency conversion cold email agency growth cold email agency scaling techniques cold email agency success stories cold email agency training cold email agency course cold email agency education cold email agency mentorship cold email agency coaching cold email agency community cold email agency network how to start a cold email agency how to scale a cold email agency seven figure cold email agency cold email entrepreneur cold email business 2026 cold email business model cold email business results cold email business strategy cold email business success cold email business founder cold email business revenue cold email business income cold email business growth cold email business scaling cold email business automation cold email business optimization cold email business performance cold email business metrics cold email business ROI cold email business profits cold email business client acquisition cold email business sales cold email business marketing cold email business systems cold email business tools cold email business software cold email business lead generation cold email business training cold email business course cold email business education cold email business coaching software engineer to entrepreneur engineer turned founder apple engineer entrepreneur quit corporate job to start a business left tech job to start agency from engineer to agency founder engineer to entrepreneur 2026 seven figure agency founder seven figure agency story seven figure agency 2026 Cymate Wesley Hoang cold email",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

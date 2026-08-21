@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T07:53:16Z",
+  "updatedAt": "2026-08-21T08:53:07Z",
   "items": [
+    {
+      "id": "WSWA56bs4Bc",
+      "type": "short",
+      "source": "secondary",
+      "channel": "MindRind",
+      "publishedAt": "2026-08-21T07:53:07Z",
+      "firstSeenAt": "2026-08-21T08:53:07Z"
+    },
+    {
+      "id": "tiIMGLxK5IY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Christian Jamal",
+      "publishedAt": "2026-08-20T23:53:07Z",
+      "firstSeenAt": "2026-08-21T08:53:07Z"
+    },
+    {
+      "id": "MmWpOeG5GW4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Snovio",
+      "publishedAt": "2026-08-20T22:53:07Z",
+      "firstSeenAt": "2026-08-21T08:53:07Z"
+    },
+    {
+      "id": "6nPWASIMtnA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Eddy Says Hi #EddySaysHi",
+      "publishedAt": "2026-08-20T22:53:07Z",
+      "firstSeenAt": "2026-08-21T08:53:07Z"
+    },
+    {
+      "id": "HGgeb0IVFQA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Wesley Hoang",
+      "publishedAt": "2026-08-20T18:53:07Z",
+      "firstSeenAt": "2026-08-21T08:53:07Z"
+    },
     {
       "id": "_ZOM0DXSgtU",
       "type": "long",
@@ -20539,6 +20579,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-21T08:53:07Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
