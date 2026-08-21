@@ -1,7 +1,103 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T14:53:22Z",
+  "updatedAt": "2026-08-21T18:53:09Z",
   "items": [
+    {
+      "id": "Lv8_ba0zm_M",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-21T18:06:01Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
+    {
+      "id": "Himh-luOiaw",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-21T17:46:05Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
+    {
+      "id": "NjKwtdv9WPs",
+      "type": "long",
+      "source": "primary",
+      "channel": "Varun Mayya",
+      "publishedAt": "2026-08-21T15:56:40Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
+    {
+      "id": "h8qy-MBDzho",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-21T15:17:33Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
+    {
+      "id": "fUJXjHjqVJE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Insider Force",
+      "publishedAt": "2026-08-21T15:03:03Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
+    {
+      "id": "FNREoiVyOrU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CodeHead",
+      "publishedAt": "2026-08-21T15:53:09Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
+    {
+      "id": "QfZTH9kFcfE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TechyTacos",
+      "publishedAt": "2026-08-21T14:53:09Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
+    {
+      "id": "V9Ra8klDzrM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Zerodha Varsity",
+      "publishedAt": "2026-08-21T13:53:09Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
+    {
+      "id": "qMwSylB0_Wk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Satish Dhawale",
+      "publishedAt": "2026-08-21T13:53:09Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
+    {
+      "id": "_IZMECHru6o",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AICodeKing",
+      "publishedAt": "2026-08-21T10:53:09Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
+    {
+      "id": "o3MkojHCJVc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WorldofAI",
+      "publishedAt": "2026-08-21T08:53:09Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
+    {
+      "id": "tz9GtiEp-BY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ShowMixed IT",
+      "publishedAt": "2026-08-20T23:53:09Z",
+      "firstSeenAt": "2026-08-21T18:53:09Z"
+    },
     {
       "id": "0Kp2ES8h6Ps",
       "type": "short",
@@ -18797,33 +18893,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T15:53:15Z",
-      "new": 8,
-      "long": 3,
-      "shorts": 5,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
-      "runAt": "2026-08-07T16:53:24Z",
-      "new": 5,
-      "long": 2,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
-    {
-      "runAt": "2026-08-07T17:53:30Z",
-      "new": 7,
-      "long": 5,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
       "runAt": "2026-08-07T18:53:31Z",
       "new": 8,
       "long": 7,
@@ -20802,6 +20871,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-21T18:53:09Z",
+      "new": 12,
+      "long": 8,
+      "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }

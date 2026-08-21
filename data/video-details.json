@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T14:53:22Z",
+  "updatedAt": "2026-08-21T18:53:09Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -852,12 +852,12 @@
       "probeClient": "web_embedded"
     },
     "dFbMLcBhnsk": {
-      "checkedAt": "2026-08-14T17:53:15Z",
+      "checkedAt": "2026-08-21T18:53:09Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 23,
-      "likeCount": 681,
+      "commentCount": 24,
+      "likeCount": 691,
       "comments": [
         {
           "id": "UgzXEo9DOOrtKvmgNyN4AaABAg",
@@ -1070,21 +1070,21 @@
       "probeClient": "web_embedded"
     },
     "0s56EMVEev4": {
-      "checkedAt": "2026-08-14T14:53:31Z",
+      "checkedAt": "2026-08-21T18:53:09Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Work With Me (Solve Your Revenue Bottleneck with Charlie OS): https://charlieautomates.com/charlie-os-vs/\n————————————\nJoin my community with 3,200+ business owners (choose premium for weekly calls): https://www.skool.com/cc-strategic-ai/about\n————————————\n\nIf you like the video edit, reach out to hi@hisubhadeep.com and tell him Charlie sent you! He hooked me up with an edit on this one :)\n\n\nVideos referenced:\n\n- Claude Code Crash Course: https://youtu.be/vaW_MCv2AY0\n\n\nOther 🔑 resources:\n\nSkillsmith: https://www.charlieautomates.com/free-resources/#skillsmith\n\nSEED: https://www.charlieautomates.com/free-resources/#seed\n\n————————————\n\nTimeline:\n00:00 Can AI Really Replace An Executive?\n01:22 Why Most People Automate The Wrong Things\n01:48 The 3 Things Every AI Officer Needs\n02:24 SEED + Skillsmith: The Frameworks Doing The Work\n03:22 MCPs: Connecting The Agent To Your Real Tools\n03:49 Ideating The CMO With SEED\n06:02 Consultant Or Operator? Defining The Scope\n06:29 Approval Gates So It Can't Send Without You\n07:29 Running It 24/7 With Routines And Cron\n09:15 Migrating Your Memory Out Of ChatGPT\n10:54 Inside The Skill File\n12:45 Running /CMO For The First Time\n13:49 The Content Audit: YouTube + Instagram\n14:30 The CRM Audit: What It Found In My Pipeline\n15:13 Final Thoughts\n\n#ClaudeCode #Marketing #AIAutomation",
       "commentCount": 11,
-      "likeCount": 70,
+      "likeCount": 71,
       "probeClient": "web_embedded"
     },
     "NVPWYTZZpnI": {
-      "checkedAt": "2026-08-14T15:53:32Z",
+      "checkedAt": "2026-08-21T18:53:09Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "SaaS as we know it is changing. Instead of clicking around five different dashboards to get one job done, AI agents are shifting software from selling tools to delivering completed work.\n\nIn this video, I demonstrate a working prototype of an \"AI Employees\" team (Vikram, Priya, and Arjun) that turns a single prompt into a complete marketing campaign. I also break down the playbook for building agent startups and explain how to orchestrate multi-agent workflows reliably.\n\n__________________________________\nFollow Builders Central on Instagram: https://www.instagram.com/builders.central/",
       "commentCount": 12,
-      "likeCount": 293,
+      "likeCount": 307,
       "probeClient": "web_embedded"
     },
     "GjT7mSMY6O8": {
@@ -3236,12 +3236,12 @@
       "availability": "public"
     },
     "uDd4cWJTt4M": {
-      "checkedAt": "2026-08-14T14:53:31Z",
+      "checkedAt": "2026-08-21T18:53:09Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 8,
-      "likeCount": 1733,
+      "commentCount": 46,
+      "likeCount": 2985,
       "comments": [
         {
           "id": "UgwTf3ctNoX-5c1opFN4AaABAg",
@@ -4831,12 +4831,12 @@
       "probeClient": "web_embedded"
     },
     "WCrnS09vpfo": {
-      "checkedAt": "2026-08-14T15:53:32Z",
+      "checkedAt": "2026-08-21T18:53:09Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=codex-vs-claude-app&hcategory=youtube-videos&utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nI gave Claude Code and Codex the exact same prompt to build a production-ready Typeform alternative, then compared the products, costs, speed, agent usage, and testing. \n\nClaude Code built the more usable app in a fraction of the time, while Codex went much deeper on architecture and reliability. This experiment made it much clearer where each tool fits in my workflow and why the way you prompt them matters.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n\nTIMESTAMPS \n0:00 Same Prompt, Different Results\n0:26 The Build Prompt\n1:32 Testing RillForm\n6:07 Testing Formora\n11:52 The Reveal\n12:46 Cost, Tokens & Speed\n14:30 Agents, Tools & Tests\n15:44 What Each Tool Does Best\n20:06 Final Takeaways",
-      "commentCount": 14,
-      "likeCount": 80,
+      "commentCount": 273,
+      "likeCount": 2290,
       "probeClient": "web_embedded"
     },
     "DQtj7GJE8-I": {
@@ -9263,7 +9263,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-21T14:53:22Z",
+      "checkedAt": "2026-08-21T18:53:09Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9281,10 +9281,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-21T14:53:22Z",
+      "checkedAt": "2026-08-21T18:53:09Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -10665,7 +10665,7 @@
       "probeClient": "web_embedded"
     },
     "h8e334CiG1M": {
-      "checkedAt": "2026-08-21T14:53:22Z",
+      "checkedAt": "2026-08-21T18:53:09Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -11067,6 +11067,249 @@
       "description": "🚀 Java Full Course in Kannada – Day 4\n\nIn Day 4 of our Java Full Course, we build a strong foundation by understanding how Java works internally before writing programs.\n\n\n📚 Topics Covered:\nDifferent Types of Compiler Errors\nSyntax Errors\nSemantic Errors\nType Mismatch Errors\nDuplicate Variable Errors\nWrong Method Call\nReturn Type Mismatch\nMachine Language vs High-Level Language\nWhy Java is Platform Independent\nJDK vs JRE vs JVM\nJava Architecture\nWriting and Running Your First Java Program\nJava Program Structure\n\n🎯 This course is perfect for:\nComplete Beginners\nEngineering & Diploma Students\nJob Seekers\nFreshers\nAnyone preparing for Java Interviews\n\n💻 Language: Kannada\n🔥 Subscribe for the complete Java Full Stack series covering Core Java, Advanced Java, DSA, LeetCode, Projects, and Placement Preparation.\n\n👍 Like • Share • Subscribe\n\n#Day4 #JavaKannada #JavaTutorial #CoreJava #JDK #JRE #JVM #JavaProgramming #Algorithms365 #JavaFullCourse #Coding #PlacementPreparation",
       "commentCount": 1,
       "likeCount": 31,
+      "probeClient": "web_embedded"
+    },
+    "Himh-luOiaw": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "The irony of AI is that software engineers are building tools that could eventually automate parts of their own jobs.\n\nA new open-source approach is allowing AI agents to control and interact with a computer, taking AI coding agents beyond simply generating code.\n\nInstead of asking an AI to write a piece of code and then manually handling everything else, the agent can potentially interact with the computer, make decisions, use applications, and execute tasks.\n\nThis is particularly interesting for people using coding agents such as Claude Code or Codex.\n\nThe basic idea is simple:\n\nGive the AI a task.\n\nInstead of giving it every individual instruction, the agent can determine the steps required to complete that task and interact with the computer along the way.\n\nThat could mean opening applications, navigating interfaces, running commands, working with files, testing software, and handling repetitive digital workflows.\n\nAnd because the underlying project is open-source, developers can experiment with the technology and build their own workflows around it.\n\nBut here's the bigger question.\n\nAI coding tools were initially about helping developers write code faster.\n\nNow, we're moving toward agents that can potentially use the computer, execute the code, test the result, and keep working toward an outcome.\n\nThat's a much bigger shift.\n\nThe question isn't necessarily whether AI will completely replace software engineers tomorrow.\n\nIt's whether the definition of a software engineer changes when one developer can delegate more and more of the actual execution to AI agents.\n\nAnd there's something almost ironic about it:\n\nThe people building the automation may be creating the tools that automate their own work.\n\nWould you let an AI agent control your computer and work independently?\n\nLet us know in the comments.\n\nWhy Subscribe to bpro?\n\nBPro is focused on the AI tools and technologies changing how we build, work, and create.\n\nWe cover AI agents, AI coding, automation, open-source AI, developer tools, LLMs, productivity, and emerging AI technology.\n\nBut we don't just show you the latest AI tool.\n\nWe explain what it can actually do, why it matters, how it could change workflows, and what it could mean for developers and businesses.\n\nIf you want to stay ahead of the AI tools transforming software and productivity, subscribe to bpro.\n\nBecause the future of software development may not be about writing every line yourself.\n\nIt may be about telling AI what needs to get done.\n\n#AI #AIAgents #AICoding #SoftwareEngineering #ArtificialIntelligence\n\nAI, AI agents, AI coding, AI coding agents, AI computer control, AI computer use, AI automation, AI tools, software engineering, software developers, AI developer tools, Claude Code, Codex, OpenAI Codex, Claude AI, open source AI, open source AI agents, computer use AI, AI agent automation, AI productivity, AI programming, AI coding tools, future of software development, future of coding, AI replacing programmers, AI replacing software engineers, will AI replace software engineers, will AI replace programmers, how AI agents work, how to use AI agents, how to use AI coding agents, how AI controls a computer, what is an AI agent, what is computer use AI, what is AI automation, why AI is replacing coding, why software engineers are using AI, AI tools for developers, best AI coding tools, AI coding 2026",
+      "commentCount": 0,
+      "likeCount": 5,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-21T18:53:09Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "Lv8_ba0zm_M": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment \"Base\" for the GitHub repo link\n\nYour claude.md is static.\n\nRules go stale. The whole file dumps into context every session, burning tokens on rules you didn't need.\n\nHere's the thing. Base builds a knowledge graph of your rules, behaviors, and projects.\n\nDomain rules fire on keywords. Nothing else loads.\n\nBoot a session and Claude already knows what you're building.\n\nConsistency up 90%.\n\n#ClaudeCode\n#AItools\n#AIWorkflow\n#Automation\n#DevTools",
+      "commentCount": 2,
+      "likeCount": 5,
+      "comments": [
+        {
+          "id": "UgyMSk8uznt2qF42cfp4AaABAg",
+          "author": "@Pillking1776",
+          "text": "base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T18:49:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/hBkhH5k717AMB6wxVSOuV9gFQm7PNhrpLiceC4KV7Aq3kYsX-DB8wosumHXObSHHv3VUUuxjxo8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy0vR4VqRnxXsrgw3B4AaABAg",
+          "author": "@charlieautomates",
+          "text": "🚨🔑Repo link available here: https://charlieautomates.com/free-resources/#base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T18:07:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-08-21T18:53:09Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "NjKwtdv9WPs": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "https://buildwhatmovesindia.com/\n\nWe’ve finally kicked off Build What Moves India, and in this video, we go through exactly how the hackathon will work, what you need to build, and how your project will be judged. The focus is simple: take a public service platform, rethink it from the point of view of an everyday citizen, and build a working proof of concept with ideas that actually make the experience better.\n\nWe also cover the submission process, how the projects will be shortlisted, what the top 250 participants can expect, and how the mentorship round and final presentations will work.\n\nFinally, we talk about what this hackathon is really trying to do. Beyond the prizes, the larger goal is to bring together people from technology, content, and government, and hopefully turn some of these ideas into conversations that can lead to real improvements in the public services millions of Indians use.",
+      "commentCount": 4,
+      "likeCount": 409,
+      "probeClient": "web_embedded"
+    },
+    "h8qy-MBDzho": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "You don't need to pay for Veo or Kling to make AI videos anymore.\n\nLTX-2.5 just dropped.\n\nIt's a completely open world model.\n\nYou just download and run it on your own computer.\n\nIt's yours to fine-tune however you want.\n\nPrompt understanding is way better now.\n\nIt runs on a new Gemma 4 backbone.\n\nSo what you type is actually what you get.\n\nNo more re-rolling the same prompt five times.\n\nIt also generates native multishot.\n\nThat means one continuous take across multiple shots.\n\nSame character, same scene, same lighting, same voice across every cut.\n\nThe outputs are just cleaner too.\n\nSharper faces, readable text, fewer smears in fast motion.\n\nIt's free for commercial use too, as long as you're under 10 million in annual revenue.\n\n#ltx2 #videogenerator #aivideos #opensourceai #LTXAI",
+      "commentCount": 2,
+      "likeCount": 77,
+      "comments": [
+        {
+          "id": "UgxcfaL20mByH8zgAfV4AaABAg",
+          "author": "@nickautomates",
+          "text": "You can try out LTX 2.5 and download its Open Weights from here:\n\n https://huggingface.co/Lightricks/LTX-2.5 \n\nhttps://ltx.io/model/ltx-2-5",
+          "likeCount": 1,
+          "publishedAt": "2026-08-21T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/oJmesQSjFvrfcORlESFP49w-i1b2onariycBuKtDXenOieZZerQ-EyFamFOritV0IAqqioNQkA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "UgzR5d2UCFvnuGipIg94AaABAg",
+          "author": "@livian.3",
+          "text": "I'm still waiting to see your reply about a \" motion control \" .. I'm working on a something  and I need to publish some videos.. But I don't have studio/materials to have a gd background/scenes .. Can  you help?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T17:55:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/jniadSwilV-1V3iOwDRa2sF8KKfpVQN0WCv7hPIhUfYNqSNmYlovkbNZlQlSHAQXpYOHyWFpUA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-21T18:53:09Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "fUJXjHjqVJE": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment \"HUMAN\" and I'll send you the ebook. 🔥\n\nFour settings. Five minutes. Claude never responds like a stranger again.\n\n1️⃣ Agent - tell Claude exactly who it needs to be. Role, tone, personality, mindset.\n2️⃣ Context - give Claude the full background on your business so it never starts cold.\n3️⃣ Memory - show Claude your past decisions, preferences, and patterns.\n4️⃣ Skills - give Claude step by step instructions to do the work the way you would do it yourself.\n\nNow every response is built on all four at once. Not guessing. Not generic. Working like a custom employee who already knows your business inside and out.\n\nSave this before you forget.\n\n#claude #aitools #prompts #artificialintelligence #chatgpt",
+      "commentCount": 8,
+      "likeCount": 139,
+      "comments": [
+        {
+          "id": "UgyZfBIdn6AJhP68B-J4AaABAg",
+          "author": "@InsiderForce",
+          "text": "Comment “HUMAN” for the ebook.🔥",
+          "likeCount": 1,
+          "publishedAt": "2026-08-21T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/jNjH5aurflHZRBuhGoJUJ9BERtQPPb7jF69EiMsu-roN5MIH8Th7CVNQVrgfTYqcLsZHN4F5xQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "UgyHQjOkRsTQ_jEX75R4AaABAg",
+          "author": "@InciVerseOfficial",
+          "text": "Bro I contact you on your gmail but Gmail is unable to sent \nBro",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T18:50:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/YkjCi_cKqIz0dF8YyLYy5hKE2xzNtj-_qGGkW3WFzFAK-lk-XIOYj9f_mG8tWRhg0CMfEIG4IhY=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyUU_i7etYwRhiYcTJ4AaABAg",
+          "author": "@mortezaetminan2090",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T18:31:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mrHlGuTPbCbNZp1uh_ylfOOy-hRT8419XU7OmHeTg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwqtzSIdYGUTafc-C14AaABAg",
+          "author": "@vmmekalki",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T18:28:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhpdt52gf-ewuMICMSpf58jqqKXetktX-rAgmJkXZktJrVu4vDkBYngfAtIfmb6uJy3w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyuzBa5y3kkEeDMSml4AaABAg",
+          "author": "@LuisGutierrez-bl9yk",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lr0Pv-Lv1IxRYiTEtFHt6tRgoBScshdKvpzwXO0k6LKio=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugzi9DsaNKBCjt_SzBx4AaABAg",
+          "author": "@bharathpinaboyina4537",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ljthcvrA-Nb_dUufAR0TAaFh8EIqjFLhUoSdlqD1n35wo=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxe9qXLgyUrmmB1apx4AaABAg",
+          "author": "@OMAKEM",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m-tiYWwU4daM6veNtDISr74CFniwviaOe-1X9OtC0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz04W1tmwnvedc9xdV4AaABAg",
+          "author": "@cliveshepherd2323",
+          "text": "Human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nRz99ndhoPRl7fnT7V2Q08GS2r4IT9nNStWLIWuLgyhdU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-21T18:53:09Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "FNREoiVyOrU": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👉 Try Supabase Agent Skills FOR FREE: https://supabase.plug.dev/7sOiwue\n\n👉Get 40% OFF CodeCrafters: https://app.codecrafters.io/join?via=codehead-01\n👉Git gud at coding for FREE with Scrimba  https://scrimba.com/courses:free?via=codehead  (and save 20% on Pro plans with my link).\n\n👉I made a Discord server for all of you code heads to join: https://discord.gg/MfCKFK2fTe\n👉Buy this tired Code Head a ☕: https://buymeacoffee.com/codehead\n\n\n🌐Supabase Agent Skills docs: https://supabase.com/docs/guides/ai-tools/ai-skills\n\n❓Topics covered:\nsupabase agent skills, ai coding agent, claude code tutorial, ai agent security, supabase rls, row level security, ai agent skills, claude code supabase, ai coding assistant, supabase tutorial, ai agent tools, postgres rls, ai security flaw, supabase mcp, claude code mcp, ai coding tools, database security ai, ai agent development, supabase for developers, ai pair programming, cursor ai coding, full text search postgres, ai agent workflow, supabase auth, ai developer tools\n\n\n#programming #ai",
+      "commentCount": 0,
+      "likeCount": 27,
+      "probeClient": "web_embedded"
+    },
+    "QfZTH9kFcfE": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI coding tools such as GitHub Copilot, Codex, Cursor, and other agentic IDEs use different plugin structures. That makes it difficult to build a plugin once and share it across a team using different tools.\n\nIn this video, I explain Agent Plugins, an open plugin standard designed to make AI agent integrations more portable across supported clients.\n\nThe main idea is simple: instead of rebuilding the same capability for every AI coding tool, create a portable plugin structure that can be reused wherever the standard is supported.\n\nHow to use Plugins in VSCode using GitHub Copilot ?\n*******************************************************\nhttps://youtu.be/UXfPpsjyzH0",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "V9Ra8klDzrM": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Algo trading has traditionally seemed out of reach for non-programmers. AI coding assistants are changing that.\nIn this video, Karthik Rangappa, an experienced trader but a non-programmer, builds his very first semi-automated algo with Akshay guiding him through the process. Using simple natural-language prompts and an AI coding assistant, they go from a simple moving-average crossover idea to an actionable screener — without Karthik having to write a single line of code.\nFrom setting up the required tools and connecting to Kite Connect to building the trading logic and turning it into a working dashboard, the video walks through the entire process step by step, showing how AI coding assistants can make algo trading far more accessible to traders who don't know how to code.\n\nTime Stamps\n00:00 — Introduction: Building your first algo without coding\n01:05 — What is an algo?\n03:15 — Semi-automated vs fully automated algos\n04:46 — The trading idea: 6-day & 30-day SMA crossover\n06:12 — Setting up the AI agent & prerequisites\n12:43 — Setting up Zerodha's Algo Application\n20:20 — Understanding API key, API secret & access token\n25:04 — Generating your Algo's login URL\n27:58 — Building the algo with a natural-language prompt\n34:09 — The first working algo is ready\n35:26 — Building a user-friendly dashboard/UI\n38:19 — Cost of Kite Connect & Codex\n40:18 — Launching the finished dashboard\n44:35 — Algo generates the SMA crossover signals\n44:57 — Verifying a signal on the Kite chart\n46:09 — Why this is a semi-automated algo\n\nOpen a Kite Developer account: https://developers.kite.trade/login\nKite API Documentation: https://kite.trade/docs/connect/v3/\n___________________________________________________________________________\n\nOver 2 crore Indians invest with Zerodha. Open a free demat account in minutes and invest in stocks, mutual funds, ETFs, and bonds at 0 brokerage. No hidden charges, no gimmicks. Plus, get free access to research tools like Tijori, Sensibull and more.\n\nOpen a free demat account: https://zerodha.com/open-account/?c=ZAPMEL\n\nZerodha Varsity Regional Channels\nZerodha Varsity Hindi: https://www.youtube.com/@ZerodhaVarsityHindi\nZerodha Varsity Kannada: https://www.youtube.com/@ZerodhaVarsityKannada\n\n\nZerodha Varsity\nWeb:https://zerodha.com/varsity/modules/\nAndroid: https://play.google.com/store/apps/details?id=com.zerodha.varsity\niOS: https://apps.apple.com/in/app/zerodha-varsity/id1474610753\n\nYou can put your stock market knowledge to the test by taking the Varsity Certification test here: https://zerodha.com/varsity/certified/\n\nTrade on Kite\nWeb: https://kite.zerodha.com\nAndroid: https://play.google.com/store/apps/details?id=com.zerodha.kite3\niOS: https://apps.apple.com/in/app/kite-by-zerodha/id1449453802\n\nMutual Funds on Coin\nWeb: https://coin.zerodha.com\nAndroid: https://play.google.com/store/apps/details?id=com.zerodha.coin\niOS: https://apps.apple.com/in/app/coin-by-zerodha-mutual-funds/id1392892554\n\nReports on Console: https://console.zerodha.com\nTrade options with Sensibull: https://sensibull.com\nBuild trading strategies on Streak: https://streak.zerodha.com\n\nFollow us on\nX (Twitter): https://x.com/ZerodhaVarsity\nLinkedIn: https://www.linkedin.com/company/varsity-by-zerodha%C2%AE\nInstagram: https://www.instagram.com/zerodhavarsity/?hl=en\nVarsity Newsletter: https://zerodhavarsity.substack.com/\nAudio Podcast (Spotify): https://open.spotify.com/show/6tCBkWtxqjKOILJvSgREAA\nAudio Podcast (Apple): https://podcasts.apple.com/us/podcast/side-notes-by-zerodha-varsity/id1778022935 \n\n#analysis    #investing    #finance    #stockmarket    #financialeducation    #varsity    #zerodha  #trading #algotrading   \n\nInvestments in the securities market are subject to market risk. Please read all scheme-related documents carefully before investing. Zerodha Broking Ltd. — Member of NSE, BSE & MCX. SEBI Reg. No. INZ000031633.",
+      "commentCount": 7,
+      "likeCount": 308,
+      "probeClient": "web_embedded"
+    },
+    "qMwSylB0_Wk": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI in Excel: Automate Repetitive Tasks Without Coding😲\n\nLearn how to use AI in Excel to automate repetitive tasks without writing VBA code yourself! In this practical tutorial, you'll learn how AI can generate VBA code and help you automate Excel tasks quickly and efficiently.\n\nIn this video, we demonstrate how to automatically split Excel data into multiple worksheets based on unique values from a selected column. Instead of manually filtering, copying, and creating multiple sheets, the AI-generated VBA automation can do it for you in seconds.\n\n📌 What You'll Learn:\nHow to use AI in Excel\nHow AI can generate VBA code\nHow to create an effective AI automation prompt\nHow to enable the Developer Tab\nHow to use the Visual Basic Editor\nHow to add and run VBA code in Excel\nHow to automatically split data into multiple sheets\nHow to extract unique values from Excel data\nHow to automate repetitive Excel tasks\nHow AI can save time in Excel\n\n📂 Practice File\nDownload the Practice File:\nhttps://drive.google.com/uc?export=download&id=1MJCuGizRE5APABCs2wmDyTVWGAbcMq-P\n\nUse the practice file to follow along with the tutorial and try the Excel automation yourself.\n\n🚀 Excel Booster\nExplore more Excel automation tools, dashboards, and productivity features:\nwww.xlbooster.com\n\nIf you found this video useful, Like 👍 | Comment 💬 | Share 🔄 | Subscribe 🔔\n\nComment below: Which Excel task would you like to automate using AI?\n\n#AIinExcel #ExcelAutomation #Excel #ExcelAI #VBA #ExcelTips #MicrosoftExcel #ExcelAutomation #ExcelVBA\n\nGet Free Notification for Upcoming Videos = https://forms.gle/5Jz1WJSki3nJrb6v7 \n------------------------------------------------------------------------------------------------------------------------------\nLearn Satish Sir courses with Certificate\nCourse Website :https://skillcourse.in/\n------------------------------------------------------------------------------------------------------------------------------\nFollow us on LinkedIn  : https://www.linkedin.com/in/satish-dhawale/\n------------------------------------------------------------------------------------------------------------------------------\nCheck our latest blogs: https://learnmoreindia.in/ \n------------------------------------------------------------------------------------------------------------------------------\nSocial media Pages: \nSkill Course LinkedIn : linkedin.com/company/skill-course/\nFacebook Page Link: https://www.facebook.com/learnmoreeasily/\nInstagram Page Link: https://www.instagram.com/_learn_more_pro_/\nTelegram channel: https://telegram.me/learnmoreindia\nFollow us on X : https://x.com/Satish_Dhawale_\n------------------------------------------------------------------------------------------------------------------------------\nMy Other Channels:\nSatish Dhawale: ✅\nhttps://www.youtube.com/@Satish_Dhawale\nReal Tutorial: ✅\nhttps://www.youtube.com/@realtutorial550\nComplete Technology:✅\nhttps://www.youtube.com/@CompleteTechnology\nLearn more shorts:✅\nhttps://www.youtube.com/@LearnMoreShorts\nSatish Tech (Marathi):✅\nhttps://www.youtube.com/@Satish_Tech\nTally Tutorial:✅\nhttps://www.youtube.com/@TallyTutorial\nI Love Excel by Skill Course:✅\nhttps://www.youtube.com/@Excel_Tutorial\nLearn More:✅\nhttps://www.youtube.com/@Learn_More_Pro\nCuriosity: ✅\nhttps://www.youtube.com/@curiosity9432\n------------------------------------------------------------------------------------------------------------------------------\nMy YouTube Gears :\nBest Mic for Recording (Condensor Mic): https://amzn.to/2UUMDnH\nBest Mic for Recording (Dynamic Mic ): https://amzn.to/3pQgyvD\nMy DSLR Camera Canon 200D: https://amzn.to/39ciw3E\nMy Laptop (Video Editing): https://amzn.to/2UXQj8h\nLaptop (Office Use/ Home use / Budget Laptop) : https://amzn.to/3l0pniw\nAntivirus: https://amzn.to/3l3TIgi\nScreen Recording Software: https://bit.ly/2J39n2j\nVideo Editing Software: https://bit.ly/3nOPlri\nGreen screen with Stand: https://amzn.to/2KAl1Cu",
+      "commentCount": 1,
+      "likeCount": 200,
+      "probeClient": "web_embedded"
+    },
+    "_IZMECHru6o": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, I'll be telling you about Delta, Zed’s new AI agent GUI, which uses DeltaDB to make agent conversations, code changes, and version history fully connected and traceable.\n\n--\nKey Takeaways:\n\n🚀 Zed has launched Delta, a standalone AI agent GUI built around coding through threaded conversations.\n🧠 Delta runs on DeltaDB, a new version control layer that records every operation between commits.\n🔗 Every code change is linked back to the exact agent conversation that produced it.\n👥 Delta supports multiplayer collaboration, letting teammates join threads, comment, and continue work.\n🌐 A browser version is available at Delta dot dev, with the Rust app compiled to WebAssembly.\n🛠️ Delta includes a real editor, file tree, syntax highlighting, Git compatibility, and model provider settings.\n🤖 It supports Zed-hosted models, OpenAI via ChatGPT Plus or Pro, Anthropic, OpenRouter, Baseten, and GitHub Copilot.\n🌳 Agents can work in isolated DeltaDB-powered worktrees without affecting your main working directory.\n✅ In the demo, Delta plans, writes tests, commits changes, and builds a fast movie-tracker landing page.\n☁️ Delta also includes Claude Code integration, ACP support, and cloud runners for background agent work.\n👍 Overall, Delta is one of the most interesting new approaches to AI coding tools because it connects conversations directly to version control.",
+      "commentCount": 1,
+      "likeCount": 244,
+      "probeClient": "web_embedded"
+    },
+    "o3MkojHCJVc": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Join the private community to get WoAI Bench Pro, exclusive AI freebies and discounts, early model access, automation templates, practical resources and upcoming AI training.\n👉 Join Today! https://www.skool.com/worldofai\n\nGLM 5.5 LEAKS? HY4 Soon!, Ox Alpha Stealth Model, GPT-6 Astra Delayed, & More! AI NEWS!\n\nToday was absolutely packed with AI news. A mysterious new Ox Alpha stealth model has appeared with a massive 1M+ token context window, multimodal capabilities, free access, and some seriously impressive early frontend and 3D simulation results. 👀\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpenAI's GPT-6 Astra WILL BE AGI! Greatest AI Model Ever!: https://youtu.be/KbYio-N8_LU\nQwen 3.8 Max IS OUT! Best Open Model? (Fully Tested): https://youtu.be/vmLwsoVRo30\nDeepSeek V4 Flash GA IS INCREDIBLE! Powerful, Cheap, & Fast! (Fully Tested): https://youtu.be/wT42SgaOPK4\n\n📌 LINKS & RESOURCES\nWorld of AI Skool: https://www.skool.com/worldofai\nWorld of AI Benchmark: https://www.woaibench.ai/\nAI NEWS: https://x.com/intheworldofai\nhttps://x.com/Norwakar/status/2090636625126789224\nhttps://x.com/AiBattle_/status/2090555139899654456\nhttps://x.com/OpenRouter/status/2090544970923184269\nhttps://x.com/bisheshab/status/2090566887096906213\nhttps://x.com/yashcodes2007/status/2090648772959461675\nhttps://x.com/SPAC89/status/2090614385920094469\nhttps://x.com/bisheshab/status/2090593502061326464\nhttps://x.com/Lentils80/status/2090677783995253047\nhttps://x.com/davis7/status/2090669483740279155?s=20\nhttps://x.com/intheworldofai/status/2090391913421488544\nhttps://x.com/synthwavedd/status/2090438712610242609\nhttps://x.com/alexgetmancom/status/2090432031578571137\nhttps://x.com/chetaslua/status/2090174482736664920\nhttps://x.com/bcherny/status/2090537902912815536\nhttps://x.com/claudeai/status/2090518650251804742\nhttps://x.com/ChatGPT/status/2090499359641329950\nhttps://x.com/HowThingsWork_/status/2090377495988031934\n\nAt the same time, GLM-5.3 Flash has reportedly been spotted internally, with early evidence suggesting it could be a multimodal GLM-5.x model. This comes right after GLM-5.3 made a huge jump in coding and agentic performance primarily through scaled post-training.\n\nWe also have Tencent's Hunyuan HY4 reportedly entering early testing, new information suggesting GPT-6 \"Astra\" could still be a couple of weeks away, and reports that Anthropic is holding Fable 5.1 while waiting for OpenAI's next move.\n\nOn top of that, we're covering the controversy around Codex usage limits, Anthropic's enterprise data-retention changes, the mysterious Mona Lisa image model, Claude Academy, new AI integrations, and much more.\n\n🔥 Topics Covered:\nOx Alpha stealth model\nGLM-5.3 Flash / possible GLM 5.5 leaks\nOx Alpha vs GPT & Fable\nTencent Hunyuan HY4\nGPT-6 Astra delay\nFable 5.1 rumors\nCodex usage-limit controversy\nAnthropic enterprise privacy changes\nOpenAI Mona Lisa image model\nClaude Academy\nLatest ChatGPT & AI updates\n\n👍 LIKE if you enjoyed the video\n🔔 SUBSCRIBE for daily AI news, leaks, models & tools\n💬 COMMENT — who do you think is actually behind Ox Alpha?\n\n[Time Stamps]:\n0:00 - Intro\n2:33 - HUGE UPDATE\n3:29 - Ox Alpha\n4:31 - GLM-5.5?\n4:59 - Blackhole Simulation\n5:31 - Minecraft Clone\n5:59 - 3D Demo\n6:25 - Frontend\n6:54 - GLM 5.3 Flash\n7:30 - GLM Will Be Multimodal\n8:21 - HY4 Soon\n9:26 - GPT-6 Astra Delayed\n10:21 - Fable-5.1 Is Ready\n10:40 - Codex Rate Limit Cuts?\n11:47 - Tibo Says No\n12:15 - Anthropic's Data Retention\n12:57 - New OpenAI Image Model\n13:42 - ChatGPT Apple Plugin\n14:04 - Claude Academy\n14:44 - Runner Clanker Comeback LOL!\n\n#AI #OpenAI #ChatGPT #GPT6 #Astra #OxAlpha #GLM53 #GLM55 #Hunyuan #HY4 #Claude #Anthropic #ArtificialIntelligence #AINews\n\nTags:\nAI news, AI news today, artificial intelligence, OpenAI, ChatGPT, GPT-6, GPT 6 Astra, GPT-6 Astra, Astra AI, Ox Alpha, Ox Alpha AI, Ox Alpha model, Ox Alpha stealth model, OpenRouter Ox Alpha, GLM 5.5, GLM 5.5 leaks, GLM 5.3 Flash, GLM-5.3, Z AI, Zhipu AI, Hunyuan HY4, Tencent HY4, Hunyuan 4, Tencent Hunyuan, Fable 5.1, Claude Fable 5.1, Anthropic, Claude AI, Codex, OpenAI Codex, Codex limits, AI coding, AI coding models, multimodal AI, 1M context window, Chinese AI models, best AI model 2026, new AI models, AI leaks, frontier AI, OpenRouter, Claude Academy, AI image generator, Mona Lisa AI, World of AI",
+      "commentCount": 19,
+      "likeCount": 642,
+      "probeClient": "web_embedded"
+    },
+    "tz9GtiEp-BY": {
+      "checkedAt": "2026-08-21T18:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "The keyboard is no longer the ultimate developer tool. In this video, we break down the massive paradigm shift hitting the IT, Tech, and Cloud industries right now: Agentic Coding Tools.\n\nWe are moving past simple AI autocompletes and moving into an era of fully autonomous AI software engineers. From tools like Claude Code and Cursor to advanced DevSecOps pipelines, AI agents are now reading entire repositories, writing code, running tests, and deploying to the cloud completely on their own. We dive deep into the data, the architecture (like MCP and Integrated Tool Use), and explain exactly how you need to adapt to stay ahead of the curve as a tech professional.\n\n\n#AI #SoftwareEngineering #DevOps #CloudComputing #agenticai",
+      "commentCount": 1,
+      "likeCount": 2,
       "probeClient": "web_embedded"
     }
   }
