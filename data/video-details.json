@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T09:53:17Z",
+  "updatedAt": "2026-08-21T10:53:19Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9263,7 +9263,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-21T09:53:17Z",
+      "checkedAt": "2026-08-21T10:53:19Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9281,10 +9281,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-21T09:53:17Z",
+      "checkedAt": "2026-08-21T10:53:19Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -10665,16 +10665,16 @@
       "probeClient": "web_embedded"
     },
     "h8e334CiG1M": {
-      "checkedAt": "2026-08-21T09:53:17Z",
+      "checkedAt": "2026-08-21T10:53:19Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "qXTftsSZIiE": {
-      "checkedAt": "2026-08-21T09:53:17Z",
+      "checkedAt": "2026-08-21T10:53:19Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "w1H338vUXbk": {
       "checkedAt": "2026-08-21T07:53:16Z",
@@ -10802,6 +10802,42 @@
       "description": "Ready to put AI to work: https://www.vendasta.com/lp-watch-demo?utm_source=YouTube&utm_medium=Video&utm_content=aYx8t2vWR8s\n\nNobody wants a website. They'll pay $250/month for these AI systems.\n\nEnmanuel Diaz sold websites for $2,000 and one in ten people said yes. Then he found a firearms training company with 500+ five-star reviews, a packed calendar, and a homemade GoDaddy site ranked #1 on Google — and realized they didn't need a better website. They needed a system.\n\nHe blew up his own model. Now local businesses pay him $250 a month for custom software that used to cost $50,000–$100,000 and take a coding team months. Nine out of ten say yes. His churn is under 2%. There are no contracts and no build fees, and his pricing is public.\n\nIn this episode he opens his actual client dashboards and walks through the 5 systems he sells to local businesses, then builds one live on camera using AI — from a blank screen to a working homepage.\n\nWhat you'll get:\n→ The automatic rebooking engine that took one client from 1 booking per customer to 4–5\n→ The booking + CRM system he built for a bridal boutique in under 7 days\n→ The revenue dashboard that shows a client exactly how much money their website made ($1,100 in 19 days on a $450/month site)\n→ Why he hides his client's prices — and why sales went up\n→ How he prices a $100,000 build at $250/month and still profits\n→ Why he gives clients the files and lets them cancel any time\n→ The exact prompt he uses to build a client homepage with AI\n\nIf you run an agency, sell websites, or sell anything to local businesses, this is a working playbook for turning one-time website projects into recurring revenue.\n\nAbout the guest\nEnmanuel Diaz builds custom software and websites for local businesses on a monthly subscription model at iCreateYourSite.com.\n\nConnect\nLinkedin: https://www.linkedin.com/in/enmanuel-diaz\nWebsite: https://icreateyoursite.com/\n\n🔗 Connect With Vendasta\n💼 LinkedIn: https://www.linkedin.com/company/vendasta/\nX: https://x.com/vendasta\n📸 Instagram: https://www.instagram.com/vendasta/\n\n#AIagency #LocalMarketing #AgencyGrowth #SellingAI #recurringrevenue \n\n Vendasta is an AI customer acquisition & engagement platform. Unlike traditional marketing automation, CRM, or customer acquisition tools that focus on isolated functions, Vendasta offers a complete solution with an integrated suite of tools to run and manage digital marketing campaigns, automate campaign, sales and billing workflows, and deliver personalized customer journeys.",
       "commentCount": 1,
       "likeCount": 49,
+      "probeClient": "web_embedded"
+    },
+    "DktNMnmIVUU": {
+      "checkedAt": "2026-08-21T10:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "How should enterprises decide where agentic AI belongs, where deterministic automation is enough, and what it actually takes to scale AI across a business?\n\nIn this Tech Transformed highlight, Sara Maldon, Head of Business Automation & AI at Make, joins analyst Christina Stathopoulos to explore the operational reality of enterprise AI adoption.\n\nThey discuss the spectrum between deterministic automation and agentic AI, how employees can originate AI-enabled workflows, the rise of non-technical “builders”, what changes when those use cases need to scale across departments, and why organisational adoption requires much more than access to the technology.\n\nSara also shares how Make approaches AI internally, including its departmental “Samurai” model and employee-led approach to building automation and AI agents.\n\n▶️ Watch the full Tech Transformed conversation: https://em360tech.com/podcasts/scaling-ai-across-enterprise-builders-business-impact\n\n▶️ Read the related EM360Tech analysis on AI integration and enterprise architecture: https://em360tech.com/tech-articles/ai-integration-enterprise-architecture\n\nChapters\n00:00 Why leaders should get started\n01:36 Welcome to Tech Transformed\n01:53 Deterministic automation vs agentic AI\n05:50 How building automation is changing\n08:12 Who are the new AI builders?\n10:02 Scaling automation across the enterprise\n11:20 A sales agent in practice\n12:07 How Make uses AI internally\n13:04 The Samurai model\n14:23 Employee-built AI agents\n\n#AgenticAI #AIAutomation #EnterpriseAI",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "ugU3HQy016g": {
+      "checkedAt": "2026-08-21T10:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "www.shahidanwarllc.com\nIn this video, I show you how **Claude AI can help build a Shopify store from scratch** — from designing the storefront and adding products to helping create the marketing strategy.\n\nInstead of spending hours manually setting up every part of an e-commerce business, I demonstrate how AI can become a powerful assistant throughout the Shopify process.\n\nIn this video, you'll see:\n\n🔥 How to use Claude AI with Shopify\n🛒 How Claude can help build and design a Shopify store\n📦 How to add and organize products\n🎨 How AI can improve the store's design and layout\n📢 How Claude can help create a marketing strategy\n🤖 How AI can automate parts of an e-commerce workflow\n💰 How entrepreneurs can use AI to work faster and more efficiently\n\nThe goal isn't just to show you another AI tool. I want to show you how the future of **e-commerce + AI automation** is changing the way online businesses can be built and operated.\n\nIf you're interested in **Shopify, dropshipping, e-commerce, Claude AI, AI automation, or making money online**, this video is for you.\n\nWatch until the end because I walk through the process and show what Claude can actually do.\n\n**Subscribe for more videos about Amazon, Shopify, AI, e-commerce, investing, business and my journey around the world.**\n\n#ClaudeAI #Shopify #AI #Ecommerce #Dropshipping #ShopifyDropshipping #ArtificialIntelligence #AIAutomation #OnlineBusiness\n\n\nDo not forget to subscribe and press the bell icon to catch on to some amazing videos coming your way!\n#shahidanwar #millionaire #shahidanwarllc#ecommerce business\n\n• Course Link:\n▀▀▀▀▀▀▀▀\nhttps://shahidanwarllc.com/\n\n• Social Media Link: \n▀▀▀▀▀▀▀▀▀▀▀\nFacebook: https://www.facebook.com/Shahidanwarinc\nInstagram: https://www.instagram.com/shahidanwarllc/\nTiktok: https://www.tiktok.com/@shahid.llc\nTwitter: https://twitter.com/Shahidanwar_",
+      "commentCount": 7,
+      "likeCount": 402,
+      "probeClient": "web_embedded"
+    },
+    "qfpD1FWdyTs": {
+      "checkedAt": "2026-08-21T10:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🧠 Want the finished SPARK - the 5-minute install 👉  https://www.skool.com/aiworkshop\n\n⚡ FREE SPARK PROMPT PACK (build your own) 👉 https://www.skool.com/aiworkshop-lite\n\nSetup Blotato 👉 https://blotato.com/?ref=zubair\n\nI built my own AI social media employee with Claude Code. His name is SPARK, he runs on my computer, and he drafts my posts, creates carousels and reels, answers comments, and sends Instagram auto DMs in seconds, all without ManyChat or a stack of monthly subscription tools.\n\nIn this video I give you the full demo, show you exactly how the auto DM machine works, and hand you the FREE prompt pack so you can start building your own AI social media manager with Claude Code tonight.\n\n\n⏱ Timestamps\n00:00 Meet SPARK, My AI Social Media Employee\n01:10 AI Content Tools: Carousels, Images, Reels\n02:06 Building a Full Carousel With One Prompt\n03:54 Instagram Auto DM Live Demo\n04:36 Auto DM Setup Step by Step\n06:45 Dashboard, Deals Board, Calendar, Reports\n07:15 Connecting Your Social Accounts (API Setup)\n10:11 Get the FREE Prompt Pack\n12:30 The Finished SPARK and Next Steps\n13:45 Outro\n\nThe finished SPARK, fully wired with a 5 minute install for Mac and Windows, lives inside my AI Workshop community along with Jarvis, TARS, and my other AI employees. Details are inside the community above.\n\n#ClaudeCode #AIEmployee #SocialMediaAutomation #AutoDM #AIAgent",
+      "commentCount": 1,
+      "likeCount": 47,
+      "probeClient": "web_embedded"
+    },
+    "qIHXumMVjsg": {
+      "checkedAt": "2026-08-21T10:53:19Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🎤 Build, Optimize & Automate Your Website with AI Studio\n📆 Aug 20, 2026 at 12 PM EDT\n🎙️ Featuring: Dominic Baptist\n🎧 Hosted by: Paulson Thomas\n\nMost websites take weeks to launch and still don't convert. This session shows how to build one that does, fast.\nIf you run an agency and want a lead-generating site without hiring a developer, this is for you.\n\nDominic has built multiple 7- and 8-figure businesses and is a top HighLevel affiliate worldwide. He helps agencies build AI systems: websites, CRM, automation and marketing that scale.\nDominic will build a live website with AI Studio, optimize it for SEO and speed, then connect automations with A2P compliance.\n\nWhat you'll learn:\n✅ Build a website with AI Studio using a base prompt\n✅ Optimize for SEO and page speed\n✅ Stay A2P compliant while connecting automations\n✅ How HighLevel supports the process",
+      "commentCount": 6,
+      "likeCount": 51,
       "probeClient": "web_embedded"
     }
   }

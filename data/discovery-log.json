@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T09:53:17Z",
+  "updatedAt": "2026-08-21T10:53:19Z",
   "items": [
+    {
+      "id": "DktNMnmIVUU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Enterprise Management 360",
+      "publishedAt": "2026-08-21T10:45:19Z",
+      "firstSeenAt": "2026-08-21T10:53:19Z"
+    },
+    {
+      "id": "ugU3HQy016g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Shahid Anwar",
+      "publishedAt": "2026-08-21T08:53:19Z",
+      "firstSeenAt": "2026-08-21T10:53:19Z"
+    },
+    {
+      "id": "qfpD1FWdyTs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Zubair Trabzada | AI Workshop",
+      "publishedAt": "2026-08-20T18:53:19Z",
+      "firstSeenAt": "2026-08-21T10:53:19Z"
+    },
+    {
+      "id": "qIHXumMVjsg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "HighLevel",
+      "publishedAt": "2026-08-20T17:53:19Z",
+      "firstSeenAt": "2026-08-21T10:53:19Z"
+    },
     {
       "id": "M7H6aT8klAs",
       "type": "short",
@@ -18597,15 +18629,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T09:53:23Z",
-      "new": 4,
-      "long": 4,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
       "runAt": "2026-08-07T10:53:24Z",
       "new": 6,
       "long": 3,
@@ -20620,6 +20643,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-21T10:53:19Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
