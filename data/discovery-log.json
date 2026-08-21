@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T19:53:10Z",
+  "updatedAt": "2026-08-21T20:53:11Z",
   "items": [
+    {
+      "id": "vIAH9SaCNvo",
+      "type": "short",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-21T20:16:04Z",
+      "firstSeenAt": "2026-08-21T20:53:11Z"
+    },
+    {
+      "id": "hDBA9XcASXA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DigiHealth Pro",
+      "publishedAt": "2026-08-21T16:53:11Z",
+      "firstSeenAt": "2026-08-21T20:53:11Z"
+    },
+    {
+      "id": "MeRRfbmT6Ks",
+      "type": "long",
+      "source": "secondary",
+      "channel": "LOUIS DIGITAL MEDIA",
+      "publishedAt": "2026-08-21T15:53:11Z",
+      "firstSeenAt": "2026-08-21T20:53:11Z"
+    },
+    {
+      "id": "ipFrtRas2bs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vimas Tech",
+      "publishedAt": "2026-08-21T13:53:11Z",
+      "firstSeenAt": "2026-08-21T20:53:11Z"
+    },
+    {
+      "id": "AflxJjPCMaY",
+      "type": "short",
+      "source": "secondary",
+      "channel": "RENDHER",
+      "publishedAt": "2026-08-21T13:53:11Z",
+      "firstSeenAt": "2026-08-21T20:53:11Z"
+    },
+    {
+      "id": "zZewQgH2lMY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anoop Digital",
+      "publishedAt": "2026-08-21T13:53:11Z",
+      "firstSeenAt": "2026-08-21T20:53:11Z"
+    },
+    {
+      "id": "RzgVVAmpH0Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DMAT ACADEMY ",
+      "publishedAt": "2026-08-21T13:53:11Z",
+      "firstSeenAt": "2026-08-21T20:53:11Z"
+    },
+    {
+      "id": "P3XSgyxKlyc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "FireWireAds",
+      "publishedAt": "2026-08-21T07:53:11Z",
+      "firstSeenAt": "2026-08-21T20:53:11Z"
+    },
     {
       "id": "9vSJH8gkgNU",
       "type": "short",
@@ -18925,15 +18989,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T19:53:27Z",
-      "new": 4,
-      "long": 4,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
       "runAt": "2026-08-07T20:53:28Z",
       "new": 6,
       "long": 6,
@@ -20912,6 +20967,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-21T20:53:11Z",
+      "new": 8,
+      "long": 6,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
