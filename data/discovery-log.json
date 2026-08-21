@@ -1,7 +1,103 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T12:53:21Z",
+  "updatedAt": "2026-08-21T14:53:22Z",
   "items": [
+    {
+      "id": "0Kp2ES8h6Ps",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-21T14:39:40Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
+    {
+      "id": "7LcpqOgjmTY",
+      "type": "short",
+      "source": "primary",
+      "channel": "Builders Central",
+      "publishedAt": "2026-08-21T14:16:37Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
+    {
+      "id": "E1n8XdV7Q7g",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-21T14:08:53Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
+    {
+      "id": "I0f3uUApLzY",
+      "type": "long",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-21T13:51:30Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
+    {
+      "id": "NYII2KxQfRo",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-21T12:57:20Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
+    {
+      "id": "LDLRwra4jiQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "John Fijen",
+      "publishedAt": "2026-08-21T14:44:22Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
+    {
+      "id": "WGjx2K3NOok",
+      "type": "long",
+      "source": "secondary",
+      "channel": "PixelPro Academy",
+      "publishedAt": "2026-08-21T14:42:22Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
+    {
+      "id": "pTQArhbALXg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Raftar Now",
+      "publishedAt": "2026-08-21T14:00:22Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
+    {
+      "id": "nIaMf36195A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-08-21T13:53:22Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
+    {
+      "id": "kq-IaXtMwtE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DailyCoderHour",
+      "publishedAt": "2026-08-21T12:53:22Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
+    {
+      "id": "8LNH7TxvD14",
+      "type": "long",
+      "source": "secondary",
+      "channel": "IBM Technology",
+      "publishedAt": "2026-08-21T10:53:22Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
+    {
+      "id": "aWwsZuhtAfw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "algorithms365 ( Kannada )",
+      "publishedAt": "2026-08-21T07:53:22Z",
+      "firstSeenAt": "2026-08-21T14:53:22Z"
+    },
     {
       "id": "yCACmFTiCto",
       "type": "long",
@@ -18701,33 +18797,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T12:53:26Z",
-      "new": 2,
-      "long": 2,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
-      "runAt": "2026-08-07T13:53:27Z",
-      "new": 8,
-      "long": 4,
-      "shorts": 4,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
-      "runAt": "2026-08-07T14:53:06Z",
-      "new": 6,
-      "long": 4,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
       "runAt": "2026-08-07T15:53:15Z",
       "new": 8,
       "long": 3,
@@ -20724,6 +20793,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-21T14:53:22Z",
+      "new": 12,
+      "long": 8,
+      "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
