@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T05:53:14Z",
+  "updatedAt": "2026-08-21T06:53:15Z",
   "items": [
+    {
+      "id": "rz6hHv-nXKA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Stefan Mischook",
+      "publishedAt": "2026-08-21T00:53:15Z",
+      "firstSeenAt": "2026-08-21T06:53:15Z"
+    },
+    {
+      "id": "ZyPo95SZU_k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tony Denaro",
+      "publishedAt": "2026-08-20T22:53:15Z",
+      "firstSeenAt": "2026-08-21T06:53:15Z"
+    },
     {
       "id": "VbTsFtwjl1k",
       "type": "short",
@@ -18485,15 +18501,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T05:53:20Z",
-      "new": 3,
-      "long": 1,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 31,
-      "secondaryQuery": "AI automation"
-    },
-    {
       "runAt": "2026-08-07T06:53:21Z",
       "new": 6,
       "long": 3,
@@ -20508,6 +20515,15 @@
       "channelsChecked": 33,
       "warnings": 32,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-21T06:53:15Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 31,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
