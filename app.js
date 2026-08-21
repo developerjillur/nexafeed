@@ -1,16 +1,17 @@
-import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260820-daily-archive";
-import { buildPlaybackUrl, buildYouTubeChannelUrl, buildYouTubeWatchUrl, readPlaybackRequest } from "./video-actions.mjs?v=20260820-daily-archive";
+import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260821-gemini-brief";
+import { buildPlaybackUrl, buildYouTubeChannelUrl, buildYouTubeWatchUrl, readPlaybackRequest } from "./video-actions.mjs?v=20260821-gemini-brief";
 import {
   ARCHIVE_RETENTION_DAYS,
   ARCHIVE_TIME_ZONE,
   archiveDateOptions,
   archiveStateRetentionMs,
   buildDailyExport,
+  dailyAnalysisPrompt,
   dailyExportMarkdown,
   dailyExportUrls,
   itemsForArchiveDate,
   resolveArchiveDate,
-} from "./daily-archive.mjs?v=20260820-daily-archive";
+} from "./daily-archive.mjs?v=20260821-gemini-brief";
 
 const app = document.querySelector("#app");
 const overlayRoot = document.querySelector("#overlayRoot");
@@ -666,7 +667,7 @@ function youtubeEmbedSrc(video, autoplay = true) {
 function floatingPopupUrl(video) {
   const popupUrl = new URL("float.html", window.location.href);
   const params = new URLSearchParams({
-    v: "20260820-daily-archive",
+    v: "20260821-gemini-brief",
     id: video.id,
     title: String(video.title || "YourTube video").slice(0, 180),
     type: video.type === "short" ? "short" : "long",
@@ -1294,6 +1295,23 @@ function archiveDateLabel(dateKey) {
   }).format(date);
 }
 
+function archiveQuickDateMarkup(dates) {
+  return dates.slice(0, 7).map((dateKey, index) => {
+    const date = new Date(`${dateKey}T12:00:00+06:00`);
+    const label = index === 0
+      ? "Today"
+      : index === 1
+        ? "Yesterday"
+        : new Intl.DateTimeFormat("en", { timeZone: ARCHIVE_TIME_ZONE, weekday: "short" }).format(date);
+    const day = new Intl.DateTimeFormat("en", { timeZone: ARCHIVE_TIME_ZONE, day: "2-digit" }).format(date);
+    const month = new Intl.DateTimeFormat("en", { timeZone: ARCHIVE_TIME_ZONE, month: "short" }).format(date);
+    return `
+      <button type="button" class="archive-quick-date ${state.selectedDate === dateKey ? "active" : ""}" data-archive-date="${escapeHtml(dateKey)}" data-archive-quick-date="${escapeHtml(dateKey)}" aria-pressed="${state.selectedDate === dateKey ? "true" : "false"}" aria-label="Show videos collected on ${escapeHtml(archiveDateLabel(dateKey))}">
+        <small>${escapeHtml(label)}</small><strong>${escapeHtml(day)}</strong><span>${escapeHtml(month)}</span>
+      </button>`;
+  }).join("");
+}
+
 function syncArchiveLocation() {
   const target = new URL(window.location.href);
   target.searchParams.delete("play");
@@ -1330,15 +1348,29 @@ function archiveDateToolbar() {
   return `
     <section class="daily-filter" data-archive-selected="${escapeHtml(state.selectedDate)}">
       <div class="daily-filter-copy">
-        <p class="eyebrow">30-day Bangladesh archive</p>
+        <p class="eyebrow"><span class="archive-live-dot"></span>30-day Bangladesh archive</p>
         <h1>${escapeHtml(archiveDateLabel(state.selectedDate))}</h1>
         <span>${items.length} videos · ${longCount} long · ${shortCount} Shorts</span>
       </div>
-      <div class="daily-date-controls">
-        <button type="button" class="archive-date-step" data-archive-date="${escapeHtml(older)}" ${older ? "" : "disabled"} aria-label="Previous archive day">‹</button>
-        <label><span>Select date</span><input id="archiveDateInput" type="date" value="${escapeHtml(state.selectedDate)}" min="${escapeHtml(dates.at(-1))}" max="${escapeHtml(dates[0])}"></label>
-        <button type="button" class="archive-date-step" data-archive-date="${escapeHtml(newer)}" ${newer ? "" : "disabled"} aria-label="Next archive day">›</button>
-        <button type="button" class="archive-today" data-archive-date="${escapeHtml(dates[0])}" ${state.selectedDate === dates[0] ? "disabled" : ""}>Today</button>
+      <div class="daily-date-panel">
+        <div class="daily-date-controls">
+          <button type="button" class="archive-date-step" data-archive-date="${escapeHtml(older)}" ${older ? "" : "disabled"} aria-label="Previous archive day">‹</button>
+          <label class="archive-calendar-field">
+            <span class="archive-calendar-icon" aria-hidden="true">▦</span>
+            <span class="archive-calendar-input"><small>Select archive date</small><input id="archiveDateInput" type="date" value="${escapeHtml(state.selectedDate)}" min="${escapeHtml(dates.at(-1))}" max="${escapeHtml(dates[0])}"></span>
+          </label>
+          <button type="button" class="archive-date-step" data-archive-date="${escapeHtml(newer)}" ${newer ? "" : "disabled"} aria-label="Next archive day">›</button>
+          <button type="button" class="archive-today" data-archive-date="${escapeHtml(dates[0])}" ${state.selectedDate === dates[0] ? "disabled" : ""}>Today</button>
+        </div>
+        <div class="archive-quick-dates" aria-label="Quick archive dates">${archiveQuickDateMarkup(dates)}</div>
+        <div class="archive-ai-copy-row">
+          <button id="copyDailyAnalysisPrompt" class="archive-ai-prompt" type="button">
+            <span class="archive-ai-icon" aria-hidden="true">✦</span>
+            <span><strong>Copy Gemini analysis prompt</strong><small>Research brief + all ${items.length} video URLs</small></span>
+            <span class="archive-copy-badge">Copy</span>
+          </button>
+          <small id="dailyPromptStatus" aria-live="polite">Paste into Gemini for a full no-watch daily briefing.</small>
+        </div>
       </div>
     </section>`;
 }
@@ -2534,20 +2566,31 @@ function downloadText(value, filename, type = "text/plain;charset=utf-8") {
 
 function setDailyExportStatus(message) {
   state.archiveExportStatus = message;
-  const node = document.querySelector("#dailyExportStatus");
-  if (node) node.textContent = message;
+  document.querySelectorAll("#dailyExportStatus, #dailyPromptStatus").forEach((node) => { node.textContent = message; });
 }
 
 async function copyDailyExport(format) {
   const payload = dailyExportPayload();
-  const value = format === "urls"
-    ? dailyExportUrls(payload)
-    : format === "markdown"
-      ? dailyExportMarkdown(payload)
-      : JSON.stringify(payload, null, 2);
+  const value = format === "analysis"
+    ? dailyAnalysisPrompt(payload)
+    : format === "urls"
+      ? dailyExportUrls(payload)
+      : format === "markdown"
+        ? dailyExportMarkdown(payload)
+        : JSON.stringify(payload, null, 2);
   await copyText(value);
-  const label = format === "urls" ? "All video URLs" : format === "markdown" ? "Markdown" : "JSON";
+  const label = format === "analysis" ? "Gemini analysis prompt + all URLs" : format === "urls" ? "All video URLs" : format === "markdown" ? "Markdown" : "JSON";
   setDailyExportStatus(`${label} copied for ${state.selectedDate}.`);
+  if (format === "analysis") {
+    const button = document.querySelector("#copyDailyAnalysisPrompt");
+    const badge = button?.querySelector(".archive-copy-badge");
+    button?.classList.add("copied");
+    if (badge) badge.textContent = "Copied ✓";
+    setTimeout(() => {
+      if (button?.isConnected) button.classList.remove("copied");
+      if (badge?.isConnected) badge.textContent = "Copy";
+    }, 2200);
+  }
 }
 
 function downloadDailyExport(format) {
@@ -2776,6 +2819,10 @@ app.addEventListener("click", (event) => {
     return;
   }
 
+  if (event.target.closest("#copyDailyAnalysisPrompt")) {
+    copyDailyExport("analysis").catch(() => setDailyExportStatus("Gemini prompt could not be copied. Try Copy all URLs."));
+    return;
+  }
   if (event.target.closest("#copyDailyUrls")) {
     copyDailyExport("urls").catch(() => setDailyExportStatus("Video URLs could not be copied. Try Copy JSON."));
     return;

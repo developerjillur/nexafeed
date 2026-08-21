@@ -32,7 +32,7 @@ The default public demo uses the current NexaLance AI/web-development source set
 | Area | Features |
 |---|---|
 | Personal feed | Priority channel feed, topic/keyword discovery, category chips, fresh/new indicators |
-| 30-day daily archive | Home defaults to today in Asia/Dhaka; select any of the last 30 calendar days, replay every collected video from that day, and copy/download AI-ready JSON or Markdown with available descriptions and cached top comments |
+| 30-day daily archive | Home defaults to today in Asia/Dhaka; use premium quick-date controls; copy a Gemini research prompt plus every selected-day URL in one click; or export AI-ready JSON/Markdown |
 | Shorts | Dedicated Shorts tab, YouTube-style overlay, exact History/Ignored replay, 10-second directional back/forward history, keyboard/wheel/swipe navigation |
 | Long videos | Full-width watch layout, autoplay queue, incomplete-progress resume, next playable queue, 10-second transient Previous backtracking |
 | Watch control | Manual skip sends under-threshold videos to an Ignored list, 30-second / half-Short threshold sends meaningful views to Watch History, normal queues hide watched and ignored items |
@@ -54,11 +54,8 @@ The demo at `developerjillur.github.io/nexafeed` ships with the existing AI, aut
 Release snapshot:
 
 - 33 monitored channels
-- 353 playable feed items retained in the current 30-day archive
-- 174 long videos
-- 179 Shorts
-- 305 primary channel items
-- 48 topic/keyword/category discovery items
+- Rolling 30-day playable archive; totals change on every hourly refresh
+- Live Long/Short and primary/discovery totals are published in `data/videos.json` and shown in the app
 - Asia/Dhaka timezone
 
 Files that define the default setup:
@@ -108,6 +105,8 @@ The **Float** action prefers the dedicated same-origin `float.html` pop-out and 
 ### 30-day daily archive and AI export
 
 - **Home defaults to Today** in the `Asia/Dhaka` timezone. The date control can move across exactly 30 Bangladesh calendar days, including empty days.
+- The premium date panel includes Previous/Next, the full 30-day calendar, Today, and seven quick-date chips for fast switching.
+- **Copy Gemini analysis prompt** copies one research-grade prompt plus every selected-day Long/Short URL. The prompt asks Gemini to inspect available transcripts/captions and visual evidence, explain topics, lessons, demonstrations, steps, tools, new releases, limitations, timestamps, cross-video trends, priority videos, and an actionable Bangla daily brief without inventing inaccessible details.
 - Selecting a date rebuilds Home from every playable Long video and Short collected for that day. This historical daily view keeps watched and ignored cards visible with their status instead of silently removing them.
 - The sidebar **Daily archive** tab keeps the same selected date and adds **Copy all URLs**, **Copy JSON**, **Copy Markdown**, **Download JSON**, and **Download .md** actions. **Copy all URLs** places every selected-day Long and Short canonical YouTube URL on its own line.
 - Daily exports contain totals by type/source/channel plus canonical YourTube and YouTube links, title/channel/date/duration/view metadata, category/topic fields, cached descriptions, and cached top comments when available.

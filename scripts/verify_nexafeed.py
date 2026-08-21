@@ -247,12 +247,14 @@ for needle in [
     "repositoryIssuesNewUrl",
     "[YourTube Config] Apply feed settings",
     "archiveDateToolbar",
+    "archiveQuickDateMarkup",
     "dailyExportPayload",
+    "copyDailyAnalysisPrompt",
     "copyDailyExport",
 ]:
     if needle not in app_js:
         fail(f"app missing behavior marker {needle}")
-for needle in ["ARCHIVE_RETENTION_DAYS = 30", "dailyExportUrls", 'contentTrust: "untrusted-public-data"']:
+for needle in ["ARCHIVE_RETENTION_DAYS = 30", "dailyExportUrls", "dailyAnalysisPrompt", 'contentTrust: "untrusted-public-data"']:
     if needle not in daily_archive_js:
         fail(f"daily archive module missing behavior marker {needle}")
 

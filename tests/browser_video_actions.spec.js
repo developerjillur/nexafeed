@@ -60,6 +60,22 @@ test.describe('post-review hardening regressions', () => {
     await expect(page.locator('[data-video-context-id="00kEcNby86c"]')).toBeVisible();
     await expect(page.locator('[data-video-context-id="Gx2QN7FvKAM"]')).toBeVisible();
     await expect(page.locator('[data-video-context-id="Ut0i-SSEXY4"]')).toHaveCount(0);
+    const quickDates = page.locator('[data-archive-quick-date]');
+    await expect(quickDates).toHaveCount(7);
+    await expect(page.locator('[data-archive-quick-date="2026-08-20"]')).toHaveClass(/active/);
+    await expect(page.locator('[data-archive-quick-date="2026-08-20"]')).toHaveAttribute('aria-pressed', 'true');
+    await expect(page.locator('[data-archive-quick-date="2026-08-19"]')).toHaveAttribute('aria-pressed', 'false');
+    await expect(page.locator('#copyDailyAnalysisPrompt')).toBeVisible();
+    await page.locator('#copyDailyAnalysisPrompt').click();
+    await expect.poll(() => page.evaluate(() => navigator.clipboard.readText())).toContain('You are a senior YouTube research analyst');
+    const copiedPrompt = await page.evaluate(() => navigator.clipboard.readText());
+    expect(copiedPrompt).toContain('Selected YourTube date: 2026-08-20');
+    expect(copiedPrompt).toContain('https://www.youtube.com/watch?v=00kEcNby86c');
+    expect(copiedPrompt).toContain('https://www.youtube.com/watch?v=Gx2QN7FvKAM');
+    expect(copiedPrompt).not.toContain('Ut0i-SSEXY4');
+    expect(copiedPrompt).toContain('What is demonstrated');
+    expect(copiedPrompt).toContain('New updates');
+    await expect(page.locator('#dailyPromptStatus')).toContainText('copied');
     await page.locator('[data-short-id="00kEcNby86c"]').click();
     await expect(page.locator('.short-shell')).toHaveAttribute('data-video-context-id', '00kEcNby86c');
     await page.locator('#shortClose').click();
@@ -77,8 +93,10 @@ test.describe('post-review hardening regressions', () => {
       'https://www.youtube.com/watch?v=Gx2QN7FvKAM',
     ].sort());
 
-    await page.locator('#archiveDateInput').fill('2026-08-19');
-    await page.locator('#archiveDateInput').dispatchEvent('change');
+    await page.locator('[data-archive-quick-date="2026-08-19"]').click();
+    await expect(page.locator('#archiveDateInput')).toHaveValue('2026-08-19');
+    await expect(page.locator('[data-archive-quick-date="2026-08-19"]')).toHaveAttribute('aria-pressed', 'true');
+    await expect(page.locator('[data-archive-quick-date="2026-08-20"]')).toHaveAttribute('aria-pressed', 'false');
     await expect(page.locator('[data-video-context-id="Ut0i-SSEXY4"]')).toBeVisible();
     await expect(page.locator('[data-video-context-id="00kEcNby86c"]')).toHaveCount(0);
 
@@ -127,11 +145,21 @@ test.describe('post-review hardening regressions', () => {
   });
 
   test('Daily archive date and export controls stay reachable on mobile', async ({ browser }) => {
-    const context = await browser.newContext({ viewport: { width: 390, height: 740 } });
+    const context = await browser.newContext({ viewport: { width: 360, height: 740 } });
     await context.addInitScript(() => localStorage.clear());
     const page = await context.newPage();
     await page.goto(`${QA_BASE}qa=daily-archive-mobile`, { waitUntil: 'domcontentloaded' });
     await expect(page.locator('#archiveDateInput')).toBeVisible();
+    await expect(page.locator('[data-archive-quick-date]')).toHaveCount(7);
+    await expect(page.locator('#copyDailyAnalysisPrompt')).toBeVisible();
+    const promptTitleLayout = await page.locator('#copyDailyAnalysisPrompt strong').evaluate((element) => ({
+      text: element.textContent.trim(),
+      whiteSpace: getComputedStyle(element).whiteSpace,
+      fullyRendered: element.scrollHeight <= element.clientHeight + 1,
+    }));
+    expect(promptTitleLayout.text).toBe('Copy Gemini analysis prompt');
+    expect(promptTitleLayout.whiteSpace).not.toBe('nowrap');
+    expect(promptTitleLayout.fullyRendered).toBe(true);
     const filterBounds = await page.locator('.daily-filter').evaluate((element) => {
       const rect = element.getBoundingClientRect();
       return { left: rect.left, right: rect.right, width: innerWidth };

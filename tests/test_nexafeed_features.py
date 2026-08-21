@@ -66,8 +66,8 @@ class FrontendFeatureTests(unittest.TestCase):
             'data-view="ignored"',
             'id="ignoredCount"',
             "Ignored videos",
-            "app.js?v=20260820-daily-archive",
-            "style.css?v=20260820-daily-archive",
+            "app.js?v=20260821-gemini-brief",
+            "style.css?v=20260821-gemini-brief",
         ]:
             self.assertIn(marker, index_html)
 
@@ -95,8 +95,8 @@ class FrontendFeatureTests(unittest.TestCase):
         ]:
             self.assertIn(marker, app_js)
 
-        self.assertIn("app.js?v=20260820-daily-archive", index_html)
-        self.assertIn("style.css?v=20260820-daily-archive", index_html)
+        self.assertIn("app.js?v=20260821-gemini-brief", index_html)
+        self.assertIn("style.css?v=20260821-gemini-brief", index_html)
         self.assertIn("still present in the active feed is protected from pruning", readme)
 
     def test_skip_thresholds_do_not_recreate_old_five_second_watch_rule(self):
@@ -169,7 +169,7 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
         for marker in [
-            'import { buildPlaybackUrl, buildYouTubeChannelUrl, buildYouTubeWatchUrl, readPlaybackRequest } from "./video-actions.mjs?v=20260820-daily-archive";',
+            'import { buildPlaybackUrl, buildYouTubeChannelUrl, buildYouTubeWatchUrl, readPlaybackRequest } from "./video-actions.mjs?v=20260821-gemini-brief";',
             "initialPlaybackRequest: readPlaybackRequest(window.location.href)",
             "function openInitialPlaybackRequest",
             "openShort(video, { allowHiddenRequested: true })",
@@ -187,6 +187,7 @@ class FrontendFeatureTests(unittest.TestCase):
             archiveDateOptions,
             archiveStateRetentionMs,
             buildDailyExport,
+            dailyAnalysisPrompt,
             dailyExportMarkdown,
             dailyExportUrls,
             dateKeyInTimeZone,
@@ -232,6 +233,21 @@ class FrontendFeatureTests(unittest.TestCase):
           expect(urls.length === 2, "all selected-day Long and Short URLs must be copied");
           expect(urls.includes("https://www.youtube.com/watch?v=00kEcNby86c") && urls.includes("https://www.youtube.com/watch?v=Gx2QN7FvKAM"), "URL copy must contain canonical Long and Short destinations");
           expect(!urls.some((url) => url.includes("Ut0i-SSEXY4")), "another day's URL must not leak into the copied list");
+          const analysisPrompt = dailyAnalysisPrompt(payload);
+          for (const marker of [
+            "You are a senior YouTube research analyst",
+            "Selected YourTube date: 2026-08-20",
+            "Topics and main ideas",
+            "What is taught",
+            "What is demonstrated",
+            "New updates",
+            "Cross-video synthesis",
+            "Do not invent",
+            "Respond in clear Bangla",
+            "https://www.youtube.com/watch?v=00kEcNby86c",
+            "https://www.youtube.com/watch?v=Gx2QN7FvKAM",
+          ]) expect(analysisPrompt.includes(marker), `analysis prompt missing: ${{marker}}`);
+          expect(!analysisPrompt.includes("Ut0i-SSEXY4"), "analysis prompt must contain only the selected day's URLs");
         """
         result = subprocess.run(
             ["node", "--input-type=module", "-e", script],
@@ -454,7 +470,7 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
         self.assertIn(
-            'import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260820-daily-archive";',
+            'import { buildShortPlaybackQueue, createTransientDirectionalHistory } from "./short-history.mjs?v=20260821-gemini-brief";',
             app_js,
         )
         self.assertIn("shortHistory: createTransientDirectionalHistory", app_js)
@@ -556,8 +572,8 @@ class FrontendFeatureTests(unittest.TestCase):
 
         self.assertIn("gemini-button", style_css)
         self.assertIn("gemini-icon", style_css)
-        self.assertIn("app.js?v=20260820-daily-archive", index_html)
-        self.assertIn("style.css?v=20260820-daily-archive", index_html)
+        self.assertIn("app.js?v=20260821-gemini-brief", index_html)
+        self.assertIn("style.css?v=20260821-gemini-brief", index_html)
 
     def test_wheel_scroll_over_youtube_iframe_is_captured(self):
         app_js = (ROOT / "app.js").read_text(encoding="utf-8")
@@ -736,8 +752,8 @@ class FrontendFeatureTests(unittest.TestCase):
         self.assertIn('id="brandButton" class="brand" href="./"', index_html)
         self.assertIn("YourTube - A personal YouTube Package", index_html)
         self.assertIn("Watch only those valuable for you", index_html)
-        self.assertIn("style.css?v=20260820-daily-archive", index_html)
-        self.assertIn("app.js?v=20260820-daily-archive", index_html)
+        self.assertIn("style.css?v=20260821-gemini-brief", index_html)
+        self.assertIn("app.js?v=20260821-gemini-brief", index_html)
         self.assertIn('aria-label="YourTube home"', index_html)
         self.assertIn('data-view="liked"', index_html)
         self.assertIn('id="likedCount"', index_html)
