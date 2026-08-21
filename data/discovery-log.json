@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T20:53:11Z",
+  "updatedAt": "2026-08-21T21:53:12Z",
   "items": [
+    {
+      "id": "RkNafW_Mv9w",
+      "type": "long",
+      "source": "primary",
+      "channel": "Jack",
+      "publishedAt": "2026-08-21T21:48:48Z",
+      "firstSeenAt": "2026-08-21T21:53:12Z"
+    },
+    {
+      "id": "RLfI-9Xob3o",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Liqui AI",
+      "publishedAt": "2026-08-21T20:53:12Z",
+      "firstSeenAt": "2026-08-21T21:53:12Z"
+    },
+    {
+      "id": "BrmT03OjWn0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Frugal Gamer",
+      "publishedAt": "2026-08-21T16:53:12Z",
+      "firstSeenAt": "2026-08-21T21:53:12Z"
+    },
+    {
+      "id": "8BQo58VIOA0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kamran AI Insights",
+      "publishedAt": "2026-08-21T14:53:12Z",
+      "firstSeenAt": "2026-08-21T21:53:12Z"
+    },
+    {
+      "id": "LwWYhIyu-RE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jake One Page",
+      "publishedAt": "2026-08-21T14:53:12Z",
+      "firstSeenAt": "2026-08-21T21:53:12Z"
+    },
+    {
+      "id": "3t-da-73ygA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rohit raj motivation",
+      "publishedAt": "2026-08-21T04:53:12Z",
+      "firstSeenAt": "2026-08-21T21:53:12Z"
+    },
     {
       "id": "vIAH9SaCNvo",
       "type": "short",
@@ -18989,15 +19037,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T20:53:28Z",
-      "new": 6,
-      "long": 6,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
       "runAt": "2026-08-07T21:53:29Z",
       "new": 5,
       "long": 5,
@@ -20976,6 +21015,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-21T21:53:12Z",
+      "new": 6,
+      "long": 6,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
