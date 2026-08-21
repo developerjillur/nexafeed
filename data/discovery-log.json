@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T08:53:07Z",
+  "updatedAt": "2026-08-21T09:53:17Z",
   "items": [
+    {
+      "id": "M7H6aT8klAs",
+      "type": "short",
+      "source": "primary",
+      "channel": "Brendan Automation",
+      "publishedAt": "2026-08-21T09:04:32Z",
+      "firstSeenAt": "2026-08-21T09:53:17Z"
+    },
+    {
+      "id": "YgDdu98nTR8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anoop Digital",
+      "publishedAt": "2026-08-21T06:53:17Z",
+      "firstSeenAt": "2026-08-21T09:53:17Z"
+    },
+    {
+      "id": "Bhewb1X7cj8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Unwrap",
+      "publishedAt": "2026-08-20T18:53:17Z",
+      "firstSeenAt": "2026-08-21T09:53:17Z"
+    },
+    {
+      "id": "aYx8t2vWR8s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vendasta",
+      "publishedAt": "2026-08-20T15:53:17Z",
+      "firstSeenAt": "2026-08-21T09:53:17Z"
+    },
     {
       "id": "WSWA56bs4Bc",
       "type": "short",
@@ -18565,15 +18597,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T08:53:17Z",
-      "new": 1,
-      "long": 0,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
       "runAt": "2026-08-07T09:53:23Z",
       "new": 4,
       "long": 4,
@@ -20588,6 +20611,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-21T09:53:17Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
