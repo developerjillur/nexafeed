@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T22:53:12Z",
+  "updatedAt": "2026-08-21T23:53:13Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9263,10 +9263,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-21T22:53:12Z",
+      "checkedAt": "2026-08-21T23:53:13Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9281,7 +9281,7 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-21T22:53:12Z",
+      "checkedAt": "2026-08-21T23:53:13Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -10665,10 +10665,10 @@
       "probeClient": "web_embedded"
     },
     "h8e334CiG1M": {
-      "checkedAt": "2026-08-21T22:53:12Z",
+      "checkedAt": "2026-08-21T23:53:13Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "qXTftsSZIiE": {
       "checkedAt": "2026-08-21T14:53:22Z",
@@ -11536,6 +11536,42 @@
       "description": "How do you take a Python AI agent from a working demo to a production application?\n\nThis visual architecture walkthrough explains the core production AI agent stack, from FastAPI and LangGraph to Postgres, Redis, model routing, observability, testing, and AI evaluations.\n\nWe begin with a local Python application that calls an LLM. Then, one responsibility at a time, we add the layers needed when real users, persistent data, changing model providers, failures, and quality requirements enter the picture.\n\nThe goal is not to memorize a collection of tools. It is to understand why each layer exists, what problem it solves, and when your application may not need it.\n\nWhat you will learn:\n\n• How FastAPI and Uvicorn expose a Python AI agent as an API  \n• How asynchronous Python handles concurrent I/O waits  \n• How Pydantic validates requests and structured responses  \n• When LangGraph becomes useful for workflows, state, routing, checkpoints, and human review  \n• How Postgres and pgvector support durable data, embeddings, semantic search, and RAG  \n• How Redis can provide caching and fast application state  \n• How LiteLLM/OpenRouter supports model routing, retries, and provider fallbacks  \n• How Langfuse and Opik help trace and investigate agent behavior  \n• Why Pytest, tracing, and AI evaluations answer different questions  \n• How uv and Ruff support a reproducible and consistent Python project  \n• How one request travels through the complete production AI system  \n\nThis video is designed for Python developers moving beyond notebooks, beginners learning AI agent architecture, and engineers building RAG applications or LLM-powered services.\n\nThe focus is the core application stack. Deployment, autoscaling, load balancing, Kubernetes, cloud infrastructure, authentication, security, and secret management are acknowledged but not covered in depth.\n\nCHAPTERS\n\n00:00 From a local AI demo to production  \n00:39 Why the tools are replaceable  \n01:02 Deployment, cloud, and Kubernetes scope  \n01:19 FastAPI and Uvicorn  \n02:33 Async Python and concurrent requests  \n02:58 Pydantic request and response contracts  \n03:58 When LangGraph becomes useful  \n05:00 Postgres and pgvector for semantic retrieval and RAG  \n05:50 Redis caching and fast state  \n06:24 Model providers and LiteLLM  \n07:39 A successful request can still be wrong  \n07:55 Observability with Langfuse and Opik  \n08:39 Pytest, tracing, and AI evaluations  \n10:04 uv and Ruff  \n10:26 Complete production AI stack recap  \n11:17 What sits beyond the core stack  \n\nIf this breakdown helped you understand production AI systems, subscribe for more practical videos about AI engineering, Python, RAG, and application architecture.\n\nWhich layer would you like to see implemented in a deeper coding video?\n\n#AIAgents #AIEngineering #Python",
       "commentCount": 15,
       "likeCount": 430,
+      "probeClient": "web_embedded"
+    },
+    "b1H5h7YvL1k": {
+      "checkedAt": "2026-08-21T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "NEW GLM 5.3 Unlimited and 100% Free Method!! [NO CLICKBAIT] 🔥\n━━━━━━━━━━━━━━━━━━━━━━\nWebsite I used in video - \n\nhttp://mailtemps.com/\nhttp://10minutemail.com/\n━━━━━━━━━━━━━━━━━━━━━━\n\nThis technique leverages GLM 5.3's capabilities for higher compliance, flexibility, and output quality. Perfect for AI enthusiasts, developers, and power users looking to get more out of Z.ai's latest AI model.\n\n━━━━━━━━━━━━━━━━━━\n\nAXION INFO :\nBusiness contact - business@axioncreator.com\nDiscord server - https://discord.gg/SWvJkCASD9\nTelegram channel - t.me/unrealists\n\n━━━━━━━━━━━━━━━━━━\nImportant Educational Disclaimer:\nThis video is for educational and research purposes only. All methods shown are demonstrations of prompt engineering and AI interaction techniques. Viewers are responsible for complying with Z.ai's Terms of Service, GLM usage policies, and all applicable laws. This content does not encourage, promote, or provide tools to violate any platform rules. Z.ai may update GLM 5.3 at any time, and results can vary. The goal is purely to teach creative prompting strategies that enhance understanding of large language model behavior. We do not guarantee permanent changes or endorse bypassing intended safeguards. Always use AI responsibly and ethically.\n━━━━━━━━━━━━━━━━━━\nKeywords optimized for 2026 YouTube algorithm: glm 5.3 uncensored, glm 5.3 jailbreak, glm 5.3 secret feature, bypass glm censorship, uncensored glm prompt, glm 5.3 tutorial 2026, z.ai glm 5.3, z ai glm, glm ai exploit, remove glm filters, AI, GLM 5.3, Z.ai, Z AI, AI news, prompt engineering, AI chatbot, GLM prompt, GLM unfiltered, GLM 5.3 unrestricted, GLM 5.3 prompt, GLM AI tutorial, GLM 5.3 coding, GLM 5.3 reasoning, ChatGPT vs GLM, DeepSeek vs GLM, AI controversy, AI censorship, AI tools 2026, machine learning, GLM moderation problem, GLM moderation problem fix, GL.ai, future of AI, AI explained, artificial intelligence, AI tutorial, generative AI, tech news.\n\nIf you want maximum AI freedom, drop a like and subscribe for weekly advanced AI breakdowns, tool exploits, and prompt engineering secrets. Comment your results after trying this!\n\nTurn on notifications so you never miss the next viral AI unlock. What should I test next with uncensored GLM 5.3? Drop it below.\n\n#GLM53 #GLM #ZAI #UncensoredAI #AIPromptEngineering #AI #ArtificialIntelligence #PromptEngineering #MachineLearning #AITools #AI2026",
+      "commentCount": 2,
+      "likeCount": 26,
+      "probeClient": "web_embedded"
+    },
+    "BKLKs24wLOE": {
+      "checkedAt": "2026-08-21T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this webinar, Jonas Slaunwhite will explore how small- and medium-sized businesses can unlock the power of generative AI (GenAI). While looking at what makes GenAI unique, he'll outline the hurdles businesses face and share practical tips for evaluating tools. Through real-world success and failure stories, participants will learn key adoption strategies and the vital role of training in driving impact.\n\nFeaturing guest speaker Jonas Slaunwhite and moderator Olivia Collette.\n\nTo learn more about our AI programs and courses, visit https://www.concordia.ca/cce/courses/artificial-intelligence.html.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "VPKFfrUoUAA": {
+      "checkedAt": "2026-08-21T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥Microsoft Applied Agentic AI: Systems Design & Impact - https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=VPKFfrUoUAA&utm_medium=DescriptionFF&utm_source=Youtube\n🔥AI Accelerator Program - From Prompts to Agentic Workflows - https://www.simplilearn.com/ai-accelerator-program?utm_campaign=VPKFfrUoUAA&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Microsoft Applied Generative AI and Agentic AI Specialization - https://www.simplilearn.com/microsoft-applied-ai-course?utm_campaign=VPKFfrUoUAA&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Virginia Tech Applied Agentic AI: Systems Design & Impact - https://www.simplilearn.com/vt-applied-agentic-ai-course?utm_campaign=VPKFfrUoUAA&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Michigan Engineering Generative AI Applications for Leaders - https://www.simplilearn.com/generative-ai-for-business-transformation?utm_campaign=VPKFfrUoUAA&utm_medium=DescriptionFF&utm_source=Youtube\n\n\nIn this video by Simplilearn, we explore the best Gen AI certifications in 2026 that can help you build future-ready artificial intelligence skills. With Generative AI transforming industries, choosing the right certification can help you learn essential concepts like Large Language Models (LLMs), Prompt Engineering, AI Agents, RAG, Machine Learning, and real-world AI applications. Whether you are a beginner starting your AI journey, a developer looking to upskill, or a professional aiming to advance your career, this video will help you understand the top Gen AI learning paths and certifications available today. Explore the skills, tools, and career opportunities shaping the future of AI and choose the right certification to stay ahead in the AI revolution. Like the video, subscribe to our channel, and make sure to comment.\n\n\nRelated Videos:\n✅ 1. https://youtu.be/aTE0Vx-rXmA?si=8hj5MFjw_2D614Wh\n✅ 2.https://youtu.be/DqPmwTzwipU?si=dOOq5c1oIKdMSLWd\n✅ 3.https://youtu.be/uWueU6hcgLE?si=u0f8-lwsG3zqhoB0\n✅ 4.https://youtu.be/u29qvwRWGWk?si=NyYJDbEyZS25M857\n✅ 5. https://youtu.be/SGSIoEDX9mE?si=YWBkm0GbnNvtDFFz\n\n✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More AI Videos By Simplilearn: https://youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq   \n\n#BestGenerativeAICertifications2026 #BestGenAICertificationsForBeginners #TopGenAICertificationPrograms2026 #GenerativeAICertificationForNonTech #IBMGenerativeAIEngineeringCertificate #MicrosoftAIAndMLCertification2026 #BestOnlineGenerativeAICourses #PromptEngineeringCertification2026 #GenAIAndLLMCertificationPath #AIAndMachineLearningWithGenAICertificate #SimplilearnGenerativeAICertification2026\n\n➡️ About Applied Agentic AI: Systems, Design & Impact\n\nThis Agentic AI program offers an end-to-end learning path across AI foundations, generative AI, LLM internals, and multi-agent systems. Learners build practical expertise in agent design, planning frameworks, and go-to-market strategy to drive AI product innovation.\n\nKey Features\n\n✅ Master agentic AI systems, planning frameworks, multi-agent ecosystems, and product strategy in a 10-week, practitioner-level program\n✅ Stay ahead of emerging AI trends through Simplilearn's AI Impact Studio and build the skills to identify AI opportunities, automate workflows, and build intelligent AI solutions\n✅ Develop expertise in agentic frameworks, multi-agent systems, RAG, MCP, planning systems, workflow automation, and more\n✅ Work tools and frameworks like LangChain, AutoGen, CrewAI, n8n, Lovable, Miro, Figma, LangSmith, Jupyter\n✅ Brush up on Python essentials and AI-ready workflows before diving into the core Agentic AI courses\n✅ Join live, online interactive classes with peer-to-peer engagement on Slack, mentoring sessions, and dedicated cohort support\n✅ Earn a joint program completion certificate from Microsoft and Simplilearn\n✅ Secure Microsoft Learn badges on the Microsoft Learn portal for the Microsoft-branded courses\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n\nSkills Covered\n✅Workflow Automation\n✅ Agentic Frameworks\n✅ MultiAgent Systems\n✅ Intelligent Automation\n✅ GTM for Agentic AI\n✅ Ethics and Transparency\n✅ LLM Function Calling\n✅ Planning Systems\n✅ Prompt Engineering\n✅UX and UI with Agentic AI\n✅ Copilots\n✅MCP\n✅ RAG\n\n👉 Enroll Now:https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=VPKFfrUoUAA&utm_medium=DescriptionFF&utm_source=Youtube",
+      "commentCount": 0,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "HY3aieR2qAA": {
+      "checkedAt": "2026-08-21T23:53:13Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "⚡ HIGGSFIELD AI\n👉 https://higgsfield.ai/s/higgsfield-general-campaign-colemnty-cpTGrm\n\nI tried building a $100,000/month mobile app using only AI. Claude handled the coding, while I brought Higgsfield into the workflow to generate the visual assets and audio I needed to actually bring the game to life.\n\nHiggsfield brings AI video, AI filmmaking, AI image generation, and some of the newest generative AI tools into one platform. If you're looking for a Free AI video generator or comparing options for the Cheapest AI Platform for your creative workflow, check it out through my link above 👆\n\nIf you appreciate the time and effort I put into my videos and games, please subscribe, like and leave a comment! It helps a LOT! 🙏\n\n💬 DISCORD\n👉 https://discord.gg/ZQ5DZan2W7\n\n\n🎮 AI GAME DEV COMMUNITY\n👉 https://www.skool.com/aigamedevelopers/about\n\n⏱️ CHAPTERS\n0:00 - Can AI Make a $100K Mobile Game?\n0:17 - The Plan\n0:53 - Prompt 1\n1:53 - Test 1\n2:45 - Generating 3D Models\n3:51 - Test 2\n4:44 - Prompt 2\n5:07 - FINAL RESULTS\n\nWhat should I try building with AI next? 👇\n\n#higgsfield #ai #aivideo #aigamedev #gamedev",
+      "commentCount": 7,
+      "likeCount": 75,
       "probeClient": "web_embedded"
     }
   }

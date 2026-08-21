@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T22:53:12Z",
+  "updatedAt": "2026-08-21T23:53:13Z",
   "items": [
+    {
+      "id": "b1H5h7YvL1k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Axion AI",
+      "publishedAt": "2026-08-21T21:53:13Z",
+      "firstSeenAt": "2026-08-21T23:53:13Z"
+    },
+    {
+      "id": "BKLKs24wLOE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Concordia University",
+      "publishedAt": "2026-08-21T20:53:13Z",
+      "firstSeenAt": "2026-08-21T23:53:13Z"
+    },
+    {
+      "id": "VPKFfrUoUAA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-21T15:53:13Z",
+      "firstSeenAt": "2026-08-21T23:53:13Z"
+    },
+    {
+      "id": "HY3aieR2qAA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Cole",
+      "publishedAt": "2026-08-21T13:53:13Z",
+      "firstSeenAt": "2026-08-21T23:53:13Z"
+    },
     {
       "id": "_kK_4cOYF4o",
       "type": "long",
@@ -19077,24 +19109,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T22:53:30Z",
-      "new": 4,
-      "long": 4,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
-      "runAt": "2026-08-07T23:53:12Z",
-      "new": 1,
-      "long": 1,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
       "runAt": "2026-08-08T00:53:21Z",
       "new": 4,
       "long": 4,
@@ -21064,6 +21078,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-21T23:53:13Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
