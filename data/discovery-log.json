@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T21:53:12Z",
+  "updatedAt": "2026-08-21T22:53:12Z",
   "items": [
+    {
+      "id": "_kK_4cOYF4o",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-21T22:47:43Z",
+      "firstSeenAt": "2026-08-21T22:53:12Z"
+    },
+    {
+      "id": "FVaQj6tju6U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-21T22:30:12Z",
+      "firstSeenAt": "2026-08-21T22:53:12Z"
+    },
+    {
+      "id": "qQluNEfSVHk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Greg Isenberg",
+      "publishedAt": "2026-08-21T20:53:12Z",
+      "firstSeenAt": "2026-08-21T22:53:12Z"
+    },
+    {
+      "id": "GTn8JzAnGeg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sandy Lee AI",
+      "publishedAt": "2026-08-21T14:53:12Z",
+      "firstSeenAt": "2026-08-21T22:53:12Z"
+    },
+    {
+      "id": "sKzL0wSN9vQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jam With AI | Shirin Khosravi Jam",
+      "publishedAt": "2026-08-21T07:53:12Z",
+      "firstSeenAt": "2026-08-21T22:53:12Z"
+    },
     {
       "id": "RkNafW_Mv9w",
       "type": "long",
@@ -19037,15 +19077,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T21:53:29Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
       "runAt": "2026-08-07T22:53:30Z",
       "new": 4,
       "long": 4,
@@ -21024,6 +21055,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-21T22:53:12Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
