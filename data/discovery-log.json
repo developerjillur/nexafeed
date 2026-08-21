@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T02:53:11Z",
+  "updatedAt": "2026-08-21T03:53:12Z",
   "items": [
+    {
+      "id": "-0zySuRSRUc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ONES",
+      "publishedAt": "2026-08-21T03:19:12Z",
+      "firstSeenAt": "2026-08-21T03:53:12Z"
+    },
+    {
+      "id": "WCRNR1Ve9s0",
+      "type": "short",
+      "source": "secondary",
+      "channel": "NVIDIA",
+      "publishedAt": "2026-08-20T18:53:12Z",
+      "firstSeenAt": "2026-08-21T03:53:12Z"
+    },
+    {
+      "id": "RKHaecOi0CA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CultRepo ",
+      "publishedAt": "2026-08-20T10:53:12Z",
+      "firstSeenAt": "2026-08-21T03:53:12Z"
+    },
+    {
+      "id": "-tj6MjS24kA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Aleksi Partanen - Master Microsoft Fabric",
+      "publishedAt": "2026-08-20T09:53:12Z",
+      "firstSeenAt": "2026-08-21T03:53:12Z"
+    },
+    {
+      "id": "VHI9SOwos5Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Unlocked",
+      "publishedAt": "2026-08-20T09:53:12Z",
+      "firstSeenAt": "2026-08-21T03:53:12Z"
+    },
+    {
+      "id": "oIGT5F5cX6Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kiro",
+      "publishedAt": "2026-08-20T03:53:12Z",
+      "firstSeenAt": "2026-08-21T03:53:12Z"
+    },
     {
       "id": "mXYOEOxg4SQ",
       "type": "short",
@@ -18317,15 +18365,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T02:53:18Z",
-      "new": 8,
-      "long": 7,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 10,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
       "runAt": "2026-08-07T03:53:18Z",
       "new": 5,
       "long": 5,
@@ -20340,6 +20379,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-21T03:53:12Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 20,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
