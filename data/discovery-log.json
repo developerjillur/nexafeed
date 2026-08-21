@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T01:53:10Z",
+  "updatedAt": "2026-08-21T02:53:11Z",
   "items": [
+    {
+      "id": "mXYOEOxg4SQ",
+      "type": "short",
+      "source": "secondary",
+      "channel": "EProducts Empire AI Systems",
+      "publishedAt": "2026-08-21T02:05:11Z",
+      "firstSeenAt": "2026-08-21T02:53:11Z"
+    },
+    {
+      "id": "i2t6bAigkCw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jay AI Automation",
+      "publishedAt": "2026-08-21T01:53:11Z",
+      "firstSeenAt": "2026-08-21T02:53:11Z"
+    },
+    {
+      "id": "5Lsy-L8FTm8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ComputeNest",
+      "publishedAt": "2026-08-20T23:53:11Z",
+      "firstSeenAt": "2026-08-21T02:53:11Z"
+    },
+    {
+      "id": "ZFVTnre2DEE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Gray Code | Real-World Tech",
+      "publishedAt": "2026-08-20T16:53:11Z",
+      "firstSeenAt": "2026-08-21T02:53:11Z"
+    },
+    {
+      "id": "ThB-MQlCF4Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TeamDynamix",
+      "publishedAt": "2026-08-20T13:53:11Z",
+      "firstSeenAt": "2026-08-21T02:53:11Z"
+    },
+    {
+      "id": "sxyYoNNTpU8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Awesome",
+      "publishedAt": "2026-08-20T09:53:11Z",
+      "firstSeenAt": "2026-08-21T02:53:11Z"
+    },
+    {
+      "id": "6qomXsHvykY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vikuchotala",
+      "publishedAt": "2026-08-20T09:53:11Z",
+      "firstSeenAt": "2026-08-21T02:53:11Z"
+    },
+    {
+      "id": "QRNjaN97Pvo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BotPenguin Customer Support",
+      "publishedAt": "2026-08-20T09:53:11Z",
+      "firstSeenAt": "2026-08-21T02:53:11Z"
+    },
     {
       "id": "L5mkPmjJMKc",
       "type": "short",
@@ -18253,15 +18317,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T01:53:17Z",
-      "new": 7,
-      "long": 5,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
       "runAt": "2026-08-07T02:53:18Z",
       "new": 8,
       "long": 7,
@@ -20276,6 +20331,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-21T02:53:11Z",
+      "new": 8,
+      "long": 7,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
