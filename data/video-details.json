@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T10:53:19Z",
+  "updatedAt": "2026-08-21T11:53:20Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -945,12 +945,12 @@
       "probeClient": "web_embedded"
     },
     "xukJ9U3V9_E": {
-      "checkedAt": "2026-08-14T10:53:27Z",
+      "checkedAt": "2026-08-21T11:53:20Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Our Journey From 0 To 1.3 crore Full Video - https://www.youtube.com/watch?v=VLJNNyspsVs\n\nCourse - https://harkaransingh.graphy.com",
       "commentCount": 11,
-      "likeCount": 205,
+      "likeCount": 267,
       "probeClient": "web_embedded"
     },
     "l6DMdWKTqYU": {
@@ -9263,10 +9263,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-21T10:53:19Z",
+      "checkedAt": "2026-08-21T11:53:20Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9281,10 +9281,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-21T10:53:19Z",
+      "checkedAt": "2026-08-21T11:53:20Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -10665,16 +10665,16 @@
       "probeClient": "web_embedded"
     },
     "h8e334CiG1M": {
-      "checkedAt": "2026-08-21T10:53:19Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
-    "qXTftsSZIiE": {
-      "checkedAt": "2026-08-21T10:53:19Z",
+      "checkedAt": "2026-08-21T11:53:20Z",
       "embedAllowed": false,
       "availability": "unavailable",
       "failureReason": "unavailable"
+    },
+    "qXTftsSZIiE": {
+      "checkedAt": "2026-08-21T11:53:20Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "w1H338vUXbk": {
       "checkedAt": "2026-08-21T07:53:16Z",
@@ -10838,6 +10838,24 @@
       "description": "🎤 Build, Optimize & Automate Your Website with AI Studio\n📆 Aug 20, 2026 at 12 PM EDT\n🎙️ Featuring: Dominic Baptist\n🎧 Hosted by: Paulson Thomas\n\nMost websites take weeks to launch and still don't convert. This session shows how to build one that does, fast.\nIf you run an agency and want a lead-generating site without hiring a developer, this is for you.\n\nDominic has built multiple 7- and 8-figure businesses and is a top HighLevel affiliate worldwide. He helps agencies build AI systems: websites, CRM, automation and marketing that scale.\nDominic will build a live website with AI Studio, optimize it for SEO and speed, then connect automations with A2P compliance.\n\nWhat you'll learn:\n✅ Build a website with AI Studio using a base prompt\n✅ Optimize for SEO and page speed\n✅ Stay A2P compliant while connecting automations\n✅ How HighLevel supports the process",
       "commentCount": 6,
       "likeCount": 51,
+      "probeClient": "web_embedded"
+    },
+    "URx7MGBJOUM": {
+      "checkedAt": "2026-08-21T11:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Join us for Build Production-Ready AI Agents for the Enterprise:\nhttps://vanishinggradients.short.gy/agent-retrieval-course\nUse code ATITA150 for $150 off.\n\nAtita Arora explains why retrieval failures become more dangerous when AI agents can issue refunds, cancel accounts, delete data, or deploy code, drawing on almost 20 years of work in search and relevance engineering.\n\nShe shows how an agent can follow its instructions and still take the wrong action because it retrieved the wrong document, and why debugging should begin with what the retriever actually returned.\n\nTimestamps:\n00:00 Context Camp: AI engineering meets retrieval\n01:25 Agents can only reason over what they retrieve\n02:30 Replit's agent deleted the production database during a code freeze\n04:20 Circleback matched \"cancel\" and missed the bug report\n08:45 Without good retrieval, RAG is just AG\n10:30 The model only sees what retrieval hands it\n12:10 Changing retrieval swings the same model by 79 points\n14:40 One bad result moves into the agent loop\n16:40 Agents act on the bad results people would ignore\n17:10 Notebook demo: retrieval changes what the agent does\n20:55 A superseded $100 policy leads to a $75 approval\n22:20 Filters cannot bridge \"cancel\" and \"account termination\"\n23:20 Semantic search plus filters finds the current $50 policy\n24:35 Two retrieval tools, two actions on the same refund\n26:30 Read what the retriever actually returned\n27:35 Production failures: the right tool with the wrong context\n29:45 Is context engineering actually new?\n31:10 Give agents metadata, not disconnected chunks\n32:20 Context engineering is relevance engineering for a new user\n35:05 Four ways the context layer betrays your agent\n37:30 Evaluate retrieval before you orchestrate\n\nResources:\nSlides ► https://speakerdeck.com/atarora/your-agents-are-only-as-good-as-your-retrieval\nDemo notebook ► https://github.com/atarora/doc-processing-advance-ocr/blob/main/Agentic_Action_With_Retrieval.ipynb\n\nMore from Vanishing Gradients:\nNewsletter ► https://hugobowne.substack.com/\nUpcoming events ► https://luma.com/calendar/cal-8ImWFDQ3IEIxNWk\nWorkshops ► https://vanishinggradients.short.gy/youtube-workshops\nYouTube ► https://www.youtube.com/@vanishinggradients\n\n#AIAgents #InformationRetrieval #RAG #AgenticAI",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "n2LUWBxWwPI": {
+      "checkedAt": "2026-08-21T11:53:20Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "As autonomous AI agents rapidly become the backbone of modern enterprise workflows, a silent new security crisis is quietly brewing behind the scenes. Rather than dramatic external hacks, tomorrow’s biggest breaches will stem from over-permissioned agents executing destructive write actions using long-forgotten access granted by human operators. Comparing this undetected threat to mold slowly leaking through the walls of an organization, experts warn that tight identity governance is the only way to stop AI from causing unseen structural damage\n\n#Teleport #AIAgents #CyberSecurity #IdentityGovernance #TechstrongTV",
+      "commentCount": 0,
+      "likeCount": 1,
       "probeClient": "web_embedded"
     }
   }

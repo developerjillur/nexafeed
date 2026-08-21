@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T10:53:19Z",
+  "updatedAt": "2026-08-21T11:53:20Z",
   "items": [
+    {
+      "id": "URx7MGBJOUM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vanishing Gradients",
+      "publishedAt": "2026-08-21T11:22:20Z",
+      "firstSeenAt": "2026-08-21T11:53:20Z"
+    },
+    {
+      "id": "n2LUWBxWwPI",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Techstrong TV",
+      "publishedAt": "2026-08-20T19:53:20Z",
+      "firstSeenAt": "2026-08-21T11:53:20Z"
+    },
     {
       "id": "DktNMnmIVUU",
       "type": "long",
@@ -18629,15 +18645,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-07T10:53:24Z",
-      "new": 6,
-      "long": 3,
-      "shorts": 3,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
       "runAt": "2026-08-07T11:53:25Z",
       "new": 5,
       "long": 4,
@@ -20652,6 +20659,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-21T11:53:20Z",
+      "new": 2,
+      "long": 1,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
