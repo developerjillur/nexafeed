@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T14:53:27Z",
+  "updatedAt": "2026-08-22T15:53:52Z",
   "items": [
+    {
+      "id": "9zYoAh2PH60",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-22T15:00:52Z",
+      "firstSeenAt": "2026-08-22T15:53:52Z"
+    },
+    {
+      "id": "Za1epSDmyH4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "JetBrains",
+      "publishedAt": "2026-08-21T16:53:52Z",
+      "firstSeenAt": "2026-08-22T15:53:52Z"
+    },
     {
       "id": "HxcBNvAXUsI",
       "type": "long",
@@ -19581,24 +19597,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T14:53:43Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 1,
-      "secondaryQuery": "AI automation"
-    },
-    {
-      "runAt": "2026-08-08T15:53:44Z",
-      "new": 1,
-      "long": 1,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI agents"
-    },
-    {
       "runAt": "2026-08-08T16:53:10Z",
       "new": 6,
       "long": 4,
@@ -21568,6 +21566,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-22T15:53:52Z",
+      "new": 2,
+      "long": 1,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
