@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T12:53:25Z",
+  "updatedAt": "2026-08-22T13:53:26Z",
   "items": [
+    {
+      "id": "1QtrdzKD6lE",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-22T13:31:51Z",
+      "firstSeenAt": "2026-08-22T13:53:26Z"
+    },
+    {
+      "id": "8wQDXyGDKCo",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-22T13:31:17Z",
+      "firstSeenAt": "2026-08-22T13:53:26Z"
+    },
+    {
+      "id": "yF8hhc28WHs",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-22T13:00:17Z",
+      "firstSeenAt": "2026-08-22T13:53:26Z"
+    },
+    {
+      "id": "WNGcwV-zsXA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "EPIC MASJID",
+      "publishedAt": "2026-08-21T19:53:26Z",
+      "firstSeenAt": "2026-08-22T13:53:26Z"
+    },
+    {
+      "id": "I4xBdxYZymk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "A Homestead Journey",
+      "publishedAt": "2026-08-21T17:53:26Z",
+      "firstSeenAt": "2026-08-22T13:53:26Z"
+    },
+    {
+      "id": "DwTuEyOQ1qs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CBN News",
+      "publishedAt": "2026-08-21T17:53:26Z",
+      "firstSeenAt": "2026-08-22T13:53:26Z"
+    },
+    {
+      "id": "DpU0qXkQrAs",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Al Jazeera English",
+      "publishedAt": "2026-08-21T15:53:26Z",
+      "firstSeenAt": "2026-08-22T13:53:26Z"
+    },
+    {
+      "id": "3P2wMsFnVFg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Simulated Leviathan",
+      "publishedAt": "2026-08-21T15:53:26Z",
+      "firstSeenAt": "2026-08-22T13:53:26Z"
+    },
     {
       "id": "K47dO3bDW3E",
       "type": "long",
@@ -19485,15 +19549,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T12:53:40Z",
-      "new": 1,
-      "long": 0,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
       "runAt": "2026-08-08T13:53:42Z",
       "new": 8,
       "long": 7,
@@ -21472,6 +21527,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-22T13:53:26Z",
+      "new": 8,
+      "long": 5,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }

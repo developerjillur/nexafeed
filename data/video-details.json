@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T12:53:25Z",
+  "updatedAt": "2026-08-22T13:53:26Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9263,10 +9263,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-22T12:53:25Z",
+      "checkedAt": "2026-08-22T13:53:26Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-22T00:53:10Z",
@@ -9292,10 +9292,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-22T12:53:25Z",
+      "checkedAt": "2026-08-22T13:53:26Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-22T00:53:10Z",
@@ -12523,6 +12523,95 @@
       "description": "Join us on August 22nd at 4:00 PM for an insightful Alumni Talk with Rohan.\nExplore his journey as a Software Engineer and his experience in the tech industry.\n\nLearn how he leverages AI automation and databases to build effective solutions.Gain practical insights into AI, automation, databases, and software development.Get inspired by his career journey and valuable industry experiences. \n\nDon't miss this opportunity to learn from a successful DataMites alumnus!\n\nClick here to register: https://us02web.zoom.us/webinar/register/WN_rI5DoTt4Suq7ZIjdhTYCyA\n\n#datamites #alumnitalk #  #datamitesalumnitalk #datascience #careerguidance #industryinsights #aiautomation #agenticai #python #techtalk",
       "commentCount": 0,
       "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "1QtrdzKD6lE": {
+      "checkedAt": "2026-08-22T13:53:26Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 7,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-22T13:53:26Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "8wQDXyGDKCo": {
+      "checkedAt": "2026-08-22T13:53:26Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 1,
+      "likeCount": 47,
+      "comments": [
+        {
+          "id": "UgytOkK1Orx0SQJ7HjB4AaABAg",
+          "author": "@100xEngineers",
+          "text": "https://gemini.google/students/",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T13:32:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/lmQHSNqoTiUYSQmAD6ddVNxeMLwuezSj7JGn681txsIgDlDnHZrQU-JDaUSzGiSwnSZS7gFS=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-08-22T13:53:26Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "yF8hhc28WHs": {
+      "checkedAt": "2026-08-22T13:53:26Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Helio gives you AI employees, not another chatbot. I am a senior AI software engineer, and in this Helio walkthrough the AI teammates take a role, own real tasks, and bring the work back for your approval.\n\nKey takeaways:\n\n- Give an AI teammate a role and assign it work, instead of writing one long prompt\n- Connect Slack, Notion, Gmail and GitHub so each teammate works from the right context\n- Automations run the same job on a schedule and drop the result back in the workspace\n- Every task shows who picked it up, what is in review, and what needs your yes\n\n🔗 Try Helio: https://bit.ly/3RUDDQD\n\n🔗 Join their discord: https://bit.ly/4fXvOSl\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\nTimestamps:\n0:00 Intro\n0:19 AI Teammates\n1:22 Product Launch Demo\n2:23 Automations\n3:07 Tasks & Approvals\n4:25 Wrap up\n\n#claudecode #aitools #softwaredevelopment",
+      "commentCount": 1,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "WNGcwV-zsXA": {
+      "checkedAt": "2026-08-22T13:53:26Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Jummah Khutbah\n\nPlease LIKE, COMMENT, & SHARE!\nThe views of the speaker do not necessarily reflect the views of the organization\n© EPIC Masjid",
+      "commentCount": 15,
+      "likeCount": 461,
+      "probeClient": "web_embedded"
+    },
+    "I4xBdxYZymk": {
+      "checkedAt": "2026-08-22T13:53:26Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Everyone is starting to see what’s coming in 2027 and the years ahead—and they’re preparing. Comment your thoughts below.\n_______________________________________ \n🎙️OUR PODCAST CHANNEL:\nhttps://www.youtube.com/@TheNewExodusPodcast?sub_confirmation=1\n@TheNewExodusPodcast \n_______________________________________ \n🏡MY VLOG CHANNEL: She Prepares\nhttps://www.youtube.com/@ShePreparesChannel?sub_confirmation=1\n@ShePreparesChannel \n_______________________________________ \n📧 CONTACT: Info.ahomesteadjourney@gmail.com\n\n\n►Our Amazon Store: https://www.amazon.com/shop/ahomesteadjourney?ref_=hype_hm_sf_e\n►Instagram: instagram.com/ahomesteadjourney\n►Find me on Rumble here: https://rumble.com/c/AHomesteadJourney\n\n\nDisclaimer: All content found on the A Homestead Journey YouTube Channel, and related social media, including: text, images, videos, or other formats were created solely for informational and entertainment purposes only. The creator and publisher of this video will not be held responsible for any adverse effects that may arise from the use of any item, advice or method on this channel and the corresponding websites.\n\nAI, artificial intelligence, AI 2027, AI future, future of AI, artificial intelligence 2027, Elon Musk AI, AI jobs, AI replacing jobs, automation, future of work, AI economy, AI technology, Americans, America 2027, 2027 predictions, technology, AI revolution, job loss, AI automation, future technology, artificial intelligence future, Elon Musk, AI warning, AI concerns, emerging technology, economic future, American economy\n\n#costoflivingcrisis #preparedness #inflation",
+      "commentCount": 305,
+      "likeCount": 2657,
+      "probeClient": "web_embedded"
+    },
+    "DwTuEyOQ1qs": {
+      "checkedAt": "2026-08-22T13:53:26Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Artificial intelligence is rapidly reshaping work, relationships, communication and even how people search for answers. So how should Christians navigate a world increasingly influenced by AI?\n\nBen Peterson, author of When Intelligence Isn’t Human: Navigating Your Faith in the Age of AI, joins CBN News to explain why he believes the church needs to begin thinking seriously about the spiritual implications of artificial intelligence.\n\nPeterson says Christians shouldn't simply reject AI altogether. If you use a smartphone, social media or Google, he argues, you're already interacting with artificial intelligence. Instead, he offers a three-part framework: AI can be a tool, but it should not become your guide—and never your relationship.\n\nUsed as a tool, Peterson says AI can help businesses organize systems, develop software and work more efficiently. But he warns against allowing it to shape a person's identity, vision, spiritual direction or sense of relationship.\n\nThe conversation also tackles some of the larger concerns surrounding artificial intelligence, including autonomous warfare, young people's reliance on technology, AI companionship and the concentration of powerful technology in the hands of a small number of companies and executives. Peterson frames many of those concerns through a distinctly Christian worldview.\n\nPeterson also discusses warnings from the pope regarding AI, human dignity and autonomous weapons, while arguing that churches and families need practical guardrails for navigating a technological landscape that is changing at extraordinary speed.\n\nHis book, When Intelligence Isn’t Human, is published by Forefront Books and distributed by Simon & Schuster.\n\nGive to CBN: https://go.cbn.com/un2xC\n\nWant more news from a Christian Perspective? Choose to support CBN: https://go.cbn.com/ugWBn\n\nCBN News. Because Truth Matters™\n\nDownload the free CBN News App: http://cbnnews.com/app\n\nSUBSCRIBE to the CBN News Channel for more: \nhttp://youtube.com/c/CBNnewsonline/?sub_confirmation=1\n\nSUBSCRIBE to the QuickStart Newsletter by visiting quickstart.news\n\nSUBSCRIBE to the Quickstart Podcast. New episodes every morning at 7am: cbn.com/cbnnews/quickstart\n\nWhat's coming up next? Have a look at our program guide: https://www.youtube.com/redirect?q=http%3A%2F%2Fwww1.cbn.com%2Fcbnnews%2Fnewschann&redir_token=3Xja-7LE5ZQebEu1fn-B5ib34tN8MTU3OTg4MjMzMkAxNTc5Nzk1OTMy&v=P0mHVeNNfDw&event=video_description\n\nCBN features 24-hour TV news from a Christian perspective. The CBN News Channel provides independent news programming to an underserved audience to enlighten, entertain and inspire Christians around the world. Comments below do not necessarily reflect the views of CBN.\n\nShare this live feed with your friends and family:\nhttps://www.youtube.com/c/CBNnewsonline\n\nLike us on Facebook: https://www.facebook.com/cbnnews/\nLike us on Twitter: https://twitter.com/CBNNews\nFollow us on Instagram: https://www.instagram.com/cbnnews/\n\nContact News Editors: https://www.youtube.com/redirect?q=https%3A%2F%2Fwww1.cbn.com%2Fcontact%2Fcontact-&redir_token=3Xja-7LE5ZQebEu1fn-B5ib34tN8MTU3OTg4MjMzMkAxNTc5Nzk1OTMy&v=P0mHVeNNfDw&event=video_description\n\nQuestions about other CBN programs: Visit WatchCBNNews.com or call (888) 700-7000.\n\nQuestions about supporting CBN News? Visit JoinCBNNews.com or call (888) 700-7000 for more information.\n\nQuestions about Helping the Home Front? Call: 800-700-7000  \nhttps://www.youtube.com/redirect?q=https%3A%2F%2Fwww1.cbn.com%2F700club%2Fhelping-&redir_token=3Xja-7LE5ZQebEu1fn-B5ib34tN8MTU3OTg4MjMzMkAxNTc5Nzk1OTMy&v=P0mHVeNNfDw&event=video_description\n\n#breakingnews #politicalnews #christiannews #christian #christianity #church #breakingnews #cbnnews",
+      "commentCount": 7,
+      "likeCount": 333,
+      "probeClient": "web_embedded"
+    },
+    "DpU0qXkQrAs": {
+      "checkedAt": "2026-08-22T13:53:26Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "The UK government has announced plans to triple the number of data centres to meet growing demand for artificial intelligence. But as large parts of the country face unprecedented heat and drought, questions are being raised about how much water and electricity these facilities consume.\n\nData centres generate significant heat and require cooling, with some facilities relying on large amounts of water. In England, the industry is more regulated, with many facilities using closed-loop systems that consume less water while still requiring substantial electricity.\n\nAs AI drives rapid expansion, the search is on for more sustainable solutions. At a data centre in London’s Docklands, Digital Realty is using river water to cool its systems before returning it, as the industry looks for ways to reduce its environmental impact.\n\nBut data centres are expanding faster than renewable resources can be delivered, while rising temperatures and drought add to the challenge.\n\nAl Jazeera's Jonah Hull reports from London.\n\n\nSubscribe to our channel: http://bit.ly/AJSubscribe\nFollow us on X : https://twitter.com/AJEnglish\nFind us on Facebook: https://www.facebook.com/aljazeera\nCheck our website: http://www.aljazeera.com/\nCheck out our Instagram page: https://www.instagram.com/aljazeeraenglish/\nDownload AJE Mobile App: https://aje.news/AJEMobile\n\n#UKDataCentres #ArtificialIntelligence #AI #UKDrought #WaterCrisis #DataCentres #AIExpansion #ClimateChange #UKHeatwave #UnitedKingdom #AlJazeeraEnglish",
+      "commentCount": 24,
+      "likeCount": 323,
+      "probeClient": "web_embedded"
+    },
+    "3P2wMsFnVFg": {
+      "checkedAt": "2026-08-22T13:53:26Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "⚠️ Disclaimer: This video explores symbolic and historical theories in a speculative way. It does not promote or assert literal claims.\n\n⚠️ Disclaimer: This video contains commentary, comedy, parody and speculation. Hypothetical scenarios discussed in the video should not be interpreted as allegations of actual wrongdoing.\n\nWHY? Why are the people warning us about the AI apocalypse the same people who stand to benefit from it...??\n\nCompanies like Anthropic and OpenAI push for AI regulation and the more dangerous artificial intelligence appears, the stronger the argument becomes for handing control of the technology to them.\n\nIn this video, we go down the rabbit hole of Dario Amodei, Anthropic, rogue AI, regulatory capture, the strange connections surrounding Silicon Valley's AI elite, and one big question....\n\nWhat happens if the AI apocalypse becomes useful? And what happens if a fake AI demon eventually becomes a real one?",
+      "commentCount": 623,
+      "likeCount": 6071,
       "probeClient": "web_embedded"
     }
   }
