@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T13:53:26Z",
+  "updatedAt": "2026-08-22T14:53:27Z",
   "items": [
+    {
+      "id": "HxcBNvAXUsI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Aventra Automations",
+      "publishedAt": "2026-08-22T14:28:27Z",
+      "firstSeenAt": "2026-08-22T14:53:27Z"
+    },
+    {
+      "id": "gQtz4rIITZk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Riyaz Tech",
+      "publishedAt": "2026-08-22T13:53:27Z",
+      "firstSeenAt": "2026-08-22T14:53:27Z"
+    },
+    {
+      "id": "zPVs3KqZYVM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jay AI Automation",
+      "publishedAt": "2026-08-22T03:53:27Z",
+      "firstSeenAt": "2026-08-22T14:53:27Z"
+    },
+    {
+      "id": "WNobtVaADI8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DataCamp",
+      "publishedAt": "2026-08-21T16:53:27Z",
+      "firstSeenAt": "2026-08-22T14:53:27Z"
+    },
     {
       "id": "1QtrdzKD6lE",
       "type": "short",
@@ -19549,15 +19581,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T13:53:42Z",
-      "new": 8,
-      "long": 7,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
       "runAt": "2026-08-08T14:53:43Z",
       "new": 5,
       "long": 5,
@@ -21536,6 +21559,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-22T14:53:27Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
