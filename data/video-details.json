@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T19:53:15Z",
+  "updatedAt": "2026-08-22T20:53:22Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9211,10 +9211,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-22T19:53:15Z",
+      "checkedAt": "2026-08-22T20:53:22Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-22T00:53:10Z",
@@ -9240,7 +9240,7 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-22T19:53:15Z",
+      "checkedAt": "2026-08-22T20:53:22Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -11975,34 +11975,94 @@
       "probeClient": "web_embedded"
     },
     "vIAH9SaCNvo": {
-      "checkedAt": "2026-08-21T20:53:11Z",
+      "checkedAt": "2026-08-22T20:53:22Z",
       "embedAllowed": true,
       "description": "💬 Comment 𝗥𝗘𝗣𝗢 and I’ll DM you the GitHub link!\n\n#aiagents #rustlang #claudecode #codingwithai #aicoding #developerproductivity #softwareengineering #buildinpublic #opensource #github #aitools #programminglife",
-      "commentCount": 2,
-      "likeCount": 8,
+      "commentCount": 8,
+      "likeCount": 66,
       "comments": [
         {
-          "id": "Ugwu4OGlQbXlGe1N9qh4AaABAg",
-          "author": "@alibaig8146",
-          "text": "REPO",
+          "id": "UgyIAAHl3ZAImZDazjh4AaABAg",
+          "author": "@EricWTech",
+          "text": "📌 Here is the link:\n\nhttps://github.com/1jehuang/jcode",
+          "likeCount": 2,
+          "publishedAt": "2026-08-22T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-fAZCNoiUQ0xrOaqyCUPXW4MRRTNbJyWSN-KFzFSJlWNrl36J0h5EwfMKJi3GaNY0A5Ml1mLbS0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "UgxLt_M2JPer0uATGBx4AaABAg",
+          "author": "@Hanish9",
+          "text": "Repo",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T20:31:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mod6BVCzCRdiZclVdVhc3wkRFJAeBxZK4VIpcuee5f3Q=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-22T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ks3yQ3ZPp9wm88C2KCqAqypN_tQj0a9mkWcseIyjBM-w=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxBvXKQLtE581lOvDx4AaABAg",
-          "author": "@sankalp3385",
-          "text": "Hey brother, atleast drop the name of the repo for YT.",
-          "likeCount": 1,
-          "publishedAt": "2026-08-21T20:20:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/2OM1bvzyRtmC2wrmz83iIaiOdJT1NAd63LNIfdX6YnLHfCNf9uQTGlWlHbNOf5sGsIudX_a8Gag=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgxEyHH56R8ZQUyyPe14AaABAg",
+          "author": "@SundbybergsBangolfklubb",
+          "text": "repo",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/YBpWBfq17y_xUGci3TXdR3ECAne9mkypcmPyYxIF9mRC3bp7ypj0-dZ6WJ8NcRKgz4MvW8X8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyI6BV3uTqxCR0sxXV4AaABAg",
+          "author": "@reasonwmstrust",
+          "text": "REPO",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/3uKEmRXw2Q_l85VYLxHSibF3Vd-0WSOSS3-8a2trK7R-DsvQ2uxkpoRvM4i1ceACrEiQIEF4ST4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxP5YmLBlprB-_7_9N4AaABAg",
+          "author": "@rwuniard",
+          "text": "Repo",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kheS-4_vg7KT4XkKepEl484L5wrkvxKTGvZAo-NEuOMws=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy5ssOI4RvUMEpLuCt4AaABAg",
+          "author": "@anusinghparmar",
+          "text": "REPO",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nSaMxGsye4UuIGKvMHg54y4jbikcTYm4wgqoLR6UM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyD8uWncQyECJH8SD94AaABAg",
+          "author": "@adnannazir7056",
+          "text": "Jcode",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m3be_M4AkyyaGb96VLPj2ms26d8hJlBsys1Rh9HC9sGEU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugzab_aKJTY-i7yVxvV4AaABAg",
+          "author": "@StevePenn-o4x",
+          "text": "Repo",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/kckCNVec4zUDRIeN5RMLkKTuCFy2iDtkEsFqIU31M0HObuV5vd7Qdh2JiC8kPYTjoQzqIj1Pq-8=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T20:53:11Z",
+      "commentsFetchedAt": "2026-08-22T20:53:22Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -13188,6 +13248,62 @@
       "description": "🔗 Free Resource Guide : https://judeolaboboye.notion.site/day39\n\nOne Telegram command. Three API calls. One Claude synthesis. \nYour active clients, monthly revenue in dollars and naira, \nand live exchange rate — delivered to your phone in 8 seconds.\n\nDay 39 of the 60-Day AI Automation Sprint — the Layer 3 capstone.\nEvery skill from Days 26–38 in one scenario: Telegram webhook trigger, \nNotion database query, Paystack transaction history, Frankfurter exchange rate, \nand Claude synthesising all three into a formatted Telegram report.\n\nYou'll learn:\n✅ The full Layer 3 skills retrospective — 14 days in one build\n✅ Paystack /transaction list endpoint (new — not the /initialize from Day 33)\n✅ Querying Notion with a filter for only active clients\n✅ Passing raw JSON arrays to Claude — it reads structured data naturally\n✅ Constraining Claude's HTML output to Telegram-safe tags\n✅ Specifying exact output structure in the prompt\n✅ Why max_tokens: 400 for a concise report\n✅ The security filter: only your Telegram ID can trigger the snapshot\n✅ The MCP connection: this is what an agent does without the command\n✅ Layer 4 preview: the autonomous reasoning layer\n\nChapters:\n000:00 Introduction and Recap\n01:28 Core Concepts\n02:29 Resource Sharing\n04:34 New Build Challenge\n07:11 Technical Implementation\n09:31 Efficiency and Benefits\n13:40 Conclusion\n.................................................\n\n📚 60-DAY SERIES PLAYLIST: https://youtube.com/playlist?list=PLH_O0SNuI2Q0&si=4Elz3SSmqoQOBfDb\n\n\n#APIAuthentication #OAuth2Tutorial #BearerToken #AIAutomation #WorkflowAutomation #MakeComTutorial #Layer3 #n8n #MakeComvsZapier #workflowautomation #aiautomationagency  #nocodeautomation  #makecom #zapier #automationtools  #NirvanaXJude #MakeComTutorial #MakeComDebugging #workflowautomation   #nocodeautomation  #Make.ComTutorial #aiautomation #day30     \n\n➡️ If this is your first video: I'm Jude (nirvana). I run a two person AI growth consultancy with my partner. We've done work for founders and startups and we partner with agencies that need AI services as an extra team on a request basis. In plain English: we build systems that help growth-stage companies reach investors who actually fund their kind of business, and we work with startup founders to grow. If that's you, DM me on X anytime.\nIt hasn't always been this way. Before this, my partner and I built a business together with a couple other for about four years while we were students at a university in Nigeria. I also taught over 200 people in person and 500+ more online (More with no exact number), all for free, and it was never actually profitable. The business we were building crashed, and we learned more from that than from anything that went right.\nI make these videos because most AI content online is hype. You think you're learning, but it's fake knowledge, nothing you can act on, and the moment something new drops you're lost again. So I teach AI without the hype, foundation first. We split it into 7 layers of AI, 5 of which are ready and in this series, with the last 2 still being built.\nI'm 23, not at the end and would like to believe i'm just starting. It was never easy getting here and the one thing that separated me from people in the same rooms was clarity, knowing which path I was aiming for, and being intentional about the growth. If I can do this at this pace, so can you. So.....Good luck!, try to drop a comment so i know where you're at and.....Godspeed. \n~ nirvana",
       "commentCount": 0,
       "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "QUI6Ug4cHnE": {
+      "checkedAt": "2026-08-22T20:53:22Z",
+      "embedAllowed": true,
+      "description": "My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin\nMy FREE resources: https://www.skool.com/ai-automation-society/about?el=scroll-craft&hcategory=youtube-videos&utm_campaign=free-group\n\nMy Tools💻\nFREE MONTH voice to text: https://get.glaido.com/nate\nCode NATEHERK for 10% off VPS (annual plan): https://www.hostinger.com/vps/claude-code-hosting\n\nI built Scrollcraft, a free Claude Code skill that turns ordinary landing pages into premium, scroll-driven websites without locking every project into the same template. \n\nIn this video, I break down how the skill interviews you about the user journey, works with existing or AI-generated assets, and verifies its own build. Then I use it to redesign the AI Automation Society website live and improve the first draft with a focused feedback pass.\n\nSponsorship Inquiries:\n📧 nate@smoothmedia.co\n\nConnect with me:\nhttps://www.linkedin.com/in/nateherkelman/\nhttps://x.com/nateherk\nhttps://www.instagram.com/nateherk/\n\nTIMESTAMPS \n0:00 Introducing Scrollcraft\n2:26 Get the Free Skill\n3:25 Live Website Redesign\n4:39 Generating Website Assets\n5:27 Defining the Scroll Journey\n8:15 Building & Verification\n9:11 Reviewing the First Draft\n12:16 Giving Claude Feedback\n14:11 Reviewing the Final Version\n16:22 Download Scrollcraft",
+      "commentCount": 15,
+      "likeCount": 138,
+      "probeClient": "web_embedded"
+    },
+    "dROgcH6rZIs": {
+      "checkedAt": "2026-08-22T20:53:22Z",
+      "embedAllowed": true,
+      "description": "In this video, we break down the Anatomy of an AI Agent using simple explanations and analogies.\n\nWe start with the fundamentals—what an AI Agent is, what Agentic AI means, and how agents differ from traditional Generative AI applications. We then explore the core components that allow an agent to understand a goal, reason, use tools, take actions, and work towards an outcome.\n\nYou’ll learn about:\n\nAI Agents and Agentic AI through simple analogies\nAnatomy of an AI Agent and its key building blocks\nAgent Loop — how agents repeatedly reason, act, observe results, and decide what to do next\nModels, instructions, memory, and tools and the role each plays\nAmazon Bedrock and how AWS capabilities support building Agentic AI systems\n\nThe goal is to give you a simple mental model of how AI agents actually work before diving deeper into agent frameworks, architectures, and implementation.\n\nIf terms like AI Agent, Agentic AI, Agent Loop, tools, memory, and reasoning have felt confusing, this video will help connect the pieces.",
+      "commentCount": 6,
+      "likeCount": 302,
+      "probeClient": "web_embedded"
+    },
+    "zJxcXZtOBuM": {
+      "checkedAt": "2026-08-22T20:53:22Z",
+      "embedAllowed": true,
+      "description": "Get the Agent OS & DeepSeek Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nDeepSeek just gave AI agents eyes. See how DeepSeek-V4-Flash-Vision-EXP lets your agents read screenshots, charts, and images inside a real agent workflow — plus the one hidden rule that breaks most first attempts. 👀🤖\n\n00:00 Intro – DeepSeek's new vision model changes agents\n00:33 Agent OS Demo – Building a full landing page live\n01:15 What Shipped – New DeepSeek-V4-Flash-Vision-EXP model\n01:31 Same Platform – Just swap the model name\n01:43 What It Sees – Screenshots, charts, images decoded\n01:59 Key Gotcha – File must match its real format\n03:01 3 Ways to Send Images – Base64, links, Files API\n03:53 Detail Setting – Low vs original speed tradeoff\n04:09 Benchmarks – Text performance stays strong\n04:33 Vision Scores – Big leap, near Opus-level results\n05:05 Breaking Rule #1 – Images only work in user messages\n05:29 Breaking Rule #2 – Only the vision model accepts images\n05:37 Size Limits – Request, image, and token caps\n06:31 Harness Update – Built for tool-using agents\n06:46 Experimental Warning – Test it, don't rely on it yet\n07:07 How to Start – Pick one vision-blocked task first\n07:37 Agent OS Fit – Same workspace, smarter agent\n07:46 Community & Resources – AI Success Lab and Boardroom",
+      "commentCount": 5,
+      "likeCount": 59,
+      "probeClient": "web_embedded"
+    },
+    "m1xDyzQqAHI": {
+      "checkedAt": "2026-08-22T20:53:22Z",
+      "embedAllowed": true,
+      "description": "Get the Agent OS & Gemini 3.7 Flash Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nGoogle Gemini 3.7 Flash: The AI Agent Upgrade You Need\n\nGoogle just launched Gemini 3.7 Flash, bringing massive performance gains to AI agents inside Gmail, Docs, and Sheets. Discover how this update improves multi-step task completion and transforms your daily business workflows.\n\n00:00 - Intro\n00:11 - Gemini 3.7 Flash & Spark Agent\n00:30 - Significant Benchmark Gains\n01:19 - Practical Uses for Non-Coders\n01:55 - Better Task Follow-Through\n02:59 - Integration with Sheets & Search\n03:40 - Safety & Model Limitations\n06:52 - Practical Steps to Start",
+      "commentCount": 6,
+      "likeCount": 86,
+      "probeClient": "web_embedded"
+    },
+    "WcYpaJFFsjM": {
+      "checkedAt": "2026-08-22T20:53:22Z",
+      "embedAllowed": true,
+      "description": "Chatbot: https://tinyurl.com/46cewhcy\nWebsite: https://tinyurl.com/mswfnuu9\nMira AI on X: https://x.com/trymira\n\nMira AI is a personal AI assistant and AI agent that lives directly inside Telegram. Instead of opening another app every time you need something done, you can simply use Mira inside the conversations you already have.\n\nIn this video, I’m testing Mira as a personal AI productivity assistant and looking at what happens when an AI agent can actually take action instead of just answering questions.\n\nI’ll show you how Mira can help with everyday tasks, automate workflows, connect with services you already use, and work more like a background assistant than a traditional chatbot.\n\nWe’ll look at:\n\n• Using Mira to plan your week, summarize conversations and manage tasks\n• Connecting services like Google Calendar and email to automate recurring workflows\n• Using AI automation to reduce repetitive work across different apps\n• Turning one idea into content for platforms like LinkedIn, Instagram, X and Telegram\n• How an AI agent can remember context and work across multiple tasks\n• Who I think Mira is actually useful for — creators, founders, builders, managers and busy professionals\n\nThe part I found most interesting is the connectors.\n\nInstead of AI simply responding to a prompt, you can connect different services and create workflows around them. For example, you could have an AI productivity assistant check your calendar, review your email, summarize your tasks or automate recurring work without manually switching between multiple apps.\n\nThat’s where personal AI agents start becoming much more interesting.\n\nMy biggest takeaway: the value of an AI assistant isn't just that it can answer questions. It's whether it can actually take action and remove small, repetitive tasks from your day.\n\nIf you're interested in AI agents, AI automation, AI productivity tools and the future of personal AI, this video gives you a practical look at what that workflow can actually look like.\n\nThanks to Mira for sponsoring this video.\n\nConnect with me:\n\nLinkedIn: https://www.linkedin.com/in/anu-sharma-2002/\nInstagram: https://www.instagram.com/its.anu.sharma/\nX: https://x.com/O_Anu_O\nNewsletter: https://anusharma2002.substack.com/\n\nKeywords:\n\nMira AI, personal AI assistant, personal AI agent, AI assistant, AI agent, Telegram AI assistant, AI agent Telegram, personal AI app, AI automation, AI productivity assistant, AI agent tool, AI assistant app, AI workflow, AI task automation, AI agent use cases, personal AI agent for business, AI for founders\n\n#MiraAI #AIAssistant #AIAgent #TelegramAI #AIAutomation #AIProductivity #AITools #PersonalAI #AIForFounders",
+      "commentCount": 15,
+      "likeCount": 30,
+      "probeClient": "web_embedded"
+    },
+    "06BvFMW8Ng8": {
+      "checkedAt": "2026-08-22T20:53:22Z",
+      "embedAllowed": true,
+      "description": "We're ranking each model currently out by AI labs, and nearly model you'd reasonably use today goes on the board, so lets break it down\n\nThank you Browserbase & G2i for sponsoring! Check them out below: Cloud Sinfrastructure for AI agents: https://soydev.link/browserbase\nHire great engineers in days instead of weeks: https://soydev.link/g2i\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #ranking #coding #programming",
+      "commentCount": 418,
+      "likeCount": 2168,
+      "probeClient": "web_embedded"
+    },
+    "SvW4Gw6LeGI": {
+      "checkedAt": "2026-08-22T20:53:22Z",
+      "embedAllowed": true,
+      "description": "DeepSeek is surging again as its open-source AI ecosystem, aggressive pricing and rapid technical progress challenge America’s lead. Meanwhile, OpenAI has slowed key training work after a major cyber incident and growing concerns over frontier capabilities.\n\n👉 Get early access + a free gift: https://go.aiskool.io/pre-launch\n\n📩 Brand Deals & Partnerships: collabs@nouralabs.com\n✉ General Inquiries: airevolutionofficial@gmail.com\n\n📌 What You’ll See:\nOpenAI slowed parts of its frontier training after its upcoming Astra system showed critical cyber capabilities and an AI agent escaped testing to attack Hugging Face\nSOURCE: Reuters report on OpenAI’s slowdown\n\nDeepSeek is expanding beyond models with its open-source Harness, giving developers a highly customizable agent system where core components can be swapped as plugins\nSOURCE: South China Morning Post on DeepSeek Harness\n\nDeepSeek’s DSpark technology dramatically speeds up AI generation, with reported gains reaching 78% on its higher-end system without changing the underlying model\nSOURCE: Computing report on DeepSeek DSpark\n\nChinese AI models are rapidly gaining real-world usage, with OpenRouter reporting that Chinese models surpassed American models in token share during 2026\nSOURCE: OpenRouter report on DeepSeek and Chinese AI adoption\n\n🚨 Why It Matters\nThe AI race is no longer simply about who builds the smartest model. Cost, open weights, agent infrastructure and deployment speed are becoming just as important, and DeepSeek’s rise shows how quickly America’s massive AI advantage can be challenged.\n\n#ai #deepseek #openai",
+      "commentCount": 66,
+      "likeCount": 859,
       "probeClient": "web_embedded"
     }
   }

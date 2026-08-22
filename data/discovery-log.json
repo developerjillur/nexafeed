@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T19:53:15Z",
+  "updatedAt": "2026-08-22T20:53:22Z",
   "items": [
+    {
+      "id": "QUI6Ug4cHnE",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-22T20:05:11Z",
+      "firstSeenAt": "2026-08-22T20:53:22Z"
+    },
+    {
+      "id": "dROgcH6rZIs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "BeSA Cloud Academy",
+      "publishedAt": "2026-08-22T16:53:22Z",
+      "firstSeenAt": "2026-08-22T20:53:22Z"
+    },
+    {
+      "id": "zJxcXZtOBuM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-22T14:53:22Z",
+      "firstSeenAt": "2026-08-22T20:53:22Z"
+    },
+    {
+      "id": "m1xDyzQqAHI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-22T11:53:22Z",
+      "firstSeenAt": "2026-08-22T20:53:22Z"
+    },
+    {
+      "id": "WcYpaJFFsjM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anu Sharma",
+      "publishedAt": "2026-08-22T11:53:22Z",
+      "firstSeenAt": "2026-08-22T20:53:22Z"
+    },
+    {
+      "id": "06BvFMW8Ng8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Theo - t3․gg",
+      "publishedAt": "2026-08-22T10:53:22Z",
+      "firstSeenAt": "2026-08-22T20:53:22Z"
+    },
+    {
+      "id": "SvW4Gw6LeGI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Revolution",
+      "publishedAt": "2026-08-21T23:53:22Z",
+      "firstSeenAt": "2026-08-22T20:53:22Z"
+    },
     {
       "id": "hqKfhWGwO-Y",
       "type": "short",
@@ -19733,15 +19789,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T19:53:38Z",
-      "new": 4,
-      "long": 3,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Artificial Intelligence"
-    },
-    {
       "runAt": "2026-08-08T20:53:47Z",
       "new": 2,
       "long": 2,
@@ -21711,6 +21758,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-22T20:53:22Z",
+      "new": 7,
+      "long": 7,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
