@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T06:53:20Z",
+  "updatedAt": "2026-08-22T07:53:04Z",
   "items": [
+    {
+      "id": "RMoVtDarkZg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anoop Digital",
+      "publishedAt": "2026-08-22T03:53:04Z",
+      "firstSeenAt": "2026-08-22T07:53:04Z"
+    },
+    {
+      "id": "TDEMCdK8eXg",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Pixels Fri",
+      "publishedAt": "2026-08-21T21:53:04Z",
+      "firstSeenAt": "2026-08-22T07:53:04Z"
+    },
     {
       "id": "f3RKKsGKI1A",
       "type": "short",
@@ -19325,15 +19341,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T06:53:36Z",
-      "new": 5,
-      "long": 4,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 32,
-      "secondaryQuery": "no-code automation"
-    },
-    {
       "runAt": "2026-08-08T07:53:37Z",
       "new": 1,
       "long": 1,
@@ -21312,6 +21319,15 @@
       "channelsChecked": 33,
       "warnings": 32,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-22T07:53:04Z",
+      "new": 2,
+      "long": 1,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
