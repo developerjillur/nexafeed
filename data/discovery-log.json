@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T20:53:22Z",
+  "updatedAt": "2026-08-22T21:53:30Z",
   "items": [
+    {
+      "id": "NJlSkufuIeI",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Course Decoded ",
+      "publishedAt": "2026-08-22T18:53:30Z",
+      "firstSeenAt": "2026-08-22T21:53:30Z"
+    },
+    {
+      "id": "RAReI_Ks3EM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Intellipaat",
+      "publishedAt": "2026-08-22T13:53:30Z",
+      "firstSeenAt": "2026-08-22T21:53:30Z"
+    },
+    {
+      "id": "sQ1A32edcRc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Coding Master",
+      "publishedAt": "2026-08-22T12:53:30Z",
+      "firstSeenAt": "2026-08-22T21:53:30Z"
+    },
+    {
+      "id": "Ed6iI7bUGdk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Visualpath Pro",
+      "publishedAt": "2026-08-22T12:53:30Z",
+      "firstSeenAt": "2026-08-22T21:53:30Z"
+    },
+    {
+      "id": "iu7fNlqMEhE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "GenAI Certifications by IIT Patna",
+      "publishedAt": "2026-08-22T11:53:30Z",
+      "firstSeenAt": "2026-08-22T21:53:30Z"
+    },
+    {
+      "id": "j7ToxHSrllA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ramesh Fadatare - AI, Generative AI & AI Tools",
+      "publishedAt": "2026-08-22T05:53:30Z",
+      "firstSeenAt": "2026-08-22T21:53:30Z"
+    },
+    {
+      "id": "ttvhviCvyjE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "John at Falstaff Books",
+      "publishedAt": "2026-08-22T01:53:30Z",
+      "firstSeenAt": "2026-08-22T21:53:30Z"
+    },
     {
       "id": "QUI6Ug4cHnE",
       "type": "long",
@@ -19789,15 +19845,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T20:53:47Z",
-      "new": 2,
-      "long": 2,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
       "runAt": "2026-08-08T21:53:49Z",
       "new": 3,
       "long": 2,
@@ -21767,6 +21814,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-22T21:53:30Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
