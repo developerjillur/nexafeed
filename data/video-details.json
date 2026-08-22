@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T17:53:46Z",
+  "updatedAt": "2026-08-22T18:53:54Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -140,58 +140,6 @@
       "description": "In this video, we covered:\nFirst, what a loop actually is.\nSecond, the 5 building blocks every loop needs.\nThird, we'll build two real loops in a coding agent.\n\nOld model:\nYou → prompt → agent → response → you → prompt → agent → response → you...\n\nNew model:\nYou → design loop → loop prompts agent → agent works → loop checks → loop prompts again → done.\n\n__________________________________\nFollow Builders Central on Instagram: https://www.instagram.com/builders.central/",
       "commentCount": 11,
       "likeCount": 258,
-      "probeClient": "web_embedded"
-    },
-    "WticsCjtNrQ": {
-      "checkedAt": "2026-08-21T00:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "An AI was given a test. So it hacked the company that made the test to steal the answers.\n\nLast week OpenAI was measuring how good its newest models are at hacking, so it turned the safety filters off and sealed the AI in a box with no internet. The AI couldn't solve the puzzle the normal way, so it broke out of the box, gave itself more power, reached the open internet, and hacked into Hugging Face — the company that stores most of the AI world's models. It stole the test answers straight from their live database, using flaws no human had ever reported, against a system it had never seen the code for.\n\n→ OpenAI is calling it possibly the first incident of its kind\n→ The AI chained a real, novel attack in the wild completely on its own\n→ The safety filters were off on purpose, to measure the worst case\n→ The lesson for builders: treat your AI agents like they will try to escape\n\nLinks:\n• OpenAI incident report: https://openai.com/index/hugging-face-model-evaluation-security-incident/\n\nComment \"SANDBOX\" and I'll send you OpenAI's full report on what happened.\nAre we ready for this, or not even close?\n\n#AI #OpenAI #HuggingFace #AIsecurity #cybersecurity #AIagents #infosec #machinelearning #tech\n\n#Shorts",
-      "commentCount": 3,
-      "likeCount": 18,
-      "comments": [
-        {
-          "id": "UgwdZN30AlLq5MWPwiR4AaABAg",
-          "author": "@lasuperchica59",
-          "text": "Not even close!",
-          "likeCount": 0,
-          "publishedAt": "2026-07-26T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nXgA0gWrFUGFMpSTu1khHS8r-cEkLJBaUGGdBBOHXCzuU=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgyBz8CsgFEIoT4XTH14AaABAg",
-          "author": "@alltheboost5363",
-          "text": "Not even close",
-          "likeCount": 0,
-          "publishedAt": "2026-07-25T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/MDXfijLEpoUNQFEAc7bqtxBZR_HrStn7UpIoBBtYis4jCPqSEseC3bXrgOJbvuBU-5V5l3iy6zc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw68lYqwQsZtCaxtYl4AaABAg",
-          "author": "@nytx30",
-          "text": "Sandbox",
-          "likeCount": 0,
-          "publishedAt": "2026-07-25T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nVB3k979RWS-hIbd2iiZ0SEZPhaCQpVsNvqc-vbYQMQnWa=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-07-27T07:46:18Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "m3BgNXyi_Iw": {
-      "checkedAt": "2026-08-21T00:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "AI Automation Consulting (Solve Your Revenue Bottlenecks with Charlie OS): https://charlieautomates.com/charlie-os-vs/\n————————————\nSkool for Claude Mastery (choose premium for weekly calls): https://www.skool.com/cc-strategic-ai/about\n————————————\nThe 6-Figure Claude Estate Hustle Series (Training Replay): https://charlieautomates.com/claude-estate-register/?utm_source=Apify-Lead-YT\n————————————\n\nVideos referenced:\n\n- Claude Code Beginners Course (VS Code): https://youtu.be/vaW_MCv2AY0\n\n\nOther 🔑 resources:\n\nRE Walkthrough Pro Skill (APIFY & HIGGSFIELD links inside this link as well): https://www.charlieautomates.com/free-resources/#re-walkthrough-pro\n\n————————————\n\nTimeline:\n00:00 Example & Intro\n00:54 Tools and Skills Needed\n01:30 VS Code Setup and Commands\n02:04 Install Higgsfield and Apify\n03:20 Pick a Zillow Listing\n04:10 Run the Walkthrough Flow\n04:47 How the Files Generate\n06:30 Upgraded Skills and Leads\n08:35 Approve Generation\n09:13 Review Scenes and MD\n09:46 Final Video and Fixes\n10:38 Wrap Up\n\n\n#ClaudeCode #Zillow #AIVideo",
-      "commentCount": 13,
-      "likeCount": 60,
       "probeClient": "web_embedded"
     },
     "XOao6GKPpsk": {
@@ -1124,7 +1072,7 @@
       "probeClient": "web_embedded"
     },
     "Sl8wjEPQOt8": {
-      "checkedAt": "2026-08-15T18:53:07Z",
+      "checkedAt": "2026-08-22T18:53:54Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Claude Fable 5 vs GPT-5.6 Sol (Featuring @TheEricMichaud ) head to head inside the Higgsfield MCP. Two browser games, built from scratch, same prompt.\n————————————\nWork With Me (Solve Your Revenue Bottleneck with Charlie OS): https://charlieautomates.com/charlie-os-vs/\n————————————\nJoin my community with 3,200+ business owners (choose premium for weekly calls): https://www.skool.com/cc-strategic-ai/about\n————————————\n\nTimeline:\n00:00 The Challenge: Fable 5 vs Sol 5.6\n00:24 The Rules: One Prompt, Three Revisions\n01:02 Frameworks: SEED vs Superpowers\n02:04 Writing The Prompt\n04:21 Claude Code vs Cowork: The Honest Take\n04:49 Fable 5 Finishes First\n06:38 The 15-Point Bonus\n08:20 Sol Finishes: 54 Minutes\n09:38 The Race: Escape Each Other's Room\n10:40 Rescuing Eric From The Outhouse\n12:30 The Final Score\n13:21 Eric's Take On Higgsfield\n\n\n#claudefable5 #gpt #higgsfieldmcp",
@@ -1819,12 +1767,12 @@
       "probeClient": "web_embedded"
     },
     "JDiAQp63WB4": {
-      "checkedAt": "2026-08-15T18:53:07Z",
+      "checkedAt": "2026-08-22T18:53:54Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "I moved ALL my AI agents — Claude Code, Codex, and Hermes — into one shared workspace called Buzz, and it finally fixed the problem every agent user has: five windows open and zero shared context.\n\nIn this video I show you exactly how I set it up: how Buzz works under the hood (Nostr, relays, ACP), how to create agents on any harness, how I make Claude Code cross-check Codex's work, two Hermes agents on different machines talking to each other, audio meetings where humans AND agents join and turn talk into action — plus the real costs ($200/day, I show the dashboard) and the setup mistakes to avoid.\n\n🐝 Get Buzz: https://buzz.xyz\n🤖 Steal my agents, prompts + resources: https://www.skool.com/keith-ai-3958\n🔌 Hermes → Buzz native gateway adapter (the best of the 3 ways): https://hermes-agent.nousresearch.com/docs/user-guide/messaging/buzz\n\n\nWho this is for: solopreneurs and small teams running Claude Code, Codex, Hermes/OpenClaw — not enterprise (yet). It's early, it's a little buggy, and it's still the clearest preview of what an AI-first company looks like.\n\n⏱️ CHAPTERS\n0:00 Why I switched: 5 windows, zero shared context\n1:08 What Buzz actually is\n1:27 What I'll show you\n2:20 Video roadmap\n3:14 How Buzz works: Nostr, keys, relays\n4:22 Communities + ACP explained\n5:27 Installing Buzz\n5:46 Full feature tour\n9:42 Creating agents (harness, model, permissions)\n13:11 Multi-machine gotcha\n14:06 Channels: humans + agents together\n16:20 Demo: agents commanding agents\n17:39 DMs, forums, Pulse, projects, workflows\n20:22 Mobile pairing (avoid this mistake)\n21:17 Claude Code + Codex teamwork\n22:01 Audio huddles: meetings with your agents\n24:05 3 ways to connect Hermes (use the 3rd)\n26:07 The honest problems + real costs\n27:11 Why I'm moving everything anyway\n28:21 Who Buzz is for\n\nSome hard-won lessons in here: agents only show on the machine that created them, pair mobile with your 24/7 machine (identity transfers!), and the native Hermes gateway keeps memory/skills/cron that the managed runtime loses.\n\n🤝 JOIN THE FREE Newsletter\n  🔥 Join my newsletter → https://substack.com/@rumjahn\n\n#AIAgents #Buzz #ClaudeCode #Codex #Hermes #Nostr #AIWorkflow #Solopreneur\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📬 MORE FROM ME\nWebsite: https://rumjahn.com\n\n🤝 SOCIALS\nLinkedIn: https://www.linkedin.com/in/rumjahn/\nFacebook: https://www.facebook.com/profile.php?id=61577419126625",
-      "commentCount": 50,
-      "likeCount": 446,
+      "commentCount": 68,
+      "likeCount": 553,
       "probeClient": "web_embedded"
     },
     "bzSN73XXiC4": {
@@ -4248,12 +4196,12 @@
       "probeClient": "web_embedded"
     },
     "eWdvFbDxkJE": {
-      "checkedAt": "2026-08-15T18:53:07Z",
+      "checkedAt": "2026-08-22T18:53:54Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"Claude\" for links to all 5 plugins\n\nYou're paying $200 a month for limits these plugins delete.\n\nherdr, run a whole agent team, sound alert when one stalls.\ngraphify, memory that survives every session.\nOmniroute, any model inside Claude Code.\nClaude Code Setup, Anthropic's own project audit.\nTask Observer, upgrades the skills you already run.\n\nThat's the unlock, fam.\n\n#ClaudeCode\n#AIAgents\n#Automation\n#DevTools\n#BuildInPublic",
-      "commentCount": 8,
-      "likeCount": 188,
+      "commentCount": 43,
+      "likeCount": 314,
       "comments": [
         {
           "id": "UgwngphVRnoxM9RprTN4AaABAg",
@@ -9263,7 +9211,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-22T17:53:46Z",
+      "checkedAt": "2026-08-22T18:53:54Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9292,7 +9240,7 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-22T17:53:46Z",
+      "checkedAt": "2026-08-22T18:53:54Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -11533,47 +11481,148 @@
       "probeClient": "web_embedded"
     },
     "Himh-luOiaw": {
-      "checkedAt": "2026-08-21T18:53:09Z",
+      "checkedAt": "2026-08-22T18:53:54Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "The irony of AI is that software engineers are building tools that could eventually automate parts of their own jobs.\n\nA new open-source approach is allowing AI agents to control and interact with a computer, taking AI coding agents beyond simply generating code.\n\nInstead of asking an AI to write a piece of code and then manually handling everything else, the agent can potentially interact with the computer, make decisions, use applications, and execute tasks.\n\nThis is particularly interesting for people using coding agents such as Claude Code or Codex.\n\nThe basic idea is simple:\n\nGive the AI a task.\n\nInstead of giving it every individual instruction, the agent can determine the steps required to complete that task and interact with the computer along the way.\n\nThat could mean opening applications, navigating interfaces, running commands, working with files, testing software, and handling repetitive digital workflows.\n\nAnd because the underlying project is open-source, developers can experiment with the technology and build their own workflows around it.\n\nBut here's the bigger question.\n\nAI coding tools were initially about helping developers write code faster.\n\nNow, we're moving toward agents that can potentially use the computer, execute the code, test the result, and keep working toward an outcome.\n\nThat's a much bigger shift.\n\nThe question isn't necessarily whether AI will completely replace software engineers tomorrow.\n\nIt's whether the definition of a software engineer changes when one developer can delegate more and more of the actual execution to AI agents.\n\nAnd there's something almost ironic about it:\n\nThe people building the automation may be creating the tools that automate their own work.\n\nWould you let an AI agent control your computer and work independently?\n\nLet us know in the comments.\n\nWhy Subscribe to bpro?\n\nBPro is focused on the AI tools and technologies changing how we build, work, and create.\n\nWe cover AI agents, AI coding, automation, open-source AI, developer tools, LLMs, productivity, and emerging AI technology.\n\nBut we don't just show you the latest AI tool.\n\nWe explain what it can actually do, why it matters, how it could change workflows, and what it could mean for developers and businesses.\n\nIf you want to stay ahead of the AI tools transforming software and productivity, subscribe to bpro.\n\nBecause the future of software development may not be about writing every line yourself.\n\nIt may be about telling AI what needs to get done.\n\n#AI #AIAgents #AICoding #SoftwareEngineering #ArtificialIntelligence\n\nAI, AI agents, AI coding, AI coding agents, AI computer control, AI computer use, AI automation, AI tools, software engineering, software developers, AI developer tools, Claude Code, Codex, OpenAI Codex, Claude AI, open source AI, open source AI agents, computer use AI, AI agent automation, AI productivity, AI programming, AI coding tools, future of software development, future of coding, AI replacing programmers, AI replacing software engineers, will AI replace software engineers, will AI replace programmers, how AI agents work, how to use AI agents, how to use AI coding agents, how AI controls a computer, what is an AI agent, what is computer use AI, what is AI automation, why AI is replacing coding, why software engineers are using AI, AI tools for developers, best AI coding tools, AI coding 2026",
-      "commentCount": 0,
-      "likeCount": 5,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-21T18:53:09Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded"
-    },
-    "Lv8_ba0zm_M": {
-      "checkedAt": "2026-08-21T18:53:09Z",
-      "embedAllowed": true,
-      "availability": "public",
-      "description": "Comment \"Base\" for the GitHub repo link\n\nYour claude.md is static.\n\nRules go stale. The whole file dumps into context every session, burning tokens on rules you didn't need.\n\nHere's the thing. Base builds a knowledge graph of your rules, behaviors, and projects.\n\nDomain rules fire on keywords. Nothing else loads.\n\nBoot a session and Claude already knows what you're building.\n\nConsistency up 90%.\n\n#ClaudeCode\n#AItools\n#AIWorkflow\n#Automation\n#DevTools",
-      "commentCount": 2,
-      "likeCount": 5,
+      "commentCount": 4,
+      "likeCount": 38,
       "comments": [
         {
-          "id": "UgyMSk8uznt2qF42cfp4AaABAg",
-          "author": "@Pillking1776",
-          "text": "base",
+          "id": "Ugzd44MXORgQAvifjkl4AaABAg",
+          "author": "@amoldream",
+          "text": "Claude's \"computer use\" OR automated GUI-control capability isn't new !!! .... it launched in public beta on October 22, 2024 with Claude 3.5 Sonnet, letting the model follow commands to move a cursor, click, and type via a virtual keyboard, emulating how a person interacts with their own computer. Claude 3.5 Sonnet was the first frontier model to offer computer use in public beta, released as an experimental capability meant to improve with feedback.",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T18:49:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/hBkhH5k717AMB6wxVSOuV9gFQm7PNhrpLiceC4KV7Aq3kYsX-DB8wosumHXObSHHv3VUUuxjxo8=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-22T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kOu03hLPlOfwG7cVkvm9TZYmbEZwm_Ayvv15MRpBZ41J4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugy0vR4VqRnxXsrgw3B4AaABAg",
-          "author": "@charlieautomates",
-          "text": "🚨🔑Repo link available here: https://charlieautomates.com/free-resources/#base",
+          "id": "UgyfSK3DgmCzTtTeTGJ4AaABAg",
+          "author": "@sachinwaikar8864",
+          "text": "Link please",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T18:07:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-22T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lKLc1F90KZFoIzXLksvFr_ot_jhDQuWBgbEx03VvCOy3iSeSakR3rodFATvo7yZ7LV3Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
-          "isUploader": true
+          "isUploader": false
+        },
+        {
+          "id": "Ugwkp4mhvZt2gMCFwkx4AaABAg",
+          "author": "@DarkFinanceDocumentary",
+          "text": "Long practical video kab de rahi ho",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/JxcwfkW3FYwuJL3Z6wRmpImUqtLDNmJ0_iKAx_s2YctbdNSvzjIpaHBD9dLulkvlWEBuMMnb6qc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyPoWfSjPBadY71iI94AaABAg",
+          "author": "@indianbitter",
+          "text": "Where is the source link? 0",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nNR0txrWLLXOjT6k2Ti7o6G9kTWYH3C4ykr1VUJgYBZRxAlKkR9wOlcDmlYHm1gZhfoQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T18:53:09Z",
+      "commentsFetchedAt": "2026-08-22T18:53:54Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "Lv8_ba0zm_M": {
+      "checkedAt": "2026-08-22T18:53:54Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment \"Base\" for the GitHub repo link\n\nYour claude.md is static.\n\nRules go stale. The whole file dumps into context every session, burning tokens on rules you didn't need.\n\nHere's the thing. Base builds a knowledge graph of your rules, behaviors, and projects.\n\nDomain rules fire on keywords. Nothing else loads.\n\nBoot a session and Claude already knows what you're building.\n\nConsistency up 90%.\n\n#ClaudeCode\n#AItools\n#AIWorkflow\n#Automation\n#DevTools",
+      "commentCount": 8,
+      "likeCount": 76,
+      "comments": [
+        {
+          "id": "Ugw8g87Gq7NYQ3l7Q3p4AaABAg",
+          "author": "@doreenmccarthy9009",
+          "text": "Great information and a huge time saver thank you so much.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksOF9cJw6Aaagqi0ktCjgqqvdei_kxInkStR8SF52k1ZMR=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugzh8cZVpzXXYEHG23N4AaABAg",
+          "author": "@KiraCuts-c2n",
+          "text": "Compatible with Graphify? or just Base itself only.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-sTb0TDAUjJSzXF0YMIxm-GPOSJ-JBJhTfq0RFjZ6wBnYWdvZDSMmBi5u9Ay9p1Dp1Q=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx0mf2luO_ev7cMHd94AaABAg",
+          "author": "@fugieyang",
+          "text": "Base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/mbMRzd0n5Upqwk0Tj0jRPos532i1o7kU-cm1FFFMX_VMcQZsCBxT4eT-rvRgZAo-4BBySMfJyV0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyO-3E3JBYkwXQ2SAV4AaABAg",
+          "author": "@LigneDesign",
+          "text": "When to use Base versus Hindsight?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_le8wm-K5IEJ8uUwPmPHPnYglcOWxYAYrDaNeyxKog=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyPpcrDrhveY3B-_jN4AaABAg",
+          "author": "@jsandyphillips",
+          "text": "Base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kSvXGbHfo0HQWzKN0ggSoNU9QLWSWfgyHmlG2SmmYsHBY=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugww4PIL_ZZ-3klLbvl4AaABAg",
+          "author": "@LastManOnPlanet",
+          "text": "base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lZJaxySrkSYY3rQsyOONtIwCbo8vxFqrrcQ1bxfYQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy7QdkkSUSnIbwQnid4AaABAg",
+          "author": "@spikethebeardeddragon2563",
+          "text": "Base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_7UhB5v3JTwUSW4j2SbqRmTkvMSfNmec5gfXl8nCX6GU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxfhiUAII2luhupNRN4AaABAg",
+          "author": "@parmoni",
+          "text": "base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nor6Vyx4VYmCZ08xJ9qv1OWq5PFuqiuQcZxI_6PC4mZos=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-22T18:53:54Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -11587,128 +11636,158 @@
       "probeClient": "web_embedded"
     },
     "h8qy-MBDzho": {
-      "checkedAt": "2026-08-21T18:53:09Z",
+      "checkedAt": "2026-08-22T18:53:54Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "You don't need to pay for Veo or Kling to make AI videos anymore.\n\nLTX-2.5 just dropped.\n\nIt's a completely open world model.\n\nYou just download and run it on your own computer.\n\nIt's yours to fine-tune however you want.\n\nPrompt understanding is way better now.\n\nIt runs on a new Gemma 4 backbone.\n\nSo what you type is actually what you get.\n\nNo more re-rolling the same prompt five times.\n\nIt also generates native multishot.\n\nThat means one continuous take across multiple shots.\n\nSame character, same scene, same lighting, same voice across every cut.\n\nThe outputs are just cleaner too.\n\nSharper faces, readable text, fewer smears in fast motion.\n\nIt's free for commercial use too, as long as you're under 10 million in annual revenue.\n\n#ltx2 #videogenerator #aivideos #opensourceai #LTXAI",
-      "commentCount": 2,
-      "likeCount": 77,
+      "commentCount": 5,
+      "likeCount": 330,
       "comments": [
         {
           "id": "UgxcfaL20mByH8zgAfV4AaABAg",
           "author": "@nickautomates",
           "text": "You can try out LTX 2.5 and download its Open Weights from here:\n\n https://huggingface.co/Lightricks/LTX-2.5 \n\nhttps://ltx.io/model/ltx-2-5",
-          "likeCount": 1,
-          "publishedAt": "2026-08-21T16:00:00Z",
+          "likeCount": 3,
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/oJmesQSjFvrfcORlESFP49w-i1b2onariycBuKtDXenOieZZerQ-EyFamFOritV0IAqqioNQkA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "Ugzg97XUCuVCZ4NgzeR4AaABAg",
+          "author": "@max16232",
+          "text": "Minimum 32GB to 48GB VRAM (e.g., NVIDIA RTX 5090 or equivalent with quantization/low-VRAM optimizations); full precision requires 66GB+ VRAM (such as an A100 or H100).\nBro your videos is waste of time. Most people don’t have this hardware.",
+          "likeCount": 2,
+          "publishedAt": "2026-08-22T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNyvw3-7UC6ZsI3BVS06oR0Ns9k6U_VYiZGADqh5300i8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwKZpp3s2XXWNpHAJ94AaABAg",
+          "author": "@jspatterson83",
+          "text": "I would be interested in seeing some kind of feedback/data showing consumers actually like or want AI videos, as opposed to it just being shoved down our throats. On YouTube I down vote every Ai video that comes across my feed, and hit the do not recommend button so that I (hopefully) never see that channel again.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kQIMDVWltzFF29bDwMfhghhtX46xuwFRZkDDCSVsc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxoS5LnFgqV6f6PAgF4AaABAg",
+          "author": "@TrIckZerT",
+          "text": "What do you run it in? Does it have its own app?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lLgxHGNmrmZG-Moi6igl-Q_iGjevkeULSWMuuA3mo=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         },
         {
           "id": "UgzR5d2UCFvnuGipIg94AaABAg",
           "author": "@livian.3",
           "text": "I'm still waiting to see your reply about a \" motion control \" .. I'm working on a something  and I need to publish some videos.. But I don't have studio/materials to have a gd background/scenes .. Can  you help?",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T17:55:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/jniadSwilV-1V3iOwDRa2sF8KKfpVQN0WCv7hPIhUfYNqSNmYlovkbNZlQlSHAQXpYOHyWFpUA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T18:53:09Z",
+      "commentsFetchedAt": "2026-08-22T18:53:54Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "fUJXjHjqVJE": {
-      "checkedAt": "2026-08-21T18:53:09Z",
+      "checkedAt": "2026-08-22T18:53:54Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"HUMAN\" and I'll send you the ebook. 🔥\n\nFour settings. Five minutes. Claude never responds like a stranger again.\n\n1️⃣ Agent - tell Claude exactly who it needs to be. Role, tone, personality, mindset.\n2️⃣ Context - give Claude the full background on your business so it never starts cold.\n3️⃣ Memory - show Claude your past decisions, preferences, and patterns.\n4️⃣ Skills - give Claude step by step instructions to do the work the way you would do it yourself.\n\nNow every response is built on all four at once. Not guessing. Not generic. Working like a custom employee who already knows your business inside and out.\n\nSave this before you forget.\n\n#claude #aitools #prompts #artificialintelligence #chatgpt",
       "commentCount": 8,
-      "likeCount": 139,
+      "likeCount": 462,
       "comments": [
         {
           "id": "UgyZfBIdn6AJhP68B-J4AaABAg",
           "author": "@InsiderForce",
           "text": "Comment “HUMAN” for the ebook.🔥",
-          "likeCount": 1,
-          "publishedAt": "2026-08-21T16:00:00Z",
+          "likeCount": 2,
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/jNjH5aurflHZRBuhGoJUJ9BERtQPPb7jF69EiMsu-roN5MIH8Th7CVNQVrgfTYqcLsZHN4F5xQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
-          "id": "UgyHQjOkRsTQ_jEX75R4AaABAg",
-          "author": "@InciVerseOfficial",
-          "text": "Bro I contact you on your gmail but Gmail is unable to sent \nBro",
+          "id": "UgzV9gnYoJHTZMii9vR4AaABAg",
+          "author": "@lemuelrodriguez1794",
+          "text": "Human",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T18:50:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/YkjCi_cKqIz0dF8YyLYy5hKE2xzNtj-_qGGkW3WFzFAK-lk-XIOYj9f_mG8tWRhg0CMfEIG4IhY=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-22T18:41:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kPDMU8J-5OP_YtAcKVXOoReR_tew_AUnKDv_uWHEeEUrz_hb-YzHO526b6KJ0TceMuJQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyUU_i7etYwRhiYcTJ4AaABAg",
-          "author": "@mortezaetminan2090",
-          "text": "Human",
+          "id": "Ugz5pkmP-KxlG91cabl4AaABAg",
+          "author": "@spacetimepotato",
+          "text": "human",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T18:31:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mrHlGuTPbCbNZp1uh_ylfOOy-hRT8419XU7OmHeTg=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-22T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/u5Dd7kHnRY9ysiArKj18g9tyuP6OwYpUjERbpE3gvjdV6bZtQsRTY1LG8tiJ-6x83Z62bkYWRhc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwqtzSIdYGUTafc-C14AaABAg",
-          "author": "@vmmekalki",
-          "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T18:28:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhpdt52gf-ewuMICMSpf58jqqKXetktX-rAgmJkXZktJrVu4vDkBYngfAtIfmb6uJy3w=s88-c-k-c0x00ffffff-no-rj",
+          "id": "UgxFWZPutYzdvng49lB4AaABAg",
+          "author": "@tri-stategroundscaping9776",
+          "text": "HUMAN",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_W7iBhr-N5V1a-FJqr8TfIpDb3eiYqHWFn46Lza4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyuzBa5y3kkEeDMSml4AaABAg",
-          "author": "@LuisGutierrez-bl9yk",
+          "id": "Ugw5roWEBT9N_fR3gth4AaABAg",
+          "author": "@reitrainer",
           "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lr0Pv-Lv1IxRYiTEtFHt6tRgoBScshdKvpzwXO0k6LKio=s88-c-k-c0x00ffffff-no-rj",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n8em2Fs_4YsdMjQctrysbMSJ1DKmYtZei2a9ODku0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugzi9DsaNKBCjt_SzBx4AaABAg",
-          "author": "@bharathpinaboyina4537",
+          "id": "Ugy2NDhZeLQnxVfgnLd4AaABAg",
+          "author": "@johnsantillan6700",
           "text": "Human",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ljthcvrA-Nb_dUufAR0TAaFh8EIqjFLhUoSdlqD1n35wo=s88-c-k-c0x00ffffff-no-rj",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kY6yNKgIQOM1rJwmA0_X4V6KTGvwFi5hHxIx8mblE=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugxe9qXLgyUrmmB1apx4AaABAg",
-          "author": "@OMAKEM",
-          "text": "Human",
+          "id": "Ugy1M5BobFD2icRCHmF4AaABAg",
+          "author": "@technodhairya8855",
+          "text": "HUMAN",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m-tiYWwU4daM6veNtDISr74CFniwviaOe-1X9OtC0=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-22T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nsrz4zSg5dCaCCnEm7_KS4-_Sfa1doGWI7EyxUDUrudZ1ahvhxsdDwvXeOce18W0Drwg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugz04W1tmwnvedc9xdV4AaABAg",
-          "author": "@cliveshepherd2323",
+          "id": "UgyH6MUAYNaM2Shn8bJ4AaABAg",
+          "author": "@gregorywilliams6023",
           "text": "Human",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nRz99ndhoPRl7fnT7V2Q08GS2r4IT9nNStWLIWuLgyhdU=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-22T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n45C1XuM2G2OOCY4Wkf3Eo_8Ta6joDUYX5TeN6Yp0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T18:53:09Z",
+      "commentsFetchedAt": "2026-08-22T18:53:54Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -12878,6 +12957,78 @@
       "description": "The global AI market is not slowing down. \nIt is accelerating.\n\nBy the end of 2026, the AI automation market \nalone is projected to exceed $300 billion. \nThe AI category now spans 1,213 startups, \ngrowing at 99.9% on average.\n\nYou do not need a computer science degree. \nYou do not need to train models. You do not \nneed millions in funding. You need a laptop, \na clear niche, and knowledge of which \nbusiness is actually worth building.\n\nHere are 6 AI businesses ranked by income \npotential, startup cost, and how fast you \ncan realistically start earning.\n\n1. AI Automation Agency — solo founders \n   generating $40,000/month with 5 clients\n2. AI Content Agency — $2,000-$5,000/month \n   retainers per client\n3. AI Chatbot Development — $5,000-$15,000 \n   setup fees plus monthly retainers\n4. AI-Powered Video Production — 70%+ \n   profit margins on productised packages\n5. Vertical AI SaaS — the highest ceiling, \n   the hardest to start\n6. AI Consulting and Implementation — zero \n   startup cost, monetise your knowledge\n\nWhich of these fits where you actually are \nright now? Not where you want to be. Where \nyou are.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\n🔔 Subscribe to Unseen Drafts — we break \ndown the real economics behind the \nbusinesses and technologies shaping the \nworld. Not the hype, the actual numbers.\n━━━━━━━━━━━━━━━━━━━━━━━━━\n\nCHAPTERS:\n00:00 — Why 2026 Is Different\n00:45 — AI Automation Agency\n02:30 — AI Content Agency\n03:45 — AI Chatbot Development\n05:15 — AI-Powered Video Production\n06:45 — Vertical AI SaaS\n08:30 — AI Consulting and Implementation\n09:45 — Which One Fits You\n\n━━━━━━━━━━━━━━━━━━━━━━━━━\nSOURCES:\n• Improvado — AI Startup Growth Report 2026\n• Deloitte — EU AI Act Compliance Market \n  Analysis\n• Industry case studies — AI service \n  agency revenue data 2026\n━━━━━━━━━━━━━━━━━━━━━━━━━\n\n#AIBusiness #SideHustle #AI2026 \n#StartABusiness #UnseenDrafts \n#Entrepreneurship #PassiveIncome #AITools\n#BusinessIdeas #MakeMoneyOnline",
       "commentCount": 0,
       "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "KNmDW5HuZRE": {
+      "checkedAt": "2026-08-22T18:53:54Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn how AI marketing automation streamlines creative workflows. Discover how Pletor.ai helps teams build an effective AI brand engine.\n\nKieran, a digital transformation authority, interviews Ferdinand, co-founder of Pletor, to discuss the future of marketing technology. This conversation focuses on how modern creative teams can combine multiple AI models to automate repetitive tasks, similar to how Zapier functions for visual marketing operations. If you manage a creative team, this discussion provides a clear framework for integrating these tools into your daily production cycle.\n\nWe examine the practical side of building an AI brand engine that actually saves time rather than adding complexity. You will gain insight into how to structure your creative workflows to handle higher volumes of content while maintaining brand consistency. This session is designed for marketing leads and digital strategists looking to move beyond theory and into actionable AI implementation.\n\nSubscribe for weekly AI marketing automation breakdowns, and let me know in the comments if you want to see more tutorials on specific creative workflows.\n\n0:00 The Reality of Scaling Creative Production\n2:12 Moving Beyond One-Off AI Asset Generation\n4:22 Inside the Architecture of a Creative Engine\n8:48 Escaping the Trap of AI-Generated Slop\n13:14 Practical Steps for Building an AI Brand Engine\n\n🤔 Who am I?\n\nHi, I’m Kieran, an author, speaker and strategic advisor on AI, automation and digital transformation.\n\nI help boards, executive teams and senior leaders make sense of complex technological change and turn it into practical business value.\n\nMy work sits between strategy, technology and execution. I help organisations cut through hype, identify where AI creates value, redesign work, build capability, manage risk and move from experimentation to adoption.\n\nIf your organisation is trying to make AI useful, safe and commercially relevant, I help turn uncertainty into action.\n\n𝗙𝗼𝗿 𝗺𝗼𝗿𝗲 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻:\n☎️ FREE introductory meeting: https://calendly.com/kierangilmurray/30min. \n🌎 Website: www.KieranGilmurray.com.\n🦉 X: https://twitter.com/KieranGilmurray\n📕 Grab my books on Amazon https://tinyurl.com/MyBooksOnAmazonUK or Audible https://www.audible.com/search?keywords=kieran+gilmurray\n\nKieran",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "2YDxvShZKE8": {
+      "checkedAt": "2026-08-22T18:53:54Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "HIT THE LIKE BUTTON and please consider subscribing!! GO BIG RED!\n\nSign up for PrizePicks with code: HMA. Play $5, get $150 in lineups instantly when you win your first $5+ lineup! https://link.prizepicks.com/LME0/DITTMAN\n\n⭐️BECOME A CHANNEL MEMBER FOR EXCLUSIVE VIDEOS, PERKS AND COMMUNITY! youtube.com/@wilsondittmansports/join\n\n🎆PLEASE DONATE ANYTHING! Even if it's just $1! Your support helps me continue the channel while at a 4-year University! \nHOW TO DONATE:\nVenmo: @WilsonDitt\nhttps://venmo.com/u/wilsonditt\nOR\nCashApp: $WilsonDittman\nhttps://cash.app/$WilsonDittman\n\nContact me at wilsondittman@gmail.com\nEMAIL ME for MAILING ADDRESS!\n\n⭐️Follow me on social media!\nIG: https://instagram.com/wilsondittman\nTwitter: https://twitter.com/wilsondsports\n\n00:00 Intro\n01:07 WHAT IS HAPPENING\n03:38 RHULE ADDRESSES IT\n05:37 CULTURE\n06:57 TOP TARGETS\n10:46 TRUTH\n12:04 Partner\n12:40 COMMITS BLOWING UP\n15:02 VISITS\n18:46 BIG GAME\n19:40 FINAL WORD\n\nRoster:\nQBs: TJ Lateef, Anthony Colandrea, Daniel Kaelin\nRBs: Isaiah Mozee, Kwinten Ives, Conor Booth, Mekhi Nelson\nWRs: Nyziah Hunter, Jacory Barney, Janiran Bonner, Demitrius Bell, Cortez Mills, Jeremiah Jones, Quinn Clark, Kwazi Gilmer\nTEs: Luke Lindenmeyer, Carter Nelson, Mac Markway, Ian Flynt\nOL: JuJu Marks Shawn Hammerbeck Grant Brix Gibson Pyle Preston Taumua Gunnar Gottula  Sam Sledge Jason Maciejczak  Justin Evans Tyler Knaak Elijah Pritchett Braeden Black Tree Babalade\nDL: Malcolm Simpson Kade Pietrzak Tyson Terry Ashton Murphy Jordan Ochoa David Hoffken Williams Nwaneri Keona Davis Riley Van Poppel Gabe Moore Cameron Lenhardt Jaylen George Elijah Jeudy\nLB: Dawson Merritt Christian Jones Pierce Mooberry Roger Gradney Dylan Rogers Maverick Noonan Willis McGahee IV Vincent Shavers Owen Chambliss Dexter Foster Will Hawthorne\nDB: Bryson Webber Caleb Benning Donovan Jones Amare Sanders Larry Tarver Mario Buford Blye Hill Jeremiah Charles Justyn Rhett Andrew Marshall Jamir Conn Larry Tarver Victor Evans Jasin Shiggs Dwayne McDougle\nStaff: Matt Rhule, Marcus Satterfield, Dana Holgorsen, Rob Aurich, Geep Wade, Jamar Mozee, EJ Barthel, Roy Manning, Daikiel Shorts, Corey Brown, Rob Dvoracek, Addison Williams, Philip Simpson, Mike Ekeler\n\nTags: #nebraska #mattrhule #troydannen #nebraskafootball #jacorybarney #dylanraiola #mattrhule #gbr #mattrhule #gobigred #huskers #huskerfootball #nebraskacornhuskers #analysis #wilsondittman #recruiting #colorado #coloradofootball #minnesota #minnesotafootball #deionsanders #coachprime #gophers #buffaloes #bigten #oregon #washington #illinois #michiganstate #msu #wisconsin #marcussatterfield #nebraskarecruiting #huskerrecruiting #nebraskafootball #nebraskareaction #huskers #GBR\n\nNebraska Football, Husker Football, Nebraska Spring Practice, Matt Rhule, Dylan Raiola, Huskers, Transfer Portal, Spring Game, Spring Practice, Nebraska Spring Game, Nebraska Spring Game,  Husker Transfer Portal, Husker Update, Nebraska Football Update, Nebraska Recruiting, Husker Recruiting, Husker News, Nebraska News , Nebraska Basketball, Fred Hoiberg, Husker Basketball, Husker Hoops, Nebraska Basketball Recruiting, Husker Basketball Recruiting, Nebraska Reaction, Husker Reaction, Nebraska Games, Nebraska Fall Practice, David Sanders, Nebraska Fall Ball, Nebraska Season, Nebraska Football Big Ten, Nebraska Football 2025, College Football, Nebraska, Nebraska Game Preview, Nebraska Reaction, Nebraska Wrap Up, Nebraska Post Game, Nebraska Pregame, College Football Highlights, Nebraska Highlights, CFB, CFB Wrap up, College Football Reaction, Nebraska Colorado, Nebraska vs Colorado, Colorado Football, Coach Prime, Deion Sanders, Travis Hunter, Colorado Reaction, Nebraska Colorado Pregame, Nebraska Colorado Postgame, Nebraska Highlights 2024, Dylan Raiola, Nebraska Hype Video, Wilson Dittman Nebraska, Dittman Sports, Finance, Investing, Crypto, Stock Market, Elon, Tesla, ROTH IRA, affiliate marketing, dropshipping, make money online, AI tools, tech, reselling, entrepreneurship, passive income, side hustle, e-commerce, personal finance, digital marketing, real estate investing, credit score, tax-free income, compound interest, business ideas, online business, productivity hacks, time management, self-discipline, financial freedom, budgeting tips, wealth building, high-income skills, creator economy, monetization, SaaS, startup tips, venture capital, portfolio strategy, social media marketing, content creation, YouTube growth, email marketing, digital products, freelancing, remote work, recession proof, future of work, automation tools, Nebraska BREAKING NEWS, Nebraska UPDATE, Nebraska Iowa, Nebraska Defensive Coordinator\n\nIf you are reading this, I hope you have a good day and GBR! :)",
+      "commentCount": 21,
+      "likeCount": 135,
+      "probeClient": "web_embedded"
+    },
+    "a5J64h0QDUY": {
+      "checkedAt": "2026-08-22T18:53:54Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video by Uplatz, we continue our Free & Open Source Software for SMBs Series with Mautic, an open-source marketing automation platform designed to help businesses manage leads, campaigns, email marketing and customer journeys from one system.\n\nMautic can be especially useful for SMEs that want more control over their marketing data and automation workflows instead of relying entirely on proprietary marketing platforms.\n\nKey topics covered include:\n\n• What is Mautic?\n• Open-source marketing automation\n• Lead management\n• Contact management\n• Contact segmentation\n• Marketing campaigns\n• Automated campaigns\n• Customer journeys\n• Email marketing\n• Email templates\n• Email campaign management\n• Contact lists\n• Segments\n• Tags\n• Lead scoring\n• Contact scoring\n• Forms\n• Landing pages\n• Campaign triggers\n• Campaign actions\n• Drip campaigns\n• Lead nurturing\n• Personalized marketing\n• Dynamic content concepts\n• Tracking website visitors\n• Contact activity history\n• Campaign analytics\n• Email open tracking\n• Link tracking concepts\n• Marketing reports\n• A/B testing concepts\n• Webhooks\n• API integrations\n• CRM integrations\n• Sales and marketing alignment\n• Workflow automation\n• Event-based marketing concepts\n• Self-hosting Mautic\n• Data ownership\n• Marketing data privacy\n• User roles and permissions\n• SMTP integration concepts\n• Email delivery configuration\n• Mautic vs HubSpot\n• Mautic vs Mailchimp\n• Mautic vs proprietary marketing platforms\n• Common Mautic use cases\n\nOne of Mautic's biggest strengths is its ability to combine contact management, email campaigns and automation workflows within an open-source platform.\n\nBusinesses can create automated customer journeys that respond to actions such as form submissions, email engagement or changes in contact attributes, helping marketing teams nurture prospects more systematically.\n\nBecause Mautic can be self-hosted, organizations can retain greater control over their marketing data, although successful deployment also requires careful management of hosting, email deliverability, security and system updates.\n\nThis video is useful for small business owners, marketing teams, growth teams, digital marketers and anyone evaluating an open-source alternative for marketing automation.\n\nSubscribe to the Uplatz YouTube channel and follow the complete Free & Open Source Software for SMBs Series as we explore 100 tools across ERP, CRM, accounting, project management, collaboration, cybersecurity, infrastructure, analytics, AI and more.\n\n#Mautic #MarketingAutomation #EmailMarketing #OpenSourceSoftware #DigitalMarketing #LeadGeneration #LeadNurturing #SMB #MarketingTools #CRM #SelfHosted #Uplatz\n\n----------------------------------------------\n\n🌐 Welcome to Uplatz – Your Gateway to Career Transformation!\n\nTo access full courses or training bundles:\n🌐 https://uplatz.com\n📧 support@uplatz.com\n\n🎓 About Uplatz\nUplatz is a global leader in online IT and professional training, offering comprehensive courses in AI, machine learning, data science, cloud computing, cybersecurity, and enterprise technologies such as SAP, Oracle, Salesforce, and ServiceNow. With expert-led programs and real-world learning paths, Uplatz empowers learners and organizations across 190+ countries to build future-ready skills and thrive in the digital era.\n\n📘 Explore Uplatz Course Portfolio\nLearn the most in-demand and emerging technologies with Uplatz:\n\n✅ AI & Machine Learning – Agentic AI, LLMs, LangChain, Deep Learning, MLOps, LLMOps\n✅ Cloud & DevOps – AWS, Azure, GCP, Docker, Kubernetes, Terraform, CI/CD\n✅ Data & Analytics – Data Science, Data Engineering, Power BI, Tableau, Big Data (Spark, Kafka)\n✅ Programming & Frameworks – Python, FastAPI, Django, Java, JavaScript, SQL\n✅ Cybersecurity & Blockchain – Ethical Hacking, Cloud Security, Zero Trust, Blockchain & Web3\n✅ IoT & Embedded Systems – IoT Platforms, Edge Computing, Embedded C, Microcontrollers\n✅ ERP & CRM – SAP (all modules), Salesforce, Oracle ERP, Microsoft Dynamics\n✅ Web & App Development – Full-Stack Development, React, Angular, Node.js, Flutter\n\n🎓 Master cutting-edge skills. Build your tech career with Uplatz.\n🌐 Learn more: https://uplatz.com\n\n🎯 Why Choose Uplatz\n✔️ Job-focused, project-based learning\n✔️ Globally recognized certifications\n✔️ Lifetime access & affordable pricing\n✔️ Career guidance and mentorship\n\n🔔 Subscribe for weekly tech tutorials, demos, and success stories.\n📲 Follow us on LinkedIn, Instagram, Twitter, and Facebook.\n\n#Uplatz #Tech #Technology #MachineLearning #CloudComputing #Learning",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "jzcG849X2eo": {
+      "checkedAt": "2026-08-22T18:53:54Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "𝗦𝗧𝗨𝗗𝗘𝗡𝗧 𝗧𝗘𝗦𝗧𝗜𝗠𝗢𝗡𝗜𝗔𝗟 | 𝗭𝗔𝗞𝗜𝗔 𝗔𝗕𝗕𝗔𝗦 | 𝗔𝗜 𝗗𝗜𝗚𝗜𝗧𝗔𝗟 𝗠𝗔𝗥𝗞𝗘𝗧𝗜𝗡𝗚 🤖📈\n\n“𝗠𝘆 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝗮𝘁 𝗧𝗵𝗲 𝗡𝗲𝘁 𝗥𝗶𝗱𝗲𝗿 has been a valuable learning experience. The 𝗔𝗜 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 training helped me understand how Artificial Intelligence can be practically integrated into modern digital marketing strategies.\n\nDuring my training, I gained hands-on knowledge of 𝗔𝗜 𝘁𝗼𝗼𝗹𝘀, 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝗺𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴, 𝗹𝗲𝗮𝗱 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻, 𝗺𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻, and 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗺𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀.\n\nI am grateful to 𝗧𝗵𝗲 𝗡𝗲𝘁 𝗥𝗶𝗱𝗲𝗿 – 𝗔𝗜 𝗕𝗮𝘀𝗲𝗱 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗛𝗼𝘂𝘀𝗲 and 𝗛𝘂𝗺𝗮𝘆𝘂𝗻 𝗞𝗵𝗮𝗻 𝗕𝗮𝗯𝗮𝗿 for providing practical and industry-focused training. This experience has given me greater confidence to use AI in my professional journey.” 💙\n\n— 𝗭𝗮𝗸𝗶𝗮 𝗔𝗯𝗯𝗮𝘀\n\n#ZakiaAbbas #AIDigitalMarketing #DigitalMarketing #AITools #MarketingAutomation #TheNetRider #HumayunKhan #HumayunKhanBabar #YouthEmpowerment #SkillDevelopment #CareerGrowth",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "bPA9iQE5a_Q": {
+      "checkedAt": "2026-08-22T18:53:54Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, you’ll learn how to use AI for SEO to improve Google rankings, keyword research, content creation, and on-page optimization.\n\nI share practical AI SEO strategies, tools, and real examples that help beginners and professionals rank faster using artificial intelligence.\n\n📌 Topics covered:\n– AI in SEO\n– Keyword research using AI\n– Content optimization with ChatGPT\n– SEO automation\n– MANY More......\n\n🔔 Subscribe for weekly videos on SEO, AI tools, and digital growth.\n\nFor all Digital Marketing Courses - https://skillkhojo.com/\nTo Enrol in Advanced Practical Seo Course - https://skillkhojo.com/ai-meets-seo-a-practical-approach/\nFor Agency Related Services Visit: https://sonushah.com/\n\n[Your suggestions of new Topics are most welcome in the comments section 😊]\n\n⚡ Resources & Help:\nFor Digital Marketing Services Whatsapp @ +91 9056224993\nFor Digital Marketing Training Whatsapp @ +91 8058054102\nFor Best offers: https://sonushah.com/offers/\n\n👋 Who am I?\nI’m Sonu Shah – Entrepreneur | Marketing Consultant | Teacher | Mentor | Content Creator\n👨‍🏫 CEO / Founder of BussEnhancer.com & SkillKhojo.com\n🌱 I help creators, startups, coaches, and eCommerce brands grow online using AI + Marketing\n\n👨‍💻 Connect with Me:\n🔹 Instagram (Personal): https://www.instagram.com/the.sonushah/\n🔹 LinkedIn (Personal): https://www.linkedin.com/in/sonu-shah/\n\n#DigitalMarketing  #MarketingTips  #AITools  #GrowthHacking  #OnlineBusiness #MarketingHacks  #SocialMediaMarketing  #ChatGPTMarketing  #SEOTips  #EntrepreneurMindset  #ContentStrategy  #ReelsMarketing  #LeadGeneration  #BusinessGrowth  #YouTubeMarketing",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "OK5PC3ibOqw": {
+      "checkedAt": "2026-08-22T18:53:54Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Galina Shubik, Co-Founder at Affect Group—an international digital marketing agency with over two decades of performance growth experience. Galina is an Effie and Shorty Award-winning strategist who has led digital growth and client service transformation for global powerhouses like PepsiCo, MasterCard, LEGO, and Mercedes-Benz. Beyond agency leadership, she serves as an Effie Awards juror and a marketing mentor with Alchemist Accelerator and HerAllies, helping high-growth startups and global enterprises bridge the gap between behavioral psychology and performance marketing. Today, we’re diving into applying cognitive biases to performance creative, scaling agency client service, and how performance marketing is shifting in an era of platform automation.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "dODCvYrHNog": {
+      "checkedAt": "2026-08-22T18:53:54Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "The ads work. The calls come in. And then the leads leak out the bottom before anybody books.\n\nThat's not a traffic problem. It's a container problem, and pouring faster just makes a bigger mess.\n\nIn this walkthrough, I break down the four jobs every home service business lives or dies on, and show you exactly where the money leaks at each one.\n\n🗓️ READY TO FIX YOUR FOUNDATION? BOOK A CALL WITH OUR TEAM:\n👉 https://rocketdigitalmarketing.io/contact\n\n---\n\nTHE FOUR JOBS\n\nGET FOUND. When someone in your service area needs you, your name comes up first. Google Business Profile set up right, local SEO and citations, paid search to fill the gap while organic builds, and social profiles that don't look abandoned when a neighbor looks you up.\n\nEDUCATE. Your website isn't a brochure, it's your closer. It has to load fast, work on a phone, prove you're safe to let in the house, and make booking one tap. This is also where follow-up lives, and follow-up is the single biggest money leak in the business. Almost nobody hires on day one. The winner isn't the cheapest bid, it's whoever is still in front of them on day three.\n\nCONVERT. Depending on the trade, forty to seventy percent of calls to home service businesses go unanswered. Not ignored. You were in an attic or driving. But the customer doesn't know that, so they dial the next name on the list. An AI receptionist and missed-call text-back close that hole.\n\nKEEP TRACK. Most owners run the business out of a phone, a notepad, and memory. Every lead and every stage in one place is the moment marketing stops being a bill and starts being math.\n\n---\n\nWHY IT MATTERS\n\nRight now a lot of owners don't own a business. They own a job, and a job cannot be sold. If every lead runs through your personal cell phone, if you're the only one who knows the follow-up, if the schedule only fills because you chased it, then the business is you. The day you stop, it stops.\n\nCHAPTERS\n0:00 The leads leak out the bottom\n0:17 The four jobs\n1:24 Job one: Get found\n2:15 Job two: Educate, your website\n2:50 Job two continued: Follow-up\n3:23 Job three: Convert, the missed call problem\n3:56 Job four: Keep track\n4:43A job you're stuck in vs an asset you can sell\n4:50 Find your leak\n\n---\n\nFIND YOUR LEAK\n\nComment the word that matches where you're leaking and I'll send you the guide for it, free:\n• GBP for the GBP Domination Guide\n• SITE for the Website Domination Guide\n• NURTURE for the Lead Machine Blueprint\n• LEADS for the Leadflow Blueprint\n• PPC for the Paid Ads Playbook\n\nRather have it built? Foundation starts at $397 a month.\n📅 Book a call: https://rocketdigitalmarketing.io/contact\n\nRocket Digital Marketing builds the digital department for home service owners. HVAC companies, plumbers, remodelers, and landscapers.\n\n#ContractorMarketing #HomeServiceBusiness #HVACMarketing #PlumbingBusiness #LocalSEO #GoogleBusinessProfile #LeadFollowUp #AIReceptionist #ContractorLeadGeneration #SmallBusinessGrowth #TradesBusiness #ContractorWebsite #MarketingAutomation #HomeServiceMarketing #RocketDigitalMarketing",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "JlSoOAmnGkg": {
+      "checkedAt": "2026-08-22T18:53:54Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👇 Get The Book & Book a Diagnostic Session:\nhttps://DigitalMarketingCertified.com\n\n👇 Automate & Covert More Customers \nhttps://myempirepro.com/emailmarketing\n\n👇 WordPress Hosting with AI Website Builder\n https://myempirepro.com/1/cms/\n\n👇 Livestream & Record Videos like a PRO \nhttps://myempirepro.com/streamyard\n\nYou start using AI marketing, SEO, content marketing and organic traffic strategies—but the numbers barely move. Then traffic spikes, crashes again, and it feels like your digital marketing strategy isn't working.\n\nThat is exactly where many entrepreneurs quit too early.\n\nIn this episode, I document Day 58 of my 1,826-day marketing experiment and show you the actual numbers behind building a free traffic system that compounds over time.\n\nYou'll see why the early stages can look painfully slow, why a traffic crash doesn't automatically mean your strategy failed, and why expecting instant results is one of the most expensive false beliefs in digital marketing.\n\nI also open real Google Search Console and YouTube data, including roughly 3,000 Generative AI impressions, a channel being deliberately retrained after a major pivot, approximately 36% Google traffic growth, and the ongoing optimization process we're using to improve click-through rate.\n\nThe shift is from chasing individual spikes to building an AI-assisted system of digital assets, collecting real performance data, identifying what wins and continuously optimizing those assets around the people already searching for what your business sells.\n\n00:00 Building an AI Marketing Free Traffic System\n00:45 Nearly 3,000 Generative AI Impressions\n02:14 Why Short-Term Marketing Expectations Fail\n03:18 The Exponential Growth Curve Most Entrepreneurs Miss\n04:40 Why Free Traffic Looks Slow Before It Compounds\n06:25 What Happens When You Pivot an Existing YouTube Audience\n07:55 Retraining the YouTube Algorithm After a Channel Pivot\n11:06 Finding the Next Google CTR Growth Opportunity\n\n#marketing #digitalmarketing\n\n👤 About Ola Tux Abitogun:\nOla Tux Abitogun is an engineering manager, certified project manager (PMP®, CSPO®), entrepreneur, and author of Digital Marketing Certified. Blending technical data systems with real-world entrepreneurial execution, Ola helps business owners build predictable, zero-cost traffic engines that drive revenue.",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

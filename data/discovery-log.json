@@ -1,7 +1,71 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T17:53:46Z",
+  "updatedAt": "2026-08-22T18:53:54Z",
   "items": [
+    {
+      "id": "KNmDW5HuZRE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Kieran Gilmurray",
+      "publishedAt": "2026-08-22T14:53:54Z",
+      "firstSeenAt": "2026-08-22T18:53:54Z"
+    },
+    {
+      "id": "2YDxvShZKE8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Wilson Dittman Sports",
+      "publishedAt": "2026-08-22T14:53:54Z",
+      "firstSeenAt": "2026-08-22T18:53:54Z"
+    },
+    {
+      "id": "a5J64h0QDUY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Uplatz",
+      "publishedAt": "2026-08-22T12:53:54Z",
+      "firstSeenAt": "2026-08-22T18:53:54Z"
+    },
+    {
+      "id": "jzcG849X2eo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The Net Rider",
+      "publishedAt": "2026-08-22T09:53:54Z",
+      "firstSeenAt": "2026-08-22T18:53:54Z"
+    },
+    {
+      "id": "bPA9iQE5a_Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sonu Shah",
+      "publishedAt": "2026-08-22T01:53:54Z",
+      "firstSeenAt": "2026-08-22T18:53:54Z"
+    },
+    {
+      "id": "dODCvYrHNog",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rocket Digital Marketing",
+      "publishedAt": "2026-08-21T22:53:54Z",
+      "firstSeenAt": "2026-08-22T18:53:54Z"
+    },
+    {
+      "id": "OK5PC3ibOqw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dylan Conroy",
+      "publishedAt": "2026-08-21T22:53:54Z",
+      "firstSeenAt": "2026-08-22T18:53:54Z"
+    },
+    {
+      "id": "JlSoOAmnGkg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Digital Marketing Certified",
+      "publishedAt": "2026-08-21T19:53:54Z",
+      "firstSeenAt": "2026-08-22T18:53:54Z"
+    },
     {
       "id": "tS8w0wIQi08",
       "type": "long",
@@ -19637,15 +19701,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T18:53:28Z",
-      "new": 5,
-      "long": 5,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI software development"
-    },
-    {
       "runAt": "2026-08-08T19:53:38Z",
       "new": 4,
       "long": 3,
@@ -21606,6 +21661,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-22T18:53:54Z",
+      "new": 8,
+      "long": 8,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
