@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T05:53:19Z",
+  "updatedAt": "2026-08-22T06:53:20Z",
   "items": [
+    {
+      "id": "f3RKKsGKI1A",
+      "type": "short",
+      "source": "primary",
+      "channel": "Brendan Automation",
+      "publishedAt": "2026-08-22T06:23:23Z",
+      "firstSeenAt": "2026-08-22T06:53:20Z"
+    },
+    {
+      "id": "QJN-2Mmg9vE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DIMS TV",
+      "publishedAt": "2026-08-22T03:53:20Z",
+      "firstSeenAt": "2026-08-22T06:53:20Z"
+    },
+    {
+      "id": "LipXpHOl2rw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jarid Orgeron",
+      "publishedAt": "2026-08-22T02:53:20Z",
+      "firstSeenAt": "2026-08-22T06:53:20Z"
+    },
     {
       "id": "VuuIANkaULk",
       "type": "short",
@@ -19301,15 +19325,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T05:53:35Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 20,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
       "runAt": "2026-08-08T06:53:36Z",
       "new": 5,
       "long": 4,
@@ -21288,6 +21303,15 @@
       "channelsChecked": 33,
       "warnings": 33,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-22T06:53:20Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 32,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
