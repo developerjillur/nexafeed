@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T09:53:15Z",
+  "updatedAt": "2026-08-22T10:53:23Z",
   "items": [
+    {
+      "id": "aZIJTctck3M",
+      "type": "long",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-22T10:52:41Z",
+      "firstSeenAt": "2026-08-22T10:53:23Z"
+    },
+    {
+      "id": "tkCFMDBwVzw",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-22T10:38:48Z",
+      "firstSeenAt": "2026-08-22T10:53:23Z"
+    },
+    {
+      "id": "d6QgRIUzUOE",
+      "type": "short",
+      "source": "primary",
+      "channel": "Coding Simplified Space",
+      "publishedAt": "2026-08-22T10:30:04Z",
+      "firstSeenAt": "2026-08-22T10:53:23Z"
+    },
+    {
+      "id": "kwGFpT1oZrE",
+      "type": "short",
+      "source": "primary",
+      "channel": "The Utkarsh",
+      "publishedAt": "2026-08-22T10:22:26Z",
+      "firstSeenAt": "2026-08-22T10:53:23Z"
+    },
+    {
+      "id": "egbK3OFFIEU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Justin Tse",
+      "publishedAt": "2026-08-21T19:53:23Z",
+      "firstSeenAt": "2026-08-22T10:53:23Z"
+    },
+    {
+      "id": "ngOSE_Gui70",
+      "type": "short",
+      "source": "secondary",
+      "channel": "ABHIJEET YADAV",
+      "publishedAt": "2026-08-21T19:53:23Z",
+      "firstSeenAt": "2026-08-22T10:53:23Z"
+    },
+    {
+      "id": "o2tzlmpjPgw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ai For You Hindi",
+      "publishedAt": "2026-08-21T14:53:23Z",
+      "firstSeenAt": "2026-08-22T10:53:23Z"
+    },
     {
       "id": "G2d8EMfW8RQ",
       "type": "long",
@@ -19381,15 +19437,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T10:53:21Z",
-      "new": 8,
-      "long": 7,
-      "shorts": 1,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Software Development"
-    },
-    {
       "runAt": "2026-08-08T11:53:31Z",
       "new": 4,
       "long": 2,
@@ -21359,6 +21406,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-22T10:53:23Z",
+      "new": 7,
+      "long": 3,
+      "shorts": 4,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }

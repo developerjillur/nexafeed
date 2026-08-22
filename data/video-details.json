@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T09:53:15Z",
+  "updatedAt": "2026-08-22T10:53:23Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9263,7 +9263,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-22T09:53:15Z",
+      "checkedAt": "2026-08-22T10:53:23Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9292,7 +9292,7 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-22T09:53:15Z",
+      "checkedAt": "2026-08-22T10:53:23Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -10975,25 +10975,55 @@
       "probeClient": "web_embedded"
     },
     "M7H6aT8klAs": {
-      "checkedAt": "2026-08-21T09:53:17Z",
+      "checkedAt": "2026-08-22T10:53:23Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 1,
-      "likeCount": 0,
+      "commentCount": 4,
+      "likeCount": 26,
       "comments": [
+        {
+          "id": "UgxnXXeqBH4EIOBLP8B4AaABAg",
+          "author": "@patrickmeares3837",
+          "text": "Guide",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T10:43:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_neNHWmxAfKMcq_u3C6Ybm1GIez8cXRv4shSNicKrtdcy8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzbY3JlSzQhLZXv12R4AaABAg",
+          "author": "@JudeAlattraqchi",
+          "text": "Guide",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/lNm54pDEdJb_1k-7tDWKTkJCvA1yxw6NR7HEvOs-RHFKdBWaUNq2CKPzPPLZv1q22lZmc0MKBQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyGSnyzbKgNxKPPz754AaABAg",
+          "author": "@chadrachal",
+          "text": "Guide",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kEFZP6EaHHAsGt4TlY0egRMqUkvOvyh4SPhSNiOQgcXA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgynMu_5qTFrGy61FMp4AaABAg",
           "author": "@IronwoodADB",
           "text": "Guide",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T09:15:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/v6vY6GVTH_0T9FHG-ZVfk0-6GoxJcBKAEhR7fHIYC3QucCIx6TJZoJJfU-jk5przhqrYcUXREjA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T09:53:17Z",
+      "commentsFetchedAt": "2026-08-22T10:53:23Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -12280,6 +12310,89 @@
       "description": "Here's the AI News you might have missed this week. Get $100 in free credits for @Hyperagent when you sign up for a paid here: https://hyperagent.com/invite/MATT100?utm_source=youtube&utm_medium=influencer&utm_campaign=MATT100\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nTripo P2.0 Preview: https://x.com/tripoai/status/2089750360114298937\nmRNA Cancer Vaccine: https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/\nPioneering mRNA Technology: https://www.modernatx.com/en-US/media-center/all-media/blogs/advancing-fight-against-cancer\nQwen3.8 Open Weights: https://x.com/Alibaba_Qwen/status/2088280182356611304\nLM Studio Bionic: https://lmstudio.ai/\nHermes Agent: https://hermes-agent.nousresearch.com/\nPacing Cyber Capabilities: https://openai.com/index/pacing-model-development-cyber-capabilities/\nChatGPT Computer History: https://learn.chatgpt.com/docs/customization/computer-history\nApple Messages Plugin: https://x.com/ChatGPT/status/2090499359641329950\nMeta AI Mac App: https://x.com/spencerbarnett/status/2090164939105476969\nPerplexity Brain Memory: https://www.perplexity.ai/hub/blog/brain-agentic-memory-as-a-knowledge-wiki\nGemini Watermark Toggle: https://x.com/GeminiApp/status/2088277477672255830\nClaude Gmail Drive: https://x.com/claudeai/status/2089806039088517356\nChatGPT For Teens: https://openai.com/index/chatgpt-for-teens/\nFree Google AI Students: https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/\nHappyShrimp Music Model: https://www.alibabacloud.com/blog/alibaba-releases-ai-music-generation-model-happyshrimp-1-0-in-beta-test_603466\nCursor Origin Code Hosting: https://cursor.com/changelog/origin-code-hosting\nSlack Code Agent: https://www.salesforce.com/introducing-slack-code/\nAI Authorship Study: https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/\nUnitree Superman Robot: https://x.com/UnitreeRobotics/status/2089240553682809175\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:23 Tripo P2.0\n5:00 AI Cancer Breakthrough\n8:06 HyperAgent Agent Teams\n9:24 Qwen3.8-27b (Open Source and Local)\n17:42 OpenAI Presses Pause\n19:33 ChatGPT Computer History\n21:23 ChatGPT Apple Messages\n22:23 New Meta AI App\n23:07 Perplexity Brain\n23:48 Gemini Removes Watermarks\n24:30 Claude Gmail and Drive\n24:55 ChatGPT for Teens\n26:10 Gemini for Free\n26:32 HappyShrimp\n27:51 Cursor Origin\n28:14 Slack Code\n29:20 Dead Internet Proof\n30:04 Unitree Superman Robot\n30:37 Final Thoughts\n32:25 WTF?",
       "commentCount": 46,
       "likeCount": 1595,
+      "probeClient": "web_embedded"
+    },
+    "aZIJTctck3M": {
+      "checkedAt": "2026-08-22T10:53:23Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn to Automate Everything: https://www.skool.com/ai-inner-circle/about\n\nAutomate Anything in Your Browser with Claude for Chrome (No APIs Needed)\n\nClaude for Chrome turns your browser into an automation layer for every task that has no API. In this video I record myself replying to LinkedIn comments once, turn it into a skill, and schedule it to run daily in my own tone of voice. You'll also see live scraping demos, the new Cowork mode inside Chrome, and the full setup from install to recurring automation.\n\nIn this video you'll learn:\n• Auto-reply to LinkedIn comments in your own tone\n• Scrape any website without paying for APIs\n• Record yourself working once and turn it into a skill\n• Schedule recurring automations that run in the background\n\nMY SAAS PRODUCTS (built with this exact stack)\nTiltIt: https://tiltit.video [3D animation software]\nPenAnywhere: https://apps.apple.com/us/app/penanywhere/id6760774183 [Annotator App]\nImpromptly AI: https://impromptly.ai/ [English Speaking Coach, Impromptu Generator]\n\nComment \"CLAUDE\" and I'll DM you the full checklist with every recurring automation you can implement today.\n\nCONNECT WITH ME\n* Instagram: https://www.instagram.com/leadgenman/\n* LinkedIn: https://www.linkedin.com/in/leadgenmanthan/\n* Facebook: https://www.facebook.com/leadgenman/\n* TikTok: https://www.tiktok.com/@leadgenmanthan\n* YouTube: https://www.youtube.com/@LeadGenMan\n* Community: https://www.skool.com/ai-inner-circle/about\n\nCHAPTERS\n0:00 LinkedIn comments replying themselves (live demo)\n0:49 How it works behind the scenes + the no-API idea\n2:05 Use case 2 — scraping data without paying for APIs\n2:59 Cowork inside Chrome + Product Hunt scrape (Act without asking, models)\n4:45 The real value — recurring automation with skills\n5:37 Full tutorial — install the extension and record your workflow\n7:01 The generated skill — steps, tone of voice, start URL\n8:29 Schedule it, live test run, and more use cases\n\n#claudeai #browserautomation #leadgenman",
+      "commentCount": 1,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "tkCFMDBwVzw": {
+      "checkedAt": "2026-08-22T10:53:23Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "learn how to monetize your channel before new rules",
+      "commentCount": 0,
+      "likeCount": 0,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-22T10:53:23Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "d6QgRIUzUOE": {
+      "checkedAt": "2026-08-22T10:53:23Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "✅ What Claude Cookbooks actually is\n✅ MIT licensed, 50k+ GitHub stars, fully free\n✅ Recipes: classification, summarization, RAG, customer service, vision\n✅ Advanced: prompt caching + JSON mode\n✅ Comment \"Cook\" for the direct link\n\nFollow for more on AI Agents, MCP, Claude Code, and dev productivity.\n\nclaude cookbooks, anthropic github, claude api tutorial, free ai code, claude prompt caching, rag with claude, json mode claude, ai agent recipes, claude api key setup, CodingSimplifiedSpace",
+      "commentCount": 1,
+      "likeCount": 3,
+      "comments": [
+        {
+          "id": "UgyZTzhhAKLdPf95mv54AaABAg",
+          "author": "@AnushkaSatav",
+          "text": "cookbook",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T10:40:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lN1r14JyVE1HV827fOA4jwcUpML9JATe2vub3wBZwgdO1_u1mEpcWHSejRd9oj5lcaaA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-22T10:53:23Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "kwGFpT1oZrE": {
+      "checkedAt": "2026-08-22T10:53:23Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 17,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-22T10:53:23Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "egbK3OFFIEU": {
+      "checkedAt": "2026-08-22T10:53:23Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Granola is the AI notepad for professionals in back-to-back meetings: https://www.granola.ai/?via=justin-tse-feature-media-inc\n\nMacBook Air M5 Review - https://www.youtube.com/watch?v=WqsUZQIKefw\nSuperhuman Mail - https://www.youtube.com/watch?v=JBPjPjnZKd8\nClaude Code - https://youtu.be/1i-Pd551vUo?si=fQU03jnU-XuxoOKc&t=249\n\nInstagram - http://instagram.com/Justin.Tse\nBusiness Inquiries - Justin@FeatureMedia.ca\nX - https://twitter.com/JustinTse\nMy YouTube Business Course - https://www.creatorcashflow.com\n\nComment \"mac\" if you see this! Thanks to Granola for sponsoring this video!\n\nBUSINESS INQUIRIES - Justin@FeatureMedia.ca\n\nIntro - 0:00\nMail - 0:37\nNotes - 1:33\nMusic - 1:52\nRemote Desktop - 2:48\nCloud Storage - 3:42\nVideo Editing - 4:09\nPhoto Editing - 6:09\nGranola - 7:23\nTask Management - 9:08\nAI Workflow - 9:40\nFinance - 12:13\nMoodboard - 12:43\nOutro - 13:14",
+      "commentCount": 9,
+      "likeCount": 158,
+      "probeClient": "web_embedded"
+    },
+    "ngOSE_Gui70": {
+      "checkedAt": "2026-08-22T10:53:23Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "3 Best AI Tools for Graphic Designers in 2026? I Tested Them With ONE Prompt\nWhat happens when you give the EXACT SAME prompt to 3 powerful AI image models? 🤯\n\nIn this video, I tested Nano Banana, GPT Image and Grok Imagine using ONE universal prompt — all inside OpenArt AI.\n\nInstead of simply telling you which AI is “the best”, I wanted to actually test them and compare their results from a graphic designer's perspective.\n\nIn this video, you'll see:\n\n• How to use OpenArt AI\n• How to access multiple AI models in one place\n• Nano Banana image generation\n• GPT Image generation\n• Grok Imagine generation\n• The SAME prompt tested across all 3 models\n• How differently each model interprets the same prompt\n• Which model works better for different graphic design needs\n• Why comparing AI models can improve your creative workflow\n• How OpenArt can bring multiple AI creative tools together in one workflow\n\nThe interesting part is that there isn't always one “best” AI model.\n\nThe right model depends on what you're trying to create — and that's exactly what this experiment is about. 🎨⚡\n\nIf you're a graphic designer, content creator, UI/UX designer or someone interested in AI-powered design, this workflow can save you a lot of time.\n#techtips #techshorts #youtubeshorts \n💬 Which result did YOU like the most — Nano Banana, GPT Image or Grok?\n\nLet me know in the comments! 👇\n\n\nHASTAGS -\n#AI #GraphicDesign #OpenArt #NanoBanana #GPTImage #Grok #AIDesign #AITools #AIImageGenerator #GenerativeAI #GraphicDesigner #Tech2026",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "o2tzlmpjPgw": {
+      "checkedAt": "2026-08-22T10:53:23Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Google's Gemini Omni Just Changed AI Video | New Google Omni Hack\nGoogle's Gemini Omni Makes AI Video Way Too Easy\nGoogle's Gemini Omni Just Changed AI Video | New Google Omni Hack | Copy Any Video in SECONDS\n\nUncover the ultimate Google Gemini Omni AI video hack! In this step-by-step tutorial, learn how to copy any video in seconds and create dramatic AI videos effortless—completely free and with no watermark.\n\nWhether you are looking to generate viral AI cartoons, create eye-catching shorts, or master prompt engineering for generative AI, this guide covers everything you need to know. Elevate your video creation process and start growing your YouTube channel faster today!\n\nWhat you'll learn in this video:\n\nHow to use Google Gemini Omni for AI video generation\n\nThe secret hack to copy any video style in seconds\n\nTips for creating cinematic AI cartoons and dramatic animations\n\nBest text-to-video workflow for high-engagement content\n\nPrompt - \n Analyze this video scene by scene and generate detailed Ai video prompt for each shot/frame including camera angles, subject actions, lighting. environment, facial expressions, composition, transitions and cinematic style. Make the prompts accurate enough to recreate the video as close as possible. \n\nTimestamps \n00:00 - Intro: what does copy any video mean?\n00:30 - start the process\n00:47- paste the secret prompt (as mentioned below)\n01:55 - Result and overview\n02:30 - how to make realistic ai transition video\n03:15 - use your own avatar\n04:00 - Transition Video Result\n04:12 - Final Results & Channel Growth Tips\n\n#AIVideo #Freeaivideogenerator #aivideogenerator #googleomni #GoogleGemini #GenerativeAI #AIVideoGenerator #TextToVideo #AIAnimation #AITutorial #ContentCreation #AIArt #ViralVideo #AIPrompts #DigitalArt",
+      "commentCount": 7,
+      "likeCount": 203,
       "probeClient": "web_embedded"
     }
   }
