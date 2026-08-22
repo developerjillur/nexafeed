@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T08:53:10Z",
+  "updatedAt": "2026-08-22T09:53:15Z",
   "items": [
+    {
+      "id": "G2d8EMfW8RQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-22T05:53:15Z",
+      "firstSeenAt": "2026-08-22T09:53:15Z"
+    },
+    {
+      "id": "NqOPcNYbqrA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Gaurav Sen",
+      "publishedAt": "2026-08-21T21:53:15Z",
+      "firstSeenAt": "2026-08-22T09:53:15Z"
+    },
+    {
+      "id": "ETa6ZYqoIXo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Riley Brown",
+      "publishedAt": "2026-08-21T20:53:15Z",
+      "firstSeenAt": "2026-08-22T09:53:15Z"
+    },
+    {
+      "id": "i2n_f0aX_G8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Convex",
+      "publishedAt": "2026-08-21T15:53:15Z",
+      "firstSeenAt": "2026-08-22T09:53:15Z"
+    },
+    {
+      "id": "EfGF7QbJItA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Matt Wolfe",
+      "publishedAt": "2026-08-21T15:53:15Z",
+      "firstSeenAt": "2026-08-22T09:53:15Z"
+    },
     {
       "id": "RMoVtDarkZg",
       "type": "long",
@@ -19341,15 +19381,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T09:53:12Z",
-      "new": 0,
-      "long": 0,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "Automation"
-    },
-    {
       "runAt": "2026-08-08T10:53:21Z",
       "new": 8,
       "long": 7,
@@ -21319,6 +21350,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-22T09:53:15Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }

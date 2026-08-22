@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T08:53:10Z",
+  "updatedAt": "2026-08-22T09:53:15Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9263,7 +9263,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-22T08:53:10Z",
+      "checkedAt": "2026-08-22T09:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9292,10 +9292,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-22T08:53:10Z",
+      "checkedAt": "2026-08-22T09:53:15Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-22T00:53:10Z",
@@ -12235,6 +12235,51 @@
       "description": "Looking for the best tools to grow and automate your small business?\n\n Check out the tools 👇 \n\nGoHighLevel (16 day FREE trial) : https://gohighlevel.com/annual?fp_ref=cnetbn\n\nGoLevelHigh BOOT camp : https://www.gohighlevel.com/highlevel-bootcamp?fp_ref=cnetbn\n\nCoupler.io (7 day FREE trial) : https://www.coupler.io/?ref=abdullah31\n\nIn this video, I’m sharing two powerful business tools that can help small businesses, entrepreneurs, marketers, and agencies save time, manage customers, automate repetitive tasks, and make better decisions with their data.\n\nThe first tool is GoHighLevel, an all-in-one CRM and marketing automation platform designed to help businesses manage leads, customer relationships, sales pipelines, websites, funnels, appointments, email/SMS marketing, and automated follow-ups — all from one platform.\n\nThe second tool is Coupler.io, a data integration and reporting platform that helps businesses and agencies connect data from different apps and marketing platforms, automate reports, build dashboards, and understand what’s actually driving their results.\n\nIf you’re looking for small business automation tools, CRM software, marketing automation, lead generation tools, business analytics, automated reporting, or tools to help grow your business, these are worth checking out.\n\nNote : the links above are affiliate links\n\n#SmallBusiness #BusinessAutomation #GoHighLevel #CouplerIO #MarketingAutomation #CRM #LeadGeneration #SmallBusinessTools #DigitalMarketing #BusinessGrowth #AgencyTools #MarketingTools",
       "commentCount": 0,
       "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "G2d8EMfW8RQ": {
+      "checkedAt": "2026-08-22T09:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get the Agent OS & OpenBot Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nOpenbot: The New AI Agent That Has Its Own Computer\n\nOpenbot is a revolutionary open-source tool that gives AI agents their own dedicated browser and workspace to complete tasks autonomously. Learn how this 'human-in-the-loop' system allows you to build a team of AI co-workers while maintaining total control and security.\n\n00:00 - Intro: A Real Computer for AI\n01:36 - How Openbot Secures AI Agents\n02:27 - Building Your AI Co-Worker Team\n03:51 - Real-World Use Cases\n04:16 - Safety & Security Guardrails\n04:51 - Human Handoff: Taking Control\n05:30 - Generative UI Dashboards\n06:22 - The Future of AI Workers",
+      "commentCount": 3,
+      "likeCount": 39,
+      "probeClient": "web_embedded"
+    },
+    "NqOPcNYbqrA": {
+      "checkedAt": "2026-08-22T09:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "How do we choose between RAG pipelines and agentic pipelines?\n\nThis is a real interview question from a big tech company, asked to a candidate in their technical interview round. The video explains the answer in roughly 11 minutes.\n\nTo crack more questions, subscribe to the channel! \n\nAI engineering program for software engineers: https://aiengg.dev\n\n00:00 Question - RAG vs Agents\n00:35 Difference between RAG and Agents\n01:45 What can RAG make tool calls\n02:54 Agentic RAG\n03:47 Bloopers :p\n\nPost your interview questions here: https://forms.gle/Bvo65mU4gUqCdwZQ8\n\n#LLMs #AI #InterviewReady",
+      "commentCount": 4,
+      "likeCount": 88,
+      "probeClient": "web_embedded"
+    },
+    "ETa6ZYqoIXo": {
+      "checkedAt": "2026-08-22T09:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "The Biggest News this week in AI Agents: Codex iMessage Control, GrokBot's Rise, Claude Cowork on Mobile, Slack Code And more\n\nGrab HubSpot's free AI Agents Cheat Sheet: https://offers.hubspot.com/ai-agents-cheat-sheet?utm_campaign=CR000001329_RileyBrown%2Fpartner_youtube&utm_source=youtube&utm_medium=social\nIt breaks down 7 agent tools — what each is best at, setup time, cost, and copy-paste starter prompts for real workflows.\n\nFollow Agent Native on Spotify: https://open.spotify.com/episode/3Pdyx0JNzMo559VBLwHKGa?si=22_nSm-OS56atI9_MpuN3Q\n\n00:00 Intro\n00:46 Codex iMessages Update\n07:00 GrokBot's Rising Popularity\n09:03 Super App Comparison\n17:36 Anthropic Updates\n22:15 Slack Code\n25:39 Outro\n\nMore about me rileybrown.xyz\nSponsorships: riley@rakugomedia.com",
+      "commentCount": 14,
+      "likeCount": 283,
+      "probeClient": "web_embedded"
+    },
+    "i2n_f0aX_G8": {
+      "checkedAt": "2026-08-22T09:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI web search has become a confusing mess.\n\nOpenAI, Anthropic and Google have search built into their models, while Exa, Tavily, Firecrawl, Jina and Liner all offer overlapping versions of search, extraction, crawling and research.\n\nIn this video, I break down what each provider is actually good at, what its Convex component adds, and when I think you should skip them all and use the model's built-in search instead.\n\nMy basic rule:\n\n- If only the model needs a current answer, use built-in web search.\n- If your application needs to inspect, store or reuse the results, look at Exa, Tavily, Jina or Liner.\n- If you need to acquire pages or crawl a site over time, use Firecrawl.\n- If your application already owns the documents, use Convex full-text or vector search.\n\nThis isn't a search-quality benchmark. It's a practical look at which tool fits which job.\n\nThe five providers:\n\n- Exa for semantic discovery and structured research\n- Tavily for general-purpose agent search\n- Firecrawl for scraping and durable site crawling\n- Jina for turning URLs into clean, reusable content\n- Liner for academic search and cited research\n\nThe components are open source, but you still pay the provider's API costs and normal Convex usage.\n\nDisclosure: Exa supplied Convex with API credits and built a demo after we started discussing this video. They had no control over my conclusions.\n\nConvex components\n\nFull directory  \nhttps://www.convex.dev/components\n\nExa  \nhttps://www.convex.dev/components/exalabs/convex-exa\n\nTavily  \nhttps://www.convex.dev/components/tavily/convex-tavily\n\nFirecrawl  \nhttps://www.convex.dev/components/firecrawl/firecrawl-convex\n\nFirecrawl Scrape community component  \nhttps://www.convex.dev/components/firecrawl-scrape\n\nJina  \nhttps://www.convex.dev/components/convex-jina\n\nLiner  \nhttps://www.convex.dev/components/liner-convex\n\nDemo source\n\nExa  \nhttps://github.com/exa-labs/exa-convex\n\nTavily  \nhttps://github.com/tavily-ai/convex-tavily\n\nFirecrawl  \nhttps://github.com/firecrawl/firecrawl-convex\n\nJina  \nhttps://github.com/adhishthite/convex-jina\n\nLiner  \nhttps://github.com/mjkang-estrella/liner-convex\n\nProvider pricing\n\nExa  \nhttps://exa.ai/pricing?tab=api\n\nTavily  \nhttps://docs.tavily.com/documentation/api-credits\n\nFirecrawl  \nhttps://www.firecrawl.dev/pricing\n\nJina  \nhttps://jina.ai/reader/\n\nLiner  \nhttps://liner.com/developers/docs/pricing\n\nNative Convex search\n\nFull-text search  \nhttps://docs.convex.dev/search/text-search\n\nVector search  \nhttps://docs.convex.dev/search/vector-search\n\nBuilt-in model search\n\nOpenAI  \nhttps://developers.openai.com/api/docs/guides/tools-web-search\n\nAnthropic  \nhttps://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool\n\nGoogle  \nhttps://ai.google.dev/gemini-api/docs/google-search\n\nOpenRouter  \nhttps://openrouter.ai/docs/guides/features/server-tools/web-search\n\n#Convex #AIAgents #WebSearch",
+      "commentCount": 2,
+      "likeCount": 28,
+      "probeClient": "web_embedded"
+    },
+    "EfGF7QbJItA": {
+      "checkedAt": "2026-08-22T09:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Here's the AI News you might have missed this week. Get $100 in free credits for @Hyperagent when you sign up for a paid here: https://hyperagent.com/invite/MATT100?utm_source=youtube&utm_medium=influencer&utm_campaign=MATT100\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nTripo P2.0 Preview: https://x.com/tripoai/status/2089750360114298937\nmRNA Cancer Vaccine: https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/\nPioneering mRNA Technology: https://www.modernatx.com/en-US/media-center/all-media/blogs/advancing-fight-against-cancer\nQwen3.8 Open Weights: https://x.com/Alibaba_Qwen/status/2088280182356611304\nLM Studio Bionic: https://lmstudio.ai/\nHermes Agent: https://hermes-agent.nousresearch.com/\nPacing Cyber Capabilities: https://openai.com/index/pacing-model-development-cyber-capabilities/\nChatGPT Computer History: https://learn.chatgpt.com/docs/customization/computer-history\nApple Messages Plugin: https://x.com/ChatGPT/status/2090499359641329950\nMeta AI Mac App: https://x.com/spencerbarnett/status/2090164939105476969\nPerplexity Brain Memory: https://www.perplexity.ai/hub/blog/brain-agentic-memory-as-a-knowledge-wiki\nGemini Watermark Toggle: https://x.com/GeminiApp/status/2088277477672255830\nClaude Gmail Drive: https://x.com/claudeai/status/2089806039088517356\nChatGPT For Teens: https://openai.com/index/chatgpt-for-teens/\nFree Google AI Students: https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/\nHappyShrimp Music Model: https://www.alibabacloud.com/blog/alibaba-releases-ai-music-generation-model-happyshrimp-1-0-in-beta-test_603466\nCursor Origin Code Hosting: https://cursor.com/changelog/origin-code-hosting\nSlack Code Agent: https://www.salesforce.com/introducing-slack-code/\nAI Authorship Study: https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/\nUnitree Superman Robot: https://x.com/UnitreeRobotics/status/2089240553682809175\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n0:00 Intro\n0:23 Tripo P2.0\n5:00 AI Cancer Breakthrough\n8:06 HyperAgent Agent Teams\n9:24 Qwen3.8-27b (Open Source and Local)\n17:42 OpenAI Presses Pause\n19:33 ChatGPT Computer History\n21:23 ChatGPT Apple Messages\n22:23 New Meta AI App\n23:07 Perplexity Brain\n23:48 Gemini Removes Watermarks\n24:30 Claude Gmail and Drive\n24:55 ChatGPT for Teens\n26:10 Gemini for Free\n26:32 HappyShrimp\n27:51 Cursor Origin\n28:14 Slack Code\n29:20 Dead Internet Proof\n30:04 Unitree Superman Robot\n30:37 Final Thoughts\n32:25 WTF?",
+      "commentCount": 46,
+      "likeCount": 1595,
       "probeClient": "web_embedded"
     }
   }
