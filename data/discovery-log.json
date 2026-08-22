@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T01:53:15Z",
+  "updatedAt": "2026-08-22T02:53:16Z",
   "items": [
+    {
+      "id": "Z8NMhu1Fohc",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Geo News",
+      "publishedAt": "2026-08-22T01:53:16Z",
+      "firstSeenAt": "2026-08-22T02:53:16Z"
+    },
+    {
+      "id": "ileUkRD5B4c",
+      "type": "short",
+      "source": "secondary",
+      "channel": "WGRZ-TV",
+      "publishedAt": "2026-08-21T23:53:16Z",
+      "firstSeenAt": "2026-08-22T02:53:16Z"
+    },
+    {
+      "id": "aBCsBQAnoVs",
+      "type": "short",
+      "source": "secondary",
+      "channel": "CBS Atlanta",
+      "publishedAt": "2026-08-21T21:53:16Z",
+      "firstSeenAt": "2026-08-22T02:53:16Z"
+    },
+    {
+      "id": "pB_5SBtF49k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NOVA ECOSYSTEM",
+      "publishedAt": "2026-08-21T17:53:16Z",
+      "firstSeenAt": "2026-08-22T02:53:16Z"
+    },
+    {
+      "id": "2aM1gohpvYA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CTV News",
+      "publishedAt": "2026-08-21T13:53:16Z",
+      "firstSeenAt": "2026-08-22T02:53:16Z"
+    },
     {
       "id": "BDzBk2agGgM",
       "type": "short",
@@ -19205,15 +19245,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T01:53:29Z",
-      "new": 6,
-      "long": 4,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
       "runAt": "2026-08-08T02:53:40Z",
       "new": 4,
       "long": 4,
@@ -21192,6 +21223,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-22T02:53:16Z",
+      "new": 5,
+      "long": 2,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
