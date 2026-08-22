@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T23:53:13Z",
+  "updatedAt": "2026-08-22T00:53:10Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -1399,12 +1399,12 @@
       "probeClient": "web_embedded"
     },
     "-YVQ2BmjXeQ": {
-      "checkedAt": "2026-08-15T00:28:14Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Poolside Desktop Assistant brings all your AI coding agents into one workspace.\n\nInstead of juggling multiple terminals, you can run Claude Code, Codex, and other coding agents in parallel across separate Git worktrees, keeping every task isolated and preventing conflicts between agents.\n\nIf you're building with AI every day, this is a cleaner way to manage multiple agents, repositories, and long-running coding workflows from a single desktop app.\n\n#ai #coding #claudecode #codex #developer #aiagents",
-      "commentCount": 19,
-      "likeCount": 177,
+      "commentCount": 20,
+      "likeCount": 176,
       "comments": [
         {
           "id": "UgxTXGFW8nCydu8QHmR4AaABAg",
@@ -1501,12 +1501,12 @@
       "probeClient": "web_embedded"
     },
     "23sUwit1PHM": {
-      "checkedAt": "2026-08-15T00:28:14Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Vercel open-sourced its security harness that uses coding agents to find vulnerabilities in your codebase.\nIt is called deepsec.\nAnd the CEO just said that Claude Fable 5 is so locked down for cybersecurity that it couldn't even complete a defensive security scan.\nAn open-source model just did it better.\nYou can use this GitHub repo from here and just run it on your laptop with no cloud access needed.\nJust your existing Claude or Codex subscription.\nIt scans your code, identifies security-sensitive files, traces data flows, checks for mitigations, and produces actionable findings with severity ratings. Then a second agent validates the results to remove false positives.\nVercel runs this on their own monorepos. Sometimes scaling to 1,000+ concurrent sandboxes.\nHere's what's most interesting here.\nWhen people tested different models on actual cybersecurity tasks, Kimi K3, the open-weight model, performed top-tier. GPT-5.6 Sol was the best but expensive.\nAnd Fable 5 refused to complete the run at all. The best model in the world didn't work. What's funnier than that? Its safety classifiers blocked everything, even defensive work.",
       "commentCount": 2,
-      "likeCount": 625,
+      "likeCount": 639,
       "comments": [
         {
           "id": "UgxR_mVCHcGmGrWu28B4AaABAg",
@@ -3523,11 +3523,11 @@
       "availability": "public"
     },
     "sakMrVvsr8Y": {
-      "checkedAt": "2026-08-15T00:28:14Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "description": "Tell me I'm wrong in the comments, I hate clicking \"approve\" every 2 seconds lol.\n\nClicking approve is not safety.\n\n50 prompts in, you're catching about 5% of what Claude drops.\n\nIn two days Anthropic flips auto mode on by default.\n\nAI Weekly tested 1,000+ paid users. Auto caught 89% of dangerous commands. We caught 13.6%.\n\nBeen on dangerously-skip-permissions since day one. Zero issues.\n\nClick yes enough times, you click yes always.\n\n#ClaudeCode\n#ClaudeAI\n#AItools\n#AIAgents\n#DevTools",
-      "commentCount": 5,
-      "likeCount": 34,
+      "commentCount": 8,
+      "likeCount": 55,
       "comments": [
         {
           "id": "UgywFOs4aknMNpxxNRR4AaABAg",
@@ -3595,11 +3595,11 @@
       "availability": "public"
     },
     "dPScBnXaNdc": {
-      "checkedAt": "2026-08-15T00:28:14Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "description": "Comment \"Agentic\" for my FREE Agentic OS Playbook\n\nPolishing the dashboard is the trap.\n\nThe leverage sits underneath it.\nYour skills. Your agent brain.\n\nMine saves 31 hours a week and I never open it.\n\nBuild skills around what's already profitable.\nWire a Graphify brain into Obsidian.\nTurn those skills into scheduled tasks.\n\nThen build the dashboard.\n\nWrong order and you built a toy, fam.\n\n#AIAgents\n#ClaudeCode\n#Automation\n#BuildInPublic\n#AIWorkflow",
-      "commentCount": 8,
-      "likeCount": 121,
+      "commentCount": 40,
+      "likeCount": 229,
       "comments": [
         {
           "id": "Ugy1PRcI42MyczLwB6l4AaABAg",
@@ -9263,43 +9263,94 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-21T23:53:13Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "-fF1ufNJoho": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 42,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentCount": 1,
+      "likeCount": 134,
+      "comments": [
+        {
+          "id": "UgyHD6JL20KNce7wp5h4AaABAg",
+          "author": "@CityAnatomyVideos",
+          "text": "Would the MCP usage be the main thing that would be different? I guess maybe the ability to use any model. What are the plugins that are written for that are beneficial",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/slQswBX7CYcExr4i0nl128GHrN05WNQ_PC8oBWsn86Id7L-JhMTPlz1aEzEY4AUUYVygpVuyjw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-21T23:53:13Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "a7Mp-TCYQpI": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment MINIMAX and I'll send you the link.\n\nChina just dropped a free open-source AI video model that goes toe to toe with the paid ones.\n\nIt's MiniMax H3, and it kills the usual workflow. Normally you generate a silent clip, then chase down voice, music and sound in separate tools. Here you feed it text, a photo, or a reference clip, and it hands back the finished scene with speech, lip-sync, foley and a fitting score, all made together in a single pass.\n\nAnd it isn't locked behind a data center. An optimized build runs on a normal PC from about 8GB of VRAM, with some trade-off in quality, or you can test the full version online right now.\n\n#ai #videogen #opensource #minimax #aitools",
-      "commentCount": 2,
-      "likeCount": 10,
+      "commentCount": 6,
+      "likeCount": 39,
       "comments": [
+        {
+          "id": "UgwYYL_HV5C3KQgnUe94AaABAg",
+          "author": "@jebroninfante8304",
+          "text": "This video put Postlabs AI back on my radar.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mSewoBL3Cq3TOwFH2xOW236UApXQ-kPjlKPxywrC8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw0NPSql5gh5IdzS8h4AaABAg",
+          "author": "@jasonaeon",
+          "text": "Minimax",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/zOeW3VhjDTNLS_ckVbvO7zLTLO8t0_vfwi1lR_1LXqpSGiaVN_Gbmp_B60k0aT-RXpblg11B=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy9oEtkJL7HK9GzY254AaABAg",
+          "author": "@InnovationIsBeautiful",
+          "text": "Minimax",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/jFoqPa69c8VQaRfPmeQCLOGMSljtydmbOO01AzqbU3zpueCHdkJjlhKLnVs2YEzdYSqjwM3meA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxqjj-VDxJL-2CPbht4AaABAg",
+          "author": "@janetwoodsmscd",
+          "text": "Minimal",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/TDiFUnLxiKJhjAE6oPKT2MR7KYALe29rgFJle2-FoSUOtSEHUBKhua6HyTuBHoMEN_knQ76K6w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgxivJH45QvpN1fp-xZ4AaABAg",
           "author": "@whatstocks8827",
           "text": "Minimax",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T00:12:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l_I2_so_ViSakxv8hWLNClI0j5BeNlhHHH4ttp7Ii8LqJBRnCcihed_H4FzkZbaYoX4w=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9309,30 +9360,50 @@
           "author": "@karkonda5653",
           "text": "Minimax",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T22:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhUPDcOPWgLv-pgmtwjbE6j9xIlhTvOth2Thix0UU=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "E8K55ixd7HM": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "China may be building an advantage in AI that has very little to do with AI models themselves.\n\nIn June 2026, researchers at the Institute of Plasma Physics, Chinese Academy of Sciences, completed testing on a 582-ton superconducting fusion magnet for China's “artificial sun” program. According to Chinese Academy of Sciences, the magnet is the world's largest fusion-reactor superconducting magnet, with three times the energy storage of ITER's comparable toroidal-field magnet and technology developed domestically.\n\nThat sounds like a fusion story.\n\nBut the bigger story could be electricity.\n\nAI is becoming increasingly dependent on massive amounts of computing infrastructure, and computing infrastructure depends on electricity. The IEA estimates that global data-center electricity consumption could more than double from around 415 TWh in 2024 to roughly 945 TWh by 2030, with AI identified as the most important driver of that growth.\n\nChina is already seeing rapidly rising electricity demand from internet data services and AI-related infrastructure. At the same time, China is trying to connect computing capacity and energy infrastructure more closely together.\n\nSo the interesting question isn't simply whether China will achieve commercial fusion.\n\nIt's this:\n\nIf energy becomes one of the biggest constraints on AI, could control over abundant domestic energy become a strategic AI advantage?\n\nFusion is nowhere near being a guaranteed commercial power source yet, so this isn't a claim that China has already “won” the energy race.\n\nBut it highlights a much bigger shift in AI competition.\n\nThe next generation of AI competition may not only be about who has the best models or the most advanced chips.\n\nIt may also be about who can build the infrastructure, power, data centers, and energy systems needed to run AI at enormous scale.\n\nFor founders, AI builders, and technology professionals, this is the bigger picture worth watching.\n\nWhy subscribe?\n\nSubscribe for practical analysis of AI, startups, SaaS, technology, product strategy, and the business systems shaping the next generation of software.\n\nOn this channel, the goal isn't simply to tell you what happened.\n\nIt's to explain why it matters, what most headlines miss, and what it could mean for builders, founders, and professionals.\n\nWhy subscribe to bpro?\n\nbpro focuses on practical AI education and upskilling.\n\nYou can learn about generative AI, prompt engineering, AI workflows, no-code agents, AI for business, and practical ways to use AI as a student, professional, founder, or organization.\n\nThe goal is to move beyond AI hype and understand how these technologies can actually be used.\n\nBverse Labs focuses on the practical execution side of AI, including production AI, AI agents, LLM integration, AI product engineering, RAG, and turning AI concepts into real products and workflows.\n\nSubscribe if you want to understand not just what AI is doing, but where AI, business, infrastructure, and technology are actually heading.\n\n#AI #China #Fusion #ArtificialIntelligence #Tech\n\nchina ai, china artificial intelligence, china ai news, china fusion, china fusion energy, china artificial sun, artificial sun china, nuclear fusion china, nuclear fusion explained, nuclear fusion ai, ai energy consumption, ai electricity consumption, ai data centers, ai power consumption, how much electricity does ai use, why does ai need so much electricity, how ai uses electricity, why ai needs electricity, ai data center energy, china data centers, us china ai race, china vs us ai, ai chip war, us china technology war, china technology, fusion energy explained, nuclear fusion explained, what is nuclear fusion, how nuclear fusion works",
-      "commentCount": 2,
-      "likeCount": 27,
+      "commentCount": 4,
+      "likeCount": 88,
       "comments": [
+        {
+          "id": "Ugz4A7p1LZB4D5imSB14AaABAg",
+          "author": "@mkhizar6592",
+          "text": "Kisi ny kuch hilta houa note kia 😅",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/c6nCBUrFVxHDJN1tOfk9ShcUQ0sc0P2inpDjYng12muOpCpWdsxC_UG4za8_FweOvAymLCK6=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyKRvPfYoIX8j5kzqJ4AaABAg",
+          "author": "@HyakutanaMoto",
+          "text": "China live in 3000.. literally..",
+          "likeCount": 1,
+          "publishedAt": "2026-08-21T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_moeku1wSJ_5JYElsivgwUBW9jYwk2tsk6dgkop4bCQX9KRj77yp1bZwNyZvBy82WKOMA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgyzaAJRpEeX1OLkFAx4AaABAg",
           "author": "@ShaileshKumarADubey",
           "text": "Power ,  electricity, yes .",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T00:40:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Y-YsfY1pdAGscubWjnJCvTp7uiTMti919dVoEvQi3VDpRfyZLYSlwRaRxevaAW1l6GONFGS5uA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9342,30 +9413,50 @@
           "author": "@cheng006",
           "text": "China has some internal issues. But the leaders don't waste their time playing politixs. They have invested in real infrastructure at a massive scale. China is leading in every type of energy production . They are building data centers submerged under water,  power requirements met by floating wind mills . Your question is stupid as China has already created every type of energy production   Thermal  wind  solar, nuclear,  hydro,  battery  storage etc.",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T19:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nwQJWrsUnbAXMawf7AV4IHfrSqqotn3i_kZ7MUm2Y=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "yJM9q0lmGys": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 3,
-      "likeCount": 120,
+      "commentCount": 5,
+      "likeCount": 248,
       "comments": [
+        {
+          "id": "UgzdL1ncD6WVLMVlvjN4AaABAg",
+          "author": "@ditroradio",
+          "text": "Oh my God, the rambling is so freaking annoying! I tried setting it to concise this morning and I see no improvement and no change. I’ve been working this way for probably four hours so far.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k4v3BXcZJKWVsYSzCUTuqNeIe2vz_bPnplCb2d2ZxPO7M=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw6t2gxM_47RyUgwfx4AaABAg",
+          "author": "@michaelplaczek9385",
+          "text": "Caveman big skill",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m3KOJHnV-RNlKUDLEqo_94I01bGFWbEZRtfSmgjaUoTVo=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugxc_8KMfItJgjoR8Ld4AaABAg",
           "author": "@BoKruse",
           "text": "None of that fixes whats annoying about Opus (and Fable 5).  And that's the honest caveat.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-20T20:00:00Z",
+          "likeCount": 3,
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kvWJI7EzAd46_2JOGDGEw6EOSnWSU7OWOV60Ez9JBkDA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9374,8 +9465,8 @@
           "id": "UgxtcdvR89_4c9POIAF4AaABAg",
           "author": "@misterflamingo",
           "text": "Do you have any trick to have op 5 actually respect the scope of your prompts and instructions? 😂",
-          "likeCount": 1,
-          "publishedAt": "2026-08-20T20:00:00Z",
+          "likeCount": 2,
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kSusyzk7MchhncdASwW6VWcbsXrcY_QGjEZZyhWco=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9385,148 +9476,159 @@
           "author": "@CreativePunk5555",
           "text": "I tried looking at this and the output styles I see are:\noutputStyle=default|Proactive|Explanatory|Learning\n\nAlso, I am pulling this from using Claude Code on the desktop app.  Maybe its only available with terminal?",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T19:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m9jKEi4EldARCIqa6PJLbTtUeTmqlP8OpI1VEhTjf9mQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "rhv61m8n3Nc": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "This AI cloned me in just 15 seconds. One short video, and HeyGen made a Digital Twin that looks, sounds, and moves like me, no camera needed. Go to my Instagram, DM me \"HEYGEN\" to try it.",
       "commentCount": 8,
-      "likeCount": 207,
+      "likeCount": 568,
       "comments": [
         {
-          "id": "Ugynj8AFg3AhzbZ3qup4AaABAg",
-          "author": "@minkim7033",
-          "text": "hey gen",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T00:25:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/LdmSeM2eTPYgSClElp9c_c0W6kvzD49-gcyJCAJOC0CRHN5TtE6xIzhYRUMpAVvmxgFmpaU=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwacjWmqFSXuSJX48V4AaABAg",
-          "author": "@inque54",
+          "id": "UgxNCD0vLkIEDXfCf_F4AaABAg",
+          "author": "@luhvoh",
           "text": "Heygen",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T00:14:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/I2u6R5LgKqu4G8f5rKFCQzh2WdboOAdZou3asoPzwfKucMCbtxlRbQqhOusdMpxZATN8pmYaxR4=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-22T00:14:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_miF8x8XG_D8Vrgsk1zX1uTpZBG3sXh6tEjd8X5tJDH2RgR6mec5Q13ZETo_U-sNFQYDA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyVY9NJ6GSAx4SUtK54AaABAg",
-          "author": "@WallMe-w1b",
-          "text": "Hey Gen",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/01ZgE2uCqEBzWemEBTOxy5tYQ-QJvuZ5uQ8f0SjkP5W2BeIiPLQxZg68I8OxBU0XBix8aSZjOiM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwfZyVHHxuQSgEPUjV4AaABAg",
-          "author": "@nobertz26",
-          "text": "I think it’s good for automation but honestly it doesn’t feel personable. Seems kind of bland. I know your brand isn’t necessarily about being a big personality, but it just feels like something boring corporate would do to pump out videos with little soul. Still a fan of AI and the capabilities tho",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/PW4hsJg2duc0Bj_mbLtjaZ3Q5vYh8SDqoQ6jjUuXhe55e6NHSdEorb2LddSD-45p9MNmcXf95zE=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxQdg_uaxEZP3dLdaJ4AaABAg",
-          "author": "@RichardBrooks-q6j",
+          "id": "UgwrXX9qiS4-Niw15Zx4AaABAg",
+          "author": "@gmills3666",
           "text": "Hey gen",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T23:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/6ExK9dASGRJNcgtlcNuJH0nziW8HMSpmC9O2xyPlmU3VOcbFj0ToVm__30M0FkGXhqK3LR3B=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-22T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lDWsxP6jjdNzSMOIgE8Z4-DtHgM9_IHb6xz5pjZWM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugws9J6bU4MQmNBV3fx4AaABAg",
-          "author": "@Hoffboy-z7o",
+          "id": "UgwcZV_vh_xV4bEvBLd4AaABAg",
+          "author": "@justincain668",
+          "text": "Hey gen",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_keUElz7FF7Tm_LRyxildDy-ZgaSbjVr8mRwca27gxUjME=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx5XphsaeZkcK2NaVF4AaABAg",
+          "author": "@8bulletballers385",
+          "text": "Heygen!",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ktUXsjMi_RvpUjZH3Yw2jpfA42mLw_BDVFSPzlabUss9I=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzQr062vv7tg_no9YJ4AaABAg",
+          "author": "@8bulletballers385",
+          "text": "Goated",
+          "likeCount": 1,
+          "publishedAt": "2026-08-21T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ktUXsjMi_RvpUjZH3Yw2jpfA42mLw_BDVFSPzlabUss9I=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzFO4JOb-chbblhsYZ4AaABAg",
+          "author": "@chrisniemyjski1400",
+          "text": "heygen",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lkwBVluXYsvNHMBf-2yi9AkFydMY9R9X3gyeRWvnMvDFj1=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw07UbRg70gEwx_zvN4AaABAg",
+          "author": "@shawnthompson5038",
           "text": "Heygen",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T23:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ndcvfGMjJ5N0T9FGGljlW0MIasnhQ51n8SqWws3I87BZNWS8mHL02lh20MpWB32TlN3A=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-21T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kmW6EkYMcDg6fsdfoFD0kajiGb-QoxSKdN5exLMyky4cc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwacdPlRJekg61cxFN4AaABAg",
-          "author": "@lekerk7269",
-          "text": "HeyGen",
+          "id": "Ugy5UQUjLU--0iNsKyF4AaABAg",
+          "author": "@BabajaidA",
+          "text": "Hey Gen",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T23:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/_IaA353Ga_fZzXhN_oxmll1MFcMc5Vu03_YkQCKsnUHMnLSrhRn6rpBY6QY2INvjWpKHL-DzJ5g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxMxRlIOcScgmRMOn54AaABAg",
-          "author": "@gabrieljaimedipazcordova7029",
-          "text": "Heygen",
-          "likeCount": 0,
-          "publishedAt": "2026-08-20T23:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1inbiC9CnaDtsNQcoWRmzoWRyLT7jys4xw0rpWxEIESI=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-21T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l_04_OBJuiKAZ6YscNL6W2Yst51MqtgpQMsFiHgkQYOcoO=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "qRcwGoKpin0": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "If you could only keep one AI agent in 2026, which one survives?\n\nRan that exact experiment on camera. Sixteen tools, head to head. Honestly thought Claude Code had it until the very last matchup. The winner runs on its own cloud computer and keeps working after my laptop closes. Grok Bot.\n\n(comment “GROK” and the full starter guide shows up in your DMs 🚀)",
-      "commentCount": 1,
-      "likeCount": 8,
+      "commentCount": 2,
+      "likeCount": 13,
       "comments": [
+        {
+          "id": "UgzU7PW9MwaFQMnTH614AaABAg",
+          "author": "@realeyez360official",
+          "text": "grok",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/0qXuuVpcC0B1y-rLEQvKEZJEUlAy6q11wHNN8B5xPiOy7JOdji9_HXix9N0hrWHHAD_zMPvEl94=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgwO0ZRqTyYmUbdFUNt4AaABAg",
           "author": "@viswanadhareddy8014",
           "text": "Grok bot and hermes bot mode 🔥",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T16:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k0PVo4Ayjzf9FlRcdjZAQYBwK430_hLvWlP9jgikQjC65W-ONDWjkk4dykteuHJ96HgQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "R8tydoNU0IU": {
-      "checkedAt": "2026-08-21T00:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
+      "checkedAt": "2026-08-22T00:53:10Z",
+      "embedAllowed": false,
+      "availability": "unavailable",
       "description": "If you could only keep one AI agent in 2026, which one survives?\n\nRan that exact experiment on camera. Sixteen tools, head to head. Honestly thought Claude Code had it until the very last matchup. The winner runs on its own cloud computer and keeps working after my laptop closes. Grok Bot.\n\n(comment “GROK” and the full starter guide shows up in your DMs 🚀)",
       "commentCount": 0,
       "likeCount": 3,
       "comments": [],
       "commentsFetchedAt": "2026-08-21T00:53:07Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
+      "probeClient": "web_embedded",
+      "failureReason": "unavailable"
     },
     "OvHqW3Ch9IU": {
-      "checkedAt": "2026-08-21T00:53:07Z",
-      "embedAllowed": true,
-      "availability": "public",
+      "checkedAt": "2026-08-22T00:53:10Z",
+      "embedAllowed": false,
+      "availability": "removed",
       "description": "If you could only keep one AI agent in 2026, which one survives?\n\nRan that exact experiment on camera. Sixteen tools, head to head. Honestly thought Claude Code had it until the very last matchup. The winner runs on its own cloud computer and keeps working after my laptop closes. Grok Bot.\n\n(comment “GROK” and the full starter guide shows up in your DMs 🚀)",
       "commentCount": 1,
       "likeCount": 1,
@@ -9544,38 +9646,59 @@
       ],
       "commentsFetchedAt": "2026-08-21T00:53:07Z",
       "commentsStatus": "cached",
-      "probeClient": "web_embedded"
+      "probeClient": "web_embedded",
+      "failureReason": "removed"
     },
     "uEcrrbdiwrA": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 2,
-      "likeCount": 492,
+      "commentCount": 4,
+      "likeCount": 767,
       "comments": [
         {
           "id": "UgxkvOLzbiMC6NGjanN4AaABAg",
           "author": "@100xEngineers",
           "text": "Register Here:\nhttps://class.100xengineers.com/uNT8TJ",
-          "likeCount": 2,
-          "publishedAt": "2026-08-20T15:00:00Z",
+          "likeCount": 4,
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/lmQHSNqoTiUYSQmAD6ddVNxeMLwuezSj7JGn681txsIgDlDnHZrQU-JDaUSzGiSwnSZS7gFS=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
+          "id": "Ugy34jMZX8ny9I8p4FB4AaABAg",
+          "author": "@ragg.v",
+          "text": "But isn't that consume more tokens ? People who are on free plan that's tough",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kMYxzuoALeklp701_RTTqcGyDmQBNx8RUq7hexDYiJAbjeefA32v6O8iwKUH_tJvomYg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw-qXjOfYmfTE8hCfd4AaABAg",
+          "author": "@njm3025",
+          "text": "Good",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mnsRePMTAqF3ujQDQLo33WSye2gWUWUAUPZzyOwbl4lHs=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
           "id": "Ugy15BU5ifySD3RZEaF4AaABAg",
           "author": "@sainihar-e5f",
           "text": "So everyone installs humanizer and everything feels more human n then again ai finds the pattern n again they comeup with other PARAHUMANIZER which the ai can't detect as genai. 😵‍💫🫠🙄",
-          "likeCount": 1,
-          "publishedAt": "2026-08-20T22:00:00Z",
+          "likeCount": 3,
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_momCzWinqemrHVRkrALpkqOgWMuuCZmQETvZkxuCGOrH4d_knhnFbGxobnamVu-3gWDA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -9589,19 +9712,19 @@
       "probeClient": "web_embedded"
     },
     "OP_6XF89la8": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 4,
-      "likeCount": 80,
+      "likeCount": 165,
       "comments": [
         {
           "id": "Ugwp0waPONheLnqmzM14AaABAg",
           "author": "@WheelCorp",
           "text": "Humanity ki Khudka vinash krne ki tayyari😢",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T00:52:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/T164zB44rQ5GJKFWNHUKDhl1aUQP5ggBSn20YfU5xiaOn4D9i7RDUvvjvlm0GI7-u-VFlDCLkQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9611,7 +9734,7 @@
           "author": "@1dergaming",
           "text": "I need the followings job 😢",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T17:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/nRF2mygrtm-PEAgIZYNy1vF1Ywq5Y2pXNrjQ1q0psi-Qg3nUV6VBq0MtL3Yiabk-fGiC3qnS=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9621,7 +9744,7 @@
           "author": "@navdeepschannel",
           "text": "1st commont",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T15:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/XuCwt7tQRdtLI50LNSffBaVQjVVvtzIOUhtPHiYstw8v8KJwEa4fGDEolwQStpxBC24kLhkdXw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9631,30 +9754,30 @@
           "author": "@navdeepschannel",
           "text": "❤❤",
           "likeCount": 1,
-          "publishedAt": "2026-08-20T15:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/XuCwt7tQRdtLI50LNSffBaVQjVVvtzIOUhtPHiYstw8v8KJwEa4fGDEolwQStpxBC24kLhkdXw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "C5cTEwdDXDo": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "📸 Instagram: https://bit.ly/ishansharma7390ig\n\nJoin MarkitUpX Discord Server: https://discord.gg/fwSpTje4rh\n\nTimestamps\n\n😁 About Me: https://bit.ly/aboutishansharma\n📱 Twitter: https://bit.ly/ishansharma7390twt\n📝 LinkedIn: https://bit.ly/ishansharma7390li\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE for more AMAZING content! 🌟\n\n3 Books You Should Read\n📈Psychology of Money: https://amzn.to/30wx4bW\n👀Subtle Art of Not Giving a F: https://amzn.to/30zwWbP\n💼Rework: https://amzn.to/3ALsAuz\n\nTech I use every day\n💻MacBook Air M1: https://amzn.to/2YWKPjG\n📺LG 29' Ultrawide Monitor: https://amzn.to/3aG0p5p\n🎥Sony ZV1: https://amzn.to/3ANqgDb\n🎙Blue Yeti Mic: https://amzn.to/2YYbiNN\n⽴Tripod Stand: https://amzn.to/3mVUiQc\n🔅Ring Light: https://amzn.to/2YQlzLJ\n🎧Marshall Major II Headphone: https://amzn.to/3lLhTDQ\n🖱Logitech mouse: https://amzn.to/3p8edOC\n💺Green Soul Chair: https://amzn.to/3mWIxZP\n\n✨ Tags ✨\n\n\n✨ Hashtags ✨",
       "commentCount": 4,
-      "likeCount": 127,
+      "likeCount": 274,
       "comments": [
         {
           "id": "UgyGT_jIz-R9v_RDlSd4AaABAg",
           "author": "@ks.210",
           "text": "Bro.. My claude account was suspended bcoz they thought I was a child.. And it was against theri rules..!!",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T00:27:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Agvjhij7Xnr_yEeyVT-ieQOfCwlcgFhQs6xw5cUnbBA1Ud9JwntqXppvZtUQ9Tm95c5_ChdI=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9664,7 +9787,7 @@
           "author": "@ANITHOS27",
           "text": "What do you think of one who has a constant urge or like a bug inside for learning everything,or likes everything\nThey like tech, they like cameras, they are wild and love forests and apart from that are most techsives ,loves music ,boxing ,running ,hyrox ,gym ,dance ,travel ,preparing food...... Etc \n\nWhat shoud they do",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T16:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/leZRxMzK7jUWpsbB0wvPEjBrTSyEf9r5dInsvCPSfoxZkAXBRqdvqT8qfAqRdQQwwa4GKZVXVUY=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9674,7 +9797,7 @@
           "author": "@FalakSurti-ms4us",
           "text": "Hello want to connect to u",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T15:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/KHuZS8CF-GLsLrMzJb32Rh1lOFsWngXuJ7O6NpMX2CyHBs4H_3lhnhIczqzw7RK3lvrJ5_jb=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9684,30 +9807,50 @@
           "author": "@SarveshDusane",
           "text": "Mindset ❤💪🧑‍💻",
           "likeCount": 1,
-          "publishedAt": "2026-08-20T14:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mA5iYFWQWr-erQfOrpRSPi7uAL1ykOBKRSbPBDp88Z1xyBT7Je5IKp6_AckwgwsDEc-Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "5RD7tgcOZ9A": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Did you finally learn LangChain, LangGraph, OpenAI Agents, and all the other AI agent frameworks? You might want to pause for a second.\n\nNVIDIA has introduced a research approach called NOOA, or NVIDIA Object-Oriented Agents, which takes a very different approach to building AI agents.\n\nInstead of forcing developers to learn another specialized framework, the idea is to build an AI agent using familiar Python object-oriented programming concepts.\n\nThink about an AI agent as a Python class.\n\nIts methods can represent what the agent is capable of doing.\n\nIts fields can represent the agent's state.\n\nIts prompt can define how the agent behaves.\n\nAnd type annotations can act as an enforced contract for what the agent should accept and return.\n\nThe interesting part is that this approach doesn't try to hide traditional software engineering behind another abstraction layer.\n\nIf you already understand Python and object-oriented programming, the mental model is much more familiar.\n\nBut there's an important caveat.\n\nNOOA is still a research-stage approach, so it's far too early to say that it will replace frameworks like LangChain, LangGraph, OpenAI Agents, or Microsoft Agent Framework.\n\nStill, NVIDIA's reported benchmark results make the approach worth watching, particularly around reasoning performance and token efficiency.\n\nAnd that's the bigger lesson for AI engineers:\n\nDon't get too attached to one framework.\n\nThe AI agent ecosystem is changing incredibly quickly. The framework you're learning today may not be the abstraction developers use tomorrow.\n\nThat's why keeping up with new research, papers, and open-source projects can be more valuable than simply mastering one framework.\n\nWant the GitHub repository where you can keep track of new AI research and papers?\n\nlink: https://github.com/dair-ai/AI-Papers-of-the-Week \n\nWhy Subscribe to bpro?\n\nBPro helps you keep up with the technologies shaping the AI engineering landscape.\n\nWe cover AI agents, AI coding, LLMs, AI frameworks, automation, open-source projects, AI research, and practical AI tools.\n\nBut we don't just tell you what's trending.\n\nWe break down what changed, why it matters, how developers can use it, and what could become important next.\n\nIf you're a developer, founder, AI enthusiast, or simply trying to stay ahead of the rapidly changing AI ecosystem, subscribe to BPro.\n\nBecause in AI, learning a tool is useful.\n\nBut understanding how the tools are changing is even more important.\n\n#AI #AIAgents #NVIDIA #AIEngineering #Python\n\nAI, AI agent frameworks, AI agent framework, NVIDIA AI agents, NVIDIA NOOA, NOOA AI, NVIDIA Object Oriented Agents, AI engineering, AI frameworks, LangChain, LangGraph, OpenAI Agents, Microsoft Agent Framework, Python AI agents, Python AI, object oriented programming, AI coding, AI developer tools, AI research, AI agent development, how to build AI agents, how to build AI agents with Python, how AI agents work, how to use LangChain, how to use LangGraph, what is an AI agent, what is LangChain, what is LangGraph, what is NOOA, what is object oriented programming, why AI agent frameworks matter, why AI agents are changing, best AI agent framework, best AI frameworks, AI agent tutorial, AI agents explained, AI engineering 2026, AI tools for developers, latest AI research, open source AI, AI GitHub repositories",
-      "commentCount": 2,
-      "likeCount": 63,
+      "commentCount": 4,
+      "likeCount": 126,
       "comments": [
+        {
+          "id": "UgyPccXr6m08RCgEV4h4AaABAg",
+          "author": "@HyakutanaMoto",
+          "text": "A I now = = sabzi wala..😂😂",
+          "likeCount": 1,
+          "publishedAt": "2026-08-21T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_moeku1wSJ_5JYElsivgwUBW9jYwk2tsk6dgkop4bCQX9KRj77yp1bZwNyZvBy82WKOMA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgypBIGUVPKx3ORS2KR4AaABAg",
+          "author": "@DeepanshuDannyChopra05",
+          "text": "Github",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Jjqp038UfQ4pOBlDy5vIwjirxUyZfgpyQURHq60XdnucM6maj_7tDd6-BLkBYOI_UnwpVseF=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugzger3GxQWEhaveq9Z4AaABAg",
           "author": "@coirandjutehomedecor",
           "text": "Github",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T18:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/XlLjoXGAIyKdYVXiFT56q_Gf7BYij3xEfuvAaZjL2_zYNaZd9HAnqz2dn3QvuIEjzu5VR-lfGg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9717,40 +9860,50 @@
           "author": "@lhxperimental",
           "text": "People who can't lookup a GitHub url aren't going to do jack shit with this info.",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T17:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lHTFxrFKlaoK_L6C8H2Kj-tYu2C096k1nACZC8Cpd4XA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "y9PRCgBAfSw": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 8,
-      "likeCount": 101,
+      "likeCount": 139,
       "comments": [
         {
           "id": "UgwrtcUAfOA3y6tUdy14AaABAg",
           "author": "@Ai.Vishnuvijayan",
           "text": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T15:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/yhAqPsQdQNzWqs3n323bzwcDBcfNQt2XFJe9SntriwBCCx8kViE13reCfUPwZ_8coQAAPdj4wKg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "UgxhZ1NU8UFUg4T31gZ4AaABAg",
+          "author": "@harendramistry7348",
+          "text": "Google",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mqLcYGJzfFD9CeOKozBQ2saFmteWGob1Za2fsAglG7EWn3=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         },
         {
           "id": "Ugyx_kAp6TvBhP5GC_t4AaABAg",
           "author": "@ELAMPARITHIELAM-u3c",
           "text": "Google",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T14:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Lfj2yIWxlSi6Mke1IRdEBp_RKW6YCHqk5795PG4GxgXzm01wKZTUCqZ4az5lDIuobm9w_c-bcw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9760,7 +9913,7 @@
           "author": "@BadalKumar-y1r",
           "text": "Google",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T14:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k78bXqxjvCHrukhuyGTsKlhlaQhxV6ae87tix931MAixZFqdBbIe8JVhOogv1wZNqh6A=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9770,7 +9923,7 @@
           "author": "@Insatiableme",
           "text": "Google",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T14:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/SX99Zr0kKp8hXkphHEPMRa_CEy1rxYJbWHwTBggrO8vPh3t4gd20e9woF3kTFyqkcdHja0W4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9780,7 +9933,7 @@
           "author": "@l0s3rofficial94",
           "text": "Google",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T14:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/6PFegcFqw18fBRAFGvr_x-a7GNbiKv8gxMDN6OoYEir-FCXAgzssc1oPOWb2carsKMHW750Isg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9790,7 +9943,7 @@
           "author": "@selvammsd2129",
           "text": "Google",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T13:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mA5iYFWQWr-erQfOrpRSPi7uAL1ykOBKRSbPBDp88Z1xyBT7Je5IKp6_AckwgwsDEc-Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9800,40 +9953,60 @@
           "author": "@HarshSingh-dg8mb",
           "text": "Google",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T13:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n633UFGUpzCi4f3OVmAh6fby2HThAFHI-Olta-aZZjGlnkhUpi1wPGG1-YFqg2vnKy2g=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy45wSJBjvJrrttJvV4AaABAg",
-          "author": "@ravi-avhad",
-          "text": "Google",
-          "likeCount": 0,
-          "publishedAt": "2026-08-20T12:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lcjIT9qCh_LBiGuxJRu1Bud0AilKzJYKzaNI9X5cxOXTF6=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "aIFRKPCsemQ": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "✅ How to stop Claude's output from sounding like AI\n\n✅ The exact prompt to humanize any text\n\n✅ Using Wikipedia to build your own \"avoid list\"\n\n✅ Turning that list into a reusable Claude Skill\n\n✅ One slash command to humanize anything, forever\n\nComment \"human\" and I'll send you the full setup 👇\n\nclaude ai, humanize ai text, ai writing detector, claude skills, ai content humanizer, remove ai tone, claude prompt engineering, ai writing tips, skill creator claude, coding simplified space",
-      "commentCount": 5,
-      "likeCount": 36,
+      "commentCount": 8,
+      "likeCount": 53,
       "comments": [
+        {
+          "id": "UgzVjTBlkIup1Kqok894AaABAg",
+          "author": "@AkbarPlayz",
+          "text": "human",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lN1r14JyVE1HV827fOA4jwcUpML9JATe2vub3wBZwgdO1_u1mEpcWHSejRd9oj5lcaaA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx2CUUmV72zL8tci8x4AaABAg",
+          "author": "@Theblack_react",
+          "text": "Rewriting is more than changing words; it’s also about clarity, flow, rhythm, and tone. I’m curious how PersoWrite handles all of those elements together.",
+          "likeCount": 1,
+          "publishedAt": "2026-08-21T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ntIewhqHLJ0jb4i8htlVqSetwgNKRcHmRn-O7k5fEhFy5geBaAVhx4v3nsZfmDVAxzbw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxZuZeX3rmtAyNarvR4AaABAg",
+          "author": "@AbelSisay-n3v",
+          "text": "Some rewriting tools can make sentences sound too similar to one another. I’m curious whether PersoWrite creates enough variation while keeping the writing consistent.",
+          "likeCount": 1,
+          "publishedAt": "2026-08-21T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lN1r14JyVE1HV827fOA4jwcUpML9JATe2vub3wBZwgdO1_u1mEpcWHSejRd9oj5lcaaA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugwctapvrl_YzTVf8kF4AaABAg",
           "author": "@Melonalove-t7w",
           "text": "Checked neonhumanizer on a work draft It adjusted the phrasing without major shifts",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T19:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/o4HIjR8xaVPEzmcUieVFBeQe01zGSkoKwZzGJ7VAYZcKoWg8v8O9g4FItj9uXqXZwOj6ueWUrg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9843,7 +10016,7 @@
           "author": "@ben-s1y4k",
           "text": "Clarity bubble is best",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T15:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/6ELk8cAyjJhbpvGaX8iyWkJpm0ZZc0FFdIGv_HZ7ynI1C7lkLHBBPyQZMQbHvw0SgY7lXJUg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9853,7 +10026,7 @@
           "author": "@dan-e6b1t",
           "text": "Clarity bubble is best",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T15:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/X5k0AE8quo3Dz2MhPmAgcF5BPJBQPD0AduSxVsvh8QdH-rYP6tAz7hUurwFjuCxfWZSGEwlf3Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9862,8 +10035,8 @@
           "id": "Ugx-kiCN96HvFLgd6up4AaABAg",
           "author": "@subhrasharma7801",
           "text": "human",
-          "likeCount": 0,
-          "publishedAt": "2026-08-20T12:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mhg1seraWYz4WP9xNYdnBqjr7TvrCJwokM9wzv2FODI1XT=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9873,42 +10046,73 @@
           "author": "@Class034",
           "text": "Human",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T11:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k5jVMqbSVXkWBOUX-sUqtcbAuAwcMq9PujEiH8lM5YXkM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "-sJB3w42St8": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Should you self host your own buzz relay and AI LLM model?\n\n00:00 Start of tutorial",
-      "commentCount": 0,
-      "likeCount": 1,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentCount": 1,
+      "likeCount": 2,
+      "comments": [
+        {
+          "id": "Ugz7unrRoidhyfoZLN94AaABAg",
+          "author": "@PacingJosh",
+          "text": "I started with the hosted one for about a week and then moved to Railway. Super easy to setup abd maintain it.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/k6be1DiDzu4UeuuToRmTy1fNEAG0mKNxczudq2mIiVh5OS0lM-e7Lsx5hDePjvq2046CQMQC0A=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "ClwLsdmnWa4": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "learn how much difference 3 mins makes on youtube",
-      "commentCount": 5,
-      "likeCount": 26,
+      "commentCount": 7,
+      "likeCount": 36,
       "comments": [
+        {
+          "id": "UgwOP9XoXiEVQTIY8Sh4AaABAg",
+          "author": "@zawarimranhadir7575",
+          "text": "Youtube",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nWBAPNi8ZyhsYen2XN_kQ0_T8mNt7qe6ACSv4dkejvtCo=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz71YE1TDvCKkULJD54AaABAg",
+          "author": "@JunaidJan-f1w",
+          "text": "YouTube",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/zIJOAXZ1N6BlHEenT9Ta8DvchHwU514ULZtv3ib4sCN26DAWdflyR1kQg-kVpKl8UtzlwQB9Cw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgxsW2pNacVPDEU3WN14AaABAg",
           "author": "@RiteshKumar-f5f2x",
           "text": "YouTube",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T22:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lTsn_SEf4XL2vXIaaoqLUud5NQ9oq-8qVva6nli6qHfYKIw450e_k2BCXQMQ4EGZfOvw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9918,7 +10122,7 @@
           "author": "@digital_creator_50",
           "text": "Achcha aap itna kamate Ho tum mujhe ek gift kar do iPhone kar sakte ho bhaiya ❤️",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T18:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Zpe3CrHRE5D2hT9-W8wXLF7EMLC1IiBRBXxA9yKhdX8JlvI8wtg_HWAmxSO7_gn9qBBPU2gF=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9928,7 +10132,7 @@
           "author": "@digital_creator_50",
           "text": "Acha",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T18:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/Zpe3CrHRE5D2hT9-W8wXLF7EMLC1IiBRBXxA9yKhdX8JlvI8wtg_HWAmxSO7_gn9qBBPU2gF=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9938,7 +10142,7 @@
           "author": "@expert_tayyab",
           "text": "bta do paji free me",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T12:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/jJUmrEavHUWt2R4uTe0bMmRS0uHzVrcseulknPmDOwTFl2AA8Z2BJWZFNR61wxQ2AYkqXSike9Y=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9948,42 +10152,92 @@
           "author": "@expert_tayyab",
           "text": "yt",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T12:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/jJUmrEavHUWt2R4uTe0bMmRS0uHzVrcseulknPmDOwTFl2AA8Z2BJWZFNR61wxQ2AYkqXSike9Y=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "b5ZZUTjZ5RI": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "This Kills Manual Video Editing Forever Claude Code\n\nI automated my entire video editing process with AI. \n\nYou drop in one raw camera file and custom skills handle everything: transcription with a local Whisper model, cutting out retakes, reformatting the video, generating all the animations, adding overlays and titles, sfx music, and captions. \n\nThis is the exact workflow I use on my own videos, and every skill is free to use.\n\nComment “Video Editing AI Agent” and I will send you the setup guide.",
       "commentCount": 0,
       "likeCount": 0,
       "comments": [],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "6BetHc_qvr8": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
       "commentCount": 8,
-      "likeCount": 1432,
+      "likeCount": 1891,
       "comments": [
+        {
+          "id": "UgyFZNxlzMiKkl1-lat4AaABAg",
+          "author": "@BiblioMane-ir1qm",
+          "text": "aI slop",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T21:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/DmQYbCTPrxuGU2mEEwjusSVxmQ-M_TbbxEcakHK6ZbbirCvCcDp0LqDW8yM4O6pudimY48Zv=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzFpOvcEgGomBcvWuR4AaABAg",
+          "author": "@ai_snakee",
+          "text": "About 20 years ago there was a guy in Hungary who presented a fully functional engine that was running on water but they wouldn't let him patent it ....go figure 🤷😒 \n\nSame reason why Nikola Tesla's free wireless electricity network has never been instructed to the public 🤷",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/uuehSPALGjVNpC00inI0cjMgUJousOvN2BC-PJJlhdEo_JmpHDV96Bn_rRVJ9I8UCtFZA_Ibcg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxwjgvHkkwDn_-b7sh4AaABAg",
+          "author": "@MD_89_01",
+          "text": "In this case india is going to be rich",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T11:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/XfWVcjpqb0lyOMTqwbB7uZtMdf2ZCKCCJmi-fVG4HyKLUEQUttn6WiAR94nMJRmhInJtktpbaQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugye3Bpp4rV_i2VNe354AaABAg",
+          "author": "@zerogravitism",
+          "text": "I had a plant 10 yrs back in haryana. converting 3 tons of plastic waste daily to fuel. Closed down because of covid. 😢",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nZMo4JaXSF-kDjdrC3nhS0tkktVPm4ucAVyZILgQjydQ4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxeaLXPoaX_lzhvIjF4AaABAg",
+          "author": "@techzone2009",
+          "text": "AI video....\nDislike 👎",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m3weOtEKaiEPfDSG-f4203bXi-nzK_dM4sYI2tdJcPfA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgwyYtRGntTAmO3YCnh4AaABAg",
           "author": "@improsolutionsbangladesh",
           "text": "But its making cost would not be higher !!!!",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T18:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/dg9GIXVo649fTqpLADOFNOz4aIHDEvK9NbdQGSdHKHPQb9nTqq0CXbOESsbCur4HmMS4wUuLtw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9992,8 +10246,8 @@
           "id": "UgwjMvPbSzjT1GWJR9N4AaABAg",
           "author": "@sp-tj9ye",
           "text": "Remembered me of the mad scientist from the movie,\" Back to the future.\"",
-          "likeCount": 0,
-          "publishedAt": "2026-08-20T16:00:00Z",
+          "likeCount": 2,
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lb9LpsBSzTZQqnSMkHmFihMP8S43b3yn5seWQOMZEGw_Y=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -10003,98 +10257,48 @@
           "author": "@keisukeichiro5741",
           "text": "Seems like better than e20😂",
           "likeCount": 0,
-          "publishedAt": "2026-08-20T16:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/LubGzoZlhQ_gVKI2ODvLpl9ly1-bPOcMH0cncbah5XI1m5wyg3G53_spr5WT8BdvhFdZavDAsA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwJnKf719Nwv5Vs6tN4AaABAg",
-          "author": "@crazykidsvideos-u2v",
-          "text": "Bro its fake don't spread fake information so many people listening to you atleast search the information in so called ai that your telling and tell your beautiful stories",
-          "likeCount": 0,
-          "publishedAt": "2026-08-20T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/cuBYs_yFf4OKlINVDSP-H29cxfENJihpNs5UIeRMNc7aZaKvq96b0jnLPJNc50g4xWx_HwmyGDM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxrBOXoAeDYk2mF_i14AaABAg",
-          "author": "@SuwalihMohamed-h8b",
-          "text": "❤❤❤❤❤🎉🎉🎉🎉🎉",
-          "likeCount": 0,
-          "publishedAt": "2026-08-20T13:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/64rswFHft81LEWJXZHsTgEu9I9PLqTjyJpbBWqKucdBwa2i0PVd9f076ZDA327jV_vjWMSvbIw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx5Q7x0LH6M6G0Rgc94AaABAg",
-          "author": "@sy1220",
-          "text": "RIP brown. You won't find him anywhere",
-          "likeCount": 0,
-          "publishedAt": "2026-08-20T11:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/gQFaJ0Llkhy19OoAt6VsNs7LxeztS2zlfA41e6pdMJ7d61b_mtkQ0zHoROJE-JaVVcycS78AaQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwMZMyezpFTLA0og_14AaABAg",
-          "author": "@SK-qn5ry",
-          "text": "I guess, this will not be scalable",
-          "likeCount": 1,
-          "publishedAt": "2026-08-20T09:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lmWgcRtxbgZw-lKCmfoczl3tYS2jkqujl56uj5N_WMZm3pDpZt04dXiuqj_STm1nbCQGM=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgybS0qkQwPcu1B1AhB4AaABAg",
-          "author": "@RimilMandi-z1h3r",
-          "text": "https://youtu.be/Q49N_d9DCig?si=weXaJ6t0FL8TJLoi",
-          "likeCount": 1,
-          "publishedAt": "2026-08-20T08:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kICLEWVz_Df11W9j2QDfrHNDDg1x_VaLwS8b0VSK2HbsRDCJlZlRWUA-jL7XAQ5mwfAg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "rH48ZbfHlk0": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "The best interfaces are built on timeless principles like clarity, consistency, hierarchy, spacing, and attention to detail. AI can help identify design issues, suggest improvements, and enforce high-quality design patterns, but great user experiences still come from understanding the people you're designing for.\n\nThe biggest upgrade isn't a new design tool.\n\nIt's a better design system.\n\nThe products people love aren't the ones with the most effects.\n\nThey're the ones that feel intuitive from the very first interaction.\n\nFill this form to get the link:-https://tally.so/r/Xx6Jrg\n\n(ai, ai updates, artificial intelligence, technology, tech, tech updates, editing, designing, graphic designing, tech news, new gadget, gadgets, latest ai, ai tools, ai coding, ai coder, ai latest)\n\n#ai #artificialintelligence #aitools #ainews #aiupdates",
       "commentCount": 1,
-      "likeCount": 55,
+      "likeCount": 96,
       "comments": [
         {
           "id": "UgynQqseAvcI30Akcex4AaABAg",
           "author": "@oklomate",
           "text": "What an explanation 😒someone did something…! Where to find? Don’t know!! What’s the skill name ? Don’t know!! Wtf is wrong with you😂",
           "likeCount": 1,
-          "publishedAt": "2026-08-20T08:00:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m8QxKrmTi9_463qz2xS6hvF4CZKKgLISJLw6tvlXRjmwdh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "DAnXj5yNC9M": {
-      "checkedAt": "2026-08-21T00:53:07Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Anthropic just gave your app its own employee.\n\nClaude runs the agent loop,\na sandbox runs the code,\nsessions keep the memory,\nand the whole thing works while you sleep ⚡\n\nZero backend to build, you describe the agent in plain English. \n\nComment “CLAUDE” and the full step-by-step guide is yours in the DMs.",
       "commentCount": 0,
-      "likeCount": 11,
+      "likeCount": 12,
       "comments": [],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
+      "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -10665,7 +10869,7 @@
       "probeClient": "web_embedded"
     },
     "h8e334CiG1M": {
-      "checkedAt": "2026-08-21T23:53:13Z",
+      "checkedAt": "2026-08-22T00:53:10Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -11572,6 +11776,69 @@
       "description": "⚡ HIGGSFIELD AI\n👉 https://higgsfield.ai/s/higgsfield-general-campaign-colemnty-cpTGrm\n\nI tried building a $100,000/month mobile app using only AI. Claude handled the coding, while I brought Higgsfield into the workflow to generate the visual assets and audio I needed to actually bring the game to life.\n\nHiggsfield brings AI video, AI filmmaking, AI image generation, and some of the newest generative AI tools into one platform. If you're looking for a Free AI video generator or comparing options for the Cheapest AI Platform for your creative workflow, check it out through my link above 👆\n\nIf you appreciate the time and effort I put into my videos and games, please subscribe, like and leave a comment! It helps a LOT! 🙏\n\n💬 DISCORD\n👉 https://discord.gg/ZQ5DZan2W7\n\n\n🎮 AI GAME DEV COMMUNITY\n👉 https://www.skool.com/aigamedevelopers/about\n\n⏱️ CHAPTERS\n0:00 - Can AI Make a $100K Mobile Game?\n0:17 - The Plan\n0:53 - Prompt 1\n1:53 - Test 1\n2:45 - Generating 3D Models\n3:51 - Test 2\n4:44 - Prompt 2\n5:07 - FINAL RESULTS\n\nWhat should I try building with AI next? 👇\n\n#higgsfield #ai #aivideo #aigamedev #gamedev",
       "commentCount": 7,
       "likeCount": 75,
+      "probeClient": "web_embedded"
+    },
+    "8f649ItK6uA": {
+      "checkedAt": "2026-08-22T00:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🎟️ Use Discount Code for extra saving: \"ROMYT\"\nPabbly Chatflow (Product + Pricing): https://www.pabbly.com/chatflow/#pricing\nPabbly Chatflow Playlist: https://www.youtube.com/watch?v=3fG8qt6YNfA&list=PLgffPJ6GjbaJ8JPigEtxniz41rN5wqKAi\n\nWant to automate your WhatsApp marketing without writing any code? In this tutorial, you'll learn how to set up a WhatsApp marketing automation workflow in just 5 minutes.\n\nYou can automate promotional messages, customer updates, offers, reminders, follow-ups, and other WhatsApp campaigns without manually messaging every customer. This helps save time, improve customer engagement, and make your WhatsApp marketing more efficient.\n\nThis workflow is useful for ecommerce businesses, retailers, restaurants, real estate companies, agencies, marketers, and service providers looking to automate customer communication on WhatsApp.\n\nQueries:\nWhatsApp marketing automation\nautomate WhatsApp marketing without coding\nWhatsApp marketing automation tutorial\nWhatsApp bulk messaging automation\nPabbly WhatsApp marketing\n\nHashtags:\n#WhatsAppMarketing #WhatsAppAutomation #PabblyChatflow #NoCode #BulkWhatsApp #MarketingAutomation #CustomerEngagement #BusinessAutomation #WhatsAppBusiness #Automation\n\n🎯 Use Case: I want to promote my products and services on WhatsApp without sending messages to customers one by one. Using WhatsApp Broadcast, I can send personalized offers, new product announcements, discounts, and important updates to multiple customers at once. This helps me save time, reach more customers quickly, and run WhatsApp marketing campaigns without any coding.\n\n🪜 Need Help Getting Started? Follow These Step-by-Step Tutorials:\n\n✅ How to Connect your WhatsApp Number with Pabbly Chatflow in Few Clicks\n🔗 https://www.youtube.com/watch?v=J2YKHvlSMP8\n\n✅ How to Create WhatsApp Cloud API Account and Connect with Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=JKLboMlmKSs\n\n✅ How to Connect Unlimited WhatsApp Numbers to a Single Account (No Extra Cost)\n🔗 https://www.youtube.com/watch?v=iPg0W3Ra3Og\n\n✅ Pabbly Chatflow Inbox Overview\n🔗 https://www.youtube.com/watch?v=JE0f2lwFNMI\n\n✅ Pabbly Chatflow Contact Overview\n🔗 https://www.youtube.com/watch?v=j919a9bIi4w\n\n✅ How to Create Templates Inside Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=lmXyI79aENQ\n\n✅ How to Create a WhatsApp Chatbot Using Flow Builder\n🔗 https://www.youtube.com/watch?v=NXIbDhxXKF0\n\n✅ Pabbly Chatflow Team Member Overview\n🔗 https://www.youtube.com/watch?v=EnB4Ju1tTN8\n\n✅ Broadcast Messages and API Campaigns\n🔗 https://www.youtube.com/watch?v=b1g9QbrP9jU\n\n📞 Need Help?\n📬 Contact Our Team: support@pabbly.com\n💬 Ask Your Queries: https://forum.pabbly.com\n👥 Join Our Community: https://www.pabbly.com/community/\n\n⚠️ Disclaimer: All names, mobile numbers, and emails shown in this video are for demonstration purposes only. This is an educational video to showcase automation and chatbot creation using Pabbly Chatflow.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "-zIbBK2IGlE": {
+      "checkedAt": "2026-08-22T00:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn how to use Cloud Cowork on your local computer to efficiently produce deliverables. Follow along with our hands-on guide.\n\nThis Cloud Cowork tutorial is designed for professionals who need to integrate remote cloud environments directly into their local computer workflow. We break down the technical setup process, ensuring you can manage project files and outputs without switching platforms constantly. Whether you are managing complex assets or simple documentation, this guide provides the exact steps to streamline your output.\n\nBy following this hands-on project, you will gain the ability to produce deliverables faster using the tools provided in the download folder below. We focus on practical application, so you can replicate these results immediately in your own environment. All necessary files and supporting documentation are available in the description to help you get started right away.\n\nSubscribe for weekly software workflow breakdowns, and comment below with which cloud tool you want us to cover next.\n\nExercise Files: https://tinyurl.com/uuykj565\n\n0:00 Getting Started with Cloud Co-work\n5:02 Organizing Your Messy Folders\n8:32 Creating Your First Claude MD File\n10:09 Building Dynamic Live Artifacts\n16:31 Automating Monthly Reporting Tasks\n19:47 Setting Up Automated Schedules\n22:52 Introduction to Cloud Code\n41:56 Leveraging MCP and Reusable Skills\n1:02:51 Automating Workflows with n8n",
+      "commentCount": 1,
+      "likeCount": 151,
+      "probeClient": "web_embedded"
+    },
+    "jbzibzuzRxQ": {
+      "checkedAt": "2026-08-22T00:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🎟️ Use Discount Code for extra saving: \"MEHYT\"\nPabbly Chatflow (Product + Pricing): https://www.pabbly.com/chatflow/#pricing\nPabbly Chatflow Playlist: https://www.youtube.com/watch?v=3fG8qt6YNfA&list=PLgffPJ6GjbaJ8JPigEtxniz41rN5wqKAi\n\n🔗 From Chatbot to Any Business Application in Mins Automatically - https://youtu.be/654PJExl3f4?si=R6WMrz0cXaDK6Qkb\n\nFlow Link: https://chatflow.pabbly.com/api/flows/share/6a86ce928aa31ab53f5d6df5\n\n🎯 Use Case:\nA business combines an AI assistant with a WhatsApp chatbot so customers can interact through WhatsApp while AI handles questions that don't require predefined chatbot buttons. The system can answer business-related questions, collect enquiries, recommend relevant services, and hand complex conversations to a human team member.\n\n🪜 Need Help Getting Started? Follow These Step-by-Step Tutorials:\n\n✅ How to Create an AI Assistant for WhatsApp in Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=ij0-H2qaa04\n\n✅ How to Connect your WhatsApp Number with Pabbly Chatflow in Few Clicks\n🔗 https://www.youtube.com/watch?v=J2YKHvlSMP8\n\n✅ How to Create WhatsApp Cloud API Account and Connect with Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=JKLboMlmKSs\n\n✅ How to Connect Unlimited WhatsApp Numbers to a Single Account (No Extra Cost)\n🔗 https://www.youtube.com/watch?v=iPg0W3Ra3Og\n\n✅ Pabbly Chatflow Inbox Overview\n🔗 https://www.youtube.com/watch?v=JE0f2lwFNMI\n\n✅ Pabbly Chatflow Contact Overview\n🔗 https://www.youtube.com/watch?v=j919a9bIi4w\n\n✅ How to Create Templates Inside Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=lmXyI79aENQ\n\n✅ How to Create a WhatsApp Chatbot Using Flow Builder\n🔗 https://www.youtube.com/watch?v=NXIbDhxXKF0\n\n✅ Pabbly Chatflow Team Member Overview\n🔗 https://www.youtube.com/watch?v=EnB4Ju1tTN8\n\n✅ Broadcast Messages and API Campaigns\n🔗 https://www.youtube.com/watch?v=b1g9QbrP9jU\n\n📞 Need Help?\n📬 Contact Our Team: support@pabbly.com\n💬 Ask Your Queries: https://forum.pabbly.com\n👥 Join Our Community: https://www.pabbly.com/community/\n\n⚠️ Disclaimer: All names, mobile numbers, and emails shown in this video are for demonstration purposes only. This is an educational video to showcase automation and chatbot creation using Pabbly Chatflow.",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "tZLb_SmGV80": {
+      "checkedAt": "2026-08-22T00:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👉 Try Digital Maker AI here: https://www.digitalmaker.ai/?ref=alexbestdigital\n\nIn this video I show you how to build a complete faceless YouTube channel using Claude AI and Digital Maker AI, all without writing a single line of code. \n\nThis is one of the easiest ways to start YouTube automation in 2026 if you want to grow a channel without ever showing your face or touching editing software.\n\n🛠️ Other Important Links:\n Claude AI:https://claude.ai/\n🚀Join my Skool community : https://www.skool.com/alex-best-digital-hub-3135\n  \n#aivideogenerator  #aiautomation  #claudeai  #digitalmakerai #longvideo \n\nDisclaimer: This video is for educational purposes only. Results with AI tools can vary, and this is not financial advice. Always do your own research before starting a YouTube channel or investing in any paid platform.",
+      "commentCount": 1,
+      "likeCount": 21,
+      "probeClient": "web_embedded"
+    },
+    "6eV_IZ5QLfc": {
+      "checkedAt": "2026-08-22T00:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Build an AI Research Agent with n8n without writing code.\n\nIn this tutorial, I'll show you how to build an AI agent that can take a research task, search for information, analyze what it finds, and produce a structured research report.\n\nYou'll learn:\n\n• How AI agents work inside n8n\n• How to connect an AI model to an agent\n• How to give an AI agent web-search capabilities\n• How the agent researches and analyzes information\n• How to turn the results into a useful report\n• How AI agents can automate repetitive research tasks\n\nThis is a practical introduction to AI agents, n8n automation, agentic AI, and no-code AI workflows.\n\nIf you're interested in building practical AI systems instead of just learning about AI theory, subscribe to AI With Haris.\n\nNext: Build an AI agent with memory and make it remember previous research.\n\n#AIAgents #n8n #AIAutomation #NoCode #AgenticAI",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "O9Qrha0Godo": {
+      "checkedAt": "2026-08-22T00:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Are you looking to automate your Facebook posts effortlessly? In this step-by-step tutorial, learn how to set up an automated Facebook posting workflow using n8n without writing a single line of code!\n\nSave time, scale your content strategy, and automate social media management for free using open-source n8n automation.\n\n📌 What You Will Learn in This Video:\n\nHow to connect Facebook Page API with n8n\n\nSetting up triggers and nodes for auto-posting\n\nFormatting text, images, and links for automated Facebook posts\n\nTesting and scheduling your n8n workflow\n\n\n-----------------------------------------------------------------------\nPROMPTS:\nhttps://docs.google.com/document/d/1y-3aIECWmS6Or17esXv3vRBRL41jWa_6oMpV0G0YNAY/edit?usp=sharing\n-----------------------------------------------------------------------\n\n\n#n8n #ai #automation #facebook #bangla",
+      "commentCount": 3,
+      "likeCount": 15,
+      "probeClient": "web_embedded"
+    },
+    "mBqGZgajRpQ": {
+      "checkedAt": "2026-08-22T00:53:10Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Try MiniMax Code: https://agent.minimax.io/\n👉 MiniMax Coding Plan: https://platform.minimax.io/subscribe/coding-plan?code=AdLeII7DPg&source=link\n\n\nLearn how to build a complete faceless YouTube channel using MiniMax Code.\n\nIn this video, I’ll show you how to research viral channels, find video ideas, write scripts, generate AI voiceovers, create visuals, and make videos using MiniMax H3.\n\nPerfect for anyone interested in YouTube Automation, Faceless YouTube, AI YouTube, and AI video creation.\n\nPDF Link: https://docs.google.com/document/d/1tRymhPU5X2F6pS3uUYsGnw6_XqeSkBJagUUj20WsFrg/edit?usp=sharing\n\nFinal Video: https://youtu.be/fWvjaZh6jwQ\n__________________\n\n🛠️ Tools Links :\n\nTry vidIQ for just $1: https://vidiq.com/aiflow/\nClaude: https://claude.ai/new\n\n__________________\n\n🌍 Follow Me Here\n\nInstagram: https://www.instagram.com/aiflowofficial\nTelegram Channel: https://t.me/EditFlowofficial\nWhatsapp Channel: https://whatsapp.com/channel/0029VaDGEpgDTkK2AwEd8I0v\n__________________\n\n\n🎬 Watch My Previous Videos\n\n▶ I Built a Viral AI Horror Channel from Scratch (Full Course)\nhttps://youtu.be/r0BqaEZnHag\n\n▶ Clone Any YouTube Channel with Claude AI (No Coding, 100% Free)\nhttps://youtu.be/m47OgPtxhBg\n\nHow To Make Videos Like Nick Invests With AI (High RPM Finance Niche)\nhttps://youtu.be/SRjm9tvMHhs\n\n▶ How I Create Viral AI Car Restoration Videos from Scratch ( Free Tools)\nhttps://youtu.be/h0s0A0t85hw\n\n▶ Make Finance Videos Like Crayon Capital\nhttps://youtu.be/QohbJR-c1T8\n\n▶ How To Use JSON Prompting To Create $100k AI Ads In Minutes | VEO3 Tutorial \nhttps://youtu.be/iUSfPqIZscg\n\n▶ How to make Videos like Primate Economics (Part 1)\nhttps://youtu.be/fBdfYa1w8Io\n\n▶ How to Make Videos like your.nextcore\nhttps://youtu.be/dAd87TwzZRw\n\n▶ 9 Free Ai Tools that Will Change Your Life\nhttps://youtu.be/sVOlLzC-Zuk\n\n__________________\n\n📌 Queries People Ask\n\nI Built a Finance YouTube Channel Using MiniMax Code\nMake money online\nHow to make money online\nThis New Niche is going viral on youtube\nai full course\nhow to make a faceless youtube channel\nNew Niche\nyoutube automation step by step\nfaceless youtube channel ideas\nyoutube automation course\nhow to start youtube automation\nhow to make money online\nyoutube automation niches\nNew YouTube Niche to Grow Fast\nNew niche\nyoutube automation with free ai tools\nyoutube automation full course\nmake money on youtube\nai full course\nhow to make a faceless youtube channel\nhow to make a faceless youtube channel, how to start a faceless youtube channel, how to create a faceless youtube channel, how to make a faceless youtube channel with ai, usa faceless youtube channel, faceless youtube channel, finance youtube channel ideas, faceless youtube channel ideas, faceless youtube channel ai, faceless youtube channel niches, faceless youtube channel ideas 2026, faceless youtube channel ideas 2024, best faceless youtube channel ideas, how to start faceless youtube channel\n\n\n#makemoneyonline #ai #aitools #youtubeautomation #newniche #minimaxai  #MiniMaxCode #facelessyoutube  #aiyoutube  #youtubeautomation2026  #AITools #minimaxh3 \n\n--------------------\n\nDisclaimer\n\nThis video is for educational and entertainment purposes only. The content is based on personal research and experience with AI tools and content creation. I do not encourage copying, reuploading, or stealing content. Always follow YouTube's Community Guidelines and Copyright Policies. Nothing in this video should be considered financial, legal, or professional advice. Please do your own research before making any decisions.",
+      "commentCount": 9,
+      "likeCount": 190,
       "probeClient": "web_embedded"
     }
   }

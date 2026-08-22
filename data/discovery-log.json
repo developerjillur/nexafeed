@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-21T23:53:13Z",
+  "updatedAt": "2026-08-22T00:53:10Z",
   "items": [
+    {
+      "id": "8f649ItK6uA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-08-21T16:53:10Z",
+      "firstSeenAt": "2026-08-22T00:53:10Z"
+    },
+    {
+      "id": "-zIbBK2IGlE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Learn Skills Daily",
+      "publishedAt": "2026-08-21T16:53:10Z",
+      "firstSeenAt": "2026-08-22T00:53:10Z"
+    },
+    {
+      "id": "jbzibzuzRxQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-08-21T15:53:10Z",
+      "firstSeenAt": "2026-08-22T00:53:10Z"
+    },
+    {
+      "id": "tZLb_SmGV80",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Alex Best Digital",
+      "publishedAt": "2026-08-21T14:53:10Z",
+      "firstSeenAt": "2026-08-22T00:53:10Z"
+    },
+    {
+      "id": "6eV_IZ5QLfc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI With Haris ",
+      "publishedAt": "2026-08-21T13:53:10Z",
+      "firstSeenAt": "2026-08-22T00:53:10Z"
+    },
+    {
+      "id": "O9Qrha0Godo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CircuitSage",
+      "publishedAt": "2026-08-21T12:53:10Z",
+      "firstSeenAt": "2026-08-22T00:53:10Z"
+    },
+    {
+      "id": "mBqGZgajRpQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Flow",
+      "publishedAt": "2026-08-21T11:53:10Z",
+      "firstSeenAt": "2026-08-22T00:53:10Z"
+    },
     {
       "id": "b1H5h7YvL1k",
       "type": "long",
@@ -21087,6 +21143,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-22T00:53:10Z",
+      "new": 7,
+      "long": 7,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
