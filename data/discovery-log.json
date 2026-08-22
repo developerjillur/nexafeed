@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T11:53:24Z",
+  "updatedAt": "2026-08-22T12:53:25Z",
   "items": [
+    {
+      "id": "K47dO3bDW3E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "VK Tech Insights",
+      "publishedAt": "2026-08-22T12:30:25Z",
+      "firstSeenAt": "2026-08-22T12:53:25Z"
+    },
+    {
+      "id": "GdoMvOYPRfI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tano",
+      "publishedAt": "2026-08-22T10:53:25Z",
+      "firstSeenAt": "2026-08-22T12:53:25Z"
+    },
+    {
+      "id": "y13X8-NvolE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DataMites",
+      "publishedAt": "2026-08-22T10:53:25Z",
+      "firstSeenAt": "2026-08-22T12:53:25Z"
+    },
     {
       "id": "SuaPe2vBrVg",
       "type": "short",
@@ -19461,15 +19485,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T11:53:31Z",
-      "new": 4,
-      "long": 2,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
       "runAt": "2026-08-08T12:53:40Z",
       "new": 1,
       "long": 0,
@@ -21448,6 +21463,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-22T12:53:25Z",
+      "new": 3,
+      "long": 3,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }

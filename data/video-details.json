@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T11:53:24Z",
+  "updatedAt": "2026-08-22T12:53:25Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9263,7 +9263,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-22T11:53:24Z",
+      "checkedAt": "2026-08-22T12:53:25Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9292,10 +9292,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-22T11:53:24Z",
+      "checkedAt": "2026-08-22T12:53:25Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-22T00:53:10Z",
@@ -11118,25 +11118,95 @@
       "probeClient": "web_embedded"
     },
     "981gZeOrfxw": {
-      "checkedAt": "2026-08-21T12:53:21Z",
+      "checkedAt": "2026-08-22T12:53:25Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 1,
-      "likeCount": 7,
+      "commentCount": 8,
+      "likeCount": 85,
       "comments": [
+        {
+          "id": "UgxkUp9I0LCV9hIzpf94AaABAg",
+          "author": "@9681956819",
+          "text": "claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lPFOWA7W3NS5DbVKiqjvVA4z_ptCHjoBCuWotiQX6rbGl-=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyEegphQM5lGO83T814AaABAg",
+          "author": "@srikrishnan3788",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m3vs55Icn4wAmY6qImZ1mmZRDCMI6GI4xrdMwXfzs=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwXWriCpDUztpMWV9h4AaABAg",
+          "author": "@erumshamsi4481",
+          "text": "plz pin the link in the comment",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nhIZn60SqtIt4QOEN4SN9zfOM7mZ1W4P2VeD33gJ4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz63K34IJpzkxSmFWl4AaABAg",
+          "author": "@erumshamsi4481",
+          "text": "claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nhIZn60SqtIt4QOEN4SN9zfOM7mZ1W4P2VeD33gJ4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzUGE1P-_zK_Uz3WzF4AaABAg",
+          "author": "@s.ranjithkumar4620",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m9EE7Abx5AGIls2vqRSDYSZmji93sdMSfElFScFR5XCQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxaP_YVswY2pQfjRFh4AaABAg",
+          "author": "@rasagnyanalumachu6546",
+          "text": "Claude",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/OD_wNSrGIJoqPUXppYmsaNkWbZLci9VEOFbUEs-2e0F5fG7ZCl6I_qGaSalpr7T_DyP8cwtOKw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzGDDYepfZ3KPBGnI14AaABAg",
+          "author": "@HetDholakiya-t6s",
+          "text": "The laptop screen writing is not visible properly,\nSo choose the designated areas in 9:16",
+          "likeCount": 0,
+          "publishedAt": "2026-08-21T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k6ik9k6NPqHs0kvMwv9SpZyE9qUk9AxeJZJ9_zucX5-Srt4Jkr8so6gIcmOMBS08yveQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugz5CgaRPtyGQsnbZt94AaABAg",
           "author": "@manishk8527",
           "text": "Claude",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T12:51:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mtUUYwwXzlCDxZHjLSUO5ibamZHbfgVbBbBOzunRsf1uc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T12:53:21Z",
+      "commentsFetchedAt": "2026-08-22T12:53:25Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -11150,14 +11220,14 @@
       "probeClient": "web_embedded"
     },
     "rUFQntuvPMU": {
-      "checkedAt": "2026-08-21T12:53:21Z",
+      "checkedAt": "2026-08-22T12:53:25Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 0,
       "likeCount": 0,
       "comments": [],
-      "commentsFetchedAt": "2026-08-21T12:53:21Z",
+      "commentsFetchedAt": "2026-08-22T12:53:25Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -12426,6 +12496,33 @@
       "description": "🎟️ Use Discount Code for extra saving: \"MEHYT\"\nPabbly Chatflow (Product + Pricing): https://www.pabbly.com/chatflow/#pricing\nPabbly Chatflow Playlist: https://www.youtube.com/watch?v=3fG8qt6YNfA&list=PLgffPJ6GjbaJ8JPigEtxniz41rN5wqKAi\n\nFlow Link: https://chatflow.pabbly.com/api/flows/share/6a86c2d7c58c2325fd323766\n\nWant to build a WhatsApp chatbot without writing any code? In this step-by-step tutorial, you'll learn how to create an automated WhatsApp chatbot that can handle customer conversations and repetitive tasks.\n\nThe chatbot can answer FAQs, collect customer details, provide product or service information, handle enquiries, and send automated responses. This helps businesses save time and provide faster customer support on WhatsApp.\n\nThis workflow is useful for ecommerce stores, real estate businesses, restaurants, agencies, service providers, and small businesses looking to automate WhatsApp communication.\n\nQueries:\nWhatsApp chatbot without coding\nbuild WhatsApp chatbot\nautomated WhatsApp chatbot\nWhatsApp chatbot tutorial\nWhatsApp automation no code\n\nHashtags:\n#WhatsAppChatbot #WhatsAppAutomation #PabblyChatflow #NoCode #AIAutomation #Chatbot #CustomerSupport #BusinessAutomation #WhatsAppBusiness #Automation\n\n🎯 Use Case: A small business creates a WhatsApp chatbot to handle common customer conversations automatically. The chatbot can welcome customers, show products or services, answer FAQs, collect customer details, and route specific enquiries to the right team without requiring any coding\n\n🪜 Need Help Getting Started? Follow These Step-by-Step Tutorials:\n\n✅ How to Connect your WhatsApp Number with Pabbly Chatflow in Few Clicks\n🔗 https://www.youtube.com/watch?v=J2YKHvlSMP8\n\n✅ How to Create WhatsApp Cloud API Account and Connect with Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=JKLboMlmKSs\n\n✅ How to Connect Unlimited WhatsApp Numbers to a Single Account (No Extra Cost)\n🔗 https://www.youtube.com/watch?v=iPg0W3Ra3Og\n\n✅ Pabbly Chatflow Inbox Overview\n🔗 https://www.youtube.com/watch?v=JE0f2lwFNMI\n\n✅ Pabbly Chatflow Contact Overview\n🔗 https://www.youtube.com/watch?v=j919a9bIi4w\n\n✅ How to Create Templates Inside Pabbly Chatflow\n🔗 https://www.youtube.com/watch?v=lmXyI79aENQ\n\n✅ How to Create a WhatsApp Chatbot Using Flow Builder\n🔗 https://www.youtube.com/watch?v=NXIbDhxXKF0\n\n✅ Pabbly Chatflow Team Member Overview\n🔗 https://www.youtube.com/watch?v=EnB4Ju1tTN8\n\n✅ Broadcast Messages and API Campaigns\n🔗 https://www.youtube.com/watch?v=b1g9QbrP9jU\n\n📞 Need Help?\n📬 Contact Our Team: support@pabbly.com\n💬 Ask Your Queries: https://forum.pabbly.com\n👥 Join Our Community: https://www.pabbly.com/community/\n\n⚠️ Disclaimer: All names, mobile numbers, and emails shown in this video are for demonstration purposes only. This is an educational video to showcase automation and chatbot creation using Pabbly Chatflow.",
       "commentCount": 0,
       "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "K47dO3bDW3E": {
+      "checkedAt": "2026-08-22T12:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Agentic AI is changing the future of software development — and Google Cloud’s Agentic Cinema Hackathon is bringing that future to life! 🎬🤖\n\nIn this video, we explore the Agentic Cinema: The Blockbuster Hackathon, a major AI and cloud development challenge from Google Cloud and Devpost, focused on building real-world AI agent solutions using Gemini and Google Cloud Agent Builder.\n\nThe challenge goes beyond traditional application development. Developers are encouraged to create functional AI agents capable of handling multi-step workflows, connecting tools and data, orchestrating tasks, and solving practical real-world problems.\n\n🔥 In this video, you’ll learn about:\n\n✅ What is the Agentic Cinema Hackathon?\n✅ What is Agentic AI and how does it work?\n✅ How Gemini and Google Cloud Agent Builder are used\n✅ AI agents, autonomous workflows and multi-agent systems\n✅ MCP and AI tool integration\n✅ Enterprise AI and cloud automation\n✅ Partner technologies including IBM, Grafana Labs, Parallel, ClickHouse and Replit\n✅ What developers need to build and submit\n✅ Why Agentic AI is becoming a major technology trend\n✅ How this hackathon can help developers showcase innovative AI projects\n\n🎯 Key Technologies:\n\nGoogle Cloud | Gemini | Agentic AI | AI Agents | Google Cloud Agent Builder | Enterprise AI | MCP | Generative AI | Cloud Computing | AI Automation | APIs | Multi-Agent Systems | Machine Learning | AI Workflows\n\n💡 Why Agentic AI matters:\n\nTraditional applications usually depend on users giving specific instructions for every action. Agentic AI aims to create systems that can understand objectives, reason through tasks, use connected tools, execute multiple steps and automate complex workflows.\n\nThe Agentic Cinema Hackathon provides an opportunity for developers and AI builders to demonstrate these capabilities through practical projects and working prototypes.\n\n🚀 Whether you are an AI developer, software engineer, cloud engineer, student, startup founder or technology enthusiast, this hackathon is worth watching and exploring.\n\n🔔 Subscribe for more videos covering Artificial Intelligence, Agentic AI, Google Cloud, Gemini, emerging technologies, developer tools, automation, software development and the latest innovations in technology.\n\n#AgenticAI #AgenticCinema #GoogleCloud #GeminiAI #GoogleGemini #AIAgents #AIHackathon #GenerativeAI #GoogleCloudAI #CloudComputing #MachineLearning #MCP #EnterpriseAI #AIAutomation #MultiAgentSystems #AIWorkflow #DeveloperTools #ArtificialIntelligence #Devpost #GoogleCloudHackathon #AIInnovation #FutureOfAI #SoftwareDevelopment #TechNews",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "GdoMvOYPRfI": {
+      "checkedAt": "2026-08-22T12:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What does it really take to build an AI startup?\n\nIn this episode, we go behind the scenes at Tano, one of London’s fastest-growing AI startups, as the team hires software engineers, scales its AI platform, and discusses the future of software engineering in the age of AI.\n\nFrom engineering interviews and system design challenges to conversations about OpenAI, Anthropic, Kimi K3, AI coding agents, and autonomous AI agents, this is an inside look at what it’s like building an AI company from the ground up.  \n\nIf you’re interested in AI startups, software engineering, entrepreneurship, or building AI products, subscribe for weekly episodes following our journey.\n\nChapters\n\n00:00 The Make-or-Break Moment\n02:31 Why We’re Hiring\n04:59 Meet Our Newest Engineer\n05:54 The Future of AI Engineering\n08:50 Behind an Engineering Interview\n10:45 What Makes a Great AI Engineer?\n12:04 OpenAI vs Kimi K3\n14:15 We Hired a New Engineer\n\nAbout Tano\n\nTano is building autonomous AI agents for influencer marketing.\n\nFollow our journey as we build AI products, hire world-class engineers, scale an AI startup, and document what it’s really like to grow a technology company.\n\nTopics\n\nAI startup, artificial intelligence, AI agents, autonomous agents, software engineering, engineering interviews, startup life, OpenAI, Anthropic, Kimi K3, coding agents, LLMs, machine learning, founder life, product development, SaaS, hiring engineers.\n\n#AI #ArtificialIntelligence #AIStartup #SoftwareEngineering #OpenAI #Anthropic #AIAgents #Startup #Tech #machinelearning \n\n⸻\n\nTano Website: https://www.tano.ai\n\nWill Caplan Linkedin: https://www.linkedin.com/in/will-caplan-45a173194  \nSagar Shah Linkedin: https://www.linkedin.com/in/sagarshahuk",
+      "commentCount": 4,
+      "likeCount": 42,
+      "probeClient": "web_embedded"
+    },
+    "y13X8-NvolE": {
+      "checkedAt": "2026-08-22T12:53:25Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Join us on August 22nd at 4:00 PM for an insightful Alumni Talk with Rohan.\nExplore his journey as a Software Engineer and his experience in the tech industry.\n\nLearn how he leverages AI automation and databases to build effective solutions.Gain practical insights into AI, automation, databases, and software development.Get inspired by his career journey and valuable industry experiences. \n\nDon't miss this opportunity to learn from a successful DataMites alumnus!\n\nClick here to register: https://us02web.zoom.us/webinar/register/WN_rI5DoTt4Suq7ZIjdhTYCyA\n\n#datamites #alumnitalk #  #datamitesalumnitalk #datascience #careerguidance #industryinsights #aiautomation #agenticai #python #techtalk",
+      "commentCount": 0,
+      "likeCount": 2,
       "probeClient": "web_embedded"
     }
   }
