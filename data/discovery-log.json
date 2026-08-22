@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T15:53:52Z",
+  "updatedAt": "2026-08-22T17:53:46Z",
   "items": [
+    {
+      "id": "tS8w0wIQi08",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Felix Wick",
+      "publishedAt": "2026-08-22T17:46:46Z",
+      "firstSeenAt": "2026-08-22T17:53:46Z"
+    },
+    {
+      "id": "Xa22xQ9vIQc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Automate AI Consulting",
+      "publishedAt": "2026-08-22T15:53:46Z",
+      "firstSeenAt": "2026-08-22T17:53:46Z"
+    },
+    {
+      "id": "6zXshyVht98",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jitesh Powankar",
+      "publishedAt": "2026-08-22T13:53:46Z",
+      "firstSeenAt": "2026-08-22T17:53:46Z"
+    },
+    {
+      "id": "UkRBsU02-pA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Profit Ownonomics",
+      "publishedAt": "2026-08-22T13:53:46Z",
+      "firstSeenAt": "2026-08-22T17:53:46Z"
+    },
+    {
+      "id": "gb-Zwf5WKms",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Unseen Drafts",
+      "publishedAt": "2026-08-21T18:53:46Z",
+      "firstSeenAt": "2026-08-22T17:53:46Z"
+    },
     {
       "id": "9zYoAh2PH60",
       "type": "short",
@@ -19597,24 +19637,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T16:53:10Z",
-      "new": 6,
-      "long": 4,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "generative AI tools"
-    },
-    {
-      "runAt": "2026-08-08T17:53:19Z",
-      "new": 3,
-      "long": 3,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "no-code automation"
-    },
-    {
       "runAt": "2026-08-08T18:53:28Z",
       "new": 5,
       "long": 5,
@@ -21575,6 +21597,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-22T17:53:46Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
