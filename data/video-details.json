@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T02:53:16Z",
+  "updatedAt": "2026-08-22T03:53:17Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9263,7 +9263,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-22T02:53:16Z",
+      "checkedAt": "2026-08-22T03:53:17Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9292,10 +9292,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-22T02:53:16Z",
+      "checkedAt": "2026-08-22T03:53:17Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-22T00:53:10Z",
@@ -10832,7 +10832,7 @@
       "probeClient": "web_embedded"
     },
     "h8e334CiG1M": {
-      "checkedAt": "2026-08-22T02:53:16Z",
+      "checkedAt": "2026-08-22T03:53:17Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -11895,6 +11895,15 @@
       "description": "Where does academic support end and academic dishonesty begin? Tech Expert Katrina German is in to talk AI in schools.\n\nSubscribe to CTV News to watch more videos: https://www.youtube.com/ctvnews\n\nConnect with CTV News:\nFor live updates and latest headlines visit: http://www.ctvnews.ca/ \nFor breaking news, fast, download the CTV News App: https://www.ctvnews.ca/app\nMust-watch stories and full programs at http://www.ctvnews.ca/video\n\nCTV News on TikTok: https://www.tiktok.com/discover/CTV-News\nCTV News on X (formerly Twitter): https://twitter.com/CTVNews  \nCTV News on Reddit: https://www.reddit.com/user/CTVNEWS\nCTV News on LinkedIn: https://ca.linkedin.com/company/ctv-news\n\n---\nCTV News is Canada's most-watched news organization both locally and nationally, and has a network of national, international, and local news operations.\n\n#ctvnews #ctvnationalnews #canadiannews",
       "commentCount": 0,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "Vz6bXXoAYqM": {
+      "checkedAt": "2026-08-22T03:53:17Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Ai Automation শিখে Freelancing, Job বা SAAS Product বানিয়ে Passive Income করতে চাইলে, জয়েন করুন আমাদের ২ মাসের এই Ai Automation Mastery কোর্সেঃ  \n\nCourse Details: https://www.hablu-programmer.com/courses/agent\nPre-Registration: https://forms.gle/rreytxSnQxTp9wA99\nContact Us: 01816986263\nWhatsApp: 01409-618315\n\nসর্বমোট সিট সংখ্যা ৩০০টি। তাই যারা এনরোলমেন্ট করতে চান প্রি-রেজিস্ট্রেশন করে রাখুন। \n\n\n\n\nkeywords:hablu programmer,freelancing bangla tutorial, Ai, Ai Agent, Ai Automation, claude tutorial",
+      "commentCount": 0,
+      "likeCount": 30,
       "probeClient": "web_embedded"
     }
   }

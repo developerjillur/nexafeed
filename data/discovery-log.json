@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T02:53:16Z",
+  "updatedAt": "2026-08-22T03:53:17Z",
   "items": [
+    {
+      "id": "Vz6bXXoAYqM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ai Automation Mastery",
+      "publishedAt": "2026-08-21T14:53:17Z",
+      "firstSeenAt": "2026-08-22T03:53:17Z"
+    },
     {
       "id": "Z8NMhu1Fohc",
       "type": "short",
@@ -19245,15 +19253,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T02:53:40Z",
-      "new": 4,
-      "long": 4,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "digital marketing automation"
-    },
-    {
       "runAt": "2026-08-08T03:53:34Z",
       "new": 3,
       "long": 3,
@@ -21232,6 +21231,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-22T03:53:17Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 13,
+      "secondaryQuery": "Automation"
     }
   ]
 }
