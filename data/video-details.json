@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T00:53:10Z",
+  "updatedAt": "2026-08-22T01:53:15Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9064,14 +9064,14 @@
       "probeClient": "web_embedded"
     },
     "jgnapgIIfb4": {
-      "checkedAt": "2026-08-21T01:53:10Z",
+      "checkedAt": "2026-08-22T01:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "This is a video about Shared compute\n\n00:00 Shared Compute Mesh LLM\n00:40 Mesh LLM Shared Compute",
       "commentCount": 0,
       "likeCount": 5,
       "comments": [],
-      "commentsFetchedAt": "2026-08-21T01:53:10Z",
+      "commentsFetchedAt": "2026-08-22T01:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -9263,7 +9263,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-22T00:53:10Z",
+      "checkedAt": "2026-08-22T01:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9292,7 +9292,7 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-22T00:53:10Z",
+      "checkedAt": "2026-08-22T01:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9611,43 +9611,6 @@
       "commentsFetchedAt": "2026-08-22T00:53:10Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
-    },
-    "R8tydoNU0IU": {
-      "checkedAt": "2026-08-22T00:53:10Z",
-      "embedAllowed": false,
-      "availability": "unavailable",
-      "description": "If you could only keep one AI agent in 2026, which one survives?\n\nRan that exact experiment on camera. Sixteen tools, head to head. Honestly thought Claude Code had it until the very last matchup. The winner runs on its own cloud computer and keeps working after my laptop closes. Grok Bot.\n\n(comment “GROK” and the full starter guide shows up in your DMs 🚀)",
-      "commentCount": 0,
-      "likeCount": 3,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded",
-      "failureReason": "unavailable"
-    },
-    "OvHqW3Ch9IU": {
-      "checkedAt": "2026-08-22T00:53:10Z",
-      "embedAllowed": false,
-      "availability": "removed",
-      "description": "If you could only keep one AI agent in 2026, which one survives?\n\nRan that exact experiment on camera. Sixteen tools, head to head. Honestly thought Claude Code had it until the very last matchup. The winner runs on its own cloud computer and keeps working after my laptop closes. Grok Bot.\n\n(comment “GROK” and the full starter guide shows up in your DMs 🚀)",
-      "commentCount": 1,
-      "likeCount": 1,
-      "comments": [
-        {
-          "id": "Ugzc7b500awpDrf7K-Z4AaABAg",
-          "author": "@darkpaper9373",
-          "text": "Grok",
-          "likeCount": 0,
-          "publishedAt": "2026-08-20T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kxVWMtFkHN84ww79HuUbFtI88pSWA0MbG2dl8ktGU=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        }
-      ],
-      "commentsFetchedAt": "2026-08-21T00:53:07Z",
-      "commentsStatus": "cached",
-      "probeClient": "web_embedded",
-      "failureReason": "removed"
     },
     "uEcrrbdiwrA": {
       "checkedAt": "2026-08-22T00:53:10Z",
@@ -10447,37 +10410,37 @@
       "probeClient": "web_embedded"
     },
     "L5mkPmjJMKc": {
-      "checkedAt": "2026-08-21T01:53:10Z",
+      "checkedAt": "2026-08-22T01:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Buzz gives you six built-in local models, but LM Studio opens the door to thousands more. Here’s how to find a model that fits your computer, start the local server, enable authentication, and prepare it for use inside Buzz.\nRun vision, tool-use, and reasoning models locally on your own machine.\n#LocalAI #LMStudio #BuzzAI",
       "commentCount": 0,
-      "likeCount": 0,
+      "likeCount": 1,
       "comments": [],
-      "commentsFetchedAt": "2026-08-21T01:53:10Z",
+      "commentsFetchedAt": "2026-08-22T01:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "en0iu4ln_JM": {
-      "checkedAt": "2026-08-21T01:53:10Z",
+      "checkedAt": "2026-08-22T01:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Google just did something that's going to make every teacher's job harder overnight.\n\nGemini is now built right into Google Classroom, sitting next to the assignment. No separate app, no copying text into a chatbot, the AI is one tab away from the homework it's meant to help with, and it even pulls in the assignment and the teacher's instructions on its own. Access used to be for students 18 and up. Now it reaches all ages, down to the youngest grades, at any school that had already switched Gemini on for students. And where it's on, a school has to go in and turn it off for under-18s to pull it back.\n\nGoogle calls these study tools: flashcards, quizzes, notes. Whether a kid uses them to study or to stop trying is up to the kid.\n\nI share more on AI in my community, link in bio.\n\n#ai #gemini #google #education #edtech",
       "commentCount": 1,
-      "likeCount": 7,
+      "likeCount": 29,
       "comments": [
         {
           "id": "UgxrZV6XOJkXxpvtpTp4AaABAg",
           "author": "@JimmySherman-n2l",
           "text": "I love it, i wish I had that in school",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T01:27:00Z",
+          "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-21T01:53:10Z",
+      "commentsFetchedAt": "2026-08-22T01:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -10869,7 +10832,7 @@
       "probeClient": "web_embedded"
     },
     "h8e334CiG1M": {
-      "checkedAt": "2026-08-22T00:53:10Z",
+      "checkedAt": "2026-08-22T01:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -11839,6 +11802,54 @@
       "description": "Try MiniMax Code: https://agent.minimax.io/\n👉 MiniMax Coding Plan: https://platform.minimax.io/subscribe/coding-plan?code=AdLeII7DPg&source=link\n\n\nLearn how to build a complete faceless YouTube channel using MiniMax Code.\n\nIn this video, I’ll show you how to research viral channels, find video ideas, write scripts, generate AI voiceovers, create visuals, and make videos using MiniMax H3.\n\nPerfect for anyone interested in YouTube Automation, Faceless YouTube, AI YouTube, and AI video creation.\n\nPDF Link: https://docs.google.com/document/d/1tRymhPU5X2F6pS3uUYsGnw6_XqeSkBJagUUj20WsFrg/edit?usp=sharing\n\nFinal Video: https://youtu.be/fWvjaZh6jwQ\n__________________\n\n🛠️ Tools Links :\n\nTry vidIQ for just $1: https://vidiq.com/aiflow/\nClaude: https://claude.ai/new\n\n__________________\n\n🌍 Follow Me Here\n\nInstagram: https://www.instagram.com/aiflowofficial\nTelegram Channel: https://t.me/EditFlowofficial\nWhatsapp Channel: https://whatsapp.com/channel/0029VaDGEpgDTkK2AwEd8I0v\n__________________\n\n\n🎬 Watch My Previous Videos\n\n▶ I Built a Viral AI Horror Channel from Scratch (Full Course)\nhttps://youtu.be/r0BqaEZnHag\n\n▶ Clone Any YouTube Channel with Claude AI (No Coding, 100% Free)\nhttps://youtu.be/m47OgPtxhBg\n\nHow To Make Videos Like Nick Invests With AI (High RPM Finance Niche)\nhttps://youtu.be/SRjm9tvMHhs\n\n▶ How I Create Viral AI Car Restoration Videos from Scratch ( Free Tools)\nhttps://youtu.be/h0s0A0t85hw\n\n▶ Make Finance Videos Like Crayon Capital\nhttps://youtu.be/QohbJR-c1T8\n\n▶ How To Use JSON Prompting To Create $100k AI Ads In Minutes | VEO3 Tutorial \nhttps://youtu.be/iUSfPqIZscg\n\n▶ How to make Videos like Primate Economics (Part 1)\nhttps://youtu.be/fBdfYa1w8Io\n\n▶ How to Make Videos like your.nextcore\nhttps://youtu.be/dAd87TwzZRw\n\n▶ 9 Free Ai Tools that Will Change Your Life\nhttps://youtu.be/sVOlLzC-Zuk\n\n__________________\n\n📌 Queries People Ask\n\nI Built a Finance YouTube Channel Using MiniMax Code\nMake money online\nHow to make money online\nThis New Niche is going viral on youtube\nai full course\nhow to make a faceless youtube channel\nNew Niche\nyoutube automation step by step\nfaceless youtube channel ideas\nyoutube automation course\nhow to start youtube automation\nhow to make money online\nyoutube automation niches\nNew YouTube Niche to Grow Fast\nNew niche\nyoutube automation with free ai tools\nyoutube automation full course\nmake money on youtube\nai full course\nhow to make a faceless youtube channel\nhow to make a faceless youtube channel, how to start a faceless youtube channel, how to create a faceless youtube channel, how to make a faceless youtube channel with ai, usa faceless youtube channel, faceless youtube channel, finance youtube channel ideas, faceless youtube channel ideas, faceless youtube channel ai, faceless youtube channel niches, faceless youtube channel ideas 2026, faceless youtube channel ideas 2024, best faceless youtube channel ideas, how to start faceless youtube channel\n\n\n#makemoneyonline #ai #aitools #youtubeautomation #newniche #minimaxai  #MiniMaxCode #facelessyoutube  #aiyoutube  #youtubeautomation2026  #AITools #minimaxh3 \n\n--------------------\n\nDisclaimer\n\nThis video is for educational and entertainment purposes only. The content is based on personal research and experience with AI tools and content creation. I do not encourage copying, reuploading, or stealing content. Always follow YouTube's Community Guidelines and Copyright Policies. Nothing in this video should be considered financial, legal, or professional advice. Please do your own research before making any decisions.",
       "commentCount": 9,
       "likeCount": 190,
+      "probeClient": "web_embedded"
+    },
+    "BDzBk2agGgM": {
+      "checkedAt": "2026-08-22T01:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Five free sites to get your kid into AI and coding.\n\nStart with scratch.mit.edu, MIT's block-based playground and the biggest free coding community for kids. Then code.org, which has taught tens of millions of kids their first steps in code through game-based lessons. For AI itself, teachablemachine.withgoogle.com lets a kid train a computer to recognize images and sounds with zero code, and machinelearningforkids.co.uk takes it further with real, hands-on models. And tynker.com, spelled with a Y, stacks thousands of lessons, from modding Minecraft to real AI.\n\nAll free, all built for kids.\n\nI share more about AI in my community, link in bio.\n\n#kids #ai #coding #education #stem",
+      "commentCount": 0,
+      "likeCount": 10,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-22T01:53:15Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "ut-ZwrpPb0U": {
+      "checkedAt": "2026-08-22T01:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "My AI courses: https://edwarddonner.com/curriculum\n\n--\nAre we all becoming professional code reviewers? Students and companies keep asking me about the 'ADLC'... the evolution of the SDLC for the age of coding agents.\n\nIn this video, I try to bring clarity to what is still an evolving picture. I break down the ADLC into 3 parts:\n\n1. The harness. How harness engineering is applied for your project, enforcing project standards and processes. Pre-commit hooks, repo as memory, CI/CD workflows.\n\n2. The handoffs. The way we interface with the Agent. Still up for debate, but right now it seems Spec-As-Source is out and Spec-Anchored Intent is in.\n\n3. The humans. A named person is accountable for every PR; approving the plan, confirming assumptions, checking success criteria. But reviewing every line of code? There’s an asymmetry: it’s far faster to generate code than review it.\n\nI don’t have all the answers.\nBut I have some of them in this video.\nAnd it will make a nice break from all those code reviews.\n\nRepo:\nhttps://github.com/ed-donner/bench\n\n--\n\n00:01 What Is the Agentic Development Life Cycle?\n00:58 Building the Bench Coding Agent Testbed\n02:39 The Three Hs: Harness, Handoffs, Humans\n03:42 Where the ADLC Is Converging—and Still Unclear\n05:00 How to Engineer a Coding Agent Harness\n05:43 Enforcing Code Quality With CI/CD\n06:32 Securing Coding Agents and Tool Access\n06:56 Self-Improvement and Recursive Self-Improvement\n07:57 Using AGENTS.md as Repository Memory\n08:56 How the Agent Development Process Works\n10:06 Running Automated Checks and Tests\n11:06 How Specs and Plans Improve Agent Handoffs\n12:31 Writing an Agent Specification With Success Criteria\n13:10 Using Claude Code to Implement a Spec\n14:20 Automating Internationalization With a Coding Agent\n15:11 Are Software Engineers Becoming Code Reviewers?\n15:58 How Much Autonomy Should Coding Agents Have?\n16:17 Coding Agents in High-Risk Software Projects\n17:01 Where the Agentic Development Life Cycle Goes Next\n\n--\n\nList of top models, agents, and concepts discussed in this video:\n\nClaude Code\nOpus\nFable\nCoding Agents\nAgentic Development Life Cycle (ADLC)\nHarness Engineering\nHarness\nHandoffs\nHumans\nRecursive Self-Improvement",
+      "commentCount": 3,
+      "likeCount": 101,
+      "probeClient": "web_embedded"
+    },
+    "VIybKGFS4Hw": {
+      "checkedAt": "2026-08-22T01:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "New updates, tips, and Q&A\n\nSubscribe to Google Antigravity →  https://youtube.com/@googleantigravity\n\nGoogle Antigravity is an agent-first software development platform designed to help developers build, orchestrate, and monitor AI agents. It connects AI agents directly to code editors, terminals, and browsers so they can perform development tasks autonomously. \n\nTo learn more:\nWebsite: https://antigravity.google/\nX: https://x.com/antigravity\nLinkedIn: https://www.linkedin.com/showcase/google-antigravity/",
+      "commentCount": 1,
+      "likeCount": 221,
+      "probeClient": "web_embedded"
+    },
+    "rq26uBPeF5s": {
+      "checkedAt": "2026-08-22T01:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Snap's head of engineering runs software development through a managed set of AI agents his team built. He explains how Snap measures the system, where humans stay accountable, and what CIOs can learn.",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "X9FKxe_c-jw": {
+      "checkedAt": "2026-08-22T01:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "📓 I designed paper notebooks for developers: https://shop.techfacts.io\n\nA few guesses at what programming might look like in 2050.\n\n#Programming #Programmers #ArtificialIntelligence #SoftwareDevelopment #Tech",
+      "commentCount": 4,
+      "likeCount": 194,
       "probeClient": "web_embedded"
     }
   }

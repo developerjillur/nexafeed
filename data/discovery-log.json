@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T00:53:10Z",
+  "updatedAt": "2026-08-22T01:53:15Z",
   "items": [
+    {
+      "id": "BDzBk2agGgM",
+      "type": "short",
+      "source": "primary",
+      "channel": "Yury AI",
+      "publishedAt": "2026-08-22T01:00:22Z",
+      "firstSeenAt": "2026-08-22T01:53:15Z"
+    },
+    {
+      "id": "ut-ZwrpPb0U",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Edward Donner",
+      "publishedAt": "2026-08-21T19:53:15Z",
+      "firstSeenAt": "2026-08-22T01:53:15Z"
+    },
+    {
+      "id": "VIybKGFS4Hw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Google Antigravity",
+      "publishedAt": "2026-08-21T19:53:15Z",
+      "firstSeenAt": "2026-08-22T01:53:15Z"
+    },
+    {
+      "id": "rq26uBPeF5s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CXOTalk",
+      "publishedAt": "2026-08-21T18:53:15Z",
+      "firstSeenAt": "2026-08-22T01:53:15Z"
+    },
+    {
+      "id": "X9FKxe_c-jw",
+      "type": "short",
+      "source": "secondary",
+      "channel": "TechFacts",
+      "publishedAt": "2026-08-21T15:53:15Z",
+      "firstSeenAt": "2026-08-22T01:53:15Z"
+    },
     {
       "id": "8f649ItK6uA",
       "type": "long",
@@ -19165,15 +19205,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T00:53:21Z",
-      "new": 4,
-      "long": 4,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI coding tools"
-    },
-    {
       "runAt": "2026-08-08T01:53:29Z",
       "new": 6,
       "long": 4,
@@ -21152,6 +21183,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-22T01:53:15Z",
+      "new": 5,
+      "long": 3,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
