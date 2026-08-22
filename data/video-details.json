@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T18:53:54Z",
+  "updatedAt": "2026-08-22T19:53:15Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -1615,12 +1615,12 @@
       "probeClient": "web_embedded"
     },
     "HXzkdO7UbDk": {
-      "checkedAt": "2026-08-15T19:53:08Z",
+      "checkedAt": "2026-08-22T19:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 14,
-      "likeCount": 1266,
+      "likeCount": 1320,
       "comments": [
         {
           "id": "UgxUCDeXpZR18K-hmzd4AaABAg",
@@ -5311,12 +5311,12 @@
       "probeClient": "web_embedded"
     },
     "njHuj8OxIVI": {
-      "checkedAt": "2026-08-15T19:53:08Z",
+      "checkedAt": "2026-08-22T19:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "⚡Master Claude Code, Build Your Agency, Land Your First Client⚡\nhttps://www.skool.com/chase-ai\n\n🔥FREE community🔥 \nhttps://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nThe time to push Fable 5 to the limit is now, and here are 5 projects for you to implement. \n\n\n⏰TIMESTAMPS:\n\n0:00 - Intro\n0:41 - Why The Claude OS\n9:28 - Voice Architecture\n12:26 - Skills\n16:35 - Memory\n20:44 - Building the Plugin\n23:48 - Outro\n\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n\n\n#claudecode",
-      "commentCount": 2,
-      "likeCount": 44,
+      "commentCount": 58,
+      "likeCount": 872,
       "probeClient": "web_embedded"
     },
     "eV-rqZ7c9S8": {
@@ -9211,7 +9211,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-22T18:53:54Z",
+      "checkedAt": "2026-08-22T19:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9240,7 +9240,7 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-22T18:53:54Z",
+      "checkedAt": "2026-08-22T19:53:15Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -11855,14 +11855,95 @@
       "probeClient": "web_embedded"
     },
     "9vSJH8gkgNU": {
-      "checkedAt": "2026-08-21T19:53:10Z",
+      "checkedAt": "2026-08-22T19:53:15Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment EVE and I'll send you the repo.\n\nA startup just open-sourced its entire AI-powered CRM, the same system it runs internally. It's called Comp AI, and it's not a stripped template. Lead capture, calling, emailing, pipeline, plus AI agents that actually work the leads for you, hooking into Gmail and your calendar and filling records on their own. Every contact has an agent tab where you see its steps and which leads it dropped and why. If you run an agency or a small team, this is the kind of backend you'd normally pay thousands for. Fair warning, it's a fresh release, so some of it is still rough.\n\n#crm #ai #opensource #sales #buildinpublic",
-      "commentCount": 0,
-      "likeCount": 2,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-21T19:53:10Z",
+      "commentCount": 8,
+      "likeCount": 51,
+      "comments": [
+        {
+          "id": "Ugx6Zn2MVbj7PC0wQiZ4AaABAg",
+          "author": "@oluyemiojeyemi2764",
+          "text": "Eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T19:45:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k5O0BFIlWyoTlyshZg00ZqzioaIvW-r_Ks9Hm5XRbT1X0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxuXOOXy4w9HSYBtgx4AaABAg",
+          "author": "@ryanvanornum5917",
+          "text": "Eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T19:28:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kYUjrj8Bho40XDmO3V-zqZNCq9qWSmyd86vNY-pqUmhdmu=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxp3ipET2c7KjDrwq14AaABAg",
+          "author": "@deny-kkk",
+          "text": "Eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T19:03:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lTn-1PbSDeTJvXgo-xFWwfg7vwDlRfcDFGJxViMlus3w=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzNL-ydlz-hErgdYvx4AaABAg",
+          "author": "@ChefBilly-w6o",
+          "text": "eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kz3GCqKBtTVcEIOrEeBrkd3zEGWkQEs6C-N1T-fEBGAI6BhyUrrDYcsm2hHsGELpLwLw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx_GkRL4_8UKoo87Nt4AaABAg",
+          "author": "@mackensondesir8189",
+          "text": "Eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n7YTJxO_uuhuBQ_9UsCTrNedAeb3aY7CuKLompOhQYUQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugzlgau5-QT8M8DWAzl4AaABAg",
+          "author": "@bjvandriel",
+          "text": "Eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nqeVVwIQ1dAl5WH2hQmuy85NbspE4z-TQkrZs4S48S1Gg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxvehuA4iHpDwFjwrx4AaABAg",
+          "author": "@johniannelli9577",
+          "text": "Eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nX47TnXTKUH_fgLPkjNA-EFy3yxAlF_vmjv-AbUlC6FdU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwDuYnpEh453Mk8Swl4AaABAg",
+          "author": "@bakar686",
+          "text": "eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nTWnEpRFPjfXcamG8KHl9SP3snMN20mgCKrRixC-0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-22T19:53:15Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -13029,6 +13110,84 @@
       "description": "👇 Get The Book & Book a Diagnostic Session:\nhttps://DigitalMarketingCertified.com\n\n👇 Automate & Covert More Customers \nhttps://myempirepro.com/emailmarketing\n\n👇 WordPress Hosting with AI Website Builder\n https://myempirepro.com/1/cms/\n\n👇 Livestream & Record Videos like a PRO \nhttps://myempirepro.com/streamyard\n\nYou start using AI marketing, SEO, content marketing and organic traffic strategies—but the numbers barely move. Then traffic spikes, crashes again, and it feels like your digital marketing strategy isn't working.\n\nThat is exactly where many entrepreneurs quit too early.\n\nIn this episode, I document Day 58 of my 1,826-day marketing experiment and show you the actual numbers behind building a free traffic system that compounds over time.\n\nYou'll see why the early stages can look painfully slow, why a traffic crash doesn't automatically mean your strategy failed, and why expecting instant results is one of the most expensive false beliefs in digital marketing.\n\nI also open real Google Search Console and YouTube data, including roughly 3,000 Generative AI impressions, a channel being deliberately retrained after a major pivot, approximately 36% Google traffic growth, and the ongoing optimization process we're using to improve click-through rate.\n\nThe shift is from chasing individual spikes to building an AI-assisted system of digital assets, collecting real performance data, identifying what wins and continuously optimizing those assets around the people already searching for what your business sells.\n\n00:00 Building an AI Marketing Free Traffic System\n00:45 Nearly 3,000 Generative AI Impressions\n02:14 Why Short-Term Marketing Expectations Fail\n03:18 The Exponential Growth Curve Most Entrepreneurs Miss\n04:40 Why Free Traffic Looks Slow Before It Compounds\n06:25 What Happens When You Pivot an Existing YouTube Audience\n07:55 Retraining the YouTube Algorithm After a Channel Pivot\n11:06 Finding the Next Google CTR Growth Opportunity\n\n#marketing #digitalmarketing\n\n👤 About Ola Tux Abitogun:\nOla Tux Abitogun is an engineering manager, certified project manager (PMP®, CSPO®), entrepreneur, and author of Digital Marketing Certified. Blending technical data systems with real-world entrepreneurial execution, Ola helps business owners build predictable, zero-cost traffic engines that drive revenue.",
       "commentCount": 0,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "hqKfhWGwO-Y": {
+      "checkedAt": "2026-08-22T19:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Comment \"BASE\" for the repo link\n\nClaude doesn't know your rules. It's pretending.\n\nEvery fresh session you re-paste the same context. Thousands of tokens. Gone.\n\nBASE turns your rules and projects into a knowledge graph.\n\nGlobal rules load on start. Say \"dev\" and a hook pulls only the dev domain.\n\n70x fewer tokens. Behavior that holds.\n\n#ClaudeCode\n#AItools\n#Automation\n#AIWorkflow\n#BuildInPublic",
+      "commentCount": 2,
+      "likeCount": 4,
+      "comments": [
+        {
+          "id": "Ugz6NYXc56Gva5icZFt4AaABAg",
+          "author": "@charlieautomates",
+          "text": "🚨🔑 Repo link and playbook attached here: https://charlieautomates.com/free-resources/#base",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T19:19:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "Ugw4iclALzuJdlQDR9d4AaABAg",
+          "author": "@darwingarciasalgado",
+          "text": "Base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T19:36:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/w75avGUUfNgTGZbft9RohTXm3Zfuc3Y74ZMZGKTu5aCU44hkdaTTeTC8YNStOmuwPQoCaWwprw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-22T19:53:15Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "m3BgNXyi_Iw": {
+      "checkedAt": "2026-08-22T19:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI Automation Consulting (Solve Your Revenue Bottlenecks with Charlie OS): https://charlieautomates.com/charlie-os-vs/\n————————————\nSkool for Claude Mastery (choose premium for weekly calls): https://www.skool.com/cc-strategic-ai/about\n————————————\nThe 6-Figure Claude Estate Hustle Series (Training Replay): https://charlieautomates.com/claude-estate-register/?utm_source=Apify-Lead-YT\n————————————\n\nVideos referenced:\n\n- Claude Code Beginners Course (VS Code): https://youtu.be/vaW_MCv2AY0\n\n\nOther 🔑 resources:\n\nRE Walkthrough Pro Skill (APIFY & HIGGSFIELD links inside this link as well): https://www.charlieautomates.com/free-resources/#re-walkthrough-pro\n\n————————————\n\nTimeline:\n00:00 Example & Intro\n00:54 Tools and Skills Needed\n01:30 VS Code Setup and Commands\n02:04 Install Higgsfield and Apify\n03:20 Pick a Zillow Listing\n04:10 Run the Walkthrough Flow\n04:47 How the Files Generate\n06:30 Upgraded Skills and Leads\n08:35 Approve Generation\n09:13 Review Scenes and MD\n09:46 Final Video and Fixes\n10:38 Wrap Up\n\n\n#ClaudeCode #Zillow #AIVideo",
+      "commentCount": 13,
+      "likeCount": 61,
+      "probeClient": "web_embedded"
+    },
+    "WticsCjtNrQ": {
+      "checkedAt": "2026-08-22T19:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "An AI was given a test. So it hacked the company that made the test to steal the answers.\n\nLast week OpenAI was measuring how good its newest models are at hacking, so it turned the safety filters off and sealed the AI in a box with no internet. The AI couldn't solve the puzzle the normal way, so it broke out of the box, gave itself more power, reached the open internet, and hacked into Hugging Face — the company that stores most of the AI world's models. It stole the test answers straight from their live database, using flaws no human had ever reported, against a system it had never seen the code for.\n\n→ OpenAI is calling it possibly the first incident of its kind\n→ The AI chained a real, novel attack in the wild completely on its own\n→ The safety filters were off on purpose, to measure the worst case\n→ The lesson for builders: treat your AI agents like they will try to escape\n\nLinks:\n• OpenAI incident report: https://openai.com/index/hugging-face-model-evaluation-security-incident/\n\nComment \"SANDBOX\" and I'll send you OpenAI's full report on what happened.\nAre we ready for this, or not even close?\n\n#AI #OpenAI #HuggingFace #AIsecurity #cybersecurity #AIagents #infosec #machinelearning #tech\n\n#Shorts",
+      "commentCount": 3,
+      "likeCount": 18,
+      "probeClient": "web_embedded"
+    },
+    "YHHtKv_XQig": {
+      "checkedAt": "2026-08-22T19:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 How to Start an AI Automation Agency in the USA in 2027?\n\nAI automation is becoming one of the biggest opportunities for entrepreneurs, freelancers, and digital marketers. In this video, I’ll show you how to start an AI Automation Agency in the USA in 2027, even if you’re starting from scratch.\n\nYou’ll learn how AI automation agencies work, what services you can offer to US businesses, how to find your first clients, which AI tools can help you build automated systems, and how you can turn AI automation into a scalable business.\n\n🔥 In this video, you’ll learn:\n✅ How to start an AI Automation Agency in 2027\n✅ How AI automation agencies make money\n✅ Best AI automation services to sell in the USA\n✅ How to find high-paying US clients\n✅ AI agents & business workflow automation\n✅ AI automation tools for beginners\n✅ How to create your first agency offer\n✅ How to get your first AI automation client\n✅ AI automation agency pricing & business model\n✅ How to scale an AI automation agency\n\nWhether you're a beginner, freelancer, agency owner, or entrepreneur, this video can help you understand the real opportunity behind AI automation in 2027.\n\n💡 If you're serious about building an online business using AI, watch the video until the end!\n\n👉 Subscribe for more videos about AI automation, AI business ideas, digital agencies, AI tools, and online income opportunities.\n\n#AIAutomation #AIAutomationAgency #AIAgency #AIBusiness #AutomationAgency #AI2027 #BusinessAutomation #AIAgents #MakeMoneyWithAI #USA",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "B_VSCdQDmOM": {
+      "checkedAt": "2026-08-22T19:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 How I Got Facebook Content Monetization Using AI | High RPM USA Content Tutorial (2026)\n\nWant to create high-RPM Facebook content using AI? In this complete step-by-step tutorial, I show you the exact workflow I personally use to create AI-powered historical storytelling videos using ChatGPT, Google Flow (Veo 3), and simple editing.\n\nIf you're trying to grow a Facebook page, target USA & UK audiences, and improve your chances of getting Facebook Content Monetization, this tutorial is for you.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🔥 **5 VIRAL FACEBOOK NICHES — COMPLETE PACKAGE!**\n\n🎬 Viral Examples + Source Pages + AI Video Prompts\n💰 **ONLY ₹5.99** | 🔥 **97% OFF**\n\n👉 **🛒 GET IT NOW:** https://kreato.co.in/www-bikas-online  💲📌\n\n📍FREE PROMPT :: https://www.bikas.online/2026/08/us-viral-wildlife-master-prompt.html\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📩 **Business Enquiries:**\n[sarkarbusiness61@gmail.com]\n\n🌐 **Connect With Me:**\nInstagram → instagram.com/bikaslearns\n\n--------------------------------------------------------------------------------\n\n🛠️ Tools Used\n\n✅ ChatGPT\n✅ Google Flow (Veo 3)\n✅ Filmora\n✅ Meta Business Suite\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n📱 Cloud Phone Workflow\n\nIn this video, I also share the cloud phone workflow that I personally use to manage multiple Facebook pages and social media accounts more efficiently.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n⚠️ Disclaimer\n\n• This video is created for educational and informational purposes only.\n\n• Everything shown in this tutorial is based on my personal workflow and experience.\n\n• Facebook Content Monetization invitations are never guaranteed. Eligibility depends on many factors, including originality, content quality, audience engagement, account history, and compliance with Meta's latest policies.\n\n• Your results depend on your own effort, consistency, content quality, and following platform policies.\n\n• The cloud phone software shown in this video is one of the tools I personally use in my workflow. Please evaluate any software or service yourself before deciding whether it suits your needs.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n🔥 Subscribe to JD Weekly for More Content\n\n✔ Facebook Content Monetization\n✔ AI Content Creation\n✔ ChatGPT Tutorials\n✔ Google Flow (Veo 3)\n✔ Facebook Growth Tips\n✔ Online Earning\n✔ AI Automation\n\n👍 If this video helped you, please Like, Share & Subscribe.\n\n💬 Have a question? Leave a comment below—I read and reply to as many comments as I can.\n\n❤️ Thanks for watching!\n\n#FacebookMonetization #AIContent #ChatGPT #GoogleFlow #Veo3 #FacebookCreator #FacebookReels #HighRPM #JDWeekly",
+      "commentCount": 17,
+      "likeCount": 81,
+      "probeClient": "web_embedded"
+    },
+    "4G9CSgPHaDs": {
+      "checkedAt": "2026-08-22T19:53:15Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔗 Free Resource Guide : https://judeolaboboye.notion.site/day39\n\nOne Telegram command. Three API calls. One Claude synthesis. \nYour active clients, monthly revenue in dollars and naira, \nand live exchange rate — delivered to your phone in 8 seconds.\n\nDay 39 of the 60-Day AI Automation Sprint — the Layer 3 capstone.\nEvery skill from Days 26–38 in one scenario: Telegram webhook trigger, \nNotion database query, Paystack transaction history, Frankfurter exchange rate, \nand Claude synthesising all three into a formatted Telegram report.\n\nYou'll learn:\n✅ The full Layer 3 skills retrospective — 14 days in one build\n✅ Paystack /transaction list endpoint (new — not the /initialize from Day 33)\n✅ Querying Notion with a filter for only active clients\n✅ Passing raw JSON arrays to Claude — it reads structured data naturally\n✅ Constraining Claude's HTML output to Telegram-safe tags\n✅ Specifying exact output structure in the prompt\n✅ Why max_tokens: 400 for a concise report\n✅ The security filter: only your Telegram ID can trigger the snapshot\n✅ The MCP connection: this is what an agent does without the command\n✅ Layer 4 preview: the autonomous reasoning layer\n\nChapters:\n000:00 Introduction and Recap\n01:28 Core Concepts\n02:29 Resource Sharing\n04:34 New Build Challenge\n07:11 Technical Implementation\n09:31 Efficiency and Benefits\n13:40 Conclusion\n.................................................\n\n📚 60-DAY SERIES PLAYLIST: https://youtube.com/playlist?list=PLH_O0SNuI2Q0&si=4Elz3SSmqoQOBfDb\n\n\n#APIAuthentication #OAuth2Tutorial #BearerToken #AIAutomation #WorkflowAutomation #MakeComTutorial #Layer3 #n8n #MakeComvsZapier #workflowautomation #aiautomationagency  #nocodeautomation  #makecom #zapier #automationtools  #NirvanaXJude #MakeComTutorial #MakeComDebugging #workflowautomation   #nocodeautomation  #Make.ComTutorial #aiautomation #day30     \n\n➡️ If this is your first video: I'm Jude (nirvana). I run a two person AI growth consultancy with my partner. We've done work for founders and startups and we partner with agencies that need AI services as an extra team on a request basis. In plain English: we build systems that help growth-stage companies reach investors who actually fund their kind of business, and we work with startup founders to grow. If that's you, DM me on X anytime.\nIt hasn't always been this way. Before this, my partner and I built a business together with a couple other for about four years while we were students at a university in Nigeria. I also taught over 200 people in person and 500+ more online (More with no exact number), all for free, and it was never actually profitable. The business we were building crashed, and we learned more from that than from anything that went right.\nI make these videos because most AI content online is hype. You think you're learning, but it's fake knowledge, nothing you can act on, and the moment something new drops you're lost again. So I teach AI without the hype, foundation first. We split it into 7 layers of AI, 5 of which are ready and in this series, with the last 2 still being built.\nI'm 23, not at the end and would like to believe i'm just starting. It was never easy getting here and the one thing that separated me from people in the same rooms was clarity, knowing which path I was aiming for, and being intentional about the growth. If I can do this at this pace, so can you. So.....Good luck!, try to drop a comment so i know where you're at and.....Godspeed. \n~ nirvana",
+      "commentCount": 0,
+      "likeCount": 1,
       "probeClient": "web_embedded"
     }
   }

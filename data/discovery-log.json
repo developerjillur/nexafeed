@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T18:53:54Z",
+  "updatedAt": "2026-08-22T19:53:15Z",
   "items": [
+    {
+      "id": "hqKfhWGwO-Y",
+      "type": "short",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-22T19:17:19Z",
+      "firstSeenAt": "2026-08-22T19:53:15Z"
+    },
+    {
+      "id": "YHHtKv_XQig",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bots and Brand",
+      "publishedAt": "2026-08-22T19:27:15Z",
+      "firstSeenAt": "2026-08-22T19:53:15Z"
+    },
+    {
+      "id": "B_VSCdQDmOM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "IllumiBikas",
+      "publishedAt": "2026-08-22T05:53:15Z",
+      "firstSeenAt": "2026-08-22T19:53:15Z"
+    },
+    {
+      "id": "4G9CSgPHaDs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nirvana | AI Automation",
+      "publishedAt": "2026-08-21T22:53:15Z",
+      "firstSeenAt": "2026-08-22T19:53:15Z"
+    },
     {
       "id": "KNmDW5HuZRE",
       "type": "long",
@@ -21670,6 +21702,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-22T19:53:15Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
