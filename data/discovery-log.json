@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T03:53:17Z",
+  "updatedAt": "2026-08-22T04:53:18Z",
   "items": [
+    {
+      "id": "F3FnnHNcLos",
+      "type": "short",
+      "source": "primary",
+      "channel": "Vaibhav Sisinty",
+      "publishedAt": "2026-08-22T04:13:26Z",
+      "firstSeenAt": "2026-08-22T04:53:18Z"
+    },
+    {
+      "id": "O98iVkfBM-o",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Rebuilding Success",
+      "publishedAt": "2026-08-21T15:53:18Z",
+      "firstSeenAt": "2026-08-22T04:53:18Z"
+    },
     {
       "id": "Vz6bXXoAYqM",
       "type": "long",
@@ -19253,15 +19269,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T03:53:34Z",
-      "new": 3,
-      "long": 3,
-      "shorts": 0,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "AI automation"
-    },
-    {
       "runAt": "2026-08-08T04:53:35Z",
       "new": 5,
       "long": 4,
@@ -21240,6 +21247,15 @@
       "channelsChecked": 33,
       "warnings": 13,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-22T04:53:18Z",
+      "new": 2,
+      "long": 1,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 20,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
