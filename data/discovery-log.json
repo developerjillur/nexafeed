@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T15:53:46Z",
+  "updatedAt": "2026-08-23T16:53:06Z",
   "items": [
+    {
+      "id": "oL5iHasoVn0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-23T16:14:14Z",
+      "firstSeenAt": "2026-08-23T16:53:06Z"
+    },
+    {
+      "id": "lWqZMgclCt0",
+      "type": "short",
+      "source": "primary",
+      "channel": "Nick Automates",
+      "publishedAt": "2026-08-23T15:55:15Z",
+      "firstSeenAt": "2026-08-23T16:53:06Z"
+    },
+    {
+      "id": "nrb3zUu5Bis",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Passionate creator Shreya ",
+      "publishedAt": "2026-08-23T15:59:06Z",
+      "firstSeenAt": "2026-08-23T16:53:06Z"
+    },
+    {
+      "id": "vsxylILbYXY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Full Course",
+      "publishedAt": "2026-08-23T14:53:06Z",
+      "firstSeenAt": "2026-08-23T16:53:06Z"
+    },
+    {
+      "id": "eNRrGJLLg64",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI BORDER",
+      "publishedAt": "2026-08-23T10:53:06Z",
+      "firstSeenAt": "2026-08-23T16:53:06Z"
+    },
+    {
+      "id": "725KcQBH6d4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Divine 1995 Tech ",
+      "publishedAt": "2026-08-23T08:53:06Z",
+      "firstSeenAt": "2026-08-23T16:53:06Z"
+    },
+    {
+      "id": "yAIEIA60SZY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bolder Digital",
+      "publishedAt": "2026-08-23T06:53:06Z",
+      "firstSeenAt": "2026-08-23T16:53:06Z"
+    },
     {
       "id": "AhgbthKpncQ",
       "type": "long",
@@ -22646,6 +22702,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-23T16:53:06Z",
+      "new": 7,
+      "long": 5,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
