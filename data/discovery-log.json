@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T09:53:05Z",
+  "updatedAt": "2026-08-23T10:53:30Z",
   "items": [
+    {
+      "id": "hJ0fwCM4zsQ",
+      "type": "short",
+      "source": "primary",
+      "channel": "Ishan Sharma",
+      "publishedAt": "2026-08-23T10:49:46Z",
+      "firstSeenAt": "2026-08-23T10:53:30Z"
+    },
+    {
+      "id": "nIAGutGj4wc",
+      "type": "short",
+      "source": "primary",
+      "channel": "Lead Gen Man",
+      "publishedAt": "2026-08-23T10:39:26Z",
+      "firstSeenAt": "2026-08-23T10:53:30Z"
+    },
+    {
+      "id": "_MNFCinf0hA",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Adventurer",
+      "publishedAt": "2026-08-23T10:35:45Z",
+      "firstSeenAt": "2026-08-23T10:53:30Z"
+    },
+    {
+      "id": "8tgKAz7G-lA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The AI Girl",
+      "publishedAt": "2026-08-23T10:46:30Z",
+      "firstSeenAt": "2026-08-23T10:53:30Z"
+    },
+    {
+      "id": "LMs4ApP3_3E",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Musadiq Pro Skills ",
+      "publishedAt": "2026-08-23T04:53:30Z",
+      "firstSeenAt": "2026-08-23T10:53:30Z"
+    },
+    {
+      "id": "vEBZO8dRsNU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AgenticEngineering",
+      "publishedAt": "2026-08-23T04:53:30Z",
+      "firstSeenAt": "2026-08-23T10:53:30Z"
+    },
+    {
+      "id": "k2yZtxkGqHs",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TrainWithShubham (English)",
+      "publishedAt": "2026-08-23T03:53:30Z",
+      "firstSeenAt": "2026-08-23T10:53:30Z"
+    },
     {
       "id": "7HdlEVkhfu0",
       "type": "long",
@@ -22352,6 +22408,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-23T10:53:30Z",
+      "new": 7,
+      "long": 4,
+      "shorts": 3,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }

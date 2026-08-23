@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T09:53:05Z",
+  "updatedAt": "2026-08-23T10:53:30Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9212,10 +9212,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-23T09:53:05Z",
+      "checkedAt": "2026-08-23T10:53:30Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -9241,7 +9241,7 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-23T09:53:05Z",
+      "checkedAt": "2026-08-23T10:53:30Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -10964,19 +10964,19 @@
       "probeClient": "web_embedded"
     },
     "M7H6aT8klAs": {
-      "checkedAt": "2026-08-22T10:53:23Z",
+      "checkedAt": "2026-08-23T10:53:30Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 4,
-      "likeCount": 26,
+      "likeCount": 33,
       "comments": [
         {
           "id": "UgxnXXeqBH4EIOBLP8B4AaABAg",
           "author": "@patrickmeares3837",
           "text": "Guide",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T10:43:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_neNHWmxAfKMcq_u3C6Ybm1GIez8cXRv4shSNicKrtdcy8=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -10986,7 +10986,7 @@
           "author": "@JudeAlattraqchi",
           "text": "Guide",
           "likeCount": 1,
-          "publishedAt": "2026-08-22T05:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/lNm54pDEdJb_1k-7tDWKTkJCvA1yxw6NR7HEvOs-RHFKdBWaUNq2CKPzPPLZv1q22lZmc0MKBQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -10996,7 +10996,7 @@
           "author": "@chadrachal",
           "text": "Guide",
           "likeCount": 1,
-          "publishedAt": "2026-08-22T03:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kEFZP6EaHHAsGt4TlY0egRMqUkvOvyh4SPhSNiOQgcXA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11012,7 +11012,7 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T10:53:23Z",
+      "commentsFetchedAt": "2026-08-23T10:53:30Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -12828,49 +12828,121 @@
       "probeClient": "web_embedded"
     },
     "tkCFMDBwVzw": {
-      "checkedAt": "2026-08-22T10:53:23Z",
+      "checkedAt": "2026-08-23T10:53:30Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "learn how to monetize your channel before new rules",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-22T10:53:23Z",
+      "commentCount": 1,
+      "likeCount": 14,
+      "comments": [
+        {
+          "id": "UgziY9__PP0iBonZEeN4AaABAg",
+          "author": "@HUSAIN_RAZA-H4x",
+          "text": "Process",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/8cUx5Rjaeo8f84fPB_MC_LfxlhHH0gp4y_J_k_Ipk1gdv88_hdYtL0TMkRN2LyscPlZ-OSx6=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-23T10:53:30Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "d6QgRIUzUOE": {
-      "checkedAt": "2026-08-22T10:53:23Z",
+      "checkedAt": "2026-08-23T10:53:30Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "✅ What Claude Cookbooks actually is\n✅ MIT licensed, 50k+ GitHub stars, fully free\n✅ Recipes: classification, summarization, RAG, customer service, vision\n✅ Advanced: prompt caching + JSON mode\n✅ Comment \"Cook\" for the direct link\n\nFollow for more on AI Agents, MCP, Claude Code, and dev productivity.\n\nclaude cookbooks, anthropic github, claude api tutorial, free ai code, claude prompt caching, rag with claude, json mode claude, ai agent recipes, claude api key setup, CodingSimplifiedSpace",
-      "commentCount": 1,
-      "likeCount": 3,
+      "commentCount": 2,
+      "likeCount": 52,
       "comments": [
+        {
+          "id": "Ugy9fOe-IRDwCg0kftp4AaABAg",
+          "author": "@FMohiuddin",
+          "text": "Cookbook",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1YRi8i8TpTnKtMIARSi9xPLn2rKU-ONxy_O_TrQ3cSvg7zMr2VhNJEvOs1oIoKW7QLA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgyZTzhhAKLdPf95mv54AaABAg",
           "author": "@AnushkaSatav",
           "text": "cookbook",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T10:40:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lN1r14JyVE1HV827fOA4jwcUpML9JATe2vub3wBZwgdO1_u1mEpcWHSejRd9oj5lcaaA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T10:53:23Z",
+      "commentsFetchedAt": "2026-08-23T10:53:30Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "kwGFpT1oZrE": {
-      "checkedAt": "2026-08-22T10:53:23Z",
+      "checkedAt": "2026-08-23T10:53:30Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 17,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-22T10:53:23Z",
+      "commentCount": 5,
+      "likeCount": 204,
+      "comments": [
+        {
+          "id": "UgzlEUlCyIaY1hGdiAV4AaABAg",
+          "author": "@TheUtkarshhh",
+          "text": "Even with AI mapping human tissue on a chip with insane precision, would you personally trust a life-saving drug that has never been tested on an entire living animal system?",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/f25cg7-Gpt4o-HrFJk-kmpvwISgAjIux0s1VIUDNBpqLUZF6gMPvWH4wi79kqeSZk864gqTK=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "UgzijfqzVhEVKW5LyZB4AaABAg",
+          "author": "@vikosdoctor484",
+          "text": "Simple words? 😶",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m0O1IkdQkDs3b524h5VXicElf2YVTuRyPdPsRQB7I=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxoWKWhip1seqWk1Ph4AaABAg",
+          "author": "@NitinKasana-g3d",
+          "text": "❤",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l4B4Et88vx1Nh-zoDUEExgQBXEzbfzBCApObVOvXyroAdDDlnOOH5OFkBTiMvJuqH4ng=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzkzelpkbhiojTrEPl4AaABAg",
+          "author": "@thakursahab6552",
+          "text": "aur india vale khatu saym jate hai",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/TtJipCn4ZpAZb2Olsb5sRGQCtzZYcKSu9BbXCEQ7BEZk_HtO0pmpEkMboSmLRco6ODhyvdVz=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxNFmQgiLuUwN5hb5N4AaABAg",
+          "author": "@JyotirmoyKakati-w1t",
+          "text": "Interesting 👍",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lOLm-ghLUyNeR63dHQLSJT7oFA7-F0BvqAJOjYEsiDZh4OjaFpfbdHReaGhCF6aq9AXw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-23T10:53:30Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -13951,11 +14023,88 @@
       "likeCount": 0,
       "probeClient": "web_embedded"
     },
-    "qIjcxleTw4M": {
-      "checkedAt": "2026-08-23T09:53:05Z",
-      "embedAllowed": false,
+    "hJ0fwCM4zsQ": {
+      "checkedAt": "2026-08-23T10:53:30Z",
+      "embedAllowed": true,
       "availability": "public",
-      "failureReason": "embed_disabled"
+      "description": "📸 Instagram: https://bit.ly/ishansharma7390ig\n\nJoin MarkitUpX Discord Server: https://discord.gg/fwSpTje4rh\n\nTimestamps\n\n😁 About Me: https://bit.ly/aboutishansharma\n📱 Twitter: https://bit.ly/ishansharma7390twt\n📝 LinkedIn: https://bit.ly/ishansharma7390li\n\n🌟 Please leave a LIKE ❤️ and SUBSCRIBE for more AMAZING content! 🌟\n\n3 Books You Should Read\n📈Psychology of Money: https://amzn.to/30wx4bW\n👀Subtle Art of Not Giving a F: https://amzn.to/30zwWbP\n💼Rework: https://amzn.to/3ALsAuz\n\nTech I use every day\n💻MacBook Air M1: https://amzn.to/2YWKPjG\n📺LG 29' Ultrawide Monitor: https://amzn.to/3aG0p5p\n🎥Sony ZV1: https://amzn.to/3ANqgDb\n🎙Blue Yeti Mic: https://amzn.to/2YYbiNN\n⽴Tripod Stand: https://amzn.to/3mVUiQc\n🔅Ring Light: https://amzn.to/2YQlzLJ\n🎧Marshall Major II Headphone: https://amzn.to/3lLhTDQ\n🖱Logitech mouse: https://amzn.to/3p8edOC\n💺Green Soul Chair: https://amzn.to/3mWIxZP\n\n✨ Tags ✨\n\n\n✨ Hashtags ✨",
+      "commentCount": 1,
+      "likeCount": 4,
+      "comments": [
+        {
+          "id": "Ugw-rlyRl1_uV245m3R4AaABAg",
+          "author": "@Pro_blue_gaming",
+          "text": "First coment 👍",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T10:52:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/fPuTlZEoUN1bmV-pUw46CKcMNxeewzCYlzE7_wrz_0a2AvIKUr2hWofEOD-Er1bCILlAhVitdw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-23T10:53:30Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "nIAGutGj4wc": {
+      "checkedAt": "2026-08-23T10:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Two hours of Netflix. Or five videos that put you ahead of 99% of people using Claude.\n\nZero to shipping in 30 minutes. Buzzwords finally sorted.\n\nThen it gets wild: hundreds of subagents finishing an entire project off one prompt, and automations that run daily without a Zapier bill.\n\nComment “VIDEOS” and the full watchlist goes straight to your DMs ⚡",
+      "commentCount": 0,
+      "likeCount": 1,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-23T10:53:30Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "_MNFCinf0hA": {
+      "checkedAt": "2026-08-23T10:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 2,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-23T10:53:30Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "8tgKAz7G-lA": {
+      "checkedAt": "2026-08-23T10:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Looking for the best AI code editor for your workflow? In this Cursor vs GitHub Copilot comparison, we put both tools to the test by generating landing pages and analyzing how they manage multi-file projects. See why Cursor AI is changing the game for developers in 2026.\n\nWe compare the direct coding experience of Cursor and GitHub Copilot. While both AI tools can write code, Cursor's autonomous agent stands out by directly editing multiple project files at once—eliminating the need to copy and paste snippets. We analyze their workflows, code structures, and design capabilities to help you decide which tool deserves a place in your development setup.\n\n🔗 Links:\nhttps://cursor.com/\nhttps://github.com/\n\n⏱️ Chapters:\n0:00 Introduction and setup\n0:17 Testing Cursor agent\n1:49 Evaluating Cursor results\n2:13 Testing GitHub Copilot\n2:52 Evaluating Copilot results\n3:02 Final comparison and winner\n\n🔔 Subscribe and join the AI Girl community to stay ahead in the rapidly evolving world of artificial intelligence. New AI tools, AI software reviews, tutorials and AI news, every week.\n👉 Subscribe here: https://www.youtube.com/@JoinTheAIGirl?sub_confirmation=1\n\nBusiness & Collaboration:\n📧 collab@aipromo.ai\n💬 WhatsApp: +1 (352) 722-6361\nTelegram: https://t.me/AiPromoOfficial\n\n⚠️ Disclaimer: This video is for educational and informational purposes only. Tools and features shown may change over time. Some links may be affiliate links that support the channel at no extra cost to you.\n\n#cursorai #githubcopilot #aicodeeditor #codingtools\n●▬▬▬▬▬▬▬▬ DISCLAIMER  ▬▬▬▬▬▬▬▬●\n\nThe above links may be affiliate links, when you click and purchase something, I could receive a little commission at no additional cost to you.\n\nThis video is for informational purposes only.\n\nSome videos on this Youtube Channel are Paid Promotions. This means the content creator was paid to make these videos! \n\nThank you & I hope you found this video valuable!\n\nIf you liked this video please make sure to:\n✅ Subscribe, ✅ Like & ✅ Comment!",
+      "commentCount": 0,
+      "likeCount": 39,
+      "probeClient": "web_embedded"
+    },
+    "LMs4ApP3_3E": {
+      "checkedAt": "2026-08-23T10:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "# YouTube Description\n\nWhat will happen to software development by 2030? 🤖💻\n\nAI is rapidly changing the way software is designed, coded, tested, secured and deployed. AI coding agents are moving beyond simple code suggestions toward more complete software-development workflows, while developers increasingly focus on architecture, problem solving, system design and human judgment.\n\nBut does this mean software developers will disappear?\n\nIn this video, we explore the future of software development in 2030 and ask some of the biggest questions facing programmers today:\n\n🔹 Will AI replace software developers?\n🔹 Will traditional programming disappear?\n🔹 What will AI coding agents be able to do?\n🔹 Will junior developer jobs be affected?\n🔹 What will developers actually do in 2030?\n🔹 Will natural-language programming become the new way to build software?\n🔹 Why will cybersecurity and software architecture become even more important?\n🔹 Which skills should developers learn today?\n🔹 Will Human + AI become the future of software engineering?\n\nThe future may not be about humans versus AI.\n\nIt may be about **humans working with AI**.\n\nAI can provide speed, automation and execution, while developers can provide direction, context, architecture, critical thinking and final judgment.\n\nSoftware development is already moving toward more agentic workflows, where AI systems can assist with implementation, testing, debugging and other parts of the development lifecycle.\n\nSo the real question is not:\n\n**“Will AI replace programmers?”**\n\nThe better question may be:\n\n**“How can programmers use AI to become more powerful?”**\n\nWatch until the end to discover what software development could look like in 2030 — and which skills may matter most in the AI era.\n\nIf you enjoy videos about **Artificial Intelligence, Software Development, Programming, Future Technology, AI Agents and the Future of Work**, make sure to subscribe.\n\n#AI #SoftwareDevelopment #Programming\n\n# YouTube Keywords\n\nAI software development\n\nsoftware development 2030\n\nfuture of software development\n\nfuture of coding\n\nAI coding\n\nAI coding agents\n\nagentic coding\n\nAI agents\n\nsoftware developers 2030\n\nwill AI replace software developers\n\nwill AI replace programmers\n\nwill AI replace coders\n\nprogramming in 2030\n\nfuture of programming\n\nAI programming\n\nAI developer tools\n\nAI software engineer\n\nAI software engineering\n\nAI developer\n\nAI coding tools\n\nAI generated code\n\nAI programming tools\n\nAI automation\n\nagentic software development\n\nAI agents software development\n\nAI coding agents 2026\n\nfuture of developers\n\nsoftware developer jobs\n\nprogramming jobs future\n\ncoding jobs future\n\njunior developer jobs\n\nAI and developers\n\nhuman AI collaboration\n\nAI vs programmers\n\nAI vs software developers\n\nfuture technology\n\nartificial intelligence future\n\nAI revolution\n\ntechnology 2030\n\nfuture of technology\n\nsoftware engineering future\n\nsoftware engineering 2030\n\ncoding future\n\nprogrammer future\n\ndeveloper career\n\nsoftware developer career\n\nlearn programming\n\nAI for developers\n\nfuture of AI\n\nAI technology\n\nAI trends 2026\n\nAI trends\n\ntechnology trends 2030\n\nvibe coding\n\nAI assisted coding\n\nnatural language programming\n\nautomated software development\n\nautonomous coding\n\nAI development\n\nmachine learning\n\ngenerative AI\n\nGenAI\n\nLLM coding\n\nAI agents 2030\n\n# YouTube Hashtags\n\n#AI\n\n#ArtificialIntelligence\n\n#SoftwareDevelopment\n\n#Programming\n\n#Coding\n\n#AICoding\n\n#AIAgents\n\n#AgenticAI\n\n#AgenticCoding\n\n#FutureOfCoding\n\n#FutureOfSoftwareDevelopment\n\n#SoftwareEngineering\n\n#AIProgramming\n\n#AIForDevelopers\n\n#Developers\n\n#Programmers\n\n#CodingFuture\n\n#TechFuture\n\n#FutureOfTechnology\n\n#AIRevolution\n\n#GenerativeAI\n\n#GenAI\n\n#MachineLearning\n\n#VibeCoding\n\n#AITools\n\n#TechTrends\n\n#AITrends\n\n#Technology2030\n\n#FutureOfWork\n\n#Tech",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "vEBZO8dRsNU": {
+      "checkedAt": "2026-08-23T10:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Why are experienced developers going 19% slower with AI coding agents? Learn the truth about responsibility migration in the new SDLC.\n\nThis video breaks down the shift of software engineering from code writing to system governance, focusing on the three dimensions of execution, decision, and accountability. We examine how the stages of the software development lifecycle are migrating to AI agents and what it means for the future of developer roles. Understanding this transition is crucial for engineering leaders and developers looking to remain competitive in the AI age.\n\nChapters:\n0:00 The Slower Developer Paradox\n0:41 Beyond Binary Ownership\n1:23 Requirements and Design\n2:03 Implementation & The Review Bottleneck\n2:36 Testing, Deployment, and Maintenance\n3:14 The Governing Forces and the Harness\n3:57 The Trajectory and the Accountability Reveal\n4:32 The Diagnostic Toolkit\n5:05 Conclusion: Govern the Migration\n\n#AICoding #SDLC #SoftwareEngineering #AIAgents #TechLeadership\n\nSubscribe for more deep dives into AI engineering and the future of software development.",
+      "commentCount": 3,
+      "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "k2yZtxkGqHs": {
+      "checkedAt": "2026-08-23T10:53:30Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn Claude Code in One Shot and go from Zero To Hero In Agentic AI - for the complete DevOps Live Classes, check out https://trainwithshubham.ai",
+      "commentCount": 4,
+      "likeCount": 42,
+      "probeClient": "web_embedded"
     }
   }
 }
