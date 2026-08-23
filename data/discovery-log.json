@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T17:53:11Z",
+  "updatedAt": "2026-08-23T18:53:21Z",
   "items": [
+    {
+      "id": "_QAvTjG842A",
+      "type": "short",
+      "source": "primary",
+      "channel": "TG Films Course",
+      "publishedAt": "2026-08-23T18:38:53Z",
+      "firstSeenAt": "2026-08-23T18:53:21Z"
+    },
+    {
+      "id": "8CM1n_Drr8s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Dr. Maryam Miradi",
+      "publishedAt": "2026-08-23T18:43:21Z",
+      "firstSeenAt": "2026-08-23T18:53:21Z"
+    },
+    {
+      "id": "xUCZIfi_Lgo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Shawn Builds AI",
+      "publishedAt": "2026-08-23T15:53:21Z",
+      "firstSeenAt": "2026-08-23T18:53:21Z"
+    },
+    {
+      "id": "N54mRNPMbl4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Technomics",
+      "publishedAt": "2026-08-23T14:53:21Z",
+      "firstSeenAt": "2026-08-23T18:53:21Z"
+    },
+    {
+      "id": "3iFMc6ELt7k",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Coding With Sagar",
+      "publishedAt": "2026-08-23T12:53:21Z",
+      "firstSeenAt": "2026-08-23T18:53:21Z"
+    },
+    {
+      "id": "eFf2OvkZxEM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "IBM Technology",
+      "publishedAt": "2026-08-23T11:53:21Z",
+      "firstSeenAt": "2026-08-23T18:53:21Z"
+    },
+    {
+      "id": "mUKbnBse0BY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Ai with Rajpalsinh ",
+      "publishedAt": "2026-08-23T08:53:21Z",
+      "firstSeenAt": "2026-08-23T18:53:21Z"
+    },
     {
       "id": "x55ILfHmzsk",
       "type": "short",
@@ -22752,6 +22808,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-23T18:53:21Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
