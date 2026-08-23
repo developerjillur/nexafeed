@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T12:53:42Z",
+  "updatedAt": "2026-08-23T13:53:45Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9212,10 +9212,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-23T12:53:42Z",
+      "checkedAt": "2026-08-23T13:53:45Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -13105,37 +13105,128 @@
       "probeClient": "web_embedded"
     },
     "1QtrdzKD6lE": {
-      "checkedAt": "2026-08-22T13:53:26Z",
+      "checkedAt": "2026-08-23T13:53:45Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 7,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-22T13:53:26Z",
+      "commentCount": 4,
+      "likeCount": 151,
+      "comments": [
+        {
+          "id": "Ugy472mX9mkf7LxUdWh4AaABAg",
+          "author": "@Ai.Vishnuvijayan",
+          "text": "https://www.cnvrted.com/",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/yhAqPsQdQNzWqs3n323bzwcDBcfNQt2XFJe9SntriwBCCx8kViE13reCfUPwZ_8coQAAPdj4wKg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        },
+        {
+          "id": "UgyNB_5FQM8AUbmyXzl4AaABAg",
+          "author": "@Ai.Vishnuvijayan",
+          "text": "Www.cnvrted.com",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/yhAqPsQdQNzWqs3n323bzwcDBcfNQt2XFJe9SntriwBCCx8kViE13reCfUPwZ_8coQAAPdj4wKg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": true
+        },
+        {
+          "id": "UgxvUGRwWwnK-acVLYd4AaABAg",
+          "author": "@vivekanand6810",
+          "text": "Lead",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lMrY9G10oHWxRAMC95Bt0ddIl92U7VPjf-6yaNZJmY9KM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzvEOj8JX4ZbQZLgQp4AaABAg",
+          "author": "@manishchopra2856",
+          "text": "lead",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_njMp9P5pDrqRaj4oHRodXslSma01EB2tIA4mBbGR7rDJoi92M1smujcI3N84wSKYdkGA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-23T13:53:45Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "8wQDXyGDKCo": {
-      "checkedAt": "2026-08-22T13:53:26Z",
+      "checkedAt": "2026-08-23T13:53:45Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 1,
-      "likeCount": 47,
+      "commentCount": 6,
+      "likeCount": 650,
       "comments": [
         {
           "id": "UgytOkK1Orx0SQJ7HjB4AaABAg",
           "author": "@100xEngineers",
           "text": "https://gemini.google/students/",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T13:32:00Z",
+          "likeCount": 3,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/lmQHSNqoTiUYSQmAD6ddVNxeMLwuezSj7JGn681txsIgDlDnHZrQU-JDaUSzGiSwnSZS7gFS=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
+        },
+        {
+          "id": "Ugz5J7PqofFM_n0jfE14AaABAg",
+          "author": "@sanjayreddy6451",
+          "text": "So asssss models, they deliberately downgrade after releasing their models",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m05AjyEku61Q9fb_mh3v0Z4QFgsfiGpjHCPlUIjYJRhnA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzY3frFn73nPG1yVDV4AaABAg",
+          "author": "@Founderframeshq",
+          "text": "Isn't it free for jio users that too pro version",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ezC10pjNBBK-PYaiVDHudjD64bDIyGt9NOfaTfXyLvssifqm2p2saHDL0pWPE61NORIhXxya=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxTgNfBv9XRcv5I4-54AaABAg",
+          "author": "@sankalp3385",
+          "text": "Model so bad that they are giving it for free",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/2OM1bvzyRtmC2wrmz83iIaiOdJT1NAd63LNIfdX6YnLHfCNf9uQTGlWlHbNOf5sGsIudX_a8Gag=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyWnciqsiB8gsPGPwN4AaABAg",
+          "author": "@hexven_in",
+          "text": "For class 12th students?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/eCgc8-kLkpqAXmyq7MCFVYdtjxQ9sQD1cLuKrPHvQlRYk8-ZOcMEMuEjowYAIKSmsO84S0nN4ys=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwZFezUDa55QU0Atfh4AaABAg",
+          "author": "@naren4",
+          "text": "thanks for the update",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T15:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k1kllQgr5y90_LJVt3bilJv_ohjumeljKiKReJj8CJTb18=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T13:53:26Z",
+      "commentsFetchedAt": "2026-08-23T13:53:45Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -14236,12 +14327,6 @@
       "likeCount": 57,
       "probeClient": "web_embedded"
     },
-    "qIjcxleTw4M": {
-      "checkedAt": "2026-08-23T12:53:42Z",
-      "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
-    },
     "O5rpsHmg9Js": {
       "checkedAt": "2026-08-23T12:53:42Z",
       "embedAllowed": true,
@@ -14249,6 +14334,117 @@
       "description": "🔥 Still Doing Manual Testing? Time to Upgrade Your Career!\n\nSwitch to Automation with Playwright + AI and become interview-ready with real project experience - https://topmate.io/rd_automation_learning/2263741\n\n📈 Need Direction? Book Career Guidance\n👉 https://topmate.io/rd_automation_learning/723078\n\n💼 Want to Crack Interviews Faster? Go for 1:1 Mentorship\n👉 https://topmate.io/rd_automation_learning/723079\n\nStop waiting. Start transitioning. Your Automation journey begins now 🚀\nThis video shares a **real QA success story** of a software tester who successfully cracked an **Automation Testing interview** and secured a job after consistent preparation and guidance.\n#QASuccessStory\n#AutomationTesting\n#SoftwareTesting\n#TestingJobs\n#QAInterview\n\nIn this video, you will learn:\n• How to prepare for Automation Testing interviews\n• What interviewers actually expect from QA candidates\n• Common mistakes testers make during interviews\n• How to transition from manual testing to automation\n• Real interview questions and preparation strategy\n\nThis success story is meant to **motivate freshers and experienced testers** who are struggling with interview calls or rejections.\n\n👉 Career guidance & digital learning resources:\n[https://topmate.io/rd_automation_learning/1261931](https://topmate.io/rd_automation_learning/1261931)\n\nIf you are preparing for **QA, Manual Testing, Automation Testing, or SDET roles**, this video will help you understand the real interview journey.\n\n👍 Like | 💬 Comment | 🔔 Subscribe for more QA success stories & interview guidance\nqa success story\nautomation testing job\nsoftware testing interview\nhow to get job in software testing\nautomation testing interview experience\nmanual to automation testing\nqa interview questions\ntesting interview preparation\nsdet interview\nsoftware tester career\nqa jobs india\nautomation testing roadmap",
       "commentCount": 1,
       "likeCount": 11,
+      "probeClient": "web_embedded"
+    },
+    "qZQMyrc46vM": {
+      "checkedAt": "2026-08-23T13:53:45Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 4,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-23T13:53:45Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "wyuv-uRIexg": {
+      "checkedAt": "2026-08-23T13:53:45Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Remember Miller's Planet from Interstellar? An entire world covered by ocean, shallow enough to walk through, deep enough to hide waves as tall as mountains.\nScientists have actually found a real candidate for that exact kind of world. Kepler-22b, confirmed by NASA in December 2011, was the first planet ever discovered inside the habitable zone of a Sun-like star. It's roughly twice the size of Earth, and everything about its distance and temperature appears set up for the possibility of liquid water.\nBut that comparison only takes us halfway. Scientists still don't know what you'd actually be standing on if you got there. Radial velocity measurements have only produced a loose upper limit on the planet's mass, not a precise enough figure to determine its composition. What we do know is its size, and a planet this large is unlikely to be a simple rocky world like Earth, which leaves two very different possibilities.\nOne is that Kepler-22b is a genuine ocean world, a rocky core buried beneath a global ocean hundreds of kilometres deep, essentially Miller's Planet, but real.\nThe other is the complete opposite. A mini-Neptune, layer after layer of thick gas with no solid surface anywhere at all, where pressure increases with depth until it would crush anything that fell into it.\nEither a world you could swim across entirely, or a world with nowhere to ever land.\nSource: NASA, Kepler Confirms First Planet in the Habitable Zone of a Sun-like Star (2011). NASA Exoplanet Archive, Kepler-22b.\n #UnknownWorlds #Interstellar #MillersPlanet #NASA #Kepler22b",
+      "commentCount": 5,
+      "likeCount": 11,
+      "comments": [
+        {
+          "id": "Ugy3DYmplbxpm7OjFEt4AaABAg",
+          "author": "@Motion_vers",
+          "text": "This made more mysterious about the space",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T13:53:56Z",
+          "authorThumbnail": "https://yt3.ggpht.com/UxkF7L1e2iXXszx5yxfbA3Dvx8rButYr-4fE9SL7vNbBL1xWDXR7w8k2kjP-olQN6Jed4aXb=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugwpj8V4HWfiCMJzldR4AaABAg",
+          "author": "@ChinniPandu-h7d",
+          "text": "Matlab cristopher nolan pehel hei assume kar liya tha 😮😮😮.",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T13:53:47Z",
+          "authorThumbnail": "https://yt3.ggpht.com/SrDJOzbc_zljVgeke3FHF2jFgTeErh7kY_wR0kzsU3XnAm03wV04itgrSY6-KqcRb20YGhtSFw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxToVfOnCiIkSqRPJN4AaABAg",
+          "author": "@tamannashaikh5039",
+          "text": "First again 7 seconds pin please",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T13:54:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n53n-R0KE2ehtCczTbewh_-cd2Gcvsp4ph3x-Hdk8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgysyMFSvlBoVowtI8B4AaABAg",
+          "author": "@ChinniPandu-h7d",
+          "text": "First comment bro 🎉🎉",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T13:54:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/SrDJOzbc_zljVgeke3FHF2jFgTeErh7kY_wR0kzsU3XnAm03wV04itgrSY6-KqcRb20YGhtSFw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxp4YIiVXDnYuF-xlt4AaABAg",
+          "author": "@RanjanaSolanki-w3g",
+          "text": "𝗛𝗲𝘆𝘆𝘆",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T13:54:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-WPruEngifbfolAJ9ooMYouWRIljSLSUdcbFXhpBKLR2w067aQRcH7LDc0zzrTdX9yg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-23T13:53:45Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "tN2Q_CrxWWI": {
+      "checkedAt": "2026-08-23T13:53:45Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I let Pine AI call my internet provider and negotiate for me. My Spectrum bill went from $90 a month down to $40 a month, locked in for 24 months, and I never picked up the phone once.\n\nTry Pine AI: https://www.19pine.ai/try/erictech\n10% off with this link\n\nThis video is sponsored by Pine AI.\n\nWhat you get out of it:\n\n- How the agent looks up competitor rates and writes a real plan before it dials\n- What it asks you for, and the two moments where you have to step in yourself\n- What a 44 minute call actually got me, and how the pricing works\n- Where ChatGPT already does this well, and where it stops\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping I built myself\n\nTimestamps:\n0:00 Intro\n1:27 Setup & Research\n3:46 The Strategy\n5:04 Friction & Billing\n6:40 The Call\n8:12 The Result\n8:46 vs ChatGPT\n10:03 Final Verdict\n\n#pineai #aiagents #aitools",
+      "commentCount": 1,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "MWvH7BRgwL8": {
+      "checkedAt": "2026-08-23T13:53:45Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "[Sponsor]\nSentry: Catch, trace, and fix bugs across your entire stack. Use code: prime for $100 in free sentry credits → https://trm.sh/sentry\n\nFull Episode:\nYoutube: https://www.youtube.com/watch?v=Lg2RYoA4-xE\nSpotify: https://open.spotify.com/episode/6OnDNoUW8A06lnUoVKeXOA\n\n[Description]\nDHH joins The Standup to talk about Omarchy Quattro, the new $8M Omarchy Foundation, and why he thinks 2026 is finally the year of the Linux desktop. Plus, AI agents, Linux security, developer burnout, Mac vs. Linux, and what building software looks like in the age of AI.\n\n[Chapters]\n00:00:00 - Intro\n00:01:01 - Omarchy Quattro\n00:02:35 - Sentry\n00:04:05 - Omarchy Plugins\n00:05:12 - HUGE Announcement\n00:07:43 - YEAR of the Linux Desktop (this time for real)\n00:10:41 - Overcoming battery life\n00:12:56 - Agents and Apples Eco System\n00:17:35 - What will the $8 Million do\n00:20:24 - Whos it for?\n00:21:13 - Supply chain attack solution\n00:27:46 - 1 vs 1000\n00:29:58 - QA Process\n00:38:43 - Linux is compromised\n00:41:46 - Outro\n\n[Hosts/Guests]\nPrime: https://thestanduppod.com/contributor/theprimeagen\nTeej: https://thestanduppod.com/contributor/teej-dv\nTrash: https://thestanduppod.com/contributor/trash\nDHH: https://thestanduppod.com/contributor/dhh\n\n[Partners]\nLinear: https://trm.sh/linear\nSentry: https://trm.sh/sentry\n\n[Socials]\nx.com/thestanduppod\ninstagram.com/thestanduppod\ntiktok.com/@thestanduppod\nfacebook.com/profile.php?id=61573286173150\n\n[Other Places to find us]\nSpotify: https://open.spotify.com/show/01A062kejnXFkJE01bjN5J\nRSS: thestanduppod.com/feed.xml\nClips: @TheStandupPodClips\nWebsite: thestanduppod.com\n\n[Tags]\nThePrimeagen, DHH, David Heinemeier Hansson, Omarchy, Omarchy Quattro, Linux, Linux desktop, year of Linux, Arch Linux, AI agents, AI coding, coding agents, software development, programming, developers, open source, Linux security, Hyprland, MacOS, Apple, Dell XPS, developer burnout, artificial intelligence, The Standup Podcast, Teej, Trash Dev, Sentry",
+      "commentCount": 50,
+      "likeCount": 214,
+      "probeClient": "web_embedded"
+    },
+    "PZC-3N3ej_A": {
+      "checkedAt": "2026-08-23T13:53:45Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "👉  Checkout the Google AI Professional Certificate on Coursera here: https://imp.i384100.net/9VBnd4\n\nDon't Waste 2026 Learning the Wrong Tech Skills\n\nThe tech job market is changing fast.\n\nEntry-level software engineering roles are becoming more competitive, while AI-related hiring is growing rapidly. If you're still spending 100% of your preparation time on LeetCode, generic full-stack development, and traditional interview prep, you may be preparing for the market of yesterday instead of the market of 2026.\n\nIn this video, I break down what's actually happening in the tech job market, why traditional preparation is no longer enough, which practical AI skills are becoming increasingly valuable, and the exact roadmap I would follow if I were starting my tech career today.\n\nI also share a practical 3-phase plan to balance DSA, projects, AI skills, internships, startups, and long-term career growth.\n\n🚀 What You'll Learn in This Video:\n\n✅ The current state of the tech job market in 2026\n\n✅ Why entry-level software engineering is becoming more competitive\n\n✅ The rise of AI engineering and AI-related jobs\n\n✅ Why generic full-stack skills alone may not be enough\n\n✅ Why LeetCode and DSA should not be your entire preparation strategy\n\n✅ How AI is changing expectations for junior engineers\n\n✅ The difference between interview preparation and real-world skills\n\n✅ Why practical AI skills are becoming increasingly important\n\n✅ How to build AI-integrated projects that stand out\n\n✅ Why you should start targeting startups alongside Big Tech\n\n✅ How to build a portfolio that demonstrates what you can actually do\n\n✅ How to use GitHub and LinkedIn to create public proof of your skills\n\n✅ A 0–6 month roadmap for balancing preparation and building\n\n✅ A 6–12 month roadmap for getting real industry experience\n\n✅ A 12–18 month strategy for staying ahead of the market\n\n✅ How to balance DSA, projects, AI learning and job applications\n\n🤖 Build Practical AI Skills with the Google AI Professional Certificate\n\nIn this video, I also talk about the Google AI Professional Certificate on Coursera and why structured, hands-on learning can be more valuable than simply watching AI tutorials.\n\nThe programme includes:\n\n✅ 6 short courses\n\n✅ Hands-on AI learning\n\n✅ Real exercises and practical projects\n\n✅ Capstone project\n\n✅ Hands-on experience with Gemini, NotebookLM and AI Studio\n\n✅ A certificate from Google\n\nFor a limited time and subject to applicable terms, enrolling also includes 3 months of Google AI Pro at no extra cost.\n\n📚 Resources & References Mentioned\n\nAI & Tech Job Market\n\nFinal Round AI – Computer Science Graduate Job Market\nhttps://www.finalroundai.com/blog/computer-science-graduates-face-worst-job-market-in-decades\n\nExtern – Computer Science Job Market 2026\nhttps://www.extern.com/post/computer-science-job-market-2026-guide\n\nThe Logical Indian – AI Jobs & Talent Gap in India\nhttps://thelogicalindian.com/ai-jobs-india-talent-gap-linkedin-121603/\n\nWEF – AI & Future of Jobs\nhttps://www.weforum.org/stories/2026/01/ai-has-already-added-1-3-million-new-jobs-according-to-linkedin-data/\n\nAI Career & Skills\n\nAI Engineering Jobs & Skills\nhttps://productleadersdayindia.org/blogs/ai-engineering-jobs-skills/ai-engineering-jobs-skills-hiring-wave.html\n\nAI Jobs & Hiring Trends\nhttps://www.herohunt.ai/blog/fastest-growing-ai-roles-in-2026-data-and-rankings/\n\nCareer & Job Search Platforms\n\nLinkedIn\nhttps://www.linkedin.com/\n\nWellfound\nhttps://wellfound.com/\n\nGitHub\nhttps://github.com/\n\n\n👍 If This Video Helped You:\n\nLike the video 👍\n\nSubscribe for practical content on careers, technology, AI, internships, freelancing and professional growth.\n\nShare this video with someone who is preparing for a tech career in 2026.\n\n💬 Comment below: Are you currently a fresher trying to break into tech, or are you already working and trying to add AI skills to your profile?\n\n👋 About Me\n\nI'm Shivangi Tiwari.\n\nFormer Software Engineer → Product Manager in Dubai → Founder of Brandinia.\n\nI create practical content around technology, AI, careers, internships, freelancing, productivity and professional growth.\n\n#TechCareers #AIJobs #ArtificialIntelligence #GenerativeAI #AIEngineering #SoftwareEngineering #TechJobs #CareerAdvice #TechCareer #Coding #DSA #SoftwareDeveloper #AI2026 #FutureOfWork #Programming #Internships #Freshers #MachineLearning #GoogleAI #Coursera",
+      "commentCount": 4,
+      "likeCount": 43,
+      "probeClient": "web_embedded"
+    },
+    "3m018sCJjrY": {
+      "checkedAt": "2026-08-23T13:53:45Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Let's build the web! 🌐 This is Day 1 of our Web Development series.\n\nToday we are covering:\n✅ What is Web/Software Development?\n✅ Introduction to HTML (The building blocks).\n✅ How to download VS Code & XAMPP (Step-by-step).\n✅ Your first \"Hello World\" program.\n\nNo prior knowledge is needed. Just bring your laptop and let's code! 💻\n\n👇 Download Links:\nVS Code:  https://code.visualstudio.com/\nXAMPP:  https://www.apachefriends.org/download.html\n\nDrop a comment below if you get stuck during installation—I reply to everyone! 👇\n\n#WebDev #HTML #Coding #VSCODE #Programming",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

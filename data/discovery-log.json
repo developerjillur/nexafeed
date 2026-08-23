@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T12:53:42Z",
+  "updatedAt": "2026-08-23T13:53:45Z",
   "items": [
+    {
+      "id": "wyuv-uRIexg",
+      "type": "short",
+      "source": "primary",
+      "channel": "Sid Curious",
+      "publishedAt": "2026-08-23T13:52:30Z",
+      "firstSeenAt": "2026-08-23T13:53:45Z"
+    },
+    {
+      "id": "qZQMyrc46vM",
+      "type": "short",
+      "source": "primary",
+      "channel": "AI Vishnu Vijayan",
+      "publishedAt": "2026-08-23T13:34:14Z",
+      "firstSeenAt": "2026-08-23T13:53:45Z"
+    },
+    {
+      "id": "tN2Q_CrxWWI",
+      "type": "long",
+      "source": "primary",
+      "channel": "Eric W Tech",
+      "publishedAt": "2026-08-23T13:00:36Z",
+      "firstSeenAt": "2026-08-23T13:53:45Z"
+    },
+    {
+      "id": "MWvH7BRgwL8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The PrimeTime",
+      "publishedAt": "2026-08-23T12:59:45Z",
+      "firstSeenAt": "2026-08-23T13:53:45Z"
+    },
+    {
+      "id": "PZC-3N3ej_A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Shivangi Tiwari",
+      "publishedAt": "2026-08-23T11:53:45Z",
+      "firstSeenAt": "2026-08-23T13:53:45Z"
+    },
+    {
+      "id": "3m018sCJjrY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "NobleSoft Academy",
+      "publishedAt": "2026-08-23T04:53:45Z",
+      "firstSeenAt": "2026-08-23T13:53:45Z"
+    },
     {
       "id": "2kOR1JtopnU",
       "type": "short",
@@ -22483,6 +22531,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-23T13:53:45Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
