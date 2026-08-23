@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T10:53:30Z",
+  "updatedAt": "2026-08-23T11:53:35Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9212,7 +9212,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-23T10:53:30Z",
+      "checkedAt": "2026-08-23T11:53:35Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9241,10 +9241,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-23T10:53:30Z",
+      "checkedAt": "2026-08-23T11:53:35Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -12974,26 +12974,97 @@
       "probeClient": "web_embedded"
     },
     "SuaPe2vBrVg": {
-      "checkedAt": "2026-08-22T11:53:24Z",
+      "checkedAt": "2026-08-23T11:53:35Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Everyone keeps waiting for their favorite tools to release an API before they automate anything.\n\nThe browser was the API this whole time. Claude for Chrome watches you work once, turns it into a skill, then runs it on a schedule. Comments, scraping, drafts, whatever eats your mornings.\n\n(comment CLAUDE and I’ll drop every single use case in your DMs 🚀)",
       "commentCount": 0,
-      "likeCount": 1,
+      "likeCount": 9,
       "comments": [],
-      "commentsFetchedAt": "2026-08-22T11:53:24Z",
+      "commentsFetchedAt": "2026-08-23T11:53:35Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "TV90l2vbxmY": {
-      "checkedAt": "2026-08-22T11:53:24Z",
+      "checkedAt": "2026-08-23T11:53:35Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "learn the full process of making faceless content for youtube",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-22T11:53:24Z",
+      "commentCount": 7,
+      "likeCount": 7,
+      "comments": [
+        {
+          "id": "UgzgWt7A5gu3QB0iAmx4AaABAg",
+          "author": "@TheFirstCluee",
+          "text": "Bro views nhi aate",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/E36d17dqhMA93K2u5eSlsGEBNxNsFpmnTT9zjpB-JzdKMYO3KO_1KzCZSQyYOK1Yq8RXHwz1FwU=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzqrVSZruo85BlfvQp4AaABAg",
+          "author": "@Makehathkachulha",
+          "text": "YouTube",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/mQdRjxtMcB14TtAyOSRkvVY1Zq0ig_4A4XOkr8-SmfqaFXu9XKYaQZ8YiYSB5-Or69IP_4UF=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugzi-tMV-niRu8e5L754AaABAg",
+          "author": "@quantivo-f8m",
+          "text": "youtube",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T08:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/lFdNZOaCPfDaB7_RoP7_YOBtMPrqqASk7MTwLNF81zNvR9nGlGRACmQ0jGPLGwCP6AvA29Yf=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzhuSORwcihWT3ygA14AaABAg",
+          "author": "@sparshgupta5900",
+          "text": "YouTube",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kutRVgt0XrQOgp-aw-wXz7RafBWDWxLH6vI3mGwRl4zD_6=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwpiShBWKeg5UOdVJ54AaABAg",
+          "author": "@NishantRaj-t6l",
+          "text": "YouTube",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mVYsh4_7tPnhk4WYSdJnsULsk1BHYmbthLeH2eoiV5JeggNIweaGnRuf_CWe9Mf5bHig=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxUlaV1h5lu40MJrFB4AaABAg",
+          "author": "@pajero-d1k",
+          "text": "Detail this topic Full video",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kQmoKU8jutFWahUO7_VzxGZDtZUKEyDA85aZRpQ-gUz-JKqbFVN4C9rKZwBSJ3zld_cg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwM6agzybMLub_Cgip4AaABAg",
+          "author": "@pajero-d1k",
+          "text": "Bro full video leke aao plz",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kQmoKU8jutFWahUO7_VzxGZDtZUKEyDA85aZRpQ-gUz-JKqbFVN4C9rKZwBSJ3zld_cg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-23T11:53:35Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -14104,6 +14175,24 @@
       "description": "Learn Claude Code in One Shot and go from Zero To Hero In Agentic AI - for the complete DevOps Live Classes, check out https://trainwithshubham.ai",
       "commentCount": 4,
       "likeCount": 42,
+      "probeClient": "web_embedded"
+    },
+    "WIxn9k1YSPc": {
+      "checkedAt": "2026-08-23T11:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "AI is changing content creation and personal branding at rapid speed, but most people are using it completely wrong!\n\nIn this video I'm breaking down how to use AI for business, content marketing, analytics, automation and productivity without destroying your personal brand.\n\nWhy AI-generated content is becoming generic, where tools like ChatGPT and Claude fall short, and how AI automation can save time, increase output and help scale an online business.\n\nWatch how top coaches escape the grind and scale to £100K/month using systems that run without them: https://www.7fss.com/7fss-vsl-a?el=AiCollapse\n\nWant a FREE copy of our 5C Million Dollar Content & Ads Course - Click here : https://www.charlieslivetraining.com/7fss-4c?el=AiCollapse\n\nConnect With Me On Other Platforms:\n\nInstagram: @charliejohnsonfitness\nhttps://www.instagram.com/charliejohnsonfitness/\n\nInstagram: @sevenfigurescalingsystems\nhttps://www.instagram.com/sevenfigurescalingsystems/\n\nPodcast: The Charlie Johnson Show\nhttps://podcasts.apple.com/ae/podcast/physically-jacked-financially-stacked/id1671480628\n\nLinkedIn : Charlie Johnson\nhttps://www.linkedin.com/in/charlie-johnson-fitness/\n\n00:06 – Why AI Is Making Your Content Worse\n\n01:00 – The Problem With Instant Answers\n\n02:05 – The AI Mistake Most People Don’t See\n\n03:00 – What You Should Actually Use AI For\n\n05:03 – The AI System Running Our Business",
+      "commentCount": 4,
+      "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "oC42Ei5wj6g": {
+      "checkedAt": "2026-08-23T11:53:35Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Artificial Intelligence is transforming our lives, but its rapid growth also raises serious concerns. From misinformation and deepfakes to privacy risks and misuse, what are the darker sides of AI? Watch this Burning Topic for a closer look at the hidden risks of artificial intelligence.\n\n#AI #ArtificialIntelligence #AIDangers #AISafety #Deepfake #AIThreats #Technology #TechNews #BurningTopic #TV9cut \n\n🔔 Subscribe to TV9 Telugu & press the Bell Icon for breaking news alerts.\n👍 Like | Comment | Share\n\nFollow TV9 Telugu on Social Media:\n► TV9 News App : https://onelink.to/de8b7y\n► తాజా వార్తల కోసం : https://tv9telugu.com/\n► Follow us on X : https://twitter.com/Tv9Telugu\n► Like us on Facebook: https://www.facebook.com/tv9telugu\n► Follow us on Instagram: https://www.instagram.com/tv9telugu\n► Follow us on Threads: https://www.threads.net/@tv9telugu\n► Follow us on WhatsApp: https://whatsapp.com/channel/0029VaARkBWBFLgLrGrDcX3N",
+      "commentCount": 5,
+      "likeCount": 60,
       "probeClient": "web_embedded"
     }
   }

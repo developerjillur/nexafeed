@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T10:53:30Z",
+  "updatedAt": "2026-08-23T11:53:35Z",
   "items": [
+    {
+      "id": "WIxn9k1YSPc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Charlie Johnson",
+      "publishedAt": "2026-08-23T10:53:35Z",
+      "firstSeenAt": "2026-08-23T11:53:35Z"
+    },
+    {
+      "id": "oC42Ei5wj6g",
+      "type": "long",
+      "source": "secondary",
+      "channel": "TV9 Telugu Live",
+      "publishedAt": "2026-08-23T00:53:35Z",
+      "firstSeenAt": "2026-08-23T11:53:35Z"
+    },
     {
       "id": "hJ0fwCM4zsQ",
       "type": "short",
@@ -22417,6 +22433,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-23T11:53:35Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
