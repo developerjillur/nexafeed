@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T16:53:06Z",
+  "updatedAt": "2026-08-23T17:53:11Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -14686,6 +14686,48 @@
       "commentCount": 0,
       "likeCount": 0,
       "probeClient": "web_embedded"
+    },
+    "x55ILfHmzsk": {
+      "checkedAt": "2026-08-23T17:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Claude’s AI watermark was supposed to make AI-generated content easier to identify. But the idea ran into a problem almost immediately.\n\nIn this video, we look at the growing challenge of identifying AI-generated content and why Claude’s watermark raises a much bigger question about the future of AI detection.\n\nThe basic idea behind an AI watermark is simple: if an AI system generates an image, video, audio file, or other piece of content, it can include an identifying signal that helps people or detection systems recognize that the content was created by AI.\n\nThat sounds useful.\n\nBut according to the story covered in this video, within roughly 48 hours of the watermark being introduced, a tool had already appeared that could remove it.\n\nAnd that is where things get interesting.\n\nIf AI can generate content, another tool can remove the signal designed to identify that content, and AI detection systems themselves are not perfectly reliable, then the problem becomes much more complicated.\n\nNow imagine the chain:\n\nAI creates the content.\n\nA tool removes the watermark.\n\nAnother system tries to detect whether the content was created by AI.\n\nAnd the detector has to make a decision based on incomplete or altered signals.\n\nThis creates a potential cat-and-mouse game between AI generation, watermark removal, and AI detection.\n\nThe bigger issue is not really the watermark itself.\n\nIt is whether we can build a reliable way to establish the origin of digital content in a world where AI-generated media becomes increasingly realistic and increasingly easy to modify.\n\nThat matters for creators, businesses, journalists, educators, platforms, and everyday internet users.\n\nBecause as AI-generated content becomes normal, one question becomes increasingly difficult to answer:\n\nWas this actually created by a human, or was AI involved somewhere along the way?\n\nThis video breaks down that problem, why AI detection is difficult, and what the future of identifying AI-generated content could look like.\n\nWhy Subscribe to bpro?\n\nbpro is focused on helping you understand AI beyond the hype.\n\nHere, you’ll learn about generative AI, AI tools, AI workflows, AI agents, prompt engineering, no-code AI, AI for business, and the practical ways AI is changing how people work and build.\n\nInstead of simply telling you what happened, BPRO focuses on why it matters, what is changing underneath the surface, and what you should understand about the bigger AI ecosystem.\n\nIf you want practical AI knowledge without unnecessary technical complexity, subscribe to bpro and stay ahead of the next major shift in AI.\n\n### Hashtags\n\n#AI #Claude #ArtificialIntelligence #AIDetection\n\nAI generated content, AI generated content detection, how to detect AI generated content, AI watermark, Claude AI watermark, Claude AI, AI detection, AI detector, how AI detection works, can AI content be detected, AI content detection, artificial intelligence, generative AI, AI tools, AI news, AI explained, what is AI watermark, how AI watermark works, AI generated images, AI generated videos",
+      "commentCount": 0,
+      "likeCount": 10,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-23T17:53:11Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "frpnRerpr30": {
+      "checkedAt": "2026-08-23T17:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Claude’s AI watermark was supposed to make AI-generated content easier to identify. But the idea ran into a problem almost immediately.\n\nIn this video, we look at the growing challenge of identifying AI-generated content and why Claude’s watermark raises a much bigger question about the future of AI detection.\n\nThe basic idea behind an AI watermark is simple: if an AI system generates an image, video, audio file, or other piece of content, it can include an identifying signal that helps people or detection systems recognize that the content was created by AI.\n\nThat sounds useful.\n\nBut according to the story covered in this video, within roughly 48 hours of the watermark being introduced, a tool had already appeared that could remove it.\n\nAnd that is where things get interesting.\n\nIf AI can generate content, another tool can remove the signal designed to identify that content, and AI detection systems themselves are not perfectly reliable, then the problem becomes much more complicated.\n\nNow imagine the chain:\n\nAI creates the content.\n\nA tool removes the watermark.\n\nAnother system tries to detect whether the content was created by AI.\n\nAnd the detector has to make a decision based on incomplete or altered signals.\n\nThis creates a potential cat-and-mouse game between AI generation, watermark removal, and AI detection.\n\nThe bigger issue is not really the watermark itself.\n\nIt is whether we can build a reliable way to establish the origin of digital content in a world where AI-generated media becomes increasingly realistic and increasingly easy to modify.\n\nThat matters for creators, businesses, journalists, educators, platforms, and everyday internet users.\n\nBecause as AI-generated content becomes normal, one question becomes increasingly difficult to answer:\n\nWas this actually created by a human, or was AI involved somewhere along the way?\n\nThis video breaks down that problem, why AI detection is difficult, and what the future of identifying AI-generated content could look like.\n\nWhy Subscribe to bpro?\n\nbpro is focused on helping you understand AI beyond the hype.\n\nHere, you’ll learn about generative AI, AI tools, AI workflows, AI agents, prompt engineering, no-code AI, AI for business, and the practical ways AI is changing how people work and build.\n\nInstead of simply telling you what happened, BPRO focuses on why it matters, what is changing underneath the surface, and what you should understand about the bigger AI ecosystem.\n\nIf you want practical AI knowledge without unnecessary technical complexity, subscribe to bpro and stay ahead of the next major shift in AI.\n\n### Hashtags\n\n#AI #Claude #ArtificialIntelligence #AIDetection\n\nAI generated content, AI generated content detection, how to detect AI generated content, AI watermark, Claude AI watermark, Claude AI, AI detection, AI detector, how AI detection works, can AI content be detected, AI content detection, artificial intelligence, generative AI, AI tools, AI news, AI explained, what is AI watermark, how AI watermark works, AI generated images, AI generated videos",
+      "commentCount": 0,
+      "likeCount": 5,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-23T17:53:11Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "jXgjqEu6e8Q": {
+      "checkedAt": "2026-08-23T17:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 0,
+      "likeCount": 5,
+      "probeClient": "web_embedded"
+    },
+    "1LxxdbMFOLI": {
+      "checkedAt": "2026-08-23T17:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "#ai #livestreaming #livestream\n\n LIVE: How to make AI Automation || Build your First AI workflow using n8n\n\nLearn how AI automation can handle your daily tasks so you can focus on high-value work. See how to build AI workflows from scratch. We're conducting a FREE Online AI Automation Workshop where you’ll learn how to build your first n8n + AI Agent workflow LIVE and understand the 2026 AI Automation career roadmap.\n\n📅 23 August | Sunday\n⏰ 12:00 PM\n\nYou’ll discover:\n\n→ How AI Automation actually works\n→ How n8n connects apps, APIs & AI\n→ How to build your first workflow LIVE\n→ How AI Agents can automate real tasks\n→ What to learn to start your AI Automation journey in 2026\n\nIf you’re interested in AI, Automation, Development or future tech, you can register \n\nJoin our FREE Online AI Automation Workshop and learn how to turn ideas into real automation workflows using n8n + AI.\n\n\n🚀 Follow us on Social Media\n🔗WhatsApp Group : https://chat.whatsapp.com/JRjZDritNVk...\n✅Subscribe to our Channel : https://shorturl.at/p04ZV\n📱Instagram :   https://www.instagram.com/vishwam_thoughts/\n\n🎥Previous videos Link: \n1. How to build n8n AI automation  :  https://youtu.be/H5_WJxa74uE?si=lkad5FLo1_-FXKYZ\n2. Full ML Course  Playlist :   https://youtube.com/playlist?list=PL3ueODNlrXrFoRY_s3riBhbaEbubjd7Iv&si=da2qYv6VBlJH8NZX\n3. Open Claw Setup Video :   https://youtu.be/foe8L4ZGLb0?si=ZJKYDvm8TGr3lgHG\n4.  Run llm locally :https://youtu.be/afu65fyWKiI?si=r5-r8Oyi5gQNZc5k\nand many more\n\n\n#livestream #codingtutorial #aiautomation  #n8n #programming #python #interview #careeradvice #livestreaming",
+      "commentCount": 0,
+      "likeCount": 7,
+      "probeClient": "tv_embedded"
     }
   }
 }

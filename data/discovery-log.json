@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T16:53:06Z",
+  "updatedAt": "2026-08-23T17:53:11Z",
   "items": [
+    {
+      "id": "x55ILfHmzsk",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-23T17:01:59Z",
+      "firstSeenAt": "2026-08-23T17:53:11Z"
+    },
+    {
+      "id": "frpnRerpr30",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-23T16:59:49Z",
+      "firstSeenAt": "2026-08-23T17:53:11Z"
+    },
+    {
+      "id": "jXgjqEu6e8Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The First AI Vlogger ",
+      "publishedAt": "2026-08-23T15:53:11Z",
+      "firstSeenAt": "2026-08-23T17:53:11Z"
+    },
+    {
+      "id": "1LxxdbMFOLI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Vishwam Solanki",
+      "publishedAt": "2026-08-23T08:53:11Z",
+      "firstSeenAt": "2026-08-23T17:53:11Z"
+    },
     {
       "id": "oL5iHasoVn0",
       "type": "short",
@@ -22711,6 +22743,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "digital marketing automation"
+    },
+    {
+      "runAt": "2026-08-23T17:53:11Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI automation"
     }
   ]
 }
