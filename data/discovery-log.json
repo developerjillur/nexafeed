@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-22T23:53:04Z",
+  "updatedAt": "2026-08-23T00:53:05Z",
   "items": [
+    {
+      "id": "O07vdWfhqow",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Cosmo Explains",
+      "publishedAt": "2026-08-22T21:53:05Z",
+      "firstSeenAt": "2026-08-23T00:53:05Z"
+    },
+    {
+      "id": "xgXY5lHgbhM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "RiseX Venturess",
+      "publishedAt": "2026-08-22T17:53:05Z",
+      "firstSeenAt": "2026-08-23T00:53:05Z"
+    },
+    {
+      "id": "EBh0gDcXWA4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Janae Danyiel",
+      "publishedAt": "2026-08-22T16:53:05Z",
+      "firstSeenAt": "2026-08-23T00:53:05Z"
+    },
+    {
+      "id": "cAYkQtqpdeE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fox Business",
+      "publishedAt": "2026-08-22T13:53:05Z",
+      "firstSeenAt": "2026-08-23T00:53:05Z"
+    },
+    {
+      "id": "MDC_mXJdsjg",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Express News",
+      "publishedAt": "2026-08-22T13:53:05Z",
+      "firstSeenAt": "2026-08-23T00:53:05Z"
+    },
+    {
+      "id": "JMGycGx3KL8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "DRM News",
+      "publishedAt": "2026-08-22T12:53:05Z",
+      "firstSeenAt": "2026-08-23T00:53:05Z"
+    },
+    {
+      "id": "1c-ej9oJkcc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "The IoT Academy",
+      "publishedAt": "2026-08-22T07:53:05Z",
+      "firstSeenAt": "2026-08-23T00:53:05Z"
+    },
     {
       "id": "mA1-0LoU-KQ",
       "type": "long",
@@ -19917,15 +19973,6 @@
   ],
   "runs": [
     {
-      "runAt": "2026-08-08T23:53:09Z",
-      "new": 8,
-      "long": 6,
-      "shorts": 2,
-      "channelsChecked": 33,
-      "warnings": 0,
-      "secondaryQuery": "agency automation"
-    },
-    {
       "runAt": "2026-08-11T17:53:14Z",
       "new": 60,
       "long": 11,
@@ -21895,6 +21942,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-23T00:53:05Z",
+      "new": 7,
+      "long": 6,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
