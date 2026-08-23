@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T06:53:10Z",
+  "updatedAt": "2026-08-23T07:53:11Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9212,7 +9212,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-23T06:53:10Z",
+      "checkedAt": "2026-08-23T07:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9241,10 +9241,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-23T06:53:10Z",
+      "checkedAt": "2026-08-23T07:53:11Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -12697,14 +12697,25 @@
       "probeClient": "web_embedded"
     },
     "f3RKKsGKI1A": {
-      "checkedAt": "2026-08-22T06:53:20Z",
+      "checkedAt": "2026-08-23T07:53:11Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 0,
-      "likeCount": 0,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-22T06:53:20Z",
+      "commentCount": 1,
+      "likeCount": 31,
+      "comments": [
+        {
+          "id": "UgzJmQCgvUb14bfbcdx4AaABAg",
+          "author": "@Nipahc",
+          "text": "First time I saw this was Rabbit R1 you can log in and show it how to do webpage and internet tasks.",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lVTLqBvZL2fS4AzxAUqmtGRtAwbpxnTAIa_MyKMnNA5ijW=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-23T07:53:11Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -12727,22 +12738,22 @@
       "probeClient": "web_embedded"
     },
     "h8e334CiG1M": {
-      "checkedAt": "2026-08-22T07:53:04Z",
+      "checkedAt": "2026-08-23T07:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "qXTftsSZIiE": {
-      "checkedAt": "2026-08-22T07:53:04Z",
+      "checkedAt": "2026-08-23T07:53:11Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "w1H338vUXbk": {
-      "checkedAt": "2026-08-22T07:53:04Z",
+      "checkedAt": "2026-08-23T07:53:11Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "RMoVtDarkZg": {
       "checkedAt": "2026-08-22T07:53:04Z",
@@ -13814,12 +13825,6 @@
       "likeCount": 79,
       "probeClient": "web_embedded"
     },
-    "qIjcxleTw4M": {
-      "checkedAt": "2026-08-23T06:53:10Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "9EpR2eduUWM": {
       "checkedAt": "2026-08-23T06:53:10Z",
       "embedAllowed": true,
@@ -13827,6 +13832,42 @@
       "description": "Join my community to get your first AI integration built, or learn from a network of people like you:\nhttps://www.skool.com/ai-automation-lab-5849?utm_source=youtube&utm_content=workspace-explained\n\nDuke walks through his AI content automation workspace and explains why complex agent workflows work better when subagents run from CLI boundaries instead of living inside one oversized prompt context.\n\nThis is a live system design breakdown of how Duke splits content automation, packaging, thumbnails, and delivery work across focused agents that do not forget what they are supposed to do.\n\nInstagram: @agenticduke\n\nDuke Pan is live every Sunday answering questions about AI, automation, and content systems.\n\n#AIagents #contentautomation #CLI",
       "commentCount": 0,
       "likeCount": 7,
+      "probeClient": "web_embedded"
+    },
+    "7uoAb7ZSUzw": {
+      "checkedAt": "2026-08-23T07:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get 22 Free Claude Code Training Videos:\nhttps://simpletechskills.com/claude-youtube/\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n⏰ DETAILED TIMESTAMPS\n\n00:00 My New AI Picture Book\n00:13 Learning to Build With AI Agents\n00:25 Understanding AI Orchestrators\n00:30 Workers, Work Trees & Agent Teams\n00:35 Monitoring AI Agent Loops\n00:40 Scope, Backlogs & Scaling Agents\n00:52 AI Agent Permission Modes\n00:57 Testing & Quality Gates\n01:02 Scratch Databases for Testing\n01:08 Merging & Integrating Agent Work\n01:18 Cleaning Up AI Agent Sessions\n01:28 Retro & Learning Loops\n01:43 Parallelism & AI Hardware\n02:08 Defining What “Shipped” Means\n02:13 Learning AI at a Fourth-Grade Level\n02:24 Understanding Workers & Work Trees\n02:52 Scope & Backlog Explained\n03:18 AI Agent Permission Modes\n03:40 Testing & Quality Gates\n03:54 Using Claude as a Tutor\n04:27 Vibe Coding for Beginners\n04:47 Teaching Kids & Adults to Build With AI\n05:54 Building a Digital Company of One\n06:00 Creating Digital AI Employees\n06:18 Automating Marketing, Sales & Operations\n06:34 Mental Models for Building AI Apps\n07:14 Building Teams of AI Agents\n07:47 Building an AI Agent Factory\n08:02 Automating Complex Processes\n08:21 Building Virtual AI Departments\n08:45 Meet NOVA, My AI Business Assistant\n09:24 AI Agents Working Inside Business Apps\n09:51 Building the Company of the Future\n10:24 How to Run a Fleet of AI Coding Agents\n10:55 Where to Get the AI Picture Books\n11:25 Free Claude Code & AI Training\n12:12 100 Claude Code Commands\n12:40 Running Claude Code Overnight\n12:52 Claude Code Remote Control\n13:35 Hardware for Building With AI Agents\n\n━━━━━━━━━━━━━━━━━━━━━━\n\nABOUT THIS VIDEO\n\nComplex AI concepts don't have to be taught with complicated technical documentation. In this video, I show how I use illustrated picture books and simple mental models to teach myself concepts like vibe coding, AI agents, orchestrators, workers, work trees, monitoring loops, testing, permission modes, backlogs, and agent orchestration.\n\nI also show my picture books for Vibe Coding for Beginners, building a digital Company of One, and running a fleet of AI coding agents. The goal is to explain advanced software and AI concepts at roughly a fourth-grade level so kids, adults, business owners, and people without traditional software engineering backgrounds can understand how these systems work.\n\nYou'll also see how these concepts connect to real AI automation: building teams of agents that pass work between each other, creating virtual departments, automating marketing, sales, and operations, and building AI assistants like NOVA that can work inside business applications.\n\n#AIAgents #ClaudeCode #VibeCoding #LearnAI #AIForBeginners #ClaudeAI #AIAutomation #AgenticAI #AIOrchestration #AICoding #AIEngineering #BusinessAutomation #ArtificialIntelligence #AITutorial",
+      "commentCount": 0,
+      "likeCount": 4,
+      "probeClient": "web_embedded"
+    },
+    "UrzlD1jCqQU": {
+      "checkedAt": "2026-08-23T07:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Get the Agent OS & Hermes Agent Masterclass 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nWant to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nHermes AI Update: Move Your Agents Anywhere (New Export Feature)\n\nHermes AI agents are no longer locked to a single device thanks to the revolutionary new export and import features. Discover how to package your agent's persona, memory, and skills into a portable file and integrate it with the Agent OS for maximum automation.\n\n00:00 - Intro: The Portable Agent Update\n01:23 - The Power of Export and Import\n02:05 - What’s Inside an Agent Export?\n03:13 - Setting Up the Agent OS\n04:23 - Advanced Workflows with Agent OS\n05:09 - Automating Research and Content\n06:08 - The Future of Portable AI Agents\n07:33 - Join the AI Profit Boardroom",
+      "commentCount": 4,
+      "likeCount": 45,
+      "probeClient": "web_embedded"
+    },
+    "Qsiqde55my4": {
+      "checkedAt": "2026-08-23T07:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🚀 Create Amazon KDP books faster with LitPal: https://litpal.ai/\n\nAI Agent Niche Research Prompt Document: https://docs.google.com/document/d/1catqJZ1IrtziE1zFXaJrH31-LbNXONbG1DENmI1gOMg/edit?usp=sharing\n\nIn this full tutorial, I show you how to use an AI agent to research Amazon KDP niches, analyze real market signals, compare competing books, and turn one promising idea into a complete bilingual coloring book with LitPal.\n\nInstead of spending hours manually scrolling through Amazon, the AI agent researches demand, competition, pricing, reviews, and bestseller ranks for you. I then validate the ideas it finds, choose a niche, generate the book interior, review the pages, and create a matching KDP cover.\n\nYou’ll learn how to:\n\n• Set up a KDP niche-research agent with Codex\n• Research Amazon listings and real competitor data\n• Evaluate AI-generated niche ideas before publishing\n• Turn a niche into a bilingual coloring book with LitPal\n• Generate the interior and create a matching KDP cover\n\nCHAPTERS\n00:00 Use an AI agent to find KDP niches\n00:29 Set up the Codex research agent\n02:01 Watch the AI research Amazon\n03:05 Review the AI niche report\n04:21 Validate specific niche ideas\n06:26 Turn the niche into a LitPal book\n08:36 Generate the coloring book\n08:49 Review the finished interior\n09:28 Create the KDP book cover\n10:02 Final tips before publishing\n\n🎁 FREE AI PROMPTS + COMMUNITY\nhttps://www.skool.com/ai-bookpreneurs-1033/about\n\n🎥 My 2nd YouTube channel:\nhttps://www.youtube.com/channel/UCjzPilW8vIOoj1MLhaRTlug\n\n📢 Join the Self-Publishers Discord:\nhttps://discord.gg/SMgvBaSXy8\n\n🎨 FREE CANVA TEMPLATES:\nhttps://docs.google.com/document/d/1zoOSOibTSdWd7PTibj3X3sCt19APMHgPvNus1qR5iWA/edit?usp=sharing\n\nFull disclosure: I’m Zach Donovan, the founder of LitPal. This video promotes LitPal. AI research can surface promising ideas, but no niche is guaranteed to be profitable. Validate the market, review every generated page, follow Amazon KDP’s current rules, and market your book before treating any idea as proven.\n\n#AmazonKDP #SelfPublishing #AIAgents",
+      "commentCount": 5,
+      "likeCount": 90,
+      "probeClient": "web_embedded"
+    },
+    "_0tgpMy63OM": {
+      "checkedAt": "2026-08-23T07:53:11Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "#graphengineering #magiclight #promptengineering\n\n👉 Free signup (free credits milte hain):\nhttps://www.magiclight.ai/signup?code=MLHYMali\n\nMagicLight.ai — ek line likho, poori animated story video ban jaati hai.\nScript, characters, scenes, voiceover — sab automatic. Aur character\nhar scene mein same rehta hai, jo story channels ke liye sabse zaroori hai.\n\n🎁 GIVEAWAY — 2 FREE MEMBERSHIPS\n\nMagicLight ne aap logon ke liye 2 memberships di hain:\n- 1 × Ultimate (1 month)\n- 1 × Pro (1 month)\n\nENTRY: Comment mein ek line likho — aap kis topic pe story channel\nbanana chahte ho?\n\nJUDGING: Topic kitna specific hai, audience clear hai ya nahi,\naur story-format mein fit hota hai ya nahi.\n\nLAST DATE: 25/9/26\nWINNERS: 25th AUG ko pinned comment mein announce honge.\n\nJeetne ke baad MagicLight pe free account banakar wahi email mujhe\nbhejna hoga. Entry ke liye signup zaroori nahi hai.\n\n⚠️ Main kabhi DM se paisa, OTP ya personal details nahi maangta.\nWinners sirf pinned comment mein announce honge.\n\n\nMost AI agents fail for one reason nobody talks about — the system around the agent was never designed. In this complete Hindi guide I break down Graph Engineering across 11 visual frames, from how Swiggy routes your order to how UPI recovers a failed payment, and show you the exact architecture that separates a ₹15,000 automation from a ₹1,00,000 build.\n\nThis video is for anyone building AI agents who keeps hitting the same wall: the output looks fine, but you have no idea where it went wrong.\n\nNo code required. If you can understand how a wedding planner delegates work, you can understand this.\n\n👉 Join AI Learners India Discord: [Your Discord link]\n👉 Watch the n8n AI Agents Masterclass: [Related video link]\n\nHit like, subscribe for more AI agent tutorials, and drop a comment telling me which level you're on right now — 1, 2, 3, or 4!\n\n#GraphEngineering #AIAgents #AIAutomation #PromptEngineering #HindiTutorial #AIInHindi #n8n #AIAgency #MultiAgent #AILearnersIndia\n\n📚 Iss Video/Channel Mein Aap Seekhenge:\n\n✅ AI Agents Kaise Banaye (No Coding Required): Complete step-by-step guide Hindi mein\n✅ N8N Tutorial Hindi - Beginner se Advanced tak complete course\n✅ AI Automation Hindi - Workflows, chatbots, aur business automation\n✅ AI Agents Without Coding - OpenAI API integration aur custom workflows\n✅ AI se Paise Kaise Kamaye - Monetization strategies aur business ideas\n✅ Voice AI Agents Hindi Tutorial - Advanced automation techniques\n✅ RAG AI Agents Hindi - Data analysis aur intelligent systems\n✅ AI Agents for Business Hindi - Real-world applications aur case studies\n\n🎯 Trending Topics Covered:\n- AI Agents Crash Course Hindi\n- N8N Self Hosting Hindi Tutorial  \n- AI Workflow Automation Complete Guide\n- Chatbot Banane Ka Tarika (Step-by-Step)\n- AI Tools Hindi Mein Explained\n- Automation Business Hindi - Complete Roadmap\n- AI Agents Masterclass Hindi Series\n\n💰 Business & Career Focus:\n- AI Automation Freelancing Hindi Guide\n- Make Money with AI Agents Hindi Tutorial\n- AI Business Kaise Shuru Karein India Mein\n- AI Agents Service Business Model\n- Passive Income with AI Automation\n\n🚀 Advanced Topics:\n- Custom AI Agents Development Hindi\n- N8N OpenAI Integration Advanced Tutorial\n- Email Automation N8N Hindi\n- AI Workflow Scaling Techniques\n- Production-Ready AI Agent Deployment\n\nCommunity se Judein:\nHamare exclusive N8N Circle (Whatsapp/Telegram) ko join karein aur AI enthusiasts ki community ke saath judein. Yahan aap workflows share kar sakte hain, real-time troubleshooting kar sakte hain, aur AI automation projects par collaborate kar sakte hain.\n\n🎯 Channel Mission: \nAapko AI agents aur automation expert banana, taki aap apne career aur business ko नई ऊंचाइयों par le ja sakein. Agar aap AI automation seekhna chahte hain, AI se paise kamana chahte hain, ya phir AI business start karna chahte hain - toh subscribe karna na bhoolein!\n\n#AIAgentsKaiseBanaye #N8NTutorialHindi #AIAutomationHindi #NoCodeAIAgents #AIAgentsWithoutCoding #AIAgentsHindi #AutomationKaiseKaren #AIAgentsCrashCourse #AIAgentsMasterclass #HindiAITutorial #AILearnersIndia #N8NHindi #AIForBusiness #MakeMoneyWithAI #IndianAICommunity #AIAutomationBusiness #VoiceAIAgents #RAGAIAgents #ChatbotBananeKaTarika #AIToolsHindi",
+      "commentCount": 21,
+      "likeCount": 130,
       "probeClient": "web_embedded"
     }
   }

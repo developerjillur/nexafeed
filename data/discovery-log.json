@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T06:53:10Z",
+  "updatedAt": "2026-08-23T07:53:11Z",
   "items": [
+    {
+      "id": "7uoAb7ZSUzw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Jonathan Acuña - Doctor AI",
+      "publishedAt": "2026-08-23T02:53:11Z",
+      "firstSeenAt": "2026-08-23T07:53:11Z"
+    },
+    {
+      "id": "UrzlD1jCqQU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Julian Goldie SEO",
+      "publishedAt": "2026-08-22T19:53:11Z",
+      "firstSeenAt": "2026-08-23T07:53:11Z"
+    },
+    {
+      "id": "Qsiqde55my4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Zachary Donovan - Official",
+      "publishedAt": "2026-08-22T16:53:11Z",
+      "firstSeenAt": "2026-08-23T07:53:11Z"
+    },
+    {
+      "id": "_0tgpMy63OM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Learners India",
+      "publishedAt": "2026-08-22T14:53:11Z",
+      "firstSeenAt": "2026-08-23T07:53:11Z"
+    },
     {
       "id": "D90pcOvbC0k",
       "type": "long",
@@ -20185,14 +20217,6 @@
       "channel": "Krumjahn",
       "publishedAt": "2026-05-28T06:01:51Z",
       "firstSeenAt": "2026-05-28T06:01:51Z"
-    },
-    {
-      "id": "66Gk8M3Eh6w",
-      "type": "long",
-      "source": "primary",
-      "channel": "Krumjahn",
-      "publishedAt": "2026-05-25T07:24:39Z",
-      "firstSeenAt": "2026-05-25T07:24:39Z"
     }
   ],
   "runs": [
@@ -22229,6 +22253,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI automation"
+    },
+    {
+      "runAt": "2026-08-23T07:53:11Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI agents"
     }
   ]
 }
