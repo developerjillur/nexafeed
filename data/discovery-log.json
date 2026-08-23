@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T07:53:11Z",
+  "updatedAt": "2026-08-23T08:53:12Z",
   "items": [
+    {
+      "id": "t8qhXnJJeQ8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Level Up Mode",
+      "publishedAt": "2026-08-23T05:53:12Z",
+      "firstSeenAt": "2026-08-23T08:53:12Z"
+    },
+    {
+      "id": "97LxBObxEKQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Parth  Jadav",
+      "publishedAt": "2026-08-23T03:53:12Z",
+      "firstSeenAt": "2026-08-23T08:53:12Z"
+    },
+    {
+      "id": "yZp0wo8K1gA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Creative Fam Live",
+      "publishedAt": "2026-08-22T22:53:12Z",
+      "firstSeenAt": "2026-08-23T08:53:12Z"
+    },
+    {
+      "id": "EeLPhTnI4xA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-22T16:53:12Z",
+      "firstSeenAt": "2026-08-23T08:53:12Z"
+    },
     {
       "id": "7uoAb7ZSUzw",
       "type": "long",
@@ -22262,6 +22294,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-23T08:53:12Z",
+      "new": 4,
+      "long": 4,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }
