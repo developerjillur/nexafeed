@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T04:53:09Z",
+  "updatedAt": "2026-08-23T05:53:09Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9212,10 +9212,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-23T04:53:09Z",
+      "checkedAt": "2026-08-23T05:53:09Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -9241,10 +9241,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-23T04:53:09Z",
+      "checkedAt": "2026-08-23T05:53:09Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -10641,25 +10641,25 @@
       "probeClient": "web_embedded"
     },
     "brd05asqvA0": {
-      "checkedAt": "2026-08-22T04:53:18Z",
+      "checkedAt": "2026-08-23T05:53:09Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "30 things that turn Claude from a chat into a real work tool.\n\nSkills that write documents, decks and spreadsheets, strip the AI tells out of your text, turn any file into notes, and check your interface. Plugins that cover sales, marketing, product and finance. And MCPs that plug email, calendar, Notion, Slack, CRM and analytics into Claude, so it works straight from your own data.\n\n#claude #ai #aitools #productivity #buildwithai",
       "commentCount": 1,
-      "likeCount": 34,
+      "likeCount": 49,
       "comments": [
         {
           "id": "UgzIA3vRfqK5GkDUglJ4AaABAg",
           "author": "@Subbu11595",
           "text": "Site",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T07:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m_DueuK5MDvMA57D9CyeQIGZt-HS7aq_N8Pik5AtVtipo=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T04:53:18Z",
+      "commentsFetchedAt": "2026-08-23T05:53:09Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -12475,85 +12475,95 @@
       "probeClient": "web_embedded"
     },
     "F3FnnHNcLos": {
-      "checkedAt": "2026-08-22T04:53:18Z",
+      "checkedAt": "2026-08-23T05:53:09Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "🔗 Join our WhatsApp Community\nGet the latest AI updates, tips, and insights straight to your inbox:\nhttps://join.switchit.app/YT\n\n--------\n\nTo Know More,\nFollow Vaibhav Sisinty On ⤵︎\n\nInstagram @VaibhavSisinty\nhttps://www.instagram.com/vaibhavsisinty\n\nTwitter @VaibhavSisinty\nhttps://twitter.com/VaibhavSisinty\n\nFacebook @VaibhavSisinty\nhttps://www.facebook.com/vaibhavsisinty/\n\nLinkedIn - Vaibhav Sisinty\nhttps://www.linkedin.com/in/vaibhavsisinty",
-      "commentCount": 7,
-      "likeCount": 146,
+      "commentCount": 8,
+      "likeCount": 2819,
       "comments": [
         {
-          "id": "UgzsUrCekjmUqPqWXMx4AaABAg",
-          "author": "@Seven-bk6rb",
-          "text": "Vaibhav tell your friend to collaborate with the moto vloggers, then you can get this implemented in a large scale",
+          "id": "UgziINLkBCGXaK7iWTd4AaABAg",
+          "author": "@Prakruti.yogashala",
+          "text": "Protect this guy",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T04:49:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mJWnsy-4D0HHK7e70lAjKZZtXkBBcCBOJGArgGB83flQAgJc3mP46709hKr12KPbfx0A=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T05:47:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/d9Byf5-Eutp6So53zjJmLo5zMtuaJYpuYS_ku2Ke6XTu1aazxMkUTg-f0OHyoEGq0IUvfy6Gtg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugz5bzrCYRSfrEtaZS54AaABAg",
-          "author": "@atulroy8302",
-          "text": "Tell your friends to spot all office who take money from thekedar",
+          "id": "UgzSvqFJ8l6cAjR2rTd4AaABAg",
+          "author": "@asifosman",
+          "text": "This should be all over India. The problem with India is the silence of the masses.\n\nWell done to Saurav.",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T04:43:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/mpXkwL-gBVf9a80G3WJzkv0QuAO-IkuR0jRGgM70hpyega8K836aSaH0ogzCmn1GKsQIuz1wEQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T05:27:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mw9DgwmC8UsepzpQ2KCLJUOxRYecN3wnszXIxGQ0WDYbM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugydc5shXddvQeuMq-B4AaABAg",
-          "author": "@KaranMHinduja",
+          "id": "Ugztb0PUJOCUSAlYBQh4AaABAg",
+          "author": "@mrashoksjain",
+          "text": "This is something really needed \nGreat job",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T04:59:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kgwG9cLRXhW_Co5voub099o-JvnRRgNTNy_oOvhk3zwE5r=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwwyhXyxchAnNLWn4p4AaABAg",
+          "author": "@simplylearn9154",
+          "text": "ph/m² new unit uncovered 😂",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/tJbBNg6mgc8NhM6OsDSg2e9rXyu0QSe00BrRHGGnIivJdqbPpx8JNm_7WK9prDtGJQ_YzPeaxA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxXAhECEt4RG1AxOZZ4AaABAg",
+          "author": "@mahashivansh",
+          "text": "Nothing can change the mindset of corrupt contractors, it's a big cabal",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nZa2L5tvX7AvSd4Ge5CNES4grhI0iSwAR0FOEKVgy-ONyNf84-qq6U12ADeVbgPcot_Q=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw6jfgr4vsEPA4D4ht4AaABAg",
+          "author": "@LazyBrownWizard",
+          "text": "This is the Gen Z that India needs",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nBj3TBlNz4Gc25gR2ZbezB4sOuPSv9D8HBldXo_SDxTw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugyt4Mcwmw7heQR6ifl4AaABAg",
+          "author": "@mohanakumarshanmugasundar9018",
           "text": "Yes",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T04:31:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mpknFu7N01ivUrd3YeEw5e9PUBOe1v2Nrgs1Nj6aHgs58=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lVR1u6gmwFqMXnTlMUpa_Degi19RvFy4X4lVBG76dy4SU=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwXV77xnBExVJPsP8h4AaABAg",
-          "author": "@VarunRathour1",
-          "text": "men with OpenCV",
+          "id": "Ugz__BZjC6eoNwwasAt4AaABAg",
+          "author": "@vj8724",
+          "text": "Extraordinary. Guy is getting life threats soon",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T04:29:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/NQsOh_oVGVsrdhJ15lO-wzhXo7RPXB6ZMnYwwKMGk0VBwkmmSNzRyzc0jEiNjhqxm_gD3ABDFQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxJP3_nAEO_34EN1TR4AaABAg",
-          "author": "@JitendraShuklalive",
-          "text": "Yes",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T04:27:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/rVr1lwRmg9nrIGuFzvqPqGw9Yt7rVIud2ZA9gDGvCPuPr4D5pied_dTrTlAsIE0mPdZeJ1my4w=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxjkmDMkII7T_snqm94AaABAg",
-          "author": "@tarun_core",
-          "text": "First comment 🔗",
-          "likeCount": 1,
-          "publishedAt": "2026-08-22T04:16:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/SJI2g-p-CmyZjHC4kvegiRbwQMeY8Fxk7HMmtjLmH1aXG8UphFESRg-2Tm096pjCvV1m72mz=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxk5ybMc99YMnbPGh94AaABAg",
-          "author": "@garfieldmoodie2905",
-          "text": "Yes",
-          "likeCount": 2,
-          "publishedAt": "2026-08-22T04:16:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n0_o7zg4lzJTpGcZxcFqgMoQkdQ8X8wZE7x1Vwo7I=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/NFCbug0OMQsTVf3n3_KstSd3E5bJJJFiJNVB-VOF6u73_Y2gnA7nkDz5x6MhCfo01gnF6Mvk=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T04:53:18Z",
+      "commentsFetchedAt": "2026-08-23T05:53:09Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -13727,6 +13737,63 @@
       "description": "🔴 You're good at this. Somebody worse is getting paid for it. Fix that in Solo AI ➡️ https://www.skool.com/timenalls\n\n___\n\n💡 Future Business Tech analyzes the AI, capital, and frontier-tech decisions shaping the next decade, and explores the civilizational futures they build toward.\n\nSUBSCRIBE: https://bit.ly/3geLDGO\n\n#ai #technology",
       "commentCount": 24,
       "likeCount": 241,
+      "probeClient": "web_embedded"
+    },
+    "4-xwuwpnunM": {
+      "checkedAt": "2026-08-23T05:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Did you finally learn LangChain, LangGraph, OpenAI Agents, and all the other AI agent frameworks? You might want to pause for a second.\n\nNVIDIA has introduced a research approach called NOOA, or NVIDIA Object-Oriented Agents, which takes a very different approach to building AI agents.\n\nInstead of forcing developers to learn another specialized framework, the idea is to build an AI agent using familiar Python object-oriented programming concepts.\n\nThink about an AI agent as a Python class.\n\nIts methods can represent what the agent is capable of doing.\n\nIts fields can represent the agent's state.\n\nIts prompt can define how the agent behaves.\n\nAnd type annotations can act as an enforced contract for what the agent should accept and return.\n\nThe interesting part is that this approach doesn't try to hide traditional software engineering behind another abstraction layer.\n\nIf you already understand Python and object-oriented programming, the mental model is much more familiar.\n\nBut there's an important caveat.\n\nNOOA is still a research-stage approach, so it's far too early to say that it will replace frameworks like LangChain, LangGraph, OpenAI Agents, or Microsoft Agent Framework.\n\nStill, NVIDIA's reported benchmark results make the approach worth watching, particularly around reasoning performance and token efficiency.\n\nAnd that's the bigger lesson for AI engineers:\n\nDon't get too attached to one framework.\n\nThe AI agent ecosystem is changing incredibly quickly. The framework you're learning today may not be the abstraction developers use tomorrow.\n\nThat's why keeping up with new research, papers, and open-source projects can be more valuable than simply mastering one framework.\n\nWant the GitHub repository where you can keep track of new AI research and papers?\n\nlink: https://github.com/dair-ai/AI-Papers-of-the-Week \n\nWhy Subscribe to bpro?\n\nBPro helps you keep up with the technologies shaping the AI engineering landscape.\n\nWe cover AI agents, AI coding, LLMs, AI frameworks, automation, open-source projects, AI research, and practical AI tools.\n\nBut we don't just tell you what's trending.\n\nWe break down what changed, why it matters, how developers can use it, and what could become important next.\n\nIf you're a developer, founder, AI enthusiast, or simply trying to stay ahead of the rapidly changing AI ecosystem, subscribe to BPro.\n\nBecause in AI, learning a tool is useful.\n\nBut understanding how the tools are changing is even more important.\n\n#AI #AIAgents #NVIDIA #AIEngineering #Python\n\nAI agents, AI agent frameworks, AI agent framework, NVIDIA AI agents, NVIDIA NOOA, NOOA AI, NVIDIA Object Oriented Agents, AI engineering, AI frameworks, LangChain, LangGraph, OpenAI Agents, Microsoft Agent Framework, Python AI agents, Python AI, object oriented programming, AI coding, AI developer tools, AI research, AI agent development, how to build AI agents, how to build AI agents with Python, how AI agents work, how to use LangChain, how to use LangGraph, what is an AI agent, what is LangChain, what is LangGraph, what is NOOA, what is object oriented programming, why AI agent frameworks matter, why AI agents are changing, best AI agent framework, best AI frameworks, AI agent tutorial, AI agents explained, AI engineering 2026, AI tools for developers, latest AI research, open source AI, AI GitHub repositories",
+      "commentCount": 0,
+      "likeCount": 4,
+      "comments": [],
+      "commentsFetchedAt": "2026-08-23T05:53:09Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "DHGttpTWhEw": {
+      "checkedAt": "2026-08-23T05:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Welcome to **Creatives Designs** – your destination for **Graphic Designing, Digital Marketing, AI Digital Marketing, Web Designing, Web Development, Video Editing, UI/UX Design and professional training**.\n\nLearn practical design and digital skills through easy-to-understand tutorials, tips, techniques and industry-focused content.\n\n🎨 **Graphic Designing**\nLearn Photoshop, Illustrator, CorelDRAW, branding, logo design, social media design, posters, banners and creative design techniques.\n\n📱 **Digital Marketing**\nExplore SEO, Social Media Marketing, Google Ads, content marketing, online branding, lead generation and AI-powered digital marketing strategies.\n\n🤖 **AI Digital Marketing**\nDiscover how Artificial Intelligence and AI tools can help with content creation, marketing automation, social media, SEO and business growth.\n\n💻 **Web Designing & Development**\nLearn HTML, CSS, JavaScript, responsive web design, WordPress, frontend development and modern website development.\n\n🎬 **Video Editing**\nLearn professional video editing, social media video creation, YouTube video editing, reels, promotional videos and creative video production.\n\n🎯 **UI/UX Design**\nExplore user interface design, user experience principles, wireframes, prototypes and modern digital product design.\n\n📚 **Training & Career Skills**\nGet practical tutorials, course guidance, project ideas and career-focused skills for students, freelancers, designers, marketers and business owners.\n\nSubscribe to **Creatives Designs** for regular tutorials, creative tips, AI tools, digital marketing strategies and professional design & development content.\n\n**Learn • Create • Grow with Creatives Designs**\n\n#CreativesDesigns #GraphicDesign #DigitalMarketing #AIDigitalMarketing #WebDevelopment #VideoEditing #UIDesign #UXDesign #SEO #DigitalMarketingTraining",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "Wq4nqqmVCto": {
+      "checkedAt": "2026-08-23T05:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Looking for digital marketing in Hobart, Tasmania?  \n\nBolder Digital helps businesses across Hobart and Southern Tasmania bring digital marketing, AI, automation and technology together to help their marketing work more effectively.\n\nIn this video, Jarryd Holmes from Bolder Digital explores what businesses should be thinking about when it comes to digital marketing in Hobart, including AI marketing, Google Business Profile optimisation, websites, Voice AI, CRM systems, marketing automation and lead generation.\n\nDigital marketing isn't just about running Google Ads, posting on social media, SEO or building another website. It starts with understanding how customers discover your business and what happens after they find you.\n\nCan potential customers find you on Google? Does your website clearly explain what you do? What happens when somebody calls and your team can't answer? Are enquiries being followed up? And are your marketing and business systems actually working together?\n\nAt Bolder Digital, we look at the complete customer journey and help businesses identify where digital marketing, AI and automation can make a practical difference.\n\nOur work includes Google Business Profile optimisation, AI marketing and automation, Voice AI agents, websites, CRM systems, HighLevel setup and customisation, lead generation systems and digital marketing strategy. Where specialist services such as paid advertising or SEO are required, we can also connect businesses with trusted specialist partners.\n\nDIGITAL MARKETING HOBART & SOUTHERN TASMANIA\n\nWe can work with businesses throughout Greater Hobart and Southern Tasmania, including Hobart CBD, North Hobart, South Hobart, West Hobart, Sandy Bay, Battery Point, New Town, Lenah Valley, Moonah, Glenorchy, Bellerive, Rosny, Howrah, Lindisfarne, Kingston, Blackmans Bay, Margate and surrounding areas.\n\nAI MARKETING & AUTOMATION\n\nAI can play an increasingly useful role in digital marketing, but adding another AI tool isn't a complete strategy.\n\nWe help businesses explore practical uses of AI and automation across customer enquiries, phone calls, website conversations, follow-up, local visibility and marketing systems.\n\nGOOGLE BUSINESS PROFILE OPTIMISATION\n\nFor local businesses, Google Business Profile can be an important part of being discovered when people search for products and services in Hobart.\n\nBolder Digital provides Google Business Profile optimisation to help businesses improve and maintain their local Google presence.\n\nVOICE AI\n\nVoice AI can help businesses manage incoming calls, missed calls and after-hours enquiries. Depending on the setup, an AI voice agent can answer common questions, capture customer information and help manage enquiries when your team isn't available.\n\nWEBSITES, CRM & MARKETING SYSTEMS\n\nGetting discovered is only the beginning.\n\nYour website, CRM, follow-up processes and customer journey all influence what happens after someone finds your business. That's why we look at digital marketing, AI, automation and technology as connected parts of the same system.\n\nABOUT BOLDER DIGITAL\n\nBolder Digital is based in Tasmania and helps businesses use digital marketing, AI, automation and technology to improve how they attract, communicate with and follow up potential customers.\n\nIf you're looking for digital marketing in Hobart or help with AI marketing, Google Business Profile optimisation, Voice AI, HighLevel, websites, CRM systems or marketing automation, we'd love to learn more about your business.\n\nClick the link below to share some details about your business and what you're looking for help with. One of our team members will be in touch.\n\n▶ TALK TO BOLDER DIGITAL\nhttps://bolderdigital.com.au/contact-us-5670\n\n▶ DIGITAL MARKETING TASMANIA\nhttps://youtu.be/jv3FExIEjtA\n\n▶ TASMANIA DIGITAL MARKETING PLAYLIST\nhttps://www.youtube.com/playlist?list=PLOl9_YL1pMuA\n\n#DigitalMarketingHobart #HobartBusiness #AIMarketing #DigitalMarketingTasmania #BolderDigital",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "TceqU7JHJJg": {
+      "checkedAt": "2026-08-23T05:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Looking for digital marketing in Burnie, Tasmania? \n\nBolder Digital helps businesses across Burnie and North West Tasmania use digital marketing, AI, automation and technology to strengthen how they attract and manage customer enquiries.\n\nIn this video, Jarryd Holmes from Bolder Digital looks at digital marketing for Burnie businesses and how areas such as AI marketing, Google Business Profile optimisation, websites, Voice AI, CRM systems, marketing automation and lead generation can work together.\n\nFor a local business, being online isn't enough. Your digital presence needs to make it easy for potential customers to discover what you do, understand why they should choose you and take the next step.\n\nThat means thinking beyond individual marketing channels.\n\nCan customers find your business when searching on Google? Is your Google Business Profile supporting your local visibility? Does your website clearly communicate your services? What happens when somebody calls after hours or your team misses a call? And what happens to an enquiry after it comes in?\n\nAt Bolder Digital, we help businesses connect these different parts of their marketing and customer journey.\n\nOur work includes Google Business Profile optimisation, AI marketing and automation, Voice AI agents, websites, CRM systems, HighLevel setup and customisation, lead generation systems and digital marketing strategy. Where specialist services such as paid advertising or SEO are required, we can also connect businesses with trusted specialist partners.\n\nDIGITAL MARKETING BURNIE & NORTH WEST TASMANIA\n\nBurnie is an important business, industrial and service centre on Tasmania's North West Coast, with local businesses serving customers throughout the surrounding region.\n\nWe can work with businesses across Burnie, South Burnie, Upper Burnie, Park Grove, Shorewell Park, Cooee, Somerset, Wynyard, Penguin and surrounding areas across North West Tasmania.\n\nAI MARKETING & AUTOMATION\n\nAI and automation can provide practical ways for businesses to improve customer communication, manage enquiries and streamline parts of their marketing.\n\nThis can include website conversations, customer follow-up, phone enquiries and connecting different marketing and CRM systems.\n\nGOOGLE BUSINESS PROFILE OPTIMISATION\n\nFor businesses serving a local market, Google Business Profile can play an important role in helping potential customers discover your business.\n\nBolder Digital provides Google Business Profile optimisation to help businesses improve and maintain their presence across relevant local Google searches.\n\nVOICE AI\n\nVoice AI can help businesses manage incoming calls, missed calls and after-hours enquiries. Depending on the setup, AI voice agents can answer common questions, collect customer information and help manage enquiries when your team isn't available.\n\nWEBSITES, CRM & MARKETING SYSTEMS\n\nGenerating attention is only the beginning.\n\nYour website, CRM, follow-up systems and overall customer journey influence what happens after somebody discovers your business. We look at how these different pieces can work together rather than treating them as completely separate solutions.\n\nABOUT BOLDER DIGITAL\n\nBolder Digital is based in Tasmania and helps businesses use digital marketing, AI, automation and technology to improve how they attract, communicate with and follow up potential customers.\n\nIf you're looking for digital marketing in Burnie or help with AI marketing, Google Business Profile optimisation, Voice AI, HighLevel, websites, CRM systems or marketing automation, we'd love to learn more about your business.\n\nClick the link below to share some details about your business and what you're looking for help with. One of our team members will be in touch.\n\n▶ TALK TO BOLDER DIGITAL\nhttps://bolderdigital.com.au/contact-us-5670\n\n▶ DIGITAL MARKETING TASMANIA\nhttps://youtu.be/jv3FExIEjtA\n\n▶ TASMANIA DIGITAL MARKETING PLAYLIST\nhttps://www.youtube.com/playlist?list=PLOl9_YL1pMuA\n\n#DigitalMarketingBurnie #BurnieBusiness #AIMarketing #DigitalMarketingTasmania #BolderDigital",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "YOCvDlQNLmU": {
+      "checkedAt": "2026-08-23T05:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Looking for digital marketing in Devonport, Tasmania? \n\nBolder Digital helps businesses across Devonport and North West Tasmania bring digital marketing, AI, automation and technology together to help their marketing work more effectively.\n\nIn this video, Jarryd Holmes from Bolder Digital explores what local businesses should be thinking about when it comes to digital marketing in Devonport, including AI marketing, Google Business Profile optimisation, websites, Voice AI, CRM systems, marketing automation and lead generation.\n\nFor businesses in Devonport, digital marketing isn't simply about having a website or running an advertising campaign. It's about how customers discover your business, what they see when they find you and what happens when they make contact.\n\nCan customers find your business when they search on Google? Is your website doing its job? Is your Google Business Profile helping you appear locally? What happens to missed or after-hours calls? And are new enquiries being followed up effectively?\n\nAt Bolder Digital, we look at these areas as connected parts of the customer journey.\n\nOur work includes Google Business Profile optimisation, AI marketing and automation, Voice AI agents, websites, CRM systems, HighLevel setup and customisation, lead generation systems and digital marketing strategy. Where specialist services such as paid advertising or SEO are required, we can also connect businesses with trusted specialist partners.\n\nDIGITAL MARKETING DEVONPORT & NORTH WEST TASMANIA\n\nDevonport is an important business and service centre for Tasmania's North West Coast, with businesses serving both the local community and customers throughout the surrounding region.\n\nWe can work with businesses across Devonport, East Devonport, Miandetta, Spreyton, Don, Ambleside, Quoiba, Latrobe, Port Sorell, Shearwater, Ulverstone and surrounding areas of North West Tasmania.\n\nAI MARKETING & AUTOMATION\n\nAI and automation can help businesses improve how they manage customer enquiries, phone calls, website conversations, follow-up and marketing processes.\n\nRather than adding technology for the sake of it, we focus on practical applications that fit how each business actually operates.\n\nGOOGLE BUSINESS PROFILE OPTIMISATION\n\nFor businesses that rely on customers finding them locally, Google Business Profile can be an important part of their digital presence.\n\nBolder Digital provides Google Business Profile optimisation to help businesses improve and maintain their visibility across relevant local Google searches.\n\nVOICE AI\n\nVoice AI can help businesses manage incoming calls, missed calls and after-hours enquiries. Depending on the setup, AI voice agents can answer common questions, capture information and help manage enquiries when your team isn't available.\n\nWEBSITES, CRM & MARKETING SYSTEMS\n\nGetting discovered online is only one part of digital marketing.\n\nYour website, CRM, follow-up processes and customer journey all influence whether that initial attention becomes a genuine business opportunity.\n\nABOUT BOLDER DIGITAL\n\nBolder Digital is based in Tasmania and helps businesses use digital marketing, AI, automation and technology to improve how they attract, communicate with and follow up potential customers.\n\nIf you're looking for digital marketing in Devonport or help with AI marketing, Google Business Profile optimisation, Voice AI, HighLevel, websites, CRM systems or marketing automation, we'd love to learn more about your business.\n\nClick the link below to share some details about your business and what you're looking for help with. One of our team members will be in touch.\n\n▶ TALK TO BOLDER DIGITAL\nhttps://bolderdigital.com.au/contact-us-5670\n\n▶ DIGITAL MARKETING TASMANIA\nhttps://youtu.be/jv3FExIEjtA\n\n▶ TASMANIA DIGITAL MARKETING PLAYLIST\nhttps://www.youtube.com/playlist?list=PLOl9_YL1pMuA\n\n#DigitalMarketingDevonport #DevonportBusiness #AIMarketing #DigitalMarketingTasmania #BolderDigital",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "jv3FExIEjtA": {
+      "checkedAt": "2026-08-23T05:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Looking for digital marketing in Tasmania? \n\nBolder Digital is a Tasmanian digital marketing and AI automation business helping businesses bring their marketing, technology and systems together.\n\nIn this video, Jarryd Holmes from Bolder Digital explores digital marketing for Tasmanian businesses and how AI marketing, Google Business Profile optimisation, websites, Voice AI, CRM systems, marketing automation and lead generation can work together as part of a broader digital strategy.\n\nDigital marketing isn't just about Google Ads, SEO, social media or building another website.\n\nIt starts with understanding how potential customers discover your business, what they see when they find you and what happens after they make contact.\n\nAre you showing up when customers search on Google? Does your website clearly communicate what you do? Is your Google Business Profile supporting your local visibility? What happens when somebody calls and nobody can answer? Are enquiries being followed up? And are your marketing, CRM and business systems actually connected?\n\nAt Bolder Digital, we look at the complete customer journey.\n\nOur work includes Google Business Profile optimisation, AI marketing and automation, Voice AI agents, websites, CRM systems, HighLevel setup and customisation, lead generation systems and digital marketing strategy. Where specialist services such as paid advertising or SEO are required, we can also connect businesses with trusted specialist partners.\n\nDIGITAL MARKETING ACROSS TASMANIA\n\nTasmania has a diverse business community, from local service businesses and professional services through to tourism, trades, retail and growing companies serving customers across the state and mainland Australia.\n\nBolder Digital is based in Launceston and can help businesses throughout Tasmania, including Launceston, Hobart, Devonport, Burnie and surrounding regional communities across Northern Tasmania, Southern Tasmania and the North West Coast.\n\nAI MARKETING & AUTOMATION TASMANIA\n\nAI and automation are changing how businesses can manage marketing and customer communication.\n\nWe focus on practical applications of AI, including customer enquiries, website conversations, incoming and missed calls, follow-up, local visibility and connecting marketing with CRM systems.\n\nGOOGLE BUSINESS PROFILE OPTIMISATION\n\nFor Tasmanian businesses serving local customers, Google Business Profile can be an important part of being discovered online.\n\nBolder Digital provides Google Business Profile optimisation to help businesses improve and maintain their presence across relevant local Google searches.\n\nVOICE AI\n\nVoice AI can help businesses manage incoming calls, missed calls and after-hours enquiries. Depending on the setup, AI voice agents can answer common questions, capture information and help manage enquiries when your team isn't available.\n\nWEBSITES, CRM & MARKETING SYSTEMS\n\nGetting somebody to discover your business is only the beginning.\n\nYour website, CRM, follow-up systems and customer journey all influence what happens next. That's why we look at digital marketing, AI, automation and technology as connected parts of the same system.\n\nABOUT BOLDER DIGITAL\n\nBolder Digital is based in Launceston, Tasmania, and works with businesses across the state and beyond.\n\nIf you're looking for digital marketing in Tasmania or help with AI marketing, Google Business Profile optimisation, Voice AI, HighLevel, websites, CRM systems or marketing automation, we'd love to learn more about your business.\n\nClick the link below to share some details about your business and what you're looking for help with. One of our team members will be in touch.\n\n▶ TALK TO BOLDER DIGITAL\nhttps://bolderdigital.com.au/contact-us-5670\n\n▶ DIGITAL MARKETING TASMANIA\nhttps://youtu.be/jv3FExIEjtA\n\n▶ LOCAL DIGITAL MARKETING VIDEOS\nHobart: https://youtu.be/Wq4nqqmVCto?si=S6rgX06k99Epnx5U\nLaunceston: https://youtu.be/3qQSbI9Nr3c?si=27_AAh4AwphquGuO\nDevonport: https://youtu.be/YOCvDlQNLmU?si=V6EhRYyxrKfRXB85\nBurnie: https://youtu.be/TceqU7JHJJg?si=Rt2QbT3qMOMii9jv\n\n#DigitalMarketingTasmania #TasmanianBusiness #AIMarketing #MarketingAutomation #BolderDigital",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }

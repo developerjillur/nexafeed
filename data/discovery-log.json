@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T04:53:09Z",
+  "updatedAt": "2026-08-23T05:53:09Z",
   "items": [
+    {
+      "id": "4-xwuwpnunM",
+      "type": "short",
+      "source": "primary",
+      "channel": "BPro Club",
+      "publishedAt": "2026-08-23T04:58:15Z",
+      "firstSeenAt": "2026-08-23T05:53:09Z"
+    },
+    {
+      "id": "DHGttpTWhEw",
+      "type": "short",
+      "source": "secondary",
+      "channel": "creativesdesigns",
+      "publishedAt": "2026-08-23T05:39:09Z",
+      "firstSeenAt": "2026-08-23T05:53:09Z"
+    },
+    {
+      "id": "Wq4nqqmVCto",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bolder Digital",
+      "publishedAt": "2026-08-23T05:10:09Z",
+      "firstSeenAt": "2026-08-23T05:53:09Z"
+    },
+    {
+      "id": "YOCvDlQNLmU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bolder Digital",
+      "publishedAt": "2026-08-23T04:59:09Z",
+      "firstSeenAt": "2026-08-23T05:53:09Z"
+    },
+    {
+      "id": "TceqU7JHJJg",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bolder Digital",
+      "publishedAt": "2026-08-23T04:53:09Z",
+      "firstSeenAt": "2026-08-23T05:53:09Z"
+    },
+    {
+      "id": "jv3FExIEjtA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Bolder Digital",
+      "publishedAt": "2026-08-23T03:53:09Z",
+      "firstSeenAt": "2026-08-23T05:53:09Z"
+    },
     {
       "id": "3qQSbI9Nr3c",
       "type": "long",
@@ -22139,6 +22187,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "agency automation"
+    },
+    {
+      "runAt": "2026-08-23T05:53:09Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "digital marketing automation"
     }
   ]
 }
