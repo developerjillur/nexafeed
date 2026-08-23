@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T21:53:26Z",
+  "updatedAt": "2026-08-23T22:53:27Z",
   "items": [
+    {
+      "id": "UsfCe5fJK6A",
+      "type": "long",
+      "source": "primary",
+      "channel": "Nate Herk",
+      "publishedAt": "2026-08-23T22:52:30Z",
+      "firstSeenAt": "2026-08-23T22:53:27Z"
+    },
+    {
+      "id": "VegXfxyXl1Y",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Mithunbolchi Podcast Show",
+      "publishedAt": "2026-08-23T16:53:27Z",
+      "firstSeenAt": "2026-08-23T22:53:27Z"
+    },
+    {
+      "id": "eDoqKpLquG0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Fox Business",
+      "publishedAt": "2026-08-23T16:53:27Z",
+      "firstSeenAt": "2026-08-23T22:53:27Z"
+    },
+    {
+      "id": "zl3haKPQEAE",
+      "type": "short",
+      "source": "secondary",
+      "channel": "GandhiServe",
+      "publishedAt": "2026-08-23T14:53:27Z",
+      "firstSeenAt": "2026-08-23T22:53:27Z"
+    },
+    {
+      "id": "gZTlTZ2Pa94",
+      "type": "long",
+      "source": "secondary",
+      "channel": "InfoTalkBD",
+      "publishedAt": "2026-08-23T13:53:27Z",
+      "firstSeenAt": "2026-08-23T22:53:27Z"
+    },
+    {
+      "id": "QEK4o-Di4KY",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CNBC-TV18",
+      "publishedAt": "2026-08-23T13:53:27Z",
+      "firstSeenAt": "2026-08-23T22:53:27Z"
+    },
     {
       "id": "w13YkrOY7fY",
       "type": "short",
@@ -22972,6 +23020,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI software development"
+    },
+    {
+      "runAt": "2026-08-23T22:53:27Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Artificial Intelligence"
     }
   ]
 }
