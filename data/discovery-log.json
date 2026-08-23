@@ -1,7 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T18:53:21Z",
+  "updatedAt": "2026-08-23T19:53:24Z",
   "items": [
+    {
+      "id": "Y0lGJgwAviM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Simplilearn",
+      "publishedAt": "2026-08-23T14:53:24Z",
+      "firstSeenAt": "2026-08-23T19:53:24Z"
+    },
+    {
+      "id": "LbyY0M20wZ8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Virtualization Options LLC Learning Portal",
+      "publishedAt": "2026-08-23T11:53:24Z",
+      "firstSeenAt": "2026-08-23T19:53:24Z"
+    },
+    {
+      "id": "O4JGRWeiL4Q",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Virtualization Options LLC Learning Portal",
+      "publishedAt": "2026-08-23T11:53:24Z",
+      "firstSeenAt": "2026-08-23T19:53:24Z"
+    },
+    {
+      "id": "6Um2WFzEZW0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Virtualization Options LLC Learning Portal",
+      "publishedAt": "2026-08-23T11:53:24Z",
+      "firstSeenAt": "2026-08-23T19:53:24Z"
+    },
+    {
+      "id": "3sjKx54Fzy4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Virtualization Options LLC Learning Portal",
+      "publishedAt": "2026-08-23T11:53:24Z",
+      "firstSeenAt": "2026-08-23T19:53:24Z"
+    },
+    {
+      "id": "9XLBOyOHbGE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Virtualization Options LLC Learning Portal",
+      "publishedAt": "2026-08-23T11:53:24Z",
+      "firstSeenAt": "2026-08-23T19:53:24Z"
+    },
+    {
+      "id": "a_riWZSjpS4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Virtualization Options LLC Learning Portal",
+      "publishedAt": "2026-08-23T11:53:24Z",
+      "firstSeenAt": "2026-08-23T19:53:24Z"
+    },
     {
       "id": "_QAvTjG842A",
       "type": "short",
@@ -22817,6 +22873,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI agents"
+    },
+    {
+      "runAt": "2026-08-23T19:53:24Z",
+      "new": 8,
+      "long": 8,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "generative AI tools"
     }
   ]
 }

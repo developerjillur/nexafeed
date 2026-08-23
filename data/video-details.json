@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T18:53:21Z",
+  "updatedAt": "2026-08-23T19:53:24Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -11543,19 +11543,29 @@
       "probeClient": "web_embedded"
     },
     "Himh-luOiaw": {
-      "checkedAt": "2026-08-22T18:53:54Z",
+      "checkedAt": "2026-08-23T19:53:24Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "The irony of AI is that software engineers are building tools that could eventually automate parts of their own jobs.\n\nA new open-source approach is allowing AI agents to control and interact with a computer, taking AI coding agents beyond simply generating code.\n\nInstead of asking an AI to write a piece of code and then manually handling everything else, the agent can potentially interact with the computer, make decisions, use applications, and execute tasks.\n\nThis is particularly interesting for people using coding agents such as Claude Code or Codex.\n\nThe basic idea is simple:\n\nGive the AI a task.\n\nInstead of giving it every individual instruction, the agent can determine the steps required to complete that task and interact with the computer along the way.\n\nThat could mean opening applications, navigating interfaces, running commands, working with files, testing software, and handling repetitive digital workflows.\n\nAnd because the underlying project is open-source, developers can experiment with the technology and build their own workflows around it.\n\nBut here's the bigger question.\n\nAI coding tools were initially about helping developers write code faster.\n\nNow, we're moving toward agents that can potentially use the computer, execute the code, test the result, and keep working toward an outcome.\n\nThat's a much bigger shift.\n\nThe question isn't necessarily whether AI will completely replace software engineers tomorrow.\n\nIt's whether the definition of a software engineer changes when one developer can delegate more and more of the actual execution to AI agents.\n\nAnd there's something almost ironic about it:\n\nThe people building the automation may be creating the tools that automate their own work.\n\nWould you let an AI agent control your computer and work independently?\n\nLet us know in the comments.\n\nWhy Subscribe to bpro?\n\nBPro is focused on the AI tools and technologies changing how we build, work, and create.\n\nWe cover AI agents, AI coding, automation, open-source AI, developer tools, LLMs, productivity, and emerging AI technology.\n\nBut we don't just show you the latest AI tool.\n\nWe explain what it can actually do, why it matters, how it could change workflows, and what it could mean for developers and businesses.\n\nIf you want to stay ahead of the AI tools transforming software and productivity, subscribe to bpro.\n\nBecause the future of software development may not be about writing every line yourself.\n\nIt may be about telling AI what needs to get done.\n\n#AI #AIAgents #AICoding #SoftwareEngineering #ArtificialIntelligence\n\nAI, AI agents, AI coding, AI coding agents, AI computer control, AI computer use, AI automation, AI tools, software engineering, software developers, AI developer tools, Claude Code, Codex, OpenAI Codex, Claude AI, open source AI, open source AI agents, computer use AI, AI agent automation, AI productivity, AI programming, AI coding tools, future of software development, future of coding, AI replacing programmers, AI replacing software engineers, will AI replace software engineers, will AI replace programmers, how AI agents work, how to use AI agents, how to use AI coding agents, how AI controls a computer, what is an AI agent, what is computer use AI, what is AI automation, why AI is replacing coding, why software engineers are using AI, AI tools for developers, best AI coding tools, AI coding 2026",
-      "commentCount": 4,
-      "likeCount": 38,
+      "commentCount": 5,
+      "likeCount": 56,
       "comments": [
+        {
+          "id": "UgwvikjzYkHoyyvBu_B4AaABAg",
+          "author": "@gurvindergurvinder3045",
+          "text": "Share the link",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T13:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nc2FC3NvASXeauvOgCf7xPkxuKXFMlY5tQOi-Vw-8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugzd44MXORgQAvifjkl4AaABAg",
           "author": "@amoldream",
           "text": "Claude's \"computer use\" OR automated GUI-control capability isn't new !!! .... it launched in public beta on October 22, 2024 with Claude 3.5 Sonnet, letting the model follow commands to move a cursor, click, and type via a virtual keyboard, emulating how a person interacts with their own computer. Claude 3.5 Sonnet was the first frontier model to offer computer use in public beta, released as an experimental capability meant to improve with feedback.",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T17:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kOu03hLPlOfwG7cVkvm9TZYmbEZwm_Ayvv15MRpBZ41J4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11565,7 +11575,7 @@
           "author": "@sachinwaikar8864",
           "text": "Link please",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T13:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lKLc1F90KZFoIzXLksvFr_ot_jhDQuWBgbEx03VvCOy3iSeSakR3rodFATvo7yZ7LV3Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11575,7 +11585,7 @@
           "author": "@DarkFinanceDocumentary",
           "text": "Long practical video kab de rahi ho",
           "likeCount": 1,
-          "publishedAt": "2026-08-22T05:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/JxcwfkW3FYwuJL3Z6wRmpImUqtLDNmJ0_iKAx_s2YctbdNSvzjIpaHBD9dLulkvlWEBuMMnb6qc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11585,30 +11595,60 @@
           "author": "@indianbitter",
           "text": "Where is the source link? 0",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T20:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nNR0txrWLLXOjT6k2Ti7o6G9kTWYH3C4ykr1VUJgYBZRxAlKkR9wOlcDmlYHm1gZhfoQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T18:53:54Z",
+      "commentsFetchedAt": "2026-08-23T19:53:24Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "Lv8_ba0zm_M": {
-      "checkedAt": "2026-08-22T18:53:54Z",
+      "checkedAt": "2026-08-23T19:53:24Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"Base\" for the GitHub repo link\n\nYour claude.md is static.\n\nRules go stale. The whole file dumps into context every session, burning tokens on rules you didn't need.\n\nHere's the thing. Base builds a knowledge graph of your rules, behaviors, and projects.\n\nDomain rules fire on keywords. Nothing else loads.\n\nBoot a session and Claude already knows what you're building.\n\nConsistency up 90%.\n\n#ClaudeCode\n#AItools\n#AIWorkflow\n#Automation\n#DevTools",
       "commentCount": 8,
-      "likeCount": 76,
+      "likeCount": 100,
       "comments": [
+        {
+          "id": "UgxUxadGHOE3-Ivq-Ul4AaABAg",
+          "author": "@justinle1017",
+          "text": "Base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nip8S9ceF3ER6GgGy8oxto2LxWgmo8Cn8O6wdU5PLRI28_=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxn8pHPQGPRZPB6uNV4AaABAg",
+          "author": "@Jonathan1981it",
+          "text": "Base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T09:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n8eM04SThrgKQkFNC4Su0TDSxHvEs-yAc5QpzGwquZCBo=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugylh5aq9or4w2jorNl4AaABAg",
+          "author": "@andreporozny74",
+          "text": "base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T02:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lNVVEcxVVFezIWB504pUMR4KmkTcU1TWIOt1l3fq8=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugw8g87Gq7NYQ3l7Q3p4AaABAg",
           "author": "@doreenmccarthy9009",
           "text": "Great information and a huge time saver thank you so much.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T17:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ksOF9cJw6Aaagqi0ktCjgqqvdei_kxInkStR8SF52k1ZMR=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11617,8 +11657,8 @@
           "id": "Ugzh8cZVpzXXYEHG23N4AaABAg",
           "author": "@KiraCuts-c2n",
           "text": "Compatible with Graphify? or just Base itself only.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T15:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l-sTb0TDAUjJSzXF0YMIxm-GPOSJ-JBJhTfq0RFjZ6wBnYWdvZDSMmBi5u9Ay9p1Dp1Q=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11628,7 +11668,7 @@
           "author": "@fugieyang",
           "text": "Base",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T15:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/mbMRzd0n5Upqwk0Tj0jRPos532i1o7kU-cm1FFFMX_VMcQZsCBxT4eT-rvRgZAo-4BBySMfJyV0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11637,8 +11677,8 @@
           "id": "UgyO-3E3JBYkwXQ2SAV4AaABAg",
           "author": "@LigneDesign",
           "text": "When to use Base versus Hindsight?",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T14:00:00Z",
+          "likeCount": 2,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_le8wm-K5IEJ8uUwPmPHPnYglcOWxYAYrDaNeyxKog=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11648,43 +11688,13 @@
           "author": "@jsandyphillips",
           "text": "Base",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T11:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kSvXGbHfo0HQWzKN0ggSoNU9QLWSWfgyHmlG2SmmYsHBY=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugww4PIL_ZZ-3klLbvl4AaABAg",
-          "author": "@LastManOnPlanet",
-          "text": "base",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T10:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lZJaxySrkSYY3rQsyOONtIwCbo8vxFqrrcQ1bxfYQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy7QdkkSUSnIbwQnid4AaABAg",
-          "author": "@spikethebeardeddragon2563",
-          "text": "Base",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T01:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_7UhB5v3JTwUSW4j2SbqRmTkvMSfNmec5gfXl8nCX6GU=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxfhiUAII2luhupNRN4AaABAg",
-          "author": "@parmoni",
-          "text": "base",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nor6Vyx4VYmCZ08xJ9qv1OWq5PFuqiuQcZxI_6PC4mZos=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T18:53:54Z",
+      "commentsFetchedAt": "2026-08-23T19:53:24Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -11698,29 +11708,39 @@
       "probeClient": "web_embedded"
     },
     "h8qy-MBDzho": {
-      "checkedAt": "2026-08-22T18:53:54Z",
+      "checkedAt": "2026-08-23T19:53:24Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "You don't need to pay for Veo or Kling to make AI videos anymore.\n\nLTX-2.5 just dropped.\n\nIt's a completely open world model.\n\nYou just download and run it on your own computer.\n\nIt's yours to fine-tune however you want.\n\nPrompt understanding is way better now.\n\nIt runs on a new Gemma 4 backbone.\n\nSo what you type is actually what you get.\n\nNo more re-rolling the same prompt five times.\n\nIt also generates native multishot.\n\nThat means one continuous take across multiple shots.\n\nSame character, same scene, same lighting, same voice across every cut.\n\nThe outputs are just cleaner too.\n\nSharper faces, readable text, fewer smears in fast motion.\n\nIt's free for commercial use too, as long as you're under 10 million in annual revenue.\n\n#ltx2 #videogenerator #aivideos #opensourceai #LTXAI",
-      "commentCount": 5,
-      "likeCount": 330,
+      "commentCount": 6,
+      "likeCount": 525,
       "comments": [
         {
           "id": "UgxcfaL20mByH8zgAfV4AaABAg",
           "author": "@nickautomates",
           "text": "You can try out LTX 2.5 and download its Open Weights from here:\n\n https://huggingface.co/Lightricks/LTX-2.5 \n\nhttps://ltx.io/model/ltx-2-5",
-          "likeCount": 3,
+          "likeCount": 5,
           "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/oJmesQSjFvrfcORlESFP49w-i1b2onariycBuKtDXenOieZZerQ-EyFamFOritV0IAqqioNQkA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
+          "id": "UgzRj2mOxnGP8X_hKMx4AaABAg",
+          "author": "@LolasAdventure143",
+          "text": "Interested, thanks for this sir",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/-7Qn8ymqllWrIXP-N3SEPQvc0YYNZOa98qMMGrCnr8CBKzYYqPzagkf1kHviegamD_3_HpoC=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
           "id": "Ugzg97XUCuVCZ4NgzeR4AaABAg",
           "author": "@max16232",
           "text": "Minimum 32GB to 48GB VRAM (e.g., NVIDIA RTX 5090 or equivalent with quantization/low-VRAM optimizations); full precision requires 66GB+ VRAM (such as an A100 or H100).\nBro your videos is waste of time. Most people don’t have this hardware.",
-          "likeCount": 2,
-          "publishedAt": "2026-08-22T00:00:00Z",
+          "likeCount": 3,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mNyvw3-7UC6ZsI3BVS06oR0Ns9k6U_VYiZGADqh5300i8=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11729,8 +11749,8 @@
           "id": "UgwKZpp3s2XXWNpHAJ94AaABAg",
           "author": "@jspatterson83",
           "text": "I would be interested in seeing some kind of feedback/data showing consumers actually like or want AI videos, as opposed to it just being shoved down our throats. On YouTube I down vote every Ai video that comes across my feed, and hit the do not recommend button so that I (hopefully) never see that channel again.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T00:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kQIMDVWltzFF29bDwMfhghhtX46xuwFRZkDDCSVsc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11740,7 +11760,7 @@
           "author": "@TrIckZerT",
           "text": "What do you run it in? Does it have its own app?",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T21:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lLgxHGNmrmZG-Moi6igl-Q_iGjevkeULSWMuuA3mo=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11756,17 +11776,17 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T18:53:54Z",
+      "commentsFetchedAt": "2026-08-23T19:53:24Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "fUJXjHjqVJE": {
-      "checkedAt": "2026-08-22T18:53:54Z",
+      "checkedAt": "2026-08-23T19:53:24Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"HUMAN\" and I'll send you the ebook. 🔥\n\nFour settings. Five minutes. Claude never responds like a stranger again.\n\n1️⃣ Agent - tell Claude exactly who it needs to be. Role, tone, personality, mindset.\n2️⃣ Context - give Claude the full background on your business so it never starts cold.\n3️⃣ Memory - show Claude your past decisions, preferences, and patterns.\n4️⃣ Skills - give Claude step by step instructions to do the work the way you would do it yourself.\n\nNow every response is built on all four at once. Not guessing. Not generic. Working like a custom employee who already knows your business inside and out.\n\nSave this before you forget.\n\n#claude #aitools #prompts #artificialintelligence #chatgpt",
       "commentCount": 8,
-      "likeCount": 462,
+      "likeCount": 670,
       "comments": [
         {
           "id": "UgyZfBIdn6AJhP68B-J4AaABAg",
@@ -11779,77 +11799,77 @@
           "isUploader": true
         },
         {
-          "id": "UgzV9gnYoJHTZMii9vR4AaABAg",
-          "author": "@lemuelrodriguez1794",
+          "id": "UgxJgujC7P_VJJwUS-F4AaABAg",
+          "author": "@kian8758",
           "text": "Human",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T18:41:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kPDMU8J-5OP_YtAcKVXOoReR_tew_AUnKDv_uWHEeEUrz_hb-YzHO526b6KJ0TceMuJQ=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T19:51:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nINduFEoqdR9Ur9aH5Wjyys_h6Cvr5JLOUK2d9YuckXV4H-eJ2TUNvqVabpPDyQcaEZw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugz5pkmP-KxlG91cabl4AaABAg",
-          "author": "@spacetimepotato",
-          "text": "human",
+          "id": "UgzqcC7kHOLEORoxnk14AaABAg",
+          "author": "@nonkumnisi",
+          "text": "Human",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/u5Dd7kHnRY9ysiArKj18g9tyuP6OwYpUjERbpE3gvjdV6bZtQsRTY1LG8tiJ-6x83Z62bkYWRhc=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T19:34:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nA_fl6s16VRNFtMypMusOXmzoDWlO1ZNzmIliiwRQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxFWZPutYzdvng49lB4AaABAg",
-          "author": "@tri-stategroundscaping9776",
+          "id": "UgwAGJ76cUPZMwHFBRN4AaABAg",
+          "author": "@MirnaBartolich",
           "text": "HUMAN",
           "likeCount": 1,
-          "publishedAt": "2026-08-22T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_W7iBhr-N5V1a-FJqr8TfIpDb3eiYqHWFn46Lza4=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nq0rRqtLShOeg0_5EaUW_j0j-fhDctn9fKYAs_t6lfwPo=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugw5roWEBT9N_fR3gth4AaABAg",
-          "author": "@reitrainer",
-          "text": "Human",
-          "likeCount": 1,
-          "publishedAt": "2026-08-22T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n8em2Fs_4YsdMjQctrysbMSJ1DKmYtZei2a9ODku0=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy2NDhZeLQnxVfgnLd4AaABAg",
-          "author": "@johnsantillan6700",
-          "text": "Human",
-          "likeCount": 1,
-          "publishedAt": "2026-08-22T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kY6yNKgIQOM1rJwmA0_X4V6KTGvwFi5hHxIx8mblE=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy1M5BobFD2icRCHmF4AaABAg",
-          "author": "@technodhairya8855",
+          "id": "UgwwoFWFZ71xCmaJhQl4AaABAg",
+          "author": "@jagdeepsinghvirdi",
           "text": "HUMAN",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T15:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nsrz4zSg5dCaCCnEm7_KS4-_Sfa1doGWI7EyxUDUrudZ1ahvhxsdDwvXeOce18W0Drwg=s88-c-k-c0x00ffffff-no-rj",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T18:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/JFO1z5XcP4qtSZU7S_9ItDD9pyiaQN85HziAh-KGpBHyyo4X28HeR-WIIEZUvC5OVi8GXslNeEk=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgyH6MUAYNaM2Shn8bJ4AaABAg",
-          "author": "@gregorywilliams6023",
-          "text": "Human",
+          "id": "Ugyk7pv3RWd2wHacCTR4AaABAg",
+          "author": "@1MikeyOB",
+          "text": "\"Human\"",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kRymvuP4iewlNAvFL96iLwe-_yP-jumUGrVOfFRb8osuUi=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwS7StZX-sFg1vcXTR4AaABAg",
+          "author": "@melexa310",
+          "text": "Human\n🙏",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T15:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n45C1XuM2G2OOCY4Wkf3Eo_8Ta6joDUYX5TeN6Yp0=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ErcnHsB0igl6NVGXObQCt7Z6Ud5kLdg_3CphLYpElH0qSEaY2OUkBbPrXrjWLfCJ8dVuYujt=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugx59uzhuXMg4DDXBwF4AaABAg",
+          "author": "@Sensivon-AI",
+          "text": "Human",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/APGxx-SLDaUlPm8e32JvrhhCArQF0yKe3Fp_IxAr2yMGUF2zQI6DP1xB1t10hvtzlIYM6NiAOj0=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T18:53:54Z",
+      "commentsFetchedAt": "2026-08-23T19:53:24Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -11917,95 +11937,95 @@
       "probeClient": "web_embedded"
     },
     "9vSJH8gkgNU": {
-      "checkedAt": "2026-08-22T19:53:15Z",
+      "checkedAt": "2026-08-23T19:53:24Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment EVE and I'll send you the repo.\n\nA startup just open-sourced its entire AI-powered CRM, the same system it runs internally. It's called Comp AI, and it's not a stripped template. Lead capture, calling, emailing, pipeline, plus AI agents that actually work the leads for you, hooking into Gmail and your calendar and filling records on their own. Every contact has an agent tab where you see its steps and which leads it dropped and why. If you run an agency or a small team, this is the kind of backend you'd normally pay thousands for. Fair warning, it's a fresh release, so some of it is still rough.\n\n#crm #ai #opensource #sales #buildinpublic",
       "commentCount": 8,
-      "likeCount": 51,
+      "likeCount": 82,
       "comments": [
         {
-          "id": "Ugx6Zn2MVbj7PC0wQiZ4AaABAg",
-          "author": "@oluyemiojeyemi2764",
+          "id": "UgwMU7cBMD9HStQmBTB4AaABAg",
+          "author": "@azatshatru5455",
           "text": "Eve",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T19:45:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k5O0BFIlWyoTlyshZg00ZqzioaIvW-r_Ks9Hm5XRbT1X0=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mpgLdK_yfxcJBAtMs0VOhajEMe4b-evMwlLy80gwM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgxuXOOXy4w9HSYBtgx4AaABAg",
-          "author": "@ryanvanornum5917",
+          "id": "Ugw226H_h1bl3qG5snd4AaABAg",
+          "author": "@reylaxLang",
           "text": "Eve",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T19:28:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kYUjrj8Bho40XDmO3V-zqZNCq9qWSmyd86vNY-pqUmhdmu=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_liVkNaG82We5sQGVAYAH-Pk2_lPYmABUjg1KLN0ws=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "Ugxp3ipET2c7KjDrwq14AaABAg",
-          "author": "@deny-kkk",
+          "id": "UgxKVsoMOqwLbsu5L_t4AaABAg",
+          "author": "@gelari5204",
           "text": "Eve",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T19:03:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lTn-1PbSDeTJvXgo-xFWwfg7vwDlRfcDFGJxViMlus3w=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lTyA3hJg0mo8R9FRei4yra04-ccA7KeS8WZq1yqaE=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgzNL-ydlz-hErgdYvx4AaABAg",
-          "author": "@ChefBilly-w6o",
+          "id": "UgysF5sL3xqhLOxzX4h4AaABAg",
+          "author": "@alvinneal4174",
+          "text": "Eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k1H0HCWKV6VrBABTE-HPHxocfl6EP0dL5B3-ejpPaBoB0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzJ28KWpEsHZ__Diqx4AaABAg",
+          "author": "@ClickBeacon-q5f",
+          "text": "Eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T05:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kobtIKB48kYbyoIbTaEMN7k6Obdij_-kVeSMbC28jaAlf34P-acLGJTORMNvUS62PM0Q=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw6qpAyWa_tQyIMKWN4AaABAg",
+          "author": "@VASVIK2015",
+          "text": "Eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/kkT5UIwwPNCCIO6z0GbBLfmsJaZ7O6sS3xnmROlSBpOHiYP09gwUpGrjLZhp8jgSpacDRugz5g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyZTQSycnvHCPs6Gxp4AaABAg",
+          "author": "@shri.careerai",
+          "text": "Eve",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/LDcB7nUcxHg1jG4_koh7PQR0SBVIiOHk431mlVUmFoz4Hbc8ruf3eS5WF7HNgC78VJvzBYJaJg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugy0CwwKI3A4O3hMaAt4AaABAg",
+          "author": "@parmoni",
           "text": "eve",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T18:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kz3GCqKBtTVcEIOrEeBrkd3zEGWkQEs6C-N1T-fEBGAI6BhyUrrDYcsm2hHsGELpLwLw=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx_GkRL4_8UKoo87Nt4AaABAg",
-          "author": "@mackensondesir8189",
-          "text": "Eve",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T17:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n7YTJxO_uuhuBQ_9UsCTrNedAeb3aY7CuKLompOhQYUQ=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugzlgau5-QT8M8DWAzl4AaABAg",
-          "author": "@bjvandriel",
-          "text": "Eve",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T16:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nqeVVwIQ1dAl5WH2hQmuy85NbspE4z-TQkrZs4S48S1Gg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxvehuA4iHpDwFjwrx4AaABAg",
-          "author": "@johniannelli9577",
-          "text": "Eve",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T14:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nX47TnXTKUH_fgLPkjNA-EFy3yxAlF_vmjv-AbUlC6FdU=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwDuYnpEh453Mk8Swl4AaABAg",
-          "author": "@bakar686",
-          "text": "eve",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T10:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nTWnEpRFPjfXcamG8KHl9SP3snMN20mgCKrRixC-0=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nor6Vyx4VYmCZ08xJ9qv1OWq5PFuqiuQcZxI_6PC4mZos=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T19:53:15Z",
+      "commentsFetchedAt": "2026-08-23T19:53:24Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -13521,35 +13541,95 @@
       "probeClient": "web_embedded"
     },
     "hqKfhWGwO-Y": {
-      "checkedAt": "2026-08-22T19:53:15Z",
+      "checkedAt": "2026-08-23T19:53:24Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment \"BASE\" for the repo link\n\nClaude doesn't know your rules. It's pretending.\n\nEvery fresh session you re-paste the same context. Thousands of tokens. Gone.\n\nBASE turns your rules and projects into a knowledge graph.\n\nGlobal rules load on start. Say \"dev\" and a hook pulls only the dev domain.\n\n70x fewer tokens. Behavior that holds.\n\n#ClaudeCode\n#AItools\n#Automation\n#AIWorkflow\n#BuildInPublic",
-      "commentCount": 2,
-      "likeCount": 4,
+      "commentCount": 8,
+      "likeCount": 64,
       "comments": [
         {
           "id": "Ugz6NYXc56Gva5icZFt4AaABAg",
           "author": "@charlieautomates",
           "text": "🚨🔑 Repo link and playbook attached here: https://charlieautomates.com/free-resources/#base",
-          "likeCount": 1,
-          "publishedAt": "2026-08-22T19:19:00Z",
+          "likeCount": 3,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/4S5x52PgTq6BNMazh07NLsLTOSOcO0QKSNn85c7STNlYMJIKmcI24E1JcQ27Hac6m7Eh8WQh=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": true,
           "isUploader": true
         },
         {
-          "id": "Ugw4iclALzuJdlQDR9d4AaABAg",
-          "author": "@darwingarciasalgado",
+          "id": "UgxwtmlgY0k0K8uftTx4AaABAg",
+          "author": "@baztheman",
+          "text": "base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kkWax7z0UpsljHo0OWWoGvOpmnIjurZZuBx_AyYISGjLk=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwUhy_YKCQq921Z3x54AaABAg",
+          "author": "@OltiDudaB",
           "text": "Base",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T19:36:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/w75avGUUfNgTGZbft9RohTXm3Zfuc3Y74ZMZGKTu5aCU44hkdaTTeTC8YNStOmuwPQoCaWwprw=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-23T07:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_noTn5R62t8CWUZjhQ-xGduzMUZogFthqniMOcRODwOpkuKXBfW9JT96sWLZe3gs2nANQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxcJWBOPjbFfeDB-J94AaABAg",
+          "author": "@LeeGreyMatter",
+          "text": "Base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_npRQz0LU57FhPnWdy3ZG74p1jLpRzrRIUeDvyT5pQePbc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwC_ND0XDHX_wnvVEF4AaABAg",
+          "author": "@amah3496",
+          "text": "Base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T03:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lyr4LY8rGRnfe52JYypt_9UPWjeBrsROlBQSea3_Iyg4ah=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxilIxrlbIjh3yeBvh4AaABAg",
+          "author": "@New_Earth_Network",
+          "text": "base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/b_RVzgEh3WbAIwqB-XBsGo_-1RySMhep_ApxCUzuTo_hninwzQWsUUTa3XpNrO64JvEQT6rP=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwMrXOvbAsmLJmvGOB4AaABAg",
+          "author": "@VexSovrin",
+          "text": "how about you learn to actually code and not depend on something that cant even add 1 + 1 with out draining the ocean. Losers",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/5u-Yqxuf220s8qWeIbL_ua3MGr7Mmc0jJC6H63viOQcRaJHoYGdceRGETeMuXeeU-Gr-uSx0Bg4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugxr2Pms6aBsMphb8z54AaABAg",
+          "author": "@bigbarakah",
+          "text": "Base",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lBlWjliPtV1MCY0QmTGj0_KOTCQ1U1dXc1YEd09Ug=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T19:53:15Z",
+      "commentsFetchedAt": "2026-08-23T19:53:24Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -14784,6 +14864,78 @@
       "description": "Built a complete AI Job Hunter agent — it scrapes 9 job boards, AI-scores every listing across 7 factors, estimates your interview probability, then auto-tailors your resume and sends a daily digest of your top 4 matches to your inbox. No API costs. No manual browsing. Runs locally.\n\n#AIJobHunter #claude #chatGPT #PythonAIAgent #JobSearchAutomation #AiWithRajpalsinh #AIAgent #BuildWithAI\n\nHar roz 10 websites pe manually job search karna — yeh sab band. Maine ek full AI agent build kiya jo automatically 9 job boards scrape karta hai, har job ko AI se score karta hai (APPLY TODAY / WORTH TRYING / SKIP), aur best 4 jobs har subah 9 AM pe inbox mein deliver karta hai — without lifting a finger.\nAur sabse best part? Yeh India-hire filter bhi hai — jo US-only jobs automatically remove karta hai taaki aap apna time waste na karo.\n\n✅ 9 job boards scrape karna — Greenhouse, LinkedIn, Indeed, YC Jobs, RemoteOK & more\n✅ India-hire filter jo US-only / \"no international\" jobs automatically block karta hai\n✅ MiniMax M3 se 7-factor AI scoring — real decision: APPLY TODAY / WORTH TRYING / SKIP\n✅ Interview probability calculator — 12 signals se honest estimate (78% = HIGH CHANCE )\n✅ AI se resume tailoring, cold email, recruiter DM, cover letter — sab auto-generate\n✅ Daily 9 AM email digest — top 4 curated jobs, no spam, only best matches\n\nAI-powered job hunting agent built with Ollama + MiniMax M3 scrapes 9 boards, AI-scores every listing, auto-tailors your resume, and delivers top jobs to your inbox daily. 100% free for Indian developers and job seekers in 2026.\n\n━━━━━━━━━━━━━━━━━━━━━━\n🔧 TOOLS / Files USED IN THIS VIDEO\n━━━━━━━━━━━━━━━━━━━━━━\n- Python (FREE) — https://python.org\n- Ollama (FREE) — https://ollama.ai\n- MiniMax M3 via Ollama (FREE) — minimax-m3:cloud\n- SerpAPI (Freemium) — https://serpapi.com\n- RapidAPI / LinkedIn Jobs API (Optional) — https://rapidapi.com\n- SQLite (FREE) — built into Python\n- Gmail SMTP App Password (FREE) — via your Google account settings\n- 📄 JOB HUNTER AGENT— DM ME On Instagram: https://www.instagram.com/rajpalsinh__zala\n\n━━━━━━━━━━━━━━━━━━━━━━\n⏱️ TIMESTAMPS\n━━━━━━━━━━━━━━━━━━━━━━\n\n00:00 — Introduction\n00:27 — Agent: How It Works\n01:14 — Why It's Needed & How to Build\n01:53 — Agent Overview\n03:11 — API Keys & Project Setup\n05:56 — Project & Database Schema Setup\n07:24 — Scraping 9 Job Board Sources\n10:04 — Smart Job Filtering\n12:11 — Stage 2: Decision Making\n14:13 — Applying Logic & Outreach Generation\n15:57 — Application Tracker & Scoring Factors\n16:37 — Company Research Engine\n17:06 — Web Dashboard\n18:38 — Conclusion \n\n━━━━━━━━━━━━━━━━━━━━━━\n🔔 SUBSCRIBE KARO\n━━━━━━━━━━━━━━━━━━━━━━\nAgar yeh video helpful laga toh subscribe karo — har hafte ek naya automation build karte hain jo aapka time aur paisa bachaye.\n\n━━━━━━━━━━━━━━━━━━━━━━\n💬 COMMENT KARO\n━━━━━━━━━━━━━━━━━━━━━━\nAapke paas konsa business/project hai? Comment mein batao — next video usi ke liye banaunga.\n\n━━━━━━━━━━━━━━━━━━━━━━\nTo Know More,\n━━━━━━━━━━━━━━━━━━━━━━\n\nFollow Rajpalsinh Zala On ⤵︎\n\nInstagram: https://www.instagram.com/rajpalsinh__zala\n\nLinkedIn: https://www.linkedin.com/in/rajpalsinh-zala-a92b82276/\n\nEmail: rajpalsinh.zala.ai@gmail.com\n\n━━━━━━━━━━━━━━━━━━━━━━\n🎯 CHANNEL MISSION\n━━━━━━━━━━━━━━━━━━━━━━\nAI Automation ko simple banana chahta hoon — taaki India ke har freelancer, student, aur entrepreneur apni life aur business mein AI use kar sake.\nHar hafte real workflows, free tools, aur step-by-step tutorials jo aapka time aur paisa bachayein — bilkul practically.\nSubscribe karo aur AI ke saath apni game level up karo! 🚀\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n#AI #Automation #AIAgent #JobSearch #AIJobHunter #Python #Ollama #MiniMaxM3 #LocalAI #JobSearchAutomation #FreeAI #BuildWithAI #AITools #IndianDeveloper #IndianCreator #TechIndia #TechHindi #AiHindi #FreelancerIndia #AIAgent2026 #ResumeAI #CareerAI #JobApplicationBot #AutomateJobSearch #PassiveIncome #EarnWithAI #SideHustle #OnlineEarning #WorkFromHome #RemoteJobs #AIResume #CoverLetterAI #SerpAPI #PythonProject #LocalLLM #JobHunterAI #AIFreelancing #DigitalIndia #BuildAIAgent #AIJobSearch #JobBoard #InterviewPrepAI #AICareerTools #FreeTools #MakeMoneyOnline #AiAgentsForJobApply",
       "commentCount": 11,
       "likeCount": 24,
+      "probeClient": "web_embedded"
+    },
+    "yaJAMagc_sE": {
+      "checkedAt": "2026-08-23T19:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video, we covered:\nFirst, what a loop actually is.\nSecond, the 5 building blocks every loop needs.\nThird, we'll build two real loops in a coding agent.\n\nOld model:\nYou → prompt → agent → response → you → prompt → agent → response → you...\n\nNew model:\nYou → design loop → loop prompts agent → agent works → loop checks → loop prompts again → done.\n\n__________________________________\nFollow Builders Central on Instagram: https://www.instagram.com/builders.central/",
+      "commentCount": 11,
+      "likeCount": 260,
+      "probeClient": "web_embedded"
+    },
+    "Y0lGJgwAviM": {
+      "checkedAt": "2026-08-23T19:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥Microsoft Applied Agentic AI: Systems Design & Impact - https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=Y0lGJgwAviM&utm_medium=DescriptionFF&utm_source=Youtube\n🔥AI Accelerator Program - From Prompts to Agentic Workflows - https://www.simplilearn.com/ai-accelerator-program?utm_campaign=Y0lGJgwAviM&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Microsoft Applied Generative AI and Agentic AI Specialization - https://www.simplilearn.com/microsoft-applied-ai-course?utm_campaign=Y0lGJgwAviM&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Virginia Tech Applied Agentic AI: Systems Design & Impact - https://www.simplilearn.com/vt-applied-agentic-ai-course?utm_campaign=Y0lGJgwAviM&utm_medium=DescriptionFF&utm_source=Youtube\n🔥Michigan Engineering Generative AI Applications for Leaders - https://www.simplilearn.com/generative-ai-for-business-transformation?utm_campaign=Y0lGJgwAviM&utm_medium=DescriptionFF&utm_source=Youtube\n\nIn this video by Simplilearn, explore Claude AI from beginner to advanced level with a complete guide designed to help you understand and use Claude effectively. Learn how to use Claude AI for everyday tasks, content creation, coding, development, projects, and productivity workflows. We’ll cover Claude 101 for beginners, practical Claude AI use cases, powerful prompts, automation tips, and real-world workflows to help you get more out of Anthropic’s AI assistant. You’ll also get an introduction to Claude Code and Claude Cowork, along with insights into Agentic AI with Claude and how these tools can support developers, content creators, and professionals. Whether you’re completely new to Claude or looking to take your AI skills to the next level, this tutorial will help you understand how to use Claude AI, build effective workflows, create better prompts, and explore Claude-powered projects.\n\n\nRelated Videos:\n✅ 1. \n✅ 2.\n✅ 3.\n✅ 4.\n✅ 5. \nSubscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH\n\n⏩ Check out More AI Videos By Simplilearn: https://youtube.com/playlist?list=PLEiEAq2VkUULyr_ftxpHB6DumOq1Zz2hq   \n\n#ClaudeAITutorialBeginner #ClaudeAIFullGuide #Claude101BeginnerToPro #HowToUseClaudeAI #ClaudeAIForContentCreators #ClaudeAIForDevelopers #ClaudeAIProjectsAndWorkflows #ClaudeCodeTutorial #ClaudeCoworkTutorial #AgenticAIWithClaude #ClaudeAIAutomationTips #BestClaudeAIPrompts #AnthropicClaudeAIExplained #SimplilearnClaudeAICourse\n\n➡️ About Applied Agentic AI: Systems, Design & Impact\n\nThis Agentic AI program offers an end-to-end learning path across AI foundations, generative AI, LLM internals, and multi-agent systems. Learners build practical expertise in agent design, planning frameworks, and go-to-market strategy to drive AI product innovation.\n\nKey Features\n\n✅ Master agentic AI systems, planning frameworks, multi-agent ecosystems, and product strategy in a 10-week, practitioner-level program\n✅ Stay ahead of emerging AI trends through Simplilearn's AI Impact Studio and build the skills to identify AI opportunities, automate workflows, and build intelligent AI solutions\n✅ Develop expertise in agentic frameworks, multi-agent systems, RAG, MCP, planning systems, workflow automation, and more\n✅ Work tools and frameworks like LangChain, AutoGen, CrewAI, n8n, Lovable, Miro, Figma, LangSmith, Jupyter\n✅ Brush up on Python essentials and AI-ready workflows before diving into the core Agentic AI courses\n✅ Join live, online interactive classes with peer-to-peer engagement on Slack, mentoring sessions, and dedicated cohort support\n✅ Earn a joint program completion certificate from Microsoft and Simplilearn\n✅ Secure Microsoft Learn badges on the Microsoft Learn portal for the Microsoft-branded courses\n✅ Simplilearn's JobAssist helps you get noticed by top hiring companies\n\nSkills Covered\n✅Workflow Automation\n✅ Agentic Frameworks\n✅ MultiAgent Systems\n✅ Intelligent Automation\n✅ GTM for Agentic AI\n✅ Ethics and Transparency\n✅ LLM Function Calling\n✅ Planning Systems\n✅ Prompt Engineering\n✅UX and UI with Agentic AI\n✅ Copilots\n✅MCP\n✅ RAG\n\n👉 Enroll Now:https://www.simplilearn.com/agentic-ai-course-training?utm_campaign=Y0lGJgwAviM&utm_medium=DescriptionFF&utm_source=Youtube",
+      "commentCount": 2,
+      "likeCount": 77,
+      "probeClient": "web_embedded"
+    },
+    "LbyY0M20wZ8": {
+      "checkedAt": "2026-08-23T19:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Full playlist is at https://www.youtube.com/playlist?list=PLAe6bJ926Z8g Curious about what is artificial intelligence? Learn the basics of AI for beginners in this gentle, tech-free guide.\n\nIf you have been feeling overwhelmed by all the news surrounding artificial intelligence, you are not alone. This video breaks down exactly what is artificial intelligence in plain language that anyone can understand. We skip the jargon and focus on how these tools work and why they are becoming such a common part of our daily lives.\n\nThis guide is designed for anyone who wants to learn AI basics without needing a technical background. By the end, you will have a clear, reassuring understanding of the technology and how to use AI for tasks that actually help you. We keep the pace friendly and patient so you can feel confident navigating these new tools.\n\nSubscribe for weekly technology breakdowns, and let me know in the comments: what is the one thing about AI you still find most confusing?",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "O4JGRWeiL4Q": {
+      "checkedAt": "2026-08-23T19:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Full playlist is at https://www.youtube.com/playlist?list=PLAe6bJ926Z8g Learn how to use Generative AI safely with this guide for older adults. This series helps you create images and summarize documents.\n\nThis video highlights a 10-part tutorial series specifically built for older adults who want to understand Generative AI without needing prior tech experience. We walk through the core chapters of the guide, making complex digital tools accessible and easy to navigate for everyday tasks.\n\nBy following this Generative AI series, you will gain the confidence to generate custom images and quickly summarize long documents. We focus on practical skills that make technology work for you, ensuring you understand how to use these tools safely and effectively in your daily life.\n\nSubscribe for weekly technology breakdowns, and comment below which AI tool you are most curious about learning next.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "6Um2WFzEZW0": {
+      "checkedAt": "2026-08-23T19:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Full playlist is at https://www.youtube.com/playlist?list=PLAe6bJ926Z8g Learn the basics of generative AI in this simple, jargon-free tutorial. This series helps you use new AI tools safely and effectively.\n\nThis is the first part of a 10-part generative AI tutorial designed for anyone feeling overwhelmed by the recent surge in technology news. We focus on practical knowledge rather than complex theory, ensuring you understand exactly what this software does and how it applies to your daily life.\n\nBy the end of this series, you will have a clear grasp of how to use AI tools without the confusion often found in technical manuals. We strip away the complexity to focus on safe, productive usage for beginners. Whether you are curious about the mechanics or want to improve your digital literacy, this guide provides a solid foundation for your learning journey.\n\nSubscribe for weekly AI breakdowns to keep up with the series, and comment below with your biggest question about generative AI.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "3sjKx54Fzy4": {
+      "checkedAt": "2026-08-23T19:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Full playlist is at https://www.youtube.com/playlist?list=PLAe6bJ926Z8g Learn how to use AI without needing technical skills. This guide explains how artificial intelligence acts as a simple assistant for daily tasks.\n\nMany people assume that understanding how to use AI requires a background in coding or deep technical expertise. This video breaks down the reality: these tools are built to function as helpful assistants that you can message for writing tasks or information gathering. If you can type a question into a search bar, you already possess the exact skills needed to start.\n\nWe focus on demystifying what is AI, showing you that it is not just for experts. You will walk away with a clear understanding of how to interact with these systems naturally, just as you would with a friend. By removing the intimidation factor, this AI for beginners overview ensures you can start utilizing these programs immediately to get help with your own notes or research.\n\nSubscribe for weekly technology breakdowns, and comment below with which AI tool you want to explore next.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "9XLBOyOHbGE": {
+      "checkedAt": "2026-08-23T19:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Full playlist is at https://www.youtube.com/playlist?list=PLAe6bJ926Z8g Learn what generative AI is and how it works in this simple guide for older adults. Demystify the technology step-by-step today.\n\nIf you have been curious about generative AI for seniors, this video is for you. We are continuing our 10-part tutorial series by focusing on how to use AI safely and effectively. My goal is to explain this technology in plain language, removing the confusion that often surrounds it.\n\nIn this session, we break down what is generative AI without using technical jargon. You will gain a clearer understanding of how these tools function and why they can be helpful in your daily life. This AI tutorial for beginners is designed specifically to help you feel confident navigating new digital tools at your own pace.\n\nSubscribe for weekly technology breakdowns, and comment below if you have a specific question about how to use AI that you would like me to cover next.",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "a_riWZSjpS4": {
+      "checkedAt": "2026-08-23T19:53:24Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Full playlist is at https://www.youtube.com/playlist?list=PLAe6bJ926Z8g Learn how to use generative AI for beginners safely and effectively. This guide helps you navigate tools like ChatGPT and Gemini.\n\nThis final video in our series focuses on practical AI for seniors who want to understand new technology without the confusion. We explain how AI assistants work and demonstrate basic prompt engineering techniques to get the results you actually need. You will walk away with a clear understanding of how these powerful tools operate and how to incorporate them into your daily routine.\n\nSafety is our top priority. We cover critical AI safety tips, specifically explaining why legitimate tools will never ask for your bank details or private financial information. By following these guidelines, you can explore new technology with confidence and avoid common pitfalls.\n\nContinuous learning is the best way to keep up with the changing digital landscape. Subscribe for weekly technology breakdowns, and comment below if you want to see more tutorials on specific AI features.",
+      "commentCount": 0,
+      "likeCount": 0,
       "probeClient": "web_embedded"
     }
   }
