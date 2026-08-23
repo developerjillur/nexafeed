@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T11:53:35Z",
+  "updatedAt": "2026-08-23T12:53:42Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9212,10 +9212,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-23T11:53:35Z",
+      "checkedAt": "2026-08-23T12:53:42Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -9241,10 +9241,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-23T11:53:35Z",
+      "checkedAt": "2026-08-23T12:53:42Z",
       "embedAllowed": false,
-      "availability": "unavailable",
-      "failureReason": "unavailable"
+      "availability": "public",
+      "failureReason": "embed_disabled"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -11107,19 +11107,19 @@
       "probeClient": "web_embedded"
     },
     "981gZeOrfxw": {
-      "checkedAt": "2026-08-22T12:53:25Z",
+      "checkedAt": "2026-08-23T12:53:42Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 8,
-      "likeCount": 85,
+      "likeCount": 93,
       "comments": [
         {
           "id": "UgxkUp9I0LCV9hIzpf94AaABAg",
           "author": "@9681956819",
           "text": "claude",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T18:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lPFOWA7W3NS5DbVKiqjvVA4z_ptCHjoBCuWotiQX6rbGl-=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11129,7 +11129,7 @@
           "author": "@srikrishnan3788",
           "text": "Claude",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T18:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m3vs55Icn4wAmY6qImZ1mmZRDCMI6GI4xrdMwXfzs=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11139,7 +11139,7 @@
           "author": "@erumshamsi4481",
           "text": "plz pin the link in the comment",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T17:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nhIZn60SqtIt4QOEN4SN9zfOM7mZ1W4P2VeD33gJ4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11149,7 +11149,7 @@
           "author": "@erumshamsi4481",
           "text": "claude",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T17:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nhIZn60SqtIt4QOEN4SN9zfOM7mZ1W4P2VeD33gJ4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11159,7 +11159,7 @@
           "author": "@s.ranjithkumar4620",
           "text": "Claude",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T16:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m9EE7Abx5AGIls2vqRSDYSZmji93sdMSfElFScFR5XCQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11169,7 +11169,7 @@
           "author": "@rasagnyanalumachu6546",
           "text": "Claude",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T16:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/OD_wNSrGIJoqPUXppYmsaNkWbZLci9VEOFbUEs-2e0F5fG7ZCl6I_qGaSalpr7T_DyP8cwtOKw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11179,7 +11179,7 @@
           "author": "@HetDholakiya-t6s",
           "text": "The laptop screen writing is not visible properly,\nSo choose the designated areas in 9:16",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T14:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k6ik9k6NPqHs0kvMwv9SpZyE9qUk9AxeJZJ9_zucX5-Srt4Jkr8so6gIcmOMBS08yveQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11195,7 +11195,7 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T12:53:25Z",
+      "commentsFetchedAt": "2026-08-23T12:53:42Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -11209,14 +11209,14 @@
       "probeClient": "web_embedded"
     },
     "rUFQntuvPMU": {
-      "checkedAt": "2026-08-22T12:53:25Z",
+      "checkedAt": "2026-08-23T12:53:42Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 0,
       "likeCount": 0,
       "comments": [],
-      "commentsFetchedAt": "2026-08-22T12:53:25Z",
+      "commentsFetchedAt": "2026-08-23T12:53:42Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -14193,6 +14193,62 @@
       "description": "Artificial Intelligence is transforming our lives, but its rapid growth also raises serious concerns. From misinformation and deepfakes to privacy risks and misuse, what are the darker sides of AI? Watch this Burning Topic for a closer look at the hidden risks of artificial intelligence.\n\n#AI #ArtificialIntelligence #AIDangers #AISafety #Deepfake #AIThreats #Technology #TechNews #BurningTopic #TV9cut \n\n🔔 Subscribe to TV9 Telugu & press the Bell Icon for breaking news alerts.\n👍 Like | Comment | Share\n\nFollow TV9 Telugu on Social Media:\n► TV9 News App : https://onelink.to/de8b7y\n► తాజా వార్తల కోసం : https://tv9telugu.com/\n► Follow us on X : https://twitter.com/Tv9Telugu\n► Like us on Facebook: https://www.facebook.com/tv9telugu\n► Follow us on Instagram: https://www.instagram.com/tv9telugu\n► Follow us on Threads: https://www.threads.net/@tv9telugu\n► Follow us on WhatsApp: https://whatsapp.com/channel/0029VaARkBWBFLgLrGrDcX3N",
       "commentCount": 5,
       "likeCount": 60,
+      "probeClient": "web_embedded"
+    },
+    "2kOR1JtopnU": {
+      "checkedAt": "2026-08-23T12:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "",
+      "commentCount": 1,
+      "likeCount": 76,
+      "comments": [
+        {
+          "id": "UgwbIN0S0BDoJhowcSt4AaABAg",
+          "author": "@100xEngineers",
+          "text": "Setup Guide: https://drive.google.com/file/d/12eZI7pCSouPx3jzviNugfO5Dy0CyFJbo/view?usp=sharing\n\nClaude Code Setup: https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-code-setup\n\nClaude Mem: https://github.com/thedotmack/claude-mem\n\nHeadroom: https://github.com/headroomlabs-ai/headroom\n\nOmniRoute: https://github.com/diegosouzapw/OmniRoute",
+          "likeCount": 2,
+          "publishedAt": "2026-08-23T12:37:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/lmQHSNqoTiUYSQmAD6ddVNxeMLwuezSj7JGn681txsIgDlDnHZrQU-JDaUSzGiSwnSZS7gFS=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": true,
+          "isUploader": true
+        }
+      ],
+      "commentsFetchedAt": "2026-08-23T12:53:42Z",
+      "commentsStatus": "cached",
+      "probeClient": "web_embedded"
+    },
+    "SYajDC-0zpM": {
+      "checkedAt": "2026-08-23T12:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "N8N AI Automation Mastery (ZERO CODING) Online Training @ DURGASOFT\n====================================================\nN8N AI Automation Mastery (ZERO CODING) Online Training By Mr. Venky\n\nDate & Time: 24th Aug @8PM (IST)\n\nRegister Now: https://shorturl.at/Kno2I\n\nCourse Content: https://tinyurl.com/mrxcupr6\n\nContact for More Info:\nEmail: durgasoftonlinetraining@gmail.com\nPhone: +91 - 8885252627, 7207212427/28\n\nYoutube Channel: Durga Software Solutions\n10000+ Technical Software Training Videos on all Technologies.\nJust Subscribe Link: https://www.youtube.com/durgasoftware\n\nTo get latest DURGASOFT updates on trending Technologies,\nPlease Subscribe to Our Telegram Channel:\nLINK: https://t.me/durgasoftupdates\n\n#DURGASOFTWARE #DURGASOFT #N8NAIAutomationMastery",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "HEIFKMujL8s": {
+      "checkedAt": "2026-08-23T12:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Want to start creating Movie Recap videos and build a successful faceless YouTube channel? 🎬🚀\n\n🎬 Get started with RecapGen here:\n\nhttps://recapgen.com/get-started?ref=WKRVVFAT\n\n Learn YouTube Automation\n\n🔥 Get the YouTube Automation Blueprint:\n\nhttps://selar.com/mq136awl75\n\nIn this step-by-step tutorial, I’ll show you the complete process of creating engaging Movie Recap videos — from finding the right movies and writing scripts to creating voiceovers, generating cut guides, editing, and publishing your videos on YouTube.\n\nWhether you’re a complete beginner or already familiar with YouTube Automation, this tutorial will guide you through the process of creating high-quality Movie Recap videos that can keep your audience engaged.\n\n🎬 What You’ll Learn\n\n* How to find movies to recap\n* How to write engaging Movie Recap scripts\n* How to create realistic AI voiceovers\n* How to create a Movie Recap cut guide\n* How to edit your Movie Recap videos\n* How to create attractive thumbnails and titles\n* How to upload and optimize your videos for YouTube\n\n🛠️ Create Movie Recap Scripts & Cut Guides with RecapGen\n\n🎬 Get started with RecapGen here:\n\nhttps://recapgen.com/get-started?ref=WKRVVFAT\n\nThis is my referral link. I may earn a commission if you sign up through it, at no extra cost to you.\n\n🚀 Learn YouTube Automation\n\n🔥 Get the YouTube Automation Blueprint:\n\nhttps://selar.com/mq136awl75\n\n🎓 Want to Contact or Work With Me?\n\nhttps://taplink.cc/gustavu\n\n📲 Follow Me for More Content\n\nTikTok:\nhttps://www.tiktok.com/@oluwadamilarevict45\n\nInstagram:\nhttps://www.instagram.com/victor_oluwadamilare121\n\n⸻\n\n👍 If you found this video helpful, don’t forget to Like, Comment, Subscribe, and turn on notifications so you don’t miss future videos about Movie Recaps, YouTube Automation, AI tools, and faceless YouTube channels.\n\nShare this video with someone who wants to start creating Movie Recap videos! 🎬🚀\n\n#MovieRecap #MovieRecapTutorial #YouTubeAutomation #FacelessYouTube #RecapGen #AITools #YouTubeGrowth",
+      "commentCount": 19,
+      "likeCount": 57,
+      "probeClient": "web_embedded"
+    },
+    "qIjcxleTw4M": {
+      "checkedAt": "2026-08-23T12:53:42Z",
+      "embedAllowed": false,
+      "availability": "unavailable",
+      "failureReason": "unavailable"
+    },
+    "O5rpsHmg9Js": {
+      "checkedAt": "2026-08-23T12:53:42Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔥 Still Doing Manual Testing? Time to Upgrade Your Career!\n\nSwitch to Automation with Playwright + AI and become interview-ready with real project experience - https://topmate.io/rd_automation_learning/2263741\n\n📈 Need Direction? Book Career Guidance\n👉 https://topmate.io/rd_automation_learning/723078\n\n💼 Want to Crack Interviews Faster? Go for 1:1 Mentorship\n👉 https://topmate.io/rd_automation_learning/723079\n\nStop waiting. Start transitioning. Your Automation journey begins now 🚀\nThis video shares a **real QA success story** of a software tester who successfully cracked an **Automation Testing interview** and secured a job after consistent preparation and guidance.\n#QASuccessStory\n#AutomationTesting\n#SoftwareTesting\n#TestingJobs\n#QAInterview\n\nIn this video, you will learn:\n• How to prepare for Automation Testing interviews\n• What interviewers actually expect from QA candidates\n• Common mistakes testers make during interviews\n• How to transition from manual testing to automation\n• Real interview questions and preparation strategy\n\nThis success story is meant to **motivate freshers and experienced testers** who are struggling with interview calls or rejections.\n\n👉 Career guidance & digital learning resources:\n[https://topmate.io/rd_automation_learning/1261931](https://topmate.io/rd_automation_learning/1261931)\n\nIf you are preparing for **QA, Manual Testing, Automation Testing, or SDET roles**, this video will help you understand the real interview journey.\n\n👍 Like | 💬 Comment | 🔔 Subscribe for more QA success stories & interview guidance\nqa success story\nautomation testing job\nsoftware testing interview\nhow to get job in software testing\nautomation testing interview experience\nmanual to automation testing\nqa interview questions\ntesting interview preparation\nsdet interview\nsoftware tester career\nqa jobs india\nautomation testing roadmap",
+      "commentCount": 1,
+      "likeCount": 11,
       "probeClient": "web_embedded"
     }
   }

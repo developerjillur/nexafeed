@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T11:53:35Z",
+  "updatedAt": "2026-08-23T12:53:42Z",
   "items": [
+    {
+      "id": "2kOR1JtopnU",
+      "type": "short",
+      "source": "primary",
+      "channel": "100x Engineers",
+      "publishedAt": "2026-08-23T12:32:56Z",
+      "firstSeenAt": "2026-08-23T12:53:42Z"
+    },
+    {
+      "id": "SYajDC-0zpM",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Durga Software Solutions",
+      "publishedAt": "2026-08-23T11:53:42Z",
+      "firstSeenAt": "2026-08-23T12:53:42Z"
+    },
+    {
+      "id": "O5rpsHmg9Js",
+      "type": "long",
+      "source": "secondary",
+      "channel": "RD Automation Learning",
+      "publishedAt": "2026-08-23T09:53:42Z",
+      "firstSeenAt": "2026-08-23T12:53:42Z"
+    },
+    {
+      "id": "HEIFKMujL8s",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Gustavo",
+      "publishedAt": "2026-08-22T19:53:42Z",
+      "firstSeenAt": "2026-08-23T12:53:42Z"
+    },
     {
       "id": "WIxn9k1YSPc",
       "type": "long",
@@ -22442,6 +22474,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-23T12:53:42Z",
+      "new": 4,
+      "long": 2,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
