@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T13:53:45Z",
+  "updatedAt": "2026-08-23T14:53:45Z",
   "items": [
+    {
+      "id": "An_CJNU9nB0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Tech With Tim",
+      "publishedAt": "2026-08-23T14:00:45Z",
+      "firstSeenAt": "2026-08-23T14:53:45Z"
+    },
+    {
+      "id": "CIKpj82qVAw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nishant Chahar",
+      "publishedAt": "2026-08-23T13:53:45Z",
+      "firstSeenAt": "2026-08-23T14:53:45Z"
+    },
+    {
+      "id": "fAB9tYKCkMI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI Tech",
+      "publishedAt": "2026-08-23T05:53:45Z",
+      "firstSeenAt": "2026-08-23T14:53:45Z"
+    },
+    {
+      "id": "e05Th3p8AO8",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Abdul Basit - Pro Dev",
+      "publishedAt": "2026-08-23T04:53:45Z",
+      "firstSeenAt": "2026-08-23T14:53:45Z"
+    },
+    {
+      "id": "OcFnCGctf4A",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AI with FZ",
+      "publishedAt": "2026-08-23T04:53:45Z",
+      "firstSeenAt": "2026-08-23T14:53:45Z"
+    },
     {
       "id": "wyuv-uRIexg",
       "type": "short",
@@ -22540,6 +22580,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-23T14:53:45Z",
+      "new": 5,
+      "long": 5,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }

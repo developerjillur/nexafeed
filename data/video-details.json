@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T13:53:45Z",
+  "updatedAt": "2026-08-23T14:53:45Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9212,10 +9212,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-23T13:53:45Z",
+      "checkedAt": "2026-08-23T14:53:45Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -11248,42 +11248,72 @@
       "probeClient": "web_embedded"
     },
     "0Kp2ES8h6Ps": {
-      "checkedAt": "2026-08-22T14:53:27Z",
+      "checkedAt": "2026-08-23T14:53:45Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "its all about how well you implement everything in youtube",
-      "commentCount": 1,
-      "likeCount": 39,
+      "commentCount": 2,
+      "likeCount": 52,
       "comments": [
+        {
+          "id": "UgxJdYlH0TtRHBuJuZB4AaABAg",
+          "author": "@PhoolmatiJi-d3l",
+          "text": "Aap ki website pr toh telegram ka course show ho rha hai . Na ki youtube course..",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lRyZkwPw0x7IAtIsr3h8RD7OLQiMj64AT9z9wg5IdKOvALoEa8EA9SKI35G023QyLAFA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugya5fkzL9iEXaJAetd4AaABAg",
           "author": "@einstein-b6u",
           "text": "Channel name dikh nhi rha youtube pe phele wale bhai ka 😅",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T12:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/sz0_A8x1uOYknfLsacSYXu5nrSiRPTGQId7KFaSuPMXpFMbEsaEMZt8DOz4gtnqeBDT2JqHT=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T14:53:27Z",
+      "commentsFetchedAt": "2026-08-23T14:53:45Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "7LcpqOgjmTY": {
-      "checkedAt": "2026-08-22T14:53:27Z",
+      "checkedAt": "2026-08-23T14:53:45Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 2,
-      "likeCount": 109,
+      "commentCount": 4,
+      "likeCount": 164,
       "comments": [
+        {
+          "id": "Ugwv1Zk_rgbeumM8eWl4AaABAg",
+          "author": "@kingkongun8922",
+          "text": "Link please? and also, does this require a paid subscription of claude?",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T10:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nxCMSMlwAawIhe8MHwt8TEYTy4fSA8pgqxSAgl_lo=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugz-wHSpNyZIL8UlEqx4AaABAg",
+          "author": "@BadboyGaming-m5l",
+          "text": "Yes  we want....",
+          "likeCount": 1,
+          "publishedAt": "2026-08-22T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m2g__-AwGH6u1SreUmeLJsbDUdg8YZ10Q5tzJdqWSe_Y4L-l6LGvHa66Ro1s_bmfGeFw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgzLl7ThTxfGh74eHT14AaABAg",
           "author": "@abhinavpremsingh340",
           "text": "Link please",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T18:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n6qzJOFGLzCq7dXalNema8BJSjy8TQABcdS6EijGO4ihc=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11293,30 +11323,30 @@
           "author": "@piyushnag7870",
           "text": "Link 🔗 please",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T16:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lBG4Q2j7htJbxg-phr_qVcAKlNOGbhJhWBe0SkBAuX3EdiRFA_mJUmpSD86gxTbRG5GQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T14:53:27Z",
+      "commentsFetchedAt": "2026-08-23T14:53:45Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "E1n8XdV7Q7g": {
-      "checkedAt": "2026-08-22T14:53:27Z",
+      "checkedAt": "2026-08-23T14:53:45Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 4,
-      "likeCount": 410,
+      "likeCount": 669,
       "comments": [
         {
           "id": "Ugylt6fGX2TarAJd65R4AaABAg",
           "author": "@ZuluEdit",
           "text": "music is too loud",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T12:00:00Z",
+          "likeCount": 3,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/wEe_gnxnS64pyMp54XyFPcFUeVO2ZMfIMpC_Cb-fPFGNpd1rmAYTmk5R40aT6tAXBEC_pyA4Nw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11325,8 +11355,8 @@
           "id": "UgwcldwDgUipoOmb8px4AaABAg",
           "author": "@soumyapratimbera9131",
           "text": "The stock hit 450$ in Covid peak, its today at 145$ AFTER the 180% one day jump.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T12:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ma485TDOl4-qL0NlUdXfIZx2-l-4PCaEuAXxAq0uS6WH4=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11335,8 +11365,8 @@
           "id": "UgyIvn8w59PjMKQB1-J4AaABAg",
           "author": "@sanjeevkumarb8416",
           "text": "please save the scientist... hope they don't go missing 🥲",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T08:00:00Z",
+          "likeCount": 7,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_my5bDLjoreUNR5s8WaflBCxUQMQ9zD8mzLwIjU-NY=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11345,14 +11375,14 @@
           "id": "UgzSgGPxNs3mQR8VK3Z4AaABAg",
           "author": "@justfacts1010",
           "text": "here like the thing in medcal industry/avalibility that you could say - in europe you can find free and afordable health care but not the best, its like always 1 step behind the best, in usa you can find and get the best medicine but it will drain you bank, cause of how there system is designed, in india if you have money you can get health care but if you dont have money you cant really get good health care",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T16:00:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/vCVyiJlYSrZypKrcYtdegkX5Jyp77KRCX_u33h1GIPDgX0-iTBqCTBT3TDhDnJCFrGcxDyiecw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T14:53:27Z",
+      "commentsFetchedAt": "2026-08-23T14:53:45Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -11366,19 +11396,69 @@
       "probeClient": "web_embedded"
     },
     "NYII2KxQfRo": {
-      "checkedAt": "2026-08-22T14:53:27Z",
+      "checkedAt": "2026-08-23T14:53:45Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "NVIDIA just released Nemotron 3.5 Lightning, an open AI model built specifically for fast, long-running agentic workloads, and it is now available inside Cline.\n\nAnd this could make AI coding much more accessible to developers who want to run models locally.\n\nNemotron 3.5 Lightning is a 30-billion-parameter Mixture-of-Experts model, but only around 3 billion parameters are active per forward pass. It supports a context window of up to 1 million tokens and is specifically designed for high-volume execution inside AI agents.\n\nThe interesting part is its speed.\n\nNVIDIA reports that Lightning can deliver up to 4x the output speed of comparable models, making it particularly suited to agentic coding workflows where the model may need to make repeated calls, inspect files, run tests, fix errors, and continue working.\n\nAnd Cline has already integrated it.\n\nYou can select Nemotron 3.5 Lightning in Cline through OpenRouter and start experimenting.\n\nBut there's an even bigger reason developers should pay attention.\n\nNVIDIA is releasing the model as an open model, with weights, data, and training recipes available under its OpenMDW license. The model is also designed to be deployed locally or in the cloud.\n\nDepending on your hardware, you can run it locally. NVIDIA's model card lists single-GPU deployment options including DGX Spark and H100, while the quantized version also supports hardware such as the RTX 5090.\n\nThat changes the economics of AI coding.\n\nInstead of paying an API provider every time an agent makes another model call, developers can potentially run an open model on their own hardware.\n\nBut there's an important distinction:\n\nFree model weights don't mean zero cost.\n\nYou still need suitable hardware, electricity, storage, and potentially additional infrastructure.\n\nSo this isn't necessarily about replacing Claude, Gemini, or OpenAI overnight.\n\nThe bigger story is that AI coding is becoming increasingly commoditized.\n\nAnd NVIDIA, a company that makes enormous amounts of money selling the infrastructure AI companies need, is also pushing open models that let developers run AI closer to their own machines.\n\nThat's a fascinating shift in the AI ecosystem.\n\nWant the link to Nemotron 3.5 Lightning?\n\nhere's the link: https://cline.bot/\n\nWhy Subscribe to bpro?\n\nBPro is where we break down the AI tools and technologies that are actually changing how people build and work.\n\nWe cover AI coding, AI agents, open-source models, AI tools, automation, startups, LLMs, and emerging AI research.\n\nBut we don't just tell you what's new.\n\nWe explain what changed, how it works, why developers should care, and what it could mean for the future of AI.\n\nIf you want to stay ahead of the rapidly changing AI landscape and discover tools that can make you build faster and smarter, subscribe to BPro.\n\nBecause the AI coding race isn't just about who has the smartest model anymore.\n\nIt's increasingly about who can make powerful AI cheap, fast, open, and accessible.\n\n#AI #AICoding #NVIDIA #Nemotron #AIAgents\n\nAI coding, AI coding tools, NVIDIA AI, NVIDIA Nemotron, Nemotron 3.5 Lightning, AI coding model, free AI coding, free AI coding tools, AI agents, AI agent coding, open source AI, open source AI models, local AI, local LLM, AI developer tools, Cline AI, Cline coding, AI programming, AI tools for developers, AI coding assistant, best AI coding tools, free AI coding assistant, how to use AI coding tools, how to use Cline, how to run AI models locally, how to run LLM locally, what is Nemotron, what is NVIDIA Nemotron, what is Cline, what is an AI coding agent, what is local AI, why use local AI, why AI coding is changing, how AI agents code, how to build with AI, AI coding tutorial, AI coding 2026, best AI models for coding, best local AI models, free LLM, free AI model, AI model for coding, AI automation, future of AI coding",
       "commentCount": 8,
-      "likeCount": 281,
+      "likeCount": 396,
       "comments": [
+        {
+          "id": "UgzKrkbrOO8_Yfxx3F14AaABAg",
+          "author": "@Bproclub",
+          "text": "Check out the description for link",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T06:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/Y2wqg8Jrk4tANVG3LT2ZEkVs-6wlESz8NvwUMrqfBghyS3VQsJLlfpoq4gQX8g31Qty_Kx0=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": true
+        },
+        {
+          "id": "Ugxo6I0AzcZmvpy_rfZ4AaABAg",
+          "author": "@VASVIK2015",
+          "text": "Lightning",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/kkT5UIwwPNCCIO6z0GbBLfmsJaZ7O6sS3xnmROlSBpOHiYP09gwUpGrjLZhp8jgSpacDRugz5g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgzqmshYR4G7bkBftQx4AaABAg",
+          "author": "@SanjayVyas",
+          "text": "Lighting",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T00:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lzIqntdI3sKWEFieo3pRawtY8BzKZIY6FJq_iEpjdpGup7=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugyo6Ny9PuDMkZRPhrd4AaABAg",
+          "author": "@AaryaSalunkhe-qz7gb",
+          "text": "Lightning",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nATaj_XyZ449yTpyY9GNkkpedOEjet8B9ru95ikqwS3Mf-MXvcS1UlV0t6a5VEu6AwMQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxZ7wjWk6jrE2jhbVJ4AaABAg",
+          "author": "@gangjisureshkumar6249",
+          "text": "3.5 lightning",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T16:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lTjWu-3Nr3rnVWW3pjtTt92B02C81EFsYtH532LAAnVfdL_xLvCVos3GLgui6Fba6opw=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugw42AHssij9HwAVQ7B4AaABAg",
           "author": "@Kysi-y4h",
           "text": "It's NVIDIA Nemotron 3.5 Lightning.",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T14:51:00Z",
+          "likeCount": 1,
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/c58LDZLw_BOo8I0xrVEmVcSy_D1-7oUc6_sNfPJVjhnL3McYxF9LV4_YBqJe1nD3rWtIG6JzBDM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11388,7 +11468,7 @@
           "author": "@BasantUpadhyay",
           "text": "lighting",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T12:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lf97apZOtoaEIdO7jm9hnWY-USFziWXrncViko8fmIzjM=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -11398,63 +11478,13 @@
           "author": "@lyf_offline",
           "text": "Lightning",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T10:00:00Z",
+          "publishedAt": "2026-08-23T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kcMduaApiWzEteYjGVHfAth3af7p8Dgkv0KMuIeBA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgxhLKwVAVGYDRIKd2h4AaABAg",
-          "author": "@Muhammad_sohail07",
-          "text": "Lightning",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T10:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/9bSyV2VB4CP10LbfdheLK7PATKWDTVTQFRmhjFRJaf1JGRoDe-gcN6CMiMfB1Y2IhoHJDRK5=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx1cWfsZLzrVJ4nY394AaABAg",
-          "author": "@MuhammadMahad-r4y",
-          "text": "Lightning",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T08:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/095-JpqMJZtz_ZaPXfGPomZnL-jKtPFXqjLwFlDgDzvCrMfu9I_l_-ipLKZ2l-P8eSQaeCfRWg=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugxt28NP1ZS5YhaB37N4AaABAg",
-          "author": "@mohammedabdulwasay3433",
-          "text": "Lightening",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T07:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kAnAsUvPN-ZiLxUrBXFa0rirYQ_oz3BdRkal_vDtnSSTTb=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx8gfmuovxj4C24_FR4AaABAg",
-          "author": "@satishrikhari",
-          "text": "lightning",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T06:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_nC8XQIgDn_GZSKH8IAO0Yme_O1XTICIluJZPQ9vZE=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx1YssVoMX-u37DKvd4AaABAg",
-          "author": "@ShaileshKumarADubey",
-          "text": "Lightning",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T05:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/Y-YsfY1pdAGscubWjnJCvTp7uiTMti919dVoEvQi3VDpRfyZLYSlwRaRxevaAW1l6GONFGS5uA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T14:53:27Z",
+      "commentsFetchedAt": "2026-08-23T14:53:45Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -14445,6 +14475,51 @@
       "description": "Let's build the web! 🌐 This is Day 1 of our Web Development series.\n\nToday we are covering:\n✅ What is Web/Software Development?\n✅ Introduction to HTML (The building blocks).\n✅ How to download VS Code & XAMPP (Step-by-step).\n✅ Your first \"Hello World\" program.\n\nNo prior knowledge is needed. Just bring your laptop and let's code! 💻\n\n👇 Download Links:\nVS Code:  https://code.visualstudio.com/\nXAMPP:  https://www.apachefriends.org/download.html\n\nDrop a comment below if you get stuck during installation—I reply to everyone! 👇\n\n#WebDev #HTML #Coding #VSCODE #Programming",
       "commentCount": 0,
       "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "An_CJNU9nB0": {
+      "checkedAt": "2026-08-23T14:53:45Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Top pick courses to learn Python for programming, data and AI in one place:\nDataCamp Python Programming Fundamentals Track: https://datacamp.pxf.io/jRaJPM\nDataCamp Python Data Fundamentals Track: https://datacamp.pxf.io/xJozBx\nDataCamp AI Engineer For Developers Track: https://datacamp.pxf.io/k4AJ5x\nSave 25% Off DataCamp: https://datacamp.pxf.io/PznmoM\n\nIf I had to start completely over today — no coding, no experience, no degree — this is exactly how I would learn Python. And I don't just mean the language, because in 2026 the language alone isn't enough.\n\nWant to LEARN how to build useful AI agents that actually get things done? Go here: https://aiagentbuilders.co/yt\n\nHow to Make Money With Coding instantly: https://techwithtim.net/newsletter\n\n🚀 Tools I Use\nGet 10% off with code techwithtim\nOpenclaw setup: https://www.hostinger.com/techwithtim\nVPS setup: https://www.hostinger.com/techwithtim10 \nWispr Flow (Best AI Dictation): https://ref.wisprflow.ai/TechWithTim-aug26:\n\n⏳ Timestamps ⏳\n00:00 | How to Learn Python\n00:56 | Why This Stack\n02:10 | The Three Phases\n03:00 | Learn Interactively\n04:17 | Phase 1: Fundamentals\n07:00 | Phase 2: Data\n09:35 | Phase 3: AI\n11:42 | 2 Rules\n\nHashtags\n#AIEngineering #DataCamp #PythonTutorial\n\nUAE Media License Number: 3635141",
+      "commentCount": 6,
+      "likeCount": 52,
+      "probeClient": "web_embedded"
+    },
+    "CIKpj82qVAw": {
+      "checkedAt": "2026-08-23T14:53:45Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Think you need a CS degree to master AI in 2026? Think again. In this video, I’m breaking down the exact 12-week roadmap I would follow if I were starting from zero today. Whether you're in marketing, HR, or finance, these skills are no longer \"optional\"—they are the new standard.\n\nFrom mastering context-based prompting to \"vibe coding\" your own apps without a single line of code, this is your step-by-step guide to becoming an AI generalist and future-proofing your career.\n\nFinally, we explore how AI skills can help you build apps, offer automation services, work with businesses, and increase your career opportunities. If you want to become an AI generalist and stay ahead in 2026, this roadmap will help you start learning and building step by step.\n\nTimestamps\n00:00 – Introduction & The \"One Thing\" to do differently\n00:20 – Breaking the Myth: AI for Non-Tech Roles\n01:14 – Overview: 12-Week Roadmap & Free Resources\n01:40 – My Experience: From Microsoft to $250k Funded Founder\n02:17 – 3 AI Myths You Need to Ignore\n03:54 – Step 1: Picking and Mastering One Tool\n04:43 – Pro Tip: Pro Versions vs. Default Models\n05:28 – Communicating with AI: Why 90% of People Fail\n06:42 – Step 2: Context is King (Show, Don't Describe)\n08:07 – Using Dedicated Workspaces (Projects, Gems, & Markdown)\n09:00 – Step 3: Connecting Your Tools (Calendar, Gmail, Slack)\n10:39 – Step 4: Building Your Own AI Agents (The 10-80-10 Rule)\n13:08 – Step 5: Vibe Coding (Building Apps Without Code)\n15:14 – The Power of Being an AI Generalist\n16:28 – How to Monetize Your AI Skills in 2026\n\n#ai  #artificialintelligence  #aitools  #ailearning  #aimastery  #aiautomation  #aiagents  #promptengineering  #vibecoding  #aitips \n\n💬 Let’s Talk: Are you team Claude, Gemini, or ChatGPT? Also, let me know in the comments if you want a dedicated deep-dive into Claude Projects or Vibe Coding!\n\nAbout Nishant Chahar: I'm an AI builder and founder. I left Microsoft to build my own companies, and now I'm here to help you navigate the AI revolution. Subscribe for more roadmaps, tutorials, and insights on the future of work.\n\n\n🔴 Check out some other really cool videos too:\n- https://youtube.com/watch?v=MD_awvlTZxA\n- https://www.youtube.com/watch?v=GkkzrLqGT5s\n- https://www.youtube.com/watch?v=eEAEB8qM7Ds\n- https://www.youtube.com/watch?v=P5G6IcG4Uqo\n- https://www.youtube.com/watch?v=z6VhdFdyY1o\n\n🔴 Subscribe to https://www.youtube.com/channel/UClYcYuuwLqTPmH74-xRxZhQ/ https://www.youtube.com/channel/UCmG04ueQlOQwjDtXaemLxvQ/ https://www.youtube.com/channel/UCHPtt-X3mg-d8TiLUHmirPA\n\n❌ Don't Click this link! https://bit.ly/381DYq6\n\n🎯 Connect with me here:  \n‒ Instagram: https://www.instagram.com/nishantchahar.11/\n-- X, Formerly Twitter: https://x.com/nishantchahar11\n‒ LinkedIn: https://in.linkedin.com/in/chaharnishant11\n‒ Telegram Channel:  https://t.me/chahar_nishant\n\n-----------------------------------------------------------------\n🔥 Placement Diaries: http://bit.ly/3KxFF2G\n-----------------------------------------------------------------\n\n✅ Products I use: 💻📷\nGreen Soul Vision Gaming Chair: https://amzn.to/3g0yT5K\nInsta360 Go 2: https://amzn.to/3xOXC39\nBlue Ice Mic: https://amzn.to/3m2a8Kn\nSSD: https://amzn.to/2SyDyDA\nMacBook: https://amzn.to/3A361Cp\nTripod: https://amzn.to/3qYPV7m\nOld Chair: https://amzn.to/3r5cebo\nSmartphone: https://amzn.to/30Kv0tP\nOld Laptop: https://amzn.to/3j0hP0a\nRing Light: https://amzn.to/3givuP9",
+      "commentCount": 5,
+      "likeCount": 35,
+      "probeClient": "web_embedded"
+    },
+    "fAB9tYKCkMI": {
+      "checkedAt": "2026-08-23T14:53:45Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Unlimited FREE Vibe Coding in VS Code Using OpenCode\n\nLearn how to do **unlimited FREE vibe coding in VS Code using OpenCode**! 🚀\n\nIn this tutorial, I’ll show you how to set up OpenCode in VS Code and use AI to build, edit, debug, and improve your projects without paying for expensive coding tools.\n\nYou’ll learn:\n\n* How to install OpenCode\n* How to set up OpenCode in VS Code\n* How to use AI for vibe coding\n* How to generate and modify code using natural language\n* How to build projects faster with AI\n* Tips for getting better results from OpenCode\n\nIf you’re a beginner or want to supercharge your development workflow with AI, this tutorial is for you.\n\n👍 Like the video, subscribe to the channel, and turn on notifications for more AI coding and web development tutorials!\n\n#OpenCode #VibeCoding #VSCode #AICoding #CodingAI\n#OpenCode #VibeCoding #VSCode #AICoding #AIProgramming #AIcodingTools #OpenSourceAI #CodingWithAI #VibeCodingTutorial #VSCodeTutorial #AITools #WebDevelopment #Programming #SoftwareDevelopment #ClaudeCode\n \nopencode, opencode ai, opencode tutorial, opencode vscode, opencode vs code, vibe coding, vibe coding tutorial, free vibe coding, unlimited vibe coding, free ai coding, ai coding tools, ai coding assistant, ai programming, coding with ai, vscode ai, vs code ai coding, vscode tutorial, open source ai coding, best free ai coding tool, free coding assistant, ai developer tools, build apps with ai, code with ai, ai coding tutorial, programming with ai, opencode cli",
+      "commentCount": 1,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "e05Th3p8AO8": {
+      "checkedAt": "2026-08-23T14:53:45Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Best Free AI Coding Tools for Developers in 2026\n\nLooking for the best free AI coding tools in 2026? In this video, we'll explore some of the most useful AI-powered coding tools that developers can use to write code, debug applications, understand code, and improve their development workflow.\n\nThese tools can be useful for beginners, students, frontend developers, backend developers, full-stack developers, and professional programmers.\n\nIn This Video:\n\n* Best free AI coding tools in 2026\n* AI code editors and coding assistants\n* Free AI tools for writing code\n* AI tools for debugging\n* AI tools for understanding code\n* AI tools for improving developer productivity\n* Which AI coding tools are worth trying\n* How AI can improve your development workflow\n\nWhether you're learning JavaScript, React, Node.js, Python, MERN Stack, or another programming language, these AI tools can help you become more productive.\n\n📂 Source code & projects: https://github.com/AbdulBasiTcs1  \n📧 Business inquiries: abdulbasit.prodev@gmail.com\n\n🌐 Connect with me:  \nLinkedIn: https://www.linkedin.com/in/i-abdul-basit-cui/\n\n🔥 Subscribe and turn on notifications so you never miss a new video: https://youtube.com/@AbdulBasit-ProDev\n\n\nSubscribe for more videos about AI tools, coding, programming, web development, developer tools, and the latest AI technologies.\n\n#AICodingTools #AITools #Coding #Programming #Developers #AI #WebDevelopment",
+      "commentCount": 0,
+      "likeCount": 3,
+      "probeClient": "web_embedded"
+    },
+    "OcFnCGctf4A": {
+      "checkedAt": "2026-08-23T14:53:45Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Notion Page : https://actually-hygienic-25a.notion.site/Free-Claude-Opus-5-Free-Claude-Opus-4-8-gpt-5-6-Sol-3c4d71053bda80ee8912d9f5d1246351?source=copy_link\n\nClaude Opus 5 and GPT-6 — both completely FREE, running inside Claude Desktop AND Claude Code, with zero credit card required. In this video I set the whole thing up from scratch in under 10 minutes using AgentRouter, and by the end you'll be running Opus 5 and GPT-6 side by side on your own machine.\n\nNo subscription. No $200/month Max plan. No payment details anywhere.\n\nHere's exactly what we cover:\n✅ Creating your AgentRouter account (GitHub login — read the requirement below)\n✅ Grabbing your free credit and reading the usage dashboard\n✅ Installing Claude Desktop on Windows\n✅ Unlocking the hidden Developer Mode setting\n✅ Connecting the third-party gateway — Base URL + API key, step by step\n✅ Creating an API token with unlimited quota\n✅ Fixing the \"Test Connection\" error everyone gets on the first try\n✅ Installing Claude Code via PowerShell (one command)\n✅ Editing settings.json in VS Code to add GPT-6 — the exact config\n✅ The model-renaming trick that makes GPT work where it normally can't\n✅ Switching models live with /model in the terminal\n✅ Running Claude Code inside the VS Code UI\n✅ Building a working Mario game as a live test\n✅ How to get MORE free credit through referrals\n\n⚠️ IMPORTANT — READ THIS:\n1) Your GitHub account should be at least 1–1.5 years old for the login to go through.\n2) AgentRouter is a Chinese-hosted platform. Do NOT paste personal data, private code, client work or company secrets into it. Use it for learning, testing and side projects only.\n3) \"Test Connection\" often fails on the first attempt. Hit it again — it usually clears on the second or third try.\n4) Free tiers like this can disappear without notice. Set it up while it works.\n\n\n🎯 Perfect For People Searching\n👉 Claude Desktop Tutorial\n👉 Claude Desktop Setup\n👉 Claude Desktop Gateway\n👉 Claude Desktop Developer Mode\n👉 Claude Code Tutorial\n👉 Claude Fable 5\n👉 Claude Opus 4.8\n👉 Claude Models FREE\n👉 OmniRoute Tutorial\n👉 OmniRoute Setup\n👉 Antigravity Setup\n👉 NVIDIA AI Models\n👉 OpenCode Tutorial\n👉 VS Code AI Coding\n👉 AI Coding Workflow\n👉 AI Developer Tools\n👉 Multi-Provider AI Gateway\n\n🔗 Resources\n📥 Claude Desktop : https://claude.ai/download\n🧠 OmniRoute : (Add OmniRoute Official GitHub)\n🚀 NVIDIA Build : https://build.nvidia.com/\n🖥️ VS Code : https://code.visualstudio.com/download\n\n\n⏱️ TIMESTAMPS\n0:00 Claude Opus 5 + GPT-6 for free — what we're building\n0:40 AgentRouter login (GitHub age requirement)\n1:30 Your free credit + dashboard walkthrough\n2:10 Installing Claude Desktop on Windows\n3:00 Unlocking the hidden Developer Mode\n3:40 Configure third-party gateway — Base URL + API key\n4:30 Creating your API token (unlimited quota)\n5:20 Test Connection + model discovery (fixing the error)\n6:10 First live test — building a Mario game\n7:00 Installing Claude Code with one PowerShell command\n7:50 Verifying the install + finding the .claude folder\n8:30 Editing settings.json in VS Code\n9:20 Adding GPT-6 + the model renaming trick\n10:10 Switching models with /model in the terminal\n11:00 Running Claude Code inside VS Code\n11:40 The Mario game result — it actually works\n12:20 How to get MORE free credit (referrals)\n13:00 Final warning before you use this\n\n\nDevelopers using Claude API\nAI / Data Science learners\nBeginners exploring LLMs\nPeople looking for free AI tools\nAnyone wanting to reduce AI API cost\n🎥 Gear & Products I Use (Affiliate Links)\n\n🎙️ Hollyland Lark M2 Combo : https://amzn.to/4nqWpst\n💡 Digitek Ring Light : https://amzn.to/4oLDauW\n📷 Digitek Tripod : https://amzn.to/43BjscY\n💻 My Laptop Lenovo LOQ 2025 AMD Ryzen 7 250| NVIDIA RTX 5050 8GB : https://amzn.to/4ocqbCp\n🎬 My Gaming Chair: https://amzn.to/4qAYrsI\n\n\nClaude Opus 5 free, GPT-6 free, free Claude API key, Claude Code free setup, Claude Desktop third party gateway, AgentRouter tutorial, free AI coding agent, Claude Opus 5 without subscription, GPT-6 API free, best free AI coding tool 2026, Claude Code , settings.json Claude Code config.\n\n📌 Hashtags\n#ClaudeCode #OpenCode #VSCode  #GenerativeAI #LLM  #ArtificialIntelligence #ClaudeCode #ClaudeOpus #GLM52 #VSCode #AICoding #GenerativeAI #ClaudeAI #AIAgents #LLM #DeveloperTools #ArtificialIntelligence #ClaudeFable5 #ClaudeDesktop #FreeClaudeAPI #ClaudeCode #ClaudeOpus #FreeAI #anthropic #ClaudeOpus5 #GPT6 #ClaudeCode\n\n📢 Disclaimer\nThis video is created for educational purposes and demonstrates the use of officially available AI software, APIs, and developer tools. All trademarks belong to their respective owners. Please use these services in accordance with their official Terms of Service and licensing policies. Any free credits, trial offers, or promotional programs mentioned are offered by the respective providers and may change, expire, or become unavailable at any time. This video does not promote unauthorized access, circumvention of payment systems, or misuse of any platform.",
+      "commentCount": 15,
+      "likeCount": 77,
       "probeClient": "web_embedded"
     }
   }
