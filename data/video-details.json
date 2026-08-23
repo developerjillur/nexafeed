@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T01:53:06Z",
+  "updatedAt": "2026-08-23T02:53:07Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9211,7 +9211,7 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-23T01:53:06Z",
+      "checkedAt": "2026-08-23T02:53:07Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -9240,10 +9240,10 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-23T01:53:06Z",
+      "checkedAt": "2026-08-23T02:53:07Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "a7Mp-TCYQpI": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -10388,25 +10388,35 @@
       "probeClient": "web_embedded"
     },
     "L5mkPmjJMKc": {
-      "checkedAt": "2026-08-22T01:53:15Z",
+      "checkedAt": "2026-08-23T02:53:07Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Buzz gives you six built-in local models, but LM Studio opens the door to thousands more. Here’s how to find a model that fits your computer, start the local server, enable authentication, and prepare it for use inside Buzz.\nRun vision, tool-use, and reasoning models locally on your own machine.\n#LocalAI #LMStudio #BuzzAI",
       "commentCount": 0,
-      "likeCount": 1,
+      "likeCount": 3,
       "comments": [],
-      "commentsFetchedAt": "2026-08-22T01:53:15Z",
+      "commentsFetchedAt": "2026-08-23T02:53:07Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "en0iu4ln_JM": {
-      "checkedAt": "2026-08-22T01:53:15Z",
+      "checkedAt": "2026-08-23T02:53:07Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Google just did something that's going to make every teacher's job harder overnight.\n\nGemini is now built right into Google Classroom, sitting next to the assignment. No separate app, no copying text into a chatbot, the AI is one tab away from the homework it's meant to help with, and it even pulls in the assignment and the teacher's instructions on its own. Access used to be for students 18 and up. Now it reaches all ages, down to the youngest grades, at any school that had already switched Gemini on for students. And where it's on, a school has to go in and turn it off for under-18s to pull it back.\n\nGoogle calls these study tools: flashcards, quizzes, notes. Whether a kid uses them to study or to stop trying is up to the kid.\n\nI share more on AI in my community, link in bio.\n\n#ai #gemini #google #education #edtech",
-      "commentCount": 1,
-      "likeCount": 29,
+      "commentCount": 2,
+      "likeCount": 45,
       "comments": [
+        {
+          "id": "UgxBISPMwa-Kjp1aJdV4AaABAg",
+          "author": "@HardikGarg-t1g",
+          "text": "Is this person stupid. If the school really cares all they have to do is go in their Google Classroom settings and turn it off. Your make it sound like a huge deal",
+          "likeCount": 0,
+          "publishedAt": "2026-08-23T01:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_n633UFGUpzCi4f3OVmAh6fby2HThAFHI-Olta-aZZjGlnkhUpi1wPGG1-YFqg2vnKy2g=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgxrZV6XOJkXxpvtpTp4AaABAg",
           "author": "@JimmySherman-n2l",
@@ -10418,7 +10428,7 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T01:53:15Z",
+      "commentsFetchedAt": "2026-08-23T02:53:07Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -12351,14 +12361,25 @@
       "probeClient": "web_embedded"
     },
     "BDzBk2agGgM": {
-      "checkedAt": "2026-08-22T01:53:15Z",
+      "checkedAt": "2026-08-23T02:53:07Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Five free sites to get your kid into AI and coding.\n\nStart with scratch.mit.edu, MIT's block-based playground and the biggest free coding community for kids. Then code.org, which has taught tens of millions of kids their first steps in code through game-based lessons. For AI itself, teachablemachine.withgoogle.com lets a kid train a computer to recognize images and sounds with zero code, and machinelearningforkids.co.uk takes it further with real, hands-on models. And tynker.com, spelled with a Y, stacks thousands of lessons, from modding Minecraft to real AI.\n\nAll free, all built for kids.\n\nI share more about AI in my community, link in bio.\n\n#kids #ai #coding #education #stem",
-      "commentCount": 0,
-      "likeCount": 10,
-      "comments": [],
-      "commentsFetchedAt": "2026-08-22T01:53:15Z",
+      "commentCount": 1,
+      "likeCount": 104,
+      "comments": [
+        {
+          "id": "UgzmC0QKlaZJSexkmcZ4AaABAg",
+          "author": "@Advanced1225",
+          "text": "What does any of this have to do with AI (other than #3)",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T04:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ntpKBvsYEfxT_Rh-k0P2mwE5609BbblrOPqrMfTZm5rjslDA3s_PDfPtNaubkcehRaOPVKSsZH4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        }
+      ],
+      "commentsFetchedAt": "2026-08-23T02:53:07Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -13545,12 +13566,6 @@
       "likeCount": 738,
       "probeClient": "web_embedded"
     },
-    "qIjcxleTw4M": {
-      "checkedAt": "2026-08-23T01:53:06Z",
-      "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
-    },
     "XI9ybbz8NJU": {
       "checkedAt": "2026-08-23T01:53:06Z",
       "embedAllowed": true,
@@ -13594,6 +13609,60 @@
       "description": "Welcome to episode 8 of my playthrough of the Minecraft mod-pack \"Star Technology\", this is another GregTech pack... but in Minecraft 1.20! This is new territory for me, as i hardly ever play modern. So join me on my gregorius journey for the classic STARGATE... and maybe beyond!\n\nLink to the pack: https://www.curseforge.com/minecraft/modpacks/star-technology\n\nHope you all enjoy\n\nMusic by C418\n\n#minecraft  #moddedminecraft #gregtech",
       "commentCount": 22,
       "likeCount": 144,
+      "probeClient": "web_embedded"
+    },
+    "NUK_TBz46dM": {
+      "checkedAt": "2026-08-23T02:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🟡Higgsfield: https://higgsfield.ai/s/mcp-chase-h-ai-ohgbot \n⚡Master Claude Code: https://www.skool.com/chase-ai\n🔥FREE community: https://www.skool.com/chase-ai-community\n\n💻 Need custom work? Book a consult 💻\nhttps://chaseai.io\n\nLets defeat AI slop and learn how to create websites with animation using Claude Code + Seedance 2.5\n\n\n⏰TIMESTAMPS:\n0:00 - Intro\n0:19 - Step 1\n2:14 - Step 2\n7:28 - Step 3\n16:04 - Outro\n\nRESOURCES FROM THIS VIDEO:\n➡️ Master Claude Code: https://www.skool.com/chase-ai\n➡️ My Website: https://www.chaseai.io\n\n#claudecode",
+      "commentCount": 1,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "fA8Q9a2HAt0": {
+      "checkedAt": "2026-08-23T02:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Make sure you leave a like and subscribe to the channel! Thanks to TryHackMe for sponsoring.\n\nEarn your AI Security 1 (AI1) certification with practical, hands-on training on TryHackMe: https://mehulmohan.com/recommends/tryhackme2 \n\nUse my code \"MEHULAI1\" to get 30% off the AI1 certification. Your purchase also includes 3 months of TryHackMe Premium at no additional cost.\n\nWatch my \"Building LLM Tokenizer from scratch\" video: https://www.youtube.com/watch?v=mRcf5qQSYws\n\n\nFollow me on:\nX https://x.com/mehulmpt\nInstagram https://instagram.com/mehulmpt\nLinkedIn https://www.linkedin.com/in/mehulmpt",
+      "commentCount": 2,
+      "likeCount": 22,
+      "probeClient": "web_embedded"
+    },
+    "klHwipKmlgY": {
+      "checkedAt": "2026-08-23T02:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "\"Vibe coding\" works great for quick weekend prototypes, but it completely breaks down in multi-million-line production codebases. In this 10-minute masterclass, we break down the complete shift from traditional software development and raw prompt engineering to true Agentic Engineering.\n\nWe dive deep into the architecture of autonomous coding agents: closed-loop execution, AST (Tree-sitter) parsing, LSP grounding, deterministic compiler feedback, sandboxing with Docker & Firecracker, and zero-API-cost local agent setups.\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n⏱️ TIMESTAMPS / CHAPTERS:\n00:00 - The \"Vibe Coding\" Trap & The Paradigm Shift\n01:00 - Traditional Software vs Prompting vs Agentic Systems\n02:25 - The Core Agent Execution Loop (Observe → Decide → Act)\n03:30 - AST Parsing vs Vector Embeddings for Code Search\n04:00 - Closed-Loop Verification: Compilers as Instant Teachers\n05:00 - SWE-bench & Building Custom Evaluation Harnesses\n06:00 - Cloud Frontier Models vs Zero-API-Cost Local LLMs\n07:15 - Security, Prompt Injections & Preventing Rogue Agent Actions\n08:15 - Step-by-Step Blueprint: Building a Production Agent Pipeline\n09:25 - The 10 Golden Rules of Agentic Engineering (Summary)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🔍 KEY TOPICS COVERED:\n• Why raw autocomplete and vibe coding leads to hallucinated APIs and silent regressions\n• How tools like Warp Agent CLI, Claude Code, and SWE-Agent structure their execution loops\n• Replacing whole-file rewrites with surgical string replacements and AST-aware chunking\n• Zero-cost local vulnerability auditing using Ollama, vLLM, and Qwen 2.5 Coder\n• Isolating agent side effects with MicroVMs, Docker sandboxes, and network egress rules\n• The evolving skill matrix for software engineers in the autonomous AI era\n\n#SoftwareEngineering #AgenticAI #CodingAgents #VibeCoding #ArtificialIntelligence #Programming\n\nhttps://www.bithost.in",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "Zj-BdlqneXg": {
+      "checkedAt": "2026-08-23T02:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Useful Links:\nhttps://wallhaven.cc\n\nSetting up a Mac for software development from scratch.\nIn this video, I configure my Mac with the essential tools and workflows I use for development, including the terminal, coding environment, developer utilities, and everyday productivity setup.\nWhether you’re setting up a new Mac or improving your current developer workflow, this video should give you a practical starting point.\nSubscribe for more developer setup videos, programming tutorials, productivity tips, and tech content.\n\n\n\nCONNECT WITH ME\n\n🌍 Website :- https://mishalabdullah.com/\n👨‍💻 Linkedin:- https://www.linkedin.com/in/mishalat/\n🐍 Github :- https://github.com/Mishalabdullah\n\n\n#macbook  #development #coding #productivity #ai #lmstudio #zed \n#MacSetup #DeveloperSetup #Programming",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "yhvNvxoMrYY": {
+      "checkedAt": "2026-08-23T02:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Don’t Give Up | Software Development Motivation | Zoblik International\n\n📝 Description\n\nYour journey in software development may begin with errors, failures, and self-doubt — but every challenge is part of becoming better.\n\n💻 Learn. Build. Grow.\n🚀 Start your software development journey with Zoblik International.\n\nZoblik International — Build Your Skills. Build Your Future.\n\n👉 Follow us for more opportunities, learning, internships, and career updates.\n\nLinks - www.zoblik.com\n\n🔖 Tags\n\n#ZoblikInternational #SoftwareDevelopment #SoftwareDeveloper #Coding #Programming #LearnCoding #TechCareer #DeveloperLife #Motivation #CodingMotivation #StudentMotivation #CareerGrowth #TechSkills #LearnBuildGrow #FutureDeveloper #ITCareer #Internship #CareerDevelopment",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "u69SZebr7Vk": {
+      "checkedAt": "2026-08-23T02:53:07Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "⭐ Start Learning & Upgrade Your Coding Skills 👉 https://codecompile.ai/🎟️ Use Code: REACT25 for an extra discount🚀\n\n⭐ Need Career Guidance? Book a 1:1 Call 👉 https://topmate.io/technical_suneja\n\nIn this podcast, Gaurav shares his inspiring journey from a small village and Hindi-medium background to building a career in IT.\n\nFrom preparing for government exams and missing selection by just 0.25 marks to switching careers and learning new skills, his story is full of struggle, setbacks, and persistence.\n\nWe also discuss Data Analytics, AI, career switching, government exam preparation, and what students should focus on in 2026.\n\nIf you’re feeling stuck in your career, this conversation will give you a fresh perspective.\n\nIf you’re a developer, student, or planning your career in AI, this episode is packed with practical insights you shouldn’t miss.\n\n👍 Hit 5,000 Likes for more inspiring podcasts like this 🔔 Subscribe so you never miss an episode!\n\nWatch till the end for practical advice on staying relevant in the AI era. 🚀\n\n📱 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 Gaurav Gaira : https://www.linkedin.com/in/gauravgaira/\n📱 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 Gaurav Gaira : on Instagram : https://www.instagram.com/gauravwithdata\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n\n🚀 Learning & Career Resources in 2026\n\n👉 Subscribe: @TechnicalSuneja \n👉 Web Community:  https://learn.codecompile.ai/web/login\n👉  Microsoft Preparation Sheet:- https://interviewsolver.com/interview-questions/microsoft\n👉 1:1 Career Guidance:- https://topmate.io/technical_suneja\n👉 Resume Format :- https://bit.ly/40T0KwX\n👉 Connect with me on Instagram  :- https://www.instagram.com/sunejaajay/\n👉 Connect with me on Linkedin :- https://www.linkedin.com/in/ajaysuneja/\n\n⏰ CHAPTERS:\n\n00:00 - Podcast Highlights\n01:55 - Gaurav’s Inspiring Journey: Village to IT\n03:45 - Life in a Remote Village of Uttarakhand\n04:35 - Hindi Medium School & 1-Hour Trek\n06:42 - Financial Struggles & Early Responsibilities\n07:31 - Earning ₹250 on Sundays in Class 10\n11:03 - Hindi Medium to Improving English\n13:28 - JEE Mains, Money Problems & Lack of Awareness\n15:45 - Dream of IIT & Career Confusion\n18:50 - How UPSC & Government Exams Entered His Life\n23:29 - Moving to Mukherjee Nagar for Preparation\n23:41 - Missed UKPSC by Just 0.25 Marks\n26:49 - Government Exams to First Non-Tech Job\n27:22 - Starting Career at ₹20,000/Month\n28:40 - How the Journey Into Tech Started\n29:27 - Non-Tech to Data Analyst Transition\n32:43 - Upskilling Alongside a Full-Time Job\n34:46 - Data Analyst Roadmap for Non-Tech Students\n36:59 - Excel, SQL & Power BI: What to Learn First\n37:33 - Why Data Analysts Need AI in 2026\n39:19 - Data Analyst in 3 Months? Reality Check\n40:07 - What Does a Data Analyst Actually Do?\n42:19 - Is Data Analytics Overcrowded in 2026?\n44:14 - Taking the Risk to Switch Careers\n45:20 - Will AI Replace Data Analyst Jobs?\n46:36 - AI Operator vs AI Builder vs AI Innovator\n47:30 - Rapid Fire 🔥\n48:35 - Government Job Aspirants: Keep a Plan B\n49:58 - Advice for Students From Small Towns & Villages\n50:29 - Gaurav’s Final Life Advice\n\n1. Missed a Government Job by Just 0.25 Marks… Then Life Changed Completely! 😳\n2. From a Small Village to IT 🚀 The Inspiring Journey of Gaurav\n3. Failed by Just 0.25 Marks… But Never Gave Up! | Village to IT Journey\n4. Hindi Medium to IT Professional 🔥 A Story of Struggle, Failure & Success\n5. Government Exam to IT Career: How One Failure Changed His Life Forever!\n\n⭐ Tags\nvillage to IT, government exam failure, 0.25 marks, inspiring journey, Hindi medium student, career switch to IT, IT career 2026, data analyst journey, software engineer journey, small town success story, village boy success story, government job preparation, UPSC failure story, career motivation, IT jobs in India, how to enter IT, non IT to IT, tech career roadmap, data analytics career, career after government exams, Hindi medium to IT, struggle to success, motivational podcast, Technical Suneja podcast, career guidance India\n\n#coding #jobs #success",
+      "commentCount": 39,
+      "likeCount": 655,
       "probeClient": "web_embedded"
     }
   }
