@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T22:53:27Z",
+  "updatedAt": "2026-08-23T23:53:11Z",
   "items": [
+    {
+      "id": "1p-rMMHzzQI",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Geld Spot",
+      "publishedAt": "2026-08-23T13:53:11Z",
+      "firstSeenAt": "2026-08-23T23:53:11Z"
+    },
+    {
+      "id": "xZV9uIZH9jE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Pabbly",
+      "publishedAt": "2026-08-23T11:53:11Z",
+      "firstSeenAt": "2026-08-23T23:53:11Z"
+    },
     {
       "id": "UsfCe5fJK6A",
       "type": "long",
@@ -23029,6 +23045,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-23T23:53:11Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }
