@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T00:53:05Z",
+  "updatedAt": "2026-08-23T01:53:06Z",
   "items": [
+    {
+      "id": "1j4iadL6DzM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Smart Home Solver",
+      "publishedAt": "2026-08-22T18:53:06Z",
+      "firstSeenAt": "2026-08-23T01:53:06Z"
+    },
+    {
+      "id": "XI9ybbz8NJU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "SHAHG",
+      "publishedAt": "2026-08-22T15:53:06Z",
+      "firstSeenAt": "2026-08-23T01:53:06Z"
+    },
+    {
+      "id": "2dfaJnfeIFk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Finance Dot Com",
+      "publishedAt": "2026-08-22T13:53:06Z",
+      "firstSeenAt": "2026-08-23T01:53:06Z"
+    },
+    {
+      "id": "3-Pr95_szH0",
+      "type": "short",
+      "source": "secondary",
+      "channel": "ABB Robotics",
+      "publishedAt": "2026-08-22T13:53:06Z",
+      "firstSeenAt": "2026-08-23T01:53:06Z"
+    },
+    {
+      "id": "JczJgItt180",
+      "type": "long",
+      "source": "secondary",
+      "channel": "YouTube Automation India",
+      "publishedAt": "2026-08-22T12:53:06Z",
+      "firstSeenAt": "2026-08-23T01:53:06Z"
+    },
+    {
+      "id": "lecb18xIfVM",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Anti Axolotl",
+      "publishedAt": "2026-08-22T11:53:06Z",
+      "firstSeenAt": "2026-08-23T01:53:06Z"
+    },
     {
       "id": "O07vdWfhqow",
       "type": "long",
@@ -21951,6 +21999,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Artificial Intelligence"
+    },
+    {
+      "runAt": "2026-08-23T01:53:06Z",
+      "new": 6,
+      "long": 5,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Automation"
     }
   ]
 }

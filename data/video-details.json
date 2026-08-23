@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T00:53:05Z",
+  "updatedAt": "2026-08-23T01:53:06Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9211,54 +9211,54 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-23T00:53:05Z",
+      "checkedAt": "2026-08-23T01:53:06Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "-fF1ufNJoho": {
-      "checkedAt": "2026-08-22T00:53:10Z",
+      "checkedAt": "2026-08-23T01:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 1,
-      "likeCount": 134,
+      "likeCount": 163,
       "comments": [
         {
           "id": "UgyHD6JL20KNce7wp5h4AaABAg",
           "author": "@CityAnatomyVideos",
           "text": "Would the MCP usage be the main thing that would be different? I guess maybe the ability to use any model. What are the plugins that are written for that are beneficial",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T17:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/slQswBX7CYcExr4i0nl128GHrN05WNQ_PC8oBWsn86Id7L-JhMTPlz1aEzEY4AUUYVygpVuyjw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T00:53:10Z",
+      "commentsFetchedAt": "2026-08-23T01:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-23T00:53:05Z",
+      "checkedAt": "2026-08-23T01:53:06Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
     },
     "a7Mp-TCYQpI": {
-      "checkedAt": "2026-08-22T00:53:10Z",
+      "checkedAt": "2026-08-23T01:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "Comment MINIMAX and I'll send you the link.\n\nChina just dropped a free open-source AI video model that goes toe to toe with the paid ones.\n\nIt's MiniMax H3, and it kills the usual workflow. Normally you generate a silent clip, then chase down voice, music and sound in separate tools. Here you feed it text, a photo, or a reference clip, and it hands back the finished scene with speech, lip-sync, foley and a fitting score, all made together in a single pass.\n\nAnd it isn't locked behind a data center. An optimized build runs on a normal PC from about 8GB of VRAM, with some trade-off in quality, or you can test the full version online right now.\n\n#ai #videogen #opensource #minimax #aitools",
       "commentCount": 6,
-      "likeCount": 39,
+      "likeCount": 50,
       "comments": [
         {
           "id": "UgwYYL_HV5C3KQgnUe94AaABAg",
           "author": "@jebroninfante8304",
           "text": "This video put Postlabs AI back on my radar.",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T16:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mSewoBL3Cq3TOwFH2xOW236UApXQ-kPjlKPxywrC8=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9268,7 +9268,7 @@
           "author": "@jasonaeon",
           "text": "Minimax",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T16:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/zOeW3VhjDTNLS_ckVbvO7zLTLO8t0_vfwi1lR_1LXqpSGiaVN_Gbmp_B60k0aT-RXpblg11B=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9278,7 +9278,7 @@
           "author": "@InnovationIsBeautiful",
           "text": "Minimax",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T12:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/jFoqPa69c8VQaRfPmeQCLOGMSljtydmbOO01AzqbU3zpueCHdkJjlhKLnVs2YEzdYSqjwM3meA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9288,7 +9288,7 @@
           "author": "@janetwoodsmscd",
           "text": "Minimal",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T09:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/TDiFUnLxiKJhjAE6oPKT2MR7KYALe29rgFJle2-FoSUOtSEHUBKhua6HyTuBHoMEN_knQ76K6w=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9314,24 +9314,34 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T00:53:10Z",
+      "commentsFetchedAt": "2026-08-23T01:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "E8K55ixd7HM": {
-      "checkedAt": "2026-08-22T00:53:10Z",
+      "checkedAt": "2026-08-23T01:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "China may be building an advantage in AI that has very little to do with AI models themselves.\n\nIn June 2026, researchers at the Institute of Plasma Physics, Chinese Academy of Sciences, completed testing on a 582-ton superconducting fusion magnet for China's “artificial sun” program. According to Chinese Academy of Sciences, the magnet is the world's largest fusion-reactor superconducting magnet, with three times the energy storage of ITER's comparable toroidal-field magnet and technology developed domestically.\n\nThat sounds like a fusion story.\n\nBut the bigger story could be electricity.\n\nAI is becoming increasingly dependent on massive amounts of computing infrastructure, and computing infrastructure depends on electricity. The IEA estimates that global data-center electricity consumption could more than double from around 415 TWh in 2024 to roughly 945 TWh by 2030, with AI identified as the most important driver of that growth.\n\nChina is already seeing rapidly rising electricity demand from internet data services and AI-related infrastructure. At the same time, China is trying to connect computing capacity and energy infrastructure more closely together.\n\nSo the interesting question isn't simply whether China will achieve commercial fusion.\n\nIt's this:\n\nIf energy becomes one of the biggest constraints on AI, could control over abundant domestic energy become a strategic AI advantage?\n\nFusion is nowhere near being a guaranteed commercial power source yet, so this isn't a claim that China has already “won” the energy race.\n\nBut it highlights a much bigger shift in AI competition.\n\nThe next generation of AI competition may not only be about who has the best models or the most advanced chips.\n\nIt may also be about who can build the infrastructure, power, data centers, and energy systems needed to run AI at enormous scale.\n\nFor founders, AI builders, and technology professionals, this is the bigger picture worth watching.\n\nWhy subscribe?\n\nSubscribe for practical analysis of AI, startups, SaaS, technology, product strategy, and the business systems shaping the next generation of software.\n\nOn this channel, the goal isn't simply to tell you what happened.\n\nIt's to explain why it matters, what most headlines miss, and what it could mean for builders, founders, and professionals.\n\nWhy subscribe to bpro?\n\nbpro focuses on practical AI education and upskilling.\n\nYou can learn about generative AI, prompt engineering, AI workflows, no-code agents, AI for business, and practical ways to use AI as a student, professional, founder, or organization.\n\nThe goal is to move beyond AI hype and understand how these technologies can actually be used.\n\nBverse Labs focuses on the practical execution side of AI, including production AI, AI agents, LLM integration, AI product engineering, RAG, and turning AI concepts into real products and workflows.\n\nSubscribe if you want to understand not just what AI is doing, but where AI, business, infrastructure, and technology are actually heading.\n\n#AI #China #Fusion #ArtificialIntelligence #Tech\n\nchina ai, china artificial intelligence, china ai news, china fusion, china fusion energy, china artificial sun, artificial sun china, nuclear fusion china, nuclear fusion explained, nuclear fusion ai, ai energy consumption, ai electricity consumption, ai data centers, ai power consumption, how much electricity does ai use, why does ai need so much electricity, how ai uses electricity, why ai needs electricity, ai data center energy, china data centers, us china ai race, china vs us ai, ai chip war, us china technology war, china technology, fusion energy explained, nuclear fusion explained, what is nuclear fusion, how nuclear fusion works",
-      "commentCount": 4,
-      "likeCount": 88,
+      "commentCount": 5,
+      "likeCount": 116,
       "comments": [
+        {
+          "id": "Ugz9ORnZLHZvzQyIgn94AaABAg",
+          "author": "@suniljena6629",
+          "text": "China sa kitna money mila hey",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mFhuwWJYyqPwGSWHBUsKfrBEhObH8a99mmHv8LxuM=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugz4A7p1LZB4D5imSB14AaABAg",
           "author": "@mkhizar6592",
           "text": "Kisi ny kuch hilta houa note kia 😅",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T15:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/c6nCBUrFVxHDJN1tOfk9ShcUQ0sc0P2inpDjYng12muOpCpWdsxC_UG4za8_FweOvAymLCK6=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9341,7 +9351,7 @@
           "author": "@HyakutanaMoto",
           "text": "China live in 3000.. literally..",
           "likeCount": 1,
-          "publishedAt": "2026-08-21T14:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_moeku1wSJ_5JYElsivgwUBW9jYwk2tsk6dgkop4bCQX9KRj77yp1bZwNyZvBy82WKOMA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9367,24 +9377,34 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T00:53:10Z",
+      "commentsFetchedAt": "2026-08-23T01:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "yJM9q0lmGys": {
-      "checkedAt": "2026-08-22T00:53:10Z",
+      "checkedAt": "2026-08-23T01:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 5,
-      "likeCount": 248,
+      "commentCount": 6,
+      "likeCount": 278,
       "comments": [
+        {
+          "id": "UgwPk0lKW5BeKrRLYa14AaABAg",
+          "author": "@dangabbay1",
+          "text": "why they dont release all these features for the desktop version. so fucking annoying",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T14:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k9mbR19fjGdcdUMh4nutZJAYzAmfcovaX_EJeQcKc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "UgzdL1ncD6WVLMVlvjN4AaABAg",
           "author": "@ditroradio",
           "text": "Oh my God, the rambling is so freaking annoying! I tried setting it to concise this morning and I see no improvement and no change. I’ve been working this way for probably four hours so far.",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T19:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_k4v3BXcZJKWVsYSzCUTuqNeIe2vz_bPnplCb2d2ZxPO7M=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9394,7 +9414,7 @@
           "author": "@michaelplaczek9385",
           "text": "Caveman big skill",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T07:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_m3KOJHnV-RNlKUDLEqo_94I01bGFWbEZRtfSmgjaUoTVo=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9403,7 +9423,7 @@
           "id": "Ugxc_8KMfItJgjoR8Ld4AaABAg",
           "author": "@BoKruse",
           "text": "None of that fixes whats annoying about Opus (and Fable 5).  And that's the honest caveat.",
-          "likeCount": 3,
+          "likeCount": 4,
           "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kvWJI7EzAd46_2JOGDGEw6EOSnWSU7OWOV60Ez9JBkDA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
@@ -9430,117 +9450,117 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T00:53:10Z",
+      "commentsFetchedAt": "2026-08-23T01:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "rhv61m8n3Nc": {
-      "checkedAt": "2026-08-22T00:53:10Z",
+      "checkedAt": "2026-08-23T01:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "This AI cloned me in just 15 seconds. One short video, and HeyGen made a Digital Twin that looks, sounds, and moves like me, no camera needed. Go to my Instagram, DM me \"HEYGEN\" to try it.",
       "commentCount": 8,
-      "likeCount": 568,
+      "likeCount": 680,
       "comments": [
         {
-          "id": "UgxNCD0vLkIEDXfCf_F4AaABAg",
-          "author": "@luhvoh",
-          "text": "Heygen",
-          "likeCount": 0,
-          "publishedAt": "2026-08-22T00:14:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_miF8x8XG_D8Vrgsk1zX1uTpZBG3sXh6tEjd8X5tJDH2RgR6mec5Q13ZETo_U-sNFQYDA=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgwrXX9qiS4-Niw15Zx4AaABAg",
-          "author": "@gmills3666",
+          "id": "UgyepLSX4xZ8997jGvt4AaABAg",
+          "author": "@cassirnify",
           "text": "Hey gen",
           "likeCount": 0,
-          "publishedAt": "2026-08-22T00:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lDWsxP6jjdNzSMOIgE8Z4-DtHgM9_IHb6xz5pjZWM=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-22T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kDUYeyhjY0E19RNxmAf37b_fMedUvoS7wqJWW70hXzrLo=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         },
         {
-          "id": "UgwcZV_vh_xV4bEvBLd4AaABAg",
-          "author": "@justincain668",
-          "text": "Hey gen",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_keUElz7FF7Tm_LRyxildDy-ZgaSbjVr8mRwca27gxUjME=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugx5XphsaeZkcK2NaVF4AaABAg",
-          "author": "@8bulletballers385",
-          "text": "Heygen!",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ktUXsjMi_RvpUjZH3Yw2jpfA42mLw_BDVFSPzlabUss9I=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzQr062vv7tg_no9YJ4AaABAg",
-          "author": "@8bulletballers385",
-          "text": "Goated",
-          "likeCount": 1,
-          "publishedAt": "2026-08-21T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_ktUXsjMi_RvpUjZH3Yw2jpfA42mLw_BDVFSPzlabUss9I=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "UgzFO4JOb-chbblhsYZ4AaABAg",
-          "author": "@chrisniemyjski1400",
-          "text": "heygen",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lkwBVluXYsvNHMBf-2yi9AkFydMY9R9X3gyeRWvnMvDFj1=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugw07UbRg70gEwx_zvN4AaABAg",
-          "author": "@shawnthompson5038",
-          "text": "Heygen",
-          "likeCount": 0,
-          "publishedAt": "2026-08-21T22:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kmW6EkYMcDg6fsdfoFD0kajiGb-QoxSKdN5exLMyky4cc=s88-c-k-c0x00ffffff-no-rj",
-          "isPinned": false,
-          "isUploader": false
-        },
-        {
-          "id": "Ugy5UQUjLU--0iNsKyF4AaABAg",
-          "author": "@BabajaidA",
+          "id": "UgwcGQYKof-LwcLtls14AaABAg",
+          "author": "@RandhiDurbin",
           "text": "Hey Gen",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T20:00:00Z",
-          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_l_04_OBJuiKAZ6YscNL6W2Yst51MqtgpQMsFiHgkQYOcoO=s88-c-k-c0x00ffffff-no-rj",
+          "publishedAt": "2026-08-22T23:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lkDhfR4IQoQOti0IosPsSAEqhLLgtyGqmMmRGIpKBIdhtOTK_iy1Z_GU0MKBc9sh8dlA=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxckL2gn7T7ezODiOV4AaABAg",
+          "author": "@Vinfiz0",
+          "text": "Hey Gen!",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T22:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mj4OKoEN2p1vqlx5ZdjdEdeLnWmTFplzvqw91qtATaOfc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgxnwELGOHGe9lDuWAZ4AaABAg",
+          "author": "@lmjoshea5915",
+          "text": "Hey gen",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mXS3DnKKKnt32giJWtQ77MfBIcn2KM2HDOXni9O75NWYd6=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgyATnbCBonNJdRMMPd4AaABAg",
+          "author": "@ForNeptune-h4s",
+          "text": "guys, the name of the AI that does this is HeyGen\n:)",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T20:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/1uaqIIXDbr7oA7xNxDv9sr5d2ik7VaiXAF0xfAhHoJue2tBre3BuKhGC0Ix2WfEkQ42jto3biQ=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "UgwJz7R6y4WVQeYIQAJ4AaABAg",
+          "author": "@eddy33ize",
+          "text": "Heygen",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T19:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_lxguFE1xII3FEcY671a20Nm3gFqvp7FeTGmHahWEc=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw6SKv2moB3LIGNK9V4AaABAg",
+          "author": "@ditotayow",
+          "text": "Heygen",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mdM9w3IVnU63EvkM8QB-fpHHpKOz6-iIXmblVjrfdLNEAek8WoEIS2Ci0xfrvFZSjTCg=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
+        {
+          "id": "Ugw3JVPj52in97xAa0h4AaABAg",
+          "author": "@NelsonSaenz-j9l",
+          "text": "Heygen",
+          "likeCount": 0,
+          "publishedAt": "2026-08-22T17:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kXrVzf2kng6Bt3fDoTQur3nO0uITlQpQYpnFjviaOOtG-Tqfo3rW8xJWXn5hrlnURcGA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T00:53:10Z",
+      "commentsFetchedAt": "2026-08-23T01:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "qRcwGoKpin0": {
-      "checkedAt": "2026-08-22T00:53:10Z",
+      "checkedAt": "2026-08-23T01:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "If you could only keep one AI agent in 2026, which one survives?\n\nRan that exact experiment on camera. Sixteen tools, head to head. Honestly thought Claude Code had it until the very last matchup. The winner runs on its own cloud computer and keeps working after my laptop closes. Grok Bot.\n\n(comment “GROK” and the full starter guide shows up in your DMs 🚀)",
       "commentCount": 2,
-      "likeCount": 13,
+      "likeCount": 15,
       "comments": [
         {
           "id": "UgzU7PW9MwaFQMnTH614AaABAg",
           "author": "@realeyez360official",
           "text": "grok",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T14:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/0qXuuVpcC0B1y-rLEQvKEZJEUlAy6q11wHNN8B5xPiOy7JOdji9_HXix9N0hrWHHAD_zMPvEl94=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9556,17 +9576,17 @@
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T00:53:10Z",
+      "commentsFetchedAt": "2026-08-23T01:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
     "uEcrrbdiwrA": {
-      "checkedAt": "2026-08-22T00:53:10Z",
+      "checkedAt": "2026-08-23T01:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
       "commentCount": 4,
-      "likeCount": 767,
+      "likeCount": 846,
       "comments": [
         {
           "id": "UgxkvOLzbiMC6NGjanN4AaABAg",
@@ -9583,7 +9603,7 @@
           "author": "@ragg.v",
           "text": "But isn't that consume more tokens ? People who are on free plan that's tough",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T15:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_kMYxzuoALeklp701_RTTqcGyDmQBNx8RUq7hexDYiJAbjeefA32v6O8iwKUH_tJvomYg=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9593,7 +9613,7 @@
           "author": "@njm3025",
           "text": "Good",
           "likeCount": 0,
-          "publishedAt": "2026-08-21T15:00:00Z",
+          "publishedAt": "2026-08-22T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mnsRePMTAqF3ujQDQLo33WSye2gWUWUAUPZzyOwbl4lHs=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
@@ -9602,14 +9622,14 @@
           "id": "Ugy15BU5ifySD3RZEaF4AaABAg",
           "author": "@sainihar-e5f",
           "text": "So everyone installs humanizer and everything feels more human n then again ai finds the pattern n again they comeup with other PARAHUMANIZER which the ai can't detect as genai. 😵‍💫🫠🙄",
-          "likeCount": 3,
+          "likeCount": 4,
           "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_momCzWinqemrHVRkrALpkqOgWMuuCZmQETvZkxuCGOrH4d_knhnFbGxobnamVu-3gWDA=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T00:53:10Z",
+      "commentsFetchedAt": "2026-08-23T01:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -9623,18 +9643,28 @@
       "probeClient": "web_embedded"
     },
     "OP_6XF89la8": {
-      "checkedAt": "2026-08-22T00:53:10Z",
+      "checkedAt": "2026-08-23T01:53:06Z",
       "embedAllowed": true,
       "availability": "public",
       "description": "",
-      "commentCount": 4,
-      "likeCount": 165,
+      "commentCount": 5,
+      "likeCount": 260,
       "comments": [
+        {
+          "id": "UgwnCpaWD6R176SpRUx4AaABAg",
+          "author": "@prajwalm2850",
+          "text": "kal hi soch ra tha kisi ne sach mein bana diya😮",
+          "likeCount": 2,
+          "publishedAt": "2026-08-22T12:00:00Z",
+          "authorThumbnail": "https://yt3.ggpht.com/ytc/AIdro_mrhTwHfREJITcKrUtP9lpQCQ1ukF4hHom8hOhyjE4=s88-c-k-c0x00ffffff-no-rj",
+          "isPinned": false,
+          "isUploader": false
+        },
         {
           "id": "Ugwp0waPONheLnqmzM14AaABAg",
           "author": "@WheelCorp",
           "text": "Humanity ki Khudka vinash krne ki tayyari😢",
-          "likeCount": 1,
+          "likeCount": 2,
           "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/T164zB44rQ5GJKFWNHUKDhl1aUQP5ggBSn20YfU5xiaOn4D9i7RDUvvjvlm0GI7-u-VFlDCLkQ=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
@@ -9644,7 +9674,7 @@
           "id": "UgyA2jLjLRsVLtrB9Hl4AaABAg",
           "author": "@1dergaming",
           "text": "I need the followings job 😢",
-          "likeCount": 0,
+          "likeCount": 1,
           "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/nRF2mygrtm-PEAgIZYNy1vF1Ywq5Y2pXNrjQ1q0psi-Qg3nUV6VBq0MtL3Yiabk-fGiC3qnS=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
@@ -9654,7 +9684,7 @@
           "id": "UgwhrU_Dzor4r1Ykub14AaABAg",
           "author": "@navdeepschannel",
           "text": "1st commont",
-          "likeCount": 0,
+          "likeCount": 1,
           "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/XuCwt7tQRdtLI50LNSffBaVQjVVvtzIOUhtPHiYstw8v8KJwEa4fGDEolwQStpxBC24kLhkdXw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
@@ -9664,14 +9694,14 @@
           "id": "Ugzsies88IN1cjy3MpB4AaABAg",
           "author": "@navdeepschannel",
           "text": "❤❤",
-          "likeCount": 1,
+          "likeCount": 2,
           "publishedAt": "2026-08-21T00:00:00Z",
           "authorThumbnail": "https://yt3.ggpht.com/XuCwt7tQRdtLI50LNSffBaVQjVVvtzIOUhtPHiYstw8v8KJwEa4fGDEolwQStpxBC24kLhkdXw=s88-c-k-c0x00ffffff-no-rj",
           "isPinned": false,
           "isUploader": false
         }
       ],
-      "commentsFetchedAt": "2026-08-22T00:53:10Z",
+      "commentsFetchedAt": "2026-08-23T01:53:06Z",
       "commentsStatus": "cached",
       "probeClient": "web_embedded"
     },
@@ -13504,6 +13534,66 @@
       "description": "What happens when Artificial Intelligence meets Quantum Computing? 🤖⚛️\n\nWelcome to the recording of AI Unleashed Masterclass 3, where we explored Quantum AI and its potential to shape the future of Artificial Intelligence.\n\nIn this masterclass, we covered:\n\n🔹 Quantum Computing Fundamentals\n🔹 AI + Quantum Computing\n🔹 Quantum Machine Learning\n🔹 Hybrid Classical–Quantum Models\n🔹 The Future of Quantum AI\n\n🎓 Expert Speaker\n\nAyan Kumar Ghosh\nAI/ML Faculty | Trainer | Quantum Computing Researcher\nMS — IIT Kharagpur | 13+ Years of Industry Experience\n\nWhether you’re a student, AI/ML learner, technology enthusiast, or someone curious about emerging technologies, this session will help you understand how quantum computing and AI could converge to create the next generation of intelligent systems.\n\n📌 Missed the Masterclass?\nWatch the complete session above and explore the world of Quantum AI.\n\n🚀 AI Unleashed Masterclass Series | Masterclass 3\n\n📚 Learn. Explore. Build the future.\n\n#QuantumAI #QuantumComputing #ArtificialIntelligence #MachineLearning #QuantumMachineLearning #AIUnleashed #AI #EmergingTechnology",
       "commentCount": 0,
       "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "1j4iadL6DzM": {
+      "checkedAt": "2026-08-23T01:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "These are the home automation ideas I'm using in my new smart home!\n\nUGREEN NAS on Official Store(15% off): https://ai.us.ugreen.com/118GpO\nUGREEN NAS DXP4800 GT(15% off): https://amzn.to/4zeLJob\nUGREEN NAS Series(15% off): https://amzn.to/4yWQwu0\n#UGREENNAS #UGREEN\n\nArticle how I set everything up: https://smarthomesolver.com/reviews/automating-my-new-house/\n\n*Links in chronological order*\nTrampleTek Blue pressure sensor: https://asc.com/products/trampletek-blue?sca_ref=8601086.6f9ktniJkBAxXC5O&utm_source=reed-kleinman&utm_medium=uppromote&utm_campaign=reed-kleinman\nESP32: https://amzn.to/3SiSynZ\nRATGDO Disco: https://ratcloud.llc/products/ratgdo32-disco\nRATGDO Disco video: https://youtu.be/7cSXnbRzl2o?si=IeZkPnNKaHRyLEU7\nEverything Presence One: https://shop.everythingsmart.io/products/everything-presence-one-kit\nZooz dimmer switch: https://amzn.to/4ggqnxG\nSmart pet feeder: https://amzn.to/4hSKDYZ\nAqara water leak sensor: https://www.amazon.com/dp/B07D39MSZS?ref=t_ac_spc_accepted_tile&linkCode=tr1&tag=dihoau-20&linkId=B07D39MSZS_1787354162046\nDroplet water monitoring: https://www.hydrificwater.com/SMARTHOME use code SMARTHOME for 10% discount\nEcobee thermostat: https://amzn.to/45GRugM\nAqara FP1E: https://amzn.to/4cOuuQD\nSofabaton remote: https://www.amazon.com/dp/B0GTYFJZLC?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.ORI31FVELFW2&linkCode=tr1&tag=dihoau-20&linkId=amzn1.campaign.ORI31FVELFW2_1787354365367\nZooz scene controller: https://amzn.to/4qwahF7\nSlumberTek: https://asc.com/products/slumbertek?sca_ref=8601086.6f9ktniJkBAxXC5O&utm_source=reed-kleinman&utm_medium=uppromote&utm_campaign=reed-kleinman\n(affiliate)\n\nMy smart home favorites: https://www.amazon.com/shop/smarthomesolver\n\nMy smart home shirts!\nUSA: https://smarthomesolver.big3creative.com/\nInternational: https://smart-home-solver-shop.fourthwall.com/\n\nFOLLOW ME\nSubscribe to Smart Home Solver: https://bit.ly/3joO1dZ\nSubscribe to Reed's Smart Home: http://bit.ly/3EulO02\nInstagram: https://www.instagram.com/smarthomesolver/\n\n0:00 Intro\n0:37 Annie wants in\n1:19 Better announcements\n2:40 Super smart alerts\n3:32 Fast garage notifications\n4:33 Perfect motion lights\n5:40 Basic light automations\n6:17 Auto animal feeders\n6:54 Annie is thirsty\n7:35 Powerful dinner button\n8:35 Defeating kids\n10:48 Auto-arming cameras\n11:26 Water leak fail safe\n12:39 Fan fully automated\n13:09 Improved doorbell\n14:04 Keeping it clean\n14:45 mmWave motion lights\n15:37 Projector and thermostat\n16:04 Buttons + auto lights\n16:56 Actionable notification\n17:49 Crashing in bed\n18:47 Worst Dad\n\n---------\n\nMUSIC\nDigifunk by DivKid\n\nEnding song is The End by EVA.\nhttps://open.spotify.com/artist/6UIs5b0zSXztIW5GHkCTkK",
+      "commentCount": 44,
+      "likeCount": 738,
+      "probeClient": "web_embedded"
+    },
+    "qIjcxleTw4M": {
+      "checkedAt": "2026-08-23T01:53:06Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
+    },
+    "XI9ybbz8NJU": {
+      "checkedAt": "2026-08-23T01:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "WhatsApp Group Link: 👉 https://whatsapp.com/channel/0029VaCft4ZEAKWCdGecqI1N\nFiles Link: 👉 https://alphapost.io/blog/free-facebook-page-auto-poster-blogger-wordpress\nMeta Business Suite Link https://business.facebook.com/latest/settings/business_users/?nav_ref=internal_nav\n\nIn this video I show you Facebook automation with a free setup for 2026, to get free traffic to your blog on autopilot. This is a complete free course, step by step, for beginners. After a one time setup, the automation shares your blog content on Facebook for you, and brings \nfree traffic to your blog every day. No coding needed, and everything I use is free.\n\nFacebook is one of the biggest free traffic sources for blogging. In this full course I show you the complete setup from start to finish, plus the safe way to use automation so your account stays protected.\n\nIn this video you will learn:\n. What Facebook automation is and how it works\n. The full free setup step by step\n. How your blog posts share on Facebook automatically\n. How to get free blog traffic from Facebook\n. The safe limits so your account stays protected\n. Common mistakes and spam traps to avoid\n\n\nDisclaimer: This video is only for education. This is my own setup and my own experience. Your results can be different. I do not promise any traffic or income. Facebook rules and automation limits can change anytime, so always follow Facebook policies and use automation \nthe safe way. Do not spam, because spam can get your account restricted. AI tools and their limits can also change. Some links may be affiliate links, and I may earn a small commission at no extra cost to you.\n\nIf this video helped you, please LIKE, SHARE and SUBSCRIBE for more free automation courses. Turn on the bell so you never miss a new video.\n\n#facebookautomation #facebooktraffic #blogging #freetraffic #blogtraffic #autoblogging \n#facebookmarketing #bloggingtips #aiautomation #freetrafficforblog #onlineearningpakistan #shahg",
+      "commentCount": 24,
+      "likeCount": 70,
+      "probeClient": "web_embedded"
+    },
+    "2dfaJnfeIFk": {
+      "checkedAt": "2026-08-23T01:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "I Turned My Trading Strategy Into an Automated System.\n\nIn my previous experiment, I backtested a mean-reversion strategy across 123 Indian ETFs.\n\nBut the next question was simple:\n\nCan that same strategy actually trade in the live market automatically?\n\nIn this video, I take you behind the scenes of the system I built using Python, VS Code and Zerodha Kite Connect API.\n\nYou'll see how the system:\n\n• Scans ETFs automatically\n• Checks predefined trading rules\n• Identifies qualifying candidates\n• Calculates position size\n• Connects with the broker API\n• Handles authentication and Static IP requirements\n• Sends an actual order\n• Confirms the execution\n• Records the position\n\nYou'll also see the problems I faced while moving from backtesting to live trading — including IP rejection, API request limits and infrastructure issues.\n\nBecause there's a big difference between:\n\nBacktesting a strategy\n\nand\n\nRunning that strategy in the real market.\n\nThe goal of this series is not to promise a profitable trading bot.\n\nIt's to learn how to take a trading idea, convert it into rules, backtest it, build the system and eventually automate the execution.\n\nThis is my journey from Backtest → Python → Live Market → Automation.\n\n\nDisclaimer:-\n\"This video is for educational and informational purposes only. It does not constitute investment advice, trading tips, or stock recommendations.\nI am NISM Certified but NOT a SEBI-registered investment advisor.\nInvestments in securities are subject to market risks. Please do your own research or consult a SEBI-registered financial advisor before making any investment decisions.\nPast performance is not indicative of future results. Read all scheme-related documents carefully before investing.\n\nAgar aap ETF ko zero se advanced level tak properly samajhna chahte ho (logic, risk, discipline ke saath), to yeh live program aapke liye hai.\n\nLearn ETFs from Basic to Advanced – Small Live Batches\n🔹 Only 5–10 students per batch\n🔹 Live classes + recordings included\n🔹 Concept-based learning (no tips, no shortcuts)\n\n                                1. ETF Foundation Program\n\nBuild strong ETF basics, structure & clarity before investing or trading.\n✔ Suitable for beginners\n👉 Register here:\nhttps://rzp.io/rzp/mSovqcv\n\n2.  ETF Trading – Learn practical Entry, Exit & Risk rules you can apply immediately –(Only 5 to 10 seats)\n👉 Register: [https://rzp.io/rzp/0YJxNZXb]\n\n 3.  ETF Advanced Strategies & Trading Psychology\nDeep dive into Trading strategy thinking, execution discipline & Psycholgy needed for long-term consistency.\n👉 Register here:\nhttps://rzp.io/rzp/X4W1Wav\n\n🔹 Complete ETF Program (Foundation → Advanced)\n\nAll modules in one structured learning journey.\n Combo benefit available\n👉 Register here:\nhttps://rzp.io/rzp/xLKwuyJ\n\n⚠️ Important Note\nThis program is strictly for educational purposes.\nNo stock/ETF tips, no guaranteed returns, no buy/sell recommendations.\nMarkets involve risk—learning comes first.\n \nFor class assistance: WhatsApp – 8267922470\n\nNote: These live classes are structured, intensive learning sessions conducted in small premium batches to ensure every student receives personal attention.\n\nDisclaimer:\nThese classes are for educational and informational purposes only. They are not financial advice, stock tips, or a guarantee of returns. Past performance does not ensure future results.\n\nMy Book — You Don’t Know The Power of ETF\n\nGet the complete ETF guide in one place:\n\n👉 Pothi (Hindi Edition): https://store.pothi.com/book/vishesh-singh-you-dont-know-power-etf/\n👉 Amazon India: https://amzn.to/3JgiFa4\n👉 Flipkart: https://www.flipkart.com/you-don-t-know-power-etf-wealth-happens-autopilot-multiplier-code-step-by-step-guide/p/itmf1a4a9480de35?pid=9798895415504\n👉 Amazon Kindle: https://amzn.to/45w4AwK\n\n\nAbout Vishesh Singh:\n\nAuthor of You Don’t Know the Power of ETF\nNISM Certified Research Analyst & Mutual Fund Certified\nKnown for simplifying ETFs, personal finance, psychology & practical stock market learning.\n\n- NISM Certified Research Analyst-\nLink of the certificate- https://photos.app.goo.gl/frxSM58Vr7NtNKv99.e\nETF Book Link-https://amzn.to/3J4S003\n\nFor Collaboration or Enquiries\n\n📞 8267922470\n📧 singhvisheshraghav@gmail.com\n\nFollow us on:\n\n Facebook: https://www.facebook.com/profile.php?id=61556100976868&mibextid=ZbWKwL\n\n Instagram: http:https://www.instagram.com/fin_ancedotcom?igsh=MWx6aHNlZjhpZGl3NQ==\n\nFeatured playlist.\n\nETF free course Basic to Advanced\nlink-https://www.youtube.com/playlist?\nList=PLfguUDseXN9q8NB6pB3DL4JWFlonoKpHM\n\nSwing Trading Course: Basic To Advanced\nhttps://www.youtube.com/playlist?list=PLfguUDseXN9oxf2A3MLvwmEi197YaeY7a\n\n#TradingAutomation #AlgorithmicTrading #automatedtrading \n#ETFIndia\n#ETFEducation\n#FinanceDotCom\n#PersonalFinanceIndia\n#IndianStockMarket\n#StockMarketEducation\n#InvestingEducation\n#ETFBasics\n#ETFTradingEducation\n#RiskManagement\n#TradingPsychology\n#IndianInvestors\n#FinancialLiteracy\n#LearnFinance\n#Etftradingstrategy\n\n\nmusic - Ecliptic drift.",
+      "commentCount": 10,
+      "likeCount": 22,
+      "probeClient": "web_embedded"
+    },
+    "3-Pr95_szH0": {
+      "checkedAt": "2026-08-23T01:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "What makes the ABB Robotics Value Provider Conference Americas so valuable? It's the opportunity to connect, exchange ideas, and learn from one another.\n\nIn this testimonial, Robert Vitale from NūMove Robotics & Vision, shares his experience at the conference and why collaborating with fellow partners and the ABB Robotics team helps create new opportunities for customers and business growth.",
+      "commentCount": 0,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "JczJgItt180": {
+      "checkedAt": "2026-08-23T01:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Bulk Me Video Generate Kaise Kare | How To Make AI Videos For Youtube | YouTube Automation India\n\nAgar aap YouTube ke liye AI Videos banana chahte hain aur ek-ek video manually create karne ke bajay Bulk Video Generation karna chahte hain, to ye video aapke liye hai.\n\n🔥 Bulk Video Generator Tool\n 🌐 https://ytprompt.ai/\n\n📲 YouTube Automation India App Link\nhttps://play.google.com/store/apps/details?id=com.fuealk.kfkmpe\n\n📢 Telegram Community\n 👉 https://t.me/YoutubeAutomationIndia\n\n💬 WhatsApp Group\n 👉 https://chat.whatsapp.com/DPjeXK46jSxIj344UomjnT\n\n📲 WhatsApp Channel\n Follow YouTube Automation India 🇮🇳 for daily updates, AI tools, prompts, and automation strategies:\n 👉 https://whatsapp.com/channel/0029VbDnhkj9WtC5RZlaYZ0T\n\n👥 Facebook Private Group\n Join our exclusive community of YouTube creators and automation experts:\n 👉 https://www.facebook.com/groups/youtubeautomationindia\n\nIs video me maine step-by-step bataya hai ki AI ki help se bulk me videos kaise generate kare, faceless YouTube channel ke liye content kaise banaye aur YouTube Automation workflow ko fast kaise kare.\n\n🔥 Is Video Me Aap Seekhenge:\n✅ Bulk me AI Videos kaise generate kare\n✅ How to Make AI Videos for YouTube\n✅ Bulk Video Generator kaise use kare\n✅ Faceless YouTube Videos kaise banaye\n✅ AI se multiple videos kaise banaye\n✅ YouTube Automation kaise kare\n✅ AI Video Generation workflow\n✅ YouTube ke liye videos automate kaise kare\n✅ Mobile se AI Videos kaise banaye\n✅ Faceless YouTube Channel Automation\n\nAgar aap YouTube Automation, Faceless YouTube Channel, AI Video Generation aur Bulk Content Creation seekhna chahte hain, to channel ko Subscribe zarur karein. \n\nVideo helpful lage to Like  aur Comment karke zarur batayein.\n\n Search Keywords:\nbulk me video generate kaise kare\nbulk video generator\nbulk video generation\nhow to make ai videos for youtube ai video generator\nai video generator for youtube youtube automation india\nyoutube automation\nyoutube automation 2026\nfaceless youtube channel\nfaceless youtube automation\nai youtube channel\nai videos for youtube\nhow to create ai videos\nhow to make faceless videos\nbulk ai video generator\nbulk video generator tools\nai video generation\nyoutube video automation automate youtube videos\nai video maker\nai video generator from text\ntext to video ai\nfaceless channel ideas\nyoutube automation tools\nai content creation\nai video editing\ncreate multiple videos with ai\nbulk content creation\nyoutube automation kaise kare\nai se video kaise banaye\nmobile se ai video kaise banaye\n\n#BulkVideoGenerator #AIVideoGenerator #YouTubeAutomation #YouTubeAutomationIndia #FacelessYouTube #AIVideos #BulkVideoGeneration #AIYouTubeChannel",
+      "commentCount": 56,
+      "likeCount": 103,
+      "probeClient": "web_embedded"
+    },
+    "lecb18xIfVM": {
+      "checkedAt": "2026-08-23T01:53:06Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Welcome to episode 8 of my playthrough of the Minecraft mod-pack \"Star Technology\", this is another GregTech pack... but in Minecraft 1.20! This is new territory for me, as i hardly ever play modern. So join me on my gregorius journey for the classic STARGATE... and maybe beyond!\n\nLink to the pack: https://www.curseforge.com/minecraft/modpacks/star-technology\n\nHope you all enjoy\n\nMusic by C418\n\n#minecraft  #moddedminecraft #gregtech",
+      "commentCount": 22,
+      "likeCount": 144,
       "probeClient": "web_embedded"
     }
   }
