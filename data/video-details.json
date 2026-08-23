@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T03:53:08Z",
+  "updatedAt": "2026-08-23T04:53:09Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -5320,12 +5320,13 @@
       "probeClient": "web_embedded"
     },
     "eV-rqZ7c9S8": {
-      "checkedAt": "2026-08-16T03:53:13Z",
+      "checkedAt": "2026-08-23T04:53:09Z",
       "embedAllowed": true,
       "description": "Try SciSpace: https://scispace.com/?via=jun1erictech\nJNERIC20 for 20% off the monthly plan\nJNERIC35 for 35% off Max, monthly or annual, 40,000 credits\n\nMost AI research tools summarize a paper and stop there. I'm a senior AI engineer (ex-Amazon, Microsoft), and here I turn a pile of research papers into a dataset I can check line by line.\n\nKey takeaways:\n\n- Explore a whole topic instead of hunting papers one by one\n- Build comparison tables with custom columns in plain English\n- Click a cell to jump to the source line, then export to CSV\n- Use Math Snippet to decode an equation inside the PDF\n\n🔗 Join our Skool community: https://www.skool.com/erictech/about\n\n🔗 Check out bookzero.ai — AI-powered bookkeeping built entirely with Claude Code\n\nThis video is sponsored by SciSpace.\n\nTimestamps:\n0:00 Intro\n1:11 Topic Search\n2:47 Comparison Table\n4:33 Verify Sources\n5:27 CSV Export\n6:12 Math Snippet\n7:56 Who It's For\n9:02 Outro\n\n#scispace #airesearchtools #aitools",
-      "commentCount": 0,
-      "likeCount": 0,
-      "probeClient": "web_embedded"
+      "commentCount": 1,
+      "likeCount": 30,
+      "probeClient": "web_embedded",
+      "availability": "public"
     },
     "bDdNOfeVhXM": {
       "checkedAt": "2026-08-18T05:53:07Z",
@@ -9211,10 +9212,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-23T03:53:08Z",
+      "checkedAt": "2026-08-23T04:53:09Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -9240,7 +9241,7 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-23T03:53:08Z",
+      "checkedAt": "2026-08-23T04:53:09Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -13699,6 +13700,33 @@
       "description": "Qwen3.8 is one of the most interesting open-weight AI models for developers right now, so in this video I put Qwen 3.8-2.4T-A95B head-to-head with Claude Opus 5 to see how they actually compare on real coding work. \n\nBoth models get the exact same prompt and are asked to build a complete playable 3D endless runner game in a single HTML file using Three.js. I compare Qwen 3.8 vs Claude Opus 5 while also looking at the Artificial Analysis Intelligence Index scores of 58 for Qwen and 63 for Claude Opus 5.\n\n🔗 Relevant Links\nQwen - https://qwen.ai/blog?id=qwen3.8\nHugging Face - https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B\n\n❤️ More about us\nRadically better observability stack: https://betterstack.com/\nWritten tutorials: https://betterstack.com/community/\nExample projects: https://github.com/BetterStackHQ\n\n📱 Socials\nTwitter: https://twitter.com/betterstackhq\nInstagram: https://www.instagram.com/betterstackhq/\nTikTok: https://www.tiktok.com/@betterstack\nLinkedIn: https://www.linkedin.com/company/betterstack\n\n📌 Chapters:\n0:00 Qwen 3.8 vs Claude Opus 5\n0:32 Qwen 3.8 2.4T Explained for Developers\n1:25 Qwen 3.8 Tools and Hosted Inference\n2:40 Getting Qwen 3.8 Setup and Hosted Inference\n3:13 Qwen vs Claude: Real 3D Coding Challenge\n5:30 Side by side Qwen vs Claude Comparison\n6:06 Qwen 3.8 vs Claude Opus 5 Benchmarks\n7:11 Speed, Verbosity and Open-Weight Access\n7:51 Where Qwen 3.8 Is Actually Strong\n8:30 Qwen 3.8 Weaknesses and Limitations\n9:10 Should Developers Use Qwen 3.8?\n9:22 Qwen 3.8 27B and Local AI Models\n9:55 Qwen 3.8 vs Claude Opus 5: Final Verdict",
       "commentCount": 27,
       "likeCount": 140,
+      "probeClient": "web_embedded"
+    },
+    "3qQSbI9Nr3c": {
+      "checkedAt": "2026-08-23T04:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Looking for digital marketing in Launceston?\n\nAt Bolder Digital, we're a Launceston-based digital marketing agency helping businesses across Northern Tasmania grow with AI, automation, websites, Google Business Profile optimisation, Voice AI, CRM systems and practical marketing strategies that generate more leads.\n\nWhether you're a local business in Launceston or servicing the wider Tasmanian market, we help businesses improve their online presence, automate repetitive tasks and turn more enquiries into customers.\n\nIn this video we share the services:\n✔ Digital Marketing in Launceston\n✔ AI Marketing strategies\n✔ Google Business Profile optimisation\n✔ Voice AI Agents\n✔ AI Chatbots\n✔ Website design and landing pages\n✔ Marketing automation\n✔ CRM systems\n✔ Business growth strategies\n\nIf you're ready to grow your business, we'd love to help.\n\n📅 Book your FREE one-to-one Digital Marketing Strategy Session\nWe'll discuss:\n• Your current marketing\n• Your website and Google presence\n• AI opportunities for your business\n• Lead generation ideas\n• Practical recommendations with absolutely no obligation\n\n👉 Book your FREE strategy session today:\nhttps://www.bolderdigital.com.au/contact\n\n🌐 Learn more about Bolder Digital\nhttps://www.bolderdigital.com.au\n\n✔ Start your FREE 30-day HighLevel trial\nhttps://www.gohighlevel.com/jarryd-holmes?fp_ref=bolder-digital18\n\n✔ Grow your HighLevel agency with HL Pro Tools\nhttps://www.hlprotools.com?_go=jarryd27\n\n📘 Facebook\nhttps://www.facebook.com/bolderdigi\n\n📸 Instagram\nhttps://www.instagram.com/bolderdigital/\n\nSubscribe for weekly videos covering:\n• Digital Marketing\n• AI Marketing\n• HighLevel\n• Voice AI\n• Websites\n• SEO\n• Business Growth\n• Marketing Automation",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "4YW7I5NCePk": {
+      "checkedAt": "2026-08-23T04:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "In this video I rebuild a project I got paid $1,500 for, using Claude and Orbitagents. Total cost is $15.\n\nTry Orbitagents: https://orbitagents.xyz\n\nIt is a B2B lead generation system. The kind of build businesses hire an automation developer for and pay $1,500 to $4,000 to get. \n\nInstead of wiring it together in n8n, I describe what I want in one prompt and let AI agents scope it, build it and run it.\n\nWHAT WE BUILD\n\nTwo agents that work as a pair, using my own agency Fraima as the example:\n\n1. Lead Scout\nPulls marketing firms founded 10+ years ago from Apollo, targeting UK and US local markets. You can set your own criteria, ICP and signals. Visits their website and social profiles with Apify to find their market focus, recent wins and personalization hooks. Writes every qualified lead into an Orbit tracker with 18 fields.\n\n2. Outreach Architect\nPicks up the Scout's qualified leads, drafts a personalized email off the specific local market data, and pushes each one straight into an Instantly campaign, ready to send. No Instantly account? Connect Gmail or Outlook instead and it sends from there.\n\nBoth then schedule themselves and run daily.\n\nTHE STACK:\n\n- Claude, or Codex, or Hermes, as the execution layer\n- Orbitagents for agent management, shared memory, trackers and provisioned tools\n- Apollo for lead sourcing (provisioned, you don't need your own)\n- Apify for website and social research  (provisioned, you don't need your own)\n- Instantly, or Gmail, for the outreach\n\nNo API keys to buy separately, no n8n build, no technical setup.\n\nGET STARTED\n\norbitagents.xyz is free to start. \n\nSign up and get 100 credits a month and one agnet slot. Three orbits is $8. Adding your own Gmail account is $7. So roughly $15 to run a system that used to be a $1,500 invoice minimum.\n\nTHREE THINGS PEOPLE MISS\n\nYour first run will come back with questions. Answer them properly, they are the same questions a good automation engineer would ask you.\nAgents do not always schedule themselves. Tell it to run daily and confirm the routine shows up.\nSet the agent to bypass permissions before the first scheduled run, otherwise it stops and asks you before every action.\n\nTry Orbit Agents: https://orbitagents.xyz\nJoin the community: https://t.me/+zyIqkrGNYswzOWNk\nTalk to Me: https://calendly.com/jonatan-fraima/30min\n\n\nThis is not limited to lead gen. The same pattern builds AI employees for sales, marketing, research, content and any repetitive operations work. If you are an agency owner, freelancer, automation developer, SaaS founder or a business owner doing your own GTM, this is a working example you can copy today.\n\nI have another video on the LinkedIn outreach and DM qualifier agents if you want to see that side of it.\n\nSubscribe for more on Claude, AI agents and GTM systems that actually run.\n\nCHAPTERS\n\n0:00 The $1,500 project I am about to replace\n2:10 Who this system is for\n3:40 Starting with Orbit Chat: Creating Agent Automation\n2:28 Who this is for\n8:29 Deploying Agents\n12:00 Agent goes Live\n16:00 Results of First Run and Live on Instantly\n\n#AIAgents #Claude #ClaudeCode #AIAutomation #GTM #LeadGeneration #ColdEmail #B2B #SalesAutomation #n8n #OrbitAgents",
+      "commentCount": 0,
+      "likeCount": 1,
+      "probeClient": "web_embedded"
+    },
+    "-Ft_YovLV8U": {
+      "checkedAt": "2026-08-23T04:53:09Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "🔴 You're good at this. Somebody worse is getting paid for it. Fix that in Solo AI ➡️ https://www.skool.com/timenalls\n\n___\n\n💡 Future Business Tech analyzes the AI, capital, and frontier-tech decisions shaping the next decade, and explores the civilizational futures they build toward.\n\nSUBSCRIBE: https://bit.ly/3geLDGO\n\n#ai #technology",
+      "commentCount": 24,
+      "likeCount": 241,
       "probeClient": "web_embedded"
     }
   }
