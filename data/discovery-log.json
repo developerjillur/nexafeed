@@ -1,7 +1,55 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T14:53:45Z",
+  "updatedAt": "2026-08-23T15:53:46Z",
   "items": [
+    {
+      "id": "AhgbthKpncQ",
+      "type": "long",
+      "source": "primary",
+      "channel": "H Gandotra",
+      "publishedAt": "2026-08-23T15:18:01Z",
+      "firstSeenAt": "2026-08-23T15:53:46Z"
+    },
+    {
+      "id": "hnYggi1jyQk",
+      "type": "long",
+      "source": "primary",
+      "channel": "Charlie Automates",
+      "publishedAt": "2026-08-23T15:00:16Z",
+      "firstSeenAt": "2026-08-23T15:53:46Z"
+    },
+    {
+      "id": "DJZISqryDfw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Nick Saraev",
+      "publishedAt": "2026-08-23T14:53:46Z",
+      "firstSeenAt": "2026-08-23T15:53:46Z"
+    },
+    {
+      "id": "G2LsjsPD0Dc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Darsh Jain",
+      "publishedAt": "2026-08-23T13:53:46Z",
+      "firstSeenAt": "2026-08-23T15:53:46Z"
+    },
+    {
+      "id": "89p0VNjtS8E",
+      "type": "short",
+      "source": "secondary",
+      "channel": "FutureGrid AI",
+      "publishedAt": "2026-08-23T11:53:46Z",
+      "firstSeenAt": "2026-08-23T15:53:46Z"
+    },
+    {
+      "id": "oYoKJW8bCG0",
+      "type": "short",
+      "source": "secondary",
+      "channel": "FutureGrid AI",
+      "publishedAt": "2026-08-23T10:53:46Z",
+      "firstSeenAt": "2026-08-23T15:53:46Z"
+    },
     {
       "id": "An_CJNU9nB0",
       "type": "long",
@@ -22589,6 +22637,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-23T15:53:46Z",
+      "new": 6,
+      "long": 4,
+      "shorts": 2,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
