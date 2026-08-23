@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T08:53:12Z",
+  "updatedAt": "2026-08-23T09:53:05Z",
   "items": {
     "fPfPOQYl924": {
       "checkedAt": "2026-08-21T00:53:07Z",
@@ -9212,10 +9212,10 @@
       "probeClient": "web_embedded"
     },
     "2EUiFnKtqXE": {
-      "checkedAt": "2026-08-23T08:53:12Z",
+      "checkedAt": "2026-08-23T09:53:05Z",
       "embedAllowed": false,
-      "availability": "public",
-      "failureReason": "embed_disabled"
+      "availability": "unavailable",
+      "failureReason": "unavailable"
     },
     "-fF1ufNJoho": {
       "checkedAt": "2026-08-23T01:53:06Z",
@@ -9241,7 +9241,7 @@
       "probeClient": "web_embedded"
     },
     "nwG25diUYxo": {
-      "checkedAt": "2026-08-23T08:53:12Z",
+      "checkedAt": "2026-08-23T09:53:05Z",
       "embedAllowed": false,
       "availability": "public",
       "failureReason": "embed_disabled"
@@ -13905,6 +13905,57 @@
       "commentCount": 2,
       "likeCount": 35,
       "probeClient": "web_embedded"
+    },
+    "7HdlEVkhfu0": {
+      "checkedAt": "2026-08-23T09:53:05Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn n8n from scratch in this beginner-friendly tutorial. In just 20 minutes, you'll build your first real automation: a Google Form that feeds into a Google Sheet, and a Slack alert that fires automatically whenever someone submits the form — no code required.\n\nn8n is a powerful workflow automation tool, and once you understand the core idea — data comes in, a trigger catches it, an action runs — you can automate almost anything. This n8n tutorial for beginners gives you that foundation with a practical, real-world automation you can finish today.\n\n🔧 What we built:\n• Google Form → Google Sheet → Slack alert\n• Dynamic Slack message with form data\n• IF filter for smarter automation\n\n💬 What's the first boring task you'll automate? Tell me in the comments.\n\n#n8n #automation #googlesheets #tutorial #n8ntutorial #googleforms #nocode\n\nWatch below videos\nHow top setup n8n locally \nhttps://youtu.be/hwcwNOBQtbc?si=i7-nTHcJnK217Bhn",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "oBuWXUy7stw": {
+      "checkedAt": "2026-08-23T09:53:05Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Free and Open Source! Try now at  https://traycer.ai/worldofai\n\nClaude Code + Codex working TOGETHER is absolutely insane. 🤯 In this video, I test out Traycer, a completely FREE and open-source workspace for coding agents that lets tools like Claude Code, Codex, Cursor, and OpenCode work together inside the same environment.\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\nSomething coming soon :) https://www.skool.com/worldofai-automation\n\n[Must Watch]:\nOpenAI's GPT-6 Astra WILL BE AGI! Greatest AI Model Ever!: https://youtu.be/KbYio-N8_LU\nQwen 3.8 Max IS OUT! Best Open Model? (Fully Tested): https://youtu.be/vmLwsoVRo30\nDeepSeek V4 Flash GA IS INCREDIBLE! Powerful, Cheap, & Fast! (Fully Tested): https://youtu.be/wT42SgaOPK4\n\n📌 LINKS & RESOURCES\nWorld of AI Benchmark: https://www.woaibench.ai/\nAI NEWS: https://x.com/intheworldofai\nWebsite:  https://traycer.ai/worldofai\nGithub Repo: https://github.com/traycerai/traycer\nDocs: https://docs.traycer.ai/\nLaunch Vid: https://x.com/TraycerAI/status/2069759056089415789\n\nInstead of constantly copying prompts, code, and context between different AI coding tools, Traycer gives your agents a shared workspace where they can communicate directly, share context, review each other's work, and coordinate on the same project.\n\nFor our test, I have Claude Code and Codex collaborate to build MarketPulse, a sleek AI-powered market intelligence dashboard featuring portfolio tracking, market insights, financial news, alerts, research tools, and more.\n\nWe put Agent-to-Agent communication to the test and see what happens when Claude Code and Codex can essentially use \"walkie-talkies\" to communicate, request reviews, and work together.\n\n🔥 In this video:\nClaude Code + Codex working together\nAgent-to-Agent communication\nBuilding a full AI market dashboard\nShared context between coding agents\nMulti-agent coding workflows\nBuilt-in agent Skills\nTraycer multiplayer workspaces\nClaude Code & Codex reviewing each other's work\nFree & open-source AI coding\nFull Traycer desktop app demo\n\n🚀 Traycer is FREE & Open Source — try it at Traycer.ai\n\nIf you enjoyed the video, make sure to LIKE, SUBSCRIBE, and turn on notifications for more AI news, models, agents, and tools!\n\n#ClaudeCode #Codex #Traycer #AIAgents #AICoding #OpenSource #CodingAgents #AI #OpenAI #Anthropic\n\nAdditional Tags:\nClaude Code, Codex, Claude Code Codex, Claude Code vs Codex, Claude Code and Codex, Traycer, Traycer AI, Traycer desktop app, AI coding agents, coding agents, agent to agent communication, multi agent coding, AI agent workspace, Claude Code tutorial, Codex tutorial, OpenAI Codex, Anthropic Claude Code, Cursor AI, OpenCode, open source AI, free AI coding tools, AI programming, vibe coding, AI developer tools, agentic coding, multi agent system, coding agent orchestration, AI coding workflow, AI software development, MarketPulse, AI stock dashboard, AI research assistant",
+      "commentCount": 18,
+      "likeCount": 184,
+      "probeClient": "web_embedded"
+    },
+    "2cz6A-SXzRc": {
+      "checkedAt": "2026-08-23T09:53:05Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Learn Make.com from scratch in this complete 2026 beginner's masterclass! In this step-by-step tutorial, you'll learn how to build powerful automations, connect your favorite apps, create AI agents, and save hours of manual work — all without writing a single line of code.\n\nWhether you're new to automation or switching from Zapier, this Make.com tutorial for beginners covers everything you need to start automating your business and workflows in 2026.\n\n⏱️ What you'll learn:\n✅ Make.com basics — scenarios, modules & connections\n✅ How to automate tasks between your favorite apps\n✅ Building AI agents inside Make.com\n✅ Real-world automation examples for beginners\n✅ Tips to save time and avoid common mistakes\n\n🔔 Subscribe for more no-code automation & AI tutorials!\n📌 Drop your questions in the comments — I reply to all of them!\n\n#Make #MakeDotCom #Automation #NoCode #AIAutomation #Zapier #MakeTutorial #NoCodeAutomation #AIAgents #WorkflowAutomation #MakeCourse #AutomationTools #TechTutorial2026 #LearnAutomation #NoCodeTools \n\n#AiDescribed - Priyanshu #artificialintelligence #earningmoney",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "Eq6juUYgLqA": {
+      "checkedAt": "2026-08-23T09:53:05Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "Want to get started with no-code automation? In this n8n tutorial for beginners, I break down exactly how to build your first workflows step-by-step!\n\nFirst, we will build 2 simple workflows to get you comfortable with the n8n canvas. Then, we build a practical, real-world automation that takes data from a trigger event and automatically saves it directly into Google Sheets.\n\n👇The workflow JSON templates here:\nhttps://chums456.app.n8n.cloud/workflow/F3hQMenpfegstJjf\n\nTIMESTAMPS :\n0:00 - Intro\n0:16 - Overview of the workflow\n0:42 - Workflow 1 : The Basics\n2:30 - Workflow 2 : Adding Complexity\n4:45 - How to connect Google Sheets to n8n\n8:35 - Testing the template\n9:00 Wrap up\n\nIf this video helped you, make sure to drop a LIKE and SUBSCRIBE for more no-code and AI automation tutorials!",
+      "commentCount": 1,
+      "likeCount": 2,
+      "probeClient": "web_embedded"
+    },
+    "3BFsLt7udV0": {
+      "checkedAt": "2026-08-23T09:53:05Z",
+      "embedAllowed": true,
+      "availability": "public",
+      "description": "How to create your first automation in n8n in 2026.\n\nIn this step-by-step tutorial, you'll learn how to build your first workflow in n8n and automate repetitive tasks between apps, APIs, and services. This beginner-friendly guide covers workflow creation, triggers, nodes, app connections, credentials, data mapping, testing, execution, activation, and common automation issues.\n\nIn this video, you'll learn:\n\nHow to create your first automation in n8n\n\nHow to start a new workflow\n\nHow to add and configure a trigger node\n\nHow to connect apps and services\n\nHow to map data between workflow steps\n\nHow to test each node and workflow execution\n\nHow to activate and monitor your automation\n\nCommon n8n automation issues and how to fix them\n\nThis tutorial is beginner-friendly and perfect for entrepreneurs, developers, marketers, operations teams, no-code users, and automation beginners who want to build powerful workflows with n8n.\n\nContact for Partnerships: team.learnmodelab@gmail.com",
+      "commentCount": 0,
+      "likeCount": 0,
+      "probeClient": "web_embedded"
+    },
+    "qIjcxleTw4M": {
+      "checkedAt": "2026-08-23T09:53:05Z",
+      "embedAllowed": false,
+      "availability": "public",
+      "failureReason": "embed_disabled"
     }
   }
 }

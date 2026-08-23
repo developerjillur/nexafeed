@@ -1,7 +1,47 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T08:53:12Z",
+  "updatedAt": "2026-08-23T09:53:05Z",
   "items": [
+    {
+      "id": "7HdlEVkhfu0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Sumit Kumar",
+      "publishedAt": "2026-08-23T08:53:05Z",
+      "firstSeenAt": "2026-08-23T09:53:05Z"
+    },
+    {
+      "id": "oBuWXUy7stw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "WorldofAI",
+      "publishedAt": "2026-08-23T06:53:05Z",
+      "firstSeenAt": "2026-08-23T09:53:05Z"
+    },
+    {
+      "id": "2cz6A-SXzRc",
+      "type": "long",
+      "source": "secondary",
+      "channel": "AiDescribed - Priyanshu",
+      "publishedAt": "2026-08-23T04:53:05Z",
+      "firstSeenAt": "2026-08-23T09:53:05Z"
+    },
+    {
+      "id": "Eq6juUYgLqA",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Chami Tech box",
+      "publishedAt": "2026-08-23T00:53:05Z",
+      "firstSeenAt": "2026-08-23T09:53:05Z"
+    },
+    {
+      "id": "3BFsLt7udV0",
+      "type": "short",
+      "source": "secondary",
+      "channel": "Learn Mode Lab",
+      "publishedAt": "2026-08-23T00:53:05Z",
+      "firstSeenAt": "2026-08-23T09:53:05Z"
+    },
     {
       "id": "t8qhXnJJeQ8",
       "type": "long",
@@ -22303,6 +22343,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "generative AI tools"
+    },
+    {
+      "runAt": "2026-08-23T09:53:05Z",
+      "new": 5,
+      "long": 4,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "no-code automation"
     }
   ]
 }
