@@ -1,7 +1,39 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T20:53:25Z",
+  "updatedAt": "2026-08-23T21:53:26Z",
   "items": [
+    {
+      "id": "w13YkrOY7fY",
+      "type": "short",
+      "source": "secondary",
+      "channel": "TunaDev",
+      "publishedAt": "2026-08-23T16:53:26Z",
+      "firstSeenAt": "2026-08-23T21:53:26Z"
+    },
+    {
+      "id": "EGU_ZJph0wk",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Web Tech Knowledge",
+      "publishedAt": "2026-08-23T16:53:26Z",
+      "firstSeenAt": "2026-08-23T21:53:26Z"
+    },
+    {
+      "id": "mvNEiMG7oWU",
+      "type": "long",
+      "source": "secondary",
+      "channel": "CodeWithPrashant",
+      "publishedAt": "2026-08-23T15:53:26Z",
+      "firstSeenAt": "2026-08-23T21:53:26Z"
+    },
+    {
+      "id": "tIleL7dExPo",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Philipp Lackner",
+      "publishedAt": "2026-08-23T11:53:26Z",
+      "firstSeenAt": "2026-08-23T21:53:26Z"
+    },
     {
       "id": "W7_RNmzrPdI",
       "type": "long",
@@ -22931,6 +22963,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "no-code automation"
+    },
+    {
+      "runAt": "2026-08-23T21:53:26Z",
+      "new": 4,
+      "long": 3,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI software development"
     }
   ]
 }
