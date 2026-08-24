@@ -1,7 +1,15 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T01:53:10Z",
+  "updatedAt": "2026-08-24T02:53:18Z",
   "items": [
+    {
+      "id": "8ILgTMdQ5lQ",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Emran - TechFin",
+      "publishedAt": "2026-08-23T20:53:18Z",
+      "firstSeenAt": "2026-08-24T02:53:18Z"
+    },
     {
       "id": "qAfISga3xt0",
       "type": "long",
@@ -23112,6 +23120,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "AI coding tools"
+    },
+    {
+      "runAt": "2026-08-24T02:53:18Z",
+      "new": 1,
+      "long": 1,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "agency automation"
     }
   ]
 }
