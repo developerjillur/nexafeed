@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T23:53:11Z",
+  "updatedAt": "2026-08-24T00:53:21Z",
   "items": [
+    {
+      "id": "L8q9VlR68Do",
+      "type": "short",
+      "source": "primary",
+      "channel": "Brendan Automation",
+      "publishedAt": "2026-08-24T00:22:38Z",
+      "firstSeenAt": "2026-08-24T00:53:21Z"
+    },
+    {
+      "id": "dtI5R8MBlK4",
+      "type": "long",
+      "source": "secondary",
+      "channel": "ConflictNerd",
+      "publishedAt": "2026-08-23T16:53:21Z",
+      "firstSeenAt": "2026-08-24T00:53:21Z"
+    },
+    {
+      "id": "xLQgOzK1adE",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Web Dev Cody",
+      "publishedAt": "2026-08-23T14:53:21Z",
+      "firstSeenAt": "2026-08-24T00:53:21Z"
+    },
     {
       "id": "1p-rMMHzzQI",
       "type": "long",
@@ -23054,6 +23078,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Automation"
+    },
+    {
+      "runAt": "2026-08-24T00:53:21Z",
+      "new": 3,
+      "long": 2,
+      "shorts": 1,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "Software Development"
     }
   ]
 }
