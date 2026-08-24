@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T00:53:21Z",
+  "updatedAt": "2026-08-24T01:53:10Z",
   "items": [
+    {
+      "id": "qAfISga3xt0",
+      "type": "long",
+      "source": "secondary",
+      "channel": "Memuna Gul",
+      "publishedAt": "2026-08-23T14:53:10Z",
+      "firstSeenAt": "2026-08-24T01:53:10Z"
+    },
+    {
+      "id": "TeXXyX0Nqnw",
+      "type": "long",
+      "source": "secondary",
+      "channel": "S3CloudHub",
+      "publishedAt": "2026-08-23T13:53:10Z",
+      "firstSeenAt": "2026-08-24T01:53:10Z"
+    },
     {
       "id": "L8q9VlR68Do",
       "type": "short",
@@ -23087,6 +23103,15 @@
       "channelsChecked": 33,
       "warnings": 0,
       "secondaryQuery": "Software Development"
+    },
+    {
+      "runAt": "2026-08-24T01:53:10Z",
+      "new": 2,
+      "long": 2,
+      "shorts": 0,
+      "channelsChecked": 33,
+      "warnings": 0,
+      "secondaryQuery": "AI coding tools"
     }
   ]
 }
